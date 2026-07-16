@@ -26,11 +26,28 @@ jobs:
           zip -r dataset.zip data/datasets/ data/sharded/
           echo "Dataset zipped: $(du -h dataset.zip | cut -f1)"
 
-      - name: Create Zenodo deposition with metadata
+      - name: Create Zenodo deposition
         id: create
         env:
           ZENODO_TOKEN: ${{ secrets.ZENODO_TOKEN }}
         run: |
+          RESPONSE=$(curl -s -X POST \
+            -H "Content-Type: application/json" \
+            -H "Authorization: Bearer $ZENODO_TOKEN" \
+            "https://zenodo.org/api/deposit/depositions" \
+            -d '{}')
+          echo "Create response: $RESPONSE"
+          DEPOSITION_ID=$(echo "$RESPONSE" | python3 -c "import sys,json; d=json.load(sys.stdin); print(d.get('id', 'UNKNOWN'))")
+          BUCKET_URL=$(echo "$RESPONSE" | python3 -c "import sys,json; d=json.load(sys.stdin); print(d.get('links',{}).get('bucket', 'UNKNOWN'))")
+          echo "deposition_id=$DEPOSITION_ID" >> "$GITHUB_OUTPUT"
+          echo "bucket_url=$BUCKET_URL" >> "$GITHUB_OUTPUT"
+          echo "Created deposition $DEPOSITION_ID, bucket: $BUCKET_URL"
+
+      - name: Update deposition metadata
+        env:
+          ZENODO_TOKEN: ${{ secrets.ZENODO_TOKEN }}
+        run: |
+          DEPOSITION_ID="${{ steps.create.outputs.deposition_id }}"
           METADATA=$(python3 -c "
           import json
           zenodo = json.load(open('.zenodo.json'))
@@ -42,24 +59,19 @@ jobs:
                   'title': zenodo['title'],
                   'creators': zenodo['creators'],
                   'description': zenodo.get('description', ''),
-                  'resource_type': 'dataset',
+                  'resource_type': {'type': 'dataset'},
                   'license': lic,
                   'keywords': zenodo.get('keywords', []),
                   'access_right': 'open'
               }
           }))")
-          echo "Metadata: $METADATA"
-          RESPONSE=$(curl -s -X POST \
+          echo "Updating metadata: $METADATA"
+          UPDATE_RESP=$(curl -s -X PUT \
             -H "Content-Type: application/json" \
             -H "Authorization: Bearer $ZENODO_TOKEN" \
-            "https://zenodo.org/api/deposit/depositions" \
+            "https://zenodo.org/api/deposit/depositions/$DEPOSITION_ID" \
             -d "$METADATA")
-          echo "Create response: $RESPONSE"
-          DEPOSITION_ID=$(echo "$RESPONSE" | python3 -c "import sys,json; d=json.load(sys.stdin); print(d.get('id', 'UNKNOWN'))")
-          BUCKET_URL=$(echo "$RESPONSE" | python3 -c "import sys,json; d=json.load(sys.stdin); print(d.get('links',{}).get('bucket', 'UNKNOWN'))")
-          echo "deposition_id=$DEPOSITION_ID" >> "$GITHUB_OUTPUT"
-          echo "bucket_url=$BUCKET_URL" >> "$GITHUB_OUTPUT"
-          echo "Created deposition $DEPOSITION_ID, bucket: $BUCKET_URL"
+          echo "Update response: $UPDATE_RESP"
 
       - name: Upload dataset to Zenodo
         env:
