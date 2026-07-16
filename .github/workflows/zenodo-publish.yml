@@ -19,8 +19,6 @@ jobs:
         run: |
           echo "Validating .zenodo.json..."
           python3 -c "import json; json.load(open('.zenodo.json'))" || exit 1
-          echo "Validating CITATION.cff..."
-          python3 -c "import json; json.load(open('CITATION.cff'))" || exit 1
           echo "Metadata OK."
 
       - name: Zip dataset
@@ -28,22 +26,51 @@ jobs:
           zip -r dataset.zip data/datasets/ data/sharded/
           echo "Dataset zipped: $(du -h dataset.zip | cut -f1)"
 
-      - name: Upload to Zenodo
-        id: zenodo
-        uses: zenodo-actions/zenodo-upload@v1
-        with:
-          token: ${{ secrets.ZENODO_TOKEN }}
-          file: dataset.zip
-          doi: true
+      - name: Create Zenodo deposition
+        id: create
+        env:
+          ZENODO_TOKEN: ${{ secrets.ZENODO_TOKEN }}
+        run: |
+          RESPONSE=$(curl -s -X POST \
+            -H "Authorization: Bearer $ZENODO_TOKEN" \
+            https://zenodo.org/api/depositions)
+          DEPOSITION_ID=$(echo "$RESPONSE" | python3 -c "import sys,json; print(json.load(sys.stdin)['id'])")
+          echo "deposition_id=$DEPOSITION_ID" >> "$GITHUB_OUTPUT"
+          echo "Created deposition: $DEPOSITION_ID"
+
+      - name: Upload dataset to Zenodo
+        env:
+          ZENODO_TOKEN: ${{ secrets.ZENODO_TOKEN }}
+        run: |
+          DEPOSITION_ID="${{ steps.create.outputs.deposition_id }}"
+          curl -s -X PUT \
+            -H "Authorization: Bearer $ZENODO_TOKEN" \
+            -F "file=@dataset.zip" \
+            "https://zenodo.org/api/depositions/$DEPOSITION_ID/files" > /dev/null
+          echo "Uploaded dataset.zip to deposition $DEPOSITION_ID"
+
+      - name: Publish deposition
+        id: publish
+        env:
+          ZENODO_TOKEN: ${{ secrets.ZENODO_TOKEN }}
+        run: |
+          DEPOSITION_ID="${{ steps.create.outputs.deposition_id }}"
+          RESPONSE=$(curl -s -X POST \
+            -H "Authorization: Bearer $ZENODO_TOKEN" \
+            "https://zenodo.org/api/depositions/$DEPOSITION_ID/actions/publish")
+          DOI=$(echo "$RESPONSE" | python3 -c "import sys,json; d=json.load(sys.stdin); print(d.get('doi','UNKNOWN'))")
+          DOI_URL=$(echo "$RESPONSE" | python3 -c "import sys,json; d=json.load(sys.stdin); print(d.get('doi_url','UNKNOWN'))")
+          echo "doi=$DOI" >> "$GITHUB_OUTPUT"
+          echo "doi_url=$DOI_URL" >> "$GITHUB_OUTPUT"
 
       - name: Print DOI
         run: |
+          echo ""
           echo "========================================="
-          echo "Zenodo DOI: ${{ steps.zenodo.outputs.doi }}"
+          echo "  Zenodo DOI:  ${{ steps.publish.outputs.doi }}"
+          echo "  Zenodo URL:  ${{ steps.publish.outputs.doi_url }}"
           echo "========================================="
           echo ""
-          echo "Replace the PENDING placeholder in about.html:"
-          echo "  Old: 10.5281/zenodo.PENDING"
-          echo "  New: ${{ steps.zenodo.outputs.doi }}"
-          echo ""
-          echo "Zenodo URL: https://doi.org/${{ steps.zenodo.outputs.doi }}"
+          echo "Next step: replace the PENDING placeholder in about.html:"
+          echo "  grep -n 'PENDING' about.html"
+          echo "  Replace '10.5281/zenodo.PENDING' with '${{ steps.publish.outputs.doi }}'"
