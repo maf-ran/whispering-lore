@@ -14,14 +14,14 @@ class StoriesViewer extends BaseViewer {
 
   estimateReadingTime(text) {
     if (!text) return '1 min read';
-    var words = text.trim().split(/\\s+/).length;
+    var words = text.trim().split(/\s+/).length;
     var minutes = Math.max(1, Math.ceil(words / 200));
     return minutes + ' min read';
   }
 
   renderStoryText(text) {
     if (!text) return '<p class="story-empty-text">Full text not yet transcribed. Our archivists are working on it.</p>';
-    var paras = text.split('\\n').filter(Boolean);
+    var paras = text.split('\n').filter(Boolean);
     return paras.map(p => '<p>' + window.__sharedUtils.escapeXml(p) + '</p>').join('');
   }
 

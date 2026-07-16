@@ -286,9 +286,6 @@ nav a.active::after {
 }
 .btn-ghost {
   white-space: nowrap;
-}
-
-.btn-ghost {
   display: inline-flex;
   align-items: center;
   padding: 0.75rem 2rem;
@@ -1390,6 +1387,9 @@ nav a.active::after {
   opacity: 0;
   transform: translateY(12px);
   animation: detailSectionIn 0.3s ease forwards;
+  margin-bottom: 1.5rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid var(--border);
 }
 
 .detail-section:nth-child(1) { animation-delay: 0.05s; }
@@ -1465,14 +1465,6 @@ nav a.active::after {
 .source-badge--primary {
   color: #22c55e;
   border-color: #22c55e;
-}
-
-
-
-.detail-section {
-  margin-bottom: 1.5rem;
-  padding-bottom: 1.5rem;
-  border-bottom: 1px solid var(--border);
 }
 
 .detail-section:last-child {
@@ -3349,5 +3341,28 @@ header .theme-toggle {
   color: var(--text-secondary);
   text-align: center;
   grid-column: 1 / -1;
+}
+
+/* ── Footer utilities ── */
+.footer-tagline {
+  margin-top: 0.25rem;
+  font-size: 0.7rem;
+}
+
+.logo-mark-icon {
+  width: 0.9em;
+  height: 0.9em;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+/* ── Grid section utilities ── */
+.grid-section-nopad {
+  padding-top: 0;
+}
+
+.load-more-container {
+  text-align: center;
+  margin-top: 2rem;
 }
 

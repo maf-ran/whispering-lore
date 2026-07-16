@@ -35,7 +35,7 @@ export class BaseViewer {
     var startVal = numMatch ? parseInt(numMatch[0]) : 0;
     
     var total = 0;
-    var man = window.__SHARD_MANIFEST || (window.__sharedUtils && window.__sharedUtils.Shimmer && window.__sharedUtils.Shimmer.manifest);
+    var man = window.__sharedUtils && window.__sharedUtils.Shimmer && window.__sharedUtils.Shimmer.manifest;
     if (man && man[this.type] && man[this.type].total) {
       total = man[this.type].total;
     } else if (this.cache) {

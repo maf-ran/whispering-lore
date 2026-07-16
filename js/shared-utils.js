@@ -506,6 +506,40 @@
         clearTimeout(timer);
         timer = setTimeout(function() { fn.apply(ctx, args); }, ms || 150);
       };
+    },
+
+    // Normalize creature type aliases to canonical forms
+    TYPE_ALIAS_MAP: {
+      'dragon': 'dragon', 'dragon-like': 'dragon', 'sea-serpent': 'dragon', 'wyrm': 'dragon',
+      'drake': 'dragon', 'wyvern': 'dragon', 'serpent-dragon': 'dragon', 'water-dragon': 'dragon',
+      'sky-dragon': 'dragon', 'ghost': 'ghost', 'phantom': 'ghost', 'spectre': 'ghost',
+      'wraith': 'ghost', 'spirit-ghost': 'ghost', 'demon': 'demon', 'devil': 'demon',
+      'fiend': 'demon', 'evil-spirit': 'demon', 'monster': 'monster', 'beast': 'monster',
+      'leviathan': 'monster', 'chimera': 'monster', 'goblin': 'goblin', 'hobgoblin': 'goblin',
+      'imp': 'goblin', 'fairy': 'fairy', 'faerie': 'fairy', 'fae': 'fairy', 'elf': 'fairy',
+      'pixie': 'fairy', 'sprite': 'fairy', 'undead': 'undead', 'zombie': 'undead',
+      'skeleton': 'undead', 'lich': 'undead', 'vampire': 'vampire', 'vampiric-entity': 'vampire',
+      'werewolf': 'werewolf', 'lycanthrope': 'werewolf', 'wolfman': 'werewolf',
+      'shape-shifter': 'shapeshifter', 'shapeshifter': 'shapeshifter', 'transformer': 'shapeshifter',
+      'giant': 'giant', 'ogre': 'giant', 'ettin': 'giant', 'jotunn': 'giant', 'cyclops': 'giant',
+      'troll': 'troll', 'water-horse': 'water-horse', 'kelpie': 'water-horse', 'each-uisge': 'water-horse',
+      'water-spirit': 'water-spirit', 'merperson': 'water-spirit', 'mermaid': 'water-spirit',
+      'merman': 'water-spirit', 'siren': 'water-spirit', 'nymph': 'water-spirit', 'naiad': 'water-spirit',
+      'undine': 'water-spirit', 'nature-spirit': 'nature-spirit', 'forest-spirit': 'nature-spirit',
+      'wood-spirit': 'nature-spirit', 'tree-spirit': 'nature-spirit', 'dryad': 'nature-spirit',
+      'household-spirit': 'household-spirit', 'domovoi': 'household-spirit', 'brownie': 'household-spirit',
+      'hob': 'household-spirit', 'ancestor-spirit': 'ancestor-spirit', 'ancestor': 'ancestor-spirit',
+      'animal-spirit': 'animal-spirit', 'totem': 'animal-spirit', 'guardian': 'guardian',
+      'guardian-spirit': 'guardian', 'protector': 'guardian', 'deity': 'deity', 'god': 'deity',
+      'goddess': 'deity', 'lesser-god': 'deity', 'trickster': 'trickster', 'culture-hero': 'trickster',
+      'spirit': 'spirit', 'elemental': 'elemental', 'air-elemental': 'elemental',
+      'fire-elemental': 'elemental', 'water-elemental': 'elemental', 'earth-elemental': 'elemental'
+    },
+
+    normalizeType: function(rawType) {
+      if (!rawType) return 'unknown';
+      var key = rawType.toLowerCase().trim();
+      return window.__sharedUtils.TYPE_ALIAS_MAP[key] || key;
     }
   }
 })()

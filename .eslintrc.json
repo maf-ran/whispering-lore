@@ -17,5 +17,5 @@
     "prefer-const": "warn",
     "eqeqeq": ["warn", "always"]
   },
-  "ignorePatterns": ["node_modules/", "data/", "output/", "js/stories-data.js"]
+  "ignorePatterns": ["node_modules/", "data/", "output/"]
 }
