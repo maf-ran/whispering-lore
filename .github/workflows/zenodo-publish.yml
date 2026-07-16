@@ -26,16 +26,31 @@ jobs:
           zip -r dataset.zip data/datasets/ data/sharded/
           echo "Dataset zipped: $(du -h dataset.zip | cut -f1)"
 
-      - name: Create Zenodo deposition
+      - name: Create Zenodo deposition with metadata
         id: create
         env:
           ZENODO_TOKEN: ${{ secrets.ZENODO_TOKEN }}
         run: |
+          METADATA=$(python3 -c "
+          import json
+          zenodo = json.load(open('.zenodo.json'))
+          print(json.dumps({
+              'metadata': {
+                  'title': zenodo['title'],
+                  'creators': zenodo['creators'],
+                  'description': zenodo.get('description', ''),
+                  'resource_type': {'type': 'dataset'},
+                  'license': zenodo.get('license', {}).get('id', 'CC-BY-4.0'),
+                  'keywords': zenodo.get('keywords', []),
+                  'access_right': 'open'
+              }
+          }))")
+          echo "Metadata: $METADATA"
           RESPONSE=$(curl -s -X POST \
             -H "Content-Type: application/json" \
             -H "Authorization: Bearer $ZENODO_TOKEN" \
             "https://zenodo.org/api/deposit/depositions" \
-            -d '{"metadata": {}}')
+            -d "$METADATA")
           echo "Create response: $RESPONSE"
           DEPOSITION_ID=$(echo "$RESPONSE" | python3 -c "import sys,json; d=json.load(sys.stdin); print(d.get('id', 'UNKNOWN'))")
           BUCKET_URL=$(echo "$RESPONSE" | python3 -c "import sys,json; d=json.load(sys.stdin); print(d.get('links',{}).get('bucket', 'UNKNOWN'))")
