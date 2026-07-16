@@ -349,7 +349,7 @@
         }
       }
       // Need to load the batch
-      var first = slug[0] || '_';
+      var first = slug.replace(/^(the|a|an)-/, '')[0] || '_';
       var self = this;
       this.loadSlugBatch(type, first, function(err, data) {
         if (err || !data) { callback(new Error('item not found: ' + slug)); return; }

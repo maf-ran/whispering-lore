@@ -2644,7 +2644,7 @@
       "wandering",
       "soul"
     ],
-    "schema_org_type": "Thing",
+    "schema_org_type": "MythicalCreature",
     "seo_title": "Irrbloss (Lyktgubbe) – The Wandering Ghost Light of Swedish Folklore",
     "seo_description": "Explore the Irrbloss, Sweden's ghostly will-o'-the-wisp. Learn about this wandering flame that leads travelers astray through marshes and ancient roads.",
     "motifs": [
@@ -2666,7 +2666,10 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "countries": [
+      "Sweden"
+    ]
   },
   {
     "id": "ilmatar-finland-0001",
@@ -3143,7 +3146,6 @@
     ],
     "tags": [],
     "tribe": "Chinook",
-    "creatures": null,
     "source": "Franz Boas, Chinook Texts (1894)",
     "stories": [
       "blue-jay-visits-ghost-town-chinook---ioi-and-blue-jay",
@@ -3316,7 +3318,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "featured_in_stories": [],
     "source": "Yoruba religion — Ibeji sacred twins documented in traditional Ifá corpus and Yoruba art history.",
     "source_quality": "expert",
@@ -3397,7 +3398,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "featured_in_stories": [],
     "source": "Igbo oral tradition, Odinani, Wikipedia",
     "source_quality": "good",
@@ -3476,7 +3476,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "featured_in_stories": [],
     "source": "Micronesian oral tradition — Isokelekel is a culture hero documented in Pohnpeian oral tradition.",
     "source_quality": "good",

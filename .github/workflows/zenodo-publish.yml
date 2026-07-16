@@ -5,6 +5,9 @@ on:
     tags:
       - 'v*'
 
+permissions:
+  contents: read
+
 jobs:
   publish:
     runs-on: ubuntu-latest
@@ -12,13 +15,35 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Zip Dataset
+      - name: Validate metadata
         run: |
-          zip -r dataset.zip data/
+          echo "Validating .zenodo.json..."
+          python3 -c "import json; json.load(open('.zenodo.json'))" || exit 1
+          echo "Validating CITATION.cff..."
+          python3 -c "import json; json.load(open('CITATION.cff'))" || exit 1
+          echo "Metadata OK."
+
+      - name: Zip dataset
+        run: |
+          zip -r dataset.zip data/datasets/ data/sharded/
+          echo "Dataset zipped: $(du -h dataset.zip | cut -f1)"
 
       - name: Upload to Zenodo
+        id: zenodo
         uses: zenodo-actions/zenodo-upload@v1
         with:
           token: ${{ secrets.ZENODO_TOKEN }}
           file: dataset.zip
           doi: true
+
+      - name: Print DOI
+        run: |
+          echo "========================================="
+          echo "Zenodo DOI: ${{ steps.zenodo.outputs.doi }}"
+          echo "========================================="
+          echo ""
+          echo "Replace the PENDING placeholder in about.html:"
+          echo "  Old: 10.5281/zenodo.PENDING"
+          echo "  New: ${{ steps.zenodo.outputs.doi }}"
+          echo ""
+          echo "Zenodo URL: https://doi.org/${{ steps.zenodo.outputs.doi }}"

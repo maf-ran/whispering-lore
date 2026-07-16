@@ -1472,7 +1472,7 @@
       "chimeric",
       "olaus magnus"
     ],
-    "schema_org_type": "Thing",
+    "schema_org_type": "MythicalCreature",
     "seo_title": "Jerff (Gulon) – The Gluttonous Beast of Swedish Folklore",
     "seo_description": "Discover the Jerff, the legendary glutton-beast of Swedish folklore documented by Olaus Magnus. A chimeric creature that embodies insatiable appetite.",
     "motifs": [
@@ -1491,7 +1491,10 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "countries": [
+      "Sweden"
+    ]
   },
   {
     "id": "jatte-3481",
@@ -1574,7 +1577,7 @@
       "church",
       "landscape"
     ],
-    "schema_org_type": "Thing",
+    "schema_org_type": "MythicalCreature",
     "seo_title": "Jätte (Jättar) – The Colossal Stone-Throwing Giants of Swedish Folklore",
     "seo_description": "Explore the Jättar, the formidable giants of Swedish folklore who threw enormous boulders at churches and left their mark on the landscape.",
     "motifs": [
@@ -1604,7 +1607,10 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "countries": [
+      "Sweden"
+    ]
   },
   {
     "id": "joukahainen-finland-0001",
@@ -2059,7 +2065,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "seo_description": "",
     "source": "African-American folklore; John Henry is the legendary steel-driving man.",
     "stories": [
@@ -2154,7 +2159,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "source": "Charles C. Jones, Negro Myths from the Georgia Coast (1888)",
     "stories": [
       "will-scarlet"
@@ -2235,7 +2239,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "source": "Charles C. Jones, Negro Myths from the Georgia Coast (1888)",
     "stories": [
       "the-jack-ball-a-conjure-tale",
@@ -2314,7 +2317,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "featured_in_stories": [],
     "source": "Aboriginal Australian mythology; the Rainbow Serpent in Yolngu tradition.",
     "source_quality": "expert",

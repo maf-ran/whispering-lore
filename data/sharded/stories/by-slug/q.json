@@ -1,5 +1,37 @@
 [
   {
+    "id": "story141",
+    "title": "The Queen Bee",
+    "country": "Germany",
+    "continent": "Europe",
+    "region": "German",
+    "type": "fairy-tale",
+    "summary": "Two kings' sons once set out on a grand adventure, but they fell into wild and reckless ways and never returned home.",
+    "full_text": "Two kings' sons once set out on a grand adventure, but they fell into wild and reckless ways and never returned home. Their younger brother, whom everyone called Simpleton, went to seek them. When he found them at last, they laughed at him, saying he was too simple to make his way in the world. But they continued on together, traveling through strange lands.\n\nThey came upon an anthill, and the elder brothers wanted to stir it up for sport, to watch the ants scatter in panic. But Simpleton said, \"Leave the little creatures in peace. I will not allow them to be disturbed.\" The brothers sneered but moved on.\n\nThey reached a lake where a flock of ducks swam peacefully. The elder brothers wanted to catch and roast them, but Simpleton said, \"Leave the creatures alone. I will not allow you to kill them.\"\n\nNext, they found a beehive overflowing with honey. The elder brothers wanted to build a fire beneath the tree to suffocate the bees and take the honey. But Simpleton said, \"Leave the creatures alone. I will not allow them to be burned.\"\n\nAt last, they came to a great castle, where stone horses stood in the stables and no living soul was to be seen. They explored every hall until they reached a door secured with three heavy locks, and through a small opening, they saw a tiny gray-haired man sitting at a table. They called to him three times before he rose, unlocked the door, and silently led them to a table laden with food and wine. After they ate, he showed them to their chambers.\n\nIn the morning, the gray man took the eldest brother to a stone table where three tasks were inscribed. The first task was to gather a thousand pearls hidden in the moss of the forest. If a single pearl was missing by sunset, the seeker would turn to stone. The eldest brother searched all day but found only a hundred. As the sun set, he was turned to stone.\n\nThe second brother tried the next day but found only two hundred pearls. He too became stone.\n\nThen Simpleton took his turn. He searched through the moss slowly, finding a pearl here and another there. He grew discouraged, for the task seemed impossible. But the ants he had protected came to his aid. Hundreds of ants scuttled through the moss, finding every pearl and carrying them to a single pile. By sunset, all one thousand pearls were gathered.\n\nThe second task was to retrieve the key to the princess's chamber from the bottom of a lake. Simpleton stood at the shore, helpless. The ducks he had saved swam to him, dove into the water, and brought up the key in their beaks.\n\nThe third task was to identify the youngest and most beautiful of three sleeping princesses, who looked exactly alike. Simpleton did not know how to choose. But the queen bee he had protected flew to his side and landed on the lips of the youngest princess, for she was the sweetest of all.\n\nThus, Simpleton broke the castle's enchantment and freed his brothers from their stone prisons. He married the youngest princess and became king, ruling wisely and kindly, and the animals he had befriended always remembered his kindness.",
+    "themes": [
+      "bee",
+      "queen",
+      "kindness"
+    ],
+    "moral": "Kindness wins.",
+    "source": "Brothers Grimm",
+    "period": "1812",
+    "keywords": [
+      "bee",
+      "castle",
+      "princess",
+      "honey"
+    ],
+    "creatures": [
+      "bee-goddess"
+    ],
+    "source_quality": "unknown",
+    "slug": "the-queen-bee",
+    "version": "1.0.0",
+    "lastUpdated": "2026-07-05",
+    "source_type": "literary"
+  },
+  {
     "id": "story263",
     "title": "Quetzalcoatl",
     "country": "Mexico",
@@ -32,8 +64,7 @@
     "slug": "quetzalcoatl-story",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "literary",
-    "schema_org_type": "MythicalCreature"
+    "source_type": "literary"
   },
   {
     "id": "story392",
@@ -72,8 +103,7 @@
     "slug": "queen-abla-pokou-the-mother-of-the-baoule-people",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition",
-    "schema_org_type": "MythicalCreature"
+    "source_type": "oral_tradition"
   },
   {
     "id": "story424",
@@ -108,8 +138,81 @@
     "slug": "queen-crane",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition",
-    "schema_org_type": "MythicalCreature"
+    "source_type": "oral_tradition"
+  },
+  {
+    "id": "story456",
+    "title": "The Queen",
+    "country": "Sweden",
+    "continent": "Europe",
+    "region": "Nordic",
+    "type": "fairy-tale",
+    "summary": "Queen Adelgunda possesses a remarkable gift: she can see into the hearts of men. This power makes her a wise and just ruler, but it also creates complications. When the noble Sigmund — whom the queen secretly loves — is accused of dishonorable intentions, the queen's gift suggests his guilt. To save Sigmund from the dishonor that her veiled judgment implies, Adelgunda must make a painful choice: reveal her own love for him, risking her reputation and position, or allow an innocent man to be condemned. The story follows the queen's internal struggle as she balances her public duty with her private heart. In a climactic moment, she chooses love and truth over safety and appearances, baring her soul to save the man she loves. The story is notable for its psychological depth and focus on a female protagonist who holds real power and must navigate complex emotional and political terrain. Anna Wahlenberg, who wrote over 200 fairy tales, was known for embedding social commentary and feminist themes in her stories. 'The Queen' exemplifies her ability to combine traditional fairy tale enchantment with nuanced human emotion, portraying a ruler whose supernatural gift becomes a burden that only love can truly overcome.",
+    "full_text": "",
+    "themes": [
+      "love and duty",
+      "sacrifice",
+      "truth",
+      "queenship",
+      "seeing hearts"
+    ],
+    "moral": "True love requires the courage to be vulnerable and the willingness to sacrifice for another.",
+    "source": "Great Swedish Fairy Tales, 1973. Originally published as 'Drottningen' (1903) by Anna Wahlenberg. Also appears in 'The Diamond Bird and Other Tales' (1969, Doubleday).",
+    "period": "modern",
+    "keywords": [
+      "queen",
+      "Adelgunda",
+      "Sigmund",
+      "seeing hearts",
+      "love",
+      "sacrifice",
+      "honor"
+    ],
+    "creatures": [
+      "mandukhai-mongol"
+    ],
+    "source_quality": "good",
+    "slug": "the-queen",
+    "version": "1.0.0",
+    "lastUpdated": "2026-07-05",
+    "source_type": "oral_tradition"
+  },
+  {
+    "id": "story464",
+    "title": "The Queen's Necklace",
+    "country": "Sweden",
+    "continent": "Europe",
+    "region": "Scandinavian",
+    "type": "fairy-tale",
+    "summary": "The cruel King Hendrik possesses a necklace of one hundred perfect pearls. He forces his nephew to find him a wife, and the kind Blanzeflor is chosen. On their wedding day, the king fastens the pearls around her neck with a threat: the day she is found without them will be her last. Blanzeflor, trapped in a cold marriage, gives away the pearls one by one to help the needy. When the king discovers the necklace is gone, he sentences her to death, but the birds she befriended rescue her and tear the wicked king to pieces.",
+    "full_text": "A cruel and greedy king named Hendrik possesses a necklace of one hundred perfect pearls, which he prizes above all his treasures. He sends his nephew, Nils, to find him a wife. Nils returns with the kind and beautiful Blanzeflor. On their wedding day, the king fastens the pearls around her neck with a terrible warning: 'The day I find you without them will be your last.' Blanzeflor, trapped in a cold marriage, finds her only happiness in feeding the birds. She begins giving away the pearls one by one to help the needy villagers — the poor, the sick, the hungry — each pearl buying food or warmth for someone desperate. When the king discovers the necklace is gone, he sentences her to death. On the morning of her execution, however, the birds she befriended come to her cell, rescue her, and tear the wicked king to pieces, freeing the villagers from his tyranny. Blanzeflor then marries her true love, Nils, and they live in peace.",
+    "themes": [
+      "kindness",
+      "cruelty",
+      "rescue",
+      "generosity",
+      "justice"
+    ],
+    "moral": "Kindness to the smallest creatures can bring the greatest deliverance.",
+    "source": "Bland tomtar och troll, 1914 (Anna Wahlenberg). English translation in An Illustrated Treasury of Swedish Folk and Fairy Tales (Floris Books, 2019).",
+    "period": "modern",
+    "keywords": [
+      "queen",
+      "necklace",
+      "pearls",
+      "birds",
+      "king",
+      "blanzeflor",
+      "anna wahlenberg"
+    ],
+    "creatures": [
+      "mandukhai-mongol"
+    ],
+    "source_quality": "good",
+    "slug": "the-queens-necklace",
+    "version": "1.0.0",
+    "lastUpdated": "2026-07-05",
+    "source_type": "oral_tradition"
   },
   {
     "id": "story1128",
@@ -129,8 +232,25 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition",
-    "schema_org_type": "MythicalCreature"
+    "source_type": "oral_tradition"
+  },
+  {
+    "id": "story1199",
+    "title": "The Quilting Party Ghost",
+    "country": "United States",
+    "region": "North American",
+    "type": "folktale",
+    "summary": "A classic Gullah ghost story set in the Sea Islands of Georgia. A group of women gathered for a quilting party at an old cabin on St. Helena Island. As they worked on the quilt by lantern light, they told stories to pass the night. An old woman named Sarah, whose grandmother had been enslaved on the plantation before the Civil War, told them about the cabin's history. It was said that a young enslaved woman named Liza had died there, waiting for her husband who had been sold away. As Sarah finished the story, the women heard footsteps on the porch. The door creaked open, and a young woman in an old-fashioned dress stood there, looking at the quilting frame. The women froze, recognizing the description Sarah had just given. The ghost smiled sadly, touched the quilt, and vanished. After that night, the women always left a piece of blue fabric—haint blue—in the quilt pattern to protect the cabin. The story reflects the Gullah belief that ghosts are often not malevolent but are ancestral presences who remain connected to the places and activities they loved in life.",
+    "source": "Gullah Geechee oral tradition; snip Sea Islands folklore collections",
+    "creatures": [
+      "ghost"
+    ],
+    "source_quality": "good",
+    "slug": "the-quilting-party-ghost",
+    "version": "1.0.0",
+    "lastUpdated": "2026-07-05",
+    "period": "ancient",
+    "source_type": "oral_tradition"
   },
   {
     "id": "story1219",
@@ -148,8 +268,7 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "literary",
-    "schema_org_type": "MythicalCreature"
+    "source_type": "literary"
   },
   {
     "id": "story1290",
@@ -193,8 +312,7 @@
     "slug": "queen-makeda-and-king-solomon",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition",
-    "schema_org_type": "MythicalCreature"
+    "source_type": "oral_tradition"
   },
   {
     "id": "story1301",
@@ -228,8 +346,7 @@
     "slug": "queen-arawelo-the-warrior-queen-of-somalia",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition",
-    "schema_org_type": "MythicalCreature"
+    "source_type": "oral_tradition"
   },
   {
     "id": "story1329",
@@ -250,8 +367,7 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition",
-    "schema_org_type": "MythicalCreature"
+    "source_type": "oral_tradition"
   },
   {
     "id": "story1400",
@@ -272,8 +388,7 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition",
-    "schema_org_type": "MythicalCreature"
+    "source_type": "oral_tradition"
   },
   {
     "id": "story1401",
@@ -294,8 +409,7 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "oral tradition",
-    "source_type": "oral_tradition",
-    "schema_org_type": "MythicalCreature"
+    "source_type": "oral_tradition"
   },
   {
     "id": "story1444",
@@ -313,8 +427,7 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "traditional",
-    "source_type": "oral_tradition",
-    "schema_org_type": "MythicalCreature"
+    "source_type": "oral_tradition"
   },
   {
     "id": "story1677",
@@ -335,7 +448,6 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "medieval",
-    "source_type": "oral_tradition",
-    "schema_org_type": "MythicalCreature"
+    "source_type": "oral_tradition"
   }
 ]

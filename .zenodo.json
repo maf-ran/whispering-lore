@@ -1,0 +1,38 @@
+{
+  "title": "Whispering Lore: A Comprehensive Digital Compendium of World Mythology and Folklore",
+  "description": "A comprehensive dataset of 3,668 mythical creatures and 1,719 folklore stories from 209 countries and territories, spanning 32 cultural regions. Each entry is researched, documented, and linked to its cultural tradition. Includes structured metadata (schema.org types, continent/country/region taxonomy, source quality ratings, oral tradition attribution), full-text story content, and bidirectional creature-story cross-references. The dataset powers the Whispering Lore web application — a static, offline-capable mythology encyclopedia built with vanilla JavaScript.",
+  "creators": [
+    {
+      "name": "Mats Olsson",
+      "affiliation": "Whispering Lore Project",
+      "orcid": ""
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "mythology",
+    "folklore",
+    "mythical creatures",
+    "legends",
+    "oral tradition",
+    "world mythology",
+    "digital humanities",
+    "folktales",
+    "comparative mythology",
+    "cultural heritage"
+  ],
+  "notes": "This dataset contains the full JSON data powering whisperinglore.com. It includes creature records (name, description, cultural significance, habitat, schema.org types, country/region taxonomy), story records (title, full text, summary, themes, moral, source_type, source quality), and cross-reference links between creatures and stories. All content is research-sourced with source quality ratings (verified, good, fair, primary, literary, oral tradition).",
+  "related_identifiers": [
+    {
+      "identifier": "https://whisperinglore.com",
+      "relation": "isSupplementTo",
+      "type": "isSupplementTo"
+    }
+  ],
+  "references": [],
+  "communities": [
+    {
+      "identifier": "digital-humanities"
+    }
+  ]
+}

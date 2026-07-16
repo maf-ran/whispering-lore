@@ -17,6 +17,20 @@
   --accent-rgb: 153, 27, 27;
   --border: #292524;
 
+  /* ── Badge semantic colors ── */
+  --badge-success: #22c55e;
+  --badge-info: #3b82f6;
+  --badge-warning: #f59e0b;
+  --badge-purple: #a78bfa;
+  --badge-violet: #8b5cf6;
+  --badge-cyan: #06b6d4;
+
+  /* ── Quiz state colors ── */
+  --quiz-correct: #2d8a4e;
+  --quiz-correct-text: #7ddf9e;
+  --quiz-incorrect: #8a2d2d;
+  --quiz-incorrect-text: #df7d7d;
+
   /* ── Typography ── */
   --font-display: 'Cinzel', serif;
   --font-body: 'Lora', serif;
@@ -1440,12 +1454,12 @@ nav a.active::after {
   border-radius: 2px;
 }
 .source-badge--verified {
-  color: #22c55e;
-  border-color: #22c55e;
+  color: var(--badge-success);
+  border-color: var(--badge-success);
 }
 .source-badge--literary {
-  color: #3b82f6;
-  border-color: #3b82f6;
+  color: var(--badge-info);
+  border-color: var(--badge-info);
 }
 .source-badge--unknown {
   color: var(--text-secondary);
@@ -1453,18 +1467,18 @@ nav a.active::after {
 }
 .source-badge--good,
 .source-badge--fair {
-  color: #f59e0b;
-  border-color: #f59e0b;
+  color: var(--badge-warning);
+  border-color: var(--badge-warning);
 }
 .source-badge--researched,
 .source-badge--well-documented,
 .source-badge--tier-3 {
-  color: #a78bfa;
-  border-color: #a78bfa;
+  color: var(--badge-purple);
+  border-color: var(--badge-purple);
 }
 .source-badge--primary {
-  color: #22c55e;
-  border-color: #22c55e;
+  color: var(--badge-success);
+  border-color: var(--badge-success);
 }
 
 .detail-section:last-child {
@@ -2304,15 +2318,15 @@ footer p {
 }
 
 .quiz-answers button.correct {
-  border-color: #2d8a4e;
+  border-color: var(--quiz-correct);
   background: rgba(45, 138, 78, 0.12);
-  color: #7ddf9e;
+  color: var(--quiz-correct-text);
 }
 
 .quiz-answers button.incorrect {
-  border-color: #8a2d2d;
+  border-color: var(--quiz-incorrect);
   background: rgba(138, 45, 45, 0.12);
-  color: #df7d7d;
+  color: var(--quiz-incorrect-text);
 }
 
 .quiz-timer {
@@ -2481,6 +2495,9 @@ footer p {
   --bg-deep: #F5F2EB;
   --bg-card: #FFFFFF;
   --bg-dark: #EDE8DF;
+  --bg-surface: #f0ece3;
+  --bg-surface-hover: #e8e3d8;
+  --border-surface: #d4cfc4;
   --text-primary: #1C1917;
   --text-secondary: #57534E;
   --border: #D6D3C8;
@@ -2490,24 +2507,24 @@ footer p {
 
 [data-theme="light"] .card,
 [data-theme="light"] .feature-card {
-  background: #f0ece3;
-  border-color: #d4cfc4;
+  background: var(--bg-surface);
+  border-color: var(--border-surface);
 }
 [data-theme="light"] .card-body {
-  background: #f0ece3;
+  background: var(--bg-surface);
 }
 [data-theme="light"] .daily-feature {
-  background: #f0ece3;
-  border-color: #d4cfc4;
+  background: var(--bg-surface);
+  border-color: var(--border-surface);
 }
 [data-theme="light"] .cd-page {
-  background: #f5f2eb;
+  background: var(--bg-deep);
 }
 [data-theme="light"] .filter-group input,
 [data-theme="light"] .control-group select {
-  background: #f5f2eb;
-  border-color: #d4cfc4;
-  color: #1c1917;
+  background: var(--bg-deep);
+  border-color: var(--border-surface);
+  color: var(--text-primary);
 }
 [data-theme="light"] .globe-country-list {
   background: rgba(245, 242, 235, 0.95);
@@ -2516,43 +2533,43 @@ footer p {
   background: rgba(var(--accent-rgb), 0.08);
 }
 [data-theme="light"] .facet-option {
-  background: #f0ece3;
-  border-color: #d4cfc4;
-  color: #1c1917;
+  background: var(--bg-surface);
+  border-color: var(--border-surface);
+  color: var(--text-primary);
 }
 [data-theme="light"] .facet-option:hover {
-  background: #e8e3d8;
+  background: var(--bg-surface-hover);
 }
 [data-theme="light"] .btn-ghost {
-  border-color: #d4cfc4;
-  color: #1c1917;
+  border-color: var(--border-surface);
+  color: var(--text-primary);
 }
 [data-theme="light"] .btn-ghost:hover {
   background: rgba(var(--accent-rgb), 0.06);
   border-color: var(--accent);
 }
 [data-theme="light"] .quiz-question {
-  background: #f0ece3;
-  border-color: #d4cfc4;
+  background: var(--bg-surface);
+  border-color: var(--border-surface);
 }
 [data-theme="light"] .chip {
-  background: #f0ece3;
-  border-color: #d4cfc4;
-  color: #1c1917;
+  background: var(--bg-surface);
+  border-color: var(--border-surface);
+  color: var(--text-primary);
 }
 [data-theme="light"] .chip:hover {
-  background: #e8e3d8;
+  background: var(--bg-surface-hover);
 }
 [data-theme="light"] .chip.active {
   background: var(--accent);
-  color: #f5f2eb;
+  color: var(--bg-deep);
 }
 [data-theme="light"] .latest-item {
-  background: #f0ece3;
+  background: var(--bg-surface);
 }
 [data-theme="light"] .modal-content {
-  background: #f5f2eb;
-  border-color: #d4cfc4;
+  background: var(--bg-deep);
+  border-color: var(--border-surface);
 }
 [data-theme="light"] .page-hero {
   background: linear-gradient(180deg, #EDE8DF 0%, #F5F2EB 100%);
@@ -2585,19 +2602,19 @@ footer p {
   border-color: var(--border);
 }
 [data-theme="light"] .world-image svg stop[offset="0%"] {
-  stop-color: #D6D3C8;
+  stop-color: var(--border);
 }
 [data-theme="light"] .world-image svg stop[offset="100%"] {
-  stop-color: #EDE8DF;
+  stop-color: var(--bg-dark);
 }
 [data-theme="light"] .world-image svg path {
-  fill: #D6D3C8;
+  fill: var(--border);
 }
 [data-theme="light"] .world-image svg rect {
-  fill: #EDE8DF;
+  fill: var(--bg-dark);
 }
 [data-theme="light"] .cd-hero-bg {
-  background: linear-gradient(180deg, #f0ece3 0%, #f5f2eb 50%, #faf8f4 100%);
+  background: linear-gradient(180deg, var(--bg-surface) 0%, var(--bg-deep) 50%, #faf8f4 100%);
 }
 
 .theme-toggle {
@@ -2970,8 +2987,8 @@ header .theme-toggle {
   font-size: 0.55rem;
   letter-spacing: 0.08em;
   text-transform: uppercase;
-  border: 1px solid #22c55e;
-  color: #22c55e;
+  border: 1px solid var(--badge-success);
+  color: var(--badge-success);
   border-radius: 2px;
 }
 .live-badge--inactive {
@@ -2991,20 +3008,20 @@ header .theme-toggle {
   border-radius: 2px;
 }
 .source-type-badge--oral_tradition {
-  color: #f59e0b;
-  border-color: #f59e0b;
+  color: var(--badge-warning);
+  border-color: var(--badge-warning);
 }
 .source-type-badge--literary {
-  color: #3b82f6;
-  border-color: #3b82f6;
+  color: var(--badge-info);
+  border-color: var(--badge-info);
 }
 .source-type-badge--archaeological {
-  color: #8b5cf6;
-  border-color: #8b5cf6;
+  color: var(--badge-violet);
+  border-color: var(--badge-violet);
 }
 .source-type-badge--syncretic {
-  color: #06b6d4;
-  border-color: #06b6d4;
+  color: var(--badge-cyan);
+  border-color: var(--badge-cyan);
 }
 .source-type-badge--unknown {
   color: var(--text-secondary);

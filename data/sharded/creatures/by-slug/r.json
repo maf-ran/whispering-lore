@@ -1,5 +1,74 @@
 [
   {
+    "id": "the-rolling-cauldron-1778",
+    "slug": "the-rolling-cauldron",
+    "name": "The Rolling Cauldron",
+    "country": "Jamaica",
+    "region": "Caribbean",
+    "culture": "Jamaica",
+    "type": "monster",
+    "mythology": "Jamaica",
+    "archetype": "forest-spirit",
+    "element": "earth",
+    "aliases": [
+      "the rolling cauldron"
+    ],
+    "related": [
+      "el-mothman-cubano",
+      "trickster-jamaica",
+      "chase-vault",
+      "lamia-cyprus",
+      "river-mumma"
+    ],
+    "description": "The Rolling Cauldron is a monster from Jamaica folklore. Magically rolling cauldron appearing on roads. Contains treasure or curse depending on whether you touch it. Jamaican magical object. Road mystery. It is said to dwell in Roadways, crossroads, and travel routes in Jamaican.",
+    "appearance": "Magically rolling cauldron appearing on roads.",
+    "behavior": "Magically rolling cauldron appearing on roads. Contains treasure or curse depending on whether you touch it. Contains treasure or curse depending on whether you touch it.",
+    "habitat": "Roadways, crossroads, and travel routes in Jamaican",
+    "habitat_tags": [
+      "Jamaican wilderness",
+      "Jamaican caves",
+      "Jamaican mountains"
+    ],
+    "behavior_tags": [
+      "curse",
+      "appear"
+    ],
+    "strengths": [
+      "healing",
+      "stamina",
+      "terror inducement"
+    ],
+    "weaknesses": [
+      "specific weaknesses",
+      "digging enemies",
+      "civilization"
+    ],
+    "cultural_significance": "Jamaican magical object. Road mystery.",
+    "summary": "The Rolling Cauldron is a monster from the folklore and mythology of Jamaica.",
+    "fun_fact": "Magically rolling cauldron appearing on roads. Contains treasure or curse depending on whether you touch it.",
+    "fun_fact_generated": false,
+    "keywords": [
+      "the rolling cauldron",
+      "jamaica"
+    ],
+    "search_terms": [
+      "the rolling cauldron"
+    ],
+    "tags": [],
+    "schema_org_type": "MythicalCreature",
+    "seo_title": "The Rolling Cauldron – Jamaica Folklore",
+    "seo_description": "Magically rolling cauldron appearing on roads. Contains treasure or curse depending on whether you touch it.",
+    "motifs": [],
+    "featured_in_stories": [],
+    "source": "Jamaican folklore — a monster documented in Jamaican oral tradition.",
+    "source_quality": "fair",
+    "stories": [],
+    "version": "1.0.0",
+    "lastUpdated": "2026-07-05",
+    "living_tradition": false,
+    "source_type": "oral_tradition"
+  },
+  {
     "id": "rabbit-mapuche-1518",
     "slug": "rabbit-mapuche",
     "name": "Rabbit (Mapuche)",
@@ -7238,7 +7307,6 @@
     ],
     "tags": [],
     "tribe": "Haida",
-    "creatures": null,
     "seo_description": "",
     "source": "John R. Swanton, Haida Texts and Myths (1905)",
     "stories": [],
@@ -7307,7 +7375,6 @@
     ],
     "gender": "male",
     "offspring": [],
-    "consort": "",
     "parents": [],
     "siblings": [],
     "equivalent": [
@@ -7338,7 +7405,11 @@
     "source_type": "oral_tradition",
     "source_quality": "expert",
     "cultural_significance": "Ratovantany is a a deity from East Africa mythology, representing important cultural values and traditional beliefs.",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "continent": "Africa",
+    "countries": [
+      "Madagascar"
+    ]
   },
   {
     "id": "ruwa-chaga-3949",
@@ -7402,7 +7473,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "featured_in_stories": [],
     "source": "Chaga religion — Ruwa is the sun god documented in Chaga oral tradition.",
     "source_quality": "good",
@@ -7479,7 +7549,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "featured_in_stories": [],
     "source": "Fijian mythology — Ratu-mai-mbula is the chief deity documented in Fijian oral tradition.",
     "source_quality": "good",

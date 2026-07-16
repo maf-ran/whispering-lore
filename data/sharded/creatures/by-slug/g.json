@@ -6886,7 +6886,6 @@
     ],
     "tags": [],
     "tribe": "Haida",
-    "creatures": null,
     "source": "John R. Swanton, Haida Texts and Myths (1905)",
     "stories": [],
     "version": "1.0.0",
@@ -6963,7 +6962,6 @@
     ],
     "tags": [],
     "tribe": "Haida",
-    "creatures": null,
     "source": "John R. Swanton, Haida Texts and Myths (1905)",
     "stories": [
       "the-bear-mother-haida"
@@ -7040,7 +7038,6 @@
     ],
     "tags": [],
     "tribe": "Kwakwaka-wakw",
-    "creatures": null,
     "source": "Franz Boas, Kwakiutl Tales (1910)",
     "stories": [
       "the-hamatsa-cannibal-spirit-kwakwakawakw"
@@ -7114,7 +7111,6 @@
     ],
     "tags": [],
     "tribe": "Chinook",
-    "creatures": null,
     "source": "Franz Boas, Chinook Texts (1894)",
     "stories": [
       "origin-of-the-chinook-people-chinook"
@@ -7195,7 +7191,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "source": "Charles C. Jones, Negro Myths from the Georgia Coast (1888)",
     "stories": [
       "the-old-woman-and-the-tramp",
@@ -7270,7 +7265,6 @@
     ],
     "gender": "male",
     "offspring": [],
-    "consort": "",
     "parents": [],
     "siblings": [],
     "equivalent": [
@@ -7300,7 +7294,11 @@
     "source_type": "literary",
     "source_quality": "expert",
     "cultural_significance": "Ga-Gorib is a a monster from Southern Africa mythology, representing important cultural values and traditional beliefs.",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "continent": "Africa",
+    "countries": [
+      "Namibia"
+    ]
   },
   {
     "id": "gaunab-khoikhoi-3854",
@@ -7358,7 +7356,6 @@
     ],
     "gender": "male",
     "offspring": [],
-    "consort": "",
     "parents": [],
     "siblings": [],
     "equivalent": [
@@ -7388,7 +7385,11 @@
     "source_type": "literary",
     "source_quality": "expert",
     "cultural_significance": "//Gaunab is a a deity from Southern Africa mythology, representing important cultural values and traditional beliefs.",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "continent": "Africa",
+    "countries": [
+      "Namibia"
+    ]
   },
   {
     "id": "gizo-hausa-3862",
@@ -7447,7 +7448,6 @@
     "associated_figures": [],
     "gender": "male",
     "offspring": [],
-    "consort": "",
     "parents": [],
     "siblings": [],
     "equivalent": [
@@ -7478,7 +7478,12 @@
     "source_type": "literary",
     "source_quality": "expert",
     "cultural_significance": "Gizo is a a trickster from West Africa mythology, representing important cultural values and traditional beliefs.",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "continent": "Africa",
+    "countries": [
+      "Nigeria",
+      "Niger"
+    ]
   },
   {
     "id": "gueno-fulani-3864",
@@ -7537,7 +7542,6 @@
     ],
     "gender": "male",
     "offspring": [],
-    "consort": "",
     "parents": [],
     "siblings": [],
     "equivalent": [
@@ -7570,7 +7574,12 @@
     "source_type": "literary",
     "source_quality": "expert",
     "cultural_significance": "Gueno is a a deity from West Africa mythology, representing important cultural values and traditional beliefs.",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "continent": "Africa",
+    "countries": [
+      "Nigeria",
+      "Guinea"
+    ]
   },
   {
     "id": "galamani-fulani-3866",
@@ -7627,7 +7636,6 @@
     ],
     "gender": "male",
     "offspring": [],
-    "consort": "",
     "parents": [],
     "siblings": [],
     "equivalent": [],
@@ -7648,7 +7656,12 @@
     "source_type": "literary",
     "source_quality": "expert",
     "cultural_significance": "Galamani is a a serpent from West Africa mythology, representing important cultural values and traditional beliefs.",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "continent": "Africa",
+    "countries": [
+      "Nigeria",
+      "Niger"
+    ]
   },
   {
     "id": "gikuyu-kikuyu-3921",
@@ -7711,7 +7724,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "featured_in_stories": [],
     "source": "Kikuyu oral tradition — Gikuyu is the founding ancestor of the Kikuyu people.",
     "source_quality": "expert",

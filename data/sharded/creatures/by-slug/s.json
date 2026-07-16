@@ -17406,7 +17406,7 @@
       "smith",
       "svartalfheim"
     ],
-    "schema_org_type": "Thing",
+    "schema_org_type": "MythicalCreature",
     "seo_title": "Svartalv (Svartálfar) – The Dark Elves of Norse Mythology",
     "seo_description": "Explore the Svartálfar, the mysterious black elves of Norse mythology who dwell in Svartálfheim and craft the gods' most powerful magical artifacts.",
     "motifs": [
@@ -17428,7 +17428,10 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "countries": [
+      "Sweden"
+    ]
   },
   {
     "id": "sea-draugr-iceland-0001",
@@ -20547,7 +20550,6 @@
     ],
     "tags": [],
     "tribe": "Haida",
-    "creatures": null,
     "seo_description": "",
     "source": "John R. Swanton, Haida Texts and Myths (1905)",
     "stories": [],
@@ -20620,7 +20622,6 @@
     ],
     "tags": [],
     "tribe": "Haida",
-    "creatures": null,
     "source": "John R. Swanton, Haida Texts and Myths (1905)",
     "stories": [
       "the-creation-of-haida-gwaii"
@@ -20701,7 +20702,6 @@
     ],
     "tags": [],
     "tribe": "Kwakwaka-wakw",
-    "creatures": null,
     "source": "Franz Boas, Kwakiutl Tales (1910)",
     "stories": [],
     "version": "1.0.0",
@@ -20773,7 +20773,6 @@
     ],
     "tags": [],
     "tribe": "Nuxalk",
-    "creatures": null,
     "source": "Franz Boas, The Mythology of the Bella Coola Indians (1898)",
     "stories": [
       "raven-brings-light-nuxalk---qwaxw",
@@ -20847,7 +20846,6 @@
     ],
     "tags": [],
     "tribe": "Chinook",
-    "creatures": null,
     "source": "Franz Boas, Chinook Texts (1894)",
     "stories": [
       "origin-of-the-chinook-people-chinook"
@@ -20933,7 +20931,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "source": "John W. Roberts, From Trickster to Badman (1989)",
     "stories": [
       "stagolee-shoots-billy-lyons",
@@ -21019,7 +21016,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "source": "John W. Roberts, From Trickster to Badman (1989)",
     "stories": [],
     "version": "1.0.0",
@@ -21106,7 +21102,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "featured_in_stories": [],
     "source": "Mexican folk religion — Santa Muerte is the folk saint of death documented in contemporary Mexican tradition.",
     "source_quality": "good",
@@ -21181,7 +21176,6 @@
     ],
     "gender": "male",
     "offspring": [],
-    "consort": "",
     "parents": [],
     "siblings": [],
     "equivalent": [
@@ -21212,7 +21206,11 @@
     "source_type": "literary",
     "source_quality": "expert",
     "cultural_significance": "Sarki (Daura Serpent) is a a serpent from West Africa mythology, representing important cultural values and traditional beliefs.",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "continent": "Africa",
+    "countries": [
+      "Nigeria"
+    ]
   },
   {
     "id": "shango-yoruba-3874",
@@ -21283,7 +21281,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "featured_in_stories": [],
     "source": "Yoruba oral tradition, Wikipedia, Mythopedia",
     "source_quality": "good",
@@ -21365,7 +21362,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "featured_in_stories": [],
     "source": "Akan/Ashanti folklore — the Sasabonsam is a forest giant/vampire documented in Rattray's collections.",
     "source_quality": "good",
@@ -21446,7 +21442,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "featured_in_stories": [],
     "source": "Fon/Dahomey oral tradition, Wikipedia",
     "source_quality": "good",
@@ -21533,7 +21528,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "featured_in_stories": [],
     "source": "Mande epic; Sundiata Keita is the founder of the Mali Empire.",
     "source_quality": "expert",
@@ -21623,7 +21617,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "featured_in_stories": [],
     "source": "Mande oral tradition, Epic of Sundiata, Wikipedia",
     "source_quality": "good",
@@ -21708,7 +21701,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "featured_in_stories": [],
     "source": "Mande epic; Sogolon is the mother of Sundiata, known as the buffalo-woman.",
     "source_quality": "good",
@@ -21790,7 +21782,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "featured_in_stories": [],
     "source": "Ewe oral tradition of Togo — Se spirit figure.",
     "source_quality": "good",
@@ -21872,7 +21863,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "featured_in_stories": [],
     "source": "Kongo religion — Simbi are water spirits documented in Kongo cosmology.",
     "source_quality": "good",
@@ -21950,7 +21940,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "featured_in_stories": [],
     "source": "Luba oral tradition, Central African folklore, Hamill Gallery",
     "source_quality": "good",
@@ -22028,7 +22017,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "featured_in_stories": [],
     "source": "Australian Aboriginal dreamtime — the Seven Sisters (Pleiades) documented in Aboriginal oral tradition.",
     "source_quality": "good",

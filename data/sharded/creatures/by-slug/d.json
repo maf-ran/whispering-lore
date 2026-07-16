@@ -10143,7 +10143,7 @@
       "treasure",
       "lindorm"
     ],
-    "schema_org_type": "Thing",
+    "schema_org_type": "MythicalCreature",
     "seo_title": "Drake (Swedish Lindorm) – The Treasure-Guarding Serpent Dragon of Sweden",
     "seo_description": "Discover the Swedish drake, a wingless treasure-hoarding serpent dragon. Learn how this lindorm guards gold and makes treasure grow in Nordic folklore.",
     "motifs": [
@@ -10167,7 +10167,10 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "countries": [
+      "Sweden"
+    ]
   },
   {
     "id": "dvarg-swedish-3482",
@@ -10256,7 +10259,7 @@
       "mythology",
       "craftsman"
     ],
-    "schema_org_type": "Thing",
+    "schema_org_type": "MythicalCreature",
     "seo_title": "Dvärgar – The Master Smith Dwarves of Norse Mythology and Swedish Folklore",
     "seo_description": "Discover the Dvärgar, the legendary master smith dwarves of Norse mythology who forged Mjölnir, Gungnir, and other magical treasures of the gods.",
     "motifs": [
@@ -10279,7 +10282,10 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "countries": [
+      "Sweden"
+    ]
   },
   {
     "id": "diser-3483",
@@ -10365,7 +10371,7 @@
       "fate",
       "ancestral"
     ],
-    "schema_org_type": "Thing",
+    "schema_org_type": "MythicalCreature",
     "seo_title": "Diser (Dísir) – The Female Guardian Spirits of Fate in Norse Mythology",
     "seo_description": "Learn about the Diser, the powerful female guardian spirits of Norse mythology who protected families and clans. Discover their role in fate, fertility, and the ancient dísablót festival.",
     "motifs": [
@@ -10388,7 +10394,10 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "countries": [
+      "Sweden"
+    ]
   },
   {
     "id": "de-underjordiska-swedish-3485",
@@ -10477,7 +10486,7 @@
       "invisible",
       "nature-spirit"
     ],
-    "schema_org_type": "Thing",
+    "schema_org_type": "MythicalCreature",
     "seo_title": "De underjordiska – The Hidden Underground People of Swedish Folklore",
     "seo_description": "Discover De underjordiska, the hidden underground people of Swedish folklore. Learn about their parallel world of farms, cattle, and invisible paths beneath the Swedish countryside.",
     "motifs": [
@@ -10498,7 +10507,10 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "countries": [
+      "Sweden"
+    ]
   },
   {
     "id": "draugr-iceland-0001",
@@ -10902,7 +10914,6 @@
     ],
     "tags": [],
     "tribe": "Kwakwaka-wakw",
-    "creatures": null,
     "source": "Franz Boas, Kwakiutl Tales (1910)",
     "stories": [],
     "version": "1.0.0",
@@ -10983,7 +10994,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "seo_description": "",
     "source": "Charles C. Jones, Negro Myths from the Georgia Coast (1888)",
     "stories": [
@@ -11079,7 +11089,6 @@
     ],
     "tags": [],
     "tribe": "Hispanic",
-    "creatures": null,
     "featured_in_stories": [],
     "source": "Pueblo spiritual tradition; documented in Southwestern ethnographic records.",
     "source_quality": "good",
@@ -11155,7 +11164,6 @@
     ],
     "gender": "male",
     "offspring": [],
-    "consort": "",
     "parents": [],
     "siblings": [],
     "equivalent": [
@@ -11184,7 +11192,12 @@
     "source_type": "literary",
     "source_quality": "good",
     "cultural_significance": "Dimo is a a giant from Southern Africa mythology, representing important cultural values and traditional beliefs.",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "continent": "Africa",
+    "countries": [
+      "South Africa",
+      "Lesotho"
+    ]
   },
   {
     "id": "ditaolane-sotho-3871",
@@ -11244,7 +11257,6 @@
     ],
     "gender": "male",
     "offspring": [],
-    "consort": "",
     "parents": [
       {
         "name": "Anonymous mother",
@@ -11284,7 +11296,12 @@
     "source_type": "oral_tradition",
     "source_quality": "good",
     "cultural_significance": "Ditaolane is a a hero from Southern Africa mythology, representing important cultural values and traditional beliefs.",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "continent": "Africa",
+    "countries": [
+      "South Africa",
+      "Lesotho"
+    ]
   },
   {
     "id": "daramulum-aboriginal-3055",
@@ -11350,7 +11367,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "featured_in_stories": [],
     "source": "Australian Aboriginal religion — Daramulum is the sky god of the Wiradjuri and Kamilaroi peoples.",
     "source_quality": "expert",

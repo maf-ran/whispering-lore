@@ -2340,7 +2340,6 @@
         "relation": "son"
       }
     ],
-    "consort": "",
     "parents": [],
     "siblings": [],
     "equivalent": [
@@ -2371,7 +2370,11 @@
     "source_type": "oral_tradition",
     "source_quality": "expert",
     "cultural_significance": "Zanahary is a a deity from East Africa mythology, representing important cultural values and traditional beliefs.",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "continent": "Africa",
+    "countries": [
+      "Madagascar"
+    ]
   },
   {
     "id": "zuleikha-turkmen-4027",

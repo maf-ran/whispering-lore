@@ -2150,7 +2150,6 @@
     ],
     "tags": [],
     "tribe": "Tlingit",
-    "creatures": null,
     "source": "John R. Swanton, Tlingit Myths and Texts (1909)",
     "stories": [],
     "version": "1.0.0",
@@ -2224,7 +2223,6 @@
     ],
     "tags": [],
     "tribe": "Nuxalk",
-    "creatures": null,
     "source": "Franz Boas, The Mythology of the Bella Coola Indians (1898)",
     "stories": [
       "the-first-areto-drum"
@@ -2301,7 +2299,6 @@
     ],
     "gender": "male",
     "offspring": [],
-    "consort": "",
     "parents": [],
     "siblings": [
       {
@@ -2339,7 +2336,11 @@
     "source_type": "literary",
     "source_quality": "expert",
     "cultural_significance": "Yurugu (Pale Fox) is a a trickster from West Africa mythology, representing important cultural values and traditional beliefs.",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "continent": "Africa",
+    "countries": [
+      "Mali"
+    ]
   },
   {
     "id": "yemoja-yoruba-3875",
@@ -2410,7 +2411,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "featured_in_stories": [],
     "source": "Yoruba oral tradition, Wikipedia, academic folklore collections",
     "source_quality": "good",
@@ -2498,7 +2498,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "featured_in_stories": [],
     "source": "Ewe religion of Togo — Yewe thunder god in the Ewe pantheon.",
     "source_quality": "good",
@@ -2579,7 +2578,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "featured_in_stories": [],
     "source": "Ethiopian Orthodox tradition — Saint Yared is the father of Ethiopian music.",
     "source_quality": "expert",
@@ -2658,7 +2656,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "featured_in_stories": [],
     "source": "Australian Aboriginal folklore — the Yara-ma-yha-who is a vampiric cryptid from southeastern Australian Aboriginal tradition.",
     "source_quality": "good",

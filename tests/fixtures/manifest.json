@@ -1,0 +1,17 @@
+{
+  "creatures": {
+    "total": 5,
+    "regions": { "Nordic": 2, "Celtic": 2, "East Asian": 1 },
+    "countries": { "Norway": 1, "Ireland": 2, "Japan": 1, "Sweden": 1 },
+    "types": { "Spirit": 2, "Monster": 2, "Deity": 1 },
+    "slugIndex": { "t": ["troll"], "s": ["selkie", "sidhe"], "k": ["kappa"], "d": ["draugr"] },
+    "allSlugs": ["draugr", "kappa", "selkie", "sidhe", "troll"]
+  },
+  "stories": {
+    "total": 5,
+    "regions": { "Nordic": 2, "Celtic": 2, "East Asian": 1 },
+    "countries": { "Norway": 1, "Ireland": 2, "Japan": 1, "Sweden": 1 },
+    "slugIndex": { "t": ["three-trolls"], "s": ["selkie-song"], "k": ["kappa-trick"], "d": ["draugr-quest"] },
+    "allSlugs": ["draugr-quest", "kappa-trick", "selkie-song", "three-trolls"]
+  }
+}

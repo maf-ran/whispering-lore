@@ -20149,7 +20149,6 @@
     ],
     "tags": [],
     "tribe": "Haida",
-    "creatures": null,
     "source": "John R. Swanton, Haida Texts and Myths (1905)",
     "stories": [
       "the-bear-mother-haida"
@@ -20225,7 +20224,6 @@
     ],
     "tags": [],
     "tribe": "Kwakwaka-wakw",
-    "creatures": null,
     "source": "Franz Boas, Kwakiutl Tales (1910)",
     "stories": [],
     "version": "1.0.0",
@@ -20302,7 +20300,6 @@
     ],
     "tags": [],
     "tribe": "Kwakwaka-wakw",
-    "creatures": null,
     "source": "Franz Boas, Kwakiutl Tales (1910)",
     "stories": [
       "the-hamatsa-cannibal-spirit-kwakwakawakw"
@@ -20377,7 +20374,6 @@
     ],
     "tags": [],
     "tribe": "Nuxalk",
-    "creatures": null,
     "source": "Franz Boas, The Mythology of the Bella Coola Indians (1898)",
     "stories": [],
     "version": "1.0.0",
@@ -20453,7 +20449,6 @@
     ],
     "tags": [],
     "tribe": "Chinook",
-    "creatures": null,
     "source": "Franz Boas, Chinook Texts (1894)",
     "stories": [],
     "version": "1.0.0",
@@ -20538,7 +20533,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "source": "Joel Chandler Harris, Uncle Remus: His Songs and His Sayings (1881)",
     "stories": [
       "the-wonderful-tar-baby",
@@ -20637,7 +20631,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "source": "Joel Chandler Harris, Uncle Remus: His Songs and His Sayings (1881)",
     "stories": [
       "the-wonderful-tar-baby",
@@ -20728,7 +20721,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "source": "Joel Chandler Harris, Uncle Remus: His Songs and His Sayings (1881)",
     "stories": [
       "mr-bear-catches-old-mr-bull-frog",
@@ -20810,7 +20802,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "source": "Joel Chandler Harris, Uncle Remus: His Songs and His Sayings (1881)",
     "stories": [
       "old-mr-rabbit-hes-a-good-fisherman",
@@ -20892,7 +20883,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "source": "Joel Chandler Harris, Uncle Remus: His Songs and His Sayings (1881)",
     "stories": [
       "brer-terrapin-outruns-brer-rabbit",
@@ -20975,7 +20965,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "source": "Joel Chandler Harris, Uncle Remus: His Songs and His Sayings (1881)",
     "stories": [],
     "version": "1.0.0",
@@ -21047,7 +21036,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "source": "Cecil Brown, Stagolee Shot Billy (2003)",
     "stories": [],
     "version": "1.0.0",
@@ -21130,7 +21118,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "source": "William S. Pollitzer, The Gullah People and Their African Heritage (1999)",
     "stories": [
       "the-boo-hag",
@@ -21214,7 +21201,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "source": "M.V. Ingram, An Authenticated History of the Bell Witch (1894)",
     "stories": [
       "the-bell-witch"
@@ -21286,7 +21272,6 @@
     ],
     "gender": "both (hermaphroditic)",
     "offspring": [],
-    "consort": "",
     "parents": [],
     "siblings": [],
     "equivalent": [
@@ -21318,7 +21303,11 @@
     "source_type": "literary",
     "source_quality": "expert",
     "cultural_significance": "Bemba is a a deity from West Africa mythology, representing important cultural values and traditional beliefs.",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "continent": "Africa",
+    "countries": [
+      "Mali"
+    ]
   },
   {
     "id": "bolukun-yoruba-3885",
@@ -21383,7 +21372,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "featured_in_stories": [],
     "source": "Yoruba religion — Bolukun sky orisha in the traditional Ifá corpus.",
     "source_quality": "good",
@@ -21464,7 +21452,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "featured_in_stories": [],
     "source": "Mande oral tradition — Bida rainbow serpent central to the Sundiata epic.",
     "source_quality": "expert",
@@ -21550,7 +21537,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "featured_in_stories": [],
     "source": "Wolof folklore of Senegal — Bouki hyena trickster documented in Senegalese oral traditions.",
     "source_quality": "good",
@@ -21632,7 +21618,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "featured_in_stories": [],
     "source": "Somali folklore — Buundheex shapeshifter documented in Somali oral tradition.",
     "source_quality": "fair",
@@ -21704,7 +21689,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "featured_in_stories": [],
     "source": "Papuan mythology, Elema oral tradition",
     "source_quality": "good",
@@ -21783,7 +21767,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "featured_in_stories": [],
     "source": "Aboriginal Australian mythology, southeastern oral traditions",
     "source_quality": "good",
@@ -21858,7 +21841,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "featured_in_stories": [],
     "source": "Aboriginal Australian mythology, Adnyamathanha oral tradition",
     "source_quality": "good",

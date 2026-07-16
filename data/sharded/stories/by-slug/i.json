@@ -1,5 +1,39 @@
 [
   {
+    "id": "story24",
+    "title": "The Iron Pig",
+    "country": "Germany",
+    "continent": "Europe",
+    "region": "German",
+    "type": "fairy-tale",
+    "summary": "A kind boy treats a mysterious iron pig with tenderness and discovers a hidden treasure.",
+    "full_text": "In the heart of the Black Forest, where the pines grow so thick that the sunlight only reaches the ground in shivering slivers of gold, lived a woodcutter and his family. They were a people of the earth, their hands calloused and their faces weathered by the bite of winter and the humidity of the summer. Their home was a small, leaning cottage of timber and clay, and though they were poor in coin, they were rich in spirit—or so the woodcutter hoped. His two eldest sons were strong and bold, but they possessed a restlessness that bordered on arrogance. They viewed the forest as a resource to be conquered, the trees as obstacles to be felled, and the land as something to be bled for profit.\\n\\nThen there was the youngest son, Elias. Elias was different. He was a quiet boy with eyes the color of autumn leaves and a heart that beat in time with the wind in the branches. While his brothers spent their days competing to see who could fell the largest oak, Elias spent his wandering the hidden glens, talking to the birds and listening to the whispered secrets of the ancient stones. He found beauty in the smallest of things: the iridescent wing of a dragonfly, the intricate patterns of frost on a windowpane, the way the moss felt like a velvet carpet beneath his bare feet.\\n\\nOne winter, a famine struck the valley. The frost of that year was deeper and more cruel than any in living memory. The crops had failed, the livestock had grown lean, and the woodcutter's axes were blunt against the frozen bark. Hunger became a constant companion, a hollow ache that lived in the stomach and clouded the mind. The eldest brothers grew irritable and cruel, blaming the land and the spirits of the forest for their plight. They spent their nights arguing over the last scraps of rye bread, their voices echoing through the thin walls of the cottage.\\n\\nOne afternoon, Elias ventured deeper into the forest than he had ever dared, searching for any edible root or forgotten berry. As he pushed through a thicket of frozen briars, he stumbled upon a hollowed-out ancient cedar, terms of its bark gnarled and twisted like a frozen scream. And there, nestled in the dark, damp center of the tree, he found it: a pig made entirely of iron.\\n\\nIt was a curious object, no larger than a common piglet, cast in a heavy, dark metal that seemed to absorb the light around it. Its eyes were two small, polished pebbles of obsidian, and its skin was cold—not the cold of winter, but a deeper, timeless chill that spoke of the earth's core. Elias reached out and touched the metal. He felt a strange vibration, a low hum that resonated in his very bones, as if the iron pig were breathing in its own slow, metallic way.\\n\\nHe carried the pig home, wrapped in his tattered cloak. When he showed it to his family, his brothers laughed. \"A piece of junk!\" the eldest roared. \"You waste your time with scrap metal while we starve!\"\\n\\nBut Elias felt a kinship with the object. He did not see a piece of scrap; he saw a creature that was alone and forgotten, much like himself in his own family. He placed the iron pig on the hearth, and every night, he shared his meager portion of porridge with it. He would whisper stories of the forest to the metal pig, telling it of the singing streams and the dancing leaves, and he would polish its cold skin with a piece of old wool, treating it with a tenderness that his brothers found absurd.\\n\\nWeeks passed, and the hunger grew worse. One night, as the fire died down to a few glowing embers, the iron pig spoke. Its voice was not a voice at all, but a series of clicks and metallic clinks that formed words in Elias's mind. \"You have fed me with your kindness,\" the pig whispered, \"and you have warmed me with your heart. In a world of greed, you chose to give when you had nothing. For this, I shall reveal the secret of the forest.\"\\n\\nAs Elias watched, the iron pig began to glow with a soft, amber light. It leapt from the hearth, its metallic hooves clattering on the stone floor, and led Elias out into the moonlit forest. They traveled past the familiar paths, deeper into the wild, until they reached a waterfall that flowed upward, its waters defying gravity to climb a cliff of obsidian. At the base of the falls, the iron pig stopped and began to dig. With a single, powerful thrust of its iron snout, it overturned a slab of rock, revealing a cavern filled with treasures beyond imagining: gold coins from forgotten empires, jewels that held the colors of a thousand sunsets, and ancient artifacts of power and wisdom.\\n\\nBut the treasure was not the greatest gift. As Elias gazed upon the wealth, the iron pig transformed. The metal melted away, replaced by skin and fur, and in its place stood a guardian spirit of the forest—a being of light and greenery, with eyes that held the wisdom of the ages. \"The gold is for your family,\" the spirit said, \"but the wisdom is for you. Remember that the smallest act of kindness is a key that can open the heaviest door.\"\n\nElias returned home and shared the wealth with his family. His brothers, humbled and ashamed, learned to respect the forest and the kindness of their brother. The woodcutter's cottage was rebuilt, and the family never hungered again. But Elias never forgot the iron pig. He spent the rest of his days as the protector of the Black Forest, ensuring that the balance between man and nature was preserved, and teaching every child he met that the most valuable treasures are those that cannot be bought with gold, but only earned with a generous heart.",
+    "themes": [
+      "kindness",
+      "transformation",
+      "greed",
+      "reward"
+    ],
+    "moral": "Kindness and empathy are the most powerful keys to unlocking hidden treasures.",
+    "source": "German Folklore",
+    "period": "oral tradition",
+    "keywords": [
+      "iron pig",
+      "black forest",
+      "kindness",
+      "treasure",
+      "guardian"
+    ],
+    "creatures": [
+      "skogsr"
+    ],
+    "source_quality": "fair",
+    "slug": "the-iron-pig",
+    "version": "1.0.0",
+    "lastUpdated": "2026-07-05",
+    "source_type": "oral_tradition"
+  },
+  {
     "id": "story80",
     "title": "Ikkyu: The Monk Child",
     "country": "Japan",
@@ -33,8 +67,7 @@
     "slug": "ikkyu-the-monk-child",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition",
-    "schema_org_type": "MythicalCreature"
+    "source_type": "oral_tradition"
   },
   {
     "id": "story106",
@@ -72,8 +105,42 @@
     "slug": "icarus-wings-too-close-to-the-sun",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "literary",
-    "schema_org_type": "MythicalCreature"
+    "source_type": "literary"
+  },
+  {
+    "id": "story173",
+    "title": "The Ice Maiden",
+    "country": "Denmark",
+    "continent": "Europe",
+    "region": "Danish",
+    "type": "fairy-tale",
+    "summary": "There was once a boy named Rudy who lived in the Swiss Alps, near the foot of a great glacier.",
+    "full_text": "There was once a boy named Rudy who lived in the Swiss Alps, near the foot of a great glacier. He was strong and brave—a true mountaineer from birth. His mother had died in childbirth, and his father had abandoned him, so he was raised by his uncle, a gruff but loving shepherd.\n\nIn the mountains lived the Ice Maiden—the spirit of the frozen world. She was beautiful in the way that winter is beautiful: cold, pure, terrifying. She watched Rudy from her glacier home and fell in love.\n\nOne day, she appeared to him at the top of the mountain—a vision of white and silver, her hair floating in the cold wind. She kissed him, and her lips were like ice—cold so profound it burned. Rudy's heart froze. He could not love again—no girl in the village could stir his heart.\n\nHe left the village and went to live in the mountains with her, as her companion. He aged there in the cold—not growing old but growing colder. He forgot the warm fire, the village festivals, the feeling of being loved.\n\nYears passed. Rudys childhood friend, a girl named Berta, came to find him. She had loved him since they were children. She climbed the mountain, found his cabin, and called for him.\n\nThe Ice Maiden appeared—and Berta told her: 'Give him back! He belongs to the warm world! The Ice Maiden smiled coldly—but Rudy emerged from the cabin. He saw Berta's warmth, her tears—and something stirred. His frozen heart began to melt.\n\nThe Ice Maiden flew into a fury. She rushed at Berta—but Rudy jumped between them. The Ice Maidens touch, meant for Berta, struck Rudy. He fell, melted into the snow—and was free. Berta carried him down the mountain.\n\nHe was weak—not frozen anymore, but thawed. He would never climb mountains again, but he could feel warmth, love. The Ice Maiden remained in her glacier, watching.\n\nThe lesson: Love conquers cold—but the battle is fierce.",
+    "themes": [
+      "ice",
+      "kiss",
+      "cold",
+      "love",
+      "sacrifice"
+    ],
+    "moral": "Love conquers cold; warmth wins over ice.",
+    "source": "Hans Christian Andersen",
+    "period": "19th century",
+    "keywords": [
+      "ice",
+      "maiden",
+      "kiss",
+      "mountain",
+      "alps"
+    ],
+    "creatures": [
+      "spirit"
+    ],
+    "source_quality": "unknown",
+    "slug": "the-ice-maiden",
+    "version": "1.0.0",
+    "lastUpdated": "2026-07-05",
+    "source_type": "oral_tradition"
   },
   {
     "id": "story308",
@@ -108,8 +175,7 @@
     "slug": "ifrit",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition",
-    "schema_org_type": "MythicalCreature"
+    "source_type": "oral_tradition"
   },
   {
     "id": "story338",
@@ -143,8 +209,7 @@
     "slug": "ijapa-and-the-sky-feast",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition",
-    "schema_org_type": "MythicalCreature"
+    "source_type": "oral_tradition"
   },
   {
     "id": "story345",
@@ -178,8 +243,7 @@
     "slug": "iara-the-river-mother-of-brazil",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition",
-    "schema_org_type": "MythicalCreature"
+    "source_type": "oral_tradition"
   },
   {
     "id": "story370",
@@ -213,8 +277,7 @@
     "slug": "ibonia-the-epic-hero-of-madagascar",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition",
-    "schema_org_type": "MythicalCreature"
+    "source_type": "oral_tradition"
   },
   {
     "id": "story468",
@@ -255,8 +318,7 @@
     "slug": "innocences-journey",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition",
-    "schema_org_type": "MythicalCreature"
+    "source_type": "oral_tradition"
   },
   {
     "id": "story579",
@@ -289,8 +351,7 @@
     "slug": "ilmarinen-forges-the-sampo",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "literary",
-    "schema_org_type": "MythicalCreature"
+    "source_type": "literary"
   },
   {
     "id": "story588",
@@ -326,8 +387,7 @@
     "slug": "ilmarinens-wooing",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "literary",
-    "schema_org_type": "MythicalCreature"
+    "source_type": "literary"
   },
   {
     "id": "story590",
@@ -361,8 +421,36 @@
     "slug": "ilmarinens-wedding-feast",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "literary",
-    "schema_org_type": "MythicalCreature"
+    "source_type": "literary"
+  },
+  {
+    "id": "story598",
+    "title": "The Isle of Refuge",
+    "country": "Finland",
+    "continent": "Europe",
+    "region": "Finnish",
+    "type": "epic",
+    "summary": "A poignant tale of seeking sanctuary during a time of war or political persecution. It explores the psychological toll of exile and the universal human search for a place of peace and safety away from conflict.",
+    "full_text": "This legendary tale explores the depths of Finnish folklore. A poignant tale of seeking sanctuary during a time of war or political persecution. It explores the psychological toll of exile and the universal human search for a place of peace and safety away from conflict. The narrative emphasizes the magical nature of the world and the eternal struggle between order and chaos, reflecting the spiritual beliefs of the ancient North.",
+    "themes": [
+      "folklore",
+      "mythology"
+    ],
+    "moral": "The balance of nature must be respected.",
+    "source": "Kalevala (Lönnrot)",
+    "period": "19th century",
+    "keywords": [
+      "folklore",
+      "finland"
+    ],
+    "creatures": [
+      "vainamoinen-finland"
+    ],
+    "source_quality": "unknown",
+    "slug": "the-isle-of-refuge",
+    "version": "1.0.0",
+    "lastUpdated": "2026-07-05",
+    "source_type": "literary"
   },
   {
     "id": "story606",
@@ -395,8 +483,7 @@
     "slug": "ilmarinens-bride-of-gold",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "literary",
-    "schema_org_type": "MythicalCreature"
+    "source_type": "literary"
   },
   {
     "id": "story607",
@@ -428,8 +515,35 @@
     "slug": "ilmarinens-fruitless-wooing",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "literary",
-    "schema_org_type": "MythicalCreature"
+    "source_type": "literary"
+  },
+  {
+    "id": "story638",
+    "title": "The Ice-Maiden",
+    "country": "Denmark",
+    "continent": "Europe",
+    "region": "Danish",
+    "type": "fairy-tale",
+    "summary": "A youth becomes enchanted by a cold, ethereal Ice-Maiden. The story explores themes of love, frozen emotions, and the danger of being lured away from the warmth of human society.",
+    "full_text": "In the rich tradition of Danish folklore, the tale of The Ice-Maiden is told. A youth becomes enchanted by a cold, ethereal Ice-Maiden. The story explores themes of love, frozen emotions, and the danger of being lured away from the warmth of human society. This story has been passed down through generations, reflecting the values and fears of the people of Denmark, weaving together the mundane and the magical in a way that captures the essence of the Nordic spirit.",
+    "themes": [
+      "love"
+    ],
+    "moral": "True love transcends all boundaries.",
+    "source": "Hans Christian Andersen",
+    "period": "19th century",
+    "keywords": [
+      "the ice-maiden",
+      "love"
+    ],
+    "creatures": [
+      "ice-maiden-denmark"
+    ],
+    "source_quality": "unknown",
+    "slug": "the-ice-maiden-1",
+    "version": "1.0.0",
+    "lastUpdated": "2026-07-05",
+    "source_type": "oral_tradition"
   },
   {
     "id": "story771",
@@ -466,8 +580,34 @@
     "slug": "in-the-house-of-ulda",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition",
-    "schema_org_type": "MythicalCreature"
+    "source_type": "oral_tradition"
+  },
+  {
+    "id": "story867",
+    "title": "The Iatiku and Nautsiti Creation (Acoma Pueblo)",
+    "country": "United States",
+    "continent": "North America",
+    "region": "North American",
+    "tribe": "Pueblo",
+    "type": "creation-myth",
+    "summary": "In the Acoma Pueblo creation myth, two sisters named Iatiku (Life Bringer) and Nautsiti (Full Basket) emerged from the underworld through a sacred place called Shipapu, guided by Tsichtinako (Thought Woman). They were given two baskets containing seeds, animal figurines, and sacred objects. Tsichtinako instructed them to pray to the Sun (Uchtsiti), their father, who had created the world from a clot of his own blood. The sisters created the mountains, directions, plants, and animals. Iatiku created the Corn Mother and the Kachinas. Nautsiti introduced death into the world when she disobeyed a taboo. The sisters became the mothers of the Acoma people, with Iatiku's children becoming the Pueblo clans. The story explains the origins of ceremonies, clans, and the relationship between the people, the land, and the spirits.",
+    "source": "Edward Proctor Hunt, The Origin Myth of Acoma Pueblo (1928); Peter Nabokov edition (2015)",
+    "creatures": [
+      "iatiku-pueblo",
+      "nautsiti-pueblo",
+      "tsichtinako-pueblo",
+      "uchtsiti-pueblo",
+      "corn-mother-pueblo",
+      "pautiwa-pueblo",
+      "koshari-pueblo",
+      "spider-woman-navajo"
+    ],
+    "source_quality": "good",
+    "slug": "the-iatiku-and-nautsiti-creation-acoma-pueblo",
+    "version": "1.0.0",
+    "lastUpdated": "2026-07-05",
+    "period": "ancient",
+    "source_type": "oral_tradition"
   },
   {
     "id": "story911",
@@ -487,8 +627,7 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "traditional",
-    "source_type": "oral_tradition",
-    "schema_org_type": "MythicalCreature"
+    "source_type": "oral_tradition"
   },
   {
     "id": "story917",
@@ -508,8 +647,7 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "traditional",
-    "source_type": "oral_tradition",
-    "schema_org_type": "MythicalCreature"
+    "source_type": "oral_tradition"
   },
   {
     "id": "story1022",
@@ -530,8 +668,7 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition",
-    "schema_org_type": "MythicalCreature"
+    "source_type": "oral_tradition"
   },
   {
     "id": "story1175",
@@ -549,8 +686,7 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition",
-    "schema_org_type": "MythicalCreature"
+    "source_type": "oral_tradition"
   },
   {
     "id": "story1266",
@@ -570,8 +706,7 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "traditional",
-    "source_type": "oral_tradition",
-    "schema_org_type": "MythicalCreature"
+    "source_type": "oral_tradition"
   },
   {
     "id": "story1391",
@@ -589,8 +724,7 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "oral tradition",
-    "source_type": "oral_tradition",
-    "schema_org_type": "MythicalCreature"
+    "source_type": "oral_tradition"
   },
   {
     "id": "story1417",
@@ -610,8 +744,7 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "oral tradition",
-    "source_type": "oral_tradition",
-    "schema_org_type": "MythicalCreature"
+    "source_type": "oral_tradition"
   },
   {
     "title": "Ibong Adarna (The Adarna Bird)",
@@ -648,8 +781,7 @@
     "slug": "ibong-adarna-the-adarna-bird",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "literary",
-    "schema_org_type": "MythicalCreature"
+    "source_type": "literary"
   },
   {
     "id": "story1672",
@@ -669,8 +801,7 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "early modern",
-    "source_type": "oral_tradition",
-    "schema_org_type": "MythicalCreature"
+    "source_type": "oral_tradition"
   },
   {
     "id": "story1703",
@@ -696,7 +827,6 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "literary",
-    "schema_org_type": "MythicalCreature"
+    "source_type": "literary"
   }
 ]

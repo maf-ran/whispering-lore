@@ -967,7 +967,6 @@
     ],
     "tags": [],
     "tribe": "Nuxalk",
-    "creatures": null,
     "source": "Franz Boas, The Mythology of the Bella Coola Indians (1898)",
     "stories": [],
     "version": "1.0.0",
@@ -1029,7 +1028,6 @@
     ],
     "gender": "male",
     "offspring": [],
-    "consort": "",
     "parents": [],
     "siblings": [],
     "equivalent": [
@@ -1062,7 +1060,11 @@
     "source_type": "literary",
     "source_quality": "good",
     "cultural_significance": "Qamata is a a deity from Southern Africa mythology, representing important cultural values and traditional beliefs.",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "continent": "Africa",
+    "countries": [
+      "South Africa"
+    ]
   },
   {
     "id": "stub-qals-mink-coast-salish",

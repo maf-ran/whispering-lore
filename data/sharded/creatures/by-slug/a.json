@@ -1,84 +1,5 @@
 [
   {
-    "id": "a-men-rainbow-serpent-0001",
-    "slug": "a-men-rainbow-serpent",
-    "name": "A-Men (Rainbow Serpent)",
-    "country": "Australia",
-    "region": "Pacific",
-    "culture": "Australia",
-    "type": "serpent",
-    "mythology": "Australia",
-    "archetype": "water-spirit",
-    "element": "earth",
-    "aliases": [
-      "a-men (rainbow serpent)"
-    ],
-    "related": [
-      "tiddalik-the-frog",
-      "bunyip",
-      "mo-o",
-      "yawk-yawk",
-      "rainbow-serpent"
-    ],
-    "description": "The A-Men, also known as the Rainbow Serpent, is one of the most powerful ancestral beings in Australian Aboriginal mythology, particularly among the Yolngu and Lardil peoples of Arnhem Land. This immense serpentine creator deity emerged from beneath the earth during the Dreamtime, carving out huge ridges, mountains, and gorges as it pushed upward across the landscape. The Rainbow Serpent is closely associated with water sources such as permanent waterholes, springs, and rivers, and is believed to control the most precious resource of life itself. It is both a benevolent giver of life and a destructive force when angered, capable of summoning powerful storms and cyclones.",
-    "appearance": "The Rainbow Serpent is depicted as an enormous snake of immense proportions, often shown with a large crest or mane upon its head and sometimes with a beard. In Aboriginal rock art, it may appear with multiple heads resembling various marsupials, flying foxes, birds, or even a seahorse-like form with a curved body and long snout. Some depictions give the serpent animal legs, feet, or unusual tails, including crocodile-like tails or three tails. When characterized as female or bigender, it is sometimes shown with breasts. The serpent often appears with scales that shimmer with all the colors of the rainbow, reflecting light like the prismatic halo seen around the moon.",
-    "behavior": "The A-Men inhabits deep permanent waterholes and travels between them either underground or within storm clouds when rain is approaching. It brings life-giving rain to the land and is responsible for the production of water plants such as waterlilies, vines, and palms near water sources. When angered, it manifests thunder and lightning and can cause devastating storms that drown those who have upset it. The Rainbow Serpent participates in male initiation rituals, swallowing young men and regurgitating them as a symbolic transformation. People approaching waterholes perform rituals of respect, announcing their intentions and rubbing earth on their bodies so the serpent can smell them.",
-    "habitat": "Waterholes, sky (as rainbow)",
-    "habitat_tags": [
-      "water",
-      "sky"
-    ],
-    "behavior_tags": [
-      "strangling",
-      "poisonous",
-      "territorial"
-    ],
-    "strengths": [
-      "storm calling",
-      "strength",
-      "venomous bite"
-    ],
-    "weaknesses": [
-      "digging enemies",
-      "land confinement",
-      "drought"
-    ],
-    "cultural_significance": "One of most important creator beings across Aboriginal Australia. Explains water sources and geological formations.",
-    "summary": "Creator being and powerful rainbow serpent from Aboriginal Australian mythology",
-    "fun_fact": "One of most important creator beings across Aboriginal Australia. Explains water sources and geological formations.",
-    "fun_fact_generated": false,
-    "keywords": [
-      "a-men (rainbow serpent)",
-      "australia"
-    ],
-    "search_terms": [
-      "a-men (rainbow serpent)"
-    ],
-    "tags": [],
-    "schema_org_type": "MythicalCreature",
-    "seo_title": "A-Men (Rainbow Serpent) – Australia Folklore",
-    "seo_description": "Creator being and powerful rainbow serpent from Aboriginal Australian mythology. Formed landscapes, controls water, brings rain. Punishes those who br",
-    "motifs": [
-      "A200"
-    ],
-    "featured_in_stories": [],
-    "source": "Aboriginal Australian mythology; the Rainbow Serpent is a creator being.",
-    "source_quality": "expert",
-    "stories": [
-      "ragnark-the-end-and-rebirth",
-      "the-huntress-and-the-great-serpent",
-      "king-lindorm",
-      "the-how-the-twins-of-war-and-chance-fared-with-the-unborn-made-men",
-      "the-maasai-origin-of-fire",
-      "the-rainbow-serpent-and-the-creation-of-the-land",
-      "preah-thong-and-neang-neak-the-founding-of-the-khmer-nation"
-    ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "living_tradition": false,
-    "source_type": "oral_tradition"
-  },
-  {
     "id": "abchanchu-0002",
     "slug": "abchanchu",
     "name": "Abchanchu",
@@ -9396,7 +9317,6 @@
     ],
     "tags": [],
     "tribe": "Nuxalk",
-    "creatures": null,
     "source": "Franz Boas, The Mythology of the Bella Coola Indians (1898)",
     "stories": [],
     "version": "1.0.0",
@@ -9476,7 +9396,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "seo_description": "",
     "source": "Charles C. Jones, Negro Myths from the Georgia Coast (1888)",
     "stories": [
@@ -9564,7 +9483,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "featured_in_stories": [],
     "source": "Aztec mythology; the Ahuizotl is a water creature with a hand on its tail.",
     "source_quality": "expert",
@@ -9636,7 +9554,6 @@
     ],
     "gender": "male",
     "offspring": [],
-    "consort": "",
     "parents": [],
     "siblings": [],
     "equivalent": [],
@@ -9661,7 +9578,11 @@
     "source_type": "literary",
     "source_quality": "expert",
     "cultural_significance": "Supreme creator god in Dogon cosmology, responsible for the creation of the universe and all living things.",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "continent": "Africa",
+    "countries": [
+      "Mali"
+    ]
   },
   {
     "id": "aje-yoruba-3884",
@@ -9729,7 +9650,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "featured_in_stories": [],
     "source": "Yoruba mythology; Aje are the spirits of wealth and prosperity.",
     "source_quality": "good",
@@ -9805,7 +9725,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "featured_in_stories": [],
     "source": "Yoruba mythology; Ajalamo is the divine potter who formed the earth.",
     "source_quality": "good",
@@ -9889,7 +9808,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "featured_in_stories": [],
     "source": "Akan/Ashanti oral tradition, Wikipedia, Akan religion scholarship",
     "source_quality": "good",
@@ -9974,7 +9892,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "featured_in_stories": [],
     "source": "Igbo oral tradition, Odinani, Wikipedia",
     "source_quality": "good",
@@ -10054,7 +9971,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "featured_in_stories": [],
     "source": "Fon/Dahomey oral tradition, Wikipedia",
     "source_quality": "good",
@@ -10136,7 +10052,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "featured_in_stories": [],
     "source": "Fon/Dahomey oral tradition, Wikipedia, Haitian Vodou traditions",
     "source_quality": "good",
@@ -10216,7 +10131,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "featured_in_stories": [],
     "source": "Ethiopian folk tradition, Ethiopian Orthodox syncretic practices",
     "source_quality": "good",
@@ -10230,7 +10144,7 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "syncretic"
+    "source_type": "secondary_scholarly"
   },
   {
     "id": "apwoyo-luo-3924",
@@ -10297,7 +10211,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "featured_in_stories": [],
     "source": [
       "Regional survey of East African indigenous traditions — Kikuyu, Luo, Ganda, Chaga, Malagasy, Maasai, Somali, Ethiopian, and related peoples as documented in regional ethnographic surveys and oral literature collections.",
@@ -10380,7 +10293,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "featured_in_stories": [],
     "source": "Somali oral tradition, Feminism and Religion journal, 'First Footsteps in East Africa' by Richard Burton",
     "source_quality": "good",
@@ -10455,7 +10367,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "featured_in_stories": [],
     "source": "Fijian folklore — the Abaia is a giant eel spirit documented in Melanesian oral tradition.",
     "source_quality": "good",
@@ -10532,7 +10443,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "featured_in_stories": [],
     "source": "Nauruan mythology — Areop-Enap is the creator deity/spider of Nauruan cosmology.",
     "source_quality": "expert",
@@ -10613,7 +10523,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "featured_in_stories": [],
     "source": "Micronesian mythology — Anulap is the creator deity of Chuukese/Pohnpeian cosmology.",
     "source_quality": "good",

@@ -9573,7 +9573,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "source": "Zora Neale Hurston, High John de Conquer (1943)",
     "stories": [
       "high-john-the-conqueror-and-the-devils-daughter",
@@ -9659,7 +9658,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "source": "Charles C. Jones, Negro Myths from the Georgia Coast (1888)",
     "stories": [
       "luz-de-yara-the-spirit-light-of-hatuey",
@@ -9732,7 +9730,6 @@
     "associated_figures": [],
     "gender": "male",
     "offspring": [],
-    "consort": "",
     "parents": [],
     "siblings": [],
     "equivalent": [
@@ -9764,7 +9761,11 @@
     "pronunciation_ipa": "/hlakanyana/",
     "source_quality": "expert",
     "cultural_significance": "Hlakanyana is a a trickster from Southern Africa mythology, representing important cultural values and traditional beliefs.",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "continent": "Africa",
+    "countries": [
+      "South Africa"
+    ]
   },
   {
     "id": "hatuibwari-solomon-3041",
@@ -9826,7 +9827,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "featured_in_stories": [],
     "source": "Solomon Islands mythology — Hatuibwari is the creator deity of the Solomon Islands.",
     "source_quality": "good",

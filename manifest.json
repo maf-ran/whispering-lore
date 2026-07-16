@@ -3,9 +3,13 @@
   "short_name": "WhisperingLore",
   "description": "A comprehensive compendium of world mythology and folklore.",
   "start_url": "/index.html",
+  "scope": "/",
+  "id": "/",
   "display": "standalone",
+  "orientation": "any",
   "background_color": "#0D0D0D",
   "theme_color": "#991B1B",
+  "categories": ["education", "entertainment"],
   "icons": [
     {
       "src": "/favicon.svg",

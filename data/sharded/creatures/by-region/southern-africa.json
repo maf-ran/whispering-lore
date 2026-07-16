@@ -387,7 +387,6 @@
     ],
     "gender": "male",
     "offspring": [],
-    "consort": "",
     "parents": [],
     "siblings": [],
     "equivalent": [
@@ -417,7 +416,11 @@
     "source_type": "literary",
     "source_quality": "expert",
     "cultural_significance": "Central deity in Khoisan cosmology, embodying the divine authority and creative power of the heavens.",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "continent": "Africa",
+    "countries": [
+      "Namibia"
+    ]
   },
   {
     "id": "xue-3335",
@@ -981,7 +984,6 @@
     ],
     "gender": "female",
     "offspring": [],
-    "consort": "",
     "parents": [],
     "siblings": [],
     "equivalent": [
@@ -1011,7 +1013,11 @@
     "source_type": "literary",
     "source_quality": "expert",
     "cultural_significance": "River deity in South African mythology associated with both fertility and danger.",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "continent": "Africa",
+    "countries": [
+      "South Africa"
+    ]
   },
   {
     "id": "matsieng-tswana-3872",
@@ -1067,7 +1073,6 @@
     ],
     "gender": "male",
     "offspring": [],
-    "consort": "",
     "parents": [],
     "siblings": [],
     "equivalent": [],
@@ -1088,7 +1093,11 @@
     "source_type": "literary",
     "source_quality": "expert",
     "cultural_significance": "Legendary hunter-king in Tswana oral tradition who emerged from a cave, leaving footprints still visible today.",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "continent": "Africa",
+    "countries": [
+      "Botswana"
+    ]
   },
   {
     "id": "modimo-tswana-3873",
@@ -1146,7 +1155,6 @@
     ],
     "gender": "both (addressed as Mme - Mother)",
     "offspring": [],
-    "consort": "",
     "parents": [],
     "siblings": [],
     "equivalent": [
@@ -1180,7 +1188,11 @@
     "source_type": "literary",
     "source_quality": "expert",
     "cultural_significance": "Supreme being in Tswana cosmology, both transcendent and immanent creator of all existence.",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "continent": "Africa",
+    "countries": [
+      "Botswana"
+    ]
   },
   {
     "id": "lungu-great-snake-3282",
@@ -1329,7 +1341,6 @@
     ],
     "gender": "male",
     "offspring": [],
-    "consort": "",
     "parents": [],
     "siblings": [],
     "equivalent": [],
@@ -1355,7 +1366,11 @@
     "pronunciation_ipa": "/uŋkulunkuːlu/",
     "source_quality": "expert",
     "cultural_significance": "Unkulunkulu is a a deity from Southern Africa mythology, representing important cultural values and traditional beliefs.",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "continent": "Africa",
+    "countries": [
+      "South Africa"
+    ]
   },
   {
     "id": "kambujanu-0925",
@@ -2359,7 +2374,6 @@
     ],
     "gender": "male",
     "offspring": [],
-    "consort": "",
     "parents": [],
     "siblings": [],
     "equivalent": [
@@ -2389,7 +2403,11 @@
     "source_type": "literary",
     "source_quality": "expert",
     "cultural_significance": "Ga-Gorib is a a monster from Southern Africa mythology, representing important cultural values and traditional beliefs.",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "continent": "Africa",
+    "countries": [
+      "Namibia"
+    ]
   },
   {
     "id": "gaunab-khoikhoi-3854",
@@ -2447,7 +2465,6 @@
     ],
     "gender": "male",
     "offspring": [],
-    "consort": "",
     "parents": [],
     "siblings": [],
     "equivalent": [
@@ -2477,7 +2494,11 @@
     "source_type": "literary",
     "source_quality": "expert",
     "cultural_significance": "//Gaunab is a a deity from Southern Africa mythology, representing important cultural values and traditional beliefs.",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "continent": "Africa",
+    "countries": [
+      "Namibia"
+    ]
   },
   {
     "id": "foxspiritzulu-southafrica-0735",
@@ -3677,7 +3698,6 @@
     ],
     "gender": "male",
     "offspring": [],
-    "consort": "",
     "parents": [],
     "siblings": [],
     "equivalent": [
@@ -3710,7 +3730,11 @@
     "source_type": "literary",
     "source_quality": "good",
     "cultural_significance": "Qamata is a a deity from Southern Africa mythology, representing important cultural values and traditional beliefs.",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "continent": "Africa",
+    "countries": [
+      "South Africa"
+    ]
   },
   {
     "id": "deer-deity-of-shona-0504",
@@ -4068,7 +4092,6 @@
     ],
     "gender": "male",
     "offspring": [],
-    "consort": "",
     "parents": [],
     "siblings": [],
     "equivalent": [
@@ -4097,7 +4120,12 @@
     "source_type": "literary",
     "source_quality": "good",
     "cultural_significance": "Dimo is a a giant from Southern Africa mythology, representing important cultural values and traditional beliefs.",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "continent": "Africa",
+    "countries": [
+      "South Africa",
+      "Lesotho"
+    ]
   },
   {
     "id": "ditaolane-sotho-3871",
@@ -4157,7 +4185,6 @@
     ],
     "gender": "male",
     "offspring": [],
-    "consort": "",
     "parents": [
       {
         "name": "Anonymous mother",
@@ -4197,7 +4224,12 @@
     "source_type": "oral_tradition",
     "source_quality": "good",
     "cultural_significance": "Ditaolane is a a hero from Southern Africa mythology, representing important cultural values and traditional beliefs.",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "continent": "Africa",
+    "countries": [
+      "South Africa",
+      "Lesotho"
+    ]
   },
   {
     "id": "hawk-ancestor-spirit-of-shona-0813",
@@ -4564,7 +4596,6 @@
     "associated_figures": [],
     "gender": "male",
     "offspring": [],
-    "consort": "",
     "parents": [],
     "siblings": [],
     "equivalent": [
@@ -4596,7 +4627,11 @@
     "pronunciation_ipa": "/hlakanyana/",
     "source_quality": "expert",
     "cultural_significance": "Hlakanyana is a a trickster from Southern Africa mythology, representing important cultural values and traditional beliefs.",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "continent": "Africa",
+    "countries": [
+      "South Africa"
+    ]
   },
   {
     "id": "chiruwi-0309",

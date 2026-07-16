@@ -1,5 +1,72 @@
 [
   {
+    "id": "the-chureca-1777",
+    "slug": "the-chureca",
+    "name": "The Chureca",
+    "country": "Virgin Islands",
+    "region": "Caribbean",
+    "culture": "Virgin Islands",
+    "type": "beast",
+    "mythology": "Virgin Islands",
+    "archetype": "forest-spirit",
+    "element": "earth",
+    "aliases": [
+      "the chureca"
+    ],
+    "related": [
+      "chupacabra",
+      "the-rolling-cauldron",
+      "le-zandolite",
+      "yeti",
+      "sun-goat"
+    ],
+    "description": "The Chureca is a beast from Virgin Islands folklore. Owl-like creature whose cry or appearance predicts imminent death in the household. Virgin Islands death omen. Owl messenger. It is said to dwell in Near homes.",
+    "appearance": "Owl-like creature whose cry or appearance predicts imminent death in the household.",
+    "behavior": "Owl-like creature whose cry or appearance predicts imminent death in the household. Owl-like creature whose cry or appearance predicts imminent death in the household. Virgin Islands death omen.",
+    "habitat": "Near homes",
+    "habitat_tags": [
+      "home"
+    ],
+    "behavior_tags": [
+      "appear"
+    ],
+    "strengths": [
+      "grounding",
+      "healing",
+      "stamina"
+    ],
+    "weaknesses": [
+      "fire",
+      "civilization",
+      "traps"
+    ],
+    "cultural_significance": "Virgin Islands death omen. Owl messenger.",
+    "summary": "Owl-like creature whose cry or appearance predicts imminent death in the household",
+    "fun_fact": "Owl-like creature whose cry or appearance predicts imminent death in the household.",
+    "fun_fact_generated": false,
+    "keywords": [
+      "the chureca",
+      "virgin islands"
+    ],
+    "search_terms": [
+      "the chureca"
+    ],
+    "tags": [],
+    "schema_org_type": "MythicalCreature",
+    "seo_title": "The Chureca – Virgin Islands Folklore",
+    "seo_description": "Owl-like creature whose cry or appearance predicts imminent death in the household.",
+    "motifs": [],
+    "featured_in_stories": [],
+    "source": "Virgin Islands folklore — beast documented in Virgin Islands oral tradition.",
+    "source_quality": "fair",
+    "stories": [],
+    "version": "1.0.0",
+    "lastUpdated": "2026-07-05",
+    "living_tradition": false,
+    "source_type": "oral_tradition",
+    "pronunciation_ipa": "/tʃureka/"
+  },
+  {
     "id": "cadejo-centralamerica-0278",
     "slug": "cadejo-centralamerica",
     "name": "Cadejo",
@@ -17557,7 +17624,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "source": "Zora Neale Hurston, Mules and Men (1935)",
     "stories": [
       "the-conjure-doctor-who-outwitted-the-master",
@@ -17641,7 +17707,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "source": "Charles C. Jones, Negro Myths from the Georgia Coast (1888)",
     "stories": [],
     "version": "1.0.0",
@@ -17721,7 +17786,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "featured_in_stories": [],
     "source": "Maya mythology; Camazotz is the bat god associated with night and death.",
     "source_quality": "expert",
@@ -17797,7 +17861,6 @@
     ],
     "gender": "both (male and female forms)",
     "offspring": [],
-    "consort": "",
     "parents": [],
     "siblings": [],
     "equivalent": [
@@ -17825,7 +17888,12 @@
     "source_type": "literary",
     "source_quality": "expert",
     "cultural_significance": "Chiwara is a a spirit from West Africa mythology, representing important cultural values and traditional beliefs.",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "continent": "Africa",
+    "countries": [
+      "Mali",
+      "Guinea"
+    ]
   },
   {
     "id": "caanaba-fulani-3865",
@@ -17887,7 +17955,6 @@
     ],
     "gender": "male",
     "offspring": [],
-    "consort": "",
     "parents": [],
     "siblings": [],
     "equivalent": [
@@ -17914,7 +17981,12 @@
     "pronunciation_ipa": "/caanaba/",
     "source_quality": "expert",
     "cultural_significance": "Caanaba is a a serpent from West Africa mythology, representing important cultural values and traditional beliefs.",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "continent": "Africa",
+    "countries": [
+      "Nigeria",
+      "Guinea"
+    ]
   },
   {
     "id": "chukwu-igbo-3892",
@@ -17984,7 +18056,6 @@
     ],
     "tags": [],
     "tribe": null,
-    "creatures": null,
     "featured_in_stories": [],
     "source": "Igbo oral tradition, Odinani, Wikipedia",
     "source_quality": "good",
