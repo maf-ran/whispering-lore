@@ -34,13 +34,16 @@ jobs:
           METADATA=$(python3 -c "
           import json
           zenodo = json.load(open('.zenodo.json'))
+          lic = zenodo.get('license', 'CC-BY-4.0')
+          if isinstance(lic, dict):
+              lic = lic.get('id', 'CC-BY-4.0')
           print(json.dumps({
               'metadata': {
                   'title': zenodo['title'],
                   'creators': zenodo['creators'],
                   'description': zenodo.get('description', ''),
                   'resource_type': {'type': 'dataset'},
-                  'license': zenodo.get('license', {}).get('id', 'CC-BY-4.0'),
+                  'license': lic,
                   'keywords': zenodo.get('keywords', []),
                   'access_right': 'open'
               }
