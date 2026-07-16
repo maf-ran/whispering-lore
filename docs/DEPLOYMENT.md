@@ -64,6 +64,31 @@ netlify deploy --dir . --prod
    npx playwright test --project=chromium
    ```
 
+## Zenodo DOI Archive
+
+A GitHub Actions workflow (`.github/workflows/zenodo-publish.yml`) automatically archives the dataset to Zenodo when a `v*` tag is pushed. This creates a citable DOI (currently `10.5281/zenodo.21387109`).
+
+### Publishing a new version
+
+```bash
+# 1. Tag the release
+git tag v1.0.0   # or v1.0.1, v1.1.0, etc.
+git push origin v1.0.0
+```
+
+The workflow will:
+1. Create a new Zenodo deposition
+2. Upload `data/datasets/` + `data/sharded/` as a ZIP
+3. Set metadata (title, creators, license CC-BY-4.0, keywords)
+4. Publish and mint a new DOI
+
+### Verifying the archive
+
+After the workflow completes:
+1. Check the GitHub Actions tab for a green run
+2. Visit `https://zenodo.org/deposit/21387109` to confirm the published record
+3. The DOI resolves to `https://doi.org/10.5281/zenodo.21387109`
+
 ## Update from Latest Deployment
 
 If you deployed before the June 29 data overhaul and are updating:

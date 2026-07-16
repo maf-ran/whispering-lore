@@ -1,8 +1,8 @@
 # Whispering Lore — Database Guide
 
-**Last updated:** 2026-05-21  
-**Scope:** `data/datasets/creatures.json` (3063 entries), `data/datasets/stories.json` (1734 entries)  
-**Coverage:** 220 countries, 1296 cultural regions  
+**Last updated:** 2026-07-16  
+**Scope:** `data/datasets/creatures.json` (3668 entries), `data/datasets/stories.json` (1719 entries)  
+**Coverage:** 210 countries, 32 cultural regions  
 
 ---
 
@@ -12,18 +12,18 @@
 
 | Metric | Value |
 |--------|-------|
-| Total entries | 3063 |
-| Unique countries | 220 |
-| Unique regions | 1296 |
-| Unique types | 991 |
-| Unique mythologies | 385 |
+| Total entries | 3668 |
+| Unique countries | 210 |
+| Unique regions | 32 |
+| Unique types | ~100 (canonical 46) |
+| Unique mythologies | ~100 |
 | Field count per entry | 34 |
 
 ### Stories — `data/datasets/stories.json`
 
 | Metric | Value |
 |--------|-------|
-| Total entries | 1734 |
+| Total entries | 1719 |
 | Unique countries | 89 |
 | Unique types | 14 (legend, myth, fairy-tale, etc.) |
 | Field count per entry | 14 |
@@ -311,9 +311,9 @@ The ideal pattern: `slug-countrycode` (e.g. `anansi-ghana`, `anansi-jamaica`).
 
 | Metric | Current | Target | Status |
 |--------|---------|--------|--------|
-| Total creatures | 3063 | — | ✅ |
-| Countries | 220 | 220+ | ✅ |
-| Stories | 1734 | 405+ | ✅ |
+| Total creatures | 3668 | — | ✅ |
+| Countries | 210 | 210+ | ✅ |
+| Stories | 1719 | 405+ | ✅ |
 | Stories per country | ~4.5 | 10+ | 🔶 Stories dataset needs expansion |
 | Creature types | 991 | 40–50 | ❌ Needs consolidation |
 | Creature regions | 1296 | 100–150 | ❌ Needs consolidation |

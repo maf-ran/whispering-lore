@@ -17,6 +17,7 @@
 | keywords | string[] | list | Search keywords |
 | creatures | string[] | ["odin-norway","yggdrasil"] | Creature slugs referenced |
 | source | string | "Norse Mythology (Prose Edda)" | Collection/publication source |
+| source_type | string | "oral_tradition" | oral_tradition or literary |
 | source_quality | string | "unknown" | Reliability rating |
 | period | string | "13th century (older tradition)" | Historical period |
 | lastUpdated | string | "2026-07-05" | Date of last update |

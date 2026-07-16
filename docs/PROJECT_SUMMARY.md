@@ -68,19 +68,19 @@ Whispering Lore/
 - **Skeleton Loaders** — 24 shimmer-animated skeleton cards while data loads.
 - **Tactile Feedback** — `:active` scale/translate transforms on all interactive elements.
 
-## Current Statistics (as of Jun 2026)
+## Current Statistics (as of Jul 2026)
 | Metric | Value |
 |--------|-------|
 | Creatures | 3,668 |
 | Stories | 1,719 |
-| Countries covered | 209+ |
+| Countries covered | 210 |
 | Regions | 32 |
 | Story Types | 13 |
 | Creature Types (canonical) | 46 |
 | HTML pages | 8 |
-| Test suites | 9 (Jest) + 3 (Playwright) |
-| Test count | 52 Jest + 9 Playwright = 61 total |
+| Test suites | 106 total |
 | Descriptions ≥30 chars | 100% |
+| Zenodo DOI | 10.5281/zenodo.21387109 |
 
 ## Running the Project Locally
 ```bash
@@ -109,5 +109,12 @@ python -m http.server 8000
 }
 ```
 
+## Citation
+If you use this dataset, please cite:
+```
+Olsson, Mats. (2026). Whispering Lore: A Comprehensive Digital Compendium of
+World Mythology and Folklore. Zenodo. https://doi.org/10.5281/zenodo.21387109
+```
+
 ## License & Contribution
-MIT-licensed. Contributions should follow the existing data model and run `npm test && npm run lint` before opening a PR.
+CC-BY-4.0 licensed. Contributions should follow the existing data model and run `npm test && npm run lint` before opening a PR.

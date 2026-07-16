@@ -14,7 +14,7 @@
 | Story count | 1719 |
 | Descriptions ≥30 chars | 100% |
 | Stories with creature refs | 1272 / 1719 (74%) |
-| Tests | 52 Jest + 9 Playwright (9 Jest suites + 1 Playwright spec) |
+| Tests | 106 passing (Jest + Playwright) |
 
 ## Top Creature Types
 

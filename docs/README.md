@@ -47,7 +47,7 @@ python -m http.server 8000
 | `data/datasets/by-region/` | Region-split creature JSONs (32 regions, stale — superseded by sharded/) |
 | `data/sharded/` | Shimmer shard system — manifest + region-based shards |
 | `docs/` | Project documentation |
-| `tests/` | Jest test files (45 tests, 8 suites) + Playwright E2E (3 spec, 3 browsers) |
+| `tests/` | Jest test files (106 tests) + Playwright E2E (3 spec, 3 browsers) |
 | `sw.js` | Service worker for offline caching |
 
 ## Notes
