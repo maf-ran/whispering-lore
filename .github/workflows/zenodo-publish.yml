@@ -59,7 +59,7 @@ jobs:
                   'title': zenodo['title'],
                   'creators': zenodo['creators'],
                   'description': zenodo.get('description', ''),
-                  'resource_type': {'type': 'dataset'},
+                  'upload_type': 'dataset',
                   'license': lic,
                   'keywords': zenodo.get('keywords', []),
                   'access_right': 'open'
