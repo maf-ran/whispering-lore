@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Where is a Upior said to dwell?",
+  "choices": [
+    "Roads, Shikoku and Kinki regions",
+    "Graveyards, places of unburied or improperly buried dead",
+    "Banks Islands",
+    "Deep ocean waters and coastal regions of Tonga"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Poland",
+      "region": "Slavic"
+    }
+  }
+}

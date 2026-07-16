@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Where is a Raven Guardian (Ashanti) said to dwell?",
+  "choices": [
+    "Deep ocean waters and coastal regions of Tonga",
+    "Roads, Shikoku and Kinki regions",
+    "Remote swamps and wilderness areas",
+    "Banks Islands"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "Guatemala",
+      "region": "Mesoamerica"
+    }
+  }
+}

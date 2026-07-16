@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Shir (or Sheed) come from?",
+  "choices": [
+    "Pacific",
+    "East Asia and Pacific",
+    "Balkan",
+    "Caucasus"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "Armenia",
+      "region": "Caucasus"
+    }
+  }
+}

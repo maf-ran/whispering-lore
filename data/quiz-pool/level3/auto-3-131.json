@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Where is a Gryphon said to dwell?",
+  "choices": [
+    "Banks Islands",
+    "High mountain crags, remote gold mines, and the celestial co",
+    "Deep ocean waters and coastal regions of Tonga",
+    "Roads, Shikoku and Kinki regions"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Unknown",
+      "region": "West Asia"
+    }
+  }
+}

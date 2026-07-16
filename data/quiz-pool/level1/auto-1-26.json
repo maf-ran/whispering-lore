@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "What type of creature is a Toyol?",
+  "choices": [
+    "vampire",
+    "spirit",
+    "giant",
+    "deity"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Singapore",
+      "region": "Southeast Asia"
+    }
+  }
+}

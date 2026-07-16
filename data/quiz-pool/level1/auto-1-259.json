@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Roc from?",
+  "choices": [
+    "Unknown",
+    "Angola",
+    "Pakistan",
+    "Guam"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Unknown",
+      "region": "West Asia"
+    }
+  }
+}

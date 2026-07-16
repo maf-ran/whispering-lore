@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Shenlha Okar is from China.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "China",
+      "region": "Central Asia"
+    },
+    "trueFalse": {
+      "prompt": "The Shenlha Okar is a type of deity.",
+      "answer": true
+    }
+  }
+}

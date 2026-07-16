@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the ǐKaggen come from?",
+  "choices": [
+    "East Asia and Pacific",
+    "Pacific",
+    "Southern Africa",
+    "Balkan"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "Namibia",
+      "region": "Southern Africa"
+    }
+  }
+}

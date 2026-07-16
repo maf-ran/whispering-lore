@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Rørosgubben from?",
+  "choices": [
+    "Russia",
+    "Samoa",
+    "Norway",
+    "Maldives"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "Norway",
+      "region": "Nordic"
+    }
+  }
+}

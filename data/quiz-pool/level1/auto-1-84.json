@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "What type of creature is a Badger Spirit of Passamaquoddy?",
+  "choices": [
+    "spirit",
+    "vampire",
+    "deity",
+    "giant"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "United States",
+      "region": "North America"
+    }
+  }
+}

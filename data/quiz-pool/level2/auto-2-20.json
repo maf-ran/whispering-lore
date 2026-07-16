@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Al-Khidr come from?",
+  "choices": [
+    "East Asia and Pacific",
+    "Balkan",
+    "Pacific",
+    "Middle East and North Africa"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "Jordan",
+      "region": "Middle East and North Africa"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Kvitormen come from?",
+  "choices": [
+    "East Asia and Pacific",
+    "Pacific",
+    "Nordic",
+    "Balkan"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "Norway",
+      "region": "Nordic"
+    }
+  }
+}

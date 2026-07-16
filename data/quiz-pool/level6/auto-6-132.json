@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Whale Trickster of Dogon primarily dwells in Remote rivers.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Mali",
+      "region": "West Africa"
+    },
+    "trueFalse": {
+      "prompt": "The Whale Trickster of Dogon is native to West Africa.",
+      "answer": true
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Moán primarily dwells in Amazon rainforest.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Colombia",
+      "region": "South America"
+    },
+    "trueFalse": {
+      "prompt": "The Moán is native to South America.",
+      "answer": true
+    }
+  }
+}

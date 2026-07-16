@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Yamm from?",
+  "choices": [
+    "Sweden",
+    "Lebanon",
+    "Argentina",
+    "Jordan"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Lebanon",
+      "region": "Middle East and North Africa"
+    }
+  }
+}

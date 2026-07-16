@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Flying African from?",
+  "choices": [
+    "French Polynesia",
+    "Suriname",
+    "Unknown",
+    "Luxembourg"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "Unknown",
+      "region": "Unknown"
+    }
+  }
+}

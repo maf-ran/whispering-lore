@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Phoenix primarily dwells in High mountain peaks.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Unknown",
+      "region": "World"
+    },
+    "trueFalse": {
+      "prompt": "The Phoenix is native to World.",
+      "answer": true
+    }
+  }
+}

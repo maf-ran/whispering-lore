@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Bama Dat primarily dwells in Place of death.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Myanmar",
+      "region": "Southeast Asia"
+    },
+    "trueFalse": {
+      "prompt": "The Bama Dat is native to Southeast Asia.",
+      "answer": true
+    }
+  }
+}

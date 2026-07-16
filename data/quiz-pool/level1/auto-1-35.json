@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Falcone from?",
+  "choices": [
+    "Pakistan",
+    "Japan",
+    "San Marino",
+    "Sao Tome and Principe"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "San Marino",
+      "region": "Mediterranean"
+    }
+  }
+}

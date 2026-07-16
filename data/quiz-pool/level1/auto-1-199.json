@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Tupilak from?",
+  "choices": [
+    "Ivory Coast",
+    "Liberia",
+    "East Timor",
+    "Greenland"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "Greenland",
+      "region": "Arctic"
+    }
+  }
+}

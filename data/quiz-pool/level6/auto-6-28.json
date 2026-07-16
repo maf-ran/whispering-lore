@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Phi Phrai primarily dwells in Forests.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Thailand",
+      "region": "Southeast Asia"
+    },
+    "trueFalse": {
+      "prompt": "The Phi Phrai is native to Southeast Asia.",
+      "answer": true
+    }
+  }
+}

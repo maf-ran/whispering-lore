@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Raven Guardian (Ashanti) primarily dwells in Remote swamps and wilderness areas.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Guatemala",
+      "region": "Mesoamerica"
+    },
+    "trueFalse": {
+      "prompt": "The Raven Guardian (Ashanti) is native to Mesoamerica.",
+      "answer": true
+    }
+  }
+}

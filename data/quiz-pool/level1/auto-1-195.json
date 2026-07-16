@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Cŵn Annwn from?",
+  "choices": [
+    "Syria",
+    "Wales",
+    "Solomon Islands",
+    "Australia"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Wales",
+      "region": "Celtic"
+    }
+  }
+}

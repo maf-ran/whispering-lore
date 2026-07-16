@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Simorgh from?",
+  "choices": [
+    "Suriname",
+    "Saint Vincent and the Grenadines",
+    "Italy",
+    "Unknown"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "Unknown",
+      "region": "Unknown"
+    }
+  }
+}

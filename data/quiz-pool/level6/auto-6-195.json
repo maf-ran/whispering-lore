@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Cŵn Annwn is from Wales.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Wales",
+      "region": "Celtic"
+    },
+    "trueFalse": {
+      "prompt": "The Cŵn Annwn is a type of werewolf.",
+      "answer": true
+    }
+  }
+}

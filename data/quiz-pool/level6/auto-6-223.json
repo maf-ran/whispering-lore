@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Kishi is from Angola.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Angola",
+      "region": "Central Africa"
+    },
+    "trueFalse": {
+      "prompt": "The Kishi is a type of demon.",
+      "answer": true
+    }
+  }
+}

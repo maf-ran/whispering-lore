@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "What type of creature is a Bear Spirit of Uzbek?",
+  "choices": [
+    "vampire",
+    "giant",
+    "spirit",
+    "deity"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "Uzbekistan",
+      "region": "Central Asia"
+    }
+  }
+}

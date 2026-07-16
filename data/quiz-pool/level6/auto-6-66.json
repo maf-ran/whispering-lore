@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Qarakorshaq primarily dwells in Dark paths.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Turkmenistan",
+      "region": "Central Asia"
+    },
+    "trueFalse": {
+      "prompt": "The Qarakorshaq is native to Central Asia.",
+      "answer": true
+    }
+  }
+}

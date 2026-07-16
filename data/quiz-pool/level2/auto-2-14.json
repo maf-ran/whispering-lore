@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Phi Phrai come from?",
+  "choices": [
+    "Southeast Asia",
+    "East Asia and Pacific",
+    "Balkan",
+    "Pacific"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Thailand",
+      "region": "Southeast Asia"
+    }
+  }
+}

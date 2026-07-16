@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Where is a Yacumama said to dwell?",
+  "choices": [
+    "Deep ocean waters and coastal regions of Tonga",
+    "Roads, Shikoku and Kinki regions",
+    "Rivers, lakes, Amazon",
+    "Banks Islands"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "Peru",
+      "region": "South America"
+    }
+  }
+}

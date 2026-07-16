@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Tule Tree Spirit come from?",
+  "choices": [
+    "East Asia and Pacific",
+    "Pacific",
+    "Balkan",
+    "Mesoamerica"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "Mexico",
+      "region": "Mesoamerica"
+    }
+  }
+}

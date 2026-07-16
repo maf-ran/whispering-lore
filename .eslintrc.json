@@ -1,0 +1,21 @@
+{
+  "env": {
+    "browser": true,
+    "es2021": true,
+    "jest": true
+  },
+  "extends": "eslint:recommended",
+  "parserOptions": {
+    "ecmaVersion": "latest"
+  },
+  "rules": {
+    "no-unused-vars": ["warn", { "argsIgnorePattern": "^_" }],
+    "no-console": "off",
+    "semi": ["warn", "never"],
+    "quotes": ["warn", "single", { "avoidEscape": true }],
+    "no-var": "warn",
+    "prefer-const": "warn",
+    "eqeqeq": ["warn", "always"]
+  },
+  "ignorePatterns": ["node_modules/", "data/", "output/", "js/stories-data.js"]
+}

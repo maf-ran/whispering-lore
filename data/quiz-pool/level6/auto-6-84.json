@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Badger Spirit of Passamaquoddy primarily dwells in Not documented in Passamaquoddy tradition.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "United States",
+      "region": "North America"
+    },
+    "trueFalse": {
+      "prompt": "The Badger Spirit of Passamaquoddy is native to North America.",
+      "answer": true
+    }
+  }
+}

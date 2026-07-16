@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Syöjätär primarily dwells in A desolate.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Finland",
+      "region": "Nordic"
+    },
+    "trueFalse": {
+      "prompt": "The Syöjätär is native to Nordic.",
+      "answer": true
+    }
+  }
+}

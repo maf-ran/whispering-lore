@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Yamm come from?",
+  "choices": [
+    "East Asia and Pacific",
+    "Balkan",
+    "Middle East and North Africa",
+    "Pacific"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "Lebanon",
+      "region": "Middle East and North Africa"
+    }
+  }
+}

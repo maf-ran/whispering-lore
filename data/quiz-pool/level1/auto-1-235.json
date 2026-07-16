@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Sea Troll from?",
+  "choices": [
+    "Unknown",
+    "East Timor",
+    "Gambia",
+    "Lebanon"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Unknown",
+      "region": "Unknown"
+    }
+  }
+}

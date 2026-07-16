@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Gryphon come from?",
+  "choices": [
+    "East Asia and Pacific",
+    "West Asia",
+    "Pacific",
+    "Balkan"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Unknown",
+      "region": "West Asia"
+    }
+  }
+}

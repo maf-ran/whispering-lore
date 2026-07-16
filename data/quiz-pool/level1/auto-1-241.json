@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Thanh Gióng from?",
+  "choices": [
+    "Croatia",
+    "Senegal",
+    "United Arab Emirates",
+    "Unknown"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "Unknown",
+      "region": "Unknown"
+    }
+  }
+}

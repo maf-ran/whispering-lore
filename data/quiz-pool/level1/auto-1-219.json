@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Shir (or Sheed) from?",
+  "choices": [
+    "Thailand",
+    "Armenia",
+    "Tuvalu",
+    "Colombia"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Armenia",
+      "region": "Caucasus"
+    }
+  }
+}

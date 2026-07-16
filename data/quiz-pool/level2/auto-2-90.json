@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Fairy come from?",
+  "choices": [
+    "East Asia and Pacific",
+    "Pacific",
+    "Balkan",
+    "Nordic"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "Denmark",
+      "region": "Nordic"
+    }
+  }
+}

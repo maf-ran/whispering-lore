@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Moán from?",
+  "choices": [
+    "Morocco",
+    "Eswatini",
+    "Central African Republic",
+    "Colombia"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "Colombia",
+      "region": "South America"
+    }
+  }
+}

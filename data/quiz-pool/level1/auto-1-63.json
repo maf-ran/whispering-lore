@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Kurka (Raven Creator) from?",
+  "choices": [
+    "Belgium",
+    "Russia",
+    "Libya",
+    "Tuvalu"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Russia",
+      "region": "Central Asia"
+    }
+  }
+}

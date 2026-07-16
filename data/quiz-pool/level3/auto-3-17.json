@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Where is a Skiapod said to dwell?",
+  "choices": [
+    "Deep ocean waters and coastal regions of Tonga",
+    "Roads, Shikoku and Kinki regions",
+    "Islands — Wilderness and borderlands of Greek",
+    "Banks Islands"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "Greece",
+      "region": "Mediterranean"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the White God of the East (Xastc'inilgaiyîn) from?",
+  "choices": [
+    "Kosovo",
+    "Liberia",
+    "Greenland",
+    "United States"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "United States",
+      "region": "North America"
+    }
+  }
+}

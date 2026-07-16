@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Hóu-koô-pô come from?",
+  "choices": [
+    "East Asia and Pacific",
+    "Balkan",
+    "Southeast Asia",
+    "Pacific"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Taiwan",
+      "region": "East Asia and Pacific"
+    }
+  }
+}

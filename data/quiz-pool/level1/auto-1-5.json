@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Lemjel from?",
+  "choices": [
+    "Marshall Islands",
+    "Pakistan",
+    "Cameroon",
+    "Brazil"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Marshall Islands",
+      "region": "Pacific"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Kaang from?",
+  "choices": [
+    "Solomon Islands",
+    "Unknown",
+    "Costa Rica",
+    "Tibet"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Unknown",
+      "region": "Unknown"
+    }
+  }
+}

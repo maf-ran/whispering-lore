@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Zana from?",
+  "choices": [
+    "North Korea",
+    "Thailand",
+    "Azerbaijan",
+    "Albania"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "Albania",
+      "region": "Balkan"
+    }
+  }
+}

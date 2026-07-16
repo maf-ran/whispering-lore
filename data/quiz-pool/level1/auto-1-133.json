@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Mbe (Tortoise) from?",
+  "choices": [
+    "Liberia",
+    "Sudan",
+    "Eswatini",
+    "Nigeria"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "Nigeria",
+      "region": "West Africa"
+    }
+  }
+}

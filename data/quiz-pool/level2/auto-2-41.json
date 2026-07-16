@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Stihi (or Stihini) come from?",
+  "choices": [
+    "Pacific",
+    "North America",
+    "East Asia and Pacific",
+    "Balkan"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "United States",
+      "region": "North America"
+    }
+  }
+}

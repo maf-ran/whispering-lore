@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Qalupalik is from Greenland.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Greenland",
+      "region": "Arctic"
+    },
+    "trueFalse": {
+      "prompt": "The Qalupalik is a type of aquatic-humanoid.",
+      "answer": true
+    }
+  }
+}

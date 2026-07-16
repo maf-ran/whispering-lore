@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Duppy from?",
+  "choices": [
+    "Djibouti",
+    "Tonga",
+    "Bahamas",
+    "Guyana"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "Bahamas",
+      "region": "Caribbean"
+    }
+  }
+}

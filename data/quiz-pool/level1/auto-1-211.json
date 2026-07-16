@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Imana from?",
+  "choices": [
+    "Rwanda",
+    "Tajikistan",
+    "Sudan",
+    "Chile"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Rwanda",
+      "region": "East Africa"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Trickster primarily dwells in Natural world.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Jamaica",
+      "region": "Caribbean"
+    },
+    "trueFalse": {
+      "prompt": "The Trickster is native to Caribbean.",
+      "answer": true
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Tamate (Dancing Spirits) primarily dwells in The mythical islet of Veluko and the island of Vanikoro.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Solomon Islands",
+      "region": "Pacific"
+    },
+    "trueFalse": {
+      "prompt": "The Tamate (Dancing Spirits) is native to Pacific.",
+      "answer": true
+    }
+  }
+}

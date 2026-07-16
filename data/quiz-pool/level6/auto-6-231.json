@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Hoggar Mountain Spirits (Kel Ahaggar) is from Algeria.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Algeria",
+      "region": "Africa"
+    },
+    "trueFalse": {
+      "prompt": "The Hoggar Mountain Spirits (Kel Ahaggar) is a type of spirit.",
+      "answer": true
+    }
+  }
+}

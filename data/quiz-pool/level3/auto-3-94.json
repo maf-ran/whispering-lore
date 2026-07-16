@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Where is a Deer Ghost of Mapuche said to dwell?",
+  "choices": [
+    "Roads, Shikoku and Kinki regions",
+    "Deep ocean waters and coastal regions of Tonga",
+    "Remote oceans",
+    "Banks Islands"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "Chile",
+      "region": "South America"
+    }
+  }
+}

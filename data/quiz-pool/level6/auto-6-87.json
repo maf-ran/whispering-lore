@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Anarteq is from Greenland.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Greenland",
+      "region": "North America"
+    },
+    "trueFalse": {
+      "prompt": "The Anarteq is a type of salmon-spirit.",
+      "answer": true
+    }
+  }
+}

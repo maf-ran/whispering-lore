@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Br'er Buzzard is from United States.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "United States",
+      "region": "North America"
+    },
+    "trueFalse": {
+      "prompt": "The Br'er Buzzard is a type of trickster.",
+      "answer": true
+    }
+  }
+}

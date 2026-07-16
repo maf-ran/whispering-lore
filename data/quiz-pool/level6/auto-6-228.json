@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Storjunkare primarily dwells in Mountaintops.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Norway",
+      "region": "Sami"
+    },
+    "trueFalse": {
+      "prompt": "The Storjunkare is native to Sami.",
+      "answer": true
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Shir (or Sheed) is from Armenia.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Armenia",
+      "region": "Caucasus"
+    },
+    "trueFalse": {
+      "prompt": "The Shir (or Sheed) is a type of animal-spirit.",
+      "answer": true
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Xhindet from?",
+  "choices": [
+    "Portugal",
+    "Mauritius",
+    "Mongolia",
+    "Albania"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "Albania",
+      "region": "Balkan"
+    }
+  }
+}

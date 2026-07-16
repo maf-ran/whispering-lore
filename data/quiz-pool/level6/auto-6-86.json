@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Mountain Giant (Tupi) primarily dwells in Natural environment appropriate to the being.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Canada",
+      "region": "North America"
+    },
+    "trueFalse": {
+      "prompt": "The Mountain Giant (Tupi) is native to North America.",
+      "answer": true
+    }
+  }
+}

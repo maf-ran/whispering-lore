@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "What type of creature is a Mbe (Tortoise)?",
+  "choices": [
+    "vampire",
+    "giant",
+    "spirit",
+    "deity"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "Nigeria",
+      "region": "West Africa"
+    }
+  }
+}

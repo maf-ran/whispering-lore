@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Where is a Kvitormen said to dwell?",
+  "choices": [
+    "Banks Islands",
+    "Deep ocean waters and coastal regions of Tonga",
+    "Roads, Shikoku and Kinki regions",
+    "Forests, meadows, and rocky hillsides in Lyngdal, Bjelland, "
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "Norway",
+      "region": "Nordic"
+    }
+  }
+}

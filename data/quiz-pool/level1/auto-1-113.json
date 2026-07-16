@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Mishipizheu from?",
+  "choices": [
+    "Thailand",
+    "Grenada",
+    "Canada",
+    "China"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "Canada",
+      "region": "North America"
+    }
+  }
+}

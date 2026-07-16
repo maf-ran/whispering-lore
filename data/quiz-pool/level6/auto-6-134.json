@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Mbe (Tortoise) primarily dwells in Forests.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Nigeria",
+      "region": "West Africa"
+    },
+    "trueFalse": {
+      "prompt": "The Mbe (Tortoise) is native to West Africa.",
+      "answer": true
+    }
+  }
+}

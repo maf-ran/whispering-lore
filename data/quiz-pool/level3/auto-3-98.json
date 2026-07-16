@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Where is a Cŵn Annwn said to dwell?",
+  "choices": [
+    "Deep ocean waters and coastal regions of Tonga",
+    "Banks Islands",
+    "Roads, Shikoku and Kinki regions",
+    "Otherworld, appearing in wild places, mountains"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "Wales",
+      "region": "Celtic"
+    }
+  }
+}

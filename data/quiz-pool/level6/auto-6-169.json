@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Bortbyting is from Sweden.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Sweden",
+      "region": "Nordic"
+    },
+    "trueFalse": {
+      "prompt": "The Bortbyting is a type of fairy.",
+      "answer": true
+    }
+  }
+}

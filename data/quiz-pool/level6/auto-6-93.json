@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Wildcat Deity of Ute is from United States.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "United States",
+      "region": "North America"
+    },
+    "trueFalse": {
+      "prompt": "The Wildcat Deity of Ute is a type of deity.",
+      "answer": true
+    }
+  }
+}

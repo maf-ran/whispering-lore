@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Bison Ghost of Lakota primarily dwells in Remote undergrounds.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "United States",
+      "region": "North America"
+    },
+    "trueFalse": {
+      "prompt": "The Bison Ghost of Lakota is native to North America.",
+      "answer": true
+    }
+  }
+}

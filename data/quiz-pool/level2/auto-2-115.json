@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Rana Niejta come from?",
+  "choices": [
+    "Balkan",
+    "East Asia and Pacific",
+    "Pacific",
+    "Sami"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "Norway",
+      "region": "Sami"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "What type of creature is a Hi'iaka?",
+  "choices": [
+    "monster",
+    "deity",
+    "giant",
+    "vampire"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "United States",
+      "region": "Pacific"
+    }
+  }
+}

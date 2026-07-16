@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Yunwi Tsunsdi from?",
+  "choices": [
+    "United States",
+    "Turkmenistan",
+    "Guatemala",
+    "Tajikistan"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "United States",
+      "region": "North America"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Rørosgubben is from Norway.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Norway",
+      "region": "Nordic"
+    },
+    "trueFalse": {
+      "prompt": "The Rørosgubben is a type of ghost.",
+      "answer": true
+    }
+  }
+}

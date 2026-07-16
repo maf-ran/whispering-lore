@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Bjarndýrakóngur primarily dwells in The Arctic regions and the Greenland Sea.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Iceland",
+      "region": "Nordic"
+    },
+    "trueFalse": {
+      "prompt": "The Bjarndýrakóngur is native to Nordic.",
+      "answer": true
+    }
+  }
+}

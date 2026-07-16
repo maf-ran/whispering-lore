@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "What type of creature is a Mba-Soêmba?",
+  "choices": [
+    "vampire",
+    "trickster-animal",
+    "giant",
+    "deity"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Burkina Faso",
+      "region": "West Africa"
+    }
+  }
+}

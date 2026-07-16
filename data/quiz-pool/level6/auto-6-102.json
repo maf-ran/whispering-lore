@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Thunderbird primarily dwells in The sky.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "United States",
+      "region": "North America"
+    },
+    "trueFalse": {
+      "prompt": "The Thunderbird is native to North America.",
+      "answer": true
+    }
+  }
+}

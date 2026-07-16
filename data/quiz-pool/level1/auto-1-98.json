@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "What type of creature is a Little Giver?",
+  "choices": [
+    "giant",
+    "spirit",
+    "deity",
+    "vampire"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "United States",
+      "region": "North America"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Imizimu from?",
+  "choices": [
+    "Bangladesh",
+    "Bhutan",
+    "Palau",
+    "Burundi"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "Burundi",
+      "region": "East Africa"
+    }
+  }
+}

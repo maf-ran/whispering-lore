@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Bunyip is from Australia.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Australia",
+      "region": "Pacific"
+    },
+    "trueFalse": {
+      "prompt": "The Bunyip is a type of monster.",
+      "answer": true
+    }
+  }
+}

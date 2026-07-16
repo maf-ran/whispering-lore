@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Zmey from?",
+  "choices": [
+    "Tibet",
+    "Cape Verde",
+    "Bulgaria",
+    "Georgia"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "Bulgaria",
+      "region": "Slavic"
+    }
+  }
+}

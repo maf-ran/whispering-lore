@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Where is a Toyol said to dwell?",
+  "choices": [
+    "Roads, Shikoku and Kinki regions",
+    "Hidden in homes of bomohs, usually in roof spaces or dark co",
+    "Deep ocean waters and coastal regions of Tonga",
+    "Banks Islands"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Singapore",
+      "region": "Southeast Asia"
+    }
+  }
+}

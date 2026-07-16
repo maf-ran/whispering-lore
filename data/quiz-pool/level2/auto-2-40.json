@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Moose Trickster of Blackfoot come from?",
+  "choices": [
+    "East Asia and Pacific",
+    "North America",
+    "Balkan",
+    "Pacific"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Canada",
+      "region": "North America"
+    }
+  }
+}

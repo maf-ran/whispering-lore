@@ -1,0 +1,38 @@
+.aider*
+.worktrees/
+worktrees/
+session-*.md
+*.zip
+feroxbuster*
+common.txt
+security_analysis.json
+archive/
+node_modules/
+.DS_Store
+.playwright/
+.playwright-cli/
+playwright-report/
+test-results/
+screenshots/
+
+# Artifacts
+.superpowers/brainstorm/
+skills/ui-screenshot-to-prompt/
+output/
+_*.js
+africa-creatures.json
+new-african-creatures.json
+iraq-lebanon-creatures.json
+*_output.json
+path
+UI\ refernces/
+*.bak
+*__pycache__/
+*.pyc
+.opencode/New\ File.txt
+
+# Construction artifacts
+backup_v2/
+data/stories_batch_1_*
+data/missing_stories_gap.json
+scripts/

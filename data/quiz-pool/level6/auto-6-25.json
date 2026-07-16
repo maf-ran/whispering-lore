@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Toyol is from Singapore.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Singapore",
+      "region": "Southeast Asia"
+    },
+    "trueFalse": {
+      "prompt": "The Toyol is a type of spirit.",
+      "answer": true
+    }
+  }
+}

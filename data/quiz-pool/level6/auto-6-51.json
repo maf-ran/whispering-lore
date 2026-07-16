@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Wichtel is from Germany.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Germany",
+      "region": "Germanic"
+    },
+    "trueFalse": {
+      "prompt": "The Wichtel is a type of household-spirit.",
+      "answer": true
+    }
+  }
+}

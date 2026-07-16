@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Si'luwa from?",
+  "choices": [
+    "Hawaii",
+    "Saint Kitts and Nevis",
+    "Iraq",
+    "Grenada"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "Iraq",
+      "region": "Middle East and North Africa"
+    }
+  }
+}

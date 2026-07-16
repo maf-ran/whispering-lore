@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Mba-Soêmba from?",
+  "choices": [
+    "Burkina Faso",
+    "North Korea",
+    "North Macedonia",
+    "Jamaica"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Burkina Faso",
+      "region": "West Africa"
+    }
+  }
+}

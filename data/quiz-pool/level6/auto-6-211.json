@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Imana is from Rwanda.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Rwanda",
+      "region": "East Africa"
+    },
+    "trueFalse": {
+      "prompt": "The Imana is a type of deity.",
+      "answer": true
+    }
+  }
+}

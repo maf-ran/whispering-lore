@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Si'luwa come from?",
+  "choices": [
+    "East Asia and Pacific",
+    "Middle East and North Africa",
+    "Balkan",
+    "Pacific"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Iraq",
+      "region": "Middle East and North Africa"
+    }
+  }
+}

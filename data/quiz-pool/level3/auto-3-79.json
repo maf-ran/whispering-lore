@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Where is a Rannamaari (Sea Demon of the Maldives) said to dwell?",
+  "choices": [
+    "Roads, Shikoku and Kinki regions",
+    "Deep ocean waters and coastal regions of Tonga",
+    "Eastern seafront of Malé, the Indian Ocean surrounding the M",
+    "Banks Islands"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "Maldives",
+      "region": "South Asia"
+    }
+  }
+}

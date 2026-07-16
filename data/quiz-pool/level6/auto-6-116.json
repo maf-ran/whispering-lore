@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Nanook primarily dwells in Arctic ice.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Canada",
+      "region": "North America"
+    },
+    "trueFalse": {
+      "prompt": "The Nanook is native to North America.",
+      "answer": true
+    }
+  }
+}

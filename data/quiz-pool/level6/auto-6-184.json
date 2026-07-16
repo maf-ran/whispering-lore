@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Manco Cápac primarily dwells in Lake Titicaca.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Peru",
+      "region": "South America"
+    },
+    "trueFalse": {
+      "prompt": "The Manco Cápac is native to South America.",
+      "answer": true
+    }
+  }
+}

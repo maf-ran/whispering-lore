@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "What type of creature is a Imana?",
+  "choices": [
+    "deity",
+    "giant",
+    "monster",
+    "vampire"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Rwanda",
+      "region": "East Africa"
+    }
+  }
+}

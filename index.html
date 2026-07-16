@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <script>
+    (function(){
+      var t = localStorage.getItem('theme');
+      if (!t) t = window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark';
+      if (t === 'light') document.documentElement.setAttribute('data-theme', 'light');
+    })();
+  </script>
+  <meta name="color-scheme" content="dark light" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Whispering Lore — The Definitive World Mythology Database</title>
+  <meta name="description" content="The most comprehensive digital compendium and world mythology database of mythical creatures, folklore, and ancient legends from every culture on Earth." />
+  <link rel="canonical" href="https://whisperinglore.com/" />
+
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Whispering Lore — The Definitive World Mythology Database" />
+  <meta property="og:description" content="The most comprehensive digital compendium and world mythology database of mythical creatures, folklore, and ancient legends from every culture on Earth." />
+  <meta property="og:image" content="https://whisperinglore.com/og-image.svg" />
+  <meta property="og:url" content="https://whisperinglore.com/" />
+  <meta name="twitter:card" content="summary_large_image" />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&family=Lora:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/styles.css" />
+  <link rel="icon" type="image/svg+xml" href="favicon.svg" />
+  <script src="https://unpkg.com/@phosphor-icons/web"></script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Whispering Lore",
+    "url": "https://whisperinglore.com",
+    "logo": "https://whisperinglore.com/favicon.svg",
+    "description": "A comprehensive digital compendium and world mythology database dedicated to preserving the mythical creatures, legends, and folklore of human civilization."
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Whispering Lore — The Definitive World Mythology Database",
+    "description": "The most comprehensive digital compendium and world mythology database of mythical creatures, folklore, and ancient legends from every culture on Earth.",
+    "url": "https://whisperinglore.com/",
+    "inLanguage": ["en"]
+  }
+  </script>
+  <link rel="manifest" href="manifest.json">
+  </head>
+<body>
+
+  <a href="#main-content" class="skip-link">Skip to content</a>
+
+  <header>
+    <div class="header-nav-group">
+      <nav id="site-nav" aria-label="Main navigation">
+      <a href="index.html" class="active">HOME</a>
+      <a href="bestiary.html">BESTIARY</a>
+      <a href="stories.html">STORIES</a>
+      <a href="world.html">WORLD</a>
+      <a href="quiz.html">EXAMINATION</a>
+      <a href="about.html">ABOUT</a>
+      <a href="mylore.html">MY LORE</a>
+      <a href="methodology.html">METHODOLOGY</a>
+      </nav>
+    </div>
+    <button class="theme-toggle" id="theme-toggle" aria-label="Toggle light/dark mode">
+      <svg class="theme-icon-light" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true" focusable="false">
+        <circle cx="12" cy="12" r="5"/>
+        <path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/>
+      </svg>
+      <svg class="theme-icon-dark" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true" focusable="false" style="display:none">
+        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>
+      </svg>
+    </button>
+  </header>
+  <main id="main-content">
+
+  <!-- ── Hero ── -->
+  <section class="hero">
+    <div class="hero-bg"></div>
+    <canvas id="rune-canvas" class="rune-scatter" aria-hidden="true"></canvas>
+
+    <div class="hero-content">
+      <h1>Whispering <span class="hero-accent">LORE</span></h1>
+      <p>A digital compendium of mythical creatures, forgotten legends, and ancient folklore from every corner of the world.</p>
+       <div class="hero-actions">
+          <a href="bestiary.html" class="btn-ghost">Explore Bestiary</a>
+          <a href="stories.html" class="btn-ghost">Read Stories</a>
+          <button class="btn-ghost" id="btn-random-creature">Random Creature</button>
+          <button class="btn-ghost" id="btn-random-story">Random Story</button>
+          <button class="btn-ghost" id="btn-surprise-me">Surprise Me</button>
+        </div>
+      <div class="hero-stats">
+        <div class="hero-stat">
+           <span class="hero-stat-num" id="stat-creatures">3,668</span>
+           <span class="hero-stat-label">Creatures</span>
+         </div>
+         <div class="hero-stat">
+               <span class="hero-stat-num" id="stat-stories">1,719</span>
+           <span class="hero-stat-label">Stories</span>
+         </div>
+         <div class="hero-stat">
+             <span class="hero-stat-num" id="stat-countries">209</span>
+           <span class="hero-stat-label">Countries</span>
+         </div>
+      </div>
+    </div>
+
+    <button class="hero-feature-pill" id="hero-feature-pill" onclick="document.getElementById('daily-feature').scrollIntoView({behavior:'smooth'})">TODAY'S FEATURE ↓</button>
+    <span class="hero-scroll">Scroll to explore</span>
+  </section>
+
+  <!-- ── Daily Feature ── -->
+  <section class="daily-feature" id="daily-feature">
+    <div class="daily-feature-frame-top" aria-hidden="true"></div>
+    <div class="daily-feature-frame-bottom" aria-hidden="true"></div>
+    <div class="daily-feature-frame-left" aria-hidden="true"></div>
+    <div class="daily-feature-frame-right" aria-hidden="true"></div>
+    <div class="section-heading">
+      <h2>Today's Feature</h2>
+      <span class="gold-line"></span>
+    </div>
+    <div class="feature-grid">
+      <div class="feature-card" id="daily-creature">
+        <span class="accent-line"></span>
+        <span class="feature-badge">Creature of the Day</span>
+        <p class="feature-excerpt">Awaiting the day's legend...</p>
+      </div>
+      <div class="feature-card" id="daily-story">
+        <span class="accent-line"></span>
+        <span class="feature-badge">Story of the Day</span>
+        <p class="feature-excerpt">Awaiting the day's tale...</p>
+      </div>
+    </div>
+  </section>
+
+  <div class="section-divider" aria-hidden="true">
+    <svg viewBox="0 0 120 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M60 2 C70 2 80 6 88 14 C96 22 106 26 118 26" stroke="#991B1B" stroke-width="0.8" fill="none" opacity="0.6"/>
+      <path d="M60 2 C50 2 40 6 32 14 C24 22 14 26 2 26" stroke="#991B1B" stroke-width="0.8" fill="none" opacity="0.6"/>
+    </svg>
+  </div>
+
+  <section class="grid-section">
+    <div class="section-heading">
+      <h2>Explore the Lore</h2>
+      <span class="gold-line"></span>
+    </div>
+    <div class="content-grid content-grid--asymmetric">
+      <article class="card">
+        <div class="card-image-placeholder"><svg viewBox="0 0 48 48" fill="none" width="36" height="36" opacity="0.25"><path d="M24 6L8 18v12l16 12 16-12V18L24 6z" stroke="currentColor" stroke-width="0.8"/><circle cx="24" cy="24" r="6" stroke="currentColor" stroke-width="0.8"/><circle cx="20" cy="20" r="2" fill="currentColor"/><circle cx="28" cy="20" r="2" fill="currentColor"/><path d="M20 26c2 2 6 2 8 0" stroke="currentColor" stroke-width="0.8"/></svg></div>
+        <div class="card-body">
+          <span class="gold-accent"></span>
+          <h3>Mythical Creatures</h3>
+          <p>Discover dragons, spirits, and legendary beings from 209 countries and cultures across the world.</p>
+          <a href="bestiary.html" class="card-cta">Enter the Bestiary</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-image-placeholder"><svg viewBox="0 0 48 48" fill="none" width="36" height="36" opacity="0.25"><path d="M10 8h28v32H10V8z" stroke="currentColor" stroke-width="0.8"/><path d="M14 14h20v2H14v-2zm0 5h20v2H14v-2zm0 5h20v2H14v-2zm0 5h14v2H14v-2z" stroke="currentColor" stroke-width="0.6"/><path d="M34 30l4 4v6" stroke="currentColor" stroke-width="0.8"/></svg></div>
+        <div class="card-body">
+          <span class="gold-accent"></span>
+          <h3>Folklore Stories</h3>
+          <p>Journey through classic folktales, epic myths, and cautionary legends passed down through generations.</p>
+          <a href="stories.html" class="card-cta">Read Tales</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-image-placeholder"><svg viewBox="0 0 48 48" fill="none" width="36" height="36" opacity="0.25"><circle cx="24" cy="24" r="18" stroke="currentColor" stroke-width="0.8"/><ellipse cx="24" cy="24" rx="10" ry="18" stroke="currentColor" stroke-width="0.8"/><path d="M6 24h36M18 6.5c-4 5.5-4 16 0 21M30 6.5c4 5.5 4 16 0 21" stroke="currentColor" stroke-width="0.6"/></svg></div>
+        <div class="card-body">
+          <span class="gold-accent"></span>
+          <h3>Worldbuilding Atlas</h3>
+          <p>Explore the rich tapestry of cultural mythology — from Nordic sagas to East Asian yōkai and African trickster tales.</p>
+          <a href="world.html" class="card-cta">Explore the World</a>
+        </div>
+      </article>
+    </div>
+  </section>
+
+  <section class="world-section">
+    <div class="world-inner" style="opacity:0; animation:fadeInUp 1.2s ease 0.3s forwards;">
+      <div class="world-image">
+        <svg viewBox="0 0 400 200" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" aria-hidden="true" style="position:absolute;inset:0;"><defs><linearGradient id="mtnGrad" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#1C1917"/><stop offset="100%" stop-color="#0D0D0D"/></linearGradient><linearGradient id="skyGrad" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#0D0D0D"/><stop offset="100%" stop-color="#1C1917"/></linearGradient></defs><rect width="400" height="200" fill="url(#skyGrad)"/><path d="M0 160 L60 80 L120 130 L180 50 L240 110 L300 60 L360 100 L400 140 L400 200 L0 200Z" fill="#1C1917" opacity="0.6"/><path d="M0 180 L80 120 L160 150 L220 100 L280 140 L340 90 L400 130 L400 200 L0 200Z" fill="#0D0D0D" opacity="0.8"/><ellipse cx="200" cy="100" rx="160" ry="24" fill="rgba(214,211,200,0.03)" filter="url(#blur)"/><circle cx="100" cy="80" r="40" fill="rgba(214,211,200,0.02)" filter="url(#blur)"/><circle cx="300" cy="90" r="50" fill="rgba(214,211,200,0.02)" filter="url(#blur)"/></svg>
+      </div>
+      <div class="world-text">
+        <span class="gold-line"></span>
+        <h2>Realm of Echoes</h2>
+        <p>Across mist-shrouded valleys and ancient ruins, the Whispering Lore world weaves together mythic fragments from every civilization. Each story is a thread in an ever-growing tapestry — a living archive of humanity's imagination, waiting for the curious to uncover its secrets.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="latest-section">
+    <div class="latest-inner">
+      <div class="section-heading">
+        <h2>Latest Additions</h2>
+        <span class="gold-line"></span>
+      </div>
+      <div class="latest-grid" id="latest-grid">
+        <!-- Populated by JS -->
+      </div>
+    </div>
+  </section>
+  </main>
+
+  <footer>
+    <span class="gold-line"></span>
+    <div class="footer-nav" aria-label="Footer navigation">
+      <a href="index.html">Home</a>
+      <a href="bestiary.html">Bestiary</a>
+      <a href="stories.html">Stories</a>
+      <a href="world.html">World</a>
+      <a href="quiz.html">Examination</a>
+      <a href="about.html">About</a>
+      <a href="mylore.html">My Lore</a>
+      <a href="methodology.html">Methodology</a>
+    </div>
+    <p>Whispering Lore &nbsp;<span class="logo-mark" style="width:0.9em;height:0.9em;display:inline-block;vertical-align:middle;" aria-hidden="true"><svg viewBox="0 0 32 32" fill="none" width="100%" height="100%"><path d="M16 2L30 16L16 30L2 16L16 2Z" stroke="currentColor" stroke-width="1.5"/><path d="M16 8L24 16L16 24L8 16L16 8Z" stroke="currentColor" stroke-width="1"/><path d="M2 16H30" stroke="currentColor" stroke-width="0.8" opacity="0.4"/><path d="M16 2V30" stroke="currentColor" stroke-width="0.8" opacity="0.4"/></svg></span>&nbsp; 2026</p>
+    <p style="margin-top:0.25rem; font-size:0.7rem;">Preserving the myths and legends of humanity</p>
+  </footer>
+
+  <script src="js/shared-utils.js"></script>
+  <script src="js/daily-feature.js"></script>
+  <script src="js/main.js"></script>
+  <script src="js/rune-scatter.js" defer></script>
+  <script>if('serviceWorker' in navigator){navigator.serviceWorker.register('/sw.js')}</script>
+<script src="js/theme-toggle.js" defer></script>
+<button id="scroll-to-top" class="scroll-to-top" aria-label="Scroll to top">
+  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true" focusable="false">
+    <path d="M18 15l-6-6-6 6"/>
+  </svg>
+</button>
+<div class="grain-overlay"></div>
+</body>
+</html>

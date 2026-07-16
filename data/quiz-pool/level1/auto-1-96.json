@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "What type of creature is a Cougar Animal-Spirit of Ute?",
+  "choices": [
+    "animal-spirit",
+    "giant",
+    "vampire",
+    "deity"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "United States",
+      "region": "North America"
+    }
+  }
+}

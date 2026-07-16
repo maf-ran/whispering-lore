@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Bunyip from?",
+  "choices": [
+    "Australia",
+    "Turkmenistan",
+    "Ivory Coast",
+    "Switzerland"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Australia",
+      "region": "Pacific"
+    }
+  }
+}

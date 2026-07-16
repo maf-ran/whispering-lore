@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Wichtel from?",
+  "choices": [
+    "Antigua and Barbuda",
+    "East Timor",
+    "Saint Lucia",
+    "Germany"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "Germany",
+      "region": "Germanic"
+    }
+  }
+}

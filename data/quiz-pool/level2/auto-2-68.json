@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Octopus Water-Spirit (Wolof) come from?",
+  "choices": [
+    "Balkan",
+    "East Asia and Pacific",
+    "Pacific",
+    "West Africa"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "Senegal",
+      "region": "West Africa"
+    }
+  }
+}

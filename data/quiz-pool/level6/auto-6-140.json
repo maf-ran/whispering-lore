@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Upior primarily dwells in Graveyards.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Poland",
+      "region": "Slavic"
+    },
+    "trueFalse": {
+      "prompt": "The Upior is native to Slavic.",
+      "answer": true
+    }
+  }
+}

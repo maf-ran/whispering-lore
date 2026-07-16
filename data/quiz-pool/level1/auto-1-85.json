@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Mountain Giant (Tupi) from?",
+  "choices": [
+    "Morocco",
+    "Switzerland",
+    "Canada",
+    "Madagascar"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "Canada",
+      "region": "North America"
+    }
+  }
+}

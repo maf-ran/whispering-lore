@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Mngwa primarily dwells in Tanzanian wilderness.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Tanzania",
+      "region": "East Africa"
+    },
+    "trueFalse": {
+      "prompt": "The Mngwa is native to East Africa.",
+      "answer": true
+    }
+  }
+}

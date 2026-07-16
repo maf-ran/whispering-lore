@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Bama Dat is from Myanmar.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Myanmar",
+      "region": "Southeast Asia"
+    },
+    "trueFalse": {
+      "prompt": "The Bama Dat is a type of ghost.",
+      "answer": true
+    }
+  }
+}

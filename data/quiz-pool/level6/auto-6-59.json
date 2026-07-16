@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Bear Spirit of Uzbek is from Uzbekistan.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Uzbekistan",
+      "region": "Central Asia"
+    },
+    "trueFalse": {
+      "prompt": "The Bear Spirit of Uzbek is a type of spirit.",
+      "answer": true
+    }
+  }
+}

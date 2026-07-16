@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Qalupalik primarily dwells in Cold Arctic waters.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Greenland",
+      "region": "Arctic"
+    },
+    "trueFalse": {
+      "prompt": "The Qalupalik is native to Arctic.",
+      "answer": true
+    }
+  }
+}

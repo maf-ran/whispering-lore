@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <script>
+    (function(){
+      var t = localStorage.getItem('theme');
+      if (!t) t = window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark';
+      if (t === 'light') document.documentElement.setAttribute('data-theme', 'light');
+    })();
+  </script>
+  <meta name="color-scheme" content="dark light" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Bestiary — Mythical Creatures & Legendary Beings | Whispering Lore</title>
+  <meta name="description" content="Discover 3,668+ mythical creatures, spirits, monsters, and legendary beings from 209 countries. The definitive folklore and mythology bestiary — search by culture, region, or creature type." />
+  <meta name="keywords" content="mythical creatures, bestiary, folklore, mythology, legendary beings, monsters, spirits" />
+  <meta property="og:title" content="Bestiary — Mythical Creatures & Legendary Beings | Whispering Lore" />
+  <meta property="og:description" content="Discover 3,668+ mythical creatures, spirits, monsters, and legendary beings from 209 countries. The definitive folklore and mythology bestiary." />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://whisperinglore.com/og-image.svg" />
+  <meta property="og:url" content="https://whisperinglore.com/bestiary.html" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <link rel="canonical" href="https://whisperinglore.com/bestiary.html" />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&family=Lora:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/styles.css" />
+  <link rel="icon" type="image/svg+xml" href="favicon.svg" />
+  <script src="https://unpkg.com/@phosphor-icons/web"></script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Dataset",
+    "name": "Whispering Lore Bestiary",
+    "description": "A comprehensive dataset of 3,668+ mythical creatures, spirits, monsters, and legendary beings from folklore and mythology traditions across 209 countries.",
+    "url": "https://whisperinglore.com/bestiary.html",
+    "keywords": ["mythical creatures", "bestiary", "folklore", "mythology", "legendary beings"],
+    "inLanguage": ["en"]
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Bestiary — Mythical Creatures & Legendary Beings | Whispering Lore",
+    "description": "Discover 3,668+ mythical creatures, spirits, monsters, and legendary beings from 209 countries. The definitive folklore and mythology bestiary.",
+    "url": "https://whisperinglore.com/bestiary.html",
+    "inLanguage": ["en"]
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://whisperinglore.com/" },
+      { "@type": "ListItem", "position": 2, "name": "Bestiary", "item": "https://whisperinglore.com/bestiary.html" }
+    ]
+  }
+  </script>
+  <link rel="manifest" href="manifest.json">
+  </head>
+<body>
+
+  <a href="#main-content" class="skip-link">Skip to content</a>
+
+  <header>
+    <div class="header-nav-group">
+      <nav id="site-nav" aria-label="Main navigation">
+        <a href="index.html">HOME</a>
+        <a href="bestiary.html" class="active">BESTIARY</a>
+        <a href="stories.html">STORIES</a>
+        <a href="world.html">WORLD</a>
+        <a href="quiz.html">EXAMINATION</a>
+        <a href="about.html">ABOUT</a>
+        <a href="mylore.html">MY LORE</a>
+        <a href="methodology.html">METHODOLOGY</a>
+      </nav>
+    </div>
+    <span class="header-brand">Whispering <span class="hero-accent">LORE</span></span>
+    <button class="theme-toggle" id="theme-toggle" aria-label="Toggle light/dark mode">
+      <svg class="theme-icon-light" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true" focusable="false">
+        <circle cx="12" cy="12" r="5"/>
+        <path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/>
+      </svg>
+      <svg class="theme-icon-dark" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true" focusable="false" style="display:none">
+        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>
+      </svg>
+    </button>
+  </header>
+
+  <main id="main-content">
+
+  <section class="page-hero">
+    <div class="hero-bg"></div>
+    <canvas id="rune-canvas" class="rune-scatter" aria-hidden="true"></canvas>
+    <div class="page-hero-content">
+      <h1>The Bestiary</h1>
+      <span class="accent-line"></span>
+      <p>An archive of mythical creatures, spirits, and beings from every corner of the world</p>
+    </div>
+  </section>
+
+  <div class="filter-bar">
+    <div class="filter-group">
+      <label for="bestiary-search" class="sr-only">Search creatures</label>
+      <input type="text" id="bestiary-search" placeholder="Search creatures…" />
+    </div>
+  </div>
+  
+  <div class="bestiary-layout">
+    <aside class="bestiary-sidebar">
+      <div class="sidebar-controls">
+        <div class="control-group">
+          <label for="bestiary-region">Region</label>
+          <select id="bestiary-region">
+            <option value="all">All Regions</option>
+            <!-- Regions populated by JS -->
+          </select>
+        </div>
+        <div class="control-group">
+          <label for="bestiary-country">Country</label>
+          <select id="bestiary-country">
+            <option value="all">All Countries</option>
+            <!-- Countries populated by JS -->
+          </select>
+        </div>
+        <div class="control-group">
+          <label for="bestiary-tribe">Tribe</label>
+          <select id="bestiary-tribe">
+            <option value="all">All Tribes</option>
+          </select>
+        </div>
+        <div class="control-group">
+          <label for="bestiary-type">Type</label>
+          <select id="bestiary-type">
+            <option value="all">All Types</option>
+          </select>
+        </div>
+        <div class="control-group">
+          <label for="bestiary-parent">Parent Species</label>
+          <select id="bestiary-parent">
+            <option value="all">All Species</option>
+          </select>
+        </div>
+        <div class="control-group">
+          <label for="bestiary-sort">Sort By</label>
+          <select id="bestiary-sort">
+            <option value="relevance">Relevance</option>
+            <option value="alphabetical">A-Z</option>
+            <option value="newest">Newest</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="active-filters"></div>
+
+      <div class="quick-filters">
+        <button class="chip" data-region="Nordic">Nordic</button>
+        <button class="chip" data-region="East Asian">East Asian</button>
+        <button class="chip" data-region="Celtic">Celtic</button>
+      </div>
+
+      <div class="facet-group" data-dimension="tradition">
+        <h3>Tradition</h3>
+        <div class="facet-options"></div>
+      </div>
+      <div class="facet-group" data-dimension="type">
+        <h3>Type</h3>
+        <div class="facet-options"></div>
+      </div>
+      <div class="facet-group" data-dimension="environment">
+        <h3>Environment</h3>
+        <div class="facet-options"></div>
+      </div>
+      <div class="facet-group" data-dimension="region">
+        <h3>Region</h3>
+        <div class="facet-options"></div>
+      </div>
+    </aside>
+    <div class="bestiary-main">
+      <p class="bestiary-count" aria-live="polite">Loading creatures...</p>
+      <div id="bestiary-empty" class="no-results is-hidden">
+        <p role="alert">The archives are silent. No creatures match your search.</p>
+      </div>
+      <div class="filter-chips-container"></div>
+      <section class="grid-section" style="padding-top:0;">
+        <div class="content-grid" id="bestiary-grid" aria-live="polite" aria-label="Filtered creatures"></div>
+        <div id="load-more-container" style="text-align:center; margin-top:2rem;">
+          <button id="load-more" class="btn-load-more is-hidden">Load More</button>
+        </div>
+      </section>
+    </div>
+  </div>
+
+  <!-- ── Creature Detail Full Page ── -->
+  <section class="creature-detail is-hidden" id="creature-detail">
+    <div class="cd-loader" id="detail-loader">
+      <span class="loader-text">Summoning knowledge...</span>
+    </div>
+
+    <div class="cd-page is-hidden" id="detail-content">
+      <!-- Hero Banner -->
+      <div class="cd-hero">
+        <div class="cd-hero-bg"></div>
+        <div class="cd-hero-inner">
+          <a href="bestiary.html" class="cd-back" id="detail-back-link">&larr; Back to Bestiary</a>
+          <div class="cd-hero-text">
+            <div class="cd-hero-title-row">
+              <h1 id="detail-name"></h1>
+            </div>
+            <span class="accent-line"></span>
+            <div class="cd-hero-badges">
+              <span class="cd-badge cd-badge--type" id="detail-type"></span>
+              <span id="detail-source-badge"></span>
+              <span id="detail-source-type-badge"></span>
+              <span id="detail-live-badge"></span>
+            </div>
+            <div class="cd-hero-location" id="detail-hero-location">
+              <span id="detail-region"></span>
+              <span class="cd-hero-dot">&middot;</span>
+              <span id="detail-country"></span>
+            </div>
+            <div class="cd-hero-actions">
+              <button id="detail-fav" class="cd-action-btn">Favorite</button>
+              <button id="detail-share" class="cd-action-btn">Share</button>
+              <button id="detail-cite-btn" class="cd-action-btn">Cite</button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Main Content + Sidebar -->
+      <div class="cd-main">
+        <div class="cd-content">
+          <div class="detail-section">
+            <h3>Description</h3>
+            <p id="detail-description"></p>
+          </div>
+          <div class="detail-grid">
+            <div class="detail-section">
+              <h3>Appearance</h3>
+              <p id="detail-appearance"></p>
+            </div>
+            <div class="detail-section">
+              <h3>Behaviour</h3>
+              <p id="detail-behaviour"></p>
+            </div>
+          </div>
+          <div class="detail-section">
+            <h3>Habitat</h3>
+            <p id="detail-habitat"></p>
+          </div>
+          <div class="detail-section">
+            <h3>Cultural Significance</h3>
+            <p id="detail-culture"></p>
+          </div>
+          <div class="detail-section detail-fun">
+            <span class="accent-line"></span>
+            <p id="detail-funfact"></p>
+          </div>
+          <div id="creature-stories" class="cd-sidelist is-hidden" aria-label="Read about this creature">
+            <h2 class="cd-sidelist-title">Appears In Stories</h2>
+            <div class="stories-grid"></div>
+          </div>
+        </div>
+
+        <aside class="cd-sidebar">
+          <div id="related-creatures" class="cd-sidebar-card is-hidden">
+            <h4>Related Creatures</h4>
+            <div class="related-grid"></div>
+          </div>
+          <div class="cd-sidebar-card">
+            <h4>Cite This Entry</h4>
+            <div class="cite-popover" id="detail-cite-popover">
+              <div class="cite-format-tabs">
+                <button class="cite-format-tab active" data-format="bibtex">BibTeX</button>
+                <button class="cite-format-tab" data-format="mla">MLA</button>
+                <button class="cite-format-tab" data-format="apa">APA</button>
+              </div>
+              <div class="cite-text" id="cite-text"></div>
+              <button class="cite-copy-btn" id="cite-copy-btn">Copy to Clipboard</button>
+            </div>
+          </div>
+          <div class="cd-sidebar-card">
+            <h4>Last Updated</h4>
+            <p id="detail-last-updated"></p>
+          </div>
+        </aside>
+      </div>
+    </div>
+
+    <div class="cd-error is-hidden" id="detail-error">
+      <p>This creature has not yet been documented in our archives.</p>
+      <a href="bestiary.html" class="card-cta">Return to Bestiary</a>
+    </div>
+  </section>
+
+  </main>
+
+  <footer>
+    <span class="gold-line"></span>
+    <div class="footer-nav" aria-label="Footer navigation">
+      <a href="index.html">Home</a>
+      <a href="bestiary.html">Bestiary</a>
+      <a href="stories.html">Stories</a>
+      <a href="world.html">World</a>
+      <a href="quiz.html">Examination</a>
+      <a href="about.html">About</a>
+      <a href="mylore.html">My Lore</a>
+      <a href="methodology.html">Methodology</a>
+    </div>
+    <p>Whispering Lore &nbsp;<span class="logo-mark" style="width:0.9em;height:0.9em;display:inline-block;vertical-align:middle;" aria-hidden="true"><svg viewBox="0 0 32 32" fill="none" width="100%" height="100%"><path d="M16 2L30 16L16 30L2 16L16 2Z" stroke="currentColor" stroke-width="1.5"/><path d="M16 8L24 16L16 24L8 16L16 8Z" stroke="currentColor" stroke-width="1"/><path d="M2 16H30" stroke="currentColor" stroke-width="0.8" opacity="0.4"/><path d="M16 2V30" stroke="currentColor" stroke-width="0.8" opacity="0.4"/></svg></span>&nbsp; 2026</p>
+    <p style="margin-top:0.25rem; font-size:0.7rem;">Preserving the myths and legends of humanity</p>
+  </footer>
+
+  <script src="js/shared-utils.js"></script>
+  <script src="js/region-glyphs.js"></script>
+  <script src="js/citations.js"></script>
+  <script type="module" src="js/main.js"></script>
+  <script type="module" src="js/creatures-viewer.js"></script>
+  <script src="js/rune-scatter.js" defer></script>
+  <script>if('serviceWorker' in navigator){navigator.serviceWorker.register('/sw.js')}</script>
+<script src="js/theme-toggle.js" defer></script>
+<button id="scroll-to-top" class="scroll-to-top" aria-label="Scroll to top">
+  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true" focusable="false">
+    <path d="M18 15l-6-6-6 6"/>
+  </svg>
+</button>
+<div class="grain-overlay"></div>
+</body>
+</html>

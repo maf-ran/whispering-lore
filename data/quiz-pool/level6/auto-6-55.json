@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Maure the Briden is from Algeria.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Algeria",
+      "region": "North Africa"
+    },
+    "trueFalse": {
+      "prompt": "The Maure the Briden is a type of siren.",
+      "answer": true
+    }
+  }
+}

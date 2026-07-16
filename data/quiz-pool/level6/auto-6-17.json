@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Zana is from Albania.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Albania",
+      "region": "Balkan"
+    },
+    "trueFalse": {
+      "prompt": "The Zana is a type of nymph.",
+      "answer": true
+    }
+  }
+}

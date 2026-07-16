@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Lemjel primarily dwells in The threshold between life and death.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Marshall Islands",
+      "region": "Pacific"
+    },
+    "trueFalse": {
+      "prompt": "The Lemjel is native to Pacific.",
+      "answer": true
+    }
+  }
+}

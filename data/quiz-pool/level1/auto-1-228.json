@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "What type of creature is a Storjunkare?",
+  "choices": [
+    "sacred-stone-deity",
+    "deity",
+    "vampire",
+    "giant"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Norway",
+      "region": "Sami"
+    }
+  }
+}

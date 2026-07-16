@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Skiapod primarily dwells in Islands — Wilderness and borderlands of Greek.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Greece",
+      "region": "Mediterranean"
+    },
+    "trueFalse": {
+      "prompt": "The Skiapod is native to Mediterranean.",
+      "answer": true
+    }
+  }
+}

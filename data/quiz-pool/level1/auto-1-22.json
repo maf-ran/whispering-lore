@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "What type of creature is a Pontianak?",
+  "choices": [
+    "vampire",
+    "giant",
+    "ghost",
+    "deity"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "Brunei",
+      "region": "Southeast Asia"
+    }
+  }
+}

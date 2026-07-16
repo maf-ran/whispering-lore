@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "What type of creature is a Upior?",
+  "choices": [
+    "vampire",
+    "monster",
+    "deity",
+    "giant"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Poland",
+      "region": "Slavic"
+    }
+  }
+}

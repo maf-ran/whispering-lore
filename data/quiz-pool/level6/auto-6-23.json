@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Hundred-Egg Children (Bách Việt) is from Vietnam.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Vietnam",
+      "region": "Southeast Asia"
+    },
+    "trueFalse": {
+      "prompt": "The Hundred-Egg Children (Bách Việt) is a type of ancestor.",
+      "answer": true
+    }
+  }
+}

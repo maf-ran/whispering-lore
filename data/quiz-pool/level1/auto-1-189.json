@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Mountain Giant (Tupi) from?",
+  "choices": [
+    "Brazil",
+    "Netherlands",
+    "Guinea-Bissau",
+    "India"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Brazil",
+      "region": "South America"
+    }
+  }
+}

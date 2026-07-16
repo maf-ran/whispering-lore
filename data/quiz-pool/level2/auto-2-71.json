@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Zmey come from?",
+  "choices": [
+    "Balkan",
+    "Pacific",
+    "East Asia and Pacific",
+    "Slavic"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "Bulgaria",
+      "region": "Slavic"
+    }
+  }
+}

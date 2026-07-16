@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Falcone primarily dwells in San Marino territory.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "San Marino",
+      "region": "Mediterranean"
+    },
+    "trueFalse": {
+      "prompt": "The Falcone is native to Mediterranean.",
+      "answer": true
+    }
+  }
+}

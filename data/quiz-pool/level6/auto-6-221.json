@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Ali is from Georgia.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Georgia",
+      "region": "Caucasus"
+    },
+    "trueFalse": {
+      "prompt": "The Ali is a type of demon.",
+      "answer": true
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Bear Giant of Shona from?",
+  "choices": [
+    "Nepal",
+    "Zimbabwe",
+    "Saint Lucia",
+    "Croatia"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Zimbabwe",
+      "region": "Southern Africa"
+    }
+  }
+}

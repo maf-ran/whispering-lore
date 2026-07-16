@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Octopus Water-Spirit (Wolof) from?",
+  "choices": [
+    "United States",
+    "Senegal",
+    "Jamaica",
+    "Eritrea"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Senegal",
+      "region": "West Africa"
+    }
+  }
+}

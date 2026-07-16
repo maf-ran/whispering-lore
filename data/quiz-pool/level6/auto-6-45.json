@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Bison Trickster (Olmec) is from Mexico.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Mexico",
+      "region": "Mesoamerica"
+    },
+    "trueFalse": {
+      "prompt": "The Bison Trickster (Olmec) is a type of trickster.",
+      "answer": true
+    }
+  }
+}

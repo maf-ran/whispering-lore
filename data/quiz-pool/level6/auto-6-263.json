@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Fairy is from Unknown.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Unknown",
+      "region": "Europe"
+    },
+    "trueFalse": {
+      "prompt": "The Fairy is a type of nature-spirit.",
+      "answer": true
+    }
+  }
+}

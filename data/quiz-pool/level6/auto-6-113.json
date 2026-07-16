@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Mishipizheu is from Canada.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Canada",
+      "region": "North America"
+    },
+    "trueFalse": {
+      "prompt": "The Mishipizheu is a type of spirit.",
+      "answer": true
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "What type of creature is a Mishipizheu?",
+  "choices": [
+    "giant",
+    "deity",
+    "spirit",
+    "vampire"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "Canada",
+      "region": "North America"
+    }
+  }
+}

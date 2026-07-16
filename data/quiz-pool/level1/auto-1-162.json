@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "What type of creature is a Ranta?",
+  "choices": [
+    "monster",
+    "deity",
+    "giant",
+    "vampire"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Pakistan",
+      "region": "South Asia"
+    }
+  }
+}

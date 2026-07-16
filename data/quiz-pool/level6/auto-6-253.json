@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Leppalúði is from Iceland.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Iceland",
+      "region": "Norse"
+    },
+    "trueFalse": {
+      "prompt": "The Leppalúði is a type of ogre.",
+      "answer": true
+    }
+  }
+}

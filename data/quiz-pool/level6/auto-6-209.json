@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The The Night-Walker is from Burundi.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Burundi",
+      "region": "East Africa"
+    },
+    "trueFalse": {
+      "prompt": "The The Night-Walker is a type of spirit.",
+      "answer": true
+    }
+  }
+}

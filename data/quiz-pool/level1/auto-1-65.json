@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Qarakorshaq from?",
+  "choices": [
+    "Turkmenistan",
+    "Poland",
+    "Uganda",
+    "Kosovo"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Turkmenistan",
+      "region": "Central Asia"
+    }
+  }
+}

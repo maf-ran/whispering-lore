@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the The Mythical Korp come from?",
+  "choices": [
+    "Pacific",
+    "East Asia and Pacific",
+    "Nordic",
+    "Balkan"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "Sweden",
+      "region": "Nordic"
+    }
+  }
+}

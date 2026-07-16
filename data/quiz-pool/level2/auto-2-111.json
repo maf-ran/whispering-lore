@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Ali come from?",
+  "choices": [
+    "East Asia and Pacific",
+    "Caucasus",
+    "Pacific",
+    "Balkan"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Georgia",
+      "region": "Caucasus"
+    }
+  }
+}

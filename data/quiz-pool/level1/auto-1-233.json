@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Sheikh of the Nile (Nile River Spirit) from?",
+  "choices": [
+    "South Korea",
+    "Canada",
+    "Egypt",
+    "Guinea"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "Egypt",
+      "region": "Africa"
+    }
+  }
+}

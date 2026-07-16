@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Rākshasa come from?",
+  "choices": [
+    "East Asia and Pacific",
+    "South Asia",
+    "Balkan",
+    "Pacific"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "India",
+      "region": "South Asia"
+    }
+  }
+}

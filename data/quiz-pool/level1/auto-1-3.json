@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Tamate (Dancing Spirits) from?",
+  "choices": [
+    "Tanzania",
+    "Solomon Islands",
+    "United Arab Emirates",
+    "Benin"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Solomon Islands",
+      "region": "Pacific"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Hawk Spirit (Khmer) from?",
+  "choices": [
+    "Ghana",
+    "Israel",
+    "United States",
+    "Nigeria"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "United States",
+      "region": "North America"
+    }
+  }
+}

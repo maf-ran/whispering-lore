@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Raven Guardian (Ashanti) from?",
+  "choices": [
+    "Virgin Islands",
+    "Kyrgyzstan",
+    "Turkmenistan",
+    "Guatemala"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "Guatemala",
+      "region": "Mesoamerica"
+    }
+  }
+}

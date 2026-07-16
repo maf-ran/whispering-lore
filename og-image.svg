@@ -1,0 +1,33 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1200" height="630" fill="#0D0D0D"/>
+  
+  <!-- Subtle Accents (Crimson Glows) -->
+  <defs>
+    <radialGradient id="glow1" cx="0" cy="0" r="1">
+      <stop offset="0%" stop-color="#991B1B"/>
+      <stop offset="100%" stop-color="#0D0D0D"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="1" cy="1" r="1">
+      <stop offset="0%" stop-color="#991B1B"/>
+      <stop offset="100%" stop-color="#0D0D0D"/>
+    </radialGradient>
+  </defs>
+  <circle cx="0" cy="0" r="600" fill="url(#glow1)" opacity="0.3"/>
+  <circle cx="1200" cy="630" r="600" fill="url(#glow2)" opacity="0.3"/>
+
+  <!-- Logo (Rune Diamond) -->
+  <g transform="translate(568, 160) scale(4)">
+    <path d="M16 2L30 16L16 30L2 16L16 2Z" stroke="#D6D3C8" stroke-width="1.5" fill="none"/>
+    <path d="M16 8L24 16L16 24L8 16L16 8Z" stroke="#D6D3C8" stroke-width="1" fill="none"/>
+    <path d="M2 16H30" stroke="#D6D3C8" stroke-width="0.8" opacity="0.4" fill="none"/>
+    <path d="M16 2V30" stroke="#D6D3C8" stroke-width="0.8" opacity="0.4" fill="none"/>
+  </g>
+
+  <!-- Text -->
+  <text x="600" y="350" text-anchor="middle" fill="#D6D3C8" style="font-family: 'Cinzel', serif; font-size: 85px; font-weight: 700; letter-spacing: 6px;">WHISPERING LORE</text>
+  <text x="600" y="410" text-anchor="middle" fill="#A8A29E" style="font-family: 'Lora', serif; font-size: 30px; font-style: italic; letter-spacing: 2px;">The Digital Compendium of World Mythology &amp; Folklore</text>
+
+  <!-- Decorative Accent Line -->
+  <line x1="520" y1="440" x2="680" y2="440" stroke="#991B1B" stroke-width="3" stroke-linecap="round" />
+</svg>

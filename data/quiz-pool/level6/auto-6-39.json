@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Al-Khidr is from Jordan.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Jordan",
+      "region": "Middle East and North Africa"
+    },
+    "trueFalse": {
+      "prompt": "The Al-Khidr is a type of spirit.",
+      "answer": true
+    }
+  }
+}

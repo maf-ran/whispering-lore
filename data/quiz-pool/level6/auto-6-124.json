@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Eagle Water-Spirit of Hopi primarily dwells in Remote swamps.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "United States",
+      "region": "North America"
+    },
+    "trueFalse": {
+      "prompt": "The Eagle Water-Spirit of Hopi is native to North America.",
+      "answer": true
+    }
+  }
+}

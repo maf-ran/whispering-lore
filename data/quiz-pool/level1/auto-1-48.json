@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "What type of creature is a Raven Guardian (Ashanti)?",
+  "choices": [
+    "vampire",
+    "deity",
+    "guardian",
+    "giant"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "Guatemala",
+      "region": "Mesoamerica"
+    }
+  }
+}

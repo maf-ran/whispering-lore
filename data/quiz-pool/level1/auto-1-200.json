@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "What type of creature is a Tupilak?",
+  "choices": [
+    "deity",
+    "guardian",
+    "vampire",
+    "giant"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Greenland",
+      "region": "Arctic"
+    }
+  }
+}

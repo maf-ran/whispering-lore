@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Mutiara (The Magic Rooster) is from Brunei.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Brunei",
+      "region": "Southeast Asia"
+    },
+    "trueFalse": {
+      "prompt": "The Mutiara (The Magic Rooster) is a type of animal.",
+      "answer": true
+    }
+  }
+}

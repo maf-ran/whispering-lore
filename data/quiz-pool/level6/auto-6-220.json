@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Shir (or Sheed) primarily dwells in Armenian highlands.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Armenia",
+      "region": "Caucasus"
+    },
+    "trueFalse": {
+      "prompt": "The Shir (or Sheed) is native to Caucasus.",
+      "answer": true
+    }
+  }
+}

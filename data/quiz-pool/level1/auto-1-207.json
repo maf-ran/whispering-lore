@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Mngwa from?",
+  "choices": [
+    "Tanzania",
+    "Gabon",
+    "Cook Islands",
+    "Lithuania"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Tanzania",
+      "region": "East Africa"
+    }
+  }
+}

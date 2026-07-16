@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Ghost is from Unknown.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Unknown",
+      "region": "World"
+    },
+    "trueFalse": {
+      "prompt": "The Ghost is a type of spirit.",
+      "answer": true
+    }
+  }
+}

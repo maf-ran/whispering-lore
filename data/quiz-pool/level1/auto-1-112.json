@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "What type of creature is a Corn Girl?",
+  "choices": [
+    "vampire",
+    "giant",
+    "deity",
+    "monster"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "United States",
+      "region": "North America"
+    }
+  }
+}

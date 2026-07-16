@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Elk Guardian (Tupi) primarily dwells in Remote lakes and wilderness areas.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Brazil",
+      "region": "South America"
+    },
+    "trueFalse": {
+      "prompt": "The Elk Guardian (Tupi) is native to South America.",
+      "answer": true
+    }
+  }
+}

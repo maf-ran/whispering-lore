@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Br'er Buzzard primarily dwells in The skies and coastal areas of the Gullah Geechee Sea Islands and the broader American South.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "United States",
+      "region": "North America"
+    },
+    "trueFalse": {
+      "prompt": "The Br'er Buzzard is native to North America.",
+      "answer": true
+    }
+  }
+}

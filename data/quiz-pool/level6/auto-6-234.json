@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Sheikh of the Nile (Nile River Spirit) primarily dwells in The Nile River.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Egypt",
+      "region": "Africa"
+    },
+    "trueFalse": {
+      "prompt": "The Sheikh of the Nile (Nile River Spirit) is native to Africa.",
+      "answer": true
+    }
+  }
+}

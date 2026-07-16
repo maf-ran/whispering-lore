@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Where is a Qalupalik said to dwell?",
+  "choices": [
+    "Cold Arctic waters, beneath ice floes, along shorelines near",
+    "Roads, Shikoku and Kinki regions",
+    "Deep ocean waters and coastal regions of Tonga",
+    "Banks Islands"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Greenland",
+      "region": "Arctic"
+    }
+  }
+}

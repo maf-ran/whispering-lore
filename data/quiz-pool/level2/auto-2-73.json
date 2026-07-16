@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Duppy come from?",
+  "choices": [
+    "Pacific",
+    "Caribbean",
+    "East Asia and Pacific",
+    "Balkan"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Bahamas",
+      "region": "Caribbean"
+    }
+  }
+}

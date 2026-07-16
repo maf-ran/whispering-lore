@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Owl Nature-Spirit (San) primarily dwells in Remote lakes and wilderness areas.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Canada",
+      "region": "North America"
+    },
+    "trueFalse": {
+      "prompt": "The Owl Nature-Spirit (San) is native to North America.",
+      "answer": true
+    }
+  }
+}

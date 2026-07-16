@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Turtle Spirit of Miwok primarily dwells in Remote lakes.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "United States",
+      "region": "North America"
+    },
+    "trueFalse": {
+      "prompt": "The Turtle Spirit of Miwok is native to North America.",
+      "answer": true
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "What type of creature is a Moán?",
+  "choices": [
+    "vampire",
+    "deity",
+    "forest-spirit",
+    "giant"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "Colombia",
+      "region": "South America"
+    }
+  }
+}

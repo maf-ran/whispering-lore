@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Where is a Bortbyting said to dwell?",
+  "choices": [
+    "Roads, Shikoku and Kinki regions",
+    "Banks Islands",
+    "Inside human homes, where it replaces a stolen human infant.",
+    "Deep ocean waters and coastal regions of Tonga"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "Sweden",
+      "region": "Nordic"
+    }
+  }
+}

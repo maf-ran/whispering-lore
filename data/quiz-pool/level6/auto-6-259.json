@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Roc is from Unknown.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Unknown",
+      "region": "West Asia"
+    },
+    "trueFalse": {
+      "prompt": "The Roc is a type of bird.",
+      "answer": true
+    }
+  }
+}

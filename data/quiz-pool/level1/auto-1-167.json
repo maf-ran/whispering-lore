@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Kvitormen from?",
+  "choices": [
+    "Norway",
+    "Japan",
+    "Brazil",
+    "Tunisia"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Norway",
+      "region": "Nordic"
+    }
+  }
+}

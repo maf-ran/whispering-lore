@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Duppy primarily dwells in Night.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Bahamas",
+      "region": "Caribbean"
+    },
+    "trueFalse": {
+      "prompt": "The Duppy is native to Caribbean.",
+      "answer": true
+    }
+  }
+}

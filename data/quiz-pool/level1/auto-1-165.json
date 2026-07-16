@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Bjarndýrakóngur from?",
+  "choices": [
+    "Iceland",
+    "Namibia",
+    "Guam",
+    "Sao Tome and Principe"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Iceland",
+      "region": "Nordic"
+    }
+  }
+}

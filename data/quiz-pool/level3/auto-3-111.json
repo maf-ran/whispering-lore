@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Where is a Ali said to dwell?",
+  "choices": [
+    "Deep ocean waters and coastal regions of Tonga",
+    "Banks Islands",
+    "Roads, Shikoku and Kinki regions",
+    "Homes, wherever pregnant women"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "Georgia",
+      "region": "Caucasus"
+    }
+  }
+}

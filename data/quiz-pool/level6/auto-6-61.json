@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Bukha Noyon is from Russia.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Russia",
+      "region": "Central Asia"
+    },
+    "trueFalse": {
+      "prompt": "The Bukha Noyon is a type of deity.",
+      "answer": true
+    }
+  }
+}

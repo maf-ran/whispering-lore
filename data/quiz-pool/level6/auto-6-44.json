@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Salmon Giant of Zapotec primarily dwells in Remote swamps.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Mexico",
+      "region": "Mesoamerica"
+    },
+    "trueFalse": {
+      "prompt": "The Salmon Giant of Zapotec is native to Mesoamerica.",
+      "answer": true
+    }
+  }
+}

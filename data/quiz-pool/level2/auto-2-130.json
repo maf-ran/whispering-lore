@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Roc come from?",
+  "choices": [
+    "East Asia and Pacific",
+    "Pacific",
+    "Balkan",
+    "West Asia"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "Unknown",
+      "region": "West Asia"
+    }
+  }
+}

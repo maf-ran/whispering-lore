@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Syöjätär is from Finland.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Finland",
+      "region": "Nordic"
+    },
+    "trueFalse": {
+      "prompt": "The Syöjätär is a type of Devouring Crone.",
+      "answer": true
+    }
+  }
+}

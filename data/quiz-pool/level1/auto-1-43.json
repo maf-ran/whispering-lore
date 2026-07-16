@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Salmon Giant of Zapotec from?",
+  "choices": [
+    "Mexico",
+    "Burkina Faso",
+    "Suriname",
+    "Jamaica"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Mexico",
+      "region": "Mesoamerica"
+    }
+  }
+}

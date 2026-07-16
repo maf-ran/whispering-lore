@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Miraculous Well of Sidi Bou Said from?",
+  "choices": [
+    "Sweden",
+    "South Sudan",
+    "Tunisia",
+    "Indonesia"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "Tunisia",
+      "region": "North Africa"
+    }
+  }
+}

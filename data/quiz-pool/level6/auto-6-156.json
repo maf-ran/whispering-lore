@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The ǐKaggen primarily dwells in Kalahari Desert regions.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Namibia",
+      "region": "Southern Africa"
+    },
+    "trueFalse": {
+      "prompt": "The ǐKaggen is native to Southern Africa.",
+      "answer": true
+    }
+  }
+}

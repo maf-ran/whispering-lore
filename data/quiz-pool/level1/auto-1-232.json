@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "What type of creature is a Hoggar Mountain Spirits (Kel Ahaggar)?",
+  "choices": [
+    "giant",
+    "vampire",
+    "spirit",
+    "deity"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "Algeria",
+      "region": "Africa"
+    }
+  }
+}

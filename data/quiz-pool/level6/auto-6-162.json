@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Ranta primarily dwells in Forests.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Pakistan",
+      "region": "South Asia"
+    },
+    "trueFalse": {
+      "prompt": "The Ranta is native to South Asia.",
+      "answer": true
+    }
+  }
+}

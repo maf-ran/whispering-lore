@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Turtle Trickster of Ashanti is from Ghana.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Ghana",
+      "region": "West Africa"
+    },
+    "trueFalse": {
+      "prompt": "The Turtle Trickster of Ashanti is a type of trickster.",
+      "answer": true
+    }
+  }
+}

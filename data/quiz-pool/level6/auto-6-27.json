@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Phi Phrai is from Thailand.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Thailand",
+      "region": "Southeast Asia"
+    },
+    "trueFalse": {
+      "prompt": "The Phi Phrai is a type of fairy.",
+      "answer": true
+    }
+  }
+}

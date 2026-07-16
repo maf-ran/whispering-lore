@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "What type of creature is a Unktehi?",
+  "choices": [
+    "vampire",
+    "deity",
+    "spirit",
+    "giant"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "United States",
+      "region": "North America"
+    }
+  }
+}

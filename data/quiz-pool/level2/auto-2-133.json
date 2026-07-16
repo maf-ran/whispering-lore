@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Dwarf come from?",
+  "choices": [
+    "Europe",
+    "Pacific",
+    "East Asia and Pacific",
+    "Balkan"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Unknown",
+      "region": "Europe"
+    }
+  }
+}

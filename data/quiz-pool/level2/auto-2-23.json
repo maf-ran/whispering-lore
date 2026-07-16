@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Bison Trickster (Olmec) come from?",
+  "choices": [
+    "East Asia and Pacific",
+    "Balkan",
+    "Mesoamerica",
+    "Pacific"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "Mexico",
+      "region": "Mesoamerica"
+    }
+  }
+}

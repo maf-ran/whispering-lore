@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Gbahali primarily dwells in Deep waters.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Liberia",
+      "region": "West Africa"
+    },
+    "trueFalse": {
+      "prompt": "The Gbahali is native to West Africa.",
+      "answer": true
+    }
+  }
+}

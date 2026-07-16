@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Where is a Kishi said to dwell?",
+  "choices": [
+    "Roads, Shikoku and Kinki regions",
+    "Banks Islands",
+    "Forests, wilderness areas, and remote villages of Angola. Lu",
+    "Deep ocean waters and coastal regions of Tonga"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "Angola",
+      "region": "Central Africa"
+    }
+  }
+}

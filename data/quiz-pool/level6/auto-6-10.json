@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Hi'iaka primarily dwells in Forests.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "United States",
+      "region": "Pacific"
+    },
+    "trueFalse": {
+      "prompt": "The Hi'iaka is native to Pacific.",
+      "answer": true
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Gwyllion is from Wales.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Wales",
+      "region": "Celtic"
+    },
+    "trueFalse": {
+      "prompt": "The Gwyllion is a type of nature-spirit.",
+      "answer": true
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Where is a Corn Girl said to dwell?",
+  "choices": [
+    "Banks Islands",
+    "Deep ocean waters and coastal regions of Tonga",
+    "Southwest United States, ancestral Navajo lands",
+    "Roads, Shikoku and Kinki regions"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "United States",
+      "region": "North America"
+    }
+  }
+}

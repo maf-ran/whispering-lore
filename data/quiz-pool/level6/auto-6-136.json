@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Octopus Water-Spirit (Wolof) primarily dwells in Swamp regions.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Senegal",
+      "region": "West Africa"
+    },
+    "trueFalse": {
+      "prompt": "The Octopus Water-Spirit (Wolof) is native to West Africa.",
+      "answer": true
+    }
+  }
+}

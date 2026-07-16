@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Kobold primarily dwells in Houses.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Germany",
+      "region": "Germanic"
+    },
+    "trueFalse": {
+      "prompt": "The Kobold is native to Germanic.",
+      "answer": true
+    }
+  }
+}

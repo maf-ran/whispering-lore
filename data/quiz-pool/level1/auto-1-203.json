@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Troll from?",
+  "choices": [
+    "North Korea",
+    "Unknown",
+    "Montenegro",
+    "Cameroon"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Unknown",
+      "region": "Northern Europe"
+    }
+  }
+}

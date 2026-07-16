@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Skiapod come from?",
+  "choices": [
+    "East Asia and Pacific",
+    "Pacific",
+    "Balkan",
+    "Mediterranean"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "Greece",
+      "region": "Mediterranean"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "What type of creature is a Fairy?",
+  "choices": [
+    "vampire",
+    "giant",
+    "nature-spirit",
+    "deity"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "Unknown",
+      "region": "Europe"
+    }
+  }
+}

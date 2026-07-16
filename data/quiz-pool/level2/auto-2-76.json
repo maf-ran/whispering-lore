@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Bear Giant of Shona come from?",
+  "choices": [
+    "East Asia and Pacific",
+    "Balkan",
+    "Pacific",
+    "Southern Africa"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "Zimbabwe",
+      "region": "Southern Africa"
+    }
+  }
+}

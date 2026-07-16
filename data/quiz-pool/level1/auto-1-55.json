@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Maure the Briden from?",
+  "choices": [
+    "Iraq",
+    "Kazakhstan",
+    "Nepal",
+    "Algeria"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "Algeria",
+      "region": "North Africa"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Sea King come from?",
+  "choices": [
+    "Pacific",
+    "Unknown",
+    "Balkan",
+    "East Asia and Pacific"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Unknown",
+      "region": "Unknown"
+    }
+  }
+}

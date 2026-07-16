@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Where is a Anarteq said to dwell?",
+  "choices": [
+    "Deep ocean waters and coastal regions of Tonga",
+    "Banks Islands",
+    "Roads, Shikoku and Kinki regions",
+    "Arctic rivers and coastal waters"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "Greenland",
+      "region": "North America"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Skiapod from?",
+  "choices": [
+    "Somalia",
+    "China",
+    "Greece",
+    "Spain"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "Greece",
+      "region": "Mediterranean"
+    }
+  }
+}

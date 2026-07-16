@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Where is a The Night-Walker said to dwell?",
+  "choices": [
+    "Banks Islands",
+    "Deep ocean waters and coastal regions of Tonga",
+    "Open valleys and the outskirts of rural Burundian villages d",
+    "Roads, Shikoku and Kinki regions"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "Burundi",
+      "region": "East Africa"
+    }
+  }
+}

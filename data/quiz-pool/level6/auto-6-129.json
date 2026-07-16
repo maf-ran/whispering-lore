@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Bison Water-Spirit of Dogon is from Mali.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Mali",
+      "region": "West Africa"
+    },
+    "trueFalse": {
+      "prompt": "The Bison Water-Spirit of Dogon is a type of water-spirit.",
+      "answer": true
+    }
+  }
+}

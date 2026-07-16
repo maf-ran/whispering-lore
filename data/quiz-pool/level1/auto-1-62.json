@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "What type of creature is a Bukha Noyon?",
+  "choices": [
+    "giant",
+    "deity",
+    "monster",
+    "vampire"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Russia",
+      "region": "Central Asia"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Spirit of the Black Sands come from?",
+  "choices": [
+    "Balkan",
+    "Pacific",
+    "East Asia and Pacific",
+    "Norse"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "Iceland",
+      "region": "Norse"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Anarteq primarily dwells in Arctic rivers and coastal waters.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Greenland",
+      "region": "North America"
+    },
+    "trueFalse": {
+      "prompt": "The Anarteq is native to North America.",
+      "answer": true
+    }
+  }
+}

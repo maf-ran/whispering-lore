@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Al-Khidr from?",
+  "choices": [
+    "Pakistan",
+    "Jordan",
+    "Malta",
+    "Kiribati"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Jordan",
+      "region": "Middle East and North Africa"
+    }
+  }
+}

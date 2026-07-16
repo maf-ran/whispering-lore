@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Rannamaari (Sea Demon of the Maldives) come from?",
+  "choices": [
+    "Pacific",
+    "South Asia",
+    "Balkan",
+    "East Asia and Pacific"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Maldives",
+      "region": "South Asia"
+    }
+  }
+}

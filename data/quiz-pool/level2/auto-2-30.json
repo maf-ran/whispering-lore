@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Bear Spirit of Uzbek come from?",
+  "choices": [
+    "East Asia and Pacific",
+    "Central Asia",
+    "Balkan",
+    "Pacific"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Uzbekistan",
+      "region": "Central Asia"
+    }
+  }
+}

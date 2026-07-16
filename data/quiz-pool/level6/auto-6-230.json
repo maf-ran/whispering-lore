@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Rana Niejta primarily dwells in The southern slopes of mountains in Sapmi where spring arrives first and vegetation grows earliest.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Norway",
+      "region": "Sami"
+    },
+    "trueFalse": {
+      "prompt": "The Rana Niejta is native to Sami.",
+      "answer": true
+    }
+  }
+}

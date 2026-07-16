@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Phaya Nak from?",
+  "choices": [
+    "Niger",
+    "Denmark",
+    "England",
+    "Unknown"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "Unknown",
+      "region": "Unknown"
+    }
+  }
+}

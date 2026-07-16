@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Anarteq from?",
+  "choices": [
+    "Iran",
+    "Ireland",
+    "Sweden",
+    "Greenland"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "Greenland",
+      "region": "North America"
+    }
+  }
+}

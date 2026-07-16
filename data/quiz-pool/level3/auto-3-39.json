@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Where is a Bison Ghost of Lakota said to dwell?",
+  "choices": [
+    "Deep ocean waters and coastal regions of Tonga",
+    "Banks Islands",
+    "Roads, Shikoku and Kinki regions",
+    "Remote undergrounds"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "United States",
+      "region": "North America"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Where is a Pontianak said to dwell?",
+  "choices": [
+    "Banks Islands",
+    "Roads, Shikoku and Kinki regions",
+    "Banana groves, cemeteries, dark forest edges, waterside area",
+    "Deep ocean waters and coastal regions of Tonga"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "Brunei",
+      "region": "Southeast Asia"
+    }
+  }
+}

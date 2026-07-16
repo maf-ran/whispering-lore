@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Hoggar Mountain Spirits (Kel Ahaggar) come from?",
+  "choices": [
+    "East Asia and Pacific",
+    "Africa",
+    "Balkan",
+    "Pacific"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Algeria",
+      "region": "Africa"
+    }
+  }
+}

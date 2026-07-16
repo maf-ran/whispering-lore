@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Manco Cápac is from Peru.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Peru",
+      "region": "South America"
+    },
+    "trueFalse": {
+      "prompt": "The Manco Cápac is a type of hero.",
+      "answer": true
+    }
+  }
+}

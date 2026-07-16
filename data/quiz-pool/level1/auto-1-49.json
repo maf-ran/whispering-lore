@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Tule Tree Spirit from?",
+  "choices": [
+    "Tajikistan",
+    "Fiji",
+    "Mexico",
+    "Guinea"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "Mexico",
+      "region": "Mesoamerica"
+    }
+  }
+}

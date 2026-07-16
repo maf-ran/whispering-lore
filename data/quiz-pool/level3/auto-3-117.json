@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Where is a Sheikh of the Nile (Nile River Spirit) said to dwell?",
+  "choices": [
+    "The Nile River, particularly at dangerous bends, waterfalls,",
+    "Deep ocean waters and coastal regions of Tonga",
+    "Banks Islands",
+    "Roads, Shikoku and Kinki regions"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Egypt",
+      "region": "Africa"
+    }
+  }
+}

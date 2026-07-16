@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "What type of creature is a Bison Trickster (Olmec)?",
+  "choices": [
+    "trickster",
+    "vampire",
+    "giant",
+    "deity"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Mexico",
+      "region": "Mesoamerica"
+    }
+  }
+}

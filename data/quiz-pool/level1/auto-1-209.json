@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the The Night-Walker from?",
+  "choices": [
+    "Burundi",
+    "Angola",
+    "Slovenia",
+    "Benin"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Burundi",
+      "region": "East Africa"
+    }
+  }
+}

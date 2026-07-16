@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Deer Ghost of Mapuche is from Chile.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Chile",
+      "region": "South America"
+    },
+    "trueFalse": {
+      "prompt": "The Deer Ghost of Mapuche is a type of ghost.",
+      "answer": true
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Yanauluha (Culture Hero) come from?",
+  "choices": [
+    "Balkan",
+    "North America",
+    "East Asia and Pacific",
+    "Pacific"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "United States",
+      "region": "North America"
+    }
+  }
+}

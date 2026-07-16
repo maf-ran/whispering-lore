@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Thanh Gióng come from?",
+  "choices": [
+    "East Asia and Pacific",
+    "Balkan",
+    "Pacific",
+    "Unknown"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "Unknown",
+      "region": "Unknown"
+    }
+  }
+}

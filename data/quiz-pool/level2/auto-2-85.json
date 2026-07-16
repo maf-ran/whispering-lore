@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Bortbyting come from?",
+  "choices": [
+    "Pacific",
+    "East Asia and Pacific",
+    "Balkan",
+    "Nordic"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "Sweden",
+      "region": "Nordic"
+    }
+  }
+}

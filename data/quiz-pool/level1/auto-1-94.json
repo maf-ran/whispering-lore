@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "What type of creature is a Wildcat Deity of Ute?",
+  "choices": [
+    "monster",
+    "vampire",
+    "deity",
+    "giant"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "United States",
+      "region": "North America"
+    }
+  }
+}

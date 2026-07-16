@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Xhindet primarily dwells in Mountain passes.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Albania",
+      "region": "Balkan"
+    },
+    "trueFalse": {
+      "prompt": "The Xhindet is native to Balkan.",
+      "answer": true
+    }
+  }
+}

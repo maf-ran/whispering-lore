@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Owl Nature-Spirit (San) is from Canada.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Canada",
+      "region": "North America"
+    },
+    "trueFalse": {
+      "prompt": "The Owl Nature-Spirit (San) is a type of nature-spirit.",
+      "answer": true
+    }
+  }
+}

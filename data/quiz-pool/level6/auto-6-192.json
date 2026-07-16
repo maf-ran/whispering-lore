@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Yacumama primarily dwells in Rivers.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Peru",
+      "region": "South America"
+    },
+    "trueFalse": {
+      "prompt": "The Yacumama is native to South America.",
+      "answer": true
+    }
+  }
+}

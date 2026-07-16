@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Where is a Dwarf said to dwell?",
+  "choices": [
+    "Banks Islands",
+    "Deep ocean waters and coastal regions of Tonga",
+    "Underground cities, deep mountain mines",
+    "Roads, Shikoku and Kinki regions"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "Unknown",
+      "region": "Europe"
+    }
+  }
+}

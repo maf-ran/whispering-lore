@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Xiezhi from?",
+  "choices": [
+    "Guam",
+    "China",
+    "East Timor",
+    "Turkey"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "China",
+      "region": "East Asia and Pacific"
+    }
+  }
+}

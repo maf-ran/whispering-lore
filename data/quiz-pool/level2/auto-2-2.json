@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Tamate (Dancing Spirits) come from?",
+  "choices": [
+    "Southeast Asia",
+    "East Asia and Pacific",
+    "Balkan",
+    "Pacific"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "Solomon Islands",
+      "region": "Pacific"
+    }
+  }
+}

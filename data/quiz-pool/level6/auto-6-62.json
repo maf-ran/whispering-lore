@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Bukha Noyon primarily dwells in Celestial realm originally.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Russia",
+      "region": "Central Asia"
+    },
+    "trueFalse": {
+      "prompt": "The Bukha Noyon is native to Central Asia.",
+      "answer": true
+    }
+  }
+}

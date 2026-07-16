@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Nezha from?",
+  "choices": [
+    "Belarus",
+    "Åland",
+    "Turkmenistan",
+    "China"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "China",
+      "region": "East Asia and Pacific"
+    }
+  }
+}

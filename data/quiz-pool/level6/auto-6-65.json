@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Qarakorshaq is from Turkmenistan.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Turkmenistan",
+      "region": "Central Asia"
+    },
+    "trueFalse": {
+      "prompt": "The Qarakorshaq is a type of monster.",
+      "answer": true
+    }
+  }
+}

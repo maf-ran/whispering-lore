@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Bison Water-Spirit of Dogon from?",
+  "choices": [
+    "Mali",
+    "Cambodia",
+    "Moldova",
+    "Norway"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Mali",
+      "region": "West Africa"
+    }
+  }
+}

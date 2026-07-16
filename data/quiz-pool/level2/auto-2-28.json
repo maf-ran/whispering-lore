@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Maure the Briden come from?",
+  "choices": [
+    "Balkan",
+    "East Asia and Pacific",
+    "Pacific",
+    "North Africa"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "Algeria",
+      "region": "North Africa"
+    }
+  }
+}

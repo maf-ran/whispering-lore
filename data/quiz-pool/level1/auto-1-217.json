@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Sumpurnis from?",
+  "choices": [
+    "Cambodia",
+    "Latvia",
+    "Mexico",
+    "Luxembourg"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Latvia",
+      "region": "Baltic"
+    }
+  }
+}

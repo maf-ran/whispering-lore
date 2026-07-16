@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Deer Ghost of Mapuche from?",
+  "choices": [
+    "Chile",
+    "Nauru",
+    "Belize",
+    "Liechtenstein"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Chile",
+      "region": "South America"
+    }
+  }
+}

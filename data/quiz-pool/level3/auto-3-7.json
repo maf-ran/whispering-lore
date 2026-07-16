@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Where is a Hóu-koô-pô said to dwell?",
+  "choices": [
+    "Banks Islands",
+    "High mountain peaks and alpine regions of Taiwan",
+    "Roads, Shikoku and Kinki regions",
+    "Deep ocean waters and coastal regions of Tonga"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Taiwan",
+      "region": "East Asia and Pacific"
+    }
+  }
+}

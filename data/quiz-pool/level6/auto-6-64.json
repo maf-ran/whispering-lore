@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Kurka (Raven Creator) primarily dwells in Sakhalin Island.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Russia",
+      "region": "Central Asia"
+    },
+    "trueFalse": {
+      "prompt": "The Kurka (Raven Creator) is native to Central Asia.",
+      "answer": true
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Si'luwa primarily dwells in Rivers.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Iraq",
+      "region": "Middle East and North Africa"
+    },
+    "trueFalse": {
+      "prompt": "The Si'luwa is native to Middle East and North Africa.",
+      "answer": true
+    }
+  }
+}

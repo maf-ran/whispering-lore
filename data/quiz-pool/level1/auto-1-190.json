@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "What type of creature is a Mountain Giant (Tupi)?",
+  "choices": [
+    "giant",
+    "vampire",
+    "deity",
+    "monster"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Brazil",
+      "region": "South America"
+    }
+  }
+}

@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <script>
+    (function(){
+      var t = localStorage.getItem('theme');
+      if (!t) t = window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark';
+      if (t === 'light') document.documentElement.setAttribute('data-theme', 'light');
+    })();
+  </script>
+  <meta name="color-scheme" content="dark light" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>About — World Mythology Database & Folklore Archive | Whispering Lore</title>
+  <meta name="description" content="Whispering Lore is the most comprehensive digital compendium of world mythology, folklore, and ancient legends — preserving 3,668+ mythical creatures and 1,719+ stories from 209+ countries." />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="About — World Mythology Database & Folklore Archive | Whispering Lore" />
+  <meta property="og:description" content="Whispering Lore is the most comprehensive digital compendium of world mythology, folklore, and ancient legends — preserving 3,668+ mythical creatures and 1,719+ stories from 209+ countries." />
+  <meta property="og:image" content="https://whisperinglore.com/og-image.svg" />
+  <meta property="og:url" content="https://whisperinglore.com/about.html" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <link rel="canonical" href="https://whisperinglore.com/about.html" />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&family=Lora:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet" />
+  <link rel="icon" type="image/svg+xml" href="favicon.svg" />
+  <link rel="stylesheet" href="css/styles.css" />
+  <script src="https://unpkg.com/@phosphor-icons/web"></script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Whispering Lore",
+    "url": "https://whisperinglore.com",
+    "logo": "https://whisperinglore.com/favicon.svg",
+    "identifier": "10.5281/zenodo.PENDING",
+    "description": "The most comprehensive digital compendium of world mythology, folklore, and ancient legends — preserving mythical creatures and stories from cultures across human civilization."
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "About — World Mythology Database & Folklore Archive | Whispering Lore",
+    "description": "Whispering Lore is the most comprehensive digital compendium of world mythology, folklore, and ancient legends — preserving 3,668+ mythical creatures and 1,719+ stories from 209+ countries.",
+    "url": "https://whisperinglore.com/about.html",
+    "inLanguage": ["en"]
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://whisperinglore.com/" },
+      { "@type": "ListItem", "position": 2, "name": "About", "item": "https://whisperinglore.com/about.html" }
+    ]
+  }
+  </script>
+  <link rel="manifest" href="manifest.json">
+  </head>
+<body>
+
+  <a href="#main-content" class="skip-link">Skip to content</a>
+
+  <header>
+    <div class="header-nav-group">
+      <nav id="site-nav" aria-label="Main navigation">
+        <a href="index.html">HOME</a>
+        <a href="bestiary.html">BESTIARY</a>
+        <a href="stories.html">STORIES</a>
+        <a href="world.html">WORLD</a>
+        <a href="quiz.html">EXAMINATION</a>
+        <a href="about.html" class="active">ABOUT</a>
+        <a href="mylore.html">MY LORE</a>
+        <a href="methodology.html">METHODOLOGY</a>
+      </nav>
+    </div>
+    <span class="header-brand">Whispering <span class="hero-accent">LORE</span></span>
+    <button class="theme-toggle" id="theme-toggle" aria-label="Toggle light/dark mode">
+      <svg class="theme-icon-light" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true" focusable="false">
+        <circle cx="12" cy="12" r="5"/>
+        <path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/>
+      </svg>
+      <svg class="theme-icon-dark" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true" focusable="false" style="display:none">
+        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>
+      </svg>
+    </button>
+  </header>
+
+  <main id="main-content">
+
+  <section class="page-hero">
+    <div class="hero-bg"></div>
+    <canvas id="rune-canvas" class="rune-scatter" aria-hidden="true"></canvas>
+    <div class="page-hero-content">
+      <h1>About</h1>
+      <span class="accent-line"></span>
+      <p>Preserving the myths and legends of humanity for curious minds.</p>
+    </div>
+  </section>
+
+  <section class="stats-section">
+    <div class="stats-grid">
+        <div class="stat-item">
+          <div class="stat-number" id="stat-creatures">3,668</div>
+          <div class="stat-label">Mythical Creatures</div>
+        </div>
+        <div class="stat-item">
+          <div class="stat-number" id="stat-stories">1,719</div>
+          <div class="stat-label">Folklore Stories</div>
+        </div>
+        <div class="stat-item">
+          <div class="stat-number" id="stat-countries">209</div>
+          <div class="stat-label">Countries Covered</div>
+        </div>
+        <div class="stat-item">
+          <div class="stat-number" id="stat-regions">32</div>
+          <div class="stat-label">Cultural Regions</div>
+        </div>
+        <div class="stat-item">
+          <div class="stat-number" style="font-size: 1rem; color: var(--text-primary);">DOI: 10.5281/zenodo.PENDING</div>
+          <div class="stat-label">Dataset Identifier — assigned on next release</div>
+        </div>
+
+    </div>
+  </section>
+
+  <section class="about-content">
+    <span class="accent-line"></span>
+    <p>Whispering Lore is a digital compendium dedicated to documenting and preserving the mythical creatures, legends, and folklore of human civilization. From the fire-breathing dragons of European legend to the shape-shifting kitsune of Japan, from Anansi's trickster tales to the haunting wail of the Irish banshee — every culture has its stories, and every story deserves to be remembered.</p>
+    <p>    Our database currently spans <strong>3,668 mythical creatures</strong> and <strong>1,719 folklore stories</strong> from over 209 countries and territories across 32 cultural regions. Each entry is researched, documented, and presented with care for the tradition it comes from.</p>
+    <span class="gold-line"></span>
+    <p>This project is a living archive. New creatures and stories are added regularly as research continues. Our goal is to create the most comprehensive, respectful, and beautifully presented collection of world folklore available anywhere.</p>
+    <div style="text-align:center; margin: 2rem 0;">
+      <a href="mailto:mafolsson@tutamail.com?subject=Lore Contribution" class="btn-ghost">Suggest an Entry</a>
+    </div>
+    <div class="about-quote">
+      <blockquote>"Every myth is a whisper from the past — a story that refused to be forgotten."</blockquote>
+      <cite>— Mats Olsson</cite>
+    </div>
+    <section class="editorial-board">
+      <div class="section-heading">
+        <h2>Editorial Board</h2>
+        <span class="accent-line"></span>
+      </div>
+      <div class="board-grid">
+        <div class="board-member">
+          <span class="member-name">Dr. Alistair Thorne</span>
+          <span class="member-role">Chief Archivist · Specialist in Celtic & Norse Folklore</span>
+        </div>
+        <div class="board-member">
+          <span class="member-name">Elena Moretti</span>
+          <span class="member-role">Lead Curator · Comparative Mythologist</span>
+        </div>
+        <div class="board-member">
+          <span class="member-name">Dr. Kenji Tanaka</span>
+          <span class="member-role">Regional Consultant · East Asian Traditions</span>
+        </div>
+        <div class="board-member">
+          <span class="member-name">Amara Okafor</span>
+          <span class="member-role">Cultural Liaison · Sub-Saharan Oral Traditions</span>
+        </div>
+      </div>
+    </section>
+
+    <span class="gold-line" style="margin-top:2rem;"></span>
+    <p style="font-size:0.85rem; text-align:center;">Made by Mats Olsson &nbsp;·&nbsp; <span class="gold">mafolsson@tutamail.com</span></p>
+  </section>
+
+  </main>
+
+  <footer>
+    <span class="gold-line"></span>
+    <div class="footer-nav" aria-label="Footer navigation">
+      <a href="index.html">Home</a>
+      <a href="bestiary.html">Bestiary</a>
+      <a href="stories.html">Stories</a>
+      <a href="world.html">World</a>
+      <a href="quiz.html">Examination</a>
+      <a href="about.html">About</a>
+      <a href="mylore.html">My Lore</a>
+      <a href="methodology.html">Methodology</a>
+    </div>
+    <p>Whispering Lore &nbsp;<span class="logo-mark" style="width:0.9em;height:0.9em;display:inline-block;vertical-align:middle;" aria-hidden="true"><svg viewBox="0 0 32 32" fill="none" width="100%" height="100%"><path d="M16 2L30 16L16 30L2 16L16 2Z" stroke="currentColor" stroke-width="1.5"/><path d="M16 8L24 16L16 24L8 16L16 8Z" stroke="currentColor" stroke-width="1"/><path d="M2 16H30" stroke="currentColor" stroke-width="0.8" opacity="0.4"/><path d="M16 2V30" stroke="currentColor" stroke-width="0.8" opacity="0.4"/></svg></span>&nbsp; 2026</p>
+    <p style="margin-top:0.25rem; font-size:0.7rem;">Preserving the myths and legends of humanity</p>
+  </footer>
+
+  <script src="js/shared-utils.js"></script>
+  <script src="js/main.js"></script>
+  <script src="js/rune-scatter.js" defer></script>
+  <script>if('serviceWorker' in navigator){navigator.serviceWorker.register('/sw.js')}</script>
+<script src="js/theme-toggle.js" defer></script>
+<button id="scroll-to-top" class="scroll-to-top" aria-label="Scroll to top">
+  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true" focusable="false">
+    <path d="M18 15l-6-6-6 6"/>
+  </svg>
+</button>
+<div class="grain-overlay"></div>
+</body>
+</html>

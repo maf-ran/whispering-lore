@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Fox Trickster of Creek from?",
+  "choices": [
+    "Greece",
+    "Iraq",
+    "Argentina",
+    "United States"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "United States",
+      "region": "North America"
+    }
+  }
+}

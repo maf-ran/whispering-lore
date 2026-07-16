@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Raven Guardian (Ashanti) is from Guatemala.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Guatemala",
+      "region": "Mesoamerica"
+    },
+    "trueFalse": {
+      "prompt": "The Raven Guardian (Ashanti) is a type of guardian.",
+      "answer": true
+    }
+  }
+}

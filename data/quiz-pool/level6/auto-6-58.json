@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Miraculous Well of Sidi Bou Said primarily dwells in The town of Sidi Bou Said.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Tunisia",
+      "region": "North Africa"
+    },
+    "trueFalse": {
+      "prompt": "The Miraculous Well of Sidi Bou Said is native to North Africa.",
+      "answer": true
+    }
+  }
+}

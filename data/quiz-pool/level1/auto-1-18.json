@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "What type of creature is a Zana?",
+  "choices": [
+    "nymph",
+    "giant",
+    "vampire",
+    "deity"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Albania",
+      "region": "Balkan"
+    }
+  }
+}

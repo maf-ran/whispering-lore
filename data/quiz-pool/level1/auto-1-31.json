@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Mutiara (The Magic Rooster) from?",
+  "choices": [
+    "Brunei",
+    "Papua New Guinea",
+    "Uzbekistan",
+    "North Macedonia"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Brunei",
+      "region": "Southeast Asia"
+    }
+  }
+}

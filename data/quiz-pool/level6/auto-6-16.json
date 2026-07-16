@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Xiezhi primarily dwells in Celestial courts.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "China",
+      "region": "East Asia and Pacific"
+    },
+    "trueFalse": {
+      "prompt": "The Xiezhi is native to East Asia and Pacific.",
+      "answer": true
+    }
+  }
+}

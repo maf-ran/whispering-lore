@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "What type of creature is a Turtle Spirit of Miwok?",
+  "choices": [
+    "spirit",
+    "deity",
+    "giant",
+    "vampire"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "United States",
+      "region": "North America"
+    }
+  }
+}

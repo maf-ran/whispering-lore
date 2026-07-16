@@ -1,0 +1,11 @@
+{
+  "prompt": "Which Icelandic fire spirit is famously known as the trickster god?",
+  "choices": ["Loki", "Eldurhjarta", "Jötunn", "Álfur"],
+  "correctIndex": 0,
+  "extra": {
+    "trueFalse": {
+      "prompt": "Loki is primarily a fire spirit in Icelandic folklore.",
+      "answer": true
+    }
+  }
+}

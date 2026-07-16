@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Selkie primarily dwells in The cold waters of the North Atlantic and the rocky shores of Scotland and Ireland.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Unknown",
+      "region": "Northern Europe"
+    },
+    "trueFalse": {
+      "prompt": "The Selkie is native to Northern Europe.",
+      "answer": true
+    }
+  }
+}

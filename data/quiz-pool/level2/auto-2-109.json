@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Sumpurnis come from?",
+  "choices": [
+    "Pacific",
+    "East Asia and Pacific",
+    "Balkan",
+    "Baltic"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "Latvia",
+      "region": "Baltic"
+    }
+  }
+}

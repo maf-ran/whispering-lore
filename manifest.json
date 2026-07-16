@@ -1,0 +1,23 @@
+{
+  "name": "Whispering Lore",
+  "short_name": "WhisperingLore",
+  "description": "A comprehensive compendium of world mythology and folklore.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#0D0D0D",
+  "theme_color": "#991B1B",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "64x64 32x32 16x16",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/og-image.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Wichtel come from?",
+  "choices": [
+    "Pacific",
+    "East Asia and Pacific",
+    "Germanic",
+    "Balkan"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "Germany",
+      "region": "Germanic"
+    }
+  }
+}

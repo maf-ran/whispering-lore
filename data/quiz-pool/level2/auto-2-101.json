@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Qalupalik come from?",
+  "choices": [
+    "East Asia and Pacific",
+    "Pacific",
+    "Balkan",
+    "Arctic"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "Greenland",
+      "region": "Arctic"
+    }
+  }
+}

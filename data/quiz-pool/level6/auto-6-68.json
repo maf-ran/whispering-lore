@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Shenlha Okar primarily dwells in The celestial realm.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "China",
+      "region": "Central Asia"
+    },
+    "trueFalse": {
+      "prompt": "The Shenlha Okar is native to Central Asia.",
+      "answer": true
+    }
+  }
+}

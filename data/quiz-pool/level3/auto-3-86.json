@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Where is a Brunnsgubbe said to dwell?",
+  "choices": [
+    "In and around fresh water wells, natural springs, and villag",
+    "Roads, Shikoku and Kinki regions",
+    "Banks Islands",
+    "Deep ocean waters and coastal regions of Tonga"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Sweden",
+      "region": "Nordic"
+    }
+  }
+}

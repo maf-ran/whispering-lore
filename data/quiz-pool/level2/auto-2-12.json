@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Hundred-Egg Children (Bách Việt) come from?",
+  "choices": [
+    "East Asia and Pacific",
+    "Pacific",
+    "Southeast Asia",
+    "Balkan"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "Vietnam",
+      "region": "Southeast Asia"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Raven Qwaxw Nuxalk from?",
+  "choices": [
+    "Papua New Guinea",
+    "Armenia",
+    "Unknown",
+    "Trinidad and Tobago"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "Unknown",
+      "region": "Unknown"
+    }
+  }
+}

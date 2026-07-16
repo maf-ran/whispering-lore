@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "What type of creature is a Bama Dat?",
+  "choices": [
+    "giant",
+    "ghost",
+    "vampire",
+    "deity"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Myanmar",
+      "region": "Southeast Asia"
+    }
+  }
+}

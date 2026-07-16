@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Rākshasa from?",
+  "choices": [
+    "Ukraine",
+    "India",
+    "Palestine",
+    "Botswana"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "India",
+      "region": "South Asia"
+    }
+  }
+}

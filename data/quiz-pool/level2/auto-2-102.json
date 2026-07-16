@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Troll come from?",
+  "choices": [
+    "Pacific",
+    "Northern Europe",
+    "East Asia and Pacific",
+    "Balkan"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Unknown",
+      "region": "Northern Europe"
+    }
+  }
+}

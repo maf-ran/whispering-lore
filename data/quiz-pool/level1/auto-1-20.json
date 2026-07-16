@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "What type of creature is a Xhindet?",
+  "choices": [
+    "spirit",
+    "giant",
+    "deity",
+    "vampire"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Albania",
+      "region": "Balkan"
+    }
+  }
+}

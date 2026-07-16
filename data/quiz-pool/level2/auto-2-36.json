@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Turtle Spirit of Miwok come from?",
+  "choices": [
+    "Pacific",
+    "North America",
+    "Balkan",
+    "East Asia and Pacific"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "United States",
+      "region": "North America"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Mutiara (The Magic Rooster) primarily dwells in Royal court of early Brunei Sultanate.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Brunei",
+      "region": "Southeast Asia"
+    },
+    "trueFalse": {
+      "prompt": "The Mutiara (The Magic Rooster) is native to Southeast Asia.",
+      "answer": true
+    }
+  }
+}

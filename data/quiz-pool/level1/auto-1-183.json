@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Manco Cápac from?",
+  "choices": [
+    "Qatar",
+    "Belize",
+    "Peru",
+    "Guinea-Bissau"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "Peru",
+      "region": "South America"
+    }
+  }
+}

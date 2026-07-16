@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Where is a Nanook said to dwell?",
+  "choices": [
+    "Roads, Shikoku and Kinki regions",
+    "Deep ocean waters and coastal regions of Tonga",
+    "Arctic ice, snow, and the spirit world. Felt in the movement",
+    "Banks Islands"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "Canada",
+      "region": "North America"
+    }
+  }
+}

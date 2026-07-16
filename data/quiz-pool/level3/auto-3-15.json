@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Where is a Bama Dat said to dwell?",
+  "choices": [
+    "Deep ocean waters and coastal regions of Tonga",
+    "Place of death, family home",
+    "Roads, Shikoku and Kinki regions",
+    "Banks Islands"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Myanmar",
+      "region": "Southeast Asia"
+    }
+  }
+}

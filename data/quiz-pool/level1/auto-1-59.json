@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Bear Spirit of Uzbek from?",
+  "choices": [
+    "Saudi Arabia",
+    "Uzbekistan",
+    "Finland",
+    "Kosovo"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Uzbekistan",
+      "region": "Central Asia"
+    }
+  }
+}

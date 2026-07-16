@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "What type of creature is a Br'er Buzzard?",
+  "choices": [
+    "giant",
+    "vampire",
+    "deity",
+    "trickster"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "United States",
+      "region": "North America"
+    }
+  }
+}

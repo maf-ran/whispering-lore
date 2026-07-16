@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Yanauluha (Culture Hero) primarily dwells in Southwest United States.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "United States",
+      "region": "North America"
+    },
+    "trueFalse": {
+      "prompt": "The Yanauluha (Culture Hero) is native to North America.",
+      "answer": true
+    }
+  }
+}

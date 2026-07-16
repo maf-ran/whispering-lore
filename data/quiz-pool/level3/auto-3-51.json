@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Where is a Thunderbird said to dwell?",
+  "choices": [
+    "Roads, Shikoku and Kinki regions",
+    "Deep ocean waters and coastal regions of Tonga",
+    "Banks Islands",
+    "The sky, mountain peaks, storm clouds"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "United States",
+      "region": "North America"
+    }
+  }
+}

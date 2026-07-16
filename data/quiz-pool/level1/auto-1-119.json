@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Fox Nature-Spirit of Creek from?",
+  "choices": [
+    "Eswatini",
+    "United States",
+    "Somalia",
+    "Moldova"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "United States",
+      "region": "North America"
+    }
+  }
+}

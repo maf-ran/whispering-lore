@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Where is a Badger Spirit of Passamaquoddy said to dwell?",
+  "choices": [
+    "Roads, Shikoku and Kinki regions",
+    "Not documented in Passamaquoddy tradition",
+    "Deep ocean waters and coastal regions of Tonga",
+    "Banks Islands"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "United States",
+      "region": "North America"
+    }
+  }
+}

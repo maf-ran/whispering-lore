@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Toad Guardian (Udmurt) is from Russia.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Russia",
+      "region": "Slavic"
+    },
+    "trueFalse": {
+      "prompt": "The Toad Guardian (Udmurt) is a type of guardian.",
+      "answer": true
+    }
+  }
+}

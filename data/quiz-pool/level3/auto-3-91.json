@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Where is a Syöjätär said to dwell?",
+  "choices": [
+    "Roads, Shikoku and Kinki regions",
+    "A desolate, frozen fortress in the heart of the wasteland, w",
+    "Banks Islands",
+    "Deep ocean waters and coastal regions of Tonga"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Finland",
+      "region": "Nordic"
+    }
+  }
+}

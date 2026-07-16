@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Gbahali from?",
+  "choices": [
+    "Andorra",
+    "Liberia",
+    "Kosovo",
+    "Panama"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Liberia",
+      "region": "West Africa"
+    }
+  }
+}

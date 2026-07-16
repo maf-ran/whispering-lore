@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Pahana from?",
+  "choices": [
+    "Palau",
+    "Central African Republic",
+    "United States",
+    "Guinea"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "United States",
+      "region": "North America"
+    }
+  }
+}

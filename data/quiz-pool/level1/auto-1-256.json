@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "What type of creature is a Ghost?",
+  "choices": [
+    "deity",
+    "spirit",
+    "giant",
+    "vampire"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Unknown",
+      "region": "World"
+    }
+  }
+}

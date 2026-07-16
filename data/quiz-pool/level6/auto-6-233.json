@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Sheikh of the Nile (Nile River Spirit) is from Egypt.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Egypt",
+      "region": "Africa"
+    },
+    "trueFalse": {
+      "prompt": "The Sheikh of the Nile (Nile River Spirit) is a type of water-spirit.",
+      "answer": true
+    }
+  }
+}

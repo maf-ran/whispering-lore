@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Where is a Manco Cápac said to dwell?",
+  "choices": [
+    "Lake Titicaca, Cusco region",
+    "Roads, Shikoku and Kinki regions",
+    "Deep ocean waters and coastal regions of Tonga",
+    "Banks Islands"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Peru",
+      "region": "South America"
+    }
+  }
+}

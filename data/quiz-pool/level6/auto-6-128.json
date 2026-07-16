@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Turtle Trickster of Ashanti primarily dwells in Remote rivers.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Ghana",
+      "region": "West Africa"
+    },
+    "trueFalse": {
+      "prompt": "The Turtle Trickster of Ashanti is native to West Africa.",
+      "answer": true
+    }
+  }
+}

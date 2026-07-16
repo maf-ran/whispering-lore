@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "What type of creature is a Spirit of the Black Sands?",
+  "choices": [
+    "giant",
+    "spirit",
+    "vampire",
+    "deity"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Iceland",
+      "region": "Norse"
+    }
+  }
+}

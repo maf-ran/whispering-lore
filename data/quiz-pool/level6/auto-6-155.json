@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The ǐKaggen is from Namibia.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Namibia",
+      "region": "Southern Africa"
+    },
+    "trueFalse": {
+      "prompt": "The ǐKaggen is a type of deity.",
+      "answer": true
+    }
+  }
+}

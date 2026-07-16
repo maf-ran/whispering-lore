@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Anulap from?",
+  "choices": [
+    "Slovenia",
+    "Australia",
+    "Russia",
+    "Federated States of Micronesia"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "Federated States of Micronesia",
+      "region": "Pacific"
+    }
+  }
+}

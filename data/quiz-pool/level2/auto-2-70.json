@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Upior come from?",
+  "choices": [
+    "Pacific",
+    "Slavic",
+    "East Asia and Pacific",
+    "Balkan"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Poland",
+      "region": "Slavic"
+    }
+  }
+}

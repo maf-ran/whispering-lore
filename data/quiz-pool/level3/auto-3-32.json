@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Where is a Kurka (Raven Creator) said to dwell?",
+  "choices": [
+    "Roads, Shikoku and Kinki regions",
+    "Sakhalin Island, Amur River estuary",
+    "Deep ocean waters and coastal regions of Tonga",
+    "Banks Islands"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Russia",
+      "region": "Central Asia"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Rørosgubben primarily dwells in The Røros Copper Works.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Norway",
+      "region": "Nordic"
+    },
+    "trueFalse": {
+      "prompt": "The Rørosgubben is native to Nordic.",
+      "answer": true
+    }
+  }
+}

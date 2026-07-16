@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Fairy primarily dwells in Ancient forests.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Unknown",
+      "region": "Europe"
+    },
+    "trueFalse": {
+      "prompt": "The Fairy is native to Europe.",
+      "answer": true
+    }
+  }
+}

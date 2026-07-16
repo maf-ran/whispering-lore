@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "What type of creature is a Lemjel?",
+  "choices": [
+    "giant",
+    "spirit",
+    "deity",
+    "vampire"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Marshall Islands",
+      "region": "Pacific"
+    }
+  }
+}

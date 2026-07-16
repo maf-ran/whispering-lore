@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Rana Niejta is from Norway.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Norway",
+      "region": "Sami"
+    },
+    "trueFalse": {
+      "prompt": "The Rana Niejta is a type of spring-goddess.",
+      "answer": true
+    }
+  }
+}

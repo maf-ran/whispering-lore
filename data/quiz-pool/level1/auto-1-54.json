@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "What type of creature is a Kobold?",
+  "choices": [
+    "giant",
+    "deity",
+    "vampire",
+    "household-spirit"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "Germany",
+      "region": "Germanic"
+    }
+  }
+}

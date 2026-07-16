@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "What type of creature is a Bortbyting?",
+  "choices": [
+    "fairy",
+    "vampire",
+    "deity",
+    "giant"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Sweden",
+      "region": "Nordic"
+    }
+  }
+}

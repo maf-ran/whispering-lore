@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Where is a Rākshasa said to dwell?",
+  "choices": [
+    "Banks Islands",
+    "Roads, Shikoku and Kinki regions",
+    "Forests, haunted places, Lanka",
+    "Deep ocean waters and coastal regions of Tonga"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "India",
+      "region": "South Asia"
+    }
+  }
+}

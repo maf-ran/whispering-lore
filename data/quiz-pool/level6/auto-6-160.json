@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Rākshasa primarily dwells in Forests.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "India",
+      "region": "South Asia"
+    },
+    "trueFalse": {
+      "prompt": "The Rākshasa is native to South Asia.",
+      "answer": true
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Qalupalik from?",
+  "choices": [
+    "Sierra Leone",
+    "San Marino",
+    "Greenland",
+    "Saint Kitts and Nevis"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "Greenland",
+      "region": "Arctic"
+    }
+  }
+}

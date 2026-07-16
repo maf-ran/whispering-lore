@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Kishi come from?",
+  "choices": [
+    "Pacific",
+    "East Asia and Pacific",
+    "Central Africa",
+    "Balkan"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "Angola",
+      "region": "Central Africa"
+    }
+  }
+}

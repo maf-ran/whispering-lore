@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Upior from?",
+  "choices": [
+    "Poland",
+    "French Polynesia",
+    "Federated States of Micronesia",
+    "Iraq"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Poland",
+      "region": "Slavic"
+    }
+  }
+}

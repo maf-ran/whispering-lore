@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "What type of creature is a Qarakorshaq?",
+  "choices": [
+    "deity",
+    "vampire",
+    "giant",
+    "monster"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "Turkmenistan",
+      "region": "Central Asia"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Zana primarily dwells in Mountains.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Albania",
+      "region": "Balkan"
+    },
+    "trueFalse": {
+      "prompt": "The Zana is native to Balkan.",
+      "answer": true
+    }
+  }
+}

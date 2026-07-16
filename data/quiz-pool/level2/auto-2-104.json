@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Mngwa come from?",
+  "choices": [
+    "Pacific",
+    "Balkan",
+    "East Africa",
+    "East Asia and Pacific"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "Tanzania",
+      "region": "East Africa"
+    }
+  }
+}

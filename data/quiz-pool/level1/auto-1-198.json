@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "What type of creature is a Gwyllion?",
+  "choices": [
+    "vampire",
+    "giant",
+    "deity",
+    "nature-spirit"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "Wales",
+      "region": "Celtic"
+    }
+  }
+}

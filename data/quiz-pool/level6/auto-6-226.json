@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Obrigwabibikwa primarily dwells in The Ituri Forest.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Democratic Republic of the Congo",
+      "region": "Central Africa"
+    },
+    "trueFalse": {
+      "prompt": "The Obrigwabibikwa is native to Central Africa.",
+      "answer": true
+    }
+  }
+}

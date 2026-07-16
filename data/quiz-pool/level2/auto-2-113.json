@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Obrigwabibikwa come from?",
+  "choices": [
+    "East Asia and Pacific",
+    "Central Africa",
+    "Balkan",
+    "Pacific"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Democratic Republic of the Congo",
+      "region": "Central Africa"
+    }
+  }
+}

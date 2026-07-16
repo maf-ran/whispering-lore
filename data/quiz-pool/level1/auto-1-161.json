@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Ranta from?",
+  "choices": [
+    "Thailand",
+    "Estonia",
+    "Virgin Islands",
+    "Pakistan"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "Pakistan",
+      "region": "South Asia"
+    }
+  }
+}

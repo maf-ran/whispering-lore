@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Nanook from?",
+  "choices": [
+    "Canada",
+    "Saint Vincent and the Grenadines",
+    "French Polynesia",
+    "Cyprus"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Canada",
+      "region": "North America"
+    }
+  }
+}

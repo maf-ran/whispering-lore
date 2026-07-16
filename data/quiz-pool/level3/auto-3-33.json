@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Where is a Qarakorshaq said to dwell?",
+  "choices": [
+    "Banks Islands",
+    "Roads, Shikoku and Kinki regions",
+    "Dark paths, shadows",
+    "Deep ocean waters and coastal regions of Tonga"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "Turkmenistan",
+      "region": "Central Asia"
+    }
+  }
+}

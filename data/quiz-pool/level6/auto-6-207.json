@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Mngwa is from Tanzania.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Tanzania",
+      "region": "East Africa"
+    },
+    "trueFalse": {
+      "prompt": "The Mngwa is a type of spirit.",
+      "answer": true
+    }
+  }
+}

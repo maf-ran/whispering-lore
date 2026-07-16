@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Dwarf from?",
+  "choices": [
+    "Peru",
+    "North Macedonia",
+    "Japan",
+    "Unknown"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "Unknown",
+      "region": "Europe"
+    }
+  }
+}

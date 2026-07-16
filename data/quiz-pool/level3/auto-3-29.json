@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Where is a Miraculous Well of Sidi Bou Said said to dwell?",
+  "choices": [
+    "Roads, Shikoku and Kinki regions",
+    "The town of Sidi Bou Said, a hillside village overlooking th",
+    "Deep ocean waters and coastal regions of Tonga",
+    "Banks Islands"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Tunisia",
+      "region": "North Africa"
+    }
+  }
+}

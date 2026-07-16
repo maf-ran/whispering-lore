@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Gryphon primarily dwells in High mountain crags.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Unknown",
+      "region": "West Asia"
+    },
+    "trueFalse": {
+      "prompt": "The Gryphon is native to West Asia.",
+      "answer": true
+    }
+  }
+}

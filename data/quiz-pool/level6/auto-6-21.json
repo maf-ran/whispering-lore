@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Pontianak is from Brunei.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Brunei",
+      "region": "Southeast Asia"
+    },
+    "trueFalse": {
+      "prompt": "The Pontianak is a type of ghost.",
+      "answer": true
+    }
+  }
+}

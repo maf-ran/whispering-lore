@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Rana Niejta from?",
+  "choices": [
+    "Norway",
+    "Thailand",
+    "Germany",
+    "Georgia"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Norway",
+      "region": "Sami"
+    }
+  }
+}

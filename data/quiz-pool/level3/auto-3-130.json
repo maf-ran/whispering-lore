@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Where is a Roc said to dwell?",
+  "choices": [
+    "Deep ocean waters and coastal regions of Tonga",
+    "Remote islands and the highest mountain peaks of the East",
+    "Banks Islands",
+    "Roads, Shikoku and Kinki regions"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Unknown",
+      "region": "West Asia"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Shenlha Okar from?",
+  "choices": [
+    "Djibouti",
+    "Liechtenstein",
+    "Solomon Islands",
+    "China"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "China",
+      "region": "Central Asia"
+    }
+  }
+}

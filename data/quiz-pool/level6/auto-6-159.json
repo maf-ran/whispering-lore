@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Rākshasa is from India.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "India",
+      "region": "South Asia"
+    },
+    "trueFalse": {
+      "prompt": "The Rākshasa is a type of demon.",
+      "answer": true
+    }
+  }
+}

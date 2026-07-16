@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Toyol primarily dwells in Hidden in homes of bomohs.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Singapore",
+      "region": "Southeast Asia"
+    },
+    "trueFalse": {
+      "prompt": "The Toyol is native to Southeast Asia.",
+      "answer": true
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Moose Trickster of Blackfoot primarily dwells in Remote springs.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Canada",
+      "region": "North America"
+    },
+    "trueFalse": {
+      "prompt": "The Moose Trickster of Blackfoot is native to North America.",
+      "answer": true
+    }
+  }
+}

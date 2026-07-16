@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Tamate (Dancing Spirits) is from Solomon Islands.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Solomon Islands",
+      "region": "Pacific"
+    },
+    "trueFalse": {
+      "prompt": "The Tamate (Dancing Spirits) is a type of spirit.",
+      "answer": true
+    }
+  }
+}

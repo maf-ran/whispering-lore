@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Moose Trickster of Blackfoot from?",
+  "choices": [
+    "Canada",
+    "Czech Republic",
+    "Djibouti",
+    "North Macedonia"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Canada",
+      "region": "North America"
+    }
+  }
+}

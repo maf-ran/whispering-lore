@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Gbahali is from Liberia.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Liberia",
+      "region": "West Africa"
+    },
+    "trueFalse": {
+      "prompt": "The Gbahali is a type of sea-monster.",
+      "answer": true
+    }
+  }
+}

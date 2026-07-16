@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Imizimu come from?",
+  "choices": [
+    "East Africa",
+    "Pacific",
+    "East Asia and Pacific",
+    "Balkan"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Burundi",
+      "region": "East Africa"
+    }
+  }
+}

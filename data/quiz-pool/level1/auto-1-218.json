@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "What type of creature is a Sumpurnis?",
+  "choices": [
+    "giant",
+    "deity",
+    "vampire",
+    "shapeshifter"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "Latvia",
+      "region": "Baltic"
+    }
+  }
+}

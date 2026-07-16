@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Kishi from?",
+  "choices": [
+    "Israel",
+    "Angola",
+    "United Arab Emirates",
+    "Costa Rica"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Angola",
+      "region": "Central Africa"
+    }
+  }
+}

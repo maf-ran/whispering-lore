@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Where is a Rana Niejta said to dwell?",
+  "choices": [
+    "The southern slopes of mountains in Sapmi where spring arriv",
+    "Roads, Shikoku and Kinki regions",
+    "Deep ocean waters and coastal regions of Tonga",
+    "Banks Islands"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Norway",
+      "region": "Sami"
+    }
+  }
+}

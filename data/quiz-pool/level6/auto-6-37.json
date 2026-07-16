@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Yamm is from Lebanon.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Lebanon",
+      "region": "Middle East and North Africa"
+    },
+    "trueFalse": {
+      "prompt": "The Yamm is a type of deity.",
+      "answer": true
+    }
+  }
+}

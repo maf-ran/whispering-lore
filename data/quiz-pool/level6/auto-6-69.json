@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The White God of the East (Xastc'inilgaiyîn) is from United States.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "United States",
+      "region": "North America"
+    },
+    "trueFalse": {
+      "prompt": "The White God of the East (Xastc'inilgaiyîn) is a type of deity.",
+      "answer": true
+    }
+  }
+}

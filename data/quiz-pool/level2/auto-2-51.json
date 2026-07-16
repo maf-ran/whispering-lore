@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Thunderbird come from?",
+  "choices": [
+    "Balkan",
+    "Pacific",
+    "East Asia and Pacific",
+    "North America"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "United States",
+      "region": "North America"
+    }
+  }
+}

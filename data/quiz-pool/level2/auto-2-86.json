@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Brunnsgubbe come from?",
+  "choices": [
+    "Balkan",
+    "East Asia and Pacific",
+    "Nordic",
+    "Pacific"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "Sweden",
+      "region": "Nordic"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Falcone is from San Marino.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "San Marino",
+      "region": "Mediterranean"
+    },
+    "trueFalse": {
+      "prompt": "The Falcone is a type of monster.",
+      "answer": true
+    }
+  }
+}

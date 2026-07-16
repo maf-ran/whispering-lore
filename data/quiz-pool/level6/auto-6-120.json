@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Fox Nature-Spirit of Creek primarily dwells in Remote oceans.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "United States",
+      "region": "North America"
+    },
+    "trueFalse": {
+      "prompt": "The Fox Nature-Spirit of Creek is native to North America.",
+      "answer": true
+    }
+  }
+}

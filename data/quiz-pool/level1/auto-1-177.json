@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Troll from?",
+  "choices": [
+    "Sweden",
+    "Equatorial Guinea",
+    "Kenya",
+    "Peru"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Sweden",
+      "region": "Nordic"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Bama Dat from?",
+  "choices": [
+    "Antigua and Barbuda",
+    "Iran",
+    "Myanmar",
+    "Albania"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "Myanmar",
+      "region": "Southeast Asia"
+    }
+  }
+}

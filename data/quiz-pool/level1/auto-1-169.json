@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Bortbyting from?",
+  "choices": [
+    "Liechtenstein",
+    "Sweden",
+    "Yemen",
+    "Honduras"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Sweden",
+      "region": "Nordic"
+    }
+  }
+}

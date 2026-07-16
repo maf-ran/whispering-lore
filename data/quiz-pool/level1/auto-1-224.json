@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "What type of creature is a Kishi?",
+  "choices": [
+    "demon",
+    "giant",
+    "vampire",
+    "deity"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Angola",
+      "region": "Central Africa"
+    }
+  }
+}

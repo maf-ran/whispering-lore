@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Moán come from?",
+  "choices": [
+    "Balkan",
+    "South America",
+    "Pacific",
+    "East Asia and Pacific"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Colombia",
+      "region": "South America"
+    }
+  }
+}

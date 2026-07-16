@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Rock Crystal Girl from?",
+  "choices": [
+    "United States",
+    "Lithuania",
+    "Portugal",
+    "Cameroon"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "United States",
+      "region": "North America"
+    }
+  }
+}

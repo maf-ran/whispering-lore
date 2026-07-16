@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Bjarndýrakóngur come from?",
+  "choices": [
+    "Nordic",
+    "Pacific",
+    "East Asia and Pacific",
+    "Balkan"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Iceland",
+      "region": "Nordic"
+    }
+  }
+}

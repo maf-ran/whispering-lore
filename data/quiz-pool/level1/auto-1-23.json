@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Hundred-Egg Children (Bách Việt) from?",
+  "choices": [
+    "Vietnam",
+    "Sweden",
+    "Peru",
+    "Guinea"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Vietnam",
+      "region": "Southeast Asia"
+    }
+  }
+}

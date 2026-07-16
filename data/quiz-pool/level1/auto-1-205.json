@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Selkie from?",
+  "choices": [
+    "Chile",
+    "England",
+    "Slovenia",
+    "Unknown"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "Unknown",
+      "region": "Northern Europe"
+    }
+  }
+}

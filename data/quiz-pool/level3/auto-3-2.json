@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Where is a Tamate (Dancing Spirits) said to dwell?",
+  "choices": [
+    "Roads, Shikoku and Kinki regions",
+    "Deep ocean waters and coastal regions of Tonga",
+    "The mythical islet of Veluko and the island of Vanikoro, Sol",
+    "Banks Islands"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "Solomon Islands",
+      "region": "Pacific"
+    }
+  }
+}

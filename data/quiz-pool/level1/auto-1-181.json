@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Syöjätär from?",
+  "choices": [
+    "Kyrgyzstan",
+    "Equatorial Guinea",
+    "Guinea",
+    "Finland"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "Finland",
+      "region": "Nordic"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Rannamaari (Sea Demon of the Maldives) is from Maldives.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Maldives",
+      "region": "South Asia"
+    },
+    "trueFalse": {
+      "prompt": "The Rannamaari (Sea Demon of the Maldives) is a type of sea demon.",
+      "answer": true
+    }
+  }
+}

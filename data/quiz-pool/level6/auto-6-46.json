@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Bison Trickster (Olmec) primarily dwells in Remote lakes and wilderness areas.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Mexico",
+      "region": "Mesoamerica"
+    },
+    "trueFalse": {
+      "prompt": "The Bison Trickster (Olmec) is native to Mesoamerica.",
+      "answer": true
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The The Mythical Korp primarily dwells in The highest branches of the ancient pine forests and the ruins of forgotten fortresses.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Sweden",
+      "region": "Nordic"
+    },
+    "trueFalse": {
+      "prompt": "The The Mythical Korp is native to Nordic.",
+      "answer": true
+    }
+  }
+}

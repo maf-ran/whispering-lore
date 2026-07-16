@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Sea Troll is from Unknown.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Unknown",
+      "region": "Unknown"
+    },
+    "trueFalse": {
+      "prompt": "The Sea Troll is a type of Unknown.",
+      "answer": true
+    }
+  }
+}

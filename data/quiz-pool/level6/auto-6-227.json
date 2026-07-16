@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Storjunkare is from Norway.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Norway",
+      "region": "Sami"
+    },
+    "trueFalse": {
+      "prompt": "The Storjunkare is a type of sacred-stone-deity.",
+      "answer": true
+    }
+  }
+}

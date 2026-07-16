@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Turtle Deity of Choctaw from?",
+  "choices": [
+    "United States",
+    "Nicaragua",
+    "Georgia",
+    "Sao Tome and Principe"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "United States",
+      "region": "North America"
+    }
+  }
+}

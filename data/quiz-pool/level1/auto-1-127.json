@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Turtle Trickster of Ashanti from?",
+  "choices": [
+    "Ghana",
+    "Guyana",
+    "Saudi Arabia",
+    "Lithuania"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Ghana",
+      "region": "West Africa"
+    }
+  }
+}

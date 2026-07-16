@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Cougar Animal-Spirit of Ute from?",
+  "choices": [
+    "Colombia",
+    "United States",
+    "Armenia",
+    "Liechtenstein"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "United States",
+      "region": "North America"
+    }
+  }
+}

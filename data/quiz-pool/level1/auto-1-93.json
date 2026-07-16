@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Wildcat Deity of Ute from?",
+  "choices": [
+    "Equatorial Guinea",
+    "Kiribati",
+    "Libya",
+    "United States"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "United States",
+      "region": "North America"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Shenlha Okar come from?",
+  "choices": [
+    "Balkan",
+    "Central Asia",
+    "East Asia and Pacific",
+    "Pacific"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "China",
+      "region": "Central Asia"
+    }
+  }
+}

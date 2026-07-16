@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Ali from?",
+  "choices": [
+    "Georgia",
+    "Greece",
+    "Venezuela",
+    "Guinea-Bissau"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Georgia",
+      "region": "Caucasus"
+    }
+  }
+}

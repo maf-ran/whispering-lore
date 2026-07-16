@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Where is a Moán said to dwell?",
+  "choices": [
+    "Deep ocean waters and coastal regions of Tonga",
+    "Banks Islands",
+    "Roads, Shikoku and Kinki regions",
+    "Amazon rainforest, Chocó"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "Colombia",
+      "region": "South America"
+    }
+  }
+}

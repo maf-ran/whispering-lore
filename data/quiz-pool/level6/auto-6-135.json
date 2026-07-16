@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Octopus Water-Spirit (Wolof) is from Senegal.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Senegal",
+      "region": "West Africa"
+    },
+    "trueFalse": {
+      "prompt": "The Octopus Water-Spirit (Wolof) is a type of water-spirit.",
+      "answer": true
+    }
+  }
+}

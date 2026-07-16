@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Where is a Br'er Buzzard said to dwell?",
+  "choices": [
+    "Banks Islands",
+    "Deep ocean waters and coastal regions of Tonga",
+    "Roads, Shikoku and Kinki regions",
+    "The skies and coastal areas of the Gullah Geechee Sea Island"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "United States",
+      "region": "North America"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the ǐKaggen from?",
+  "choices": [
+    "Djibouti",
+    "Namibia",
+    "Slovakia",
+    "United Arab Emirates"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Namibia",
+      "region": "Southern Africa"
+    }
+  }
+}

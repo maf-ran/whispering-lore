@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Hundred-Egg Children (Bách Việt) primarily dwells in All of Vietnam — the coastal plains and the mountain highlands.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Vietnam",
+      "region": "Southeast Asia"
+    },
+    "trueFalse": {
+      "prompt": "The Hundred-Egg Children (Bách Việt) is native to Southeast Asia.",
+      "answer": true
+    }
+  }
+}

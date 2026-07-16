@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Sea King from?",
+  "choices": [
+    "Slovenia",
+    "Unknown",
+    "Saint Kitts and Nevis",
+    "South Sudan"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Unknown",
+      "region": "Unknown"
+    }
+  }
+}

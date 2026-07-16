@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Whale Trickster of Dogon from?",
+  "choices": [
+    "England",
+    "Mali",
+    "United States",
+    "Somalia"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Mali",
+      "region": "West Africa"
+    }
+  }
+}

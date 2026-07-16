@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Bizango (Haitian Secret Society Spirits) come from?",
+  "choices": [
+    "Balkan",
+    "Caribbean",
+    "East Asia and Pacific",
+    "Pacific"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Haiti",
+      "region": "Caribbean"
+    }
+  }
+}

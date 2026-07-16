@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Hóu-koô-pô from?",
+  "choices": [
+    "United Arab Emirates",
+    "Taiwan",
+    "San Marino",
+    "Norway"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Taiwan",
+      "region": "East Asia and Pacific"
+    }
+  }
+}

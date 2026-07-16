@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Leppalúði come from?",
+  "choices": [
+    "East Asia and Pacific",
+    "Balkan",
+    "Norse",
+    "Pacific"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "Iceland",
+      "region": "Norse"
+    }
+  }
+}

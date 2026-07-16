@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "What type of creature is a Rākshasa?",
+  "choices": [
+    "giant",
+    "vampire",
+    "deity",
+    "demon"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "India",
+      "region": "South Asia"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Bison Trickster (Olmec) from?",
+  "choices": [
+    "Singapore",
+    "Mexico",
+    "Fiji",
+    "Tonga"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Mexico",
+      "region": "Mesoamerica"
+    }
+  }
+}

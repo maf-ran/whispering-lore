@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Where is a Imana said to dwell?",
+  "choices": [
+    "Forests and wilderness",
+    "Roads, Shikoku and Kinki regions",
+    "Deep ocean waters and coastal regions of Tonga",
+    "Banks Islands"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Rwanda",
+      "region": "East Africa"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Stihi (or Stihini) from?",
+  "choices": [
+    "United States",
+    "Sao Tome and Principe",
+    "Puerto Rico",
+    "Ghana"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "United States",
+      "region": "North America"
+    }
+  }
+}

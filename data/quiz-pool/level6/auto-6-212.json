@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Imana primarily dwells in All things.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Rwanda",
+      "region": "East Africa"
+    },
+    "trueFalse": {
+      "prompt": "The Imana is native to East Africa.",
+      "answer": true
+    }
+  }
+}

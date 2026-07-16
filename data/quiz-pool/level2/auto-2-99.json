@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Gwyllion come from?",
+  "choices": [
+    "Celtic",
+    "Pacific",
+    "East Asia and Pacific",
+    "Balkan"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Wales",
+      "region": "Celtic"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Gwyllion from?",
+  "choices": [
+    "Kenya",
+    "Wales",
+    "Albania",
+    "Burkina Faso"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Wales",
+      "region": "Celtic"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Roc primarily dwells in Remote islands and the highest mountain peaks of the East.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Unknown",
+      "region": "West Asia"
+    },
+    "trueFalse": {
+      "prompt": "The Roc is native to West Asia.",
+      "answer": true
+    }
+  }
+}

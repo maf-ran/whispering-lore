@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Where is a Bear Spirit of Uzbek said to dwell?",
+  "choices": [
+    "Deep ocean waters and coastal regions of Tonga",
+    "Banks Islands",
+    "Roads, Shikoku and Kinki regions",
+    "Not documented in Uzbek tradition"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "Uzbekistan",
+      "region": "Central Asia"
+    }
+  }
+}

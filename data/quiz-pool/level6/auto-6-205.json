@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Selkie is from Unknown.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Unknown",
+      "region": "Northern Europe"
+    },
+    "trueFalse": {
+      "prompt": "The Selkie is a type of shapeshifter.",
+      "answer": true
+    }
+  }
+}

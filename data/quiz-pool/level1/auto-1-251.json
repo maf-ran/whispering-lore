@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Spirit of the Black Sands from?",
+  "choices": [
+    "Bosnia and Herzegovina",
+    "Gambia",
+    "Iceland",
+    "Argentina"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "Iceland",
+      "region": "Norse"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Zana come from?",
+  "choices": [
+    "Balkan",
+    "East Asia and Pacific",
+    "Southeast Asia",
+    "Pacific"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Albania",
+      "region": "Balkan"
+    }
+  }
+}

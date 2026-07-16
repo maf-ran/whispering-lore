@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Pontianak come from?",
+  "choices": [
+    "Balkan",
+    "East Asia and Pacific",
+    "Southeast Asia",
+    "Pacific"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "Brunei",
+      "region": "Southeast Asia"
+    }
+  }
+}

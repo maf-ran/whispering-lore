@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "What type of creature is a Bear Giant of Shona?",
+  "choices": [
+    "giant",
+    "vampire",
+    "monster",
+    "deity"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Zimbabwe",
+      "region": "Southern Africa"
+    }
+  }
+}

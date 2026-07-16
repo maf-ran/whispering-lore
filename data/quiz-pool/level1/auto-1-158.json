@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "What type of creature is a Rannamaari (Sea Demon of the Maldives)?",
+  "choices": [
+    "giant",
+    "deity",
+    "sea demon",
+    "vampire"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "Maldives",
+      "region": "South Asia"
+    }
+  }
+}

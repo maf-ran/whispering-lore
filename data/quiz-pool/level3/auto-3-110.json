@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Where is a Shir (or Sheed) said to dwell?",
+  "choices": [
+    "Deep ocean waters and coastal regions of Tonga",
+    "Armenian highlands, mountains",
+    "Roads, Shikoku and Kinki regions",
+    "Banks Islands"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Armenia",
+      "region": "Caucasus"
+    }
+  }
+}

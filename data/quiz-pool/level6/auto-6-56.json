@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Maure the Briden primarily dwells in Mediterranean coast.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Algeria",
+      "region": "North Africa"
+    },
+    "trueFalse": {
+      "prompt": "The Maure the Briden is native to North Africa.",
+      "answer": true
+    }
+  }
+}

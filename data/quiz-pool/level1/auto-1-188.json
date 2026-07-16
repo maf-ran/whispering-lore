@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "What type of creature is a Deer Ghost of Mapuche?",
+  "choices": [
+    "deity",
+    "ghost",
+    "vampire",
+    "giant"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Chile",
+      "region": "South America"
+    }
+  }
+}

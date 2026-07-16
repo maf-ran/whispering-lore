@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Nezha is from China.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "China",
+      "region": "East Asia and Pacific"
+    },
+    "trueFalse": {
+      "prompt": "The Nezha is a type of deity.",
+      "answer": true
+    }
+  }
+}

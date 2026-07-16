@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Yamm primarily dwells in The Mediterranean Sea.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Lebanon",
+      "region": "Middle East and North Africa"
+    },
+    "trueFalse": {
+      "prompt": "The Yamm is native to Middle East and North Africa.",
+      "answer": true
+    }
+  }
+}

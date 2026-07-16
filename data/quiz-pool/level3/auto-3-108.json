@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Where is a Kulmking said to dwell?",
+  "choices": [
+    "Deep ocean waters and coastal regions of Tonga",
+    "Forests, bogs",
+    "Banks Islands",
+    "Roads, Shikoku and Kinki regions"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Estonia",
+      "region": "Baltic"
+    }
+  }
+}

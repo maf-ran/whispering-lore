@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Obrigwabibikwa is from Democratic Republic of the Congo.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Democratic Republic of the Congo",
+      "region": "Central Africa"
+    },
+    "trueFalse": {
+      "prompt": "The Obrigwabibikwa is a type of shapeshifter.",
+      "answer": true
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Imana come from?",
+  "choices": [
+    "East Africa",
+    "Balkan",
+    "Pacific",
+    "East Asia and Pacific"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Rwanda",
+      "region": "East Africa"
+    }
+  }
+}

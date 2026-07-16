@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Where is a Kobold said to dwell?",
+  "choices": [
+    "Houses, mines, ship",
+    "Roads, Shikoku and Kinki regions",
+    "Banks Islands",
+    "Deep ocean waters and coastal regions of Tonga"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Germany",
+      "region": "Germanic"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Where is a Nezha said to dwell?",
+  "choices": [
+    "Banks Islands",
+    "Deep ocean waters and coastal regions of Tonga",
+    "Roads, Shikoku and Kinki regions",
+    "Temples, celestial realms"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "China",
+      "region": "East Asia and Pacific"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "What type of creature is a Leppalúði?",
+  "choices": [
+    "giant",
+    "vampire",
+    "ogre",
+    "deity"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "Iceland",
+      "region": "Norse"
+    }
+  }
+}

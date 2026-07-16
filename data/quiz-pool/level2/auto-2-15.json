@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Bama Dat come from?",
+  "choices": [
+    "East Asia and Pacific",
+    "Southeast Asia",
+    "Pacific",
+    "Balkan"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Myanmar",
+      "region": "Southeast Asia"
+    }
+  }
+}

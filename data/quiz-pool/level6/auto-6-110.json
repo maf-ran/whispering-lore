@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Hawk Spirit (Khmer) primarily dwells in Remote deserts and wilderness areas.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "United States",
+      "region": "North America"
+    },
+    "trueFalse": {
+      "prompt": "The Hawk Spirit (Khmer) is native to North America.",
+      "answer": true
+    }
+  }
+}

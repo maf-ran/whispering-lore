@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "What type of creature is a Wichtel?",
+  "choices": [
+    "giant",
+    "household-spirit",
+    "vampire",
+    "deity"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Germany",
+      "region": "Germanic"
+    }
+  }
+}

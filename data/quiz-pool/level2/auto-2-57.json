@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Mishipizheu come from?",
+  "choices": [
+    "East Asia and Pacific",
+    "Balkan",
+    "Pacific",
+    "North America"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "Canada",
+      "region": "North America"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "What type of creature is a Miraculous Well of Sidi Bou Said?",
+  "choices": [
+    "deity",
+    "sacred-spirit-well",
+    "vampire",
+    "giant"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Tunisia",
+      "region": "North Africa"
+    }
+  }
+}

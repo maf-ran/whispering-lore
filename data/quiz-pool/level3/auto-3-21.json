@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Where is a Si'luwa said to dwell?",
+  "choices": [
+    "Roads, Shikoku and Kinki regions",
+    "Deep ocean waters and coastal regions of Tonga",
+    "Banks Islands",
+    "Rivers, streams, caves near running water, irrigation canals"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "Iraq",
+      "region": "Middle East and North Africa"
+    }
+  }
+}

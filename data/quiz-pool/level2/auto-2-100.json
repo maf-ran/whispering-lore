@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Tupilak come from?",
+  "choices": [
+    "East Asia and Pacific",
+    "Balkan",
+    "Pacific",
+    "Arctic"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "Greenland",
+      "region": "Arctic"
+    }
+  }
+}

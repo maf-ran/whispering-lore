@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Bizango (Haitian Secret Society Spirits) is from Haiti.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Haiti",
+      "region": "Caribbean"
+    },
+    "trueFalse": {
+      "prompt": "The Bizango (Haitian Secret Society Spirits) is a type of spirit.",
+      "answer": true
+    }
+  }
+}

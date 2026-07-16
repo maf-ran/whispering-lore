@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Kishi primarily dwells in Forests.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Angola",
+      "region": "Central Africa"
+    },
+    "trueFalse": {
+      "prompt": "The Kishi is native to Central Africa.",
+      "answer": true
+    }
+  }
+}

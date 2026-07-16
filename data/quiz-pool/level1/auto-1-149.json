@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Trickster from?",
+  "choices": [
+    "Guinea-Bissau",
+    "Jamaica",
+    "Madagascar",
+    "Guatemala"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Jamaica",
+      "region": "Caribbean"
+    }
+  }
+}

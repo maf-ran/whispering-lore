@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Bizango (Haitian Secret Society Spirits) from?",
+  "choices": [
+    "France",
+    "Haiti",
+    "Paraguay",
+    "Belgium"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Haiti",
+      "region": "Caribbean"
+    }
+  }
+}

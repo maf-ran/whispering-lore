@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Makonde Witchcraft Spirits (Uchawi) come from?",
+  "choices": [
+    "East Asia and Pacific",
+    "Southern Africa",
+    "Pacific",
+    "Balkan"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Mozambique",
+      "region": "Southern Africa"
+    }
+  }
+}

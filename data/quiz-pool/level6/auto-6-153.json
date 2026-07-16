@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Makonde Witchcraft Spirits (Uchawi) is from Mozambique.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Mozambique",
+      "region": "Southern Africa"
+    },
+    "trueFalse": {
+      "prompt": "The Makonde Witchcraft Spirits (Uchawi) is a type of witch-spirit.",
+      "answer": true
+    }
+  }
+}

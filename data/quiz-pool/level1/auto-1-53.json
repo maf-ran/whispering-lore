@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Kobold from?",
+  "choices": [
+    "Uruguay",
+    "Cuba",
+    "Hawaii",
+    "Germany"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "Germany",
+      "region": "Germanic"
+    }
+  }
+}

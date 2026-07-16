@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Hóu-koô-pô primarily dwells in High mountain peaks and alpine regions of Taiwan.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Taiwan",
+      "region": "East Asia and Pacific"
+    },
+    "trueFalse": {
+      "prompt": "The Hóu-koô-pô is native to East Asia and Pacific.",
+      "answer": true
+    }
+  }
+}

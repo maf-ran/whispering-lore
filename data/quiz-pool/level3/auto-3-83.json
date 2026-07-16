@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Where is a Bjarndýrakóngur said to dwell?",
+  "choices": [
+    "The Arctic regions and the Greenland Sea. Occasionally visit",
+    "Roads, Shikoku and Kinki regions",
+    "Banks Islands",
+    "Deep ocean waters and coastal regions of Tonga"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Iceland",
+      "region": "Nordic"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Where is a Mutiara (The Magic Rooster) said to dwell?",
+  "choices": [
+    "Deep ocean waters and coastal regions of Tonga",
+    "Royal court of early Brunei Sultanate",
+    "Banks Islands",
+    "Roads, Shikoku and Kinki regions"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Brunei",
+      "region": "Southeast Asia"
+    }
+  }
+}

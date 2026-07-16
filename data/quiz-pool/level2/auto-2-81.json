@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Ranta come from?",
+  "choices": [
+    "South Asia",
+    "Balkan",
+    "East Asia and Pacific",
+    "Pacific"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Pakistan",
+      "region": "South Asia"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Wichtel primarily dwells in Houses.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Germany",
+      "region": "Germanic"
+    },
+    "trueFalse": {
+      "prompt": "The Wichtel is native to Germanic.",
+      "answer": true
+    }
+  }
+}

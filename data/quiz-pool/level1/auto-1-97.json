@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Little Giver from?",
+  "choices": [
+    "Namibia",
+    "Timor-Leste",
+    "United States",
+    "England"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "United States",
+      "region": "North America"
+    }
+  }
+}

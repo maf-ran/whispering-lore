@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Mbe (Tortoise) come from?",
+  "choices": [
+    "Pacific",
+    "West Africa",
+    "Balkan",
+    "East Asia and Pacific"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Nigeria",
+      "region": "West Africa"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Mountain Giant (Tupi) come from?",
+  "choices": [
+    "Pacific",
+    "South America",
+    "Balkan",
+    "East Asia and Pacific"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Brazil",
+      "region": "South America"
+    }
+  }
+}

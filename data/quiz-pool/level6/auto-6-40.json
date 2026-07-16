@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Al-Khidr primarily dwells in Associated with water sources — rivers.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Jordan",
+      "region": "Middle East and North Africa"
+    },
+    "trueFalse": {
+      "prompt": "The Al-Khidr is native to Middle East and North Africa.",
+      "answer": true
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Xiezhi is from China.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "China",
+      "region": "East Asia and Pacific"
+    },
+    "trueFalse": {
+      "prompt": "The Xiezhi is a type of beast.",
+      "answer": true
+    }
+  }
+}

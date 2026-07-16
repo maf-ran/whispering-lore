@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Lemjel come from?",
+  "choices": [
+    "Southeast Asia",
+    "Balkan",
+    "East Asia and Pacific",
+    "Pacific"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "Marshall Islands",
+      "region": "Pacific"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Brunnsgubbe is from Sweden.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Sweden",
+      "region": "Nordic"
+    },
+    "trueFalse": {
+      "prompt": "The Brunnsgubbe is a type of water-spirit.",
+      "answer": true
+    }
+  }
+}

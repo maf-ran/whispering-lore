@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Storjunkare from?",
+  "choices": [
+    "Andorra",
+    "El Salvador",
+    "Norway",
+    "Afghanistan"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "Norway",
+      "region": "Sami"
+    }
+  }
+}

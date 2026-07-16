@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Phi Phrai from?",
+  "choices": [
+    "Maldives",
+    "Uzbekistan",
+    "Thailand",
+    "Kuwait"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "Thailand",
+      "region": "Southeast Asia"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Elk Guardian (Tupi) is from Brazil.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Brazil",
+      "region": "South America"
+    },
+    "trueFalse": {
+      "prompt": "The Elk Guardian (Tupi) is a type of guardian.",
+      "answer": true
+    }
+  }
+}

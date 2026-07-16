@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Where is a Duppy said to dwell?",
+  "choices": [
+    "Banks Islands",
+    "Night, silk cotton trees",
+    "Roads, Shikoku and Kinki regions",
+    "Deep ocean waters and coastal regions of Tonga"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Bahamas",
+      "region": "Caribbean"
+    }
+  }
+}

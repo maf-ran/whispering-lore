@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Where is a Storjunkare said to dwell?",
+  "choices": [
+    "Banks Islands",
+    "Deep ocean waters and coastal regions of Tonga",
+    "Roads, Shikoku and Kinki regions",
+    "Mountaintops, caves, riverbanks, and lakeshores throughout S"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "Norway",
+      "region": "Sami"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Hi'iaka is from United States.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "United States",
+      "region": "Pacific"
+    },
+    "trueFalse": {
+      "prompt": "The Hi'iaka is a type of deity.",
+      "answer": true
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Where is a Mngwa said to dwell?",
+  "choices": [
+    "Roads, Shikoku and Kinki regions",
+    "Banks Islands",
+    "Deep ocean waters and coastal regions of Tonga",
+    "Tanzanian wilderness"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "Tanzania",
+      "region": "East Africa"
+    }
+  }
+}

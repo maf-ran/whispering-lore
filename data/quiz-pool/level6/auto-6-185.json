@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Moán is from Colombia.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Colombia",
+      "region": "South America"
+    },
+    "trueFalse": {
+      "prompt": "The Moán is a type of forest-spirit.",
+      "answer": true
+    }
+  }
+}

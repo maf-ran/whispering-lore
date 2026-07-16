@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Cŵn Annwn come from?",
+  "choices": [
+    "Celtic",
+    "Balkan",
+    "East Asia and Pacific",
+    "Pacific"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Wales",
+      "region": "Celtic"
+    }
+  }
+}

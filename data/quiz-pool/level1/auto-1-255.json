@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Ghost from?",
+  "choices": [
+    "Åland",
+    "Hungary",
+    "Unknown",
+    "Belarus"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "Unknown",
+      "region": "World"
+    }
+  }
+}

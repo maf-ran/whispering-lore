@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "What type of creature is a Phoenix?",
+  "choices": [
+    "giant",
+    "vampire",
+    "bird",
+    "deity"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "Unknown",
+      "region": "World"
+    }
+  }
+}

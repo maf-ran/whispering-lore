@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "What type of creature is a Falcone?",
+  "choices": [
+    "monster",
+    "vampire",
+    "deity",
+    "giant"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "San Marino",
+      "region": "Mediterranean"
+    }
+  }
+}

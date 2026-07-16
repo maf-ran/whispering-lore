@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Fairy from?",
+  "choices": [
+    "Unknown",
+    "French Polynesia",
+    "Greenland",
+    "Japan"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Unknown",
+      "region": "Europe"
+    }
+  }
+}

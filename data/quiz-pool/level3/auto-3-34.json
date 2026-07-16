@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Where is a Shenlha Okar said to dwell?",
+  "choices": [
+    "The celestial realm, the cosmos",
+    "Deep ocean waters and coastal regions of Tonga",
+    "Roads, Shikoku and Kinki regions",
+    "Banks Islands"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "China",
+      "region": "Central Asia"
+    }
+  }
+}

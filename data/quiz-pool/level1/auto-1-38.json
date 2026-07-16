@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "What type of creature is a Yamm?",
+  "choices": [
+    "deity",
+    "vampire",
+    "giant",
+    "monster"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Lebanon",
+      "region": "Middle East and North Africa"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Sheikh of the Nile (Nile River Spirit) come from?",
+  "choices": [
+    "Africa",
+    "East Asia and Pacific",
+    "Pacific",
+    "Balkan"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Egypt",
+      "region": "Africa"
+    }
+  }
+}

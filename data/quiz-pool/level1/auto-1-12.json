@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "What type of creature is a Nezha?",
+  "choices": [
+    "monster",
+    "vampire",
+    "giant",
+    "deity"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "China",
+      "region": "East Asia and Pacific"
+    }
+  }
+}

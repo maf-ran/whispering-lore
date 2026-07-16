@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Where is a Phoenix said to dwell?",
+  "choices": [
+    "Roads, Shikoku and Kinki regions",
+    "High mountain peaks, the edges of the world, and the solar r",
+    "Deep ocean waters and coastal regions of Tonga",
+    "Banks Islands"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Unknown",
+      "region": "World"
+    }
+  }
+}

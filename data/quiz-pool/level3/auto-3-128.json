@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Where is a Ghost said to dwell?",
+  "choices": [
+    "Banks Islands",
+    "Abandoned houses, cemeteries, sites of tragedy, and the dwel",
+    "Deep ocean waters and coastal regions of Tonga",
+    "Roads, Shikoku and Kinki regions"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Unknown",
+      "region": "World"
+    }
+  }
+}

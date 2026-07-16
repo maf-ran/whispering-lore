@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Sea King primarily dwells in Not documented.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Unknown",
+      "region": "Unknown"
+    },
+    "trueFalse": {
+      "prompt": "The Sea King is native to Unknown.",
+      "answer": true
+    }
+  }
+}

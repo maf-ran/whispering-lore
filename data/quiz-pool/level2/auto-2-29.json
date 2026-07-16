@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Miraculous Well of Sidi Bou Said come from?",
+  "choices": [
+    "North Africa",
+    "Balkan",
+    "East Asia and Pacific",
+    "Pacific"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Tunisia",
+      "region": "North Africa"
+    }
+  }
+}

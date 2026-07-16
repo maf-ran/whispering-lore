@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Kvitormen primarily dwells in Forests.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Norway",
+      "region": "Nordic"
+    },
+    "trueFalse": {
+      "prompt": "The Kvitormen is native to Nordic.",
+      "answer": true
+    }
+  }
+}

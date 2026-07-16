@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Brunnsgubbe primarily dwells in In and around fresh water wells.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Sweden",
+      "region": "Nordic"
+    },
+    "trueFalse": {
+      "prompt": "The Brunnsgubbe is native to Nordic.",
+      "answer": true
+    }
+  }
+}

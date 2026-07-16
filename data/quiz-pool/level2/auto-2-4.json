@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Anulap come from?",
+  "choices": [
+    "Southeast Asia",
+    "Balkan",
+    "Pacific",
+    "East Asia and Pacific"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "Federated States of Micronesia",
+      "region": "Pacific"
+    }
+  }
+}

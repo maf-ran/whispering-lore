@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Elk Guardian (Tupi) come from?",
+  "choices": [
+    "South America",
+    "Balkan",
+    "Pacific",
+    "East Asia and Pacific"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Brazil",
+      "region": "South America"
+    }
+  }
+}

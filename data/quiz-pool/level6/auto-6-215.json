@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Kulmking is from Estonia.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Estonia",
+      "region": "Baltic"
+    },
+    "trueFalse": {
+      "prompt": "The Kulmking is a type of forest-spirit.",
+      "answer": true
+    }
+  }
+}

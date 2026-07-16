@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Makonde Witchcraft Spirits (Uchawi) from?",
+  "choices": [
+    "Jamaica",
+    "Mozambique",
+    "Denmark",
+    "Austria"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Mozambique",
+      "region": "Southern Africa"
+    }
+  }
+}

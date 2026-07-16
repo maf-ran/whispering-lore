@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Owl Nature-Spirit (San) from?",
+  "choices": [
+    "Ethiopia",
+    "Canada",
+    "Cameroon",
+    "Brunei"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Canada",
+      "region": "North America"
+    }
+  }
+}

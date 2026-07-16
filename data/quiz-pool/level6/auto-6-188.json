@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Deer Ghost of Mapuche primarily dwells in Remote oceans.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Chile",
+      "region": "South America"
+    },
+    "trueFalse": {
+      "prompt": "The Deer Ghost of Mapuche is native to South America.",
+      "answer": true
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Mba-Soêmba is from Burkina Faso.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Burkina Faso",
+      "region": "West Africa"
+    },
+    "trueFalse": {
+      "prompt": "The Mba-Soêmba is a type of trickster-animal.",
+      "answer": true
+    }
+  }
+}

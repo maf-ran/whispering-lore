@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Toad Guardian (Udmurt) from?",
+  "choices": [
+    "Afghanistan",
+    "United States",
+    "Russia",
+    "Nauru"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "Russia",
+      "region": "Slavic"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Troll primarily dwells in Isolated mountains.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Sweden",
+      "region": "Nordic"
+    },
+    "trueFalse": {
+      "prompt": "The Troll is native to Nordic.",
+      "answer": true
+    }
+  }
+}

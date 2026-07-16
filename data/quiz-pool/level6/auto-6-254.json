@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Leppalúði primarily dwells in The wilderness mountains of Iceland.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Iceland",
+      "region": "Norse"
+    },
+    "trueFalse": {
+      "prompt": "The Leppalúði is native to Norse.",
+      "answer": true
+    }
+  }
+}

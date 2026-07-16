@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Dwarf is from Unknown.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Unknown",
+      "region": "Europe"
+    },
+    "trueFalse": {
+      "prompt": "The Dwarf is a type of little-people.",
+      "answer": true
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Fairy from?",
+  "choices": [
+    "Mali",
+    "Liberia",
+    "Turkey",
+    "Denmark"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "Denmark",
+      "region": "Nordic"
+    }
+  }
+}

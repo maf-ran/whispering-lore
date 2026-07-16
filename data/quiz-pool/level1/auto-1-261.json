@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Gryphon from?",
+  "choices": [
+    "Egypt",
+    "Unknown",
+    "Vatican City",
+    "Mozambique"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Unknown",
+      "region": "West Asia"
+    }
+  }
+}

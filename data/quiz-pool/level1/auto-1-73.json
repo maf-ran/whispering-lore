@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Unktehi from?",
+  "choices": [
+    "United States",
+    "Georgia",
+    "Wales",
+    "French Polynesia"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "United States",
+      "region": "North America"
+    }
+  }
+}

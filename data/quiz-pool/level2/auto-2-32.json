@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Kurka (Raven Creator) come from?",
+  "choices": [
+    "East Asia and Pacific",
+    "Central Asia",
+    "Pacific",
+    "Balkan"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Russia",
+      "region": "Central Asia"
+    }
+  }
+}

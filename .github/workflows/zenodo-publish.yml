@@ -1,0 +1,24 @@
+name: Publish to Zenodo
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Zip Dataset
+        run: |
+          zip -r dataset.zip data/
+
+      - name: Upload to Zenodo
+        uses: zenodo-actions/zenodo-upload@v1
+        with:
+          token: ${{ secrets.ZENODO_TOKEN }}
+          file: dataset.zip
+          doi: true

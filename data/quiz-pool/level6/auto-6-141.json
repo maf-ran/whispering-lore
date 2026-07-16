@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Zmey is from Bulgaria.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Bulgaria",
+      "region": "Slavic"
+    },
+    "trueFalse": {
+      "prompt": "The Zmey is a type of dragon-guardian-spirit.",
+      "answer": true
+    }
+  }
+}

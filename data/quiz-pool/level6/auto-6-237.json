@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Flying African is from Unknown.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Unknown",
+      "region": "Unknown"
+    },
+    "trueFalse": {
+      "prompt": "The Flying African is a type of Unknown.",
+      "answer": true
+    }
+  }
+}

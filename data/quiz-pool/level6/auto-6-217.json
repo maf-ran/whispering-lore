@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Sumpurnis is from Latvia.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Latvia",
+      "region": "Baltic"
+    },
+    "trueFalse": {
+      "prompt": "The Sumpurnis is a type of shapeshifter.",
+      "answer": true
+    }
+  }
+}

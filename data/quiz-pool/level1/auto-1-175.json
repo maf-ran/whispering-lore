@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the The Mythical Korp from?",
+  "choices": [
+    "Central African Republic",
+    "Bosnia and Herzegovina",
+    "Sweden",
+    "South Korea"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "Sweden",
+      "region": "Nordic"
+    }
+  }
+}

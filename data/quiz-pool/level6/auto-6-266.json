@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Dwarf primarily dwells in Underground cities.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Unknown",
+      "region": "Europe"
+    },
+    "trueFalse": {
+      "prompt": "The Dwarf is native to Europe.",
+      "answer": true
+    }
+  }
+}

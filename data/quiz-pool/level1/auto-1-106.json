@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "What type of creature is a Owl Nature-Spirit (San)?",
+  "choices": [
+    "vampire",
+    "giant",
+    "deity",
+    "nature-spirit"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "Canada",
+      "region": "North America"
+    }
+  }
+}

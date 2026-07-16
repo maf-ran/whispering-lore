@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Spirit of the Black Sands primarily dwells in The black sand beaches of the south coast.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Iceland",
+      "region": "Norse"
+    },
+    "trueFalse": {
+      "prompt": "The Spirit of the Black Sands is native to Norse.",
+      "answer": true
+    }
+  }
+}

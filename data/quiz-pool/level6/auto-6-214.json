@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Imizimu primarily dwells in Near family.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Burundi",
+      "region": "East Africa"
+    },
+    "trueFalse": {
+      "prompt": "The Imizimu is native to East Africa.",
+      "answer": true
+    }
+  }
+}

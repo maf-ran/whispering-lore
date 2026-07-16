@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Where is a Xhindet said to dwell?",
+  "choices": [
+    "Banks Islands",
+    "Mountain passes, old ruins",
+    "Roads, Shikoku and Kinki regions",
+    "Deep ocean waters and coastal regions of Tonga"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Albania",
+      "region": "Balkan"
+    }
+  }
+}

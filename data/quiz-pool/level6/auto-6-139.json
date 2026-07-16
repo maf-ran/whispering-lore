@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Upior is from Poland.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Poland",
+      "region": "Slavic"
+    },
+    "trueFalse": {
+      "prompt": "The Upior is a type of vampire.",
+      "answer": true
+    }
+  }
+}

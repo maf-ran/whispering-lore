@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Badger Spirit of Passamaquoddy from?",
+  "choices": [
+    "Solomon Islands",
+    "United States",
+    "Serbia",
+    "Uruguay"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "United States",
+      "region": "North America"
+    }
+  }
+}

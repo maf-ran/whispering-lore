@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Hoggar Mountain Spirits (Kel Ahaggar) from?",
+  "choices": [
+    "Nigeria",
+    "Pakistan",
+    "Algeria",
+    "Ghana"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "Algeria",
+      "region": "Africa"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Duppy is from Bahamas.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Bahamas",
+      "region": "Caribbean"
+    },
+    "trueFalse": {
+      "prompt": "The Duppy is a type of ghost.",
+      "answer": true
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Obrigwabibikwa from?",
+  "choices": [
+    "Romania",
+    "Yemen",
+    "Laos",
+    "Democratic Republic of the Congo"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "Democratic Republic of the Congo",
+      "region": "Central Africa"
+    }
+  }
+}

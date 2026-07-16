@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Bison Water-Spirit of Dogon come from?",
+  "choices": [
+    "East Asia and Pacific",
+    "West Africa",
+    "Pacific",
+    "Balkan"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Mali",
+      "region": "West Africa"
+    }
+  }
+}

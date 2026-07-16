@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Si'luwa is from Iraq.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Iraq",
+      "region": "Middle East and North Africa"
+    },
+    "trueFalse": {
+      "prompt": "The Si'luwa is a type of water-demon.",
+      "answer": true
+    }
+  }
+}

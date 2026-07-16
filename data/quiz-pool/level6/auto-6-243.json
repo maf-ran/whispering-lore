@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Phaya Nak is from Unknown.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Unknown",
+      "region": "Unknown"
+    },
+    "trueFalse": {
+      "prompt": "The Phaya Nak is a type of Unknown.",
+      "answer": true
+    }
+  }
+}

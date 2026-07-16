@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Kulmking primarily dwells in Forests.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Estonia",
+      "region": "Baltic"
+    },
+    "trueFalse": {
+      "prompt": "The Kulmking is native to Baltic.",
+      "answer": true
+    }
+  }
+}

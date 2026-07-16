@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Tule Tree Spirit is from Mexico.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Mexico",
+      "region": "Mesoamerica"
+    },
+    "trueFalse": {
+      "prompt": "The Tule Tree Spirit is a type of forest-spirit.",
+      "answer": true
+    }
+  }
+}

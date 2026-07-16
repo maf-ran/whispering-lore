@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Brunnsgubbe from?",
+  "choices": [
+    "Netherlands",
+    "Sweden",
+    "Federated States of Micronesia",
+    "Belgium"
+  ],
+  "correctIndex": 1,
+  "extra": {
+    "geo": {
+      "country": "Sweden",
+      "region": "Nordic"
+    }
+  }
+}

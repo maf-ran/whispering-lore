@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Where is a Fairy said to dwell?",
+  "choices": [
+    "Roads, Shikoku and Kinki regions",
+    "Deep ocean waters and coastal regions of Tonga",
+    "Banks Islands",
+    "Ancient forests, flower gardens, fairy rings, and a hidden p"
+  ],
+  "correctIndex": 3,
+  "extra": {
+    "geo": {
+      "country": "Unknown",
+      "region": "Europe"
+    }
+  }
+}

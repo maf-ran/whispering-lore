@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which country is the Phoenix from?",
+  "choices": [
+    "New Zealand",
+    "Costa Rica",
+    "Unknown",
+    "Saint Kitts and Nevis"
+  ],
+  "correctIndex": 2,
+  "extra": {
+    "geo": {
+      "country": "Unknown",
+      "region": "World"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Bear Giant of Shona primarily dwells in Not documented in Shona tradition.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Zimbabwe",
+      "region": "Southern Africa"
+    },
+    "trueFalse": {
+      "prompt": "The Bear Giant of Shona is native to Southern Africa.",
+      "answer": true
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "creatures",
+  "prompt": "Which region does the Salmon Giant of Zapotec come from?",
+  "choices": [
+    "Mesoamerica",
+    "Pacific",
+    "Balkan",
+    "East Asia and Pacific"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Mexico",
+      "region": "Mesoamerica"
+    }
+  }
+}

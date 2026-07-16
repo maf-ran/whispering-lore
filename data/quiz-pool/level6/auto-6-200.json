@@ -1,0 +1,19 @@
+{
+  "type": "creatures",
+  "prompt": "True or false: The Tupilak primarily dwells in Inuit homes.",
+  "choices": [
+    "True",
+    "False"
+  ],
+  "correctIndex": 0,
+  "extra": {
+    "geo": {
+      "country": "Greenland",
+      "region": "Arctic"
+    },
+    "trueFalse": {
+      "prompt": "The Tupilak is native to Arctic.",
+      "answer": true
+    }
+  }
+}
