@@ -31,25 +31,28 @@ jobs:
         env:
           ZENODO_TOKEN: ${{ secrets.ZENODO_TOKEN }}
         run: |
-          echo "Token length: ${#ZENODO_TOKEN}"
           RESPONSE=$(curl -s -X POST \
+            -H "Content-Type: application/json" \
             -H "Authorization: Bearer $ZENODO_TOKEN" \
-            https://zenodo.org/api/depositions)
-          echo "API response: $RESPONSE"
+            "https://zenodo.org/api/deposit/depositions" \
+            -d '{"metadata": {}}')
+          echo "Create response: $RESPONSE"
           DEPOSITION_ID=$(echo "$RESPONSE" | python3 -c "import sys,json; d=json.load(sys.stdin); print(d.get('id', 'UNKNOWN'))")
+          BUCKET_URL=$(echo "$RESPONSE" | python3 -c "import sys,json; d=json.load(sys.stdin); print(d.get('links',{}).get('bucket', 'UNKNOWN'))")
           echo "deposition_id=$DEPOSITION_ID" >> "$GITHUB_OUTPUT"
-          echo "Created deposition: $DEPOSITION_ID"
+          echo "bucket_url=$BUCKET_URL" >> "$GITHUB_OUTPUT"
+          echo "Created deposition $DEPOSITION_ID, bucket: $BUCKET_URL"
 
       - name: Upload dataset to Zenodo
         env:
           ZENODO_TOKEN: ${{ secrets.ZENODO_TOKEN }}
         run: |
-          DEPOSITION_ID="${{ steps.create.outputs.deposition_id }}"
-          echo "Uploading to deposition $DEPOSITION_ID"
-          UPLOAD_RESP=$(curl -s -X POST \
+          BUCKET_URL="${{ steps.create.outputs.bucket_url }}"
+          echo "Uploading to bucket: $BUCKET_URL"
+          UPLOAD_RESP=$(curl -s -X PUT \
             -H "Authorization: Bearer $ZENODO_TOKEN" \
-            -F "file=@dataset.zip" \
-            "https://zenodo.org/api/depositions/$DEPOSITION_ID/files")
+            --upload-file dataset.zip \
+            "$BUCKET_URL/dataset.zip")
           echo "Upload response: $UPLOAD_RESP"
 
       - name: Publish deposition
@@ -60,7 +63,8 @@ jobs:
           DEPOSITION_ID="${{ steps.create.outputs.deposition_id }}"
           RESPONSE=$(curl -s -X POST \
             -H "Authorization: Bearer $ZENODO_TOKEN" \
-            "https://zenodo.org/api/depositions/$DEPOSITION_ID/actions/publish")
+            "https://zenodo.org/api/deposit/depositions/$DEPOSITION_ID/actions/publish")
+          echo "Publish response: $RESPONSE"
           DOI=$(echo "$RESPONSE" | python3 -c "import sys,json; d=json.load(sys.stdin); print(d.get('doi','UNKNOWN'))")
           DOI_URL=$(echo "$RESPONSE" | python3 -c "import sys,json; d=json.load(sys.stdin); print(d.get('doi_url','UNKNOWN'))")
           echo "doi=$DOI" >> "$GITHUB_OUTPUT"
@@ -75,5 +79,4 @@ jobs:
           echo "========================================="
           echo ""
           echo "Next step: replace the PENDING placeholder in about.html:"
-          echo "  grep -n 'PENDING' about.html"
           echo "  Replace '10.5281/zenodo.PENDING' with '${{ steps.publish.outputs.doi }}'"
