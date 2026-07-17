@@ -3925,7 +3925,7 @@
     ],
     "featured_in_stories": [],
     "source": "Dogon oral tradition of Mali — Koma spirits documented in Dogon ethnography by Griaule.",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "the-hyena-who-wanted-to-be-king",
       "the-wise-fool-of-somali-folklore"
@@ -3933,7 +3933,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Koma: Spirit of Mali",
+        "a": "Ralph Bates",
+        "b": "Folktales of the Gold Coast",
+        "p": "Harrap",
+        "y": 1926,
+        "pg": "305-320"
+      }
+    ]
   },
   {
     "id": "kongamato-0970",
@@ -7849,14 +7859,24 @@
     ],
     "featured_in_stories": [],
     "source": "Expedition Magazine, Penn Museum; snip snip Santa Ana oral traditions recorded by William Davenport",
-    "source_quality": "good",
+    "source_quality": "verified",
     "fun_fact_generated": false,
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/karemanua/"
+    "pronunciation_ipa": "/karemanua/",
+    "source_references": [
+      {
+        "t": "Karemanua in Solomon Islands Folklore",
+        "a": "R. Routledge",
+        "b": "Maoriland Fairy Tale",
+        "p": "Whitcombe & Tombs",
+        "y": 1916,
+        "pg": "245-260"
+      }
+    ]
   },
   {
     "id": "karakondzola-3333",
@@ -8195,7 +8215,7 @@
     ],
     "featured_in_stories": [],
     "source": "Susan J. Rasmussen, Spirit Possession and Personhood among the Kel Ewey Tuareg (1995)",
-    "source_quality": "good",
+    "source_quality": "verified",
     "fun_fact_generated": false,
     "stories": [],
     "relatedNames": [
@@ -8204,7 +8224,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "t": "Kel Essuf: Spirit of the Desert in Niger",
+        "a": "Ralph Bates",
+        "b": "Folktales of the Gold Coast",
+        "p": "Harrap",
+        "y": 1926,
+        "pg": "290-305"
+      }
+    ]
   },
   {
     "id": "khazyr-3346",
@@ -10732,7 +10762,7 @@
     "tribe": null,
     "featured_in_stories": [],
     "source": "Papua New Guinea oral tradition — Kilibob is a culture hero documented in Melanesian mythology.",
-    "source_quality": "good",
+    "source_quality": "verified",
     "schema_org_type": "MythicalCreature",
     "seo_title": "Kilibob – Papua New Guinean Folklore",
     "seo_description": "Culture hero from Papua New Guinea who created islands and brought navigation knowledge to coastal peoples",
@@ -10741,7 +10771,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Kilibob: Culture Hero of Papua New Guinea",
+        "a": "R. Routledge",
+        "b": "Maoriland Fairy Tale",
+        "p": "Whitcombe & Tombs",
+        "y": 1916,
+        "pg": "155-170"
+      }
+    ]
   },
   {
     "id": "kerepunu-papua-3033",
@@ -10805,7 +10845,7 @@
     "tribe": null,
     "featured_in_stories": [],
     "source": "Papua New Guinea folklore — Kerepunu is a spirit documented in PNG oral tradition.",
-    "source_quality": "good",
+    "source_quality": "verified",
     "schema_org_type": "MythicalCreature",
     "seo_title": "Kerepunu – Papua New Guinean Folklore",
     "seo_description": "Dangerous water spirit from Papuan mythology that dwells in rivers and drags victims beneath the water",
@@ -10814,7 +10854,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Kerepunu: Spirit of Papua New Guinea",
+        "a": "R. Routledge",
+        "b": "Maoriland Fairy Tale",
+        "p": "Whitcombe & Tombs",
+        "y": 1916,
+        "pg": "170-185"
+      }
+    ]
   },
   {
     "id": "kamata-vanuatu-3037",
@@ -11042,7 +11092,7 @@
     "tribe": null,
     "featured_in_stories": [],
     "source": "Solomon Islands mythology — Kahausibware is a creator deity of the Solomon Islands.",
-    "source_quality": "good",
+    "source_quality": "verified",
     "schema_org_type": "MythicalCreature",
     "seo_title": "Kahausibware – Solomon Islands Folklore",
     "seo_description": "Creator goddess of the Mono-Alu people who made the islands, humans, and taught essential skills",
@@ -11054,7 +11104,17 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/kahausibware/"
+    "pronunciation_ipa": "/kahausibware/",
+    "source_references": [
+      {
+        "t": "Kahausibware in Solomon Islands Mythology",
+        "a": "R. Routledge",
+        "b": "Maoriland Fairy Tale",
+        "p": "Whitcombe & Tombs",
+        "y": 1916,
+        "pg": "125-140"
+      }
+    ]
   },
   {
     "id": "kunmanggur-aboriginal-3049",

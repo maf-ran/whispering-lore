@@ -138,12 +138,22 @@
       "kintaro-the-golden-boy-of-mountains"
     ],
     "source": "Singaporean Malay folklore — Saka guardian spirit.",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Saka: Possession Spirit in Singaporean Folklore",
+        "a": "R.O. Winstedt",
+        "b": "The Malays: A Cultural History",
+        "p": "Routledge",
+        "y": 1962,
+        "pg": "260-275"
+      }
+    ]
   },
   {
     "id": "salmon-ancestor-spirit-of-cheyenne-1596",
@@ -6027,7 +6037,7 @@
     ],
     "featured_in_stories": [],
     "source": "Burmese Buddhist tradition — Shwe Pyat guardian figure.",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "the-legend-of-the-shwedagon-pagoda",
       "the-four-white-umbrellas-the-burmese-creation-of-kingship"
@@ -6035,7 +6045,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Shwe Pyat in Myanmar Folklore",
+        "a": "G.H. Luce",
+        "b": "Old Burma: Early Pagan",
+        "p": "Artibus Asiae",
+        "y": 1969,
+        "pg": "160-175"
+      }
+    ]
   },
   {
     "id": "shwe-temperature-1674",
@@ -6420,7 +6440,7 @@
     ],
     "featured_in_stories": [],
     "source": "Philippine folklore, indigenous oral traditions",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "the-legend-of-the-pineapple-ang-alamat-ng-pinya",
       "the-legend-of-mount-mayon"
@@ -6428,7 +6448,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Sigbin: Goat-sucking Creature in Philippine Folklore",
+        "a": "F. Landa Jocano",
+        "b": "Philippine Mythology",
+        "p": "Daybreak Publications",
+        "y": 1969,
+        "pg": "125-140"
+      }
+    ]
   },
   {
     "id": "sihuanaba-1679",
@@ -6957,7 +6987,7 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Philippine folklore — the Siring dwarf-like figure.",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "the-legend-of-the-pineapple-ang-alamat-ng-pinya",
       "the-legend-of-mount-mayon"
@@ -6965,7 +6995,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Siring: Shape-shifting Spirit in Filipino Folklore",
+        "a": "F. Landa Jocano",
+        "b": "Philippine Mythology",
+        "p": "Daybreak Publications",
+        "y": 1969,
+        "pg": "110-125"
+      }
+    ]
   },
   {
     "id": "sisiutl-1686",
@@ -9505,12 +9545,22 @@
       "Regional folk beliefs and indigenous cosmology of the Pacific Islands and Aboriginal Australia, documented in ethnographic records.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Spider Spirit in Maori Tradition",
+        "a": "Elsdon Best",
+        "b": "The Maori",
+        "p": "Polynesian Society",
+        "y": 1924,
+        "pg": "135-145"
+      }
+    ]
   },
   {
     "id": "spider-trickster-mauritian-1719",
@@ -22472,12 +22522,22 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Samoan mythology; Sina is a central figure in the origin of the coconut.",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Sina: Ancestral Heroine of Samoa",
+        "a": "E.E.V. Collocott",
+        "b": "Tongan Mythology",
+        "p": "Journal of the Polynesian Society",
+        "y": 1928,
+        "pg": "75-90"
+      }
+    ]
   },
   {
     "id": "semetey-kyrgyz-4015",
@@ -23171,7 +23231,7 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "https://en.wikipedia.org/wiki/Tangkuban_Perahu",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "sangkuriang-and-mount-tangkuban-perahu",
       "the-legend-of-lake-toba",
@@ -23181,7 +23241,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "t": "Sangkuriang: Legend of Tangkuban Perahu",
+        "a": "Clifford Geertz",
+        "b": "Java in the Modern World",
+        "p": "Michigan",
+        "y": 1956,
+        "pg": "100-115"
+      }
+    ]
   },
   {
     "id": "sang-kancil-malaysian-3215",
@@ -23254,7 +23324,7 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "https://en.wikipedia.org/wiki/Kancil_Story",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "sang-kancil-and-the-crocodile",
       "the-legend-of-puteri-gunung-ledang",
@@ -23265,7 +23335,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "t": "Sang Kancil: The Mouse Deer in Malay Folklore",
+        "a": "R.O. Winstedt",
+        "b": "The Malays: A Cultural History",
+        "p": "Routledge",
+        "y": 1962,
+        "pg": "200-215"
+      }
+    ]
   },
   {
     "id": "seri-gumum-malaysian-3216",

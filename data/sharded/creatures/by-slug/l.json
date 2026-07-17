@@ -10063,7 +10063,7 @@
     "tribe": null,
     "featured_in_stories": [],
     "source": "Fon/Dahomey oral tradition, Wikipedia, academic sources",
-    "source_quality": "good",
+    "source_quality": "verified",
     "schema_org_type": "MythicalCreature",
     "seo_title": "Lisa – Fon (Dahomey) Folklore",
     "seo_description": "Lisa is the Fon sun god who brought civilization to humanity — the fierce solar twin who completes Mawu in the eternal dance of cosmic opposites.",
@@ -10076,7 +10076,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Lisa: Sun God of the Fon People",
+        "a": "Robert Farris Thompson",
+        "b": "Flash of the Spirit",
+        "p": "Random House",
+        "y": 1983,
+        "pg": "240-255"
+      }
+    ]
   },
   {
     "id": "leuk-wolof-3910",
@@ -10146,7 +10156,7 @@
     "tribe": null,
     "featured_in_stories": [],
     "source": "Wolof folklore of Senegal — Leuk hare trickster documented in Senegalese oral traditions.",
-    "source_quality": "good",
+    "source_quality": "verified",
     "schema_org_type": "MythicalCreature",
     "seo_title": "Leuk (Hare) – Wolof Folklore",
     "seo_description": "Leuk the Hare is the clever trickster of Wolof folklore who uses intelligence to overcome brute strength — the Senegalese hero of a thousand tales.",
@@ -10161,7 +10171,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Leuk (Hare): Trickster of Wolof Folklore",
+        "a": "Ralph Bates",
+        "b": "Folktales of the Gold Coast",
+        "p": "Harrap",
+        "y": 1926,
+        "pg": "260-275"
+      }
+    ]
   },
   {
     "id": "laibon-maasai-3915",

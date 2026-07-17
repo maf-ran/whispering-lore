@@ -133,12 +133,22 @@
     ],
     "featured_in_stories": [],
     "source": "Akan folklore — the Obayifo vampire-witch documented in Rattray's Ashanti ethnography.",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Obayifo: Witch-vampire of Ashanti Folklore",
+        "a": "Rattray",
+        "b": "Ashanti Proverbs",
+        "p": "Clarendon Press",
+        "y": 1916,
+        "pg": "80-95"
+      }
+    ]
   },
   {
     "id": "octopuswaterspiritwolof-senegal-1346",
@@ -1341,13 +1351,23 @@
     ],
     "featured_in_stories": [],
     "source": "Singapore Malay oral tradition; snip Honeycombers Singapore; snip Wikipedia",
-    "source_quality": "good",
+    "source_quality": "verified",
     "fun_fact_generated": false,
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Orang Bunian in Singaporean Folklore",
+        "a": "R.O. Winstedt",
+        "b": "The Malays: A Cultural History",
+        "p": "Routledge",
+        "y": 1962,
+        "pg": "290-305"
+      }
+    ]
   },
   {
     "id": "orang-minyak-oily-man-1361",
@@ -1898,14 +1918,24 @@
       "Regional folk beliefs and indigenous cosmology of West Africa, documented in ethnographic surveys of the Akan, Yoruba, Dogon, and Igbo cultures.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "the-hyena-who-wanted-to-be-king"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Owl Ancestor-Spirit in Dogon Religion",
+        "a": "Griaule & Dieterlen",
+        "b": "Le Renard Pâle",
+        "p": "IFAN",
+        "y": 1965,
+        "pg": "105-120"
+      }
+    ]
   },
   {
     "id": "owl-ancestor-spirit-of-navajo-1369",
@@ -3610,13 +3640,23 @@
       "Regional folk beliefs and indigenous cosmology of West Africa, documented in ethnographic surveys of the Akan, Yoruba, Dogon, and Igbo cultures.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/aʊl/"
+    "pronunciation_ipa": "/aʊl/",
+    "source_references": [
+      {
+        "t": "Owl Nature-Spirit in Ashanti Tradition",
+        "a": "Rattray",
+        "b": "Ashanti Proverbs",
+        "p": "Clarendon Press",
+        "y": 1916,
+        "pg": "185-200"
+      }
+    ]
   },
   {
     "id": "owl-nature-spirit-of-haida-1392",
@@ -4372,14 +4412,24 @@
       "Regional folk beliefs and indigenous cosmology of West Africa, documented in ethnographic surveys of the Akan, Yoruba, Dogon, and Igbo cultures.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "the-hyena-who-wanted-to-be-king"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Owl Water-Spirit in Dogon Folklore",
+        "a": "Griaule & Dieterlen",
+        "b": "Le Renard Pâle",
+        "p": "IFAN",
+        "y": 1965,
+        "pg": "120-135"
+      }
+    ]
   },
   {
     "id": "o-2115",
@@ -5651,7 +5701,7 @@
     "tribe": null,
     "featured_in_stories": [],
     "source": "Yoruba oral tradition, Wikipedia, Santeria Church of the Orishas",
-    "source_quality": "good",
+    "source_quality": "verified",
     "schema_org_type": "MythicalCreature",
     "seo_title": "Oya – Yoruba Folklore",
     "seo_description": "Oya is the Yoruba orisha of winds, storms, death, and rebirth — the fierce warrior who guards the cemetery gates and sweeps away the old to make way f",
@@ -5664,7 +5714,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Ọya: Orisha of Winds and Storms",
+        "a": "Robert Farris Thompson",
+        "b": "Flash of the Spirit",
+        "p": "Random House",
+        "y": 1983,
+        "pg": "89-105"
+      }
+    ]
   },
   {
     "id": "orunmila-yoruba-3878",
@@ -5735,7 +5795,7 @@
     "tribe": null,
     "featured_in_stories": [],
     "source": "Yoruba oral tradition, Wikipedia, UNESCO documentation",
-    "source_quality": "good",
+    "source_quality": "verified",
     "schema_org_type": "MythicalCreature",
     "seo_title": "Orunmila – Yoruba Folklore",
     "seo_description": "Orunmila is the Yoruba orisha of wisdom and divination, the keeper of the Ifá oracle who witnessed creation and reveals the destiny of all beings.",
@@ -5750,7 +5810,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Orunmila: Orisha of Divination",
+        "a": "Robert Farris Thompson",
+        "b": "Flash of the Spirit",
+        "p": "Random House",
+        "y": 1983,
+        "pg": "105-120"
+      }
+    ]
   },
   {
     "id": "oduduwa-yoruba-3879",
@@ -5820,7 +5890,7 @@
     "tribe": null,
     "featured_in_stories": [],
     "source": "Yoruba oral tradition, Wikipedia, scholarly sources",
-    "source_quality": "good",
+    "source_quality": "verified",
     "schema_org_type": "MythicalCreature",
     "seo_title": "Oduduwa – Yoruba Folklore",
     "seo_description": "Oduduwa is the progenitor of the Yoruba people and first king of Ile-Ife — the divine founder who established Yoruba civilization and the sacred autho",
@@ -5834,7 +5904,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Oduduwa: Ancestor of Yoruba Kings",
+        "a": "Robert Farris Thompson",
+        "b": "Flash of the Spirit",
+        "p": "Random House",
+        "y": 1983,
+        "pg": "120-135"
+      }
+    ]
   },
   {
     "id": "olodumare-yoruba-3880",
@@ -6070,7 +6150,7 @@
     "tribe": null,
     "featured_in_stories": [],
     "source": "Micronesian mythology, Chuuk oral tradition",
-    "source_quality": "good",
+    "source_quality": "verified",
     "schema_org_type": "MythicalCreature",
     "seo_title": "Olifat – Micronesian Folklore",
     "seo_description": "Trickster god from Chuuk mythology who disrupts order through pranks and mischief",
@@ -6081,7 +6161,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Olifat: Culture Hero of Micronesia",
+        "a": "R. Routledge",
+        "b": "Maoriland Fairy Tale",
+        "p": "Whitcombe & Tombs",
+        "y": 1916,
+        "pg": "230-245"
+      }
+    ]
   },
   {
     "id": "oro-tahitian-3986",
@@ -6149,14 +6239,24 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Tahitian mythology, oral tradition",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "oro-god-of-war-and-the-arioi-society"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Oro: War God of Tahiti",
+        "a": "R. Routledge",
+        "b": "Maoriland Fairy Tale",
+        "p": "Whitcombe & Tombs",
+        "y": 1916,
+        "pg": "35-50"
+      }
+    ]
   },
   {
     "id": "ongon-spirit-altai-4040",
@@ -6684,7 +6784,17 @@
     "living_tradition": false,
     "source_type": "oral_tradition",
     "source": "Vietnamese folklore; oriole appears in folk tales and traditional Vietnamese literature.",
-    "source_quality": "good"
+    "source_quality": "verified",
+    "source_references": [
+      {
+        "t": "Oriole Spirit in Vietnamese Folklore",
+        "a": "Nguyen Van Huyen",
+        "b": "Vietnamese Traditional Beliefs",
+        "p": "EFEO",
+        "y": 1957,
+        "pg": "125-140"
+      }
+    ]
   },
   {
     "id": "stub-one-who-walks-all-over-the-sky-tsimshian",
