@@ -1446,9 +1446,9 @@ nav a.active::after {
 
 .source-badge {
   display: inline-block;
-  padding: 0.15rem 0.5rem;
+  padding: 0.25rem 0.75rem;
   font-family: var(--font-display);
-  font-size: 0.55rem;
+  font-size: 0.65rem;
   line-height: 1;
   letter-spacing: 0.08em;
   text-transform: uppercase;
@@ -1654,9 +1654,9 @@ nav a.active::after {
 
 .cd-badge {
   display: inline-block;
-  padding: 0.15rem 0.5rem;
+  padding: 0.25rem 0.75rem;
   font-family: var(--font-display);
-  font-size: 0.55rem;
+  font-size: 0.65rem;
   line-height: 1;
   letter-spacing: 0.08em;
   text-transform: uppercase;
@@ -2994,9 +2994,9 @@ footer p {
 
 .live-badge {
   display: inline-block;
-  padding: 0.15rem 0.5rem;
+  padding: 0.25rem 0.75rem;
   font-family: var(--font-display);
-  font-size: 0.55rem;
+  font-size: 0.65rem;
   line-height: 1;
   letter-spacing: 0.08em;
   text-transform: uppercase;
@@ -3013,9 +3013,9 @@ footer p {
 
 .source-type-badge {
   display: inline-block;
-  padding: 0.15rem 0.5rem;
+  padding: 0.25rem 0.75rem;
   font-family: var(--font-display);
-  font-size: 0.55rem;
+  font-size: 0.65rem;
   line-height: 1;
   letter-spacing: 0.08em;
   text-transform: uppercase;
