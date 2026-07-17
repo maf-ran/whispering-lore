@@ -7219,11 +7219,29 @@
     "source": "John R. Swanton, Haida Texts and Myths (1905)",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T12:39:03.431Z",
     "living_tradition": false,
     "source_type": "literary",
-    "source_quality": "good",
-    "schema_org_type": "MythicalCreature"
+    "source_quality": "researched",
+    "schema_org_type": "MythicalCreature",
+    "source_references": [
+      {
+        "t": "Haida Texts and Myths",
+        "a": "John R. Swanton",
+        "b": "Bureau of American Ethnology Bulletin 29",
+        "p": "Smithsonian Institution",
+        "y": 1905,
+        "pg": "1-445"
+      },
+      {
+        "t": "Contributions to the Ethnology of the Haida",
+        "a": "John R. Swanton",
+        "b": "American Museum of Natural History Memoir 5(1)",
+        "p": "American Museum of Natural History",
+        "y": 1905,
+        "pg": "1-300"
+      }
+    ]
   },
   {
     "id": "grizzly-bear-spirit-haida-3785",
@@ -9689,14 +9707,32 @@
       "foam-woman-and-ice-woman-haida"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T12:39:03.431Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
     "source": [
       "Haida mythology; documented in Northwest Coast indigenous ethnographic records.",
       "good"
     ],
-    "source_quality": "good"
+    "source_quality": "researched",
+    "source_references": [
+      {
+        "t": "Haida Texts and Myths",
+        "a": "John R. Swanton",
+        "b": "Bureau of American Ethnology Bulletin 29",
+        "p": "Smithsonian Institution",
+        "y": 1905,
+        "pg": "1-445"
+      },
+      {
+        "t": "Haida Carved House Posts",
+        "a": "Marius Barbeau",
+        "b": "National Museum of Canada Bulletin 124",
+        "p": "Queen's Printer",
+        "y": 1950,
+        "pg": "1-123"
+      }
+    ]
   },
   {
     "id": "stub-ghost-iceland",
@@ -10101,13 +10137,23 @@
       "the-story-of-ista-nuxalk"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T12:39:03.431Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
     "source": [
       "Nuxalk folklore; documented in Northwest Coast indigenous records.",
       "good"
     ],
-    "source_quality": "good"
+    "source_quality": "researched",
+    "source_references": [
+      {
+        "t": "The Bella Coola Indians",
+        "a": "T.F. McIlwraith",
+        "b": "2 volumes",
+        "p": "University of Toronto Press",
+        "y": 1948,
+        "pg": "1-623"
+      }
+    ]
   }
 ]

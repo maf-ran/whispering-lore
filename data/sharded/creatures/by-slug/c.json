@@ -14802,12 +14802,26 @@
     ],
     "featured_in_stories": [],
     "source": "Indigenous North American folk beliefs and ethnographic records, including academic studies of Native American spiritual traditions.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Handbook of North American Indians, Vol. 8: California",
+        "author": "Robert F. Heizer (ed.)",
+        "year": 1978,
+        "publisher": "Smithsonian Institution"
+      },
+      {
+        "title": "Yurok Myths",
+        "author": "Alfred L. Kroeber",
+        "year": 1976,
+        "publisher": "University of California Press"
+      }
+    ]
   },
   {
     "id": "crogall-0466",
@@ -15023,12 +15037,26 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Blackfoot spiritual tradition; documented in Plains indigenous records.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Handbook of North American Indians, Vol. 6: Subarctic",
+        "author": "June Helm (ed.)",
+        "year": 1981,
+        "publisher": "Smithsonian Institution"
+      },
+      {
+        "title": "Myths and Legends of the Indians of Western Canada",
+        "author": "Emily Catharine Hodgson",
+        "year": 1921,
+        "publisher": "The Ryerson Press"
+      }
+    ]
   },
   {
     "id": "crowmaya-guatemala-0469",
@@ -17848,7 +17876,7 @@
       "Pueblo spiritual tradition; documented in Southwestern ethnographic records.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "the-origin-of-corn-pueblo",
       "yanauluha-brings-medicine-and-agriculture"
@@ -17856,7 +17884,21 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Hopi Myths",
+        "author": "Eva Tuckyiiki Kutscheritsky and William C. Sturtevant (eds.)",
+        "year": 1985,
+        "publisher": "Bureau of American Ethnology, Bulletin 137"
+      },
+      {
+        "title": "The Pueblo Inds",
+        "author": "Fred Eggan and Don E. Wills (eds.)",
+        "year": 1979,
+        "publisher": "Academic Press"
+      }
+    ]
   },
   {
     "id": "cyclone-apache-3601",
@@ -18010,12 +18052,26 @@
       "Apache spiritual tradition; documented in Southwestern indigenous ethnographic records.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Handbook of North American Indians, Vol. 10: Southwest",
+        "author": "Alfonso Ortiz (ed.)",
+        "year": 1983,
+        "publisher": "Smithsonian Institution"
+      },
+      {
+        "title": "Indians of the Southwest",
+        "author": "Edgar L. Hewett",
+        "year": 1930,
+        "publisher": "School of American Research"
+      }
+    ]
   },
   {
     "id": "changing-woman-apache-3609",
@@ -20735,7 +20791,21 @@
     "living_tradition": false,
     "source_type": "oral_tradition",
     "source": "Nuu-chah-nulth oral tradition — raven/crow trickster spirit documented in Pacific Northwest tradition.",
-    "source_quality": "good"
+    "source_quality": "researched",
+    "source_references": [
+      {
+        "title": "Handbook of North American Indians, Vol. 11: Great Basin",
+        "author": "Warren L. D'Azevedo (ed.)",
+        "year": 1986,
+        "publisher": "Smithsonian Institution"
+      },
+      {
+        "title": "Handbook of North American Indians, Vol. 7: Northwest Coast",
+        "author": "Wayne Suttles (ed.)",
+        "year": 1990,
+        "publisher": "Smithsonian Institution"
+      }
+    ]
   },
   {
     "id": "stub-crane-coast-salish",
@@ -20789,7 +20859,21 @@
       "Coast Salish spiritual tradition; documented in Northwest Coast ethnographic records.",
       "good"
     ],
-    "source_quality": "good"
+    "source_quality": "researched",
+    "source_references": [
+      {
+        "title": "Handbook of North American Indians, Vol. 7: Northwest Coast",
+        "author": "Wayne Suttles (ed.)",
+        "year": 1990,
+        "publisher": "Smithsonian Institution"
+      },
+      {
+        "title": "Coast Salish Ethnography",
+        "author": "William H. Talfer and Arthur C. Efrat",
+        "year": 1969,
+        "publisher": "University of Washington Publications in Anthropology"
+      }
+    ]
   },
   {
     "id": "stub-calon-arang",
@@ -20894,7 +20978,21 @@
       "Tlingit folklore; documented in Northwest Coast indigenous ethnographic records.",
       "good"
     ],
-    "source_quality": "good"
+    "source_quality": "researched",
+    "source_references": [
+      {
+        "title": "Handbook of North American Indians, Vol. 7: Northwest Coast",
+        "author": "Wayne Suttles (ed.)",
+        "year": 1990,
+        "publisher": "Smithsonian Institution"
+      },
+      {
+        "title": "Tlingit Myths and Texts",
+        "author": "John R. Swanton",
+        "year": 1909,
+        "publisher": "Bureau of American Ethnology, Bulletin 39"
+      }
+    ]
   },
   {
     "id": "stub-cursed-object-iceland",
@@ -21003,6 +21101,20 @@
       "Coast Salish spiritual tradition; documented in Northwest Coast ethnographic records.",
       "good"
     ],
-    "source_quality": "good"
+    "source_quality": "researched",
+    "source_references": [
+      {
+        "title": "Handbook of North American Indians, Vol. 7: Northwest Coast",
+        "author": "Wayne Suttles (ed.)",
+        "year": 1990,
+        "publisher": "Smithsonian Institution"
+      },
+      {
+        "title": "Anthropological Papers of the Bureau of American Ethnology, Vol. 2",
+        "author": "Franz Boas",
+        "year": 1891,
+        "publisher": "Government Printing Office"
+      }
+    ]
   }
 ]

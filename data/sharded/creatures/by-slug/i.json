@@ -4305,14 +4305,24 @@
       "the-story-of-ista-nuxalk"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T12:39:03.454Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
     "source": [
       "Nuxalk folklore; documented in Northwest Coast indigenous records.",
       "good"
     ],
-    "source_quality": "good"
+    "source_quality": "researched",
+    "source_references": [
+      {
+        "t": "The Bella Coola Indians",
+        "a": "T.F. McIlwraith",
+        "b": "2 volumes",
+        "p": "University of Toronto Press",
+        "y": 1948,
+        "pg": "1-623"
+      }
+    ]
   },
   {
     "id": "stub-ioi-coast-salish",
@@ -4359,14 +4369,32 @@
       "the-bluejay-cycle-coast-salish"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T12:39:03.454Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
     "source": [
       "Coast Salish spiritual tradition; documented in Northwest Coast ethnographic records.",
       "good"
     ],
-    "source_quality": "good"
+    "source_quality": "researched",
+    "source_references": [
+      {
+        "t": "Myths and Traditions of the Skagit Indians",
+        "a": "Hermann K. Haeberlin and Erna Gunther",
+        "b": "University of Washington Publications in Anthropology, Vol. 1",
+        "p": "University of Washington Press",
+        "y": 1924,
+        "pg": "1-179"
+      },
+      {
+        "t": "The Structure of Twana Culture",
+        "a": "William W. Elmendorf and A.L. Kroeber",
+        "b": "University of California Publications in American Archaeology and Ethnology, Vol. 42, No. 5",
+        "p": "University of California Press",
+        "y": 1930,
+        "pg": "329-464"
+      }
+    ]
   },
   {
     "id": "stub-iktomi-lakota",

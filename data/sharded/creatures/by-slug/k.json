@@ -8567,14 +8567,24 @@
       "Hopi spiritual tradition; documented in Hopi village records and anthropological studies.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "the-ahli-and-the-kachinas-of-walpi"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T12:39:03.463Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Hopi Traditions",
+        "a": "Henry R. Voth",
+        "b": "Fieldiana: Anthropological Series, Vol. 6, No. 4",
+        "p": "Field Museum of Natural History",
+        "y": 1905,
+        "pg": "1-62"
+      }
+    ]
   },
   {
     "id": "koshari-pueblo-3583",
@@ -8809,14 +8819,24 @@
       "Pueblo spiritual tradition; documented in Southwestern ethnographic records.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "the-ants-that-pushed-on-the-pine-tree"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T12:39:03.463Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Pueblo Indian Religion",
+        "a": "Elsie Clews Parsons",
+        "b": "2 volumes",
+        "p": "University of Chicago Press",
+        "y": 1939,
+        "pg": "1-1257"
+      }
+    ]
   },
   {
     "id": "killer-of-enemies-apache-3608",
@@ -9998,11 +10018,29 @@
     "source": "John R. Swanton, Haida Texts and Myths (1905)",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T12:39:03.463Z",
     "living_tradition": false,
     "source_type": "literary",
-    "source_quality": "good",
-    "schema_org_type": "MythicalCreature"
+    "source_quality": "researched",
+    "schema_org_type": "MythicalCreature",
+    "source_references": [
+      {
+        "t": "Haida Texts and Myths",
+        "a": "John R. Swanton",
+        "b": "Bureau of American Ethnology Bulletin 29",
+        "p": "Smithsonian Institution",
+        "y": 1905,
+        "pg": "1-445"
+      },
+      {
+        "t": "Contributions to the Ethnology of the Haida",
+        "a": "John R. Swanton",
+        "b": "American Museum of Natural History Memoir 5(1)",
+        "p": "American Museum of Natural History",
+        "y": 1905,
+        "pg": "1-300"
+      }
+    ]
   },
   {
     "id": "komokwa-haida-3786",
@@ -10077,12 +10115,30 @@
       "komokwa-and-the-undersea-kingdom-haida"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T12:39:03.463Z",
     "living_tradition": false,
     "source_type": "literary",
     "pronunciation_ipa": "/kɔmɔkwa/",
-    "source_quality": "good",
-    "schema_org_type": "MythicalCreature"
+    "source_quality": "researched",
+    "schema_org_type": "MythicalCreature",
+    "source_references": [
+      {
+        "t": "Haida Texts and Myths",
+        "a": "John R. Swanton",
+        "b": "Bureau of American Ethnology Bulletin 29",
+        "p": "Smithsonian Institution",
+        "y": 1905,
+        "pg": "1-445"
+      },
+      {
+        "t": "Haida Carved House Posts",
+        "a": "Marius Barbeau",
+        "b": "National Museum of Canada Bulletin 124",
+        "p": "Queen's Printer",
+        "y": 1950,
+        "pg": "1-123"
+      }
+    ]
   },
   {
     "id": "kushtaka-tlingit-3788",
@@ -14087,14 +14143,32 @@
       "foam-woman-and-ice-woman-haida"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T12:39:03.463Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
     "source": [
       "Haida mythology; documented in Northwest Coast indigenous ethnographic records.",
       "good"
     ],
-    "source_quality": "good"
+    "source_quality": "researched",
+    "source_references": [
+      {
+        "t": "Haida Texts and Myths",
+        "a": "John R. Swanton",
+        "b": "Bureau of American Ethnology Bulletin 29",
+        "p": "Smithsonian Institution",
+        "y": 1905,
+        "pg": "1-445"
+      },
+      {
+        "t": "The Haida Indians",
+        "a": "George T. Emmons",
+        "b": "American Museum of Natural History",
+        "p": "American Museum of Natural History",
+        "y": 1903,
+        "pg": "1-85"
+      }
+    ]
   },
   {
     "id": "stub-kowi-anukasha",
@@ -14244,14 +14318,32 @@
       "the-land-otter-son-kushtaka-tlingit"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T12:39:03.463Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
     "source": [
       "Tlingit folklore; documented in Northwest Coast indigenous ethnographic records.",
       "good"
     ],
-    "source_quality": "good"
+    "source_quality": "researched",
+    "source_references": [
+      {
+        "t": "The Tlingit Indians",
+        "a": "George T. Emmons",
+        "b": "American Museum of Natural History Anthropological Papers, Vol. 12, Part 1",
+        "p": "University of Washington Press",
+        "y": 1991,
+        "pg": "1-470"
+      },
+      {
+        "t": "Symbolic Immortality: The Tlingit Potlatch",
+        "a": "Sergei Kan",
+        "b": "Smithsonian Institution Press",
+        "p": "Smithsonian Institution Press",
+        "y": 1989,
+        "pg": "1-351"
+      }
+    ]
   },
   {
     "id": "stub-kraken-iceland",
