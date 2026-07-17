@@ -106,7 +106,7 @@ async function updateLatestAdditions() {
  
        grid.innerHTML = all.map(item => `
         <div class="latest-item">
-          <div class="latest-date"><span class="gold-dot"></span> ${window.__sharedUtils.escapeXml(item.date)}</div>
+          <div class="latest-date"><span class="crimson-dot"></span> ${window.__sharedUtils.escapeXml(item.date)}</div>
           <h3>${window.__sharedUtils.escapeXml(item.name)}</h3>
           <p>${window.__sharedUtils.escapeXml(item.desc)}</p>
         </div>
@@ -159,7 +159,7 @@ async function updateLatestAdditions() {
 
     function createParticle () {
       var particle = document.createElement('div')
-      particle.className = 'gold-particle'
+      particle.className = 'crimson-particle'
       var x = Math.random() * 100
       var y = Math.random() * 100
       var dx = (Math.random() - 0.5) * 100

@@ -41,7 +41,7 @@ class StoriesViewer extends BaseViewer {
     var body = document.createElement('div');
     body.className = 'card-body';
     var accent = document.createElement('span');
-    accent.className = 'gold-accent';
+    accent.className = 'crimson-accent';
     body.appendChild(accent);
 
     var h3 = document.createElement('h3');

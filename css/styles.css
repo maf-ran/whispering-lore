@@ -105,6 +105,7 @@ body {
     radial-gradient(ellipse at 50% 50%, transparent 50%, rgba(0, 0, 0, 0.35) 100%);
   color: var(--text-primary);
   line-height: 1.6;
+  overflow-x: hidden;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   animation: pageFadeIn 0.3s ease;
@@ -531,7 +532,7 @@ nav a.active::after {
   margin: 0.75rem auto;
 }
 
-.gold-line {
+.crimson-line {
   display: block;
   width: 40px;
   height: 1px;
@@ -540,7 +541,7 @@ nav a.active::after {
   opacity: 0.6;
 }
 
-.gold-accent {
+.crimson-accent {
   display: block;
   width: 24px;
   height: 1px;
@@ -548,9 +549,9 @@ nav a.active::after {
   margin-bottom: 0.75rem;
 }
 
-.gold { color: var(--accent); }
+.crimson { color: var(--accent); }
 
-.gold-dot {
+.crimson-dot {
   display: inline-block;
   width: 4px;
   height: 4px;
@@ -1810,7 +1811,7 @@ nav a.active::after {
 }
 
 /* ── Gold particles ── */
-.gold-particle {
+.crimson-particle {
   position: absolute;
   border-radius: 50%;
   background: #E82A2A;
@@ -2001,6 +2002,45 @@ footer p {
 }
 .globe-view-all:hover {
   text-decoration: underline;
+}
+
+.globe-view-btn {
+  display: block;
+  width: 100%;
+  margin-top: 0.75rem;
+  padding: 0.5rem 1rem;
+  background: transparent;
+  color: var(--accent);
+  border: 1px solid var(--accent);
+  font-family: var(--font-display);
+  font-size: 0.65rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: all var(--transition);
+}
+.globe-view-btn:hover {
+  background: rgba(var(--accent-rgb), 0.1);
+}
+.globe-view-btn:active {
+  transform: scale(0.97);
+}
+
+.region-glyph {
+  display: block;
+  margin-bottom: 0.75rem;
+  color: var(--accent);
+  opacity: 0.3;
+}
+
+.region-count-num,
+.region-story-num {
+  font-weight: 600;
+}
+
+.region-pct {
+  opacity: 0.7;
+  font-size: 0.9em;
 }
 
 .globe-country-hint {
@@ -3381,5 +3421,73 @@ header .theme-toggle {
 .load-more-container {
   text-align: center;
   margin-top: 2rem;
+}
+
+/* ── Print styles ── */
+@media print {
+  *, *::before, *::after {
+    background: transparent !important;
+    color: #000 !important;
+    box-shadow: none !important;
+    text-shadow: none !important;
+  }
+
+  body {
+    font-size: 12pt;
+    line-height: 1.5;
+  }
+
+  header, footer, nav, .grain-overlay, .scroll-to-top,
+  .rune-scatter, .hero-actions, .hero-stats, .hero-feature-pill,
+  .filter-bar, .bestiary-sidebar, .globe-section, .daily-feature,
+  .quiz-controls-row, .theme-toggle, .skip-link,
+  .load-more-container, .btn-load-more, .section-divider,
+  #rune-canvas, script, link[rel="manifest"] {
+    display: none !important;
+  }
+
+  main {
+    padding: 0;
+    margin: 0;
+  }
+
+  .page-hero, .hero {
+    height: auto !important;
+    padding: 1rem 0;
+    page-break-after: avoid;
+  }
+
+  a[href]::after {
+    content: " (" attr(href) ")";
+    font-size: 0.8em;
+    color: #666;
+  }
+
+  a[href^="#"]::after,
+  a[href^="javascript"]::after {
+    content: "";
+  }
+
+  h1, h2, h3 {
+    page-break-after: avoid;
+  }
+
+  img {
+    max-width: 100% !important;
+    page-break-inside: avoid;
+  }
+
+  .card, .bestiary-card, .story-card, .feature-card {
+    break-inside: avoid;
+    page-break-inside: avoid;
+    border: 1px solid #ccc;
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+  }
+
+  .creature-detail, .story-detail {
+    position: static !important;
+    display: block !important;
+  }
 }
 

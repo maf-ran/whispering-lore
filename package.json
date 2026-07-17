@@ -19,6 +19,7 @@
   ],
   "scripts": {
     "test": "jest",
+    "test:coverage": "jest --coverage",
     "test:e2e": "playwright test",
     "lint": "eslint .",
     "format": "prettier --write ."
@@ -27,6 +28,19 @@
     "testPathIgnorePatterns": [
       "/node_modules/",
       "/tests/e2e/"
+    ],
+    "coverageDirectory": "coverage",
+    "coverageReporters": ["text", "text-summary"],
+    "collectCoverageFrom": [
+      "js/shared-utils.js",
+      "js/citations.js",
+      "js/region-glyphs.js",
+      "js/rune-scatter.js",
+      "js/daily-feature.js",
+      "js/quiz.js",
+      "js/mylore.js",
+      "js/viewer-base.js",
+      "archive/lib/questionFactory.js"
     ]
   },
   "devDependencies": {

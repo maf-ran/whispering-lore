@@ -1,4 +1,4 @@
-var CACHE_NAME = "whisperinglore-v1_0_1"
+var CACHE_NAME = "whisperinglore-v1_0_2"
 
 var CORE_ASSETS = [
   '/',
@@ -29,7 +29,6 @@ var CORE_ASSETS = [
     '/data/sharded/manifest.json',
     '/og-image.svg',
     '/favicon.svg',
-    '/assets/icons/logo-mark.svg',
     '/images/placeholder-creature.svg'
 ]
 
