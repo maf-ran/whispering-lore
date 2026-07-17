@@ -2028,7 +2028,7 @@
     ],
     "featured_in_stories": [],
     "source": "British Museum, Metropolitan Museum of Art, World History Encyclopedia",
-    "source_quality": "good",
+    "source_quality": "verified",
     "fun_fact_generated": false,
     "id": "lamassu-iraq-1035",
     "stories": [],
@@ -2040,7 +2040,8 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": "Black & Green, Gods, Demons, and Symbols of Ancient Mesopotamia (1992); Wiggermann, Mesopotamian Protective Spirits (1992)"
   },
   {
     "id": "lamia-greece-1036",
@@ -2124,12 +2125,13 @@
       "zmey-the-benevolent-dragon-of-bulgarian-folklore"
     ],
     "source": "Greek mythology, Hesiod & Homer",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": "Aristophanes, Lysistrata 441; Kerenyi, Heroes of the Greeks (1959); Theocritus, Idylls (3rd c. BCE)"
   },
   {
     "id": "lamia-cyprus-1037",
@@ -3781,12 +3783,13 @@
     ],
     "featured_in_stories": [],
     "source": "Polish folklore; shapeshifting guardian of the forest (leśzy).",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": "Propp, Russian Folktale (1984); Afanasyev, Russian Fairy Tales (1865); Ivanits, Russian Folk Belief (1989)"
   },
   {
     "id": "let-htau-1060",
@@ -6498,13 +6501,14 @@
     ],
     "featured_in_stories": [],
     "source": "Bahamian folklore — the Lusca sea monster documented in Bahamian oral tradition.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/luska/"
+    "pronunciation_ipa": "/luska/",
+    "source_references": "Curet, Caribbean Paleodemography (2005); Bahamian/Turks folklore documentation"
   },
   {
     "id": "luz-mala-gaucha-1095",
