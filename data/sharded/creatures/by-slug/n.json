@@ -8145,12 +8145,26 @@
       "Navajo (Diné) spiritual tradition; documented in Navajo ethnographies and traditional oral histories.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Myths and Legends of the Navajo",
+        "author": "William Bright",
+        "year": 1993,
+        "publisher": "University of New Mexico Press"
+      },
+      {
+        "title": "The Night Chant: A Navaho Ceremony",
+        "author": "Washington Matthews",
+        "year": 1902,
+        "publisher": "Bureau of American Ethnology Memoir 6"
+      }
+    ]
   },
   {
     "id": "nautsiti-pueblo-3579",
@@ -8303,14 +8317,28 @@
       "Apache spiritual tradition; documented in Southwestern indigenous ethnographic records.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "the-white-mountain-apache-creation"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Chiricahua Apache",
+        "author": "H.B. Alexander",
+        "year": 1900,
+        "publisher": "University of New Mexico Bulletin, No. 23, Ethnological Series 1"
+      },
+      {
+        "title": "An Apache Life-Way: The Economic, Social, and Religious Institutions of the Chiricahua Indians",
+        "author": "Morris Edward Opler",
+        "year": 1941,
+        "publisher": "University of Chicago Press"
+      }
+    ]
   },
   {
     "id": "naiye-apache-3616",

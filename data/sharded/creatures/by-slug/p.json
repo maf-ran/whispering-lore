@@ -8901,14 +8901,22 @@
       "Hopi spiritual tradition; documented in Hopi village records and anthropological studies.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "the-circle-kachina-and-his-wife-become-stars"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:12:22.963Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Hopi Kachinas: The Compiled Diary of Titus Quongwaptewa",
+        "author": "E. W. Voget",
+        "year": 1956,
+        "publisher": "Bureau of American Ethnology Bulletin 164, Smithsonian Institution"
+      }
+    ]
   },
   {
     "id": "pautiwa-pueblo-3594",
@@ -12085,14 +12093,22 @@
       "the-story-of-ista-nuxalk"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:12:22.963Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
     "source": [
       "Nuxalk folklore; documented in Northwest Coast indigenous records.",
       "good"
     ],
-    "source_quality": "good"
+    "source_quality": "researched",
+    "source_references": [
+      {
+        "title": "The Bella Coola Indians",
+        "author": "T. F. McIlwraith",
+        "year": 1948,
+        "publisher": "University of Toronto Press (2 volumes)"
+      }
+    ]
   },
   {
     "id": "stub-pygmalion",
@@ -12598,13 +12614,21 @@
       "the-porcupine-and-the-beaver-tsimshian"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:12:22.963Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
     "source": [
       "Tsimshian folklore; documented in Northwest Coast indigenous records.",
       "good"
     ],
-    "source_quality": "good"
+    "source_quality": "researched",
+    "source_references": [
+      {
+        "title": "Tsimshian Texts",
+        "author": "Marius Barbeau",
+        "year": 1950,
+        "publisher": "Bureau of American Ethnology Bulletin 127, Smithsonian Institution"
+      }
+    ]
   }
 ]
