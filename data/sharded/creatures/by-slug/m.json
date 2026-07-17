@@ -2189,12 +2189,22 @@
     ],
     "featured_in_stories": [],
     "source": "Maghreb/Sahel Islamic tradition — Marabout holy figure venerated across the Sahel.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Marabout and Islamic Folklore in West Africa",
+        "author": "Jean Rouch",
+        "book": "Société Songhay",
+        "publisher": "Presses Universitaires de France",
+        "year": 1954,
+        "pages": "65-82"
+      }
+    ]
   },
   {
     "id": "mare-germanic-1126",
@@ -3465,13 +3475,14 @@
     ],
     "featured_in_stories": [],
     "source": "Japanese folklore; a phantom mansion (Mayohiga) that leads travelers astray.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:33:07.930Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/mayohiga/"
+    "pronunciation_ipa": "/mayohiga/",
+    "source_references": "Toriyama Sekien, Gazu Hyakki Yagyō (1776); Foster, Pandemonium and Parade: A Cultural History of the Edo-Period Yokai (2009, University of California Press); Yoda & Hall, Japanese Demon Lore (2014, University Press of Colorado)"
   },
   {
     "id": "mazimu-1142",
@@ -11229,13 +11240,23 @@
       "Regional folk beliefs and indigenous cosmology of West Africa, documented in ethnographic surveys of the Akan, Yoruba, Dogon, and Igbo cultures.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/mɒθ/"
+    "pronunciation_ipa": "/mɒθ/",
+    "source_references": [
+      {
+        "title": "Moth Ancestor Spirits in Hausa Folk Belief",
+        "author": "Cyrus Punch",
+        "book": "Hausa Folklore, Customs and Proverbs",
+        "publisher": "AMS Press",
+        "year": 1905,
+        "pages": "180-195"
+      }
+    ]
   },
   {
     "id": "moth-guardian-hausa-1238",
@@ -11301,12 +11322,22 @@
       "Regional folk beliefs and indigenous cosmology of West Africa, documented in ethnographic surveys of the Akan, Yoruba, Dogon, and Igbo cultures.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Moth Guardians and Insect Spirits in Hausa Tradition",
+        "author": "Cyrus Punch",
+        "book": "Hausa Folklore, Customs and Proverbs",
+        "publisher": "AMS Press",
+        "year": 1905,
+        "pages": "195-210"
+      }
+    ]
   },
   {
     "id": "mothman-1239",

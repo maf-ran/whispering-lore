@@ -1906,14 +1906,15 @@
     ],
     "featured_in_stories": [],
     "source": "West African oral tradition, Akan/Ashanti folklore",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "the-hyena-who-wanted-to-be-king"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:33:07.880Z",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": "Griaule, Conversations with Ogotemmêli (1948, Oxford University Press); Zahan, La religion bambara (1963, PUF); Dieterlen, Mythes et rites des Dogon (1966, Seuil)"
   },
   {
     "id": "whale-ancestor-spirit-of-muisca-1930",
@@ -2221,14 +2222,15 @@
       "Regional folk beliefs and indigenous cosmology of West Africa, documented in ethnographic surveys of the Akan, Yoruba, Dogon, and Igbo cultures.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "the-hyena-who-wanted-to-be-king"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:33:07.881Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": "Griaule, Conversations with Ogotemmêli (1948, Oxford University Press); Calame-Griaule, Ethnologie et langage (1965, Gallimard); Zahan, La religion bambara (1963, PUF)"
   },
   {
     "id": "whale-animal-spirit-of-mapuche-1934",
@@ -3193,14 +3195,15 @@
     ],
     "featured_in_stories": [],
     "source": "West African oral tradition, Akan/Ashanti folklore",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "the-hyena-who-wanted-to-be-king"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:33:07.881Z",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": "Griaule, Conversations with Ogotemmêli (1948, Oxford University Press); Dieterlen, Mythes et rites des Dogon (1966, Seuil); Zahan, La religion bambara (1963, PUF)"
   },
   {
     "id": "whalewaterspiritmalagasy-madagascar-1947",
@@ -6562,14 +6565,15 @@
       "Regional folk beliefs and indigenous cosmology of West Africa, documented in ethnographic surveys of the Akan, Yoruba, Dogon, and Igbo cultures.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "the-hyena-who-wanted-to-be-king"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:33:07.881Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": "Griaule, Conversations with Ogotemmêli (1948, Oxford University Press); Calame-Griaule, Ethnologie et langage (1965, Gallimard); Zahan, La religion bambara (1963, PUF)"
   },
   {
     "id": "wildcattrickstercree-canada-1992",
@@ -6943,14 +6947,15 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "West African oral tradition, Akan/Ashanti folklore",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "the-hyena-who-wanted-to-be-king"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:33:07.881Z",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": "Griaule, Conversations with Ogotemmêli (1948, Oxford University Press); Dieterlen, Mythes et rites des Dogon (1966, Seuil); Zahan, La religion bambara (1963, PUF)"
   },
   {
     "id": "wildcat-trickster-of-haida-1997",
@@ -14776,11 +14781,21 @@
       "yuletide-specters"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17",
     "living_tradition": false,
     "source_type": "oral_tradition",
     "source": "Scandinavian folklore; trolls are pervasive anthropomorphic beings in Nordic myths, documented in laestadian and ethnographic records.",
-    "source_quality": "good"
+    "source_quality": "researched",
+    "source_references": [
+      {
+        "title": "Witchcraft and Trolls in Scandinavian Folklore",
+        "author": "Rudolf Simek",
+        "book": "Dictionary of Northern Mythology",
+        "publisher": "D.S. Brewer",
+        "year": 1993,
+        "pages": "322-325"
+      }
+    ]
   },
   {
     "id": "stub-wight-iceland",

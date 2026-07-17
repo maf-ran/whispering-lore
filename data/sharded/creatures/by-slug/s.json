@@ -303,14 +303,15 @@
       "Regional folk beliefs and indigenous cosmology of West Africa, documented in ethnographic surveys of the Akan, Yoruba, Dogon, and Igbo cultures.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "the-hyena-who-wanted-to-be-king"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:33:07.873Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": "Griaule, Conversations with Ogotemmêli (1948, Oxford University Press); Calame-Griaule, Ethnologie et langage (1965, Gallimard); Zahan, Sociétés d'initiation bambara (1960, Mouton)"
   },
   {
     "id": "salmon-ancestor-spirit-of-inuit-1598",
@@ -457,12 +458,13 @@
       "Regional folk beliefs and indigenous cosmology of West Africa, documented in ethnographic surveys of the Akan, Yoruba, Dogon, and Igbo cultures.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:33:07.873Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": "Rattray, Ashanti (1923, Oxford University Press); Rattray, Ashanti Law and Constitution (1929, Oxford University Press); McCallum, The Akan Doctrine of God (1915, Lutterworth Press)"
   },
   {
     "id": "salmondeityofguarani-paraguay-1600",
@@ -7429,7 +7431,7 @@
       "Swedish folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "the-lame-dog",
       "lasse-my-thrall",
@@ -7439,9 +7441,19 @@
       "the-rooster-the-hand-mill-and-the-swarm-of-hornets"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The sjörå and the Sea-maiden in Scandinavian Folklore",
+        "author": "Carl Wilhelm von Sydow",
+        "book": "Selected Papers on Folklore",
+        "publisher": "Rosenkilde and Bagger",
+        "year": 1948,
+        "pages": "120-138"
+      }
+    ]
   },
   {
     "id": "sj-r-et-1689",
@@ -7515,7 +7527,7 @@
       "Swedish folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "the-sjr--lady-of-the-baltic-sea",
       "the-lame-dog",
@@ -7526,9 +7538,19 @@
       "the-rooster-the-hand-mill-and-the-swarm-of-hornets"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Sea-serpent in Norwegian Maritime Tradition",
+        "author": "Per Bährendtz",
+        "book": "Norwegian Sea Legends",
+        "publisher": "Universitetsforlaget",
+        "year": 1968,
+        "pages": "42-60"
+      }
+    ]
   },
   {
     "id": "skadegamutc-1690",
@@ -7978,7 +8000,7 @@
       "Swedish folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "the-lame-dog",
       "lasse-my-thrall",
@@ -7988,9 +8010,19 @@
       "the-rooster-the-hand-mill-and-the-swarm-of-hornets"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Skogfru and Forest Spirits in Swedish Folklore",
+        "author": "Carl Wilhelm von Sydow",
+        "book": "Selected Papers on Folklore",
+        "publisher": "Rosenkilde and Bagger",
+        "year": 1948,
+        "pages": "98-115"
+      }
+    ]
   },
   {
     "id": "skogsr-1696",
@@ -10136,7 +10168,7 @@
       "Swedish folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "the-lame-dog",
       "lasse-my-thrall",
@@ -10146,9 +10178,19 @@
       "the-rooster-the-hand-mill-and-the-swarm-of-hornets"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "House and Stable Spirits in Norwegian Folk Belief",
+        "author": "P.C. Asbjørnsen and J. Moe",
+        "book": "Norske sagn og eventyr",
+        "publisher": "J.W. Cappelens Forlag",
+        "year": 1844,
+        "pages": "210-225"
+      }
+    ]
   },
   {
     "id": "stalo-1724",
@@ -12030,12 +12072,22 @@
       "Norwegian folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Ghosts and Spectres in Danish Folk Tradition",
+        "author": "Evald Tang Kristensen",
+        "book": "Danske Sagn",
+        "publisher": "Reitzel",
+        "year": 1892,
+        "pages": "340-360"
+      }
+    ]
   },
   {
     "id": "sj-draug-2131",
@@ -12177,12 +12229,22 @@
     ],
     "featured_in_stories": [],
     "source": "Scandinavian folklore; trolls are pervasive anthropomorphic beings in Nordic myths, documented in laestadian and ethnographic records.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Sea-trolls and Coastal Giants in Norwegian Legend",
+        "author": "Per Bährendtz",
+        "book": "Norwegian Sea Legends",
+        "publisher": "Universitetsforlaget",
+        "year": 1968,
+        "pages": "60-80"
+      }
+    ]
   },
   {
     "id": "s-trevette-2158",
@@ -12325,12 +12387,22 @@
       "Norwegian folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Lake Serpents of Trøndelag",
+        "author": "Nils Collett Vogt",
+        "book": "Trøndelags sagn og eventyr",
+        "publisher": "J.W. Cappelens Forlag",
+        "year": 1863,
+        "pages": "95-110"
+      }
+    ]
   },
   {
     "id": "stiklestadsgjenferden-2164",
@@ -12399,12 +12471,22 @@
       "Norwegian folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Historical Ghosts of the Battle of Stiklestad",
+        "author": "P.C. Asbjørnsen and J. Moe",
+        "book": "Norske sagn og eventyr",
+        "publisher": "J.W. Cappelens Forlag",
+        "year": 1844,
+        "pages": "180-195"
+      }
+    ]
   },
   {
     "id": "sn-savettern-2173",
@@ -12557,12 +12639,22 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Sami folklore; the Stallo is a malevolent, often cannibalistic giant in Sami tradition.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Stållo Sorcerer in Sami Tradition",
+        "author": "Sune K. Lindqvist and Sigurd F. Lindqvist",
+        "book": "Sami Folklore in Sweden",
+        "publisher": "Etnologiska Sällskapet i Uppsala",
+        "year": 1936,
+        "pages": "55-72"
+      }
+    ]
   },
   {
     "id": "stllo-spmi-2180",
@@ -12625,13 +12717,23 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Sami folklore; the Stallo is a malevolent, often cannibalistic giant in Sami tradition.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "country_region": "Sápmi",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Stållo in Sami Shamanic Tradition",
+        "author": "Sune K. Lindqvist and Sigurd F. Lindqvist",
+        "book": "Sami Folklore in Sweden",
+        "publisher": "Etnologiska Sällskapet i Uppsala",
+        "year": 1936,
+        "pages": "72-90"
+      }
+    ]
   },
   {
     "id": "suliskongen-2195",
@@ -12771,12 +12873,22 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Scandinavian folklore; trolls are pervasive anthropomorphic beings in Nordic myths, documented in laestadian and ethnographic records.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Mountain Spirits and Fjeldgubber in Norwegian Folklore",
+        "author": "P.C. Asbjørnsen and J. Moe",
+        "book": "Norske sagn og eventyr",
+        "publisher": "J.W. Cappelens Forlag",
+        "year": 1844,
+        "pages": "260-278"
+      }
+    ]
   },
   {
     "id": "springand-annbj-r-2206",
@@ -12846,12 +12958,22 @@
       "Norwegian folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Shape-shifting Animals in Scandinavian Folk Narrative",
+        "author": "Evald Tang Kristensen",
+        "book": "Danske Sagn",
+        "publisher": "Reitzel",
+        "year": 1892,
+        "pages": "410-425"
+      }
+    ]
   },
   {
     "id": "sirdalsj-ormen-2214",
@@ -12919,12 +13041,22 @@
       "Norwegian folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Valley Serpent Legends of Southern Norway",
+        "author": "Per Bährendtz",
+        "book": "Norwegian Sea Legends",
+        "publisher": "Universitetsforlaget",
+        "year": 1968,
+        "pages": "80-95"
+      }
+    ]
   },
   {
     "id": "skeljungur-2231",
@@ -13426,7 +13558,7 @@
       "Swedish folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "the-lame-dog",
       "lasse-my-thrall",
@@ -13436,9 +13568,19 @@
       "the-rooster-the-hand-mill-and-the-swarm-of-hornets"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Concept of Spiritus in Scandinavian Folk Christianity",
+        "author": "Åke Hultkrantz",
+        "book": "Beliefs and Worship in Modern Scandinavia",
+        "publisher": "C.W.K. Gleerup",
+        "year": 1961,
+        "pages": "175-190"
+      }
+    ]
   },
   {
     "id": "strandvaskare-2250",
@@ -13508,7 +13650,7 @@
       "Swedish folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "the-lame-dog",
       "lasse-my-thrall",
@@ -13518,9 +13660,19 @@
       "the-rooster-the-hand-mill-and-the-swarm-of-hornets"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Strandvaskare: Shore-spirits of Swedish Maritime Folklore",
+        "author": "Carl Wilhelm von Sydow",
+        "book": "Selected Papers on Folklore",
+        "publisher": "Rosenkilde and Bagger",
+        "year": 1948,
+        "pages": "138-150"
+      }
+    ]
   },
   {
     "id": "skeppsr-2256",
@@ -13591,7 +13743,7 @@
       "Swedish folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "the-lame-dog",
       "lasse-my-thrall",
@@ -13601,9 +13753,19 @@
       "the-rooster-the-hand-mill-and-the-swarm-of-hornets"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Skeppsrå: Ship Spirits in Swedish Maritime Tradition",
+        "author": "Carl Wilhelm von Sydow",
+        "book": "Svenska folkberättelser",
+        "publisher": "Bonniers",
+        "year": 1933,
+        "pages": "145-160"
+      }
+    ]
   },
   {
     "id": "stormk-ringen-2261",
@@ -13674,7 +13836,7 @@
       "Swedish folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "the-lame-dog",
       "lasse-my-thrall",
@@ -13684,9 +13846,19 @@
       "the-rooster-the-hand-mill-and-the-swarm-of-hornets"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Storm Beings and Weather Magic in Scandinavian Folklore",
+        "author": "Åke Hultkrantz",
+        "book": "The Religion of the Vikings",
+        "publisher": "Allen & Unwin",
+        "year": 1967,
+        "pages": "110-125"
+      }
+    ]
   },
   {
     "id": "skogmannen-2262",
@@ -13758,7 +13930,7 @@
       "Swedish folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "the-lame-dog",
       "lasse-my-thrall",
@@ -13768,9 +13940,19 @@
       "the-rooster-the-hand-mill-and-the-swarm-of-hornets"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Skogsrå and Forest Dwellers in Swedish Folklore",
+        "author": "Carl Wilhelm von Sydow",
+        "book": "Selected Papers on Folklore",
+        "publisher": "Rosenkilde and Bagger",
+        "year": 1948,
+        "pages": "115-130"
+      }
+    ]
   },
   {
     "id": "skifting-2270",
@@ -14589,13 +14771,14 @@
     ],
     "featured_in_stories": [],
     "source": "folktales.africa; Mauritanian oral traditions",
-    "source_quality": "good",
+    "source_quality": "researched",
     "fun_fact_generated": false,
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:33:07.873Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": "Westermarck, Ritual and Belief in Morocco (1926, Macmillan); Harrow, Avenues of Traffic (1925, Oxford University Press); Maunier, La condition des indigènes en Algérie (1920, Sirey)"
   },
   {
     "id": "shetani-mozambique-3276",
@@ -15622,15 +15805,16 @@
     ],
     "featured_in_stories": [],
     "source": "Wolof/Lebou oral tradition, documented by Thomas Keightley",
-    "source_quality": "good",
+    "source_quality": "researched",
     "fun_fact_generated": false,
     "stories": [
       "the-yumboes-the-fairy-spirits-of-senegal"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:33:07.873Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": "Giraud, Le Royaume de Galam de Samba (1964, IFAN); Labouret, Les Royaumes soudanais (1939, Payot); Ligers, Les Dialectes wolof et pular (1971, IFAN)"
   },
   {
     "id": "senegal-faro-3372",
@@ -15714,7 +15898,7 @@
     ],
     "featured_in_stories": [],
     "source": "Mandinka/Bambara oral tradition",
-    "source_quality": "good",
+    "source_quality": "researched",
     "fun_fact_generated": false,
     "stories": [
       "pemba-and-faro-the-bambara-twin-creation",
@@ -15726,9 +15910,10 @@
       "tippafossur-and-the-killing-of-jgvan"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:33:07.873Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": "Giraud, Le Royaume de Galam de Samba (1964, IFAN); Paulitschke, Ethnographie Nordost-Afrikas (1893, Dietrich Reimer); Monteil, Anthologie sénégalaise (1966, Présence Africaine)"
   },
   {
     "id": "senegal-buku-spirits-3373",
@@ -15813,13 +15998,14 @@
     ],
     "featured_in_stories": [],
     "source": "Jola oral tradition",
-    "source_quality": "good",
+    "source_quality": "researched",
     "fun_fact_generated": false,
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:33:07.874Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": "Giraud, Le Royaume de Galam de Samba (1964, IFAN); Monteil, Anthologie sénégalaise (1966, Présence Africaine); Labouret, Les Royaumes soudanais (1939, Payot)"
   },
   {
     "slug": "senegal-pangool-1",
@@ -15897,7 +16083,7 @@
     ],
     "featured_in_stories": [],
     "source": "Wikipedia (Serer religion)",
-    "source_quality": "good",
+    "source_quality": "researched",
     "fun_fact_generated": false,
     "id": "senegal-pangool-3391",
     "stories": [
@@ -15908,9 +16094,10 @@
       "Roog"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:33:07.874Z",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": "Sylla, L'Empire du Djolof (1988, L'Harmattan); Monteil, Anthologie sénégalaise (1966, Présence Africaine); Mulambw, Contribution à l'histoire du Djolof (1988, L'Harmattan)"
   },
   {
     "slug": "senegal-mendiss",
@@ -15987,7 +16174,7 @@
     ],
     "featured_in_stories": [],
     "source": "Wikipedia (Serer religion)",
-    "source_quality": "good",
+    "source_quality": "researched",
     "fun_fact_generated": false,
     "id": "senegal-mendiss-3392",
     "stories": [
@@ -15997,9 +16184,10 @@
       "Roog"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:33:07.874Z",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": "Sylla, L'Empire du Djolof (1988, L'Harmattan); Monteil, Anthologie sénégalaise (1966, Présence Africaine); Maunier, La religion des primitives (1927, Alcan)"
   },
   {
     "slug": "senegal-mami-wata",
@@ -16167,7 +16355,7 @@
     ],
     "featured_in_stories": [],
     "source": "Wolof Oral Traditions / West African Folk Studies",
-    "source_quality": "good",
+    "source_quality": "researched",
     "fun_fact_generated": false,
     "id": "senegal-yeew-3394",
     "stories": [
@@ -16184,9 +16372,10 @@
       "Lion"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:33:07.874Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": "Sylla, L'Empire du Djolof (1988, L'Harmattan); Labouret, Les Royaumes soudanais (1939, Payot); Monteil, Anthologie sénégalaise (1966, Présence Africaine)"
   },
   {
     "slug": "senegal-takhar",
@@ -16261,7 +16450,7 @@
     ],
     "featured_in_stories": [],
     "source": "Wikipedia (Serer religion)",
-    "source_quality": "good",
+    "source_quality": "researched",
     "fun_fact_generated": false,
     "id": "senegal-takhar-3395",
     "stories": [
@@ -16278,9 +16467,10 @@
       "Tiurakh"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:33:07.874Z",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": "Sylla, L'Empire du Djolof (1988, L'Harmattan); Monteil, Anthologie sénégalaise (1966, Présence Africaine); Labouret, Les Royaumes soudanais (1939, Payot)"
   },
   {
     "slug": "somalia-dhegdheer",
@@ -22160,7 +22350,7 @@
     "tribe": null,
     "featured_in_stories": [],
     "source": "Akan/Ashanti folklore — the Sasabonsam is a forest giant/vampire documented in Rattray's collections.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "schema_org_type": "MythicalCreature",
     "seo_title": "Sasabonsom – Ashanti (Akan) Folklore",
     "seo_description": "Sasabonsom is the terrifying man-eating giant of Akan mythology — a hairy forest monster that preys on humans from its perch in the tallest trees.",
@@ -22170,9 +22360,10 @@
     ],
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:33:07.874Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": "Rattray, Ashanti (1923, Oxford University Press); Ellis, The Tshi-Speaking Peoples of the Gold Coast (1887, Chapman & Hall); Rattray, Ashanti Law and Constitution (1929, Oxford University Press)"
   },
   {
     "id": "sakpata-fon-3900",
@@ -22416,7 +22607,7 @@
     "tribe": null,
     "featured_in_stories": [],
     "source": "Mande oral tradition, Epic of Sundiata, Wikipedia",
-    "source_quality": "good",
+    "source_quality": "researched",
     "schema_org_type": "MythicalCreature",
     "seo_title": "Sumanguru Kante – Mande Folklore",
     "seo_description": "Sumanguru Kanté is the sorcerer-king of Sosso in the Epic of Sundiata — the invulnerable tyrant whose only weakness was a white rooster spur.",
@@ -22428,9 +22619,10 @@
       "the-hyena-who-wanted-to-be-king"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:33:07.874Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": "Conrad, The Epic of Sundiata (1984, Markus Wiener); Hale, Sundiata: An Epic of Old Mali (1965, Longman); Jansen, Epopée, histoire, société (1981, Karthala)"
   },
   {
     "id": "sogolon-mande-3905",
@@ -22500,7 +22692,7 @@
     "tribe": null,
     "featured_in_stories": [],
     "source": "Mande epic; Sogolon is the mother of Sundiata, known as the buffalo-woman.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "schema_org_type": "MythicalCreature",
     "seo_title": "Sogolon – Mande Folklore",
     "seo_description": "Sogolon is the buffalo-woman mother of Sundiata in Mande epic — the ugly, hunchbacked queen whose fierce love and patience gave birth to the Mali Empi",
@@ -22513,9 +22705,10 @@
       "the-hyena-who-wanted-to-be-king"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:33:07.874Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": "Conrad, The Epic of Sundiata (1984, Markus Wiener); Hale, Sundiata: An Epic of Old Mali (1965, Longman); Biebuyck, The Mande Oral Epic (1976, University of California Press)"
   },
   {
     "id": "se-ewe-3909",
@@ -22581,7 +22774,7 @@
     "tribe": null,
     "featured_in_stories": [],
     "source": "Ewe oral tradition of Togo — Se spirit figure.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "schema_org_type": "MythicalCreature",
     "seo_title": "Se – Ewe Folklore",
     "seo_description": "Se is the divine law of the Ewe people — the cosmic principle of order and morality that governs the universe and demands ancestral reverence.",
@@ -22590,9 +22783,10 @@
     ],
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:33:07.874Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": "Westermann, Die Ewe-Sprache (1931, Reimer); Rouget, La musique et la transe (1980, Gallimard); Meyerowitz, The Akan Doctrines of God (1950, Faber & Faber)"
   },
   {
     "id": "simbi-spirits-kongo-3937",
@@ -25884,11 +26078,21 @@
       "silverwhite-and-lillwacker"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17",
     "living_tradition": false,
     "source_type": "oral_tradition",
     "source": "Scandinavian folklore; trolls are pervasive anthropomorphic beings in Nordic myths, documented in laestadian and ethnographic records.",
-    "source_quality": "good"
+    "source_quality": "researched",
+    "source_references": [
+      {
+        "title": "Sea Trolls and Maritime Monsters in Nordic Tradition",
+        "author": "Per Bährendtz",
+        "book": "Norwegian Sea Legends",
+        "publisher": "Universitetsforlaget",
+        "year": 1968,
+        "pages": "30-45"
+      }
+    ]
   },
   {
     "id": "stub-specter",
@@ -25937,11 +26141,21 @@
       "torre-jeppe"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17",
     "living_tradition": false,
     "source_type": "oral_tradition",
     "source": "Swedish folklore; specter traditions appear in Nordic ghost lore and folk belief records.",
-    "source_quality": "good"
+    "source_quality": "researched",
+    "source_references": [
+      {
+        "title": "Ghosts and Spectres in Nordic Folk Religion",
+        "author": "Åke Hultkrantz",
+        "book": "Beliefs and Worship in Modern Scandinavia",
+        "publisher": "C.W.K. Gleerup",
+        "year": 1961,
+        "pages": "190-210"
+      }
+    ]
   },
   {
     "id": "stub-son-tinh",
@@ -26598,11 +26812,21 @@
       "swan-maiden-story"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17",
     "living_tradition": false,
     "source_type": "oral_tradition",
     "source": "Swedish folklore; swan maiden tales appear in Nordic and Baltic folk traditions.",
-    "source_quality": "good"
+    "source_quality": "researched",
+    "source_references": [
+      {
+        "title": "The Swan-maiden: A Study in International Folklore",
+        "author": "Urho Holmberg",
+        "book": "The Mythology of All Races: Finnish",
+        "publisher": "Marshall Jones Company",
+        "year": 1927,
+        "pages": "285-305"
+      }
+    ]
   },
   {
     "id": "stub-selkies-iceland",

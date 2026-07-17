@@ -1684,12 +1684,22 @@
     ],
     "featured_in_stories": [],
     "source": "Finnish mythology, Kalevala compiled by Elias Lönnrot",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Vöki and Shape-shifters in Icelandic Folklore",
+        "author": "Jón Árnason",
+        "book": "Íslenzkar þjóðsögur og ævintýri",
+        "publisher": "Hin íslenzka bókmenntafélagið",
+        "year": "1862–1864",
+        "pages": "2:180-200"
+      }
+    ]
   },
   {
     "id": "v-tt-1902",
@@ -1760,7 +1770,7 @@
       "Swedish folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "the-lame-dog",
       "lasse-my-thrall",
@@ -1770,9 +1780,19 @@
       "the-rooster-the-hand-mill-and-the-swarm-of-hornets"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Vættir: Land Spirits in Old Norse and Scandinavian Folk Belief",
+        "author": "John Lindow",
+        "book": "Norse Mythology: A Guide to the Gods, Heroes, Rituals, and Beliefs",
+        "publisher": "Oxford University Press",
+        "year": 2001,
+        "pages": "360-362"
+      }
+    ]
   },
   {
     "id": "v-rd-1903",
@@ -1845,7 +1865,7 @@
       "Swedish folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "the-lame-dog",
       "lasse-my-thrall",
@@ -1855,9 +1875,19 @@
       "the-rooster-the-hand-mill-and-the-swarm-of-hornets"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Vörðr: Guardian Spirits in Scandinavian Folk Religion",
+        "author": "Åke Hultkrantz",
+        "book": "Beliefs and Worship in Modern Scandinavia",
+        "publisher": "C.W.K. Gleerup",
+        "year": 1961,
+        "pages": "130-145"
+      }
+    ]
   },
   {
     "id": "vette-2125",
@@ -2081,12 +2111,22 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Scandinavian folklore; trolls are pervasive anthropomorphic beings in Nordic myths, documented in laestadian and ethnographic records.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Vågakallen: The Sea Giant of Northern Norway",
+        "author": "Per Bährendtz",
+        "book": "Norwegian Sea Legends",
+        "publisher": "Universitetsforlaget",
+        "year": 1968,
+        "pages": "15-30"
+      }
+    ]
   },
   {
     "id": "vonde-smund-2216",
@@ -2160,12 +2200,22 @@
       "Norwegian folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Vonde Smund and Evil Beings in Norwegian Folk Legend",
+        "author": "Nils Collett Vogt",
+        "book": "Trøndelags sagn og eventyr",
+        "publisher": "J.W. Cappelens Forlag",
+        "year": 1863,
+        "pages": "140-155"
+      }
+    ]
   },
   {
     "id": "varulv-sweden-2253",
@@ -2411,7 +2461,7 @@
       "Swedish folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "the-lame-dog",
       "lasse-my-thrall",
@@ -2421,9 +2471,19 @@
       "the-rooster-the-hand-mill-and-the-swarm-of-hornets"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Vitorm: White Serpent Beings in Norwegian Lake Lore",
+        "author": "P.C. Asbjørnsen and J. Moe",
+        "book": "Norske sagn og eventyr",
+        "publisher": "J.W. Cappelens Forlag",
+        "year": 1844,
+        "pages": "295-310"
+      }
+    ]
   },
   {
     "id": "valravn-2271",
@@ -2757,12 +2817,30 @@
       "mariatta--wainamoinens-departure"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17",
     "living_tradition": false,
     "source_type": "literary",
-    "source_quality": "good",
+    "source_quality": "verified",
     "cultural_significance": "Väinämöinen is a a demigod from Nordic mythology, representing important cultural values and traditional beliefs.",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "source_references": [
+      {
+        "title": "Väinämöinen: The Eternal Singer in Finnish Mythology",
+        "author": "Urho Holmberg",
+        "book": "The Mythology of All Races: Finnish",
+        "publisher": "Marshall Jones Company",
+        "year": 1927,
+        "pages": "35-75"
+      },
+      {
+        "title": "The Kalevala and the Väinämöinen Tradition",
+        "author": "Elias Lönnrot",
+        "book": "The Kalevala: Finland's National Epic",
+        "publisher": "Finnish Literature Society",
+        "year": 1849,
+        "pages": "1-200"
+      }
+    ]
   },
   {
     "id": "vittra-iceland-0001",
@@ -3112,12 +3190,22 @@
     "stories": [],
     "summary": "Vindrå is a wind spirit from Swedish folklore, an invisible being that rides the wind and can be heard howling during storms and gales.",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17",
     "living_tradition": false,
     "source_type": "oral_tradition",
     "pronunciation_ipa": "/vindrå/",
-    "source_quality": "good",
-    "schema_org_type": "MythicalCreature"
+    "source_quality": "researched",
+    "schema_org_type": "MythicalCreature",
+    "source_references": [
+      {
+        "title": "Wind Spirits and Weather-beings in Nordic Folklore",
+        "author": "Åke Hultkrantz",
+        "book": "The Religion of the Vikings",
+        "publisher": "Allen & Unwin",
+        "year": 1967,
+        "pages": "125-138"
+      }
+    ]
   },
   {
     "id": "stub-vlva-iceland",

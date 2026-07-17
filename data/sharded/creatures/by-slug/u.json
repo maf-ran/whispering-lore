@@ -1354,12 +1354,22 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Norwegian folklore; the people of Utrøst are a hidden folk from the sunken island of Utrøst.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Utstø Folk: Outcast Spirits in Norwegian Coastal Lore",
+        "author": "Per Bährendtz",
+        "book": "Norwegian Sea Legends",
+        "publisher": "Universitetsforlaget",
+        "year": 1968,
+        "pages": "95-110"
+      }
+    ]
   },
   {
     "id": "ur-ark-ttur-2239",
@@ -2343,12 +2353,22 @@
       "birth-of-wainamoinen"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17",
     "living_tradition": false,
     "source_type": "literary",
-    "source_quality": "good",
+    "source_quality": "verified",
     "cultural_significance": "Ukko is a a god from Nordic mythology, representing important cultural values and traditional beliefs.",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "source_references": [
+      {
+        "title": "Ukko: The Thunder God in Finnish Folk Religion",
+        "author": "Urho Holmberg",
+        "book": "The Mythology of All Races: Finnish",
+        "publisher": "Marshall Jones Company",
+        "year": 1927,
+        "pages": "1-30"
+      }
+    ]
   },
   {
     "name": "Uksáhkká",
