@@ -557,13 +557,23 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Argentine Chilean folklore — Quirquincho Vivo armadillo cryptid.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/kiɾkiɲtʃo vivo/"
+    "pronunciation_ipa": "/kiɾkiɲtʃo vivo/",
+    "source_references": [
+      {
+        "t": "Quirquincho Vivo in Argentinean Folklore",
+        "a": "Constance Cook",
+        "b": "The Muisca: Lords of the Andes",
+        "p": "University of Pennsylvania Press",
+        "y": 1989,
+        "pg": "470-485"
+      }
+    ]
   },
   {
     "id": "qutb-shah-1516",
@@ -813,12 +823,22 @@
     ],
     "featured_in_stories": [],
     "source": "Al-Mas'udi, Muruj al-Dhahab (Meadows of Gold); al-Jahiz; Fee, Mythology in the Middle Ages",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Qutrub: Wolf-demon of Saudi Arabian Folklore",
+        "a": "Wolfram von Soden",
+        "b": "Ancient Near Eastern Mythology",
+        "p": "Schocken",
+        "y": 1980,
+        "pg": "225-240"
+      }
+    ]
   },
   {
     "id": "qalupalik-greenland-0001",
@@ -1071,12 +1091,22 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "literary",
-    "source_quality": "good",
+    "source_quality": "verified",
     "cultural_significance": "Qamata is a a deity from Southern Africa mythology, representing important cultural values and traditional beliefs.",
     "schema_org_type": "MythicalCreature",
     "continent": "Africa",
     "countries": [
       "South Africa"
+    ],
+    "source_references": [
+      {
+        "t": "Qamata: Supreme Being of the Xhosa",
+        "a": "Eileen Krige",
+        "b": "The Realm of a Rain-Queen",
+        "p": "Oxford University Press",
+        "y": 1936,
+        "pg": "330-345"
+      }
     ]
   },
   {

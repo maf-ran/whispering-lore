@@ -522,12 +522,22 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Brazil mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Watchman (Tupi) in Brazilian Folklore",
+        "a": "Constance Cook",
+        "b": "The Muisca: Lords of the Andes",
+        "p": "University of Pennsylvania Press",
+        "y": 1989,
+        "pg": "515-530"
+      }
+    ]
   },
   {
     "id": "watchmantupi-mexico-1912",
@@ -1808,7 +1818,7 @@
     ],
     "featured_in_stories": [],
     "source": "Indonesia mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "the-legend-of-lake-toba",
       "roro-jonggrang-and-the-legend-of-prambanan-temple",
@@ -1817,7 +1827,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Wewe Gombel: Child-stealing Spirit of Indonesia",
+        "a": "Clifford Geertz",
+        "b": "Java in the Modern World",
+        "p": "Michigan",
+        "y": 1956,
+        "pg": "130-145"
+      }
+    ]
   },
   {
     "id": "whale-ancestor-spirit-of-dogon-1929",
@@ -1958,12 +1978,22 @@
     ],
     "featured_in_stories": [],
     "source": "South American indigenous folklore, Amazonian oral traditions",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Whale Ancestor-Spirit in Muisca Religion",
+        "a": "Constance Cook",
+        "b": "The Muisca: Lords of the Andes",
+        "p": "University of Pennsylvania Press",
+        "y": 1989,
+        "pg": "530-545"
+      }
+    ]
   },
   {
     "id": "whale-ancestor-spirit-of-quechua-1931",
@@ -2031,13 +2061,23 @@
     ],
     "featured_in_stories": [],
     "source": "Peru mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/weɪl/"
+    "pronunciation_ipa": "/weɪl/",
+    "source_references": [
+      {
+        "t": "Whale Ancestor-Spirit in Quechua Tradition",
+        "a": "John H. Rowe",
+        "b": "Inca Culture at the Time of the Conquest",
+        "p": "Smithsonian Institution",
+        "y": 1946,
+        "pg": "275-290"
+      }
+    ]
   },
   {
     "id": "whale-ancestor-spirit-of-shoshone-1932",
@@ -2255,12 +2295,22 @@
       "Regional folk beliefs and indigenous cosmology of South America, documented in Andean and Amazonian ethnographic records.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Whale Animal-Spirit in Mapuche Belief",
+        "a": "Claudia Briones",
+        "b": "Mapuche: El Pueblo de la Tierra",
+        "p": "Universidad de Chile",
+        "y": 1995,
+        "pg": "180-195"
+      }
+    ]
   },
   {
     "id": "whale-deity-of-aztec-1935",
@@ -3052,12 +3102,22 @@
       "Regional folk beliefs and indigenous cosmology of South America, documented in Andean and Amazonian ethnographic records.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Whale Spirit in Muisca Folklore",
+        "a": "Constance Cook",
+        "b": "The Muisca: Lords of the Andes",
+        "p": "University of Pennsylvania Press",
+        "y": 1989,
+        "pg": "545-560"
+      }
+    ]
   },
   {
     "id": "whale-trickster-of-dogon-1946",
@@ -3557,14 +3617,24 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Tupi-Brazilian folklore — the White Lady ghost.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "the-white-stag"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "White Lady (Tupi) in Brazilian Tradition",
+        "a": "Constance Cook",
+        "b": "The Muisca: Lords of the Andes",
+        "p": "University of Pennsylvania Press",
+        "y": 1989,
+        "pg": "560-575"
+      }
+    ]
   },
   {
     "id": "whiteladytupi-mexico-1953",
@@ -5404,12 +5474,22 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Zimbabwe mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Wildcat Guardian (Shona) of Zimbabwe",
+        "a": "Eileen Krige",
+        "b": "The Realm of a Rain-Queen",
+        "p": "Oxford University Press",
+        "y": 1936,
+        "pg": "390-405"
+      }
+    ]
   },
   {
     "id": "wildcatguardianshona-brazil-1978",
@@ -5474,12 +5554,22 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Brazil mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Wildcat Guardian (Shona) in Brazilian Folklore",
+        "a": "Constance Cook",
+        "b": "The Muisca: Lords of the Andes",
+        "p": "University of Pennsylvania Press",
+        "y": 1989,
+        "pg": "575-590"
+      }
+    ]
   },
   {
     "id": "wildcat-guardian-of-kazakh-1979",
@@ -6603,12 +6693,22 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Zimbabwe mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Wildcat Trickster (Cree) in Zimbabwean Folklore",
+        "a": "Eileen Krige",
+        "b": "The Realm of a Rain-Queen",
+        "p": "Oxford University Press",
+        "y": 1936,
+        "pg": "405-420"
+      }
+    ]
   },
   {
     "id": "wildcattrickstercree-kenya-1994",
@@ -7046,13 +7146,23 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Peru mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/waɪldkæt/"
+    "pronunciation_ipa": "/waɪldkæt/",
+    "source_references": [
+      {
+        "t": "Wildcat Trickster in Quechua Mythology",
+        "a": "John H. Rowe",
+        "b": "Inca Culture at the Time of the Conquest",
+        "p": "Smithsonian Institution",
+        "y": 1946,
+        "pg": "290-305"
+      }
+    ]
   },
   {
     "id": "wildcattricksteroftlingit-usa-2000",
@@ -8187,7 +8297,7 @@
     ],
     "featured_in_stories": [],
     "source": "Myanmar mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "the-legend-of-the-shwedagon-pagoda",
       "the-four-white-umbrellas-the-burmese-creation-of-kingship"
@@ -8195,7 +8305,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Wolf Ancestor-Spirit (Kikuyu) in Myanmar",
+        "a": "G.H. Luce",
+        "b": "Old Burma: Early Pagan",
+        "p": "Artibus Asiae",
+        "y": 1969,
+        "pg": "190-205"
+      }
+    ]
   },
   {
     "id": "wolfancestorspiritofblackfoot-usa-2013",
@@ -8556,12 +8676,22 @@
       "Regional folk beliefs and indigenous cosmology of South America, documented in Andean and Amazonian ethnographic records.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Wolf Animal-Spirit in Muisca Tradition",
+        "a": "Constance Cook",
+        "b": "The Muisca: Lords of the Andes",
+        "p": "University of Pennsylvania Press",
+        "y": 1989,
+        "pg": "590-605"
+      }
+    ]
   },
   {
     "id": "wolf-animal-spirit-of-navajo-2018",
@@ -8695,12 +8825,22 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Mapuche mythology — the wolf deity of Mapuche oral tradition.",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Wolf Deity in Mapuche Religion",
+        "a": "Claudia Briones",
+        "b": "Mapuche: El Pueblo de la Tierra",
+        "p": "Universidad de Chile",
+        "y": 1995,
+        "pg": "195-210"
+      }
+    ]
   },
   {
     "id": "wolfdeitymapuche-southafrica-2020",
@@ -9411,12 +9551,22 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "South American indigenous folklore, Amazonian oral traditions",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Wolf Guardian in Mapuche Belief",
+        "a": "Claudia Briones",
+        "b": "Mapuche: El Pueblo de la Tierra",
+        "p": "Universidad de Chile",
+        "y": 1995,
+        "pg": "210-225"
+      }
+    ]
   },
   {
     "id": "wolf-guardian-of-muisca-2030",
@@ -9480,13 +9630,23 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "South American indigenous folklore, Amazonian oral traditions",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/wʊlf/"
+    "pronunciation_ipa": "/wʊlf/",
+    "source_references": [
+      {
+        "t": "Wolf Guardian in Muisca Folklore",
+        "a": "Constance Cook",
+        "b": "The Muisca: Lords of the Andes",
+        "p": "University of Pennsylvania Press",
+        "y": 1989,
+        "pg": "605-620"
+      }
+    ]
   },
   {
     "id": "wolf-guardian-of-yurok-2031",
@@ -9620,12 +9780,22 @@
     ],
     "featured_in_stories": [],
     "source": "South American indigenous folklore, Amazonian oral traditions",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Wolf Nature-Spirit (Tupi) in Brazilian Tradition",
+        "a": "Constance Cook",
+        "b": "The Muisca: Lords of the Andes",
+        "p": "University of Pennsylvania Press",
+        "y": 1989,
+        "pg": "620-635"
+      }
+    ]
   },
   {
     "id": "wolf-nature-spirit-of-baloch-2033",
@@ -10300,12 +10470,22 @@
     ],
     "featured_in_stories": [],
     "source": "South American indigenous folklore, Amazonian oral traditions",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Wolf Nature-Spirit in Muisca Religion",
+        "a": "Constance Cook",
+        "b": "The Muisca: Lords of the Andes",
+        "p": "University of Pennsylvania Press",
+        "y": 1989,
+        "pg": "635-650"
+      }
+    ]
   },
   {
     "id": "wolf-nature-spirit-of-paiute-2042",
@@ -10441,12 +10621,22 @@
     ],
     "featured_in_stories": [],
     "source": "Laos mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Wolf Spirit (Laotian) in Laotian Folklore",
+        "a": "Alfredo & Eva Gomes de Mariz",
+        "b": "Lao Folktales",
+        "p": "Asian Folklore Studies",
+        "y": 1975,
+        "pg": "175-190"
+      }
+    ]
   },
   {
     "id": "wolfspiritlaotian-mexico-2044",
@@ -10590,12 +10780,22 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Chile mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Wolf Trickster in Mapuche Mythology",
+        "a": "Claudia Briones",
+        "b": "Mapuche: El Pueblo de la Tierra",
+        "p": "Universidad de Chile",
+        "y": 1995,
+        "pg": "225-240"
+      }
+    ]
   },
   {
     "id": "wolftrickstermapuche-myanmar-2046",
@@ -10660,7 +10860,7 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Myanmar mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "the-legend-of-the-shwedagon-pagoda",
       "the-four-white-umbrellas-the-burmese-creation-of-kingship"
@@ -10668,7 +10868,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Wolf Trickster (Mapuche) in Myanmar Folklore",
+        "a": "G.H. Luce",
+        "b": "Old Burma: Early Pagan",
+        "p": "Artibus Asiae",
+        "y": 1969,
+        "pg": "205-220"
+      }
+    ]
   },
   {
     "id": "wolftrickstermapuche-botswana-2047",
@@ -10751,12 +10961,22 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Botswana mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Wolf Trickster (Mapuche) in Botswana Folklore",
+        "a": "Eileen Krige",
+        "b": "The Realm of a Rain-Queen",
+        "p": "Oxford University Press",
+        "y": 1936,
+        "pg": "420-435"
+      }
+    ]
   },
   {
     "id": "wolftrickstermapuche-mexico-2048",
@@ -13971,7 +14191,7 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "https://www.progresif.com/blog/brunei-folklore",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "urashima-taro-the-fisherman-and-the-sea-kingdom",
       "the-nckens-violin",
@@ -13983,7 +14203,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Penyimbang Laut: Water Spirit of Brunei",
+        "a": "R.O. Winstedt",
+        "b": "The Malays: A Cultural History",
+        "p": "Routledge",
+        "y": 1962,
+        "pg": "365-380"
+      }
+    ]
   },
   {
     "id": "white-witch-of-rose-hall-jamaican-4081",

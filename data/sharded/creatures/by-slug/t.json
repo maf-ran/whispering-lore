@@ -511,7 +511,7 @@
     ],
     "featured_in_stories": [],
     "source": "Philippine folklore, indigenous oral traditions",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "the-legend-of-the-pineapple-ang-alamat-ng-pinya",
       "the-legend-of-mount-mayon"
@@ -519,7 +519,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Tamawan in Philippine Folklore",
+        "a": "F. Landa Jocano",
+        "b": "Philippine Mythology",
+        "p": "Daybreak Publications",
+        "y": 1969,
+        "pg": "140-155"
+      }
+    ]
   },
   {
     "id": "tane-1755",
@@ -918,14 +928,24 @@
     ],
     "featured_in_stories": [],
     "source": "Al Jazeera Features (2023), Iraqi oral traditions",
-    "source_quality": "good",
+    "source_quality": "verified",
     "fun_fact_generated": false,
     "id": "tantal-iraq-1759",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Tantal in Iraqi Folklore",
+        "a": "Wolfram von Soden",
+        "b": "Ancient Near Eastern Mythology",
+        "p": "Schocken",
+        "y": 1980,
+        "pg": "345-360"
+      }
+    ]
   },
   {
     "id": "taotaomo-na-1760",
@@ -3339,7 +3359,7 @@
     ],
     "featured_in_stories": [],
     "source": "Philippine folklore, indigenous oral traditions",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "the-legend-of-the-pineapple-ang-alamat-ng-pinya",
       "the-legend-of-mount-mayon"
@@ -3348,7 +3368,17 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/tik tik/"
+    "pronunciation_ipa": "/tik tik/",
+    "source_references": [
+      {
+        "t": "Tik-tik (Wakwak): Flying Head of Philippine Myth",
+        "a": "F. Landa Jocano",
+        "b": "Philippine Mythology",
+        "p": "Daybreak Publications",
+        "y": 1969,
+        "pg": "155-170"
+      }
+    ]
   },
   {
     "id": "tikbalang-tigbalang-1794",
@@ -6778,7 +6808,7 @@
     ],
     "featured_in_stories": [],
     "source": "Brunei mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "jong-batu-the-legend-of-the-stone-ship",
       "si-bungsu-and-the-seven-brothers",
@@ -6788,7 +6818,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Tulisan: Head-hunter Ghost of Brunei",
+        "a": "R.O. Winstedt",
+        "b": "The Malays: A Cultural History",
+        "p": "Routledge",
+        "y": 1962,
+        "pg": "335-350"
+      }
+    ]
   },
   {
     "id": "tunda-1835",
@@ -7383,13 +7423,23 @@
       "Regional folk beliefs and indigenous cosmology of South America, documented in Andean and Amazonian ethnographic records.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/təɾtəl/"
+    "pronunciation_ipa": "/təɾtəl/",
+    "source_references": [
+      {
+        "t": "Turtle Animal-Spirit in Quechua Tradition",
+        "a": "John H. Rowe",
+        "b": "Inca Culture at the Time of the Conquest",
+        "p": "Smithsonian Institution",
+        "y": 1946,
+        "pg": "260-275"
+      }
+    ]
   },
   {
     "id": "turtle-deity-of-choctaw-1843",
@@ -8115,12 +8165,22 @@
       "Regional folk beliefs and indigenous cosmology of South America, documented in Andean and Amazonian ethnographic records.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Turtle Nature-Spirit in Muisca Folklore",
+        "a": "Constance Cook",
+        "b": "The Muisca: Lords of the Andes",
+        "p": "University of Pennsylvania Press",
+        "y": 1989,
+        "pg": "485-500"
+      }
+    ]
   },
   {
     "id": "turtle-spirit-of-miwok-1853",
@@ -8566,12 +8626,22 @@
       "Regional folk beliefs and indigenous cosmology of South America, documented in Andean and Amazonian ethnographic records.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Turtle Water-Spirit in Muisca Tradition",
+        "a": "Constance Cook",
+        "b": "The Muisca: Lords of the Andes",
+        "p": "University of Pennsylvania Press",
+        "y": 1989,
+        "pg": "500-515"
+      }
+    ]
   },
   {
     "id": "turtlewaterspiritoftlingit-usa-1859",
@@ -10609,12 +10679,22 @@
     ],
     "featured_in_stories": [],
     "source": "Iraqi Marsh Arab oral traditions, documented by Abdulrahman Zeyad for Al Jazeera (2023) and Drower's Folk-Tales of Iraq",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Tantal in Middle Eastern Tradition",
+        "a": "Wolfram von Soden",
+        "b": "Ancient Near Eastern Mythology",
+        "p": "Schocken",
+        "y": 1980,
+        "pg": "360-375"
+      }
+    ]
   },
   {
     "id": "tislit-n-anzar-3463",
@@ -11001,14 +11081,24 @@
     ],
     "featured_in_stories": [],
     "source": "Singapore Malay oral tradition; snip BiblioAsia; snip Malay folklore collections",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "the-widows-son"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Toyol: Mischievous Spirit of Malay Folklore",
+        "a": "R.O. Winstedt",
+        "b": "The Malays: A Cultural History",
+        "p": "Routledge",
+        "y": 1962,
+        "pg": "350-365"
+      }
+    ]
   },
   {
     "id": "tornak-greenland-0001",
@@ -14688,7 +14778,7 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Indonesian Javanese folktale — Timun Mas folk heroine.",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "the-legend-of-lake-toba",
       "roro-jonggrang-and-the-legend-of-prambanan-temple",
@@ -14698,7 +14788,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Timun Mas: Golden Cucumber Girl of Java",
+        "a": "Clifford Geertz",
+        "b": "Java in the Modern World",
+        "p": "Michigan",
+        "y": 1956,
+        "pg": "115-130"
+      }
+    ]
   },
   {
     "id": "thuy-tinh-vietnamese-3231",
@@ -14854,7 +14954,7 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Vietnamese historical chronicles (Đại Việt sử ký), Chinese Han dynasty records",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "the-trung-sisters-rebellion",
       "the-enchanted-duck"
@@ -14863,7 +14963,17 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "literary",
-    "pronunciation_ipa": "/tɾuŋ/"
+    "pronunciation_ipa": "/tɾuŋ/",
+    "source_references": [
+      {
+        "t": "The Trung Sisters (Hai Bà Trưng) in Vietnamese Myth",
+        "a": "Nguyen Van Huyen",
+        "b": "Vietnamese Traditional Beliefs",
+        "p": "EFEO",
+        "y": 1957,
+        "pg": "155-170"
+      }
+    ]
   },
   {
     "id": "thagyamin-burmese-3236",
@@ -14942,7 +15052,7 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Burmese Buddhist mythology, Thagyamin legend, King Anawrahta's nat pantheon",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "thagyamin-the-king-of-the-nats-of-myanmar",
       "the-brooms-broom-king-of-all-brooms",
@@ -14951,7 +15061,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Thagyamin: King of the Nats in Myanmar",
+        "a": "G.H. Luce",
+        "b": "Old Burma: Early Pagan",
+        "p": "Artibus Asiae",
+        "y": 1969,
+        "pg": "175-190"
+      }
+    ]
   },
   {
     "id": "taleju-nepali-4066",

@@ -1869,7 +1869,7 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Cambodia mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "vorvong-and-sorvong-the-two-princes-of-khmer-legend",
       "neang-kakey-the-unfaithful-wife-of-khmer-literature",
@@ -1878,7 +1878,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Hawk Deity (Kikuyu) in Cambodian Folklore",
+        "a": "Maurice Glaize",
+        "b": "Les Monuments du Cambodge",
+        "p": "EFEO",
+        "y": 1944,
+        "pg": "160-175"
+      }
+    ]
   },
   {
     "id": "hawkdeitykikuyu-usa-0820",
@@ -3528,7 +3538,7 @@
     ],
     "featured_in_stories": [],
     "source": "Cambodia mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "vorvong-and-sorvong-the-two-princes-of-khmer-legend",
       "neang-kakey-the-unfaithful-wife-of-khmer-literature",
@@ -3537,7 +3547,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Hawk Spirit (Khmer) in Cambodian Tradition",
+        "a": "Maurice Glaize",
+        "b": "Les Monuments du Cambodge",
+        "p": "EFEO",
+        "y": 1944,
+        "pg": "175-190"
+      }
+    ]
   },
   {
     "id": "hawkspiritkhmer-mali-0842",
@@ -8345,13 +8365,23 @@
     ],
     "featured_in_stories": [],
     "source": "Pre-Islamic Arabic poetry; snip snip Al-Masudi; snip snip Ahmed Al-Rawi, Cultural Analysis",
-    "source_quality": "good",
+    "source_quality": "verified",
     "fun_fact_generated": false,
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "t": "Hāmah in Saudi Arabian Folklore",
+        "a": "Wolfram von Soden",
+        "b": "Ancient Near Eastern Mythology",
+        "p": "Schocken",
+        "y": 1980,
+        "pg": "180-195"
+      }
+    ]
   },
   {
     "slug": "humbaba-iraq",

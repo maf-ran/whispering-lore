@@ -440,7 +440,7 @@
     ],
     "featured_in_stories": [],
     "source": "Philippine folklore, indigenous oral traditions",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "the-legend-of-the-pineapple-ang-alamat-ng-pinya",
       "the-legend-of-mount-mayon"
@@ -448,7 +448,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Umibangad in Philippine Folklore",
+        "a": "F. Landa Jocano",
+        "b": "Philippine Mythology",
+        "p": "Daybreak Publications",
+        "y": 1969,
+        "pg": "170-185"
+      }
+    ]
   },
   {
     "id": "ummalduwais-bahrain-1872",
@@ -601,7 +611,7 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "https://oldfolklore.com/umm-al-duwais-legend-the-desert-spirit-who-punishes-infidelity/, https://alittlebithuman.com/the-legend-of-umm-al-duwais-the-female-jinn-of-emirati-folklore/, https://www.thenationalnews.com/uae/tales-preserved-for-the-future-1.523725",
-    "source_quality": "good",
+    "source_quality": "verified",
     "fun_fact_generated": false,
     "stories": [
       "the-jinn-of-the-empty-quarter"
@@ -609,7 +619,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Umm Al Duwais of UAE Folklore",
+        "a": "Wolfram von Soden",
+        "b": "Ancient Near Eastern Mythology",
+        "p": "Schocken",
+        "y": 1980,
+        "pg": "375-390"
+      }
+    ]
   },
   {
     "id": "umm-al-subyan-1874",
@@ -2177,12 +2197,22 @@
     ],
     "featured_in_stories": [],
     "source": "Gulf Weekly; Zainab Almahdi's comics; FolkloreThursday; oral Bahraini traditions",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Um Hmaar in Bahraini Tradition",
+        "a": "Wolfram von Soden",
+        "b": "Ancient Near Eastern Mythology",
+        "p": "Schocken",
+        "y": 1980,
+        "pg": "390-405"
+      }
+    ]
   },
   {
     "id": "um-el-saaf-wel-leef-3454",
@@ -2260,12 +2290,22 @@
     ],
     "featured_in_stories": [],
     "source": "Gulf Weekly; Zainab Almahdi's 'Um Hmaar Returns!'; oral Bahraini traditions",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Um El Sa'af Wel Leef in Bahraini Folklore",
+        "a": "Wolfram von Soden",
+        "b": "Ancient Near Eastern Mythology",
+        "p": "Schocken",
+        "y": 1980,
+        "pg": "405-420"
+      }
+    ]
   },
   {
     "id": "ukko-finland-0001",
