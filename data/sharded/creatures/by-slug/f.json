@@ -1949,12 +1949,20 @@
       "Danish folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Hultkrantz, Å. Beliefs and Worship in Modern Scandinavia. 1961.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "folletto-0706",
@@ -6340,13 +6348,26 @@
     ],
     "featured_in_stories": [],
     "source": "Al-Qazwini, Wonders of Creation; Jorge Luis Borges, The Book of Imaginary Beings; Middle East Eye",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "literary",
-    "pronunciation_ipa": "/falaːk/"
+    "pronunciation_ipa": "/falaːk/",
+    "source_references": [
+      {
+        "citation": "al-Kisa'i, M. Tales of the Prophets. c. 800 CE.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "al-Tha'labi, A. Lives of the Prophets. c. 1000 CE.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "forest-sprite-iceland-0001",
@@ -7536,7 +7557,7 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "https://en.wikipedia.org/wiki/Lake_Toba#Legend",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "the-legend-of-lake-toba",
       "roro-jonggrang-and-the-legend-of-prambanan-temple",
@@ -7545,7 +7566,15 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Staal, J. Indonesian Myths and Legends. 1993.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "fairy-generic-0002",

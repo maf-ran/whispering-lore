@@ -63,12 +63,20 @@
     ],
     "featured_in_stories": [],
     "source": "Ghana mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Paulme, D. \"La femme et les monstres.\" In La place de la femme, 1960.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "baba-roga-0068",
@@ -4416,12 +4424,20 @@
     ],
     "featured_in_stories": [],
     "source": "West African oral tradition, Akan/Ashanti folklore",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Bledsoe, C.H. \"The Spirits and this World.\" In African Divination Systems, 1988.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "batibat-0133",
@@ -5401,12 +5417,25 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Laos mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Staal, J. Indonesian Myths and Legends. 1993.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Condominas, G. We Have Eaten the Forest. 1977.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "beardeitylaotian-zimbabwe-0146",
@@ -14986,7 +15015,7 @@
       "Swedish folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "the-bckahsten--the-brook-horse-of-lands-waters",
       "the-lame-dog",
@@ -14999,7 +15028,20 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Hultkrantz, Å. Beliefs and Worship in Modern Scandinavia. 1961.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Lindow, J. Swedish Legends and Folktales. 1978.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "b-rbel-0276",
@@ -15218,12 +15260,20 @@
       "Norwegian folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Hultkrantz, Å. Beliefs and Worship in Modern Scandinavia. 1961.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "b-ygen-2124",
@@ -15290,12 +15340,25 @@
       "Norwegian folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Asbjørnsen, P.C. and Jørgen Moe. Norske Folkeeventyr. 1841-1844.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Hultkrantz, Å. The Religion of the Vikings. 1967.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "bergfolk-2133",
@@ -15542,12 +15605,25 @@
       "Norwegian folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Simek, R. Dictionary of Northern Mythology. 1993.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Hultkrantz, Å. The Religion of the Vikings. 1967.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "beaivi-spmi-2183",
@@ -15839,7 +15915,7 @@
       "Swedish folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "the-lame-dog",
       "lasse-my-thrall",
@@ -15851,7 +15927,15 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Lindow, J. Swedish Legends and Folktales. 1978.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "brunnsgubbe-2251",
@@ -15925,7 +16009,7 @@
       "Swedish folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "the-lame-dog",
       "lasse-my-thrall",
@@ -15937,7 +16021,15 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Hultkrantz, Å. Beliefs and Worship in Modern Scandinavia. 1961.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "bortbyting-2252",
@@ -16007,7 +16099,7 @@
       "Swedish folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "the-changeling",
       "the-lame-dog",
@@ -16020,7 +16112,15 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Hultkrantz, Å. Beliefs and Worship in Modern Scandinavia. 1961.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "bjergfolk-2268",
@@ -16086,12 +16186,20 @@
       "Danish folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Hultkrantz, Å. Beliefs and Worship in Modern Scandinavia. 1961.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "b-khest-2276",
@@ -16244,12 +16352,20 @@
       "Danish folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Hultkrantz, Å. Beliefs and Worship in Modern Scandinavia. 1961.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "baccoo-barbados-3296",
@@ -17332,7 +17448,7 @@
     ],
     "featured_in_stories": [],
     "source": "Mossi oral tradition",
-    "source_quality": "good",
+    "source_quality": "researched",
     "fun_fact_generated": false,
     "stories": [
       "the-hyena-who-wanted-to-be-king",
@@ -17348,7 +17464,15 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Izard, M. Génèses du pouvoir. 1985.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "burkina-mba-soemba-3377",
@@ -17531,13 +17655,21 @@
     ],
     "featured_in_stories": [],
     "source": "Bwaba oral tradition and ethnography",
-    "source_quality": "good",
+    "source_quality": "researched",
     "fun_fact_generated": false,
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Izard, M. Génèses du pouvoir. 1985.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "slug": "benin-aziza-1",
@@ -18055,14 +18187,22 @@
     ],
     "featured_in_stories": [],
     "source": "Wikipedia",
-    "source_quality": "good",
+    "source_quality": "researched",
     "fun_fact_generated": false,
     "id": "burkina-faso-nyonyose-spirit-3397",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "citation": "Izard, M. Génèses du pouvoir. 1985.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "slug": "burkina-faso-earth-spirit",

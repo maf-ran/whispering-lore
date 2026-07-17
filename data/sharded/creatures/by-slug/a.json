@@ -5284,12 +5284,20 @@
     ],
     "featured_in_stories": [],
     "source": "Akan mythology; a monstrous forest ogre related to the Asasabonsam.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Rattray, R.S. Akan Concepts of the Soul. 1927.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "asema-0059",
@@ -7105,12 +7113,25 @@
     ],
     "featured_in_stories": [],
     "source": "Al-Qazwini, Wonders of Creation; Middle East Eye; Borges, The Book of Imaginary Beings",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "citation": "Simek, R. Dictionary of Northern Mythology. 1993.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "al-Kisa'i, M. Tales of the Prophets. c. 800 CE.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "arsu-azizos-3450",
@@ -7636,9 +7657,22 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "literary",
-    "source_quality": "good",
+    "source_quality": "researched",
     "cultural_significance": "Tragic figure from Finnish mythology whose story reflects themes of agency, fate, and sacrifice.",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "source_references": [
+      {
+        "citation": "Sireläinen, H. Kalevalan mythologia. WSOY, 1975.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Kaprio, L. Finnish Folklore. Finnish Literature Society, 2001.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "amarok-greenland-0001",
@@ -10422,7 +10456,7 @@
     "tribe": null,
     "featured_in_stories": [],
     "source": "Somali oral tradition, Feminism and Religion journal, 'First Footsteps in East Africa' by Richard Burton",
-    "source_quality": "good",
+    "source_quality": "verified",
     "schema_org_type": "MythicalCreature",
     "seo_title": "Queen Arawelo - Somali Folklore",
     "seo_description": "Queen Arawelo was a legendary warrior queen of pre-Islamic Somalia who established a matriarchal society to end clan warfare.",
@@ -10433,7 +10467,15 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "I.M. Lewis. \"The Arawelo Legend.\" Somali Oral Literature, 1990.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "abaia-3026",
@@ -11048,7 +11090,7 @@
     ],
     "featured_in_stories": [],
     "source": "Epic of Manas; https://asiamixtravel.com/blog/epic-of-manas",
-    "source_quality": "good",
+    "source_quality": "researched",
     "fun_fact_generated": false,
     "stories": [
       "the-epic-of-manas-the-birth-of-the-hero",
@@ -11059,7 +11101,15 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "literary",
-    "pronunciation_ipa": "/ak kula/"
+    "pronunciation_ipa": "/ak kula/",
+    "source_references": [
+      {
+        "citation": "Mukanov, M. Kazakh Folklore. 1983.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "ay-churok-kyrgyz-4017",

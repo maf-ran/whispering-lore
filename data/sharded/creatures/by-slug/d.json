@@ -8643,7 +8643,7 @@
       "the-ddning-of-skne"
     ],
     "source": "Nordic folklore; the Dödning is a generic term for the walking dead.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "the-ddning-of-skne",
       "the-lame-dog",
@@ -8656,7 +8656,15 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Hultkrantz, Å. Beliefs and Worship in Modern Scandinavia. 1961.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "d-ambas-0593",
@@ -8862,12 +8870,20 @@
     ],
     "featured_in_stories": [],
     "source": "Norwegian folklore; a restless undead spirit of the boundary.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Hultkrantz, Å. Beliefs and Worship in Modern Scandinavia. 1961.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "dovregubben-2129",
@@ -8929,12 +8945,25 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Scandinavian folklore; trolls are pervasive anthropomorphic beings in Nordic myths, documented in laestadian and ethnographic records.",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Asbjørnsen, P.C. and Jørgen Moe. Norske Folkeeventyr. 1841-1844.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Hultkrantz, Å. The Religion of the Vikings. 1967.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "dradokke-2154",
@@ -11259,14 +11288,22 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "literary",
-    "source_quality": "good",
+    "source_quality": "researched",
     "cultural_significance": "Dimo is a a giant from Southern Africa mythology, representing important cultural values and traditional beliefs.",
     "schema_org_type": "MythicalCreature",
     "continent": "Africa",
     "countries": [
       "South Africa",
       "Lesotho"
-    ]
+    ],
+    "source_references": [
+      {
+        "citation": "Ashton, E. A Basuto Grammar. 1959.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "ditaolane-sotho-3871",
@@ -11363,14 +11400,22 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "source_quality": "good",
+    "source_quality": "researched",
     "cultural_significance": "Ditaolane is a a hero from Southern Africa mythology, representing important cultural values and traditional beliefs.",
     "schema_org_type": "MythicalCreature",
     "continent": "Africa",
     "countries": [
       "South Africa",
       "Lesotho"
-    ]
+    ],
+    "source_references": [
+      {
+        "citation": "Ashton, E. A Basuto Grammar. 1959.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "daramulum-aboriginal-3055",

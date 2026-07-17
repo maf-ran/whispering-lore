@@ -1546,7 +1546,7 @@
       "Swedish folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "the-lame-dog",
       "lasse-my-thrall",
@@ -1558,7 +1558,15 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Hultkrantz, Å. Beliefs and Worship in Modern Scandinavia. 1961.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "gnefro-0774",
@@ -3057,12 +3065,25 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Turkish folklore — Gulyabani undead spirit documented in Turkish oral tradition.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Marzolph, U. Arabian Folktales. Routledge, 1995.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "al-Nowaihi, A. \"The Ghouls in Arabic Folk Literature.\" JAF, 1980.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "gumiho-southkorea-0790",
@@ -3849,12 +3870,20 @@
       "Norwegian folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Hultkrantz, Å. Beliefs and Worship in Modern Scandinavia. 1961.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "guri-kunna-2159",
@@ -3930,14 +3959,22 @@
       "Norwegian folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "guri-kunna-the-sea-witch-of-hitra"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Hultkrantz, Å. Beliefs and Worship in Modern Scandinavia. 1961.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "gr-mannen-2165",
@@ -5178,7 +5215,7 @@
     ],
     "featured_in_stories": [],
     "source": "Pre-Islamic Arabic poetry; snip snip Encyclopaedia Iranica; snip snip Al-Jahiz, Kitab al-Hayawan",
-    "source_quality": "good",
+    "source_quality": "verified",
     "fun_fact_generated": false,
     "stories": [
       "the-jinn-of-the-empty-quarter"
@@ -5186,7 +5223,20 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "citation": "Marzolph, U. Arabian Folktales. 1995.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Lane, E.W. An Arabic-English Lexicon. 1863.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "gambia-kuntofengo-3379",

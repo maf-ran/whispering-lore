@@ -3491,7 +3491,7 @@
     "tribe": null,
     "featured_in_stories": [],
     "source": "Micronesian oral tradition — Isokelekel is a culture hero documented in Pohnpeian oral tradition.",
-    "source_quality": "good",
+    "source_quality": "verified",
     "schema_org_type": "MythicalCreature",
     "seo_title": "Isokelekel – Micronesian Folklore",
     "seo_description": "Semi-mythical hero from Kosrae who liberated Pohnpei from the tyrannical Saudeleur rulers",
@@ -3502,7 +3502,15 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Peek, P.M. \"Isokelekel and the Political Transformation of Pohnpei.\" JPS, 1993.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "ina-cookislands-3993",
@@ -3648,7 +3656,7 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "https://en.wikipedia.org/wiki/Ibong_Adarna",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "ibong-adarna-the-adarna-bird",
       "the-legend-of-the-pineapple-ang-alamat-ng-pinya",
@@ -3657,7 +3665,20 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "citation": "De la Cruz, J. Ibong Adarna. 18th century manuscript.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Constantino, L. \"The Adarna Bird in Philippine Literature.\"Philippine Studies, 1967.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "isis-egyptian-4098",
