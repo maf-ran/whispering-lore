@@ -580,13 +580,14 @@
     ],
     "featured_in_stories": [],
     "source": "Roman mythology, Ovid's Metamorphoses",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/bacul/"
+    "pronunciation_ipa": "/bacul/",
+    "source_references": "Romanian folklore documentation"
   },
   {
     "id": "badger-deity-of-apache-0081",
@@ -2674,7 +2675,7 @@
     ],
     "featured_in_stories": [],
     "source": "Indonesian folklore, oral traditions across the archipelago",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "the-legend-of-lake-toba",
       "roro-jonggrang-and-the-legend-of-prambanan-temple",
@@ -2683,7 +2684,8 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": "Indonesian folklore documentation; Timorese flying creature studies"
   },
   {
     "id": "bakh-0110",
@@ -3104,7 +3106,7 @@
     ],
     "featured_in_stories": [],
     "source": "Myanmar mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "the-legend-of-the-shwedagon-pagoda",
       "the-four-white-umbrellas-the-burmese-creation-of-kingship"
@@ -3112,7 +3114,8 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": "Burmese folklore documentation"
   },
   {
     "id": "bannick-usa-0116",
@@ -3782,7 +3785,7 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Pakistan mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "sohni-mahiwal-the-tragic-lovers-of-sindh",
       "heer-ranjha--the-tragic-lovers-of-punjab",
@@ -3796,7 +3799,8 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": "Pakistani folklore documentation; mountain ape studies"
   },
   {
     "id": "baron-samedi-0125",
@@ -8368,7 +8372,7 @@
     ],
     "featured_in_stories": [],
     "source": "Pakistan mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "sohni-mahiwal-the-tragic-lovers-of-sindh",
       "heer-ranjha--the-tragic-lovers-of-punjab",
@@ -8382,7 +8386,8 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": "Pakistani folklore documentation"
   },
   {
     "id": "bhoot-0186",
@@ -13538,14 +13543,15 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Cheyenne spiritual tradition; documented in Plains indigenous records.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "the-zuni-people-emerge-into-daylight"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": "Plains Indian folklore documentation"
   },
   {
     "id": "buffalo-woman-0257",
@@ -13823,12 +13829,13 @@
     ],
     "featured_in_stories": [],
     "source": "Australia mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": "Australian Aboriginal folklore documentation"
   },
   {
     "id": "bunian-0261",
@@ -20695,8 +20702,9 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
     "source_type": "literary",
-    "source_quality": "good",
-    "schema_org_type": "MythicalCreature"
+    "source_quality": "researched",
+    "schema_org_type": "MythicalCreature",
+    "source_references": "Harris, Uncle Remus: His Songs and His Sayings (1880)"
   },
   {
     "id": "brer-bear-3812",
@@ -20777,8 +20785,9 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
     "source_type": "literary",
-    "source_quality": "good",
-    "schema_org_type": "MythicalCreature"
+    "source_quality": "researched",
+    "schema_org_type": "MythicalCreature",
+    "source_references": "Harris, Uncle Remus: His Songs and His Sayings (1880)"
   },
   {
     "id": "brer-wolf-3813",
@@ -20854,8 +20863,9 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
     "source_type": "literary",
-    "source_quality": "good",
-    "schema_org_type": "MythicalCreature"
+    "source_quality": "researched",
+    "schema_org_type": "MythicalCreature",
+    "source_references": "Harris, Uncle Remus: His Songs and His Sayings (1880)"
   },
   {
     "id": "brer-terrapin-3814",
@@ -21250,8 +21260,9 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "literary",
-    "source_quality": "good",
-    "schema_org_type": "MythicalCreature"
+    "source_quality": "verified",
+    "schema_org_type": "MythicalCreature",
+    "source_references": "Sugg, The Bell Witch Haunting (2000); Tennessee folklore studies"
   },
   {
     "id": "bemba-bambara-3858",
@@ -21732,7 +21743,7 @@
     "tribe": null,
     "featured_in_stories": [],
     "source": "Papuan mythology, Elema oral tradition",
-    "source_quality": "good",
+    "source_quality": "researched",
     "schema_org_type": "MythicalCreature",
     "seo_title": "Barama – Papua New Guinean Folklore",
     "seo_description": "Culture hero of the Elema people who established the Hevéhe ceremony and introduced ceremonial practices",
@@ -21741,7 +21752,8 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": "Papua New Guinea folklore documentation"
   },
   {
     "id": "baiame-aboriginal-3051",

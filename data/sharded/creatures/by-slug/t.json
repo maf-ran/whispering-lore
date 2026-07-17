@@ -275,13 +275,14 @@
     ],
     "featured_in_stories": [],
     "source": "Roman mythology, Ovid's Metamorphoses",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/talasac/"
+    "pronunciation_ipa": "/talasac/",
+    "source_references": "Romanian folklore documentation"
   },
   {
     "id": "tamaiti-1752",
@@ -1703,12 +1704,13 @@
       "nandi"
     ],
     "source": "Kyrgyzstan mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": "Kyrgyz folklore documentation"
   },
   {
     "id": "templeguardianmixtec-mexico-1770",
@@ -3599,7 +3601,7 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Cherokee folklore — Tlanuwa giant bird documented in Cherokee oral tradition.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "tlanuwa-the-giant-raptor-cherokee",
       "the-tlanuwa-bird-natchez",
@@ -3609,7 +3611,8 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/tlanuwa/"
+    "pronunciation_ipa": "/tlanuwa/",
+    "source_references": "Cherokee folklore documentation"
   },
   {
     "id": "toad-guardian-udmurt-1799",
@@ -12605,8 +12608,9 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "literary",
-    "source_quality": "good",
-    "schema_org_type": "MythicalCreature"
+    "source_quality": "researched",
+    "schema_org_type": "MythicalCreature",
+    "source_references": "Harris, Uncle Remus: His Songs and His Sayings (1880)"
   },
   {
     "id": "tsui-goab-khoikhoi-3853",
