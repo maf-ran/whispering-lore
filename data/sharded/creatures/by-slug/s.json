@@ -7331,7 +7331,7 @@
       "Swedish folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "the-lame-dog",
       "lasse-my-thrall",
@@ -7343,7 +7343,21 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Norske sagn og eventyr",
+        "author": "P.C. Asbjørnsen and J. Moe",
+        "year": 1844,
+        "publisher": "J.W. Cappelens Forlag"
+      },
+      {
+        "title": "Folketro og overtro",
+        "author": "Reidar Th. Christiansen",
+        "year": 1958,
+        "publisher": "J.W. Cappelens Forlag"
+      }
+    ]
   },
   {
     "id": "sj-jungfru-1688",

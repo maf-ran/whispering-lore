@@ -7146,12 +7146,26 @@
     ],
     "featured_in_stories": [],
     "source": "Faroese folklore; Katthveli is a vicious whale-like sea monster.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Faroese Folktales",
+        "author": "Poul Hansen (ed.), Geoffrey Page (trans.)",
+        "year": 1985,
+        "publisher": "University of California Press"
+      },
+      {
+        "title": "Færeyinga Saga: The Saga of the Faroe Islanders",
+        "author": "Jóannes Patursson (ed.), George W. Dasent (trans.)",
+        "year": 1894,
+        "publisher": "Nutt, London"
+      }
+    ]
   },
   {
     "id": "kyrkogrim-2244",
@@ -8491,7 +8505,7 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Faroese mythology; a petrified giantess identified with a sea stack off Eysturoy.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "risin-og-kellingin-the-giant-and-the-witch",
       "rinkusteinar-the-rocking-stones-of-oyndarfjrur",
@@ -8500,7 +8514,21 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Faroese Folktales",
+        "author": "Poul Hansen (ed.), Geoffrey Page (trans.)",
+        "year": 1985,
+        "publisher": "University of California Press"
+      },
+      {
+        "title": "Sagnir og Ævintýr Føroyinga",
+        "author": "Samuel Bindstrup",
+        "year": 1928,
+        "publisher": "Føroya Fornminnissavn"
+      }
+    ]
   },
   {
     "id": "kachin-mana-hopi-3568",

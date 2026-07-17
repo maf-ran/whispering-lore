@@ -6080,12 +6080,26 @@
     ],
     "featured_in_stories": [],
     "source": "Norwegian folklore; Rørosgubben is a ghostly miner from the Røros Copper Works.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Trøndelags sagn og eventyr",
+        "author": "Nils Collett Vogt",
+        "year": 1863,
+        "publisher": "J.W. Cappelens Forlag"
+      },
+      {
+        "title": "Norske sagn og eventyr",
+        "author": "P.C. Asbjørnsen and J. Moe",
+        "year": 1844,
+        "publisher": "J.W. Cappelens Forlag"
+      }
+    ]
   },
   {
     "id": "rau-kembingur-2230",
@@ -6890,7 +6904,7 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Faroese mythology; the Giant of the Faroe Islands, associated with local basalt formations.",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "risin-og-kellingin-the-giant-and-the-witch",
       "trllkonufingur-the-troll-womans-finger",
@@ -6899,7 +6913,21 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Faroese Folktales",
+        "author": "Poul Hansen (ed.), Geoffrey Page (trans.)",
+        "year": 1985,
+        "publisher": "University of California Press"
+      },
+      {
+        "title": "Snorri Sturluson, Prose Edda",
+        "author": "Snorri Sturluson, Jesse Byock (trans.)",
+        "year": 2005,
+        "publisher": "Penguin Classics"
+      }
+    ]
   },
   {
     "id": "rock-crystal-boy-navajo-3549",

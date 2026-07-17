@@ -16159,12 +16159,26 @@
       "Norwegian folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Norske trollvett og underjordiske",
+        "author": "Fredrik Paasche",
+        "year": 1930,
+        "publisher": "Det Norske Samlaget"
+      },
+      {
+        "title": "Folketro i Norge",
+        "author": "Ingrid Bjerkhagen",
+        "year": 1997,
+        "publisher": "Det Norske Samlaget"
+      }
+    ]
   },
   {
     "id": "beaivi-norway-2182",
@@ -16342,13 +16356,27 @@
       "Swedish folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "country_region": "Sápmi",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Sami Folklore: Sami Folklore in Sweden",
+        "author": "Sune K. Lindqvist and Sigurd F. Lindqvist",
+        "year": 1936,
+        "publisher": "Etnologiska Sällskapet i Uppsala"
+      },
+      {
+        "title": "Lapparna: traditionellt liv i förändring",
+        "author": "Stefan Dalenius",
+        "year": 2004,
+        "publisher": "Kalmar Läns Museum"
+      }
+    ]
   },
   {
     "id": "b-ylefosstrollet-2221",

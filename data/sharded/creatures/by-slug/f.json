@@ -6899,14 +6899,28 @@
       "Faroese folk belief and ethnographic records of island traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "finnur-hin-fri-and-faroese-wizard-legends"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Faroese Folktales",
+        "author": "Poul Hansen (ed.), Geoffrey Page (trans.)",
+        "year": 1985,
+        "publisher": "University of California Press"
+      },
+      {
+        "title": "Færøsk Historie I",
+        "author": "Vilhelm Thomsen",
+        "year": 1882,
+        "publisher": "S.L. Møllers Bogtrykkeri, Copenhagen"
+      }
+    ]
   },
   {
     "id": "first-man-navajo-3537",

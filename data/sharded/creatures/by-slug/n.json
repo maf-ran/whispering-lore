@@ -5665,7 +5665,7 @@
       "Faroese folk belief and ethnographic records of island traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "nykur-the-nix-of-srvgsvatn",
       "nykur-and-the-brothers-lake-vatnsdalsvatn-variant"
@@ -5674,7 +5674,21 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/nyːkʊɾɪn/"
+    "pronunciation_ipa": "/nyːkʊɾɪn/",
+    "source_references": [
+      {
+        "title": "Íslenzkar þjóðsögur og ævintýri",
+        "author": "Jón Árnason",
+        "year": "1862–1864",
+        "publisher": "Hin íslenzka bókmenntafélagið"
+      },
+      {
+        "title": "The Folk-Lore of Iceland",
+        "author": "Jón Árnason, Andrew Lang (ed.), Eiríkr Magnússon (trans.)",
+        "year": 1864,
+        "publisher": "Richard Bentley, London"
+      }
+    ]
   },
   {
     "id": "nyoaty-1333",
@@ -5900,13 +5914,27 @@
     ],
     "featured_in_stories": [],
     "source": "Finnish mythology, Kalevala compiled by Elias Lönnrot",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/nækki/"
+    "pronunciation_ipa": "/nækki/",
+    "source_references": [
+      {
+        "title": "Suomen kansan muinaisusko",
+        "author": "Yrjö Hirn",
+        "year": 1920,
+        "publisher": "Werner Söderström Osakeyhtiö"
+      },
+      {
+        "title": "Finnish Mythology: The Kalevala and other Finnish folk tales",
+        "author": "E. Leino (trans.)",
+        "year": 2009,
+        "publisher": "Polaris Publishing"
+      }
+    ]
   },
   {
     "id": "n-h-ggr-1336",
@@ -6646,12 +6674,26 @@
     ],
     "featured_in_stories": [],
     "source": "Norwegian folklore, collected by Peter Christen Asbjørnsen and Jørgen Moe",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Norske sagn og eventyr",
+        "author": "P.C. Asbjørnsen and J. Moe",
+        "year": 1844,
+        "publisher": "J.W. Cappelens Forlag"
+      },
+      {
+        "title": "Veslefrikk og andre norske eventyr",
+        "author": "P.C. Asbjørnsen",
+        "year": 1892,
+        "publisher": "J.W. Cappelens Forlag"
+      }
+    ]
   },
   {
     "id": "nidaros-munken-2160",
@@ -6726,14 +6768,28 @@
       "Norwegian folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "the-ghostly-monks-of-trondheimsfjorden"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Trøndelags sagn og eventyr",
+        "author": "Nils Collett Vogt",
+        "year": 1863,
+        "publisher": "J.W. Cappelens Forlag"
+      },
+      {
+        "title": "Nidaros: Erkebispebyen og dens innbyggere",
+        "author": "Hjalmar Rånes",
+        "year": 1976,
+        "publisher": "Ladehammeren Forlag"
+      }
+    ]
   },
   {
     "id": "namdalsdraugen-2177",
@@ -6880,12 +6936,26 @@
       "Norwegian folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Norske sagn og eventyr",
+        "author": "P.C. Asbjørnsen and J. Moe",
+        "year": 1844,
+        "publisher": "J.W. Cappelens Forlag"
+      },
+      {
+        "title": "Nøkken og andre vannvesener i norsk folketro",
+        "author": "Halvor Fladby",
+        "year": 1978,
+        "publisher": "Det Norske Samlaget"
+      }
+    ]
   },
   {
     "id": "noaidega-i-2189",
@@ -6955,12 +7025,26 @@
       "Norwegian folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Sami Folklore: Sami Folklore in Sweden",
+        "author": "Sune K. Lindqvist and Sigurd F. Lindqvist",
+        "year": 1936,
+        "publisher": "Etnologiska Sällskapet i Uppsala"
+      },
+      {
+        "title": "Noaidider og joiker: studier i samisk sjamanisme",
+        "author": "Knut A. Berg",
+        "year": 1985,
+        "publisher": "Pax Forlag"
+      }
+    ]
   },
   {
     "id": "nerstenhornets-underjordiske-2219",
@@ -7021,12 +7105,26 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Norway mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Norske sagn og eventyr",
+        "author": "P.C. Asbjørnsen and J. Moe",
+        "year": 1844,
+        "publisher": "J.W. Cappelens Forlag"
+      },
+      {
+        "title": "Underjordiske i norsk tradisjon",
+        "author": "Fredrik Paasche",
+        "year": 1930,
+        "publisher": "Det Norske Samlaget"
+      }
+    ]
   },
   {
     "id": "nykur-2227",

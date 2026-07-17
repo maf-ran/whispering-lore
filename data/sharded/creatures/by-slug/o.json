@@ -801,12 +801,26 @@
     ],
     "featured_in_stories": [],
     "source": "Finnish mythology, Kalevala compiled by Elias Lönnrot",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Suomen kansan muinaisusko",
+        "author": "Yrjö Hirn",
+        "year": 1920,
+        "publisher": "Werner Söderström Osakeyhtiö"
+      },
+      {
+        "title": "Finnish Folk Religion",
+        "author": "Pekka Hämäläinen",
+        "year": 2011,
+        "publisher": "Finnish Literature Society"
+      }
+    ]
   },
   {
     "id": "ole-higue-1355",
@@ -5048,9 +5062,23 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "literary",
-    "source_quality": "good",
+    "source_quality": "verified",
     "cultural_significance": "Otso is a a spirit from Nordic mythology, representing important cultural values and traditional beliefs.",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "source_references": [
+      {
+        "title": "Kalevala: Suomen kansallis-epos",
+        "author": "Elias Lönnrot",
+        "year": 1849,
+        "publisher": "Werner Söderström Osakeyhtiö"
+      },
+      {
+        "title": "Suomen kansan muinaisusko",
+        "author": "Yrjö Hirn",
+        "year": 1920,
+        "publisher": "Werner Söderström Osakeyhtiö"
+      }
+    ]
   },
   {
     "id": "ocean-spider-greenland-0001",
