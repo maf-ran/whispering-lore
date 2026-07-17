@@ -274,7 +274,7 @@
     ],
     "featured_in_stories": [],
     "source": "Indonesian folklore, oral traditions across the archipelago",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "the-legend-of-lake-toba",
       "roro-jonggrang-and-the-legend-of-prambanan-temple",
@@ -283,7 +283,8 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": "Indonesian folklore documentation"
   },
   {
     "id": "jengu-0905",
@@ -352,12 +353,13 @@
     ],
     "featured_in_stories": [],
     "source": "Cameroonian folklore — Jengu are water spirits documented in Duala oral tradition.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": "Bastin, La Societe Tchokwe (1985); Cameroonian mermaid studies"
   },
   {
     "id": "jian-jian-shu-0906",
@@ -1729,7 +1731,7 @@
     "featured_in_stories": [],
     "fun_fact_generated": false,
     "schema_org_type": "MythicalCreature",
-    "source_quality": "good",
+    "source_quality": "researched",
     "country_region": "Sweden/Finland",
     "stories": [
       "the-golden-time-and-how-it-ended",
@@ -1745,7 +1747,8 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": "Lundmark, Studia Ethnologica Lapponica (1982)"
   },
   {
     "name": "Juoksáhkká",
@@ -1824,7 +1827,7 @@
     "featured_in_stories": [],
     "fun_fact_generated": false,
     "schema_org_type": "MythicalCreature",
-    "source_quality": "good",
+    "source_quality": "researched",
     "country_region": "Sweden",
     "stories": [
       "juokshkk-the-bow-woman"
@@ -1833,7 +1836,8 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "literary",
-    "pronunciation_ipa": "/juoksahkka/"
+    "pronunciation_ipa": "/juoksahkka/",
+    "source_references": "Lundmark, Studia Ethnologica Lapponica (1982)"
   },
   {
     "name": "Juovlastállu",
@@ -2558,7 +2562,7 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "https://en.wikipedia.org/wiki/Folklore_of_Indonesia",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "jaka-tarub-and-the-seven-heavenly-nymphs",
       "the-legend-of-lake-toba",
@@ -2568,7 +2572,8 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": "Indonesian folklore documentation"
   },
   {
     "id": "jambavan-hindu-4049",

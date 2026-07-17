@@ -495,14 +495,15 @@
     ],
     "featured_in_stories": [],
     "source": "Thailand mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "mae-nak-phra-khanong-story"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": "Thai folklore studies; Bangkok ghost legend tradition"
   },
   {
     "id": "maghwi-1104",
@@ -634,7 +635,7 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Sri lanka mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "gamarala-the-foolish-farmer-of-sri-lankan-folktales",
       "the-legend-of-the-sacred-tooth-relic",
@@ -645,7 +646,8 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": "Sri Lankan folklore documentation"
   },
   {
     "id": "mahapbi-or-mae-phra-borneo-1106",
@@ -1604,7 +1606,7 @@
       "behula-the-faithful-wife-of-bengali-legend"
     ],
     "source": "India mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "behula-the-faithful-wife-of-bengali-legend",
       "behula-and-lakhindar--the-serpent-goddesss-trial",
@@ -1628,7 +1630,8 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": "Temple, Legends of Bengal (1884); Hindu snake goddess studies"
   },
   {
     "id": "manasa-bangladesh-1119",
@@ -1700,7 +1703,7 @@
       "behula-the-faithful-wife-of-bengali-legend"
     ],
     "source": "Bangladesh mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "dukher-boro--the-great-sorrow-of-bengal",
       "the-ballad-of-mahua--forbidden-love-in-bengal"
@@ -1708,7 +1711,8 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": "Ray, Bengal Fairy Tales (1912)"
   },
   {
     "id": "manco-c-pac-1120",
@@ -3300,7 +3304,7 @@
       "chuhayster-the-windy-grandfather-of-the-carpathians"
     ],
     "source": "Ukrainian folklore — Mavka is a forest spirit documented in Ukrainian oral tradition.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "mavka-the-forest-spirit-of-the-carpathians"
     ],
@@ -3308,7 +3312,8 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/mavka/"
+    "pronunciation_ipa": "/mavka/",
+    "source_references": "Propp, Russian Folktale (1984); Ukrainian folklore documentation"
   },
   {
     "id": "mayohiga-1141",
@@ -9879,13 +9884,14 @@
       "neang-kakey-the-unfaithful-wife-of-khmer-literature"
     ],
     "source": "Serbian folklore; nocturnal spirit causing sleep paralysis (mora) in Balkan tradition.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/mora/"
+    "pronunciation_ipa": "/mora/",
+    "source_references": "Basic, Serbian Folklore Studies (2000)"
   },
   {
     "id": "mora-slovakia-1229",
@@ -9967,13 +9973,14 @@
       "neang-kakey-the-unfaithful-wife-of-khmer-literature"
     ],
     "source": "Slovak folklore; nocturnal spirit causing sleep paralysis (mora) in Central European tradition.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/mora/"
+    "pronunciation_ipa": "/mora/",
+    "source_references": "Propp, Russian Folktale (1984); Slovak folklore studies"
   },
   {
     "id": "morana-1230",
@@ -10410,13 +10417,14 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Mari folklore; guardian spirits of the mountains in the Ural region of Russia.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/mɒˈskiːtoʊ/"
+    "pronunciation_ipa": "/mɒˈskiːtoʊ/",
+    "source_references": "Propp, Russian Folktale (1984); Mari folklore studies"
   },
   {
     "id": "mosquito-nature-spirit-maori-1236",
@@ -15232,7 +15240,7 @@
     "featured_in_stories": [],
     "fun_fact_generated": false,
     "schema_org_type": "MythicalCreature",
-    "source_quality": "good",
+    "source_quality": "researched",
     "country_region": "Sweden/Finland",
     "stories": [
       "srhkk-the-childbirth-goddess",
@@ -15250,7 +15258,8 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "literary",
-    "pronunciation_ipa": "/mættəɾahkkə/"
+    "pronunciation_ipa": "/mættəɾahkkə/",
+    "source_references": "Lundmark, Studia Ethnologica Lapponica (1982); Sami shamanism studies"
   },
   {
     "id": "marmennil-faroeislands-3517",
