@@ -2177,8 +2177,21 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "literary",
-    "source_quality": "good",
-    "schema_org_type": "MythicalCreature"
+    "source_quality": "researched",
+    "schema_org_type": "MythicalCreature",
+    "source_references": [
+      {
+        "citation": "Ritchie, J. Scottish Folklore. 1964.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Bord, J. and C. Encyclopaedia of Ghosts and Spirits. 1990.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "jack-ball-3828",

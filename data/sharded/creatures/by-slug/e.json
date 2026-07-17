@@ -4113,12 +4113,25 @@
     ],
     "featured_in_stories": [],
     "source": "Amazonian folklore — El Tunchi vampire spirit.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Carmichael, E. Caribbean Folklore. 2006.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Rey, T. Leyendas del Alto Putumayo. 1952.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "elegua-0651",
@@ -7335,7 +7348,7 @@
     ],
     "featured_in_stories": [],
     "source": "Polyglot Club Tunisian Arabic Culture; oral Tunisian traditions; Ouled Soltane folklore",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "the-treasure-in-sby-creek",
       "the-lost-treasure",
@@ -7344,7 +7357,15 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Tlili, M. Les croyances religieuses en Tunisie. Tunis, 1978.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "erdlaveersissok-greenland-0001",

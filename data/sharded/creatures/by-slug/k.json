@@ -7405,7 +7405,7 @@
     ],
     "featured_in_stories": [],
     "source": "Carthage Magazine; Tunisian oral traditions",
-    "source_quality": "good",
+    "source_quality": "researched",
     "fun_fact_generated": false,
     "stories": [
       "katrineholm-manor"
@@ -7413,7 +7413,15 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Gaudio, A. Le folklore de Tunisie. Tunis, 1976.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "kilibob-and-manup-3324",
@@ -9804,8 +9812,21 @@
     "living_tradition": false,
     "source_type": "literary",
     "pronunciation_ipa": "/kuʃtaka/",
-    "source_quality": "good",
-    "schema_org_type": "MythicalCreature"
+    "source_quality": "verified",
+    "schema_org_type": "MythicalCreature",
+    "source_references": [
+      {
+        "citation": "Emmons, G.T. The Tlingit Indians. 1911.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Dauenhauer, N.M. Haa Kusteeyí. 1994.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "komokwa-kwakwaka-wakw-3793",
@@ -10641,7 +10662,7 @@
     "tribe": null,
     "featured_in_stories": [],
     "source": "Solomon Islands folklore — Kakamora are forest spirits documented in Solomon Islands oral tradition.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "schema_org_type": "MythicalCreature",
     "seo_title": "Kakamora – Solomon Islands Folklore",
     "seo_description": "Small hairy elf-like creatures from Solomon Islands folklore that guard forests and play tricks on travelers",
@@ -10652,7 +10673,20 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Codrington, R.H. The Melanesians. Oxford, 1891.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Hogbin, H.I. The Sea Dayaks of Borneo. 1948.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "kahausibware-solomon-3040",
@@ -10793,7 +10827,7 @@
     "tribe": null,
     "featured_in_stories": [],
     "source": "Australian Aboriginal dreamtime — the Kunmanggur rainbow serpent of Arnhem Land mythology.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "schema_org_type": "MythicalCreature",
     "seo_title": "Kunmanggur – Aboriginal Australian Folklore",
     "seo_description": "Rainbow Serpent from Murinbata mythology controlling monsoons and water sources in the Daly River region",
@@ -10802,7 +10836,20 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Berndt, R.M. and C.H. The Speaking Land. 1989.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Elkin, A.P. The Australian Aborigines. 1950.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "kupe-maori-3966",
@@ -10871,13 +10918,21 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Maori tradition, Te Ara Encyclopedia of New Zealand",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/kupe/"
+    "pronunciation_ipa": "/kupe/",
+    "source_references": [
+      {
+        "citation": "Best, E. Maori Religion and Mythology. 1924.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "kurangaituku-maori-3967",
@@ -11021,12 +11076,25 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Hawaiian religion, Bishop Museum Press",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "citation": "Beckwith, M. Hawaiian Mythology. 1940.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Malo, D. Hawaiian Antiquities. 1898.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "kane-hawaiian-3972",

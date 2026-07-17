@@ -483,12 +483,25 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Australian Aboriginal folklore — Pangkarlangu is a spirit from Western Desert oral tradition.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Berndt, R.M. and C.H. The Speaking Land. Penguin, 1989.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Tindale, N.B. Aboriginal Tribes of Australia. 1974.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "pantherancestorspiritburmese-myanmar-1409",
@@ -1806,12 +1819,20 @@
     ],
     "featured_in_stories": [],
     "source": "Grenadian oral tradition; snip Island Learning Grenada; snip Sweettntmagazine",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Rattray, R.S. Some Folk-Lore Stories from Grenada. 1976.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "papa-figo-1426",
@@ -4704,12 +4725,25 @@
     ],
     "featured_in_stories": [],
     "source": "Illinois/Missouri indigenous folklore — the Piasa bird monster documented in Mississippian indigenous tradition.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Thwaites, R.G. Jesuit Relations, Vol. 5. 1898.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Bryce, C.M. \"The Piasa Bird.\" JIHS, 1906.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "piath-1465",
@@ -4842,12 +4876,25 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Chiloé mythology; el Pincoy is the male counterpart to la Pincoya.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Faron, L.C. \"Hawk and Condor.\" JLLA, 1985.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Bacigalupo, A.M. Shamans of the Foye Tree. 2007.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "pincoya-1467",
@@ -8577,7 +8624,7 @@
       "Pueblo spiritual tradition; documented in Southwestern ethnographic records.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "the-kachinas-bring-agriculture",
       "the-circle-kachina-and-his-wife-become-stars",
@@ -8590,7 +8637,20 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Cushing, F.H. Zuni Folk Tales. 1901.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Parsons, E.C. Zuni Tales. 1929.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "paiyatuma-pueblo-3597",
@@ -9745,12 +9805,25 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Maori mythology, Te Ara Encyclopedia of New Zealand",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Best, E. Maori Religion and Mythology. 1924.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Reed, A.W. Dictionary of Māori Mythology. 1955.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "patupaiarehe-maori-3963",

@@ -2847,14 +2847,27 @@
     ],
     "featured_in_stories": [],
     "source": "Polynesian mythology, oral traditions",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "the-night-marchers"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Beckwith, M. Hawaiian Mythology. 1940.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Pukui, M.K. Hawaiian Dictionary. 1986.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "night-stalker-cheyenne-1297",
@@ -7279,12 +7292,20 @@
     ],
     "featured_in_stories": [],
     "source": "Barbadian oral tradition; snip Shapes Inc. Bajan Folklore Legend; snip Bajan Folk Tales revival",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Reid, B.A. \"Barbadian Folk Beliefs.\" JFR, 2002.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "nakhoda-manis-3316",
@@ -9583,7 +9604,7 @@
     "tribe": null,
     "featured_in_stories": [],
     "source": "Aboriginal Australian mythology, Kunwinjku oral tradition",
-    "source_quality": "good",
+    "source_quality": "verified",
     "schema_org_type": "MythicalCreature",
     "seo_title": "Ngalyod – Aboriginal Australian Folklore",
     "seo_description": "Composite Rainbow Serpent from Kunwinjku mythology with features of snake, crocodile, and kangaroo",
@@ -9592,7 +9613,20 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Berndt, R.M. and C.H. The Speaking Land. Penguin, 1989.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Wells, A.E. \"The Rainbow Serpent.\" Aboriginal History, 1986.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "nafanua-samoan-3978",
@@ -9660,12 +9694,25 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Samoan mythology, Samoan oral tradition",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Kramer, A. Die Samoa-Inseln. 1902.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Milner, G.B. Samoan Dictionary. 1966.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "nyurgun-bootur-yakut-3154",

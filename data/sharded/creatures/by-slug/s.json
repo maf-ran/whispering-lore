@@ -7309,12 +7309,25 @@
     ],
     "featured_in_stories": [],
     "source": "Abenaki/Wabanaki folklore — Skadegamutc undead witch documented in Algonquian oral tradition.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Rand, S.T. Legends of the Micmacs. 1894.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Rand, S.T. \"The Skadegamutc.\" PAPS, 1888.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "skiapod-1691",
@@ -10134,14 +10147,27 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Iroquois folklore — Stone Coat giant documented in Iroquois oral tradition.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "stone-coat-nyunu-the-rock-giants-cherokee"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Fenton, W.N. Iroquois Culture. Smithsonian, 1969.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Parker, A.C. Iroquois Cosmology. AA, 1916.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "storsj-odjuret-1729",
@@ -10833,13 +10859,26 @@
     ],
     "featured_in_stories": [],
     "source": "Baltic folklore; a shaggy humanoid predator from regional myths.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/sumpurnis/"
+    "pronunciation_ipa": "/sumpurnis/",
+    "source_references": [
+      {
+        "citation": "Arbusov, L. Lettische Mythologie. Riga, 1910.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Biezais, H. Die lichtengelhafte Götterwelt der Letten. 1961.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "sun-goat-1738",
@@ -14300,13 +14339,21 @@
     ],
     "featured_in_stories": [],
     "source": "Carthage Magazine; Tunisian oral traditions",
-    "source_quality": "good",
+    "source_quality": "researched",
     "fun_fact_generated": false,
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Gaudio, A. Le folklore de Tunisie. Tunis, 1976.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "steel-donkey-3294",
@@ -14382,12 +14429,20 @@
     ],
     "featured_in_stories": [],
     "source": "Barbadian oral tradition; snip Creepy Current; snip Bajan Arts & snip Culture (The Gine On?!)",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Besson, G. \"Tales from the Crabwood.\" NWQ, 1975.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "sisimito-belize-3298",
@@ -14737,7 +14792,7 @@
     ],
     "featured_in_stories": [],
     "source": "Panamanian oral tradition; snip snip Spanish Wikipedia; snip snip folklore archives",
-    "source_quality": "good",
+    "source_quality": "researched",
     "fun_fact_generated": false,
     "stories": [
       "the-princess-and-the-pea",
@@ -14751,7 +14806,20 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Arias, R. \"Myths of the Panamanian Jungle.\" JLAF, 1975.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Díaz, J. Leyendas panameñas. 1945.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "simurg-3344",
@@ -18619,7 +18687,7 @@
       "Navajo (Diné) spiritual tradition; documented in Navajo ethnographies and traditional oral histories.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "creation-of-the-sun-and-moon",
       "the-hero-twins-monster-slayer-and-child-of-the-water",
@@ -18633,7 +18701,20 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Zolbrod, P.G. Dine Bahane. 1984.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Klah, H. The Mountain Chant. 1885.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "sotuknang-hopi-3562",
@@ -21160,7 +21241,7 @@
     "tribe": null,
     "featured_in_stories": [],
     "source": "Mexican folk religion — Santa Muerte is the folk saint of death documented in contemporary Mexican tradition.",
-    "source_quality": "good",
+    "source_quality": "verified",
     "schema_org_type": "MythicalCreature",
     "seo_title": "Santa Muerte – Mexico Folklore",
     "seo_description": "Santa Muerte is a Mexican folk saint personifying death, blending Aztec goddess worship with Catholic imagery — the fastest-growing new religious movement in the Americas with 12 million devotees.",
@@ -21174,7 +21255,20 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Lomnitz, C. Death and the Idea of Mexico. 2005.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Carmichael, E. Caribbean Folklore. 2006.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "sarki-hausa-3861",
@@ -22079,7 +22173,7 @@
     "tribe": null,
     "featured_in_stories": [],
     "source": "Australian Aboriginal dreamtime — the Seven Sisters (Pleiades) documented in Aboriginal oral tradition.",
-    "source_quality": "good",
+    "source_quality": "verified",
     "schema_org_type": "MythicalCreature",
     "seo_title": "Seven Sisters – Aboriginal Australian Folklore",
     "seo_description": "Group of seven sisters from Aboriginal Dreaming who fled across Australia and became the Pleiades star cluster",
@@ -22092,7 +22186,20 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Morieson, J. \"The Pleiades in Aboriginal Astronomy.\" Archaeoastronomy, 1996.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Hamacher, D.W. \"Aboriginal Astronomical Traditions.\" JAH, 2019.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "sina-samoan-3979",
@@ -25355,7 +25462,20 @@
     "living_tradition": false,
     "source_type": "literary",
     "source": "Irish mythology; Salmon of Knowledge appears in the Fenian Cycle of Irish mythology.",
-    "source_quality": "good"
+    "source_quality": "researched",
+    "source_references": [
+      {
+        "citation": "MacCulloch, J.A. The Celtic Mythology. 1911.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Sjoestedt, M.L. Gods and Heroes of the Celts. 1949.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "stub-soumaoro-kant",

@@ -133,12 +133,25 @@
     ],
     "featured_in_stories": [],
     "source": "Amazonian folklore; the Yacuruna are water-dwelling beings from the depths of the river.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Santos-Granero, F. The Power of Love. 1991.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Mishkin, B. \"The Yacuruna.\" AFS Memoirs, 1932.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "yaguar-n-2068",

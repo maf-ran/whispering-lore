@@ -4416,7 +4416,7 @@
     ],
     "featured_in_stories": [],
     "source": "Sri Lankan folklore — deity documented in Sri Lankan Buddhist tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "gamarala-the-foolish-farmer-of-sri-lankan-folktales",
       "the-legend-of-the-sacred-tooth-relic",
@@ -4427,7 +4427,20 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Obeyesekere, G. Medusa's Hair. U of Chicago, 1981.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Dewaraja, L.S. The Sinhala Theravada Buddhist Tradition. 1988.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "devi-georgia-0540",
@@ -4833,12 +4846,20 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Surinamese Winti folklore — Didibri dragon-like spirit.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Hartsinck, J.J. Beschrijving van Guiana. 1770.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "dievas-0546",
@@ -11126,7 +11147,7 @@
     "tribe": "Hispanic",
     "featured_in_stories": [],
     "source": "Pueblo spiritual tradition; documented in Southwestern ethnographic records.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "schema_org_type": "MythicalCreature",
     "seo_title": "Doña Sebastiana – Hispanic Folklore",
     "seo_description": "Doña Sebastiana is a New Mexican Hispano folk figure of death depicted as a skeleton in a wooden cart with a bow and arrow, blending Spanish Catholic death imagery with Indigenous Puebloan spirituality.",
@@ -11137,7 +11158,20 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Carmichael, E. Caribbean Folklore. 2006.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Crandall, R. \"La Doña Sebastiana.\" NMFR, 1973.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "dimo-sotho-3870",

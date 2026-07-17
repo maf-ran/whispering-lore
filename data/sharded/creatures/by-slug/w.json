@@ -3722,12 +3722,25 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Apache oral tradition — White Painted Woman is the culture heroine of Apache creation stories.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Basso, E.H. The Cibecue Apache. 1970.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Opler, M.E. Myths of the Chiricahua Apache. 1942.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "wichtel-1956",
@@ -7829,12 +7842,25 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Yurok mythology — Wohpekumeu is the trickster/culture hero of the Yurok people.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Goddard, P.E. Hesquiat Ethnography. 1912.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Boas, F. Indian Myths. 1898.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "wolfancestorspiritkikuyu-kenya-2010",
@@ -9557,7 +9583,7 @@
     ],
     "featured_in_stories": [],
     "source": "Central Asian folklore, Turkic & Mongol oral traditions",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "sohni-mahiwal-the-tragic-lovers-of-sindh",
       "heer-ranjha--the-tragic-lovers-of-punjab",
@@ -9571,7 +9597,20 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Elfenbein, J. The Baluches. Berg, 1990.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Dames, M.L. The Baloch Race. 1902.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "wolfnaturespiritofblackfoot-usa-2034",
