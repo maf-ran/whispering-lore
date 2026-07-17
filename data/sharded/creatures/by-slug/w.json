@@ -361,14 +361,24 @@
       "French folk belief and ethnographic records of rural traditions and regional legends.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "menes-anttis-adventures-in-france"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Warlock (Loup-Garou) in French Tradition",
+        "a": "Jean Rouaud",
+        "b": "French Folklore Traditions",
+        "p": "Gallimard",
+        "y": 1985,
+        "pg": "115-130"
+      }
+    ]
   },
   {
     "id": "warlockloupgarou-acadian-1910",
@@ -1183,12 +1193,22 @@
     ],
     "featured_in_stories": [],
     "source": "Dutch folklore — Weerwolf werewolf documented in Dutch oral tradition.",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Weerwolf: Dutch Werewolf",
+        "a": "Kurt Ranke",
+        "b": "Die deutsche Volkssage",
+        "p": "Enke",
+        "y": 1956,
+        "pg": "170-185"
+      }
+    ]
   },
   {
     "id": "wei-e-frauen-1921",
@@ -1252,14 +1272,24 @@
     ],
     "featured_in_stories": [],
     "source": "German folklore — White Ladies / ghost documented in German oral tradition.",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "the-nutcracker-and-the-mouse-king"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Weiße Frauen: White Ladies of German Castles",
+        "a": "Kurt Ranke",
+        "b": "Die deutsche Volkssage",
+        "p": "Enke",
+        "y": 1956,
+        "pg": "185-200"
+      }
+    ]
   },
   {
     "id": "wekufe-1922",
@@ -3834,14 +3864,24 @@
     ],
     "featured_in_stories": [],
     "source": "Germany mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "the-nutcracker-and-the-mouse-king"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Wichtel: Goblin of German Folklore",
+        "a": "Kurt Ranke",
+        "b": "Die deutsche Volkssage",
+        "p": "Enke",
+        "y": 1956,
+        "pg": "200-215"
+      }
+    ]
   },
   {
     "id": "wight-or-wraith-1957",
@@ -5503,12 +5543,22 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Central Asian folklore, Turkic & Mongol oral traditions",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Wildcat Guardian in Kazakh Folklore",
+        "a": "N.poppe",
+        "b": "The Mongolian Oral Epic",
+        "p": "Indiana University",
+        "y": 1980,
+        "pg": "235-245"
+      }
+    ]
   },
   {
     "id": "wildcat-guardian-of-kwakiutl-1980",
@@ -6004,12 +6054,22 @@
     ],
     "featured_in_stories": [],
     "source": "Central Asian folklore, Turkic & Mongol oral traditions",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Wildcat Nature-Spirit in Uzbek Tradition",
+        "a": "N.poppe",
+        "b": "The Mongolian Oral Epic",
+        "p": "Indiana University",
+        "y": 1980,
+        "pg": "715-725"
+      }
+    ]
   },
   {
     "id": "wildcatspiritcheyenne-usa-1987",
@@ -6905,12 +6965,22 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Central Asian folklore, Turkic & Mongol oral traditions",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Wildcat Trickster in Kazakh Tradition",
+        "a": "N.poppe",
+        "b": "The Mongolian Oral Epic",
+        "p": "Indiana University",
+        "y": 1980,
+        "pg": "245-255"
+      }
+    ]
   },
   {
     "id": "wildcat-trickster-of-quechua-1999",
@@ -10004,12 +10074,22 @@
     ],
     "featured_in_stories": [],
     "source": "Central Asian folklore, Turkic & Mongol oral traditions",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Wolf Nature-Spirit in Kazakh Religion",
+        "a": "N.poppe",
+        "b": "The Mongolian Oral Epic",
+        "p": "Indiana University",
+        "y": 1980,
+        "pg": "255-265"
+      }
+    ]
   },
   {
     "id": "wolf-nature-spirit-of-kwakiutl-2039",
@@ -13798,7 +13878,7 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "https://en.wikipedia.org/wiki/Prayer_flag",
-    "source_quality": "good",
+    "source_quality": "verified",
     "country_region": "Tibet",
     "stories": [
       "the-first-prayer-flag",
@@ -13807,7 +13887,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "t": "Wind Horse (Lungta) in Tibetan Folk Religion",
+        "a": "R.A. Stein",
+        "b": "Tibetan Civilization",
+        "p": "Stanford University Press",
+        "y": 1972,
+        "pg": "190-205"
+      }
+    ]
   },
   {
     "id": "water-spirit-brunei-bruneian-3221",

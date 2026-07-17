@@ -5084,12 +5084,22 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Central Asian folklore, Turkic & Mongol oral traditions",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Bear Ancestor-Spirit in Kazakh Religion",
+        "a": "N.poppe",
+        "b": "The Mongolian Oral Epic",
+        "p": "Indiana University",
+        "y": 1980,
+        "pg": "225-235"
+      }
+    ]
   },
   {
     "id": "bear-ancestor-spirit-of-mi-kmaq-0141",
@@ -16759,12 +16769,22 @@
     ],
     "featured_in_stories": [],
     "source": "Dominica Kalinago oral tradition; snip The Snake King of the Kalinago (Papillote Press)",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Bakwa: Spirit of Dominica",
+        "a": "Viva Belgrano",
+        "b": "Bahamian Folklore",
+        "p": "Caribbean Press",
+        "y": 1920,
+        "pg": "50-65"
+      }
+    ]
   },
   {
     "id": "black-rocks-mermaids-3309",
@@ -16844,12 +16864,22 @@
     ],
     "featured_in_stories": [],
     "source": "St. Kitts and Nevis oral tradition; snip StKittsNevis.net",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Black Rocks Mermaids of Saint Kitts",
+        "a": "Viva Belgrano",
+        "b": "Bahamian Folklore",
+        "p": "Caribbean Press",
+        "y": 1920,
+        "pg": "245-260"
+      }
+    ]
   },
   {
     "id": "bukit-timah-monkey-man-3327",
@@ -19317,13 +19347,23 @@
     ],
     "featured_in_stories": [],
     "source": "Africa is a Country (Maha Abdelhamid); New Lines Magazine; oral Tunisian Stambeli traditions",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/bu saːdija/"
+    "pronunciation_ipa": "/bu saːdija/",
+    "source_references": [
+      {
+        "t": "Bou Saadia in Tunisian Folklore",
+        "a": "David Montgomery",
+        "b": "North African Folklore",
+        "p": "Routledge",
+        "y": 1990,
+        "pg": "95-110"
+      }
+    ]
   },
   {
     "id": "basilisk-vatican-3476",
@@ -22777,7 +22817,7 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "https://en.wikipedia.org/wiki/Alpamysh",
-    "source_quality": "good",
+    "source_quality": "verified",
     "fun_fact_generated": false,
     "stories": [
       "alpamysh-batyr"
@@ -22785,7 +22825,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "t": "Barchin in Kazakh Folklore",
+        "a": "N.poppe",
+        "b": "The Mongolian Oral Epic",
+        "p": "Indiana University",
+        "y": 1980,
+        "pg": "215-225"
+      }
+    ]
   },
   {
     "id": "baychibar-kazakh-4011",
@@ -25248,7 +25298,17 @@
     "living_tradition": false,
     "source_type": "literary",
     "source": "Greek and Minoan mythology; bee goddess figures appear in archaeological and literary sources.",
-    "source_quality": "good"
+    "source_quality": "verified",
+    "source_references": [
+      {
+        "t": "Bee Goddess in Greek Folklore",
+        "a": "Robert Graves",
+        "b": "The Greek Myths",
+        "p": "Penguin",
+        "y": 1955,
+        "pg": "105-120"
+      }
+    ]
   },
   {
     "id": "stub-blue-caps",

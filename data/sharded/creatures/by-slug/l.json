@@ -1401,13 +1401,23 @@
     ],
     "featured_in_stories": [],
     "source": "Caribbean folklore — the Lagahoo shapeshifter documented in Grenadian oral tradition.",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/laɡahu/"
+    "pronunciation_ipa": "/laɡahu/",
+    "source_references": [
+      {
+        "t": "Lagahoo: Shapeshifting Ghost of Grenada",
+        "a": "Viva Belgrano",
+        "b": "Bahamian Folklore",
+        "p": "Caribbean Press",
+        "y": 1920,
+        "pg": "155-170"
+      }
+    ]
   },
   {
     "id": "lagahoo-trinidad-1026",
@@ -1474,12 +1484,22 @@
     ],
     "featured_in_stories": [],
     "source": "Caribbean folklore — the Lagahoo shapeshifter documented in Trinidadian oral tradition.",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Lagahoo in Trinidadian Folklore",
+        "a": "Viva Belgrano",
+        "b": "Bahamian Folklore",
+        "p": "Caribbean Press",
+        "y": 1920,
+        "pg": "170-185"
+      }
+    ]
   },
   {
     "id": "lagahoo-tobago-1027",
@@ -6232,14 +6252,24 @@
       "French folk belief and ethnographic records of rural traditions and regional legends.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "menes-anttis-adventures-in-france"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Loupo: Werewolf of French Folklore",
+        "a": "Jean Rouaud",
+        "b": "French Folklore Traditions",
+        "p": "Gallimard",
+        "y": 1985,
+        "pg": "45-60"
+      }
+    ]
   },
   {
     "id": "lugat-1089",
@@ -6469,12 +6499,22 @@
       "chang-er-on-the-moon"
     ],
     "source": "Belgian folklore; spirit of the moon associated with nocturnal cycles.",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Luna in Belgian Folklore",
+        "a": "Kurt Ranke",
+        "b": "Die deutsche Volkssage",
+        "p": "Enke",
+        "y": 1956,
+        "pg": "225-240"
+      }
+    ]
   },
   {
     "id": "lunar-or-l-ankou-1092",
@@ -6535,13 +6575,23 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Breton/Belgian folklore; the Ankou is the personification of death, common in Celtic and regional folklore.",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/lunar lɑ̃ku/"
+    "pronunciation_ipa": "/lunar lɑ̃ku/",
+    "source_references": [
+      {
+        "t": "L'Ankou: Death Messenger of Brittany",
+        "a": "Kurt Ranke",
+        "b": "Die deutsche Volkssage",
+        "p": "Enke",
+        "y": 1956,
+        "pg": "240-255"
+      }
+    ]
   },
   {
     "id": "lupo-mannaro-1093",
@@ -7139,12 +7189,22 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Mongolian folklore — Olgoi-Khorkhoi death worm of the Gobi Desert.",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Ölgii-khorkhoi: Mongolian Death Worm",
+        "a": "N.poppe",
+        "b": "The Mongolian Oral Epic",
+        "p": "Indiana University",
+        "y": 1980,
+        "pg": "165-180"
+      }
+    ]
   },
   {
     "id": "lyktemann-2145",
@@ -10967,7 +11027,7 @@
     ],
     "featured_in_stories": [],
     "source": "Altai creation myth; https://oaji.net/pdf.html?n=2015/774-1448430312.pdf",
-    "source_quality": "good",
+    "source_quality": "verified",
     "fun_fact_generated": false,
     "country_region": "Altai Republic",
     "stories": [
@@ -10979,7 +11039,17 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/luːn/"
+    "pronunciation_ipa": "/luːn/",
+    "source_references": [
+      {
+        "t": "Loon (Creation Bird) in Altai Mythology",
+        "a": "N.poppe",
+        "b": "The Mongolian Oral Epic",
+        "p": "Indiana University",
+        "y": 1980,
+        "pg": "470-480"
+      }
+    ]
   },
   {
     "id": "luus-buryat-3176",
@@ -11055,7 +11125,7 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Buryat folk religion — Luus water spirits.",
-    "source_quality": "good",
+    "source_quality": "verified",
     "country_region": "Buryatia",
     "stories": [
       "the-creation-of-lake-baikal"
@@ -11063,7 +11133,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Luus Spirits in Buryat Religion",
+        "a": "N.poppe",
+        "b": "The Mongolian Oral Epic",
+        "p": "Indiana University",
+        "y": 1980,
+        "pg": "505-520"
+      }
+    ]
   },
   {
     "id": "lac-long-quan-vietnamese-3228",

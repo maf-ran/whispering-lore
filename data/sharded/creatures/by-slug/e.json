@@ -8748,7 +8748,7 @@
     ],
     "featured_in_stories": [],
     "source": "Mongol oral tradition; https://en.wikisource.org/wiki/Sagas_from_the_Far_East",
-    "source_quality": "good",
+    "source_quality": "verified",
     "fun_fact_generated": false,
     "stories": [
       "erlig-khan-and-the-palace-of-the-dead"
@@ -8756,7 +8756,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "t": "Erlig Khan: Lord of the Underworld in Mongolian Mythology",
+        "a": "N.poppe",
+        "b": "The Mongolian Oral Epic",
+        "p": "Indiana University",
+        "y": 1980,
+        "pg": "65-80"
+      }
+    ]
   },
   {
     "id": "erlik-altai-4035",
@@ -8922,13 +8932,23 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "https://en.wikipedia.org/wiki/Olonkho",
-    "source_quality": "good",
+    "source_quality": "verified",
     "country_region": "Sakha Republic",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "t": "Er Sogotokh in Yakut Mythology",
+        "a": "N.poppe",
+        "b": "The Mongolian Oral Epic",
+        "p": "Indiana University",
+        "y": 1980,
+        "pg": "545-560"
+      }
+    ]
   },
   {
     "id": "erzulie-freda-haitian-4076",

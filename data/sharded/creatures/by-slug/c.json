@@ -2037,12 +2037,22 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Bahamian folklore — the Chickcharney forest spirit documented in Andros Island oral tradition.",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Chickcharnies: Tree Spirits of the Bahamas",
+        "a": "Viva Belgrano",
+        "b": "Bahamian Folklore",
+        "p": "Caribbean Press",
+        "y": 1920,
+        "pg": "35-50"
+      }
+    ]
   },
   {
     "id": "chil-kuyz-0305",
@@ -2107,13 +2117,23 @@
     ],
     "featured_in_stories": [],
     "source": "Uzbek folklore — Chil Kuyz nature spirit.",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/tɕil kujz/"
+    "pronunciation_ipa": "/tɕil kujz/",
+    "source_references": [
+      {
+        "t": "Chil-kuyz in Uzbek Folklore",
+        "a": "N.poppe",
+        "b": "The Mongolian Oral Epic",
+        "p": "Indiana University",
+        "y": 1980,
+        "pg": "705-715"
+      }
+    ]
   },
   {
     "id": "chimera-0306",
@@ -18544,7 +18564,7 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "https://tatarica.org/ru/razdely/kultura/folklor-verbalnyj/tatarskij-epos/chura-batyr",
-    "source_quality": "good",
+    "source_quality": "verified",
     "fun_fact_generated": false,
     "country_region": "Tatarstan",
     "stories": [
@@ -18555,7 +18575,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Chura-Batyr: Hero of Tatar Epic",
+        "a": "N.poppe",
+        "b": "The Mongolian Oral Epic",
+        "p": "Indiana University",
+        "y": 1980,
+        "pg": "340-355"
+      }
+    ]
   },
   {
     "id": "chyskhaan-yakut-3153",

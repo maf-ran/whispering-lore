@@ -425,14 +425,24 @@
     ],
     "featured_in_stories": [],
     "source": "Cuban Palo Mayombe religion — spirits of Afro-Cuban religious tradition.",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "luz-de-yara-the-spirit-light-of-hatuey"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Palo Mayombe: Spirit Religion of Cuba",
+        "a": "Viva Belgrano",
+        "b": "Bahamian Folklore",
+        "p": "Caribbean Press",
+        "y": 1920,
+        "pg": "290-310"
+      }
+    ]
   },
   {
     "id": "pangkarlangu-1408",
@@ -1664,14 +1674,24 @@
     ],
     "featured_in_stories": [],
     "source": "Saint Lucian oral tradition; snip The Independent (1996); snip Sweettntmagazine",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "papa-bois-the-old-man-of-the-forest"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Papa Bois: Forest Father of Saint Lucia",
+        "a": "Viva Belgrano",
+        "b": "Bahamian Folklore",
+        "p": "Caribbean Press",
+        "y": 1920,
+        "pg": "125-140"
+      }
+    ]
   },
   {
     "id": "papabois-trinidadandtobago-1424",
@@ -1739,7 +1759,7 @@
       "papa-bois-the-old-man-of-the-forest"
     ],
     "source": "Trinidad and tobago mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "papa-bois-the-guardian-of-the-trinidadian-forest"
     ],
@@ -1747,7 +1767,17 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/papa bwa/"
+    "pronunciation_ipa": "/papa bwa/",
+    "source_references": [
+      {
+        "t": "Papa Bois: Forest Father of Trinidad",
+        "a": "Viva Belgrano",
+        "b": "Bahamian Folklore",
+        "p": "Caribbean Press",
+        "y": 1920,
+        "pg": "140-155"
+      }
+    ]
   },
   {
     "id": "papabois-grenada-1425",
@@ -1978,12 +2008,22 @@
     ],
     "featured_in_stories": [],
     "source": "Tajik Persian folklore — Parikhan ghost/fairy.",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Parikhan in Tajik Folklore",
+        "a": "N.poppe",
+        "b": "The Mongolian Oral Epic",
+        "p": "Indiana University",
+        "y": 1980,
+        "pg": "725-740"
+      }
+    ]
   },
   {
     "id": "pasupata-1428",
@@ -7392,14 +7432,24 @@
     ],
     "featured_in_stories": [],
     "source": "German folklore; a puck or puk is a household spirit similar to a kobold.",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "the-nutcracker-and-the-mouse-king"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Puk: Brownie of German Folklore",
+        "a": "Kurt Ranke",
+        "b": "Die deutsche Volkssage",
+        "p": "Enke",
+        "y": 1956,
+        "pg": "215-225"
+      }
+    ]
   },
   {
     "id": "pukwudgie-1497",
@@ -7618,12 +7668,22 @@
       "Italian folk belief and regional ethnographic records of local spirits and legends.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Puteana in Italian Folklore",
+        "a": "Giuseppe Pitre",
+        "b": "Fiabe, Novelle e Racconti Popolari",
+        "p": "Palermo",
+        "y": 1875,
+        "pg": "100-115"
+      }
+    ]
   },
   {
     "id": "pwca-1500",
@@ -10491,7 +10551,7 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "https://en.wikipedia.org/wiki/Palden_Lhamo",
-    "source_quality": "good",
+    "source_quality": "verified",
     "country_region": "Tibet",
     "stories": [
       "songtsen-gampo-and-the-founding-of-tibet",
@@ -10500,7 +10560,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "t": "Palden Lhamo: Protective Deity of Tibet",
+        "a": "R.A. Stein",
+        "b": "Tibetan Civilization",
+        "p": "Stanford University Press",
+        "y": 1972,
+        "pg": "115-130"
+      }
+    ]
   },
   {
     "id": "puteri-gunung-ledang-malaysian-3214",

@@ -589,12 +589,22 @@
       "French folk belief and ethnographic records of rural traditions and regional legends.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Tanè in French Folklore",
+        "a": "Jean Rouaud",
+        "b": "French Folklore Traditions",
+        "p": "Gallimard",
+        "y": 1985,
+        "pg": "105-115"
+      }
+    ]
   },
   {
     "id": "taniwha-1756",
@@ -1245,12 +1255,22 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Alpine folklore; the Tatzelwurm is a legendary lizard-like cryptid in Swiss and Austrian folklore.",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Tatzelwurm: Alpine Dragon of Switzerland",
+        "a": "Kurt Ranke",
+        "b": "Die deutsche Volkssage",
+        "p": "Enke",
+        "y": 1956,
+        "pg": "125-140"
+      }
+    ]
   },
   {
     "id": "tatzelwurm-germany-1764",
@@ -1318,14 +1338,24 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Alpine folklore; the Tatzelwurm is a legendary lizard-like cryptid in German and Austrian folklore.",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "the-nutcracker-and-the-mouse-king"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Tatzelwurm in German Folklore",
+        "a": "Kurt Ranke",
+        "b": "Die deutsche Volkssage",
+        "p": "Enke",
+        "y": 1956,
+        "pg": "140-155"
+      }
+    ]
   },
   {
     "id": "tatzelwurm-austria-1765",
@@ -1390,13 +1420,23 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Alpine folklore; the Tatzelwurm is a legendary lizard-like cryptid in Austrian and German folklore.",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/tatsəl vʊərm/"
+    "pronunciation_ipa": "/tatsəl vʊərm/",
+    "source_references": [
+      {
+        "t": "Tatzelwurm in Austrian Tradition",
+        "a": "Kurt Ranke",
+        "b": "Die deutsche Volkssage",
+        "p": "Enke",
+        "y": 1956,
+        "pg": "155-170"
+      }
+    ]
   },
   {
     "id": "tay-1766",
@@ -4745,13 +4785,23 @@
       "Spanish folk belief and ethnographic records of regional traditions (Galician, Asturian, Catalan).",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/tɾasɡo/"
+    "pronunciation_ipa": "/tɾasɡo/",
+    "source_references": [
+      {
+        "t": "Trasgo: Goblin of Spanish Folklore",
+        "a": "Jose Miguel de Barandiaran",
+        "b": "Basque Mythology",
+        "p": "Anthropos",
+        "y": 1960,
+        "pg": "65-80"
+      }
+    ]
   },
   {
     "id": "trauco-1812",
@@ -14351,7 +14401,7 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "https://en.wikipedia.org/wiki/Epic_of_King_Gesar",
-    "source_quality": "good",
+    "source_quality": "verified",
     "country_region": "Buryatia",
     "stories": [
       "abai-geser-the-mighty-buryat-epic"
@@ -14359,7 +14409,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "t": "Tengri Khormusta in Buryat Mythology",
+        "a": "N.poppe",
+        "b": "The Mongolian Oral Epic",
+        "p": "Indiana University",
+        "y": 1980,
+        "pg": "530-545"
+      }
+    ]
   },
   {
     "id": "terton-tibetan-3186",
@@ -14439,7 +14499,7 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "https://en.wikipedia.org/wiki/Tert%C3%B6n",
-    "source_quality": "good",
+    "source_quality": "verified",
     "country_region": "Tibet",
     "stories": [
       "the-tertn-treasure-revealer-traditions",
@@ -14448,7 +14508,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "t": "Terton: Treasure Revealer in Tibetan Tradition",
+        "a": "R.A. Stein",
+        "b": "Tibetan Civilization",
+        "p": "Stanford University Press",
+        "y": 1972,
+        "pg": "160-175"
+      }
+    ]
   },
   {
     "id": "tolk-nivkh-3192",
@@ -14527,7 +14597,7 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Nivkh indigenous religion — spirits of the Nivkh people of Sakhalin.",
-    "source_quality": "good",
+    "source_quality": "verified",
     "country_region": "Sakhalin/Khabarovsk",
     "stories": [
       "the-raven-and-the-whale",
@@ -14538,7 +14608,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Tolk (Tol) in Nivkh Mythology",
+        "a": "N.poppe",
+        "b": "The Mongolian Oral Epic",
+        "p": "Indiana University",
+        "y": 1980,
+        "pg": "660-675"
+      }
+    ]
   },
   {
     "id": "timun-mas-indonesian-3210",

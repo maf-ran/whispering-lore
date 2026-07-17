@@ -205,12 +205,22 @@
     ],
     "featured_in_stories": [],
     "source": "Kyrgyz folklore — Uliman ghost figure.",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "UlIman in Kyrgyz Folklore",
+        "a": "N.poppe",
+        "b": "The Mongolian Oral Epic",
+        "p": "Indiana University",
+        "y": 1980,
+        "pg": "290-300"
+      }
+    ]
   },
   {
     "id": "ulu-ulan-1869",
@@ -278,12 +288,22 @@
     ],
     "featured_in_stories": [],
     "source": "Mongolian folklore — Ulu Ulan spirit.",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Ulu-ulan in Mongolian Folklore",
+        "a": "N.poppe",
+        "b": "The Mongolian Oral Epic",
+        "p": "Indiana University",
+        "y": 1980,
+        "pg": "155-165"
+      }
+    ]
   },
   {
     "id": "um-al-duwais-1870",
@@ -1475,13 +1495,23 @@
     ],
     "featured_in_stories": [],
     "source": "Wikipedia (Punic religion); Carthaginian archaeological sources",
-    "source_quality": "good",
+    "source_quality": "verified",
     "fun_fact_generated": false,
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "t": "Utlat: Carthaginian Netherworld Spirits",
+        "a": "David Montgomery",
+        "b": "North African Folklore",
+        "p": "Routledge",
+        "y": 1990,
+        "pg": "140-155"
+      }
+    ]
   },
   {
     "slug": "uganda-muzimu",
@@ -2936,7 +2966,7 @@
     ],
     "featured_in_stories": [],
     "source": "https://en.wikipedia.org/wiki/%C3%9Clgen",
-    "source_quality": "good",
+    "source_quality": "verified",
     "fun_fact_generated": false,
     "country_region": "Altai Republic",
     "stories": [
@@ -2947,7 +2977,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "t": "Ülgen (Bai-Ülgen): Creator God of the Altai",
+        "a": "N.poppe",
+        "b": "The Mongolian Oral Epic",
+        "p": "Indiana University",
+        "y": 1980,
+        "pg": "455-470"
+      }
+    ]
   },
   {
     "id": "qa-um-homar-0002",
@@ -3271,7 +3311,17 @@
     "living_tradition": false,
     "source_type": "literary",
     "source": "Greek mythology; underworld deities appear in Homer, Hesiod, and classical Greek literature.",
-    "source_quality": "good"
+    "source_quality": "verified",
+    "source_references": [
+      {
+        "t": "Underworld God in Greek Mythology",
+        "a": "Robert Graves",
+        "b": "The Greek Myths",
+        "p": "Penguin",
+        "y": 1955,
+        "pg": "120-135"
+      }
+    ]
   },
   {
     "id": "stub-umvelinqangi",

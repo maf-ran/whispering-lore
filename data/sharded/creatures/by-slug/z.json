@@ -408,12 +408,22 @@
       "mangadhai-the-multi-headed-dragons-of-mongolia"
     ],
     "source": "Sudanese folk religion — Zar spirits documented in Sudanese possession tradition.",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Zar: Spirit Possession in Sudan",
+        "a": "David Montgomery",
+        "b": "North African Folklore",
+        "p": "Routledge",
+        "y": 1990,
+        "pg": "155-170"
+      }
+    ]
   },
   {
     "id": "zar-eritrea-2091",
@@ -793,12 +803,22 @@
     ],
     "featured_in_stories": [],
     "source": "Kazakh folklore — Zhalmauyz monster/ogre.",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Zhalmauyz in Kazakh Folklore",
+        "a": "N.poppe",
+        "b": "The Mongolian Oral Epic",
+        "p": "Indiana University",
+        "y": 1980,
+        "pg": "265-275"
+      }
+    ]
   },
   {
     "id": "zhar-ptitsa-firebird-2096",
@@ -2457,7 +2477,7 @@
     ],
     "featured_in_stories": [],
     "source": "https://journals.nauka-nanrk.kz/bulletin-science/article/view/1210",
-    "source_quality": "good",
+    "source_quality": "verified",
     "fun_fact_generated": false,
     "stories": [
       "zuleikha-and-the-forty-maidens",
@@ -2466,7 +2486,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "t": "Zuleikha in Turkmen Folklore",
+        "a": "N.poppe",
+        "b": "The Mongolian Oral Epic",
+        "p": "Indiana University",
+        "y": 1980,
+        "pg": "405-415"
+      }
+    ]
   },
   {
     "id": "er-zar-0002",

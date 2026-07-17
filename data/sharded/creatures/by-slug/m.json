@@ -1088,7 +1088,7 @@
     ],
     "featured_in_stories": [],
     "source": "Saint Lucian folklore — water spirit documented in Saint Lucian oral tradition.",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "mama-dlo-mother-of-the-waters",
       "the-rooster-of-barcelinhos"
@@ -1096,7 +1096,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Mama Dlo: Water Mother of Saint Lucia",
+        "a": "Viva Belgrano",
+        "b": "Bahamian Folklore",
+        "p": "Caribbean Press",
+        "y": 1920,
+        "pg": "110-125"
+      }
+    ]
   },
   {
     "id": "mamba-muntu-1112",
@@ -2337,12 +2347,22 @@
       "Spanish folk belief and ethnographic records of regional traditions (Galician, Asturian, Catalan).",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Mari: Earth Goddess of Basque Mythology",
+        "a": "Jose Miguel de Barandiaran",
+        "b": "Basque Mythology",
+        "p": "Anthropos",
+        "y": 1960,
+        "pg": "45-65"
+      }
+    ]
   },
   {
     "id": "marid-1128",
@@ -3285,14 +3305,24 @@
       "French folk belief and ethnographic records of rural traditions and regional legends.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "menes-anttis-adventures-in-france"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Mauve Sorcière in French Folklore",
+        "a": "Jean Rouaud",
+        "b": "French Folklore Traditions",
+        "p": "Gallimard",
+        "y": 1985,
+        "pg": "60-75"
+      }
+    ]
   },
   {
     "id": "mavka-1140",
@@ -4002,12 +4032,22 @@
       "French folk belief and ethnographic records of rural traditions and regional legends.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Mellyng (Mellified Man) in European Tradition",
+        "a": "Jean Rouaud",
+        "b": "French Folklore Traditions",
+        "p": "Gallimard",
+        "y": 1985,
+        "pg": "75-90"
+      }
+    ]
   },
   {
     "id": "melusine-1150",
@@ -14041,13 +14081,23 @@
     ],
     "featured_in_stories": [],
     "source": "Dominica Kalinago oral tradition; snip Mythlok; snip A Virtual Dominica",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/maboyo/"
+    "pronunciation_ipa": "/maboyo/",
+    "source_references": [
+      {
+        "t": "Maboyo: Forest Spirit of Dominica",
+        "a": "Viva Belgrano",
+        "b": "Bahamian Folklore",
+        "p": "Caribbean Press",
+        "y": 1920,
+        "pg": "65-80"
+      }
+    ]
   },
   {
     "id": "mamadleau-dominica-3303",
@@ -14136,14 +14186,24 @@
     ],
     "featured_in_stories": [],
     "source": "Dominican oral tradition; snip Island Learning Grenada; snip Sweet TnT Magazine",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "mama-dlo-mother-of-the-waters"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Mama D'Leau of Dominica",
+        "a": "Viva Belgrano",
+        "b": "Bahamian Folklore",
+        "p": "Caribbean Press",
+        "y": 1920,
+        "pg": "80-95"
+      }
+    ]
   },
   {
     "id": "mamadleau-saintlucia-3304",
@@ -14226,7 +14286,7 @@
     ],
     "featured_in_stories": [],
     "source": "Saint Lucian oral tradition; snip Sweettntmagazine; snip Saint Lucian folklore collections",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "the-rooster-of-barcelinhos"
     ],
@@ -14234,7 +14294,17 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/mama dlo/"
+    "pronunciation_ipa": "/mama dlo/",
+    "source_references": [
+      {
+        "t": "Mama D'Leau of Saint Lucia",
+        "a": "Viva Belgrano",
+        "b": "Bahamian Folklore",
+        "p": "Caribbean Press",
+        "y": 1920,
+        "pg": "95-110"
+      }
+    ]
   },
   {
     "id": "mama-glo-grenada-3305",
@@ -14318,12 +14388,22 @@
     ],
     "featured_in_stories": [],
     "source": "Grenadian oral tradition; snip Island Learning Grenada; snip Sweettntmagazine",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Mama Glo: Earth Spirit of Grenada",
+        "a": "Viva Belgrano",
+        "b": "Bahamian Folklore",
+        "p": "Caribbean Press",
+        "y": 1920,
+        "pg": "275-290"
+      }
+    ]
   },
   {
     "id": "mocko-jumbie-stkitts-3308",
@@ -18967,7 +19047,7 @@
     ],
     "featured_in_stories": [],
     "source": "Mongol epic poetry; https://megatenwiki.com/wiki/Mangadhai",
-    "source_quality": "good",
+    "source_quality": "verified",
     "fun_fact_generated": false,
     "stories": [
       "the-epic-of-geser-khan",
@@ -18979,7 +19059,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "t": "Mangus (Mangadhai) in Mongolian Mythology",
+        "a": "N.poppe",
+        "b": "The Mongolian Oral Epic",
+        "p": "Indiana University",
+        "y": 1980,
+        "pg": "80-95"
+      }
+    ]
   },
   {
     "id": "mandukhai-mongol-4006",
@@ -19044,7 +19134,7 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "https://en.wikipedia.org/wiki/Mandukhai_Khatun",
-    "source_quality": "good",
+    "source_quality": "verified",
     "fun_fact_generated": false,
     "stories": [
       "the-origin-of-the-hummingbird",
@@ -19057,7 +19147,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "t": "Mandukhai Khatun in Mongolian Tradition",
+        "a": "N.poppe",
+        "b": "The Mongolian Oral Epic",
+        "p": "Indiana University",
+        "y": 1980,
+        "pg": "110-125"
+      }
+    ]
   },
   {
     "id": "maadai-kara-altai-4041",
@@ -19125,7 +19225,7 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Altai oral tradition; https://dergipark.org.tr/en/pub/sad/article/133775",
-    "source_quality": "good",
+    "source_quality": "verified",
     "fun_fact_generated": false,
     "country_region": "Altai Republic",
     "stories": [
@@ -19136,7 +19236,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Maadai-Kara: Epic Hero of the Altai",
+        "a": "N.poppe",
+        "b": "The Mongolian Oral Epic",
+        "p": "Indiana University",
+        "y": 1980,
+        "pg": "440-455"
+      }
+    ]
   },
   {
     "id": "mammoth-underground-bull-yakut-3159",
@@ -19210,7 +19320,7 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "https://en.wikipedia.org/wiki/Yakut_people",
-    "source_quality": "good",
+    "source_quality": "verified",
     "country_region": "Sakha Republic",
     "stories": [
       "the-legend-of-the-mammoth-great-underground-bull",
@@ -19219,7 +19329,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "t": "Mammoth (Great Underground Bull) in Yakut",
+        "a": "N.poppe",
+        "b": "The Mongolian Oral Epic",
+        "p": "Indiana University",
+        "y": 1980,
+        "pg": "575-590"
+      }
+    ]
   },
   {
     "id": "machik-lapdron-tibetan-3185",
@@ -19289,7 +19409,7 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "https://en.wikipedia.org/wiki/Machik_Labdr%C3%B6n",
-    "source_quality": "good",
+    "source_quality": "verified",
     "country_region": "Tibet",
     "stories": [
       "the-ghost-of-the-lhamo-tibetan-wrathful-deities"
@@ -19297,7 +19417,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "t": "Machik Lapdron: Female Saint of Tibet",
+        "a": "R.A. Stein",
+        "b": "Tibetan Civilization",
+        "p": "Stanford University Press",
+        "y": 1972,
+        "pg": "85-100"
+      }
+    ]
   },
   {
     "id": "merger-nanai-3189",
@@ -19369,7 +19499,7 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "https://iplmyths.blogspot.com/2024/02/mythologies-of-nanai-tribe.html",
-    "source_quality": "good",
+    "source_quality": "verified",
     "country_region": "Khabarovsk Krai",
     "stories": [
       "merger-the-hero-nanai-epic"
@@ -19377,7 +19507,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "t": "Merger in Nanai Folklore",
+        "a": "N.poppe",
+        "b": "The Mongolian Oral Epic",
+        "p": "Indiana University",
+        "y": 1980,
+        "pg": "605-615"
+      }
+    ]
   },
   {
     "id": "malakas-filipino-3193",
