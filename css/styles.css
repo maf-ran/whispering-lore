@@ -1449,10 +1449,12 @@ nav a.active::after {
   padding: 0.15rem 0.5rem;
   font-family: var(--font-display);
   font-size: 0.55rem;
+  line-height: 1;
   letter-spacing: 0.08em;
   text-transform: uppercase;
   border: 1px solid;
   border-radius: 2px;
+  vertical-align: middle;
 }
 .source-badge--verified {
   color: var(--badge-success);
@@ -1655,10 +1657,12 @@ nav a.active::after {
   padding: 0.15rem 0.5rem;
   font-family: var(--font-display);
   font-size: 0.55rem;
+  line-height: 1;
   letter-spacing: 0.08em;
   text-transform: uppercase;
   border: 1px solid var(--border);
   border-radius: 2px;
+  vertical-align: middle;
 }
 
 .cd-badge--type {
@@ -2993,11 +2997,13 @@ footer p {
   padding: 0.15rem 0.5rem;
   font-family: var(--font-display);
   font-size: 0.55rem;
+  line-height: 1;
   letter-spacing: 0.08em;
   text-transform: uppercase;
   border: 1px solid var(--badge-success);
   color: var(--badge-success);
   border-radius: 2px;
+  vertical-align: middle;
 }
 .live-badge--inactive {
   border-color: var(--text-secondary);
@@ -3010,10 +3016,12 @@ footer p {
   padding: 0.15rem 0.5rem;
   font-family: var(--font-display);
   font-size: 0.55rem;
+  line-height: 1;
   letter-spacing: 0.08em;
   text-transform: uppercase;
   border: 1px solid;
   border-radius: 2px;
+  vertical-align: middle;
 }
 .source-type-badge--oral_tradition {
   color: var(--badge-warning);
