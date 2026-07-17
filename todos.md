@@ -14,7 +14,7 @@
 - [x] T2.2: Stub enrichment - all 245 "Not documented" entries filled with real folklore research (93 full research + 121 name-classified + 11 web-researched: Arwe, Chuhayster, Heitsi-eibib, Sinti Lapitta, Jacky My Lantern, Gewi, Cogaz, etc.)
 - [x] Final end-to-end audit of all 4 tiers for 10/10 compliance (Jul 9)
 - [x] Deep cross-reference audit: 24 checks → 23 pass, 1 informational (Jul 9)
-- [x] Source quality batch upgrades (Jul 17): 11 batches, 1004 creatures → Stage 3+; 32.4% combined coverage
+- [x] Source quality batch upgrades (Jul 17): 12 batches, 1112 creatures → Stage 3+; 34.4% combined coverage
 
 ---
 
