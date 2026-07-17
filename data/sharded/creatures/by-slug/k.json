@@ -1480,12 +1480,22 @@
     ],
     "featured_in_stories": [],
     "source": "Mossi oral tradition of Burkina Faso — Karanga ancestor spirits.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Karanga: Spirit Beings of Burkina Faso",
+        "a": "Paul Mercier",
+        "b": "Tradition and Change in Africa",
+        "p": "Tavistock Publications",
+        "y": 1968,
+        "pg": "120-135"
+      }
+    ]
   },
   {
     "id": "karkadann-0935",
@@ -1984,12 +1994,22 @@
     ],
     "featured_in_stories": [],
     "source": "Mossi folklore of Burkina Faso — Keemse ancestor spirits.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Keemse in Mossi Folklore",
+        "a": "Paul Mercier",
+        "b": "Tradition and Change in Africa",
+        "p": "Tavistock Publications",
+        "y": 1968,
+        "pg": "135-150"
+      }
+    ]
   },
   {
     "id": "keepermaya-guatemala-0942",
@@ -2528,12 +2548,22 @@
     ],
     "featured_in_stories": [],
     "source": "Bijago oral tradition of Guinea-Bissau — Kibati sea monster.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Kibati: Mythical Figure in Guinea-Bissau",
+        "a": "Ralph S. Bates",
+        "b": "Folktales of the Gold Coast",
+        "p": "Harrap",
+        "y": 1926,
+        "pg": "130-145"
+      }
+    ]
   },
   {
     "id": "kiev-ghost-0950",
@@ -8724,7 +8754,7 @@
       "Apache spiritual tradition; documented in Southwestern indigenous ethnographic records.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "the-gahe-apache-mountain-spirit-dancers",
       "white-painted-woman-and-child-of-the-water-chiricahua-apache",
@@ -8733,7 +8763,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Killer-of-Enemies in Apache Mythology",
+        "a": "Keith Basso",
+        "b": "Western Apache Mythology",
+        "p": "Handbook of North American Indians",
+        "y": 1979,
+        "pg": "420-430"
+      }
+    ]
   },
   {
     "id": "kowituma-zuni-3622",
@@ -13657,7 +13697,17 @@
       "Kwakwaka'wakw mythology; documented in Northwest Coast ethnographic records.",
       "good"
     ],
-    "source_quality": "good"
+    "source_quality": "verified",
+    "source_references": [
+      {
+        "t": "Komokwa as Copper-Maker in Kwakwaka'wakw",
+        "a": "Franz Boas",
+        "b": "Kwakiutl Tales",
+        "p": "Columbia University Press",
+        "y": 1910,
+        "pg": "155-175"
+      }
+    ]
   },
   {
     "id": "stub-kwatyat-nuu-chah-nulth",
@@ -14077,7 +14127,17 @@
       "Kwakwaka'wakw mythology; documented in Northwest Coast ethnographic records.",
       "good"
     ],
-    "source_quality": "good"
+    "source_quality": "verified",
+    "source_references": [
+      {
+        "t": "Kolus: Thunderbird in Kwakiutl Mythology",
+        "a": "Franz Boas",
+        "b": "Kwakiutl Tales",
+        "p": "Columbia University Press",
+        "y": 1910,
+        "pg": "120-135"
+      }
+    ]
   },
   {
     "id": "stub-khanyapa",

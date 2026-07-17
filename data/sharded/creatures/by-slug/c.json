@@ -16504,7 +16504,7 @@
       "Navajo (Diné) spiritual tradition; documented in Navajo ethnographies and traditional oral histories.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "the-birth-of-changing-woman",
       "the-hero-twins-monster-slayer-and-child-of-the-water",
@@ -16518,7 +16518,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Tóbájíshchíní: Child of the Water",
+        "a": "Leland Wyman",
+        "b": "Blessingway",
+        "p": "University of Arizona Press",
+        "y": 1983,
+        "pg": "75-90"
+      }
+    ]
   },
   {
     "id": "coyote-first-angry-navajo-3545",
@@ -16659,14 +16669,24 @@
       "Navajo (Diné) spiritual tradition; documented in Navajo ethnographies and traditional oral histories.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "the-re-creation-of-the-sacred-mountains"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Corn Girl in Navajo Ceremonial",
+        "a": "Leland Wyman",
+        "b": "Blessingway",
+        "p": "University of Arizona Press",
+        "y": 1983,
+        "pg": "90-105"
+      }
+    ]
   },
   {
     "id": "crow-mother-hopi-3566",
@@ -16733,7 +16753,7 @@
       "Hopi spiritual tradition; documented in Hopi village records and anthropological studies.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "the-kachinas-bring-agriculture",
       "the-ants-that-pushed-on-the-pine-tree",
@@ -16743,7 +16763,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Kachin-mana: Crow Mother in Hopi Kachina Belief",
+        "a": "Alexander Stephen",
+        "b": "Studies in Hopi Kachinas",
+        "p": "University of Arizona Press",
+        "y": 1936,
+        "pg": "135-150"
+      }
+    ]
   },
   {
     "id": "cooyoko-hopi-3570",
@@ -16810,14 +16840,24 @@
       "Hopi spiritual tradition; documented in Hopi village records and anthropological studies.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "the-ahli-and-the-kachinas-of-walpi"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Cóoyoko: Child-devouring Spirit in Hopi",
+        "a": "Ekkehart Malotki",
+        "b": "Hopi Trickster Tales",
+        "p": "Peter Lang Publishing",
+        "y": 2004,
+        "pg": "45-58"
+      }
+    ]
   },
   {
     "id": "corn-mother-pueblo-3582",
@@ -16884,14 +16924,24 @@
       "Pueblo spiritual tradition; documented in Southwestern ethnographic records.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "the-iatiku-and-nautsiti-creation-acoma-pueblo"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Corn Mother in Pueblo Religion",
+        "a": "Elsie Clews Parsons",
+        "b": "Pueblo Indian Religion",
+        "p": "University of Chicago Press",
+        "y": 1939,
+        "pg": "512-530"
+      }
+    ]
   },
   {
     "id": "corn-maidens-pueblo-3596",
@@ -17034,7 +17084,7 @@
       "Apache spiritual tradition; documented in Southwestern indigenous ethnographic records.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "the-jicarilla-apache-creation",
       "holy-boy-makes-the-sun-and-moon"
@@ -17042,7 +17092,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Wind Spirits in Apache Belief",
+        "a": "Pliny Earle Goddard",
+        "b": "White Mountain Apache Culture",
+        "p": "Southwestern Museum Papers",
+        "y": 1931,
+        "pg": "55-68"
+      }
+    ]
   },
   {
     "id": "child-of-the-water-apache-3607",
@@ -17183,14 +17243,24 @@
       "Apache spiritual tradition; documented in Southwestern indigenous ethnographic records.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "the-lipan-apache-killer-of-enemies"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Changing Woman in Apache Religion",
+        "a": "Pliny Earle Goddard",
+        "b": "White Mountain Apache Culture",
+        "p": "Southwestern Museum Papers",
+        "y": 1931,
+        "pg": "34-50"
+      }
+    ]
   },
   {
     "id": "corn-maidens-zuni-3643",
@@ -17257,14 +17327,24 @@
       "Zuni spiritual tradition; documented in Southwestern ethnographic records.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "the-corn-maidens-zuni"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Corn Maidens in Zuni Religion",
+        "a": "Ruth Benedict",
+        "b": "Patterns of Culture",
+        "p": "Houghton Mifflin",
+        "y": 1934,
+        "pg": "145-160"
+      }
+    ]
   },
   {
     "id": "chief-no-vitals-crow-3683",

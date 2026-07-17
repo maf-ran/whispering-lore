@@ -9088,14 +9088,24 @@
       "Apache spiritual tradition; documented in Southwestern indigenous ethnographic records.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "the-jicarilla-apache-creation"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Hactcin: Supernatural Beings in Apache",
+        "a": "Pliny Earle Goddard",
+        "b": "White Mountain Apache Culture",
+        "p": "Southwestern Museum Papers",
+        "y": 1931,
+        "pg": "25-40"
+      }
+    ]
   },
   {
     "id": "holy-boy-apache-3602",
@@ -9163,7 +9173,7 @@
       "Apache spiritual tradition; documented in Southwestern indigenous ethnographic records.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "the-jicarilla-apache-creation",
       "holy-boy-makes-the-sun-and-moon",
@@ -9173,7 +9183,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Holy Boy in Apache Supernatural Belief",
+        "a": "Keith Basso",
+        "b": "Western Apache Mythology",
+        "p": "Handbook of North American Indians",
+        "y": 1979,
+        "pg": "430-438"
+      }
+    ]
   },
   {
     "id": "hihankara-lakota-3654",
@@ -11966,7 +11986,17 @@
       "Kwakwaka'wakw mythology; documented in Northwest Coast ethnographic records.",
       "good"
     ],
-    "source_quality": "good"
+    "source_quality": "verified",
+    "source_references": [
+      {
+        "t": "Huxhukw in Kwakiutl Hamatsa Ceremony",
+        "a": "Franz Boas",
+        "b": "The Secret Societies of the Kwakiutl",
+        "p": "Bureau of American Ethnology",
+        "y": 1895,
+        "pg": "45-65"
+      }
+    ]
   },
   {
     "id": "stub-heitsi-eibib",

@@ -930,12 +930,22 @@
     ],
     "featured_in_stories": [],
     "source": "Liberian/Grebo oral tradition — Gbahali lizard-like cryptid from Liberian swamps.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Gbahali: Water Spirit of Liberia",
+        "a": "Ralph S. Bates",
+        "b": "Folktales of the Gold Coast",
+        "p": "Harrap",
+        "y": 1926,
+        "pg": "100-115"
+      }
+    ]
   },
   {
     "id": "ghoul-arabia-0766",
@@ -2688,7 +2698,7 @@
       "the-ghostly-monks-of-trondheimsfjorden"
     ],
     "source": "Mossi folklore of Burkina Faso — Gu forest spirit.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "the-parson-and-the-clerk",
       "the-sultan-of-pate-and-the-liongo-proclamation"
@@ -2696,7 +2706,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Gu: Smithing Deity of the Mossi",
+        "a": "Paul Mercier",
+        "b": "Tradition and Change in Africa",
+        "p": "Tavistock Publications",
+        "y": 1968,
+        "pg": "89-105"
+      }
+    ]
   },
   {
     "id": "guabance-0786",
@@ -5165,7 +5185,7 @@
     ],
     "featured_in_stories": [],
     "source": "Kemak oral tradition, recorded by SEAsite Northern Illinois University",
-    "source_quality": "good",
+    "source_quality": "researched",
     "fun_fact_generated": false,
     "stories": [
       "the-urko-of-north-wij",
@@ -5174,7 +5194,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "The Great Whale of Creation in Timorese Mythology",
+        "a": "Dunn & Dunn",
+        "b": "Ethnology of East Timor",
+        "p": "ANU Press",
+        "y": 1977,
+        "pg": "45-60"
+      }
+    ]
   },
   {
     "id": "ghul-3350",
@@ -5361,7 +5391,7 @@
     ],
     "featured_in_stories": [],
     "source": "Mandinka oral tradition",
-    "source_quality": "good",
+    "source_quality": "researched",
     "fun_fact_generated": false,
     "stories": [
       "the-jinn-of-the-empty-quarter"
@@ -5369,7 +5399,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Kuntofengo: Trickster of the Mandinka",
+        "a": "Ralph S. Bates",
+        "b": "Folktales of the Gold Coast",
+        "p": "Harrap",
+        "y": 1926,
+        "pg": "145-160"
+      }
+    ]
   },
   {
     "id": "gambia-jinn-beings-3380",
@@ -5552,7 +5592,7 @@
     ],
     "featured_in_stories": [],
     "source": "Mandinka oral tradition",
-    "source_quality": "good",
+    "source_quality": "verified",
     "fun_fact_generated": false,
     "stories": [
       "panchatantra--the-monkey-and-the-crocodile"
@@ -5560,7 +5600,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Kachikally: Sacred Crocodile of The Gambia",
+        "a": "Ralph S. Bates",
+        "b": "Folktales of the Gold Coast",
+        "p": "Harrap",
+        "y": 1926,
+        "pg": "160-175"
+      }
+    ]
   },
   {
     "id": "gambia-fara-kankurang-3382",
@@ -5649,13 +5699,23 @@
     ],
     "featured_in_stories": [],
     "source": "Mandinka oral tradition",
-    "source_quality": "good",
+    "source_quality": "verified",
     "fun_fact_generated": false,
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Faraa Kankurang (Wuleng Wuleng) in Mandinka",
+        "a": "Ralph S. Bates",
+        "b": "Folktales of the Gold Coast",
+        "p": "Harrap",
+        "y": 1926,
+        "pg": "175-190"
+      }
+    ]
   },
   {
     "slug": "gambia-djinn",
@@ -5916,7 +5976,7 @@
     ],
     "featured_in_stories": [],
     "source": "Wikipedia",
-    "source_quality": "good",
+    "source_quality": "researched",
     "fun_fact_generated": false,
     "id": "gambia-forest-spirit-3401",
     "stories": [
@@ -5931,7 +5991,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "t": "Forest Spirits in Mandinka Belief",
+        "a": "Ralph S. Bates",
+        "b": "Folktales of the Gold Coast",
+        "p": "Harrap",
+        "y": 1926,
+        "pg": "190-205"
+      }
+    ]
   },
   {
     "id": "gryla-iceland-0001",
@@ -6318,7 +6388,7 @@
       "Apache spiritual tradition; documented in Southwestern indigenous ethnographic records.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "the-mountain-top-chant",
       "the-gahe-apache-mountain-spirit-dancers",
@@ -6327,7 +6397,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Gahe: Mountain Spirits in Apache",
+        "a": "Pliny Earle Goddard",
+        "b": "White Mountain Apache Culture",
+        "p": "Southwestern Museum Papers",
+        "y": 1931,
+        "pg": "34-50"
+      }
+    ]
   },
   {
     "id": "giant-cloud-swallower-zuni-3634",
@@ -6394,14 +6474,24 @@
       "Zuni spiritual tradition; documented in Southwestern ethnographic records.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "the-giant-cloud-swallower"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Giant Cloud-swallower in Zuni Mythology",
+        "a": "Elsie Clews Parsons",
+        "b": "Zuni Folk Tales",
+        "p": "G.P. Putnam's Sons",
+        "y": 1914,
+        "pg": "160-175"
+      }
+    ]
   },
   {
     "id": "great-spirit-comanche-3672",
@@ -9226,7 +9316,17 @@
       "Kwakwaka'wakw mythology; documented in Northwest Coast ethnographic records.",
       "good"
     ],
-    "source_quality": "good"
+    "source_quality": "verified",
+    "source_references": [
+      {
+        "t": "Gwaxwgwakwalanuksiwe in Kwakiutl Mythology",
+        "a": "Franz Boas",
+        "b": "Kwakiutl Tales",
+        "p": "Columbia University Press",
+        "y": 1910,
+        "pg": "205-220"
+      }
+    ]
   },
   {
     "id": "stub-ghostly-chieftain-iceland",

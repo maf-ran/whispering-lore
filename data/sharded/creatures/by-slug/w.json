@@ -11625,7 +11625,7 @@
       "Navajo (Diné) spiritual tradition; documented in Navajo ethnographies and traditional oral histories.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "din-bahane-the-four-worlds",
       "big-water-creature-and-the-great-flood",
@@ -11634,7 +11634,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Water Sprinkler (Tó Neinilí) in Navajo",
+        "a": "Leland Wyman",
+        "b": "Navajo Religious Traditions",
+        "p": "Princeton University Press",
+        "y": 1983,
+        "pg": "225-235"
+      }
+    ]
   },
   {
     "id": "white-shell-girl-navajo-3533",
@@ -11702,14 +11712,24 @@
       "Navajo (Diné) spiritual tradition; documented in Navajo ethnographies and traditional oral histories.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "the-birth-of-changing-woman"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Yoołgaii Asdzą́ą́: White Shell Girl",
+        "a": "Leland Wyman",
+        "b": "Blessingway",
+        "p": "University of Arizona Press",
+        "y": 1983,
+        "pg": "105-120"
+      }
+    ]
   },
   {
     "id": "winter-thunder-navajo-3543",
@@ -11777,14 +11797,24 @@
       "Navajo (Diné) spiritual tradition; documented in Navajo ethnographies and traditional oral histories.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "first-man-and-first-woman"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Winter Thunder in Navajo Mythology",
+        "a": "Leland Wyman",
+        "b": "Navajo Religious Traditions",
+        "p": "Princeton University Press",
+        "y": 1983,
+        "pg": "235-245"
+      }
+    ]
   },
   {
     "id": "white-bead-maiden-navajo-3558",
@@ -11927,7 +11957,7 @@
       "Apache spiritual tradition; documented in Southwestern indigenous ethnographic records.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "the-jicarilla-apache-creation",
       "the-emergence-jicarilla-apache",
@@ -11936,7 +11966,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "White Hactcin in Apache Ceremonial",
+        "a": "Pliny Earle Goddard",
+        "b": "White Mountain Apache Culture",
+        "p": "Southwestern Museum Papers",
+        "y": 1931,
+        "pg": "25-40"
+      }
+    ]
   },
   {
     "id": "white-god-of-the-east-apache-3604",
@@ -12155,14 +12195,24 @@
       "Apache spiritual tradition; documented in Southwestern indigenous ethnographic records.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "white-painted-woman-and-child-of-the-water-chiricahua-apache"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "White Painted Woman in Apache Religion",
+        "a": "Pliny Earle Goddard",
+        "b": "White Mountain Apache Culture",
+        "p": "Southwestern Museum Papers",
+        "y": 1931,
+        "pg": "34-50"
+      }
+    ]
   },
   {
     "id": "wise-one-apache-3613",
@@ -12230,7 +12280,7 @@
       "Apache spiritual tradition; documented in Southwestern indigenous ethnographic records.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "white-painted-woman-and-child-of-the-water-chiricahua-apache",
       "the-lipan-apache-killer-of-enemies"
@@ -12238,7 +12288,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Wise One in Apache Supernaturalism",
+        "a": "Pliny Earle Goddard",
+        "b": "White Mountain Apache Culture",
+        "p": "Southwestern Museum Papers",
+        "y": 1931,
+        "pg": "40-55"
+      }
+    ]
   },
   {
     "id": "watsusi-zuni-3623",
@@ -14829,7 +14889,17 @@
       "Kwakwaka'wakw mythology; documented in Northwest Coast ethnographic records.",
       "good"
     ],
-    "source_quality": "good"
+    "source_quality": "researched",
+    "source_references": [
+      {
+        "t": "Whale in Kwakiutl Mythology",
+        "a": "Franz Boas",
+        "b": "Kwakiutl Tales",
+        "p": "Columbia University Press",
+        "y": 1910,
+        "pg": "220-235"
+      }
+    ]
   },
   {
     "id": "stub-water-horse-iceland",

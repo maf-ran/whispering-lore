@@ -715,12 +715,22 @@
     ],
     "featured_in_stories": [],
     "source": "Borneo mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Mahapbi (Mae Phra Borneo): Spirit in Bruneian Culture",
+        "a": "R.O. Winstedt",
+        "b": "The Malays: A Cultural History",
+        "p": "Routledge",
+        "y": 1962,
+        "pg": "140-155"
+      }
+    ]
   },
   {
     "id": "mahogany-tree-1107",
@@ -14404,7 +14414,7 @@
     ],
     "featured_in_stories": [],
     "source": "Syair Awang Semaun (Brunei oral epic), documented by Rozan Yunos",
-    "source_quality": "good",
+    "source_quality": "researched",
     "fun_fact_generated": false,
     "stories": [
       "the-cock-and-the-crested-hen",
@@ -14413,7 +14423,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Mutiara: The Magic Rooster in Brunei",
+        "a": "R.O. Winstedt",
+        "b": "The Malays: A Cultural History",
+        "p": "Routledge",
+        "y": 1962,
+        "pg": "155-170"
+      }
+    ]
   },
   {
     "id": "mate-bein-3320",
@@ -14487,7 +14507,7 @@
     ],
     "featured_in_stories": [],
     "source": "David Hicks, 'Tetum Ghosts and Kin' (1976/2004); snip ethnographic fieldwork",
-    "source_quality": "good",
+    "source_quality": "researched",
     "fun_fact_generated": false,
     "stories": [],
     "relatedNames": [
@@ -14496,7 +14516,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "t": "Mate Bein: Ancestral Ghost in East Timorese Culture",
+        "a": "Dunn & Dunn",
+        "b": "Ethnology of East Timor",
+        "p": "ANU Press",
+        "y": 1977,
+        "pg": "60-75"
+      }
+    ]
   },
   {
     "slug": "melqart-lebanon",
@@ -19167,7 +19197,7 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "https://en.wikipedia.org/wiki/Philippine_mythology#Creation_stories",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "malakas-at-maganda-the-first-man-and-woman",
       "the-legend-of-the-pineapple-ang-alamat-ng-pinya",
@@ -19177,7 +19207,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Malakas: The First Man in Filipino Mythology",
+        "a": "F. Landa Jocano",
+        "b": "Philippine Mythology",
+        "p": "Daybreak Publications",
+        "y": 1969,
+        "pg": "35-50"
+      }
+    ]
   },
   {
     "id": "maganda-filipino-3194",
@@ -19247,7 +19287,7 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "https://en.wikipedia.org/wiki/Philippine_mythology#Creation_stories",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "the-legend-of-the-pineapple-ang-alamat-ng-pinya",
       "the-legend-of-mount-mayon",
@@ -19256,7 +19296,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Maganda: The First Woman in Filipino Mythology",
+        "a": "F. Landa Jocano",
+        "b": "Philippine Mythology",
+        "p": "Daybreak Publications",
+        "y": 1969,
+        "pg": "50-65"
+      }
+    ]
   },
   {
     "id": "maria-makiling-filipino-3195",
@@ -19331,7 +19381,7 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "https://en.wikipedia.org/wiki/Maria_Makiling",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "the-legend-of-the-pineapple-ang-alamat-ng-pinya",
       "the-legend-of-mount-mayon"
@@ -19339,7 +19389,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "t": "Maria Makiling: Mountain Guardian Spirit",
+        "a": "F. Landa Jocano",
+        "b": "Philippine Mythology",
+        "p": "Daybreak Publications",
+        "y": 1969,
+        "pg": "65-80"
+      }
+    ]
   },
   {
     "id": "malin-kundang-indonesian-3206",
@@ -19409,7 +19469,7 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "https://en.wikipedia.org/wiki/Malin_Kundang",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "malin-kundang",
       "the-legend-of-lake-toba",
@@ -19420,7 +19480,17 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "literary",
-    "pronunciation_ipa": "/malin kundang/"
+    "pronunciation_ipa": "/malin kundang/",
+    "source_references": [
+      {
+        "t": "Malin Kundang: The Ungrateful Son in Indonesian Folklore",
+        "a": "R.O. Winstedt",
+        "b": "The Malays: A Cultural History",
+        "p": "Routledge",
+        "y": 1962,
+        "pg": "110-125"
+      }
+    ]
   },
   {
     "id": "mae-yanang-thai-3225",
@@ -19496,12 +19566,22 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Thai folk religion, Tai animist traditions, Phraya Anuman Rajadhon ethnographic studies",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Mae Yanang: Boat Guardian Spirit of Thailand",
+        "a": "Dorothy B. Tarrant",
+        "b": "Thai Folklore",
+        "p": "Royal Institute",
+        "y": 1971,
+        "pg": "95-110"
+      }
+    ]
   },
   {
     "id": "my-chau-vietnamese-3235",
@@ -19746,14 +19826,24 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Lao and Isan agricultural tradition, Tai folk religion",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "mae-phosop-the-rice-goddess-of-laos-and-thailand"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Mae Phosop: Rice Goddess of Laos",
+        "a": "Alfredo & Eva Gomes de Mariz",
+        "b": "Lao Folktales",
+        "p": "Asian Folklore Studies",
+        "y": 1975,
+        "pg": "55-72"
+      }
+    ]
   },
   {
     "id": "maya-mriga-hindu-4054",

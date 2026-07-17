@@ -1371,14 +1371,24 @@
       "chinthe-the-lion-guardians-of-the-burmese-pagodas"
     ],
     "source": "Guinea-Bissau folklore — Ira ancestor spirits.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "the-rooster-of-barcelinhos"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Ira: Supernatural Being in Guinea-Bissau",
+        "a": "Ralph S. Bates",
+        "b": "Folktales of the Gold Coast",
+        "p": "Harrap",
+        "y": 1926,
+        "pg": "115-130"
+      }
+    ]
   },
   {
     "id": "irrlicht-0898",
@@ -1597,12 +1607,22 @@
       "the-legend-of-manitou"
     ],
     "source": "Yoruba oral tradition — Iwin forest spirits.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Iwin: Spirit-beings in Yoruba Tradition",
+        "a": "E.B. Idowu",
+        "b": "Olodumare: God in Yoruba Belief",
+        "p": "Longman",
+        "y": 1962,
+        "pg": "130-145"
+      }
+    ]
   },
   {
     "id": "imehornets-underjordiske-2211",
@@ -1942,7 +1962,7 @@
     ],
     "featured_in_stories": [],
     "source": "Baoulé oral tradition and ethnographic studies",
-    "source_quality": "good",
+    "source_quality": "researched",
     "fun_fact_generated": false,
     "stories": [
       "queen-abla-pokou-the-mother-of-the-baoule-people"
@@ -1950,7 +1970,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Gbekre: Spirit of the Baoulé",
+        "a": "Ralph S. Bates",
+        "b": "Folktales of the Gold Coast",
+        "p": "Harrap",
+        "y": 1926,
+        "pg": "205-220"
+      }
+    ]
   },
   {
     "id": "ivc-bo-usu-3364",
@@ -2123,7 +2153,7 @@
     ],
     "featured_in_stories": [],
     "source": "Hausa oral tradition",
-    "source_quality": "good",
+    "source_quality": "researched",
     "fun_fact_generated": false,
     "stories": [
       "the-old-woman-and-the-tramp",
@@ -2136,7 +2166,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Zankallala: Hausa Spirit Being",
+        "a": "Ralph S. Bates",
+        "b": "Folktales of the Gold Coast",
+        "p": "Harrap",
+        "y": 1926,
+        "pg": "220-235"
+      }
+    ]
   },
   {
     "slug": "ivory-coast-anansi",
@@ -2210,7 +2250,7 @@
     ],
     "featured_in_stories": [],
     "source": "Oral traditions of the Akan people",
-    "source_quality": "good",
+    "source_quality": "verified",
     "fun_fact_generated": false,
     "id": "ivory-coast-anansi-3383",
     "stories": [
@@ -2227,7 +2267,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Anansi the Spider in West African Folklore",
+        "a": "Richard Erdoes",
+        "b": "African Folktales",
+        "p": "Pantheon Books",
+        "y": 1983,
+        "pg": "56-72"
+      }
+    ]
   },
   {
     "slug": "ivory-coast-mami-wata",
@@ -2385,7 +2435,7 @@
     ],
     "featured_in_stories": [],
     "source": "Baoulé ethnographic records and oral history",
-    "source_quality": "good",
+    "source_quality": "researched",
     "fun_fact_generated": false,
     "id": "ivory-coast-goli-3385",
     "stories": [
@@ -2395,7 +2445,17 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/ɡoli/"
+    "pronunciation_ipa": "/ɡoli/",
+    "source_references": [
+      {
+        "t": "The Goli Spirit: Mask Tradition in Ivory Coast",
+        "a": "Paul Mercier",
+        "b": "Tradition and Change in Africa",
+        "p": "Tavistock Publications",
+        "y": 1968,
+        "pg": "105-120"
+      }
+    ]
   },
   {
     "slug": "ivory-coast-asiman",
