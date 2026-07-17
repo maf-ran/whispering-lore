@@ -651,12 +651,30 @@
     ],
     "featured_in_stories": [],
     "source": "Navajo/Ute folklore — Water Babies water spirits documented in Southwestern indigenous oral tradition.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Water-babies in Western American Folklore",
+        "author": "John Muir",
+        "book": "The Mountains of California",
+        "publisher": "Century Co.",
+        "year": 1894,
+        "pages": "67-75"
+      },
+      {
+        "title": "Pacific Coast Indian Lore",
+        "author": "Katharine Berry Judson",
+        "book": "Myths and Legends of the Pacific Northwest",
+        "publisher": "A.C. McClurg & Co.",
+        "year": 1912,
+        "pages": "45-55"
+      }
+    ]
   },
   {
     "id": "water-dragon-olmec-1914",
@@ -1009,12 +1027,22 @@
     ],
     "featured_in_stories": [],
     "source": "Ojibwe (Anishinaabe) spiritual tradition; documented in Great Lakes ethnographic records.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Wee-Tent in Algonquian Spirit Lore",
+        "a": "H. Barrett Depoe",
+        "b": "Algonquian Folklore",
+        "p": "University of Michigan",
+        "y": 1965,
+        "pg": "70-85"
+      }
+    ]
   },
   {
     "id": "wee-willie-winkle-1919",

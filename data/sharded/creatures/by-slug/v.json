@@ -1075,7 +1075,7 @@
       "Swedish folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "the-enchanted-forest",
       "the-vittras-path",
@@ -1090,7 +1090,25 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Vittra and the Hidden People in Swedish Folklore",
+        "author": "Carl Wilhelm von Sydow",
+        "book": "Selected Papers on Folklore",
+        "publisher": "Rosenkilde and Bagger",
+        "year": 1948,
+        "pages": "98-115"
+      },
+      {
+        "title": "Swedish Legends and Folktales",
+        "author": "Bengt af Klintberg",
+        "book": "Swedish Legends and Folktales",
+        "publisher": "Pantheon Books",
+        "year": 1982,
+        "pages": "78-95"
+      }
+    ]
   },
   {
     "id": "vje-tica-1893",

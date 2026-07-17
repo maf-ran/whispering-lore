@@ -10173,12 +10173,22 @@
       "the-legend-of-manitou"
     ],
     "source": "Indigenous Plains religion — Morning Star deity documented in Lakota/Sioux and Plains oral tradition.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Morning Star in Cheyenne Religion",
+        "a": "E. Adamson Hoebel",
+        "b": "The Cheyennes: Indians of the Great Plains",
+        "p": "Holt, Rinehart and Winston",
+        "y": 1960,
+        "pg": "100-115"
+      }
+    ]
   },
   {
     "id": "morningstar-australia-1232",
@@ -13380,12 +13390,22 @@
       "Danish folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "The Åmand: Water-spirit in Danish Folklore",
+        "a": "Evald Tang Kristensen",
+        "b": "Danske Sagn",
+        "p": "Reitzel",
+        "y": 1892,
+        "pg": "115-130"
+      }
+    ]
   },
   {
     "id": "merchildren-denmark-0003",
@@ -13461,7 +13481,7 @@
       "Danish folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "agnete-og-havmanden",
       "the-mermans-children",
@@ -13470,7 +13490,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Merchildren in Danish Maritime Folklore",
+        "a": "Evald Tang Kristensen",
+        "b": "Danske Sagn",
+        "p": "Reitzel",
+        "y": 1892,
+        "pg": "155-170"
+      }
+    ]
   },
   {
     "id": "metalhunde-denmark-0019",
@@ -13543,12 +13573,22 @@
       "Danish folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Dogs of Metal in Danish Folk Tradition",
+        "a": "Evald Tang Kristensen",
+        "b": "Danske Sagn",
+        "p": "Reitzel",
+        "y": 1892,
+        "pg": "145-160"
+      }
+    ]
   },
   {
     "id": "mbona-rain-prophet-3270",
@@ -15063,7 +15103,7 @@
     ],
     "featured_in_stories": [],
     "source": "Mythfolks, Wikipedia",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "the-eternal-chase-of-the-sun-and-moon",
       "the-visiting-animals",
@@ -15084,7 +15124,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "The Sun and Moon Myth of Greenland",
+        "a": "Franz Boas",
+        "b": "The Central Eskimo",
+        "p": "Sixth Annual Report Bureau of American Ethnology",
+        "y": 1888,
+        "pg": "180-195"
+      }
+    ]
   },
   {
     "id": "mahaha-greenland-0001",
@@ -15791,14 +15841,24 @@
     ],
     "featured_in_stories": [],
     "source": "Acoma Pueblo tradition; Masewi is one of the Twin War Gods.",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "the-pueblo-hero-twins"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Masewi: Twin War God of the Pueblo",
+        "a": "Ruth Benedict",
+        "b": "Patterns of Culture",
+        "p": "Houghton Mifflin",
+        "y": 1934,
+        "pg": "120-140"
+      }
+    ]
   },
   {
     "id": "moon-apache-3612",

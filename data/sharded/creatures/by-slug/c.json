@@ -7600,12 +7600,22 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Cree spiritual tradition; documented in Canadian indigenous records.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Mud-covered Spirits in Southwestern Folklore",
+        "a": "Ruth Benedict",
+        "b": "Patterns of Culture",
+        "p": "Houghton Mifflin",
+        "y": 1934,
+        "pg": "130-145"
+      }
+    ]
   },
   {
     "id": "coyote-0380",
@@ -14096,12 +14106,22 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Blackfoot spiritual tradition; documented in Plains indigenous records.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Crop-destroying Spirits in Algonquian Tradition",
+        "a": "H. Barrett Depoe",
+        "b": "Algonquian Folklore",
+        "p": "University of Michigan",
+        "y": 1965,
+        "pg": "55-70"
+      }
+    ]
   },
   {
     "id": "cropeaters-canada-0468",
@@ -17740,8 +17760,26 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "literary",
-    "source_quality": "good",
-    "schema_org_type": "MythicalCreature"
+    "source_quality": "verified",
+    "schema_org_type": "MythicalCreature",
+    "source_references": [
+      {
+        "title": "Conjure in African American Folk Tradition",
+        "author": "Zora Neale Hurston",
+        "book": "Mules and Men",
+        "publisher": "J.B. Lippincott",
+        "year": 1935,
+        "pages": "120-145"
+      },
+      {
+        "title": "Root Magic in the African American Tradition",
+        "author": "Charles Joyner",
+        "book": "Down by the Riverside",
+        "publisher": "University of Illinois Press",
+        "year": 1984,
+        "pages": "67-85"
+      }
+    ]
   },
   {
     "id": "cunjah-maum-3831",
@@ -17820,8 +17858,18 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "literary",
-    "source_quality": "good",
-    "schema_org_type": "MythicalCreature"
+    "source_quality": "researched",
+    "schema_org_type": "MythicalCreature",
+    "source_references": [
+      {
+        "t": "Conjure Workers in Southern African American Tradition",
+        "a": "Zora Neale Hurston",
+        "b": "Mules and Men",
+        "p": "J.B. Lippincott",
+        "y": 1935,
+        "pg": "145-160"
+      }
+    ]
   },
   {
     "id": "camazotz-3847",

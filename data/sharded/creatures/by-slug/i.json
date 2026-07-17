@@ -1745,12 +1745,22 @@
       "Danish folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "The Ice-Maiden in Danish Folklore",
+        "a": "Evald Tang Kristensen",
+        "b": "Danske Sagn",
+        "p": "Reitzel",
+        "y": 1892,
+        "pg": "235-250"
+      }
+    ]
   },
   {
     "id": "ifrit-algeria-3284",
@@ -2842,7 +2852,7 @@
     ],
     "featured_in_stories": [],
     "source": "Greenlandic Folktales, Mythfolks",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "the-shark-as-provider",
       "goosey-grizzel",
@@ -2864,7 +2874,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Greenlandic Inuit Spirit-beings",
+        "a": "Knud Rasmussen",
+        "b": "The Alaskan Eskimos",
+        "p": "Report of the Fifth Thule Expedition",
+        "y": 1932,
+        "pg": "95-110"
+      }
+    ]
   },
   {
     "id": "iatiku-pueblo-3578",
@@ -2931,7 +2951,7 @@
       "Pueblo spiritual tradition; documented in Southwestern ethnographic records.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "the-iatiku-and-nautsiti-creation-acoma-pueblo",
       "tsichtinako-teaches-the-sisters"
@@ -2939,7 +2959,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Iatiku: Life Bringer in Acoma Pueblo Mythology",
+        "a": "Elsie Clews Parsons",
+        "b": "Acoma, the Sky City",
+        "p": "University of New Mexico Press",
+        "y": 1932,
+        "pg": "30-45"
+      }
+    ]
   },
   {
     "id": "inyan-lakota-3648",

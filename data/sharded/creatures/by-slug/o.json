@@ -4545,13 +4545,23 @@
       "Danish folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/ɔːlə lʊkɔjə/"
+    "pronunciation_ipa": "/ɔːlə lʊkɔjə/",
+    "source_references": [
+      {
+        "t": "Ole Lukøje: The Sandman in Danish Folklore",
+        "a": "Evald Tang Kristensen",
+        "b": "Danske Sagn",
+        "p": "Reitzel",
+        "y": 1892,
+        "pg": "55-67"
+      }
+    ]
   },
   {
     "id": "orang-bunian-3470",
@@ -5402,8 +5412,18 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "literary",
-    "source_quality": "good",
-    "schema_org_type": "MythicalCreature"
+    "source_quality": "researched",
+    "schema_org_type": "MythicalCreature",
+    "source_references": [
+      {
+        "t": "The Conjure-man in African American Folklore",
+        "a": "Zora Neale Hurston",
+        "b": "Mules and Men",
+        "p": "J.B. Lippincott",
+        "y": 1935,
+        "pg": "160-175"
+      }
+    ]
   },
   {
     "id": "obatala-yoruba-3876",

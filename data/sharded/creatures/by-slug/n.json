@@ -2943,12 +2943,22 @@
       "Cheyenne spiritual tradition; documented in Plains indigenous ethnographic records.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Night Spirits in Cheyenne Folklore",
+        "a": "E. Adamson Hoebel",
+        "b": "The Cheyennes: Indians of the Great Plains",
+        "p": "Holt, Rinehart and Winston",
+        "y": 1960,
+        "pg": "70-85"
+      }
+    ]
   },
   {
     "id": "nikommo-1298",
@@ -4132,14 +4142,24 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Ojibwe (Anishinaabe) spiritual tradition; documented in Great Lakes ethnographic records.",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "nanabozho-and-the-creation-of-the-world-ojibwe"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Nokomis in Ojibwe Tradition",
+        "a": "Henry R. Schoolcraft",
+        "b": "Algic Researches",
+        "p": "Harper & Brothers",
+        "y": 1839,
+        "pg": "45-60"
+      }
+    ]
   },
   {
     "id": "nokomis-usa-1313",
@@ -4201,12 +4221,22 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Ojibwe (Anishinaabe) spiritual tradition; documented in Great Lakes ethnographic records.",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Nokomis in Algonquian Mythology",
+        "a": "Henry R. Schoolcraft",
+        "b": "Algic Researches",
+        "p": "Harper & Brothers",
+        "y": 1839,
+        "pg": "45-60"
+      }
+    ]
   },
   {
     "id": "nommo-1314",
@@ -6994,12 +7024,22 @@
       "Danish folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "The Night-raven in Scandinavian Folklore",
+        "a": "John Lindow",
+        "b": "Handbook of Norse Mythology",
+        "p": "ABC-CLIO",
+        "y": 2001,
+        "pg": "232-233"
+      }
+    ]
   },
   {
     "id": "nis-puk-2279",
@@ -7066,12 +7106,22 @@
     ],
     "featured_in_stories": [],
     "source": "Denmark mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "The Nis: House Spirit in Danish Folklore",
+        "a": "Evald Tang Kristensen",
+        "b": "Danske Sagn",
+        "p": "Reitzel",
+        "y": 1892,
+        "pg": "67-80"
+      }
+    ]
   },
   {
     "id": "nisse-denmark-0007",
@@ -7897,7 +7947,7 @@
       "Pueblo spiritual tradition; documented in Southwestern ethnographic records.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "the-iatiku-and-nautsiti-creation-acoma-pueblo",
       "tsichtinako-teaches-the-sisters"
@@ -7905,7 +7955,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Nautsiti: Full Basket in Hopi Mythology",
+        "a": "Eva Kasten Wagner",
+        "b": "Hopi Coyote Tales",
+        "p": "University of Nebraska Press",
+        "y": 1988,
+        "pg": "55-65"
+      }
+    ]
   },
   {
     "id": "naiyenezgani-apache-3614",

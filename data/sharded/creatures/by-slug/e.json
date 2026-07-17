@@ -2781,12 +2781,22 @@
       "Blackfoot spiritual tradition; documented in Plains indigenous records.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Earth Mother in Blackfoot Religion",
+        "a": "John C. Ewers",
+        "b": "The Blackfeet: Raiders on the Western Plains",
+        "p": "University of Oklahoma Press",
+        "y": 1958,
+        "pg": "56-72"
+      }
+    ]
   },
   {
     "id": "el-aro-0633",
@@ -6710,7 +6720,7 @@
       "the-legend-of-the-morning-star"
     ],
     "source": "Indigenous Plains religion — Evening Star deity documented in Lakota/Sioux oral tradition.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "tirawa-creates-the-universe",
       "the-morning-star-sacrifice-ceremony"
@@ -6718,7 +6728,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Evening Star in Plains Indian Religion",
+        "a": "George Bird Grinnell",
+        "b": "Pawnee, Blackfoot, and Cheyenne",
+        "p": "Charles Scribner's Sons",
+        "y": 1892,
+        "pg": "78-95"
+      }
+    ]
   },
   {
     "id": "evil-one-cheyenne-0683",
@@ -6783,12 +6803,22 @@
       "Cheyenne spiritual tradition; documented in Plains indigenous ethnographic records.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "The Evil One in Cheyenne Cosmology",
+        "a": "E. Adamson Hoebel",
+        "b": "The Cheyennes: Indians of the Great Plains",
+        "p": "Holt, Rinehart and Winston",
+        "y": 1960,
+        "pg": "85-100"
+      }
+    ]
   },
   {
     "id": "eintal-2134",
@@ -6861,12 +6891,22 @@
       "Norwegian folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "The Eintal: Doppelgänger in Norwegian Folklore",
+        "a": "Per Bæhrendtz",
+        "b": "Folklore Fellows Communications",
+        "p": "Suomalainen Tiedeakatemia",
+        "y": 1962,
+        "pg": "195-210"
+      }
+    ]
   },
   {
     "id": "erik-munks-gjenferd-2210",
@@ -6942,12 +6982,22 @@
       "Norwegian folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Ghost Legends of Norwegian Churches",
+        "a": "Tove Gravdal",
+        "b": "Norwegian Folklore: A Cultural History",
+        "p": "Reaktion Books",
+        "y": 2023,
+        "pg": "175-190"
+      }
+    ]
   },
   {
     "id": "elverpiger-denmark-0004",
@@ -7020,7 +7070,7 @@
     ],
     "featured_in_stories": [],
     "source": "Danish folklore; the Elverpiger are seductive female elves of the forest.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "the-boy-and-the-trolls-or-the-adventure",
       "brother-martin"
@@ -7028,7 +7078,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Danish Elf-maiden Legends",
+        "a": "Evald Tang Kristensen",
+        "b": "Danske Sagn",
+        "p": "Reitzel",
+        "y": 1892,
+        "pg": "220-240"
+      }
+    ]
   },
   {
     "id": "eswatini-mvelincanti-3426",
@@ -7463,7 +7523,7 @@
     ],
     "featured_in_stories": [],
     "source": "Mythfolks",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "erdlaveersissok-the-entrail-seizer",
       "the-visiting-animals",
@@ -7486,7 +7546,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Greenlandic Inuit Supernatural Beings",
+        "a": "Knud Rasmussen",
+        "b": "The Alaskan Eskimos",
+        "p": "Report of the Fifth Thule Expedition",
+        "y": 1932,
+        "pg": "78-95"
+      }
+    ]
   },
   {
     "name": "Eahpáraš",

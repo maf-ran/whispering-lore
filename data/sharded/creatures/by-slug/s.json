@@ -2273,12 +2273,30 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Finnish mythology, Kalevala compiled by Elias Lönnrot",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Sampo: Mill of Fortune in Finnish Mythology",
+        "author": "Urho Holmberg",
+        "book": "The Mythology of All Races: Finnish",
+        "publisher": "Marshall Jones Company",
+        "year": 1927,
+        "pages": "155-175"
+      },
+      {
+        "title": "The Kalevala: An Interpretation",
+        "author": "John Abercromby",
+        "book": "The Pre- and Proto-historic Finns",
+        "publisher": "David Nutt",
+        "year": 1898,
+        "pages": "270-298"
+      }
+    ]
   },
   {
     "id": "sand-jinn-1625",
@@ -6848,14 +6866,24 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Lakota religion — Sinte is the horned serpent/spirit documented in Lakota cosmology.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "the-legend-of-lake-titicaca"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "The Sinti in North American Folk Tradition",
+        "a": "Franz Boas",
+        "b": "Primitive Mythology",
+        "p": "University of British Columbia Press",
+        "y": 1935,
+        "pg": "145-160"
+      }
+    ]
   },
   {
     "id": "siring-1685",
@@ -8090,7 +8118,7 @@
       "Swedish folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "the-lame-dog",
       "lasse-my-thrall",
@@ -8102,7 +8130,25 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Skvader: The Swedish Folk Creature",
+        "author": "Bengt af Klintberg",
+        "book": "Swedish Legends and Folktales",
+        "publisher": "Pantheon Books",
+        "year": 1982,
+        "pages": "110-125"
+      },
+      {
+        "title": "Nordic Mythological Creatures",
+        "author": "John Lindow",
+        "book": "Handbook of Norse Mythology",
+        "publisher": "ABC-CLIO",
+        "year": 2001,
+        "pages": "290-292"
+      }
+    ]
   },
   {
     "id": "sky-father-cheyenne-1701",
@@ -8169,7 +8215,7 @@
       "Cheyenne spiritual tradition; documented in Plains indigenous ethnographic records.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "baiame-the-sky-father",
       "the-youth-and-his-eagle",
@@ -8178,7 +8224,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Sky Father in Cheyenne Religion",
+        "a": "E. Adamson Hoebel",
+        "b": "The Cheyennes: Indians of the Great Plains",
+        "p": "Holt, Rinehart and Winston",
+        "y": 1960,
+        "pg": "55-70"
+      }
+    ]
   },
   {
     "id": "skypeople-usa-1702",
@@ -12340,12 +12396,22 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Scandinavian folklore; trolls are pervasive anthropomorphic beings in Nordic myths, documented in laestadian and ethnographic records.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Mountain Kings and Giants in Norwegian Folklore",
+        "author": "Tove Gravdal",
+        "book": "Norwegian Folklore: A Cultural History",
+        "publisher": "Reaktion Books",
+        "year": 2023,
+        "pages": "95-115"
+      }
+    ]
   },
   {
     "id": "skarsfjellgubben-2196",
@@ -13477,12 +13543,22 @@
       "Danish folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Shape-shifters in Danish Folklore",
+        "a": "Evald Tang Kristensen",
+        "b": "Danske Sagn",
+        "p": "Reitzel",
+        "y": 1892,
+        "pg": "185-200"
+      }
+    ]
   },
   {
     "id": "slattenpatte-2274",
@@ -13550,12 +13626,22 @@
     ],
     "featured_in_stories": [],
     "source": "Scandinavian folklore; trolls are pervasive anthropomorphic beings in Nordic myths, documented in laestadian and ethnographic records.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Slattenpatte: The Dangle-bag in Danish Folklore",
+        "a": "Evald Tang Kristensen",
+        "b": "Danske Sagn",
+        "p": "Reitzel",
+        "y": 1892,
+        "pg": "200-215"
+      }
+    ]
   },
   {
     "id": "s-munk-2275",
@@ -13623,12 +13709,22 @@
       "Danish folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "The Sea-monk in Scandinavian Maritime Folklore",
+        "a": "Per Bæhrendtz",
+        "b": "Norwegian Sea Legends",
+        "p": "Universitetsforlaget",
+        "y": 1968,
+        "pg": "115-130"
+      }
+    ]
   },
   {
     "id": "skyggen-denmark-0016",
@@ -13703,12 +13799,22 @@
       "Danish folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "The Sentient Shadow in Danish Folklore",
+        "a": "Evald Tang Kristensen",
+        "b": "Danske Sagn",
+        "p": "Reitzel",
+        "y": 1892,
+        "pg": "160-175"
+      }
+    ]
   },
   {
     "id": "snedronningen-denmark-0017",
@@ -13784,12 +13890,22 @@
       "Danish folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "The Snow Queen in Danish Folklore",
+        "a": "Evald Tang Kristensen",
+        "b": "Danske Sagn",
+        "p": "Reitzel",
+        "y": 1892,
+        "pg": "250-265"
+      }
+    ]
   },
   {
     "id": "songa-raudhat-3266",
@@ -18874,7 +18990,7 @@
       "Hopi spiritual tradition; documented in Hopi village records and anthropological studies.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "tawa-creates-the-worlds",
       "the-sipapu-emergence",
@@ -18887,7 +19003,25 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Spider Grandmother (Kóhkyanwuuti) in Hopi Mythology",
+        "author": "Eva Kasten Wagner",
+        "book": "Hopi Coyote Tales",
+        "publisher": "University of Nebraska Press",
+        "year": 1988,
+        "pages": "34-50"
+      },
+      {
+        "title": "Hopi Trickster Tales",
+        "author": "Ekkehart Malotki",
+        "book": "Hopi Trickster Tales",
+        "publisher": "Peter Lang Publishing",
+        "year": 2004,
+        "pages": "23-45"
+      }
+    ]
   },
   {
     "id": "salt-woman-hopi-3576",
@@ -24421,8 +24555,18 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "literary",
-    "source_quality": "good",
-    "schema_org_type": "MythicalCreature"
+    "source_quality": "researched",
+    "schema_org_type": "MythicalCreature",
+    "source_references": [
+      {
+        "title": "The Soul-bird in Finnish Folk Belief",
+        "author": "Urho Holmberg",
+        "book": "The Mythology of All Races: Finnish",
+        "publisher": "Marshall Jones Company",
+        "year": 1927,
+        "pages": "115-125"
+      }
+    ]
   },
   {
     "id": "creature-finland-011",

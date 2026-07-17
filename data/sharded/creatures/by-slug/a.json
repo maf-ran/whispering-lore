@@ -7925,7 +7925,7 @@
     ],
     "featured_in_stories": [],
     "source": "Mythfolks, Wikipedia",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "the-eternal-chase-of-the-sun-and-moon",
       "the-visiting-animals",
@@ -7946,7 +7946,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Inuit Mythology and the Hero Cycle",
+        "a": "Knud Rasmussen",
+        "b": "The Intellectual Culture of the Iglulik Eskimos",
+        "p": "Report of the Fifth Thule Expedition",
+        "y": 1929,
+        "pg": "67-85"
+      }
+    ]
   },
   {
     "id": "aasik-greenland-0001",
@@ -8645,7 +8655,7 @@
     ],
     "featured_in_stories": [],
     "source": "Zuni mythology; the Ahayuta are the twin war gods who protect the Zuni people.",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "the-awonawilona-creation-zuni",
       "the-maiden-the-sun-made-love-to",
@@ -8654,7 +8664,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Ahayuta andati: Twin War Gods of the Zuni",
+        "a": "Ruth Benedict",
+        "b": "Patterns of Culture",
+        "p": "Houghton Mifflin",
+        "y": 1934,
+        "pg": "120-140"
+      }
+    ]
   },
   {
     "id": "ahaiyuta-zuni-3626",

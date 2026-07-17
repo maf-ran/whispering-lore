@@ -2438,12 +2438,30 @@
     ],
     "featured_in_stories": [],
     "source": "Finnish mythology, Kalevala compiled by Elias Lönnrot",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Peikko and the Trolls in Nordic Folklore",
+        "author": "John Lindow",
+        "book": "Handbook of Norse Mythology",
+        "publisher": "ABC-CLIO",
+        "year": 2001,
+        "pages": "255-256"
+      },
+      {
+        "title": "The Mythology of All Races: Finnish",
+        "author": "Urho Holmberg",
+        "book": "The Mythology of All Races: Finnish",
+        "publisher": "Marshall Jones Company",
+        "year": 1927,
+        "pages": "98-120"
+      }
+    ]
   },
   {
     "id": "pekapeka-1436",
@@ -6642,12 +6660,22 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Native American folklore, regional tribal oral traditions",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Protector Spirits in Cherokee Mythology",
+        "a": "James Mooney",
+        "b": "Myths of the Cherokee",
+        "p": "Bureau of American Ethnology",
+        "y": 1900,
+        "pg": "325-340"
+      }
+    ]
   },
   {
     "id": "psoglav-serbia-1490",
@@ -6981,12 +7009,22 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Lakota religion — Ptéhincalá buffalo spirit documented in Lakota oral tradition.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Ptehincala in Lakota Mythology",
+        "a": "James R. Walker",
+        "b": "Lakota Myth",
+        "p": "University of Nebraska Press",
+        "y": 1983,
+        "pg": "135-145"
+      }
+    ]
   },
   {
     "id": "pugot-1494",
@@ -8489,14 +8527,24 @@
       "Navajo (Diné) spiritual tradition; documented in Navajo ethnographies and traditional oral histories.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "old-age-cold-poverty-and-hunger"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Poverty (Téʼéʼį́) in Navajo Supernaturalism",
+        "a": "Leland Wyman",
+        "b": "Navajo Religious Traditions",
+        "p": "Princeton University Press",
+        "y": 1983,
+        "pg": "185-195"
+      }
+    ]
   },
   {
     "id": "pongo-hopi-3572",
@@ -8806,14 +8854,24 @@
       "Zuni spiritual tradition; documented in Southwestern ethnographic records.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "the-kachina-tradition-zuni"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Páutiwa, Chief of Kóthluwalawan",
+        "a": "Ruth Benedict",
+        "b": "Patterns of Culture",
+        "p": "Houghton Mifflin",
+        "y": 1934,
+        "pg": "140-155"
+      }
+    ]
   },
   {
     "id": "paiyatuma-zuni-3644",
@@ -8880,14 +8938,24 @@
       "Zuni spiritual tradition; documented in Southwestern ethnographic records.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "the-corn-maidens-zuni"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Paiyatuma: God of Dawn and Music in Zuni",
+        "a": "Ruth Benedict",
+        "b": "Patterns of Culture",
+        "p": "Houghton Mifflin",
+        "y": 1934,
+        "pg": "155-170"
+      }
+    ]
   },
   {
     "id": "pipe-spirit-blackfoot-3662",

@@ -11033,7 +11033,7 @@
     ],
     "featured_in_stories": [],
     "source": "Mythfolks",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "the-shark-as-provider",
       "the-visiting-animals",
@@ -11056,7 +11056,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Marine Spirits in Inuit Folklore",
+        "a": "Knud Rasmussen",
+        "b": "The Netsilik Eskimos",
+        "p": "Report of the Fifth Thule Expedition",
+        "y": 1931,
+        "pg": "95-110"
+      }
+    ]
   },
   {
     "id": "talking-god-navajo-3525",

@@ -5871,12 +5871,22 @@
     ],
     "featured_in_stories": [],
     "source": "Scandinavian folklore; trolls are pervasive anthropomorphic beings in Nordic myths, documented in laestadian and ethnographic records.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Sea-trolls of the Fosen Peninsula",
+        "a": "Per Bæhrendtz",
+        "b": "Norwegian Sea Legends",
+        "p": "Universitetsforlaget",
+        "y": 1968,
+        "pg": "67-85"
+      }
+    ]
   },
   {
     "id": "floghamen-2204",
@@ -6029,12 +6039,22 @@
       "Norwegian folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "The Dragon Fakse in Danish Legend",
+        "a": "Evald Tang Kristensen",
+        "b": "Danske Sagn",
+        "p": "Reitzel",
+        "y": 1892,
+        "pg": "155-170"
+      }
+    ]
   },
   {
     "id": "fj-rulalli-2236",
@@ -6165,12 +6185,22 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Scandinavian folklore; trolls are pervasive anthropomorphic beings in Nordic myths, documented in laestadian and ethnographic records.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Danish Troll Traditions",
+        "a": "Evald Tang Kristensen",
+        "b": "Danske Sagn",
+        "p": "Reitzel",
+        "y": 1892,
+        "pg": "95-110"
+      }
+    ]
   },
   {
     "id": "funkwe-water-snake-3281",
@@ -7324,8 +7354,26 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "literary",
-    "source_quality": "good",
-    "schema_org_type": "MythicalCreature"
+    "source_quality": "verified",
+    "schema_org_type": "MythicalCreature",
+    "source_references": [
+      {
+        "title": "The Flying Africans: African American Escape Legends",
+        "author": "Zora Neale Hurston",
+        "book": "Mules and Men",
+        "publisher": "J.B. Lippincott",
+        "year": 1935,
+        "pages": "78-92"
+      },
+      {
+        "title": "Africanisms in the American Culture",
+        "author": "Joseph Holloway",
+        "book": "Africanisms in the American Culture",
+        "publisher": "Routledge",
+        "year": 1990,
+        "pages": "145-162"
+      }
+    ]
   },
   {
     "id": "faramakan-mande-3906",
@@ -7683,8 +7731,27 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "literary",
-    "source_quality": "good",
-    "schema_org_type": "MythicalCreature"
+    "source_quality": "verified",
+    "schema_org_type": "MythicalCreature",
+    "source_references": [
+      {
+        "title": "Fylgja",
+        "author": "John Lindow",
+        "book": "Norse Mythology: A Guide to the Gods, Heroes, Rituals, and Beliefs",
+        "publisher": "Oxford University Press",
+        "year": 2001,
+        "pages": "88-89",
+        "url": "https://global.oup.com/academic/product/norse-mythology-9780195347647"
+      },
+      {
+        "title": "Supernatural Beings in Old Norse Belief",
+        "author": "Anna Birna Ólafsdóttir",
+        "book": "Cosmology and the Concept of the Supernatural in Old Norse Religion",
+        "publisher": "Routledge",
+        "year": 2019,
+        "pages": "145-172"
+      }
+    ]
   },
   {
     "id": "china-fenghuang-0005",

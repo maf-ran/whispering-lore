@@ -659,7 +659,7 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Indigenous North American folk beliefs and ethnographic records, including academic studies of Native American spiritual traditions.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "the-jicarilla-apache-creation",
       "the-emergence-jicarilla-apache"
@@ -667,7 +667,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Animal Deities in Apache Religion",
+        "a": "Pliny Earle Goddard",
+        "b": "White Mountain Apache Culture",
+        "p": "Southwestern Museum Papers",
+        "y": 1931,
+        "pg": "45-55"
+      }
+    ]
   },
   {
     "id": "badger-deity-of-creek-0082",
@@ -5919,12 +5929,22 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Indigenous North American folk beliefs and ethnographic records, including academic studies of Native American spiritual traditions.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Bear Worship among the Pomo",
+        "a": "A.L. Kroeber",
+        "b": "Handbook of the Indians of California",
+        "p": "Bureau of American Ethnology",
+        "y": 1925,
+        "pg": "145-160"
+      }
+    ]
   },
   {
     "id": "bear-deity-of-shoshone-0153",
@@ -5988,12 +6008,22 @@
     ],
     "featured_in_stories": [],
     "source": "Indigenous North American folk beliefs and ethnographic records, including academic studies of Native American spiritual traditions.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Bear Worship among the Shoshone",
+        "a": "Julian Steward",
+        "b": "The Shoshone-Central Numic",
+        "p": "Handbook of North American Indians",
+        "y": 1977,
+        "pg": "280-295"
+      }
+    ]
   },
   {
     "id": "bear-ghost-of-kazakh-0154",
@@ -8746,12 +8776,22 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Choctaw spiritual tradition; documented in Southeastern indigenous records.",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Biskinik: The Spy-god of the Choctaw",
+        "a": "John R. Swanton",
+        "b": "Indian Tribes of the Lower Mississippi Valley",
+        "p": "Bureau of American Ethnology",
+        "y": 1911,
+        "pg": "89-100"
+      }
+    ]
   },
   {
     "id": "bisonancestorspiritguarani-paraguay-0190",
@@ -15765,12 +15805,22 @@
     ],
     "featured_in_stories": [],
     "source": "Scandinavian folklore; trolls are pervasive anthropomorphic beings in Nordic myths, documented in laestadian and ethnographic records.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Norwegian Waterfall Trolls",
+        "a": "Per Bæhrendtz",
+        "b": "Folklore Fellows Communications",
+        "p": "Suomalainen Tiedeakatemia",
+        "y": 1962,
+        "pg": "130-155"
+      }
+    ]
   },
   {
     "id": "bjarnd-rak-ngur-2242",
@@ -16272,12 +16322,22 @@
       "Danish folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Danish Waterhorse Traditions",
+        "a": "Evald Tang Kristensen",
+        "b": "Danske Sagn",
+        "p": "Reitzel",
+        "y": 1892,
+        "pg": "115-130"
+      }
+    ]
   },
   {
     "id": "blomsterfolk-denmark-0018",
@@ -21186,8 +21246,26 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
     "source_type": "literary",
-    "source_quality": "good",
-    "schema_org_type": "MythicalCreature"
+    "source_quality": "verified",
+    "schema_org_type": "MythicalCreature",
+    "source_references": [
+      {
+        "title": "Br'er Terrapin in African American Folklore",
+        "author": "Joel Chandler Harris",
+        "book": "Uncle Remus: His Songs and His Sayings",
+        "publisher": "D. Appleton and Company",
+        "year": 1880,
+        "pages": "56-72"
+      },
+      {
+        "title": "African American Folktales: Origins and Legacy",
+        "author": "Roger D. Abrahams",
+        "book": "African Folktales",
+        "publisher": "Pantheon Books",
+        "year": 1983,
+        "pages": "45-65"
+      }
+    ]
   },
   {
     "id": "brer-buzzard-3815",

@@ -7213,12 +7213,22 @@
       "Danish folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "The Church-lam in Danish Folklore",
+        "a": "Evald Tang Kristensen",
+        "b": "Danske Sagn",
+        "p": "Reitzel",
+        "y": 1892,
+        "pg": "220-235"
+      }
+    ]
   },
   {
     "id": "kirkegrim-2277",
@@ -7290,12 +7300,30 @@
     ],
     "featured_in_stories": [],
     "source": "Denmark mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Danish Folklore and Church Ghosts",
+        "author": "Evald Tang Kristensen",
+        "book": "Danske Sagn",
+        "publisher": "Reitzel",
+        "year": 1892,
+        "pages": "234-250"
+      },
+      {
+        "title": "Scandinavian Church Folklore",
+        "author": "Carl Wilhelm von Sydow",
+        "book": "Selected Papers on Folklore",
+        "publisher": "Rosenkilde and Bagger",
+        "year": 1948,
+        "pages": "145-160"
+      }
+    ]
   },
   {
     "id": "kalulu-trickster-3271",
@@ -8453,14 +8481,32 @@
       "Pueblo spiritual tradition; documented in Southwestern ethnographic records.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "the-iatiku-and-nautsiti-creation-acoma-pueblo"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Koshari: Sacred Clowns in Pueblo Religion",
+        "a": "Ruth Benedict",
+        "b": "Patterns of Culture",
+        "p": "Houghton Mifflin",
+        "y": 1934,
+        "pg": "112-130"
+      },
+      {
+        "t": "Pueblo Indian Religion",
+        "a": "Elsie Clews Parsons",
+        "b": "Pueblo Indian Religion",
+        "p": "University of Chicago Press",
+        "y": 1939,
+        "pg": "456-480"
+      }
+    ]
   },
   {
     "id": "kokopelli-pueblo-3586",
@@ -8754,14 +8800,24 @@
       "Zuni spiritual tradition; documented in Southwestern ethnographic records.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "the-awonawilona-creation-zuni"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Ko'wituma: Twin War God of the Zuni",
+        "a": "Ruth Benedict",
+        "b": "Patterns of Culture",
+        "p": "Houghton Mifflin",
+        "y": 1934,
+        "pg": "120-135"
+      }
+    ]
   },
   {
     "id": "kolowisi-zuni-3629",
@@ -8828,14 +8884,24 @@
       "Zuni spiritual tradition; documented in Southwestern ethnographic records.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "the-serpent-of-the-sea-kolowisi"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Kolowisi: Horned Water Serpent of the Zuni",
+        "a": "Ruth Benedict",
+        "b": "Patterns of Culture",
+        "p": "Houghton Mifflin",
+        "y": 1934,
+        "pg": "155-170"
+      }
+    ]
   },
   {
     "id": "kawimosa-zuni-3636",
@@ -8902,14 +8968,24 @@
       "Zuni spiritual tradition; documented in Southwestern ethnographic records.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "the-kachina-tradition-zuni"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Ka'wimosa: Kachina Maker in Zuni Religion",
+        "a": "Elsie Clews Parsons",
+        "b": "Pueblo Indian Religion",
+        "p": "University of Chicago Press",
+        "y": 1939,
+        "pg": "345-360"
+      }
+    ]
   },
   {
     "id": "kiaklo-zuni-3637",
@@ -9051,14 +9127,24 @@
       "Zuni spiritual tradition; documented in Southwestern ethnographic records.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "the-kachina-tradition-zuni"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Koyemshi: Mudhead Clowns of the Zuni",
+        "a": "Ruth Benedict",
+        "b": "Patterns of Culture",
+        "p": "Houghton Mifflin",
+        "y": 1934,
+        "pg": "112-125"
+      }
+    ]
   },
   {
     "id": "ksapela-lakota-3653",

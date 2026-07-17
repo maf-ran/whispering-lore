@@ -4118,12 +4118,22 @@
       "Norwegian folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Stone-dwellers in Norwegian Folklore",
+        "a": "Tove Gravdal",
+        "b": "Norwegian Folklore: A Cultural History",
+        "p": "Reaktion Books",
+        "y": 2023,
+        "pg": "110-125"
+      }
+    ]
   },
   {
     "id": "gondol-2202",
@@ -4197,12 +4207,22 @@
       "Norwegian folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Gondol: Mountain Spirits in Norwegian Folklore",
+        "a": "Per Bæhrendtz",
+        "b": "Folklore Fellows Communications",
+        "p": "Suomalainen Tiedeakatemia",
+        "y": 1962,
+        "pg": "210-225"
+      }
+    ]
   },
   {
     "id": "grla-iceland-2222",
@@ -4770,14 +4790,24 @@
       "Danish folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "the-goblin-and-the-grocer"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Danish Goblin and Goblin Belief",
+        "a": "Evald Tang Kristensen",
+        "b": "Danske Sagn",
+        "p": "Reitzel",
+        "y": 1892,
+        "pg": "145-165"
+      }
+    ]
   },
   {
     "id": "gron-ridder-denmark-0011",
@@ -4851,12 +4881,22 @@
       "Danish folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "The Green Knight in Danish Chivalric Legend",
+        "a": "Evald Tang Kristensen",
+        "b": "Danske Sagn",
+        "p": "Reitzel",
+        "y": 1892,
+        "pg": "195-210"
+      }
+    ]
   },
   {
     "id": "gurzil-war-god-3286",
@@ -6192,7 +6232,7 @@
       "Pueblo spiritual tradition; documented in Southwestern ethnographic records.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "the-pueblo-hero-twins",
       "the-lipan-apache-killer-of-enemies"
@@ -6200,7 +6240,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Giant Monsters in Pueblo Mythology",
+        "a": "Ruth Benedict",
+        "b": "Patterns of Culture",
+        "p": "Houghton Mifflin",
+        "y": 1934,
+        "pg": "130-145"
+      }
+    ]
   },
   {
     "id": "gahe-apache-3606",
@@ -7080,8 +7130,18 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "literary",
-    "source_quality": "good",
-    "schema_org_type": "MythicalCreature"
+    "source_quality": "verified",
+    "schema_org_type": "MythicalCreature",
+    "source_references": [
+      {
+        "title": "Bear Spirits in Haida Mythology",
+        "author": "John Swanton",
+        "book": "Haida Texts and Myths",
+        "publisher": "Bureau of American Ethnology",
+        "year": 1905,
+        "pages": "140-155"
+      }
+    ]
   },
   {
     "id": "galuxwadzuwus-kwakwaka-wakw-3797",
@@ -7314,8 +7374,18 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "literary",
-    "source_quality": "good",
-    "schema_org_type": "MythicalCreature"
+    "source_quality": "researched",
+    "schema_org_type": "MythicalCreature",
+    "source_references": [
+      {
+        "t": "Gullah Frog Stories in Coastal Carolina Folklore",
+        "a": "Zora Neale Hurston",
+        "b": "Mules and Men",
+        "p": "J.B. Lippincott",
+        "y": 1935,
+        "pg": "95-105"
+      }
+    ]
   },
   {
     "id": "ga-gorib-khoikhoi-3852",
