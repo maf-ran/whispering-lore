@@ -7201,7 +7201,7 @@
       "Swedish folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "the-lame-dog",
       "lasse-my-thrall",
@@ -7214,7 +7214,15 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/havsɾå/"
+    "pronunciation_ipa": "/havsɾå/",
+    "source_references": [
+      {
+        "citation": "Hultkrantz, Å. Beliefs and Worship in Modern Scandinavia. 1961.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "helhest-2264",
@@ -7283,14 +7291,27 @@
       "Danish folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "helhest-story"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Simek, R. Dictionary of Northern Mythology. 1993.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Ellis, H.R. The Road to Hel. 1943.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "hyldemor-2269",

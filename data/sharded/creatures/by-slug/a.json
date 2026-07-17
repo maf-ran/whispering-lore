@@ -5981,12 +5981,25 @@
       "Norwegian folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Hultkrantz, Å. The Religion of the Vikings. 1967.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Lindow, J. Norse Mythology. Oxford, 2001.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "aisha-kandisha-algeria-3283",

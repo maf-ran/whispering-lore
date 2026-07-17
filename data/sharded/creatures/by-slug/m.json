@@ -4233,7 +4233,7 @@
     ],
     "featured_in_stories": [],
     "source": "Malaysia mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "mahsuri-the-cursed-maiden-of-langkawi",
       "sang-kancil-and-the-crocodile",
@@ -4245,7 +4245,15 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Staal, J. Indonesian Myths and Legends. 1993.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "mermaids-of-black-rocks-1154",

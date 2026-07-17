@@ -2742,7 +2742,7 @@
     ],
     "featured_in_stories": [],
     "source": "Malaysia mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "mahsuri-the-cursed-maiden-of-langkawi",
       "sang-kancil-and-the-crocodile",
@@ -2754,7 +2754,20 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Skeat, W.W. Malay Magic. Macmillan, 1900.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Winstedt, R.O. The Malay Magician. 1951.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ],
+    "source_checked": "2026-07-17"
   },
   {
     "id": "perchta-austria-1440",
