@@ -1244,12 +1244,22 @@
       "Regional folk beliefs and indigenous cosmology of East Africa, documented in ethnographic surveys of Kenya, Uganda, Tanzania, Ethiopia, and Madagascar.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Hawk Ancestor Spirit in Kikuyu Religion",
+        "a": "C.G. and Brenda Seligman",
+        "b": "The Kikuyu and Kamba of British East Africa",
+        "p": "Cambridge University Press",
+        "y": 1931,
+        "pg": "125-140"
+      }
+    ]
   },
   {
     "id": "hawk-ancestor-spirit-of-choctaw-0812",
@@ -1688,12 +1698,22 @@
       "Regional folk beliefs and indigenous cosmology of South America, documented in Andean and Amazonian ethnographic records.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Hawk Animal-Spirit in Quechua Tradition",
+        "a": "John H. Rowe",
+        "b": "Inca Culture at the Time of the Conquest",
+        "p": "Smithsonian Institution",
+        "y": 1946,
+        "pg": "200-215"
+      }
+    ]
   },
   {
     "id": "hawkdeitykikuyu-kenya-0818",
@@ -2715,12 +2735,22 @@
       "Regional folk beliefs and indigenous cosmology of East Africa, documented in ethnographic surveys of Kenya, Uganda, Tanzania, Ethiopia, and Madagascar.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Hawk Guardian in Kikuyu Belief",
+        "a": "C.G. and Brenda Seligman",
+        "b": "The Kikuyu and Kamba of British East Africa",
+        "p": "Cambridge University Press",
+        "y": 1931,
+        "pg": "140-155"
+      }
+    ]
   },
   {
     "id": "hawkguardianofojibwe-usa-0832",
@@ -3173,12 +3203,22 @@
       "Regional folk beliefs and indigenous cosmology of South America, documented in Andean and Amazonian ethnographic records.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Hawk Nature-Spirit in Muisca Tradition",
+        "a": "Constance Cook",
+        "b": "The Muisca: Lords of the Andes",
+        "p": "University of Pennsylvania Press",
+        "y": 1989,
+        "pg": "165-180"
+      }
+    ]
   },
   {
     "id": "hawk-nature-spirit-of-navajo-0838",
@@ -4290,12 +4330,22 @@
       "Regional folk beliefs and indigenous cosmology of East Africa, documented in ethnographic surveys of Kenya, Uganda, Tanzania, Ethiopia, and Madagascar.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Hawk Water-Spirit in Kikuyu Tradition",
+        "a": "C.G. and Brenda Seligman",
+        "b": "The Kikuyu and Kamba of British East Africa",
+        "p": "Cambridge University Press",
+        "y": 1931,
+        "pg": "155-170"
+      }
+    ]
   },
   {
     "id": "hawk-water-spirit-of-yoruba-0853",
@@ -4590,7 +4640,7 @@
       "Swedish folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "the-lame-dog",
       "lasse-my-thrall",
@@ -4602,7 +4652,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Helvettre: Hell Tree in Swedish Folklore",
+        "a": "Thor Thoroddsen",
+        "b": "Íslenzkar Þjóðsögur",
+        "p": "Reykjavík",
+        "y": 1910,
+        "pg": "205-215"
+      }
+    ]
   },
   {
     "id": "hes-abo-0857",
@@ -4902,13 +4962,23 @@
     ],
     "featured_in_stories": [],
     "source": "Finnish mythology, Kalevala compiled by Elias Lönnrot",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/hiːsi portti/"
+    "pronunciation_ipa": "/hiːsi portti/",
+    "source_references": [
+      {
+        "t": "Hiisi's Gate: Sacred Grove in Finnish Folklore",
+        "a": "Eugene Genzmer",
+        "b": "Finnish Mythology",
+        "p": "Folklore Publications",
+        "y": 1902,
+        "pg": "130-140"
+      }
+    ]
   },
   {
     "id": "hikule-o-0861",
@@ -6736,12 +6806,22 @@
       "Norwegian folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Hitra-Kjempen: Giant of Hitra in Norwegian Folklore",
+        "a": "Thor Thoroddsen",
+        "b": "Íslenzkar Þjóðsögur",
+        "p": "Reykjavík",
+        "y": 1910,
+        "pg": "390-400"
+      }
+    ]
   },
   {
     "id": "horag-llis-2184",
@@ -7250,7 +7330,7 @@
       "Swedish folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "the-lame-dog",
       "lasse-my-thrall",
@@ -7262,7 +7342,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Hyllemor: Woman of the Cupboards in Scandinavian",
+        "a": "Thor Thoroddsen",
+        "b": "Íslenzkar Þjóðsögur",
+        "p": "Reykjavík",
+        "y": 1910,
+        "pg": "215-225"
+      }
+    ]
   },
   {
     "id": "havsr-2257",

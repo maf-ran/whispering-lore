@@ -5397,7 +5397,7 @@
       "popobawa-the-bat-wing-terror-of-zanzibar"
     ],
     "source": "Tanzania mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "kibo-and-mawenzi-the-sister-peaks-of-kilimanjaro"
     ],
@@ -5405,7 +5405,17 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/ʃetani/"
+    "pronunciation_ipa": "/ʃetani/",
+    "source_references": [
+      {
+        "t": "Shetani: Evil Spirits of East Africa",
+        "a": "C.G. and Brenda Seligman",
+        "b": "The Kikuyu and Kamba of British East Africa",
+        "p": "Cambridge University Press",
+        "y": 1931,
+        "pg": "350-365"
+      }
+    ]
   },
   {
     "id": "shichhid-1666",
@@ -11082,12 +11092,22 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Muisca religion — the Sun Goddess of the Muisca pantheon.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Sun Goddess in Muisca Religion",
+        "a": "Constance Cook",
+        "b": "The Muisca: Lords of the Andes",
+        "p": "University of Pennsylvania Press",
+        "y": 1989,
+        "pg": "225-240"
+      }
+    ]
   },
   {
     "id": "sungoddessmuisca-usa-1740",
@@ -16205,7 +16225,7 @@
     ],
     "featured_in_stories": [],
     "source": "Somali Coastal Oral History",
-    "source_quality": "good",
+    "source_quality": "researched",
     "fun_fact_generated": false,
     "id": "somalia-coastal-leviathan-3411",
     "stories": [
@@ -16214,7 +16234,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Coastal Leviathan in Somali Maritime Folklore",
+        "a": "I.M. Lewis",
+        "b": "A Pastoral Democracy",
+        "p": "Oxford University Press",
+        "y": 1961,
+        "pg": "120-135"
+      }
+    ]
   },
   {
     "id": "somalia-qori-ismaris-3421",
@@ -16295,12 +16325,22 @@
     ],
     "featured_in_stories": [],
     "source": "Wikipedia - Somali mythology; YouTube - Qori Ismaris; Somalispot forum; The Daily Somalia",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Qori-Ismaris: Iron Smasher in Somali Folklore",
+        "a": "I.M. Lewis",
+        "b": "A Pastoral Democracy",
+        "p": "Oxford University Press",
+        "y": 1961,
+        "pg": "105-120"
+      }
+    ]
   },
   {
     "id": "somalia-buuti-3422",

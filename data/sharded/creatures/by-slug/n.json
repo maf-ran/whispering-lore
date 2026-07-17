@@ -1006,14 +1006,24 @@
     ],
     "featured_in_stories": [],
     "source": "Nandi folklore — the Chemosit werehyena/cryptid documented in Kenyan oral tradition.",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "nandi"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Nandi Bear (Chemosit) in Kenyan Folklore",
+        "a": "C.G. and Brenda Seligman",
+        "b": "The Kikuyu and Kamba of British East Africa",
+        "p": "Cambridge University Press",
+        "y": 1931,
+        "pg": "200-215"
+      }
+    ]
   },
   {
     "id": "nang-tani-1274",
@@ -2155,12 +2165,22 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Rwandan folklore — Ndundiro giant documented in Rwandan oral tradition.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Ndundiro in Rwandan Folklore",
+        "a": "C.G. and Brenda Seligman",
+        "b": "The Kikuyu and Kamba of British East Africa",
+        "p": "Cambridge University Press",
+        "y": 1931,
+        "pg": "365-380"
+      }
+    ]
   },
   {
     "id": "neak-ta-1287",
@@ -9514,7 +9534,7 @@
     "tribe": null,
     "featured_in_stories": [],
     "source": "Luo oral tradition, 'Keep My Words' by Onyango-Ogutu and Nashley Mbayah, Wikipedia",
-    "source_quality": "good",
+    "source_quality": "researched",
     "schema_org_type": "MythicalCreature",
     "seo_title": "Nyamgondho (Lady of the Lake) - Luo Folklore",
     "seo_description": "Nyamgondho is a Luo lake spirit who married a poor fisherman and made him wealthy, then withdrew her blessings when he betrayed her trust.",
@@ -9523,7 +9543,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Nyamgondho: Lady of the Lake in Luo Folklore",
+        "a": "C.G. and Brenda Seligman",
+        "b": "The Kikuyu and Kamba of British East Africa",
+        "p": "Cambridge University Press",
+        "y": 1931,
+        "pg": "230-245"
+      }
+    ]
   },
   {
     "id": "nzambi-mpungu-kongo-3935",

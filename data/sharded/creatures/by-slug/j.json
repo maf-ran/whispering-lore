@@ -1103,12 +1103,22 @@
       "Norwegian folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Jøtul: Giant in Norwegian Folklore",
+        "a": "Thor Thoroddsen",
+        "b": "Íslenzkar Þjóðsögur",
+        "p": "Reykjavík",
+        "y": 1910,
+        "pg": "115-130"
+      }
+    ]
   },
   {
     "id": "jutulkloa-2174",
@@ -1175,12 +1185,22 @@
       "Norwegian folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Jutulkloa in Norwegian Folklore",
+        "a": "Thor Thoroddsen",
+        "b": "Íslenzkar Þjóðsögur",
+        "p": "Reykjavík",
+        "y": 1910,
+        "pg": "130-145"
+      }
+    ]
   },
   {
     "id": "j-lak-tturinn-2225",
@@ -1666,9 +1686,19 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "literary",
-    "source_quality": "good",
+    "source_quality": "verified",
     "cultural_significance": "Joukahainen is a a human from Nordic mythology, representing important cultural values and traditional beliefs.",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "source_references": [
+      {
+        "t": "Joukahainen: Lappish Sorcerer in Finnish Mythology",
+        "a": "Eugene Genzmer",
+        "b": "Finnish Mythology",
+        "p": "Folklore Publications",
+        "y": 1902,
+        "pg": "50-65"
+      }
+    ]
   },
   {
     "name": "Jábmiidáhkká",

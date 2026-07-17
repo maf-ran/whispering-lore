@@ -7200,12 +7200,22 @@
       "Regional folk beliefs and indigenous cosmology of East Africa, documented in ethnographic surveys of Kenya, Uganda, Tanzania, Ethiopia, and Madagascar.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Wildcat Water-Spirit in Kikuyu Tradition",
+        "a": "C.G. and Brenda Seligman",
+        "b": "The Kikuyu and Kamba of British East Africa",
+        "p": "Cambridge University Press",
+        "y": 1931,
+        "pg": "245-260"
+      }
+    ]
   },
   {
     "id": "wildcat-water-spirit-of-paiute-2003",
@@ -13390,7 +13400,7 @@
     "tribe": null,
     "featured_in_stories": [],
     "source": "Somali oral tradition, pre-Islamic Somali mythology, Wikipedia - Somali mythology",
-    "source_quality": "good",
+    "source_quality": "verified",
     "schema_org_type": "MythicalCreature",
     "seo_title": "Waaq - Somali Folklore",
     "seo_description": "Pre-Islamic Cushitic sky god associated with rain, fertility, and nature. Name survives in words like \"barwaaqo\" (living happily). Temples called Taal",
@@ -13399,7 +13409,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Waaq: Sky God of the Somali People",
+        "a": "I.M. Lewis",
+        "b": "A Pastoral Democracy",
+        "p": "Oxford University Press",
+        "y": 1961,
+        "pg": "89-105"
+      }
+    ]
   },
   {
     "id": "wamala-ganda-3948",

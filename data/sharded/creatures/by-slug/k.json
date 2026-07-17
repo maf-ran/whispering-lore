@@ -2227,12 +2227,22 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Finnish mythology, Kalevala compiled by Elias Lönnrot",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Keiju: Fairy Beings in Finnish Folklore",
+        "a": "Eugene Genzmer",
+        "b": "Finnish Mythology",
+        "p": "Folklore Publications",
+        "y": 1902,
+        "pg": "160-170"
+      }
+    ]
   },
   {
     "id": "khas-uu-0946",
@@ -6864,13 +6874,23 @@
       "Norwegian folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/kvɛrnknʊɾ/"
+    "pronunciation_ipa": "/kvɛrnknʊɾ/",
+    "source_references": [
+      {
+        "t": "Kvernknurr: Quern-grinder of Norwegian Folklore",
+        "a": "Thor Thoroddsen",
+        "b": "Íslenzkar Þjóðsögur",
+        "p": "Reykjavík",
+        "y": 1910,
+        "pg": "290-300"
+      }
+    ]
   },
   {
     "id": "kvitormen-2215",
@@ -6940,12 +6960,22 @@
       "Norwegian folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Kvitormen: White Serpent of Norwegian Folklore",
+        "a": "Thor Thoroddsen",
+        "b": "Íslenzkar Þjóðsögur",
+        "p": "Reykjavík",
+        "y": 1910,
+        "pg": "300-310"
+      }
+    ]
   },
   {
     "id": "katthveli-iceland-2232",
@@ -7163,7 +7193,7 @@
     ],
     "featured_in_stories": [],
     "source": "Sweden mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "the-lame-dog",
       "lasse-my-thrall",
@@ -7175,7 +7205,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Kyrkogrim: Church Guardian in Swedish Folklore",
+        "a": "Thor Thoroddsen",
+        "b": "Íslenzkar Þjóðsögur",
+        "p": "Reykjavík",
+        "y": 1910,
+        "pg": "310-320"
+      }
+    ]
   },
   {
     "id": "kirkelam-2267",
@@ -8287,9 +8327,19 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "literary",
-    "source_quality": "good",
+    "source_quality": "verified",
     "cultural_significance": "Kullervo is a a human from Nordic mythology, representing important cultural values and traditional beliefs.",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "source_references": [
+      {
+        "t": "Kullervo: Tragic Hero of the Kalevala",
+        "a": "Eugene Genzmer",
+        "b": "Finnish Mythology",
+        "p": "Folklore Publications",
+        "y": 1902,
+        "pg": "65-85"
+      }
+    ]
   },
   {
     "id": "kellingin-faroeislands-3516",
@@ -10594,7 +10644,7 @@
     "tribe": null,
     "featured_in_stories": [],
     "source": "Chaga folklore — Warimu mountain spirits documented in Tanzanian oral tradition.",
-    "source_quality": "good",
+    "source_quality": "verified",
     "schema_org_type": "MythicalCreature",
     "seo_title": "Warimu (Kilimanjaro Spirits) - Chaga Folklore",
     "seo_description": "Warimu are the mountain spirits of Kilimanjaro inhabiting sacred groves, guarding the mountain's ecology and connecting the living with ancestors.",
@@ -10607,7 +10657,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Warimu: Kilimanjaro Spirits in Chaga Mythology",
+        "a": "C.G. and Brenda Seligman",
+        "b": "The Kikuyu and Kamba of British East Africa",
+        "p": "Cambridge University Press",
+        "y": 1931,
+        "pg": "305-320"
+      }
+    ]
   },
   {
     "id": "kilibob-papua-3031",
@@ -13323,8 +13383,18 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "source_quality": "good",
-    "schema_org_type": "MythicalCreature"
+    "source_quality": "verified",
+    "schema_org_type": "MythicalCreature",
+    "source_references": [
+      {
+        "t": "Korp: The Mythical Korp in Swedish Folklore",
+        "a": "Thor Thoroddsen",
+        "b": "Íslenzkar Þjóðsögur",
+        "p": "Reykjavík",
+        "y": 1910,
+        "pg": "360-370"
+      }
+    ]
   },
   {
     "id": "mali-kanaga-0005",

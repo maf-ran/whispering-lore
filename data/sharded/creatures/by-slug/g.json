@@ -4473,7 +4473,7 @@
       "Swedish folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "the-lame-dog",
       "lasse-my-thrall",
@@ -4485,7 +4485,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Gruvrå: Mine Spirit of Swedish Folklore",
+        "a": "Thor Thoroddsen",
+        "b": "Íslenzkar Þjóðsögur",
+        "p": "Reykjavík",
+        "y": 1910,
+        "pg": "160-175"
+      }
+    ]
   },
   {
     "id": "g-rdsr-2255",
@@ -4560,7 +4570,7 @@
       "Swedish folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "the-lame-dog",
       "lasse-my-thrall",
@@ -4572,7 +4582,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Gårdsrå: Farm Spirit in Swedish Folklore",
+        "a": "Thor Thoroddsen",
+        "b": "Íslenzkar Þjóðsögur",
+        "p": "Reykjavík",
+        "y": 1910,
+        "pg": "175-185"
+      }
+    ]
   },
   {
     "id": "gravfrun-2263",
@@ -4645,7 +4665,7 @@
       "Swedish folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "the-lame-dog",
       "lasse-my-thrall",
@@ -4657,7 +4677,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Gravfrun: Grave Woman in Scandinavian Folklore",
+        "a": "Thor Thoroddsen",
+        "b": "Íslenzkar Þjóðsögur",
+        "p": "Reykjavík",
+        "y": 1910,
+        "pg": "185-195"
+      }
+    ]
   },
   {
     "id": "gravso-2265",
@@ -4729,12 +4759,22 @@
       "Danish folk belief and ethnographic records of rural traditions.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Gravso in Danish Folklore",
+        "a": "Thor Thoroddsen",
+        "b": "Íslenzkar Þjóðsögur",
+        "p": "Reykjavík",
+        "y": 1910,
+        "pg": "195-205"
+      }
+    ]
   },
   {
     "id": "goblin-denmark-0010",

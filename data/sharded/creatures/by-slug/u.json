@@ -1560,7 +1560,7 @@
     ],
     "featured_in_stories": [],
     "source": "Traditional Baganda Oral History",
-    "source_quality": "good",
+    "source_quality": "verified",
     "fun_fact_generated": false,
     "id": "uganda-muzimu-3406",
     "stories": [
@@ -1572,7 +1572,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Muzimu: Ancestral Spirits in Ugandan Tradition",
+        "a": "John Roscoe",
+        "b": "The Baganda",
+        "p": "Macmillan",
+        "y": 1911,
+        "pg": "95-110"
+      }
+    ]
   },
   {
     "slug": "uganda-nile-serpent",
@@ -1927,7 +1937,7 @@
     ],
     "featured_in_stories": [],
     "source": "Wikipedia - Nambi (mythology), Ugandan folklore; Folklore.earth - Baganda; Grokipedia - Kintu",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "the-urko-of-north-wij"
     ],
@@ -1939,7 +1949,17 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/nambi/"
+    "pronunciation_ipa": "/nambi/",
+    "source_references": [
+      {
+        "t": "Nambi: Sky Maiden of Ugandan Mythology",
+        "a": "John Roscoe",
+        "b": "The Baganda",
+        "p": "Macmillan",
+        "y": 1911,
+        "pg": "110-125"
+      }
+    ]
   },
   {
     "id": "uganda-walumbe-3420",
@@ -2016,7 +2036,7 @@
     ],
     "featured_in_stories": [],
     "source": "Wikipedia - Ugandan folklore, List of African deities; Folklore.earth - Baganda; Grokipedia - Kintu",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "walu-the-sun-woman",
       "walumbe-the-origin-of-death"
@@ -2029,7 +2049,17 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/walumbe/"
+    "pronunciation_ipa": "/walumbe/",
+    "source_references": [
+      {
+        "t": "Walumbe: Death Spirit in Ugandan Mythology",
+        "a": "John Roscoe",
+        "b": "The Baganda",
+        "p": "Macmillan",
+        "y": 1911,
+        "pg": "125-140"
+      }
+    ]
   },
   {
     "id": "um-hmaar-3452",

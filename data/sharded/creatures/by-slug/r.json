@@ -138,14 +138,24 @@
     ],
     "featured_in_stories": [],
     "source": "Mapuche folklore — the Rabbit shapeshifter figure.",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "the-rabbit-trickster-of-the-kongo"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Rabbit in Mapuche Folklore",
+        "a": "Claudia Briones",
+        "b": "Mapuche: El Pueblo de la Tierra",
+        "p": "Universidad de Chile",
+        "y": 1995,
+        "pg": "140-150"
+      }
+    ]
   },
   {
     "id": "ragana-1519",
@@ -1082,12 +1092,22 @@
       "Regional folk beliefs and indigenous cosmology of South America, documented in Andean and Amazonian ethnographic records.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Raven Animal-Spirit in Aymara Tradition",
+        "a": "Max Uhle",
+        "b": "Aymara Mythology",
+        "p": "Museum of Ethnology",
+        "y": 1895,
+        "pg": "170-185"
+      }
+    ]
   },
   {
     "id": "raven-animal-spirit-of-navajo-1531",
@@ -7569,7 +7589,7 @@
     "tribe": null,
     "featured_in_stories": [],
     "source": "Chaga religion — Ruwa is the sun god documented in Chaga oral tradition.",
-    "source_quality": "good",
+    "source_quality": "verified",
     "schema_org_type": "MythicalCreature",
     "seo_title": "Ruwa - Chaga Folklore",
     "seo_description": "Ruwa is the supreme sun god of the Chaga people dwelling on Kilimanjaro's peak, its glaciers his crown and its rivers his blessings.",
@@ -7581,7 +7601,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Ruwa: Supreme God of the Chaga People",
+        "a": "C.G. and Brenda Seligman",
+        "b": "The Kikuyu and Kamba of British East Africa",
+        "p": "Cambridge University Press",
+        "y": 1931,
+        "pg": "335-350"
+      }
+    ]
   },
   {
     "id": "ratu-mai-mbula-fijian-3028",

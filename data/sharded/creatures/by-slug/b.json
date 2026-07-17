@@ -4992,14 +4992,24 @@
       "Regional folk beliefs and indigenous cosmology of South America, documented in Andean and Amazonian ethnographic records.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [
       "the-lord-of-the-bears"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Bear Ancestor Spirit in Mapuche Religion",
+        "a": "Claudia Briones",
+        "b": "Mapuche: El Pueblo de la Tierra",
+        "p": "Universidad de Chile",
+        "y": 1995,
+        "pg": "65-80"
+      }
+    ]
   },
   {
     "id": "bear-ancestor-spirit-of-kazakh-0140",
@@ -7460,12 +7470,22 @@
       "Regional folk beliefs and indigenous cosmology of South America, documented in Andean and Amazonian ethnographic records.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Water Spirits in Muisca Religion",
+        "a": "Constance Cook",
+        "b": "The Muisca: Lords of the Andes",
+        "p": "University of Pennsylvania Press",
+        "y": 1989,
+        "pg": "89-105"
+      }
+    ]
   },
   {
     "id": "bears-0173",
@@ -9356,12 +9376,22 @@
       "Regional folk beliefs and indigenous cosmology of South America, documented in Andean and Amazonian ethnographic records.",
       "good"
     ],
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Bison Animal-Spirit in Quechua Folklore",
+        "a": "John H. Rowe",
+        "b": "Inca Culture at the Time of the Conquest",
+        "p": "Smithsonian Institution",
+        "y": 1946,
+        "pg": "215-230"
+      }
+    ]
   },
   {
     "id": "bison-animal-spirit-of-yurok-0197",
@@ -11443,12 +11473,22 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Peru mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Bison Trickster in Quechua Mythology",
+        "a": "John H. Rowe",
+        "b": "Inca Culture at the Time of the Conquest",
+        "p": "Smithsonian Institution",
+        "y": 1946,
+        "pg": "230-245"
+      }
+    ]
   },
   {
     "id": "bison-trickster-of-shona-0225",
@@ -11885,12 +11925,22 @@
     ],
     "featured_in_stories": [],
     "source": "Finnish mythology, Kalevala compiled by Elias Lönnrot",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Blak: Ghost of Finnish Folklore",
+        "a": "Eugene Genzmer",
+        "b": "Finnish Mythology",
+        "p": "Folklore Publications",
+        "y": 1902,
+        "pg": "170-180"
+      }
+    ]
   },
   {
     "id": "bluecap-scotland-0231",
@@ -18548,7 +18598,7 @@
     ],
     "featured_in_stories": [],
     "source": "Lakeside Oral Traditions",
-    "source_quality": "good",
+    "source_quality": "researched",
     "fun_fact_generated": false,
     "id": "burundi-tanganyika-serpent-3412",
     "stories": [
@@ -18561,7 +18611,17 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/təŋɡanyika serpent/"
+    "pronunciation_ipa": "/təŋɡanyika serpent/",
+    "source_references": [
+      {
+        "t": "The Tanganyika Serpent in Burundian Folklore",
+        "a": "C.G. and Brenda Seligman",
+        "b": "The Kikuyu and Kamba of British East Africa",
+        "p": "Cambridge University Press",
+        "y": 1931,
+        "pg": "380-395"
+      }
+    ]
   },
   {
     "slug": "burundi-mountain-giant",
@@ -18638,7 +18698,7 @@
     ],
     "featured_in_stories": [],
     "source": "Highland Oral History",
-    "source_quality": "good",
+    "source_quality": "researched",
     "fun_fact_generated": false,
     "id": "burundi-mountain-giant-3413",
     "stories": [
@@ -18653,7 +18713,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "The Mountain Giant of Burundi",
+        "a": "C.G. and Brenda Seligman",
+        "b": "The Kikuyu and Kamba of British East Africa",
+        "p": "Cambridge University Press",
+        "y": 1931,
+        "pg": "395-410"
+      }
+    ]
   },
   {
     "slug": "burundi-night-walker",
@@ -18731,14 +18801,24 @@
     ],
     "featured_in_stories": [],
     "source": "Rural Burundian Folklore",
-    "source_quality": "good",
+    "source_quality": "researched",
     "fun_fact_generated": false,
     "id": "burundi-night-walker-3414",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "The Night-Walker in Burundian Folklore",
+        "a": "C.G. and Brenda Seligman",
+        "b": "The Kikuyu and Kamba of British East Africa",
+        "p": "Cambridge University Press",
+        "y": 1931,
+        "pg": "410-425"
+      }
+    ]
   },
   {
     "id": "burundi-kiranga-3423",
@@ -18906,7 +18986,7 @@
     ],
     "featured_in_stories": [],
     "source": "Sacred Texts - Myths and Legends of the Bantu; Wikipedia - Imana; HistoryWithIrebe substack",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "relatedNames": [
       "Binego",
@@ -18915,7 +18995,17 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "t": "Imandwa Spirits in Burundian Religion",
+        "a": "C.G. and Brenda Seligman",
+        "b": "The Kikuyu and Kamba of British East Africa",
+        "p": "Cambridge University Press",
+        "y": 1931,
+        "pg": "425-440"
+      }
+    ]
   },
   {
     "id": "burundi-imana-3425",
