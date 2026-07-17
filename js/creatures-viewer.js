@@ -375,7 +375,8 @@ class CreaturesViewer extends BaseViewer {
         if (badgeEl && creature.source_quality) {
           var sq = creature.source_quality;
           var esq = window.__sharedUtils.escapeXml(sq);
-          badgeEl.innerHTML = '<span class="source-badge source-badge--' + esq + '">' + sq.charAt(0).toUpperCase() + sq.slice(1) + '</span>';
+          badgeEl.className = 'source-badge source-badge--' + esq;
+          badgeEl.textContent = sq.charAt(0).toUpperCase() + sq.slice(1);
         }
 
         var sourceTypeBadge = document.getElementById('detail-source-type-badge');
@@ -383,17 +384,21 @@ class CreaturesViewer extends BaseViewer {
           var st = creature.source_type;
           var est = window.__sharedUtils.escapeXml(st);
           var stLabel = window.__sharedUtils.escapeXml(st.replace(/_/g, ' ').replace(/\b\w/g, function(l) { return l.toUpperCase(); }));
-          sourceTypeBadge.innerHTML = '<span class="source-type-badge source-type-badge--' + est + '">' + stLabel + '</span>';
+          sourceTypeBadge.className = 'source-type-badge source-type-badge--' + est;
+          sourceTypeBadge.textContent = stLabel;
         }
 
         var liveBadgeEl = document.getElementById('detail-live-badge');
         if (liveBadgeEl) {
           if (creature.living_tradition === true) {
-            liveBadgeEl.innerHTML = '<span class="live-badge">Living Tradition</span>';
+            liveBadgeEl.className = 'live-badge';
+            liveBadgeEl.textContent = 'Living Tradition';
           } else if (creature.living_tradition === false) {
-            liveBadgeEl.innerHTML = '<span class="live-badge live-badge--inactive">Historical</span>';
+            liveBadgeEl.className = 'live-badge live-badge--inactive';
+            liveBadgeEl.textContent = 'Historical';
           } else {
-            liveBadgeEl.innerHTML = '';
+            liveBadgeEl.className = '';
+            liveBadgeEl.textContent = '';
           }
         }
 
