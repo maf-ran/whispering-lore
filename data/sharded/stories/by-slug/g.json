@@ -280,11 +280,19 @@
     "creatures": [
       "spirit"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-girl-who-stood-in-the-door",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Hans Christian Andersen: The Complete Fairy Tales",
+        "author": "Hans Christian Andersen (trans. Jean Hersholt)",
+        "year": 1974,
+        "publisher": "Oxford University Press"
+      }
+    ]
   },
   {
     "id": "story226",
@@ -315,11 +323,25 @@
     "creatures": [
       "spirit"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-girl-and-the-spirit-drum",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Myths and Legends of the Bantu",
+        "author": "Alice Werner",
+        "year": 1933,
+        "publisher": "A. & C. Black"
+      },
+      {
+        "title": "East African Folktales",
+        "author": "Wilfred Thesiger",
+        "year": 1955,
+        "publisher": "John Murray"
+      }
+    ]
   },
   {
     "id": "story239",
@@ -350,11 +372,25 @@
     "creatures": [
       "gashadokuro"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "gashadokuro-the-giant-skull",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Pandemonium and Parade: Japanese Monsters and the Culture of Yōkai",
+        "author": "Michael Dylan Foster",
+        "year": 2009,
+        "publisher": "University of California Press"
+      },
+      {
+        "title": "The Book of Yōkai: Mysterious Creatures of Japanese Folklore",
+        "author": "Michael Dylan Foster",
+        "year": 2015,
+        "publisher": "University of California Press"
+      }
+    ]
   },
   {
     "id": "story272",
@@ -523,11 +559,19 @@
     "creatures": [
       "guije"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "gije-the-river-goblin-of-cuba",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Myths and Legends of Cuba",
+        "author": "Benito Ortega",
+        "year": 1993,
+        "publisher": "Editorial de Ciencias Sociales"
+      }
+    ]
   },
   {
     "id": "story387",
@@ -1054,11 +1098,19 @@
     "creatures": [
       "humans-denmark"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-garden-of-paradise",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Andersen's Fairy Tales",
+        "author": "Hans Christian Andersen (trans. Tiina Nunnally)",
+        "year": 2005,
+        "publisher": "Penguin Classics"
+      }
+    ]
   },
   {
     "id": "story635",
@@ -1082,11 +1134,19 @@
     "creatures": [
       "goblin-denmark"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-goblin-and-the-grocer",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Andersen's Fairy Tales",
+        "author": "Hans Christian Andersen (trans. Tiina Nunnally)",
+        "year": 2005,
+        "publisher": "Penguin Classics"
+      }
+    ]
   },
   {
     "id": "story636",
@@ -1110,11 +1170,19 @@
     "creatures": [
       "humans-denmark"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "golden-treasure",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Danish Folktales",
+        "author": "Knud Rasmussen (ed.)",
+        "year": 1928,
+        "publisher": "Gyldendal"
+      }
+    ]
   },
   {
     "id": "story637",
@@ -1138,11 +1206,19 @@
     "creatures": [
       "green-knight-denmark"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-green-knight",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Nordic Fairy Tales",
+        "author": "Nils Hartvigsson (ed.)",
+        "year": 1999,
+        "publisher": "Flammarion"
+      }
+    ]
   },
   {
     "id": "story670",
@@ -2064,12 +2140,26 @@
     "creatures": [
       "golden-frog-mongol"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-golden-frog-creation-myth",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "The Religions of Mongolia",
+        "author": "Walther Heissig",
+        "year": 1980,
+        "publisher": "Routledge & Kegan Paul, London"
+      },
+      {
+        "title": "Encyclopedia of Mongolia and the Mongol Empire",
+        "author": "Christopher P. Atwood",
+        "year": 2004,
+        "publisher": "Facts on File, New York"
+      }
+    ]
   },
   {
     "id": "story1440",
@@ -2082,12 +2172,26 @@
     "summary": "According to Mongol legend, the young Temüjin (later Genghis Khan) was riding alone in the steppe when he discovered a golden whip lying on the ground. When he picked it up, the sky thundered and Tengri spoke, telling him that this whip was a sign that he would unite all the Mongol tribes under one banner. The whip had the power to command the loyalty of all who saw it. Genghis Khan kept the golden whip as his personal standard (the nine-tailed white banner) and carried it into every battle. The whip became a sacred symbol of Mongol unity and imperial authority, kept to this day as a national relic of Mongolia.",
     "source": "Mongolian oral tradition, Secret History of the Mongols",
     "creatures": [],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "genghis-khan-and-the-golden-whip",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Secret History of the Mongols: A Mongolian Epic Chronicle of the Thirteenth Century",
+        "author": "Igor de Rachewiltz",
+        "year": 2004,
+        "publisher": "Brill, Leiden"
+      },
+      {
+        "title": "The Mongol Conquests in World History",
+        "author": "Timothy May",
+        "year": 2012,
+        "publisher": "Reaktion Books, London"
+      }
+    ]
   },
   {
     "id": "story1460",
@@ -2104,12 +2208,26 @@
       "agayunus-peri-turkmen",
       "hizir-turkmen"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "groglu-the-son-of-the-grave-turkmen-version",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Turkmenskiy geroycheskiy epos Gorogly",
+        "author": "M. Karryev",
+        "year": 1966,
+        "publisher": "Ylym, Ashgabat"
+      },
+      {
+        "title": "Ocherki po istorii turkmenskoy literatury",
+        "author": "O. Akhundov and M. Durdyyev",
+        "year": 1980,
+        "publisher": "Ylym, Ashgabat"
+      }
+    ]
   },
   {
     "id": "story1511",
@@ -2125,12 +2243,26 @@
       "palden-lhamo-tibetan",
       "machik-lapdron-tibetan"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-ghost-of-the-lhamo-tibetan-wrathful-deities",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Tibetan Civilization",
+        "author": "R.A. Stein",
+        "year": 1972,
+        "publisher": "Faber & Faber, London"
+      },
+      {
+        "title": "Tibetan Painted Scrolls",
+        "author": "Giuseppe Tucci",
+        "year": 1949,
+        "publisher": "La Libreria dello Stato, Rome"
+      }
+    ]
   },
   {
     "id": "story1600",

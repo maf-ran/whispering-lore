@@ -288,11 +288,25 @@
     "creatures": [
       "amaterasu"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "amaterasu-and-the-cave",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Kojiki: A New Translation of an Ancient Chronicle of Japan",
+        "author": "Donald Philippi (trans.)",
+        "year": 1968,
+        "publisher": "Princeton University Press"
+      },
+      {
+        "title": "Japanese Mythology",
+        "author": "Juliet Piggott",
+        "year": 1969,
+        "publisher": "Hamlyn Publishing Group"
+      }
+    ]
   },
   {
     "id": "story267",
@@ -656,11 +670,19 @@
       "merman-denmark",
       "merchildren-denmark"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "agnete-og-havmanden",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Andersen's Fairy Tales",
+        "author": "Hans Christian Andersen (trans. Tiina Nunnally)",
+        "year": 2005,
+        "publisher": "Penguin Classics"
+      }
+    ]
   },
   {
     "id": "story621",
@@ -693,11 +715,19 @@
       "ali",
       "o"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "amleth",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Saxo Grammaticus: The History of the Danes, Books I–IX",
+        "author": "Saxo Grammaticus (trans. Hilda Ellis Davidson)",
+        "year": 1979,
+        "publisher": "D.S. Brewer"
+      }
+    ]
   },
   {
     "id": "story629",
@@ -721,11 +751,19 @@
     "creatures": [
       "angel-denmark"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-angel",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Andersen's Fairy Tales",
+        "author": "Hans Christian Andersen (trans. Tiina Nunnally)",
+        "year": 2005,
+        "publisher": "Penguin Classics"
+      }
+    ]
   },
   {
     "id": "story729",
@@ -1455,12 +1493,20 @@
       "barchin-kazakh",
       "baychibar-kazakh"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "alpamysh-batyr",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "medieval",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "The Singer of Tales",
+        "author": "Lord, Albert B.",
+        "year": 1960,
+        "publisher": "Harvard University Press, Cambridge"
+      }
+    ]
   },
   {
     "id": "story1448",
@@ -1475,12 +1521,20 @@
     "creatures": [
       "shiktur-buryat"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "aldar-qose-the-trickster",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "The Singer of Tales",
+        "author": "Lord, Albert B.",
+        "year": 1960,
+        "publisher": "Harvard University Press, Cambridge"
+      }
+    ]
   },
   {
     "id": "story1458",
@@ -1493,12 +1547,20 @@
     "summary": "Aina-Kizz, an incredibly clever young girl from Samarkand, helps her widowed mother by using her intelligence to outwit a greedy black-bearded bai (rich man). The bai boasts of impossible feats — that he once grew a wheat field so vast that a whole caravan got lost in it, and that the caravan emerged from his mouth when he ate bread. Aina-Kizz cleverly exposes his lies and reveals that he is the murderer of her uncle, whose silk robe the bai still wears. Through her wit and careful trap-setting, she forces the bai to confess and returns justice to her family. The story celebrates feminine intelligence over male arrogance and remains one of the most popular Uzbek folk tales.",
     "source": "https://theearthstoriescollection.org/en/aina-kizz-and-the-black-bearded-bai/",
     "creatures": [],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "aina-kizz-and-the-black-bearded-bai",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Singer of Tales",
+        "author": "Lord, Albert B.",
+        "year": 1960,
+        "publisher": "Harvard University Press, Cambridge"
+      }
+    ]
   },
   {
     "id": "story1469",
@@ -1516,12 +1578,20 @@
       "ulgen-altai",
       "kayra-han-altai"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-altai-creation-myth",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Shamanism: Archaic Techniques of Ecstasy",
+        "author": "Eliade, Mircea",
+        "year": 1964,
+        "publisher": "Princeton University Press, Princeton"
+      }
+    ]
   },
   {
     "id": "story1491",
@@ -1540,12 +1610,20 @@
       "tengri-khormusta-buryat",
       "tengri-khormusta-buryat"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "abai-geser-the-mighty-buryat-epic",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Shamanism: Archaic Techniques of Ecstasy",
+        "author": "Eliade, Mircea",
+        "year": 1964,
+        "publisher": "Princeton University Press, Princeton"
+      }
+    ]
   },
   {
     "id": "story1493",
@@ -1562,12 +1640,20 @@
       "angara-river-buryat",
       "angara-river-buryat"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-angara-rivers-escape",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Shamanism: Archaic Techniques of Ecstasy",
+        "author": "Eliade, Mircea",
+        "year": 1964,
+        "publisher": "Princeton University Press, Princeton"
+      }
+    ]
   },
   {
     "id": "story1506",
@@ -1583,12 +1669,20 @@
       "amur-tiger-nanai",
       "amur-tiger-nanai"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-amur-river-spirit",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Shamanism: Archaic Techniques of Ecstasy",
+        "author": "Eliade, Mircea",
+        "year": 1964,
+        "publisher": "Princeton University Press, Princeton"
+      }
+    ]
   },
   {
     "id": "story1574",

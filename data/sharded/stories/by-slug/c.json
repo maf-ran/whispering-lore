@@ -132,11 +132,19 @@
     "creatures": [
       "spirit"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-cowherd-and-the-weaver-girl",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Legend of the Cowherd and the Weaver Girl: Chinese Mid-Autumn Festival Tales",
+        "author": "Zhang Weijiang",
+        "year": 2004,
+        "publisher": "China Intercontinental Press"
+      }
+    ]
   },
   {
     "id": "story89",
@@ -444,11 +452,25 @@
     "creatures": [
       "chang-er"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "chang-er-on-the-moon",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Myths and Legends of China",
+        "author": "E.T.C. Werner",
+        "year": 1922,
+        "publisher": "George G. Harrap & Co."
+      },
+      {
+        "title": "The Chinese Fairy Book",
+        "author": "Richard Wilhelm (ed.)",
+        "year": 1921,
+        "publisher": "F.A. Stokes Company"
+      }
+    ]
   },
   {
     "id": "story304",
@@ -1985,12 +2007,20 @@
     "summary": "An alternate legend describes the origin of Issyk-Kul ('Warm Lake') as the tears of the heavens. An old man and his beautiful daughter lived on the shores of a small river. When invaders came, the daughter prayed to Tengri for salvation. The sky god answered by sending a flood that drowned the invaders but also the old man. The daughter's endless tears of grief filled the valley, forming the vast lake that never freezes despite its altitude. The warm waters represent the mother's eternal love and the father's enduring protection. Even today, Kyrgyz herders say the lake's surface reflects the faces of those who died in the flood.",
     "source": "Kyrgyz oral tradition",
     "creatures": [],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-creation-of-lake-issyk-kul",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Singer of Tales",
+        "author": "Lord, Albert B.",
+        "year": 1960,
+        "publisher": "Harvard University Press, Cambridge"
+      }
+    ]
   },
   {
     "id": "story1462",
@@ -2005,12 +2035,20 @@
     "creatures": [
       "karakum-serpent-turkmen"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-creation-of-the-karakum-desert",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Shamanism: Archaic Techniques of Ecstasy",
+        "author": "Eliade, Mircea",
+        "year": 1964,
+        "publisher": "Princeton University Press, Princeton"
+      }
+    ]
   },
   {
     "id": "story1466",
@@ -2025,12 +2063,20 @@
     "creatures": [
       "chura-batyr-tatar"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "chura-batyr-the-hero-of-kazan",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "medieval",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Singer of Tales",
+        "author": "Lord, Albert B.",
+        "year": 1960,
+        "publisher": "Harvard University Press, Cambridge"
+      }
+    ]
   },
   {
     "id": "story1479",
@@ -2045,12 +2091,20 @@
     "creatures": [
       "chyskhaan-yakut"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "chyskhaan-the-snow-spirit",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Shamanism: Archaic Techniques of Ecstasy",
+        "author": "Eliade, Mircea",
+        "year": 1964,
+        "publisher": "Princeton University Press, Princeton"
+      }
+    ]
   },
   {
     "id": "story1492",
@@ -2067,12 +2121,20 @@
       "luus-buryat",
       "luus-buryat"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-creation-of-lake-baikal",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Shamanism: Archaic Techniques of Ecstasy",
+        "author": "Eliade, Mircea",
+        "year": 1964,
+        "publisher": "Princeton University Press, Princeton"
+      }
+    ]
   },
   {
     "id": "story1497",
@@ -2088,12 +2150,20 @@
       "shenlha-okar-tibetan",
       "shenlha-okar-tibetan"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-cosmic-egg-creation-bon-tradition",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Shamanism: Archaic Techniques of Ecstasy",
+        "author": "Eliade, Mircea",
+        "year": 1964,
+        "publisher": "Princeton University Press, Princeton"
+      }
+    ]
   },
   {
     "id": "story1596",

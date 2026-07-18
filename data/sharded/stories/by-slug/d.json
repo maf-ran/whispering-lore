@@ -315,11 +315,19 @@
     "creatures": [
       "dragon"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-dragon-gate",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Chinese Mythology: An Introduction",
+        "author": "Yang Lihui",
+        "year": 2008,
+        "publisher": "Johns Hopkins University Press"
+      }
+    ]
   },
   {
     "id": "story158",
@@ -533,11 +541,25 @@
       "dangun",
       "bear-spirit-shona"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "dangun-the-founder-of-korea",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Samguk Yusa: Legends and History of the Three Kingdoms of Ancient Korea",
+        "author": "Ha Tae Hung and Grafton K. Mintz (trans.)",
+        "year": 1972,
+        "publisher": "Yonsei University Press"
+      },
+      {
+        "title": "Korean Mythology",
+        "author": "Edward B. Adams",
+        "year": 1990,
+        "publisher": "Kegan Paul International"
+      }
+    ]
   },
   {
     "id": "story221",
@@ -674,11 +696,19 @@
     "creatures": [
       "dullahan"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "dullahan-story",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Celtic Twilight",
+        "author": "Yeats, W.B.",
+        "year": 1893,
+        "publisher": "A.H. Bullen, London"
+      }
+    ]
   },
   {
     "id": "story307",
@@ -844,11 +874,19 @@
     "creatures": [
       "jinn-genie"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-djinn-of-the-aures-mountains",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Berbers",
+        "author": "Malika Hachid",
+        "year": 1998,
+        "publisher": "Éditions Paris-Méditerranée"
+      }
+    ]
   },
   {
     "id": "story398",
@@ -1066,11 +1104,19 @@
     "creatures": [
       "dragon-denmark"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-dragon-and-daughter",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Nordic Fairy Tales",
+        "author": "Nils Hartvigsson (ed.)",
+        "year": 1999,
+        "publisher": "Flammarion"
+      }
+    ]
   },
   {
     "id": "story686",
@@ -1560,12 +1606,20 @@
     "creatures": [
       "celestial-deer-mongol"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-deer-stone-legends",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Shamanism: Archaic Techniques of Ecstasy",
+        "author": "Eliade, Mircea",
+        "year": 1964,
+        "publisher": "Princeton University Press, Princeton"
+      }
+    ]
   },
   {
     "id": "story1480",
@@ -1580,12 +1634,20 @@
     "creatures": [
       "loon-bird-altai"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-diving-duck-creation-myth",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Shamanism: Archaic Techniques of Ecstasy",
+        "author": "Eliade, Mircea",
+        "year": 1964,
+        "publisher": "Princeton University Press, Princeton"
+      }
+    ]
   },
   {
     "id": "story1594",

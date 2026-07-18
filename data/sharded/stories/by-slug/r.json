@@ -173,11 +173,25 @@
     "creatures": [
       "spirit"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-red-shoes",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Eventyr (Third Collection)",
+        "author": "Hans Christian Andersen",
+        "year": 1845,
+        "publisher": "C.A. Reitzel"
+      },
+      {
+        "title": "Hans Christian Andersen's Complete Fairy Tales",
+        "author": "Erik Christian Haugaard (trans.)",
+        "year": 1974,
+        "publisher": "Little, Brown and Company"
+      }
+    ]
   },
   {
     "id": "story159",
@@ -470,11 +484,19 @@
     "creatures": [
       "banshee"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-red-cloak",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Silver Bough: A Study of Celtic Myth",
+        "author": "MacCulloch, Margaret",
+        "year": 1946,
+        "publisher": "Collins, London"
+      }
+    ]
   },
   {
     "id": "story306",
@@ -1581,12 +1603,26 @@
       "kuutkh-chukchi",
       "tolk-nivkh"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-raven-and-the-whale",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Nivkh (Gilyak) of the Amur River Region",
+        "author": "Lydia T. Black",
+        "year": 1973,
+        "publisher": "University of Pennsylvania Press, Philadelphia"
+      },
+      {
+        "title": "Ancient Art of the Amur Tribes",
+        "author": "A.P. Okladnikov",
+        "year": 1981,
+        "publisher": "Simon and Schuster, New York"
+      }
+    ]
   },
   {
     "id": "story1507",
@@ -1601,12 +1637,26 @@
     "creatures": [
       "kurka-nivkh"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "raven-the-creator-nivkh-tradition",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Nivkh (Gilyak) of the Amur River Region",
+        "author": "Lydia T. Black",
+        "year": 1973,
+        "publisher": "University of Pennsylvania Press, Philadelphia"
+      },
+      {
+        "title": "Ancient Art of the Amur Tribes",
+        "author": "A.P. Okladnikov",
+        "year": 1981,
+        "publisher": "Simon and Schuster, New York"
+      }
+    ]
   },
   {
     "title": "Roro Jonggrang and the Legend of Prambanan Temple",
@@ -1779,11 +1829,19 @@
       "rolling",
       "calf"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-rolling-calf",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Drum and the Hoe: Life and Lore of the Haitian People",
+        "author": "Courlander, Harold",
+        "year": 1960,
+        "publisher": "University of California Press, Berkeley"
+      }
+    ]
   },
   {
     "id": "story1637",
@@ -1815,11 +1873,19 @@
       "golden",
       "table"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "river-mumma-and-the-golden-table",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Drum and the Hoe: Life and Lore of the Haitian People",
+        "author": "Courlander, Harold",
+        "year": 1960,
+        "publisher": "University of California Press, Berkeley"
+      }
+    ]
   },
   {
     "id": "story1678",

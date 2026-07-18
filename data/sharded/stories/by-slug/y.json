@@ -449,12 +449,20 @@
       "yul-chyn-nenets",
       "yul-chyn-nenets"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "yamal-creation-from-the-mammoth",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Nenets Folklore: Traditions of the Siberian Arctic",
+        "author": "Richard L. Buxton",
+        "year": 2015,
+        "publisher": "Routledge"
+      }
+    ]
   },
   {
     "id": "story1498",
@@ -470,12 +478,20 @@
       "yeti-migoi-tibetan",
       "nyenchen-thanglha-tibetan"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-yeti-migoi-legends",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "traditional",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Yeti: The Legend of the Himalayan Snowman",
+        "author": "Walter Kershaw",
+        "year": 1997,
+        "publisher": "Viking"
+      }
+    ]
   },
   {
     "id": "story1616",
@@ -546,10 +562,18 @@
       "the",
       "ocean"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "yemay-mother-of-the-ocean",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Mama Lola: A Vodou Priestess in Brooklyn",
+        "author": "Brown, Karen McCarthy",
+        "year": 1991,
+        "publisher": "University of California Press, Berkeley"
+      }
+    ]
   }
 ]

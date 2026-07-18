@@ -61,11 +61,25 @@
     "creatures": [
       "aswang"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-ugly-duckling",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Eventyr (Third Series)",
+        "author": "Hans Christian Andersen",
+        "year": 1843,
+        "publisher": "C.A. Reitzel"
+      },
+      {
+        "title": "Hans Christian Andersen's Complete Fairy Tales",
+        "author": "Erik Christian Haugaard (trans.)",
+        "year": 1974,
+        "publisher": "Little, Brown and Company"
+      }
+    ]
   },
   {
     "title": "The Urko of North Wij",

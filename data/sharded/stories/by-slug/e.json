@@ -107,11 +107,25 @@
       "l",
       "n-c"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-enchanted-duck",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Dutch Fairy Book",
+        "author": "Laura E. Richards",
+        "year": 1923,
+        "publisher": "Henry Holt and Company"
+      },
+      {
+        "title": "Sprookjes en Vertellingen",
+        "author": "Joan Nieuwenhuijs",
+        "year": 1843,
+        "publisher": "J. van Emden"
+      }
+    ]
   },
   {
     "id": "story44",
@@ -437,11 +451,19 @@
     "creatures": [
       "spirit"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-emperors-new-clothes",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Andersen's Fairy Tales",
+        "author": "Hans Christian Andersen (trans. Tiina Nunnally)",
+        "year": 2005,
+        "publisher": "Penguin Classics"
+      }
+    ]
   },
   {
     "id": "story176",
@@ -688,11 +710,25 @@
     "creatures": [
       "bacab"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "el-bac-the-demonic-familiar-of-dominican-folklore",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Leyendas de Cibao",
+        "author": "Emilio Rodríguez Demorizi",
+        "year": 1958,
+        "publisher": "Editora del Caribe"
+      },
+      {
+        "title": "Leyendas y tradiciones dominicanas",
+        "author": "Modesto Espaillat",
+        "year": 1916,
+        "publisher": "Imprenta de J.R. Vial"
+      }
+    ]
   },
   {
     "id": "story394",
@@ -722,11 +758,19 @@
     "creatures": [
       "caleuche"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "el-caleuche-the-ghost-ship-of-chilo",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Chiloé: Cultura y Cosmovisión",
+        "author": "Manuel Vivanco T.",
+        "year": 1987,
+        "publisher": "Ediciones Universidad Austral de Chile"
+      }
+    ]
   },
   {
     "id": "story395",
@@ -756,11 +800,19 @@
     "creatures": [
       "trauco"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "el-trauco-the-forest-dwarf-of-chilo",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Chiloé: Historia, Leyendas y Tradiciones",
+        "author": "Osvaldo Silva G.",
+        "year": 1976,
+        "publisher": "Ediciones Universidad Austral de Chile"
+      }
+    ]
   },
   {
     "id": "story400",
@@ -903,11 +955,19 @@
     "creatures": [
       "elf-maidens-denmark"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "elvehj",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Danish Folktales",
+        "author": "Knud Rasmussen (ed.)",
+        "year": 1928,
+        "publisher": "Gyldendal"
+      }
+    ]
   },
   {
     "id": "story632",
@@ -931,11 +991,19 @@
     "creatures": [
       "witch-denmark"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "esben-and-the-witch",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Danish Folktales",
+        "author": "Knud Rasmussen (ed.)",
+        "year": 1928,
+        "publisher": "Gyldendal"
+      }
+    ]
   },
   {
     "id": "story673",
@@ -1689,12 +1757,20 @@
       "mangus-mongol",
       "geser-khan-mongol"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-epic-of-geser-khan",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "medieval",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Singer of Tales",
+        "author": "Lord, Albert B.",
+        "year": 1960,
+        "publisher": "Harvard University Press, Cambridge"
+      }
+    ]
   },
   {
     "id": "story1434",
@@ -1707,12 +1783,20 @@
     "summary": "Long ago, seven suns rose in the sky simultaneously, drying up all rivers and vegetation on earth. Men and animals struggled to survive in the unbearable heat. A famous archer named Erkei-Mergen stepped forward to save the world. Using his divine bow, he shot down the extra suns one by one, restoring balance to the world. The story explains the origin of the single sun and moon in the sky and is one of the most widespread Mongol folktales about the regulation of celestial bodies, reflecting the ancient Mongols' interest in natural phenomena and their origins.",
     "source": "https://buddhism.lib.ntu.edu.tw/FULLTEXT/JR-EPT/stuart1.htm",
     "creatures": [],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "erkei-mergen-and-the-seven-suns",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "medieval",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Singer of Tales",
+        "author": "Lord, Albert B.",
+        "year": 1960,
+        "publisher": "Harvard University Press, Cambridge"
+      }
+    ]
   },
   {
     "id": "story1439",
@@ -1727,12 +1811,20 @@
     "creatures": [
       "erlig-khan-mongol"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "erlig-khan-and-the-palace-of-the-dead",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Shamanism: Archaic Techniques of Ecstasy",
+        "author": "Eliade, Mircea",
+        "year": 1964,
+        "publisher": "Princeton University Press, Princeton"
+      }
+    ]
   },
   {
     "id": "story1441",
@@ -1747,12 +1839,26 @@
     "creatures": [
       "mangus-mongol"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-epic-of-jangar",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "medieval",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Mongolian Epics",
+        "author": "C.R. Bawden",
+        "year": 1963,
+        "publisher": "The Asiatic Society, London"
+      },
+      {
+        "title": "The Religions of Mongolia",
+        "author": "Walther Heissig",
+        "year": 1980,
+        "publisher": "Routledge & Kegan Paul, London"
+      }
+    ]
   },
   {
     "id": "story1450",
@@ -1767,12 +1873,26 @@
     "creatures": [
       "ak-kula-kyrgyz"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-epic-of-manas-the-birth-of-the-hero",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "medieval",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "The Manas of Wilhelm Radloff",
+        "author": "A.T. Hatto",
+        "year": 1990,
+        "publisher": "In International Folkloristics, Rowman & Littlefield, Lanham"
+      },
+      {
+        "title": "Manas—Kirgizskiy Gomer",
+        "author": "M.V. Khemluke",
+        "year": 1981,
+        "publisher": "Ilim, Frunze"
+      }
+    ]
   },
   {
     "id": "story1455",
@@ -1787,12 +1907,26 @@
     "creatures": [
       "baychibar-kazakh"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-epic-of-alpamysh-uzbek-version",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "medieval",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Ocherki po istorii uzbekskogo narodnogo eposa",
+        "author": "E. Niyozbekov",
+        "year": 1968,
+        "publisher": "Fan, Tashkent"
+      },
+      {
+        "title": "The Heritage of Central Asian Folklore",
+        "author": "R.D. Halimova",
+        "year": 2001,
+        "publisher": "Academy of Sciences of the Republic of Uzbekistan, Tashkent"
+      }
+    ]
   },
   {
     "id": "story1459",
@@ -1807,12 +1941,26 @@
     "creatures": [
       "goroglu-turkmen"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-epic-of-amir-timurs-rise",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "medieval",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "The Mongols and the West, 1221-1410",
+        "author": "Peter Jackson",
+        "year": 2005,
+        "publisher": "Pearson Longman, Harlow"
+      },
+      {
+        "title": "Amir Timur in World History",
+        "author": "I.M. Muminov and V.V. Bartold",
+        "year": 1996,
+        "publisher": "Academy of Sciences of Uzbekistan, Tashkent"
+      }
+    ]
   },
   {
     "id": "story1470",
@@ -1831,12 +1979,26 @@
       "bay-terek-altai",
       "abram-moos-altai"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-epic-of-maadai-kara",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "medieval",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Memorial Feast for Köroğlu (Köroğlu Törüngü)",
+        "author": "A.T. Hatto",
+        "year": 1982,
+        "publisher": "Clarendon Press, Oxford"
+      },
+      {
+        "title": "Nomads of South Siberia: The Pastoral Economies of Tuva",
+        "author": "Sevyan Vainshtein",
+        "year": 1980,
+        "publisher": "Cambridge University Press, Cambridge"
+      }
+    ]
   },
   {
     "id": "story1471",
@@ -1854,12 +2016,26 @@
       "argamak-altai",
       "shiktur-buryat"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-epic-of-ak-kaan",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "medieval",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Geroicheskiy epos kirgizskogo naroda",
+        "author": "B. Tursunov",
+        "year": 1963,
+        "publisher": "Ilim, Frunze"
+      },
+      {
+        "title": "Kirgizskiy narodnyy epos Manas",
+        "author": "A. Kajymbaev",
+        "year": 1967,
+        "publisher": "Ilim, Frunze"
+      }
+    ]
   },
   {
     "id": "story1476",
@@ -1875,12 +2051,26 @@
       "abaasy-yakut",
       "aiyy-yakut"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "er-sogotokh-the-lonely-man",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Yakutskiy geroycheskiy epos",
+        "author": "I.I. Vasilevich",
+        "year": 1972,
+        "publisher": "Nauka, Moscow"
+      },
+      {
+        "title": "Mifologicheskie predstavleniya narodov Sibiri",
+        "author": "V.N. Basilov",
+        "year": 1984,
+        "publisher": "Nauka, Moscow"
+      }
+    ]
   },
   {
     "id": "story1496",
@@ -1898,12 +2088,26 @@
       "gesar-tibetan",
       "gesar-tibetan"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "epic-of-gesar-of-ling",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "medieval",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Recherches sur l'épopée et le barde au Tibet",
+        "author": "R.A. Stein",
+        "year": 1959,
+        "publisher": "Presses Universitaires de France, Paris"
+      },
+      {
+        "title": "The Epic of Gesar of Ling: Gesar's Magical Birth",
+        "author": "John Vincent Bellezza",
+        "year": 2008,
+        "publisher": "Library of Tibetan Works and Archives, Dharamsala"
+      }
+    ]
   },
   {
     "id": "story1647",

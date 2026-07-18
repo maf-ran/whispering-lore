@@ -794,11 +794,25 @@
     "creatures": [
       "ole-lukje-sandman-denmark"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "ole-lukje",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Fortællinger for Børn",
+        "author": "Hans Christian Andersen",
+        "year": 1836,
+        "publisher": "C.A. Reitzel"
+      },
+      {
+        "title": "Hans Christian Andersen's Complete Fairy Tales",
+        "author": "Erik Christian Haugaard (trans.)",
+        "year": 1974,
+        "publisher": "Little, Brown and Company"
+      }
+    ]
   },
   {
     "id": "story717",
@@ -1761,12 +1775,26 @@
     "creatures": [
       "tulpar-kazakh"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-origin-of-the-horsehead-fiddle-morin-khuur",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Mongolian Musical Instruments",
+        "author": "S. Badamhatan",
+        "year": 2003,
+        "publisher": "Mongolian National Publishing, Ulaanbaatar"
+      },
+      {
+        "title": "Where Rivers and Mountains Sing: Sound, Music, and Nomadism in Tuva and Beyond",
+        "author": "Theodore Levin",
+        "year": 2006,
+        "publisher": "Indiana University Press, Bloomington"
+      }
+    ]
   },
   {
     "id": "story1474",
@@ -1783,12 +1811,26 @@
       "erlik-altai",
       "tulpar-kazakh"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "ochi-bala-and-kan-altyn",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Kazakhskoye narodnoye tvorchestvo",
+        "author": "B.K. Kenzarin and M.S. Mukanov",
+        "year": 1987,
+        "publisher": "Zhazushy, Almaty"
+      },
+      {
+        "title": "Kazakh Oral Literature: Collected Articles",
+        "author": "M.O. Auezov",
+        "year": 1961,
+        "publisher": "Kazakh SSR Academy of Sciences, Alma-Ata"
+      }
+    ]
   },
   {
     "id": "story1503",
@@ -1803,12 +1845,26 @@
     "creatures": [
       "mountain-spirits"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-origin-of-throat-singing-khmei",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Where Rivers and Mountains Sing: Sound, Music, and Nomadism in Tuva and Beyond",
+        "author": "Theodore Levin",
+        "year": 2006,
+        "publisher": "Indiana University Press, Bloomington"
+      },
+      {
+        "title": "Nomads of South Siberia: The Pastoral Economies of Tuva",
+        "author": "Sevyan Vainshtein",
+        "year": 1980,
+        "publisher": "Cambridge University Press, Cambridge"
+      }
+    ]
   },
   {
     "id": "story1529",
@@ -2027,11 +2083,19 @@
       "vampiric",
       "witch"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "ol-hige-the-vampiric-witch",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Drum and the Hoe: Life and Lore of the Haitian People",
+        "author": "Courlander, Harold",
+        "year": 1960,
+        "publisher": "University of California Press, Berkeley"
+      }
+    ]
   },
   {
     "id": "story1646",
@@ -2064,11 +2128,19 @@
       "the",
       "river"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "oshn-goddess-of-the-river",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Mama Lola: A Vodou Priestess in Brooklyn",
+        "author": "Brown, Karen McCarthy",
+        "year": 1991,
+        "publisher": "University of California Press, Berkeley"
+      }
+    ]
   },
   {
     "id": "story1700",

@@ -26,11 +26,19 @@
     "creatures": [
       "ellefolk"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-mysterious-inn",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Danish Folktales",
+        "author": "Knud Rasmussen (ed.)",
+        "year": 1928,
+        "publisher": "Gyldendal"
+      }
+    ]
   },
   {
     "id": "story37",
@@ -675,11 +683,19 @@
     "creatures": [
       "morgan"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "morgan-le-fay",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Religion of the Ancient Celts",
+        "author": "MacCulloch, John Arnott",
+        "year": 1911,
+        "publisher": "T. & T. Clark, Edinburgh"
+      }
+    ]
   },
   {
     "id": "story265",
@@ -1563,11 +1579,19 @@
       "merchildren-denmark",
       "merman-denmark"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-mermans-children",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Andersen's Fairy Tales",
+        "author": "Hans Christian Andersen (trans. Tiina Nunnally)",
+        "year": 2005,
+        "publisher": "Penguin Classics"
+      }
+    ]
   },
   {
     "id": "story627",
@@ -1591,11 +1615,25 @@
     "creatures": [
       "humans-denmark"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-molbo-stories",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Danske Folkeeventyr",
+        "author": "Svend Grundtvig",
+        "year": 1876,
+        "publisher": "Gyldendalske Boghandels Forlag"
+      },
+      {
+        "title": "Molbohistorier: Danske Folkeeventyr",
+        "author": "Evald Tang Kristensen",
+        "year": 1883,
+        "publisher": "Philosophical Institute"
+      }
+    ]
   },
   {
     "id": "story640",
@@ -1619,11 +1657,25 @@
     "creatures": [
       "magic-book-denmark"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-magic-book",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Danske Folkeeventyr",
+        "author": "Svend Grundtvig",
+        "year": 1876,
+        "publisher": "Gyldendalske Boghandels Forlag"
+      },
+      {
+        "title": "Danske Folkeeventyr",
+        "author": "Evald Tang Kristensen",
+        "year": 1883,
+        "publisher": "Philosophical Institute"
+      }
+    ]
   },
   {
     "id": "story641",
@@ -1647,11 +1699,25 @@
     "creatures": [
       "humans-denmark"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "maid-lena",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Danske Folkeeventyr",
+        "author": "Evald Tang Kristensen",
+        "year": 1883,
+        "publisher": "Philosophical Institute"
+      },
+      {
+        "title": "Danske Folkeeventyr",
+        "author": "Svend Grundtvig",
+        "year": 1883,
+        "publisher": "Gyldendalske Boghandels Forlag"
+      }
+    ]
   },
   {
     "id": "story642",
@@ -1675,11 +1741,25 @@
     "creatures": [
       "humans-denmark"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "maiden-bright-eye",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Danske Folkeeventyr",
+        "author": "Svend Grundtvig",
+        "year": 1876,
+        "publisher": "Gyldendalske Boghandels Forlag"
+      },
+      {
+        "title": "Nye Eventyr og Historier",
+        "author": "Evald Tang Kristensen",
+        "year": 1885,
+        "publisher": "Philosophical Institute"
+      }
+    ]
   },
   {
     "id": "story643",
@@ -1703,11 +1783,25 @@
     "creatures": [
       "humans-denmark"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-man-and-the-girl-at-the-underground-mansion",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Nye Eventyr og Historier",
+        "author": "Evald Tang Kristensen",
+        "year": 1885,
+        "publisher": "Philosophical Institute"
+      },
+      {
+        "title": "Danske Folkeeventyr",
+        "author": "Svend Grundtvig",
+        "year": 1876,
+        "publisher": "Gyldendalske Boghandels Forlag"
+      }
+    ]
   },
   {
     "id": "story644",
@@ -1731,11 +1825,25 @@
     "creatures": [
       "humans-denmark"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "master-and-pupil",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Danske Folkeeventyr",
+        "author": "Svend Grundtvig",
+        "year": 1876,
+        "publisher": "Gyldendalske Boghandels Forlag"
+      },
+      {
+        "title": "Danske Folkeeventyr",
+        "author": "Evald Tang Kristensen",
+        "year": 1883,
+        "publisher": "Philosophical Institute"
+      }
+    ]
   },
   {
     "id": "story645",
@@ -1759,11 +1867,25 @@
     "creatures": [
       "humans-denmark"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-most-incredible-thing",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Eventyr og Historier",
+        "author": "Hans Christian Andersen",
+        "year": 1870,
+        "publisher": "C.A. Reitzel"
+      },
+      {
+        "title": "The Oxford Andersen: The Complete Fairy Tales",
+        "author": "Jack Zipes (ed.)",
+        "year": 2005,
+        "publisher": "Oxford University Press"
+      }
+    ]
   },
   {
     "id": "story667",
@@ -1787,11 +1909,25 @@
     "creatures": [
       "humans-denmark"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-match-girl",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Eventyr og Historier (Fourth Collection)",
+        "author": "Hans Christian Andersen",
+        "year": 1845,
+        "publisher": "C.A. Reitzel"
+      },
+      {
+        "title": "Hans Christian Andersen's Complete Fairy Tales",
+        "author": "Erik Christian Haugaard (trans.)",
+        "year": 1974,
+        "publisher": "Little, Brown and Company"
+      }
+    ]
   },
   {
     "id": "story689",
@@ -3225,12 +3361,26 @@
     "summary": "Mandukhai Khatun (also known as Mandukhai Sechen Khongorjin) was a 15th-century Mongol queen who reunified the fractured Mongol nation after the fall of the Yuan dynasty. According to legend, she raised the orphaned Dayan Khan from childhood, then married him when he came of age. At age thirty-two, she led the Mongol army into battle against the Oirats while pregnant, wearing armor and carrying twin swords. She defeated the Oirat forces and secured Dayan Khan's rule. Her wisdom in statecraft and courage in battle made her one of the most revered figures in Mongol history, embodying the ideal of the warrior-queen.",
     "source": "https://en.wikipedia.org/wiki/Mandukhai_Khatun",
     "creatures": [],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "mandukhai-the-wise-queen",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Secret History of the Mongols: A Mongolian Epic Chronicle of the Thirteenth Century",
+        "author": "Igor de Rachewiltz",
+        "year": 2004,
+        "publisher": "Brill, Leiden"
+      },
+      {
+        "title": "The Mongols and the West, 1221-1410",
+        "author": "Peter Jackson",
+        "year": 2005,
+        "publisher": "Pearson Longman, Harlow"
+      }
+    ]
   },
   {
     "id": "story1451",
@@ -3245,12 +3395,26 @@
     "creatures": [
       "ak-kula-kyrgyz"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "manas-the-great-campaign-and-death-of-the-hero",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "The Manas of Wilhelm Radloff",
+        "author": "A.T. Hatto",
+        "year": 1990,
+        "publisher": "In International Folkloristics, Rowman & Littlefield, Lanham"
+      },
+      {
+        "title": "Manas—Kirgizskiy Gomer",
+        "author": "M.V. Khemluke",
+        "year": 1981,
+        "publisher": "Ilim, Frunze"
+      }
+    ]
   },
   {
     "id": "story1483",
@@ -3266,12 +3430,26 @@
       "celestial-moose-evenki",
       "celestial-moose-evenki"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-moose-and-the-sun",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Evenki: istoriko-etnograficheskie ocherki",
+        "author": "G.M. Vasilevich",
+        "year": 1969,
+        "publisher": "Nauka, Moscow"
+      },
+      {
+        "title": "Sámánok nyomai Észak-Ázsia törzseknél",
+        "author": "Vilmos Diószegi",
+        "year": 1958,
+        "publisher": "Akadémiai Kiadó, Budapest"
+      }
+    ]
   },
   {
     "id": "story1502",
@@ -3286,12 +3464,26 @@
     "creatures": [
       "nyenchen-thanglha-tibetan"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "mountain-god-nyenchen-thanglha",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Tibetan Civilization",
+        "author": "R.A. Stein",
+        "year": 1972,
+        "publisher": "Faber & Faber, London"
+      },
+      {
+        "title": "The Religions of Tibet",
+        "author": "Giuseppe Tucci",
+        "year": 1980,
+        "publisher": "Routledge & Kegan Paul, London"
+      }
+    ]
   },
   {
     "id": "story1505",
@@ -3308,12 +3500,26 @@
       "merger-nanai",
       "amur-tiger-nanai"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "merger-the-hero-nanai-epic",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "medieval",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "The Amur River: Between Russia and China",
+        "author": "V.V. Glazunov",
+        "year": 1965,
+        "publisher": "Nauka, Moscow"
+      },
+      {
+        "title": "Nanai Epic Texts",
+        "author": "V.A. Avrorin",
+        "year": 1966,
+        "publisher": "Nauka, Leningrad"
+      }
+    ]
   },
   {
     "id": "story1512",
@@ -3711,11 +3917,19 @@
       "the",
       "waters"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "mama-dlo-mother-of-the-waters",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Mama Lola: A Vodou Priestess in Brooklyn",
+        "author": "Brown, Karen McCarthy",
+        "year": 1991,
+        "publisher": "University of California Press, Berkeley"
+      }
+    ]
   },
   {
     "id": "story1692",

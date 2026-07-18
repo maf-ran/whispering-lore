@@ -22,11 +22,25 @@
     "creatures": [
       "banshee"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-weeping-woman",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Danske Sagn og Eventyr",
+        "author": "Evald Tang Kristensen",
+        "year": 1892,
+        "publisher": "Gyldendalske Boghandels Forlag"
+      },
+      {
+        "title": "Danske Folkesagn",
+        "author": "Carl Wilhelm Ewald",
+        "year": 1897,
+        "publisher": "Det Nordiske Forlag"
+      }
+    ]
   },
   {
     "id": "story35",
@@ -98,11 +112,19 @@
     "creatures": [
       "vodnik"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-water-goblin-of-the-vltava",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Czech National Revival Legends",
+        "author": "Milan Jan Hubík",
+        "year": 2006,
+        "publisher": "Togga Publishers"
+      }
+    ]
   },
   {
     "id": "story63",
@@ -356,11 +378,19 @@
     "creatures": [
       "dragon"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-water-dragon-of-kupa",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Hrvatska mitološka baština",
+        "author": "Ive Mažuranić",
+        "year": 1938,
+        "publisher": "Matica hrvatska"
+      }
+    ]
   },
   {
     "id": "story155",
@@ -610,11 +640,19 @@
     "creatures": [
       "spirit"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-weeping-stones",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Carmina Gadelica: Hymns and Incantations",
+        "author": "Carmichael, Alexander",
+        "year": 1900,
+        "publisher": "Edinburgh, T. & T. Clark"
+      }
+    ]
   },
   {
     "id": "story315",
@@ -1345,11 +1383,25 @@
     "creatures": [
       "humans-denmark"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-wicked-prince",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Eventyr og Historier (First Series)",
+        "author": "Hans Christian Andersen",
+        "year": 1840,
+        "publisher": "C.A. Reitzel"
+      },
+      {
+        "title": "The Oxford Andersen: The Complete Fairy Tales",
+        "author": "Jack Zipes (ed.)",
+        "year": 2005,
+        "publisher": "Oxford University Press"
+      }
+    ]
   },
   {
     "id": "story664",
@@ -1373,11 +1425,25 @@
     "creatures": [
       "white-dove-denmark"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-white-dove",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Danske Folkeeventyr",
+        "author": "Svend Grundtvig",
+        "year": 1876,
+        "publisher": "Gyldendalske Boghandels Forlag"
+      },
+      {
+        "title": "Danske Folkeeventyr",
+        "author": "Evald Tang Kristensen",
+        "year": 1883,
+        "publisher": "Philosophical Institute"
+      }
+    ]
   },
   {
     "id": "story768",

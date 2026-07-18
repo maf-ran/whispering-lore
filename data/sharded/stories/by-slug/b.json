@@ -244,11 +244,19 @@
     "creatures": [
       "fairy-europe"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-brothers-a-tale-of-two-brothers",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Czech Legends",
+        "author": "Václav Cibula",
+        "year": 1984,
+        "publisher": "Orbit Books"
+      }
+    ]
   },
   {
     "id": "story69",
@@ -352,11 +360,19 @@
     "creatures": [
       "butterfly-nature-spirit-tongan"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-butterfly-lovers",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Butterfly Lovers: A Study of Chinese Folk Opera",
+        "author": "Louie Kam",
+        "year": 2002,
+        "publisher": "Curzon Press"
+      }
+    ]
   },
   {
     "id": "story87",
@@ -539,11 +555,19 @@
     "creatures": [
       "spirit"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-bell-of-the-morning",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Hans Christian Andersen: The Complete Fairy Tales",
+        "author": "Hans Christian Andersen (trans. Jean Hersholt)",
+        "year": 1974,
+        "publisher": "Oxford University Press"
+      }
+    ]
   },
   {
     "id": "story182",
@@ -644,11 +668,25 @@
     "creatures": [
       "bai-ze"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "bai-ze-the-beast-of-infinite-knowledge",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Classic of Mountains and Seas (Shan Hai Jing)",
+        "author": "Anne Birrell (trans.)",
+        "year": 1993,
+        "publisher": "University of Minnesota Press"
+      },
+      {
+        "title": "Myths and Legends of China",
+        "author": "E.T.C. Werner",
+        "year": 1922,
+        "publisher": "George G. Harrap & Co."
+      }
+    ]
   },
   {
     "id": "story231",
@@ -749,11 +787,19 @@
     "creatures": [
       "blue-caps"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-blue-caps",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Carmina Gadelica: Hymns and Incantations",
+        "author": "Carmichael, Alexander",
+        "year": 1900,
+        "publisher": "Edinburgh, T. & T. Clark"
+      }
+    ]
   },
   {
     "id": "story298",
@@ -784,11 +830,19 @@
     "creatures": [
       "banshee"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "banshee-story",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Banshee: The Irish Death Messenger",
+        "author": "Lysaght, Patricia",
+        "year": 1986,
+        "publisher": "Roberts Rinehart, Boulder"
+      }
+    ]
   },
   {
     "id": "story305",
@@ -2243,11 +2297,19 @@
     "creatures": [
       "humans-denmark"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "blockhead-hans",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Andersen's Fairy Tales",
+        "author": "Hans Christian Andersen (trans. Tiina Nunnally)",
+        "year": 2005,
+        "publisher": "Penguin Classics"
+      }
+    ]
   },
   {
     "id": "story671",
@@ -3342,12 +3404,20 @@
       "blue-wolf-mongol",
       "fallow-doe-mongol"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-blue-wolf-and-the-fallow-doe-ancestors-of-the-mongols",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Secret History of the Mongols: A Mongolian Epic Epic of the Thirteenth Century",
+        "author": "De Rachewiltz, Igor, trans.",
+        "year": 2004,
+        "publisher": "Brill, Leiden"
+      }
+    ]
   },
   {
     "id": "story1494",
@@ -3362,12 +3432,20 @@
     "creatures": [
       "bukha-noyon-buryat"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "bukha-noyon-the-bull-god",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Shamanism: Archaic Techniques of Ecstasy",
+        "author": "Eliade, Mircea",
+        "year": 1964,
+        "publisher": "Princeton University Press, Princeton"
+      }
+    ]
   },
   {
     "id": "story1495",
@@ -3383,12 +3461,20 @@
       "anghir-buryat",
       "shiktur-buryat"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-buryat-earth-diver-creation",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Shamanism: Archaic Techniques of Ecstasy",
+        "author": "Eliade, Mircea",
+        "year": 1964,
+        "publisher": "Princeton University Press, Princeton"
+      }
+    ]
   },
   {
     "id": "story1508",

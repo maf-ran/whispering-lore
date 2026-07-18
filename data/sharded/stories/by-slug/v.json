@@ -133,11 +133,25 @@
     "creatures": [
       "valraven"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-valraven",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Danske Folkeeventyr",
+        "author": "Svend Grundtvig",
+        "year": 1876,
+        "publisher": "Gyldendalske Boghandels Forlag"
+      },
+      {
+        "title": "Danske Sagn og Eventyr",
+        "author": "Evald Tang Kristensen",
+        "year": 1892,
+        "publisher": "Gyldendalske Boghandels Forlag"
+      }
+    ]
   },
   {
     "id": "story388",

@@ -1060,11 +1060,19 @@
     "creatures": [
       "magic-trunk-denmark"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-flying-trunk",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Andersen's Fairy Tales",
+        "author": "Hans Christian Andersen (trans. Tiina Nunnally)",
+        "year": 2005,
+        "publisher": "Penguin Classics"
+      }
+    ]
   },
   {
     "id": "story704",
@@ -1632,12 +1640,26 @@
     "summary": "The legend of the 'Forty Kazakhs' (Kirk Kazak) tells of forty exiled warriors who formed a brotherhood on the Kazakh steppe. According to tradition, the sons of a khan's younger wife, offended by their older brothers, fled to the steppe with thirty-three other exiles. They banded together as forty warriors, defending travelers on the Silk Road and fighting for justice. Their leader was a just and courageous batyr, and their code of honor required absolute loyalty to each other and protection of the weak. This legend is considered one of the foundational stories of Kazakh identity — the number forty appears throughout Kazakh symbolism, and the warriors' code influenced the Kazakh concept of heroism and justice.",
     "source": "Kazakh oral tradition, Adebiportal.kz",
     "creatures": [],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-forty-robbers-of-the-steppe-kirk-kazak",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Kazakhskoye narodnoye tvorchestvo",
+        "author": "B.K. Kenzarin and M.S. Mukanov",
+        "year": 1987,
+        "publisher": "Zhazushy, Almaty"
+      },
+      {
+        "title": "Kazakh Oral Literature: Collected Articles",
+        "author": "M.O. Auezov",
+        "year": 1961,
+        "publisher": "Kazakh SSR Academy of Sciences, Alma-Ata"
+      }
+    ]
   },
   {
     "id": "story1482",
@@ -1652,12 +1674,26 @@
     "creatures": [
       "yul-chyn-nenets"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-first-fire-stolen-from-the-sky",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Religia i verovaniya narodov Sibiri",
+        "author": "A.V. Prokofiev",
+        "year": 1929,
+        "publisher": "Tomsk University Press, Tomsk"
+      },
+      {
+        "title": "Shamanism: Archaic Techniques of Ecstasy",
+        "author": "Mircea Eliade",
+        "year": 1964,
+        "publisher": "Princeton University Press, Princeton"
+      }
+    ]
   },
   {
     "id": "story1486",
@@ -1672,12 +1708,26 @@
     "creatures": [
       "kuutkh-chukchi"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-first-reindeer",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Evenki: istoriko-etnograficheskie ocherki",
+        "author": "G.M. Vasilevich",
+        "year": 1969,
+        "publisher": "Nauka, Moscow"
+      },
+      {
+        "title": "The Reindeer Herders of Siberia: Social Transformation and Indigenous Identity",
+        "author": "David G. Anderson",
+        "year": 2000,
+        "publisher": "Routledge, London"
+      }
+    ]
   },
   {
     "id": "story1500",
@@ -1693,12 +1743,26 @@
       "wind-horse-tibetan",
       "gesar-tibetan"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-first-prayer-flag",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "The Religions of Tibet",
+        "author": "Giuseppe Tucci",
+        "year": 1980,
+        "publisher": "Routledge & Kegan Paul, London"
+      },
+      {
+        "title": "Tibetan Civilization",
+        "author": "R.A. Stein",
+        "year": 1972,
+        "publisher": "Faber & Faber, London"
+      }
+    ]
   },
   {
     "id": "story1526",

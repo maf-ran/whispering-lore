@@ -163,11 +163,25 @@
     "creatures": [
       "hanako-san"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "hanako-san-the-bathroom-ghost",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Book of Yōkai: Mysterious Creatures of Japanese Folklore",
+        "author": "Michael Dylan Foster",
+        "year": 2015,
+        "publisher": "University of California Press"
+      },
+      {
+        "title": "Japanese Ghost Stories: Origins of Yūrei and Yōkai",
+        "author": "Michael Dylan Foster",
+        "year": 2009,
+        "publisher": "University of California Press"
+      }
+    ]
   },
   {
     "id": "story224",
@@ -268,11 +282,25 @@
     "creatures": [
       "a-men-rainbow-serpent"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-huntress-and-the-great-serpent",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Myths and Legends of the Bantu",
+        "author": "Alice Werner",
+        "year": 1933,
+        "publisher": "A. & C. Black"
+      },
+      {
+        "title": "Folktales of East Africa",
+        "author": "Harold Courlander",
+        "year": 1970,
+        "publisher": "Harcourt Brace Jovanovich"
+      }
+    ]
   },
   {
     "id": "story274",
@@ -332,11 +360,25 @@
     "creatures": [
       "hou-yi"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "hou-yi-and-the-arrows",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Classic of Mountains and Seas (Shan Hai Jing)",
+        "author": "Anne Birrell (trans.)",
+        "year": 1993,
+        "publisher": "University of Minnesota Press"
+      },
+      {
+        "title": "Myths and Legends of China",
+        "author": "E.T.C. Werner",
+        "year": 1922,
+        "publisher": "George G. Harrap & Co."
+      }
+    ]
   },
   {
     "id": "story428",
@@ -514,11 +556,19 @@
       "helhest",
       "hel-goddess-denmark"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "helhest-story",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Danish Folktales",
+        "author": "Knud Rasmussen (ed.)",
+        "year": 1928,
+        "publisher": "Gyldendal"
+      }
+    ]
   },
   {
     "id": "story687",

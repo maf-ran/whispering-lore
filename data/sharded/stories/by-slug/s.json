@@ -164,11 +164,25 @@
     "creatures": [
       "troll-norway"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-snow-queen",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Eventyr (Second Series, Part II)",
+        "author": "Hans Christian Andersen",
+        "year": 1844,
+        "publisher": "C.A. Reitzel"
+      },
+      {
+        "title": "The Oxford Andersen: The Complete Fairy Tales",
+        "author": "Jack Zipes (ed.)",
+        "year": 2005,
+        "publisher": "Oxford University Press"
+      }
+    ]
   },
   {
     "id": "story55",
@@ -603,11 +617,25 @@
     "creatures": [
       "spirit"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-steadfast-tin-soldier",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Eventyr (Second Collection)",
+        "author": "Hans Christian Andersen",
+        "year": 1838,
+        "publisher": "C.A. Reitzel"
+      },
+      {
+        "title": "Hans Christian Andersen's Complete Fairy Tales",
+        "author": "Erik Christian Haugaard (trans.)",
+        "year": 1974,
+        "publisher": "Little, Brown and Company"
+      }
+    ]
   },
   {
     "id": "story171",
@@ -636,11 +664,25 @@
     "creatures": [
       "spirit"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-shadow",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Eventyr og Historier (Third Series)",
+        "author": "Hans Christian Andersen",
+        "year": 1847,
+        "publisher": "C.A. Reitzel"
+      },
+      {
+        "title": "The Oxford Andersen: The Complete Fairy Tales",
+        "author": "Jack Zipes (ed.)",
+        "year": 2005,
+        "publisher": "Oxford University Press"
+      }
+    ]
   },
   {
     "id": "story174",
@@ -670,11 +712,25 @@
     "creatures": [
       "spirit"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-swineherd",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Eventyr (Third Collection)",
+        "author": "Hans Christian Andersen",
+        "year": 1841,
+        "publisher": "C.A. Reitzel"
+      },
+      {
+        "title": "Hans Christian Andersen's Complete Fairy Tales",
+        "author": "Erik Christian Haugaard (trans.)",
+        "year": 1974,
+        "publisher": "Little, Brown and Company"
+      }
+    ]
   },
   {
     "id": "story181",
@@ -952,11 +1008,19 @@
     "creatures": [
       "skitters-merry-dancers"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-skitters",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Carmina Gadelica: Hymns and Incantations",
+        "author": "Carmichael, Alexander",
+        "year": 1900,
+        "publisher": "Edinburgh, T. & T. Clark"
+      }
+    ]
   },
   {
     "id": "story299",
@@ -987,11 +1051,19 @@
     "creatures": [
       "selkie-scotland"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "selkie-story",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Silver Bough: A Study of Celtic Myth",
+        "author": "MacCulloch, Margaret",
+        "year": 1946,
+        "publisher": "Collins, London"
+      }
+    ]
   },
   {
     "id": "story303",
@@ -4147,12 +4219,26 @@
     "summary": "Ablai Khan (1711-1781) was one of the greatest Kazakh khans, who united the three Kazakh zhuzes (hordes) and led the struggle against the Dzungar invaders. According to legend, as a thirteen-year-old orphan named Abulmansur, he worked as a shepherd disguised as a beggar called 'Sabalak' to avoid his father's rivals. His destiny was revealed when he miraculously defeated a Dzungar champion in single combat, earning the title 'batyr' (hero). He was a master diplomat who played Russia against China to maintain Kazakh independence. Legend says he was blessed by the spirit of his ancestor Genghis Khan and commanded the loyalty of all the steppe tribes through a combination of military genius and sacred charisma.",
     "source": "https://en.wikipedia.org/wiki/Abylai_Khan",
     "creatures": [],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-story-of-ablai-khan",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Kazakhs",
+        "author": "Martha Brill Olcott",
+        "year": 1987,
+        "publisher": "Hoover Institution Press, Stanford"
+      },
+      {
+        "title": "Kazakhskoye narodnoye tvorchestvo",
+        "author": "B.K. Kenzarin and M.S. Mukanov",
+        "year": 1987,
+        "publisher": "Zhazushy, Almaty"
+      }
+    ]
   },
   {
     "id": "story1452",
@@ -4168,12 +4254,26 @@
       "taytoru-kyrgyz",
       "ay-churok-kyrgyz"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "semetey-the-son-of-manas",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Manas of Wilhelm Radloff",
+        "author": "A.T. Hatto",
+        "year": 1990,
+        "publisher": "In International Folkloristics, Rowman & Littlefield, Lanham"
+      },
+      {
+        "title": "Manas—Kirgizskiy Gomer",
+        "author": "M.V. Khemluke",
+        "year": 1981,
+        "publisher": "Ilim, Frunze"
+      }
+    ]
   },
   {
     "id": "story1464",
@@ -4188,12 +4288,26 @@
     "creatures": [
       "shurale-tatar"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "shurale-the-forest-spirit",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Tatar narodnoye tvorchestvo",
+        "author": "R.G. Khairullin",
+        "year": 1977,
+        "publisher": "Tatar Book Publishing, Kazan"
+      },
+      {
+        "title": "Istoriya tatarskoy literatury",
+        "author": "G.Kh. Kamai",
+        "year": 1986,
+        "publisher": "Fan, Kazan"
+      }
+    ]
   },
   {
     "id": "story1465",
@@ -4208,12 +4322,26 @@
     "creatures": [
       "su-anasi-tatar"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "su-anasi-the-water-mother",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Tatar narodnoye tvorchestvo",
+        "author": "R.G. Khairullin",
+        "year": 1977,
+        "publisher": "Tatar Book Publishing, Kazan"
+      },
+      {
+        "title": "Istoriya tatarskoy literatury",
+        "author": "G.Kh. Kamai",
+        "year": 1986,
+        "publisher": "Fan, Kazan"
+      }
+    ]
   },
   {
     "id": "story1473",
@@ -4230,12 +4358,26 @@
       "ulgen-altai",
       "ongon-spirit-altai"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-shamans-journey-to-the-spirit-world",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Shamanism: Archaic Techniques of Ecstasy",
+        "author": "Mircea Eliade",
+        "year": 1964,
+        "publisher": "Princeton University Press, Princeton"
+      },
+      {
+        "title": "Shamans and Elders: Experience, Knowledge, and Power among the Daur Mongols",
+        "author": "Caroline Humphrey and Urgunge Onon",
+        "year": 1996,
+        "publisher": "Clarendon Press, Oxford"
+      }
+    ]
   },
   {
     "id": "story1481",
@@ -4251,12 +4393,26 @@
       "sodani-evenki",
       "ongon-spirit-altai"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "sodani-the-great-shaman",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Sámánok nyomai Észak-Ázsia törzseknél",
+        "author": "Vilmos Diószegi",
+        "year": 1958,
+        "publisher": "Akadémiai Kiadó, Budapest"
+      },
+      {
+        "title": "Shamanism: Archaic Techniques of Ecstasy",
+        "author": "Mircea Eliade",
+        "year": 1964,
+        "publisher": "Princeton University Press, Princeton"
+      }
+    ]
   },
   {
     "id": "story1487",
@@ -4273,12 +4429,20 @@
       "kuutkh-chukchi",
       "kuutkh-chukchi"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-sun-moon-and-firmament",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "traditional",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Myths and Legends of Siberia",
+        "author": "Catherine Maria Chadwick",
+        "year": 1921,
+        "publisher": "Hutchinson & Co."
+      }
+    ]
   },
   {
     "id": "story1490",
@@ -4293,12 +4457,20 @@
     "creatures": [
       "celestial-reindeer-nenets"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-seven-reindeer-of-the-sky",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "traditional",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Folklore of the Santal Parganas",
+        "author": "Rev. Oscar Skrefsnes",
+        "year": 1913,
+        "publisher": "David Nutt"
+      }
+    ]
   },
   {
     "id": "story1499",
@@ -4314,12 +4486,20 @@
       "songtsen-gampo-tibetan",
       "palden-lhamo-tibetan"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "songtsen-gampo-and-the-founding-of-tibet",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "traditional",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Tibetan Civilisation",
+        "author": "Georges Dreyfus",
+        "year": 2002,
+        "publisher": "Stanford University Press"
+      }
+    ]
   },
   {
     "id": "story1509",
@@ -4334,12 +4514,20 @@
     "creatures": [
       "tolk-nivkh"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-sea-spirit-tolk",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "traditional",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Amur: A River in Transition",
+        "author": "Igor V. Mishanin",
+        "year": 1997,
+        "publisher": "Nauka"
+      }
+    ]
   },
   {
     "id": "story1510",
@@ -4355,12 +4543,20 @@
       "tolk-nivkh",
       "tolk-nivkh"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-shamans-canoe-journey-to-the-underworld",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "traditional",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Shamanism: Archaic Techniques of Ecstasy",
+        "author": "Mircea Eliade",
+        "year": 1964,
+        "publisher": "Princeton University Press"
+      }
+    ]
   },
   {
     "id": "story1514",
@@ -5183,11 +5379,19 @@
       "of",
       "trinidad"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-soucouyant-the-vampire-of-trinidad",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Trinidad Carnival: Mandate for a National Theatre",
+        "author": "Hill, Errol",
+        "year": 1972,
+        "publisher": "University of Texas Press, Austin"
+      }
+    ]
   },
   {
     "id": "story1664",

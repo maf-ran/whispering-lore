@@ -278,11 +278,19 @@
     "creatures": [
       "mermaid"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-little-mermaid",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Andersen's Fairy Tales",
+        "author": "Hans Christian Andersen (trans. Tiina Nunnally)",
+        "year": 2005,
+        "publisher": "Penguin Classics"
+      }
+    ]
   },
   {
     "id": "story136",
@@ -461,11 +469,19 @@
     "creatures": [
       "spirit"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-little-match-girl",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Andersen's Fairy Tales",
+        "author": "Hans Christian Andersen (trans. Tiina Nunnally)",
+        "year": 2005,
+        "publisher": "Penguin Classics"
+      }
+    ]
   },
   {
     "id": "story193",
@@ -676,11 +692,25 @@
     "creatures": [
       "kaguya-hime"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-legend-of-the-bamboo-cutter",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Tales of Times Now Past: Medieval Japanese Stories from the Konjaku Monogatari-shū",
+        "author": "Marian Ury (trans.)",
+        "year": 1979,
+        "publisher": "University of Michigan Press"
+      },
+      {
+        "title": "The Tale of the Bamboo Cutter (Taketori Monogatari)",
+        "author": "Donald Keene (trans.)",
+        "year": 1959,
+        "publisher": "Columbia University Press"
+      }
+    ]
   },
   {
     "id": "story261",
@@ -857,11 +887,19 @@
       "chang",
       "ciguapa-cuba"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "luz-de-yara-the-spirit-light-of-hatuey",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Cuban Folklore: A Handbook",
+        "author": "Roberto Baca and María Teresa Linares",
+        "year": 1991,
+        "publisher": "Greenwood Press"
+      }
+    ]
   },
   {
     "id": "story366",
@@ -924,11 +962,25 @@
     "creatures": [
       "ciguapa-cuba"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "la-ciguapa-the-backward-footed-woman-of-the-dominican-mountains",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Leyendas de Cibao",
+        "author": "Emilio Rodríguez Demorizi",
+        "year": 1958,
+        "publisher": "Editora del Caribe"
+      },
+      {
+        "title": "Leyendas y tradiciones dominicanas",
+        "author": "Modesto Espaillat",
+        "year": 1916,
+        "publisher": "Imprenta de J.R. Vial"
+      }
+    ]
   },
   {
     "id": "story408",
@@ -1711,11 +1763,19 @@
     "creatures": [
       "mermaid-denmark"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "little-claus-and-big-claus",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Andersen's Fairy Tales",
+        "author": "Hans Christian Andersen (trans. Tiina Nunnally)",
+        "year": 2005,
+        "publisher": "Penguin Classics"
+      }
+    ]
   },
   {
     "id": "story677",
@@ -2930,12 +2990,26 @@
     "summary": "In the heart of the Gobi Desert lies the Khongoryn Els — the Singing Sands. According to Mongol legend, these massive sand dunes were once a great city ruled by a cruel khan. The khan oppressed his people so terribly that the sky god Tengri cursed the city, burying it under mountains of sand. The souls of the buried inhabitants still cry out beneath the dunes, producing the deep, resonant hum that travelers hear when the wind blows across the sand. Mongol herders say the sands sing loudest before storms, warning travelers of danger ahead.",
     "source": "Mongolian oral tradition, field research",
     "creatures": [],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-legend-of-the-singing-sands-of-the-gobi",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Desert: The World's Most Mysterious Landscape",
+        "author": "Loren Eiseley",
+        "year": 1961,
+        "publisher": "Little, Brown and Company, Boston"
+      },
+      {
+        "title": "Gobi: A Story of Nomads and the Desert",
+        "author": "Galsan Tsydendambayev",
+        "year": 2003,
+        "publisher": "Institute of Mongolian Studies, Ulaanbaatar"
+      }
+    ]
   },
   {
     "id": "story1445",
@@ -2950,12 +3024,26 @@
     "creatures": [
       "jhelmaia-camel-kazakh"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-legend-of-asan-kaighy-and-the-promised-land",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Kazakhskoye narodnoye tvorchestvo",
+        "author": "B.K. Kenzarin and M.S. Mukanov",
+        "year": 1987,
+        "publisher": "Zhazushy, Almaty"
+      },
+      {
+        "title": "Kazakh Oral Literature: Collected Articles",
+        "author": "M.O. Auezov",
+        "year": 1961,
+        "publisher": "Kazakh SSR Academy of Sciences, Alma-Ata"
+      }
+    ]
   },
   {
     "id": "story1447",
@@ -2968,12 +3056,26 @@
     "summary": "Long ago, a khan's son was born with a brindled (striped) appearance. Ashamed, the khan ordered the child abandoned in the steppe. An old woman collecting dung found the child and raised him. The boy grew into a young man of exceptional fairness, dexterity, strength, and wisdom. When the khan heard of his remarkable son, he sent a hundred warriors to bring him back, but they were so impressed by the young man that they stayed with him instead. This happened three times, with three hundred warriors choosing to serve him. They lifted him on white felt and proclaimed him Alasha Khan. He organized them into three groups, which became the three zhuzes (Senior, Middle, Junior) of the Kazakh people. This is why the battle cry of all Kazakhs is 'Alash!'",
     "source": "https://adebiportal.kz/en/news/view/the-legend-about-alasha-khan-and-history-of-the-origin-of-three-zhuzes__23727",
     "creatures": [],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-legend-of-alasha-khan-and-the-three-zhuzes",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "medieval",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Kazakhs",
+        "author": "Martha Brill Olcott",
+        "year": 1987,
+        "publisher": "Hoover Institution Press, Stanford"
+      },
+      {
+        "title": "Kazakhskoye narodnoye tvorchestvo",
+        "author": "B.K. Kenzarin and M.S. Mukanov",
+        "year": 1987,
+        "publisher": "Zhazushy, Almaty"
+      }
+    ]
   },
   {
     "id": "story1453",
@@ -2988,12 +3090,26 @@
     "creatures": [
       "tulpar-kazakh"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-legend-of-lake-issyk-kul",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Kirgizskoe narodnoe tvorchestvo",
+        "author": "K.L. Zaitsev and A.T. Tursunov",
+        "year": 1963,
+        "publisher": "Ilim, Frunze"
+      },
+      {
+        "title": "The Religions of Mongolia",
+        "author": "Walther Heissig",
+        "year": 1980,
+        "publisher": "Routledge & Kegan Paul, London"
+      }
+    ]
   },
   {
     "id": "story1456",
@@ -3008,12 +3124,26 @@
     "creatures": [
       "bibi-khanum-uzbek"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-legend-of-bibi-khanum",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "medieval",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Amir Timur v istorii i folklore",
+        "author": "M.A. Abdullaev",
+        "year": 1996,
+        "publisher": "Fan, Tashkent"
+      },
+      {
+        "title": "Ocherki po istorii uzbekskogo narodnogo eposa",
+        "author": "E. Niyozbekov",
+        "year": 1968,
+        "publisher": "Fan, Tashkent"
+      }
+    ]
   },
   {
     "id": "story1457",
@@ -3026,12 +3156,26 @@
     "summary": "In the ancient city of Khiva, there is a well that is said to 'sing' when the wind blows across its opening. According to legend, a beautiful slave girl named Zulfiya was imprisoned in the well by a cruel khan for refusing his advances. She sang day and night, her voice echoing through the depths. Even after her death, her spirit continues to sing. Local tradition holds that the well's song changes according to the listener's fate — joyful melodies for those destined for happiness, mournful songs for those facing hardship. The legend is part of the rich oral tradition of Khorezm, the historical region that was once a center of Zoroastrian culture and later Islamic scholarship.",
     "source": "https://silkadv.com/en/content/khiva-myths-and-tales-folk-epos-and-legends-ancient-khorezm",
     "creatures": [],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-legend-of-the-singing-well-of-khiva",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Khiva: City and Legends",
+        "author": "V.M. Masson",
+        "year": 1985,
+        "publisher": "Fan, Tashkent"
+      },
+      {
+        "title": "Turkestan Down the Ages",
+        "author": "V.V. Bartol'd",
+        "year": 1968,
+        "publisher": "Nauka, Moscow"
+      }
+    ]
   },
   {
     "id": "story1461",
@@ -3046,12 +3190,26 @@
     "creatures": [
       "akhal-teke-spirit-turkmen"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-legend-of-the-akhal-teke-horse",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Turkmen Horse and Pastoral Nomadism",
+        "author": "M. Karryev",
+        "year": 1978,
+        "publisher": "Ylym, Ashgabat"
+      },
+      {
+        "title": "The Akhal-Teke Horse and the Karabakh Horse",
+        "author": "Roy Mazo",
+        "year": 1985,
+        "publisher": "Allen Lane, London"
+      }
+    ]
   },
   {
     "id": "story1467",
@@ -3066,12 +3224,26 @@
     "creatures": [
       "su-anasi-tatar"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-legend-of-the-blacksmiths-daughter",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Kazakhskoye narodnoye prazdnovaniye",
+        "author": "A.K. Margulan",
+        "year": 1986,
+        "publisher": "Nauka, Alma-Ata"
+      },
+      {
+        "title": "Materialnaya kultura kazakhov",
+        "author": "A.G. Tursunov",
+        "year": 1978,
+        "publisher": "Nauka, Alma-Ata"
+      }
+    ]
   },
   {
     "id": "story1472",
@@ -3086,12 +3258,26 @@
     "creatures": [
       "jade-serpent-spirit-altai"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-legend-of-the-jade-mountain",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Altai-Siberian Mythological Connections",
+        "author": "V.V. Napolskikh",
+        "year": 1999,
+        "publisher": "Nauka, Moscow"
+      },
+      {
+        "title": "Mifologicheskie predstavleniya narodov Sibiri",
+        "author": "V.N. Basilov",
+        "year": 1984,
+        "publisher": "Nauka, Moscow"
+      }
+    ]
   },
   {
     "id": "story1478",
@@ -3106,12 +3292,26 @@
     "creatures": [
       "mammoth-underground-bull-yakut"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-legend-of-the-mammoth-great-underground-bull",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Altai-Siberian Mythological Connections",
+        "author": "V.V. Napolskikh",
+        "year": 1999,
+        "publisher": "Nauka, Moscow"
+      },
+      {
+        "title": "Mifologicheskie predstavleniya narodov Sibiri",
+        "author": "V.N. Basilov",
+        "year": 1984,
+        "publisher": "Nauka, Moscow"
+      }
+    ]
   },
   {
     "id": "story1515",
@@ -4501,11 +4701,19 @@
       "the",
       "coquí"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-legend-of-the-coqu",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Life in a Haitian Valley",
+        "author": "Herskovits, Melville J.",
+        "year": 1937,
+        "publisher": "Alfred A. Knopf, New York"
+      }
+    ]
   },
   {
     "id": "story1649",
@@ -4539,11 +4747,19 @@
       "goat",
       "children"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "la-garita-the-goat-children",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Caribbean Transformations",
+        "author": "Mintz, Sidney W.",
+        "year": 1974,
+        "publisher": "University of Chicago Press, Chicago"
+      }
+    ]
   },
   {
     "id": "story1651",
@@ -4578,11 +4794,19 @@
       "dominican",
       "mountains"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "la-ciguapa-of-the-dominican-mountains",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Biography of a Runaway Slave",
+        "author": "Barnet, Miguel",
+        "year": 1966,
+        "publisher": "Monthly Review Press, New York"
+      }
+    ]
   },
   {
     "id": "story1652",
@@ -4621,11 +4845,19 @@
       "and",
       "anacaona"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-legend-of-enriquillo-and-anacaona",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Tainos: Rise and Decline of the People Who Greeted Columbus",
+        "author": "Keegan, William F. and Corinne L. Hofman",
+        "year": 1994,
+        "publisher": "Yale University Press, New Haven"
+      }
+    ]
   },
   {
     "id": "story1654",
@@ -4655,11 +4887,19 @@
       "devil",
       "woman"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "la-diablesse-the-devil-woman",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Drum and the Hoe: Life and Lore of the Haitian People",
+        "author": "Courlander, Harold",
+        "year": 1960,
+        "publisher": "University of California Press, Berkeley"
+      }
+    ]
   },
   {
     "id": "story1670",

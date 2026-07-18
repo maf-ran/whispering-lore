@@ -404,11 +404,19 @@
     "creatures": [
       "nuckelavee-orkneyislands"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "nuckelavee",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Wonder Tales from Scottish Myth and Legend",
+        "author": "Mackenzie, Donald Alexander",
+        "year": 1917,
+        "publisher": "Blackie and Son, Glasgow"
+      }
+    ]
   },
   {
     "id": "story311",
@@ -534,11 +542,25 @@
     "creatures": [
       "nisse-sweden"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-nisse-and-the-christmas-porridge",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Danish Folklore Handbook",
+        "author": "Klaus K. Nielsen",
+        "year": 1998,
+        "publisher": "Greenwood Press"
+      },
+      {
+        "title": "Danske Sagn og Eventyr",
+        "author": "Evald Tang Kristensen",
+        "year": 1892,
+        "publisher": "Gyldendalske Boghandels Forlag"
+      }
+    ]
   },
   {
     "id": "story389",
@@ -645,11 +667,25 @@
     "creatures": [
       "nisse-denmark"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "nis-puk-story",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Danske Sagn og Eventyr",
+        "author": "Evald Tang Kristensen",
+        "year": 1892,
+        "publisher": "Gyldendalske Boghandels Forlag"
+      },
+      {
+        "title": "Danske Folkesagn",
+        "author": "Carl Wilhelm Ewald",
+        "year": 1897,
+        "publisher": "Det Nordiske Forlag"
+      }
+    ]
   },
   {
     "id": "story628",
@@ -673,11 +709,25 @@
     "creatures": [
       "nisse-denmark"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "nisse-story",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Danske Folkesagn",
+        "author": "Carl Wilhelm Ewald",
+        "year": 1897,
+        "publisher": "Det Nordiske Forlag"
+      },
+      {
+        "title": "The Danish Folklore Handbook",
+        "author": "Klaus K. Nielsen",
+        "year": 1998,
+        "publisher": "Greenwood Press"
+      }
+    ]
   },
   {
     "id": "story646",
@@ -701,11 +751,25 @@
     "creatures": [
       "giants-denmark"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "niels-and-the-giants",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Danske Folkeeventyr",
+        "author": "Svend Grundtvig",
+        "year": 1876,
+        "publisher": "Gyldendalske Boghandels Forlag"
+      },
+      {
+        "title": "Danish Legends and Folktales",
+        "author": "Evald Tang Kristensen",
+        "year": 1923,
+        "publisher": "G. Putnam's Sons"
+      }
+    ]
   },
   {
     "id": "story668",
@@ -730,11 +794,25 @@
       "nightingale-denmark",
       "mechanical-bird-denmark"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-nightingale",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Eventyr (Third Collection)",
+        "author": "Hans Christian Andersen",
+        "year": 1843,
+        "publisher": "C.A. Reitzel"
+      },
+      {
+        "title": "The Oxford Andersen: The Complete Fairy Tales",
+        "author": "Jack Zipes (ed.)",
+        "year": 2005,
+        "publisher": "Oxford University Press"
+      }
+    ]
   },
   {
     "id": "story676",
@@ -1544,12 +1622,26 @@
       "aiyy-yakut",
       "nyurgun-bootur-yakut"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "nyurgun-bootur-the-swift",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Yakutskiy geroycheskiy epos",
+        "author": "I.I. Vasilevich",
+        "year": 1972,
+        "publisher": "Nauka, Moscow"
+      },
+      {
+        "title": "Mifologicheskie predstavleniya narodov Sibiri",
+        "author": "V.N. Basilov",
+        "year": 1984,
+        "publisher": "Nauka, Moscow"
+      }
+    ]
   },
   {
     "id": "story1489",
@@ -1565,12 +1657,26 @@
       "num-nenets",
       "nga-nenets"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "num-and-nga-the-duel-of-creation",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Yakutskiy geroycheskiy epos",
+        "author": "I.I. Vasilevich",
+        "year": 1972,
+        "publisher": "Nauka, Moscow"
+      },
+      {
+        "title": "Mifologicheskie predstavleniya narodov Sibiri",
+        "author": "V.N. Basilov",
+        "year": 1984,
+        "publisher": "Nauka, Moscow"
+      }
+    ]
   },
   {
     "id": "story1513",

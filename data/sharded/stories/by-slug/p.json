@@ -100,11 +100,19 @@
     "creatures": [
       "demon"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-painted-skin",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Strange Tales from a Chinese Studio",
+        "author": "Pu Songling (trans. John Minford)",
+        "year": 2003,
+        "publisher": "Penguin Classics"
+      }
+    ]
   },
   {
     "id": "story85",
@@ -211,11 +219,25 @@
       "neang-neak-cambodian",
       "ra-egyptian"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-princess-and-the-pea",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Eventyr fortalte for Børn (First Collection)",
+        "author": "Hans Christian Andersen",
+        "year": 1835,
+        "publisher": "C.A. Reitzel"
+      },
+      {
+        "title": "The Oxford Andersen: The Complete Fairy Tales",
+        "author": "Jack Zipes (ed.)",
+        "year": 2005,
+        "publisher": "Oxford University Press"
+      }
+    ]
   },
   {
     "id": "story135",
@@ -431,11 +453,19 @@
     "creatures": [
       "p-ca"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "pca",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "lastUpdated": "2026-07-18",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "The Celtic Twilight",
+        "author": "Yeats, W.B.",
+        "year": 1893,
+        "publisher": "A.H. Bullen, London"
+      }
+    ]
   },
   {
     "id": "story340",
@@ -465,11 +495,19 @@
     "creatures": [
       "patasola"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-patasola",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Cultura popular colombiana: mitos, leyendas y tradiciones",
+        "author": "Libia Raquel Villamizar de la Torre",
+        "year": 2001,
+        "publisher": "Ediciones Guadalupe"
+      }
+    ]
   },
   {
     "id": "story364",
@@ -882,11 +920,25 @@
     "creatures": [
       "humans-denmark"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-prince-and-the-princess-in-the-forest",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Danske Folkeeventyr",
+        "author": "Svend Grundtvig",
+        "year": 1876,
+        "publisher": "Gyldendalske Boghandels Forlag"
+      },
+      {
+        "title": "Danske Folkeeventyr",
+        "author": "Evald Tang Kristensen",
+        "year": 1883,
+        "publisher": "Philosophical Institute"
+      }
+    ]
   },
   {
     "id": "story649",
@@ -910,11 +962,25 @@
     "creatures": [
       "white-bear-denmark"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "prince-whitebear",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Danske Folkeeventyr",
+        "author": "Svend Grundtvig",
+        "year": 1876,
+        "publisher": "Gyldendalske Boghandels Forlag"
+      },
+      {
+        "title": "Norwegian Folktales",
+        "author": "Peter Christen Asbjørnsen and Jørgen Moe",
+        "year": 1841,
+        "publisher": "J. W. Cappelen"
+      }
+    ]
   },
   {
     "id": "story650",
@@ -938,11 +1004,25 @@
     "creatures": [
       "wolf-prince-denmark"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "prince-wolf",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Danske Folkeeventyr",
+        "author": "Evald Tang Kristensen",
+        "year": 1883,
+        "publisher": "Philosophical Institute"
+      },
+      {
+        "title": "Danske Folkeeventyr",
+        "author": "Svend Grundtvig",
+        "year": 1876,
+        "publisher": "Gyldendalske Boghandels Forlag"
+      }
+    ]
   },
   {
     "id": "story652",
@@ -966,11 +1046,25 @@
     "creatures": [
       "humans-denmark"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-princess-in-the-chest",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Danske Folkeeventyr",
+        "author": "Svend Grundtvig",
+        "year": 1876,
+        "publisher": "Gyldendalske Boghandels Forlag"
+      },
+      {
+        "title": "Scandinavian Folktales",
+        "author": "Jacqueline Simpson",
+        "year": 1998,
+        "publisher": "Penguin Books"
+      }
+    ]
   },
   {
     "id": "story732",
@@ -2115,11 +2209,19 @@
       "spirit",
       "world"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "papa-legba-and-the-gate-of-the-spirit-world",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Voodoo in Haiti",
+        "author": "Métraux, Alfred",
+        "year": 1959,
+        "publisher": "Oxford University Press, New York"
+      }
+    ]
   },
   {
     "id": "story1653",
@@ -2155,11 +2257,19 @@
       "trinidadian",
       "forest"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "papa-bois-the-guardian-of-the-trinidadian-forest",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Trinidad Carnival: Mandate for a National Theatre",
+        "author": "Hill, Errol",
+        "year": 1972,
+        "publisher": "University of Texas Press, Austin"
+      }
+    ]
   },
   {
     "id": "story1690",

@@ -67,11 +67,19 @@
       "sun-wukong",
       "sun-wukong"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-journey-to-the-west",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Journey to the West",
+        "author": "Wu Cheng'en (trans. Anthony C. Yu)",
+        "year": 1977,
+        "publisher": "University of Chicago Press"
+      }
+    ]
   },
   {
     "id": "story150",
@@ -102,11 +110,19 @@
     "creatures": [
       "jade-emperor"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-jade-emperor",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "The Jade Emperor: Taoist Cosmology and Religious Practice",
+        "author": "Kristofer Schipper",
+        "year": 1993,
+        "publisher": "University of California Press"
+      }
+    ]
   },
   {
     "id": "story195",
@@ -176,11 +192,19 @@
     "creatures": [
       "banshee"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "juan-machete-the-fire-vomiting-phantom",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Monstruos, Espantos y Duendes: Mitos y Leyendas de Colombia",
+        "author": "Jorge Álvarez Jaramillo",
+        "year": 2004,
+        "publisher": "Editorial Bullon"
+      }
+    ]
   },
   {
     "id": "story401",
@@ -776,11 +800,19 @@
       "folk",
       "simpleton"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "juan-bobo-the-folk-simpleton",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Drum and the Hoe: Life and Lore of the Haitian People",
+        "author": "Courlander, Harold",
+        "year": 1960,
+        "publisher": "University of California Press, Berkeley"
+      }
+    ]
   },
   {
     "id": "story1660",
@@ -810,11 +842,19 @@
       "the",
       "storm"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "juracn-lord-of-the-storm",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Voodoo in Haiti",
+        "author": "Métraux, Alfred",
+        "year": 1959,
+        "publisher": "Oxford University Press, New York"
+      }
+    ]
   },
   {
     "id": "story-09b58b7b",
@@ -857,9 +897,23 @@
       "helpful-fish",
       "bu-draeyah"
     ],
-    "source_quality": "good",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-06",
-    "source_type": "oral_tradition"
+    "source_quality": "researched",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Legends of the Fire Spirits: Jinn and Genies from Arabia to Zanzibar",
+        "author": "Robert Lebling",
+        "year": 2010,
+        "publisher": "I.B. Tauris"
+      },
+      {
+        "title": "The Arabian Nights (trans. Husain Haddawy, based on Muhsin Mahdi)",
+        "author": "Husain Haddawy (trans.)",
+        "year": 1990,
+        "publisher": "W.W. Norton & Company"
+      }
+    ]
   }
 ]

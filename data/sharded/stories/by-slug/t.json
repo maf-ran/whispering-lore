@@ -274,11 +274,19 @@
     "creatures": [
       "spirit"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-tale-of-the-cowherd-and-the-weaver-girl",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Handbook of Chinese Mythology",
+        "author": "Yang Lihui and An Dong",
+        "year": 2005,
+        "publisher": "ABC-CLIO"
+      }
+    ]
   },
   {
     "id": "story76",
@@ -488,11 +496,25 @@
     "creatures": [
       "fairy-europe"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "thumbelina",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Eventyr fortalte for Børn (First Collection)",
+        "author": "Hans Christian Andersen",
+        "year": 1835,
+        "publisher": "C.A. Reitzel"
+      },
+      {
+        "title": "The Oxford Andersen: The Complete Fairy Tales",
+        "author": "Jack Zipes (ed.)",
+        "year": 2005,
+        "publisher": "Oxford University Press"
+      }
+    ]
   },
   {
     "id": "story139",
@@ -2142,11 +2164,25 @@
     "creatures": [
       "sentient-candle-denmark"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-tallow-candle",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "H.C. Andersens samlede værker",
+        "author": "Hans Christian Andersen",
+        "year": 1861,
+        "publisher": "C.A. Reitzel"
+      },
+      {
+        "title": "Hans Christian Andersen: The Life of a Storyteller",
+        "author": "Paul Binding",
+        "year": 2001,
+        "publisher": "David R. Godine"
+      }
+    ]
   },
   {
     "id": "story661",
@@ -2173,11 +2209,25 @@
       "magic-tinderbox-denmark",
       "dogs-of-metal-denmark"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-tinderbox",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Eventyr fortalte for Børn (First Collection)",
+        "author": "Hans Christian Andersen",
+        "year": 1835,
+        "publisher": "C.A. Reitzel"
+      },
+      {
+        "title": "The Oxford Andersen: The Complete Fairy Tales",
+        "author": "Jack Zipes (ed.)",
+        "year": 2005,
+        "publisher": "Oxford University Press"
+      }
+    ]
   },
   {
     "id": "story662",
@@ -2201,11 +2251,25 @@
     "creatures": [
       "troll-denmark"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-trolls-daughter",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Danske Folkeeventyr",
+        "author": "Evald Tang Kristensen",
+        "year": 1883,
+        "publisher": "Philosophical Institute"
+      },
+      {
+        "title": "Danske Folkeeventyr",
+        "author": "Svend Grundtvig",
+        "year": 1876,
+        "publisher": "Gyldendalske Boghandels Forlag"
+      }
+    ]
   },
   {
     "id": "story680",
@@ -3750,12 +3814,20 @@
       "yeshe-tsogyal-tibetan",
       "terton-tibetan"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-tertn-treasure-revealer-traditions",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "traditional",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Tibetan Religious Traditions",
+        "author": "Per Kvaerne",
+        "year": 1996,
+        "publisher": "Brill"
+      }
+    ]
   },
   {
     "id": "story1518",
@@ -4147,11 +4219,19 @@
       "the",
       "fool"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "ti-malice-and-bouki-the-trickster-and-the-fool",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Drum and the Hoe: Life and Lore of the Haitian People",
+        "author": "Courlander, Harold",
+        "year": 1960,
+        "publisher": "University of California Press, Berkeley"
+      }
+    ]
   },
   {
     "id": "story1676",

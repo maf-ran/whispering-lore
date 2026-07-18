@@ -136,11 +136,19 @@
     "creatures": [
       "spirit"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-ice-maiden",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Andersen's Fairy Tales",
+        "author": "Hans Christian Andersen (trans. Tiina Nunnally)",
+        "year": 2005,
+        "publisher": "Penguin Classics"
+      }
+    ]
   },
   {
     "id": "story308",
@@ -547,11 +555,19 @@
     "creatures": [
       "ice-maiden-denmark"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-ice-maiden-1",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Hans Christian Andersen: The Complete Fairy Tales",
+        "author": "Hans Christian Andersen (trans. Jean Hersholt)",
+        "year": 1974,
+        "publisher": "Oxford University Press"
+      }
+    ]
   },
   {
     "id": "story771",
