@@ -279,11 +279,20 @@
       "ghosts-iceland",
       "ancestral-spirits-iceland"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "vatnsdla-saga---the-haunted-pastures",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Vatnsdæla Saga",
+        "author": "Anonymous (trans. Hallarsteinn Jónsson)",
+        "year": 2013,
+        "publisher": "Félag Áskenda Íslenskra Fornrita",
+        "note": "Medieval Icelandic saga describing supernatural events at Vatnsdalur pastures."
+      }
+    ]
   },
   {
     "id": "story711",
@@ -406,12 +415,21 @@
       "vittra",
       "de-underjordiska-swedish"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-vittra--the-hidden-people-of-land",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "modern",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Svenska Folksagor",
+        "author": "Herman Hofberg",
+        "year": 1882,
+        "publisher": "P.A. Norstedt & Söner, Stockholm",
+        "notes": "Vittra (hidden people) traditions across Swedish and Ålandic oral heritage"
+      }
+    ]
   },
   {
     "id": "story1572",

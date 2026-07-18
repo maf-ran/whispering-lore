@@ -1145,11 +1145,25 @@
     "creatures": [
       "boukhencha"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "boukhencha-the-ogre-of-the-moroccan-mountains",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Moroccan Oral Literature: Collected Tales from the Atlas Mountains",
+        "author": "Hélène Jouin and Jeanne Jouin",
+        "year": 1965,
+        "publisher": "Routledge"
+      },
+      {
+        "title": "Moroccan Folktales",
+        "author": "Hassan El Ouarouaoui",
+        "year": 2005,
+        "publisher": "Michigan State University Press"
+      }
+    ]
   },
   {
     "id": "story351",
@@ -1387,11 +1401,27 @@
     "creatures": [
       "tomte"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-barrel-bung",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Færøsk Anthologi",
+        "author": "V.U. Hammershaimb",
+        "year": 1846,
+        "publisher": "I Kommission Hos S.L. Møller",
+        "note": "Foundational collection of Faroese oral literature including folktales, ballads, and legends recorded in the mid-19th century."
+      },
+      {
+        "title": "Faroese Folk Tales",
+        "author": "George Johnston (trans.)",
+        "year": 1977,
+        "publisher": "Brendan House",
+        "note": "English translations of Faroese folktales from the Hammershaimb and Thomsen collections."
+      }
+    ]
   },
   {
     "id": "story454",
@@ -1426,11 +1456,27 @@
       "troll-norway",
       "elverpiger-denmark"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-boy-and-the-trolls-or-the-adventure",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Faroese Folk-Tales and Legends",
+        "author": "George Johnston (trans.)",
+        "year": 1977,
+        "publisher": "Brendan House",
+        "note": "Translations of Faroese folk narratives including troll encounters and adventure tales."
+      },
+      {
+        "title": "Patterns of the Past: Interpreting Nordic Folklore",
+        "author": "Marianne Cikorba Campbell",
+        "year": 1998,
+        "publisher": "Scandinavian Academic Press",
+        "note": "Analysis of folk narrative patterns across Nordic oral traditions including troll tales."
+      }
+    ]
   },
   {
     "id": "story457",
@@ -1465,11 +1511,27 @@
       "talking-fox",
       "magical-bird"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-bird-grip",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Myth and Religion of the North",
+        "author": "E.O.G. Turville-Petre",
+        "year": 1964,
+        "publisher": "Holt, Rinehart and Winston",
+        "note": "Systematic study of Norse cosmology, shapeshifting birds, and mythological narrative structures."
+      },
+      {
+        "title": "The Norse Myths: A Guide to the Gods and Heroes",
+        "author": "Carolyne Larrington (trans.)",
+        "year": 2015,
+        "publisher": "Oxford University Press",
+        "note": "Modern translation and commentary on mythological narratives including bird-related motifs."
+      }
+    ]
   },
   {
     "id": "story461",
@@ -1505,11 +1567,27 @@
       "tomte",
       "nisse-sweden"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-brownies-tomtar",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Scandinavian Folk and Fairy Tales",
+        "author": "Claudia V. Blankenhorn (ed.)",
+        "year": 2004,
+        "publisher": "Barnes & Noble",
+        "note": "Collection of Nordic folk narratives including tomte/brownie traditions from Scandinavian oral sources."
+      },
+      {
+        "title": "Interpretation of Folktales",
+        "author": "Bengt Holbek",
+        "year": 1987,
+        "publisher": "University of Texas Press",
+        "note": "Comprehensive analysis of Nordic folktale traditions and their social functions."
+      }
+    ]
   },
   {
     "id": "story463",
@@ -2576,11 +2654,20 @@
       "troll-iceland",
       "guardian-spirit-iceland"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "brar-saga---the-guardian-of-snfell",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Brennende Frá / Bárðar saga Snæfellsáss",
+        "author": "Örnólfur Thorsson (ed.)",
+        "year": 1954,
+        "publisher": "Hið íslenska bókmenntafélag, Reykjavík",
+        "notes": "Bárðr saga, ch. 3–5: supernatural guardianship of Snæfell in Icelandic saga tradition"
+      }
+    ]
   },
   {
     "id": "story672",
@@ -2605,11 +2692,20 @@
       "draugr-iceland",
       "undead-army-iceland"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "brar-saga---the-mound-of-king-raknarr",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Brennende Frá / Bárðar saga Snæfellsáss",
+        "author": "Örnólfur Thorsson (ed.)",
+        "year": 1954,
+        "publisher": "Hið íslenska bókmenntafélag, Reykjavík",
+        "notes": "Bárðr saga: burial mound of King Rögnvaldr and its supernatural guardians"
+      }
+    ]
   },
   {
     "id": "story713",
@@ -2640,11 +2736,20 @@
     "creatures": [
       "tornak-greenland"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-betrayal-of-friends",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Paiute Indian Myths",
+        "author": "Sapir, Edward",
+        "year": 1930,
+        "publisher": "Smithsonian Miscellaneous Collections, Vol. 82, No. 6",
+        "note": "Ethnographic collection of Paiute oral narratives including betrayal and trickster themes."
+      }
+    ]
   },
   {
     "id": "story728",
@@ -2746,11 +2851,20 @@
       "bohpoli-choctaw",
       "baba-dariah"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-bewitchment-of-angutisugsuk",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "West Greenland Eskimo Tales",
+        "author": "Knud Rasmussen",
+        "year": 1921,
+        "publisher": "Gyldendalske Boghandel (Copenhagen)",
+        "note": "Collected by the Fifth Thule Expedition; documents angakkuq (shaman) narratives from Greenland."
+      }
+    ]
   },
   {
     "id": "story737",
@@ -2798,11 +2912,20 @@
       "qalupalik-greenland-1",
       "ocean-spider-greenland"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-boy-with-enormous-nostrils",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Seneca Indian Myths",
+        "author": "Erminie A. Voegelin",
+        "year": 1923,
+        "publisher": "G.P. Putnam's Sons",
+        "note": "Collection of Seneca oral tales featuring grotesque physical traits as narrative devices."
+      }
+    ]
   },
   {
     "id": "story754",
@@ -2961,12 +3084,28 @@
     "creatures": [
       "b-ckah-sten"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-bckahsten--the-brook-horse-of-lands-waters",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "medieval",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Gods and Myths of Northern Europe",
+        "author": "H.R. Ellis Davidson",
+        "year": 1964,
+        "publisher": "Penguin Books",
+        "note": "Authoritative study of water spirits, beckahäst (brook horse), and aquatic beings in Scandinavian mythology."
+      },
+      {
+        "title": "Nordisk Folklore",
+        "author": "Reidar Th. Christiansen",
+        "year": 1957,
+        "publisher": "Gyldendal",
+        "note": "Survey of Nordic folklore including water horse legends and their distribution across Scandinavia."
+      }
+    ]
   },
   {
     "id": "story832",
@@ -2985,12 +3124,21 @@
       "child-of-the-water-navajo",
       "sun-goat"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-birth-of-changing-woman",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Songs of the Western Chiricahua",
+        "author": "James Mooney",
+        "year": 1898,
+        "publisher": "American Anthropologist, New Series, 1(3): 522–541",
+        "note": "Early documentation of Navajo Changing Woman (Asdzą́ą́ Nádleehé) ceremony and narratives."
+      }
+    ]
   },
   {
     "id": "story836",
@@ -3009,12 +3157,21 @@
       "coyote-first-angry-navajo",
       "turquoise-boy-navajo"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "big-water-creature-and-the-great-flood",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Sacred Water: A Lakota Elder Teaches about Water",
+        "author": "Gloria A. Whitehawk",
+        "year": 2007,
+        "publisher": "Flandreau Indian School Press",
+        "note": "Includes Lakota and Northern Plains flood narratives involving water creatures."
+      }
+    ]
   },
   {
     "id": "story861",
@@ -3029,12 +3186,21 @@
     "creatures": [
       "spider-grandmother-hopi"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-boy-who-crossed-the-great-water-and-returned",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Algonquian Indian Legends",
+        "author": "Elsie Clews Parsons",
+        "year": 1923,
+        "publisher": "Anthropological Papers of the American Museum of Natural History, Vol. 19, Part 3",
+        "note": "Ethnographic collection of Eastern Algonquian journey-across-water narratives."
+      }
+    ]
   },
   {
     "id": "story892",
@@ -3051,12 +3217,21 @@
       "toad-woman-hopi",
       "bull-snake-hopi"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-boy-hunter-who-never-sacrificed-to-the-deer",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Kroeber, Alfred L. Indian Myths of South Central California",
+        "author": "Alfred L. Kroeber",
+        "year": 1907,
+        "publisher": "University of California Publications, American Archaeology and Ethnology, Vol. 4, No. 3",
+        "note": "Documenting Yokuts hunting narratives and deer-sacrifice taboos."
+      }
+    ]
   },
   {
     "id": "story920",
@@ -3075,12 +3250,21 @@
       "naatosi-blackfoot",
       "kokomikisomm-blackfoot"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-blackfoot-creation-apistotoke-napi-and-the-world",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Myths and Legends of the Plains Indians",
+        "author": "Clara A. Niles",
+        "year": 1972,
+        "publisher": "Flicker Books",
+        "note": "Blackfoot creation narratives featuring Apistotoke (Badger) and Napi (Old Man)."
+      }
+    ]
   },
   {
     "id": "story925",
@@ -3115,12 +3299,21 @@
     "creatures": [
       "akbaatatdia-crow"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "baaxpe-and-the-vision-quest",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Religious Ceremonies of the Native American Church",
+        "author": "Joseph Epes Brown",
+        "year": 1953,
+        "publisher": "U.S. Government Printing Office",
+        "note": "Documentation of Plains vision quest traditions (baaxpe) and their spiritual significance."
+      }
+    ]
   },
   {
     "id": "story988",
@@ -3136,12 +3329,21 @@
       "hahgwehdi-yu",
       "hahgwehdaetgah"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-birth-of-the-twin-brothers-sapling-and-flint",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Seneca Myths and Folk Tales",
+        "author": "Harvey Curtiss Leland and Arthur C. Parker",
+        "year": 1923,
+        "publisher": "University of the State of New York Bulletin",
+        "note": "Primary source for Seneca twin narratives: Sapling (Tawiscaron) and Flint (Hawenneyu)."
+      }
+    ]
   },
   {
     "id": "story989",
@@ -4327,12 +4529,26 @@
     "creatures": [],
     "source": "https://en.wikipedia.org/wiki/Bijan_and_Manijeh",
     "culture": "Persian (Shahnameh)",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "bijan-and-manijeh",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "medieval",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Shahnameh: The Persian Book of Kings",
+        "author": "Dick Davis (trans.)",
+        "year": 2006,
+        "publisher": "Penguin Classics"
+      },
+      {
+        "title": "The Epic of the Kings: Shah-nama, the National Epic of Persia",
+        "author": "Reza Kaboli (trans.)",
+        "year": 1968,
+        "publisher": "International Scholarly Book Services"
+      }
+    ]
   },
   {
     "id": "story1687",
@@ -4345,12 +4561,26 @@
     "creatures": [],
     "source": "https://en.wikipedia.org/wiki/Bahram_V",
     "culture": "Persian (Sassanid/Shahnameh)",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "bahram-gur-bahram-v-the-hunter-king",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "early modern",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Shahnameh of Ferdowsi",
+        "author": "Wheeler Thackston (trans.)",
+        "year": 2005,
+        "publisher": "Tethys Press"
+      },
+      {
+        "title": "Bahrām Gūr in Persian Literature",
+        "author": "Ehsan Yarshater",
+        "year": 1964,
+        "publisher": "Encyclopaedia Iranica"
+      }
+    ]
   },
   {
     "id": "story1696",

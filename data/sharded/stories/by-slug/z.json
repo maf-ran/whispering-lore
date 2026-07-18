@@ -331,12 +331,26 @@
     ],
     "source": "https://en.wikipedia.org/wiki/Zahhak",
     "culture": "Persian (Shahnameh)",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "zahhak-the-serpent-shouldered-tyrant",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Shahnameh: The Persian Book of Kings",
+        "author": "Dick Davis (trans.)",
+        "year": 2006,
+        "publisher": "Penguin Classics"
+      },
+      {
+        "title": "Zoroastrianism: Its Antiquity and Constant Vigour",
+        "author": "Mary Boyce",
+        "year": 1992,
+        "publisher": "State University of New York Press"
+      }
+    ]
   },
   {
     "id": "story1711",

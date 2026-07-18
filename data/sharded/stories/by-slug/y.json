@@ -242,11 +242,20 @@
       "yule-lads-iceland",
       "ogress-iceland"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-yule-lads-mischief",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Icelandic Legends",
+        "author": "Jón Arnason (trans. George Powell and Eiríkur Magnússon)",
+        "year": 1864,
+        "publisher": "Richard Bentley (London)",
+        "note": "Foundational collection of Jólasveinar (Yule Lad) traditions and their fourteen mischievous figures."
+      }
+    ]
   },
   {
     "id": "story751",

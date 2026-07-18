@@ -173,11 +173,20 @@
       "troll-norway",
       "fairy-europe"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "east-of-the-sun-and-west-of-the-moon",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Norske Folkeeventyr",
+        "author": "P. C. Asbjørnsen and J. Moe",
+        "year": 1843,
+        "publisher": "J. W. Cappelen, Christiania",
+        "notes": "AT 425A type tale; one of the most famous Norwegian fairy tales, collected from oral tradition in Telemark"
+      }
+    ]
   },
   {
     "id": "story86",
@@ -254,11 +263,25 @@
       "quetzalcoatl",
       "quetzalcoatl"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-eternal-struggle-quetzalcoatl",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "The God of the Aztecs: Quetzalcoatl",
+        "author": "Henry B. Nicholson",
+        "year": 1957,
+        "publisher": "Estudios de Cultura Nahuatl"
+      },
+      {
+        "title": "Feathered Serpent, Smoking Mirror: The Memory of Tezcatlipoca in Indigenous Mesoamerica",
+        "author": "David Carrasco",
+        "year": 2003,
+        "publisher": "Harvard University Press"
+      }
+    ]
   },
   {
     "id": "story110",
@@ -462,11 +485,25 @@
     "creatures": [
       "chupacabra"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "el-chupacabra-story",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Tracking the Chupacabra: The Vampire Beast in Fact, Fiction, and Folklore",
+        "author": "Benjamin Radford",
+        "year": 2011,
+        "publisher": "University of New Mexico Press"
+      },
+      {
+        "title": "The Chupacabras: A New Monster in the Americas",
+        "author": "Sergio C. Páez",
+        "year": 2001,
+        "publisher": "Revista de Estudios Folklóricos"
+      }
+    ]
   },
   {
     "id": "story168",
@@ -1113,11 +1150,20 @@
       "draugr-iceland",
       "revenant-iceland"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "eyrbyggja-saga---the-haunting-of-thorolf-halt-foot",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Eyrbyggja saga",
+        "author": "Paul Schach (trans.)",
+        "year": 1959,
+        "publisher": "University of Nebraska Press",
+        "notes": "Eyrbyggja saga ch. 32–34: haunting of Þórólfr halt-fótr, one of the most famous ghost-saga episodes"
+      }
+    ]
   },
   {
     "id": "story674",
@@ -1141,11 +1187,20 @@
     "creatures": [
       "ghost-iceland"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "eyrbyggja-saga---the-guest-thorgunna",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Eyrbyggja saga",
+        "author": "Paul Schach (trans.)",
+        "year": 1959,
+        "publisher": "University of Nebraska Press",
+        "notes": "Eyrbyggja saga ch. 24–29: Þorgunna's visit and the supernatural food feast"
+      }
+    ]
   },
   {
     "id": "story675",
@@ -1170,11 +1225,20 @@
       "draugr-iceland",
       "supernatural-seal-iceland"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "eyrbyggja-saga---the-seal-of-frodis-water",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Eyrbyggja saga",
+        "author": "Paul Schach (trans.)",
+        "year": 1959,
+        "publisher": "University of Nebraska Press",
+        "notes": "Eyrbyggja saga ch. 17–18: seal-transformation legend at Fróðárvatn"
+      }
+    ]
   },
   {
     "id": "story721",

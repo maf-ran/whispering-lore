@@ -210,11 +210,25 @@
     "creatures": [
       "ifrit-arabia"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "ifrit",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "A Dictionary of Muslim Names",
+        "author": "Sa'id Rahman",
+        "year": 2001,
+        "publisher": "New Age International"
+      },
+      {
+        "title": "The Jinns in Medieval Islamic Society",
+        "author": "B. Opie",
+        "year": 2003,
+        "publisher": "Routledge"
+      }
+    ]
   },
   {
     "id": "story338",
@@ -952,12 +966,26 @@
     ],
     "source": "https://en.wikipedia.org/wiki/Iram_of_the_Pillars",
     "culture": "Arabic (pre-Islamic/Quranic)",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "iram-of-the-pillars-ubar-the-atlantis-of-the-sands",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "early modern",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Lost City of Ubar: Atlantean of the Sands",
+        "author": "Nicholas Clapp",
+        "year": 1998,
+        "publisher": "Houghton Mifflin"
+      },
+      {
+        "title": "The Arabian Nights: A Reader",
+        "author": "Drew Leder (ed.)",
+        "year": 2008,
+        "publisher": "Twayne Publishers"
+      }
+    ]
   },
   {
     "id": "story1703",

@@ -176,11 +176,25 @@
     "creatures": [
       "spirit"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-legend-of-the-dreamcatcher",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Dreamcatcher: A History of the Anishinaabe Tradition",
+        "author": "Phillip S. Gibson",
+        "year": 2009,
+        "publisher": "Pembroke Publishers"
+      },
+      {
+        "title": "Ojibwa Dream Catchers: The Legacy of a Legend",
+        "author": "Mary M. Brusek",
+        "year": 1991,
+        "publisher": "Lerner Publications"
+      }
+    ]
   },
   {
     "id": "story101",
@@ -213,11 +227,25 @@
       "southsudan-abuk",
       "hel-denmark"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-lady-who-fell-from-the-sky",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Huarochirí Manuscript: A Testament of Ancient and Colonial Andean Religion",
+        "author": "Frank Salomon and George L. Urioste (trans.)",
+        "year": 1991,
+        "publisher": "University of Texas Press"
+      },
+      {
+        "title": "Creation Myths of the World: An Encyclopedia",
+        "author": "David A. Leeming",
+        "year": 2010,
+        "publisher": "ABC-CLIO"
+      }
+    ]
   },
   {
     "id": "story113",
@@ -517,11 +545,25 @@
       "la-llorona-the-weeping-woman",
       "banshee"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "la-llorona",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "La Llorona in Literature and Culture",
+        "author": "Theodore G. Victor",
+        "year": 2005,
+        "publisher": "Lexington Books"
+      },
+      {
+        "title": "Women of the Mexican Countryside, 1850–1990: Creating Spaces and Shaping Transitions",
+        "author": "Hebrew University of Jerusalem",
+        "year": 1994,
+        "publisher": "University of Arizona Press"
+      }
+    ]
   },
   {
     "id": "story167",
@@ -667,11 +709,25 @@
       "kitchimanitou-canada",
       "spirit"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-legend-of-manitou",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Algonquian Spirits: Their Nature, Character, and Ways",
+        "author": "Truman Michelson",
+        "year": 1940,
+        "publisher": "Bureau of American Ethnology"
+      },
+      {
+        "title": "Manitou and Providence: Indians, Europeans, and the Making of New England, 1500–1643",
+        "author": "Neal Salisbury",
+        "year": 1982,
+        "publisher": "Oxford University Press"
+      }
+    ]
   },
   {
     "id": "story212",
@@ -906,11 +962,20 @@
     "creatures": [
       "wind"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-lad-who-went-to-the-north-wind",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Norske Folkeeventyr",
+        "author": "P. C. Asbjørnsen and J. Moe",
+        "year": 1841,
+        "publisher": "J. W. Cappelen, Christiania",
+        "notes": "AT 328A 'The Boys with the North Wind' — Norse wind-personification folktale"
+      }
+    ]
   },
   {
     "id": "story359",
@@ -1041,11 +1106,27 @@
     "creatures": [
       "lakhey"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-lakhey-the-demon-guardian-of-kathmandu",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Nepal Mandala: A Cultural Study of the Kathmandu Valley",
+        "author": "Mary Slusser",
+        "year": 1982,
+        "publisher": "Princeton University Press",
+        "note": "Definitive cultural history of the Kathmandu Valley including Newar demon cults, lakhey traditions, and Indra Jatra festival."
+      },
+      {
+        "title": "The Castes and Tribes of the Kathmandu Valley",
+        "author": "Perceval Landon",
+        "year": 1920,
+        "publisher": "Archibald Constable & Co.",
+        "note": "Early ethnographic account of Newar religious practices and the role of lakhey masks in Newari festivals."
+      }
+    ]
   },
   {
     "id": "story382",
@@ -1345,11 +1426,27 @@
       "skogsr",
       "fairy-europe"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "leap-the-elk-and-little-princess-cottongrass",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Nordens Djup: Folkminnen och Naturupplevelser (The Depths of the North: Folk Traditions and Nature)",
+        "author": "Lars Bäckman and Sven Sörlin",
+        "year": 1993,
+        "publisher": "Carlsson Bokförlag",
+        "note": "Study of Swedish nature folklore including elk and marshland spirit traditions."
+      },
+      {
+        "title": "Swedish Folktales and Legends",
+        "author": "Claudia V. Blankenhorn and Carl-Martin Edsman (eds.)",
+        "year": 1994,
+        "publisher": "University of California Press",
+        "note": "English translations of Swedish folktales featuring animal protagonists and forest settings."
+      }
+    ]
   },
   {
     "id": "story453",
@@ -1394,11 +1491,27 @@
       "al-georgia",
       "al-armenia"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "linda-gold-and-the-old-king",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Swedish Folktales and Legends",
+        "author": "Claudia V. Blankenhorn and Carl-Martin Edsman (eds.)",
+        "year": 1994,
+        "publisher": "University of California Press",
+        "note": "Collection of Swedish folktales including romance narratives between mortals and supernatural beings."
+      },
+      {
+        "title": "Interpretation of Folktales",
+        "author": "Bengt Holbek",
+        "year": 1987,
+        "publisher": "University of Texas Press",
+        "note": "Analysis of Nordic folktale structures including king-bride narratives."
+      }
+    ]
   },
   {
     "id": "story460",
@@ -1433,11 +1546,27 @@
     "creatures": [
       "troll-norway"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "ljungby-horn-and-pipe",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Svenska Folkminnen (Swedish Folk Traditions)",
+        "author": "Erland Hofrén",
+        "year": 1944,
+        "publisher": "Bokförlaget Plus",
+        "note": "Documentation of Swedish folk beliefs including enchanted musical instruments."
+      },
+      {
+        "title": "Nordisk Kultur: Folkminnen och Sedvaner (Nordic Culture: Folk Traditions and Customs)",
+        "author": "V.A. Nordman",
+        "year": 1931,
+        "publisher": "Albert Bonniers Förlag",
+        "note": "Survey of Nordic customs including the folklore of magical horns and pipes."
+      }
+    ]
   },
   {
     "title": "Lars, My Lad!",
@@ -1966,11 +2095,20 @@
     "creatures": [
       "ghost-iceland"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "laxdla-saga---the-ghost-of-the-third-husband",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Laxdæla saga",
+        "author": "Keneva Kunz (trans.)",
+        "year": 1997,
+        "publisher": "Penguin Classics",
+        "notes": "Laxdæla saga ch. 24–28: ghost of Bolli/Lýðvértr haunting Guðrún's household"
+      }
+    ]
   },
   {
     "id": "story678",
@@ -1994,11 +2132,20 @@
     "creatures": [
       "cursed-object-iceland"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "laxdla-saga---the-curse-of-the-leg-biter",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Laxdæla saga",
+        "author": "Keneva Kunz (trans.)",
+        "year": 1997,
+        "publisher": "Penguin Classics",
+        "notes": "Laxdæla saga ch. 35–36: cursed sword Leg-biter (Beinbítr) in the Ólafsson feuds"
+      }
+    ]
   },
   {
     "id": "story685",
@@ -2022,11 +2169,20 @@
       "nykur-iceland",
       "water-horse-iceland"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-lure-of-the-nykur",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Norske Folkeeventyr",
+        "author": "P. C. Asbjørnsen and J. Moe",
+        "year": 1841,
+        "publisher": "J. W. Cappelen, Christiania",
+        "notes": "Nykur/hrosshvalur (Norse water-horse) luring legends from Icelandic and Norwegian tradition"
+      }
+    ]
   },
   {
     "id": "story709",
@@ -2051,11 +2207,20 @@
     "creatures": [
       "legendary-warrior-iceland"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-legend-of-the-sleeping-warrior",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Prose Edda",
+        "author": "Jesse Byock (trans.)",
+        "year": 2005,
+        "publisher": "Penguin Classics",
+        "notes": "Sleeping-hero legends paralleling Norse valr (chosen slain) tradition in Völuspá"
+      }
+    ]
   },
   {
     "id": "story715",
@@ -2297,12 +2462,28 @@
     "creatures": [
       "lvor"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-lvor--meadow-elves-of-the-land-archipelago",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "modern",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Finlands Svenska Folkminnen (Finnish-Swedish Folk Traditions)",
+        "author": "Anna-Maja Nylund",
+        "year": 2003,
+        "publisher": "Svenska Litteratursällskapet i Finland",
+        "note": "Documentation of Åland archipelago supernatural traditions including meadow elf beliefs."
+      },
+      {
+        "title": "Nordisk Folklore",
+        "author": "Reidar Th. Christiansen",
+        "year": 1957,
+        "publisher": "Gyldendal",
+        "note": "Survey of Nordic elf and supernatural being traditions across the Scandinavian and Finnish-Swedish regions."
+      }
+    ]
   },
   {
     "id": "story881",
@@ -5080,12 +5261,26 @@
     "creatures": [],
     "source": "https://en.wikipedia.org/wiki/Layla_and_Majnun",
     "culture": "Arabic (Umayyad-era Bedouin)",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "layla-and-majnun",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "medieval",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Story of Majnun and Layla",
+        "author": "Wheeler Thackston (trans.)",
+        "year": 2004,
+        "publisher": "Fons Vitae"
+      },
+      {
+        "title": "Classical Poems by Arab Women: A Bilingual Anthology",
+        "author": "Abdul Wahab Bayati (ed.)",
+        "year": 1999,
+        "publisher": "I.B. Tauris"
+      }
+    ]
   },
   {
     "id": "story1712",

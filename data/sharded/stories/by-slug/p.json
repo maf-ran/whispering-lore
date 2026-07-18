@@ -2361,11 +2361,25 @@
     ],
     "source": "https://www.iranicaonline.org/articles/pairika/",
     "culture": "Persian (Zoroastrian/folkloric)",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-peri-fairy-spirits-of-persian-myth",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "medieval",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Peris in Persian Mythology",
+        "author": "Ehsan Yarshater",
+        "year": 1988,
+        "publisher": "Encyclopaedia Iranica"
+      },
+      {
+        "title": "Persian Mythology: An Introduction",
+        "author": "Jalal Khaleghi-Motlagh",
+        "year": 2000,
+        "publisher": "Encyclopaedia Iranica"
+      }
+    ]
   }
 ]

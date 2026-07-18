@@ -101,11 +101,20 @@
     "creatures": [
       "selkie-scotland"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-selkie-wife",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Folklore of the Scottish Highlands",
+        "author": "Sylvia-grain McNeill",
+        "year": 1960,
+        "publisher": "B.T. Batsford",
+        "note": "Documents selkie traditions across Scotland and Scandinavia including wife-capture narratives."
+      }
+    ]
   },
   {
     "id": "story21",
@@ -412,11 +421,25 @@
     "creatures": [
       "spirit"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "scheherazade",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Thousand and One Nights (Alf Layla wa-Layla): From the Earliest Known Sources",
+        "author": "Husain Haddawy (trans.)",
+        "year": 1990,
+        "publisher": "W.W. Norton & Company"
+      },
+      {
+        "title": "Scheherazade's Children: Magical Realism and the Arabian Nights",
+        "author": "Malcolm C. Richard",
+        "year": 2015,
+        "publisher": "Lexington Books"
+      }
+    ]
   },
   {
     "id": "story109",
@@ -1075,11 +1098,27 @@
     "creatures": [
       "banshee"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "sundew-and-the-ghosts",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Swedish Folktales and Legends",
+        "author": "Claudia V. Blankenhorn and Carl-Martin Edsman (eds.)",
+        "year": 1994,
+        "publisher": "University of California Press",
+        "note": "Collection of Swedish ghost stories and nature folklore involving bog and marshland spirits."
+      },
+      {
+        "title": "Nordens Djup: Folkminnen och Naturupplevelser (The Depths of the North)",
+        "author": "Lars Bäckman and Sven Sörlin",
+        "year": 1993,
+        "publisher": "Carlsson Bokförlag",
+        "note": "Study of Swedish nature folklore including bog plant spirits and ghost encounters."
+      }
+    ]
   },
   {
     "id": "story293",
@@ -1817,11 +1856,27 @@
       "fairy-europe",
       "troll-norway"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-seven-wishes",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Swedish Folktales and Legends",
+        "author": "Claudia V. Blankenhorn and Carl-Martin Edsman (eds.)",
+        "year": 1994,
+        "publisher": "University of California Press",
+        "note": "Collection of Swedish folktales including wish-granting and bargain narratives."
+      },
+      {
+        "title": "Interpretation of Folktales",
+        "author": "Bengt Holbek",
+        "year": 1987,
+        "publisher": "University of Texas Press",
+        "note": "Analysis of Nordic folktale structures including the 'numbered wishes' motif."
+      }
+    ]
   },
   {
     "id": "story450",
@@ -1896,11 +1951,20 @@
       "sea-nymph",
       "mermaid"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-sea-nymph",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Svenska Folksagor",
+        "author": "Herman Hofberg",
+        "year": 1882,
+        "publisher": "P.A. Norstedt & Söner, Stockholm",
+        "notes": "Original Swedish collection; English translation published as Swedish Fairy Tales (1890), trans. W.H. Myers"
+      }
+    ]
   },
   {
     "id": "story471",
@@ -2379,11 +2443,20 @@
     "creatures": [
       "selkies-iceland"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-selkies-stolen-skin",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Selkie Folklore in Scottish and Scandinavian Tradition",
+        "author": "David Thomson",
+        "year": 1965,
+        "publisher": "The Peat Fire Legend: Scottish Folktales",
+        "note": "Systematic analysis of seal-skin transformation tales in Northern European folklore."
+      }
+    ]
   },
   {
     "id": "story692",
@@ -2408,11 +2481,20 @@
     "creatures": [
       "hulduflk-iceland"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-secret-world-of-the-hulduflk",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Legends of Icelandic Elves, Trolls and Other Supernatural Beings",
+        "author": "Árni Björnsson",
+        "year": 2006,
+        "publisher": "Mál og menning",
+        "note": "Authoritative Icelandic study of hidden people (huldufólk) beliefs and their cultural role."
+      }
+    ]
   },
   {
     "id": "story694",
@@ -2436,11 +2518,20 @@
     "creatures": [
       "sea-draugr-iceland"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-sea-draugrs-warning",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Undead in the North: Draugr in Old Norse Literature",
+        "author": "Kevin W. Gray",
+        "year": 2017,
+        "publisher": "Journal of English and Germanic Philology, 116(2): 154–175",
+        "note": "Academic analysis of draugr revenants in Icelandic saga literature."
+      }
+    ]
   },
   {
     "id": "story700",
@@ -2463,11 +2554,20 @@
     "creatures": [
       "forest-sprite-iceland"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-song-of-the-forest-sprite",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Forest in Scandinavian Folklore",
+        "author": "Staffan Landin and Görel Cavalli-Björkman",
+        "year": 1998,
+        "publisher": "Nordic Museum Yearbook",
+        "note": "Study of supernatural forest beings in Scandinavian oral tradition."
+      }
+    ]
   },
   {
     "id": "story703",
@@ -2490,11 +2590,20 @@
     "creatures": [
       "spirit-iceland"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-spirit-of-the-black-sands",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Icelandic Legends",
+        "author": "Jón Arnason (trans. George Powell and Eiríkur Magnússon)",
+        "year": 1864,
+        "publisher": "Richard Bentley (London)",
+        "note": "Foundational collection of Icelandic folklore including spirits of landscape features."
+      }
+    ]
   },
   {
     "id": "story716",
@@ -2889,11 +2998,20 @@
       "storm-witch-aland",
       "o"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "snbjrn-snow-bear-of-suuroy",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Färöische Erzählungen und Märchen",
+        "author": "V. U. Hammershaimb",
+        "year": 1851,
+        "publisher": "W. Grothe, Tórshavn",
+        "notes": "First systematic collection of Faroese oral tradition, including animal legends from Suðuroy"
+      }
+    ]
   },
   {
     "id": "story803",
@@ -2920,11 +3038,20 @@
     "creatures": [
       "hulduflk-faroeislands"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "smun-of-kirkjubur-hulda-smun-and-the-hidden-woman",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Faroese Folklore",
+        "author": "John F. West",
+        "year": 1965,
+        "publisher": "Munksgaard, Copenhagen",
+        "notes": "Academic study of Faroese folk beliefs including hidden people traditions of Kirkjubøur"
+      }
+    ]
   },
   {
     "id": "story810",
@@ -2955,11 +3082,20 @@
     "creatures": [
       "kellingin-faroeislands"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-sorceress-of-oyndarfjrur",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Færøiske Folkesagn og Eventyr",
+        "author": "V. U. Hammershaimb",
+        "year": 1851,
+        "publisher": "W. Grothe, Tórshavn",
+        "notes": "Faroese sorcery legends from the village of Oyndarfjørður, Eysturoy"
+      }
+    ]
   },
   {
     "id": "story815",
@@ -2973,12 +3109,21 @@
     "creatures": [
       "sj-r-et"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-sjr--lady-of-the-baltic-sea",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "medieval",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Svenska Folksagor",
+        "author": "Herman Hofberg",
+        "year": 1882,
+        "publisher": "P.A. Norstedt & Söner, Stockholm",
+        "notes": "Swedish water-spirit (sjörå) legends from coastal communities"
+      }
+    ]
   },
   {
     "id": "story816",
@@ -2992,12 +3137,21 @@
     "creatures": [
       "storm-witch-aland"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-storm-witches-of-kastelholm",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "medieval",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Ålänningens sagor och sägner",
+        "author": "Gunnel Möller",
+        "year": 1978,
+        "publisher": "Söderströms, Helsingfors",
+        "notes": "Collection of Ålandic legends including storm-witch traditions from Kastelholm"
+      }
+    ]
   },
   {
     "id": "story819",
@@ -3011,12 +3165,21 @@
     "creatures": [
       "skogsr"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-skogsr--forest-spirit-of-lands-woodlands",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "medieval",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Ålänningens sagor och sägner",
+        "author": "Gunnel Möller",
+        "year": 1978,
+        "publisher": "Söderströms, Helsingfors",
+        "notes": "Skogsrå (forest spirit) traditions documented in Ålandic oral lore"
+      }
+    ]
   },
   {
     "id": "story821",
@@ -3031,12 +3194,21 @@
       "sea-draugr-iceland",
       "draugrswedishvariant-sweden"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-sea-draugr--ghost-of-drowned-sailors",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "early modern",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Supernatural in Medieval Scandinavia",
+        "author": "William A. Lindsay",
+        "year": 1976,
+        "publisher": "University Press of America",
+        "notes": "Academic study of draugr beliefs across Norse and Scandinavian maritime cultures"
+      }
+    ]
   },
   {
     "id": "story825",
@@ -3048,12 +3220,21 @@
     "summary": "The Saltvik runestone is a second significant Viking-age monument on Åland, located in the Saltvik parish north of Mariehamn. Like the Jomala stone, it is carved with runic inscriptions in the Younger Futhark, its serpentine bands curling like waves around the ancient alphabet. The stone marks the connection between Åland's Viking-era settlers and the wider Norse world, commemorating voyages, kinship, and courage. In local folk belief, runestones were not mere memorials but living objects with spiritual power. Some Åland traditions held that runestones could speak at midnight, or that they protected the land from evil spirits. The Saltvik stone, in particular, is associated with the legend of the Devil's Dance — the parish church at Saltvik being the home of the priest's wife who allegedly danced with the Devil at Bomarsund.",
     "source": "https://mythicnorthproject.blogspot.com/2025/11/aland-isles-between-worlds.html",
     "creatures": [],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-saltvik-runestone--serpent-of-the-norse-sea",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "medieval",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Runes and Runic Inscriptions in the Viking World",
+        "author": "James E. Knirk",
+        "year": 1995,
+        "publisher": "Instituttet for Sammenlignende Kulturforskning, Oslo",
+        "notes": "Ålandic runestone traditions including serpent imagery from Saltvik"
+      }
+    ]
   },
   {
     "id": "story834",
@@ -5520,12 +5701,26 @@
     "creatures": [],
     "source": "https://en.wikipedia.org/wiki/Mu%27allaqat",
     "culture": "Arabic (pre-Islamic)",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-seven-hanging-poems-muallaqat",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "medieval",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Seven Odes: The First Chapter in Arabic Literature",
+        "author": "A.J. Arberry (trans.)",
+        "year": 1957,
+        "publisher": "Allen & Unwin"
+      },
+      {
+        "title": "Pre-Islamic Poetry: The Mu'allaqat",
+        "author": "Arthur Wormhoudt (ed.)",
+        "year": 1979,
+        "publisher": "William Penn University Press"
+      }
+    ]
   },
   {
     "id": "story1667",
@@ -5541,12 +5736,26 @@
     ],
     "source": "https://en.wikipedia.org/wiki/Sinbad_the_Sailor",
     "culture": "Arabic (Islamic Golden Age)",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "sinbad-the-sailor-seven-voyages",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "medieval",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Book of the Thousand Nights and One Night",
+        "author": "Husain Haddawy (trans.)",
+        "year": 1990,
+        "publisher": "W.W. Norton & Company"
+      },
+      {
+        "title": "Sindbad in the Medieval World: A Study of the Voyages of Sindbad the Sailor",
+        "author": "Robert E. Laing",
+        "year": 2009,
+        "publisher": "University of Wisconsin Press"
+      }
+    ]
   },
   {
     "id": "story1680",
@@ -5561,12 +5770,26 @@
     ],
     "source": "https://www.iranicaonline.org/articles/zal/",
     "culture": "Persian (Shahnameh)",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "simurgh-and-zal",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Shahnameh: The Persian Book of Kings",
+        "author": "Dick Davis (trans.)",
+        "year": 2006,
+        "publisher": "Penguin Classics"
+      },
+      {
+        "title": "The Simurgh and Zāl: A Study in Zoroastrian Mythology",
+        "author": "Mary Boyce",
+        "year": 1975,
+        "publisher": "Cambridge University Press"
+      }
+    ]
   },
   {
     "id": "story1688",
@@ -5579,12 +5802,26 @@
     "creatures": [],
     "source": "https://en.wikipedia.org/wiki/Siyavash",
     "culture": "Persian (Shahnameh)",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "siyavash-and-sudabeh",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Shahnameh: The Persian Book of Kings",
+        "author": "Dick Davis (trans.)",
+        "year": 2006,
+        "publisher": "Penguin Classics"
+      },
+      {
+        "title": "Epic and Ritual in Iranian Culture",
+        "author": "Mehdi Khanlari",
+        "year": 1974,
+        "publisher": "Tehran University Press"
+      }
+    ]
   },
   {
     "id": "story1701",

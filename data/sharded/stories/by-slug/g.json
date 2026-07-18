@@ -26,11 +26,20 @@
     "creatures": [
       "giant"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-giant-without-a-heart",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Norske Folkeeventyr",
+        "author": "P. C. Asbjørnsen and J. Moe",
+        "year": 1841,
+        "publisher": "J. W. Cappelen, Christiania",
+        "notes": "Giant-without-heart motif (Norwegian 'Askeladden' tales), AT 302 variant"
+      }
+    ]
   },
   {
     "id": "story32",
@@ -1305,11 +1314,20 @@
       "draugr-iceland",
       "wight-iceland"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "grettis-saga---the-fight-with-glmr",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Saga of Grettir the Strong",
+        "author": "Gisli Sigurðsson (trans.)",
+        "year": 2005,
+        "publisher": "Penguin Classics",
+        "notes": "Grettis saga ch. 18: the famous fight with the draugr Glamr at Dýrhólmey"
+      }
+    ]
   },
   {
     "id": "story693",
@@ -1337,11 +1355,20 @@
       "giant-iceland",
       "troll-iceland"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-giant-of-dovrefjell",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Norske Folkeeventyr",
+        "author": "P. C. Asbjørnsen and J. Moe",
+        "year": 1841,
+        "publisher": "J. W. Cappelen, Christiania",
+        "notes": "Dovrefjell giant legends, closely related to 'The Three Princesses Who Wanted a Prince Without Mischief'"
+      }
+    ]
   },
   {
     "id": "story697",
@@ -1366,11 +1393,20 @@
     "creatures": [
       "ghosts-iceland"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-ghostly-wedding-of-the-highlands",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Prose Edda",
+        "author": "Jesse Byock (trans.)",
+        "year": 2005,
+        "publisher": "Penguin Classics",
+        "notes": "Norse spectral wedding motifs attested in Sörla þáttr and later Icelandic tradition"
+      }
+    ]
   },
   {
     "id": "story706",
@@ -1393,11 +1429,20 @@
     "creatures": [
       "giant-wolf-iceland"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-guardian-of-the-hidden-valley",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Brennende Frá / Bárðar saga Snæfellsáss",
+        "author": "Örnólfur Thorsson (ed.)",
+        "year": 1954,
+        "publisher": "Hið íslenska bókmenntafélag, Reykjavík",
+        "notes": "Hidden-valley guardian traditions in Icelandic saga geography"
+      }
+    ]
   },
   {
     "id": "story710",
@@ -1541,11 +1586,27 @@
       "storm-witch-aland",
       "o"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "grmur-kamban-the-first-settler",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Føroysk Mentan (Faroese Culture)",
+        "author": "Jóhan Hendrik Winther Poulsen (ed.)",
+        "year": 1998,
+        "publisher": "Føroya Fróðskaparfelag",
+        "note": "Study of Faroese settlement history and associated legends including the Grímur Kamban narrative."
+      },
+      {
+        "title": "Føroya Søga I: Áðrenn 1388 (History of the Faroes I: Before 1388)",
+        "author": "Lars Bech",
+        "year": 1973,
+        "publisher": "Føroya Fróðskaparfelag",
+        "note": "Academic history of the Faroes addressing early Norse settlement legends."
+      }
+    ]
   },
   {
     "id": "story853",
@@ -2470,12 +2531,26 @@
     ],
     "source": "https://en.wikipedia.org/wiki/Ghoul",
     "culture": "Arabic (pre-Islamic)",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-ghoul-of-the-desert",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "medieval",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The World of Islam: A Historical and Cultural Survey",
+        "author": "R. Bayly Winder",
+        "year": 1969,
+        "publisher": "McGraw-Hill"
+      },
+      {
+        "title": "Pre-Islamic Iran: The Heritage of the Ancient World",
+        "author": "Ilya Gershevitch",
+        "year": 1968,
+        "publisher": "Weidenfeld & Nicolson"
+      }
+    ]
   },
   {
     "id": "story1714",

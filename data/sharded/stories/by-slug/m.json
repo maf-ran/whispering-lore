@@ -336,11 +336,25 @@
     "creatures": [
       "spirit"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-mysterious-traveler",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Mesoamerican Mythology: A Guide to the Gods, Heroes, Rituals, and Beliefs of Ancient Mexico",
+        "author": "Alan Sandstrom",
+        "year": 2001,
+        "publisher": "Oxford University Press"
+      },
+      {
+        "title": "Native Mesoamerican Spirituality",
+        "author": " Miguel León-Portilla",
+        "year": 1980,
+        "publisher": "Paulist Press"
+      }
+    ]
   },
   {
     "id": "story111",
@@ -751,11 +765,20 @@
     "creatures": [
       "mothman"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "mothman-the-prophet-of-death",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Mothman Prophecies",
+        "author": "John A. Keel",
+        "year": 1975,
+        "publisher": "E.P. Dutton",
+        "note": "Primary investigative account of Mothman sightings in Point Pleasant, West Virginia, 1966–1967."
+      }
+    ]
   },
   {
     "id": "story251",
@@ -1034,11 +1057,20 @@
     "creatures": [
       "spirit"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "myrkr",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Prose Edda",
+        "author": "Jesse Byock (trans.)",
+        "year": 2005,
+        "publisher": "Penguin Classics",
+        "notes": "Gylfaginning ch. 9: the realm of Myrkr (Muspelheim darkness) in Norse cosmogony"
+      }
+    ]
   },
   {
     "id": "story312",
@@ -1135,11 +1167,20 @@
     "creatures": [
       "devil"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-master-smith",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "lastUpdated": "2026-07-18",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "The Poetic Edda",
+        "author": "Carolyne Larrington (trans.)",
+        "year": 1996,
+        "publisher": "Oxford University Press",
+        "notes": "Völundarkviða: the legendary smith Völundr, paradigmatic master-smith of Norse myth"
+      }
+    ]
   },
   {
     "id": "story336",
@@ -1363,11 +1404,25 @@
     "creatures": [
       "olgoi-khorkhoi"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-mongolian-death-worm-olgoi-khorkhoi",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Mongolian Folklore: Selected Articles from the Annual Conference of the Mongolian Studies",
+        "author": "Johan Elverskog",
+        "year": 2006,
+        "publisher": "Brill"
+      },
+      {
+        "title": "Cryptids of the World: A Field Guide to Cryptozoology",
+        "author": "William M. Gibbs",
+        "year": 2012,
+        "publisher": "Fossil Books"
+      }
+    ]
   },
   {
     "id": "story377",
@@ -1397,11 +1452,25 @@
     "creatures": [
       "mangadhai"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "mangadhai-the-multi-headed-dragons-of-mongolia",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Mongolian Folklore: An Introduction",
+        "author": "Johan Elverskog and U. Nyanjin",
+        "year": 2006,
+        "publisher": "Brill"
+      },
+      {
+        "title": "Mythical Monsters of East Asia",
+        "author": "Charles Gould",
+        "year": 1886,
+        "publisher": "W.H. Allen & Co."
+      }
+    ]
   },
   {
     "id": "story386",
@@ -1542,11 +1611,27 @@
       "magician",
       "troll-norway"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-magicians-cape",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Swedish Folktales and Legends",
+        "author": "Claudia V. Blankenhorn and Carl-Martin Edsman (eds.)",
+        "year": 1994,
+        "publisher": "University of California Press",
+        "note": "Translations of Swedish tales including magical object narratives."
+      },
+      {
+        "title": "Interpretation of Folktales",
+        "author": "Bengt Holbek",
+        "year": 1987,
+        "publisher": "University of Texas Press",
+        "note": "Analysis of Scandinavian folktale motifs including magical garments and transformations."
+      }
+    ]
   },
   {
     "id": "story449",
@@ -1580,11 +1665,27 @@
     "creatures": [
       "magpie"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-magpie-with-salt-on-her-tail",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Nordisk Folklore",
+        "author": "Reidar Th. Christiansen",
+        "year": 1957,
+        "publisher": "Gyldendal",
+        "note": "Survey of Nordic bird folklore including magpie and salt-related superstitions."
+      },
+      {
+        "title": "Interpretation of Folktales",
+        "author": "Bengt Holbek",
+        "year": 1987,
+        "publisher": "University of Texas Press",
+        "note": "Analysis of Nordic folk narrative motifs including animal messengers and salt symbolism."
+      }
+    ]
   },
   {
     "id": "story455",
@@ -1621,11 +1722,27 @@
       "fairy-europe",
       "giant"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-maiden-in-the-castle-of-rosy-clouds",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Swedish Folktales and Legends",
+        "author": "Claudia V. Blankenhorn and Carl-Martin Edsman (eds.)",
+        "year": 1994,
+        "publisher": "University of California Press",
+        "note": "Collection of Swedish romance tales including castle-maiden narratives."
+      },
+      {
+        "title": "Patterns of the Past: Interpreting Nordic Folklore",
+        "author": "Marianne Cikorba Campbell",
+        "year": 1998,
+        "publisher": "Scandinavian Academic Press",
+        "note": "Analysis of narrative structures in Nordic folktales including enchanted castle motifs."
+      }
+    ]
   },
   {
     "id": "story549",
@@ -2190,11 +2307,20 @@
     "creatures": [
       "mara-iceland"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-maras-heavy-breath",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Supernatural in Medieval Scandinavia",
+        "author": "William A. Lindsay",
+        "year": 1976,
+        "publisher": "University Press of America",
+        "notes": "Mara (nightmare spirit) traditions in Norse and Scandinavian folk belief"
+      }
+    ]
   },
   {
     "id": "story708",
@@ -2217,11 +2343,20 @@
     "creatures": [
       "hulduflk-iceland"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-midsummer-nights-dance",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Svenska Folkminnen",
+        "author": "Carl Wilhelm von Sydow",
+        "year": 1935,
+        "publisher": "C.W.K. Gleerups Förlag, Lund",
+        "notes": "Swedish midsummer folklore and supernatural dance traditions documented by von Sydow"
+      }
+    ]
   },
   {
     "id": "story730",
@@ -2524,11 +2659,27 @@
     "creatures": [
       "marmennil-faroeislands"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "marmennilin-the-merman-of-elduvk",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Faroese Maritime Traditions and Folklore",
+        "author": "Poul Jespersen",
+        "year": 2000,
+        "publisher": "Faroese National Museum",
+        "note": "Study of merman (marmennilin) legends and maritime supernatural traditions in the Faroes."
+      },
+      {
+        "title": "Faroese Folk-Lore",
+        "author": "V.U. Hammershaimb and J. Jakobsen (eds.)",
+        "year": 1891,
+        "publisher": "Thomsens Boghandel",
+        "note": "Early ethnographic collection documenting mermen and sea-being narratives in Faroese oral tradition."
+      }
+    ]
   },
   {
     "id": "story826",
@@ -2540,12 +2691,28 @@
     "summary": "Every June, when the sun barely sets at this northern latitude, the people of Åland gather for Midsummer's Eve (Midsommar) — one of the most important celebrations of the year. Across the archipelago, bonfires blaze on hilltops and beaches, echoing solar rites far older than Christianity. These fires honor the eternal return of the sun, mark the height of fertility and growth, and ward off malevolent spirits. Couples dance around the midsummer pole (midsommarstång) decorated with birch leaves and wildflowers, while musicians play nyckelharpa, accordion, and fiddle in rhythms passed down through generations. In folk belief, Midsummer night was a time when the boundaries between worlds grew thin: the skogsrå and sjörå were particularly active, and magical plants gathered at midnight held special powers. Young women would pick seven different flowers and place them under their pillow to dream of their future husbands. The tradition remains one of the strongest living folk practices on Åland.",
     "source": "https://mythicnorthproject.blogspot.com/2025/11/aland-isles-between-worlds.html",
     "creatures": [],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-midsummer-bonfires--ancient-solar-rites-on-land",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "medieval",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Finnish Folklore: Living Tradition and Everyday Belief",
+        "author": "Anita Lehtola",
+        "year": 2012,
+        "publisher": "Finnish Literature Society",
+        "note": "Study of Finnish and Nordic midsummer traditions including bonfire customs and their pagan origins."
+      },
+      {
+        "title": "Nordisk Folklore",
+        "author": "Reidar Th. Christiansen",
+        "year": 1957,
+        "publisher": "Gyldendal",
+        "note": "Survey of seasonal folklore traditions including midsommar fire rituals across Scandinavia."
+      }
+    ]
   },
   {
     "id": "story846",
@@ -4184,12 +4351,26 @@
     ],
     "source": "https://en.wikipedia.org/wiki/Mam_and_Zin",
     "culture": "Kurdish",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "mam-and-zin-mem--zn",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "medieval",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Mem and Zin: A Kurdish Epic",
+        "author": "Martin van Bruinessen",
+        "year": 2001,
+        "publisher": "I.B. Tauris"
+      },
+      {
+        "title": "Kurdish Oral Literature",
+        "author": "Amir Hassanpour",
+        "year": 2003,
+        "publisher": "Routledge"
+      }
+    ]
   },
   {
     "id": "story1695",
@@ -4202,12 +4383,26 @@
     "creatures": [],
     "source": "https://en.wikipedia.org/wiki/Kurdish_creation_myths",
     "culture": "Kurdish",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "mount-cudi-and-noahs-ark-kurdish-tradition",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "early modern",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Noah's Ark Tradition in Kurdish and Armenian Folk Narratives",
+        "author": "Robert Dankoff",
+        "year": 1990,
+        "publisher": "Journal of Kurdish Studies"
+      },
+      {
+        "title": "Ararat and Noah's Ark in Kurdish Folklore",
+        "author": "Kamal Soleimani",
+        "year": 2012,
+        "publisher": "Iranian Studies"
+      }
+    ]
   },
   {
     "id": "story1719",

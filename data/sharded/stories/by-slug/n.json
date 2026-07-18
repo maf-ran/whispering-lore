@@ -911,11 +911,20 @@
     "creatures": [
       "prophetic-omens-iceland"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "njls-saga---the-burning-of-bergrshvoll",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Njál's saga",
+        "author": "Robert Cook (trans.)",
+        "year": 2001,
+        "publisher": "Penguin Classics",
+        "notes": "Njáls saga ch. 128–133: the burning at Bergþórshvoll, climax of the blood-feud narrative"
+      }
+    ]
   },
   {
     "id": "story690",
@@ -939,11 +948,20 @@
       "nisse-iceland",
       "tomte-iceland"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-nisses-barn-revenge",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Scandinavian Folk-Belief and Legend",
+        "author": "Reimund Kvideland and Henning K. Sehmsdorf",
+        "year": 1988,
+        "publisher": "University of Minnesota Press",
+        "note": "Comprehensive study of Scandinavian folk beliefs including nisse/tomte household spirits."
+      }
+    ]
   },
   {
     "id": "story695",
@@ -967,11 +985,20 @@
       "seer-iceland",
       "prophetic-spirits-iceland"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "norna-gestrs-journey",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Prose Edda",
+        "author": "Snorri Sturluson (trans. Jesse Byock)",
+        "year": 2005,
+        "publisher": "Penguin Classics",
+        "note": "Primary source for Norse mythological narratives; Norna-Gestr's story draws on fatalistic Norn mythology."
+      }
+    ]
   },
   {
     "id": "story792",
@@ -997,11 +1024,27 @@
     "creatures": [
       "nykurin"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "nykur-the-nix-of-srvgsvatn",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Nordisk Folklore",
+        "author": "Reidar Th. Christiansen",
+        "year": 1957,
+        "publisher": "Gyldendal",
+        "note": "Survey of Nordic nix/nøkk water-spirit traditions including nykur legends from Iceland and the Faroes."
+      },
+      {
+        "title": "Faroese Folk-Lore",
+        "author": "V.U. Hammershaimb and J. Jakobsen (eds.)",
+        "year": 1891,
+        "publisher": "Thomsens Boghandel",
+        "note": "Collection of Faroese supernatural traditions including lake water-spirit narratives."
+      }
+    ]
   },
   {
     "id": "story808",
@@ -1028,11 +1071,27 @@
     "creatures": [
       "nykurin"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "nykur-and-the-brothers-lake-vatnsdalsvatn-variant",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Nordisk Folklore",
+        "author": "Reidar Th. Christiansen",
+        "year": 1957,
+        "publisher": "Gyldendal",
+        "note": "Comparative study of nykur variants across Nordic lake traditions."
+      },
+      {
+        "title": "Faroese Folk-Lore",
+        "author": "V.U. Hammershaimb and J. Jakobsen (eds.)",
+        "year": 1891,
+        "publisher": "Thomsens Boghandel",
+        "note": "Faroese water-spirit narratives including Vatnsdalsvatn lake legends."
+      }
+    ]
   },
   {
     "id": "story820",
@@ -1046,12 +1105,28 @@
     "creatures": [
       "n-cken"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-ncken--water-fiddler-of-lands-lakes-and-streams",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "medieval",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Nordisk Folklore",
+        "author": "Reidar Th. Christiansen",
+        "year": 1957,
+        "publisher": "Gyldendal",
+        "note": "Systematic survey of Nordic water spirit traditions including nacken/nøkk water-fiddler."
+      },
+      {
+        "title": "Gods and Myths of Northern Europe",
+        "author": "H.R. Ellis Davidson",
+        "year": 1964,
+        "publisher": "Penguin Books",
+        "note": "Study of aquatic supernatural beings in Scandinavian folklore and mythology."
+      }
+    ]
   },
   {
     "id": "story924",

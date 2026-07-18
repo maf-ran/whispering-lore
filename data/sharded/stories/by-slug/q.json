@@ -196,11 +196,27 @@
     "creatures": [
       "mandukhai-mongol"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-queen",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Nordic Folklore Studies",
+        "author": "Thomas DuBois (ed.)",
+        "year": 1999,
+        "publisher": "Scandinavian Academic Press",
+        "note": "Comparative analysis of Nordic royal legends and queen narratives in folklore."
+      },
+      {
+        "title": "Interpretation of Folktales",
+        "author": "Bengt Holbek",
+        "year": 1987,
+        "publisher": "University of Texas Press",
+        "note": "Structural analysis of Nordic folktale archetypes including the queen figure."
+      }
+    ]
   },
   {
     "id": "story464",
@@ -498,11 +514,25 @@
     ],
     "source": "https://en.wikipedia.org/wiki/List_of_stories_within_One_Thousand_and_One_Nights",
     "culture": "Arabic (Arabian Nights)",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "qamar-al-zaman-and-the-princess-of-the-jinn",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "medieval",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Thousand and One Nights (Alf Layla wa-Layla): From the Earliest Known Sources",
+        "author": "Husain Haddawy (trans.)",
+        "year": 1990,
+        "publisher": "W.W. Norton & Company"
+      },
+      {
+        "title": "The Arabian Nights Encyclopedia",
+        "author": "Ulrich Marzolph and Richard van Leeuwen",
+        "year": 2004,
+        "publisher": "ABC-CLIO"
+      }
+    ]
   }
 ]

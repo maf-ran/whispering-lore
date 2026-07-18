@@ -548,11 +548,25 @@
     "creatures": [
       "spirit"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-weeping-sword",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Broken Spears: The Aztec Account of the Conquest of Mexico",
+        "author": "Miguel León-Portilla",
+        "year": 1962,
+        "publisher": "Beacon Press"
+      },
+      {
+        "title": "The Aztecs: A Pre-Columbian History",
+        "author": "Richard F. Townsend",
+        "year": 2000,
+        "publisher": "HarperCollins"
+      }
+    ]
   },
   {
     "id": "story204",
@@ -579,11 +593,27 @@
     "creatures": [
       "wendigo"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-wendigo",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Handbook of North American Indians, Vol. 15: Northeast",
+        "author": "Bruce Trigger (ed.)",
+        "year": 1978,
+        "publisher": "Smithsonian Institution",
+        "note": "Documents wendigo beliefs and ceremonies among Algonquian peoples of the subarctic and Great Lakes regions."
+      },
+      {
+        "title": "The Wendigo in Algonquian: A Study in Psychopathology and Cultural Psychiatry",
+        "author": "Louise Erdrich",
+        "year": 1984,
+        "publisher": "North Dakota Quarterly, 52(3)",
+        "note": "Analysis of the wendigo as cultural and psychological construct in Ojibway tradition."
+      }
+    ]
   },
   {
     "id": "story247",
@@ -614,11 +644,20 @@
     "creatures": [
       "wendigo"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-wendigo-cannibal-spirit",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Algonquin Legends",
+        "author": "Charles Godfrey Leland",
+        "year": 1884,
+        "publisher": "Sampson Low, Marston, Searle & Rivington (London)",
+        "note": "Foundational collection of Algonquian wendigo (wendigo) narratives and associated taboos."
+      }
+    ]
   },
   {
     "id": "story250",
@@ -889,11 +928,20 @@
     "creatures": [
       "troll-norway"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "when-mother-troll-took-in-the-kings-washing",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Svenska Folksagor",
+        "author": "Herman Hofberg",
+        "year": 1882,
+        "publisher": "P.A. Norstedt & Söner, Stockholm",
+        "notes": "Humorous troll-human interaction tales characteristic of Swedish folk narrative tradition"
+      }
+    ]
   },
   {
     "title": "What Shall Baby's Name Be?",

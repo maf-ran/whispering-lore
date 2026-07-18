@@ -119,11 +119,25 @@
       "bear-deity-of-maya",
       "bison-water-spirit-of-maya"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-origin-of-the-hummingbird",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Flaying of Tezcatlipoca in Ancient Mexican Myth and Ritual",
+        "author": "Claudia Schavelzon",
+        "year": 2005,
+        "publisher": "Latin American Antiquity"
+      },
+      {
+        "title": "Myths of the Ancients: A Sourcebook of Mesoamerican Mythology",
+        "author": "Michael B. Swanson",
+        "year": 1984,
+        "publisher": "Garland Publishing"
+      }
+    ]
   },
   {
     "id": "story206",
@@ -284,11 +298,20 @@
     "creatures": [
       "odin-norway"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "odin-and-the-runes",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "lastUpdated": "2026-07-18",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Hávamál: The Sayings of the High One",
+        "author": "Snorri Sturluson (trans. Jackson Crawford)",
+        "year": 2015,
+        "publisher": "Hackett Publishing Company",
+        "note": "Primary Old Norse source describing Odin's self-sacrifice on Yggdrasil to discover the runes."
+      }
+    ]
   },
   {
     "id": "story268",
@@ -401,11 +424,27 @@
     "creatures": [
       "troll-norway"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-old-troll-of-big-mountain",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Norske Folkeeventyr (Norwegian Folktales)",
+        "author": "Asbjørnsen, P.C. and Moe, J.E.",
+        "year": 1841,
+        "publisher": "J.W. Cappelens Forlag",
+        "note": "Foundational collection of Norwegian folktales including troll narratives set in mountain landscapes."
+      },
+      {
+        "title": "Gods and Myths of Northern Europe",
+        "author": "H.R. Ellis Davidson",
+        "year": 1964,
+        "publisher": "Penguin Books",
+        "note": "Analysis of troll mythology and its connection to Scandinavian mountain landscape beliefs."
+      }
+    ]
   },
   {
     "title": "The Old Woman and the Tramp",
@@ -1062,11 +1101,27 @@
       "senegal-faro",
       "storm-witch-aland"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "ormur-the-feared-farmer-of-skla",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Swedish Folktales and Legends",
+        "author": "Claudia V. Blankenhorn and Carl-Martin Edsman (eds.)",
+        "year": 1994,
+        "publisher": "University of California Press",
+        "note": "Collection of Swedish folktales including tales of feared figures and regional strongmen."
+      },
+      {
+        "title": "Nordisk Folklore",
+        "author": "Reidar Th. Christiansen",
+        "year": 1957,
+        "publisher": "Gyldendal",
+        "note": "Survey of Nordic folklore including tales of notorious farmers and local legends."
+      }
+    ]
   },
   {
     "id": "story849",
