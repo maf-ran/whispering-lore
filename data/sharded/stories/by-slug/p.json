@@ -64,7 +64,7 @@
     "creatures": [
       "fairy-europe"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-pig-king",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -135,7 +135,7 @@
     "creatures": [
       "gwyllion"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-panchatantra-the-lion-and-the-rabbit",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -170,7 +170,7 @@
     "creatures": [
       "pygmalion"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "pygmalion-story",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -211,7 +211,7 @@
       "neang-neak-cambodian",
       "ra-egyptian"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "the-princess-and-the-pea",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -278,11 +278,19 @@
     "creatures": [
       "giant"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "paul-bunyan",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18T02:19:55.111Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Paul Bunyan",
+        "author": "Estyn Evans",
+        "year": 1951,
+        "publisher": "In Fables and Folk Tales, Oxford University Press"
+      }
+    ]
   },
   {
     "id": "story211",
@@ -310,7 +318,7 @@
       "pele-hawaii",
       "pele-hawaii"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "peles-tears",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -345,7 +353,7 @@
     "creatures": [
       "pele-hawaii"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "pele-and-the-lava",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -380,11 +388,19 @@
     "creatures": [
       "phoenix-egypt"
     ],
-    "source_quality": "unknown",
+    "source_quality": "researched",
     "slug": "phoenix-story",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "3.1",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Book of Mythical Birds and Legendary Beasts",
+        "author": "John and Caitlín Matthews",
+        "year": 1998,
+        "publisher": "Candlewick Press"
+      }
+    ]
   },
   {
     "id": "story296",
@@ -824,7 +840,7 @@
       "climbing",
       "magic ointment"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-princess-on-the-glass-hill",
     "creatures": [
       "l",
@@ -866,7 +882,7 @@
     "creatures": [
       "humans-denmark"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-prince-and-the-princess-in-the-forest",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -894,7 +910,7 @@
     "creatures": [
       "white-bear-denmark"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "prince-whitebear",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -922,7 +938,7 @@
     "creatures": [
       "wolf-prince-denmark"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "prince-wolf",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -950,7 +966,7 @@
     "creatures": [
       "humans-denmark"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-princess-in-the-chest",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1002,7 +1018,7 @@
       "qalupalik-greenland-1",
       "ocean-spider-greenland"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-polar-bear-son",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1039,7 +1055,7 @@
       "stallo-sami",
       "beaivi-sami"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "potto-podnie-and-stllo",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1222,7 +1238,7 @@
       "white-buffalo-calf-woman-lakota",
       "wakan-tanka-lakota"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-pipe-of-peace-treaty",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1262,7 +1278,7 @@
       "porcupine-tsimshian",
       "beaver-tsimshian"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-porcupine-and-the-beaver-tsimshian",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1360,11 +1376,19 @@
       "sultanate",
       "Lamu Archipelago"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "pate-island-chronicles-the-founding-of-the-sultanate",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "3.1",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Four Centuries of Swahili Verse: A Literary History and Anthology",
+        "author": "Jan Knappert",
+        "year": 1971,
+        "publisher": "Heinemann"
+      }
+    ]
   },
   {
     "id": "story1299",
@@ -1394,11 +1418,19 @@
       "kipemba",
       "exorcism"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "pepo-the-sea-spirits-of-zanzibar",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "3.1",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Four Centuries of Swahili Verse: A Literary History and Anthology",
+        "author": "Jan Knappert",
+        "year": 1971,
+        "publisher": "Heinemann"
+      }
+    ]
   },
   {
     "id": "story1335",
@@ -1415,12 +1447,20 @@
       "ogo",
       "the-pale-fox"
     ],
-    "source_quality": "unknown",
+    "source_quality": "researched",
     "slug": "the-pale-fox-and-the-divination-grid",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "3.1",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Pale Fox",
+        "author": "Marcel Griaule and Germaine Dieterlen",
+        "year": 1965,
+        "publisher": "Institut d'Ethnologie, Paris"
+      }
+    ]
   },
   {
     "id": "story1337",
@@ -1438,12 +1478,20 @@
       "bemba-bambara",
       "mousso-koroni-bambara"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "pemba-and-faro-the-bambara-twin-creation",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "3.1",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "A Treasury of African Folklore: The Oral Literature, Traditions, Myths, Legends, Epics, Tales, Recollections, Wisdom, Sayings, and Humor of Africa",
+        "author": "Harold Courlander",
+        "year": 1975,
+        "publisher": "Crown Publishers"
+      }
+    ]
   },
   {
     "id": "story1366",
@@ -1458,7 +1506,7 @@
     "creatures": [
       "abram-moos-altai"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "peles-journey-from-kahiki-to-hawaii",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1498,7 +1546,7 @@
     "creatures": [
       "poliaku-hawaiian"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "poliahu-and-pele-the-snow-goddess-rivalry",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1576,7 +1624,7 @@
       "neak-ta",
       "a-men-rainbow-serpent"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "preah-thong-and-neang-neak-the-founding-of-the-khmer-nation",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1720,7 +1768,7 @@
       "the",
       "crocodile"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "panchatantra--the-monkey-and-the-crocodile",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1792,7 +1840,7 @@
       "the",
       "mongoose"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "panchatantra--the-brahmin-and-the-mongoose",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1862,7 +1910,7 @@
       "the",
       "bull"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "panchatantra--the-lion-and-the-bull",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1986,7 +2034,7 @@
       "sri",
       "lanka"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "prince-vijaya-and-the-founding-of-sri-lanka",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -2028,7 +2076,7 @@
       "great",
       "renunciation"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "prince-siddharthas-great-renunciation",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -2067,7 +2115,7 @@
       "spirit",
       "world"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "papa-legba-and-the-gate-of-the-spirit-world",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",

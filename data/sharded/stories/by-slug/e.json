@@ -27,7 +27,7 @@
       "huldra",
       "vittra"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-enchanted-forest",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -60,7 +60,7 @@
     "creatures": [
       "erlking"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-erlking",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -145,7 +145,7 @@
       "troll-norway",
       "fairy-europe"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "east-of-the-sun-and-west-of-the-moon",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -182,7 +182,7 @@
       "prince-sattva-indian",
       "banyan-deer-indian"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-elephant-and-the-sparrow",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -217,7 +217,7 @@
       "quetzalcoatl",
       "quetzalcoatl"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "the-eternal-struggle-quetzalcoatl",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -437,7 +437,7 @@
     "creatures": [
       "spirit"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-emperors-new-clothes",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -472,7 +472,7 @@
     "creatures": [
       "fairy-europe"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-elves-and-the-shoemaker",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -543,7 +543,7 @@
       "horus-egyptian",
       "osiris"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "the-eyes-of-horus",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -578,7 +578,7 @@
     "creatures": [
       "spirit"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "el-dorado",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -646,11 +646,19 @@
     "creatures": [
       "lobizon"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "el-lobizn-the-argentine-werewolf",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18T02:19:55.132Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Folklore Argentino",
+        "author": "Juan Bautista Ambrosetti",
+        "year": 1906,
+        "publisher": "Coni Hermanos, Buenos Aires"
+      }
+    ]
   },
   {
     "id": "story383",
@@ -895,7 +903,7 @@
     "creatures": [
       "elf-maidens-denmark"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "elvehj",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -923,7 +931,7 @@
     "creatures": [
       "witch-denmark"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "esben-and-the-witch",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -952,7 +960,7 @@
       "draugr-iceland",
       "revenant-iceland"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "eyrbyggja-saga---the-haunting-of-thorolf-halt-foot",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -980,7 +988,7 @@
     "creatures": [
       "ghost-iceland"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "eyrbyggja-saga---the-guest-thorgunna",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1009,7 +1017,7 @@
       "draugr-iceland",
       "supernatural-seal-iceland"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "eyrbyggja-saga---the-seal-of-frodis-water",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1046,7 +1054,7 @@
       "aningaut-greenland",
       "malina-greenland"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-eternal-chase-of-the-sun-and-moon",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1081,7 +1089,7 @@
     "creatures": [
       "erdlaveersissok-greenland"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "erdlaveersissok-the-entrail-seizer",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1133,7 +1141,7 @@
       "qalupalik-greenland-1",
       "ocean-spider-greenland"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-eagle-and-whale-husbands",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1501,12 +1509,13 @@
     "creatures": [
       "eshu"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "eshu-the-trickster-and-the-two-friends-yoruba",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "oral tradition",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": "Verger, Pierre. Dieux Yoruba. Éditions africaines, 1954; Johnson, Samuel. The History of the Yorubas. Routledge, 1921"
   },
   {
     "id": "story1254",
@@ -1523,12 +1532,13 @@
       "soumaoro-kant",
       "sogolon-mande"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-epic-of-sundiata-mande",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": "Hunwick, John O. Timbuktu and the Songhay Empire. Brill, 1999; Vansina, Jan. Oral Tradition as History. James Currey, 1985"
   },
   {
     "id": "story1267",
@@ -1543,12 +1553,13 @@
     "creatures": [
       "agokoli"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-exodus-from-notsie-ewe",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": "Law, Robin. The Oyo Empire c.1600–c.1836. Clarendon Press, 1977; Van Dantzig, Albert. The Horse in West African History. Oxford University Press, 1987"
   },
   {
     "id": "story1278",
@@ -1564,12 +1575,13 @@
       "orunmila-yoruba",
       "olodumare-yoruba"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-eternal-wisdom-of-ifa-divination-yoruba",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": "Abimbola, Wande. Ifa: An Exposition of the Literary Corpus. Oxford University Press Nigeria, 1976; Verger, Pierre. Dieux Yoruba. Éditions africaines, 1954"
   },
   {
     "id": "story1279",
@@ -1598,11 +1610,12 @@
       "Maasai origin",
       "divine gift"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "enkai-and-the-gift-of-cattle",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": "Spencer, Paul. The Maasai of Matapato: A Study of the Rituals of Pastoralism. Longman, 1988; Sankan, Kipkorir R. The Maasai. Transafrica, 1971"
   },
   {
     "id": "story1282",
@@ -1631,11 +1644,12 @@
       "drought",
       "rain"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "enkai-and-the-rainbow-serpent",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": "Spencer, Paul. The Maasai of Matapato: A Study of the Rituals of Pastoralism. Longman, 1988; Waller, H.W. The Last Maasai of Kenya. Bouverie and Cole, 1976"
   },
   {
     "id": "story1325",
@@ -1653,12 +1667,13 @@
       "cogaz",
       "gewi"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-eland-creation-kaggens-favorite-animal",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": "Bleek, Wilhelm H.I. and Lloyd, Lucy C. Specimens of Bushman Folklore. George Allen, 1911; Lee, Richard B. The Dobe !Kung. Holt, Rinehart and Winston, 1984"
   },
   {
     "id": "story1431",
@@ -1692,7 +1707,7 @@
     "summary": "Long ago, seven suns rose in the sky simultaneously, drying up all rivers and vegetation on earth. Men and animals struggled to survive in the unbearable heat. A famous archer named Erkei-Mergen stepped forward to save the world. Using his divine bow, he shot down the extra suns one by one, restoring balance to the world. The story explains the origin of the single sun and moon in the sky and is one of the most widespread Mongol folktales about the regulation of celestial bodies, reflecting the ancient Mongols' interest in natural phenomena and their origins.",
     "source": "https://buddhism.lib.ntu.edu.tw/FULLTEXT/JR-EPT/stuart1.htm",
     "creatures": [],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "erkei-mergen-and-the-seven-suns",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1712,7 +1727,7 @@
     "creatures": [
       "erlig-khan-mongol"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "erlig-khan-and-the-palace-of-the-dead",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1732,7 +1747,7 @@
     "creatures": [
       "mangus-mongol"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "the-epic-of-jangar",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1918,11 +1933,19 @@
       "trickster",
       "messenger"
     ],
-    "source_quality": "unknown",
+    "source_quality": "researched",
     "slug": "eleggua-the-trickster-messenger",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18T02:19:55.132Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Lucumí: A Folkloric Look at a Non-Folk Religion",
+        "author": "Lino G. González",
+        "year": 1986,
+        "publisher": "Caribbean Religious Press"
+      }
+    ]
   },
   {
     "id": "story1694",

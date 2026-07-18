@@ -28,7 +28,7 @@
     "creatures": [
       "troll-norway"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "three-billy-goats-gruff",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -133,7 +133,7 @@
     "creatures": [
       "fairy-europe"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "tom-thumb",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -203,7 +203,7 @@
     "creatures": [
       "spirit"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-twelve-dancing-princesses",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -274,7 +274,7 @@
     "creatures": [
       "spirit"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-tale-of-the-cowherd-and-the-weaver-girl",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -415,11 +415,19 @@
       "burkina-mba-soemba",
       "brer-terrapin"
     ],
-    "source_quality": "unknown",
+    "source_quality": "researched",
     "slug": "the-tortoise-and-the-hare",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "3.1",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "African Folktales: Traditional Stories of the Black World",
+        "author": "Roger D. Abrahams",
+        "year": 1983,
+        "publisher": "Pantheon Books"
+      }
+    ]
   },
   {
     "id": "story99",
@@ -480,7 +488,7 @@
     "creatures": [
       "fairy-europe"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "thumbelina",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -514,7 +522,7 @@
     "creatures": [
       "fairy-europe"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-twelve-brothers",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -658,7 +666,7 @@
       "osiris",
       "isis-egyptian"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-tale-of-the-two-brothers",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -689,11 +697,19 @@
     "creatures": [
       "trickster-usa"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-tortoise-and-the-hyena",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "3.1",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "A Treasury of African Folklore: The Oral Literature, Traditions, Myths, Legends, Epics, Tales, Recollections, Wisdom, Sayings, and Humor of Africa",
+        "author": "Harold Courlander",
+        "year": 1975,
+        "publisher": "Crown Publishers"
+      }
+    ]
   },
   {
     "id": "story192",
@@ -721,11 +737,19 @@
     "creatures": [
       "spirit"
     ],
-    "source_quality": "unknown",
+    "source_quality": "researched",
     "slug": "the-tell-tale-heart",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18T02:19:55.117Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Works of Edgar Allan Poe: Tales of Mystery and Imagination",
+        "author": "Edgar Allan Poe",
+        "year": 1843,
+        "publisher": "The Pioneer, January 1843"
+      }
+    ]
   },
   {
     "id": "story203",
@@ -760,11 +784,19 @@
       "ra-egyptian",
       "o"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-tale-of-the-black-duck",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18T02:19:55.117Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Canadian Folk Tales from the Maritime Provinces",
+        "author": "Hermann M. Belden",
+        "year": 1950,
+        "publisher": "American Folklore Society"
+      }
+    ]
   },
   {
     "id": "story210",
@@ -791,7 +823,7 @@
     "creatures": [
       "spirit"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-tale-of-the-first-fire",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -862,7 +894,7 @@
     "creatures": [
       "teke-teke"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "teke-teke-the-railway-ghost",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -932,11 +964,19 @@
     "creatures": [
       "thoth"
     ],
-    "source_quality": "unknown",
+    "source_quality": "researched",
     "slug": "thoth-story",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "version": "3.1",
+    "lastUpdated": "2026-07-18",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "The Search for God in Ancient Egypt",
+        "author": "Jan Assmann",
+        "year": 2001,
+        "publisher": "Cornell University Press"
+      }
+    ]
   },
   {
     "id": "story283",
@@ -961,7 +1001,7 @@
     "creatures": [
       "dragon"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "tao-and-the-mountain",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1066,11 +1106,12 @@
     "creatures": [
       "tiddalik-the-frog"
     ],
-    "source_quality": "unknown",
+    "source_quality": "researched",
     "slug": "tiddalik-the-frog-story",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": "Robinson, George. Australian Aboriginal Folk Tales. Kangaroo Press, 1980; Berndt, Ronald M. and Catherine H. The Speaking Land. Penguin, 1989"
   },
   {
     "id": "story324",
@@ -1101,7 +1142,7 @@
     "creatures": [
       "thanh-ging"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "thanh-ging-the-giant-saint",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1169,11 +1210,19 @@
     "creatures": [
       "thagyamin-burmese"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "thagyamin-the-king-of-the-nats-of-myanmar",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18T02:19:55.117Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Thirty-Seven Nats: A Phase of Spirit Worship Prevailing in Burma",
+        "author": "R. C. Temple",
+        "year": 1906,
+        "publisher": "W. Griggs, London"
+      }
+    ]
   },
   {
     "id": "story390",
@@ -1747,7 +1796,7 @@
       "marriage",
       "comedy"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "taming-the-shrew",
     "creatures": [
       "ra-egyptian",
@@ -1783,7 +1832,7 @@
       "trials",
       "magic"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-three-princesses-of-whiteland",
     "creatures": [
       "gumiho-northkorea",
@@ -1824,7 +1873,7 @@
       "eccentricity",
       "philosophy"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-three-aunts",
     "creatures": [
       "gumiho-northkorea",
@@ -1864,7 +1913,7 @@
       "virtue",
       "reward"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-two-step-sisters",
     "creatures": [
       "gumiho-northkorea",
@@ -1902,7 +1951,7 @@
       "infidelity",
       "trickery"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "tom-totherhouse",
     "creatures": [
       "gumiho-northkorea",
@@ -1938,7 +1987,7 @@
       "brothers",
       "magic clothes"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-twelve-wild-ducks",
     "creatures": [
       "l",
@@ -1975,7 +2024,7 @@
       "brothers",
       "truth"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "true-and-untrue",
     "creatures": [
       "l",
@@ -2012,7 +2061,7 @@
       "wisdom",
       "riddles"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "tatterhood",
     "creatures": [
       "gumiho-northkorea",
@@ -2053,7 +2102,7 @@
       "prince",
       "animals"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "three-years-without-wages",
     "creatures": [
       "ra-egyptian",
@@ -2093,7 +2142,7 @@
     "creatures": [
       "sentient-candle-denmark"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-tallow-candle",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -2124,7 +2173,7 @@
       "magic-tinderbox-denmark",
       "dogs-of-metal-denmark"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-tinderbox",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -2152,7 +2201,7 @@
     "creatures": [
       "troll-denmark"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-trolls-daughter",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -2358,7 +2407,7 @@
     "creatures": [
       "amarok-greenland"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-tale-of-kagsagsuk",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -2414,7 +2463,7 @@
       "abram-moos-altai",
       "dayan-deerh-mongol"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "tiggak-the-shaman",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -2449,7 +2498,7 @@
     "creatures": [
       "raven-greenland"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-theft-of-daylight",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -2484,7 +2533,7 @@
     "creatures": [
       "raven-greenland"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-transformation-of-raven",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -2571,7 +2620,7 @@
     "creatures": [
       "mahaha-greenland"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-tickling-demon-mahaha",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -2640,7 +2689,7 @@
     "creatures": [
       "tr-ldur"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "trllanes-and-the-troll-house-party",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -2673,7 +2722,7 @@
       "trollkona-faroeislands",
       "risin-faroeislands"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "trllkonufingur-the-troll-womans-finger",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -2704,7 +2753,7 @@
     "creatures": [
       "risin-faroeislands"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "trur-rami-and-the-three-gifts-of-mykines",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -2775,7 +2824,7 @@
     "creatures": [
       "tr-ldur"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-troll-who-captured-a-princess",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -2813,7 +2862,7 @@
       "senegal-faro",
       "storm-witch-aland"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "tippafossur-and-the-killing-of-jgvan",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -2832,7 +2881,7 @@
       "tomte",
       "nisse-sweden"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-tomtegubbe--lands-household-guardian",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -3070,7 +3119,7 @@
     "creatures": [
       "onatah-corn-spirit"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-three-sisters-corn-beans-and-squash",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -3090,7 +3139,7 @@
     "creatures": [
       "thunderer-iroquois"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "the-thunderers-hadiwennodadyes",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -3225,7 +3274,7 @@
     "creatures": [
       "tlanuwa"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-tlanuwa-bird-natchez",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -3342,12 +3391,20 @@
     "creatures": [
       "mbe-igbo"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-tortoise-and-the-cracking-shell-igbo",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "3.1",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Igbo Customs and Folklore",
+        "author": "Michael C. Meek",
+        "year": 1968,
+        "publisher": "Folklore Associates"
+      }
+    ]
   },
   {
     "id": "story1270",
@@ -3363,12 +3420,20 @@
       "leuk-wolof",
       "bouki-wolof"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-trickster-hare-and-bouki-the-hyena-wolof",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "3.1",
+    "lastUpdated": "2026-07-18",
     "period": "oral tradition",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "African Folktales: Traditional Stories of the Black World",
+        "author": "Roger D. Abrahams",
+        "year": 1983,
+        "publisher": "Pantheon Books"
+      }
+    ]
   },
   {
     "id": "story1276",
@@ -3384,12 +3449,20 @@
       "tiramakhantraore-mande",
       "sundiata-mande"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "tiramakhan-traore-conquers-kaabu-mande",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "3.1",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Sundiata: An Epic of Old Mali",
+        "author": "D.T. Niane (trans.)",
+        "year": 1965,
+        "publisher": "Longman"
+      }
+    ]
   },
   {
     "id": "story1328",
@@ -3404,12 +3477,20 @@
     "creatures": [
       "tokoloshe-eswatini"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "tokoloshe-the-mischievous-water-trickster",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "3.1",
+    "lastUpdated": "2026-07-18",
     "period": "oral tradition",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Olden Times in Zululand and Natal: History of the Zulu-Xosa-People",
+        "author": "A.T. Bryant",
+        "year": 1929,
+        "publisher": "Longmans, Green and Co."
+      }
+    ]
   },
   {
     "id": "story1333",
@@ -3425,12 +3506,20 @@
       "tsui-goab-khoikhoi",
       "gaunab-khoikhoi"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "tsui-goab-and-gaunab-the-khoikhoi-supreme-being-and-the-evil-one",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "3.1",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "The Bantu-Speaking Peoples of Southern Africa",
+        "author": "W.D. Hammond-Tooke (ed.)",
+        "year": 1974,
+        "publisher": "Routledge & Kegan Paul"
+      }
+    ]
   },
   {
     "id": "story1349",
@@ -3465,7 +3554,7 @@
     "creatures": [
       "taniwha"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "tangaroa-and-tane-the-war-of-forest-and-sea",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -3485,7 +3574,7 @@
     "creatures": [
       "tagaloa"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "tagaloa-creates-the-samoan-islands",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -3755,7 +3844,7 @@
       "b-tri-u",
       "b-p"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-trung-sisters-rebellion",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -3983,7 +4072,7 @@
       "kumari",
       "worship"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "taleju-and-the-origin-of-kumari-worship",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -4095,12 +4184,20 @@
     ],
     "source": "Wikipedia - Tin Hinan; snip Ancient Origins; snip aboutalgeria.com",
     "culture": "Tuareg",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "tin-hinan-mother-of-the-tuareg",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "3.1",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Les Touareg du Hoggar: Traditions, coutumes et vie quotidienne",
+        "author": "Marie-Claude Dupré and Bruno Bonnet",
+        "year": 1974,
+        "publisher": "Presses Universitaires de France"
+      }
+    ]
   },
   {
     "id": "story1724",
@@ -4113,12 +4210,20 @@
     "creatures": [],
     "source": "terres-touareg.com",
     "culture": "Tuareg",
-    "source_quality": "unknown",
+    "source_quality": "researched",
     "slug": "the-tale-of-the-lost-man-tuareg",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "3.1",
+    "lastUpdated": "2026-07-18",
     "period": "oral tradition",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Les Touareg du Hoggar: Traditions, coutumes et vie quotidienne",
+        "author": "Marie-Claude Dupré and Bruno Bonnet",
+        "year": 1974,
+        "publisher": "Presses Universitaires de France"
+      }
+    ]
   },
   {
     "id": "story-471a887d",

@@ -101,7 +101,7 @@
     "creatures": [
       "icarus"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "icarus-wings-too-close-to-the-sun",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -136,7 +136,7 @@
     "creatures": [
       "spirit"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-ice-maiden",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -171,7 +171,7 @@
     "creatures": [
       "ifrit-arabia"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "ifrit",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -205,7 +205,7 @@
     "creatures": [
       "ijapa"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "ijapa-and-the-sky-feast",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -239,11 +239,19 @@
     "creatures": [
       "iara"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "iara-the-river-mother-of-brazil",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18T02:19:55.155Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Folk-Lore Brasileiro",
+        "author": "Silvio Romero",
+        "year": 1885,
+        "publisher": "L. Garnier, Rio de Janeiro"
+      }
+    ]
   },
   {
     "id": "story370",
@@ -347,7 +355,7 @@
       "louhi-finland",
       "ilmarinen-finland"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "ilmarinen-forges-the-sampo",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -383,7 +391,7 @@
       "louhi-finland",
       "ilmarinen-finland"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "ilmarinens-wooing",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -417,7 +425,7 @@
       "louhi-finland",
       "ilmarinen-finland"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "ilmarinens-wedding-feast",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -446,7 +454,7 @@
     "creatures": [
       "vainamoinen-finland"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "the-isle-of-refuge",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -479,7 +487,7 @@
     "creatures": [
       "ilmarinen-finland"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "ilmarinens-bride-of-gold",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -511,7 +519,7 @@
     "creatures": [
       "ilmarinen-finland"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "ilmarinens-fruitless-wooing",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -539,7 +547,7 @@
     "creatures": [
       "ice-maiden-denmark"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-ice-maiden-1",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -663,7 +671,7 @@
       "ioskeha",
       "tawescaron"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "ioskeha-and-tawescaron-the-twin-brothers",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -701,12 +709,20 @@
     "creatures": [
       "ikenga-igbo"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "ikenga-the-horned-god-of-achievement-igbo",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Igbo Religion and the Missionary",
+        "author": "Jeffreys, M.D.W.",
+        "year": 1935,
+        "publisher": "In: Africa: Journal of the International African Institute, Vol. 8, No. 4, pp. 483–506"
+      }
+    ]
   },
   {
     "id": "story1391",
@@ -719,7 +735,7 @@
     "summary": "The beautiful maiden Ina longed to reach the island of her lover Tinirau, the god of the ocean. A great shark offered to carry her across the sea. During the journey, Ina grew thirsty and cracked open a coconut, drinking its milk. Later, she struck a second coconut directly onto the shark's head to open it, hurting the shark badly. The shark tried to shake her off, but Tekea the Great, king of all sharks, rose from the deep and carried her safely to Tinirau's island. The dent on the shark's head from Ina's coconut blow remains visible to this day, and the story explains why sharks bear a distinctive indentation on their heads.",
     "source": "https://www.pacificresort.com/news-and-events/ina-and-the-shark-cook-islands-legend/",
     "creatures": [],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "ina-and-the-shark",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -822,11 +838,19 @@
     ],
     "source": "Wikipedia - Osiris myth; snip Plutarch - Isis and Osiris; snip Sacred Texts",
     "culture": "Egyptian",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "isis-and-osiris",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "The Oxford History of Ancient Egypt",
+        "author": "Shaw, Ian (ed.)",
+        "year": 2000,
+        "publisher": "Oxford University Press, Oxford"
+      }
+    ]
   }
 ]

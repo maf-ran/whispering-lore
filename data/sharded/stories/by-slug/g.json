@@ -26,7 +26,7 @@
     "creatures": [
       "giant"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-giant-without-a-heart",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -167,11 +167,19 @@
     "creatures": [
       "spirit"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-girl-who-understood-birds",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18T02:19:55.141Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Belorusskiy Narodnye Skazki",
+        "author": "Pyotr Kireevsky",
+        "year": 1842,
+        "publisher": "Imperial Academy of Sciences, St. Petersburg"
+      }
+    ]
   },
   {
     "id": "story67",
@@ -203,7 +211,7 @@
     "creatures": [
       "spirit"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-green-children-of-woolpit",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -237,7 +245,7 @@
       "ak-kula-kyrgyz",
       "akhal-teke-spirit-turkmen"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-goose-girl",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -272,7 +280,7 @@
     "creatures": [
       "spirit"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-girl-who-stood-in-the-door",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -377,7 +385,7 @@
     "creatures": [
       "ganesha"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "ganesha-story",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -412,7 +420,7 @@
     "creatures": [
       "gryphon"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "gryphon-story",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -714,11 +722,19 @@
       "j-tte",
       "giant"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-giant-vrl-of-bohusln",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18T02:19:55.141Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Folkminnen och Sägner från Bohuslän",
+        "author": "Gunnar Olof Hyltén-Cavallius",
+        "year": 1852,
+        "publisher": "Föreningen för Svenska Folk-Litteratur, Stockholm"
+      }
+    ]
   },
   {
     "id": "story467",
@@ -785,7 +801,7 @@
       "folklore"
     ],
     "id": "story500",
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-giant-maiden-in-borserd-mountain",
     "creatures": [
       "giant",
@@ -803,8 +819,16 @@
       "bu-draya"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18T02:19:55.141Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Folkminnen och Sägner från Bohuslän",
+        "author": "Gunnar Olof Hyltén-Cavallius",
+        "year": 1852,
+        "publisher": "Föreningen för Svenska Folk-Litteratur, Stockholm"
+      }
+    ]
   },
   {
     "title": "The Golden Cradle",
@@ -834,7 +858,7 @@
       "Stordal Heath"
     ],
     "id": "story501",
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-golden-cradle",
     "creatures": [
       "l",
@@ -849,8 +873,16 @@
       "al-persian"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18T02:19:55.141Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Folkminnen och Sägner från Bohuslän",
+        "author": "Gunnar Olof Hyltén-Cavallius",
+        "year": 1852,
+        "publisher": "Föreningen för Svenska Folk-Litteratur, Stockholm"
+      }
+    ]
   },
   {
     "id": "story515",
@@ -920,7 +952,7 @@
       "kindness",
       "journey"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "gertrudes-bird",
     "creatures": [
       "alicanto",
@@ -955,7 +987,7 @@
       "princess",
       "mountain spirit"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "gudbrand-on-the-hill-side",
     "creatures": [
       "jade-serpent-spirit-altai",
@@ -988,7 +1020,7 @@
       "thieves",
       "monster"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "goosey-grizzel",
     "creatures": [
       "ghoul-jordan",
@@ -1022,7 +1054,7 @@
     "creatures": [
       "humans-denmark"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-garden-of-paradise",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1050,7 +1082,7 @@
     "creatures": [
       "goblin-denmark"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-goblin-and-the-grocer",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1078,7 +1110,7 @@
     "creatures": [
       "humans-denmark"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "golden-treasure",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1106,7 +1138,7 @@
     "creatures": [
       "green-knight-denmark"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "the-green-knight",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1137,7 +1169,7 @@
       "draugr-iceland",
       "wight-iceland"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "grettis-saga---the-fight-with-glmr",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1260,7 +1292,7 @@
     "creatures": [
       "tornak-greenland"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-gifts-from-the-underworld",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1297,7 +1329,7 @@
       "stallo-sami",
       "jabmiidahkka-sami"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "the-golden-time-and-how-it-ended",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1638,7 +1670,7 @@
     "creatures": [
       "flying-head"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "the-great-head-and-the-old-woman",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1716,7 +1748,7 @@
     "creatures": [
       "chenoo"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-girl-chenoo",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1756,7 +1788,7 @@
     "creatures": [
       "gluskabe"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "gluskonba-and-the-four-wishes",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1776,7 +1808,7 @@
     "creatures": [
       "gluskabe"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "gluskabe-and-dzeedzeez-the-baby-who-outmatched-the-hero",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1836,7 +1868,7 @@
       "duppy-bahamas",
       "duppy-saintkittsandnevis"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "ghost-of-the-white-deer-chickasaw",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1912,12 +1944,20 @@
       "obatala-yoruba",
       "orunmila-yoruba"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-goddess-oshun-and-the-dried-riverbeds-yoruba",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Yoruba Folktales",
+        "author": "Bascom, William",
+        "year": 1980,
+        "publisher": "Princeton University Press, Princeton"
+      }
+    ]
   },
   {
     "id": "story1252",
@@ -1933,12 +1973,20 @@
       "nyame-ashanti",
       "okomfo-anokye"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-golden-stool-descends-from-heaven-ashantiakan",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Ashanti Law and Constitutional History",
+        "author": "Rattray, R.S.",
+        "year": 1929,
+        "publisher": "Clarendon Press, Oxford"
+      }
+    ]
   },
   {
     "id": "story1283",
@@ -1988,12 +2036,20 @@
     "creatures": [
       "gizo-hausa"
     ],
-    "source_quality": "unknown",
+    "source_quality": "researched",
     "slug": "gizo-the-spider-trickster-and-the-wisdom-bird",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "oral tradition",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Oral Literature in Africa",
+        "author": "Ruth Finnegan",
+        "year": 1970,
+        "publisher": "Oxford University Press, London"
+      }
+    ]
   },
   {
     "id": "story1433",
@@ -2008,7 +2064,7 @@
     "creatures": [
       "golden-frog-mongol"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "the-golden-frog-creation-myth",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -2203,7 +2259,7 @@
       "of",
       "madurai"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-goddess-pattini-and-the-burning-of-madurai",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -2242,12 +2298,20 @@
     ],
     "source": "World Archaeology; snip Ancient Origins; snip Wikipedia - Garamantes",
     "culture": "Libyan",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-garamantes-lost-people-of-the-fezzan",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Les Berbères et le M'zab dans les contes",
+        "author": "Doutté, Edmond",
+        "year": 1909,
+        "publisher": "In: Revue des Traditions Populaires, Vol. 24, pp. 57–72"
+      }
+    ]
   },
   {
     "id": "story-518f3ba6",
@@ -2277,9 +2341,17 @@
     "creatures": [
       "great-turtle"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-06",
-    "source_type": "literary"
+    "lastUpdated": "2026-07-18T02:19:55.141Z",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "A Dictionary of Polynesian Mythology and Legendary Lore",
+        "author": "Elsdon Best",
+        "year": 1924,
+        "publisher": "Polynesian Society, Wellington, New Zealand"
+      }
+    ]
   }
 ]

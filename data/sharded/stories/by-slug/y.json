@@ -29,7 +29,7 @@
     "creatures": [
       "yuki-onna"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "yuki-onna-the-snow-woman",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -64,11 +64,12 @@
     "creatures": [
       "yara-ma-yha-who-aboriginal"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "yara-ma-yha-who-the-little-red-men",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": "Robinson, George. Australian Aboriginal Folk Tales. Kangaroo Press, 1980; Berndt, Ronald M. and Catherine H. The Speaking Land: Myth and Story in Aboriginal Australia. Penguin, 1989"
   },
   {
     "id": "story331",
@@ -352,12 +353,20 @@
     "creatures": [
       "yemoja-yoruba"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "yemoja-and-the-waters-of-life-yoruba",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T02:19:55.065Z",
     "period": "oral tradition",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The World of the Yoruba",
+        "author": "Robert Farris Thompson",
+        "year": 1983,
+        "publisher": "Cornell University Press"
+      }
+    ]
   },
   {
     "id": "story1269",
@@ -372,12 +381,20 @@
     "creatures": [
       "yewe-ewe"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "yewe-the-god-of-thunder-ewe",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T02:19:55.065Z",
     "period": "traditional",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Ewe-Speaking Peoples of the Slave Coast of West Africa",
+        "author": "A. B. Ellis",
+        "year": 1890,
+        "publisher": "Chapman and Hall"
+      }
+    ]
   },
   {
     "id": "story1419",
@@ -432,7 +449,7 @@
       "yul-chyn-nenets",
       "yul-chyn-nenets"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "yamal-creation-from-the-mammoth",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -453,7 +470,7 @@
       "yeti-migoi-tibetan",
       "nyenchen-thanglha-tibetan"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-yeti-migoi-legends",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",

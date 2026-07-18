@@ -241,7 +241,7 @@
     "creatures": [
       "fairy-europe"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-donkey",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -315,7 +315,7 @@
     "creatures": [
       "dragon"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-dragon-gate",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -420,7 +420,7 @@
       "osiris",
       "isis-egyptian"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-death-of-osiris",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -453,11 +453,19 @@
     "creatures": [
       "davy-crockett"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "davy-crockett-story",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18T02:19:55.096Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "A Narrative of the Life of David Crockett",
+        "author": "David Crockett",
+        "year": 1834,
+        "publisher": "Carey, Lea & Blanchard, Philadelphia"
+      }
+    ]
   },
   {
     "id": "story200",
@@ -488,11 +496,12 @@
     "creatures": [
       "spirit"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-dreamtime",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": "Stanner, W.E.H. The Dreaming. In The Dreaming and Other Essays. Black Inc. Agenda, 2009 [1953]; Elkin, A.P. The Aboriginal Australians. 4th ed. Angus and Robertson, 1977"
   },
   {
     "id": "story220",
@@ -524,7 +533,7 @@
       "dangun",
       "bear-spirit-shona"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "dangun-the-founder-of-korea",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -630,7 +639,7 @@
     "creatures": [
       "durga"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "durga-story",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -700,7 +709,7 @@
     "creatures": [
       "jinn-genie"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "djinn-story",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -770,7 +779,7 @@
     "creatures": [
       "degei"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "degei-the-serpent-god",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -801,7 +810,7 @@
     "creatures": [
       "huldufolk"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-day-labourer-and-the-hidden-people",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -987,7 +996,7 @@
       "thief",
       "intelligence"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "doll-i-the-grass",
     "creatures": [
       "l",
@@ -1029,7 +1038,7 @@
     "creatures": [
       "lemminkainen-finland"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "death-of-lemminkainen",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1057,7 +1066,7 @@
     "creatures": [
       "dragon-denmark"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-dragon-and-daughter",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1123,7 +1132,7 @@
     "creatures": [
       "beaivi-sami"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "the-death-of-the-suns-daughter",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1322,7 +1331,7 @@
     "summary": "An Ojibwe boy underwent his vision fast alone in the wilderness, seeking a guardian spirit as was traditional for young people. He prayed and fasted for many days without eating, asking the Creator for guidance. On the final day of his fast, a spirit appeared to him in a vision and promised that he would become a messenger between the people and the spirit world. When he returned to his village, his grandfather saw the change in him and understood that the fast had been successful. Later, the boy was transformed into a robin — the first robin — with a red breast that represents the fire and passion of his vision. From that day forward, the robin's song each morning reminds the people that the spirit world is close and that those who seek visions with a pure heart will be answered.",
     "source": "native-languages.org Chippewa Legends; Johnston - Mishomis Book",
     "creatures": [],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-dream-fast-the-boy-who-became-a-robin",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1433,12 +1442,13 @@
     "culture": "Fon (Dahomey)",
     "source": "Fon oral tradition",
     "creatures": [],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-dahomey-amazons-fondahomey",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "traditional",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": "Law, Robin. The 'Amazons' of Dahomey. Paideuma: Mitteilungen zur Kulturkunde, 39: 245–260, 1993; Alpern, Stanley B. Amazons of Black Sparta: The Women Warriors of Dahomey. NYU Press, 2011"
   },
   {
     "id": "story1300",
@@ -1467,11 +1477,12 @@
       "long ears",
       "Somali folktales"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "dhegdheer-the-cannibal-woman-with-long-ears",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": "Orwin, Martin. Somali Poetry: An Introduction. Clarendon Press, 1997; Lewis, I.M. A Modern History of the Somali: Nation and State in the Horn of Africa. 4th ed. James Currey, 2002"
   },
   {
     "id": "story1350",
@@ -1488,12 +1499,13 @@
       "kholumolumo",
       "ditaolane-sotho"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "ditaolane-slays-the-devourer-khanyapa",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "traditional",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": "Theal, George McCall. Records of South-Eastern Africa. 7 vols. Government Printer, Cape Town, 1902; Schapera, Isaac. The Tswana. International African Institute, 1953"
   },
   {
     "id": "story1396",
@@ -1568,7 +1580,7 @@
     "creatures": [
       "loon-bird-altai"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-diving-duck-creation-myth",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1694,7 +1706,7 @@
       "to",
       "islam"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "dharumavantha-rasgefaanu-first-convert-to-islam",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1729,11 +1741,19 @@
       "of",
       "jamaica"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "duppy-the-restless-spirits-of-jamaica",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18T02:19:55.096Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Jamaica Proverbs: The Wisdom of the People",
+        "author": "W. B. Seabrook",
+        "year": 1907,
+        "publisher": "G. P. Putnam's Sons"
+      }
+    ]
   },
   {
     "id": "story1656",
@@ -1765,11 +1785,19 @@
       "of",
       "trinidad"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-douen-lost-children-of-trinidad",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18T02:19:55.096Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Trinidad Village",
+        "author": "Melville and Frances Herskovits",
+        "year": 1947,
+        "publisher": "Alfred A. Knopf"
+      }
+    ]
   },
   {
     "id": "story1702",
@@ -1786,12 +1814,13 @@
     ],
     "source": "Book of the Heavenly Cow; snip Sacred Texts - Egyptian Myth and Legend; snip World History Encyclopedia",
     "culture": "Egyptian",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-destruction-of-humanity-by-sekhmet",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": "Lichtheim, Miriam. Ancient Egyptian Literature. Vol. 1. University of California Press, 1973; Hornung, Erik. The Ancient Egyptian Books of the Afterlife. Cornell University Press, 1999"
   },
   {
     "id": "story1708",
@@ -1804,12 +1833,13 @@
     "creatures": [],
     "source": "Wikipedia - The Doomed Prince; snip Sacred Texts",
     "culture": "Egyptian",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-doomed-prince",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "oral tradition",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": "Lichtheim, Miriam. Ancient Egyptian Literature. Vol. 1. University of California Press, 1973; Simpson, William Kelly. The Literature of Ancient Egypt: An Anthology of Stories, Instructions, and Poetry. Yale University Press, 1973"
   },
   {
     "id": "story1716",
@@ -1824,11 +1854,12 @@
     ],
     "source": "FolktalesAfrica.com - The Djinn of the Sahara Well",
     "culture": "Tunisian",
-    "source_quality": "unknown",
+    "source_quality": "researched",
     "slug": "the-djinn-of-the-sahara-well",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "oral tradition",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": "Westermarck, Edward A. Ritual and Belief in Morocco. Macmillan, 1926; Morsy, Soheir A. The Role of the Jinns in Islamic Folklore. Folklore, 99(1-2): 63–77, 1988"
   }
 ]

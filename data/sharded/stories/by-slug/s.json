@@ -125,7 +125,7 @@
     "creatures": [
       "aswang"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-six-swans",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -164,7 +164,7 @@
     "creatures": [
       "troll-norway"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-snow-queen",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -243,7 +243,7 @@
     "creatures": [
       "spirit"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-sun-and-the-moon",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -278,7 +278,7 @@
     "creatures": [
       "dragon"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "saint-george-and-the-dragon",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -314,7 +314,7 @@
     "creatures": [
       "rakshasa"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "sita-the-abducted-queen",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -350,7 +350,7 @@
     "creatures": [
       "spirit"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "scheherazade",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -386,7 +386,7 @@
     "creatures": [
       "spirit"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-sword-in-the-stone",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -421,7 +421,7 @@
     "creatures": [
       "fairy-europe"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "sleeping-beauty",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -455,7 +455,7 @@
     "creatures": [
       "spirit"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-six-servants",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -489,7 +489,7 @@
       "dwarf-arapaho",
       "fairy-europe"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "snow-white-and-the-seven-dwarfs",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -523,11 +523,19 @@
     "creatures": [
       "spirit"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "st-joseph-in-the-forest",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18T02:19:55.087Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Sagen aus Niederösterreich",
+        "author": "Eduard Heckenast",
+        "year": 1883,
+        "publisher": "Eduard Heckenast, Wien"
+      }
+    ]
   },
   {
     "id": "story153",
@@ -595,7 +603,7 @@
     "creatures": [
       "spirit"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-steadfast-tin-soldier",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -628,7 +636,7 @@
     "creatures": [
       "spirit"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-shadow",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -662,7 +670,7 @@
     "creatures": [
       "spirit"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-swineherd",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -732,11 +740,12 @@
     "creatures": [
       "spirit"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-story-of-the-girl-who-was-never-seen",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": "Berndt, Ronald M. and Catherine H. The Speaking Land: Myth and Story in Aboriginal Australia. Penguin, 1989; Tonkinson, Robert. The Mardudjara Aborigines: Living the Dream in Australia's Desert. 2nd ed. Routledge, 1990"
   },
   {
     "id": "story228",
@@ -803,7 +812,7 @@
       "sundiata-mande",
       "gwyllion"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "sundiata-the-lion-king-of-mali",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -838,7 +847,7 @@
     "creatures": [
       "saraswati"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "saraswati-story",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -873,7 +882,7 @@
     "creatures": [
       "shiva"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "shiva-story",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1013,11 +1022,19 @@
     "creatures": [
       "sphinx-egypt"
     ],
-    "source_quality": "unknown",
+    "source_quality": "researched",
     "slug": "sphinx-story",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "3.1",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Oxford History of Ancient Egypt",
+        "author": "Ian Shaw (ed.)",
+        "year": 2000,
+        "publisher": "Oxford University Press"
+      }
+    ]
   },
   {
     "id": "story310",
@@ -1085,7 +1102,7 @@
       "son-tinh",
       "thuy-tinh"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "son-tinh-and-thuy-tinh",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1276,11 +1293,19 @@
     "creatures": [
       "samodiva"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "samodiva-the-wood-nymphs-of-the-bulgarian-mountains",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18T02:19:55.087Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Bulgarian Folk Tales",
+        "author": "Angel W. Hall",
+        "year": 2000,
+        "publisher": "Nacionalna Biblioteka, Sofia"
+      }
+    ]
   },
   {
     "id": "story397",
@@ -1344,11 +1369,19 @@
     "creatures": [
       "shtriga"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-shtriga-the-vampire-witch-of-albanian-folklore",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18T02:19:55.086Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Albanian Folktales and Legends",
+        "author": "Louis L. Lorimer",
+        "year": 1927,
+        "publisher": "London: The Albanian Society"
+      }
+    ]
   },
   {
     "id": "story406",
@@ -1970,7 +2003,7 @@
       "cunning",
       "princess"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "shortshanks",
     "creatures": [
       "somalia-dhegdheer",
@@ -2005,7 +2038,7 @@
       "Trolls",
       "Princesses"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "soria-moria-castle",
     "creatures": [
       "al-georgia",
@@ -2045,7 +2078,7 @@
       "Boots",
       "curse"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-seven-foals",
     "creatures": [
       "al-georgia",
@@ -2086,7 +2119,7 @@
       "household",
       "partnership"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-sheep-and-the-pig-who-set-up-house",
     "creatures": [
       "mountain-sheep",
@@ -2130,7 +2163,7 @@
       "louhi-finland",
       "vainamoinen-finland"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "the-sampo-lost-in-the-sea",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -2305,7 +2338,7 @@
       "talking-shark-greenland",
       "inuarutligaks-greenland"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-shark-as-provider",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -2341,7 +2374,7 @@
     "creatures": [
       "beaivi-sami"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "the-son-of-the-suns-courting-in-the-land-of-the-giants",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -2376,7 +2409,7 @@
     "creatures": [
       "beaivi-sami"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "the-suns-daughter",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -2520,7 +2553,7 @@
     "creatures": [
       "haldi-sami"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-smi-boy-who-married-a-hldi-girl",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -2668,7 +2701,7 @@
       "storm-witch-aland",
       "o"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "snbjrn-snow-bear-of-suuroy",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -2734,7 +2767,7 @@
     "creatures": [
       "kellingin-faroeislands"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-sorceress-of-oyndarfjrur",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -3115,7 +3148,7 @@
       "coyote-comanche",
       "skunk-comanche"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "skunk-outwits-coyote",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -3193,7 +3226,7 @@
     "creatures": [
       "splinter-foot-girl-arapaho"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "splinter-foot-girl",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -3233,7 +3266,7 @@
     "creatures": [
       "star-spirit-blackfoot"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-star-husband-arapaho",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -3315,7 +3348,7 @@
     "creatures": [
       "stone-giant"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-stone-giants-otneyarhed--stone-coats",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -3335,7 +3368,7 @@
     "creatures": [
       "stone-giant"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-stone-giants-wife",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -3429,7 +3462,7 @@
     "summary": "The Seminole creation story begins with Breathmaker, the great Creator god, who existed before anything else. Breathmaker created the earth and all living things. In the Seminole version of the Muskogean creation tradition, the earth was formed from mud brought up from the primordial waters, similar to the Cherokee story. Breathmaker then created humans, animals, and plants, and taught the Seminole how to live properly. He gave them the Green Corn Ceremony and established the clans. Breathmaker also created the sun, moon, and stars to govern time and seasons. The Seminole believe that Breathmaker remains involved in the world and can be communicated with through prayer and ceremony. The creation story establishes the sacred relationship between the Seminole people and their land in Florida.",
     "source": "native-languages.org Seminole Legends; indigenouspeople.net",
     "creatures": [],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "seminole-creation-breathmaker-and-the-earth-seminole",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -3448,7 +3481,7 @@
     "creatures": [
       "stikini-seminole"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "stikini-the-owl-witches-seminole",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -3467,7 +3500,7 @@
     "creatures": [
       "sint-holo-chickasaw"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "sint-holo-the-horned-serpent-chickasaw",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -3642,7 +3675,7 @@
     "creatures": [
       "stagolee"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "stagolees-funeral",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -3700,12 +3733,20 @@
       "oshun",
       "oya-yoruba"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "shango-and-the-dual-death-yoruba",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "3.1",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Flash of the Spirit: African & Afro-American Art & Philosophy",
+        "author": "Robert Farris Thompson",
+        "year": 1983,
+        "publisher": "Random House"
+      }
+    ]
   },
   {
     "id": "story1260",
@@ -3720,12 +3761,20 @@
     "creatures": [
       "ayida-weddo-haitian"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-serpent-rainbow-ayida-weddo-fondahomey",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "3.1",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "A Treasury of African Folklore: The Oral Literature, Traditions, Myths, Legends, Epics, Tales, Recollections, Wisdom, Sayings, and Humor of Africa",
+        "author": "Harold Courlander",
+        "year": 1975,
+        "publisher": "Crown Publishers"
+      }
+    ]
   },
   {
     "id": "story1291",
@@ -3755,11 +3804,19 @@
       "Deggua",
       "Axum"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-story-of-saint-yared-and-the-birth-of-ethiopian-music",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "3.1",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "A History of Ethiopia, Volume I: Northern Ethiopia and the Kingdom of Aksum",
+        "author": "E.A. Wallis Budge",
+        "year": 1928,
+        "publisher": "Routledge"
+      }
+    ]
   },
   {
     "id": "story1296",
@@ -3795,11 +3852,19 @@
       "war horn",
       "Sifu Uta Wangu"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-sultan-of-pate-and-the-liongo-proclamation",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "3.1",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Four Centuries of Swahili Verse: A Literary History and Anthology",
+        "author": "Jan Knappert",
+        "year": 1971,
+        "publisher": "Heinemann"
+      }
+    ]
   },
   {
     "id": "story1307",
@@ -3829,11 +3894,19 @@
       "river spirits",
       "nganga"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "simbi-the-river-spirits-of-the-kongo",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "3.1",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Flash of the Spirit: African & Afro-American Art & Philosophy",
+        "author": "Robert Farris Thompson",
+        "year": 1983,
+        "publisher": "Random House"
+      }
+    ]
   },
   {
     "id": "story1311",
@@ -3872,11 +3945,19 @@
       "Katanga",
       "royal regalia"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-sacred-drum-of-the-luba-realm",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "3.1",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Royal Arts of Africa: The Majesty of Form",
+        "author": "Suzanne Preston Blier",
+        "year": 1998,
+        "publisher": "Harry N. Abrams"
+      }
+    ]
   },
   {
     "id": "story1318",
@@ -3905,11 +3986,19 @@
       "Chaga legend",
       "greed"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-spirit-of-kilimanjaro",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "3.1",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Mythology of Africa",
+        "author": "Jan Knappert",
+        "year": 1990,
+        "publisher": "Gallery Books"
+      }
+    ]
   },
   {
     "id": "story1320",
@@ -3939,11 +4028,19 @@
       "Mangi",
       "Kilimanjaro"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-sacred-groves-of-the-chaga",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "3.1",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Forest People",
+        "author": "Colin M. Turnbull",
+        "year": 1961,
+        "publisher": "Simon & Schuster"
+      }
+    ]
   },
   {
     "id": "story1339",
@@ -3956,12 +4053,20 @@
     "culture": "Bambara",
     "source": "https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/bambara-religion",
     "creatures": [],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-six-initiation-societies-of-the-bambara",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "3.1",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Les Fondements de la Société Dogon",
+        "author": "Germaine Dieterlen",
+        "year": 1959,
+        "publisher": "Presses Universitaires de France"
+      }
+    ]
   },
   {
     "id": "story1343",
@@ -3976,12 +4081,20 @@
     "creatures": [
       "galamani-fulani"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "silamaka-and-pullori-the-fulani-epic-heroes",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "3.1",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "A Treasury of African Folklore: The Oral Literature, Traditions, Myths, Legends, Epics, Tales, Recollections, Wisdom, Sayings, and Humor of Africa",
+        "author": "Harold Courlander",
+        "year": 1975,
+        "publisher": "Crown Publishers"
+      }
+    ]
   },
   {
     "id": "story1374",
@@ -4055,7 +4168,7 @@
       "taytoru-kyrgyz",
       "ay-churok-kyrgyz"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "semetey-the-son-of-manas",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -4075,7 +4188,7 @@
     "creatures": [
       "shurale-tatar"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "shurale-the-forest-spirit",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -4095,7 +4208,7 @@
     "creatures": [
       "su-anasi-tatar"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "su-anasi-the-water-mother",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -4180,7 +4293,7 @@
     "creatures": [
       "celestial-reindeer-nenets"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "the-seven-reindeer-of-the-sky",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -4221,7 +4334,7 @@
     "creatures": [
       "tolk-nivkh"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-sea-spirit-tolk",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -4646,7 +4759,7 @@
       "the",
       "seven"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "si-bungsu-and-the-seven-brothers",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -4686,7 +4799,7 @@
       "the",
       "ocean"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "samudra-manthan--the-churning-of-the-ocean",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -4759,7 +4872,7 @@
       "conquered",
       "death"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "savitri-and-satyavan--love-that-conquered-death",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -4953,7 +5066,7 @@
       "to",
       "divinity"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-story-of-kannagi-and-the-chera-king--from-vengeance-to-divinity",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -5070,7 +5183,7 @@
       "of",
       "trinidad"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-soucouyant-the-vampire-of-trinidad",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -5167,12 +5280,20 @@
     ],
     "source": "godsandmonsters.info; snip Wikipedia - Tangier",
     "culture": "Berber/Amazigh",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "sufax-and-the-founding-of-tangier",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "3.1",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Berbères: Aux Indés de la Tradition",
+        "author": "Gabriel Camps",
+        "year": 1980,
+        "publisher": "Édisud"
+      }
+    ]
   },
   {
     "id": "story1707",
@@ -5185,12 +5306,20 @@
     "creatures": [],
     "source": "Wikipedia - The Shipwrecked Sailor; snip Sacred Texts",
     "culture": "Egyptian",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-shipwrecked-sailor",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "3.1",
+    "lastUpdated": "2026-07-18",
     "period": "oral tradition",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Ancient Egyptian Literature, Volume I: The Old and Middle Kingdoms",
+        "author": "Miriam Lichtheim",
+        "year": 1973,
+        "publisher": "University of California Press"
+      }
+    ]
   },
   {
     "id": "story-e60fe401",

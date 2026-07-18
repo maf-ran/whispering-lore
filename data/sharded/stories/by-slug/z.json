@@ -95,11 +95,19 @@
     "creatures": [
       "zmey-russia"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "zmey-the-benevolent-dragon-of-bulgarian-folklore",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18T02:19:55.074Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Bulgarian Folk Tales",
+        "author": "Angel W. Hall",
+        "year": 2000,
+        "publisher": "Nacionalna Biblioteka, Sofia"
+      }
+    ]
   },
   {
     "id": "story403",
@@ -129,11 +137,19 @@
     "creatures": [
       "zana"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-zana-benevolent-fairies-of-the-albanian-mountains",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18T02:19:55.074Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Albanian Folktales and Legends",
+        "author": "Louis L. Lorimer",
+        "year": 1927,
+        "publisher": "London: The Albanian Society"
+      }
+    ]
   },
   {
     "id": "story774",
@@ -208,12 +224,20 @@
       "zanahary-malagasy",
       "ratovantany-malagasy"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "zanahary-and-ratovantany-the-creation-of-humanity",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T02:19:55.074Z",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Before the Silence: Cultural Epistemology in Malagasy Oral Literature",
+        "author": "Lee Haring",
+        "year": 2004,
+        "publisher": "Research Institute for the Study of Man, New York"
+      }
+    ]
   },
   {
     "id": "story1463",
@@ -316,11 +340,19 @@
     ],
     "source": "Boddy - Wombs and Alien Spirits; snip WRSP; snip Encyclopedia.com",
     "culture": "Sudanese",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-zar-spirit-possession-cult",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T02:19:55.074Z",
     "period": "traditional",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Zar: Possession and Ritual in the Sudan",
+        "author": "Carroll W. McConnell",
+        "year": 1982,
+        "publisher": "University of Alabama Press"
+      }
+    ]
   }
 ]

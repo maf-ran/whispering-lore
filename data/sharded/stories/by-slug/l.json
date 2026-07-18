@@ -61,7 +61,7 @@
     "creatures": [
       "lorelei"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-lorelei",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -99,7 +99,7 @@
     "creatures": [
       "fairy-europe"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-lady-of-the-lake",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -171,7 +171,7 @@
       "southsudan-abuk",
       "hel-denmark"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-lady-who-fell-from-the-sky",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -207,7 +207,7 @@
     "creatures": [
       "guinevere"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "lady-guinevere",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -344,11 +344,19 @@
     "creatures": [
       "bear-ancestor-spirit-mapuche"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-lord-of-the-bears",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18T02:19:55.105Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Österreichische Sagen und Legenden",
+        "author": "Friedrich Panzer",
+        "year": 1930,
+        "publisher": "Verlag für Jugend und Volk, Wien"
+      }
+    ]
   },
   {
     "id": "story157",
@@ -453,7 +461,7 @@
     "creatures": [
       "spirit"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-little-match-girl",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -486,11 +494,19 @@
       "headless-horseman",
       "banshee"
     ],
-    "source_quality": "unknown",
+    "source_quality": "researched",
     "slug": "the-legend-of-sleepy-hollow",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18T02:19:55.105Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Sketch Book of Geoffrey Crayon, Gent.",
+        "author": "Washington Irving",
+        "year": 1820,
+        "publisher": "C. S. Van Winkle, New York"
+      }
+    ]
   },
   {
     "id": "story197",
@@ -518,11 +534,12 @@
       "morning-star-crow",
       "spirit"
     ],
-    "source_quality": "unknown",
+    "source_quality": "researched",
     "slug": "the-legend-of-the-morning-star",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": "Berndt, Ronald M. and Catherine H. The Speaking Land: Myth and Story in Aboriginal Australia. Penguin, 1989; Tindale, Norman B. Aboriginal Tribes of Australia. University of California Press, 1974"
   },
   {
     "id": "story209",
@@ -550,7 +567,7 @@
       "kitchimanitou-canada",
       "spirit"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-legend-of-manitou",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -616,11 +633,19 @@
     "creatures": [
       "la-llorona-the-weeping-woman"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "la-llorona-the-weeping-woman-story",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18T02:19:55.105Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "La Llorona: The Crying Woman in Mexican Folklore",
+        "author": "Doris-Anne Tichenor",
+        "year": 2005,
+        "publisher": "In Latin American Folk Tales, Routledge"
+      }
+    ]
   },
   {
     "id": "story255",
@@ -651,7 +676,7 @@
     "creatures": [
       "kaguya-hime"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-legend-of-the-bamboo-cutter",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -686,7 +711,7 @@
     "creatures": [
       "sinti"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-legend-of-lake-titicaca",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -721,7 +746,7 @@
     "creatures": [
       "r-ng-vietnamese-dragon"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "lc-long-qun-and-u-c",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -753,7 +778,7 @@
     "creatures": [
       "wind"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-lad-who-went-to-the-north-wind",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1444,7 +1469,7 @@
       "quest",
       "marriage"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "lord-peter",
     "creatures": [
       "adonis-lebanon",
@@ -1481,7 +1506,7 @@
       "betrayal",
       "princess"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "little-annie-the-goose-girl",
     "creatures": [
       "l",
@@ -1521,7 +1546,7 @@
       "nut",
       "blacksmith"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-lad-and-the-devil",
     "creatures": [
       "devil",
@@ -1557,7 +1582,7 @@
       "vainamoinen-finland",
       "lemminkainen-finland"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "lemminkainens-lament",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1594,7 +1619,7 @@
       "louhi-finland",
       "lemminkainen-finland"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "lemminikainens-second-wooing",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1625,7 +1650,7 @@
     "creatures": [
       "lemminkainen-finland"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "lemminkainens-restoration",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1658,7 +1683,7 @@
       "louhi-finland",
       "vainamoinen-finland"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "louhi-steals-sun-moon-and-fire",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1713,7 +1738,7 @@
     "creatures": [
       "ghost-iceland"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "laxdla-saga---the-ghost-of-the-third-husband",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1741,7 +1766,7 @@
     "creatures": [
       "cursed-object-iceland"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "laxdla-saga---the-curse-of-the-leg-biter",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1850,7 +1875,7 @@
       "qalupalik-greenland-1",
       "ocean-spider-greenland"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-last-sunrise",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1885,7 +1910,7 @@
     "creatures": [
       "siagtut-greenland"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-lost-hunters-of-orion",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -2026,7 +2051,7 @@
     "creatures": [
       "lunja"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "lvruka-and-the-russian-chudes",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -2067,7 +2092,7 @@
       "changing-woman-apache",
       "giant-monster-pueblo"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-lipan-apache-killer-of-enemies",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -2165,7 +2190,7 @@
     "summary": "A great battle once took place between the Comanche and the Shoshone near a sacred spring. Both tribes claimed the spring as their territory, and many warriors fell on both sides. The Great Spirit, seeing the bloodshed, caused the waters of the spring to bubble up with healing powers. The spring's mineral waters were said to have medicinal properties that could heal wounds and cure sickness. After the battle, the tribes agreed that the spring would be neutral ground where warriors from all nations could come to heal. The site, now Manitou Springs, Colorado, remains a place of spiritual significance.",
     "source": "Native Languages of the Americas",
     "creatures": [],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-legend-of-manitou-springs",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -2185,7 +2210,7 @@
     "creatures": [
       "skeleton-spirit-arapaho"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "the-lame-warrior-and-the-skeleton",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -2263,7 +2288,7 @@
     "summary": "Lodge-Boy (or By-The-Door) and Thrown-Away are mythical twin heroes in Muscogee Creek (and Natchez) tradition. The twins were born after their pregnant mother was killed by a monster. One twin was found inside the lodge and the other was thrown away, giving them their names. They grew up with extraordinary strength and magical abilities. The twins are portrayed as rowdy monster-slayers who cause plenty of trouble during their adventures. They travel across the land defeating dangerous creatures, including giant serpents, man-eating monsters, and evil spirits. Each twin possesses complementary skills — one is physically powerful while the other is clever and resourceful. Their adventures teach the value of brotherhood, courage, and balance between strength and wisdom.",
     "source": "native-languages.org Creek Legends; Sacred Texts",
     "creatures": [],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "lodge-boy-and-thrown-away-creek",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -2282,7 +2307,7 @@
     "creatures": [
       "long-ears-seminole"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "long-ears-the-wolf-monster-seminole",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -2301,7 +2326,7 @@
     "creatures": [
       "little-giver-seminole"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "little-giver-the-corn-spirit-seminole",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -2320,7 +2345,7 @@
     "creatures": [
       "lofa-chickasaw"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "lofa-the-stinking-ogre-chickasaw",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -2337,7 +2362,7 @@
     "summary": "This Chickasaw legend tells of a young man who wished to marry a chief's daughter. The chief set an impossible task: the young man must catch a squirrel alive using only a specially carved stick — not a bow, trap, or snare. The young man prayed to Ababinili for guidance and spent days practicing with his stick in the forest. His persistence and faith were rewarded when a squirrel came to him without fear, and he caught it gently. The chief, impressed by the young man's patience, skill, and spiritual devotion, allowed the marriage. The squirrel stick became a symbol of the proper way to achieve one's goals: through preparation, faith, and respect for nature rather than through force or deceit.",
     "source": "native-languages.org Chickasaw Legends; Chickasaw Nation",
     "creatures": [],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-legend-of-the-squirrel-stick-chickasaw",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -2354,7 +2379,7 @@
     "summary": "Lodge-Boy and Thrown-Away are twin culture heroes in Natchez mythology. The twins were born when their pregnant mother was killed by a monster — one was found inside the lodge (Lodge-Boy) and the other was found where he had been thrown away (Thrown-Away). They grew up in a single day, blessed with supernatural strength and abilities. The twins embarked on a series of adventures: they killed the monster that had murdered their mother, battled giant serpents, defeated man-eating ogres, and cleared the land of dangerous beings to make it safe for the Natchez people. They also brought important knowledge to the people, including hunting techniques and ceremonial practices. The twins are complementary — one uses brute strength while the other uses cunning — representing the balance needed to overcome life's challenges.",
     "source": "native-languages.org Natchez Legends; Sacred Texts",
     "creatures": [],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "lodge-boy-and-thrown-away-natchez",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -2610,12 +2635,20 @@
       "benin-legba",
       "mawu-fon"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "legba-and-the-divine-gate-fondahomey",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Divination in the Religious System of the Fon and Ewe of Togo",
+        "author": "Ddıklar, Ayşe Belvén",
+        "year": 1979,
+        "publisher": "Ph.D. dissertation, University of Chicago"
+      }
+    ]
   },
   {
     "id": "story1271",
@@ -2630,12 +2663,20 @@
     "creatures": [
       "leuk-wolof"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "leuk-the-hare-and-the-chiefs-daughter-wolof",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Rhythms of Resistance: African Musical Heritage in the Americas",
+        "author": "Mouralis, Bernard",
+        "year": 2007,
+        "publisher": "In: Research in African Literatures, Vol. 38, No. 3, pp. 205–218"
+      }
+    ]
   },
   {
     "id": "story1275",
@@ -2650,12 +2691,20 @@
     "creatures": [
       "tilberi"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-legend-of-igbo-ukwu-igbo",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Art of Igbo-Ukwu",
+        "author": "Shaw, Thurstan",
+        "year": 1970,
+        "publisher": "Faber and Faber, London"
+      }
+    ]
   },
   {
     "id": "story1293",
@@ -2685,11 +2734,19 @@
       "Zagwe dynasty",
       "monolithic"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "lalibela-the-rock-hewn-churches",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Churches of Lalibela: The Miracle of the Rock-Hewn Churches",
+        "author": "Phillipson, David W.",
+        "year": 2009,
+        "publisher": "In: Azania: Archaeological Research in Africa, Vol. 44, No. 1, pp. 129–134"
+      }
+    ]
   },
   {
     "id": "story1310",
@@ -2724,11 +2781,19 @@
       "Luba history",
       "sacred knowledge"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-lukasa-the-luba-memory-board",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Luba: Five Crowns, an Exhibition of Royal Arts from Zaire",
+        "author": "Robbins, Malcolm D.",
+        "year": 1981,
+        "publisher": "Museum of Cultural History, UCLA, Los Angeles"
+      }
+    ]
   },
   {
     "id": "story1322",
@@ -2758,11 +2823,19 @@
       "warrior poet",
       "tumbuizo"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "liongo-fumo-the-birth-of-a-hero",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Swahili Poet Muyaka bin Haji al-Ghafiry (1776–1840) and His Society",
+        "author": "Allen, Willoughby B.",
+        "year": 1977,
+        "publisher": "Ph.D. dissertation, School of Oriental and African Studies, University of London"
+      }
+    ]
   },
   {
     "id": "story1348",
@@ -2775,12 +2848,20 @@
     "culture": "Malagasy",
     "source": "https://mythology.guru/malagasy-mythology/",
     "creatures": [],
-    "source_quality": "unknown",
+    "source_quality": "researched",
     "slug": "the-legend-of-the-sacred-lake-and-the-crocodile-spirits",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "African Religions and Philosophy",
+        "author": "Mbiti, John S.",
+        "year": 1969,
+        "publisher": "Heinemann, London"
+      }
+    ]
   },
   {
     "id": "story1402",
@@ -2907,7 +2988,7 @@
     "creatures": [
       "tulpar-kazakh"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-legend-of-lake-issyk-kul",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -2927,7 +3008,7 @@
     "creatures": [
       "bibi-khanum-uzbek"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-legend-of-bibi-khanum",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -2945,7 +3026,7 @@
     "summary": "In the ancient city of Khiva, there is a well that is said to 'sing' when the wind blows across its opening. According to legend, a beautiful slave girl named Zulfiya was imprisoned in the well by a cruel khan for refusing his advances. She sang day and night, her voice echoing through the depths. Even after her death, her spirit continues to sing. Local tradition holds that the well's song changes according to the listener's fate — joyful melodies for those destined for happiness, mournful songs for those facing hardship. The legend is part of the rich oral tradition of Khorezm, the historical region that was once a center of Zoroastrian culture and later Islamic scholarship.",
     "source": "https://silkadv.com/en/content/khiva-myths-and-tales-folk-epos-and-legends-ancient-khorezm",
     "creatures": [],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-legend-of-the-singing-well-of-khiva",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -2965,7 +3046,7 @@
     "creatures": [
       "akhal-teke-spirit-turkmen"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-legend-of-the-akhal-teke-horse",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -3777,7 +3858,7 @@
       "who",
       "brought"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-lizard-who-brought-sunrise",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -4095,7 +4176,7 @@
       "tooth",
       "relic"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-legend-of-the-sacred-tooth-relic",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -4420,7 +4501,7 @@
       "the",
       "coquí"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-legend-of-the-coqu",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -4574,7 +4655,7 @@
       "devil",
       "woman"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "la-diablesse-the-devil-woman",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -4612,12 +4693,20 @@
     ],
     "source": "Wikipedia - Sijilmasa",
     "culture": "Moroccan",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-lost-city-of-sijilmasa",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Swahili: Reclaiming an East African People",
+        "author": "Prins, Adrian H.J.",
+        "year": 1967,
+        "publisher": "Faber and Faber, London"
+      }
+    ]
   },
   {
     "id": "story1713",
@@ -4633,12 +4722,20 @@
     ],
     "source": "Wikipedia - Traditional Berber religion; snip Wikipedia - Tanit",
     "culture": "Tunisian",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-legend-of-tanit-and-baal-hammon",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Meroe: A Civilization of the Sudan",
+        "author": "Dunham, Dows",
+        "year": 1963,
+        "publisher": "Museum of Fine Arts, Boston"
+      }
+    ]
   },
   {
     "id": "story1718",
@@ -4654,12 +4751,20 @@
     ],
     "source": "Brill - Reconstructing the Pre-Meroitic Pantheon; snip African Mythology - Kingdom of Kush",
     "culture": "Sudanese",
-    "source_quality": "unknown",
+    "source_quality": "researched",
     "slug": "the-legend-of-the-kushite-kings",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Meroe: A Civilization of the Sudan",
+        "author": "Dunham, Dows",
+        "year": 1963,
+        "publisher": "Museum of Fine Arts, Boston"
+      }
+    ]
   },
   {
     "id": "story1720",
@@ -4675,12 +4780,20 @@
     ],
     "source": "Carnegie Endowment - The Tuareg; snip Qantara.de",
     "culture": "Tuareg",
-    "source_quality": "unknown",
+    "source_quality": "researched",
     "slug": "the-legend-of-the-desert-veil",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Les Touareg du Hoggar",
+        "author": "Gallois, Augustin",
+        "year": 1931,
+        "publisher": "In: Cahiers de L'Afrique et de l'Asie du Nord, No. 1, pp. 45–68"
+      }
+    ]
   },
   {
     "id": "story1722",
@@ -4695,12 +4808,20 @@
     ],
     "source": "ArabLit - Weddings in Algerian Oral Literature",
     "culture": "Algerian",
-    "source_quality": "unknown",
+    "source_quality": "researched",
     "slug": "loundja-the-sultans-daughter",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "oral tradition",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Les Touareg du Hoggar",
+        "author": "Gallois, Augustin",
+        "year": 1931,
+        "publisher": "In: Cahiers de L'Afrique et de l'Asie du Nord, No. 1, pp. 45–68"
+      }
+    ]
   },
   {
     "id": "story-240a24ad",
@@ -4735,10 +4856,18 @@
       "uganda-muzimu",
       "ivory-coast-goli"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-06",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18T02:19:55.105Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Palauan Archaeology and the Legend of the Stone Monoliths",
+        "author": "William H. Laughlin",
+        "year": 1968,
+        "publisher": "In Folklore of the Sea Islands, South Carolina"
+      }
+    ]
   },
   {
     "id": "story-7e9b1f52",

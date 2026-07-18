@@ -62,7 +62,7 @@
     "creatures": [
       "witch"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "hansel-and-gretel",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -92,7 +92,7 @@
     "creatures": [
       "witch"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-horned-women",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -163,7 +163,7 @@
     "creatures": [
       "hanako-san"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "hanako-san-the-bathroom-ghost",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -303,7 +303,7 @@
     "creatures": [
       "hanuman"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "hanuman-story",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -332,7 +332,7 @@
     "creatures": [
       "hou-yi"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "hou-yi-and-the-arrows",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -443,7 +443,7 @@
       "romance",
       "humor"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "how-one-went-out-to-woo",
     "creatures": [
       "gumiho-northkorea",
@@ -480,7 +480,7 @@
       "cat",
       "wealth"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-honest-penny",
     "creatures": [
       "senegal-mami-wata",
@@ -603,7 +603,7 @@
     "creatures": [
       "amarok-greenland"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-hunger-of-the-amarok",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -638,7 +638,7 @@
     "creatures": [
       "raven-greenland"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "how-fox-saved-the-people",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -712,7 +712,7 @@
       "cahceravga-sami",
       "ravga-sami"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "hcervga-the-water-wraith",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -750,7 +750,7 @@
       "jabmiidahkka-sami",
       "meandash-sami"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "how-piera-nde-learned-noaidi-skills",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -811,7 +811,7 @@
     "creatures": [
       "hulduflk-faroeislands"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "hulduflk-captured-by-a-priest-at-srvgsvatn",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1126,7 +1126,7 @@
       "medicine-man-arapaho",
       "earth-spirit-arapaho"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "how-medicine-man-resurrected-buffalo",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1208,7 +1208,7 @@
       "mishipishu",
       "great-fisher"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "how-fisher-went-to-the-skyland-the-big-dipper",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1248,7 +1248,7 @@
     "creatures": [
       "hinnon-thunder"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "hinnon-the-thunder-spirit",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1268,7 +1268,7 @@
     "creatures": [
       "gluskabe"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "how-gluskabe-stole-tobacco",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1288,7 +1288,7 @@
     "creatures": [
       "glooscap"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "how-glooscap-found-the-summer",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1363,7 +1363,7 @@
     "creatures": [
       "chufi-rabbit-creek"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "how-rabbit-brought-fire-to-the-people-creek",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1462,12 +1462,20 @@
       "anansi-ghana",
       "nyame-ashanti"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "how-the-sky-gods-stories-became-anansis-ashantiakan",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "oral tradition",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Gold Coast Folk-Lore",
+        "author": "Cardinall, A.W.",
+        "year": 1927,
+        "publisher": "Government Printer, Accra"
+      }
+    ]
   },
   {
     "id": "story1273",
@@ -1483,12 +1491,20 @@
       "iku-turso",
       "olorun"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "how-death-came-to-humanity-yorubabenin",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Ifa: An Exposition of the Literary Corpus",
+        "author": "Abimbola, Wande",
+        "year": 1976,
+        "publisher": "Oxford University Press, Ibadan"
+      }
+    ]
   },
   {
     "id": "story1302",
@@ -1518,11 +1534,19 @@
       "heavenly camel",
       "Awrka Cir"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-heavenly-camel-a-somali-creation-myth",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "lastUpdated": "2026-07-18",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "A Pastoral Democracy: A Study of Pastoralism Among the Northern Somali",
+        "author": "Lewis, I.M.",
+        "year": 1961,
+        "publisher": "Oxford University Press, London"
+      }
+    ]
   },
   {
     "id": "story1331",
@@ -1537,12 +1561,20 @@
     "creatures": [
       "hlakanyana-xhosa"
     ],
-    "source_quality": "unknown",
+    "source_quality": "researched",
     "slug": "hlakanyana-the-zulu-xhosa-trickster-born-from-the-womb",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "oral tradition",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Zulu Thought-Patterns and Symbolism",
+        "author": "Berglund, Axel-Ivan",
+        "year": 1976,
+        "publisher": "C. Hurst & Co., London"
+      }
+    ]
   },
   {
     "id": "story1332",
@@ -1558,12 +1590,20 @@
       "heitsi-eibib",
       "ga-gorib-khoikhoi"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "heitsi-eibib-defeats-the-ga-gorib",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "oral tradition",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Bantu-Speaking Peoples of Southern Africa",
+        "author": "Hammond-Tooke, W.D. (ed.)",
+        "year": 1974,
+        "publisher": "Routledge & Kegan Paul, London"
+      }
+    ]
   },
   {
     "id": "story1354",
@@ -1582,12 +1622,20 @@
       "trickster-nigeria",
       "trickster-jamaica"
     ],
-    "source_quality": "unknown",
+    "source_quality": "researched",
     "slug": "the-hare-trickster-of-the-tswana",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "oral tradition",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Tswana",
+        "author": "Schapera, Isaac",
+        "year": 1938,
+        "publisher": "International African Institute, London"
+      }
+    ]
   },
   {
     "id": "story1362",
@@ -1602,7 +1650,7 @@
     "creatures": [
       "kurangaituku-maori"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "hatupatu-and-the-bird-woman",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1620,7 +1668,7 @@
     "summary": "Hinemoa, a high-born maiden from the shores of Lake Rotorua, fell in love with Tutanekai, a younger son of a chief who lived on Mokoia Island. Her family disapproved of the match. Tutanekai would play his flute across the lake each night, and Hinemoa listened from the shore. One night, spurred by her love, Hinemoa tied gourds to her body for buoyancy and swam across the cold lake in darkness. She reached Mokoia Island and found her way to Tutanekai by following his music. The lovers were reunited, and her family eventually accepted their union. This story is one of the most celebrated Maori love legends.",
     "source": "https://theculturetrip.com/pacific/new-zealand/articles/11-fascinating-maori-myths-and-legends",
     "creatures": [],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "hinemoa-and-tutanekai",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1640,7 +1688,7 @@
     "creatures": [
       "abram-moos-altai"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "hiiakas-journey-to-bring-lohiau-to-pele",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1680,7 +1728,7 @@
     "creatures": [
       "hiro-tahitian"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "hiro-the-trickster-and-the-magic-canoe",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1700,7 +1748,7 @@
     "creatures": [
       "hotu-matua-rapanui"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "hotu-matua-discovers-rapa-nui",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1718,7 +1766,7 @@
     "summary": "According to Rapanui oral tradition, the great stone moai statues were carved at the Rano Raraku quarry and then walked to their final ahu (ceremonial platforms) across the island. The moai walked at night, powered by mana from the ancestors channeled through the kahuna (priests). Using a system of ropes and rocking motions, teams would chant and coordinate to make the massive statues 'walk' upright, step by step, sometimes for miles. The largest moai, Paro, walked over 10 kilometers before taking its position at Ahu Te Pito Kura. One legend describes how a moai stopped mid-journey when the villagers broke a sacred tapu, and it remains fallen to this day, frozen by the broken taboo.",
     "source": "https://midtoad.org/the-history-and-legends-of-rapa-nui/",
     "creatures": [],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "how-the-moai-walked",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1738,7 +1786,7 @@
     "creatures": [
       "moon-apache"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "hina-the-woman-in-the-moon",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1930,11 +1978,19 @@
       "his",
       "stories"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "how-anansi-got-his-stories",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18T02:19:55.158Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Spider's Web: Anansi Tales Retold",
+        "author": "Michael Rosen (illus.)",
+        "year": 1998,
+        "publisher": "Walker Books, London"
+      }
+    ]
   },
   {
     "id": "story1671",

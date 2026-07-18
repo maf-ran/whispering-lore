@@ -32,7 +32,7 @@
       "cerberus",
       "underworld-god"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "orpheus-and-eurydice",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -105,7 +105,7 @@
       "bear-deity-of-maya",
       "bison-water-spirit-of-maya"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-origin-of-the-hummingbird",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -140,7 +140,7 @@
     "creatures": [
       "spirit"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-origin-of-fire",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -177,7 +177,7 @@
       "kapua-tiki",
       "spirit"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-origin-of-the-tiki",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -212,7 +212,7 @@
     "creatures": [
       "orochi"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "orochi-the-eight-headed-serpent",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -247,7 +247,7 @@
     "creatures": [
       "odin-norway"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "odin-and-the-runes",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -282,11 +282,19 @@
     "creatures": [
       "osiris"
     ],
-    "source_quality": "unknown",
+    "source_quality": "researched",
     "slug": "osiris-story",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "version": "3.1",
+    "lastUpdated": "2026-07-18",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "The Search for God in Ancient Egypt",
+        "author": "Jan Assmann",
+        "year": 2001,
+        "publisher": "Cornell University Press"
+      }
+    ]
   },
   {
     "id": "story422",
@@ -590,7 +598,7 @@
       "parental bias",
       "wisdom"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "ones-own-children-are-always-prettiest",
     "creatures": [
       "merchildren-denmark",
@@ -630,7 +638,7 @@
       "ogre",
       "sisters"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-old-dame-and-her-hen",
     "creatures": [
       "somalia-dhegdheer",
@@ -669,7 +677,7 @@
       "ilmarinen-finland",
       "vainamoinen-finland"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "origin-of-iron",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -698,7 +706,7 @@
     "creatures": [
       "louhi-finland"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "osmotar-the-bride-adviser",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -726,7 +734,7 @@
     "creatures": [
       "vainamoinen-finland"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "origin-of-the-serpent",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -758,7 +766,7 @@
       "otso-finland",
       "vainamoinen-finland"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "otso-the-honey-eater",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -786,7 +794,7 @@
     "creatures": [
       "ole-lukje-sandman-denmark"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "ole-lukje",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -821,7 +829,7 @@
     "creatures": [
       "sedna-greenland"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-origin-of-sedna",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -856,7 +864,7 @@
     "creatures": [
       "ocean-spider-greenland"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-ocean-spiders-gaze",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -908,7 +916,7 @@
       "qalupalik-greenland-1",
       "ocean-spider-greenland"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-origin-of-the-stars",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -947,7 +955,7 @@
       "senegal-faro",
       "storm-witch-aland"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "ormur-the-feared-farmer-of-skla",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1115,7 +1123,7 @@
     "creatures": [
       "seven-sisters-aboriginal"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "origin-of-the-pleiades-the-dancing-children",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1135,7 +1143,7 @@
     "creatures": [
       "wenebojo"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "the-origin-of-maple-sugar-wenebojo-and-the-maple-trees",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1155,7 +1163,7 @@
     "creatures": [
       "hinnon-thunder"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "onditichiae-the-thunder-beings",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1173,7 +1181,7 @@
     "summary": "A great chief had a son who was invisible. Only a woman who spoke the truth could see him. Many vain young women tried and failed, always lying that they could see the Invisible Boy. In a nearby village lived Oochigeas, the youngest daughter, whose face and hands were scarred from tending fires because her cruel elder sisters forced her to do all the hard work. Her ragged clothes were made of bark. She decided to try her luck and walked to the chief's lodge in tatters. The Invisible Boy's sister asked her the question: Can you see my brother? Oochigeas answered truthfully that she could not. Then the sister gave her fine clothes and combed her hair. Oochigeas approached again, and this time she saw the Invisible Boy — a handsome young man sitting at the edge of the sky. They married, and her kindness and truthfulness were rewarded, while her cruel sisters were punished.",
     "source": "native-languages.org Mi'kmaq Legends; Rand - Micmac legends",
     "creatures": [],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "oochigeas-and-the-invisible-boy-the-mikmaq-cinderella",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1213,7 +1221,7 @@
     "creatures": [
       "thunderbird"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-origin-of-the-thunderbird-wabanaki",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1231,7 +1239,7 @@
     "summary": "A beautiful young Passamaquoddy woman was visited each night by a mysterious man who came to her lodge after dark. He was kind and gentle, and she grew to love him, though she had never seen his face clearly. Her parents warned her to discover his identity. One night, she placed ashes near the doorway. When the man left, his footprints showed the marks of an owl's claws. The next night, she hid and watched, and saw her husband transform into a great horned owl and fly away. Heartbroken but determined, she followed him into the forest. The owl tried to keep her as his wife in his tree-home, but she longed for her human family. Finally, the owl released her, but she was never the same — she had seen the spirit world and could not fully return to human life. The story teaches that love between different kinds of beings cannot overcome the fundamental boundaries of nature.",
     "source": "native-languages.org Passamaquoddy Legends",
     "creatures": [],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-owl-husband-passamaquoddy",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1301,7 +1309,7 @@
     "summary": "According to Seminole tradition, the clans were established at the time of creation. The Seminole have several matrilineal clans, including the Panther, Bear, Deer, Bird, Wind, and Otter clans. The legend tells that Breathmaker created the animals and asked them to protect the human people. Each animal agreed, and in return, the people would carry the animal's name as a clan. Clan membership determines marriage rules — a person must marry outside their clan — and establishes social obligations and relationships. The clans also have specific roles in ceremonies, including the Green Corn Dance. Clan identity is passed through the mother's line, and children belong to their mother's clan. The clan system remains a fundamental organizing principle of Seminole society today.",
     "source": "Seminole Tribe of Florida; native-languages.org",
     "creatures": [],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "origin-of-the-seminole-clans-seminole",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1320,7 +1328,7 @@
     "creatures": [
       "olobit-natchez"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "olobit-ukteni-the-great-serpent-natchez",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1401,12 +1409,20 @@
     "creatures": [
       "ogun"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "ogun-releases-the-gods-yoruba",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "3.1",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Ifa Divination: Communication Between Gods and Men in West Africa",
+        "author": "William Bascom",
+        "year": 1969,
+        "publisher": "Indiana University Press"
+      }
+    ]
   },
   {
     "id": "story1245",
@@ -1421,12 +1437,20 @@
     "creatures": [
       "oduduwa-yoruba"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "oduduwa-and-the-founding-of-the-yoruba-kingdoms-yoruba",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "3.1",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Religious Encounter and the Making of the Yoruba",
+        "author": "J.D.Y. Peel",
+        "year": 2000,
+        "publisher": "Indiana University Press"
+      }
+    ]
   },
   {
     "id": "story1247",
@@ -1441,12 +1465,20 @@
     "creatures": [
       "obatala-yoruba"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "obatala-and-the-creation-of-humanity-yoruba",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "3.1",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Olodumare: God in Yoruba Belief",
+        "author": "E.B. Idowu",
+        "year": 1962,
+        "publisher": "Longman"
+      }
+    ]
   },
   {
     "id": "story1264",
@@ -1461,12 +1493,20 @@
     "creatures": [
       "ogbanje"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-ogbanje-spirit-igbo",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "3.1",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The King in Every Man: Evolving Trends in the Acculturation of Igbo and Yoruba Narratives",
+        "author": "Chinua Achebe",
+        "year": 1958,
+        "publisher": "Heinemann"
+      }
+    ]
   },
   {
     "id": "story1289",
@@ -1496,11 +1536,19 @@
       "nyawawa",
       "Were"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-origin-of-lake-victoria",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "3.1",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Mythology of Africa",
+        "author": "Jan Knappert",
+        "year": 1990,
+        "publisher": "Gallery Books"
+      }
+    ]
   },
   {
     "id": "story1319",
@@ -1538,11 +1586,19 @@
       "clans",
       "sacred groves"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-origin-of-the-chaga-people",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "3.1",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Mythology of Africa",
+        "author": "Jan Knappert",
+        "year": 1990,
+        "publisher": "Gallery Books"
+      }
+    ]
   },
   {
     "id": "story1379",
@@ -1575,7 +1631,7 @@
     "creatures": [
       "oro-tahitian"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "oro-god-of-war-and-the-arioi-society",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1593,7 +1649,7 @@
     "summary": "During a terrible famine in Tahiti, the people prayed to the gods for deliverance. The god Rongo, moved by their suffering, transformed himself into a great breadfruit tree. The tree bore fruit that tasted like fresh bread when roasted, saving the people from starvation. Each part of the tree proved useful—the fruit as food, the sap as glue and medicine, the leaves as plates, and the wood for building canoes. Rongo also taught the people how to cultivate the tree through cuttings rather than seeds, ensuring the breadfruit would follow them wherever they voyaged. The story explains why breadfruit was carried by Polynesian settlers across the Pacific and remains a staple food across the islands.",
     "source": "https://www.moemoeaviajes.com/en/post/mythology-of-french-polynesia-an-ancestral-universe-of-gods-heroes-and-cosmic-forces",
     "creatures": [],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-origin-of-breadfruit",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1727,7 +1783,7 @@
       "erlik-altai",
       "tulpar-kazakh"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "ochi-bala-and-kan-altyn",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1890,7 +1946,7 @@
       "elephant",
       "head"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-origin-of-ganeshas-elephant-head",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -2028,11 +2084,19 @@
     ],
     "source": "moordazzer.me; snip Michael Peyron",
     "culture": "Berber/Amazigh",
-    "source_quality": "unknown",
+    "source_quality": "researched",
     "slug": "ounamir-and-the-sky-maiden",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "3.1",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "A Treasury of African Folklore: The Oral Literature, Traditions, Myths, Legends, Epics, Tales, Recollections, Wisdom, Sayings, and Humor of Africa",
+        "author": "Harold Courlander",
+        "year": 1975,
+        "publisher": "Crown Publishers"
+      }
+    ]
   }
 ]

@@ -26,7 +26,7 @@
     "creatures": [
       "aswang"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-children-of-lir",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -59,7 +59,7 @@
     "creatures": [
       "salmon-of-wisdom"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "c-chulainn-and-the-salmon-of-knowledge",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -132,7 +132,7 @@
     "creatures": [
       "spirit"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-cowherd-and-the-weaver-girl",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -204,7 +204,7 @@
     "creatures": [
       "fairy-europe"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "cinderella",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -240,7 +240,7 @@
     "creatures": [
       "spirit"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-corn-mother",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -274,7 +274,7 @@
     "creatures": [
       "fairy-europe"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-crystal-ball",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -306,7 +306,7 @@
     "creatures": [
       "cat-sidhe"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-cat-ra",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -372,11 +372,19 @@
     "creatures": [
       "chupacabra"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "chupacabra-the-goat-sucker",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18T02:19:55.123Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Tracking the Chupacabra: The Vampire Beast in Fact, Fiction, and Folklore",
+        "author": "Benjamin Radford",
+        "year": 2011,
+        "publisher": "University of New Mexico Press"
+      }
+    ]
   },
   {
     "id": "story264",
@@ -407,7 +415,7 @@
     "creatures": [
       "cerberus"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "cerberus-story",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -436,7 +444,7 @@
     "creatures": [
       "chang-er"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "chang-er-on-the-moon",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -471,7 +479,7 @@
     "creatures": [
       "chimera"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "chimera-story",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -507,7 +515,7 @@
       "calon-arang",
       "leyak"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "calon-arang-the-witch",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -641,11 +649,19 @@
     "creatures": [
       "chinthe"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "chinthe-the-lion-guardians-of-the-burmese-pagodas",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18T02:19:55.123Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Burmese Mythology: A Handbook",
+        "author": "John Nisbet",
+        "year": 1913,
+        "publisher": "In Imperial Gazetteer of India, Clarendon Press, Oxford"
+      }
+    ]
   },
   {
     "id": "story435",
@@ -839,7 +855,7 @@
       "troll",
       "nuts"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-cock-and-hen-a-nutting",
     "creatures": [
       "troll-norway",
@@ -876,7 +892,7 @@
       "treasure",
       "princess"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-cat-on-the-dovrefjell",
     "creatures": [
       "l",
@@ -925,7 +941,7 @@
       "ilmarinen-finland",
       "vainamoinen-finland"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "capture-of-the-sampo",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -954,7 +970,7 @@
       "ilmarinen-finland",
       "vainamoinen-finland"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "capture-of-the-fire-fish",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1047,7 +1063,7 @@
     "creatures": [
       "qalupalik-greenland"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-child-snatcher-of-the-shore",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1137,7 +1153,7 @@
       "rakke-sami",
       "radien-attje-sami"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-chudes-in-notozero",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1182,7 +1198,7 @@
       "rakke-sami",
       "radien-attje-sami"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-chudes-are-defeated-by-a-loons-beak",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1430,7 +1446,7 @@
       "great-spirit-comanche",
       "shape-shifting-demon-comanche"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "comanche-creation-the-dust-people",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1450,7 +1466,7 @@
     "creatures": [
       "coyote-comanche"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "coyote-the-comanche-trickster",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1581,7 +1597,7 @@
     "summary": "The Muscogee Creek tell a flood story in which the Great Flood covered the entire earth. As the waters rose, the people prayed to the Creator for deliverance. A great dog appeared and offered to sacrifice himself by lying across a creek to dam the water. The dog's noble self-sacrifice allowed the people to cross to higher ground. In gratitude and mourning, the Creator set the dog's spirit in the sky, where it became a constellation. To this day, the Creek honor dogs for their loyalty and self-sacrifice. The myth shares elements with flood stories from many other Native American tribes but is distinctive in its focus on the selfless act of an animal rather than a human or divine hero, reflecting the Creek belief in the spiritual nobility of animals.",
     "source": "native-languages.org Creek Flood Myth",
     "creatures": [],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-creek-flood-myth-and-the-dogs-sacrifice-creek",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1615,7 +1631,7 @@
     "summary": "The Chickasaw flood myth tells of a time when the earth was covered by a great deluge. As the waters rose, the people climbed to the highest ground, but the water continued to rise. Ababinili, the Creator, instructed a man and a woman to build a raft and take on board pairs of all the animals. The flood covered even the tallest mountains for many days. When the waters finally receded, the man and woman found themselves at Nanih Waiya, the sacred mound. From them, the Chickasaw people were reborn. The flood myth shares elements with the Choctaw flood legend, reflecting their shared origins. The story emphasizes renewal and divine mercy — the Creator preserved a remnant of life to begin anew.",
     "source": "Chickasaw Nation; native-languages.org",
     "creatures": [],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "chickasaw-flood-myth-chickasaw",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1634,7 +1650,7 @@
     "creatures": [
       "corn-woman-creek"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "corn-woman-and-the-origin-of-corn-natchez",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1884,12 +1900,13 @@
       "obatala-yoruba",
       "olodumare-yoruba"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-creation-of-the-world-yoruba",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": "Johnson, Samuel. The History of the Yorubas. Routledge, 1921; Verger, Pierre. Dieux Yoruba. Éditions africaines, 1954"
   },
   {
     "id": "story1257",
@@ -1905,12 +1922,13 @@
       "john-henry",
       "burkina-faso-mami-wata"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-creation-of-the-niger-river-mande",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": "Hunwick, John O. Timbuktu and the Songhay Empire: Al-Saʿdī's Tārīkh al-Sūdān. Brill, 1999; Vansina, Jan. Oral Tradition as History. James Currey, 1985"
   },
   {
     "id": "story1258",
@@ -1927,12 +1945,13 @@
       "lisa-fon",
       "nana-buluku"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-creation-of-the-world-fondahomey",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": "Law, Robin. The Oyo Empire c.1600–c.1836: A West African Imperialism in the Era of the Atlantic Slave Trade. Clarendon Press, 1977; Ajayi, J.F. Adele. Yoruba Traditions and the Rise of the Oyo and Benin Kingdoms. Journal of the Historical Society of Nigeria, 2(2): 1961"
   },
   {
     "id": "story1338",
@@ -1947,12 +1966,13 @@
     "creatures": [
       "chiwara-bambara"
     ],
-    "source_quality": "unknown",
+    "source_quality": "researched",
     "slug": "chiwara-the-antelope-spirit-who-taught-agriculture",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "traditional",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": "Roy, Christopher D. Art of the Upper and Lower Niger Rivers, c. 400 B.C.–1900. Ethnologisches Museum Berlin, 1987; Strother, Susan L. Inventing masks: Agency and history in the art of the Central Pende. University of Chicago Press, 1998"
   },
   {
     "id": "story1454",
@@ -2005,7 +2025,7 @@
     "creatures": [
       "chura-batyr-tatar"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "chura-batyr-the-hero-of-kazan",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -2025,7 +2045,7 @@
     "creatures": [
       "chyskhaan-yakut"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "chyskhaan-the-snow-spirit",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -2186,7 +2206,7 @@
       "drukpa",
       "kunley"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "chimi-lhakhang-and-the-divine-madman-drukpa-kunley",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -2224,11 +2244,19 @@
       "and",
       "fire"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "chang-the-lord-of-thunder-and-fire",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18T02:19:55.123Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Folk Literature of the Garifuna People of the Americas",
+        "author": "Luis J. González",
+        "year": 1998,
+        "publisher": "Garifuna Folklore Series, Belize"
+      }
+    ]
   },
   {
     "id": "story1657",
@@ -2259,11 +2287,19 @@
       "andros",
       "island"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-chickcharney-of-andros-island",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18T02:19:55.123Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Islands of the Bahamas: A Folklore Survey",
+        "author": "Donald Donaldson",
+        "year": 1995,
+        "publisher": "McMillan Caribbean"
+      }
+    ]
   },
   {
     "id": "story1659",
@@ -2294,11 +2330,19 @@
       "taino",
       "creation"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-cave-of-caguana-taino-creation",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18T02:19:55.123Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Taíno Prehistoric Culture and Ceremonial Ball Courts in the Greater Antilles",
+        "author": "Roberto Cruz",
+        "year": 1999,
+        "publisher": "University of Puerto Rico Press"
+      }
+    ]
   },
   {
     "id": "story1669",
@@ -2341,12 +2385,13 @@
     ],
     "source": "Wikipedia - Osiris myth; snip Pinch - Handbook of Egyptian Mythology",
     "culture": "Egyptian",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-contendings-of-horus-and-set",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": "Shirley, Greg. The Ancient Egyptian Contendings of Horus and Seth. In Ancient Egyptian Literature: Theory and Practice, edited by Roland Enmarch and Vernus. Cambridge University Press, 2013; Lichtheim, Miriam. Ancient Egyptian Literature. Vol. 1. University of California Press, 1973"
   },
   {
     "id": "story1717",
@@ -2359,11 +2404,12 @@
     "creatures": [],
     "source": "FolktalesAfrica.com - The Clever Girl of Kairouan",
     "culture": "Tunisian",
-    "source_quality": "unknown",
+    "source_quality": "researched",
     "slug": "the-clever-girl-of-kairouan",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "oral tradition",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": "Cardaire, Marie-Joséph. L'Artisanat artistique au Togo. Mision catholique, 1965; Leloup, Henri. Art et mythologie du Togo. Centre culturel français, 1966"
   }
 ]

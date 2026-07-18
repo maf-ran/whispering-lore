@@ -213,7 +213,7 @@
     "creatures": [
       "spirit"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "why-the-ocean-is-salty",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -286,7 +286,7 @@
     "creatures": [
       "aswang"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-wild-swans",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -318,7 +318,7 @@
     "creatures": [
       "werewolf-greece"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-wolf-and-the-seven-kids",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -438,7 +438,7 @@
     "creatures": [
       "spirit"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-weeping-sword",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -645,11 +645,12 @@
     "creatures": [
       "uganda-walumbe"
     ],
-    "source_quality": "unknown",
+    "source_quality": "researched",
     "slug": "walu-the-sun-woman",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": "Berndt, Ronald M. and Catherine H. The Speaking Land: Myth and Story in Aboriginal Australia. Penguin, 1989; Elkin, A.P. The Aboriginal Australians. 4th ed. Angus and Robertson, 1977"
   },
   {
     "id": "story316",
@@ -680,11 +681,12 @@
     "creatures": [
       "whowie"
     ],
-    "source_quality": "unknown",
+    "source_quality": "researched",
     "slug": "whowie-the-monster-of-the-murray",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": "Robinson, George. Australian Aboriginal Folk Tales. Kangaroo Press, 1980; Tindale, Norman B. Aboriginal Tribes of Australia. University of California Press, 1974"
   },
   {
     "id": "story419",
@@ -881,7 +883,7 @@
       "kindness",
       "redemption"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-widows-son",
     "creatures": [
       "gumiho-northkorea",
@@ -923,7 +925,7 @@
       "frozen pond",
       "stumpy tail"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "why-the-bear-is-stumpy-tailed",
     "creatures": [
       "brer-bear",
@@ -955,7 +957,7 @@
       "fox",
       "betrayal"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "well-done-and-ill-paid",
     "creatures": [
       "brer-bear",
@@ -988,7 +990,7 @@
       "sailor",
       "ocean"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "why-the-sea-is-salt",
     "creatures": [
       "l",
@@ -1030,7 +1032,7 @@
     "creatures": [
       "vainamoinen-finland"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "wainamoinens-sowing",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1060,7 +1062,7 @@
     "creatures": [
       "vainamoinen-finland"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "wainamoinen-and-youkahainen",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1093,7 +1095,7 @@
     "creatures": [
       "vainamoinen-finland"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "wainamoinens-lamentation",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1125,7 +1127,7 @@
     "creatures": [
       "vainamoinen-finland"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "wainamoinens-hapless-journey",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1156,7 +1158,7 @@
     "creatures": [
       "vainamoinen-finland"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "wainamoinens-rescue",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1189,7 +1191,7 @@
     "creatures": [
       "vainamoinen-finland"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "wainamoinens-boat-building",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1218,7 +1220,7 @@
     "creatures": [
       "vainamoinen-finland"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "wainamoinen-finds-the-lost-word",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1252,7 +1254,7 @@
       "ilmarinen-finland",
       "vainamoinen-finland"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "wainamoinens-wedding-songs",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1286,7 +1288,7 @@
       "ilmarinen-finland",
       "vainamoinen-finland"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "wainamoinens-sailing",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1315,7 +1317,7 @@
     "creatures": [
       "vainamoinen-finland"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "wainamoinens-harp-songs",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1343,7 +1345,7 @@
     "creatures": [
       "humans-denmark"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-wicked-prince",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1371,7 +1373,7 @@
     "creatures": [
       "white-dove-denmark"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-white-dove",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1407,7 +1409,7 @@
     "creatures": [
       "meandash-sami"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-werewolf-transformation",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1678,7 +1680,7 @@
       "sky-woman",
       "great-turtle"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "the-woman-who-fell-from-the-sky",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1699,7 +1701,7 @@
       "wenebojo",
       "mishipishu"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "wenebojo-creates-the-earth-after-the-great-flood",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1759,7 +1761,7 @@
     "creatures": [
       "mondawmin"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "wunzh-and-the-origin-of-indian-corn-mon-daw-min",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1777,7 +1779,7 @@
     "summary": "According to Wyandot legend, the changing colors of autumn leaves are the result of a great battle between the summer spirits and the winter spirits. Every autumn, the giant who rules the North Wind comes down from his cold kingdom and fights with the spirit of summer. During the battle, the leaves are bruised and battered, turning yellow, red, and orange from the struggle. The frost giants paint the remaining leaves with ice colors before stripping them from the trees entirely. Another version says that when the Thunders retreat south for the winter, their departing tears fall on the leaves, staining them red and gold. The fallen leaves cover the ground as a blanket to protect Mother Earth during her winter sleep. When spring returns and the Thunders come back north, new green leaves sprout, and the cycle begins again.",
     "source": "native-languages.org Wyandot Legends; Barbeau - Huron and Wyandot Mythology",
     "creatures": [],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "why-leaves-change-color-in-autumn",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -1872,12 +1874,20 @@
     "creatures": [
       "anansi-ghana"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "why-the-spider-has-a-bald-head-ashantiakan",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "3.1",
+    "lastUpdated": "2026-07-18",
     "period": "oral tradition",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Ashanti Proverbs (First Series): The Primitive Ethics of a Savage People",
+        "author": "R.S. Rattray",
+        "year": 1916,
+        "publisher": "Oxford University Press"
+      }
+    ]
   },
   {
     "id": "story1274",
@@ -1893,12 +1903,20 @@
       "nyame-ashanti",
       "anansi-ghana"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "why-men-commit-evil-at-night-ashantiakan",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "3.1",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Ashanti",
+        "author": "R.S. Rattray",
+        "year": 1923,
+        "publisher": "Oxford University Press"
+      }
+    ]
   },
   {
     "id": "story1287",
@@ -1928,11 +1946,19 @@
       "ancestral spirits",
       "first man"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "were-and-the-creation-of-the-world",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18T02:19:55.041Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "African Mythology: An Encyclopedia of Gods, Heroes, Rituals, Traditions, and Folklore of Africa",
+        "author": "Wilfred Hambly",
+        "year": 2003,
+        "publisher": "Penguin Books (reprint)"
+      }
+    ]
   },
   {
     "id": "story1303",
@@ -1970,11 +1996,19 @@
       "wisdom",
       "nature"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-wise-fool-of-somali-folklore",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18T02:19:55.058Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Somali Oral Poetry: From the Past to the Present",
+        "author": "Raoul Duquenne van Leest",
+        "year": 2010,
+        "publisher": "Africa World Press"
+      }
+    ]
   },
   {
     "id": "story1313",
@@ -2004,11 +2038,19 @@
       "Buganda myth",
       "mortality"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "walumbe-the-origin-of-death",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18T02:19:55.058Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Baganda: An Account of Their Native Laws, Customs and Legends",
+        "author": "John Roscoe",
+        "year": 1911,
+        "publisher": "Macmillan and Co."
+      }
+    ]
   },
   {
     "id": "story1330",
@@ -2024,12 +2066,20 @@
       "john-henry",
       "burkina-faso-mami-wata"
     ],
-    "source_quality": "unknown",
+    "source_quality": "researched",
     "slug": "the-wonderful-horns-of-the-orphan-boy",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T02:19:55.058Z",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "A Treasury of African Folklore: The Oral Literature, Traditions, Legends, Myths, Fables, Tales, Recollections, Wisdom, Sayings, and Humor of Africa",
+        "author": "Marcel Griaule (ed. Harold Courlander)",
+        "year": 1995,
+        "publisher": "Crown Publishers"
+      }
+    ]
   },
   {
     "id": "story1426",
@@ -2062,11 +2112,19 @@
     "creatures": [],
     "source": "AJOL - Amazigh Oral Traditions; snip Laoust - Mots et choses",
     "culture": "Berber/Amazigh",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-wolfs-wedding-the-moroccan-rainbow-legend",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T02:19:55.058Z",
     "period": "traditional",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Contes et légendes du Maroc",
+        "author": "Abd el-Kader Fantoussi",
+        "year": 1948,
+        "publisher": "Librairie Orientale et Américaine, Paris"
+      }
+    ]
   }
 ]

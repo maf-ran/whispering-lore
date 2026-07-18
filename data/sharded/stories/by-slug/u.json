@@ -61,7 +61,7 @@
     "creatures": [
       "aswang"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-ugly-duckling",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -131,7 +131,7 @@
     "creatures": [
       "vainamoinen-finland"
     ],
-    "source_quality": "unknown",
+    "source_quality": "good",
     "slug": "the-unwelcome-guest",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -206,7 +206,7 @@
       "ulda-sami",
       "haldi-sami"
     ],
-    "source_quality": "unknown",
+    "source_quality": "fair",
     "slug": "the-uldas-old-mother",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -266,12 +266,20 @@
       "unkulunkulu-zulu",
       "umvelinqangi"
     ],
-    "source_quality": "unknown",
+    "source_quality": "researched",
     "slug": "unkulunkulu-the-first-man-who-broke-from-the-reeds",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "3.1",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Olden Times in Zululand and Natal: History of the Zulu-Xosa-People",
+        "author": "A.T. Bryant",
+        "year": 1929,
+        "publisher": "Longmans, Green and Co."
+      }
+    ]
   },
   {
     "id": "story1421",
@@ -359,11 +367,19 @@
     "creatures": [],
     "source": "Wikipedia - Udea and Her Seven Brothers; snip Lang - The Grey Fairy Book",
     "culture": "Libyan",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "udea-and-her-seven-brothers",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "3.1",
+    "lastUpdated": "2026-07-18",
     "period": "oral tradition",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "A Treasury of African Folklore: The Oral Literature, Traditions, Myths, Legends, Epics, Tales, Recollections, Wisdom, Sayings, and Humor of Africa",
+        "author": "Harold Courlander",
+        "year": 1975,
+        "publisher": "Crown Publishers"
+      }
+    ]
   }
 ]
