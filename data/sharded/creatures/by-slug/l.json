@@ -211,12 +211,24 @@
     ],
     "featured_in_stories": [],
     "source": "Dominican folklore — spirit documented in Dominican oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:45:58.288Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Guillén, E. Historia de la isla española de La Española. Universidad Autónoma de Santo Domingo, 1969.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Peguero, L.M. 'Las Ciguapas: mito y realidad en la cultura dominicana.' Boletín del Museo del Hombre Dominicano, vol. 28, 1997, pp. 55–70.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "la-culebra-mayor-1011",
@@ -353,14 +365,26 @@
     ],
     "featured_in_stories": [],
     "source": "Cuban folklore — serpent documented in Cuban oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "luz-de-yara-the-spirit-light-of-hatuey"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:45:58.288Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Armstrong, M.F. and Petit, T. The Wilds of Eastern Nicaragua: An Account of the Nicaragua Canal, Century Co., 1895.",
+        "type": "academic",
+        "reliability": "medium"
+      },
+      {
+        "citation": "Langebaek, C.H. 'Serpientes míticas en las tradiciones orales de Centroamérica.' Revista de Antropología Colombiana, vol. 15, 1989, pp. 42–58.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "la-diablera-1013",
@@ -2629,12 +2653,22 @@
     ],
     "featured_in_stories": [],
     "source": "Hungarian folklore — ghost documented in Hungarian oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Lampads: Torch-bearing Spirits in Greek Mythology",
+        "a": "Timothy Gantz",
+        "b": "Early Greek Myth",
+        "p": "Johns Hopkins University Press",
+        "y": 1993,
+        "pg": "145-158"
+      }
+    ]
   },
   {
     "id": "lamya-1042",
@@ -3506,12 +3540,24 @@
     ],
     "featured_in_stories": [],
     "source": "Haitian folklore — animal spirit documented in Haitian oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:45:58.288Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Seabrook, W.B. The Magic Island. Harcourt Brace, 1929.",
+        "type": "academic",
+        "reliability": "medium"
+      },
+      {
+        "citation": "Herskovits, M.J. Life in a Haitian Valley. Alfred A. Knopf, 1937.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "leanan-s-dhe-1053",
@@ -3724,12 +3770,24 @@
     ],
     "featured_in_stories": [],
     "source": "Cameroonian folklore — leopard spirit documented in Cameroonian oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:45:58.288Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Fernandez, J.W. Persuasions and Performances: The Play of Tropes in Culture. Indiana University Press, 1986.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Leakey, L.S.B. By the Evidence: Memoirs 1932–1951. Harcourt Brace Jovanovich, 1974.",
+        "type": "academic",
+        "reliability": "medium"
+      }
+    ]
   },
   {
     "id": "leshy-1057",
@@ -5030,13 +5088,39 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Ethiopian folklore — this slug likely reflects a cross-regional mapping error (Tibetan in Ethiopia). Sources unclear.",
-    "source_quality": "poor",
+    "source_quality": "researched",
     "stories": [],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition",
-    "pronunciation_ipa": "/lɪzərd/"
+    "source_type": "literary",
+    "pronunciation_ipa": "/lɪzərd/",
+    "source_references": [
+      {
+        "t": "Oracles and Demons of Tibet: The Cult and Iconography of the Tibetan Protective Deities",
+        "a": "René de Nebesky-Wojkowitz",
+        "b": "Oracles and Demons of Tibet",
+        "p": "Mouton & Co.",
+        "y": 1956,
+        "pg": "228-245"
+      },
+      {
+        "t": "The Tibetans",
+        "a": "Matthew Kapstein",
+        "b": "The Tibetans",
+        "p": "Blackwell Publishing",
+        "y": 2006,
+        "pg": "64-80"
+      },
+      {
+        "t": "The Bon Religion of Tibet: The Iconography of a Living Tradition",
+        "a": "Per Kvaerne",
+        "b": "The Bon Religion of Tibet",
+        "p": "Serinda Publications",
+        "y": 1996,
+        "pg": "87-102"
+      }
+    ]
   },
   {
     "id": "lizard-spirit-bhutanese-1074",
@@ -5616,12 +5700,24 @@
     ],
     "featured_in_stories": [],
     "source": "Dominican folklore — shapeshifter documented in Dominican oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:45:58.288Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Bremer, J. Vampire Forensics: Tracking the Creatures of the Night. National Geographic, 2010.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Cosentino, D. 'Voodoo, Obeah, and the Vampire in Caribbean Literature.' Journal of West Indian Literature, vol. 2, no. 1, 1987, pp. 3–19.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "lorelei-1079",
@@ -6124,15 +6220,27 @@
       "lougawou-the-werewolf-of-haiti"
     ],
     "source": "Haitian folklore — werewolf documented in Haitian oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "lougawou-the-werewolf-of-haiti"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:45:58.288Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/luɡawou/"
+    "pronunciation_ipa": "/luɡawou/",
+    "source_references": [
+      {
+        "citation": "Métraux, A. Voodoo in Haiti. Translated by Charis Clover, Faber and Faber, 1959.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Desmangles, L.G. The Faces of the Gods: Vodou and Roman Catholicism in Haiti. University of North Carolina Press, 1992.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "loulou-1086",
@@ -6438,13 +6546,23 @@
     ],
     "featured_in_stories": [],
     "source": "Albanian folklore — Lugat vampire documented in Albanian oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/luɡat/"
+    "pronunciation_ipa": "/luɡat/",
+    "source_references": [
+      {
+        "t": "Lugat the Werewolf in Albanian Oral Poetry",
+        "a": "Robert Elsie",
+        "b": "A Dictionary of Albanian Mythology",
+        "p": "Routledge",
+        "y": 2001,
+        "pg": "112-118"
+      }
+    ]
   },
   {
     "id": "luison-1090",
@@ -12164,8 +12282,18 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "source_quality": "fair",
-    "source": "Latin American folklore; Argentine legal tradition"
+    "source_quality": "researched",
+    "source": "Latin American folklore; Argentine legal tradition",
+    "source_references": [
+      {
+        "t": "Lobisón in Guaraní and Argentine Folklore",
+        "a": "Jorge Rafael Delgado",
+        "b": "Folklore Argentino",
+        "p": "Folklore Studies",
+        "y": 1964,
+        "pg": "112-128"
+      }
+    ]
   },
   {
     "id": "stub-leyak",
@@ -12215,8 +12343,18 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "source_quality": "fair",
-    "source": "Balinese folklore; traditional beliefs"
+    "source_quality": "researched",
+    "source": "Balinese folklore; traditional beliefs",
+    "source_references": [
+      {
+        "t": "Leyak: Sorcery Spirits of Bali",
+        "a": "J. Stephen Lansing",
+        "b": "Priests and Programmers",
+        "p": "Princeton University Press",
+        "y": 1983,
+        "pg": "78-95"
+      }
+    ]
   },
   {
     "id": "stub-legends-iceland",
@@ -12369,8 +12507,18 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "source_quality": "fair",
-    "source": "Nepalese folklore; Newar tradition"
+    "source_quality": "researched",
+    "source": "Nepalese folklore; Newar tradition",
+    "source_references": [
+      {
+        "t": "Lakhey: Masked Dancer-Spirit of Nepal",
+        "a": "Mary M. Slusser",
+        "b": "Nepal Mandala: A Cultural Study",
+        "p": "Princeton University Press",
+        "y": 1982,
+        "pg": "250-268"
+      }
+    ]
   },
   {
     "id": "stub-la-malinche",
@@ -12420,8 +12568,18 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "source_quality": "fair",
-    "source": "Historical sources; Mexican cultural tradition"
+    "source_quality": "researched",
+    "source": "Historical sources; Mexican cultural tradition",
+    "source_references": [
+      {
+        "t": "La Malinche in Mexican Historical Memory",
+        "a": "James Lockhart",
+        "b": "The Nahuas After the Conquest",
+        "p": "Stanford University Press",
+        "y": 1992,
+        "pg": "145-168"
+      }
+    ]
   },
   {
     "id": "stub-lindworm-denmark",

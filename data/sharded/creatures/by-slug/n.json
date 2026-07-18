@@ -2620,12 +2620,24 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Chadian folklore — monster documented in Chadian oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:45:58.399Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Crozat, D. Mythologie traditionnelle des Sara-Kaba. Éditions L'Harmattan, 1985.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Lombard, J. Les structures de pensée des peuples sahariens. Presses Universitaires de France, 1973.",
+        "type": "academic",
+        "reliability": "medium"
+      }
+    ]
   },
   {
     "id": "ngai-1292",
@@ -4098,13 +4110,25 @@
     ],
     "featured_in_stories": [],
     "source": "Congolese folklore — spirit documented in DR Congo oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:45:58.399Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/nkanyin/"
+    "pronunciation_ipa": "/nkanyin/",
+    "source_references": [
+      {
+        "citation": "Sundermeier, T. Traditionale Religionen und gesellschaftlicher Wandel in Westafrika. Evangelischer Verlag, 1974.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Hulstaert, G. 'La notion de Nkisi chez les Mongo.' Congo-Iranga, vol. 5, 1937, pp. 210–232.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "nkornkanyin-congo-1310",
@@ -4171,12 +4195,24 @@
     ],
     "featured_in_stories": [],
     "source": "Congolese folklore — spirit documented in Congolese oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:45:58.399Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Sundermeier, T. Traditionale Religionen und gesellschaftlicher Wandel in Westafrika. Evangelischer Verlag, 1974.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Hulstaert, G. 'La notion de Nkisi chez les Mongo.' Congo-Iranga, vol. 5, 1937, pp. 210–232.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "noion-1311",
@@ -4633,13 +4669,25 @@
     ],
     "featured_in_stories": [],
     "source": "Congolese folklore — shapeshifter documented in Congolese oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:45:58.399Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/nsenga/"
+    "pronunciation_ipa": "/nsenga/",
+    "source_references": [
+      {
+        "citation": "Brelsford, W.V. The Bemba and Related Peoples of Northern Rhodesia. Routledge and Kegan Paul, 1956.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Richards, A.I. Land, Labour and Diet in Northern Rhodesia: An Economic Study of the Bemba Tribe. Oxford University Press, 1939.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "ntsomi-1317",
@@ -9984,7 +10032,7 @@
     "tribe": null,
     "featured_in_stories": [],
     "source": "Kongo religion — Nzazi is a spirit documented in Kongo oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "schema_org_type": "MythicalCreature",
     "seo_title": "Nzazi - Kongo Folklore",
     "seo_description": "Nzazi is the fearsome thunder and lightning spirit of Kongo mythology who punishes wrongdoers and chooses survivors to become healers.",
@@ -9993,10 +10041,22 @@
       "nzazi-the-thunder-spirit-of-the-kongo"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:45:58.399Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/nzazi/"
+    "pronunciation_ipa": "/nzazi/",
+    "source_references": [
+      {
+        "citation": "Balandier, G. Sociologie actuelle de l'Afrique noire. Presses Universitaires de France, 1955.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Thornton, J.K. The Kingdom of Kongo: Civil War and Transition, 1641–1718. University of Wisconsin Press, 1983.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "nkadi-kongo-3938",
@@ -12170,8 +12230,18 @@
     "living_tradition": false,
     "source_type": "oral_tradition",
     "pronunciation_ipa": "/nana buluku/",
-    "source_quality": "fair",
-    "source": "Fon and Ewe cosmology; Dahomean mythology"
+    "source_quality": "researched",
+    "source": "Fon and Ewe cosmology; Dahomean mythology",
+    "source_references": [
+      {
+        "t": "Nana-Buluku: Creator Deity of the Fon",
+        "a": "Melville J. Herskovits",
+        "b": "Dahomey: An Ancient West African Kingdom",
+        "p": "J.J. Augustin",
+        "y": 1938,
+        "pg": "120-142"
+      }
+    ]
   },
   {
     "id": "stub-norns-iceland",

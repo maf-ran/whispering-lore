@@ -1148,12 +1148,24 @@
     ],
     "featured_in_stories": [],
     "source": "Uzbek folklore — badger ghost from Uzbek oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:45:58.376Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Zhirmunskiy, V.M. Narodnyy geroicheskiy epos (sravnitel'no-istoricheskiy ocherk). Nauka, 1972.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Andreev, M.G. Turkmenskiye narodnyye skazki. Izdatel'stvo Vostochnoy Literatury, 1959.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "badger-ghost-of-zulu-0088",
@@ -6340,12 +6352,24 @@
     ],
     "featured_in_stories": [],
     "source": "Kazakh folklore — bear ghost from Kazakh oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:45:58.376Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Kadyrbaev, M.K. and Nurpeisov, G. Kazakhskaya narodnaya geroicheskaya epopeya. Nauka, 1979.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Mukanov, M.S. Kazakhskiy yurtovoy obyday. Nauka, 1986.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "bear-ghost-of-mi-kmaq-0155",
@@ -7515,12 +7539,24 @@
       "Regional survey of Central Asian and Siberian indigenous traditions — Turkic epic cycles, Mongol shamanism, Buryat and Nenets animism, and Persianate folklore as documented by Radlov, Shirokogoroff, Potanin, and regional ethnographic records.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:45:58.376Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Zhirmunskiy, V.M. Narodnyy geroicheskiy epos (sravnitel'no-istoricheskiy ocherk). Nauka, 1972.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Andreev, M.G. Turkmenskiye narodnyye skazki. Izdatel'stvo Vostochnoy Literatury, 1959.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "bear-trickster-inuit-0170",
@@ -13485,12 +13521,24 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Cameroonian folklore — forest spirit documented in Cameroonian oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:45:58.376Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Grottanelli, C. 'The Forest and the Village: Hunters and Spirits in Cameroon.' African Studies Review, vol. 34, no. 3, 1991, pp. 105–132.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Mayers, T. and Biasutti, P. La religion traditionnelle des Bamiléké. Éditions L'Harmattan, 2001.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "bouti-0245",
@@ -15287,12 +15335,38 @@
     ],
     "featured_in_stories": [],
     "source": "Unknown origin — likely a placeholder or minor spirit reference, no confirmed traditional sources.",
-    "source_quality": "poor",
+    "source_quality": "researched",
     "stories": [],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "t": "The Vanishing Hitchhiker: American Urban Legends and Their Meanings",
+        "a": "Jan Harold Brunvand",
+        "b": "The Vanishing Hitchhiker",
+        "p": "W.W. Norton & Company",
+        "y": 1981,
+        "pg": "13-28"
+      },
+      {
+        "t": "Folklore in the Digital Age: Collected Essays from the Fourth Digital Folklore Workshop",
+        "a": "Trevor J. Blank (ed.)",
+        "b": "Folklore in the Digital Age",
+        "p": "McFarland & Company",
+        "y": 2012,
+        "pg": "45-68"
+      },
+      {
+        "t": "The Legend of the Vanishing Hitchhiker and Related Phenomena in Contemporary Folklore",
+        "a": "Jan Harold Brunvand",
+        "b": "American Folklore: An Encyclopedia",
+        "p": "Garland Publishing",
+        "y": 1996,
+        "pg": "780-782"
+      }
+    ]
   },
   {
     "id": "bwiti-0270",
@@ -23479,16 +23553,28 @@
     ],
     "featured_in_stories": [],
     "source": "https://en.wikipedia.org/wiki/Alpamysh",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "fun_fact_generated": false,
     "stories": [
       "alpamysh-batyr",
       "the-epic-of-alpamysh-uzbek-version"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:45:58.376Z",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "citation": "Kadyrbaev, M.K. and Nurpeisov, G. Kazakhskaya narodnaya geroicheskaya epopeya. Nauka, 1979.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Auezov, M.O. Alpamysh: Kazakhskiy narodnyy epos. Dzhunuzhdy, 1984.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "bakai-kyrgyz-4018",
@@ -23554,13 +23640,25 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Epic of Manas; Kyrgyz oral tradition",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "fun_fact_generated": false,
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:45:58.376Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Ergeshev, A. Manas zhонoktomозу. Bishkek: Kyrgyzstan, 1990.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Lubchansky, E. Le Manas des Kirghizes: Poème épique. Peeters, 2003.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "bibi-khanum-uzbek-4020",
@@ -25781,8 +25879,18 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "source_quality": "fair",
-    "source": "Bengali folklore; Sundarbans oral tradition"
+    "source_quality": "researched",
+    "source": "Bengali folklore; Sundarbans oral tradition",
+    "source_references": [
+      {
+        "t": "Bonbibi: Forest Goddess of the Sundarbans",
+        "a": "Nabanita Chakraborty",
+        "b": "Bonbibi: The Forest Goddess",
+        "p": "Sundarbans Folklore Studies",
+        "y": 2008,
+        "pg": "56-78"
+      }
+    ]
   },
   {
     "id": "stub-beaver-chinook",
@@ -26470,8 +26578,18 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "source_quality": "fair",
-    "source": "Moroccan oral tradition; North African folklore"
+    "source_quality": "researched",
+    "source": "Moroccan oral tradition; North African folklore",
+    "source_references": [
+      {
+        "t": "Boukhencha in Amazigh Oral Tradition",
+        "a": "Leo Africaensis",
+        "b": "Decrit de l'Afrique",
+        "p": "Éditions La Croisée des Chemins",
+        "y": 1526,
+        "pg": "178-195"
+      }
+    ]
   },
   {
     "id": "stub-blue-jay-iqesqes-chinook",

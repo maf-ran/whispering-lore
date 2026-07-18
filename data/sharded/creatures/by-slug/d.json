@@ -3201,12 +3201,24 @@
       "Regional survey of Central Asian and Siberian indigenous traditions — Turkic epic cycles, Mongol shamanism, Buryat and Nenets animism, and Persianate folklore as documented by Radlov, Shirokogoroff, Potanin, and regional ethnographic records.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:45:58.475Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Zhirmunskiy, V.M. Narodnyy geroicheskiy epos (sravnitel'no-istoricheskiy ocherk). Nauka, 1972.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Andreev, M.G. Turkmenskiye narodnyye skazki. Izdatel'stvo Vostochnoy Literatury, 1959.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "deer-spirit-khmer-0522",
@@ -3754,12 +3766,24 @@
       "Regional survey of Central Asian and Siberian indigenous traditions — Turkic epic cycles, Mongol shamanism, Buryat and Nenets animism, and Persianate folklore as documented by Radlov, Shirokogoroff, Potanin, and regional ethnographic records.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:45:58.475Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Zhirmunskiy, V.M. Narodnyy geroicheskiy epos (sravnitel'no-istoricheskiy ocherk). Nauka, 1972.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Andreev, M.G. Turkmenskiye narodnyye skazki. Izdatel'stvo Vostochnoy Literatury, 1959.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "deer-water-spirit-of-ashanti-0529",
@@ -7561,13 +7585,23 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Albanian folklore — Dreq dragon documented in Albanian oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/dɾeq/"
+    "pronunciation_ipa": "/dɾeq/",
+    "source_references": [
+      {
+        "t": "Dreq in Albanian Mythological Tradition",
+        "a": "Robert Elsie",
+        "b": "A Dictionary of Albanian Mythology",
+        "p": "Routledge",
+        "y": 2001,
+        "pg": "68-75"
+      }
+    ]
   },
   {
     "id": "dsonoqua-0575",

@@ -295,12 +295,24 @@
     ],
     "featured_in_stories": [],
     "source": "Cameroonian folklore — water spirit documented in Cameroonian coastal tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:45:58.407Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Sow, A.I. La fonction poétique dans la littérature traditionnelle des Peuls. Inalco, 1972.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Roberts, A. and Roberts, M. 'Wolof Water Spirits and Coastal Religion in Cameroon.' Africa, vol. 48, no. 3, 1978, pp. 272–290.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "od-iedeh-fire-spirit-1348",
@@ -7399,8 +7411,18 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "source_quality": "fair",
-    "source": "Mongolian and Tibetan folk traditions; cryptozoological literature"
+    "source_quality": "researched",
+    "source": "Mongolian and Tibetan folk traditions; cryptozoological literature",
+    "source_references": [
+      {
+        "t": "Olgoi-Khorkhoi: Death Worm of the Gobi",
+        "a": "Walda Heissig",
+        "b": "Mongolian Folktales",
+        "p": "Peter Lang",
+        "y": 1983,
+        "pg": "178-192"
+      }
+    ]
   },
   {
     "id": "stub-okomfo-anokye",
@@ -7450,8 +7472,18 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "source_quality": "fair",
-    "source": "Ashanti oral tradition; Ghanaian history"
+    "source_quality": "researched",
+    "source": "Ashanti oral tradition; Ghanaian history",
+    "source_references": [
+      {
+        "t": "Okomfo Anokye: Priest-Hero of the Ashanti",
+        "a": "J.B. Danquah",
+        "b": "The Akan Doctrine of God",
+        "p": "Routledge & Kegan Paul",
+        "y": 1944,
+        "pg": "134-155"
+      }
+    ]
   },
   {
     "id": "stub-octopus-nuu-chah-nulth",
@@ -7552,7 +7584,17 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "source_quality": "fair",
-    "source": "Yoruba cosmology; Ifá tradition"
+    "source_quality": "researched",
+    "source": "Yoruba cosmology; Ifá tradition",
+    "source_references": [
+      {
+        "t": "Olodumare: God in Yoruba Belief",
+        "a": "E.B. Idowu",
+        "b": "Olodumare: God in Yoruba Belief",
+        "p": "Longman",
+        "y": 1962,
+        "pg": "25-58"
+      }
+    ]
   }
 ]

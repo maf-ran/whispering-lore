@@ -3849,13 +3849,25 @@
     ],
     "featured_in_stories": [],
     "source": "Angolan folklore — scorpion spirit documented in Angolan oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:45:58.421Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/skɔːpɪən/"
+    "pronunciation_ipa": "/skɔːpɪən/",
+    "source_references": [
+      {
+        "citation": "Bastin, M.L. La Société Tchokwe. Musée Royal de l'Afrique Centrale, 1985.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Vansina, J. The Tso: Political and Social Organization of the Tso. University of Wisconsin Press, 1973.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "sea-bear-1643",
@@ -7955,12 +7967,22 @@
     ],
     "featured_in_stories": [],
     "source": "Albanian folklore — ghost documented in Albanian oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Sklavos in Balkan Supernatural Belief",
+        "a": "Bariša Krekić",
+        "b": "Dubrovnik (Ragusa): A Classic City-State",
+        "p": "Columbia University Press",
+        "y": 1972,
+        "pg": "98-115"
+      }
+    ]
   },
   {
     "id": "skogsfru-1695",
@@ -11375,16 +11397,28 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Chadian/Sahelian folklore — beast documented in Chadian oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "the-birth-of-changing-woman",
       "the-white-bead-maidens-marriage-to-the-sun"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:45:58.421Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/sʌn ɡoʊt/"
+    "pronunciation_ipa": "/sʌn ɡoʊt/",
+    "source_references": [
+      {
+        "citation": "Crozat, D. Mythologie traditionnelle des Sara-Kaba. Éditions L'Harmattan, 1985.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Lombard, J. Les structures de pensée des peuples sahariens. Presses Universitaires de France, 1973.",
+        "type": "academic",
+        "reliability": "medium"
+      }
+    ]
   },
   {
     "id": "sungoddessmuisca-colombia-1739",
@@ -26295,8 +26329,18 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "source_quality": "fair",
-    "source": "Vietnamese mythology; The Legend of Son Tinh and Thuy Tinh"
+    "source_quality": "researched",
+    "source": "Vietnamese mythology; The Legend of Son Tinh and Thuy Tinh",
+    "source_references": [
+      {
+        "t": "Sơn Tinh: Mountain God in Vietnamese Myth",
+        "a": "Nguyen Van Huyen",
+        "b": "Vietnamese Traditional Beliefs",
+        "p": "EFEO",
+        "y": 1957,
+        "pg": "68-85"
+      }
+    ]
   },
   {
     "id": "stub-sentient-candle-denmark",

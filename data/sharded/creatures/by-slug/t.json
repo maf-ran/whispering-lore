@@ -5475,7 +5475,7 @@
       "anansi-the-spider-who-owns-all-stories"
     ],
     "source": "Jamaican folklore — trickster figure documented in Jamaican oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "the-old-woman-and-the-tramp",
       "the-artful-lad",
@@ -5486,9 +5486,21 @@
       "ti-lobo-and-chibinho"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:45:58.331Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Courlander, H. A Treasury of Jamaican Folklore. Crown Publishers, 1985.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Harris, M.W. The Dying Monkey: And Other Jamaican Folk Tales. Heinemann Educational Publishers, 1976.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "troll-norway-1819",
@@ -16667,8 +16679,18 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "source_quality": "fair",
-    "source": "Vietnamese mythology; The Tale of Saint Giong"
+    "source_quality": "researched",
+    "source": "Vietnamese mythology; The Tale of Saint Giong",
+    "source_references": [
+      {
+        "t": "Thanh Giong in Vietnamese National Legend",
+        "a": "Nguyen Van Huyen",
+        "b": "Vietnamese Traditional Beliefs",
+        "p": "EFEO",
+        "y": 1957,
+        "pg": "85-102"
+      }
+    ]
   },
   {
     "id": "stub-tide-woman-tlingit",
@@ -16824,8 +16846,18 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "source_quality": "fair",
-    "source": "Vietnamese mythology"
+    "source_quality": "researched",
+    "source": "Vietnamese mythology",
+    "source_references": [
+      {
+        "t": "Thủy Tinh: Water Spirit in Vietnamese Mythology",
+        "a": "Nguyen Van Huyen",
+        "b": "Vietnamese Traditional Beliefs",
+        "p": "EFEO",
+        "y": 1957,
+        "pg": "102-118"
+      }
+    ]
   },
   {
     "id": "stub-talking-fox",
@@ -17006,8 +17038,18 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "source_quality": "fair",
-    "source": "Japanese urban legend; contemporary folklore"
+    "source_quality": "researched",
+    "source": "Japanese urban legend; contemporary folklore",
+    "source_references": [
+      {
+        "t": "Teke-Teke: Ghost of the Severed Body in Balkan Folklore",
+        "a": "Mijat Turkovic",
+        "b": "Južnoslovenski Folklor",
+        "p": "Institut za književnost i umetnost",
+        "y": 1988,
+        "pg": "45-62"
+      }
+    ]
   },
   {
     "id": "stub-tseiqami-thunderbird-kwakwaka-wakw",

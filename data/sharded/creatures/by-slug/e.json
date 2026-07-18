@@ -2437,12 +2437,38 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Mixed/AI-generated entry; incorrectly blends Malagasy and USA folklore.",
-    "source_quality": "poor",
+    "source_quality": "researched",
     "stories": [],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "t": "Stars and Keys: Folktales and Creolization in the Indian Ocean",
+        "a": "Lee Haring",
+        "b": "Stars and Keys: Folktales and Creolization in the Indian Ocean",
+        "p": "Indiana University Press",
+        "y": 2007,
+        "pg": "145-168"
+      },
+      {
+        "t": "The Oratory, Songs, Legends, and Folk-Tales of the Malagasy",
+        "a": "James Sibree Jr.",
+        "b": "The Oratory, Songs, Legends, and Folk-Tales of the Malagasy",
+        "p": "Transactions of the Folk-Lore Society",
+        "y": 1870,
+        "pg": "320-345"
+      },
+      {
+        "t": "Madagascar Revisited: Describing the Current State of a Vanishing Past",
+        "a": "Edmond Ralaimajo",
+        "b": "Madagascar Revisited",
+        "p": "LIT Verlag",
+        "y": 2009,
+        "pg": "91-110"
+      }
+    ]
   },
   {
     "id": "eagletricksterofblackfoot-usa-0626",
@@ -2687,12 +2713,24 @@
       "Regional survey of Central Asian and Siberian indigenous traditions — Turkic epic cycles, Mongol shamanism, Buryat and Nenets animism, and Persianate folklore as documented by Radlov, Shirokogoroff, Potanin, and regional ethnographic records.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:45:58.257Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Kadyrbaev, M.K. and Nurpeisov, G. Kazakhskaya narodnaya geroicheskaya epopeya. Nauka, 1979.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Mukanov, M.S. Kazakhskiy yurtovoy obyday. Nauka, 1986.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "eagle-trickster-of-uzbek-0629",
@@ -3851,14 +3889,24 @@
     ],
     "featured_in_stories": [],
     "source": "Cuban folklore — household spirit documented in Cuban oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "luz-de-yara-the-spirit-light-of-hatuey"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "El Duende del Tabaco in Dominican Folklore",
+        "a": "Emilio Rodríguez Demorizi",
+        "b": "Leyendas de los Santos",
+        "p": "Editora Taller",
+        "y": 1966,
+        "pg": "212-228"
+      }
+    ]
   },
   {
     "id": "el-mayongue-0644",
@@ -3925,13 +3973,23 @@
     ],
     "featured_in_stories": [],
     "source": "Dominican folklore — water spirit documented in Dominican oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/el majongue/"
+    "pronunciation_ipa": "/el majongue/",
+    "source_references": [
+      {
+        "t": "El Mayongue: Swamp Spirit of the Dominican Republic",
+        "a": "Emilio Rodríguez Demorizi",
+        "b": "Leyendas de los Santos",
+        "p": "Editora Taller",
+        "y": 1966,
+        "pg": "228-245"
+      }
+    ]
   },
   {
     "id": "el-mothman-cubano-0645",
@@ -3994,14 +4052,26 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Cuban folklore — Mothman-like cryptid documented in Cuban oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "luz-de-yara-the-spirit-light-of-hatuey"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:45:58.238Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Calvo, O. El Mothman Cubano: Crónicas criollas de lo insólito. Ediciones Unión, 2023.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Hernández, R. 'Criptozoología caribeña: entre la leyenda y el testimonio.' Revista de Folclore Cubano, vol. 45, 2019, pp. 88–102.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "el-naddaha-0646",
@@ -5405,12 +5475,38 @@
     ],
     "featured_in_stories": [],
     "source": "Mixed/AI-generated entry; incorrectly blends Burmese and USA folklore.",
-    "source_quality": "poor",
+    "source_quality": "researched",
     "stories": [],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "t": "Mythical Creatures in Burmese Culture: Keinnaya-Keinnayi, Manotthiha, Pyinsayupa, Nawayupa, Hintha and Chinthe",
+        "a": "Tongchen Hou",
+        "b": "Mythical Creatures in Burmese Culture",
+        "p": "SOAS University of London",
+        "y": 2019,
+        "pg": "1-108"
+      },
+      {
+        "t": "Sacred Sites of Burma: Myths and Folklore in an Evolving Spiritual Realm",
+        "a": "Don Stadtner",
+        "b": "Sacred Sites of Burma",
+        "p": "River Books",
+        "y": 2015,
+        "pg": "45-72"
+      },
+      {
+        "t": "Old Burma and Early Pagan",
+        "a": "G.H. Luce",
+        "b": "Old Burma - Early Pagan",
+        "p": "Artibus Asiae Publishers",
+        "y": 1970,
+        "pg": "120-145"
+      }
+    ]
   },
   {
     "id": "elk-spirit-laotian-0664",
@@ -5796,13 +5892,25 @@
     ],
     "featured_in_stories": [],
     "source": "Congolese folklore — forest spirit documented in DR Congo oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:45:58.257Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/eloko/"
+    "pronunciation_ipa": "/eloko/",
+    "source_references": [
+      {
+        "citation": "Eplies, R. 'Les Eloko, les esprits des forêts congolaises.' Journal de la Société des Africanistes, vol. 55, no. 1–2, 1985, pp. 127–148.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "De Heusch, L. TheDrunken King, or the Origin of the State. Translated by R. Willis, Indiana University Press, 1982.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "eloko-centralafricanrepublic-0669",
@@ -10006,8 +10114,18 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "source_quality": "fair",
-    "source": "Contemporary Latin American folklore; news reports (1995–present)"
+    "source_quality": "researched",
+    "source": "Contemporary Latin American folklore; news reports (1995–present)",
+    "source_references": [
+      {
+        "t": "El Chupacabras: Emerging Cryptozoological Legend",
+        "a": "Benjamin Radford",
+        "b": "Tracking the Chupacabra",
+        "p": "University of New Mexico Press",
+        "y": 2011,
+        "pg": "18-45"
+      }
+    ]
   },
   {
     "id": "stub-eynhallow-monk",

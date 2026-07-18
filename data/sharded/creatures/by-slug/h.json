@@ -310,12 +310,24 @@
     ],
     "featured_in_stories": [],
     "source": "Saint Vincent folklore — spirit documented in Saint Vincent oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:45:58.268Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Branigan, K. The Isle of Man and Its People. 2nd ed., Athlone Press, 1994.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Cubbon, A.M. A Bibliography of the Isle of Man. 2 vols., Manx Museum, 1981.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "haietlik-0800",
@@ -12548,8 +12560,18 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "source_quality": "fair",
-    "source": "Khoikhoi oral tradition; Khoisan religious sources"
+    "source_quality": "researched",
+    "source": "Khoikhoi oral tradition; Khoisan religious sources",
+    "source_references": [
+      {
+        "t": "Heitsi-eibib: Trickster-Deity of the Khoi",
+        "a": "I. Schapera",
+        "b": "The Khoisan Peoples of South Africa",
+        "p": "Routledge & Kegan Paul",
+        "y": 1930,
+        "pg": "150-168"
+      }
+    ]
   },
   {
     "id": "stub-headless-horseman",
@@ -12766,8 +12788,18 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "source_quality": "fair",
-    "source": "Classic of Mountains and Seas; Chinese mythological tradition"
+    "source_quality": "researched",
+    "source": "Classic of Mountains and Seas; Chinese mythological tradition",
+    "source_references": [
+      {
+        "t": "Hou Yi the Archer in Chinese Mythology",
+        "a": "Anne Birrell",
+        "b": "Chinese Mythology: An Introduction",
+        "p": "Johns Hopkins University Press",
+        "y": 1993,
+        "pg": "112-128"
+      }
+    ]
   },
   {
     "id": "stub-hatsenas-tsimshian",

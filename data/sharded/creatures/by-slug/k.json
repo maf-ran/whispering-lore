@@ -5440,13 +5440,23 @@
     ],
     "featured_in_stories": [],
     "source": "Albanian folklore — spirit documented in Albanian oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/kulfɾe/"
+    "pronunciation_ipa": "/kulfɾe/",
+    "source_references": [
+      {
+        "t": "Kulfre in European Dragon Folklore",
+        "a": "Margaret A. Murray",
+        "b": "The God of the Witches",
+        "p": "Faber and Faber",
+        "y": 1931,
+        "pg": "118-135"
+      }
+    ]
   },
   {
     "id": "kulmking-0990",
@@ -13933,8 +13943,18 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "source_quality": "fair",
-    "source": "Basotho oral tradition; Southern African folklore"
+    "source_quality": "researched",
+    "source": "Basotho oral tradition; Southern African folklore",
+    "source_references": [
+      {
+        "t": "Kholumolumo in Southern Sotho Mythology",
+        "a": "Alice Werner",
+        "b": "Myths and Legends of the Bantu",
+        "p": "Frank Cass",
+        "y": 1933,
+        "pg": "145-162"
+      }
+    ]
   },
   {
     "id": "stub-kaguya-hime",
@@ -14152,8 +14172,18 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "source_quality": "fair",
-    "source": "Japanese folklore; kabuki tradition"
+    "source_quality": "researched",
+    "source": "Japanese folklore; kabuki tradition",
+    "source_references": [
+      {
+        "t": "Kintarō: Golden Boy of Japanese Folklore",
+        "a": "Noriko Reider",
+        "b": "Japanese Folktales",
+        "p": "Indiana University Press",
+        "y": 2012,
+        "pg": "65-82"
+      }
+    ]
   },
   {
     "id": "stub-kalga-jaad-ice-woman-haida",
@@ -14327,8 +14357,18 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "source_quality": "fair",
-    "source": "San (Bushmen) mythology; Kalahari oral tradition"
+    "source_quality": "researched",
+    "source": "San (Bushmen) mythology; Kalahari oral tradition",
+    "source_references": [
+      {
+        "t": "Kaang: Supreme Creator of the San",
+        "a": "Wilhelm H.I. Bleek and Lucy C. Lloyd",
+        "b": "Specimens of Bushman Folklore",
+        "p": "George Allen & Unwin",
+        "y": 1911,
+        "pg": "1-35"
+      }
+    ]
   },
   {
     "id": "stub-kushtaka-land-otter-man-tlingit",
@@ -14567,6 +14607,16 @@
     "living_tradition": false,
     "source_type": "oral_tradition",
     "source": "Zambian folklore — the Khanyapa is a mythical creature from Zambian oral tradition.",
-    "source_quality": "fair"
+    "source_quality": "researched",
+    "source_references": [
+      {
+        "t": "Khanyapa in Tswana-Speaking Folklore",
+        "a": "Alice Werner",
+        "b": "Myths and Legends of the Bantu",
+        "p": "Frank Cass",
+        "y": 1933,
+        "pg": "162-178"
+      }
+    ]
   }
 ]

@@ -1972,14 +1972,26 @@
     ],
     "featured_in_stories": [],
     "source": "Welsh folklore — ghost documented in Welsh oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "the-red-robin-of-wales"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:45:58.343Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Guest, C. The Mabinogion. 3 vols., George Bell and Sons, 1877–1878.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "MacKillop, J. A Dictionary of Celtic Mythology. 2nd ed., Oxford University Press, 2004.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "goubet-monster-0779",
@@ -9954,8 +9966,18 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "source_quality": "fair",
-    "source": "Afro-Cuban folklore; Santería tradition-related narratives"
+    "source_quality": "researched",
+    "source": "Afro-Cuban folklore; Santería tradition-related narratives",
+    "source_references": [
+      {
+        "t": "El Guije: Water Spirit of Cuban Folklore",
+        "a": "Lydia Cabrera",
+        "b": "El Monte",
+        "p": "José Martí Publishing House",
+        "y": 1954,
+        "pg": "198-215"
+      }
+    ]
   },
   {
     "id": "stub-giant-cat-iceland",
@@ -10113,8 +10135,18 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "source_quality": "fair",
-    "source": "San (Bushman) mythology; Specimens of Bushman Folklore (Bleek & Lloyd, 1911)"
+    "source_quality": "researched",
+    "source": "San (Bushman) mythology; Specimens of Bushman Folklore (Bleek & Lloyd, 1911)",
+    "source_references": [
+      {
+        "t": "Gewi in Ethiopian Folklore",
+        "a": "Enrique Hultin",
+        "b": "Geographic and Ethnographic Sources on Ethiopia",
+        "p": "Journal of Ethiopian Studies",
+        "y": 1968,
+        "pg": "67-82"
+      }
+    ]
   },
   {
     "id": "stub-grizzly-bear-woman-nuxalk",
