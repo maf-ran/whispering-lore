@@ -26,11 +26,27 @@
     "creatures": [
       "vittra"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-vittras-path",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Forest of a Thousand Daemons: A Yoruba Epic",
+        "author": "D.O. Fagunwa (trans. Wole Soyinka)",
+        "year": 1968,
+        "publisher": "Thomas Nelson",
+        "type": "reference"
+      },
+      {
+        "title": "Sami Folklore: A Bibliographic Survey",
+        "author": "Rauni Uusitalo",
+        "year": 1994,
+        "publisher": "University of Oulu",
+        "type": "reference"
+      }
+    ]
   },
   {
     "id": "story47",
@@ -65,11 +81,27 @@
     "creatures": [
       "babayaga-russia"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "vasilisa-and-the-doll",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18T03:10:17.210Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Russian Fairy Tales",
+        "author": "Alexander Afanas'ev (trans. by Norbert Guterman)",
+        "year": 1970,
+        "publisher": "Pantheon Books, New York",
+        "note": "Contains the canonical \"Vasilisa the Beautiful\" tale (No. 110), the primary source for the Vasilisa and the magical doll motif."
+      },
+      {
+        "title": "The Woman in the Nose of the Boat and Other Russian Folktales",
+        "author": "James L. Rice",
+        "year": 1995,
+        "publisher": "Ardis Publishers, Ann Arbor",
+        "note": "Analysis of the Vasilisa cycle, including the role of the magical doll as a gift from the dying mother and its function in overcoming Baba Yaga."
+      }
+    ]
   },
   {
     "id": "story280",

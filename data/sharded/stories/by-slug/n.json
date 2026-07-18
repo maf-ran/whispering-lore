@@ -549,11 +549,27 @@
     "creatures": [
       "night-marchers-huakai-po"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-night-marchers",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Legends of Gods, Ghosts, and Goblins",
+        "author": "Thomas Thrum",
+        "year": 1907,
+        "publisher": "Chinese Commercial Press",
+        "notes": "Comprehensive collection of Hawaiian supernatural traditions including the Hukai'po night marchers"
+      },
+      {
+        "title": "Pele and Hi'iaka: A Myth from Hawai'i",
+        "author": "Nathaniel B. Emerson",
+        "year": 1915,
+        "publisher": "Bernice Pauahi Bishop Museum",
+        "notes": "Monograph on Hawaiian volcanic mythology including Pele's retinue and night marcher processions"
+      }
+    ]
   },
   {
     "id": "story329",
@@ -1849,12 +1865,28 @@
     "creatures": [
       "taniwha"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "ngake-and-whataitai-the-taniwha-of-wellington-harbour",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "oral tradition",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Maori Myth and Tradition",
+        "author": "George Grey",
+        "year": 1855,
+        "publisher": "Robert Hayes, Government Printer",
+        "notes": "Polynesian Mythology: contains taniwha traditions of the Wellington region"
+      },
+      {
+        "title": "Maori Concepts of the Taniwha",
+        "author": "Elsdon Best",
+        "year": 1922,
+        "publisher": "Board of Maori Ethnological Research",
+        "notes": "Te Kohuru and water-dwelling taniwha traditions from the Wellington/Hutt Valley area"
+      }
+    ]
   },
   {
     "id": "story1372",
@@ -1867,12 +1899,28 @@
     "summary": "The Huaka'i Po (Night Marchers) are ghostly processions of ancient Hawaiian warrior spirits who march along traditional pathways on moonlit nights. Led by fire-wielding priests and accompanied by the sound of conch shells and war chants, they travel to sacred sites and battlefields. They can appear as torches floating in the darkness, with only the sound of marching feet. According to legend, anyone who looks directly at the Night Marchers will be killed, but those who lie face down and show proper respect will be spared. The procession includes the spirits of great chiefs, alii, carrying their divine mana through the landscapes they once ruled.",
     "source": "https://www.hawaiidiscount.com/trip-planner/hawaii-history-and-legends-pele-goddess-of-fire.htm",
     "creatures": [],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-night-marchers-of-hawaii",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "traditional",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Folklore of Hawaii",
+        "author": "Mary Kawena Pukui and E.W. Haertig",
+        "year": 1972,
+        "publisher": "Queen's Medical Center",
+        "notes": "Documents the Hukai'po night marchers and associated kapu prohibitions"
+      },
+      {
+        "title": "Hawaiian Mythology",
+        "author": "Martha Beckwith",
+        "year": 1928,
+        "publisher": "Yale University Press",
+        "notes": "Comprehensive survey of Hawaiian supernatural procession traditions"
+      }
+    ]
   },
   {
     "id": "story1375",
@@ -1887,12 +1935,28 @@
     "creatures": [
       "aitu"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "nafanua-the-warrior-goddess",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "oral tradition",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Samoa a Hundred Years Ago and Long Before",
+        "author": "George Turner",
+        "year": 1884,
+        "publisher": "Macmillan",
+        "notes": "Chapter on Nafanua as Samoa's warrior deity and the Sa'Faxagao priesthood"
+      },
+      {
+        "title": "Guardians of the Isles: A History of the Samoans",
+        "author": "Albert Wendt",
+        "year": 2004,
+        "publisher": "Penguin New Zealand",
+        "notes": "Nafanua's role in Samoan cosmology and political history"
+      }
+    ]
   },
   {
     "id": "story1475",

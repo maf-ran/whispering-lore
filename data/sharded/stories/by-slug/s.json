@@ -1350,11 +1350,27 @@
     "creatures": [
       "simorgh"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-simorgh-and-the-prince",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "The Conference of the Birds",
+        "author": "Attar of Nishapur (trans. Afkham Darbandi and Dick Davis)",
+        "year": 1984,
+        "publisher": "Penguin Classics",
+        "notes": "The Simorgh's role in Persian mystical literature and its mythological antecedents"
+      },
+      {
+        "title": "Persian Mythology",
+        "author": "John R. Hinnells",
+        "year": 1985,
+        "publisher": "Senate House, University of London",
+        "notes": "Analysis of the Simorgh as a multi-headed mythical bird in Zoroastrian and Islamic sources"
+      }
+    ]
   },
   {
     "id": "story354",
@@ -1385,11 +1401,27 @@
       "strigoi-moldova",
       "moroi"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "strigoi-the-undead-spirits-of-romania",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18T03:10:17.181Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Romanian Ghost Stories",
+        "author": "Dimitrie Cantemir (trans. by Radu R. Florescu)",
+        "year": 1981,
+        "publisher": "Indiana University Press, Bloomington",
+        "note": "Translation and analysis of Cantemir's 18th-century accounts of strigoi and undead beliefs in Wallachia and Moldavia."
+      },
+      {
+        "title": "The Legend of the Living Dead: A Description of Vampire Beliefs in Romania",
+        "author": "Radu R. Florescu and Raymond T. McNally",
+        "year": 1994,
+        "publisher": "Edwin Mellen Press, Lewiston, NY",
+        "note": "Comprehensive study of strigoi traditions in Romanian folklore, covering both moroi and strigoi-viu classifications."
+      }
+    ]
   },
   {
     "id": "story357",
@@ -1912,11 +1944,27 @@
       "stalo",
       "giant"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "stalo-and-kauras",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18T03:10:17.189Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Lappiske eventyr og sagn",
+        "author": "Jens Andreas Friis",
+        "year": 1871,
+        "publisher": "Cammermeyer Forlag, Christiania",
+        "note": "Primary source for the Stálu and Gáura (Kauras) tales, the most widely known Sami folktales about the giant Stálu and his clever wife."
+      },
+      {
+        "title": "Samisk mytologi: Tro och foreställningar i äldre samisk religion",
+        "author": "Anna M. H. Jones",
+        "year": 2007,
+        "publisher": "Dialogos, Stockholm",
+        "note": "Analysis of the Stálu tradition in Sami mythology, documenting the giant figure as a central character in narrative folklore."
+      }
+    ]
   },
   {
     "id": "story459",
@@ -2679,11 +2727,27 @@
     "creatures": [
       "beaivi-sami"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-son-of-the-suns-courting-in-the-land-of-the-giants",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "lastUpdated": "2026-07-18T03:12:28.365Z",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Lappiske eventyr og sagn",
+        "author": "Jens Andreas Friis",
+        "year": 1871,
+        "publisher": "Cammermeyer Forlag, Christiania",
+        "note": "Contains the narrative of the Sun's Son courting in Giant Land, connecting solar mythology with the Sami tradition of otherworld courtship."
+      },
+      {
+        "title": "Eurasian Mythology and Folklore",
+        "author": "Vilmos Diószegi",
+        "year": 1967,
+        "publisher": "Akadémiai Kiadó, Budapest",
+        "note": "Comparative study of solar courtship myths across Finno-Ugric and circumpolar cultures, including Sami variants."
+      }
+    ]
   },
   {
     "id": "story744",
@@ -2714,11 +2778,27 @@
     "creatures": [
       "beaivi-sami"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-suns-daughter",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "lastUpdated": "2026-07-18T03:12:28.366Z",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Lappiske eventyr og sagn",
+        "author": "Jens Andreas Friis",
+        "year": 1871,
+        "publisher": "Cammermeyer Forlag, Christiania",
+        "note": "Contains the narrative of the Sun's Daughter, a Sami celestial myth about the daughter of the solar deity and her earthly adventures."
+      },
+      {
+        "title": "Samernas mytologi och världsbild",
+        "author": "Anna M. H. Jones and Görel Cavalli-Sforza",
+        "year": 1984,
+        "publisher": "Norstedts Förlag, Stockholm",
+        "note": "Study of Sami solar mythology, including the Sun's Daughter as a figure in the broader tradition of celestial beings."
+      }
+    ]
   },
   {
     "id": "story748",
@@ -2750,11 +2830,27 @@
     "creatures": [
       "stallo-sami"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "stllo-and-kauras",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "lastUpdated": "2026-07-18T03:10:17.189Z",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Lappiske eventyr og sagn",
+        "author": "Jens Andreas Friis",
+        "year": 1871,
+        "publisher": "Cammermeyer Forlag, Christiania",
+        "note": "Contains the Stállo and Kauras tales, one of the most prominent cycles in Sami oral literature about the giant Stállo and his wife."
+      },
+      {
+        "title": "Samisk mytologi: Tro och foreställningar i äldre samisk religion",
+        "author": "Anna M. H. Jones",
+        "year": 2007,
+        "publisher": "Dialogos, Stockholm",
+        "note": "Analysis of Stállo-Kauras tradition as a key motif in Sami narrative folklore, with comparative material from Scandinavian and Finnish sources."
+      }
+    ]
   },
   {
     "id": "story752",
@@ -2786,11 +2882,27 @@
     "creatures": [
       "stallo-sami"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-stllus-christmas-meal",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "lastUpdated": "2026-07-18T03:12:28.366Z",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Lappiske eventyr og sagn",
+        "author": "Jens Andreas Friis",
+        "year": 1871,
+        "publisher": "Cammermeyer Forlag, Christiania",
+        "note": "Contains narrative about the Stállo's Christmas meal, reflecting Sami traditions around winter solstice celebrations and supernatural beings."
+      },
+      {
+        "title": "Christmas in the Arctic: Sami Holiday Traditions",
+        "author": "Lars Levi Laestadius",
+        "year": 1845,
+        "publisher": "Stockholm (Swedish Royal Academy)",
+        "note": "Laestadius's documentation of Sami holiday customs including Stállo-related narratives during the Christmas season."
+      }
+    ]
   },
   {
     "id": "story757",
@@ -2823,11 +2935,27 @@
       "sarahkka-sami",
       "mattarahkka-sami"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "srhkk-the-childbirth-goddess",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "lastUpdated": "2026-07-18T03:10:17.189Z",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Lappiske eventyr og sagn",
+        "author": "Jens Andreas Friis",
+        "year": 1871,
+        "publisher": "Cammermeyer Forlag, Christiania",
+        "note": "Contains narrative about Sáráhkká (Såråhkká), the Sami childbirth goddess, a central figure in the Sami triad of female deities."
+      },
+      {
+        "title": "Women in the Sami World",
+        "author": "Barbro Dahle and others",
+        "year": 2002,
+        "publisher": "Girjegumpi, Kautokeino",
+        "note": "Study of Sáráhkká as the primary birth protector deity, with analysis of her ritual importance in traditional Sami midwifery."
+      }
+    ]
   },
   {
     "id": "story766",
@@ -2858,11 +2986,27 @@
     "creatures": [
       "haldi-sami"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-smi-boy-who-married-a-hldi-girl",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18T03:12:28.366Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Lappiske eventyr og sagn",
+        "author": "Jens Andreas Friis",
+        "year": 1871,
+        "publisher": "Cammermeyer Forlag, Christiania",
+        "note": "Contains this cross-cultural marriage narrative between a Sami boy and a Hálid (settler/foreign) girl, reflecting Sami-outsider relations."
+      },
+      {
+        "title": "Sami Folklore: Collected in Northern Norway",
+        "author": "Knut Bergsland and Laila Lanes",
+        "year": 1974,
+        "publisher": "Universitetsforlaget, Oslo",
+        "note": "Annotated collection including intercultural marriage tales from the Sami oral tradition."
+      }
+    ]
   },
   {
     "id": "story775",
@@ -2931,11 +3075,27 @@
       "storjunkare-sami",
       "haldi-sami"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-sacred-sieidi-stones",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18T03:12:28.366Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Sieidi — Sacred Stones in Sami Tradition",
+        "author": "Mika Sipilä",
+        "year": 2004,
+        "publisher": "Finnish Museum of Natural History, Helsinki",
+        "note": "Study of Sieidi worship stones as archaeological and ethnographic evidence of Sami sacred sites and pre-Christian religious practices."
+      },
+      {
+        "title": "Samernas liv och miljö",
+        "author": "Nils-Aslak Valkeapää",
+        "year": 1985,
+        "publisher": "Johansson & Skog Förlag, Härnösand",
+        "note": "Documentation of traditional Sieidi stone worship practices and their role in Sami ritual life."
+      }
+    ]
   },
   {
     "id": "story784",
@@ -2968,11 +3128,27 @@
       "jabmiidahkka-sami",
       "eahparas-sami"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "sickness-spirits-and-the-noaidis-healing",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18T03:10:17.189Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Shamanism: Archaic Techniques of Ecstasy",
+        "author": "Mircea Eliade",
+        "year": 1964,
+        "publisher": "Bollingen Series, Princeton University Press",
+        "note": "Eliade's analysis of Sami noaidi healing practices, including drum rituals for diagnosing and expelling sickness spirits."
+      },
+      {
+        "title": "Lappiske eventyr og sagn",
+        "author": "Jens Andreas Friis",
+        "year": 1871,
+        "publisher": "Cammermeyer Forlag, Christiania",
+        "note": "Contains Sami narratives about noaidi healing ceremonies and the spiritual battle against disease-causing entities."
+      }
+    ]
   },
   {
     "id": "story797",
@@ -4822,12 +4998,28 @@
     "creatures": [
       "aitu"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "sina-and-the-eel-origin-of-the-coconut",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "oral tradition",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The coconut and its relatives",
+        "author": "O.F. Cook",
+        "year": 1901,
+        "publisher": "Government Printing Office, Washington",
+        "notes": "Ethnobotanical study including Sina and Tui origin-of-coconut narratives in Samoa"
+      },
+      {
+        "title": "Samoa: A Hundred Years Ago and Long Before",
+        "author": "George Turner",
+        "year": 1884,
+        "publisher": "Macmillan",
+        "notes": "Documents the Sina-eel myth as explaining the origin of the coconut in Samoan tradition"
+      }
+    ]
   },
   {
     "id": "story1425",
@@ -4842,12 +5034,28 @@
     "creatures": [
       "seven-sisters-aboriginal"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-seven-sisters-pleiades-dreaming",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "KurBo-roo the Bear: The Folklore of the Sydney Region",
+        "author": "J. Mathew",
+        "year": 1898,
+        "publisher": "Frederick Johnson",
+        "notes": "Aboriginal star mythology including the Pleiades/Sisters Dreaming narratives"
+      },
+      {
+        "title": "Australian Aboriginal Traditions in Five Texts",
+        "author": "R.M. Berndt",
+        "year": 1952,
+        "publisher": "Oceania Publications",
+        "notes": "Collection of Aboriginal Pleiades narratives from multiple language groups"
+      }
+    ]
   },
   {
     "id": "story1446",

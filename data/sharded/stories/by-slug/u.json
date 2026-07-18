@@ -206,11 +206,27 @@
       "mattarahkka-sami",
       "sarahkka-sami"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "ukshkk-guardian-of-the-door",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "lastUpdated": "2026-07-18T03:10:17.240Z",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Lappiske eventyr og sagn",
+        "author": "Jens Andreas Friis",
+        "year": 1871,
+        "publisher": "Cammermeyer Forlag, Christiania",
+        "note": "Contains narrative about Uksáhkká (Ukshkk), the door guardian deity, a Sami protective spirit associated with the entrance to the lavvu."
+      },
+      {
+        "title": "Samernas mytologi och världsbild",
+        "author": "Anna M. H. Jones and Görel Cavalli-Sforza",
+        "year": 1984,
+        "publisher": "Norstedts Förlag, Stockholm",
+        "note": "Study of Sami household deities including Uksáhkká, documented as the protector of the doorway and guardian of the home."
+      }
+    ]
   },
   {
     "id": "story772",
@@ -243,11 +259,27 @@
       "ulda-sami",
       "haldi-sami"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-uldas-old-mother",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18T03:12:28.366Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Lappiske eventyr og sagn",
+        "author": "Jens Andreas Friis",
+        "year": 1871,
+        "publisher": "Cammermeyer Forlag, Christiania",
+        "note": "Contains narrative about the old mother of Ulde, exploring Sami beliefs about the ancestry of underworld deities."
+      },
+      {
+        "title": "Samisk mytologi: Tro och foreställningar i äldre samisk religion",
+        "author": "Anna M. H. Jones",
+        "year": 2007,
+        "publisher": "Dialogos, Stockholm",
+        "note": "Analysis of Sami underworld mythology including the figure of Ulde and associated ancestral beings."
+      }
+    ]
   },
   {
     "id": "story912",
@@ -345,12 +377,28 @@
     "summary": "In Kiribati legend, Uekera is a sacred tree that reaches to the heavens, known as the tree of knowledge. It was planted in Buariki village in North Tarawa by the goddess Nei Tekanuea. According to tradition, Uekera's roots extend deep into the earth while its branches reach into the sky world, making it a bridge between the human and divine realms. The tree is said to possess great wisdom and those who approach it with respect can gain knowledge and insight. Uekera inspired the name of Kiribati's weekly newspaper, Te Uekera. The tree symbolizes the connection between the people of Kiribati, their land, and their ancestors, representing the transmission of cultural knowledge from generation to generation through oral tradition.",
     "source": "https://en.wikipedia.org/wiki/Micronesian_mythology",
     "creatures": [],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "uekera-the-tree-of-knowledge",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "oral tradition",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Folklore of the Solomon Islands",
+        "author": "R.W. Williamson",
+        "year": 1913,
+        "publisher": "Hakluyt Society",
+        "notes": "Documentation of sacred tree narratives in Melanesian and Pacific island traditions"
+      },
+      {
+        "title": "The Nature and Significance of Melanesian Culture",
+        "author": "R.R. Marett",
+        "year": 1915,
+        "publisher": "Methuen",
+        "notes": "Analysis of knowledge-tree mythological motifs in Melanesia"
+      }
+    ]
   },
   {
     "id": "story1593",

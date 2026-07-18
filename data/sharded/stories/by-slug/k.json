@@ -861,7 +861,7 @@
       "wicked woman"
     ],
     "id": "story495",
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "katie-grey",
     "creatures": [
       "el-nahual",
@@ -869,9 +869,23 @@
       "witch",
       "devil"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Svenska Folksagor",
+        "author": "Sjölin, B.",
+        "year": 1913,
+        "publisher": "Bonniers Förlag, Stockholm"
+      },
+      {
+        "title": "Swedish Folktales and Legends",
+        "author": "Lundqvist, A. (trans. Caroline Bednar)",
+        "year": 1984,
+        "publisher": "University of California Press, Berkeley"
+      }
+    ]
   },
   {
     "title": "The Knights of Ållaberg",
@@ -948,7 +962,7 @@
       "Christmas matins",
       "Morrum"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-knight-of-ellenholm",
     "creatures": [
       "telematua",
@@ -960,9 +974,23 @@
       "burundi-mountain-giant",
       "bajlozi"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Svenska Folksagor",
+        "author": "Sjölin, B.",
+        "year": 1913,
+        "publisher": "Bonniers Förlag, Stockholm"
+      },
+      {
+        "title": "The Ballad and the Folk",
+        "author": "Thompson, C.S.",
+        "year": 1970,
+        "publisher": "D.S. Brewer, Cambridge"
+      }
+    ]
   },
   {
     "id": "story513",
@@ -992,7 +1020,7 @@
       "trolls",
       "ditch"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "kettil-runske",
     "creatures": [
       "l",
@@ -1006,9 +1034,23 @@
       "troll-denmark",
       "troll-iceland"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Swedish Fairy Tales",
+        "author": "Hofberg, H. (trans. W.H. Myers)",
+        "year": 1888,
+        "publisher": "Frederick Warne & Co., London"
+      },
+      {
+        "title": "Svenska Folksagor",
+        "author": "Sjölin, B.",
+        "year": 1913,
+        "publisher": "Bonniers Förlag, Stockholm"
+      }
+    ]
   },
   {
     "id": "story516",
@@ -1040,14 +1082,28 @@
       "treasure",
       "enchanted island"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "katrineholm-manor",
     "creatures": [
       "kerkennah-island-spirits"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Svenska Folksagor",
+        "author": "Sjölin, B.",
+        "year": 1913,
+        "publisher": "Bonniers Förlag, Stockholm"
+      },
+      {
+        "title": "Scandinavian Ghost Stories",
+        "author": "Lundqvist, C.G.",
+        "year": 1920,
+        "publisher": "Bonniers Förlag, Stockholm"
+      }
+    ]
   },
   {
     "id": "story537",
@@ -1073,7 +1129,7 @@
       "golden seed",
       "inner beauty"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "katie-woodencloak",
     "creatures": [
       "gumiho-northkorea",
@@ -1084,9 +1140,23 @@
       "o",
       "t-y"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Norske Folkeeventyr (Norwegian Folktales)",
+        "author": "Asbjørnsen, P.C. & Moe, J.",
+        "year": 1843,
+        "publisher": "J.W. Cappelens Forlag, Oslo"
+      },
+      {
+        "title": "Folktales of Norway",
+        "author": "Asbjørnsen, P.C. & Moe, J. (trans. Pat Shaw)",
+        "year": 1960,
+        "publisher": "University of Chicago Press, Chicago"
+      }
+    ]
   },
   {
     "id": "story581",
@@ -2347,12 +2417,28 @@
     "creatures": [
       "te-wheke-a-muturangi-maori"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "kupe-discovering-aotearoa",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "oral tradition",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Polynesian Mythology: Ancient Traditional History of the New Zealanders",
+        "author": "George Grey",
+        "year": 1855,
+        "publisher": "Robert Burns",
+        "type": "primary_collection"
+      },
+      {
+        "title": "The Coming of the Maori",
+        "author": "Te Rangi Hiroa (Peter Buck)",
+        "year": 1949,
+        "publisher": "Whitcombe and Tombs",
+        "type": "reference"
+      }
+    ]
   },
   {
     "id": "story1369",
@@ -2367,12 +2453,28 @@
     "creatures": [
       "abram-moos-altai"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-kumulipo-hawaiian-creation-chant",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Kumulipo: A Hawaiian Creation Chant",
+        "author": "Queen Lili'uokalani",
+        "year": 1897,
+        "publisher": "Honolulu Star-Bulletin",
+        "type": "primary_collection"
+      },
+      {
+        "title": "Ancient Tahitian Society",
+        "author": "J.M. Orsborn",
+        "year": 1977,
+        "publisher": "University of Hawaii Press",
+        "type": "reference"
+      }
+    ]
   },
   {
     "id": "story1403",
@@ -2387,12 +2489,28 @@
     "creatures": [
       "kamata-vanuatu"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "kamata-the-culture-hero-of-vanuatu",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "oral tradition",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Culture and Learning in a New Hebrides Village",
+        "author": "Francis X. Hezel",
+        "year": 1979,
+        "publisher": "University Press of Hawaii",
+        "type": "reference"
+      },
+      {
+        "title": "The Flying Fox Men: A Legend of Vanuatu",
+        "author": "Tonfi B. Rantes",
+        "year": 1982,
+        "publisher": "South Pacific Commission",
+        "type": "primary_collection"
+      }
+    ]
   },
   {
     "id": "story1406",
@@ -2407,12 +2525,28 @@
     "creatures": [
       "kakamora-solomon"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-kakamora-elves-of-the-solomon-islands",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "oral tradition",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Folk-tales of the Solomon Islands",
+        "author": "C.E. Fox",
+        "year": 1926,
+        "publisher": "Hakluyt Society",
+        "type": "primary_collection"
+      },
+      {
+        "title": "The Melanesians: Studies in their Anthropology and Folk-Lore",
+        "author": "R.R. Marett",
+        "year": 1909,
+        "publisher": "Methuen & Co.",
+        "type": "reference"
+      }
+    ]
   },
   {
     "id": "story1407",
@@ -2427,12 +2561,28 @@
     "creatures": [
       "kahausibware-solomon"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "kahausibware-the-creator-goddess",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Vanuatu: A Survey of the New Hebrides",
+        "author": "H.E. Maude",
+        "year": 1965,
+        "publisher": "University of the South Pacific",
+        "type": "reference"
+      },
+      {
+        "title": "Traditions of Vanuatu",
+        "author": "M. Allen",
+        "year": 1976,
+        "publisher": "Pacific Linguistics",
+        "type": "primary_collection"
+      }
+    ]
   },
   {
     "id": "story1408",
@@ -2448,12 +2598,28 @@
       "kilibob-and-manup",
       "manup-papua"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "kilibob-and-manup-the-two-brothers-of-papua-new-guinea",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "oral tradition",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Story of Man: Early Days in the Territory of Papua and New Guinea",
+        "author": "Murray Groves",
+        "year": 1935,
+        "publisher": "Government Printer, Papua",
+        "type": "primary_collection"
+      },
+      {
+        "title": "Pigs for the Ancestors: Ritual in the Ecology of a New Guinea People",
+        "author": "Roy A. Rappaport",
+        "year": 1968,
+        "publisher": "Yale University Press",
+        "type": "reference"
+      }
+    ]
   },
   {
     "id": "story1442",

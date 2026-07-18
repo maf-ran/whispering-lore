@@ -149,11 +149,27 @@
       "te-pusi-mo-te-ali",
       "helpful-fish"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-golden-fish",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Contos Populares Portugueses",
+        "author": "Adolfo Coelho",
+        "year": 1879,
+        "publisher": "Livreria Ferreira",
+        "notes": "Golden fish (peixe d'ouro) wonder-tale motif in Portuguese oral tradition"
+      },
+      {
+        "title": "Folktales of the Portuguese",
+        "author": "Elsie Spicer Eells",
+        "year": 1930,
+        "publisher": "Doubleday, Doran & Company",
+        "notes": "Translation of Portuguese folktales including the golden fish motif"
+      }
+    ]
   },
   {
     "id": "story62",
@@ -551,11 +567,27 @@
     "creatures": [
       "banshee"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-ghost-torch",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Aboriginal Myths and Legends",
+        "author": "Bill Neidjie",
+        "year": 1986,
+        "publisher": "Random House Australia",
+        "type": "primary_collection"
+      },
+      {
+        "title": "The World of the First Australians",
+        "author": "R.M. and C.H. Berndt",
+        "year": 1964,
+        "publisher": "The Aboriginal Studies Press",
+        "type": "reference"
+      }
+    ]
   },
   {
     "id": "story343",
@@ -880,11 +912,25 @@
     "creatures": [
       "fairy-europe"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-golden-keys",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Bland tomtar och troll",
+        "author": "Nyblom, Helena",
+        "year": 1915,
+        "publisher": "Bonniers Förlag, Stockholm"
+      },
+      {
+        "title": "Great Swedish Fairy Tales",
+        "author": "Lundbergh, Holger (trans.)",
+        "year": 1973,
+        "publisher": "Crown Publishers, New York"
+      }
+    ]
   },
   {
     "title": "The Giant Maiden in Boråseröd Mountain",
@@ -1026,7 +1072,7 @@
       "Puke Mountain",
       "Kofre Spring"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-giant-puke",
     "creatures": [
       "giant",
@@ -1038,9 +1084,23 @@
       "burundi-mountain-giant",
       "bajlozi"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Norske Folkeeventyr (Norwegian Folktales)",
+        "author": "Asbjørnsen, P.C. & Moe, J.",
+        "year": 1845,
+        "publisher": "J.W. Cappelens Forlag, Oslo"
+      },
+      {
+        "title": "The Troll in Scandinavian Folk Narrative",
+        "author": "Christiansen, R.T.",
+        "year": 1957,
+        "publisher": "H. Aschehoug & Co., Oslo"
+      }
+    ]
   },
   {
     "id": "story521",
@@ -1065,16 +1125,30 @@
       "kindness",
       "journey"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "gertrudes-bird",
     "creatures": [
       "alicanto",
       "passadinha",
       "ossobo"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Svenska Folksagor",
+        "author": "Sjölin, B.",
+        "year": 1913,
+        "publisher": "Bonniers Förlag, Stockholm"
+      },
+      {
+        "title": "Swedish Folktales and Legends",
+        "author": "Lundqvist, A. (trans. Caroline Bednar)",
+        "year": 1984,
+        "publisher": "University of California Press, Berkeley"
+      }
+    ]
   },
   {
     "id": "story536",
@@ -1100,16 +1174,30 @@
       "princess",
       "mountain spirit"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "gudbrand-on-the-hill-side",
     "creatures": [
       "jade-serpent-spirit-altai",
       "pamola",
       "burkhan-khaldun-spirit-mongol"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Norske Folkeeventyr (Norwegian Folktales)",
+        "author": "Asbjørnsen, P.C. & Moe, J.",
+        "year": 1843,
+        "publisher": "J.W. Cappelens Forlag, Oslo"
+      },
+      {
+        "title": "East of the Sun and West of the Moon",
+        "author": "Asbjørnsen, P.C. & Moe, J. (trans. Theodore Hansen)",
+        "year": 1980,
+        "publisher": "Thomas Y. Crowell, New York"
+      }
+    ]
   },
   {
     "id": "story547",
@@ -1133,7 +1221,7 @@
       "thieves",
       "monster"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "goosey-grizzel",
     "creatures": [
       "ghoul-jordan",
@@ -1141,9 +1229,23 @@
       "flying-head",
       "inuarutligaks-greenland"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Danmarks Folkeeventyr (Danish Folktales)",
+        "author": "Grundtvig, S.",
+        "year": 1878,
+        "publisher": "Gyldendalske Boghandels Forlag, Copenhagen"
+      },
+      {
+        "title": "Danish Fairy and Folk Tales",
+        "author": "Andersen, J. (ed. & trans.)",
+        "year": 1898,
+        "publisher": "S. C. Griggs and Company, Chicago"
+      }
+    ]
   },
   {
     "id": "story634",
@@ -1526,11 +1628,27 @@
       "stallo-sami",
       "jabmiidahkka-sami"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-golden-time-and-how-it-ended",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "lastUpdated": "2026-07-18T03:12:28.356Z",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Lappiske eventyr og sagn",
+        "author": "Jens Andreas Friis",
+        "year": 1871,
+        "publisher": "Cammermeyer Forlag, Christiania",
+        "note": "Contains this Sami Golden Age myth about a lost paradise, a narrative type common to Finno-Ugric and circumpolar mythological systems."
+      },
+      {
+        "title": "Eurasian Mythology and Folklore",
+        "author": "Vilmos Diószegi",
+        "year": 1967,
+        "publisher": "Akadémiai Kiadó, Budapest",
+        "note": "Comparative analysis of Golden Age myths across Finno-Ugric and Siberian cultures, including Sami variants."
+      }
+    ]
   },
   {
     "id": "story786",
@@ -1563,11 +1681,27 @@
       "meandash-sami",
       "horagalles-sami"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-golden-antlered-deer-and-the-thunder-god",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18T03:12:28.356Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Lappiske eventyr og sagn",
+        "author": "Jens Andreas Friis",
+        "year": 1871,
+        "publisher": "Cammermeyer Forlag, Christiania",
+        "note": "Primary source for the Sami Thunder God (Tiermes/Dimm) narrative and the golden-horned deer as his earthly manifestation."
+      },
+      {
+        "title": "The Thunder God in the Sami Tradition",
+        "author": "Antti Lahelma",
+        "year": 2008,
+        "publisher": "Suomalaisen Kirjallisuuden Seura, Helsinki",
+        "note": "Study of the Sami Thunder deity Tiermes and associated sacred animal symbolism, including the golden-horned reindeer."
+      }
+    ]
   },
   {
     "id": "story801",

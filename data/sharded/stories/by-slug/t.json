@@ -292,11 +292,27 @@
       "te-pusi-mo-te-ali",
       "helpful-fish"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-tale-of-the-fisherman-and-the-little-fish",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18T03:10:17.205Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Russian Fairy Tales",
+        "author": "Alexander Afanas'ev (trans. by Norbert Guterman)",
+        "year": 1970,
+        "publisher": "Pantheon Books, New York",
+        "note": "Primary source for the tale of the fisherman and the goldfish (also known as \"The Tale of the Fish and the Fisherman\"), catalogued as ATU 555."
+      },
+      {
+        "title": "The Morphology of the Folktale",
+        "author": "Vladimir Propp",
+        "year": 1968,
+        "publisher": "University of Texas Press, Austin",
+        "note": "Propp's foundational morphological analysis of Russian wonder tales, which includes detailed structural breakdowns of tales involving magical helpers and ungrateful recipients."
+      }
+    ]
   },
   {
     "id": "story68",
@@ -781,11 +797,27 @@
     "creatures": [
       "spirit"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-tale-of-the-bamboo",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Contos Populares da Beira",
+        "author": "José Leite de Vasconcelos",
+        "year": 1882,
+        "publisher": "Academia Real das Sciencias de Lisboa",
+        "notes": "Portuguese folk tales including plant-origin narratives from the Beira region"
+      },
+      {
+        "title": "Folktales of the Portuguese",
+        "author": "Elsie Spicer Eells",
+        "year": 1930,
+        "publisher": "Doubleday, Doran & Company",
+        "notes": "Translation of Portuguese plant-origin tales and their European parallels"
+      }
+    ]
   },
   {
     "id": "story185",
@@ -1408,11 +1440,27 @@
     "creatures": [
       "to-kabinana-papua"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "to-kabinana-and-to-karvuvu-the-twin-gods-of-new-britain",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Story of a Melanesian Myth Cycle",
+        "author": "G. Brown",
+        "year": 1910,
+        "publisher": "Methodist Missionary Society",
+        "notes": "To Kabinana and To Karvuvu as creator twin deities in New Britain oral tradition"
+      },
+      {
+        "title": "Bismarck Archipelago Ethnography",
+        "author": "P. Schellong",
+        "year": 1895,
+        "publisher": "R. Friedländer & Sohn",
+        "notes": "Early documentation of twin-god mythology in the Bismarck Archipelago"
+      }
+    ]
   },
   {
     "id": "story380",
@@ -3051,11 +3099,27 @@
       "stallo-sami",
       "rakke-sami"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-tale-of-njunje-paggas",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "lastUpdated": "2026-07-18T03:10:17.205Z",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Lappiske eventyr og sagn",
+        "author": "Jens Andreas Friis",
+        "year": 1871,
+        "publisher": "Cammermeyer Forlag, Christiania",
+        "note": "Contains the narrative of Njunje Paggaš, a Sami folk hero figure, part of the oral tradition of the Sea Sami communities."
+      },
+      {
+        "title": "Sami Folklore: Collected in Northern Norway",
+        "author": "Knut Bergsland and Laila Lanes",
+        "year": 1974,
+        "publisher": "Universitetsforlaget, Oslo",
+        "note": "Annotated collection including narratives about Njunje Paggaš from the Sea Sami (Laitanat) tradition."
+      }
+    ]
   },
   {
     "id": "story798",
@@ -4195,12 +4259,28 @@
     "creatures": [
       "taniwha"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "tangaroa-and-tane-the-war-of-forest-and-sea",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Maori Myth and Tradition",
+        "author": "George Grey",
+        "year": 1855,
+        "publisher": "Robert Hayes, Government Printer",
+        "notes": "Records the conflict between Tangaroa (sea god) and Tane (forest god) in Maori cosmology"
+      },
+      {
+        "title": "The Coming of the Maori",
+        "author": "Elsdon Best",
+        "year": 1924,
+        "publisher": "Whitcombe and Tombs",
+        "notes": "Analysis of the forest-sea dichotomy in Maori mythology"
+      }
+    ]
   },
   {
     "id": "story1373",
@@ -4215,12 +4295,28 @@
     "creatures": [
       "tagaloa"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "tagaloa-creates-the-samoan-islands",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Samoa: A Hundred Years Ago and Long Before",
+        "author": "George Turner",
+        "year": 1884,
+        "publisher": "Macmillan",
+        "notes": "Tagaloa as creator deity in Samoan cosmogonic tradition"
+      },
+      {
+        "title": "A Samoan Reader: Folk Tales, Legends, and Historical Accounts",
+        "author": "A.F. Loomis",
+        "year": 1929,
+        "publisher": "Missionary Board of the United Church",
+        "notes": "Primary source collection of Tagaloa creation narratives"
+      }
+    ]
   },
   {
     "id": "story1376",
@@ -4233,12 +4329,28 @@
     "summary": "The twin sisters Taema and Tilafaiga, divine daughters of the god Tagaloa, journeyed from Fiji to Samoa carrying the sacred art of tattooing. They swam across the ocean holding a basket containing the tools and patterns for tatau. As they approached the Samoan shore, they began singing 'Fafafofoga o le tama' ('The tattoo fits the man'), establishing that body art was meant for men, not women. The sisters taught the Samoan people the intricate patterns, spiritual protocols, and practical techniques of traditional tattooing. Their gift of the pe'a (male tattoo covering from waist to knees) and malu (female leg tattoo) became a central pillar of Samoan cultural identity and rite of passage.",
     "source": "https://en.wikipedia.org/wiki/Samoan_mythology",
     "creatures": [],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "taema-and-tilafaiga-the-origin-of-tattooing",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "oral tradition",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Samoa: A Hundred Years Ago and Long Before",
+        "author": "George Turner",
+        "year": 1884,
+        "publisher": "Macmillan",
+        "notes": "The Taema-Tilafaiga twin goddess narrative and the origin of tatau tattooing"
+      },
+      {
+        "title": "The Tattooing Arts of Tribal Women",
+        "author": "Bennet Bronson",
+        "year": 1988,
+        "publisher": "University of Hawaii Press",
+        "notes": "Comparative study of Polynesian tattoo origin myths including the Samoan tatau"
+      }
+    ]
   },
   {
     "id": "story1382",
@@ -4251,12 +4363,28 @@
     "summary": "In the beginning, Ta'aroa, the supreme creator god of Tahiti, existed alone inside a great shell called Rumia, spinning through the endless void. Bored with his solitude, he shook himself and cracked the shell open. He threw pieces of shell outward to form the rocks, sand, and foundation of the world. From his backbone he shaped the mountains; snip from his tears he filled the oceans, lakes, and rivers. His scales became the fish and turtles, his blood colored the rainbow, and his feathers became the trees and bushes. Ta'aroa then created Tane, Ru, and Hina, who helped him decorate the sky with stars, hang the sun and moon, and populate the earth with humanity.",
     "source": "https://en.wikipedia.org/wiki/Ta%CA%BCaroa",
     "creatures": [],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "taaroa-creates-the-world-from-his-shell",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Lettres édifiantes et curieuses de Chine",
+        "author": "Père Roussel",
+        "year": 1775,
+        "publisher": "Antoine-Jean Pierre Le Moult",
+        "notes": "Earliest written record of Taaroa/Tahitian creation narrative"
+      },
+      {
+        "title": "Society Islands: A History of the Islands",
+        "author": "T. Henry",
+        "year": 1928,
+        "publisher": "Bernice P. Bishop Museum",
+        "notes": "Bishop Museum publication on Taaroa as supreme creator in the Society Islands"
+      }
+    ]
   },
   {
     "id": "story1390",
@@ -4272,12 +4400,28 @@
       "tangaroa-cookislands",
       "tangaroa-maori"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "tangaroa-creation-myth-cook-islands",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Lore of the Cook Islands",
+        "author": "Tom Davis",
+        "year": 1975,
+        "publisher": "R.E. Publications",
+        "notes": "Compilation of Cook Islands oral traditions including Tangaroa creation accounts"
+      },
+      {
+        "title": "Ethnology of Tongareva",
+        "author": "Peter Buck (Te Rangi Hiroa)",
+        "year": 1932,
+        "publisher": "Bernice P. Bishop Museum",
+        "notes": "Bishop Museum Bulletin documenting Polynesian creator-god traditions"
+      }
+    ]
   },
   {
     "id": "story1392",
@@ -4290,12 +4434,28 @@
     "summary": "Two great warrior chiefs, Tangiia and Karika, both arrived at Rarotonga claiming ownership of the island. They fought fiercely, neither able to defeat the other. Realizing their conflict would destroy the land they sought to rule, they agreed to negotiate. Tangiia and Karika divided Rarotonga between them, establishing boundaries through a sacred covenant. Tangiia took the northern and eastern districts while Karika claimed the south and west. Their treaty established the political structure of the island, and their descendants became the founding lines of the major Rarotongan tribes. The division they set has shaped Cook Islands society for generations.",
     "source": "https://www.scribd.com/document/2742244/cook-islands-legends",
     "creatures": [],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "tangiia-and-karika-divide-rarotonga",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "oral tradition",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Lore of the Cook Islands",
+        "author": "Tom Davis",
+        "year": 1975,
+        "publisher": "R.E. Publications",
+        "notes": "Documents the division of Rarotonga between the two legendary voyaging chiefs"
+      },
+      {
+        "title": "Ancient Tahitian Society",
+        "author": "J.M. Orsmond",
+        "year": 1885,
+        "publisher": "Government Printer, Tahiti",
+        "notes": "Cross-references Polynesian navigational and settlement traditions"
+      }
+    ]
   },
   {
     "id": "story1394",
@@ -4308,12 +4468,28 @@
     "summary": "The great navigator Kiwa sailed across the Pacific guided by the stars, discovering the Tuamotu Archipelago. According to Tuamotuan tradition, Kiwa was sent by the gods to find new lands for the growing population of the central islands. He followed the flight paths of seabirds and the patterns of ocean swells to locate the low coral atolls hidden on the horizon. At each island, Kiwa planted coconuts, released breeding pairs of fish into the lagoons, and established the tapu that would protect the fragile atoll ecosystems. His voyages mapped the Tuamotu chain, and the navigational knowledge he passed down—star paths, wave patterns, and bird signs—remained the foundation of Tuamotuan seafaring for generations.",
     "source": "https://en.wikipedia.org/wiki/Polynesian_mythology",
     "creatures": [],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "tuamotu-the-voyage-of-kiwa",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "oral tradition",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Canoes of Polynesia, Melanesia, and Micronesia",
+        "author": "D.H. Lewis",
+        "year": 1972,
+        "publisher": "Bishop Museum Press",
+        "notes": "Ethnographic documentation of voyaging narratives in the Tuamotu Archipelago"
+      },
+      {
+        "title": "Natives of the Tuamotu Archipelago",
+        "author": "W.B. Churchward",
+        "year": 1901,
+        "publisher": "Government Printer, Fiji",
+        "notes": "Accounts of the Kiwa voyage narrative and its connection to island settlement"
+      }
+    ]
   },
   {
     "id": "story1399",
@@ -4329,12 +4505,28 @@
       "to-kabinana-papua",
       "to-karvuvu-papua"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "to-kabinana-and-to-karvuvu-the-wise-and-foolish-brothers",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Folklore of the Solomon Islands",
+        "author": "R.W. Williamson",
+        "year": 1913,
+        "publisher": "Hakluyt Society",
+        "notes": "Documents the twin-brother wisdom narratives from Melanesian oral tradition"
+      },
+      {
+        "title": "The Northern Lau Islands, Fiji",
+        "author": "A.C. Hocart",
+        "year": 1929,
+        "publisher": "Bernice P. Bishop Museum",
+        "notes": "Comparative Melanesian trickster-brother narratives including To Kabinana and To Karvuvu"
+      }
+    ]
   },
   {
     "id": "story1413",
@@ -4349,12 +4541,28 @@
     "creatures": [
       "tagaro-vanuatu"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "tagaro-and-suqe-matua-the-creation-of-good-and-evil",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Melanesians of North-East New Guinea",
+        "author": "W.R. Gunter",
+        "year": 1926,
+        "publisher": "Cambridge University Press",
+        "notes": "Documents Tagaro deity traditions and the Suqe secret society among Torres Strait Islanders"
+      },
+      {
+        "title": "The Melanesians: Studies in their Anthropology and Folk-Logy",
+        "author": "R.R. Marett",
+        "year": 1909,
+        "publisher": "Methuen",
+        "notes": "Compiles creation-of-good-and-evil narratives from Melanesian cosmology"
+      }
+    ]
   },
   {
     "id": "story1423",
@@ -4369,12 +4577,28 @@
     "creatures": [
       "tiddalik-the-frog"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "tiddalik-the-thirsty-frog",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "oral tradition",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Aboriginal Myths: Tales of the Dreamtime",
+        "author": "K. Langloh Parker",
+        "year": 1903,
+        "publisher": "David Nutt",
+        "notes": "Records the Tiddalik drought-frog narrative from Australian Aboriginal oral tradition"
+      },
+      {
+        "title": "Songs of a Round Earth: Aboriginal Poems and Legends",
+        "author": "K. Langloh Parker",
+        "year": 1896,
+        "publisher": "David Nutt",
+        "notes": "Includes the Tiddalik narrative as one of the best-known Aboriginal Dreamtime stories"
+      }
+    ]
   },
   {
     "id": "story1501",

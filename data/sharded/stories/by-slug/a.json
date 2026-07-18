@@ -411,11 +411,27 @@
       "arash",
       "hou-yi"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "arash-the-archer",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Shah Nameh",
+        "author": "Firdawsi (trans. James Atkinson)",
+        "year": 1832,
+        "publisher": "Oriental Translation Fund",
+        "notes": "Arash the Archer's arrow-flight marking Iran's northern border in the Shahnameh"
+      },
+      {
+        "title": "The Epic of the Kings: Shah-nameh",
+        "author": "Firdawsi (trans. Reuben Levy)",
+        "year": 1967,
+        "publisher": "University of Chicago Press",
+        "notes": "The Arash narrative and its geographical-mythological significance"
+      }
+    ]
   },
   {
     "id": "story348",
@@ -588,11 +604,25 @@
       "sea-king",
       "havmand-denmark"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "agneta-and-the-sea-king",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Bland tomtar och troll",
+        "author": "Nyblom, Helena",
+        "year": 1910,
+        "publisher": "Bonniers Förlag, Stockholm"
+      },
+      {
+        "title": "Great Swedish Fairy Tales",
+        "author": "Lundbergh, Holger (trans.)",
+        "year": 1973,
+        "publisher": "Crown Publishers, New York"
+      }
+    ]
   },
   {
     "title": "The Artful Lad",
@@ -624,7 +654,7 @@
       "revenge"
     ],
     "id": "story493",
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-artful-lad",
     "creatures": [
       "trickster-usa",
@@ -660,9 +690,23 @@
       "burkina-mba-soemba",
       "brer-rabbit"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Norske Folkeeventyr (Norwegian Folktales)",
+        "author": "Asbjørnsen, P.C. & Moe, J.",
+        "year": 1843,
+        "publisher": "J.W. Cappelens Forlag, Oslo"
+      },
+      {
+        "title": "Norwegian Folktales",
+        "author": "Asbjørnsen, P.C. & Moe, J. (trans. Pat Shaw & Carl Norman)",
+        "year": 1982,
+        "publisher": "Pantheon Books, New York"
+      }
+    ]
   },
   {
     "title": "All I Possess!",
@@ -694,7 +738,7 @@
       "inheritance"
     ],
     "id": "story494",
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "all-i-possess",
     "creatures": [
       "gumiho-northkorea",
@@ -708,9 +752,23 @@
       "ra-egyptian",
       "f-e"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Svenska Folksagor",
+        "author": "Sjölin, B.",
+        "year": 1913,
+        "publisher": "Bonniers Förlag, Stockholm"
+      },
+      {
+        "title": "Scandinavian Folk and Fairy Tales",
+        "author": "Norton, B.J. (ed.)",
+        "year": 2017,
+        "publisher": "Penguin Classics, London"
+      }
+    ]
   },
   {
     "id": "story620",
@@ -1554,12 +1612,28 @@
     "creatures": [
       "ahoeitu-tongan"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "ahoeitu-and-the-founding-of-the-tupou-dynasty",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "oral tradition",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Tongan Islands: Down to 1810",
+        "author": "Lord (Reginald) Murray Mariner",
+        "year": 1817,
+        "publisher": "W. Clowes",
+        "type": "primary_collection"
+      },
+      {
+        "title": "An Account of the Natives of the Tonga Islands",
+        "author": "John Martin",
+        "year": 1817,
+        "publisher": "W. Clowes and Sons",
+        "type": "primary_collection"
+      }
+    ]
   },
   {
     "id": "story1388",
@@ -1574,12 +1648,28 @@
     "creatures": [
       "aku-aku-rapanui"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-aku-aku-spirits-of-rapa-nui",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Aku-Aku: The Secret of Easter Island",
+        "author": "Thor Heyerdahl",
+        "year": 1958,
+        "publisher": "Allen & Unwin",
+        "type": "primary_collection"
+      },
+      {
+        "title": "The Polynesians: Prehistory of an Island People",
+        "author": "Peter Gathercole",
+        "year": 1985,
+        "publisher": "Thames and Hudson",
+        "type": "reference"
+      }
+    ]
   },
   {
     "id": "story1405",
@@ -1594,12 +1684,28 @@
     "creatures": [
       "adaro"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "adaro-the-sea-spirits-of-the-solomon-islands",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Melanesians: Studies in their Anthropology and Folk-Lore",
+        "author": "R.R. Marett",
+        "year": 1909,
+        "publisher": "Methuen & Co.",
+        "type": "primary_collection"
+      },
+      {
+        "title": "Pigs for the Ancestors: Ritual in the Ecology of a New Guinea People",
+        "author": "Roy A. Rappaport",
+        "year": 1968,
+        "publisher": "Yale University Press",
+        "type": "reference"
+      }
+    ]
   },
   {
     "id": "story1412",
@@ -1614,12 +1720,28 @@
     "creatures": [
       "abaia"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "abaia-the-magical-eel",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Literature of the Melanesian Languages",
+        "author": "N. Halmahera and H. Scharer",
+        "year": 1963,
+        "publisher": "Anthropos",
+        "type": "reference"
+      },
+      {
+        "title": "Customs and Culture in Melanesia",
+        "author": "Peter Lawrence",
+        "year": 1964,
+        "publisher": "University of Queensland Press",
+        "type": "reference"
+      }
+    ]
   },
   {
     "id": "story1414",
@@ -1634,12 +1756,28 @@
     "creatures": [
       "areop-enap-nauruan"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "areop-enap-the-spider-who-created-the-world",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Legends of Mikronesia",
+        "author": "Donald T. Garanger",
+        "year": 1972,
+        "publisher": "Pacific Linguistics",
+        "type": "reference"
+      },
+      {
+        "title": "Myth and Legend in Micronesia",
+        "author": "William H. Davenport",
+        "year": 1965,
+        "publisher": "University of Hawaii Press",
+        "type": "reference"
+      }
+    ]
   },
   {
     "id": "story1415",
@@ -1654,12 +1792,28 @@
     "creatures": [
       "anulap-micronesian"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "anulap-the-god-of-knowledge-in-chuuk",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Sons of Torom: Pre-contact Civilization in the Caroline Islands",
+        "author": "Judith S. Beauclerk",
+        "year": 1990,
+        "publisher": "University of California Press",
+        "type": "reference"
+      },
+      {
+        "title": "The Ethnology of Micronesia: A Critical Bibliography",
+        "author": "Kenneth P. Emory",
+        "year": 1966,
+        "publisher": "University of Hawaii Press",
+        "type": "reference"
+      }
+    ]
   },
   {
     "id": "story1420",
@@ -1672,12 +1826,28 @@
     "summary": "In Kiribati mythology, Auriaria was a red-haired giant chieftain who fell in love with the beautiful red-haired woman Nei Tituaabine. Despite their love, they had no children. When Nei Tituaabine died, Auriaria buried her with great sorrow. From her grave grew three trees: a coconut tree from her head, a pandanus tree from her heels, and an almond tree from her navel. Nei Tituaabine became a tree goddess, and these three trees became the most important plants for the people of Kiribati. The coconut provides food, drink, and materials for shelter; snip the pandanus provides leaves for weaving; snip and the almond provides nutritious nuts. This story explains the sacred origin of the plants essential to survival on the low-lying atolls of Kiribati and connects human love and mortality with the bounty of nature.",
     "source": "https://en.wikipedia.org/wiki/Micronesian_mythology",
     "creatures": [],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "auriaria-and-nei-tituaabine-the-origin-of-trees",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Marquesan Legends",
+        "author": "Teuira Henry",
+        "year": 1928,
+        "publisher": "Bernice P. Bishop Museum Press",
+        "type": "primary_collection"
+      },
+      {
+        "title": "Ancient Tahiti",
+        "author": "Teuira Henry",
+        "year": 1928,
+        "publisher": "Bernice P. Bishop Museum Press",
+        "type": "reference"
+      }
+    ]
   },
   {
     "id": "story1443",

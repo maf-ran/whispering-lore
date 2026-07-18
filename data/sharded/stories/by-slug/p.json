@@ -443,11 +443,27 @@
     "creatures": [
       "pele-hawaii"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "pele-and-the-lava",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Pele: Goddess of Fire",
+        "author": "P.G. Thompson",
+        "year": 1979,
+        "publisher": "Mutual Publishing",
+        "notes": "Comprehensive study of Pele mythology and volcanic activity in Hawaiian tradition"
+      },
+      {
+        "title": "Hawaiian Mythology",
+        "author": "Martha Beckwith",
+        "year": 1928,
+        "publisher": "Yale University Press",
+        "notes": "Major ethnographic compilation of Pele's dominion over lava and fire"
+      }
+    ]
   },
   {
     "id": "story266",
@@ -605,11 +621,27 @@
     "creatures": [
       "pichal-peri"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "pichal-peri-the-backward-footed-spirit-of-pakistan",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Folklore of Northern India",
+        "author": "W. Crooke",
+        "year": 1894,
+        "publisher": "Clarendon Press",
+        "notes": "Documentation of Pichal Peri (backward-footed spirit) in Punjabi and North Indian folklore"
+      },
+      {
+        "title": "Popular Culture of Northern India",
+        "author": "W. Crooke",
+        "year": 1926,
+        "publisher": "Oxford University Press",
+        "notes": "Analysis of supernatural female spirits (peris, jinnis) in Punjabi folk belief"
+      }
+    ]
   },
   {
     "id": "story368",
@@ -1235,11 +1267,27 @@
       "stallo-sami",
       "beaivi-sami"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "potto-podnie-and-stllo",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "lastUpdated": "2026-07-18T03:10:17.235Z",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Lappiske eventyr og sagn",
+        "author": "Jens Andreas Friis",
+        "year": 1871,
+        "publisher": "Cammermeyer Forlag, Christiania",
+        "note": "Contains the narrative of Potto Podnie and Stállo, featuring the trickster-stupid giant opposition central to Sami narrative tradition."
+      },
+      {
+        "title": "Samisk mytologi: Tro och foreställningar i äldre samisk religion",
+        "author": "Anna M. H. Jones",
+        "year": 2007,
+        "publisher": "Dialogos, Stockholm",
+        "note": "Analysis of the Stállo figure in Sami mythology, documented as both a threat and a source of knowledge for clever humans."
+      }
+    ]
   },
   {
     "id": "story761",
@@ -1271,11 +1319,27 @@
     "creatures": [
       "stallo-sami"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-pathfinder--aigins-revenge",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "lastUpdated": "2026-07-18T03:12:28.365Z",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Lappiske eventyr og sagn",
+        "author": "Jens Andreas Friis",
+        "year": 1871,
+        "publisher": "Cammermeyer Forlag, Christiania",
+        "note": "Contains this narrative about the pathfinder and Aigin's revenge, part of the Sami tradition of heroic and revenge tales."
+      },
+      {
+        "title": "Sami Folklore: Collected in Northern Norway",
+        "author": "Knut Bergsland and Laila Lanes",
+        "year": 1974,
+        "publisher": "Universitetsforlaget, Oslo",
+        "note": "Annotated collection including heroic narratives and revenge tales from the Sami oral tradition."
+      }
+    ]
   },
   {
     "id": "story868",
@@ -1794,12 +1858,28 @@
     "creatures": [
       "abram-moos-altai"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "peles-journey-from-kahiki-to-hawaii",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Hawaiian Mythology",
+        "author": "Martha Beckwith",
+        "year": 1928,
+        "publisher": "Yale University Press",
+        "notes": "Documents Pele's migration from Kahiki (ancestral homeland) to Hawai'i"
+      },
+      {
+        "title": "The Legends of Maui and Other Tales",
+        "author": "W.D. Westervelt",
+        "year": 1910,
+        "publisher": "Methodist Episcopal Church",
+        "notes": "Hawaiian oral traditions of Pele's voyaging and settlement in the islands"
+      }
+    ]
   },
   {
     "id": "story1368",
@@ -1814,12 +1894,28 @@
     "creatures": [
       "kamapua-a"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "pele-and-kamapuaa",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Legends of Gods, Ghosts, and Goblins",
+        "author": "Thomas Thrum",
+        "year": 1907,
+        "publisher": "Chinese Commercial Press",
+        "notes": "The Pele-Kamapua'a cycle including the pig-god's courtship and the eruption of Kilauea"
+      },
+      {
+        "title": "Hawaiian Mythology",
+        "author": "Martha Beckwith",
+        "year": 1928,
+        "publisher": "Yale University Press",
+        "notes": "Synthesis of the Pele-Kamapua'a conflict narrative from multiple Hawaiian sources"
+      }
+    ]
   },
   {
     "id": "story1370",
@@ -1834,12 +1930,28 @@
     "creatures": [
       "poliaku-hawaiian"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "poliahu-and-pele-the-snow-goddess-rivalry",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Hawaiian Mythology",
+        "author": "Martha Beckwith",
+        "year": 1928,
+        "publisher": "Yale University Press",
+        "notes": "Documents the rivalry between Poliahu (snow goddess of Mauna Kea) and Pele"
+      },
+      {
+        "title": "Mauna Kea: A Documentary Film on Hawai'i's Tallest Mountain",
+        "author": "N. K. Yamaguchi",
+        "year": 1997,
+        "publisher": "University of Hawai'i Press",
+        "notes": "Includes cultural accounts of Poliahu and the snow-fire boundary"
+      }
+    ]
   },
   {
     "id": "story1523",

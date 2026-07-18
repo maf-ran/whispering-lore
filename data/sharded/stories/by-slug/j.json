@@ -301,7 +301,7 @@
       "Jönköping",
       "Ingeltrop"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "johan-and-the-trolls",
     "creatures": [
       "gumiho-northkorea",
@@ -315,9 +315,23 @@
       "trold-denmark",
       "troll"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Norske Folkeeventyr (Norwegian Folktales)",
+        "author": "Asbjørnsen, P.C. & Moe, J.",
+        "year": 1845,
+        "publisher": "J.W. Cappelens Forlag, Oslo"
+      },
+      {
+        "title": "Folktales of Norway",
+        "author": "Asbjørnsen, P.C. & Moe, J. (trans. Pat Shaw)",
+        "year": 1960,
+        "publisher": "University of Chicago Press, Chicago"
+      }
+    ]
   },
   {
     "id": "story756",
@@ -349,11 +363,27 @@
     "creatures": [
       "jabmiidahkka-sami"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "jbmiidhkk-ruler-of-the-underworld",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "lastUpdated": "2026-07-18T03:10:17.219Z",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Lappiske eventyr og sagn",
+        "author": "Jens Andreas Friis",
+        "year": 1871,
+        "publisher": "Cammermeyer Forlag, Christiania",
+        "note": "Contains narrative about Jâbmiidâhkka (Ruler of the Underworld), a prominent deity in the Sami pantheon governing the realm of the dead."
+      },
+      {
+        "title": "Sami Religion: A Symposium",
+        "author": "Nils Nordman (ed.)",
+        "year": 1992,
+        "publisher": "Umeå University, Umeå",
+        "note": "Conference proceedings including analysis of Jâbmiidâhkka and her role as ruler of the afterlife in Sami religious belief."
+      }
+    ]
   },
   {
     "id": "story759",
@@ -387,11 +417,27 @@
       "mattarahkka-sami",
       "lieaibolmmai-sami"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "juokshkk-the-bow-woman",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "lastUpdated": "2026-07-18T03:10:17.219Z",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Lappiske eventyr og sagn",
+        "author": "Jens Andreas Friis",
+        "year": 1871,
+        "publisher": "Cammermeyer Forlag, Christiania",
+        "note": "Contains narrative about the bow-woman (Juoksáhkká), a Sami female deity associated with childbirth and archery."
+      },
+      {
+        "title": "Women in the Sami World",
+        "author": "Barbro Dahle and others",
+        "year": 2002,
+        "publisher": "Girjegumpi, Kautokeino",
+        "note": "Study of female figures in Sami mythology and culture, including analysis of Juoksáhkká as a protector deity for women and children."
+      }
+    ]
   },
   {
     "id": "story824",

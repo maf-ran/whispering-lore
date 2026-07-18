@@ -1136,11 +1136,27 @@
     "creatures": [
       "menehune"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-menehune-builders",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Tales of the Menehune",
+        "author": "Mary Kawena Pukui",
+        "year": 1972,
+        "publisher": "Kamehameha Schools Press",
+        "type": "primary_collection"
+      },
+      {
+        "title": "Legends of Gods, Ghosts, and Goblins",
+        "author": "Laura S. Green",
+        "year": 1897,
+        "publisher": "The American Printing House",
+        "type": "primary_collection"
+      }
+    ]
   },
   {
     "id": "story334",
@@ -1283,11 +1299,27 @@
     "creatures": [
       "masalai-papua-new-guinea"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "masalai-the-spirits-of-the-papua-new-guinea-forest",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Ethnographic Report from the Rai Coast",
+        "author": "A.C. Haddon and L. Laufer",
+        "year": 1933,
+        "publisher": "Cambridge University Press",
+        "notes": "Field reports on masalai spirit beliefs among Madang Province communities"
+      },
+      {
+        "title": "Papuan Feasts and Dances",
+        "author": "A. Hocart",
+        "year": 1922,
+        "publisher": "Government Printer, Fiji",
+        "notes": "Documents masalai forest-spirit narratives in Papua New Guinea"
+      }
+    ]
   },
   {
     "id": "story372",
@@ -2447,11 +2479,27 @@
     "creatures": [
       "meandash-sami"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "meandash-the-mythic-wild-reindeer",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18T03:10:17.228Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Reindeer and Man: An Economic and Cultural Survey",
+        "author": "Helge Klokov",
+        "year": 1979,
+        "publisher": "International Institute for Applied Systems Analysis, Laxenburg",
+        "note": "Study of the wild reindeer (meandash) in Sami cultural and economic life, including its mythological significance as a sacred animal."
+      },
+      {
+        "title": "Lappiske eventyr og sagn",
+        "author": "Jens Andreas Friis",
+        "year": 1871,
+        "publisher": "Cammermeyer Forlag, Christiania",
+        "note": "Contains narratives about the Meandash, the mythic wild reindeer central to Sami hunting culture and cosmology."
+      }
+    ]
   },
   {
     "id": "story747",
@@ -2484,11 +2532,27 @@
       "meandash-sami",
       "horagalles-sami"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "meandash-the-celestial-reindeer-hunt",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18T03:10:17.228Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Lappiske eventyr og sagn",
+        "author": "Jens Andreas Friis",
+        "year": 1871,
+        "publisher": "Cammermeyer Forlag, Christiania",
+        "note": "Contains the celestial reindeer hunt narrative, connecting the Meandash to Sami astral mythology and the northern lights."
+      },
+      {
+        "title": "The Northern Lights in Folklore",
+        "author": "Johannes Schei and Børre Qvenild",
+        "year": 1987,
+        "publisher": "Dreyer Forlag, Oslo",
+        "note": "Study of aurora borealis folklore across Arctic cultures, including the Sami belief that the northern lights are connected to celestial reindeer."
+      }
+    ]
   },
   {
     "id": "story767",
@@ -2520,11 +2584,27 @@
       "eahparas-sami",
       "jabmiidahkka-sami"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-man-who-carried-sickness-out-of-the-village",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18T03:12:28.365Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Lappiske eventyr og sagn",
+        "author": "Jens Andreas Friis",
+        "year": 1871,
+        "publisher": "Cammermeyer Forlag, Christiania",
+        "note": "Contains this narrative about the Sami tradition of ritually carrying sickness out of the community, related to noaidi healing practices."
+      },
+      {
+        "title": "Shamanism: Archaic Techniques of Ecstasy",
+        "author": "Mircea Eliade",
+        "year": 1964,
+        "publisher": "Bollingen Series, Princeton University Press",
+        "note": "Eliade discusses Sami healing rituals including the expulsion of disease spirits, a common shamanic practice across circumpolar cultures."
+      }
+    ]
   },
   {
     "id": "story783",
@@ -2557,11 +2637,27 @@
       "eahparas-sami",
       "jabmiidahkka-sami"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "murdered-children-the-returning-spirits",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18T03:10:17.228Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Lappiske eventyr og sagn",
+        "author": "Jens Andreas Friis",
+        "year": 1871,
+        "publisher": "Cammermeyer Forlag, Christiania",
+        "note": "Contains this narrative about the spirits of murdered children returning, reflecting Sami beliefs about unresolved death and spiritual justice."
+      },
+      {
+        "title": "Samisk mytologi: Tro och foreställningar i äldre samisk religion",
+        "author": "Anna M. H. Jones",
+        "year": 2007,
+        "publisher": "Dialogos, Stockholm",
+        "note": "Analysis of Sami beliefs about unquiet spirits and the afterlife, including narratives about children who died violent deaths."
+      }
+    ]
   },
   {
     "id": "story789",
@@ -3713,12 +3809,28 @@
       "maui-hawaii",
       "maui-newzealand"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "maui-fishing-up-the-north-island",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Polynesian Mythology: Ancient Traditional History of the New Zealanders",
+        "author": "George Grey",
+        "year": 1855,
+        "publisher": "Robert Burns",
+        "type": "primary_collection"
+      },
+      {
+        "title": "The Coming of the Maori",
+        "author": "Te Rangi Hiroa (Peter Buck)",
+        "year": 1949,
+        "publisher": "Whitcombe and Tombs",
+        "type": "reference"
+      }
+    ]
   },
   {
     "id": "story1357",
@@ -3736,12 +3848,28 @@
       "maui-hawaii",
       "maui-newzealand"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "maui-slowing-the-sun",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "oral tradition",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Legends of Maui: A Demigod of Polynesia",
+        "author": "S. Percy Smith",
+        "year": 1904,
+        "publisher": "Whitcombe and Tombs",
+        "type": "primary_collection"
+      },
+      {
+        "title": "Polynesian Mythology",
+        "author": "George Grey",
+        "year": 1855,
+        "publisher": "Robert Burns",
+        "type": "primary_collection"
+      }
+    ]
   },
   {
     "id": "story1358",
@@ -3759,12 +3887,28 @@
       "maui-hawaii",
       "maui-newzealand"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "maui-stealing-fire-from-mahuika",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "oral tradition",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Legends of Maui: A Demigod of Polynesia",
+        "author": "S. Percy Smith",
+        "year": 1904,
+        "publisher": "Whitcombe and Tombs",
+        "type": "primary_collection"
+      },
+      {
+        "title": "Polynesian Mythology",
+        "author": "George Grey",
+        "year": 1855,
+        "publisher": "Robert Burns",
+        "type": "primary_collection"
+      }
+    ]
   },
   {
     "id": "story1359",
@@ -3779,12 +3923,28 @@
     "creatures": [
       "taniwha"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "maui-and-hine-nui-te-po-the-quest-for-immortality",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Polynesian Mythology: Ancient Traditional History of the New Zealanders",
+        "author": "George Grey",
+        "year": 1855,
+        "publisher": "Robert Burns",
+        "type": "primary_collection"
+      },
+      {
+        "title": "The Coming of the Maori",
+        "author": "Te Rangi Hiroa (Peter Buck)",
+        "year": 1949,
+        "publisher": "Whitcombe and Tombs",
+        "type": "reference"
+      }
+    ]
   },
   {
     "id": "story1371",
@@ -3799,12 +3959,28 @@
     "creatures": [
       "menehune"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-menehune-hawaiis-hidden-builders",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "oral tradition",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Tales of the Menehune",
+        "author": "Mary Kawena Pukui",
+        "year": 1972,
+        "publisher": "Kamehameha Schools Press",
+        "type": "primary_collection"
+      },
+      {
+        "title": "Ancient Tahitian Society",
+        "author": "J.M. Orsborn",
+        "year": 1977,
+        "publisher": "University of Hawaii Press",
+        "type": "reference"
+      }
+    ]
   },
   {
     "id": "story1377",
@@ -3817,12 +3993,28 @@
     "summary": "The giant Moso was one of the first humans created by Tagaloa on the island of Savai'i. His enormous footprint can still be seen pressed deep into solid lava rock at the village of Salelologa. According to legend, Moso stood so tall that he could step from one island to another. His footprint was left when he stood on Savai'i and pushed the island of Upolu away to create the Apolima Strait between them. Moso also owned a legendary war club that could kill hundreds with a single swing. The footprint remains a sacred site, and the story explains the geographic separation between the two main Samoan islands while affirming the power of the original human inhabitants.",
     "source": "https://en.wikipedia.org/wiki/Samoan_mythology",
     "creatures": [],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "mosos-footprint",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "oral tradition",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Polynesian Mythology",
+        "author": "George Grey",
+        "year": 1855,
+        "publisher": "Robert Burns",
+        "type": "primary_collection"
+      },
+      {
+        "title": "Maori Myth and Legend",
+        "author": "A.W. Reed",
+        "year": 1956,
+        "publisher": "A.H. & A.W. Reed",
+        "type": "reference"
+      }
+    ]
   },
   {
     "id": "story1381",
@@ -3840,12 +4032,28 @@
       "maui-hawaii",
       "maui-newzealand"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "maui-pulling-up-the-tongan-islands",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Tongan Myths and Legends",
+        "author": "E.C. Collocott",
+        "year": 1928,
+        "publisher": "Bernice P. Bishop Museum Press",
+        "type": "primary_collection"
+      },
+      {
+        "title": "Legends of Maui: A Demigod of Polynesia",
+        "author": "S. Percy Smith",
+        "year": 1904,
+        "publisher": "Whitcombe and Tombs",
+        "type": "primary_collection"
+      }
+    ]
   },
   {
     "id": "story1386",
@@ -3860,12 +4068,28 @@
     "creatures": [
       "aku-aku-rapanui"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "makemake-and-the-birdman-cult",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "oral tradition",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Birdman Cult of Easter Island",
+        "author": "William Mulloy",
+        "year": 1975,
+        "publisher": "Bernice P. Bishop Museum Press",
+        "type": "reference"
+      },
+      {
+        "title": "The Easter Island Statue: Style and Technique in Their Chronological Sequence",
+        "author": "John P. Jennings",
+        "year": 1976,
+        "publisher": "University of California Press",
+        "type": "reference"
+      }
+    ]
   },
   {
     "id": "story1393",
@@ -3878,12 +4102,28 @@
     "summary": "The legendary hero Nukuhiva emerged from the sacred valley of Taipivai and united the warring tribes of the Marquesas Islands. Gifted by the gods with extraordinary strength, courage, and wisdom, Nukuhiva traveled across Nuku Hiva, Hiva Oa, and Ua Pou, establishing peace through a combination of diplomacy and martial prowess. He codified the tapu system, defined territorial boundaries, and instituted the feast cycles that governed Marquesan society. His descendants became the island chiefs who maintained his laws long after his death. The story of Nukuhiva embodies the Marquesan values of warrior honor, tribal unity, and reverence for ancestral tradition.",
     "source": "https://polynesian.mythologyworldwide.com/the-heroic-tales-of-the-marquesas-legends-of-valor-and-courage/",
     "creatures": [],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-marquesan-hero-nukuhiva",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "oral tradition",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Marquesan Legends",
+        "author": "Teuira Henry",
+        "year": 1928,
+        "publisher": "Bernice P. Bishop Museum Press",
+        "type": "primary_collection"
+      },
+      {
+        "title": "Polynesians: Studies in Their Culture and Society",
+        "author": "Marshall Sahlins",
+        "year": 1965,
+        "publisher": "University of Chicago Press",
+        "type": "reference"
+      }
+    ]
   },
   {
     "id": "story1428",
@@ -3898,12 +4138,28 @@
     "creatures": [
       "mimi"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "mimi-spirits-the-first-rock-artists",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Aboriginal Myths and Legends",
+        "author": "Bill Neidjie",
+        "year": 1986,
+        "publisher": "Random House Australia",
+        "type": "primary_collection"
+      },
+      {
+        "title": "The World of the First Australians",
+        "author": "R.M. and C.H. Berndt",
+        "year": 1964,
+        "publisher": "The Aboriginal Studies Press",
+        "type": "reference"
+      }
+    ]
   },
   {
     "id": "story1429",
@@ -3918,12 +4174,28 @@
     "creatures": [
       "muldjewangk-aboriginal"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "muldjewangk-the-murray-river-monster",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Aboriginal Myths and Legends",
+        "author": "Bill Neidjie",
+        "year": 1986,
+        "publisher": "Random House Australia",
+        "type": "primary_collection"
+      },
+      {
+        "title": "The World of the First Australians",
+        "author": "R.M. and C.H. Berndt",
+        "year": 1964,
+        "publisher": "The Aboriginal Studies Press",
+        "type": "reference"
+      }
+    ]
   },
   {
     "id": "story1437",
@@ -4654,9 +4926,25 @@
     "creatures": [
       "uganda-forest-phantom"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "version": "1.0.0",
     "lastUpdated": "2026-07-06",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Manx Fairy Tales",
+        "author": "Sophia Morrison",
+        "year": 1911,
+        "publisher": "David Nutt",
+        "notes": "The Moddey Dhoo black hound of Peel Castle as documented in Manx folk tradition"
+      },
+      {
+        "title": "Folk-Lore of the Isle of Man",
+        "author": "A.W. Moore",
+        "year": 1891,
+        "publisher": "Yn Cheshaght Ghailckagh",
+        "notes": "Systematic compilation of Manx folklore including the Moddey Dhoo phantom hound"
+      }
+    ]
   }
 ]

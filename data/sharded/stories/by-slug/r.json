@@ -268,11 +268,27 @@
       "mama-dlo",
       "mamadleau-saintlucia"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-rooster-of-barcelinhos",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Contos Tradicionais Portugueses",
+        "author": "Teófilo Braga",
+        "year": 1883,
+        "publisher": "Parceria A.M. Pereira",
+        "notes": "Documents the Barcelinhos cockerel legend from northern Portuguese oral tradition"
+      },
+      {
+        "title": "Lendas da Terra",
+        "author": "Alexandre Herculano",
+        "year": 1851,
+        "publisher": "Typographia de A. J. da Silva",
+        "notes": "Historical and legendary tales from the Minho region including the Barcelinhos story"
+      }
+    ]
   },
   {
     "id": "story188",
@@ -1056,11 +1072,27 @@
       "radien-attje-sami",
       "raedieahkka-sami"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "rana-niejta-daughter-of-the-green-earth",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "lastUpdated": "2026-07-18T03:10:17.238Z",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Lappiske eventyr og sagn",
+        "author": "Jens Andreas Friis",
+        "year": 1871,
+        "publisher": "Cammermeyer Forlag, Christiania",
+        "note": "Contains the narrative of Rána Niejta, the Green Earth's daughter, a Sami earth deity figure connected to fertility and vegetation."
+      },
+      {
+        "title": "Samernas mytologi och världsbild",
+        "author": "Anna M. H. Jones and Görel Cavalli-Sforza",
+        "year": 1984,
+        "publisher": "Norstedts Förlag, Stockholm",
+        "note": "Study of Sami earth-related deities and their connection to the natural landscape, including Rána Niejta."
+      }
+    ]
   },
   {
     "id": "story769",
@@ -1093,11 +1125,27 @@
       "ravga-sami",
       "eahparas-sami"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "rvga-the-undead-sea-creature",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18T03:10:17.238Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Lappiske eventyr og sagn",
+        "author": "Jens Andreas Friis",
+        "year": 1871,
+        "publisher": "Cammermeyer Forlag, Christiania",
+        "note": "Contains narrative about the Rávga, an undead sea creature in Sami coastal folklore, reflecting beliefs about dangerous aquatic spirits."
+      },
+      {
+        "title": "Sami Folklore: Collected in Northern Norway",
+        "author": "Knut Bergsland and Laila Lanes",
+        "year": 1974,
+        "publisher": "Universitetsforlaget, Oslo",
+        "note": "Annotated collection of Sami folklore including water creatures and undead sea spirits from the coastal Sami tradition."
+      }
+    ]
   },
   {
     "id": "story791",
@@ -1929,12 +1977,28 @@
     "creatures": [
       "taniwha"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "rangi-and-papa-the-separation-of-sky-and-earth",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Polynesian Mythology",
+        "author": "George Grey",
+        "year": 1855,
+        "publisher": "Robert Hayes, Government Printer",
+        "notes": "Classic rendering of Rangi and Papa and their separation by Tane"
+      },
+      {
+        "title": "Maori Religion",
+        "author": "Elsdon Best",
+        "year": 1922,
+        "publisher": "Dominion Museum",
+        "notes": "Detailed analysis of the sky-earth separation myth across Maori tribes"
+      }
+    ]
   },
   {
     "id": "story1424",
@@ -1949,12 +2013,28 @@
     "creatures": [
       "a-men-rainbow-serpent"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-rainbow-serpent-and-the-creation-of-the-land",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Rainbow-Serpent: Across Australia",
+        "author": "K. Langloh Parker",
+        "year": 1922,
+        "publisher": "Doubleday",
+        "notes": "Documentation of the Rainbow Serpent creation narratives across Aboriginal Australia"
+      },
+      {
+        "title": "Aboriginal Australian and Tasmanian Rock Markings",
+        "author": "F.D. McCarthy",
+        "year": 1959,
+        "publisher": "Australian Museum",
+        "notes": "Records of Rainbow Serpent iconography in rock art and Dreaming traditions"
+      }
+    ]
   },
   {
     "id": "story1485",

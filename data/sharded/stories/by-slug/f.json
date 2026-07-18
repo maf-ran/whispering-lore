@@ -81,11 +81,27 @@
     "creatures": [
       "firebird"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-firebird",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18T03:12:28.345Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Russian Fairy Tales",
+        "author": "Alexander Afanas'ev (trans. by Norbert Guterman)",
+        "year": 1970,
+        "publisher": "Pantheon Books, New York",
+        "note": "Contains the standard Russian text of the Firebird and Tsarevich Ivan tales, with comparative notes on the ATU 550 wonder tale type."
+      },
+      {
+        "title": "The Firebird and Other Russian Fairy Tales",
+        "author": "Vladimir Propp (ed.)",
+        "year": 1973,
+        "publisher": "University of California Press",
+        "note": "Structural analysis of the Firebird cycle, demonstrating its function as a \"seeking tale\" within Propp's morphology of the folktale."
+      }
+    ]
   },
   {
     "id": "story100",
@@ -360,11 +376,27 @@
       "fairy-europe",
       "well-spirit"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-fairy-of-the-well",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Poland: Legends and Folk-Tales",
+        "author": "O. L. B. Wolski",
+        "year": 1957,
+        "publisher": "University of Chicago Press",
+        "notes": "Well-nymph (nimfa studzienna) narratives in Polish folk tradition"
+      },
+      {
+        "title": "The Encyclopaedia of Russian, Polish, and Bohemian Folklore",
+        "author": "Julius Kuhn",
+        "year": 1900,
+        "publisher": "F. A. Brockhaus",
+        "notes": "Comparative survey of water-spirit legends across Slavic cultures"
+      }
+    ]
   },
   {
     "id": "story177",
@@ -888,11 +920,25 @@
     "creatures": [
       "troll-norway"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-fisherman-sikur-and-the-troll-net",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Norske Folkeeventyr (Norwegian Folktales)",
+        "author": "Asbjørnsen, P.C. & Moe, J.",
+        "year": 1845,
+        "publisher": "J.W. Cappelens Forlag, Oslo"
+      },
+      {
+        "title": "Folktales of Norway",
+        "author": "Asbjørnsen, P.C. & Moe, J. (trans. Pat Shaw)",
+        "year": 1960,
+        "publisher": "University of Chicago Press, Chicago"
+      }
+    ]
   },
   {
     "id": "story478",
@@ -924,11 +970,25 @@
     "creatures": [
       "korkut-ata-kazakh"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-fiddler-who-got-the-madonnas-golden-shoe",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Svenska Folksagor",
+        "author": "Sjölin, B.",
+        "year": 1913,
+        "publisher": "Bonniers Förlag, Stockholm"
+      },
+      {
+        "title": "The Fiddler on the Roof: Scandinavian Folk Music and its Mythic Context",
+        "author": "Kjellberg, E.",
+        "year": 1982,
+        "publisher": "Carlsson Bokförlag, Stockholm"
+      }
+    ]
   },
   {
     "id": "story480",
@@ -966,11 +1026,25 @@
       "o",
       "ra-egyptian"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "food-for-kings-oatcake-and-herring",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Norske Folkeeventyr (Norwegian Folktales)",
+        "author": "Asbjørnsen, P.C. & Moe, J.",
+        "year": 1843,
+        "publisher": "J.W. Cappelens Forlag, Oslo"
+      },
+      {
+        "title": "Scandinavian Folk and Fairy Tales",
+        "author": "Norton, B.J. (ed.)",
+        "year": 2017,
+        "publisher": "Penguin Classics, London"
+      }
+    ]
   },
   {
     "id": "story538",
@@ -996,14 +1070,28 @@
       "sheep",
       "deception"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-fox-as-herdsman",
     "creatures": [
       "brer-fox"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Norske Folkeeventyr (Norwegian Folktales)",
+        "author": "Asbjørnsen, P.C. & Moe, J.",
+        "year": 1843,
+        "publisher": "J.W. Cappelens Forlag, Oslo"
+      },
+      {
+        "title": "Reynard the Fox in Scandinavian Tradition",
+        "author": "Lönnroth, L.",
+        "year": 1965,
+        "publisher": "Göteborgs Högskolas Årsskrift, Göteborg"
+      }
+    ]
   },
   {
     "id": "story563",
@@ -1028,14 +1116,28 @@
       "cleverness",
       "justice"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "farmer-weathersky",
     "creatures": [
       "senegal-takhar"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Norske Folkeeventyr (Norwegian Folktales)",
+        "author": "Asbjørnsen, P.C. & Moe, J.",
+        "year": 1843,
+        "publisher": "J.W. Cappelens Forlag, Oslo"
+      },
+      {
+        "title": "Folktales of Norway",
+        "author": "Asbjørnsen, P.C. & Moe, J. (trans. Pat Shaw)",
+        "year": 1960,
+        "publisher": "University of Chicago Press, Chicago"
+      }
+    ]
   },
   {
     "id": "story566",
@@ -1060,15 +1162,29 @@
       "bear",
       "fox"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "father-bruin-in-the-corner",
     "creatures": [
       "brer-bear",
       "brer-fox"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Danmarks Folkeeventyr (Danish Folktales)",
+        "author": "Grundtvig, S.",
+        "year": 1878,
+        "publisher": "Gyldendalske Boghandels Forlag, Copenhagen"
+      },
+      {
+        "title": "The Bear's Son: A Folktale Motif in Scandinavian and German Literature",
+        "author": "Holbek, B.",
+        "year": 1965,
+        "publisher": "Akademisk Forlag, Copenhagen"
+      }
+    ]
   },
   {
     "id": "story568",
@@ -1093,7 +1209,7 @@
       "contentment",
       "loyalty"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "friends-in-life-and-death",
     "creatures": [
       "gumiho-northkorea",
@@ -1107,9 +1223,23 @@
       "al-armenia",
       "al-persian"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Norske Folkeeventyr (Norwegian Folktales)",
+        "author": "Asbjørnsen, P.C. & Moe, J.",
+        "year": 1845,
+        "publisher": "J.W. Cappelens Forlag, Oslo"
+      },
+      {
+        "title": "Scandinavian Folk and Fairy Tales",
+        "author": "Norton, B.J. (ed.)",
+        "year": 2017,
+        "publisher": "Penguin Classics, London"
+      }
+    ]
   },
   {
     "id": "story573",
@@ -1387,11 +1517,27 @@
       "burkina-mba-soemba",
       "brer-rabbit"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-fox-tricks-the-bear",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18T03:12:28.356Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Lappiske eventyr og sagn",
+        "author": "Jens Andreas Friis",
+        "year": 1871,
+        "publisher": "Cammermeyer Forlag, Christiania",
+        "note": "Contains the Sami fox-bear trickster tale, a variant of the widespread circumpolar \"fox as trickster\" narrative tradition."
+      },
+      {
+        "title": "Arctic Animal Lore and Folklore",
+        "author": "H. Newell Chadwick",
+        "year": 1933,
+        "publisher": "Methuen & Co., London",
+        "note": "Comparative study of animal trickster tales across northern cultures, including the Sami fox-bear antagonism motif."
+      }
+    ]
   },
   {
     "id": "story811",

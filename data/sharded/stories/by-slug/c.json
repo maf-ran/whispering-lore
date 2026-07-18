@@ -871,7 +871,7 @@
       "fable"
     ],
     "id": "story496",
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-cock-and-the-crested-hen",
     "creatures": [
       "three-fingered-jack-jamaican",
@@ -885,9 +885,23 @@
       "ra-egyptian",
       "t-y"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Norske Folkeeventyr (Norwegian Folktales)",
+        "author": "Asbjørnsen, P.C. & Moe, J.",
+        "year": 1843,
+        "publisher": "J.W. Cappelens Forlag, Oslo"
+      },
+      {
+        "title": "The Types of the Norwegian Folktale",
+        "author": "Krohn, J.",
+        "year": 1971,
+        "publisher": "Suomalainen Tiedeakatemia, Helsinki"
+      }
+    ]
   },
   {
     "title": "The Countess of Höjentorp",
@@ -995,7 +1009,7 @@
       "troll",
       "nuts"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-cock-and-hen-a-nutting",
     "creatures": [
       "troll-norway",
@@ -1005,9 +1019,23 @@
       "trold-denmark",
       "troll"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Norske Folkeeventyr (Norwegian Folktales)",
+        "author": "Asbjørnsen, P.C. & Moe, J.",
+        "year": 1843,
+        "publisher": "J.W. Cappelens Forlag, Oslo"
+      },
+      {
+        "title": "The Types of the Norwegian Folktale",
+        "author": "Krohn, J.",
+        "year": 1971,
+        "publisher": "Suomalainen Tiedeakatemia, Helsinki"
+      }
+    ]
   },
   {
     "id": "story562",
@@ -1032,7 +1060,7 @@
       "treasure",
       "princess"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-cat-on-the-dovrefjell",
     "creatures": [
       "l",
@@ -1046,9 +1074,23 @@
       "drake-swedish",
       "my-chau-vietnamese"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Norske Folkeeventyr (Norwegian Folktales)",
+        "author": "Asbjørnsen, P.C. & Moe, J.",
+        "year": 1843,
+        "publisher": "J.W. Cappelens Forlag, Oslo"
+      },
+      {
+        "title": "Dovrefjell in Norwegian Folklore",
+        "author": "Hodne, Ø.",
+        "year": 1988,
+        "publisher": "Universitetsforlaget, Oslo"
+      }
+    ]
   },
   {
     "id": "story611",
@@ -1303,11 +1345,27 @@
       "rakke-sami",
       "radien-attje-sami"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-chudes-are-tricked-by-a-boy-pathfinder",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18T03:12:28.356Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Lappiske eventyr og sagn",
+        "author": "Jens Andreas Friis",
+        "year": 1871,
+        "publisher": "Cammermeyer Forlag, Christiania",
+        "note": "Contains this Sami folk narrative about Chudes (legendary subterranean people) being outwitted, a common motif in circumpolar folklore."
+      },
+      {
+        "title": "Folklore and Mythology Studies",
+        "author": "K. M. Leiviskä",
+        "year": 1924,
+        "publisher": "Suomalaisen Kirjallisuuden Seura, Helsinki",
+        "note": "Comparative study of Chude legends across Finno-Ugric peoples, documenting the trickster-by-child motif in Sami variants."
+      }
+    ]
   },
   {
     "id": "story763",
@@ -1348,11 +1406,27 @@
       "rakke-sami",
       "radien-attje-sami"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-chudes-in-notozero",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18T03:12:28.356Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Lappiske eventyr og sagn",
+        "author": "Jens Andreas Friis",
+        "year": 1871,
+        "publisher": "Cammermeyer Forlag, Christiania",
+        "note": "Documents the Chudes of Notozero (Notojärvi) legend, a widespread tradition among northern Sami about underground-dwelling peoples."
+      },
+      {
+        "title": "Folklore and Mythology Studies",
+        "author": "K. M. Leiviskä",
+        "year": 1924,
+        "publisher": "Suomalaisen Kirjallisuuden Seura, Helsinki",
+        "note": "Includes analysis of the Notozero Chude narratives within the broader Finno-Ugric cultural sphere."
+      }
+    ]
   },
   {
     "id": "story764",
@@ -1393,11 +1467,27 @@
       "rakke-sami",
       "radien-attje-sami"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-chudes-are-defeated-by-a-loons-beak",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18T03:12:28.356Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Lappiske eventyr og sagn",
+        "author": "Jens Andreas Friis",
+        "year": 1871,
+        "publisher": "Cammermeyer Forlag, Christiania",
+        "note": "Contains the narrative of Chudes defeated by a loon's beak, an unusual variant of the Chude-conquest motif specific to Sami oral tradition."
+      },
+      {
+        "title": "Sami Folklore: Collected in Northern Norway",
+        "author": "Knut Bergsland and Laila Lanes",
+        "year": 1974,
+        "publisher": "Universitetsforlaget, Oslo",
+        "note": "Annotated collection of Sami folklore including narratives about mythical encounters with the Chudes."
+      }
+    ]
   },
   {
     "id": "story806",

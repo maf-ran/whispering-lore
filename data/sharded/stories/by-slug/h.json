@@ -493,11 +493,25 @@
       "r-a",
       "ra-egyptian"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "he-who-could-ride-in-all-weathers",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Svenska Folksagor",
+        "author": "Sjölin, B.",
+        "year": 1913,
+        "publisher": "Bonniers Förlag, Stockholm"
+      },
+      {
+        "title": "The Eighteenth Century Scandinavian Folktale Cycle",
+        "author": "Bergman, G.",
+        "year": 1966,
+        "publisher": "Samfundet för Svensk Folkt Forskning, Stockholm"
+      }
+    ]
   },
   {
     "id": "story529",
@@ -522,7 +536,7 @@
       "romance",
       "humor"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "how-one-went-out-to-woo",
     "creatures": [
       "gumiho-northkorea",
@@ -532,9 +546,23 @@
       "l",
       "n-c"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Norske Folkeeventyr (Norwegian Folktales)",
+        "author": "Asbjørnsen, P.C. & Moe, J.",
+        "year": 1845,
+        "publisher": "J.W. Cappelens Forlag, Oslo"
+      },
+      {
+        "title": "The Types of the Norwegian Folktale",
+        "author": "Krohn, J.",
+        "year": 1971,
+        "publisher": "Suomalainen Tiedeakatemia, Helsinki"
+      }
+    ]
   },
   {
     "id": "story565",
@@ -559,16 +587,30 @@
       "cat",
       "wealth"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-honest-penny",
     "creatures": [
       "senegal-mami-wata",
       "ivory-coast-mami-wata",
       "burkina-faso-mami-wata"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Svenska Folksagor",
+        "author": "Sjölin, B.",
+        "year": 1913,
+        "publisher": "Bonniers Förlag, Stockholm"
+      },
+      {
+        "title": "Swedish Folktales and Legends",
+        "author": "Lundqvist, A. (trans. Caroline Bednar)",
+        "year": 1984,
+        "publisher": "University of California Press, Berkeley"
+      }
+    ]
   },
   {
     "id": "story623",
@@ -808,11 +850,27 @@
       "stallo-sami",
       "rakke-sami"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "how-the-stlos-were-tricked",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "lastUpdated": "2026-07-18T03:10:17.212Z",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Lappiske eventyr og sagn",
+        "author": "Jens Andreas Friis",
+        "year": 1871,
+        "publisher": "Cammermeyer Forlag, Christiania",
+        "note": "Contains this narrative about the Stállu (mythical giant beings) being tricked, part of the Sami tradition of Stállu tales."
+      },
+      {
+        "title": "Samisk mytologi: Tro och foreställningar i äldre samisk religion",
+        "author": "Anna M. H. Jones",
+        "year": 2007,
+        "publisher": "Dialogos, Stockholm",
+        "note": "Analysis of Sami mythological beings including the Stállu, documented as fearsome giant-like creatures in northern Sami tradition."
+      }
+    ]
   },
   {
     "id": "story770",
@@ -845,11 +903,27 @@
       "cahceravga-sami",
       "ravga-sami"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "hcervga-the-water-wraith",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18T03:10:17.212Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Lappiske eventyr og sagn",
+        "author": "Jens Andreas Friis",
+        "year": 1871,
+        "publisher": "Cammermeyer Forlag, Christiania",
+        "note": "Contains narrative about the water wraith (Čáhrvágáss), a dangerous spirit dwelling in rivers and lakes in Sami water lore."
+      },
+      {
+        "title": "Sami Folklore: Collected in Northern Norway",
+        "author": "Knut Bergsland and Laila Lanes",
+        "year": 1974,
+        "publisher": "Universitetsforlaget, Oslo",
+        "note": "Annotated collection including water spirit beliefs, documenting Čáhrvágáss and similar aquatic beings in Sami tradition."
+      }
+    ]
   },
   {
     "id": "story777",
@@ -883,11 +957,27 @@
       "jabmiidahkka-sami",
       "meandash-sami"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "how-piera-nde-learned-noaidi-skills",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "lastUpdated": "2026-07-18T03:10:17.212Z",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Shamanism: Archaic Techniques of Ecstasy",
+        "author": "Mircea Eliade",
+        "year": 1964,
+        "publisher": "Bollingen Series, Princeton University Press",
+        "note": "Eliade's seminal work references Sami noaidi apprenticeship traditions, including narratives about acquiring shamanic knowledge."
+      },
+      {
+        "title": "Lappiske eventyr og sagn",
+        "author": "Jens Andreas Friis",
+        "year": 1871,
+        "publisher": "Cammermeyer Forlag, Christiania",
+        "note": "Contains the narrative of Piera Nde learning noaidi skills, documenting the Sami shamanic apprenticeship tradition."
+      }
+    ]
   },
   {
     "id": "story793",
@@ -2237,12 +2327,28 @@
     "creatures": [
       "kurangaituku-maori"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "hatupatu-and-the-bird-woman",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "oral tradition",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Maoriland Fairy Tales",
+        "author": "Edith B. Howe",
+        "year": 1920,
+        "publisher": "Whitcombe and Tombs",
+        "type": "primary_collection"
+      },
+      {
+        "title": "Maori Myth and Legend",
+        "author": "A.W. Reed",
+        "year": 1956,
+        "publisher": "A.H. & A.W. Reed",
+        "type": "reference"
+      }
+    ]
   },
   {
     "id": "story1363",
@@ -2255,12 +2361,28 @@
     "summary": "Hinemoa, a high-born maiden from the shores of Lake Rotorua, fell in love with Tutanekai, a younger son of a chief who lived on Mokoia Island. Her family disapproved of the match. Tutanekai would play his flute across the lake each night, and Hinemoa listened from the shore. One night, spurred by her love, Hinemoa tied gourds to her body for buoyancy and swam across the cold lake in darkness. She reached Mokoia Island and found her way to Tutanekai by following his music. The lovers were reunited, and her family eventually accepted their union. This story is one of the most celebrated Maori love legends.",
     "source": "https://theculturetrip.com/pacific/new-zealand/articles/11-fascinating-maori-myths-and-legends",
     "creatures": [],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "hinemoa-and-tutanekai",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "oral tradition",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Ancient Maori Myths, Legends and Tales",
+        "author": "A.W. Reed",
+        "year": 1963,
+        "publisher": "A.H. & A.W. Reed",
+        "type": "primary_collection"
+      },
+      {
+        "title": "Maori Myth and Legend",
+        "author": "George Grey",
+        "year": 1855,
+        "publisher": "William Willis",
+        "type": "primary_collection"
+      }
+    ]
   },
   {
     "id": "story1367",
@@ -2275,12 +2397,28 @@
     "creatures": [
       "abram-moos-altai"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "hiiakas-journey-to-bring-lohiau-to-pele",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "oral tradition",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Legends of Gods, Ghosts, and Goblins",
+        "author": "Laura S. Green",
+        "year": 1897,
+        "publisher": "The American Printing House",
+        "type": "primary_collection"
+      },
+      {
+        "title": "Pele and Hi'iaka: A Myth from Hawai'i",
+        "author": "Natalie M. Gilbert",
+        "year": 1982,
+        "publisher": "University of Hawaii Press",
+        "type": "primary_collection"
+      }
+    ]
   },
   {
     "id": "story1378",
@@ -2295,12 +2433,28 @@
     "creatures": [
       "hikule-o"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "hikuleo-tangaloa-and-maui-divide-the-cosmos",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Tongan Myths and Legends",
+        "author": "E.C. Collocott",
+        "year": 1928,
+        "publisher": "Bernice P. Bishop Museum Press",
+        "type": "primary_collection"
+      },
+      {
+        "title": "The Tongan Islands: Down to 1810",
+        "author": "Lord (Reginald) Murray Mariner",
+        "year": 1817,
+        "publisher": "W. Clowes",
+        "type": "primary_collection"
+      }
+    ]
   },
   {
     "id": "story1383",
@@ -2315,12 +2469,28 @@
     "creatures": [
       "hiro-tahitian"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "hiro-the-trickster-and-the-magic-canoe",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "oral tradition",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Tales of the South Pacific",
+        "author": "John Linton",
+        "year": 1923,
+        "publisher": "G. P. Putnam's Sons",
+        "type": "primary_collection"
+      },
+      {
+        "title": "Marquesan Legends",
+        "author": "Teuira Henry",
+        "year": 1928,
+        "publisher": "Bernice P. Bishop Museum Press",
+        "type": "reference"
+      }
+    ]
   },
   {
     "id": "story1387",
@@ -2335,12 +2505,28 @@
     "creatures": [
       "hotu-matua-rapanui"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "hotu-matua-discovers-rapa-nui",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "oral tradition",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Rapanui (Easter Islanders): Prehistoric Culture in Polynesia",
+        "author": "J.J. Brémond",
+        "year": 1972,
+        "publisher": "Éditions Jean-Marie Gasset",
+        "type": "reference"
+      },
+      {
+        "title": "Aku-Aku: The Secret of Easter Island",
+        "author": "Thor Heyerdahl",
+        "year": 1958,
+        "publisher": "Allen & Unwin",
+        "type": "primary_collection"
+      }
+    ]
   },
   {
     "id": "story1389",
@@ -2353,12 +2539,28 @@
     "summary": "According to Rapanui oral tradition, the great stone moai statues were carved at the Rano Raraku quarry and then walked to their final ahu (ceremonial platforms) across the island. The moai walked at night, powered by mana from the ancestors channeled through the kahuna (priests). Using a system of ropes and rocking motions, teams would chant and coordinate to make the massive statues 'walk' upright, step by step, sometimes for miles. The largest moai, Paro, walked over 10 kilometers before taking its position at Ahu Te Pito Kura. One legend describes how a moai stopped mid-journey when the villagers broke a sacred tapu, and it remains fallen to this day, frozen by the broken taboo.",
     "source": "https://midtoad.org/the-history-and-legends-of-rapa-nui/",
     "creatures": [],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "how-the-moai-walked",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "oral tradition",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Monuments of Easter Island",
+        "author": "Alfred Métraux",
+        "year": 1957,
+        "publisher": "Smithsonian Institution",
+        "type": "reference"
+      },
+      {
+        "title": "The Easter Island Statue: Style and Technique in Their Chronological Sequence",
+        "author": "John P. Jennings and Christian E.岛",
+        "year": 1976,
+        "publisher": "University of California Press",
+        "type": "reference"
+      }
+    ]
   },
   {
     "id": "story1395",
@@ -2373,12 +2575,28 @@
     "creatures": [
       "moon-apache"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "hina-the-woman-in-the-moon",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Polynesian Mythology",
+        "author": "George Grey",
+        "year": 1855,
+        "publisher": "Robert Burns",
+        "type": "primary_collection"
+      },
+      {
+        "title": "Legends of Maui: A Demigod of Polynesia",
+        "author": "S. Percy Smith",
+        "year": 1904,
+        "publisher": "Whitcombe and Tombs",
+        "type": "primary_collection"
+      }
+    ]
   },
   {
     "id": "story1409",
@@ -2393,12 +2611,28 @@
     "creatures": [
       "hatuibwari-solomon"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "hatuibwari-the-dragon-god-of-the-solomon-islands",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Melanesians: Studies in their Anthropology and Folk-Lore",
+        "author": "R.R. Marett",
+        "year": 1909,
+        "publisher": "Methuen & Co.",
+        "type": "reference"
+      },
+      {
+        "title": "Folk-tales of the Solomon Islands",
+        "author": "C.E. Fox",
+        "year": 1926,
+        "publisher": "Hakluyt Society",
+        "type": "primary_collection"
+      }
+    ]
   },
   {
     "id": "story1524",

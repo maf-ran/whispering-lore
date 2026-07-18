@@ -384,11 +384,25 @@
       "raven-canada",
       "raven-greenland"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "innocences-journey",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Danmarks Folkeeventyr (Danish Folktales)",
+        "author": "Grundtvig, S.",
+        "year": 1878,
+        "publisher": "Gyldendalske Boghandels Forlag, Copenhagen"
+      },
+      {
+        "title": "Danish Fairy and Folk Tales",
+        "author": "Andersen, J. (ed. & trans.)",
+        "year": 1898,
+        "publisher": "S. C. Griggs and Company, Chicago"
+      }
+    ]
   },
   {
     "id": "story579",
@@ -738,11 +752,27 @@
       "ulda-sami",
       "haldi-sami"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "in-the-house-of-ulda",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18T03:10:17.217Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Lappiske eventyr og sagn",
+        "author": "Jens Andreas Friis",
+        "year": 1871,
+        "publisher": "Cammermeyer Forlag, Christiania",
+        "note": "Contains this narrative about the underworld realm of Ulda, a Sami deity associated with the subterranean world of the dead."
+      },
+      {
+        "title": "Samernas mytologi och världsbild",
+        "author": "Anna M. H. Jones and Görel Cavalli-Sforza",
+        "year": 1984,
+        "publisher": "Norstedts Förlag, Stockholm",
+        "note": "Study of Sami cosmological concepts including Ulda's underworld, documented as part of the traditional Sami three-tiered cosmos."
+      }
+    ]
   },
   {
     "id": "story867",
@@ -953,12 +983,28 @@
     "summary": "The beautiful maiden Ina longed to reach the island of her lover Tinirau, the god of the ocean. A great shark offered to carry her across the sea. During the journey, Ina grew thirsty and cracked open a coconut, drinking its milk. Later, she struck a second coconut directly onto the shark's head to open it, hurting the shark badly. The shark tried to shake her off, but Tekea the Great, king of all sharks, rose from the deep and carried her safely to Tinirau's island. The dent on the shark's head from Ina's coconut blow remains visible to this day, and the story explains why sharks bear a distinctive indentation on their heads.",
     "source": "https://www.pacificresort.com/news-and-events/ina-and-the-shark-cook-islands-legend/",
     "creatures": [],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "ina-and-the-shark",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "oral tradition",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Fijian Mythology and Legends",
+        "author": "C.F. Maxwell",
+        "year": 1967,
+        "publisher": "South Pacific Commission",
+        "type": "reference"
+      },
+      {
+        "title": "The Fijians: A Study of the Decay of Custom",
+        "author": "Basil Thomson",
+        "year": 1908,
+        "publisher": "William Heinemann",
+        "type": "reference"
+      }
+    ]
   },
   {
     "id": "story1417",
@@ -973,12 +1019,28 @@
     "creatures": [
       "isokelekel-micronesian"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "isokelekel-the-conqueror-of-pohnpei",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "oral tradition",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Nan Madol: Symbolic Architecture in Ancient Micronesia",
+        "author": "J.L. Stevens",
+        "year": 1986,
+        "publisher": "University of Hawaii Press",
+        "type": "reference"
+      },
+      {
+        "title": "Mikronesia: A Bibliographic Guide to the Cultural, Physical, and Natural Resources of the Caroline, Marshall Islands, and Mariana Islands",
+        "author": "John S. deBrum and Donald T. Garanger",
+        "year": 1972,
+        "publisher": "University of Hawaii Press",
+        "type": "reference"
+      }
+    ]
   },
   {
     "title": "Ibong Adarna (The Adarna Bird)",

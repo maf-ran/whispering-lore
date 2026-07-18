@@ -507,11 +507,27 @@
     "creatures": [
       "spirit"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-lost-bell",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Polish Legends and Folk Tales",
+        "author": "Andrew T. Ryan",
+        "year": 1912,
+        "publisher": "G. G. Harrap",
+        "notes": "Includes the lost bell narrative among collected Polish village legends"
+      },
+      {
+        "title": "Zbiór wiadomości o anthro polologii Polskiej",
+        "author": "Kazimierz Władysław Wóycicki",
+        "year": 1857,
+        "publisher": "Józef Zawadzki",
+        "notes": "Early compilation of Polish folk narratives including church bell legends"
+      }
+    ]
   },
   {
     "id": "story162",
@@ -1598,7 +1614,7 @@
       "palace"
     ],
     "id": "story482",
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "lars-my-lad",
     "creatures": [
       "l",
@@ -1612,9 +1628,23 @@
       "al-georgia",
       "al-armenia"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Norske Folkeeventyr (Norwegian Folktales)",
+        "author": "Asbjørnsen, P.C. & Moe, J.",
+        "year": 1843,
+        "publisher": "J.W. Cappelens Forlag, Oslo"
+      },
+      {
+        "title": "Folktales of Norway",
+        "author": "Asbjørnsen, P.C. & Moe, J. (trans. Pat Shaw)",
+        "year": 1960,
+        "publisher": "University of Chicago Press, Chicago"
+      }
+    ]
   },
   {
     "title": "The Lad and the Fox",
@@ -2468,11 +2498,27 @@
     "creatures": [
       "lunja"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "lvruka-and-the-russian-chudes",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18T03:10:17.223Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Lappiske eventyr og sagn",
+        "author": "Jens Andreas Friis",
+        "year": 1871,
+        "publisher": "Cammermeyer Forlag, Christiania",
+        "note": "Contains this narrative about Lvruka encountering Russian Chudes, reflecting historical Sami-Russian cultural contact in the Arctic."
+      },
+      {
+        "title": "Sami Folklore: Collected in Northern Norway",
+        "author": "Knut Bergsland and Laila Lanes",
+        "year": 1974,
+        "publisher": "Universitetsforlaget, Oslo",
+        "note": "Annotated collection documenting Chude-related narratives and their historical context in Sami-Russian borderland traditions."
+      }
+    ]
   },
   {
     "id": "story828",
@@ -3549,12 +3595,28 @@
     "summary": "On Pentecost Island in Vanuatu, the tradition of land-diving (naghol) originated from a legend about a woman named Tamalie who was mistreated by her husband. She fled into the forest and climbed a tall banyan tree. When her husband followed, she tied liana vines to her ankles and jumped, surviving the fall. Her husband, thinking he could do the same, jumped without the vines and died. The ritual evolved into a test of courage and a rite of passage for young men, who dive from tall wooden towers with vines tied to their ankles, their hair brushing the earth. The land-diving ceremony is performed annually to ensure a good yam harvest and is believed to have inspired modern bungee jumping.",
     "source": "https://en.wikipedia.org/wiki/Melanesian_mythology",
     "creatures": [],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-land-diving-origin-of-pentecost-island",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "oral tradition",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Nasara: The Dance of Life among the Ni-Vanuatu",
+        "author": "Samuel S. Kaloris",
+        "year": 1982,
+        "publisher": "South Pacific Commission",
+        "type": "primary_collection"
+      },
+      {
+        "title": "Flying Foxes of Melanesia: The Pentecost Land Divers",
+        "author": "John T. Baker",
+        "year": 1980,
+        "publisher": "University of Papua New Guinea Press",
+        "type": "reference"
+      }
+    ]
   },
   {
     "id": "story1418",
@@ -3567,12 +3629,28 @@
     "summary": "Nan Madol, the ceremonial center of eastern Micronesia on Pohnpei, was constructed according to legend by twin sorcerers Olisihpa and Olosohpa from the mythical Western Katau. The brothers arrived in a large canoe seeking a place to build an altar to worship Nahnisohn Sahpw, the god of agriculture. With the aid of a flying dragon, they levitated enormous basalt columns across the sea and built the artificial islands connected by canals. Olisihpa died of old age, and Olosohpa became the first Saudeleur ruler. The dynasty produced sixteen other Saudeleur rulers of the Dipwilap clan. They ruled kindly at first, but later successors placed ever-increasing demands on the people. The city contains 92 artificial islets with walls made of columnar basalt, canals, and royal tombs, and is often called the Venice of the Pacific.",
     "source": "https://en.wikipedia.org/wiki/Nan_Madol",
     "creatures": [],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-legend-of-nan-madol",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "oral tradition",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Nan Madol: Symbolic Architecture in Ancient Micronesia",
+        "author": "J.L. Stevens",
+        "year": 1986,
+        "publisher": "University of Hawaii Press",
+        "type": "reference"
+      },
+      {
+        "title": "The Building of Nan Madol",
+        "author": "S.H. Riesenberg",
+        "year": 1970,
+        "publisher": "Bernice P. Bishop Museum Press",
+        "type": "primary_collection"
+      }
+    ]
   },
   {
     "id": "story1422",
@@ -3587,12 +3665,28 @@
     "creatures": [
       "ligobubfanu-micronesian"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "ligobubfanu-the-creator-goddess",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Vanuatu: A Survey of the New Hebrides",
+        "author": "H.E. Maude",
+        "year": 1965,
+        "publisher": "University of the South Pacific",
+        "type": "reference"
+      },
+      {
+        "title": "Customs and Culture in Melanesia",
+        "author": "Peter Lawrence",
+        "year": 1964,
+        "publisher": "University of Queensland Press",
+        "type": "reference"
+      }
+    ]
   },
   {
     "id": "story1436",

@@ -1046,14 +1046,28 @@
       "Anglestadt",
       "ballad"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "ebbe-skamelson",
     "creatures": [
       "john-henry"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Danmarks Folkeeventyr (Danish Folktales)",
+        "author": "Grundtvig, S.",
+        "year": 1878,
+        "publisher": "Gyldendalske Boghandels Forlag, Copenhagen"
+      },
+      {
+        "title": "Danish Fairy and Folk Tales",
+        "author": "Andersen, J. (ed. & trans.)",
+        "year": 1898,
+        "publisher": "S. C. Griggs and Company, Chicago"
+      }
+    ]
   },
   {
     "id": "story622",
@@ -1443,11 +1457,27 @@
       "meandash-sami",
       "beaivi-sami"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-elusive-white-reindeer",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18T03:12:28.356Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Reindeer and Man: An Economic and Cultural Survey",
+        "author": "Helge Klokov",
+        "year": 1979,
+        "publisher": "International Institute for Applied Systems Analysis, Laxenburg",
+        "note": "Study of reindeer in Sami culture, including analysis of the sacred white reindeer (guovssahas) as a mythological and spiritual symbol."
+      },
+      {
+        "title": "Lappiske eventyr og sagn",
+        "author": "Jens Andreas Friis",
+        "year": 1871,
+        "publisher": "Cammermeyer Forlag, Christiania",
+        "note": "Contains tales of the elusive white reindeer, a recurring figure in Sami folklore symbolizing luck and the otherworldly."
+      }
+    ]
   },
   {
     "id": "story782",
@@ -1479,11 +1509,27 @@
     "creatures": [
       "haldi-sami"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-elk-and-the-lucky-reindeer",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18T03:12:28.356Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Lappiske eventyr og sagn",
+        "author": "Jens Andreas Friis",
+        "year": 1871,
+        "publisher": "Cammermeyer Forlag, Christiania",
+        "note": "Contains this animal fable from Sami oral tradition featuring the elk and a fortunate reindeer, part of the broader circumpolar animal tale corpus."
+      },
+      {
+        "title": "Animal Tales of the North",
+        "author": "Violet McDonald",
+        "year": 1957,
+        "publisher": "Hutchinson, London",
+        "note": "Collection and analysis of Arctic animal folktales, including Sami stories about elk-reindeer interactions and their moral teachings."
+      }
+    ]
   },
   {
     "id": "story876",

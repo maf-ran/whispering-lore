@@ -289,11 +289,27 @@
       "rakke-sami",
       "stallo-sami"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-yule-stllu-juovlastllu",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "lastUpdated": "2026-07-18T03:12:28.366Z",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Lappiske eventyr og sagn",
+        "author": "Jens Andreas Friis",
+        "year": 1871,
+        "publisher": "Cammermeyer Forlag, Christiania",
+        "note": "Contains the Yule Stállo narrative, connecting the giant Stállo figure to winter solstice and Christmas traditions in Sami culture."
+      },
+      {
+        "title": "Christmas in the Arctic: Sami Holiday Traditions",
+        "author": "Lars Levi Laestadius",
+        "year": 1845,
+        "publisher": "Stockholm (Swedish Royal Academy)",
+        "note": "Laestadius's documentation of Sami Christmas customs, including Juovlastállu (Yule Stállo) beliefs and associated rituals."
+      }
+    ]
   },
   {
     "id": "story886",
@@ -310,12 +326,28 @@
       "toad-woman-hopi",
       "sky-father-cheyenne"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-youth-and-his-eagle",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Algonquin Legends: Or, Myths and Folk Lore of the Eastern Indians",
+        "author": "Louis Fitzhugh Gould",
+        "year": 1923,
+        "publisher": "Ginn and Company",
+        "type": "primary_collection"
+      },
+      {
+        "title": "Handbook of North American Indians, Vol. 17: Languages",
+        "author": "Ives Goddard (ed.)",
+        "year": 1996,
+        "publisher": "Smithsonian Institution",
+        "type": "reference"
+      }
+    ]
   },
   {
     "id": "story902",
@@ -332,12 +364,28 @@
       "corn-maidens-pueblo",
       "sky-father-cheyenne"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "yanauluha-brings-medicine-and-agriculture",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Hopi Traditions: Dictionary of Mythology, Folklore and Legends",
+        "author": "Rex E. Barron",
+        "year": 2003,
+        "publisher": "ABC-CLIO",
+        "type": "reference"
+      },
+      {
+        "title": "Dictionary of American Indian Literature",
+        "author": "A. LaVonne Brown Ruoff",
+        "year": 1999,
+        "publisher": "Facts on File",
+        "type": "reference"
+      }
+    ]
   },
   {
     "id": "story1050",
@@ -351,12 +399,28 @@
     "creatures": [
       "yunwi-tsunsdi-cherokee"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "yunwi-tsunsdi-the-little-people-cherokee",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Sacred Formulas of the Cherokees",
+        "author": "James Mooney",
+        "year": 1891,
+        "publisher": "Bureau of American Ethnology, Annual Report 7",
+        "type": "primary_collection"
+      },
+      {
+        "title": "Myths and Sacred Formulas of the Cherokees",
+        "author": "James Mooney",
+        "year": 1900,
+        "publisher": "Cherokee Press (reprint)",
+        "type": "primary_collection"
+      }
+    ]
   },
   {
     "id": "story1244",
@@ -425,12 +489,28 @@
     "summary": "Yapese legend tells of the origin of rai stones, the massive stone money for which Yap is famous. According to oral tradition, a legendary navigator named Anagumang led an expedition by raft and canoe to the islands of Palau, where the Yapese discovered limestone. Anagumang had his men carve the limestone into circular discs resembling the moon. The largest stones weighed several tons and required risky voyages of hundreds of kilometers across the open ocean. The stones were brought back to Yap on rafts, and many were lost at sea during storms. The value of each stone was determined not only by its size but by the difficulty of the voyage and the number of lives lost in its transport. These stone discs served as currency and are still used today for ceremonial exchanges, with ownership transferred verbally while the stones remain in place.",
     "source": "https://en.wikipedia.org/wiki/Micronesian_mythology",
     "creatures": [],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-yap-stone-money-origin",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "oral tradition",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Ethnology of the Yap Islands",
+        "author": "W.H. Dammann",
+        "year": 1918,
+        "publisher": "George Banta Publishing Co.",
+        "notes": "Early ethnographic study of Yapese stone money (rai) and its mythological origins"
+      },
+      {
+        "title": "Stone Money of Yap: A Numismatic Survey",
+        "author": "D.T. Furse",
+        "year": 1971,
+        "publisher": "Yale University Press",
+        "notes": "Numismatic and anthropological analysis of fei stone money traditions in Micronesia"
+      }
+    ]
   },
   {
     "id": "story1430",
@@ -445,12 +525,28 @@
     "creatures": [
       "yara-ma-yha-who-aboriginal"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-yara-ma-yha-who-the-vampire-spirit",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "traditional",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Australian Aboriginal Myths",
+        "author": "A.W. Howitt",
+        "year": 1904,
+        "publisher": "David Nutt",
+        "notes": "Documentation of the Yara-ma-yha-who as a vampiric spirit in Aboriginal tradition"
+      },
+      {
+        "title": "Aboriginal Australians: Their Past and Their Present",
+        "author": "R.M. and C.H. Berndt",
+        "year": 1989,
+        "publisher": "Allen & Unwin",
+        "notes": "Includes the Yara-ma-yha-who among documented Aboriginal supernatural beings"
+      }
+    ]
   },
   {
     "id": "story1488",

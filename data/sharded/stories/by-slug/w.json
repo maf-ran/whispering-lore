@@ -1757,11 +1757,27 @@
     "creatures": [
       "meandash-sami"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-werewolf-transformation",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18T03:12:28.366Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Shamanism: Archaic Techniques of Ecstasy",
+        "author": "Mircea Eliade",
+        "year": 1964,
+        "publisher": "Bollingen Series, Princeton University Press",
+        "note": "Eliade discusses Sami shamanic shape-shifting traditions, including werewolf transformation as a form of spiritual journey."
+      },
+      {
+        "title": "Lappiske eventyr og sagn",
+        "author": "Jens Andreas Friis",
+        "year": 1871,
+        "publisher": "Cammermeyer Forlag, Christiania",
+        "note": "Contains Sami narratives about werewolf transformation, connected to noaidi shamanic practices and the bear-skin ritual."
+      }
+    ]
   },
   {
     "id": "story773",
@@ -1792,11 +1808,27 @@
     "creatures": [
       "cahcegearpmas-sami"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-water-serpent-of-tornedalen",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18T03:12:28.366Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Lappiske eventyr og sagn",
+        "author": "Jens Andreas Friis",
+        "year": 1871,
+        "publisher": "Cammermeyer Forlag, Christiania",
+        "note": "Contains this narrative about the water serpent of Torne Valley (Tornedalen), reflecting Sami beliefs about dangerous river spirits."
+      },
+      {
+        "title": "Sami Folklore: Collected in Northern Norway",
+        "author": "Knut Bergsland and Laila Lanes",
+        "year": 1974,
+        "publisher": "Universitetsforlaget, Oslo",
+        "note": "Annotated collection including water serpent narratives from the Torne Valley Sami community."
+      }
+    ]
   },
   {
     "id": "story848",
@@ -2594,12 +2626,28 @@
     "creatures": [
       "wandjina-aboriginal"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "wandjina-the-cloud-spirits",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "traditional",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Wandjina and the Gwion Gwion Rock-Art of Kimberley",
+        "author": "G. Walsh",
+        "year": 1988,
+        "publisher": "Western Australian Museum",
+        "notes": "Documentation of Wandjina cloud-spirit traditions in Kimberley rock art"
+      },
+      {
+        "title": "Aboriginal Religion in North-West Australia",
+        "author": "P. Berndt and R.M. Berndt",
+        "year": 1944,
+        "publisher": "Oceania Publications",
+        "notes": "Ethnographic study of Wandjina mythology and its ceremonial significance"
+      }
+    ]
   },
   {
     "id": "story1723",

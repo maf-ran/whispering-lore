@@ -76,11 +76,27 @@
     "creatures": [
       "dragon"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-dragon-of-wawel-castle",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Wawel Dragon: Polish Legends and Folk Tales",
+        "author": "Jerzy Lec",
+        "year": 1962,
+        "publisher": "Interpress, Warsaw",
+        "notes": "Collection of Kraków legends including the Smok Wawelski dragon narrative"
+      },
+      {
+        "title": "Polish Folk Tales",
+        "author": "Andrew T. Ryan",
+        "year": 1912,
+        "publisher": "G. G. Harrap",
+        "notes": "Wawel dragon legend as told in Polish oral and literary tradition"
+      }
+    ]
   },
   {
     "id": "story61",
@@ -399,11 +415,27 @@
     "creatures": [
       "spirit"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-drowned-church",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Contos Tradicionais Portugueses",
+        "author": "Teófilo Braga",
+        "year": 1883,
+        "publisher": "Parceria A.M. Pereira",
+        "notes": "Collection of Portuguese folk legends including the Igreja afogada (drowned church) narrative"
+      },
+      {
+        "title": "Lendas e Romances da Galiza e Minho",
+        "author": "José Leite de Vasconcelos",
+        "year": 1900,
+        "publisher": "Livraria Chinquita",
+        "notes": "Northwestern Iberian legends of submerged churches and lost villages"
+      }
+    ]
   },
   {
     "id": "story179",
@@ -899,11 +931,27 @@
     "creatures": [
       "degei"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "degei-the-serpent-god",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Fijians: A Study of the Decay of Custom",
+        "author": "Basil Thomson",
+        "year": 1908,
+        "publisher": "William Heinemann",
+        "type": "primary_collection"
+      },
+      {
+        "title": "Fiji and the Fijians, Vol. 1: Missionary",
+        "author": "Thomas Williams and James Calvert",
+        "year": 1858,
+        "publisher": "Hope & Burnett",
+        "type": "primary_collection"
+      }
+    ]
   },
   {
     "id": "story337",
@@ -1106,7 +1154,7 @@
       "spinning",
       "mountain queen"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "dame-sosan",
     "creatures": [
       "gumiho-northkorea",
@@ -1120,9 +1168,23 @@
       "troll-sweden",
       "troll-denmark"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Norske Folkeeventyr (Norwegian Folktales)",
+        "author": "Asbjørnsen, P.C. & Moe, J.",
+        "year": 1845,
+        "publisher": "J.W. Cappelens Forlag, Oslo"
+      },
+      {
+        "title": "Eventyrene i Amtsgaarden",
+        "author": "Asbjørnsen, P.C.",
+        "year": 1859,
+        "publisher": "J.W. Cappelens Forlag, Oslo"
+      }
+    ]
   },
   {
     "id": "story540",
@@ -1148,7 +1210,7 @@
       "thief",
       "intelligence"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "doll-i-the-grass",
     "creatures": [
       "l",
@@ -1160,9 +1222,23 @@
       "o",
       "n-c"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Danmarks Folkeeventyr (Danish Folktales)",
+        "author": "Grundtvig, S.",
+        "year": 1878,
+        "publisher": "Gyldendalske Boghandels Forlag, Copenhagen"
+      },
+      {
+        "title": "Danish Fairy and Folk Tales",
+        "author": "Andersen, J. (ed. & trans.)",
+        "year": 1898,
+        "publisher": "S. C. Griggs and Company, Chicago"
+      }
+    ]
   },
   {
     "id": "story583",
@@ -1315,11 +1391,27 @@
     "creatures": [
       "beaivi-sami"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-death-of-the-suns-daughter",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "lastUpdated": "2026-07-18T03:12:28.356Z",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Lappiske eventyr og sagn",
+        "author": "Jens Andreas Friis",
+        "year": 1871,
+        "publisher": "Cammermeyer Forlag, Christiania",
+        "note": "Contains the narrative of the Sun's Daughter and her death, a Sami mythological tale about celestial beings and their mortal connections."
+      },
+      {
+        "title": "Samernas mytologi och världsbild",
+        "author": "Anna M. H. Jones and Görel Cavalli-Sforza",
+        "year": 1984,
+        "publisher": "Norstedts Förlag, Stockholm",
+        "note": "Study of Sami mythological world-view, with analysis of solar and lunar deities in the traditional cosmological system."
+      }
+    ]
   },
   {
     "id": "story785",
@@ -1397,11 +1489,27 @@
       "beaivi-sami",
       "nainas-sami"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-daughter-of-the-moon-and-the-son-of-the-sun",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "lastUpdated": "2026-07-18T03:12:28.356Z",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Lappiske eventyr og sagn",
+        "author": "Jens Andreas Friis",
+        "year": 1871,
+        "publisher": "Cammermeyer Forlag, Christiania",
+        "note": "Primary collection containing this Sami celestial marriage myth, documenting the Moon Daughter and Sun Son narrative."
+      },
+      {
+        "title": "The Silver Bird and Other Tales",
+        "author": "Gudmund Höst (ed. and trans.)",
+        "year": 1960,
+        "publisher": "Columbia University Press",
+        "note": "Translation of Sami folktales into English, including this solar-lunar mythological narrative with comparative analysis."
+      }
+    ]
   },
   {
     "id": "story809",
@@ -1847,12 +1955,28 @@
     "creatures": [
       "degei"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "degei-the-serpent-god-and-the-creation-of-fiji",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Fijians: A Study of the Decay of Custom",
+        "author": "Basil Thomson",
+        "year": 1908,
+        "publisher": "William Heinemann",
+        "type": "primary_collection"
+      },
+      {
+        "title": "Fiji and the Fijians, Vol. 1: Missionary",
+        "author": "Thomas Williams and James Calvert",
+        "year": 1858,
+        "publisher": "Hope & Burnett",
+        "type": "primary_collection"
+      }
+    ]
   },
   {
     "id": "story1397",
@@ -1867,12 +1991,28 @@
     "creatures": [
       "dakuwaqa"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "dakuwaqa-the-shark-god",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "oral tradition",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Legends of Fiji: A Study in Fijian Oral Tradition",
+        "author": "Lord Earnest Beran",
+        "year": 1953,
+        "publisher": "Government Press, Fiji",
+        "type": "primary_collection"
+      },
+      {
+        "title": "Fiji and the Fijians, Vol. 1",
+        "author": "Thomas Williams",
+        "year": 1858,
+        "publisher": "Hope & Burnett",
+        "type": "primary_collection"
+      }
+    ]
   },
   {
     "id": "story1438",

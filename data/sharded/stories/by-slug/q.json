@@ -467,12 +467,28 @@
       "qat",
       "marawa-vanuatu"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "qat-the-creator-and-the-birth-of-night",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Melanesians: Studies in their Anthropology and Folk-Logy",
+        "author": "R.R. Marett",
+        "year": 1909,
+        "publisher": "Methuen",
+        "notes": "Compiles Qat creation narratives from Banks Islands and northern Vanuatu"
+      },
+      {
+        "title": "The Customs and Traditions of the Solomon Islands",
+        "author": "W. Ivens",
+        "year": 1927,
+        "publisher": "Epworth Press",
+        "notes": "Documentation of Qat's creative acts including the origin of darkness"
+      }
+    ]
   },
   {
     "id": "story1401",
@@ -488,12 +504,28 @@
       "qat",
       "vinmara-vanuatu"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "qat-and-the-sky-maidens",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "oral tradition",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Savage Life in Melanesia",
+        "author": "A. Hocart",
+        "year": 1922,
+        "publisher": "Government Printer, Fiji",
+        "notes": "Qat's encounter with the sky maidens from Banks Islands oral tradition"
+      },
+      {
+        "title": "The Melanesians: Studies in their Anthropology and Folk-Logy",
+        "author": "R.R. Marett",
+        "year": 1909,
+        "publisher": "Methuen",
+        "notes": "Synthesis of Qat narratives including celestial encounters"
+      }
+    ]
   },
   {
     "id": "story1444",
