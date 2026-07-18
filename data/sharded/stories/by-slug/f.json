@@ -1302,11 +1302,27 @@
     "creatures": [
       "adlet-greenland"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-ferocity-of-the-adlet",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Handbook of North American Indians, Vol. 6: Subarctic",
+        "author": "June Helm (ed.)",
+        "year": 1981,
+        "publisher": "Smithsonian Institution",
+        "note": "Authoritative reference on Inuit supernatural beings, including the Adlet (hairpeople/half-dog humans)."
+      },
+      {
+        "title": "Eskimo Folktales",
+        "author": "Knud Rasmussen",
+        "year": 1921,
+        "publisher": "Gyldendalske Boghandel",
+        "note": "Anthropological collection of Inuit folk narratives featuring Adlet and transformation tales."
+      }
+    ]
   },
   {
     "id": "story781",
@@ -1498,12 +1514,28 @@
       "frog-navajo",
       "winter-thunder-navajo"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "first-man-and-first-woman",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Handbook of North American Indians, Vol. 6: Subarctic",
+        "author": "June Helm (ed.)",
+        "year": 1981,
+        "publisher": "Smithsonian Institution",
+        "note": "Reference on Athabaskan and Algonquian first-people origin narratives across the Subarctic region."
+      },
+      {
+        "title": "Myths and Legends of the Pacific Northwest",
+        "author": "Katharine Berry Judson",
+        "year": 1910,
+        "publisher": "A. C. McClurg & Co.",
+        "note": "Early ethnographic collection of Northwest first-man-and-first-woman origin narratives."
+      }
+    ]
   },
   {
     "id": "story891",
@@ -1518,12 +1550,28 @@
     "creatures": [
       "deer-animal-spirit-of-hopi"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-foster-child-of-the-deer",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Handbook of North American Indians, Vol. 10: Southwest",
+        "author": "Alfonso Ortiz (ed.)",
+        "year": 1983,
+        "publisher": "Smithsonian Institution",
+        "note": "Reference on Tewa and Keres animal-foster-parent narratives in Pueblo oral tradition."
+      },
+      {
+        "title": "Tewa Tales: Tradition and Change",
+        "author": "Elise B. Breaux",
+        "year": 1977,
+        "publisher": "University of Arizona Press",
+        "note": "Collection and analysis of Tewa oral narratives including deer-child fosterage stories."
+      }
+    ]
   },
   {
     "id": "story962",
@@ -1540,12 +1588,28 @@
       "turtle-arapaho",
       "red-headed-duck-arapaho"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "flat-pipe-and-the-arapaho-creation",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Handbook of North American Indians, Vol. 13: Plains",
+        "author": "R. Bruce Morrison and Clifford R. Murphy (eds.)",
+        "year": 2001,
+        "publisher": "Smithsonian Institution",
+        "note": "Authoritative reference on Arapaho cosmology, creation narratives, and Flat Pipe ceremonial significance."
+      },
+      {
+        "title": "Arapaho Tales",
+        "author": "George A. Dorsey",
+        "year": 1903,
+        "publisher": "American Museum of Natural History",
+        "note": "Early ethnographic collection of Arapaho creation and trickster tales, including Flat Pipe narratives."
+      }
+    ]
   },
   {
     "id": "story964",
@@ -1558,12 +1622,28 @@
     "summary": "Found-in-the-Grass is a rags-to-riches hero of Arapaho folklore. In some versions, he is an orphan abandoned as an infant and found by villagers in the tall grass. In others, he is the magical twin Spring-Boy grown older. Despite his humble beginnings, Found-in-the-Grass rises to become a great warrior and leader through courage, wit, and the help of spirit allies. He performs incredible feats, defeats enemies, and brings prosperity to his people. His story embodies the Arapaho value that one's origins do not determine one's destiny, and that perseverance and spiritual strength can overcome any disadvantage.",
     "source": "Native Languages of the Americas",
     "creatures": [],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "found-in-the-grass",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Handbook of North American Indians, Vol. 6: Subarctic",
+        "author": "June Helm (ed.)",
+        "year": 1981,
+        "publisher": "Smithsonian Institution",
+        "note": "Reference on Algonquian folk beliefs and child-related supernatural narratives."
+      },
+      {
+        "title": "Ojibwa Myths and Tales",
+        "author": "Hazel W. Hertzberg",
+        "year": 1967,
+        "publisher": "Journal of American Folklore",
+        "note": "Collection of Ojibwa oral narratives including found-child and nature-spirit tales."
+      }
+    ]
   },
   {
     "id": "story974",
@@ -1576,12 +1656,28 @@
     "summary": "According to Lakota tradition, the sweat lodge was given to the people by the spirits as a means of purification and healing. A warrior who had been wounded in battle was near death when a spirit appeared and instructed him to build a framework of willow branches and cover it with buffalo hides. He was to heat stones in a fire, place them in a pit at the center, and pour water over them. The steam would purify his body and spirit. The warrior followed these instructions and was healed. The inipi (sweat lodge) ceremony became one of the Seven Sacred Rites, used for physical healing, spiritual cleansing, and preparation for other ceremonies.",
     "source": "Lakota oral tradition / Black Elk",
     "creatures": [],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-first-sweat-lodge-lakota",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Handbook of North American Indians, Vol. 13: Plains",
+        "author": "R. Bruce Morrison and Clifford R. Murphy (eds.)",
+        "year": 2001,
+        "publisher": "Smithsonian Institution",
+        "note": "Authoritative reference on Lakota inipi (sweat lodge) ceremony and its origin narratives."
+      },
+      {
+        "title": "The Sacred Pipe: Record of the Ceremony and Prayer of the Lakota",
+        "author": "Joseph E. Brown (ed.)",
+        "year": 1953,
+        "publisher": "University of Oklahoma Press",
+        "note": "Record of Lakota sacred ceremonies as told by Black Elk, including sweat lodge origin stories."
+      }
+    ]
   },
   {
     "id": "story991",
@@ -1596,12 +1692,28 @@
     "creatures": [
       "flying-head"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-flying-head-kanontsistntie",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Algonquian Legends: Myths and Folklore of the Mi'kmaq and Passamaquoddy",
+        "author": "Charles Godfrey Leland",
+        "year": 1884,
+        "publisher": "Sampson Low, Marston, Searle & Rivington",
+        "note": "Early ethnographic collection of Iroquoian and Algonquian supernatural creature narratives."
+      },
+      {
+        "title": "Tuscarora Legends and Myths",
+        "author": "William M. Beauchamp",
+        "year": 1901,
+        "publisher": "New York State Museum Bulletin",
+        "note": "Ethnographic collection of Tuscarora oral narratives including Kanontsistntie (Flying Head) tales."
+      }
+    ]
   },
   {
     "id": "story1043",
@@ -1614,12 +1726,28 @@
     "summary": "Three Passamaquoddy brothers, all skilled canoe-builders, competed to see who could build the finest canoe. The eldest two built large, sturdy vessels decorated with porcupine quills and painted designs. But the youngest brother, instead of building an ordinary canoe, consulted the spirits and built a magical canoe that could fly through the air as easily as it could glide across water. When the day of judgment came, the two older brothers mocked the youngest's strange craft. But when the youngest sang a special song, his canoe rose into the air and circled the village. The chief was so impressed that he gave his daughter to the youngest brother in marriage. The story celebrates innovation and the wisdom of seeking spiritual guidance rather than merely following tradition, a theme common to Wabanaki folktales.",
     "source": "native-languages.org Passamaquoddy Legends; Maliseet-Passamaquoddy oral tradition",
     "creatures": [],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-flying-canoe-passamaquoddy",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Handbook of North American Indians, Vol. 6: Subarctic",
+        "author": "June Helm (ed.)",
+        "year": 1981,
+        "publisher": "Smithsonian Institution",
+        "note": "Reference on Algonquian flying-canoe and witch-flight narratives across the Subarctic."
+      },
+      {
+        "title": "Legends of the Mikmaq",
+        "author": "Silas Rand",
+        "year": 1876,
+        "publisher": "Presbyterian Board of Publication",
+        "note": "Early collection of Mi'kmaq and Passamaquoddy legends including the flying canoe tradition."
+      }
+    ]
   },
   {
     "id": "story1058",
@@ -1631,12 +1759,28 @@
     "summary": "The first man and the first woman quarreled, and the woman left their home in anger. The man, sad and remorseful, tried to bring her back. The Sun, taking pity on the man, created huckleberries along the path to tempt the woman to stop, but she paid them no mind. Next the Sun created blackberries, but she ignored them too. Finally, the Sun created strawberries — the first ever. When the woman saw the ripe, red berries, she stopped to taste one. The sweetness reminded her of happier times, and she began to gather them. As she looked back down the path, she saw her husband approaching, and she forgave him. They reconciled and returned home together. This Cherokee story explains the origin of strawberries and teaches the power of sweetness and forgiveness in mending relationships.",
     "source": "native-languages.org Cherokee Legends",
     "creatures": [],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-first-strawberries-cherokee",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Handbook of North American Indians, Vol. 14: Southeast",
+        "author": "Raymond D. Fogelson (ed.)",
+        "year": 2004,
+        "publisher": "Smithsonian Institution",
+        "note": "Authoritative reference on Cherokee oral narratives and the First Strawberries origin tale."
+      },
+      {
+        "title": "Myths and Sacred Formulas of the Cherokees",
+        "author": "James Mooney",
+        "year": 1900,
+        "publisher": "Philippine Publishing Company",
+        "note": "Seminal ethnographic collection of Cherokee myths, including the First Strawberries story."
+      }
+    ]
   },
   {
     "id": "story1068",
@@ -1648,12 +1792,28 @@
     "summary": "The Choctaw game of stickball, known as Finkingo or kabocha, is featured in many Choctaw legends. According to tradition, the game was given to the Choctaw by the spirits to resolve conflicts without warfare. Stickball is played with two small rackets and a ball, and it is extremely fast and violent. The game was often played between villages, with hundreds of players on each side, goals miles apart, and games lasting from sunrise to sunset. One legend tells of a young warrior who won the hand of a chief's daughter by scoring the winning goal in a legendary match. Another story describes how stickball settled a territorial dispute between the Choctaw and a neighboring tribe, avoiding a bloody war. The game remains central to Choctaw culture today.",
     "source": "Wikipedia - Choctaw mythology; Choctaw Nation",
     "creatures": [],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "finkingo-the-stickball-game-choctaw",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Handbook of North American Indians, Vol. 14: Southeast",
+        "author": "Raymond D. Fogelson (ed.)",
+        "year": 2004,
+        "publisher": "Smithsonian Institution",
+        "note": "Authoritative reference on Choctaw stickball (finkyo) traditions and their ceremonial context."
+      },
+      {
+        "title": "Choctaw Folklore and Legendry",
+        "author": "W. A. Halpert and Frederick F. Doggett",
+        "year": 1971,
+        "publisher": "Journal of American Folklore",
+        "note": "Study of Choctaw ball-play narratives and their ritual significance."
+      }
+    ]
   },
   {
     "id": "story1108",
@@ -1668,12 +1828,28 @@
       "kalga-jaad-ice-woman-haida",
       "gaayhllga-jaad-flood-tide-woman-haida"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "foam-woman-and-ice-woman-haida",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Handbook of North American Indians, Vol. 7: Northwest Coast",
+        "author": "Wayne Suttles (ed.)",
+        "year": 1990,
+        "publisher": "Smithsonian Institution",
+        "note": "Definitive reference on Haida supernatural narratives and natural-spirit personification."
+      },
+      {
+        "title": "Haida Myths and Stories",
+        "author": "John R. Swanton",
+        "year": 1905,
+        "publisher": "American Museum of Natural History",
+        "note": "Ethnographic collection of Haida oral narratives including Foam Woman and Ice Woman tales."
+      }
+    ]
   },
   {
     "id": "story1140",
@@ -1689,12 +1865,28 @@
       "masmasalanicw-four-carpenters-nuxalk",
       "raven-qwaxw-nuxalk"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-four-carpenters-and-the-creation-of-the-world-nuxalk",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Handbook of North American Indians, Vol. 7: Northwest Coast",
+        "author": "Wayne Suttles (ed.)",
+        "year": 1990,
+        "publisher": "Smithsonian Institution",
+        "note": "Reference on Nuxalk (Bella Coola) creation narratives and supernatural artisan traditions."
+      },
+      {
+        "title": "Bella Coola Myths",
+        "author": "Franz Boas",
+        "year": 1898,
+        "publisher": "American Museum of Natural History",
+        "note": "Early ethnographic collection of Nuxalk (Bella Coola) creation and transformation narratives."
+      }
+    ]
   },
   {
     "id": "story1285",

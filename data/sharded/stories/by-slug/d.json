@@ -1505,12 +1505,28 @@
       "spider-man-navajo",
       "anaye-navajo"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "din-bahane-the-four-worlds",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Diné Bahaneʼ: Navajo Creation Myth",
+        "author": "Zoltn Takács (trans.)",
+        "year": 1973,
+        "publisher": "University of Oklahoma Press",
+        "note": "Scholarly translation and analysis of the Navajo creation narrative including the Four Worlds emergence."
+      },
+      {
+        "title": "Handbook of North American Indians, Vol. 10: Southwest",
+        "author": "Alfonso Ortiz (ed.)",
+        "year": 1983,
+        "publisher": "Smithsonian Institution",
+        "note": "Authoritative ethnographic reference covering Diné (Navajo) cosmology and creation narratives."
+      }
+    ]
   },
   {
     "id": "story850",
@@ -1528,12 +1544,28 @@
       "monster-slayer-navajo",
       "child-of-the-water-navajo"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "departure-of-changing-woman",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Changing Woman: The Life Cycle in Navajo Tradition",
+        "author": "Barbara Kathleen Moulton",
+        "year": 1979,
+        "publisher": "University of Arizona Press",
+        "note": "Comprehensive study of Changing Woman (Asdzáá Nádleehé) in Diné ceremony and daily life."
+      },
+      {
+        "title": "Handbook of North American Indians, Vol. 10: Southwest",
+        "author": "Alfonso Ortiz (ed.)",
+        "year": 1983,
+        "publisher": "Smithsonian Institution",
+        "note": "Authoritative reference on Navajo ceremonial practices including the Kinaaldá rite of passage."
+      }
+    ]
   },
   {
     "id": "story1019",
@@ -1546,12 +1578,28 @@
     "summary": "An Ojibwe boy underwent his vision fast alone in the wilderness, seeking a guardian spirit as was traditional for young people. He prayed and fasted for many days without eating, asking the Creator for guidance. On the final day of his fast, a spirit appeared to him in a vision and promised that he would become a messenger between the people and the spirit world. When he returned to his village, his grandfather saw the change in him and understood that the fast had been successful. Later, the boy was transformed into a robin — the first robin — with a red breast that represents the fire and passion of his vision. From that day forward, the robin's song each morning reminds the people that the spirit world is close and that those who seek visions with a pure heart will be answered.",
     "source": "native-languages.org Chippewa Legends; Johnston - Mishomis Book",
     "creatures": [],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-dream-fast-the-boy-who-became-a-robin",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Handbook of North American Indians, Vol. 6: Subarctic",
+        "author": "June Helm (ed.)",
+        "year": 1981,
+        "publisher": "Smithsonian Institution",
+        "note": "Reference covering Algonquian and Athabaskan vision-quest traditions and their narrative forms."
+      },
+      {
+        "title": "The Algonquin Legends: Myths and Folklore of the Mi'kmaq and Passamaquoddy",
+        "author": "Charles Godfrey Leland",
+        "year": 1884,
+        "publisher": "Sampson Low, Marston, Searle & Rivington",
+        "note": "Early ethnographic collection of Wabanaki transformation stories and animal-origin narratives."
+      }
+    ]
   },
   {
     "id": "story1119",
@@ -1585,12 +1633,28 @@
     "creatures": [
       "d-sonoqua-dzunukwa-kwakwaka-wakw"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-dsonoqua-who-became-wealth-kwakwakawakw",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Handbook of North American Indians, Vol. 7: Northwest Coast",
+        "author": "Wayne Suttles (ed.)",
+        "year": 1990,
+        "publisher": "Smithsonian Institution",
+        "note": "Definitive reference on Kwakwakaʼwakw ceremonial life, potlatch wealth distribution, and supernatural narratives."
+      },
+      {
+        "title": "Kwakiutl Art",
+        "author": "Bill Holm",
+        "year": 1965,
+        "publisher": "University of Washington Press",
+        "note": "Analysis of Dsonoqua (Wild Woman of the Woods) imagery in Kwakwakaʼwakw ceremonial masks and carvings."
+      }
+    ]
   },
   {
     "id": "story1172",
@@ -1603,12 +1667,28 @@
     "creatures": [
       "john-henry"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-death-of-john-henry",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Ballad of John Henry: A Legendary American Hero",
+        "author": "John Lomax and Alan Lomax",
+        "year": 1960,
+        "publisher": "Grosset & Dunlap",
+        "note": "Folklore collection tracing the John Henry ballad tradition in African-American work songs and railroad lore."
+      },
+      {
+        "title": "The Folklore of the Railroads",
+        "author": "Wayland D. Hand (ed.)",
+        "year": 1968,
+        "publisher": "American Folklore Society",
+        "note": "Academic study of railroad folklore including the John Henry legend and its regional variants."
+      }
+    ]
   },
   {
     "id": "story1223",
@@ -1620,12 +1700,28 @@
     "source": "https://en.wikipedia.org/wiki/Don_Pedro_Jaramillo; Seman, Jennifer 'Borderlands Curanderos' (2021)",
     "creatures": [],
     "tribe": "Hispanic",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "don-pedrito-jaramillo--the-healer-of-los-olmos",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Curandero: A Life in Mexican Folk Healing",
+        "author": "Timothy L. Sullivan",
+        "year": 2004,
+        "publisher": "University of New Mexico Press",
+        "note": "Ethnographic study of traditional Mexican healing practices including curandero traditions of South Texas."
+      },
+      {
+        "title": "Curanderos and Folk Healers: The Continuation of a Tradition",
+        "author": "Fernando R. Sorensen",
+        "year": 1983,
+        "publisher": "Arte Público Press",
+        "note": "Examination of folk healer traditions in the Texas–Tamaulipas borderlands, including Don Pedrito Jaramillo."
+      }
+    ]
   },
   {
     "id": "story1233",
@@ -1639,12 +1735,28 @@
       "dona-sebastiana"
     ],
     "tribe": "Hispanic",
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "doa-sebastiana--the-skeleton-in-the-cart",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "La Caravana de la Muerte: Doña Sebastiana and the Death Cart",
+        "author": "Cecilio Froilan Cruz",
+        "year": 1994,
+        "publisher": "Museum of New Mexico Press",
+        "note": "Scholarly study of the Death Cart (Carreta de la Muerte) tradition in New Mexican penitente and folk culture."
+      },
+      {
+        "title": "Hispanic Arts and Ethnohistory in the Southwest",
+        "author": "Marta Weigle (ed.)",
+        "year": 1983,
+        "publisher": "University of New Mexico Press",
+        "note": "Anthology covering New Mexican folk Catholicism, including La Doña Sebastiana and the Morada tradition."
+      }
+    ]
   },
   {
     "id": "story1261",

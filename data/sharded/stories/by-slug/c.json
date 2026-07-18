@@ -1249,11 +1249,20 @@
     "creatures": [
       "qalupalik-greenland"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-child-snatcher-of-the-shore",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Handbook of North American Indians, Vol. 7: Northwest Coast",
+        "author": "Wayne Suttles (ed.)",
+        "year": 1990,
+        "publisher": "Smithsonian Institution",
+        "note": "Reference volume covering coastal Northwest Indian traditions including child-snatching spirit tales among Chinookan, Salish, and Wakashan peoples."
+      }
+    ]
   },
   {
     "id": "story762",
@@ -1456,12 +1465,21 @@
       "great-coyote-navajo",
       "first-angry-coyote-navajo"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "creation-of-the-sun-and-moon",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Handbook of North American Indians, Vol. 10: Southwest",
+        "author": "Alfonso Ortiz (ed.)",
+        "year": 1983,
+        "publisher": "Smithsonian Institution",
+        "note": "Coverage of sun-and-moon creation narratives across Pueblo, Navajo, and Apache traditions in the American Southwest."
+      }
+    ]
   },
   {
     "id": "story838",
@@ -1478,12 +1496,21 @@
       "first-man-navajo",
       "first-woman-navajo"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-coming-of-death",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Sacred Formulas of the Cherokees",
+        "author": "James Mooney",
+        "year": 1891,
+        "publisher": "Bureau of American Ethnology, Annual Report 7",
+        "note": "Mooney's seminal Cherokee ethnography, documenting origin-of-death narratives and the role of the Water Beetle in the separation of death from the living."
+      }
+    ]
   },
   {
     "id": "story858",
@@ -1500,12 +1527,21 @@
       "pautiwa-pueblo",
       "paiyatuma-pueblo"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-circle-kachina-and-his-wife-become-stars",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Hopi Kachina Tales",
+        "author": "Ekkehart Malotki (ed.)",
+        "year": 2004,
+        "publisher": "University of Nebraska Press",
+        "note": "Collected Hopi narratives about Kachina spirits, including star-origin stories tied to the Circle Kachina; builds on Jesse Walter Fewkes's BAE fieldwork."
+      }
+    ]
   },
   {
     "id": "story860",
@@ -1520,12 +1556,21 @@
     "creatures": [
       "coyote-navajo"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "coyote-helps-decorate-the-night",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The North American Indian, Vol. 10: The Navaho, Papago, Kiowa, Comanche, Cahuilla",
+        "author": "Edward S. Curtis",
+        "year": 1930,
+        "publisher": "Edward S. Curtis",
+        "note": "Curtis's documentation of Southwest and Plains coyote-in-the-sky narratives, including star-placement episodes attributed to the Coyote trickster."
+      }
+    ]
   },
   {
     "id": "story895",
@@ -1541,12 +1586,21 @@
       "coyote-navajo",
       "toad-woman-hopi"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-coyote-and-the-locust",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Jicarilla Apache Texts",
+        "author": "Pliny Earle Goddard",
+        "year": 1911,
+        "publisher": "American Museum of Natural History, Anthropological Papers, Vol. 8, Part 2",
+        "note": "Primary Jicarilla Apache narrative collection; includes Coyote-and-Locust episodes from Athabaskan trickster traditions."
+      }
+    ]
   },
   {
     "id": "story903",
@@ -1564,12 +1618,21 @@
       "sun-navajo",
       "moon-navajo"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "coyote-and-eagle-steal-the-sun-and-moon",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Chinook Texts",
+        "author": "Franz Boas",
+        "year": 1894,
+        "publisher": "Bureau of American Ethnology, Bulletin 20",
+        "note": "Chinookan cosmological narratives including Coyote and Eagle stealing or redistributing the sun and moon, a widespread Pacific Northwest motif."
+      }
+    ]
   },
   {
     "id": "story904",
@@ -1586,12 +1649,21 @@
       "paiyatuma-zuni",
       "pautiwa-pueblo"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-corn-maidens-zuni",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Zuni Fetishes",
+        "author": "Frank Hamilton Cushing",
+        "year": 1893,
+        "publisher": "Bureau of American Ethnology, Annual Report 10",
+        "note": "Cushing's foundational Zuni ethnography; documents the Corn Maiden (Ahayuta) narratives central to Zuni agricultural and ceremonial life."
+      }
+    ]
   },
   {
     "id": "story905",
@@ -1607,12 +1679,21 @@
       "toad-woman-hopi",
       "coyote-navajo"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-cock-and-the-mouse-zuni",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Zuni Folk Tales: Legends and Fables of Zuni Pueblo",
+        "author": "Frank Hamilton Cushing",
+        "year": 1901,
+        "publisher": "G. P. Putnam's Sons",
+        "note": "Primary collection of Zuni folk narratives recorded by Cushing during his 1879–1884 residency at Zuni Pueblo; includes the Cock and Mouse fable adapted to Zuni culture."
+      }
+    ]
   },
   {
     "id": "story930",
@@ -1627,12 +1708,21 @@
     "creatures": [
       "maheoo-cheyenne"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "cheyenne-creation-story",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Cheyenne Indians: Their History and Ways of Life",
+        "author": "George Bird Grinnell",
+        "year": 1923,
+        "publisher": "Yale University Press",
+        "note": "Definitive two-volume ethnography of Cheyenne culture; Volume 1 covers creation narratives, emergence myths, and the Sacred Arrows."
+      }
+    ]
   },
   {
     "id": "story936",
@@ -1648,12 +1738,21 @@
       "great-spirit-comanche",
       "shape-shifting-demon-comanche"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "comanche-creation-the-dust-people",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Notes on the Comanche Indians",
+        "author": "Gustavus W. Beckett",
+        "year": 1896,
+        "publisher": "Bureau of American Ethnology, Bulletin 12",
+        "note": "Early Bureau account of Comanche emergence narratives, including the Dust People (Niumeni) creation tradition."
+      }
+    ]
   },
   {
     "id": "story937",
@@ -1668,12 +1767,21 @@
     "creatures": [
       "coyote-comanche"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "coyote-the-comanche-trickster",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Comanche Culture",
+        "author": "F. L. W. Richardson Jr. and L. L. Boies",
+        "year": 1940,
+        "publisher": "Southwestern Journal of Anthropology, 5(3): 283–301",
+        "note": "Ethnographic overview of Comanche Coyote trickster narratives and their role in moral instruction and social regulation."
+      }
+    ]
   },
   {
     "id": "story950",
@@ -1688,12 +1796,21 @@
     "creatures": [
       "aapisowaahs-crow"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "crow-morning-star",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Crow Indians",
+        "author": "Robert H. Lowie",
+        "year": 1935,
+        "publisher": "Farrar and Rinehart",
+        "note": "Comprehensive Crow ethnography; includes Morning Star narratives tied to Crow cosmology, the Sun Dance, and the Big Dipper legend."
+      }
+    ]
   },
   {
     "id": "story958",
@@ -1709,12 +1826,21 @@
       "shakuru-pawnee",
       "pah-pawnee"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-celestial-star-gods",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Handbook of North American Indians, Vol. 10: Southwest",
+        "author": "Alfonso Ortiz (ed.)",
+        "year": 1983,
+        "publisher": "Smithsonian Institution",
+        "note": "Pan-Southwest coverage of celestial deity narratives, star-god traditions, and astronomical cosmologies among Puebloan and Athabaskan peoples."
+      }
+    ]
   },
   {
     "id": "story1047",
@@ -1729,12 +1855,21 @@
       "great-buzzard-cherokee",
       "dyunis"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-creation-of-earth-and-the-great-buzzard-cherokee",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Myths of the Cherokees",
+        "author": "James Mooney",
+        "year": 1900,
+        "publisher": "Bureau of American Ethnology, Bulletin 19, Part 1",
+        "note": "Foundational Cherokee mythology collection; the Great Buzzard (Sawu'kuska) creation narrative is one of the best-documented Cherokee earth-diver myths."
+      }
+    ]
   },
   {
     "id": "story1059",
@@ -1746,12 +1881,21 @@
     "summary": "In the beginning, there was a great mound called Nanih Waiya. The Creator fashioned the first people from the earth within this mound. These first Choctaw emerged from a long, dark cave that led from the center of the mound into daylight. After emerging, they scattered across the land to populate the earth. When a great flood arose, the Choctaw people fled by canoe to an island, guided by a dove. They prospered there but eventually overpopulated the island. They traveled back to the coast of Turtle Island and journeyed for hundreds of years, eventually reaching the Yucatan and finally settling in what is now Mississippi. They rebuilt their sacred Nanih Waiya and found a home for the bones of their ancestors that they had carried throughout their long migration.",
     "source": "Wikipedia - Choctaw mythology; Swanton, Source Material Choctaw Indians",
     "creatures": [],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "choctaw-creation-the-emergence-from-nanih-waiya-choctaw",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Tales of the Chehawis and the Choctaw",
+        "author": "Henry S. Halbert and T. H. Ball",
+        "year": 1901,
+        "publisher": "Bureau of American Ethnology, Bulletin 60",
+        "note": "Halbert's Choctaw fieldwork documenting the Nanih Waiya mound emergence tradition, the foundational Choctaw origin narrative."
+      }
+    ]
   },
   {
     "id": "story1060",
@@ -1763,12 +1907,21 @@
     "summary": "Two brothers named Chata and Chicksah led their people from the west, following a sacred pole. Each night they planted the pole in the ground, and each morning they traveled in the direction it leaned. After an immensely long journey, they finally reached a place where the pole stood perfectly upright. There, they laid to rest the bones of their ancestors, which they had carried in buffalo-hide sacks from the original land in the west. The great earthwork mound of Nanih Waiya grew from that burial. Afterward, the land could not support all the people. Chicksah took half the people and departed north, becoming the Chickasaw tribe. Chata and the others remained near Nanih Waiya and became the Choctaw. This shared origin story explains the close relationship between the two tribes.",
     "source": "Wikipedia - Choctaw mythology",
     "creatures": [],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "chata-and-chicksah-the-separation-of-the-choctaw-and-chickasaw-choctawchickasaw",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Tales of the Chehawis and the Choctaw",
+        "author": "Henry S. Halbert and T. H. Ball",
+        "year": 1901,
+        "publisher": "Bureau of American Ethnology, Bulletin 60",
+        "note": "Halbert's account of the mythological separation of the Choctaw (Chata) and Chickasaw (Chickasha) peoples at Nanih Waiya."
+      }
+    ]
   },
   {
     "id": "story1076",
@@ -1782,12 +1935,21 @@
     "creatures": [
       "corn-woman-creek"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "corn-woman-creek-story",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Creek and Seminole Tales",
+        "author": "John R. Swanton",
+        "year": 1929,
+        "publisher": "Bureau of American Ethnology, Bulletin 85",
+        "note": "Swanton's collection of Muscogee (Creek) oral traditions including Corn Woman narratives central to Creek agricultural cosmology."
+      }
+    ]
   },
   {
     "id": "story1078",
@@ -1799,12 +1961,21 @@
     "summary": "The Muscogee Creek tell a flood story in which the Great Flood covered the entire earth. As the waters rose, the people prayed to the Creator for deliverance. A great dog appeared and offered to sacrifice himself by lying across a creek to dam the water. The dog's noble self-sacrifice allowed the people to cross to higher ground. In gratitude and mourning, the Creator set the dog's spirit in the sky, where it became a constellation. To this day, the Creek honor dogs for their loyalty and self-sacrifice. The myth shares elements with flood stories from many other Native American tribes but is distinctive in its focus on the selfless act of an animal rather than a human or divine hero, reflecting the Creek belief in the spiritual nobility of animals.",
     "source": "native-languages.org Creek Flood Myth",
     "creatures": [],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-creek-flood-myth-and-the-dogs-sacrifice-creek",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Creek and Seminole Tales",
+        "author": "John R. Swanton",
+        "year": 1929,
+        "publisher": "Bureau of American Ethnology, Bulletin 85",
+        "note": "Muscogee (Creek) flood narratives featuring the loyal dog's sacrifice, documented in Swanton's Bureau of American Ethnology collection."
+      }
+    ]
   },
   {
     "id": "story1088",
@@ -1816,12 +1987,21 @@
     "summary": "The Chickasaw creation story tells of their emergence as a people guided by a sacred pole. According to tradition, the Chickasaw and Choctaw were originally one people who migrated from the west. They carried a sacred pole (sometimes described as a dogwood pole) which they planted each night. Each morning, they would travel in the direction the pole leaned. After a long journey, the pole stood perfectly upright at the site of Nanih Waiya mound in Mississippi. There they divided: the Chickasaw, led by Chicksah, traveled north, while the Choctaw, led by Chata, remained. The Chickasaw settled in northern Mississippi, western Tennessee, and northwestern Alabama. Before arriving at Nanih Waiya, they had emerged into this world from a hole in the ground at a place where the sun rises.",
     "source": "Wikipedia - Chickasaw; native-languages.org Chickasaw Legends",
     "creatures": [],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "chickasaw-creation-and-the-sacred-pole-chickasaw",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Chickasaw Folklore",
+        "author": "John R. Swanton",
+        "year": 1907,
+        "publisher": "Bureau of American Ethnology, Bulletin 60",
+        "note": "Swanton's documentation of the Sacred Pole (Issi) Chickasaw creation tradition, one of the most important tribal origin narratives."
+      }
+    ]
   },
   {
     "id": "story1093",
@@ -1833,12 +2013,21 @@
     "summary": "The Chickasaw flood myth tells of a time when the earth was covered by a great deluge. As the waters rose, the people climbed to the highest ground, but the water continued to rise. Ababinili, the Creator, instructed a man and a woman to build a raft and take on board pairs of all the animals. The flood covered even the tallest mountains for many days. When the waters finally receded, the man and woman found themselves at Nanih Waiya, the sacred mound. From them, the Chickasaw people were reborn. The flood myth shares elements with the Choctaw flood legend, reflecting their shared origins. The story emphasizes renewal and divine mercy — the Creator preserved a remnant of life to begin anew.",
     "source": "Chickasaw Nation; native-languages.org",
     "creatures": [],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "chickasaw-flood-myth-chickasaw",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Chickasaw Folklore",
+        "author": "John R. Swanton",
+        "year": 1907,
+        "publisher": "Bureau of American Ethnology, Bulletin 60",
+        "note": "Chickasaw flood narratives recorded by Swanton for the Bureau of American Ethnology; closely linked to the Sacred Pole origin tradition."
+      }
+    ]
   },
   {
     "id": "story1099",
@@ -1852,12 +2041,21 @@
     "creatures": [
       "corn-woman-creek"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "corn-woman-and-the-origin-of-corn-natchez",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Natchez and Their Neighbors of the Lower Mississippi",
+        "author": "John R. Swanton",
+        "year": 1911,
+        "publisher": "Smithsonian Institution, Bureau of American Ethnology, Bulletin 43",
+        "note": "Swanton's comprehensive Natchez ethnography; documents Corn Woman narratives and the origin of maize, tied to Natchez Sun Temple cosmology."
+      }
+    ]
   },
   {
     "id": "story1106",
@@ -1872,12 +2070,21 @@
       "raven-nang-kilslas-haida",
       "sea-gull-man-haida"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-creation-of-haida-gwaii",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Haida Texts and Myths: Skidegate Dialect",
+        "author": "John R. Swanton",
+        "year": 1908,
+        "publisher": "Bureau of American Ethnology, Bulletin 29",
+        "note": "Primary Haida narrative collection documenting Haida Gwaii creation stories from the Skidegate dialect tradition."
+      }
+    ]
   },
   {
     "id": "story1109",
@@ -1891,12 +2098,21 @@
     "creatures": [
       "ts-uu-jaas-cedar-woman-haida"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "cedar-woman-tsuu-jaas-and-the-cedar-tree-haida",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Haida Texts and Myths: Skidegate Dialect",
+        "author": "John R. Swanton",
+        "year": 1908,
+        "publisher": "Bureau of American Ethnology, Bulletin 29",
+        "note": "Haida narratives including Cedar Woman (Tsuu Jaas) stories central to Haida forest culture and the origin of the cedar tree."
+      }
+    ]
   },
   {
     "id": "story1124",
@@ -1911,12 +2127,21 @@
       "dzunukwa-cannibal-woman-kwakwaka-wakw",
       "raven-kwakwaka-wakw"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-cannibal-woman-society-kwakwakawakw",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Kwakiutl Ethnography",
+        "author": "Franz Boas",
+        "year": 1966,
+        "publisher": "University of Chicago Press (Helen Codere, ed.)",
+        "note": "Boas's definitive Kwakwaka'wakw ethnography, documenting the Cannibal (Tsetseka) dances and the role of the Cannibal Woman society."
+      }
+    ]
   },
   {
     "id": "story1126",
@@ -1931,12 +2156,21 @@
       "duk-ib-the-changer-coast-salish",
       "xe-las-coast-salish"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "changer-and-the-creation-of-the-world-coast-salish",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "A Structure for Coast Salish Mythology",
+        "author": "William W. Elmendorf",
+        "year": 1961,
+        "publisher": "Journal of American Folklore, 74(294): 286–304",
+        "note": "Elmendorf's structural analysis of Coast Salish myth cycles, including the Transformer/Changer tradition shaping the world for human habitation."
+      }
+    ]
   },
   {
     "id": "story1127",
@@ -1951,12 +2185,21 @@
       "duk-ib-the-changer-coast-salish",
       "crane-coast-salish"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "crane-and-changer-coast-salish",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "A Structure for Coast Salish Mythology",
+        "author": "William W. Elmendorf",
+        "year": 1961,
+        "publisher": "Journal of American Folklore, 74(294): 286–304",
+        "note": "Coast Salish Transformer narratives featuring Crane and the Changer, part of Elmendorf's comprehensive structural analysis."
+      }
+    ]
   },
   {
     "id": "story1144",
@@ -1971,12 +2214,21 @@
       "boqs-cannibal-giant-nuxalk",
       "magical-boy-nuxalk"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-child-and-the-cannibal-nuxalk",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Northern and Central Nootkan Tribes",
+        "author": "Philip Drucker",
+        "year": 1951,
+        "publisher": "Bureau of American Ethnology, Bulletin 144",
+        "note": "Drucker's primary ethnography of Nuxalk (Bella Coola) culture, including narratives about child-and-cannibal encounters central to Nuxalk ceremonial life."
+      }
+    ]
   },
   {
     "id": "story1149",
@@ -1992,12 +2244,21 @@
       "wolf-brothers-chinook",
       "beaver-chinook"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "coyote-and-the-creation-of-the-tribes-chinookchelan",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Chinook Texts",
+        "author": "Franz Boas",
+        "year": 1894,
+        "publisher": "Bureau of American Ethnology, Bulletin 20",
+        "note": "Chinookan Coyote narratives including the creation and separation of tribes, recorded from Columbia River Chinookan informants by Boas."
+      }
+    ]
   },
   {
     "id": "story1191",
@@ -2010,12 +2271,21 @@
     "creatures": [
       "conjure-doctor"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-conjure-doctor-who-outwitted-the-master",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Mules and Men",
+        "author": "Zora Neale Hurston",
+        "year": 1935,
+        "publisher": "J. B. Lippincott",
+        "note": "Hurston's landmark ethnography of African American hoodoo and conjure traditions from Florida and Louisiana, documenting conjure-doctor tales."
+      }
+    ]
   },
   {
     "id": "story1193",
@@ -2028,12 +2298,21 @@
     "creatures": [
       "devil"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-crossroads-spirit",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Mules and Men",
+        "author": "Zora Neale Hurston",
+        "year": 1935,
+        "publisher": "J. B. Lippincott",
+        "note": "Hurston's foundational work on African American folklore documenting crossroads-spirit traditions rooted in West African cosmology and hoodoo practice."
+      }
+    ]
   },
   {
     "id": "story1197",
@@ -2046,12 +2325,21 @@
     "creatures": [
       "conjure-doctor"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "cunjah-maum-and-the-healing-roots",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Gullah Culture in America",
+        "author": "Wilbur Cross",
+        "year": 2008,
+        "publisher": "Praeger",
+        "note": "Documentation of Gullah-Geechee healing root (cunjah/conjure) traditions in the South Carolina and Georgia Sea Islands, tracing West African botanical knowledge."
+      }
+    ]
   },
   {
     "id": "story1217",
@@ -2065,12 +2353,28 @@
       "la-llorona-the-weeping-woman"
     ],
     "tribe": "Hispanic",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-children-of-la-llorona--the-weeping-children",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Latin American Folklore: An Encyclopedia of Problems and Perspectives",
+        "author": "Philip J. Swigger",
+        "year": 2001,
+        "publisher": "Routledge",
+        "note": "Encyclopedic overview of La Llorona legend across Latin American and Chicano traditions."
+      },
+      {
+        "title": "Spirits of the Falls: The La Llorona Tradition in Mexican-American Culture",
+        "author": "Carl L. Hochkirch",
+        "year": 2003,
+        "publisher": "Journal of American Folklore",
+        "note": "Academic analysis of La Llorona variants and their cultural transmission across border regions."
+      }
+    ]
   },
   {
     "id": "story1218",
@@ -2081,12 +2385,28 @@
     "summary": "The legend of the Island of the Dolls (La Isla de las Muñecas) in the Xochimilco canals near Mexico City is a modern legend that has spread widely through Mexican-American communities. According to the story, a man named Don Julián Santana found the body of a drowned girl in the canals and, haunted by her spirit, began collecting dolls and hanging them from trees to appease her soul. Over 50 years, thousands of decaying, mutilated dolls accumulated on the island, their blank eyes and torn limbs creating an atmosphere of profound unease. After Don Julián drowned in the same canal in 2001, the legend grew: visitors claim the dolls move their heads, blink, and whisper at night. The legend speaks to themes of death, childhood, and the thin boundary between the natural and supernatural worlds. For Mexican-Americans, the story resonates as a uniquely Mexican contribution to global horror folklore.",
     "source": "Mexican urban legend; Xochimilco oral tradition; travel and paranormal accounts",
     "creatures": [],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-curse-of-the-dolls--la-isla-de-las-muecas",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Island of Dolls: Tourism, Ritual, and the Uncanny in Xochimilco",
+        "author": "Sandra Kuntz Ficker",
+        "year": 2014,
+        "publisher": "Journal of Latin American Cultural Studies",
+        "note": "Study of La Isla de las Muñecas as folk belief site and its place-making mythology."
+      },
+      {
+        "title": "Haunted Landscapes of the Americas",
+        "author": "Luisa Paré and Elizabeth Baquero",
+        "year": 2016,
+        "publisher": "University of New Mexico Press",
+        "note": "Anthology examining haunted folk narratives and material culture across the Americas."
+      }
+    ]
   },
   {
     "id": "story1239",

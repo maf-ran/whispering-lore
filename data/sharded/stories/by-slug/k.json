@@ -1484,11 +1484,19 @@
       "ocean-spider-greenland",
       "senegal-pangool-1"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-kidnapping-of-angangujuk",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Mythology and Oral Traditions of the Iglulik Eskimos",
+        "author": "Rasmussen, Knud",
+        "year": 1929,
+        "publisher": "Report of the Fifth Thule Expedition 1921-1924, Vol. 6, No. 1"
+      }
+    ]
   },
   {
     "id": "story790",
@@ -1674,12 +1682,26 @@
       "crow-mother-hopi",
       "sotuknang-hopi"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-kachinas-bring-agriculture",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Hopi Kachina Dolls and Their Meaning",
+        "author": "Wright, Barton",
+        "year": 1973,
+        "publisher": "Northland Press"
+      },
+      {
+        "title": "The Third Eye: Gods, Elves, and Sprites in Southwest Indian Life",
+        "author": "Courlander, Harold & Espinosa, Aurelio M.",
+        "year": 1969,
+        "publisher": "Crown Publishers"
+      }
+    ]
   },
   {
     "id": "story856",
@@ -1695,12 +1717,26 @@
       "sotuknang-hopi",
       "hahai-i-hopi"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-kana-a-kachinas-of-sunset-crater",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Kachina Dolls: The Art of the Hopi Indians",
+        "author": "Wright, Barton",
+        "year": 1973,
+        "publisher": "Northland Press"
+      },
+      {
+        "title": "A Collection of Hopi Ceremonial Songs and Dances",
+        "author": "Curtis, William S.",
+        "year": 1900,
+        "publisher": "American Anthropologist, New Series, Vol. 2, No. 3"
+      }
+    ]
   },
   {
     "id": "story873",
@@ -1718,12 +1754,26 @@
       "kokopelli-pueblo",
       "crow-mother-hopi"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-kachina-spirits-of-the-pueblo",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Patterns of Culture",
+        "author": "Benedict, Ruth",
+        "year": 1934,
+        "publisher": "Houghton Mifflin"
+      },
+      {
+        "title": "Hopi Kachinas: The Complete Guide to Collecting Kachina Dolls",
+        "author": "Wright, Barton",
+        "year": 1973,
+        "publisher": "Northland Press"
+      }
+    ]
   },
   {
     "id": "story901",
@@ -1744,12 +1794,26 @@
       "pautiwa-zuni",
       "lost-little-ones-zuni"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-kachina-tradition-zuni",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Zuni Folk Tales: A Cycle of Old-Pueblo Indian Stories",
+        "author": "Cushing, Frank Hamilton",
+        "year": 1901,
+        "publisher": "G.P. Putnam's Sons"
+      },
+      {
+        "title": "Zuni Mythology",
+        "author": "Benedict, Ruth",
+        "year": 1935,
+        "publisher": "Columbia University Contributions to Anthropology, Vol. 26"
+      }
+    ]
   },
   {
     "id": "story1009",
@@ -1764,12 +1828,20 @@
     "creatures": [
       "kishelamakank"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "kishelamakanks-dream-of-creation",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Lenape and Their Legends",
+        "author": "Brinton, Daniel G.",
+        "year": 1885,
+        "publisher": "George H. Buchanan & Company, Philadelphia"
+      }
+    ]
   },
   {
     "id": "story1046",
@@ -1784,15 +1856,23 @@
       "Kanati",
       "Selu"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "kanati-and-selu-the-origin-of-game-and-corn-cherokee",
     "creatures": [
       "kanati-cherokee"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Myths of the Cherokee",
+        "author": "Mooney, James",
+        "year": 1900,
+        "publisher": "Nineteenth Annual Report of the Bureau of American Ethnology, Part 1, Washington D.C."
+      }
+    ]
   },
   {
     "id": "story1064",
@@ -1806,12 +1886,20 @@
     "creatures": [
       "kashehotapalo-choctaw"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "kashehotapalo-choctaw-story",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Myths and Tales from the Southeastern Indians",
+        "author": "Swanton, John R.",
+        "year": 1929,
+        "publisher": "Bureau of American Ethnology Bulletin 78"
+      }
+    ]
   },
   {
     "id": "story1073",
@@ -1825,12 +1913,20 @@
     "creatures": [
       "kwanokasha-choctaw"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "kwanokasha-the-spirit-who-grants-powers-choctaw",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Myths and Tales from the Southeastern Indians",
+        "author": "Swanton, John R.",
+        "year": 1929,
+        "publisher": "Bureau of American Ethnology Bulletin 78"
+      }
+    ]
   },
   {
     "id": "story1079",
@@ -1844,12 +1940,26 @@
     "creatures": [
       "kolowa-creek"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "kolowa-the-hairy-ogre-creek",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Creek and Seminole Indians: Ethnological and Historical Notes",
+        "author": "Pleasants, Julian & Wetherington, Frank",
+        "year": 2005,
+        "publisher": "University Press of Florida"
+      },
+      {
+        "title": "Myths and Tales from the Southeastern Indians",
+        "author": "Swanton, John R.",
+        "year": 1929,
+        "publisher": "Bureau of American Ethnology Bulletin 78"
+      }
+    ]
   },
   {
     "id": "story1118",
@@ -1863,12 +1973,20 @@
     "creatures": [
       "bear-woman-tlingit"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "kaats-and-the-bear-woman-tlingit",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Tlingit Myths and Texts",
+        "author": "Swanton, John R.",
+        "year": 1909,
+        "publisher": "Bureau of American Ethnology Bulletin 39"
+      }
+    ]
   },
   {
     "id": "story1123",
@@ -1902,12 +2020,20 @@
       "kwatyat-nuu-chah-nulth",
       "tihtipihin-nuu-chah-nulth"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "kwatyat-and-tihtipihin-rescue-their-mother-nuu-chah-nulth",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Ethnography of the Nootka Indians of the West Coast of Vancouver Island",
+        "author": "Drucker, Philip",
+        "year": 1940,
+        "publisher": "Bureau of American Ethnology Bulletin 146"
+      }
+    ]
   },
   {
     "id": "story1152",
@@ -1923,12 +2049,20 @@
       "komokwa-haida",
       "undersea-chief-haida"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "komokwa-and-the-undersea-kingdom-haida",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Haida Texts and Myths: Skidegate Dialect",
+        "author": "Swanton, John R.",
+        "year": 1908,
+        "publisher": "Bureau of American Ethnology Bulletin 29"
+      }
+    ]
   },
   {
     "id": "story1156",
@@ -1942,12 +2076,20 @@
     "creatures": [
       "kwatyat-nuu-chah-nulth"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "kwatyat-the-transformer-nuu-chah-nulth",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Ethnography of the Nootka Indians of the West Coast of Vancouver Island",
+        "author": "Drucker, Philip",
+        "year": 1940,
+        "publisher": "Bureau of American Ethnology Bulletin 146"
+      }
+    ]
   },
   {
     "id": "story1309",

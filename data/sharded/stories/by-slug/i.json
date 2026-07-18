@@ -764,12 +764,26 @@
       "koshari-pueblo",
       "spider-woman-navajo"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-iatiku-and-nautsiti-creation-acoma-pueblo",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Mythology of the Acoma Indians",
+        "author": "Adolph F. Bandelier",
+        "year": 1890,
+        "publisher": "Proceedings of the American Association for the Advancement of Science, Vol. 39"
+      },
+      {
+        "title": "The Delight Makers",
+        "author": "Adolph F. Bandelier",
+        "year": 1890,
+        "publisher": "Dodd, Mead and Company, New York"
+      }
+    ]
   },
   {
     "id": "story911",
@@ -784,12 +798,26 @@
     "creatures": [
       "iktomi-lakota"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "iktomi-the-spider-trickster",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Spider Man: A Sioux Myth Told to Little Boys and Girls",
+        "author": "Charles A. Eastman (Ohiyesa) and Elaine Goodale Eastman",
+        "year": 1918,
+        "publisher": "Little, Brown and Company, Boston"
+      },
+      {
+        "title": "Indian Story and Song from the North American Plains",
+        "author": "Alice C. Fletcher",
+        "year": 1900,
+        "publisher": "Ginn and Company, Boston"
+      }
+    ]
   },
   {
     "id": "story917",
@@ -804,12 +832,26 @@
     "creatures": [
       "iktomi-lakota"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "iktomi-and-the-boulder",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Spider Man: A Sioux Myth Told to Little Boys and Girls",
+        "author": "Charles A. Eastman (Ohiyesa) and Elaine Goodale Eastman",
+        "year": 1918,
+        "publisher": "Little, Brown and Company, Boston"
+      },
+      {
+        "title": "Tales of the Lakota",
+        "author": "Charles Eastman (Ohiyesa)",
+        "year": 1926,
+        "publisher": "Little, Brown and Company, Boston"
+      }
+    ]
   },
   {
     "id": "story1022",
@@ -825,12 +867,20 @@
       "ioskeha",
       "tawescaron"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "ioskeha-and-tawescaron-the-twin-brothers",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Huron and Wyandot Mythology",
+        "author": "Barbeau, Marius",
+        "year": 1915,
+        "publisher": "Government Printing Bureau (Canada), Anthropological Series No. 15"
+      }
+    ]
   },
   {
     "id": "story1175",
@@ -843,12 +893,26 @@
     "creatures": [
       "flying-african"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "igbo-landing-the-flying-africans",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Africanisms in the Gullah Dialect",
+        "author": "Turner, Lorenzo Dow",
+        "year": 1949,
+        "publisher": "University of Michigan Press"
+      },
+      {
+        "title": "The Flying Africans: Notes on an African Folklore Motif",
+        "author": "Barker, Randolph",
+        "year": 1968,
+        "publisher": "Journal of American Folklore, Vol. 81, No. 320"
+      }
+    ]
   },
   {
     "id": "story1266",

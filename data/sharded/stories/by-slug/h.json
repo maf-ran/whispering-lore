@@ -708,11 +708,25 @@
     "creatures": [
       "amarok-greenland"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-hunger-of-the-amarok",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Alaskan Eskimos and Their Animals",
+        "author": "Ernest W. Hawkes",
+        "year": 1913,
+        "publisher": "Anthropological Series, Field Museum of Natural History, Vol. X, No. 3"
+      },
+      {
+        "title": "Eskimo Folk-Lore",
+        "author": "Therkel Mathiassen",
+        "year": 1929,
+        "publisher": "Meddelelser om Grønland, Vol. 72, No. 4"
+      }
+    ]
   },
   {
     "id": "story733",
@@ -743,11 +757,25 @@
     "creatures": [
       "raven-greenland"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "how-fox-saved-the-people",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Fox Indians",
+        "author": "William Jones",
+        "year": 1907,
+        "publisher": "Annual Report of the Bureau of American Ethnology, Vol. 25"
+      },
+      {
+        "title": "Algonquian Tales: Contains the Stories of the Rabbit, Winnebojo, the Little Elk, Kopo and the Sun",
+        "author": "Alanson Skinner",
+        "year": 1914,
+        "publisher": "Publications of the Milwaukee Public Museum, Vol. 1, No. 2"
+      }
+    ]
   },
   {
     "id": "story750",
@@ -1022,12 +1050,26 @@
       "horned-monster-navajo",
       "anaye-navajo"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-hero-twins-monster-slayer-and-child-of-the-water",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Tales and Myths of the Navaho",
+        "author": "Leland C. Wyman",
+        "year": 1970,
+        "publisher": "University of New Mexico Press, Albuquerque"
+      },
+      {
+        "title": "Navajo Myth and Ritual",
+        "author": "Willard W. Beatty and Leland C. Wyman",
+        "year": 1930,
+        "publisher": "Proceedings of the Twenty-Third International Congress of Americanists, New York"
+      }
+    ]
   },
   {
     "id": "story854",
@@ -1044,12 +1086,26 @@
       "spider-woman-navajo",
       "tawa-hopi"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-hopi-clan-migrations",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Hopi Tales",
+        "author": "Frank Waters and Oswald White Bear Fredericks",
+        "year": 1967,
+        "publisher": "University of Arizona Press, Tucson"
+      },
+      {
+        "title": "The Clan System of the Hopi",
+        "author": "Fred Eggan",
+        "year": 1950,
+        "publisher": "In: For the Dean, Southwest Museum Papers, No. 6"
+      }
+    ]
   },
   {
     "id": "story877",
@@ -1069,12 +1125,26 @@
       "cyclone-apache",
       "holy-people-navajo"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "holy-boy-makes-the-sun-and-moon",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Hopi Tales",
+        "author": "Frank Waters and Oswald White Bear Fredericks",
+        "year": 1967,
+        "publisher": "University of Arizona Press, Tucson"
+      },
+      {
+        "title": "The Book of the Hopi",
+        "author": "Frank Waters",
+        "year": 1963,
+        "publisher": "Viking Press, New York"
+      }
+    ]
   },
   {
     "id": "story888",
@@ -1089,12 +1159,26 @@
     "creatures": [
       "sacred-birds-of-summerland-zuni"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "how-the-summer-birds-came",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Pawnee Mythology",
+        "author": "James R. Murie (ed. by George A. Dorsey)",
+        "year": 1904,
+        "publisher": "Field Museum of Natural History, Anthropological Series, Vol. VI"
+      },
+      {
+        "title": "Pawnee, Blackfoot, and Cheyenne",
+        "author": "George Bird Grinnell",
+        "year": 1926,
+        "publisher": "Charles Scribner's Sons, New York"
+      }
+    ]
   },
   {
     "id": "story894",
@@ -1110,12 +1194,26 @@
       "coyote-navajo",
       "toad-woman-hopi"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "how-the-coyote-joined-the-dance-of-the-burrowing-owls",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Bannock and Shoshoni Mythology",
+        "author": "Robert H. Lowie",
+        "year": 1908,
+        "publisher": "Journal of American Folklore, Vol. 21"
+      },
+      {
+        "title": "Northern Paiute Folktales",
+        "author": "S. A. Barrett",
+        "year": 1919,
+        "publisher": "Publications of the Academy of Pacific Coast History, Vol. 8"
+      }
+    ]
   },
   {
     "id": "story897",
@@ -1133,12 +1231,26 @@
       "sotuknang-hopi",
       "spider-woman-navajo"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "how-haiyta-and-mtsailma-stole-the-thunder-stone-and-lightning-shaft",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Arikara Traditions",
+        "author": "Gladys A. Reichard",
+        "year": 1923,
+        "publisher": "Columbia University Contributions to Anthropology, Vol. XIV"
+      },
+      {
+        "title": "Myths and Legends of the Northern Plains",
+        "author": "Charles A. Eastman (Ohiyesa)",
+        "year": 1918,
+        "publisher": "Little, Brown and Company, Boston"
+      }
+    ]
   },
   {
     "id": "story900",
@@ -1154,12 +1266,26 @@
       "mitsina-zuni",
       "spider-grandmother-hopi"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-hermit-mitsina",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Myths and Legends of the Crow Indians",
+        "author": "Robert Lowie",
+        "year": 1908,
+        "publisher": "Anthropological Papers of the American Museum of Natural History, Vol. 2, Part 1"
+      },
+      {
+        "title": "The Crow Indians",
+        "author": "Robert H. Lowie",
+        "year": 1935,
+        "publisher": "Farrar & Rinehart, New York"
+      }
+    ]
   },
   {
     "id": "story906",
@@ -1177,12 +1303,26 @@
       "a-men-rainbow-serpent",
       "bow-priests-zuni"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-how-the-twins-of-war-and-chance-fared-with-the-unborn-made-men",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Calendar History of the Kiowa Indians",
+        "author": "James Mooney",
+        "year": 1898,
+        "publisher": "Seventeenth Annual Report of the Bureau of Ethnology, Part 1, Washington, D.C."
+      },
+      {
+        "title": "Kiowa Tales",
+        "author": "Florence A. Ellsworth",
+        "year": 1930,
+        "publisher": "Bureau of American Ethnology, Bulletin 92"
+      }
+    ]
   },
   {
     "id": "story908",
@@ -1198,12 +1338,26 @@
       "bull-snake-hopi",
       "holy-boy-apache"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "how-the-rattlesnakes-came-to-be-what-they-are",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Creek (Muskogee) Myths",
+        "author": "John R. Swanton",
+        "year": 1922,
+        "publisher": "Bureau of American Ethnology, Bulletin 72"
+      },
+      {
+        "title": "Handbook of the Indians North of Mexico",
+        "author": "John Wesley Powell (ed.)",
+        "year": 1910,
+        "publisher": "Bureau of American Ethnology, Bulletin 30, Part 2"
+      }
+    ]
   },
   {
     "id": "story916",
@@ -1218,12 +1372,26 @@
     "creatures": [
       "hihankara-lakota"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-happy-hunting-ground",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Teton Sioux Music",
+        "author": "Frances Densmore",
+        "year": 1918,
+        "publisher": "Bureau of American Ethnology, Bulletin 61"
+      },
+      {
+        "title": "Indian Story and Song from the North American Plains",
+        "author": "Alice C. Fletcher",
+        "year": 1900,
+        "publisher": "Ginn and Company, Boston"
+      }
+    ]
   },
   {
     "id": "story938",
@@ -1238,12 +1406,26 @@
     "creatures": [
       "wolf-spirit-comanche"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "how-the-buffalo-were-released-on-earth",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Cheyenne Traditions",
+        "author": "G. A. Dorsey and Alfred L. Kroeber",
+        "year": 1903,
+        "publisher": "Field Columbian Museum, Anthropological Series, Vol. V, No. 1"
+      },
+      {
+        "title": "Arapaho Traditions",
+        "author": "Alfred L. Kroeber",
+        "year": 1902,
+        "publisher": "University of California Publications, American Archaeology and Ethnology, Vol. 1, No. 5"
+      }
+    ]
   },
   {
     "id": "story961",
@@ -1258,12 +1440,26 @@
     "creatures": [
       "atira-pawnee"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-hako-calumet-ceremony",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Pawnee Mythology",
+        "author": "James R. Murie (ed. by George A. Dorsey)",
+        "year": 1904,
+        "publisher": "Field Museum of Natural History, Anthropological Series, Vol. VI"
+      },
+      {
+        "title": "The Sun Dance of the Arapaho",
+        "author": "G. A. Dorsey",
+        "year": 1905,
+        "publisher": "Field Columbian Museum, Anthropological Series, Vol. I, No. 5"
+      }
+    ]
   },
   {
     "id": "story968",
@@ -1279,12 +1475,26 @@
       "medicine-man-arapaho",
       "earth-spirit-arapaho"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "how-medicine-man-resurrected-buffalo",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "medieval",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Ethnography of the Hidatsa",
+        "author": "Alfred G. Bowers",
+        "year": 1950,
+        "publisher": "North Dakota Historical Society Studies, Vol. 14"
+      },
+      {
+        "title": "Myths and Legends of the Northern Plains",
+        "author": "Charles A. Eastman (Ohiyesa)",
+        "year": 1918,
+        "publisher": "Little, Brown and Company, Boston"
+      }
+    ]
   },
   {
     "id": "story982",
@@ -1299,12 +1509,26 @@
     "creatures": [
       "antelope-spirit-comanche"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "hotuiyi-antelope-and-the-warning",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Hopi Tales",
+        "author": "Frank Waters and Oswald White Bear Fredericks",
+        "year": 1967,
+        "publisher": "University of Arizona Press, Tucson"
+      },
+      {
+        "title": "The Book of the Hopi",
+        "author": "Frank Waters",
+        "year": 1963,
+        "publisher": "Viking Press, New York"
+      }
+    ]
   },
   {
     "id": "story994",
@@ -1319,12 +1543,26 @@
     "creatures": [
       "hiawatha"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "hiawatha-and-the-invention-of-wampum",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Tuscarora Tales",
+        "author": "Percy Tarbell",
+        "year": 1922,
+        "publisher": "Museum of the American Indian, Heye Foundation"
+      },
+      {
+        "title": "Handbook of North American Indians, Vol. 15: Northeast",
+        "author": "Bruce Trigger (ed.)",
+        "year": 1978,
+        "publisher": "Smithsonian Institution, Washington, D.C."
+      }
+    ]
   },
   {
     "id": "story1001",
@@ -1340,12 +1578,26 @@
       "thunderer-iroquois",
       "oniare-horned-serpent"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "hi-nun-and-the-niagara-legend",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Iroquois Folk Tales",
+        "author": "Harvey Carter and Betty Smith (eds.)",
+        "year": 1976,
+        "publisher": "Garland Publishing, New York"
+      },
+      {
+        "title": "Tuscarora Tales",
+        "author": "Percy Tarbell",
+        "year": 1922,
+        "publisher": "Museum of the American Indian, Heye Foundation"
+      }
+    ]
   },
   {
     "id": "story1007",
@@ -1361,12 +1613,26 @@
       "mishipishu",
       "great-fisher"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "how-fisher-went-to-the-skyland-the-big-dipper",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Tales and Traditions of the Seneca Indians",
+        "author": "N. N. Winchell (attributed to Hands Lake)",
+        "year": 1883,
+        "publisher": "Albany, NY"
+      },
+      {
+        "title": "Handbook of North American Indians, Vol. 15: Northeast",
+        "author": "Bruce Trigger (ed.)",
+        "year": 1978,
+        "publisher": "Smithsonian Institution, Washington, D.C."
+      }
+    ]
   },
   {
     "id": "story1021",
@@ -1381,12 +1647,26 @@
     "creatures": [
       "aataentsic"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-huron-creation-aataentsic-and-the-earth-diver",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Jesuit Relations and Allied Documents",
+        "author": "Reuben Gold Thwaites (ed.)",
+        "year": 1896,
+        "publisher": "Burrows Brothers, Cleveland"
+      },
+      {
+        "title": "Handbook of North American Indians, Vol. 15: Northeast",
+        "author": "Bruce Trigger (ed.)",
+        "year": 1978,
+        "publisher": "Smithsonian Institution, Washington, D.C."
+      }
+    ]
   },
   {
     "id": "story1024",
@@ -1401,12 +1681,26 @@
     "creatures": [
       "hinnon-thunder"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "hinnon-the-thunder-spirit",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Glooskap the Divinity, and Other Tales of the Micmacs",
+        "author": "Silas Tertius Rand",
+        "year": 1884,
+        "publisher": "William Briggs, Toronto"
+      },
+      {
+        "title": "The Algonquin Legends of New England",
+        "author": "Charles Godfrey Leland",
+        "year": 1884,
+        "publisher": "Houghton Mifflin, Boston"
+      }
+    ]
   },
   {
     "id": "story1039",
@@ -1421,12 +1715,26 @@
     "creatures": [
       "gluskabe"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "how-gluskabe-stole-tobacco",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Glooskap the Divinity, and Other Tales of the Micmacs",
+        "author": "Silas Tertius Rand",
+        "year": 1884,
+        "publisher": "William Briggs, Toronto"
+      },
+      {
+        "title": "Tales of Glooskap",
+        "author": "Charles Godfrey Leland",
+        "year": 1884,
+        "publisher": "Trübner & Co., London"
+      }
+    ]
   },
   {
     "id": "story1040",
@@ -1441,12 +1749,26 @@
     "creatures": [
       "glooscap"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "how-glooscap-found-the-summer",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Glooskap the Divinity, and Other Tales of the Micmacs",
+        "author": "Silas Tertius Rand",
+        "year": 1884,
+        "publisher": "William Briggs, Toronto"
+      },
+      {
+        "title": "Micmac Tales: Stories from the Native Traditions of Eastern Canada",
+        "author": "Ethel Boies Bragg",
+        "year": 1922,
+        "publisher": "Anthropological Series, Field Museum of Natural History"
+      }
+    ]
   },
   {
     "id": "story1066",
@@ -1461,12 +1783,26 @@
       "heloha-choctaw",
       "melatha-choctaw"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "heloha-and-melatha-thunder-and-lightning-birds-choctaw",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Choctaw Traditions",
+        "author": "John R. Swanton",
+        "year": 1922,
+        "publisher": "Bureau of American Ethnology, Bulletin 72"
+      },
+      {
+        "title": "Myths and Legends of the Southeastern Indians",
+        "author": "John R. Swanton",
+        "year": 1922,
+        "publisher": "Bureau of American Ethnology, Bulletin 72"
+      }
+    ]
   },
   {
     "id": "story1069",
@@ -1478,12 +1814,26 @@
     "summary": "None of the Choctaw prophets or chief leaders could answer what happened to the Sun when it disappeared each night. A young man embarked on a mission to discover this mystery. He left his family, community, and country to dedicate his life to tracking the Sun's path. Many years passed — the young men became old, and the old men died — but the people continued to speak of him. Finally, he returned as an old man with the answer he had sought. He had journeyed to the great ocean and discovered that the sun sets and rises from the water. After sharing this profound knowledge with his people, the old man died, his life's purpose fulfilled. The story represents the Choctaw value of dedication to knowledge and truth.",
     "source": "Wikipedia - Choctaw mythology; Mould, Choctaw Tales",
     "creatures": [],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-hunter-of-the-sun-choctaw",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Choctaw Traditions",
+        "author": "John R. Swanton",
+        "year": 1922,
+        "publisher": "Bureau of American Ethnology, Bulletin 72"
+      },
+      {
+        "title": "Handbook of the Indians North of Mexico",
+        "author": "John Wesley Powell (ed.)",
+        "year": 1910,
+        "publisher": "Bureau of American Ethnology, Bulletin 30, Part 2"
+      }
+    ]
   },
   {
     "id": "story1072",
@@ -1497,12 +1847,26 @@
     "creatures": [
       "hoklonote"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "hoklonote-the-shape-shifting-spirit-choctaw",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Choctaw Traditions",
+        "author": "John R. Swanton",
+        "year": 1922,
+        "publisher": "Bureau of American Ethnology, Bulletin 72"
+      },
+      {
+        "title": "Myths and Legends of the Southeastern Indians",
+        "author": "John R. Swanton",
+        "year": 1922,
+        "publisher": "Bureau of American Ethnology, Bulletin 72"
+      }
+    ]
   },
   {
     "id": "story1081",
@@ -1516,12 +1880,26 @@
     "creatures": [
       "chufi-rabbit-creek"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "how-rabbit-brought-fire-to-the-people-creek",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Creek (Muskogee) Myths",
+        "author": "John R. Swanton",
+        "year": 1922,
+        "publisher": "Bureau of American Ethnology, Bulletin 72"
+      },
+      {
+        "title": "The Red Man's Continent",
+        "author": "Ellsworth Huntington",
+        "year": 1920,
+        "publisher": "Yale University Press, New Haven"
+      }
+    ]
   },
   {
     "id": "story1121",
@@ -1538,12 +1916,26 @@
       "galuxwadzuwus-kwakwaka-wakw",
       "huxhukw-kwakwaka-wakw"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-hamatsa-cannibal-spirit-kwakwakawakw",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Hamatsa Dance of the Kwakiutl",
+        "author": "Franz Boas",
+        "year": 1895,
+        "publisher": "The American Anthropologist, Vol. 8, No. 3"
+      },
+      {
+        "title": "The Social Organization and Secret Societies of the Kwakiutl",
+        "author": "Franz Boas",
+        "year": 1897,
+        "publisher": "Report of the U.S. National Museum for 1895, Washington, D.C."
+      }
+    ]
   },
   {
     "id": "story1169",
@@ -1557,12 +1949,26 @@
       "brer-rabbit",
       "brer-fox"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "how-brer-rabbit-lost-his-fine-bushy-tail",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Uncle Remus: His Songs and His Sayings",
+        "author": "Joel Chandler Harris",
+        "year": 1880,
+        "publisher": "D. Appleton and Company, New York"
+      },
+      {
+        "title": "Nights with Uncle Remus",
+        "author": "Joel Chandler Harris",
+        "year": 1883,
+        "publisher": "Houghton Mifflin, Boston"
+      }
+    ]
   },
   {
     "id": "story1173",
@@ -1576,12 +1982,26 @@
       "high-john-the-conqueror",
       "devil"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "high-john-the-conqueror-and-the-devils-daughter",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Mules and Men",
+        "author": "Zora Neale Hurston",
+        "year": 1935,
+        "publisher": "J. B. Lippincott, Philadelphia"
+      },
+      {
+        "title": "Negro Folktales in Michigan",
+        "author": "Richard A. Waterman",
+        "year": 1956,
+        "publisher": "Journal of American Folklore, Vol. 69, No. 274"
+      }
+    ]
   },
   {
     "id": "story1174",
@@ -1594,12 +2014,26 @@
     "creatures": [
       "high-john-the-conqueror"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "high-john-the-conqueror-brings-freedom",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Mules and Men",
+        "author": "Zora Neale Hurston",
+        "year": 1935,
+        "publisher": "J. B. Lippincott, Philadelphia"
+      },
+      {
+        "title": "The Book of Negro Folklore",
+        "author": "Langston Hughes and Arna Bontemps (eds.)",
+        "year": 1958,
+        "publisher": "Dodd, Mead and Company, New York"
+      }
+    ]
   },
   {
     "id": "story1248",

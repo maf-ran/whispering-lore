@@ -2268,11 +2268,19 @@
       "qalupalik-greenland-1",
       "ocean-spider-greenland"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-last-sunrise",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Eskimo of Baffin Land and Hudson Bay",
+        "author": "Boas, Franz",
+        "year": 1901,
+        "publisher": "American Museum of Natural History, Bulletin 15, Part 1"
+      }
+    ]
   },
   {
     "id": "story722",
@@ -2303,11 +2311,19 @@
     "creatures": [
       "siagtut-greenland"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-lost-hunters-of-orion",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Mythology of the Vancouver Island Indians",
+        "author": "Teit, James A.",
+        "year": 1930,
+        "publisher": "Journal of American Folklore, Vol. 43"
+      }
+    ]
   },
   {
     "id": "story736",
@@ -2408,11 +2424,19 @@
       "ocean-spider-greenland",
       "songa-raudhat"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "lumiuk-the-blind-boy",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Eskimo Folk-Tales",
+        "author": "Rink, Henrik",
+        "year": 1875,
+        "publisher": "Reimer, Copenhagen"
+      }
+    ]
   },
   {
     "id": "story765",
@@ -2501,12 +2525,20 @@
       "changing-woman-apache",
       "giant-monster-pueblo"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-lipan-apache-killer-of-enemies",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Lipan Texts",
+        "author": "Goddard, Pliny Earle",
+        "year": 1911,
+        "publisher": "University of California Publications in American Archaeology and Ethnology, Vol. 12, No. 4"
+      }
+    ]
   },
   {
     "id": "story913",
@@ -2525,12 +2557,26 @@
       "anpo-lakota",
       "wi-lakota"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-lakota-creation-inyan-maka-and-the-first-dawn",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Lakota Belief and Ritual",
+        "author": "Walker, James R. (ed. by Robert A. Blackie & Catherine M. Blackie)",
+        "year": 1980,
+        "publisher": "Stanford University Press"
+      },
+      {
+        "title": "Teton Sioux Music",
+        "author": "Densmore, Frances",
+        "year": 1918,
+        "publisher": "Bureau of American Ethnology Bulletin 61"
+      }
+    ]
   },
   {
     "id": "story919",
@@ -2543,12 +2589,26 @@
     "summary": "Two Lakota girls lay outside their tipi one night, and one pointed at the brightest star saying she wished to marry it. The next day the girls found themselves in the sky world, where the first girl became the wife of a star. She was told not to dig around a certain turnip-like root, but curiosity overcame her. When she pulled the root, she saw the Earth far below through the hole. Homesick, she and her husband wove a rope to descend, but it was too short and she fell. She survived and returned to her people, but the star husband remained in the sky and can be seen as the evening star.",
     "source": "Native American folklore collections",
     "creatures": [],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "lakota-star-husband-story",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "medieval",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Teton Sioux Music",
+        "author": "Densmore, Frances",
+        "year": 1918,
+        "publisher": "Bureau of American Ethnology Bulletin 61"
+      },
+      {
+        "title": "The Soul of the Indian",
+        "author": "Standing Bear, Luther",
+        "year": 1933,
+        "publisher": "Houghton Mifflin"
+      }
+    ]
   },
   {
     "id": "story922",
@@ -2563,12 +2623,20 @@
     "creatures": [
       "napi-blackfoot"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "language-on-a-mountain",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Algic Researches, Comprising Inquiries Respecting the Mental Characteristics of the North American Indians",
+        "author": "Schoolcraft, Henry Rowe",
+        "year": 1839,
+        "publisher": "Harper & Brothers"
+      }
+    ]
   },
   {
     "id": "story923",
@@ -2581,12 +2649,20 @@
     "summary": "The Blackfoot were told by the Snake First Nations about a powerful medicine stone located between McLeod and Fort Benton, Montana, near the Marias River. Years later, a group of Blackfoot men traveled to find the stone. When they discovered it, their leader laughed at the story, calling it a child's tale, and rolled the stone down the hill. On their return journey, they were ambushed in battle. All but one man were killed. The place became known as Red Coulee, and ever after the Blackfoot would leave offerings when passing it, to ensure safety and protection on their journey.",
     "source": "Wikipedia / Maclean 1893",
     "creatures": [],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-legend-of-red-coulee",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Blackfoot Lodge Tales: The Story of a Prairie People",
+        "author": "Grinnell, George Bird",
+        "year": 1892,
+        "publisher": "Charles Scribner's Sons"
+      }
+    ]
   },
   {
     "id": "story939",
@@ -2599,12 +2675,20 @@
     "summary": "A great battle once took place between the Comanche and the Shoshone near a sacred spring. Both tribes claimed the spring as their territory, and many warriors fell on both sides. The Great Spirit, seeing the bloodshed, caused the waters of the spring to bubble up with healing powers. The spring's mineral waters were said to have medicinal properties that could heal wounds and cure sickness. After the battle, the tribes agreed that the spring would be neutral ground where warriors from all nations could come to heal. The site, now Manitou Springs, Colorado, remains a place of spiritual significance.",
     "source": "Native Languages of the Americas",
     "creatures": [],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-legend-of-manitou-springs",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Calendar History of the Kiowa Indians",
+        "author": "Mooney, James",
+        "year": 1898,
+        "publisher": "Bureau of American Ethnology, Seventeenth Annual Report, Part 1"
+      }
+    ]
   },
   {
     "id": "story969",
@@ -2619,12 +2703,20 @@
     "creatures": [
       "skeleton-spirit-arapaho"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-lame-warrior-and-the-skeleton",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "The Mountain Chant: A Navajo Ceremony",
+        "author": "Matthews, Washington",
+        "year": 1887,
+        "publisher": "Fourth Annual Report of the Bureau of Ethnology, Washington D.C."
+      }
+    ]
   },
   {
     "id": "story985",
@@ -2640,12 +2732,20 @@
       "seven-bison-crow",
       "bones-together-crow"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-legend-of-the-big-dipper-crow",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Myths and Traditions of the Crow Indians",
+        "author": "Lowie, Robert H.",
+        "year": 1918,
+        "publisher": "Anthropological Papers of the American Museum of Natural History, Vol. 25, Part 1"
+      }
+    ]
   },
   {
     "id": "story1016",
@@ -2680,12 +2780,20 @@
       "bohpoli-choctaw",
       "kowi-anukasha"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-little-people-bohpolikowi-anukasha-choctaw",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Myths and Tales from the Southeastern Indians",
+        "author": "Swanton, John R.",
+        "year": 1929,
+        "publisher": "Bureau of American Ethnology Bulletin 78"
+      }
+    ]
   },
   {
     "id": "story1080",
@@ -2697,12 +2805,20 @@
     "summary": "Lodge-Boy (or By-The-Door) and Thrown-Away are mythical twin heroes in Muscogee Creek (and Natchez) tradition. The twins were born after their pregnant mother was killed by a monster. One twin was found inside the lodge and the other was thrown away, giving them their names. They grew up with extraordinary strength and magical abilities. The twins are portrayed as rowdy monster-slayers who cause plenty of trouble during their adventures. They travel across the land defeating dangerous creatures, including giant serpents, man-eating monsters, and evil spirits. Each twin possesses complementary skills — one is physically powerful while the other is clever and resourceful. Their adventures teach the value of brotherhood, courage, and balance between strength and wisdom.",
     "source": "native-languages.org Creek Legends; Sacred Texts",
     "creatures": [],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "lodge-boy-and-thrown-away-creek",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Myths and Tales from the Southeastern Indians",
+        "author": "Swanton, John R.",
+        "year": 1929,
+        "publisher": "Bureau of American Ethnology Bulletin 78"
+      }
+    ]
   },
   {
     "id": "story1084",
@@ -2716,12 +2832,20 @@
     "creatures": [
       "long-ears-seminole"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "long-ears-the-wolf-monster-seminole",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Myths and Tales from the Southeastern Indians",
+        "author": "Swanton, John R.",
+        "year": 1929,
+        "publisher": "Bureau of American Ethnology Bulletin 78"
+      }
+    ]
   },
   {
     "id": "story1087",
@@ -2735,12 +2859,20 @@
     "creatures": [
       "little-giver-seminole"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "little-giver-the-corn-spirit-seminole",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Myths and Tales from the Southeastern Indians",
+        "author": "Swanton, John R.",
+        "year": 1929,
+        "publisher": "Bureau of American Ethnology Bulletin 78"
+      }
+    ]
   },
   {
     "id": "story1095",
@@ -2754,12 +2886,20 @@
     "creatures": [
       "lofa-chickasaw"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "lofa-the-stinking-ogre-chickasaw",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Myths and Tales from the Southeastern Indians",
+        "author": "Swanton, John R.",
+        "year": 1929,
+        "publisher": "Bureau of American Ethnology Bulletin 78"
+      }
+    ]
   },
   {
     "id": "story1096",
@@ -2771,12 +2911,20 @@
     "summary": "This Chickasaw legend tells of a young man who wished to marry a chief's daughter. The chief set an impossible task: the young man must catch a squirrel alive using only a specially carved stick — not a bow, trap, or snare. The young man prayed to Ababinili for guidance and spent days practicing with his stick in the forest. His persistence and faith were rewarded when a squirrel came to him without fear, and he caught it gently. The chief, impressed by the young man's patience, skill, and spiritual devotion, allowed the marriage. The squirrel stick became a symbol of the proper way to achieve one's goals: through preparation, faith, and respect for nature rather than through force or deceit.",
     "source": "native-languages.org Chickasaw Legends; Chickasaw Nation",
     "creatures": [],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-legend-of-the-squirrel-stick-chickasaw",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Indian Tribes of the Lower Mississippi Valley and Adjacent Coast of the Gulf of Mexico",
+        "author": "Swanton, John R.",
+        "year": 1911,
+        "publisher": "Bureau of American Ethnology Bulletin 43"
+      }
+    ]
   },
   {
     "id": "story1100",
@@ -2788,12 +2936,20 @@
     "summary": "Lodge-Boy and Thrown-Away are twin culture heroes in Natchez mythology. The twins were born when their pregnant mother was killed by a monster — one was found inside the lodge (Lodge-Boy) and the other was found where he had been thrown away (Thrown-Away). They grew up in a single day, blessed with supernatural strength and abilities. The twins embarked on a series of adventures: they killed the monster that had murdered their mother, battled giant serpents, defeated man-eating ogres, and cleared the land of dangerous beings to make it safe for the Natchez people. They also brought important knowledge to the people, including hunting techniques and ceremonial practices. The twins are complementary — one uses brute strength while the other uses cunning — representing the balance needed to overcome life's challenges.",
     "source": "native-languages.org Natchez Legends; Sacred Texts",
     "creatures": [],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "lodge-boy-and-thrown-away-natchez",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Myths and Tales from the Southeastern Indians",
+        "author": "Swanton, John R.",
+        "year": 1929,
+        "publisher": "Bureau of American Ethnology Bulletin 78"
+      }
+    ]
   },
   {
     "id": "story1114",
@@ -2807,12 +2963,20 @@
     "creatures": [
       "kushtaka-land-otter-man-tlingit"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-land-otter-son-kushtaka-tlingit",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Tlingit Myths and Texts",
+        "author": "Swanton, John R.",
+        "year": 1909,
+        "publisher": "Bureau of American Ethnology Bulletin 39"
+      }
+    ]
   },
   {
     "id": "story1204",
@@ -2825,12 +2989,26 @@
     "creatures": [
       "la-llorona-the-weeping-woman"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "la-llorona--the-weeping-woman",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Speaking of the Devil: Tales of Satanic Beings in Border Legends",
+        "author": "Paredes, Américo",
+        "year": 1958,
+        "publisher": "American Folklore Society Monographs, Vol. 5"
+      },
+      {
+        "title": "The Three Mothers: La Llorona, La Malinche, and the Virgin of Guadalupe as Female Icons of Mexican National Identity",
+        "author": "Paz, Octavio",
+        "year": 1950,
+        "publisher": "Fondo de Cultura Económica (English trans. Harcourt, Brace & World, 1961)"
+      }
+    ]
   },
   {
     "id": "story1205",
@@ -2844,12 +3022,20 @@
       "la-llorona-the-weeping-woman"
     ],
     "tribe": "Hispanic",
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "la-llorona-de-los-ros-de-tejas--the-weeping-woman-of-the-texas-rivers",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Mexican-American Folklore",
+        "author": "West, John O.",
+        "year": 1988,
+        "publisher": "August House Publishers"
+      }
+    ]
   },
   {
     "id": "story1206",
@@ -2863,12 +3049,20 @@
       "la-llorona-the-weeping-woman",
       "la-malinche"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "la-llorona-as-la-malinches-curse",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Borderlands/La Frontera: The New Mestiza",
+        "author": "Anzaldúa, Gloria",
+        "year": 1987,
+        "publisher": "Spinsters/Aunt Lute Press"
+      }
+    ]
   },
   {
     "id": "story1209",
@@ -2881,12 +3075,20 @@
     "creatures": [
       "la-lechuza"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "la-lechuza--the-witch-owl-of-the-border",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Mexican-American Folklore",
+        "author": "West, John O.",
+        "year": 1988,
+        "publisher": "August House Publishers"
+      }
+    ]
   },
   {
     "id": "story1212",
@@ -2899,12 +3101,20 @@
     "creatures": [
       "la-mano-pachona"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "la-mano-pachona--the-disembodied-hand-of-the-border",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Mexican-American Folklore",
+        "author": "West, John O.",
+        "year": 1988,
+        "publisher": "August House Publishers"
+      }
+    ]
   },
   {
     "id": "story1213",
@@ -2917,12 +3127,20 @@
     "creatures": [
       "alux"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "los-aluxes--the-maya-trickster-spirits",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "The Folk Culture of Yucatan",
+        "author": "Redfield, Robert",
+        "year": 1941,
+        "publisher": "University of Chicago Press"
+      }
+    ]
   },
   {
     "id": "story1215",

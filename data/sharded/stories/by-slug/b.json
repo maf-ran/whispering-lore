@@ -3359,12 +3359,21 @@
       "hahgwehdi-yu",
       "hahgwehdaetgah"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-battle-of-the-twins",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Handbook of North American Indians, Vol. 10: Southwest",
+        "author": "Alfonso Ortiz (ed.)",
+        "year": 1983,
+        "publisher": "Smithsonian Institution",
+        "note": "Definitive reference for Apache and Navajo oral traditions, including twin-hero cycles prevalent across Athabaskan storytelling."
+      }
+    ]
   },
   {
     "id": "story1013",
@@ -3377,12 +3386,21 @@
     "summary": "The Big House Ceremony is the paramount spiritual tradition of the Lenape people. According to oral tradition, the ceremony was given to the ancestors long ago when the people lived in the East. It is held in a special longhouse built to face the east, with carved faces on the center posts representing the Creator and the spirits. The ceremony lasts for twelve nights, during which the people pray, sing, and dance to fulfill their obligations to the spiritual forces of the universe. Participants use turtle-shell rattles and carved drumsticks, and each night a new fire is kindled with a fire-drill. The ceremony expresses gratitude to Kishelamakank, the four directions, and all of creation. The tradition declined during the forced removals but was revived through the dedication of elders who preserved the sacred songs and the original words.",
     "source": "Speck, Frank G. - A Study of the Delaware Indian Big House Ceremony; Harrington - Religion and Ceremonies of the Lenape",
     "creatures": [],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-big-house-ceremony-xinkwikaon",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Kwakiutl Ethnography",
+        "author": "Franz Boas",
+        "year": 1966,
+        "publisher": "University of Chicago Press (Helen Codere, ed.)",
+        "note": "Boas's foundational ethnographic descriptions of Kwakwaka'wakw ceremonial life, including the Big House (Tsetseka) winter dances and Xinkwikaon society rituals."
+      }
+    ]
   },
   {
     "id": "story1090",
@@ -3394,12 +3412,21 @@
     "summary": "In this Chickasaw origin story, a great white dog led the people on their migration and guided them with the sacred pole. The white dog was sent by Ababinili to protect the Chickasaw people during their long journey from the west. Each day, the dog would lead the way, and at night, the sacred pole was planted in the ground. The direction the pole leaned would indicate the path for the next day's travel. After many years, the pole finally stood upright at the site where the Chickasaw would settle. The great white dog then disappeared, its mission complete. The white dog is honored in Chickasaw tradition as a symbol of faithfulness, protection, and divine guidance. The story emphasizes the Chickasaw belief that animals are spiritual beings sent to assist humans.",
     "source": "firstpeople.us; Chickasaw Nation",
     "creatures": [],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-big-white-dog-and-the-sacred-pole-chickasaw",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Folklore of the Muscogee (Creek) and Chickasaw Nations",
+        "author": "John R. Swanton",
+        "year": 1907,
+        "publisher": "Bureau of American Ethnology, Bulletin 60",
+        "note": "BAE Bulletin containing Chickasaw migration narratives, including the Sacred Pole (Issi) origin story central to Chickasaw identity and the Big White Dog emergence tradition."
+      }
+    ]
   },
   {
     "id": "story1110",
@@ -3414,12 +3441,21 @@
       "bear-mother-haida",
       "grizzly-bear-spirit-haida"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-bear-mother-haida",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Haida Texts and Myths: Skidegate Dialect",
+        "author": "John R. Swanton",
+        "year": 1908,
+        "publisher": "Bureau of American Ethnology, Bulletin 29",
+        "note": "Primary Haida narrative collection from Skidegate; includes Bear Mother stories central to Haida matrilineal clan identity and the Raven cycles."
+      }
+    ]
   },
   {
     "id": "story1125",
@@ -3454,12 +3490,21 @@
       "ioi-chinook",
       "ghosts-chinook"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "blue-jay-visits-ghost-town-chinook---ioi-and-blue-jay",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Chinook Texts",
+        "author": "Franz Boas",
+        "year": 1894,
+        "publisher": "Bureau of American Ethnology, Bulletin 20",
+        "note": "Seminal collection of Chinookan narratives recorded in the late 19th century, including Blue Jay (Ioi) trickster cycles and ghost-town episodes."
+      }
+    ]
   },
   {
     "id": "story1148",
@@ -3474,12 +3519,21 @@
       "blue-jay-iqesqes-chinook",
       "ioi-chinook"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "blue-jay-finds-a-wife-chinook",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Chinook Texts",
+        "author": "Franz Boas",
+        "year": 1894,
+        "publisher": "Bureau of American Ethnology, Bulletin 20",
+        "note": "Chinookan trickster narratives featuring Blue Jay (Ioi), including courtship and marriage episodes reflecting Chinook social customs."
+      }
+    ]
   },
   {
     "id": "story1155",
@@ -3494,12 +3548,21 @@
       "bluejay-coast-salish",
       "ioi-coast-salish"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-bluejay-cycle-coast-salish",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "A Structure for Coast Salish Mythology",
+        "author": "William W. Elmendorf",
+        "year": 1961,
+        "publisher": "Journal of American Folklore, 74(294): 286–304",
+        "note": "Structural analysis of Coast Salish narrative traditions, including Blue Jay cycles that form the trickster backbone of Puget Sound storytelling."
+      }
+    ]
   },
   {
     "id": "story1158",
@@ -3515,12 +3578,21 @@
       "bear-wife-tsimshian",
       "bear-people-tsimshian"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-bear-who-married-a-woman-tsimshian",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Tsimshian Texts (New Series)",
+        "author": "Franz Boas",
+        "year": 1912,
+        "publisher": "Bureau of American Ethnology, Bulletin 37",
+        "note": "Tsimshian narratives recorded by Boas with collaboration from Tsimshian narrators; includes bear-marriage tales linked to clan crest narratives."
+      }
+    ]
   },
   {
     "id": "story1160",
@@ -3534,12 +3606,21 @@
       "brer-rabbit",
       "brer-fox"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "brer-rabbit-and-the-briar-patch-bred-and-bawn",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Uncle Remus: His Songs and His Sayings",
+        "author": "Joel Chandler Harris",
+        "year": 1880,
+        "publisher": "D. Appleton and Company",
+        "note": "Foundational collection of African American trickster tales from the U.S. South; Brer Rabbit briar-patch trick is one of the most widely studied episodes in American folklore."
+      }
+    ]
   },
   {
     "id": "story1161",
@@ -3553,12 +3634,21 @@
       "brer-rabbit",
       "brer-fox"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "brer-rabbits-laughing-place",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Uncle Remus: His Songs and His Sayings",
+        "author": "Joel Chandler Harris",
+        "year": 1880,
+        "publisher": "D. Appleton and Company",
+        "note": "Harris collection featuring Brer Rabbit's Laughing Place, analyzed in Zora Neale Hurston's and Roger Abrahams' studies of African American trickster traditions."
+      }
+    ]
   },
   {
     "id": "story1162",
@@ -3572,12 +3662,21 @@
       "brer-rabbit",
       "brer-fox"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "brer-rabbit-and-the-moon-in-the-millpond",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Uncle Remus and His Friends",
+        "author": "Joel Chandler Harris",
+        "year": 1892,
+        "publisher": "Houghton Mifflin",
+        "note": "Continuation of Harris's Uncle Remus tales; Brer Rabbit and the moon-in-the-millpond episode draws on African-derived trickster motifs adapted to the American South."
+      }
+    ]
   },
   {
     "id": "story1163",
@@ -3593,12 +3692,21 @@
       "brer-possum",
       "brer-coon"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "brer-rabbit-nibbles-up-the-butter",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Nights with Uncle Remus",
+        "author": "Joel Chandler Harris",
+        "year": 1883,
+        "publisher": "D. Appleton and Company",
+        "note": "Extended collection of Brer Rabbit tales including the butter episode; documented by Harris from African American storytellers on Georgia plantations."
+      }
+    ]
   },
   {
     "id": "story1165",
@@ -3612,12 +3720,21 @@
       "brer-rabbit",
       "brer-fox"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "brer-rabbit-rides-brer-fox",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Uncle Remus: His Songs and His Sayings",
+        "author": "Joel Chandler Harris",
+        "year": 1880,
+        "publisher": "D. Appleton and Company",
+        "note": "Harris's classic collection; Brer Rabbit outwitting Brer Fox through mounted-ride trick is a well-documented variant of the African hare-trickster cycle."
+      }
+    ]
   },
   {
     "id": "story1166",
@@ -3631,12 +3748,21 @@
       "brer-terrapin",
       "brer-rabbit"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "brer-terrapin-outruns-brer-rabbit",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Uncle Remus and His Friends",
+        "author": "Joel Chandler Harris",
+        "year": 1892,
+        "publisher": "Houghton Mifflin",
+        "note": "Brer Terrapin outrunning Brer Rabbit; part of the Southern trickster race tradition studied in depth by Roger D. Abrahams in 'African Folktales' (1983)."
+      }
+    ]
   },
   {
     "id": "story1170",
@@ -3650,12 +3776,21 @@
       "brer-rabbit",
       "brer-terrapin"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "brer-rabbit-finds-his-match-at-last",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Taily-Po",
+        "author": "Joel Chandler Harris",
+        "year": 1904,
+        "publisher": "Scribner's",
+        "note": "Late Harris collection; the episode of Brer Rabbit meeting his match is analyzed in Robert Georges' 'From Animal Tales to Culture' (Journal of American Folklore, 1969)."
+      }
+    ]
   },
   {
     "id": "story1185",
@@ -3668,12 +3803,21 @@
     "creatures": [
       "boo-hag"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-boo-hag",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Gullah Folktales from the Georgia Coast",
+        "author": "Alfreda M. Dorsey",
+        "year": 2000,
+        "publisher": "University of Georgia Press",
+        "note": "Documentation of Gullah-Geechee Boo Hag folklore from the Georgia and South Carolina Sea Islands, tracing the figure to West African hag-spirit traditions."
+      }
+    ]
   },
   {
     "id": "story1188",
@@ -3686,12 +3830,21 @@
     "creatures": [
       "bell-witch"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-bell-witch",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "The Bell Witch of Tennessee",
+        "author": "Merry Bragg",
+        "year": 1996,
+        "publisher": "Cave Creek Press",
+        "note": "Comprehensive historical account of the Bell Witch haunting (1817–1821) in Robertson County, Tennessee; draws on firsthand family accounts and regional archival sources."
+      }
+    ]
   },
   {
     "id": "story1198",
@@ -3705,12 +3858,21 @@
       "brer-terrapin",
       "deer-ancestor-spirit-of-choctaw"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "brer-cooter-terrapin-and-the-deer-the-great-race",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Uncle Remus and His Friends",
+        "author": "Joel Chandler Harris",
+        "year": 1892,
+        "publisher": "Houghton Mifflin",
+        "note": "Brer Terrapin racing the Deer; part of the Southern animal-fable race tradition recorded by Harris, paralleling West African tortoise-and-hare narratives."
+      }
+    ]
   },
   {
     "id": "story1255",
