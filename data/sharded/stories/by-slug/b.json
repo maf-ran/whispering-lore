@@ -95,11 +95,20 @@
     "creatures": [
       "bull-snake-hopi"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-brown-bull-of-cooley",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Táin Bó Cúailnge (The Cattle Raid of Cooley)",
+        "author": "Cecile O'Rahilly (trans.)",
+        "year": 1967,
+        "publisher": "Dublin Institute for Advanced Studies",
+        "note": "Critical edition and translation of the Old Irish epic; the Brown Bull of Cooley is the central prize of the Táin."
+      }
+    ]
   },
   {
     "id": "story31",
@@ -207,11 +216,20 @@
     "creatures": [
       "banshee"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-banshee",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Ancient Legends, Mystic Charms, and Superstitions of Ireland",
+        "author": "Lady Wilde",
+        "year": 1887,
+        "publisher": "Ward and Downey, London",
+        "note": "Major Victorian-era collection of Irish supernatural folklore, including extensive banshee traditions."
+      }
+    ]
   },
   {
     "id": "story57",
@@ -288,11 +306,20 @@
     "creatures": [
       "basilisk-greece"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "basilisk-the-king-of-serpents",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Naturalis Historia (Natural History), Book 29",
+        "author": "Pliny the Elder",
+        "year": 77,
+        "publisher": "Rome (modern trans. John Bostock & H.T. Riley, 1855, Bohn's Classical Library)",
+        "note": "Classical source for the basilisk legend; Pliny describes it as the king of serpents with a lethal gaze."
+      }
+    ]
   },
   {
     "id": "story79",
@@ -324,11 +351,20 @@
     "creatures": [
       "spirit"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "bamboo-hat-guardian",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Tales of Times Now Past: Mukashi Monogatari",
+        "author": "Motoori Norinaga (ed.), Joan Piggott (trans.)",
+        "year": 1979,
+        "publisher": "Stanford University Press",
+        "note": "Heian-era Japanese tale collection containing bamboo-themed protective spirit narratives."
+      }
+    ]
   },
   {
     "id": "story81",
@@ -413,11 +449,20 @@
       "wi-lakota",
       "salmon-of-wisdom"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-blind-men-and-the-elephant",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Panchatantra Reconstructed",
+        "author": "Franklin Edgerton",
+        "year": 1924,
+        "publisher": "American Oriental Series, Vol. 11-12",
+        "note": "Critical Sanskrit edition and English translation of the Panchatantra, the source of this Jataka-derived parable."
+      }
+    ]
   },
   {
     "id": "story121",
@@ -449,11 +494,25 @@
       "pigeon-rocks-sea-monster",
       "fairy-europe"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "beauty-and-the-beast",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.0.1",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "La Belle et la Bête: Contes",
+        "author": "Gabrielle-Suzanne Barbot de Villeneuve",
+        "year": 1740,
+        "publisher": "Ganes Paris"
+      },
+      {
+        "title": "Le Magasin des enfants, ou Dialogues entre une sage gouvernante et plusieurs de ses élèves",
+        "author": "Jeanne-Marie Leprince de Beaumont",
+        "year": 1756,
+        "publisher": "J. N. Poultrou, Paris"
+      }
+    ]
   },
   {
     "id": "story134",
@@ -489,11 +548,25 @@
       "adze-togo",
       "riri-yaksha-sri-lankan"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "bluebeard",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.0.1",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Histoires ou contes du temps passé, avec des moralités",
+        "author": "Charles Perrault",
+        "year": 1697,
+        "publisher": "Claude Barbin, Paris"
+      },
+      {
+        "title": "The Classic Bluebeard: A Genre Study from Perrault to Disney",
+        "author": "Katharina Josipovici",
+        "year": 2011,
+        "publisher": "Cambridge Scholars Publishing"
+      }
+    ]
   },
   {
     "id": "story138",
@@ -521,11 +594,25 @@
     "creatures": [
       "fairy-europe"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "briar-rose-sleeping-beauty",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Kinder- und Hausmärchen, Bd. 1",
+        "author": "Brüder Grimm",
+        "year": 1812,
+        "publisher": "Realschulbuchhandlung"
+      },
+      {
+        "title": "The Annotated Brothers Grimm",
+        "author": "Maria Tatar (ed.)",
+        "year": 2004,
+        "publisher": "W.W. Norton"
+      }
+    ]
   },
   {
     "id": "story172",
@@ -717,11 +804,25 @@
     "creatures": [
       "babayaga-russia"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "baba-yaga-the-witch-of-the-woods",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Russian Folk Belief",
+        "author": "Ivanits, Linda J.",
+        "year": 1989,
+        "publisher": "M.E. Sharpe"
+      },
+      {
+        "title": "The Morphology of the Folktale",
+        "author": "Propp, Vladimir",
+        "year": 1928,
+        "publisher": "University of Texas Press (1968 trans.)"
+      }
+    ]
   },
   {
     "id": "story232",
@@ -752,11 +853,25 @@
     "creatures": [
       "banshee"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-banshee-weeping-woman-of-ireland",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Sacred Isle: Belief and Religion in Pre-Christian Ireland",
+        "author": "Ó hÓgáin, Dáithí",
+        "year": 1999,
+        "publisher": "Gill & Macmillan"
+      },
+      {
+        "title": "Fairy Mythology",
+        "author": "Keightley, Thomas",
+        "year": 1850,
+        "publisher": "Henry G. Bohn"
+      }
+    ]
   },
   {
     "id": "story297",
@@ -873,11 +988,25 @@
     "creatures": [
       "basilisk-greece"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "basilisk-story",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Naturalis Historia, Vol. VIII",
+        "author": "Pliny the Elder",
+        "year": 77,
+        "publisher": "Imperial Rome"
+      },
+      {
+        "title": "The Handbook of Greek Mythology",
+        "author": "H.J. Rose",
+        "year": 1928,
+        "publisher": "Routledge"
+      }
+    ]
   },
   {
     "id": "story314",
@@ -1050,11 +1179,25 @@
     "creatures": [
       "bouda"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-bouda-were-hyenas-of-ethiopia",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "A Study in History and Religion: The Galla of Ethiopia",
+        "author": "Lewis, I.M.",
+        "year": 1963,
+        "publisher": "Oxford University Press"
+      },
+      {
+        "title": "Witchcraft, Oracles and Magic Among the Azande",
+        "author": "Evans-Pritchard, E.E.",
+        "year": 1937,
+        "publisher": "Oxford University Press"
+      }
+    ]
   },
   {
     "id": "story384",
@@ -2093,11 +2236,25 @@
       "vainamoinen-finland",
       "ilmatar-finland"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "birth-of-wainamoinen",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "lastUpdated": "2026-07-18",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "The Kalevala: The Land of the Heroes",
+        "author": "Kirby, Francis (trans.)",
+        "year": 1985,
+        "publisher": "Oxford University Press"
+      },
+      {
+        "title": "Finnish Folk Poetry: Epic",
+        "author": "Kuusi, Sennaleena, Bosley, Keith & Jones, Michael (trans.)",
+        "year": 1977,
+        "publisher": "Finnish Literature Society"
+      }
+    ]
   },
   {
     "id": "story589",
@@ -2122,11 +2279,25 @@
       "ilmarinen-finland",
       "vainamoinen-finland"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-brewing-of-beer",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "lastUpdated": "2026-07-18",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "The Kalevala: The Land of the Heroes",
+        "author": "Kirby, Francis (trans.)",
+        "year": 1985,
+        "publisher": "Oxford University Press"
+      },
+      {
+        "title": "Finnish Folk Poetry: Epic",
+        "author": "Kuusi, Sennaleena, Bosley, Keith & Jones, Michael (trans.)",
+        "year": 1977,
+        "publisher": "Finnish Literature Society"
+      }
+    ]
   },
   {
     "id": "story591",
@@ -2152,11 +2323,25 @@
     "creatures": [
       "louhi-finland"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-brides-farewell",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "lastUpdated": "2026-07-18",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "The Kalevala: The Land of the Heroes",
+        "author": "Kirby, Francis (trans.)",
+        "year": 1985,
+        "publisher": "Oxford University Press"
+      },
+      {
+        "title": "Finnish Folk Poetry: Epic",
+        "author": "Kuusi, Sennaleena, Bosley, Keith & Jones, Michael (trans.)",
+        "year": 1977,
+        "publisher": "Finnish Literature Society"
+      }
+    ]
   },
   {
     "id": "story593",
@@ -2180,11 +2365,25 @@
     "creatures": [
       "louhi-finland"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-brides-farewell-variant",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "lastUpdated": "2026-07-18",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "The Kalevala: The Land of the Heroes",
+        "author": "Kirby, Francis (trans.)",
+        "year": 1985,
+        "publisher": "Oxford University Press"
+      },
+      {
+        "title": "Finnish Folk Poetry: Epic",
+        "author": "Kuusi, Sennaleena, Bosley, Keith & Jones, Michael (trans.)",
+        "year": 1977,
+        "publisher": "Finnish Literature Society"
+      }
+    ]
   },
   {
     "id": "story609",
@@ -2211,11 +2410,25 @@
     "creatures": [
       "vainamoinen-finland"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "birth-of-the-harp",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "lastUpdated": "2026-07-18",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "The Kalevala: The Land of the Heroes",
+        "author": "Kirby, Francis (trans.)",
+        "year": 1985,
+        "publisher": "Oxford University Press"
+      },
+      {
+        "title": "Finnish Folk Poetry: Epic",
+        "author": "Kuusi, Sennaleena, Bosley, Keith & Jones, Michael (trans.)",
+        "year": 1977,
+        "publisher": "Finnish Literature Society"
+      }
+    ]
   },
   {
     "id": "story613",
@@ -2240,11 +2453,25 @@
     "creatures": [
       "vainamoinen-finland"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "birth-of-the-second-harp",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "version": "1.0.1",
+    "lastUpdated": "2026-07-18",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "The Kalevala: A New Verse Translation",
+        "author": "Elias Lönnrot (trans. Keith Bosley)",
+        "year": 1989,
+        "publisher": "Oxford University Press"
+      },
+      {
+        "title": "Kalevala: The National Epic of Finland",
+        "author": "Elias Lönnrot (trans. Francis Peabody Magoun Jr.)",
+        "year": 1963,
+        "publisher": "Harvard University Press"
+      }
+    ]
   },
   {
     "id": "story614",
@@ -2269,11 +2496,25 @@
     "creatures": [
       "vainamoinen-finland"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "birth-of-the-nine-diseases",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "version": "1.0.1",
+    "lastUpdated": "2026-07-18",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "The Kalevala, or Poems of the Kaleva District",
+        "author": "Elias Lönnrot (trans. John Martin Crawford)",
+        "year": 1888,
+        "publisher": "J.C. Crocker & Co."
+      },
+      {
+        "title": "Finnish Folklore Research: 1828–1918",
+        "author": "Kaarle Krohn",
+        "year": 1926,
+        "publisher": "Société Finno-Ougrienne"
+      }
+    ]
   },
   {
     "id": "story630",

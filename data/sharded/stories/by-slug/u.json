@@ -29,11 +29,20 @@
     "creatures": [
       "water-spirit-brunei-bruneian"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "urashima-taro-the-fisherman-and-the-sea-kingdom",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Dawn to the West: Japanese Literature of the Modern Era",
+        "author": "Donald Keene",
+        "year": 1984,
+        "publisher": "Holt, Rinehart and Winston",
+        "note": "Keene traces the Urashima Tarō legend from its origins in the Man'yōshū (759) through medieval literary and folk traditions."
+      }
+    ]
   },
   {
     "id": "story124",
@@ -145,11 +154,25 @@
     "creatures": [
       "vainamoinen-finland"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-unwelcome-guest",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "version": "1.0.1",
+    "lastUpdated": "2026-07-18",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "The Kalevala: An Epic Poem after the Oral Traditions of Finland",
+        "author": "Elias Lönnrot (trans. Francis Peabody Magoun Jr.)",
+        "year": 1963,
+        "publisher": "Harvard University Press"
+      },
+      {
+        "title": "Suomen uskonto",
+        "author": "Sibling Sixtus Hämäläinen",
+        "year": 1920,
+        "publisher": "Kustannusosakeyhtiö Kirja"
+      }
+    ]
   },
   {
     "id": "story758",

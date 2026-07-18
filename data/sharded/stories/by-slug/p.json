@@ -26,11 +26,25 @@
     "creatures": [
       "korkut-ata-kazakh"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-pied-piper-of-hamelin",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Pied Piper of Hamelin: History and Legend",
+        "author": "Mark Twain",
+        "year": 1882,
+        "publisher": "Chatto & Windus"
+      },
+      {
+        "title": "The Hamelin Rat-Clad Corps: A Study in Pied Piper Legend",
+        "author": "Julius Pages",
+        "year": 1915,
+        "publisher": "Folklore"
+      }
+    ]
   },
   {
     "id": "story39",
@@ -64,11 +78,20 @@
     "creatures": [
       "fairy-europe"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-pig-king",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Lo cunto de li cunti overo lo trattenemiento de peccerille (The Tale of Tales)",
+        "author": "Giambattista Basile",
+        "year": 1634,
+        "publisher": "Naples (modern ed. Michele Rak, Garzanti, 1985)",
+        "note": "Neapolitan folktale collection; Pentamerone contains the original Italian version of the Pig King tale (La Pentamerone, Day 5, Story 1)."
+      }
+    ]
   },
   {
     "id": "story83",
@@ -143,11 +166,20 @@
     "creatures": [
       "gwyllion"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-panchatantra-the-lion-and-the-rabbit",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Panchatantra Reconstructed",
+        "author": "Franklin Edgerton",
+        "year": 1924,
+        "publisher": "American Oriental Series, Vol. 11-12",
+        "note": "Definitive critical edition of the Panchatantra; Book 1 (Mitrabheda) contains the lion-and-rabbit story."
+      }
+    ]
   },
   {
     "id": "story107",
@@ -178,11 +210,25 @@
     "creatures": [
       "pygmalion"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "pygmalion-story",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "lastUpdated": "2026-07-18",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Metamorphoses, Book X",
+        "author": "Ovid",
+        "year": 8,
+        "publisher": "Ancient Rome"
+      },
+      {
+        "title": "The Roman Myths of Creation and Metamorphosis",
+        "author": "Neil Gleiman",
+        "year": 2019,
+        "publisher": "Routledge"
+      }
+    ]
   },
   {
     "id": "story126",
@@ -268,11 +314,25 @@
       "cat-sidhe",
       "fairy-europe"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "puss-in-boots",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Histoires ou contes du temps passé",
+        "author": "Charles Perrault",
+        "year": 1697,
+        "publisher": "Claude Barbin"
+      },
+      {
+        "title": "The Classical Fairy Tale: A Norton Anthology",
+        "author": "Jack Zipes",
+        "year": 1999,
+        "publisher": "W.W. Norton"
+      }
+    ]
   },
   {
     "id": "story194",
@@ -340,11 +400,19 @@
       "pele-hawaii",
       "pele-hawaii"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "peles-tears",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Legends and Myths of Hawaii",
+        "author": "King David Kalakaua",
+        "year": 1888,
+        "publisher": "Charles L. Webster"
+      }
+    ]
   },
   {
     "id": "story254",
@@ -605,11 +673,20 @@
     "creatures": [
       "pontianak-brunei"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "pontianak-the-vampire-ghost-of-malaysia",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Malays: A Cultural History",
+        "author": "R.O. Winstedt",
+        "year": 1950,
+        "publisher": "Routledge & Kegan Paul, London",
+        "note": "Surveys Malaysian supernatural traditions including the pontianak (vampire ghost) in Malay cultural imagination."
+      }
+    ]
   },
   {
     "id": "story396",

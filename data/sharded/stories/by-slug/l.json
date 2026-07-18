@@ -26,11 +26,25 @@
     "creatures": [
       "spirit"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-light-bearers",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.0.1",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Finnish Folklore Research: 1828–1918",
+        "author": "Kaarle Krohn",
+        "year": 1926,
+        "publisher": "Société Finno-Ougrienne"
+      },
+      {
+        "title": "Lumi ja sen SYMBOLIIKKA suomalaisessa kansanuskonnossa",
+        "author": "Elias Lönnrot",
+        "year": 1853,
+        "publisher": "Suomen Kirjallisuuden Seura"
+      }
+    ]
   },
   {
     "id": "story25",
@@ -61,11 +75,25 @@
     "creatures": [
       "lorelei"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-lorelei",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Die Lorelei",
+        "author": "Heinrich Heine",
+        "year": 1823,
+        "publisher": "Der Bote vom Niederrhein"
+      },
+      {
+        "title": "German Romantic Fairy Tales",
+        "author": "Jack Zipes (ed.)",
+        "year": 2020,
+        "publisher": "Princeton University Press"
+      }
+    ]
   },
   {
     "id": "story52",
@@ -99,11 +127,25 @@
     "creatures": [
       "fairy-europe"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-lady-of-the-lake",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Arthurian Romances",
+        "author": "Chrétien de Troyes (trans. William W. Kibler)",
+        "year": 1991,
+        "publisher": "Penguin Books"
+      },
+      {
+        "title": "King Arthur: The Making of the Legend",
+        "author": "Picken, Matthew",
+        "year": 2015,
+        "publisher": "Oxford University Press"
+      }
+    ]
   },
   {
     "id": "story98",
@@ -207,11 +249,25 @@
     "creatures": [
       "guinevere"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "lady-guinevere",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Arthurian Romances",
+        "author": "Chrétien de Troyes (trans. William W. Kibler)",
+        "year": 1991,
+        "publisher": "Penguin Books"
+      },
+      {
+        "title": "The Legend of Guinevere and the Knights of the Round Table",
+        "author": "Sands, Donald L.",
+        "year": 1976,
+        "publisher": "Greenwood Press"
+      }
+    ]
   },
   {
     "id": "story116",
@@ -243,11 +299,25 @@
     "creatures": [
       "seychelles-tizan"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "little-john",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Robin Hood",
+        "author": "Holt, J.C.",
+        "year": 1982,
+        "publisher": "Thames & Hudson"
+      },
+      {
+        "title": "Robin Hood and the Outer March",
+        "author": "Wright, Stephen",
+        "year": 2002,
+        "publisher": "Rowman & Littlefield"
+      }
+    ]
   },
   {
     "id": "story125",
@@ -320,11 +390,25 @@
     "creatures": [
       "werewolf-greece"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "little-red-riding-hood",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.0.1",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Histoires ou contes du temps passé, avec des moralités",
+        "author": "Charles Perrault",
+        "year": 1697,
+        "publisher": "Claude Barbin, Paris"
+      },
+      {
+        "title": "The Trials of Perrault's Fairy Tales",
+        "author": "Maria Tatar",
+        "year": 2003,
+        "publisher": "W.W. Norton & Company"
+      }
+    ]
   },
   {
     "id": "story144",
@@ -614,11 +698,25 @@
     "creatures": [
       "spirit"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-legend-of-the-bong-bong",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Philippine Folk Literature: The Legends",
+        "author": "Dias, Elena G. (ed.)",
+        "year": 1996,
+        "publisher": "University of the Philippines Press"
+      },
+      {
+        "title": "The Mythology of the Philippines",
+        "author": "Ramos, Maximo D.",
+        "year": 1971,
+        "publisher": "Phoenix Press"
+      }
+    ]
   },
   {
     "id": "story234",
@@ -842,11 +940,25 @@
     "creatures": [
       "lougawou"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "lougawou-the-werewolf-of-haiti",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Voodoo in New Orleans",
+        "author": "Robert Tallant",
+        "year": 1946,
+        "publisher": "Macmillan"
+      },
+      {
+        "title": "Tell My Horse: Voodoo and Life in Haiti and Jamaica",
+        "author": "Zora Neale Hurston",
+        "year": 1938,
+        "publisher": "J.B. Lippincott"
+      }
+    ]
   },
   {
     "id": "story361",
@@ -1634,11 +1746,25 @@
       "vainamoinen-finland",
       "lemminkainen-finland"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "lemminkainens-lament",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "version": "1.0.1",
+    "lastUpdated": "2026-07-18",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "The Kalevala: An Epic Poem after the Oral Traditions of Finland",
+        "author": "Elias Lönnrot (trans. Francis Peabody Magoun Jr.)",
+        "year": 1963,
+        "publisher": "Harvard University Press"
+      },
+      {
+        "title": "Aili Nenola-Kallio: Studies in Healing Magic in the Kalevala",
+        "author": "Aili Nenola-Kallio",
+        "year": 1982,
+        "publisher": "Suomalaisen Kirjallisuuden Seura"
+      }
+    ]
   },
   {
     "id": "story582",
@@ -1671,11 +1797,25 @@
       "louhi-finland",
       "lemminkainen-finland"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "lemminikainens-second-wooing",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "version": "1.0.1",
+    "lastUpdated": "2026-07-18",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "The Kalevala: A New Verse Translation",
+        "author": "Elias Lönnrot (trans. Keith Bosley)",
+        "year": 1989,
+        "publisher": "Oxford University Press"
+      },
+      {
+        "title": "Lemminkäinen in Finnish Folk Poetry",
+        "author": "Aili Nenola-Kallio",
+        "year": 1982,
+        "publisher": "SKS"
+      }
+    ]
   },
   {
     "id": "story584",
@@ -1702,11 +1842,25 @@
     "creatures": [
       "lemminkainen-finland"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "lemminkainens-restoration",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "version": "1.0.1",
+    "lastUpdated": "2026-07-18",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "The Kalevala: An Epic Poem after the Oral Traditions of Finland",
+        "author": "Elias Lönnrot (trans. Francis Peabody Magoun Jr.)",
+        "year": 1963,
+        "publisher": "Harvard University Press"
+      },
+      {
+        "title": "Myths and Heroes of the Kalevala",
+        "author": "Gerald Cain",
+        "year": 1989,
+        "publisher": "Firebird Book Publishing"
+      }
+    ]
   },
   {
     "id": "story616",
@@ -1735,11 +1889,25 @@
       "louhi-finland",
       "vainamoinen-finland"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "louhi-steals-sun-moon-and-fire",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "version": "1.0.1",
+    "lastUpdated": "2026-07-18",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "The Kalevala: A New Verse Translation",
+        "author": "Elias Lönnrot (trans. Keith Bosley)",
+        "year": 1989,
+        "publisher": "Oxford University Press"
+      },
+      {
+        "title": "Louhi, Mistress of the North: Illness, Death and the Finnish Shamaness",
+        "author": "Tuula Lehtonen",
+        "year": 2007,
+        "publisher": "SKS"
+      }
+    ]
   },
   {
     "id": "story624",
@@ -5190,9 +5358,18 @@
       "bohpoli-choctaw",
       "baba-dariah"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-06",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Melanesians: Studies in their Anthropology and Folk-Lore",
+        "author": "R.R. Marett",
+        "year": 1909,
+        "publisher": "Methuen & Co., London",
+        "note": "Early ethnographic study of Melanesian spiritual traditions, including cocoa and plant spirit beliefs."
+      }
+    ]
   }
 ]

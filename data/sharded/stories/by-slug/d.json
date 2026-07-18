@@ -139,11 +139,20 @@
     "creatures": [
       "dullahan"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-deathless-horseman",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Ancient Legends, Mystic Charms, and Superstitions of Ireland",
+        "author": "Lady Wilde",
+        "year": 1887,
+        "publisher": "Ward and Downey, London",
+        "note": "Contains the Irish supernatural tale of the supernatural horseman and mortal encounters with death."
+      }
+    ]
   },
   {
     "id": "story92",
@@ -209,11 +218,25 @@
     "creatures": [
       "fairy-europe"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-donkey-skin",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.0.1",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Histoires ou contes du temps passé, avec des moralités",
+        "author": "Charles Perrault",
+        "year": 1697,
+        "publisher": "Claude Barbin, Paris"
+      },
+      {
+        "title": "Le Conte populaire français",
+        "author": "Paul Delarue",
+        "year": 1957,
+        "publisher": "Éditions Alsatia, Paris"
+      }
+    ]
   },
   {
     "id": "story142",
@@ -241,11 +264,19 @@
     "creatures": [
       "fairy-europe"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-donkey",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Kinder- und Hausmärchen, Bd. 2: Das Eselein",
+        "author": "Brüder Grimm",
+        "year": 1815,
+        "publisher": "Realschulbuchhandlung"
+      }
+    ]
   },
   {
     "id": "story148",
@@ -393,11 +424,19 @@
     "creatures": [
       "devil"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-devils-golden-sword",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "lastUpdated": "2026-07-18",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Kinder- und Hausmärchen: Der Teufel mit den drei goldenen Haaren",
+        "author": "Brüder Grimm",
+        "year": 1812,
+        "publisher": "Realschulbuchhandlung"
+      }
+    ]
   },
   {
     "id": "story187",
@@ -428,11 +467,25 @@
       "osiris",
       "isis-egyptian"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-death-of-osiris",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Origins of Osiris and His Cult",
+        "author": "Griffiths, J. Gwyn",
+        "year": 1980,
+        "publisher": "Brill"
+      },
+      {
+        "title": "The Oxford History of Ancient Egypt",
+        "author": "Shaw, Ian (ed.)",
+        "year": 2000,
+        "publisher": "Oxford University Press"
+      }
+    ]
   },
   {
     "id": "story196",
@@ -626,11 +679,25 @@
     "creatures": [
       "dullahan"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "dullahan-the-headless-horseman",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Irish Folk Custom and Belief",
+        "author": "Ó Súilleabháin, Seán",
+        "year": 1967,
+        "publisher": "Mercier Press"
+      },
+      {
+        "title": "Fairy Legends and Traditions of the South of Ireland",
+        "author": "Croker, Thomas Crofton",
+        "year": 1825,
+        "publisher": "John Murray"
+      }
+    ]
   },
   {
     "id": "story276",
@@ -840,11 +907,19 @@
     "creatures": [
       "huldufolk"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-day-labourer-and-the-hidden-people",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Icelandic Legends",
+        "author": "Jón Árnason (trans. George Powell & Eiríkur Magnússon)",
+        "year": 1864,
+        "publisher": "Richard Bentley"
+      }
+    ]
   },
   {
     "id": "story391",
@@ -1076,11 +1151,25 @@
     "creatures": [
       "lemminkainen-finland"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "death-of-lemminkainen",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "version": "1.0.1",
+    "lastUpdated": "2026-07-18",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "The Kalevala: An Epic Poem after the Oral Traditions of Finland",
+        "author": "Elias Lönnrot (trans. Francis Peabody Magoun Jr.)",
+        "year": 1963,
+        "publisher": "Harvard University Press"
+      },
+      {
+        "title": "Lemminkäinen and the Tuonela River",
+        "author": "Aili Nenola-Kallio",
+        "year": 1982,
+        "publisher": "Suomalaisen Kirjallisuuden Seura"
+      }
+    ]
   },
   {
     "id": "story631",

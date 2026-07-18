@@ -29,11 +29,25 @@
     "creatures": [
       "giant"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "jack-and-the-beanstalk",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "English Fairy Tales",
+        "author": "Jacobs, Joseph",
+        "year": 1890,
+        "publisher": "David Nutt"
+      },
+      {
+        "title": "The Oxford Companion to Fairy Tales",
+        "author": "Zipes, Jack (ed.)",
+        "year": 2000,
+        "publisher": "Oxford University Press"
+      }
+    ]
   },
   {
     "id": "story84",
@@ -241,11 +255,20 @@
       "dievas",
       "baubas"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "jurate-and-kastytis-the-amber-legend-of-the-baltic-sea",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Lietuvių tautos pasakojimai apie senovės dievus (Lithuanian National Tales about Ancient Gods)",
+        "author": "Jonas Basanavičius",
+        "year": 1909,
+        "publisher": "Vilnius",
+        "note": "Contains the Juratė and Kastytis legend, one of the Baltic Sea's most important amber-related mythic traditions."
+      }
+    ]
   },
   {
     "id": "story518",

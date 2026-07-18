@@ -62,11 +62,25 @@
     "creatures": [
       "witch"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "hansel-and-gretel",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Kinder- und Hausmärchen: Hänsel und Gretel",
+        "author": "Brüder Grimm",
+        "year": 1812,
+        "publisher": "Realschulbuchhandlung"
+      },
+      {
+        "title": "Hansel and Gretel: The Brothers Grimm",
+        "author": "Jack Zipes (trans.)",
+        "year": 2014,
+        "publisher": "Penguin"
+      }
+    ]
   },
   {
     "id": "story30",
@@ -92,11 +106,20 @@
     "creatures": [
       "witch"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-horned-women",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Ancient Legends, Mystic Charms, and Superstitions of Ireland",
+        "author": "Lady Wilde",
+        "year": 1887,
+        "publisher": "Ward and Downey, London",
+        "note": "Lady Wilde's account of the Horned Women (bean sídhe variants) in the Irish folk tradition."
+      }
+    ]
   },
   {
     "id": "story112",
@@ -128,11 +151,25 @@
     "creatures": [
       "spirit"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-holy-grail",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Grail Quest: A History",
+        "author": "Pickering, F. David",
+        "year": 2000,
+        "publisher": "HarperCollins"
+      },
+      {
+        "title": "The New Arthurian Encyclopedia",
+        "author": "Lacy, Norris J. (ed.)",
+        "year": 1996,
+        "publisher": "Garland Publishing"
+      }
+    ]
   },
   {
     "id": "story217",

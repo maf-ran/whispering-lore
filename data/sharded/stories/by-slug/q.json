@@ -25,11 +25,19 @@
     "creatures": [
       "bee-goddess"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-queen-bee",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "lastUpdated": "2026-07-18",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Kinder- und Hausmärchen: Die Bienenkönigin",
+        "author": "Brüder Grimm",
+        "year": 1819,
+        "publisher": "Realschulbuchhandlung"
+      }
+    ]
   },
   {
     "id": "story263",
@@ -60,11 +68,20 @@
     "creatures": [
       "quetzalcoatl"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "quetzalcoatl-story",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "lastUpdated": "2026-07-18",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "The Broken Spears: Aztec Account of the Conquest of Mexico",
+        "author": "Miguel León-Portilla (ed. & trans.)",
+        "year": 1962,
+        "publisher": "Beacon Press, Boston",
+        "note": "Primary Nahuatl sources documenting Quetzalcóatl's mythology and his role in Mesoamerican cosmology."
+      }
+    ]
   },
   {
     "id": "story392",

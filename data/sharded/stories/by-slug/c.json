@@ -26,11 +26,20 @@
     "creatures": [
       "aswang"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-children-of-lir",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Gods and Fighting Men: The Story of the Tuatha de Danaan and the Fian of Ireland",
+        "author": "Lady Gregory",
+        "year": 1904,
+        "publisher": "John Murray, London",
+        "note": "Primary retelling of the Children of Lir saga from medieval Irish mythological cycles."
+      }
+    ]
   },
   {
     "id": "story28",
@@ -59,11 +68,20 @@
     "creatures": [
       "salmon-of-wisdom"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "c-chulainn-and-the-salmon-of-knowledge",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "lastUpdated": "2026-07-18",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Cuchulain of Muirthemne: The Story of the Men of the Red Branch of Ulster",
+        "author": "Lady Gregory",
+        "year": 1902,
+        "publisher": "John Murray, London",
+        "note": "Retells the boyhood deeds of Cú Chulainn, including his encounter with the Salmon of Knowledge at the Boyne."
+      }
+    ]
   },
   {
     "id": "story72",
@@ -95,11 +113,20 @@
     "creatures": [
       "crane-ancestor-spirit-of-baloch"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-cranes-repayment",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "About Our Ancestors: The Japanese Family System",
+        "author": "Kunio Yanagita",
+        "year": 1946,
+        "publisher": "Iwanami Shoten (English trans. F.G. Notehelfer, Stanford University Press, 1970)",
+        "note": "Foundational Japanese ethnography containing the Tsuru no Ongaeshi (Crane's Repayment) folktale analysis."
+      }
+    ]
   },
   {
     "id": "story82",
@@ -176,11 +203,20 @@
     "creatures": [
       "crane-ancestor-spirit-of-baloch"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-crane-wife",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Folk Tales from Korea",
+        "author": "Zong In-Sob",
+        "year": 1952,
+        "publisher": "Hollym International Corp., Seoul",
+        "note": "Foundational English-language collection of Korean folk tales including the crane-wife (hak-gawi-sae) narrative."
+      }
+    ]
   },
   {
     "id": "story122",
@@ -212,11 +248,25 @@
     "creatures": [
       "fairy-europe"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "cinderella",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Kinder- und Hausmärchen, Bd. 1: Aschenputtel",
+        "author": "Brüder Grimm",
+        "year": 1812,
+        "publisher": "Realschulbuchhandlung"
+      },
+      {
+        "title": "The Classic Fairy Tales",
+        "author": "Maria Tatar",
+        "year": 1999,
+        "publisher": "W.W. Norton"
+      }
+    ]
   },
   {
     "id": "story166",
@@ -248,11 +298,20 @@
     "creatures": [
       "spirit"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-corn-mother",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Popol Vuh: The Definitive Edition of the Mayan Book of the Dawn of Life and the Glories of Gods and Kings",
+        "author": "Dennis Tedlock (trans.)",
+        "year": 1985,
+        "publisher": "Simon & Schuster",
+        "note": "Definitive English translation of the K'iche' Maya creation epic, which describes human creation from corn."
+      }
+    ]
   },
   {
     "id": "story178",
@@ -282,11 +341,19 @@
     "creatures": [
       "fairy-europe"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-crystal-ball",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Kinder- und Hausmärchen, Bd. 2: Der Kristallball",
+        "author": "Brüder Grimm",
+        "year": 1815,
+        "publisher": "Realschulbuchhandlung"
+      }
+    ]
   },
   {
     "id": "story189",
@@ -314,11 +381,25 @@
     "creatures": [
       "cat-sidhe"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-cat-ra",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Egyptian Mythology: A Guide to the Gods, Goddesses, Traditions, and Rituals",
+        "author": "Pinch, Geraldine",
+        "year": 2002,
+        "publisher": "Oxford University Press"
+      },
+      {
+        "title": "The Complete Gods and Goddesses of Ancient Egypt",
+        "author": "Wilkinson, Richard H.",
+        "year": 2003,
+        "publisher": "Thames & Hudson"
+      }
+    ]
   },
   {
     "id": "story202",
@@ -345,11 +426,20 @@
     "creatures": [
       "witch"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "coviella",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Sud e Magia (South and Magic)",
+        "author": "Ernesto de Martino",
+        "year": 1959,
+        "publisher": "Einaudi, Turin",
+        "note": "Seminal ethno-anthropological study of Southern Italian magical beliefs and folk traditions including covella/coviella rites."
+      }
+    ]
   },
   {
     "id": "story235",
@@ -423,11 +513,25 @@
     "creatures": [
       "cerberus"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "cerberus-story",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "lastUpdated": "2026-07-18",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Theoi Greek Mythology: Celestial Gods",
+        "author": "Aaron Atsma",
+        "year": 2017,
+        "publisher": "theoi.com"
+      },
+      {
+        "title": "The Greek Myths",
+        "author": "Robert Graves",
+        "year": 1955,
+        "publisher": "Penguin"
+      }
+    ]
   },
   {
     "id": "story287",
@@ -501,11 +605,25 @@
     "creatures": [
       "chimera"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "chimera-story",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "lastUpdated": "2026-07-18",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Bibliotheca",
+        "author": "Apollodorus",
+        "year": -100,
+        "publisher": "Ancient Greece"
+      },
+      {
+        "title": "The Greek Myths",
+        "author": "Robert Graves",
+        "year": 1955,
+        "publisher": "Penguin"
+      }
+    ]
   },
   {
     "id": "story327",
@@ -963,11 +1081,25 @@
       "ilmarinen-finland",
       "vainamoinen-finland"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "capture-of-the-sampo",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "version": "1.0.1",
+    "lastUpdated": "2026-07-18",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "The Kalevala: An Epic Poem after the Oral Traditions of Finland",
+        "author": "Elias Lönnrot (trans. Francis Peabody Magoun Jr.)",
+        "year": 1963,
+        "publisher": "Harvard University Press"
+      },
+      {
+        "title": "The Sampo: A Magic Mill",
+        "author": "Martti Haavio",
+        "year": 1952,
+        "publisher": "Suomalainen Tiedeakatemia"
+      }
+    ]
   },
   {
     "id": "story617",
@@ -992,11 +1124,25 @@
       "ilmarinen-finland",
       "vainamoinen-finland"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "capture-of-the-fire-fish",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "version": "1.0.1",
+    "lastUpdated": "2026-07-18",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "The Kalevala: A New Verse Translation",
+        "author": "Elias Lönnrot (trans. Keith Bosley)",
+        "year": 1989,
+        "publisher": "Oxford University Press"
+      },
+      {
+        "title": "Suomen kansan runojen ja laulujen alkuperä",
+        "author": "Elias Lönnrot",
+        "year": 1853,
+        "publisher": "SKS"
+      }
+    ]
   },
   {
     "id": "story699",

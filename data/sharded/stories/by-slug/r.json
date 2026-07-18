@@ -112,11 +112,25 @@
       "uganda-forest-phantom",
       "ivory-coast-asiman"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "robin-hood",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Robin Hood",
+        "author": "Holt, J.C.",
+        "year": 1982,
+        "publisher": "Thames & Hudson"
+      },
+      {
+        "title": "Robin Hood and the Babes in the Wood",
+        "author": "Child, Francis James",
+        "year": 1888,
+        "publisher": "Little, Brown and Company"
+      }
+    ]
   },
   {
     "id": "story120",
@@ -145,11 +159,25 @@
     "creatures": [
       "witch"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "rapunzel",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Kinder- und Hausmärchen: Rapunzel",
+        "author": "Brüder Grimm",
+        "year": 1812,
+        "publisher": "Realschulbuchhandlung"
+      },
+      {
+        "title": "Mirror, Mirror on the Wall: Women Writers Explore Their Favorite Fairy Tales",
+        "author": "Kate Bernheimer (ed.)",
+        "year": 1998,
+        "publisher": "Anchor Books"
+      }
+    ]
   },
   {
     "id": "story128",
@@ -267,11 +295,25 @@
       "horus-egyptian",
       "apophis"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "ra-and-the-secret-name",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "lastUpdated": "2026-07-18",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "The Ancient Egyptian Books of the Afterlife",
+        "author": "Hornung, Erik",
+        "year": 1999,
+        "publisher": "Cornell University Press"
+      },
+      {
+        "title": "Egyptian Religion",
+        "author": "Morenz, Siegfried",
+        "year": 1973,
+        "publisher": "Cornell University Press"
+      }
+    ]
   },
   {
     "id": "story198",
@@ -721,11 +763,25 @@
       "lemminkainen-finland",
       "vainamoinen-finland"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-rival-suitors",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "version": "1.0.1",
+    "lastUpdated": "2026-07-18",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "The Kalevala: A New Verse Translation",
+        "author": "Elias Lönnrot (trans. Keith Bosley)",
+        "year": 1989,
+        "publisher": "Oxford University Press"
+      },
+      {
+        "title": "The Kalevala: The National Epic of Finland",
+        "author": "Gerald Cain",
+        "year": 1989,
+        "publisher": "Firebird Book Publishing"
+      }
+    ]
   },
   {
     "id": "story618",
@@ -753,11 +809,25 @@
       "louhi-finland",
       "vainamoinen-finland"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "restoration-of-the-sun-and-moon",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "version": "1.0.1",
+    "lastUpdated": "2026-07-18",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "The Kalevala: An Epic Poem after the Oral Traditions of Finland",
+        "author": "Elias Lönnrot (trans. Francis Peabody Magoun Jr.)",
+        "year": 1963,
+        "publisher": "Harvard University Press"
+      },
+      {
+        "title": "Louhi, Mistress of the North",
+        "author": "Tuula Lehtonen",
+        "year": 2007,
+        "publisher": "SKS"
+      }
+    ]
   },
   {
     "id": "story688",

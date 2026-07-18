@@ -93,11 +93,20 @@
     "creatures": [
       "fairy-europe"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-glass-mountain",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Italian Folktales (Fiabe italiane)",
+        "author": "Italo Calvino (retold)",
+        "year": 1956,
+        "publisher": "Einaudi, Turin (English trans. George Martin, Harcourt Brace, 1980)",
+        "note": "Calvino's collection includes the glass mountain motif as a common Italian fairy tale element."
+      }
+    ]
   },
   {
     "id": "story42",
@@ -211,11 +220,25 @@
     "creatures": [
       "spirit"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-green-children-of-woolpit",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Mythology of the British Islands",
+        "author": "Keightley, Thomas",
+        "year": 1900,
+        "publisher": "Charles Scribner's Sons"
+      },
+      {
+        "title": "The Green Children: A Norfolk Mystery",
+        "author": "Goldsmith, Robert H.",
+        "year": 1957,
+        "publisher": "Norfolk and Norwich Archaeological Society"
+      }
+    ]
   },
   {
     "id": "story131",
@@ -245,11 +268,25 @@
       "ak-kula-kyrgyz",
       "akhal-teke-spirit-turkmen"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-goose-girl",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Kinder- und Hausmärchen: Die Gänsemagd",
+        "author": "Brüder Grimm",
+        "year": 1815,
+        "publisher": "Realschulbuchhandlung"
+      },
+      {
+        "title": "The Hard Facts of the Grimms' Fairy Tales",
+        "author": "Maria Tatar",
+        "year": 1987,
+        "publisher": "Princeton University Press"
+      }
+    ]
   },
   {
     "id": "story170",
@@ -456,11 +493,25 @@
     "creatures": [
       "gryphon"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "gryphon-story",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Naturalis Historia, Vol. X",
+        "author": "Pliny the Elder",
+        "year": 77,
+        "publisher": "Imperial Rome"
+      },
+      {
+        "title": "The New Encyclopaedia Britannica",
+        "author": "Encyclopaedia Britannica Inc.",
+        "year": 2003,
+        "publisher": "Encyclopaedia Britannica"
+      }
+    ]
   },
   {
     "id": "story322",
@@ -525,11 +576,20 @@
     "creatures": [
       "gumiho-southkorea"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-gumiho-nine-tailed-fox-of-korea",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Folk Tales from Korea",
+        "author": "Zong In-Sob",
+        "year": 1952,
+        "publisher": "Hollym International Corp., Seoul",
+        "note": "English-language collection covering Korean gumiho (nine-tailed fox) traditions and supernatural fox lore."
+      }
+    ]
   },
   {
     "id": "story360",

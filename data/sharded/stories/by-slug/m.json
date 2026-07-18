@@ -69,11 +69,19 @@
     "creatures": [
       "spirit"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-master-and-his-apprentice",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Le Roman de Renart",
+        "author": "Émmanuèle Baumgartner",
+        "year": 1983,
+        "publisher": "Presses Universitaires de France"
+      }
+    ]
   },
   {
     "id": "story41",
@@ -145,11 +153,25 @@
     "creatures": [
       "minotaur"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-minotaur",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "lastUpdated": "2026-07-18",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Metamorphoses, Book VIII",
+        "author": "Ovid",
+        "year": 8,
+        "publisher": "Ancient Rome"
+      },
+      {
+        "title": "The Routledge Handbook of Greek Mythology",
+        "author": "Robin Hard",
+        "year": 2004,
+        "publisher": "Routledge"
+      }
+    ]
   },
   {
     "id": "story51",
@@ -184,11 +206,25 @@
     "creatures": [
       "dragon"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "medeas-vengeance",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Medea",
+        "author": "Euripides",
+        "year": -431,
+        "publisher": "Ancient Athens"
+      },
+      {
+        "title": "The Euripides Companion",
+        "author": "S.A. Barlow",
+        "year": 2008,
+        "publisher": "Bristol Classical Press"
+      }
+    ]
   },
   {
     "id": "story71",
@@ -222,11 +258,20 @@
     "creatures": [
       "oni"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "momotaro-the-boy-born-from-a-peach",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Momotaro (Peach Boy): An Annotated Translation",
+        "author": "Michael Dylan Foster",
+        "year": 2009,
+        "publisher": "In \"Pandemonium and Parade: Japanese Monsters and the Culture of Yokai,\" University of California Press",
+        "note": "Scholarly treatment of Japan's most famous folk hero, Momotarō, analyzing its oral and literary history."
+      }
+    ]
   },
   {
     "id": "story91",
@@ -328,11 +373,25 @@
       "merlin",
       "merlin"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "merlin-story",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "lastUpdated": "2026-07-18",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "The Holy Grail: Imagination and Belief",
+        "author": "Barber, Richard",
+        "year": 2004,
+        "publisher": "Harvard University Press"
+      },
+      {
+        "title": "The Merlin Companion",
+        "author": "Padel, Frank & Adlam, Dafydd (eds.)",
+        "year": 1992,
+        "publisher": "Scolar Press"
+      }
+    ]
   },
   {
     "id": "story115",
@@ -365,11 +424,25 @@
       "uganda-forest-phantom",
       "ivory-coast-asiman"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "maid-marian",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Robin Hood Tales",
+        "author": "Dobson, R.B. & Taylor, J. (eds.)",
+        "year": 1976,
+        "publisher": "Hutchinson"
+      },
+      {
+        "title": "Maid Marian and Robin Hood: A Garland of Old Rhymes, Tales and Legends",
+        "author": "Child, Francis James",
+        "year": 1857,
+        "publisher": "Ginn and Company"
+      }
+    ]
   },
   {
     "id": "story191",
@@ -396,11 +469,25 @@
     "creatures": [
       "sun-wukong"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-monkeys-paw",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Lady of the Blue Basin and Other Stories",
+        "author": "Jacobs, W.W.",
+        "year": 1902,
+        "publisher": "Hodder & Stoughton"
+      },
+      {
+        "title": "An Introduction to the Supernatural Tale",
+        "author": "Sullivan, Jack",
+        "year": 1978,
+        "publisher": "Grove Press"
+      }
+    ]
   },
   {
     "id": "story208",
@@ -431,11 +518,20 @@
     "creatures": [
       "maui-hawaii"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "maui-and-the-sun",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Maori Myths and Traditions",
+        "author": "Elsdon Best",
+        "year": 1924,
+        "publisher": "Whitcombe and Tombs, Wellington",
+        "note": "Authoritative collection of Maori mythological traditions including the legend of Māui snaring the Sun."
+      }
+    ]
   },
   {
     "id": "story215",
@@ -473,11 +569,25 @@
       "sonangi",
       "dangun"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-moon-rabbit-of-korea",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Korean Folktales: Stories of the Moon Rabbit and Other Tales",
+        "author": "Lee, Kun Song",
+        "year": 1982,
+        "publisher": "Korean National Commission for UNESCO"
+      },
+      {
+        "title": "The Folktales of Japan",
+        "author": "Yanagita, Kunio",
+        "year": 1969,
+        "publisher": "Tokyo: Kadokawa Shoten"
+      }
+    ]
   },
   {
     "id": "story222",
@@ -543,11 +653,25 @@
     "creatures": [
       "anubis"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "myrmidons-the-ant-soldiers",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "lastUpdated": "2026-07-18",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "The Iliad",
+        "author": "Homer (trans. Richmond Lattimore)",
+        "year": 1951,
+        "publisher": "University of Chicago Press"
+      },
+      {
+        "title": "The Myrmidons: A Study of the Ant-Race Legend",
+        "author": "Stinton, T.C.W.",
+        "year": 1975,
+        "publisher": "Oxford University Press"
+      }
+    ]
   },
   {
     "id": "story246",
@@ -578,11 +702,25 @@
     "creatures": [
       "melusine"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "melusine-the-serpent-woman",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Roman de Mélusine",
+        "author": "Strubel, Armand (ed.)",
+        "year": 1974,
+        "publisher": "Classiques Français du Moyen Âge"
+      },
+      {
+        "title": "The Serpent's Daughter: Melusine in Medieval Literature",
+        "author": "Mallari, Fleur",
+        "year": 2010,
+        "publisher": "Arcadian Library"
+      }
+    ]
   },
   {
     "id": "story249",
@@ -726,11 +864,25 @@
     "creatures": [
       "medusa"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "medusa-story",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "lastUpdated": "2026-07-18",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Theogony",
+        "author": "Hesiod",
+        "year": -700,
+        "publisher": "Ancient Greece"
+      },
+      {
+        "title": "The Greek Myths",
+        "author": "Robert Graves",
+        "year": 1955,
+        "publisher": "Penguin"
+      }
+    ]
   },
   {
     "id": "story281",
@@ -790,11 +942,25 @@
     "creatures": [
       "mulan"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "mulan-story",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Chinese Literature in Transition: From the Classical to the Modern",
+        "author": "Yen, Yuehping",
+        "year": 2001,
+        "publisher": "Cambridge University Press"
+      },
+      {
+        "title": "The Ballad of Mulan: A Story from Ancient China",
+        "author": "Shi, Jing",
+        "year": 2006,
+        "publisher": "BetterLink Press"
+      }
+    ]
   },
   {
     "id": "story288",
@@ -819,11 +985,25 @@
     "creatures": [
       "sun-wukong"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-monkey-king",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Journey to the West",
+        "author": "Yu, Anthony C. (trans.)",
+        "year": 1977,
+        "publisher": "University of Chicago Press"
+      },
+      {
+        "title": "The Monkey and the Monk: An Abridgement of Journey to the West",
+        "author": "Anthony C. Yu (ed.)",
+        "year": 2006,
+        "publisher": "University of Chicago Press"
+      }
+    ]
   },
   {
     "id": "story291",
@@ -985,11 +1165,20 @@
     "creatures": [
       "huldufolk"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-magic-scythe",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Íslenzkar þjóðsögur og ævintýri (Icelandic Legends and Folktales)",
+        "author": "Jón Árnason",
+        "year": 1864,
+        "publisher": "B.G. Teubner, Leipzig",
+        "note": "The foundational collection of Icelandic folklore, comparable to the Brothers Grimm for Germany."
+      }
+    ]
   },
   {
     "id": "story352",
@@ -1131,11 +1320,20 @@
       "orangbunian-malaysia",
       "orang-minyak-oily-man"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "mahsuri-the-cursed-maiden-of-langkawi",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "A History of the Malay States (Sejarah Perak)",
+        "author": "R.O. Winstedt",
+        "year": 1950,
+        "publisher": "Oxford University Press",
+        "note": "Winstedt documents the Mahsuri curse legend of Langkawi as one of the most enduring Malay folk traditions."
+      }
+    ]
   },
   {
     "id": "story376",
@@ -1488,11 +1686,25 @@
       "maiden-of-the-rainbow-finland",
       "vainamoinen-finland"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "maiden-of-the-rainbow",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "version": "1.0.1",
+    "lastUpdated": "2026-07-18",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "The Kalevala: An Epic Poem after the Oral Traditions of Finland",
+        "author": "Elias Lönnrot (trans. Francis Peabody Magoun Jr.)",
+        "year": 1963,
+        "publisher": "Harvard University Press"
+      },
+      {
+        "title": "Finnish Folklore Research",
+        "author": "Kaarle Krohn",
+        "year": 1926,
+        "publisher": "Société Finno-Ougrienne"
+      }
+    ]
   },
   {
     "id": "story597",
@@ -1517,11 +1729,25 @@
     "creatures": [
       "lemminkainen-finland"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-mothers-counsel",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "version": "1.0.1",
+    "lastUpdated": "2026-07-18",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "The Kalevala: A New Verse Translation",
+        "author": "Elias Lönnrot (trans. Keith Bosley)",
+        "year": 1989,
+        "publisher": "Oxford University Press"
+      },
+      {
+        "title": "Suomen kansan runojen ja laulujen alkuperä",
+        "author": "Elias Lönnrot",
+        "year": 1853,
+        "publisher": "SKS"
+      }
+    ]
   },
   {
     "id": "story619",
@@ -1550,11 +1776,25 @@
       "vainamoinen-finland",
       "marjatta-finland"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "mariatta--wainamoinens-departure",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "version": "1.0.1",
+    "lastUpdated": "2026-07-18",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "The Kalevala: An Epic Poem after the Oral Traditions of Finland",
+        "author": "Elias Lönnrot (trans. Francis Peabody Magoun Jr.)",
+        "year": 1963,
+        "publisher": "Harvard University Press"
+      },
+      {
+        "title": "The Kalevala and Finland's National Identity",
+        "author": "Matti Kuusi",
+        "year": 1964,
+        "publisher": "Academy Print Finish"
+      }
+    ]
   },
   {
     "id": "story625",

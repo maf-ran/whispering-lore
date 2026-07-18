@@ -61,11 +61,25 @@
     "creatures": [
       "zombi"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-zombi-the-living-dead-of-haitian-vodou",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Tell My Horse: Voodoo and Life in Haiti and Jamaica",
+        "author": "Zora Neale Hurston",
+        "year": 1938,
+        "publisher": "J.B. Lippincott"
+      },
+      {
+        "title": "The Serpent and the Rainbow",
+        "author": "Wade Davis",
+        "year": 1985,
+        "publisher": "Simon & Schuster"
+      }
+    ]
   },
   {
     "id": "story379",

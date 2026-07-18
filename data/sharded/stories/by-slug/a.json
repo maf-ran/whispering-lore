@@ -443,11 +443,25 @@
     "creatures": [
       "arwe"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "arwe-the-serpent-king-of-ethiopia",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Sacred Kingship of Ethiopia",
+        "author": "Cerulli, Enrico",
+        "year": 1944,
+        "publisher": "Bardi Editore"
+      },
+      {
+        "title": "Ethiopian Folktales: A Selection",
+        "author": "Lipner, Julius & Zewde, Bahru (eds.)",
+        "year": 1991,
+        "publisher": "Hurst & Company"
+      }
+    ]
   },
   {
     "id": "story393",

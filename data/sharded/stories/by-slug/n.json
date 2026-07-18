@@ -63,11 +63,19 @@
     "creatures": [
       "nix-germany"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-nixies-song",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Deutsche Sagen",
+        "author": "Brüder Grimm",
+        "year": 1816,
+        "publisher": "Nicolaische Buchhandlung"
+      }
+    ]
   },
   {
     "id": "story65",
@@ -98,11 +106,19 @@
     "creatures": [
       "nix-germany"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-nix-of-the-millpond",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Kinder- und Hausmärchen: Der Nix vom Teich",
+        "author": "Brüder Grimm",
+        "year": 1819,
+        "publisher": "Realschulbuchhandlung"
+      }
+    ]
   },
   {
     "id": "story108",
@@ -134,11 +150,25 @@
     "creatures": [
       "narcissus"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "narcissus-story",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "lastUpdated": "2026-07-18",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Metamorphoses, Book III",
+        "author": "Ovid",
+        "year": 8,
+        "publisher": "Ancient Rome"
+      },
+      {
+        "title": "Oxford Dictionary of Classical Myths",
+        "author": "Jenny March",
+        "year": 2001,
+        "publisher": "Oxford University Press"
+      }
+    ]
   },
   {
     "id": "story175",
@@ -198,11 +228,25 @@
       "bergkobold",
       "brockengespenst"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-nutcracker-and-the-mouse-king",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Nussknacker und Mausekönig",
+        "author": "E.T.A. Hoffmann",
+        "year": 1816,
+        "publisher": "Selbstverlag"
+      },
+      {
+        "title": "E.T.A. Hoffmann and the Serapion Principle",
+        "author": "Horst Frenz (ed.)",
+        "year": 1971,
+        "publisher": "Wayne State University Press"
+      }
+    ]
   },
   {
     "id": "story201",
@@ -229,11 +273,20 @@
     "creatures": [
       "spirit"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-nuns-priest-tale",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Canterbury Tales",
+        "author": "Geoffrey Chaucer",
+        "year": 1400,
+        "publisher": "London (modern ed. F.N. Robinson, Houghton Mifflin, 1933)",
+        "note": "Chaucer's beast fable of Chanticleer and the Fox, itself derived from Boccaccio's Decameron (Day 3, Story 1)."
+      }
+    ]
   },
   {
     "id": "story225",
@@ -334,11 +387,25 @@
     "creatures": [
       "nuckelavee-orkneyislands"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "nuckelavee-the-horse-demon",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Celtic and Teutonic Mythologies",
+        "author": "Mackay, Charles",
+        "year": 1887,
+        "publisher": "Trübner & Co."
+      },
+      {
+        "title": "Folklore of the Scottish Highlands",
+        "author": "MacInnes, Donald",
+        "year": 1950,
+        "publisher": "Birlinn"
+      }
+    ]
   },
   {
     "id": "story271",
@@ -598,11 +665,20 @@
       "neak-ta",
       "neang-kay"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "neang-kakey-the-unfaithful-wife-of-khmer-literature",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Contes du Cambodge (Tales of Cambodia)",
+        "author": "Pierre-Richard Féray",
+        "year": 1976,
+        "publisher": "Éditions du Sagittaire, Paris",
+        "note": "Collection of classical Cambodian narratives including Neang Kakey from the Reamker (Cambodian Ramayana) tradition."
+      }
+    ]
   },
   {
     "id": "story527",

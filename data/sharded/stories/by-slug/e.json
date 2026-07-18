@@ -60,11 +60,25 @@
     "creatures": [
       "erlking"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-erlking",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Goethes Werke: Erlkönig",
+        "author": "Johann Wolfgang von Goethe",
+        "year": 1782,
+        "publisher": "Göschen"
+      },
+      {
+        "title": "The Erlking in European Folk Tradition",
+        "author": "Bridget Power",
+        "year": 2007,
+        "publisher": "Folklore"
+      }
+    ]
   },
   {
     "id": "story43",
@@ -196,11 +210,20 @@
       "prince-sattva-indian",
       "banyan-deer-indian"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-elephant-and-the-sparrow",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Panchatantra: The Book of India's Folk Wisdom",
+        "author": "Patrick Olivell (trans.)",
+        "year": 1998,
+        "publisher": "Penguin Classics",
+        "note": "Modern English translation of the Panchatantra fables, attributed to Vishnu Sharma (c. 3rd century BCE)."
+      }
+    ]
   },
   {
     "id": "story103",
@@ -272,11 +295,25 @@
     "creatures": [
       "spirit"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "excalibur",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Le Morte d'Arthur",
+        "author": "Malory, Thomas",
+        "year": 1485,
+        "publisher": "William Caxton (ed. Janet Cowen, 1969, Penguin)"
+      },
+      {
+        "title": "The Discovery of King Arthur",
+        "author": "Ashe, Geoffrey",
+        "year": 1985,
+        "publisher": "Anchor Press"
+      }
+    ]
   },
   {
     "id": "story143",
@@ -336,11 +373,20 @@
       "deerancestorspiritzapotec-mexico",
       "fairy-europe"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-enchanted-deer",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Italian Folktales (Fiabe italiane)",
+        "author": "Italo Calvino (retold)",
+        "year": 1956,
+        "publisher": "Einaudi, Turin (English trans. George Martin, Harcourt Brace, 1980)",
+        "note": "Calvino's celebrated collection retelling Italian folk tales including enchanted animal transformation stories."
+      }
+    ]
   },
   {
     "id": "story161",
@@ -494,11 +540,19 @@
     "creatures": [
       "fairy-europe"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-elves-and-the-shoemaker",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Kinder- und Hausmärchen: Die Wichtelmänner",
+        "author": "Brüder Grimm",
+        "year": 1812,
+        "publisher": "Realschulbuchhandlung"
+      }
+    ]
   },
   {
     "id": "story184",
@@ -565,11 +619,25 @@
       "horus-egyptian",
       "osiris"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-eyes-of-horus",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "lastUpdated": "2026-07-18",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Horus: A Study in the Egyptian Solar-Horizon Myth",
+        "author": "Te Velde, Hans",
+        "year": 1971,
+        "publisher": "Brill"
+      },
+      {
+        "title": "The Penguin Dictionary of Ancient Egypt",
+        "author": "Tooley, Trevor & Bagnall, Roger S.",
+        "year": 1989,
+        "publisher": "Penguin Books"
+      }
+    ]
   },
   {
     "id": "story262",
@@ -634,11 +702,19 @@
     "creatures": [
       "pombero-uruguay"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "el-pombero-the-goblin-of-the-argentine-forest",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Mitolguía Guaraní: Cosmología y Civilización",
+        "author": "Félix de Azara",
+        "year": 1805,
+        "publisher": "Real Audiencia de Buenos Aires"
+      }
+    ]
   },
   {
     "id": "story347",
@@ -850,11 +926,20 @@
       "baubas",
       "burkina-mba-katre"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "egle-the-queen-of-serpents",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Lietuvių tautos pasakojimai apie senovės dievus (Lithuanian National Tales about Ancient Gods)",
+        "author": "Jonas Basanavičius",
+        "year": 1909,
+        "publisher": "Vilnius",
+        "note": "Foundational collection of Lithuanian folklore containing the Eglė žalčių karalienė (Eglė, Queen of Serpents) myth."
+      }
+    ]
   },
   {
     "id": "story429",

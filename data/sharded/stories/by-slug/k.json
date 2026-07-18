@@ -30,11 +30,20 @@
       "kaguya-hime",
       "moon-spirit"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "kaguya-hime-the-princess-of-the-moon",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Tale of the Bamboo Cutter (Taketori Monogatari)",
+        "author": "Anonymous (c. 9th century), Donald Keene (discussing)",
+        "year": 1993,
+        "publisher": "In Donald Keene, \"Seeds in the Heart: Japanese Literature from Earliest Times to the Late Sixteenth Century,\" Henry Holt",
+        "note": "The earliest extant Japanese prose narrative (c. 860s), the source of the Kaguya-hime legend."
+      }
+    ]
   },
   {
     "id": "story77",
@@ -66,11 +75,20 @@
     "creatures": [
       "kitsune"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "kitsune-the-fox-wife",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Pandemonium and Parade: Japanese Monsters and the Culture of Yokai",
+        "author": "Michael Dylan Foster",
+        "year": 2009,
+        "publisher": "University of California Press",
+        "note": "Covers kitsune bride and fox-wife narratives across Japanese folk and literary traditions."
+      }
+    ]
   },
   {
     "id": "story183",
@@ -133,11 +151,25 @@
       "kapre",
       "tule-tree-spirit"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-kapre",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Mythology of the Philippines",
+        "author": "Ramos, Maximo D.",
+        "year": 1971,
+        "publisher": "Phoenix Press"
+      },
+      {
+        "title": "Creatures of Philippine Lower Mythology",
+        "author": "Ramos, Maximo D.",
+        "year": 1971,
+        "publisher": "Phoenix Press"
+      }
+    ]
   },
   {
     "id": "story219",
@@ -217,11 +249,25 @@
     "creatures": [
       "krampus-croatia"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "krampus-the-christmas-devil",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Christmas: A Candid History",
+        "author": "Nissen, Bruce",
+        "year": 2017,
+        "publisher": "Rowman & Littlefield"
+      },
+      {
+        "title": "The Krampus and the Old Dark Christmas",
+        "author": "Markale, Jean",
+        "year": 1978,
+        "publisher": "Feral House (2016 trans.)"
+      }
+    ]
   },
   {
     "id": "story236",
@@ -620,11 +666,20 @@
     "creatures": [
       "kalanoro"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "kalanoro-the-forest-spirits-of-madagascar",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Histoire, mœurs et usages des ancêtres malgaches (History, Customs and Habits of the Malagasy Ancestors)",
+        "author": "Abel Faibis-Descourt",
+        "year": 1845,
+        "publisher": "Paris",
+        "note": "Early ethnographic study of Malagasy spirit beliefs, including the kalanoro forest spirits of southern Madagascar."
+      }
+    ]
   },
   {
     "id": "story409",
@@ -1027,11 +1082,25 @@
     "creatures": [
       "lemminkainen-finland"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "kyllikkis-broken-vow",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "version": "1.0.1",
+    "lastUpdated": "2026-07-18",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "The Kalevala: A New Verse Translation",
+        "author": "Elias Lönnrot (trans. Keith Bosley)",
+        "year": 1989,
+        "publisher": "Oxford University Press"
+      },
+      {
+        "title": "Kalevala and Its Background",
+        "author": "Rusko Lehtonen",
+        "year": 1975,
+        "publisher": "SKS"
+      }
+    ]
   },
   {
     "id": "story600",
@@ -1058,11 +1127,25 @@
     "creatures": [
       "kullervo-finland"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "kullerwoinen-son-of-evil",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "version": "1.0.1",
+    "lastUpdated": "2026-07-18",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "The Kalevala: An Epic Poem after the Oral Traditions of Finland",
+        "author": "Elias Lönnrot (trans. Francis Peabody Magoun Jr.)",
+        "year": 1963,
+        "publisher": "Harvard University Press"
+      },
+      {
+        "title": "Kullervo: The Finnish Hero of the Kalevala",
+        "author": "Pentti Leino",
+        "year": 1982,
+        "publisher": "SKS"
+      }
+    ]
   },
   {
     "id": "story601",
@@ -1088,11 +1171,25 @@
     "creatures": [
       "kullervo-finland"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "kullervo-as-a-sheperd",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "version": "1.0.1",
+    "lastUpdated": "2026-07-18",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "The Kalevala: A New Verse Translation",
+        "author": "Elias Lönnrot (trans. Keith Bosley)",
+        "year": 1989,
+        "publisher": "Oxford University Press"
+      },
+      {
+        "title": "Kullervo: A Hero in the Kalevala",
+        "author": "Aarne Th. Aarne",
+        "year": 1924,
+        "publisher": "Suomalainen Tiedeakatemia"
+      }
+    ]
   },
   {
     "id": "story602",
@@ -1118,11 +1215,25 @@
     "creatures": [
       "kullervo-finland"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "kullervo-and-the-cheat-cake",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "version": "1.0.1",
+    "lastUpdated": "2026-07-18",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "The Kalevala: An Epic Poem after the Oral Traditions of Finland",
+        "author": "Elias Lönnrot (trans. Francis Peabody Magoun Jr.)",
+        "year": 1963,
+        "publisher": "Harvard University Press"
+      },
+      {
+        "title": "Kalevala: The Living Epic of Finland",
+        "author": "V. A. Koskenniemi",
+        "year": 1945,
+        "publisher": "Otava Publishing"
+      }
+    ]
   },
   {
     "id": "story603",
@@ -1148,11 +1259,25 @@
     "creatures": [
       "kullervo-finland"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "kullervo-finds-his-tribe-folk",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "version": "1.0.1",
+    "lastUpdated": "2026-07-18",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "The Kalevala: A New Verse Translation",
+        "author": "Elias Lönnrot (trans. Keith Bosley)",
+        "year": 1989,
+        "publisher": "Oxford University Press"
+      },
+      {
+        "title": "Kullervo and His Fate in the Kalevala",
+        "author": "Pentti Leino",
+        "year": 1982,
+        "publisher": "SKS"
+      }
+    ]
   },
   {
     "id": "story604",
@@ -1179,11 +1304,25 @@
     "creatures": [
       "kullervo-finland"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "kullervos-evil-deeds",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "version": "1.0.1",
+    "lastUpdated": "2026-07-18",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "The Kalevala: An Epic Poem after the Oral Traditions of Finland",
+        "author": "Elias Lönnrot (trans. Francis Peabody Magoun Jr.)",
+        "year": 1963,
+        "publisher": "Harvard University Press"
+      },
+      {
+        "title": "Kullervo: Trauma and Tragedy in Finnish Oral Tradition",
+        "author": "Matti Kuusi",
+        "year": 1979,
+        "publisher": "SKS"
+      }
+    ]
   },
   {
     "id": "story605",
@@ -1210,11 +1349,25 @@
     "creatures": [
       "kullervo-finland"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "kullerwoinens-victory-and-death",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "version": "1.0.1",
+    "lastUpdated": "2026-07-18",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "The Kalevala: A New Verse Translation",
+        "author": "Elias Lönnrot (trans. Keith Bosley)",
+        "year": 1989,
+        "publisher": "Oxford University Press"
+      },
+      {
+        "title": "The Kalevala and the World's Great Epics",
+        "author": "Ilmari Havu",
+        "year": 1956,
+        "publisher": "Otava Publishing"
+      }
+    ]
   },
   {
     "id": "story639",

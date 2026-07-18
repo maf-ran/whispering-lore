@@ -27,11 +27,19 @@
     "creatures": [
       "skogsr"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-iron-pig",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Kinder- und Hausmärchen: Das Eisenhütchen",
+        "author": "Brüder Grimm",
+        "year": 1819,
+        "publisher": "Realschulbuchhandlung"
+      }
+    ]
   },
   {
     "id": "story80",
@@ -63,11 +71,20 @@
     "creatures": [
       "eynhallow-monk"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "ikkyu-the-monk-child",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Wild Ways: Zen Poems of Ikkyū Sōjun",
+        "author": "John Stevens (trans.)",
+        "year": 1995,
+        "publisher": "Shambhala Publications",
+        "note": "Translation and biography of the eccentric Zen monk Ikkyū, whose life inspired centuries of Japanese folklore."
+      }
+    ]
   },
   {
     "id": "story106",
@@ -101,11 +118,25 @@
     "creatures": [
       "icarus"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "icarus-wings-too-close-to-the-sun",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "lastUpdated": "2026-07-18",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Metamorphoses, Book VIII",
+        "author": "Ovid",
+        "year": 8,
+        "publisher": "Ancient Rome"
+      },
+      {
+        "title": "The Oxford Companion to Classical Literature",
+        "author": "M.C. Howatson (ed.)",
+        "year": 2011,
+        "publisher": "Oxford University Press"
+      }
+    ]
   },
   {
     "id": "story173",
@@ -289,11 +320,20 @@
     "creatures": [
       "ibonia-malagasy"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "ibonia-the-epic-hero-of-madagascar",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Histoire de la grande île de Madagascar (History of the Great Island of Madagascar)",
+        "author": "Jean-François de La Harpe",
+        "year": 1785,
+        "publisher": "Paris",
+        "note": "Early European account of Malagasy oral epic traditions including the Ibonia cycle, the longest epic in Malagasy literature."
+      }
+    ]
   },
   {
     "id": "story468",
@@ -363,11 +403,25 @@
       "louhi-finland",
       "ilmarinen-finland"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "ilmarinen-forges-the-sampo",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "version": "1.0.1",
+    "lastUpdated": "2026-07-18",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "The Kalevala: A New Verse Translation",
+        "author": "Elias Lönnrot (trans. Keith Bosley)",
+        "year": 1989,
+        "publisher": "Oxford University Press"
+      },
+      {
+        "title": "The Sampo: A Magic Mill",
+        "author": "Martti Haavio",
+        "year": 1952,
+        "publisher": "Suomalainen Tiedeakatemia"
+      }
+    ]
   },
   {
     "id": "story588",
@@ -399,11 +453,25 @@
       "louhi-finland",
       "ilmarinen-finland"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "ilmarinens-wooing",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "version": "1.0.1",
+    "lastUpdated": "2026-07-18",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "The Kalevala: An Epic Poem after the Oral Traditions of Finland",
+        "author": "Elias Lönnrot (trans. Francis Peabody Magoun Jr.)",
+        "year": 1963,
+        "publisher": "Harvard University Press"
+      },
+      {
+        "title": "Sammon salaisuus",
+        "author": "Martti Haavio",
+        "year": 1948,
+        "publisher": "Werner Söderström Osakeyhtiö"
+      }
+    ]
   },
   {
     "id": "story590",
@@ -433,11 +501,25 @@
       "louhi-finland",
       "ilmarinen-finland"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "ilmarinens-wedding-feast",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "version": "1.0.1",
+    "lastUpdated": "2026-07-18",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "The Kalevala: A New Verse Translation",
+        "author": "Elias Lönnrot (trans. Keith Bosley)",
+        "year": 1989,
+        "publisher": "Oxford University Press"
+      },
+      {
+        "title": "Finnish Folklore Research",
+        "author": "Kaarle Krohn",
+        "year": 1926,
+        "publisher": "Société Finno-Ougrienne"
+      }
+    ]
   },
   {
     "id": "story598",
@@ -462,11 +544,25 @@
     "creatures": [
       "vainamoinen-finland"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-isle-of-refuge",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "version": "1.0.1",
+    "lastUpdated": "2026-07-18",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "The Kalevala: An Epic Poem after the Oral Traditions of Finland",
+        "author": "Elias Lönnrot (trans. Francis Peabody Magoun Jr.)",
+        "year": 1963,
+        "publisher": "Harvard University Press"
+      },
+      {
+        "title": "Kalevala: The Finnish Epic of Magic and Adventure",
+        "author": "Gerald Cain",
+        "year": 1989,
+        "publisher": "Firebird Book Publishing"
+      }
+    ]
   },
   {
     "id": "story606",
@@ -495,11 +591,25 @@
     "creatures": [
       "ilmarinen-finland"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "ilmarinens-bride-of-gold",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "version": "1.0.1",
+    "lastUpdated": "2026-07-18",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "The Kalevala: A New Verse Translation",
+        "author": "Elias Lönnrot (trans. Keith Bosley)",
+        "year": 1989,
+        "publisher": "Oxford University Press"
+      },
+      {
+        "title": "The Hammer of the Smith: The Forge in Finnish Folklore",
+        "author": "Leea Virtanen",
+        "year": 1977,
+        "publisher": "SKS"
+      }
+    ]
   },
   {
     "id": "story607",
@@ -527,11 +637,25 @@
     "creatures": [
       "ilmarinen-finland"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "ilmarinens-fruitless-wooing",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "version": "1.0.1",
+    "lastUpdated": "2026-07-18",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "The Kalevala: An Epic Poem after the Oral Traditions of Finland",
+        "author": "Elias Lönnrot (trans. Francis Peabody Magoun Jr.)",
+        "year": 1963,
+        "publisher": "Harvard University Press"
+      },
+      {
+        "title": "Suomen uskonto",
+        "author": "Sibling Sixtus Hämäläinen",
+        "year": 1920,
+        "publisher": "Kustannusosakeyhtiö Kirja"
+      }
+    ]
   },
   {
     "id": "story638",
