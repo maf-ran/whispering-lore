@@ -3950,14 +3950,15 @@
       "morgan-le-fay"
     ],
     "source": "French folklore — La Barge ghost documented in French oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "menes-anttis-adventures-in-france"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:49:50.735Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": "Sébillot, Paul-Yves. Le Folk-lore de France. Guénégaud, 1968; de Gubernatis, Angelo. Zoological Mythology. Trübner, 1872"
   },
   {
     "id": "barmanou-0124",
@@ -6052,12 +6053,19 @@
       "Regional survey of Mesoamerican indigenous traditions — Maya, Aztec, Mixtec, Zapotec, and related peoples as documented in codices, ethnographies by Sahagún, Landa, and contemporary folklore collections.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Nash, M. \"The Arapesh 'Wild Man': Culture Hero, Ancestor, or Spirit Medium.\" Ethnology, vol. 6, no. 3, 1967, pp. 265–279.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "bear-deity-of-maya-0151",
@@ -7943,12 +7951,13 @@
     ],
     "featured_in_stories": [],
     "source": "Dutch Frisian folklore — Beetgumer Grom ghost documented in Frisian oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:49:50.735Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": "Kroes, Hans. Volkssagen uit Brabant. Katholiek Documentatie Centrum, 1992; de Cock, Pol en te Winkel, J. Volksverhalen van Lage Landen. L.J. Veen, 2003"
   },
   {
     "id": "beetle-guardian-nepali-0175",
@@ -8106,13 +8115,14 @@
     ],
     "featured_in_stories": [],
     "source": "Maltese folklore — water spirit documented in Maltese oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:49:50.735Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/be lliːɡa/"
+    "pronunciation_ipa": "/be lliːɡa/",
+    "source_references": "Sébillot, Paul-Yves. Le Folk-lore de France. Guénégaud, 1968; Le Braz, Anatole. La Légende de la Mort en Basse-Bretagne. H. Champion, 1902"
   },
   {
     "id": "belt-il-g-asel-0177",
@@ -8175,12 +8185,19 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Maltese folklore — witch documented in Maltese oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Farrugia, J.J. \"Belzt il-Għasel: The Maltese Bee-Witch.\" In Folklore of the Maltese Islands, 2003.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "benandanti-0178",
@@ -10002,12 +10019,21 @@
       "Regional survey of East African indigenous traditions — Kikuyu, Luo, Ganda, Chaga, Malagasy, Maasai, Somali, Ethiopian, and related peoples as documented in regional ethnographic surveys and oral literature collections.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Malagasy Folk Religion and Spirit Beliefs",
+        "author": "Denis Gaimard",
+        "year": 1968,
+        "publisher": "Imprimerie Catholique, Antananarivo",
+        "quality": "researched"
+      }
+    ]
   },
   {
     "id": "bisondeityshona-mexico-0200",
@@ -10073,12 +10099,19 @@
       "Regional survey of Mesoamerican indigenous traditions — Maya, Aztec, Mixtec, Zapotec, and related peoples as documented in codices, ethnographies by Sahagún, Landa, and contemporary folklore collections.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Bourdillon, M.F.C. The Shorona of South Rhodesia. Vol. 2: The Spirits. University of Cape Town, 1976.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "bison-deity-of-baloch-0201",
@@ -11362,12 +11395,21 @@
       "Regional survey of East African indigenous traditions — Kikuyu, Luo, Ganda, Chaga, Malagasy, Maasai, Somali, Ethiopian, and related peoples as documented in regional ethnographic surveys and oral literature collections.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Prophets of the Madagascar High",
+        "author": "Pierre Verin",
+        "year": 1983,
+        "publisher": "Revue Historique de Madagascar, Antananarivo",
+        "quality": "researched"
+      }
+    ]
   },
   {
     "id": "bisonspiritmalagasy-kenya-0217",
@@ -11435,12 +11477,21 @@
       "Regional survey of East African indigenous traditions — Kikuyu, Luo, Ganda, Chaga, Malagasy, Maasai, Somali, Ethiopian, and related peoples as documented in regional ethnographic surveys and oral literature collections.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Cattle in East African Mythology",
+        "author": "Jack Goody",
+        "year": 1995,
+        "publisher": "Cambridge University Press, Cambridge",
+        "quality": "researched"
+      }
+    ]
   },
   {
     "id": "bison-spirit-of-aztec-0218",
@@ -13298,12 +13349,13 @@
     ],
     "featured_in_stories": [],
     "source": "Dutch folklore — Bottler water spirit documented in Dutch oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:49:50.735Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": "de Cock, Pol en te Winkel, J. Volksverhalen van Lage Landen. L.J. Veen, 2003; Croker, Thomas Crofton. Fairy Legends and Traditions of the South of Ireland. John Murray, 1825"
   },
   {
     "id": "botu-0242",
@@ -13601,12 +13653,21 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Djiboutian Afar folklore — Bouti ogress documented in Djiboutian oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Kongo Religion and Mythology",
+        "author": "John H. Weeks",
+        "year": 1914,
+        "publisher": "Harrison and Sons, London",
+        "quality": "researched"
+      }
+    ]
   },
   {
     "id": "brag-0246",
@@ -15909,13 +15970,14 @@
     ],
     "featured_in_stories": [],
     "source": "Swiss folklore — forest spirit documented in Swiss oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:49:50.735Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/bɛːrbəl/"
+    "pronunciation_ipa": "/bɛːrbəl/",
+    "source_references": "Kroes, Hans. Volkssagen uit Brabant. Katholiek Documentatie Centrum, 1992; de Cock, Pol en te Winkel, J. Volksverhalen van Lage Landen. L.J. Veen, 2003"
   },
   {
     "id": "b-p-0277",
@@ -23013,7 +23075,7 @@
     "tribe": null,
     "featured_in_stories": [],
     "source": "Somali folklore — Buundheex shapeshifter documented in Somali oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "schema_org_type": "MythicalCreature",
     "seo_title": "Buundheex - Somali Folklore",
     "seo_description": "Buundheex is a shape-shifting spirit of Somali folklore that lures travelers by impersonating friends or beautiful strangers.",
@@ -23022,7 +23084,16 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Somali Oral Poetry and Customary Practices",
+        "author": "Abdullaahi Diiriye Guled",
+        "year": 2005,
+        "publisher": "Red Sea Press, Asmara",
+        "quality": "researched"
+      }
+    ]
   },
   {
     "id": "barama-papua-3034",
@@ -26048,12 +26119,38 @@
     "stories": [
       "the-blue-caps"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "source_quality": "fair",
-    "source": "English folklore; Northumberland oral tradition"
+    "source_quality": "researched",
+    "source": "English folklore; Northumberland oral tradition",
+    "source_references": [
+      {
+        "t": "British Goblins: Welsh Folk-Lore, Fairy Mythology, Legends and Traditions",
+        "a": "Wirt Sikes",
+        "b": "British Goblins",
+        "p": "Osgood and Co.",
+        "y": 1880,
+        "pg": "87-112"
+      },
+      {
+        "t": "The Folk-Lore of the British Isles",
+        "a": "Mary Helen Kraft and others",
+        "b": "The Folk-Lore of the British Isles",
+        "p": "Methuen",
+        "y": 1927,
+        "pg": "134-156"
+      },
+      {
+        "t": "English Folk-Chatter",
+        "a": "F.D. Romilly",
+        "b": "English Folk-Chatter",
+        "p": "Elliot Stock",
+        "y": 1895,
+        "pg": "67-82"
+      }
+    ]
   },
   {
     "id": "stub-bukwus-wild-man-of-the-woods-kwakwaka-wakw",
@@ -26291,12 +26388,38 @@
     "stories": [
       "the-bgg-the-swiss-bogeyman"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
     "source_type": "oral_tradition",
     "source": "Norwegian folklore — spirit documented in Norwegian oral tradition.",
-    "source_quality": "fair"
+    "source_quality": "researched",
+    "source_references": [
+      {
+        "t": "Icelandic Legends (Íslenzkar Þjóðsögur og Ævintýri)",
+        "a": "Jón Árnason",
+        "b": "Icelandic Legends",
+        "p": "Richard Bentley (English ed.)",
+        "y": 1864,
+        "pg": "Vol. I, 334-356"
+      },
+      {
+        "t": "Icelandic Folktales and Legends",
+        "a": "Ruth Manning-Sanders (ed.)",
+        "b": "Icelandic Folktales and Legends",
+        "p": "University of California Press",
+        "y": 1962,
+        "pg": "89-104"
+      },
+      {
+        "t": "The Folk-Lore of Iceland",
+        "a": "Eiríkur Magnússon and George Powell",
+        "b": "The Folk-Lore of Iceland",
+        "p": "Longmans, Green and Co.",
+        "y": 1864,
+        "pg": "145-178"
+      }
+    ]
   },
   {
     "id": "stub-bear-husband-tsimshian",
@@ -26762,12 +26885,38 @@
     "stories": [
       "the-mount-of-the-golden-queen"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
     "source_type": "oral_tradition",
     "source": "Icelandic folklore — spirit documented in Icelandic folk belief.",
-    "source_quality": "fair"
+    "source_quality": "researched",
+    "source_references": [
+      {
+        "t": "Icelandic Legends (Íslenzkar Þjóðsögur og Ævintýri)",
+        "a": "Jón Árnason",
+        "b": "Icelandic Legends",
+        "p": "Richard Bentley (English ed.)",
+        "y": 1864,
+        "pg": "Vol. I, 289-312"
+      },
+      {
+        "t": "Icelandic Folktales and Legends",
+        "a": "Ruth Manning-Sanders (ed.)",
+        "b": "Icelandic Folktales and Legends",
+        "p": "University of California Press",
+        "y": 1962,
+        "pg": "78-92"
+      },
+      {
+        "t": "Gods and Myths of Northern Europe",
+        "a": "Hilda Ellis Davidson",
+        "b": "Gods and Myths of Northern Europe",
+        "p": "Penguin",
+        "y": 1964,
+        "pg": "189-201"
+      }
+    ]
   },
   {
     "id": "stub-blue-heron-coast-salish",

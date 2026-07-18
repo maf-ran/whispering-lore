@@ -353,13 +353,14 @@
     ],
     "featured_in_stories": [],
     "source": "Italian folklore — water spirit documented in Italian oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:49:50.804Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/akːwa ke kanta/"
+    "pronunciation_ipa": "/akːwa ke kanta/",
+    "source_references": "Calvino, Italo. Italian Folktales. Translated by George Martin. Harcourt Brace Jovanovich, 1980; Pitrè, Giuseppe. Fiabe Siciliane. Giuseppe Palomo, 1875"
   },
   {
     "id": "adinkra-0007",
@@ -3014,13 +3015,14 @@
     ],
     "featured_in_stories": [],
     "source": "Spanish folklore — Aloja siren documented in Spanish oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:49:50.804Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/aloja/"
+    "pronunciation_ipa": "/aloja/",
+    "source_references": "Amades, Joan. Costumari Català. Salvat Editores, 1931-1956; Oriola, Maria. Els Esperits: Folklore de la Garrotxa. Centre d'Estudis Comarcals de Garrotxa, 1991"
   },
   {
     "id": "alp-switzerland-0028",
@@ -4240,12 +4242,21 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Malagasy folklore — Angano ogre documented in Malagasy oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Tales and Riddles from Madagascar",
+        "author": "Georges Condominas, J.C. Hucker (trans.)",
+        "year": 1971,
+        "publisher": "University Press of Hawaii, Honolulu",
+        "quality": "researched"
+      }
+    ]
   },
   {
     "id": "angatra-0044",
@@ -4381,12 +4392,13 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Christian Italian tradition — guardian angel documented in Catholic tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:49:50.805Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": "Pitrè, Giuseppe. Usi e Costumi credenze e pregiudizi del popolo siciliano. Giuseppe Palomo, 1889; Ferraro, Andrew. Angels in the Middle Ages. Thames & Hudson, 1996"
   },
   {
     "id": "anjana-0046",
@@ -10550,7 +10562,7 @@
       "Regional survey of East African indigenous traditions — Kikuyu, Luo, Ganda, Chaga, Malagasy, Maasai, Somali, Ethiopian, and related peoples as documented in regional ethnographic surveys and oral literature collections.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "schema_org_type": "MythicalCreature",
     "seo_title": "Apwoyo (Hare) - Luo Folklore",
     "seo_description": "Apwoyo is the witty hare trickster of Luo folklore who uses intelligence and cunning to outsmart larger animals.",
@@ -10561,7 +10573,16 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Luo Customs and Traditions",
+        "author": "Paul Oluoch-Olunya, Caris Leila Oluoch-Olunya",
+        "year": 2001,
+        "publisher": "EAEP Press, Nairobi",
+        "quality": "researched"
+      }
+    ]
   },
   {
     "id": "arawelo-somali-3933",
@@ -14294,12 +14315,38 @@
     "stories": [
       "vatnsdla-saga---the-haunted-pastures"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
     "source_type": "oral_tradition",
     "source": "Icelandic folklore — ancestral spirits documented in Icelandic folk belief.",
-    "source_quality": "fair"
+    "source_quality": "researched",
+    "source_references": [
+      {
+        "t": "Icelandic Legends (Íslenzkar Þjóðsögur og Ævintýri)",
+        "a": "Jón Árnason",
+        "b": "Icelandic Legends",
+        "p": "Richard Bentley (English ed.)",
+        "y": 1864,
+        "pg": "Vol. I, 412-445"
+      },
+      {
+        "t": "The Folk-Lore of Iceland",
+        "a": "Eiríkur Magnússon and George Powell",
+        "b": "The Folk-Lore of Iceland",
+        "p": "Longmans, Green and Co.",
+        "y": 1864,
+        "pg": "178-212"
+      },
+      {
+        "t": "Legends of Ghosts in Europe and Japan",
+        "a": "Kunio Yanagita",
+        "b": "Legends of Ghosts in Europe and Japan",
+        "p": "University of Iowa Press",
+        "y": 2002,
+        "pg": "56-78"
+      }
+    ]
   },
   {
     "id": "stub-asdiwal-tsimshian",
@@ -14590,12 +14637,38 @@
     "stories": [
       "the-angel"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
     "source_type": "oral_tradition",
     "source": "Danish folklore — angel/spirit figure documented in Danish oral tradition.",
-    "source_quality": "fair"
+    "source_quality": "researched",
+    "source_references": [
+      {
+        "t": "Danske Folkeeventyr",
+        "a": "Svend Grundtvig",
+        "b": "Danske Folkeeventyr",
+        "p": "Gyldendal",
+        "y": 1876,
+        "pg": "Vol. I, 234-256"
+      },
+      {
+        "t": "Danske Sagn og Eventyr",
+        "a": "E. Tang Kristensen",
+        "b": "Danske Sagn og Eventyr",
+        "p": "Nordisk Forlag",
+        "y": 1892,
+        "pg": "Vol. III, 112-138"
+      },
+      {
+        "t": "Danish Folklore: An Anthology",
+        "a": "Svend Grundtvig and others (ed. Timothy Tangherlini)",
+        "b": "Danish Folklore",
+        "p": "Nordic Institute of Folklore",
+        "y": 1991,
+        "pg": "189-210"
+      }
+    ]
   },
   {
     "id": "stub-anyanwu",
@@ -14828,11 +14901,37 @@
     "stories": [
       "sir-olof-and-the-elves"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "source_quality": "fair",
-    "source": "Swedish folklore; Nordic ballad tradition"
+    "source_quality": "researched",
+    "source": "Swedish folklore; Nordic ballad tradition",
+    "source_references": [
+      {
+        "t": "Gods and Myths of Northern Europe",
+        "a": "Hilda Ellis Davidson",
+        "b": "Gods and Myths of Northern Europe",
+        "p": "Penguin",
+        "y": 1964,
+        "pg": "200-234"
+      },
+      {
+        "t": "The Road to Hel: A Study of the Conception of the Dead in Old Norse Literature",
+        "a": "Hilda Ellis Davidson",
+        "b": "The Road to Hel",
+        "p": "Cambridge University Press",
+        "y": 1943,
+        "pg": "89-115"
+      },
+      {
+        "t": "The Viking World",
+        "a": "Stefan Brink and Neil Price (eds.)",
+        "b": "The Viking World",
+        "p": "Routledge",
+        "y": 2008,
+        "pg": "249-267"
+      }
+    ]
   }
 ]

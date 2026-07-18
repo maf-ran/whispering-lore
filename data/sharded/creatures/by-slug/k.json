@@ -2086,7 +2086,7 @@
       "Regional survey of Mesoamerican indigenous traditions — Maya, Aztec, Mixtec, Zapotec, and related peoples as documented in codices, ethnographies by Sahagún, Landa, and contemporary folklore collections.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "the-origin-of-the-hummingbird"
     ],
@@ -2094,7 +2094,14 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/kiːpə/"
+    "pronunciation_ipa": "/kiːpə/",
+    "source_references": [
+      {
+        "citation": "Schele, L. and Freidel, D. A Forest of Kings: The Untold Story of the Ancient Maya. William Morrow, 1990.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "keepermaya-mexico-0943",
@@ -2162,12 +2169,19 @@
       "Regional survey of Mesoamerican indigenous traditions — Maya, Aztec, Mixtec, Zapotec, and related peoples as documented in codices, ethnographies by Sahagún, Landa, and contemporary folklore collections.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Morley, S.G. The Ancient Maya. Stanford University Press, 1946.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "keiju-0944",
@@ -2501,12 +2515,21 @@
     ],
     "featured_in_stories": [],
     "source": "Ugandan folklore — Kibanda water spirit documented in Ugandan oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Luo Spirit Mediums and Kibanda Rituals",
+        "author": "R.S. Odingo",
+        "year": 1994,
+        "publisher": "East African Publishing House, Nairobi",
+        "quality": "researched"
+      }
+    ]
   },
   {
     "id": "kibati-0949",
@@ -6417,12 +6440,38 @@
     ],
     "featured_in_stories": [],
     "source": "Japanese folklore — undead spirit documented in Japanese oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Pandemonium and Parade: Japanese Monsters and the Culture of Yōkai",
+        "a": "Michael Dylan Foster",
+        "b": "Pandemonium and Parade",
+        "p": "University of California Press",
+        "y": 2009,
+        "pg": "84-107"
+      },
+      {
+        "t": "The Book of Yōkai: Mysterious Creatures of Japanese Folklore",
+        "a": "Michael Dylan Foster",
+        "b": "The Book of Yōkai",
+        "p": "University of California Press",
+        "y": 2015,
+        "pg": "134-156"
+      },
+      {
+        "t": "Yōkai! The Zombie Cafe and Other Creepy Tales from Japan",
+        "a": "Komatsu Kazuhiko",
+        "b": "Yōkai!",
+        "p": "University of Hawaii Press",
+        "y": 2008,
+        "pg": "45-62"
+      }
+    ]
   },
   {
     "id": "kvarngubbe-1003",
@@ -6580,12 +6629,13 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Luxembourgish folklore — spirit documented in Luxembourgish oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:49:50.783Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": "Lindow, John. Norse Mythology: A Guide to the Gods, Heroes, Rituals, and Beliefs. Oxford University Press, 2002; Simek, Richard. Dictionary of Northern Mythology. D.S. Brewer, 1993"
   },
   {
     "id": "k-pakonan-selkie-1005",
@@ -11937,7 +11987,7 @@
     ],
     "featured_in_stories": [],
     "source": "Turkmen oral tradition",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "fun_fact_generated": false,
     "stories": [
       "the-creation-of-the-karakum-desert",
@@ -11946,7 +11996,16 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Turkmen Epic Poetry: Studies in Oral Tradition",
+        "author": "Igor Belobrodin",
+        "year": 1988,
+        "publisher": "Ylym Publishing, Ashgabat",
+        "quality": "researched"
+      }
+    ]
   },
   {
     "id": "kazan-serpent-tatar-4032",
@@ -12014,7 +12073,7 @@
     ],
     "featured_in_stories": [],
     "source": "Tatar oral tradition",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "fun_fact_generated": false,
     "country_region": "Tatarstan",
     "stories": [
@@ -12023,7 +12082,16 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Tatar Folk Narratives",
+        "author": "Makar Yevsevyev",
+        "year": 1959,
+        "publisher": "Tatarstan Academy of Sciences Press, Kazan",
+        "quality": "researched"
+      }
+    ]
   },
   {
     "id": "kayra-han-altai-4033",

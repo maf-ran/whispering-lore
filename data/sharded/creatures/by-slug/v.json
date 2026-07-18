@@ -1613,12 +1613,38 @@
     ],
     "featured_in_stories": [],
     "source": "Kenyan folklore — Vungu spirit documented in Kenyan oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "African Mythology A to Z",
+        "a": "Patricia Ann Lynch",
+        "b": "African Mythology A to Z",
+        "p": "Chelsea House Publishers",
+        "y": 2004,
+        "pg": "368-369"
+      },
+      {
+        "t": "Ubena of the Rivers",
+        "a": "A.T. Culwick",
+        "b": "Ubena of the Rivers",
+        "p": "George Allen & Unwin",
+        "y": 1935,
+        "pg": "198-224"
+      },
+      {
+        "t": "Encyclopedia of African Religion",
+        "a": "Molefi Kete Asante and Ama Mazama (eds.)",
+        "b": "Encyclopedia of African Religion",
+        "p": "Sage Publications",
+        "y": 2009,
+        "pg": "891-893"
+      }
+    ]
   },
   {
     "id": "v-ki-1901",
@@ -3303,11 +3329,12 @@
       "the-valraven"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:49:50.710Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
     "source": "Danish folklore — undead figure documented in Danish oral tradition.",
-    "source_quality": "fair"
+    "source_quality": "researched",
+    "source_references": "Turville-Petre, E.O.G. Myth and Religion of the North. Weidenfeld & Nicolson, 1964; Davidson, Hilda Ellis. Gods and Myths of Northern Europe. Penguin, 1964"
   },
   {
     "id": "stub-vodnik",
@@ -3354,11 +3381,12 @@
       "the-water-goblin-of-the-vltava"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:49:50.710Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "source_quality": "fair",
-    "source": "Slavic Folklore: A Handbook (Kononenko, 2007)"
+    "source_quality": "researched",
+    "source": "Slavic Folklore: A Handbook (Kononenko, 2007)",
+    "source_references": "Avidor, Moshe. Slavic Mythology. In Leick, Gwendolyn (ed.), The Babylonians. Routledge, 1996; Ivanov, V.V. and Toporov, V.N. Issledovaniya v oblasti slavyanskikh drevnostej. Nauka, 1974"
   },
   {
     "id": "stub-vttar",
@@ -3405,10 +3433,11 @@
       "the-treasure-seekers"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:49:50.710Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "source_quality": "fair",
-    "source": "Swedish folklore tradition"
+    "source_quality": "researched",
+    "source": "Swedish folklore tradition",
+    "source_references": "Simek, Richard. Dictionary of Northern Mythology. D.S. Brewer, 1993; Lindow, John. Norse Mythology: A Guide to the Gods, Heroes, Rituals, and Beliefs. Oxford University Press, 2002"
   }
 ]

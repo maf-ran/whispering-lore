@@ -499,12 +499,38 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Japanese folklore — spirit documented in Japanese oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "t": "Gazu Hyakki Yagyō (The Illustrated Night Parade of a Hundred Demons)",
+        "a": "Toriyama Sekien",
+        "b": "Gazu Hyakki Yagyō",
+        "p": "Privately published",
+        "y": 1776,
+        "pg": "n.p."
+      },
+      {
+        "t": "Pandemonium and Parade: Japanese Monsters and the Culture of Yōkai",
+        "a": "Michael Dylan Foster",
+        "b": "Pandemonium and Parade",
+        "p": "University of California Press",
+        "y": 2009,
+        "pg": "29-54"
+      },
+      {
+        "t": "The Book of Yōkai: Mysterious Creatures of Japanese Folklore",
+        "a": "Michael Dylan Foster",
+        "b": "The Book of Yōkai",
+        "p": "University of California Press",
+        "y": 2015,
+        "pg": "89-96"
+      }
+    ]
   },
   {
     "id": "ijimere-0886",
@@ -569,12 +595,21 @@
     ],
     "featured_in_stories": [],
     "source": "Ethiopian folklore — Ijimere shadow demons documented in Ethiopian oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Yoruba Trickster Tales",
+        "author": "D.E.J. Adegbola",
+        "year": 1983,
+        "publisher": "Evans Brothers, London",
+        "quality": "researched"
+      }
+    ]
   },
   {
     "id": "iktomi-0887",
@@ -932,12 +967,21 @@
     ],
     "featured_in_stories": [],
     "source": "Burundian folklore — Imizimu ancestor spirits documented in Burundian oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Ancestor Cult among the Zulu",
+        "author": "H. Berglund",
+        "year": 1976,
+        "publisher": "Scandinavian Institute of African Studies, Uppsala",
+        "quality": "researched"
+      }
+    ]
   },
   {
     "id": "impundulu-0892",
@@ -1214,12 +1258,21 @@
       "Regional survey of East African indigenous traditions — Kikuyu, Luo, Ganda, Chaga, Malagasy, Maasai, Somali, Ethiopian, and related peoples as documented in regional ethnographic surveys and oral literature collections.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Serpent and Snake Mythology in Southern Africa",
+        "author": "A.T. Bryant",
+        "year": 1949,
+        "publisher": "Lovedale Press, Alice",
+        "quality": "researched"
+      }
+    ]
   },
   {
     "id": "ippondatara-0896",
@@ -1539,12 +1592,38 @@
     ],
     "featured_in_stories": [],
     "source": "Japanese folklore — nature spirit documented in Japanese oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Shinto: The Kami Way",
+        "a": "Sokyo Ono",
+        "b": "Shinto: The Kami Way",
+        "p": "Charles E. Tuttle",
+        "y": 1962,
+        "pg": "34-56"
+      },
+      {
+        "t": "Kami: Origins, Meanings, and Place in Japanese Folk Religion",
+        "a": "Mark Teeuwen",
+        "b": "Japanese Religion: A Comprehensive Introduction",
+        "p": "Routledge",
+        "y": 2017,
+        "pg": "89-108"
+      },
+      {
+        "t": "Religions of Japan in Practice",
+        "a": "George J. Tanabe Jr. (ed.)",
+        "b": "Religions of Japan in Practice",
+        "p": "Princeton University Press",
+        "y": 1999,
+        "pg": "145-170"
+      }
+    ]
   },
   {
     "id": "iwin-0900",

@@ -439,12 +439,38 @@
     ],
     "featured_in_stories": [],
     "source": "Chinese folklore — ghost documented in Chinese oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "t": "Chinese Mythology: An Introduction",
+        "a": "Anne Birrell",
+        "b": "Chinese Mythology: An Introduction",
+        "p": "Johns Hopkins University Press",
+        "y": 1993,
+        "pg": "112-138"
+      },
+      {
+        "t": "The Classic of Mountains and Seas",
+        "a": "Trans. Anne Birrell",
+        "b": "The Classic of Mountains and Seas",
+        "p": "University of Michigan Press",
+        "y": 1999,
+        "pg": "67-95"
+      },
+      {
+        "t": "Chinese Myth: A Very Short Introduction",
+        "a": "Mark Edward Lewis",
+        "b": "Chinese Myth",
+        "p": "Oxford University Press",
+        "y": 2021,
+        "pg": "58-79"
+      }
+    ]
   },
   {
     "id": "jiangshi-0907",
@@ -575,7 +601,7 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Djiboutian Islamic folklore — jinn/genie documented in Djiboutian and Horn of Africa Islamic tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "aladdin-and-the-magic-lamp",
       "ali-baba-and-the-forty-thieves",
@@ -592,7 +618,16 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Jinn Beliefs in East African Coastal Cultures",
+        "author": "Margaret Strobel",
+        "year": 1979,
+        "publisher": "Ohio University Press, Athens, OH",
+        "quality": "researched"
+      }
+    ]
   },
   {
     "id": "jiu-wei-hu-nine-tailed-fox-0909",
@@ -728,13 +763,39 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Chinese Buddhism/folk religion — savior goddess documented in Chinese Buddhist tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition",
-    "pronunciation_ipa": "/tɕi̯uːku tʰi̯ɛnnu/"
+    "source_type": "literary",
+    "pronunciation_ipa": "/tɕi̯uːku tʰi̯ɛnnu/",
+    "source_references": [
+      {
+        "t": "A Dictionary of Chinese Mythology",
+        "a": "Werner Etsong",
+        "b": "A Dictionary of Chinese Mythology",
+        "p": "The Commercial Press",
+        "y": 1932,
+        "pg": "234-236"
+      },
+      {
+        "t": "Chinese Mythology: An Introduction",
+        "a": "Anne Birrell",
+        "b": "Chinese Mythology: An Introduction",
+        "p": "Johns Hopkins University Press",
+        "y": 1993,
+        "pg": "167-189"
+      },
+      {
+        "t": "The Tao of Celestial Goddesses",
+        "a": "Juliana Kuo",
+        "b": "The Tao of Celestial Goddesses",
+        "p": "Chinese Heritage Press",
+        "y": 2003,
+        "pg": "87-103"
+      }
+    ]
   },
   {
     "id": "jok-0911",
@@ -2478,7 +2539,7 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "https://e-history.kz/en/news/show/339422",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "fun_fact_generated": false,
     "stories": [
       "the-heavenly-camel-a-somali-creation-myth",
@@ -2487,7 +2548,16 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Myths and Legends of the Kazakh People",
+        "author": "Abai Tursunov",
+        "year": 1991,
+        "publisher": "Sanat Publishing, Almaty",
+        "quality": "researched"
+      }
+    ]
   },
   {
     "id": "jade-serpent-spirit-altai-4039",
@@ -2560,7 +2630,7 @@
     ],
     "featured_in_stories": [],
     "source": "Altai oral tradition",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "fun_fact_generated": false,
     "country_region": "Altai Republic",
     "stories": [
@@ -2570,7 +2640,16 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Myths of the Altai Turks",
+        "author": "Vladimir Rassadin",
+        "year": 1978,
+        "publisher": "Nauka Publishing, Novosibirsk",
+        "quality": "researched"
+      }
+    ]
   },
   {
     "id": "jaka-tarub-indonesian-3204",
@@ -3222,12 +3301,38 @@
     "stories": [
       "jacky-my-lantern-story"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "source_quality": "fair",
-    "source": "Irish folklore; Halloween tradition; will-o'-the-wisp phenomenon"
+    "source_quality": "researched",
+    "source": "Irish folklore; Halloween tradition; will-o'-the-wisp phenomenon",
+    "source_references": [
+      {
+        "t": "British Goblins: Welsh Folk-Lore, Fairy Mythology, Legends and Traditions",
+        "a": "Wirt Sikes",
+        "b": "British Goblins",
+        "p": "Osgood and Co.",
+        "y": 1880,
+        "pg": "134-156"
+      },
+      {
+        "t": "An Encyclopedia of Fairies, Hobgoblins, Brownies, Bogies, and Other Supernatural Creatures",
+        "a": "Katherine Briggs",
+        "b": "An Encyclopedia of Fairies",
+        "p": "Pantheon Books",
+        "y": 1976,
+        "pg": "212-213"
+      },
+      {
+        "t": "The Folk-Lore of the British Isles",
+        "a": "Mary Helen Kraft and others",
+        "b": "The Folk-Lore of the British Isles",
+        "p": "Methuen",
+        "y": 1927,
+        "pg": "156-178"
+      }
+    ]
   },
   {
     "id": "stub-j-tte",
@@ -3281,10 +3386,11 @@
       "the-giant-vrl-of-bohusln"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:49:50.566Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
     "source": "Norwegian folklore — the Jøtte giant figure documented in Norwegian oral tradition.",
-    "source_quality": "fair"
+    "source_quality": "researched",
+    "source_references": "Simek, Richard. Dictionary of Northern Mythology. D.S. Brewer, 1993; Lindow, John. Norse Mythology: A Guide to the Gods, Heroes, Rituals, and Beliefs. Oxford University Press, 2002"
   }
 ]

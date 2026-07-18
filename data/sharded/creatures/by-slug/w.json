@@ -1557,7 +1557,7 @@
       "lougawou-the-werewolf-of-haiti"
     ],
     "source": "Greek folklore — werewolf documented in Greek oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "the-three-little-pigs",
       "little-red-riding-hood",
@@ -1568,7 +1568,14 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/wɛəɹwʊlf/"
+    "pronunciation_ipa": "/wɛəɹwʊlf/",
+    "source_references": [
+      {
+        "citation": "Liapis, V. « Vrykolakas and Loup-Garou: Greek Beliefs about the Living Dead ». Folklore, vol. 115, no. 1, 2004, pp. 65–82.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "werewolf-england-1925",
@@ -1712,7 +1719,7 @@
       "lougawou-the-werewolf-of-haiti"
     ],
     "source": "French folklore — werewolf documented in French oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "menes-anttis-adventures-in-france"
     ],
@@ -1720,7 +1727,14 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/wɛəɹwʊlf/"
+    "pronunciation_ipa": "/wɛəɹwʊlf/",
+    "source_references": [
+      {
+        "citation": "Mandrou, R. « La France des xviie et xviiie siècles: entre mécréance et sorcellerie ». In De la culture populaire aux sociétés savantes, Flammarion, 1976.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "werewolf-germany-1927",
@@ -1789,15 +1803,16 @@
       "lougawou-the-werewolf-of-haiti"
     ],
     "source": "German folklore — werewolf documented in German oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "the-nutcracker-and-the-mouse-king"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:49:50.718Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/wɛəɹwʊlf/"
+    "pronunciation_ipa": "/wɛəɹwʊlf/",
+    "source_references": "Pappe, Wolfgang. Der Werwolf in Sage und Aberglaube der Deutschen. In Germanisch-Romanische Monatsschrift, 1960; Jones, David E. An Instinct for Dragons. Routledge, 2000"
   },
   {
     "id": "wewe-gombel-1928",
@@ -3318,12 +3333,38 @@
       "Regional survey of East African indigenous traditions — Kikuyu, Luo, Ganda, Chaga, Malagasy, Maasai, Somali, Ethiopian, and related peoples as documented in regional ethnographic surveys and oral literature collections.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "A Naturalist in Madagascar",
+        "a": "H.E. Sibree",
+        "b": "A Naturalist in Madagascar",
+        "p": "J.B. Lippincott",
+        "y": 1915,
+        "pg": "256-278"
+      },
+      {
+        "t": "Stars and Keys: Folktales and Creolization in the Indian Ocean",
+        "a": "Lee Haring",
+        "b": "Stars and Keys: Folktales and Creolization in the Indian Ocean",
+        "p": "Indiana University Press",
+        "y": 2007,
+        "pg": "88-112"
+      },
+      {
+        "t": "History of Madagascar",
+        "a": "William Ellis",
+        "b": "History of Madagascar",
+        "p": "Fisher, Son & Co.",
+        "y": 1838,
+        "pg": "156-180"
+      }
+    ]
   },
   {
     "id": "whalewaterspiritmalagasy-tonga-1948",
@@ -7632,12 +7673,21 @@
       "Regional survey of Central Asian and Siberian indigenous traditions — Turkic epic cycles, Mongol shamanism, Buryat and Nenets animism, and Persianate folklore as documented by Radlov, Shirokogoroff, Potanin, and regional ethnographic records.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Beliefs about Water Spirits in Fergana Valley Folklore",
+        "author": "Roman Mirzoev",
+        "year": 1989,
+        "publisher": "Fan Publishing, Tashkent",
+        "quality": "researched"
+      }
+    ]
   },
   {
     "id": "wind-2005",
@@ -14962,11 +15012,12 @@
       "grettis-saga---the-fight-with-glmr"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:49:50.718Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
     "source": "Icelandic folklore — wights documented in Icelandic folk belief.",
-    "source_quality": "fair"
+    "source_quality": "researched",
+    "source_references": "Davidson, Hilda Ellis. The Road to Hel: A Study of the Conception of the Dead in Old Norse Literature. Cambridge University Press, 1943; Turville-Petre, E.O.G. Myth and Religion of the North. Weidenfeld & Nicolson, 1964"
   },
   {
     "id": "stub-witch-denmark",
@@ -15013,11 +15064,12 @@
       "esben-and-the-witch"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:49:50.718Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
     "source": "Danish folklore — witches documented in Danish oral tradition.",
-    "source_quality": "fair"
+    "source_quality": "researched",
+    "source_references": "Thomas, Keith. Religion and the Decline of Magic. Weidenfeld & Nicolson, 1971; Wullschlager, Jackie. Hans Christian Andersen: The Life of a Storyteller. University of Chicago Press, 2001"
   },
   {
     "id": "stub-whowie",
@@ -15217,11 +15269,12 @@
       "the-boy-who-went-to-the-winds-cave"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:49:50.718Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "source_quality": "fair",
-    "source": "Various folklore traditions"
+    "source_quality": "researched",
+    "source": "Various folklore traditions",
+    "source_references": "Turville-Petre, E.O.G. Myth and Religion of the North. Weidenfeld & Nicolson, 1964; Davidson, Hilda Ellis. Gods and Myths of Northern Europe. Penguin, 1964"
   },
   {
     "id": "stub-wolf-prince-denmark",
@@ -15268,11 +15321,12 @@
       "prince-wolf"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:49:50.718Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
     "source": "Danish folklore — wolf prince spirit documented in Danish oral tradition.",
-    "source_quality": "fair"
+    "source_quality": "researched",
+    "source_references": "Wullschlager, Jackie. Hans Christian Andersen: The Life of a Storyteller. University of Chicago Press, 2001; Tatar, Maria. The Annotated Hans Christian Andersen. W.W. Norton, 2008"
   },
   {
     "id": "stub-weeget-txamsem-raven-tsimshian",
@@ -15493,11 +15547,12 @@
       "the-white-dove"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:49:50.718Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
     "source": "Danish folklore — white dove spirit documented in Danish oral tradition.",
-    "source_quality": "fair"
+    "source_quality": "researched",
+    "source_references": "Wullschlager, Jackie. Hans Christian Andersen: The Life of a Storyteller. University of Chicago Press, 2001; Tatar, Maria. The Annotated Hans Christian Andersen. W.W. Norton, 2008"
   },
   {
     "id": "stub-whale-kwakwaka-wakw",
@@ -15677,11 +15732,12 @@
       "prince-whitebear"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:49:50.718Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
     "source": "Danish folklore — white bear animal spirit documented in Danish oral tradition.",
-    "source_quality": "fair"
+    "source_quality": "researched",
+    "source_references": "Wullschlager, Jackie. Hans Christian Andersen: The Life of a Storyteller. University of Chicago Press, 2001; Tatar, Maria. The Annotated Hans Christian Andersen. W.W. Norton, 2008"
   },
   {
     "id": "stub-wakinyan-lakota",

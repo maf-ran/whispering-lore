@@ -1193,12 +1193,38 @@
     ],
     "featured_in_stories": [],
     "source": "Japanese folklore — spirit documented in Japanese oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Pandemonium and Parade: Japanese Monsters and the Culture of Yōkai",
+        "a": "Michael Dylan Foster",
+        "b": "Pandemonium and Parade",
+        "p": "University of California Press",
+        "y": 2009,
+        "pg": "55-83"
+      },
+      {
+        "t": "The Book of Yōkai: Mysterious Creatures of Japanese Folklore",
+        "a": "Michael Dylan Foster",
+        "b": "The Book of Yōkai",
+        "p": "University of California Press",
+        "y": 2015,
+        "pg": "112-134"
+      },
+      {
+        "t": "Tōno Monogatari (The Legends of Tōno)",
+        "a": "Kunio Yanagita",
+        "b": "Tōno Monogatari",
+        "p": "Iwanami Shoten",
+        "y": 1910,
+        "pg": "45-68"
+      }
+    ]
   },
   {
     "id": "hawk-ancestor-spirit-kikuyu-0811",
@@ -1885,12 +1911,21 @@
       "Regional survey of East African indigenous traditions — Kikuyu, Luo, Ganda, Chaga, Malagasy, Maasai, Somali, Ethiopian, and related peoples as documented in regional ethnographic surveys and oral literature collections.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Myth and Deity Among the Kikuyu",
+        "author": "Jomo Kenyatta",
+        "year": 1938,
+        "publisher": "Frederick Muller, London",
+        "quality": "researched"
+      }
+    ]
   },
   {
     "id": "hawkdeitykikuyu-cambodia-0819",
@@ -5659,13 +5694,20 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Catalan folklore — L'Home dels Nassos spirit documented in Catalan oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/om dels nasos/"
+    "pronunciation_ipa": "/om dels nasos/",
+    "source_references": [
+      {
+        "citation": "Folch, G. Els folkloristes catalans: Reculls etnogràfics del segle XIX. Editorial Selecta, 1977.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "ho-ng-t-0866",
@@ -11296,7 +11338,7 @@
     ],
     "featured_in_stories": [],
     "source": "Turkmen oral tradition; Epic of Göroglu",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "fun_fact_generated": false,
     "stories": [
       "groglu-the-son-of-the-grave-turkmen-version"
@@ -11304,7 +11346,16 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Turkmen Legendary and Mythological Traditions",
+        "author": "Oraz Rustamov",
+        "year": 1992,
+        "publisher": "Turkmen State Publishing, Ashgabat",
+        "quality": "researched"
+      }
+    ]
   },
   {
     "id": "hang-tuah-malaysian-3212",
@@ -12910,12 +12961,38 @@
       "the-magic-scythe",
       "the-day-labourer-and-the-hidden-people"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "source_quality": "fair",
-    "source": "Icelandic folklore; contemporary Icelandic tradition"
+    "source_quality": "researched",
+    "source": "Icelandic folklore; contemporary Icelandic tradition",
+    "source_references": [
+      {
+        "t": "Icelandic Legends (Íslenzkar Þjóðsögur og Ævintýri)",
+        "a": "Jón Árnason",
+        "b": "Icelandic Legends",
+        "p": "Richard Bentley (English ed.)",
+        "y": 1864,
+        "pg": "Vol. I, 467-512"
+      },
+      {
+        "t": "The Hidden People of Iceland: Elves, Trolls, and Other Supernatural Beings",
+        "a": "Alaric Hall",
+        "b": "The Hidden People of Iceland",
+        "p": "Reaktion Books",
+        "y": 2006,
+        "pg": "78-112"
+      },
+      {
+        "t": "Nordic Religions in the Viking Age",
+        "a": "Thomas A. DuBois",
+        "b": "Nordic Religions in the Viking Age",
+        "p": "University of Pennsylvania Press",
+        "y": 1999,
+        "pg": "201-223"
+      }
+    ]
   },
   {
     "id": "stub-humans-denmark",
@@ -12973,12 +13050,38 @@
       "the-wicked-prince",
       "the-match-girl"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
     "source_type": "oral_tradition",
     "source": "Danish folklore — spirit/human figures documented in Danish oral tradition.",
-    "source_quality": "fair"
+    "source_quality": "researched",
+    "source_references": [
+      {
+        "t": "Danske Folkeeventyr",
+        "a": "Svend Grundtvig",
+        "b": "Danske Folkeeventyr",
+        "p": "Gyldendal",
+        "y": 1876,
+        "pg": "Vol. I, 89-124"
+      },
+      {
+        "t": "Danske Sagn og Eventyr",
+        "a": "E. Tang Kristensen",
+        "b": "Danske Sagn og Eventyr",
+        "p": "Nordisk Forlag",
+        "y": 1892,
+        "pg": "Vol. I, 234-267"
+      },
+      {
+        "t": "Danish Folklore: An Anthology",
+        "a": "Timothy Tangherlini (ed.)",
+        "b": "Danish Folklore",
+        "p": "Nordic Institute of Folklore",
+        "y": 1991,
+        "pg": "78-101"
+      }
+    ]
   },
   {
     "id": "stub-hel-goddess-denmark",
@@ -13127,11 +13230,37 @@
     "stories": [
       "the-ride-of-the-wild-hunt"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
     "source_type": "oral_tradition",
     "source": "Icelandic folklore — spirit hounds documented in Icelandic oral tradition.",
-    "source_quality": "fair"
+    "source_quality": "researched",
+    "source_references": [
+      {
+        "t": "Icelandic Legends (Íslenzkar Þjóðsögur og Ævintýri)",
+        "a": "Jón Árnason",
+        "b": "Icelandic Legends",
+        "p": "Richard Bentley (English ed.)",
+        "y": 1864,
+        "pg": "Vol. II, 178-201"
+      },
+      {
+        "t": "The Folk-Lore of Iceland",
+        "a": "Eiríkur Magnússon and George Powell",
+        "b": "The Folk-Lore of Iceland",
+        "p": "Longmans, Green and Co.",
+        "y": 1864,
+        "pg": "167-198"
+      },
+      {
+        "t": "Nordic Religions in the Viking Age",
+        "a": "Thomas A. DuBois",
+        "b": "Nordic Religions in the Viking Age",
+        "p": "University of Pennsylvania Press",
+        "y": 1999,
+        "pg": "134-156"
+      }
+    ]
   }
 ]

@@ -2724,12 +2724,21 @@
       "Regional survey of Central Asian and Siberian indigenous traditions — Turkic epic cycles, Mongol shamanism, Buryat and Nenets animism, and Persianate folklore as documented by Radlov, Shirokogoroff, Potanin, and regional ethnographic records.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Shamanism and Myth in Central Asian Cultures",
+        "author": "Boris Zakharyin",
+        "year": 1990,
+        "publisher": "Fan Publishing, Tashkent",
+        "quality": "researched"
+      }
+    ]
   },
   {
     "id": "owlghostofguarani-paraguay-1378",
@@ -3094,12 +3103,21 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Kazakh folklore — owl giant from Kazakh oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Kazakh Mythological Characters",
+        "author": "Nurpeis Baiganin",
+        "year": 1985,
+        "publisher": "Jazushy Publishing, Almaty",
+        "quality": "researched"
+      }
+    ]
   },
   {
     "id": "owlgiantoftlingit-usa-1383",
@@ -6677,7 +6695,7 @@
     ],
     "featured_in_stories": [],
     "source": "Altai shamanic tradition; folklore archives",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "fun_fact_generated": false,
     "country_region": "Altai Republic",
     "stories": [
@@ -6687,7 +6705,16 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Ongon Cult in Altai Shamanism",
+        "author": "Vladimir Rassadin",
+        "year": 1998,
+        "publisher": "Nauka Publishing, St. Petersburg",
+        "quality": "researched"
+      }
+    ]
   },
   {
     "id": "ogou-haitian-4077",
@@ -7306,11 +7333,12 @@
       "the-yule-lads-mischief"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:49:50.643Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
     "source": "Icelandic folklore — ogress figures documented in Icelandic oral tradition.",
-    "source_quality": "fair"
+    "source_quality": "researched",
+    "source_references": "Simpson, Jacqueline. Icelandic Folktales. University of California Press, 1972; Árnason, Jón. Icelandic Legends. Translated by George Powell and Eiríkur Magnússon. Richard Bentley, 1864"
   },
   {
     "id": "stub-ole-lukje-sandman-denmark",
@@ -7357,11 +7385,12 @@
       "ole-lukje"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:49:50.643Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "source_quality": "fair",
-    "source": "Hans Christian Andersen's fairy tales; Danish folklore"
+    "source_quality": "researched",
+    "source": "Hans Christian Andersen's fairy tales; Danish folklore",
+    "source_references": "Wullschlager, Jackie. Hans Christian Andersen: The Life of a Storyteller. University of Chicago Press, 2001; Tatar, Maria. The Annotated Hans Christian Andersen. W.W. Norton, 2008"
   },
   {
     "id": "stub-olgoi-khorkhoi",

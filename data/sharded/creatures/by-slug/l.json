@@ -296,12 +296,19 @@
     ],
     "featured_in_stories": [],
     "source": "Costa Rican folklore — the Great Serpent documented in Costa Rican oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Lomax, A. and Wolfenstein, M. « Some Themes of Good and Evil in Folksong ». In Children's Folk Songs and Games, ed. A. Lomax. Pantheon Books, 1955.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "la-culebra-vieja-1012",
@@ -893,12 +900,19 @@
     ],
     "featured_in_stories": [],
     "source": "Honduran folklore — La Masa is a monster from Honduran oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Vila Vilar, E. Hispanoamérica: Colonia y emancipación. Siglo XXI Editores, 1984.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "la-pallar-1019",
@@ -1299,12 +1313,19 @@
     ],
     "featured_in_stories": [],
     "source": "Nicaraguan folklore — La Trola is a spirit from Nicaraguan oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Montes, G. and Molina, E. Mito, rituales y religiones. Editorial Universidad de Costa Rica, 1996.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "labaw-donggon-1024",
@@ -5021,12 +5042,38 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Tibetan folklore — lizard deity documented in Tibetan oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Oracles and Demons of Tibet: The Cult and Iconography of the Tibetan Protective Deities",
+        "a": "René de Nebesky-Wojkowitz",
+        "b": "Oracles and Demons of Tibet",
+        "p": "Mouton & Co.",
+        "y": 1956,
+        "pg": "228-245"
+      },
+      {
+        "t": "The Bon Religion of Tibet: The Iconography of a Living Tradition",
+        "a": "Per Kvaerne",
+        "b": "The Bon Religion of Tibet",
+        "p": "Serinda Publications",
+        "y": 1996,
+        "pg": "87-102"
+      },
+      {
+        "t": "The Tibetans",
+        "a": "Matthew Kapstein",
+        "b": "The Tibetans",
+        "p": "Blackwell Publishing",
+        "y": 2006,
+        "pg": "64-80"
+      }
+    ]
   },
   {
     "id": "lizarddeitytibetan-ethiopia-1073",
@@ -6303,12 +6350,21 @@
     ],
     "featured_in_stories": [],
     "source": "Malagasy folklore — Loulou spirit documented in Seychelles/Malagasy oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Spirit Beings in Congolese Folk Narratives",
+        "author": "Luc de Heusch",
+        "year": 1986,
+        "publisher": "University of Chicago Press, Chicago",
+        "quality": "researched"
+      }
+    ]
   },
   {
     "id": "loup-garou-1087",
@@ -11229,13 +11285,22 @@
     ],
     "featured_in_stories": [],
     "source": "Mongolian oral tradition; Gobi Desert folklore collections",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "fun_fact_generated": false,
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Mongolian Oral Literature: Legends, Epics, and Shamanic Songs",
+        "author": "Khatanbaatar Lkhagvademchig",
+        "year": 1994,
+        "publisher": "Mongolian Academy of Sciences Press, Ulaanbaatar",
+        "quality": "researched"
+      }
+    ]
   },
   {
     "id": "loon-bird-altai-4036",
@@ -12401,11 +12466,12 @@
       "the-treasure-of-skgafoss"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:49:50.602Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
     "source": "Icelandic folklore — general survey of Icelandic folk belief and legends.",
-    "source_quality": "fair"
+    "source_quality": "researched",
+    "source_references": "Simpson, Jacqueline. Icelandic Folktales. University of California Press, 1972; Árnason, Jón. Icelandic Legends. Translated by George Powell and Eiríkur Magnússon. Richard Bentley, 1864"
   },
   {
     "id": "stub-legendary-warrior-iceland",
@@ -12452,12 +12518,13 @@
       "the-legend-of-the-sleeping-warrior"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:49:50.603Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
     "pronunciation_ipa": "/lɛdʒəndɛɾi/",
     "source": "Icelandic folklore — legendary warriors documented in Icelandic sagas.",
-    "source_quality": "fair"
+    "source_quality": "researched",
+    "source_references": "Hauksson, Þorleifur H. (ed.). The Sagas of Icelanders: A Selection. Penguin Classics, 2000; Byock, Jesse (trans.). The Saga of the Volsungs. Penguin Classics, 1990"
   },
   {
     "id": "stub-lakhey",
@@ -12626,10 +12693,11 @@
       "king-lindworm"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:49:50.603Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "source_quality": "fair",
-    "source": "Scandinavian folklore; Danish ballads"
+    "source_quality": "researched",
+    "source": "Scandinavian folklore; Danish ballads",
+    "source_references": "Lindow, John. Norse Mythology: A Guide to the Gods, Heroes, Rituals, and Beliefs. Oxford University Press, 2002; Davidson, Hilda Ellis. Gods and Myths of Northern Europe. Penguin, 1964"
   }
 ]

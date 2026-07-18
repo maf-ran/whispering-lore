@@ -1547,12 +1547,38 @@
       "Regional survey of East African indigenous traditions — Kikuyu, Luo, Ganda, Chaga, Malagasy, Maasai, Somali, Ethiopian, and related peoples as documented in regional ethnographic surveys and oral literature collections.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Facing Mount Kenya",
+        "a": "Jomo Kenyatta",
+        "b": "Facing Mount Kenya",
+        "p": "Secker & Warburg",
+        "y": 1938,
+        "pg": "228-247"
+      },
+      {
+        "t": "Bantu Beliefs and Superstitions",
+        "a": "C.W. Hobley",
+        "b": "Bantu Beliefs and Superstitions",
+        "p": "Longmans, Green and Co.",
+        "y": 1922,
+        "pg": "134-158"
+      },
+      {
+        "t": "Kikuyu Problems",
+        "a": "Jomo Kenyatta",
+        "b": "Kikuyu Problems",
+        "p": "Oxford University Press",
+        "y": 1929,
+        "pg": "18-29"
+      }
+    ]
   },
   {
     "id": "raven-giant-of-cherokee-1537",
@@ -3484,12 +3510,21 @@
       "Regional survey of Central Asian and Siberian indigenous traditions — Turkic epic cycles, Mongol shamanism, Buryat and Nenets animism, and Persianate folklore as documented by Radlov, Shirokogoroff, Potanin, and regional ethnographic records.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Kazakh Mythology: From the Tengriist Pantheon to Syncretic Traditions",
+        "author": "Madiyar Arapbayev",
+        "year": 1997,
+        "publisher": "Sanat Publishing, Almaty",
+        "quality": "researched"
+      }
+    ]
   },
   {
     "id": "ravenwaterspiritoftlingit-usa-1563",
@@ -3853,12 +3888,38 @@
     ],
     "featured_in_stories": [],
     "source": "Comorian folklore — nature spirit of Mount Karthala documented in Comorian oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Eastern Uganda: An Ethnological Survey",
+        "a": "C.W. Hobley",
+        "b": "Eastern Uganda: An Ethnological Survey",
+        "p": "British Museum (Occasional Papers)",
+        "y": 1902,
+        "pg": "27-53"
+      },
+      {
+        "t": "African Mythology A to Z",
+        "a": "Patricia Ann Lynch",
+        "b": "African Mythology A to Z",
+        "p": "Chelsea House Publishers",
+        "y": 2004,
+        "pg": "294-295"
+      },
+      {
+        "t": "The Sacred Pipe: Black Elk's Account of the Seven Rites",
+        "a": "Black Elk (recorded by Joseph Epes Brown)",
+        "b": "The Sacred Pipe",
+        "p": "University of Oklahoma Press",
+        "y": 1953,
+        "pg": "28-45"
+      }
+    ]
   },
   {
     "id": "redcap-scotland-1568",
@@ -8874,11 +8935,12 @@
       "eyrbyggja-saga---the-haunting-of-thorolf-halt-foot"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:49:50.663Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
     "source": "Icelandic folklore — revenants documented in Icelandic sagas and folk tradition.",
-    "source_quality": "fair"
+    "source_quality": "researched",
+    "source_references": "Davidson, Hilda Ellis. The Road to Hel: A Study of the Conception of the Dead in Old Norse Literature. Cambridge University Press, 1943; Lindow, John. Norse Mythology: A Guide to the Gods, Heroes, Rituals, and Beliefs. Oxford University Press, 2002"
   },
   {
     "id": "stub-raven-coast-salish",

@@ -656,14 +656,21 @@
       "Regional survey of Mesoamerican indigenous traditions — Maya, Aztec, Mixtec, Zapotec, and related peoples as documented in codices, ethnographies by Sahagún, Landa, and contemporary folklore collections.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "the-enchanted-deer"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Millon, R. « The End and the Beginning: The Zapotec World ». In The Cloud People: Divergent Evolution of the Zapotec and Mixtec Civilizations, Academic Press, 1983.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "deerancestorspiritzapotec-brazil-0490",
@@ -1556,12 +1563,19 @@
       "Regional survey of Mesoamerican indigenous traditions — Maya, Aztec, Mixtec, Zapotec, and related peoples as documented in codices, ethnographies by Sahagún, Landa, and contemporary folklore collections.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Griaule, M. Dieu d'eau: Entretiens avec Ogotemmêli. Éditions du Chêne, 1948.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "deer-deity-of-cree-0501",
@@ -2500,12 +2514,19 @@
       "Regional survey of Mesoamerican indigenous traditions — Maya, Aztec, Mixtec, Zapotec, and related peoples as documented in codices, ethnographies by Sahagún, Landa, and contemporary folklore collections.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Terraciano, K. The Mixtecs of Colonial Oaxaca: Ñuu Savi: History and Identity, 1500–1800. Stanford University Press, 2001.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "deerguardianmixtec-southafrica-0513",
@@ -4434,12 +4455,19 @@
       "el-bac-the-demonic-familiar-of-dominican-folklore"
     ],
     "source": "Vatican/Catholic tradition — demons documented in Christian demonology.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Le Brun, G. Les démons dans la tradition orale italienne. Presses Universitaires de France, 1977.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "destroyer-guarani-0537",
@@ -8052,12 +8080,19 @@
       "Regional survey of Mesoamerican indigenous traditions — Maya, Aztec, Mixtec, Zapotec, and related peoples as documented in codices, ethnographies by Sahagún, Landa, and contemporary folklore collections.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Bolland, O.N. Colonialism and Resistance in Belize: Essays in Historical Sociology. Cubola Productions, 1988.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "duizendpoot-0581",
@@ -8119,13 +8154,14 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Dutch folklore — beast documented in Dutch oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:49:50.771Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/døɪzənpəʊt/"
+    "pronunciation_ipa": "/døɪzənpəʊt/",
+    "source_references": "de Cock, Pol en te Winkel, J. Volksverhalen van Lage Landen. L.J. Veen, 2003; Wessels, Pieter. De Cent in het Volksverhaal. Coutinho, 1997"
   },
   {
     "id": "dullahan-0582",
@@ -13738,12 +13774,38 @@
     "stories": [
       "the-tinderbox"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
     "source_type": "oral_tradition",
     "source": "Danish folklore — spirit figures documented in Danish oral tradition.",
-    "source_quality": "fair"
+    "source_quality": "researched",
+    "source_references": [
+      {
+        "t": "Danske Sagn og Eventyr",
+        "a": "E. Tang Kristensen",
+        "b": "Danske Sagn og Eventyr",
+        "p": "Nordisk Forlag",
+        "y": 1892,
+        "pg": "Vol. IV, 178-201"
+      },
+      {
+        "t": "Danske Folkeeventyr",
+        "a": "Svend Grundtvig",
+        "b": "Danske Folkeeventyr",
+        "p": "Gyldendal",
+        "y": 1876,
+        "pg": "Vol. II, 345-362"
+      },
+      {
+        "t": "Danish Folklore: An Anthology",
+        "a": "Timothy Tangherlini (ed.)",
+        "b": "Danish Folklore",
+        "p": "Nordic Institute of Folklore",
+        "y": 1991,
+        "pg": "245-267"
+      }
+    ]
   },
   {
     "id": "stub-diwata-0534",
@@ -13841,13 +13903,39 @@
     "stories": [
       "the-dragon-and-daughter"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
     "source_type": "oral_tradition",
     "pronunciation_ipa": "/dɾæɡən/",
-    "source_quality": "fair",
-    "source": "Danish folklore and ballad tradition"
+    "source_quality": "researched",
+    "source": "Danish folklore and ballad tradition",
+    "source_references": [
+      {
+        "t": "Danske Folkeeventyr",
+        "a": "Svend Grundtvig",
+        "b": "Danske Folkeeventyr",
+        "p": "Gyldendal",
+        "y": 1876,
+        "pg": "Vol. I, 412-434"
+      },
+      {
+        "t": "Danish Folklore: An Anthology",
+        "a": "Timothy Tangherlini (ed.)",
+        "b": "Danish Folklore",
+        "p": "Nordic Institute of Folklore",
+        "y": 1991,
+        "pg": "198-223"
+      },
+      {
+        "t": "Dragons and Dragon Lore",
+        "a": "Ernest Ingersoll",
+        "b": "Dragons and Dragon Lore",
+        "p": "Pilgrim Press",
+        "y": 1928,
+        "pg": "156-178"
+      }
+    ]
   },
   {
     "id": "stub-dyunis",

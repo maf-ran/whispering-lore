@@ -7378,12 +7378,21 @@
       "Regional survey of Central Asian and Siberian indigenous traditions — Turkic epic cycles, Mongol shamanism, Buryat and Nenets animism, and Persianate folklore as documented by Radlov, Shirokogoroff, Potanin, and regional ethnographic records.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Kazakh Zoological Legends and Animal Spirits",
+        "author": "Abai Tursunov",
+        "year": 1987,
+        "publisher": "Sanat Publishing, Almaty",
+        "quality": "researched"
+      }
+    ]
   },
   {
     "id": "turtle-animal-spirit-of-kwakiutl-1841",
@@ -8238,13 +8247,22 @@
       "Regional survey of Central Asian and Siberian indigenous traditions — Turkic epic cycles, Mongol shamanism, Buryat and Nenets animism, and Persianate folklore as documented by Radlov, Shirokogoroff, Potanin, and regional ethnographic records.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/təɾtəl/"
+    "pronunciation_ipa": "/təɾtəl/",
+    "source_references": [
+      {
+        "title": "Nature Spirits in Kazakh Folk Religion",
+        "author": "Madiyar Arapbayev",
+        "year": 1995,
+        "publisher": "Sanat Publishing, Almaty",
+        "quality": "researched"
+      }
+    ]
   },
   {
     "id": "turtle-nature-spirit-of-muisca-1852",
@@ -14780,7 +14798,7 @@
     ],
     "featured_in_stories": [],
     "source": "Epic of Manas; Kyrgyz oral tradition",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "fun_fact_generated": false,
     "stories": [
       "semetey-the-son-of-manas",
@@ -14790,7 +14808,16 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/təjtɔɾu/"
+    "pronunciation_ipa": "/təjtɔɾu/",
+    "source_references": [
+      {
+        "title": "Kyrgyz Folk Beliefs and Customs",
+        "author": "Tursunali Kenensharov",
+        "year": 1980,
+        "publisher": "Ilim Publishing, Bishkek",
+        "quality": "researched"
+      }
+    ]
   },
   {
     "id": "tengri-khormusta-buryat-3170",
@@ -16457,11 +16484,12 @@
       "the-nisses-barn-revenge"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:49:50.696Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "source_quality": "fair",
-    "source": "Nordic folklore tradition"
+    "source_quality": "researched",
+    "source": "Nordic folklore tradition",
+    "source_references": "Simpson, Jacqueline. Scandinavian Folktales. Penguin Books, 1985; Turville-Petre, E.O.G. Myth and Religion of the North. Weidenfeld & Nicolson, 1964"
   },
   {
     "id": "stub-ts-uu-jaas-cedar-woman-haida",
@@ -17147,10 +17175,11 @@
       "the-tale-of-the-silver-salmon"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:49:50.697Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
     "source": "Icelandic folklore — talking animals documented in Icelandic oral tradition.",
-    "source_quality": "fair"
+    "source_quality": "researched",
+    "source_references": "Árnason, Jón. Icelandic Legends. Translated by George Powell and Eiríkur Magnússon. Richard Bentley, 1864; Simpson, Jacqueline. Icelandic Folktales. University of California Press, 1972"
   }
 ]

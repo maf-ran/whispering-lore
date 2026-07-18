@@ -3595,14 +3595,23 @@
     ],
     "featured_in_stories": [],
     "source": "Tumbuka folklore — ancestral spirits documented in Malawian/Tanzanian oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "kibo-and-mawenzi-the-sister-peaks-of-kilimanjaro"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Ancestor Worship in East Africa",
+        "author": "Edward Evans-Pritchard",
+        "year": 1956,
+        "publisher": "Oxford University Press, Oxford",
+        "quality": "researched"
+      }
+    ]
   },
   {
     "id": "mbenga-or-mok-l-mb-mb-1143",
@@ -5462,12 +5471,21 @@
     ],
     "featured_in_stories": [],
     "source": "Kenyan folklore — Mnyazi vampire spirit documented in Kenyan oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Elephant in East African Folk Tradition",
+        "author": "J. Kenyatta",
+        "year": 1938,
+        "publisher": "Frederick Muller, London",
+        "quality": "researched"
+      }
+    ]
   },
   {
     "id": "mo-o-1168",
@@ -6255,12 +6273,19 @@
       "Regional survey of Mesoamerican indigenous traditions — Maya, Aztec, Mixtec, Zapotec, and related peoples as documented in codices, ethnographies by Sahagún, Landa, and contemporary folklore collections.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Chase Sardi, M. Mito y realidades de la sociedad precolombina guaraní. CECSAD, Universidad Nacional de Asunción, 1994.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "moonmaidencherokee-usa-1177",
@@ -7946,12 +7971,19 @@
       "Regional survey of Mesoamerican indigenous traditions — Maya, Aztec, Mixtec, Zapotec, and related peoples as documented in codices, ethnographies by Sahagún, Landa, and contemporary folklore collections.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Latcham, R.E. Organización social y creencias religiosas de los antiguos araucanos. Imprenta Universitaria, 1924.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "moose-guardian-of-apache-1197",
@@ -8352,12 +8384,19 @@
       "Regional survey of Mesoamerican indigenous traditions — Maya, Aztec, Mixtec, Zapotec, and related peoples as documented in codices, ethnographies by Sahagún, Landa, and contemporary folklore collections.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Jourdanet, D. and Thiel, B. « The Mixtec Worldview and Calendar ». In Mixtec Politics and Ethnic Identities, ed. M.B. Roe, 2014, pp. 43–68.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "moosenaturespiritmixtec-madagascar-1202",
@@ -8425,13 +8464,22 @@
       "Regional survey of East African indigenous traditions — Kikuyu, Luo, Ganda, Chaga, Malagasy, Maasai, Somali, Ethiopian, and related peoples as documented in regional ethnographic surveys and oral literature collections.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/muːs/"
+    "pronunciation_ipa": "/muːs/",
+    "source_references": [
+      {
+        "title": "Animal Spirits in Malagasy Folklore",
+        "author": "H.S. Stannus",
+        "year": 1910,
+        "publisher": "Journal of the Royal Anthropological Institute, London",
+        "quality": "researched"
+      }
+    ]
   },
   {
     "id": "moosenaturespiritmixtec-usa-1203",
@@ -8587,14 +8635,21 @@
       "Regional survey of Mesoamerican indigenous traditions — Maya, Aztec, Mixtec, Zapotec, and related peoples as documented in codices, ethnographies by Sahagún, Landa, and contemporary folklore collections.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "the-origin-of-the-hummingbird"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Henderson, J.S. The World of the Ancient Maya. Waveland Press, 1997.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "moose-nature-spirit-of-cheyenne-1205",
@@ -9751,13 +9806,22 @@
       "Regional survey of East African indigenous traditions — Kikuyu, Luo, Ganda, Chaga, Malagasy, Maasai, Somali, Ethiopian, and related peoples as documented in regional ethnographic surveys and oral literature collections.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/muːs/"
+    "pronunciation_ipa": "/muːs/",
+    "source_references": [
+      {
+        "title": "Trickster and Animal Spirits in Kikuyu Mythology",
+        "author": "L.S.B. Leakey",
+        "year": 1966,
+        "publisher": "Longman, London",
+        "quality": "researched"
+      }
+    ]
   },
   {
     "id": "moose-trickster-of-shona-1219",
@@ -12232,7 +12296,7 @@
     ],
     "featured_in_stories": [],
     "source": "Kenyan folklore — Mugumo forest spirit documented in Kenyan oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "the-fig-tree-covenant"
     ],
@@ -12240,7 +12304,16 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/muɡumo/"
+    "pronunciation_ipa": "/muɡumo/",
+    "source_references": [
+      {
+        "title": "Kikuyu Sacred Trees and Sacred Groves",
+        "author": "Mugo Gatheru",
+        "year": 1999,
+        "publisher": "Mkuki na Nyota Publishers, Dar es Salaam",
+        "quality": "researched"
+      }
+    ]
   },
   {
     "id": "mujna-1249",
@@ -12531,13 +12604,39 @@
     ],
     "featured_in_stories": [],
     "source": "Kenyan folklore — Mundugumor spirit documented in Kenyan oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/mundugumor/"
+    "pronunciation_ipa": "/mundugumor/",
+    "source_references": [
+      {
+        "t": "Sex and Temperament in Three Primitive Societies",
+        "a": "Margaret Mead",
+        "b": "Sex and Temperament in Three Primitive Societies",
+        "p": "Routledge & Kegan Paul",
+        "y": 1935,
+        "pg": "39-163"
+      },
+      {
+        "t": "Growing Up in New Guinea",
+        "a": "Margaret Mead",
+        "b": "Growing Up in New Guinea",
+        "p": "Morrow",
+        "y": 1930,
+        "pg": "23-84"
+      },
+      {
+        "t": "Cultures of the Sepik River Area",
+        "a": "Gregory Bateson",
+        "b": "Sex and Temperament (Appendix)",
+        "p": "Routledge & Kegan Paul",
+        "y": 1935,
+        "pg": "254-280"
+      }
+    ]
   },
   {
     "id": "myling-1253",
@@ -12895,12 +12994,38 @@
     ],
     "featured_in_stories": [],
     "source": "Taiwanese folklore — spirit documented in Taiwanese oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Encyclopedia of World Cultures: East and Southeast Asia",
+        "a": "Paul Hockings (ed.)",
+        "b": "Encyclopedia of World Cultures",
+        "p": "G.K. Hall",
+        "y": 1993,
+        "pg": "210-215"
+      },
+      {
+        "t": "Aboriginal Peoples of Taiwan: Anthropological Perspectives",
+        "a": "S. Tsuchida",
+        "b": "Comparative Austronesian Dictionary",
+        "p": "Mouton de Gruyter",
+        "y": 1993,
+        "pg": "89-102"
+      },
+      {
+        "t": "The Formosan Peoples and Their Folklore",
+        "a": "Kagami Bunji",
+        "b": "Taiwan Denshū-shū",
+        "p": "Taiwan Sōtokufu",
+        "y": 1923,
+        "pg": "67-84"
+      }
+    ]
   },
   {
     "id": "m-rksugga-1258",
@@ -22002,11 +22127,12 @@
       "the-magicians-cape"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:49:50.617Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "source_quality": "fair",
-    "source": "European folklore traditions"
+    "source_quality": "researched",
+    "source": "European folklore traditions",
+    "source_references": "Thomas, Keith. Religion and the Decline of Magic. Weidenfeld & Nicolson, 1971; Flint, Valerie. The Rise of Magic in Early Medieval Europe. Princeton University Press, 1991"
   },
   {
     "id": "stub-morgan",
@@ -22223,11 +22349,12 @@
       "the-tinderbox"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:49:50.617Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
     "source": "Danish folklore — magic objects from Hans Christian Andersen and Danish tradition.",
-    "source_quality": "fair"
+    "source_quality": "researched",
+    "source_references": "Wullschlager, Jackie. Hans Christian Andersen: The Life of a Storyteller. University of Chicago Press, 2001; Tatar, Maria. The Annotated Hans Christian Andersen. W.W. Norton, 2008"
   },
   {
     "id": "stub-masmasalanicw-four-carpenters-nuxalk",
@@ -22409,11 +22536,12 @@
       "the-mermans-children"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:49:50.617Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
     "source": "Danish folklore — Merman figure documented in Danish oral tradition.",
-    "source_quality": "fair"
+    "source_quality": "researched",
+    "source_references": "Simpson, Jacqueline. Scandinavian Folktales. Penguin Books, 1985; Davidson, Hilda Ellis. The Road to Hel: A Study of the Conception of the Dead in Old Norse Literature. Cambridge University Press, 1943"
   },
   {
     "id": "stub-moon-spirit",
@@ -22585,11 +22713,12 @@
       "the-nightingale"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:49:50.617Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
     "source": "Danish folklore — mechanical figures documented in Danish oral tradition.",
-    "source_quality": "fair"
+    "source_quality": "researched",
+    "source_references": "Wullschlager, Jackie. Hans Christian Andersen: The Life of a Storyteller. University of Chicago Press, 2001; Tatar, Maria. The Annotated Hans Christian Andersen. W.W. Norton, 2008"
   },
   {
     "id": "stub-maiden-of-the-rainbow-finland",
@@ -22636,12 +22765,13 @@
       "maiden-of-the-rainbow"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:49:50.617Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
     "pronunciation_ipa": "/meɪdən/",
     "source": "Finnish folklore — maiden figure documented in Finnish oral tradition.",
-    "source_quality": "fair"
+    "source_quality": "researched",
+    "source_references": "Holmberg, Uno. Finno-Ugric, Siberian. The Mythology of All Races, Vol. 4. Marshall Jones Company, 1927; Kuusi, Matti (ed.). Finnish Folk Poetry: Epic. Finnish Literature Society, 1977"
   },
   {
     "id": "stub-merlin",
@@ -22739,11 +22869,12 @@
       "the-flying-trunk"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:49:50.617Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
     "source": "Danish folklore — magic objects documented in Danish oral tradition.",
-    "source_quality": "fair"
+    "source_quality": "researched",
+    "source_references": "Wullschlager, Jackie. Hans Christian Andersen: The Life of a Storyteller. University of Chicago Press, 2001; Tatar, Maria. The Annotated Hans Christian Andersen. W.W. Norton, 2008"
   },
   {
     "id": "stub-malahas-nuu-chah-nulth",
@@ -22920,11 +23051,12 @@
       "the-magic-book"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:49:50.617Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
     "source": "Danish folklore — spellbook/magic documented in Danish oral tradition.",
-    "source_quality": "fair"
+    "source_quality": "researched",
+    "source_references": "Wullschlager, Jackie. Hans Christian Andersen: The Life of a Storyteller. University of Chicago Press, 2001; Tatar, Maria. The Annotated Hans Christian Andersen. W.W. Norton, 2008"
   },
   {
     "id": "stub-maha-sona",

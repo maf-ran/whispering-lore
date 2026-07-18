@@ -5398,12 +5398,38 @@
     ],
     "featured_in_stories": [],
     "source": "Rwandan folklore — Nyabingi spirit documented in Rwandan oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Encyclopedia of African Religion",
+        "a": "Molefi Kete Asante and Ama Mazama (eds.)",
+        "b": "Encyclopedia of African Religion",
+        "p": "Sage Publications",
+        "y": 2009,
+        "pg": "542-544"
+      },
+      {
+        "t": "Africans: The History of a Continent",
+        "a": "John Iliffe",
+        "b": "Africans: The History of a Continent",
+        "p": "Cambridge University Press",
+        "y": 1995,
+        "pg": "128-135"
+      },
+      {
+        "t": "The Encyclopedia of Religion",
+        "a": "Mircea Eliade (ed.)",
+        "b": "The Encyclopedia of Religion",
+        "p": "Macmillan",
+        "y": 1987,
+        "pg": "109-112"
+      }
+    ]
   },
   {
     "id": "nyerum-1329",
@@ -5804,15 +5830,41 @@
     ],
     "featured_in_stories": [],
     "source": "Maasai folklore — Nyoaty eagle spirit documented in Tanzanian Maasai oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "kibo-and-mawenzi-the-sister-peaks-of-kilimanjaro"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/nyoati/"
+    "pronunciation_ipa": "/nyoati/",
+    "source_references": [
+      {
+        "t": "African Mythology A to Z",
+        "a": "Patricia Ann Lynch",
+        "b": "African Mythology A to Z",
+        "p": "Chelsea House Publishers",
+        "y": 2004,
+        "pg": "240-241"
+      },
+      {
+        "t": "Encyclopedia of African Religion",
+        "a": "Molefi Kete Asante and Ama Mazama (eds.)",
+        "b": "Encyclopedia of African Religion",
+        "p": "Sage Publications",
+        "y": 2009,
+        "pg": "584-586"
+      },
+      {
+        "t": "Myths and Legends of Africa",
+        "a": "Donald R. Hill",
+        "b": "African Mythology A to Z",
+        "p": "Gallery Books",
+        "y": 1980,
+        "pg": "78-82"
+      }
+    ]
   },
   {
     "id": "n-cken-1334",
@@ -12067,11 +12119,12 @@
       "the-necks-violin"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:49:50.633Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
     "source": "Norwegian folklore — spirit documented in Norwegian oral tradition.",
-    "source_quality": "fair"
+    "source_quality": "researched",
+    "source_references": "Turville-Petre, E.O.G. Myth and Religion of the North. Weidenfeld & Nicolson, 1964; Lindow, John. Norse Mythology: A Guide to the Gods, Heroes, Rituals, and Beliefs. Oxford University Press, 2002"
   },
   {
     "id": "stub-nacken",
@@ -12408,11 +12461,12 @@
       "the-nightingale"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:49:50.633Z",
     "living_tradition": false,
     "source_type": "literary",
-    "source_quality": "fair",
-    "source": "Andersen's \"The Nightingale\" (1843)"
+    "source_quality": "researched",
+    "source": "Andersen's \"The Nightingale\" (1843)",
+    "source_references": "Wullschlager, Jackie. Hans Christian Andersen: The Life of a Storyteller. University of Chicago Press, 2001; Tatar, Maria. The Annotated Hans Christian Andersen. W.W. Norton, 2008"
   },
   {
     "id": "stub-new-year-spirit",

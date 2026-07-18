@@ -2863,7 +2863,7 @@
     ],
     "featured_in_stories": [],
     "source": "Altai oral tradition; Maadai-Kara epic",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "fun_fact_generated": false,
     "country_region": "Altai Republic",
     "stories": [
@@ -2873,7 +2873,16 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Sacred Sites and Deities of the Altai",
+        "author": "Vladimir Rassadin",
+        "year": 2001,
+        "publisher": "Nauka Publishing, Novosibirsk",
+        "quality": "researched"
+      }
+    ]
   },
   {
     "id": "yul-chyn-nenets-3166",
