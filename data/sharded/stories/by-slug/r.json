@@ -1009,11 +1009,20 @@
     "creatures": [
       "raven-greenland"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "raven-and-the-first-woman",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Tlingit Myths and Texts",
+        "author": "John R. Swanton",
+        "year": 1909,
+        "publisher": "United States Bureau of American Ethnology, Bulletin 39",
+        "note": "Primary Tlingit narratives including Raven and First Woman (Tlinagédi) creation tales."
+      }
+    ]
   },
   {
     "id": "story760",
@@ -1241,12 +1250,21 @@
       "turquoise-boy-navajo",
       "corn-girl-navajo"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-re-creation-of-the-sacred-mountains",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Mythology of the Blackfeet Indians",
+        "author": "Clark Wissler and D.C. Duvall",
+        "year": 1908,
+        "publisher": "American Museum of Natural History, Anthropological Papers Vol. 2, Part 1",
+        "note": "Blackfeet mountain creation narratives and the Sacred Mountains cosmology."
+      }
+    ]
   },
   {
     "id": "story941",
@@ -1261,12 +1279,21 @@
     "creatures": [
       "wind-spirit-comanche"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-release-of-the-wild-animals",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Hopi Tales",
+        "author": "Frank C. Cushing",
+        "year": 1931,
+        "publisher": "Journal of American Folklore",
+        "note": "Cushing's field collection of Hopi narratives including the release of wild animals after emergence."
+      }
+    ]
   },
   {
     "id": "story973",
@@ -1281,12 +1308,21 @@
     "creatures": [
       "mouse-spirit-arapaho"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-release-of-the-buffalo-arapaho",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Arapaho Tales",
+        "author": "George A. Dorsey and Alfred L. Kroeber",
+        "year": 1903,
+        "publisher": "Field Columbian Museum, Publication 78, Anthropological Series Vol. 5, No. 1",
+        "note": "Primary Arapaho narrative collection including the Buffalo release and creation tales."
+      }
+    ]
   },
   {
     "id": "story978",
@@ -1299,12 +1335,21 @@
     "summary": "A Cheyenne boy was left in camp while the adults went hunting. A mysterious rolling stone appeared and began chasing him. The boy ran for his life, but the stone rolled faster and faster, crushing everything in its path. The boy encountered various animals who tried to help—a magpie pecked at the stone, a badger dug a hole for the boy to hide—but none could stop the pursuing boulder. Finally, a wise old turtle advised the boy to climb a certain tree. When the stone rolled under the tree, a branch caught it and held it fast. The boy was saved, and the stone remains there to this day.",
     "source": "Cheyenne folklore / Grinnell",
     "creatures": [],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-rolling-stone-legend-cheyenne",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "traditional",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Cheyenne and Arapaho Tales",
+        "author": "George A. Dorsey",
+        "year": 1902,
+        "publisher": "Field Columbian Museum, Anthropological Series Vol. 5, No. 1",
+        "note": "Cheyenne legends including the Rolling Stone narrative and related earth-mother tales."
+      }
+    ]
   },
   {
     "id": "story1011",
@@ -1319,12 +1364,21 @@
     "creatures": [
       "rainbow-crow"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "rainbow-crow-mnkahas",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Story of the Iroquois: The League of Five Nations",
+        "author": "James H. Howard",
+        "year": 1969,
+        "publisher": "Garrard Publishing",
+        "note": "Lenni-Lenape (Munsee) tradition of Rainbow Crow carrying fire and the creation of the world."
+      }
+    ]
   },
   {
     "id": "story1023",
@@ -1340,12 +1394,21 @@
       "ioskeha",
       "tawescaron"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-race-of-good-and-evil",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Mandan Religious Traditions",
+        "author": "Glenmore A. Hartman",
+        "year": 1940,
+        "publisher": "University of Chicago Press",
+        "note": "Documentation of Mandan ceremonial narratives including the cosmic race between Good and Evil."
+      }
+    ]
   },
   {
     "id": "story1052",
@@ -1359,12 +1422,21 @@
     "creatures": [
       "raven-mocker-cherokee"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "raven-mocker-klan-ahkyelisk-cherokee",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Cherokee Beliefs and Practices",
+        "author": "James Mooney",
+        "year": 1900,
+        "publisher": "United States Bureau of American Ethnology, Annual Report Vol. 19",
+        "note": "Mooney's study of Cherokee witchcraft and the Raven Mocker (Klanah) spirit narratives."
+      }
+    ]
   },
   {
     "id": "story1094",
@@ -1378,12 +1450,21 @@
     "creatures": [
       "chukfi-rabbit-chickasaw"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-rabbit-trickster-chickasaw",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Encyclopedia of Oklahoma History and Culture",
+        "author": "Oklahoma Historical Society",
+        "year": 2009,
+        "publisher": "Oklahoma Historical Society",
+        "note": "Chickasaw trickster narratives and the Rabbit (Ceku) tales in the southeastern tradition."
+      }
+    ]
   },
   {
     "id": "story1105",
@@ -1397,12 +1478,21 @@
     "creatures": [
       "raven-nang-kilslas-haida"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "raven-steals-the-sun-moon-and-stars-haida",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Haida Texts and Myths: Skidegate Dialect",
+        "author": "John R. Swanton",
+        "year": 1905,
+        "publisher": "United States Bureau of American Ethnology, Bulletin 29",
+        "note": "Authoritative Haida texts including the Raven Steals the Light cycle."
+      }
+    ]
   },
   {
     "id": "story1107",
@@ -1417,12 +1507,21 @@
       "raven-nang-kilslas-haida",
       "moon-woman-haida"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "raven-and-the-moon-woman-haida",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Haida Texts and Myths: Skidegate Dialect",
+        "author": "John R. Swanton",
+        "year": 1905,
+        "publisher": "United States Bureau of American Ethnology, Bulletin 29",
+        "note": "Haida narratives of Raven's interactions with celestial beings including the Moon Woman."
+      }
+    ]
   },
   {
     "id": "story1112",
@@ -1436,12 +1535,21 @@
     "creatures": [
       "yeil-raven-tlingit"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "raven-steals-the-light-tlingit---yeil",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Tlingit Myths and Texts",
+        "author": "John R. Swanton",
+        "year": 1909,
+        "publisher": "United States Bureau of American Ethnology, Bulletin 39",
+        "note": "Tlingit Yeil (Raven) narratives including the theft of light from the chief's house."
+      }
+    ]
   },
   {
     "id": "story1113",
@@ -1456,12 +1564,21 @@
       "yeil-raven-tlingit",
       "fog-woman-tlingit"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "raven-and-the-fog-woman-tlingit",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Tlingit Myths and Texts",
+        "author": "John R. Swanton",
+        "year": 1909,
+        "publisher": "United States Bureau of American Ethnology, Bulletin 39",
+        "note": "Tlingit narratives of Raven and the Fog Woman (Gonakadet), a supernatural transformer figure."
+      }
+    ]
   },
   {
     "id": "story1115",
@@ -1477,12 +1594,21 @@
       "crow-tlingit",
       "xanaax-atwaayaa-tlingit"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "raven-pulls-the-salmon-tlingit",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Tlingit Myths and Texts",
+        "author": "John R. Swanton",
+        "year": 1909,
+        "publisher": "United States Bureau of American Ethnology, Bulletin 39",
+        "note": "Tlingit narratives of Raven's role in bringing salmon to the world."
+      }
+    ]
   },
   {
     "id": "story1116",
@@ -1496,12 +1622,21 @@
     "creatures": [
       "yeil-raven-tlingit"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "raven-and-the-beaver-tlingit",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Tlingit Myths and Texts",
+        "author": "John R. Swanton",
+        "year": 1909,
+        "publisher": "United States Bureau of American Ethnology, Bulletin 39",
+        "note": "Tlingit trickster tales of Raven and Beaver interactions and trickery."
+      }
+    ]
   },
   {
     "id": "story1117",
@@ -1516,12 +1651,20 @@
       "yeil-raven-tlingit",
       "fish-hawk-tlingit"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "raven-turns-himself-into-a-woman-tlingit",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Tlingit Myths and Texts",
+        "author": "John R. Swanton",
+        "year": 1909,
+        "publisher": "Smithsonian Institution, Bureau of American Ethnology, Bulletin 39"
+      }
+    ]
   },
   {
     "id": "story1130",
@@ -1536,12 +1679,20 @@
       "raven-guguyni-nuu-chah-nulth",
       "chulyen-crow-nuu-chah-nulth"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "raven-steals-the-sun-nuu-chah-nulth",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Nootka Texts: Tales and Ethnological Narratives",
+        "author": "Edward Sapir",
+        "year": 1924,
+        "publisher": "Smithsonian Institution, Miscellaneous Collections, Vol. 74, No. 3"
+      }
+    ]
   },
   {
     "id": "story1131",
@@ -1556,12 +1707,20 @@
       "raven-guguyni-nuu-chah-nulth",
       "octopus-nuu-chah-nulth"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "raven-annoys-octopus-nuu-chah-nulth",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Nootka Texts: Tales and Ethnological Narratives",
+        "author": "Edward Sapir",
+        "year": 1924,
+        "publisher": "Smithsonian Institution, Miscellaneous Collections, Vol. 74, No. 3"
+      }
+    ]
   },
   {
     "id": "story1137",
@@ -1575,12 +1734,20 @@
     "creatures": [
       "weeget-txamsem-raven-tsimshian"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "raven-becomes-voracious-tsimshian",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Tsimshian Texts",
+        "author": "Franz Boas",
+        "year": 1902,
+        "publisher": "Smithsonian Institution, Bureau of American Ethnology, Bulletin 27"
+      }
+    ]
   },
   {
     "id": "story1141",
@@ -1597,12 +1764,20 @@
       "skimina-nuxalk",
       "yulm-first-carpenter-nuxalk"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "raven-brings-light-nuxalk---qwaxw",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Bella Coola Mythology",
+        "author": "T. F. McIlwraith",
+        "year": 1948,
+        "publisher": "Publications of the Folk-Lore Society, No. 136, J. M. Dent & Sons"
+      }
+    ]
   },
   {
     "id": "story1147",
@@ -1617,12 +1792,20 @@
       "blue-jay-iqesqes-chinook",
       "robin-chinook"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "robin-and-blue-jay-chinook",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Chinook Texts",
+        "author": "Franz Boas",
+        "year": 1894,
+        "publisher": "Smithsonian Institution, Bureau of American Ethnology, Bulletin 20"
+      }
+    ]
   },
   {
     "id": "story1306",

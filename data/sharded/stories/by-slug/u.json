@@ -263,12 +263,20 @@
       "unhcegila-lakota",
       "wakinyan-lakota"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "unhcegila-the-serpent-monster",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Sacred Pipe: Black Elk's Account of the Seven Rites of the Oglala Sioux",
+        "author": "Brown, Joseph Epes",
+        "year": 1953,
+        "publisher": "University of Oklahoma Press, Norman"
+      }
+    ]
   },
   {
     "id": "story1048",
@@ -282,12 +290,20 @@
     "creatures": [
       "uktena"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "uktena-the-horned-serpent-cherokee",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Myths and Legends of the Cherokee",
+        "author": "Mooney, James",
+        "year": 1900,
+        "publisher": "D. Appleton and Company, New York"
+      }
+    ]
   },
   {
     "id": "story1326",

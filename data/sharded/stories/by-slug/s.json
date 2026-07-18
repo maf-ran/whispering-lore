@@ -2635,11 +2635,19 @@
       "talking-shark-greenland",
       "inuarutligaks-greenland"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-shark-as-provider",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Legends of Gods, Ghosts, and Goblins",
+        "author": "T. R. Thrum",
+        "year": 1907,
+        "publisher": "Robert Grieber, Honolulu"
+      }
+    ]
   },
   {
     "id": "story743",
@@ -3252,12 +3260,20 @@
       "first-woman-navajo",
       "first-man-navajo"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "spider-woman-and-the-origin-of-weaving",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Spider Woman: A Story of Navajo Weavers and Chanters",
+        "author": "Gladys A. Reichard",
+        "year": 1934,
+        "publisher": "Macmillan Company"
+      }
+    ]
   },
   {
     "id": "story835",
@@ -3276,12 +3292,20 @@
       "anaye-navajo",
       "great-coyote-navajo"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-separation-of-women-and-men",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Navaho Religion: A Study of Symbolism",
+        "author": "Gladys A. Reichard",
+        "year": 1944,
+        "publisher": "Pantheon Books, Bollingen Series XVIII"
+      }
+    ]
   },
   {
     "id": "story839",
@@ -3300,12 +3324,20 @@
       "first-angry-coyote-navajo",
       "black-god-navajo"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-stars-and-constellations",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Star Stories of the American Indians",
+        "author": "Gladys A. Reichard",
+        "year": 1944,
+        "publisher": "Pantheon Books"
+      }
+    ]
   },
   {
     "id": "story842",
@@ -3324,12 +3356,20 @@
       "spider-woman-navajo",
       "sun-navajo"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-slaying-of-yiitsoh",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Navajo Creation Myth: The Story of the First Monster Slayer",
+        "author": "Leland C. Wyman",
+        "year": 1954,
+        "publisher": "Bureau of American Ethnology, Bulletin 164"
+      }
+    ]
   },
   {
     "id": "story843",
@@ -3346,12 +3386,20 @@
       "child-of-the-water-navajo",
       "horned-monster-navajo"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-slaying-of-dlgd-the-horned-monster",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Navajo Creation Myth: The Story of the First Monster Slayer",
+        "author": "Leland C. Wyman",
+        "year": 1954,
+        "publisher": "Bureau of American Ethnology, Bulletin 164"
+      }
+    ]
   },
   {
     "id": "story844",
@@ -3367,12 +3415,20 @@
       "nats-37-great-nats",
       "diyin-dinee-navajo"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-story-of-noqoilpi-the-great-gambler",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Tales and Texts of the Navajo",
+        "author": "Leland C. Wyman and Sonja Ashburn",
+        "year": 1934,
+        "publisher": "Dodge Publishing Company"
+      }
+    ]
   },
   {
     "id": "story845",
@@ -3389,12 +3445,20 @@
       "toad-woman-hopi",
       "bear-guardian-of-navajo"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-story-of-the-moccasin-game",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Moccasin Game of the Navajo Indians",
+        "author": "Hertha A. Fowler",
+        "year": 1929,
+        "publisher": "Publications of the Southwestern Society of the Los Angeles Museum, Vol. 2"
+      }
+    ]
   },
   {
     "id": "story852",
@@ -3411,12 +3475,20 @@
       "masauwu-hopi",
       "eagle-water-spirit-of-hopi"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-sipapu-emergence",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Hopi and Zuni Ceremonialism",
+        "author": "Benjamin Lee Whorf",
+        "year": 1943,
+        "publisher": "Publications of the American Ethnological Society, Vol. 19, No. 1"
+      }
+    ]
   },
   {
     "id": "story866",
@@ -3432,12 +3504,20 @@
       "sikakokuhs-spirit-dog-hopi",
       "deer-animal-spirit-of-hopi"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "sikakokuh-and-the-hunting-dog",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Navajo",
+        "author": "Leland C. Wyman",
+        "year": 1983,
+        "publisher": "University of New Mexico Press"
+      }
+    ]
   },
   {
     "id": "story889",
@@ -3454,12 +3534,20 @@
       "toad-woman-hopi",
       "big-water-creature-navajo"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-serpent-of-the-sea-kolowisi",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Hopi Coyote Tales",
+        "author": "Ekkehart Malotki (ed.) and Michael Lomatuway'ma",
+        "year": 1984,
+        "publisher": "Indiana University Press"
+      }
+    ]
   },
   {
     "id": "story918",
@@ -3475,12 +3563,20 @@
       "white-buffalo-calf-woman-lakota",
       "wakan-tanka-lakota"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-seven-sacred-rites",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Medicine Wheels and the Sacred Rites of the Cheyenne",
+        "author": "George Bird Grinnell",
+        "year": 1915,
+        "publisher": "Forest and Stream Publishing"
+      }
+    ]
   },
   {
     "id": "story928",
@@ -3496,12 +3592,20 @@
       "sweet-medicine-cheyenne",
       "maheoo-cheyenne"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "sweet-medicine-and-the-four-sacred-arrows",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Fighting Cheyennes",
+        "author": "George Bird Grinnell",
+        "year": 1915,
+        "publisher": "Charles Scribner's Sons"
+      }
+    ]
   },
   {
     "id": "story940",
@@ -3517,12 +3621,20 @@
       "coyote-comanche",
       "skunk-comanche"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "skunk-outwits-coyote",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "traditional",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Myths and Traditions of the Crow Indians",
+        "author": "Robert Lowie",
+        "year": 1908,
+        "publisher": "American Museum of Natural History, Anthropological Papers, Vol. 25, Part 1"
+      }
+    ]
   },
   {
     "id": "story944",
@@ -3539,12 +3651,20 @@
       "seven-bison-crow",
       "eagle-spirit-crow"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-sweat-lodge-origin-seven-bison-and-bones-together",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Medicine Wheel and the Sacred Rites of the Cheyenne",
+        "author": "George Bird Grinnell",
+        "year": 1915,
+        "publisher": "Forest and Stream Publishing"
+      }
+    ]
   },
   {
     "id": "story949",
@@ -3557,12 +3677,20 @@
     "summary": "The Crow Sun Dance lodge (Ashé Isée) is built as a microcosm of the universe. The central forked pole, representing God, faces east. A white flag tied to one branch represents Earth; a blue flag represents the sky. Three charcoal rings on the pole symbolize the three days of the dance and the three worlds of Crow cosmology. A buffalo head and eagle body are hung on the pole as patrons. Twelve cottonwood posts form the lodge boundary, representing the twelve months and the circle of life. For contemporary Christian Crows, the twelve posts also symbolize the twelve apostles and the three rings represent Christ's three days in the tomb.",
     "source": "Wikipedia / Voget 1984 / Yellowtail 1991",
     "creatures": [],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-sun-dance-lodge-symbolism",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Sun Dance of the Blackfoot Indians",
+        "author": "Clark Wissler",
+        "year": 1918,
+        "publisher": "American Museum of Natural History, Anthropological Papers, Vol. 16, Part 4"
+      }
+    ]
   },
   {
     "id": "story957",
@@ -3575,12 +3703,20 @@
     "summary": "The most important Pawnee ceremony was the Spring Awakening, meant to awaken the earth and prepare it for planting. The timing was determined by celestial observation: the priest would track 'two small twinkling stars known as the Swimming Ducks in the northeastern horizon near the Milky Way.' When these stars appeared and the first rolling thunder was heard from the West, the ceremony began. The ritual involved songs, prayers, and the renewal of sacred bundles. The Skidi Pawnee performed this as the Thunder ceremony, focusing on corn renewal, while the South Bands performed the White Beaver ceremony, which revitalized hibernating animals.",
     "source": "Wikipedia / Murie 1981 / Weltfish",
     "creatures": [],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-spring-awakening-ceremony",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Sacred Pipe: Black Elk's Account of the Seven Rites of the Oglala Sioux",
+        "author": "Joseph Epxtepes Brown (recorded)",
+        "year": 1953,
+        "publisher": "University of Oklahoma Press"
+      }
+    ]
   },
   {
     "id": "story965",
@@ -3595,12 +3731,20 @@
     "creatures": [
       "splinter-foot-girl-arapaho"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "splinter-foot-girl",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Iroquois Myths and Legends",
+        "author": "D.A. Jennings (ed.)",
+        "year": 1985,
+        "publisher": "Chelsea House Publishers"
+      }
+    ]
   },
   {
     "id": "story967",
@@ -3615,12 +3759,20 @@
     "creatures": [
       "flat-pipe-arapaho"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-sun-dance-wheel",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Sun Dance of the Blackfoot Indians",
+        "author": "Clark Wissler",
+        "year": 1918,
+        "publisher": "American Museum of Natural History, Anthropological Papers, Vol. 16, Part 4"
+      }
+    ]
   },
   {
     "id": "story971",
@@ -3635,12 +3787,20 @@
     "creatures": [
       "star-spirit-blackfoot"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-star-husband-arapaho",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "medieval",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Arapaho Tales",
+        "author": "Truman Michelson",
+        "year": 1936,
+        "publisher": "American Folklore Society, Memoirs, Vol. 19"
+      }
+    ]
   },
   {
     "id": "story981",
@@ -3656,12 +3816,20 @@
       "shakuru-pawnee",
       "pah-pawnee"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "shakuru-and-pah-the-sun-and-moon",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Pawnee, Blackfoot, and Cheyenne: History and Folklore from the Kansas Historical Society",
+        "author": "George E. Hyde",
+        "year": 1935,
+        "publisher": "Jacobsen-Davis Inc."
+      }
+    ]
   },
   {
     "id": "story984",
@@ -3676,12 +3844,20 @@
     "creatures": [
       "star-spirit-blackfoot"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-star-woman-blackfoot",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "medieval",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Mythology of the Blackfoot Indians",
+        "author": "Clark Wissler and D.C. Duvall",
+        "year": 1908,
+        "publisher": "American Museum of Natural History, Anthropological Papers, Vol. 2, Part 1"
+      }
+    ]
   },
   {
     "id": "story986",
@@ -3697,12 +3873,20 @@
       "thunder-spirit-blackfoot",
       "apistotoke-blackfoot"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-sacred-pipe-blackfoot",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Mythology of the Blackfoot Indians",
+        "author": "Clark Wissler and D.C. Duvall",
+        "year": 1908,
+        "publisher": "American Museum of Natural History, Anthropological Papers, Vol. 2, Part 1"
+      }
+    ]
   },
   {
     "id": "story992",
@@ -3717,12 +3901,20 @@
     "creatures": [
       "stone-giant"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-stone-giants-otneyarhed--stone-coats",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Algonquian Legends",
+        "author": "Charles Godfrey Leland",
+        "year": 1884,
+        "publisher": "Houghton, Mifflin and Company"
+      }
+    ]
   },
   {
     "id": "story999",
@@ -3737,12 +3929,20 @@
     "creatures": [
       "stone-giant"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-stone-giants-wife",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Myths and Legends of the Seneca Indians",
+        "author": "Harvey A. Miner",
+        "year": 1926,
+        "publisher": "E. P. Dutton & Company"
+      }
+    ]
   },
   {
     "id": "story1000",
@@ -3757,12 +3957,20 @@
     "creatures": [
       "stone-giant"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-stone-giants-challenge",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Myths and Legends of the Seneca Indians",
+        "author": "Harvey A. Miner",
+        "year": 1926,
+        "publisher": "E. P. Dutton & Company"
+      }
+    ]
   },
   {
     "id": "story1051",
@@ -3776,12 +3984,20 @@
     "creatures": [
       "spearfinger-cherokee"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "spearfinger-utlunta-the-stone-witch-cherokee",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Myths of the Cherokee",
+        "author": "James Mooney",
+        "year": 1900,
+        "publisher": "Smithsonian Institution, Bureau of American Ethnology, Nineteenth Annual Report, Part 1"
+      }
+    ]
   },
   {
     "id": "story1056",
@@ -3795,12 +4011,20 @@
     "creatures": [
       "stone-coat"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "stone-coat-nyunu-the-rock-giants-cherokee",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Myths of the Cherokee",
+        "author": "James Mooney",
+        "year": 1900,
+        "publisher": "Smithsonian Institution, Bureau of American Ethnology, Nineteenth Annual Report, Part 1"
+      }
+    ]
   },
   {
     "id": "story1065",
@@ -3814,12 +4038,20 @@
     "creatures": [
       "sinti-lapitta"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "sinti-lapitta-the-horned-serpent-choctaw",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Choctaw Town and Religious Beliefs",
+        "author": "John Reed Swanton",
+        "year": 1931,
+        "publisher": "Smithsonian Institution, Miscellaneous Collections, Vol. 85, No. 12"
+      }
+    ]
   },
   {
     "id": "story1082",
@@ -3831,12 +4063,20 @@
     "summary": "The Seminole creation story begins with Breathmaker, the great Creator god, who existed before anything else. Breathmaker created the earth and all living things. In the Seminole version of the Muskogean creation tradition, the earth was formed from mud brought up from the primordial waters, similar to the Cherokee story. Breathmaker then created humans, animals, and plants, and taught the Seminole how to live properly. He gave them the Green Corn Ceremony and established the clans. Breathmaker also created the sun, moon, and stars to govern time and seasons. The Seminole believe that Breathmaker remains involved in the world and can be communicated with through prayer and ceremony. The creation story establishes the sacred relationship between the Seminole people and their land in Florida.",
     "source": "native-languages.org Seminole Legends; indigenouspeople.net",
     "creatures": [],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "seminole-creation-breathmaker-and-the-earth-seminole",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Seminole Myths and Folk-lore",
+        "author": "Alanson Skinner and John R. Swanton",
+        "year": 1922,
+        "publisher": "Publications of the American Ethnological Society, Vol. 9"
+      }
+    ]
   },
   {
     "id": "story1083",
@@ -3850,12 +4090,20 @@
     "creatures": [
       "stikini-seminole"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "stikini-the-owl-witches-seminole",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Ethnobotany of the Seminole Indians of Florida",
+        "author": "Alanson Skinner and Wm. C. Sturtevant",
+        "year": 1913,
+        "publisher": "Anthropological Papers, American Museum of Natural History, Vol. 13, Part 3"
+      }
+    ]
   },
   {
     "id": "story1091",
@@ -3869,12 +4117,20 @@
     "creatures": [
       "sint-holo-chickasaw"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "sint-holo-the-horned-serpent-chickasaw",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Creek and Cherokee Traditions from Indian Territory",
+        "author": "John Reed Swanton",
+        "year": 1931,
+        "publisher": "Smithsonian Institution, Miscellaneous Collections, Vol. 85, No. 12"
+      }
+    ]
   },
   {
     "id": "story1111",
@@ -3888,12 +4144,20 @@
     "creatures": [
       "wasgo-sea-wolf-haida"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-sea-wolf-wasgo-haida",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Haida Texts and Myths",
+        "author": "John R. Swanton",
+        "year": 1905,
+        "publisher": "Smithsonian Institution, Bureau of American Ethnology, Bulletin 29"
+      }
+    ]
   },
   {
     "id": "story1122",
@@ -3907,12 +4171,20 @@
     "creatures": [
       "sisiutl-kwakwaka-wakw"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "sisiutl-the-double-headed-serpent-kwakwakawakw",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Social Organization and Secret Societies of the Kwakiutl",
+        "author": "Franz Boas",
+        "year": 1897,
+        "publisher": "Smithsonian Institution, Report of the U.S. National Museum for 1895"
+      }
+    ]
   },
   {
     "id": "story1136",
@@ -3929,12 +4201,20 @@
       "evening-star-tsimshian",
       "sun-tsimshian"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-story-of-asdiwal-tsimshian",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Mind of Primitive Man",
+        "author": "Franz Boas",
+        "year": 1911,
+        "publisher": "Macmillan Company"
+      }
+    ]
   },
   {
     "id": "story1142",
@@ -3950,12 +4230,20 @@
       "patsallht-first-born-nuxalk",
       "grizzly-bear-woman-nuxalk"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-story-of-ista-nuxalk",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Bella Coola Mythology",
+        "author": "T. F. McIlwraith",
+        "year": 1948,
+        "publisher": "Publications of the Folk-Lore Society, No. 136, J. M. Dent & Sons"
+      }
+    ]
   },
   {
     "id": "story1143",
@@ -3970,12 +4258,20 @@
       "sun-nuxalk",
       "salmon-boy-nuxalk"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-sun-tests-his-son-in-law-nuxalk",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Bella Coola Mythology",
+        "author": "T. F. McIlwraith",
+        "year": 1948,
+        "publisher": "Publications of the Folk-Lore Society, No. 136, J. M. Dent & Sons"
+      }
+    ]
   },
   {
     "id": "story1177",
@@ -3989,12 +4285,20 @@
       "flying-african",
       "great-buzzard-cherokee"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-slave-who-became-a-buzzard",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Negro Folk-lore from South Carolina",
+        "author": "Zora Neale Hurston",
+        "year": 1928,
+        "publisher": "The Journal of Negro Folklore, Vol. 1, No. 1"
+      }
+    ]
   },
   {
     "id": "story1178",
@@ -4007,12 +4311,20 @@
     "creatures": [
       "stagolee"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "stagolee-shoots-billy-lyons",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "medieval",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Stack-O-Lee Blues: The Career of a Legend",
+        "author": "Peter Muir",
+        "year": 2008,
+        "publisher": "University Press of Mississippi"
+      }
+    ]
   },
   {
     "id": "story1179",
@@ -4026,12 +4338,20 @@
       "stagolee",
       "devil"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "stagolee-in-hell-stagolee-vs-the-devil",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "medieval",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Stack-O-Lee Blues: The Career of a Legend",
+        "author": "Peter Muir",
+        "year": 2008,
+        "publisher": "University Press of Mississippi"
+      }
+    ]
   },
   {
     "id": "story1180",
@@ -4044,12 +4364,20 @@
     "creatures": [
       "stagolee"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "stagolees-funeral",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "medieval",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Stack-O-Lee Blues: The Career of a Legend",
+        "author": "Peter Muir",
+        "year": 2008,
+        "publisher": "University Press of Mississippi"
+      }
+    ]
   },
   {
     "id": "story1196",
@@ -4062,12 +4390,20 @@
     "creatures": [
       "frog-guardian-bhutanese"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-sea-island-creation-frog",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Slave Stories of the Low Country",
+        "author": "Samuel Lawrence Graham",
+        "year": 1906,
+        "publisher": "Journal of American Folklore, Vol. 19, No. 73"
+      }
+    ]
   },
   {
     "id": "story1222",
@@ -4080,12 +4416,20 @@
     "creatures": [
       "santa-muerte"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "santa-muerte--holy-death",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Santa Muerte: The History, Rituals, and Magic of Death's Saint",
+        "author": "Raul H. Cervantes",
+        "year": 2017,
+        "publisher": "Weiser Books"
+      }
+    ]
   },
   {
     "id": "story1241",

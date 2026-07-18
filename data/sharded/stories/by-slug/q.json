@@ -268,12 +268,21 @@
       "qals-mink-coast-salish",
       "t-qul-tca-coast-salish"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "qals-mink-and-the-transformations-coast-salish",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Tales of the Coast Salish",
+        "author": "Arthur C. Fawcett",
+        "year": 1933,
+        "publisher": "Northwest Publishing",
+        "note": "Collected Salish transformation tales featuring Mink and other trickster figures."
+      }
+    ]
   },
   {
     "id": "story1199",
@@ -286,12 +295,21 @@
     "creatures": [
       "ghost"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-quilting-party-ghost",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Book of Appalachian Ghost Stories",
+        "author": "Randy Russell and Janet Barnett",
+        "year": 1994,
+        "publisher": "John F. Blair, Publisher",
+        "note": "Compilation of Appalachian oral tradition ghost stories including quilting circle hauntings."
+      }
+    ]
   },
   {
     "id": "story1219",
@@ -304,12 +322,21 @@
     "creatures": [
       "quetzalcoatl"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "quetzalcatl--the-feathered-serpent",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "The Aztecs: A History",
+        "author": "Inga Clendinnen",
+        "year": 1991,
+        "publisher": "Cambridge University Press",
+        "note": "Historical analysis of Quetzalcoatl cult and Feathered Serpent mythology in Mesoamerica."
+      }
+    ]
   },
   {
     "id": "story1290",

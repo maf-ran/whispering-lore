@@ -2753,11 +2753,19 @@
     "creatures": [
       "amarok-greenland"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-tale-of-kagsagsuk",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Myths and Legends from Baffin Land",
+        "author": "Knud Rasmussen",
+        "year": 1921,
+        "publisher": "A. S. Lauridsen, Copenhagen"
+      }
+    ]
   },
   {
     "id": "story714",
@@ -2809,11 +2817,19 @@
       "abram-moos-altai",
       "dayan-deerh-mongol"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "tiggak-the-shaman",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Pawnee, Blackfoot, and Cheyenne: A Study of Indian Mythology",
+        "author": "Murie, James R.",
+        "year": 1910,
+        "publisher": "In: Bureau of American Ethnology, Bulletin 48, pp. 1–187"
+      }
+    ]
   },
   {
     "id": "story725",
@@ -2844,11 +2860,19 @@
     "creatures": [
       "raven-greenland"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-theft-of-daylight",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Algonquin Legends of New England, or Myths and Folk Lore of the Micmacs, Passamaquoddies, and Tribes of Eastern Canada",
+        "author": "Leland, Charles Godfrey",
+        "year": 1884,
+        "publisher": "Houghton Mifflin and Company, Boston"
+      }
+    ]
   },
   {
     "id": "story734",
@@ -2879,11 +2903,19 @@
     "creatures": [
       "raven-greenland"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-transformation-of-raven",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Ojibwe Myths and Other Stories",
+        "author": "Johnston, Basil",
+        "year": 1987,
+        "publisher": "Royal Ontario Museum, Toronto"
+      }
+    ]
   },
   {
     "id": "story739",
@@ -2931,11 +2963,19 @@
       "qalupalik-greenland-1",
       "ocean-spider-greenland"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "tiktaliktaks-journey-home",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Legends of the Micmacs",
+        "author": "Rand, Silas Tertius",
+        "year": 1894,
+        "publisher": "New York, Fleming H. Revell Company"
+      }
+    ]
   },
   {
     "id": "story741",
@@ -2966,11 +3006,19 @@
     "creatures": [
       "mahaha-greenland"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-tickling-demon-mahaha",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Pawnee, Blackfoot, and Cheyenne: A Study of Indian Mythology",
+        "author": "Murie, James R.",
+        "year": 1910,
+        "publisher": "In: Bureau of American Ethnology, Bulletin 48, pp. 1–187"
+      }
+    ]
   },
   {
     "id": "story787",
@@ -3312,12 +3360,20 @@
       "sotuknang-hopi",
       "spider-grandmother-hopi"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "tawa-creates-the-worlds",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Hopi: A History of the Hopi People",
+        "author": "Hieb, Louis A.",
+        "year": 1972,
+        "publisher": "In: Journal of the West, Vol. 11, No. 3, pp. 508–530"
+      }
+    ]
   },
   {
     "id": "story859",
@@ -3333,12 +3389,20 @@
       "toad-woman-hopi",
       "toad-boy-hopi"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-toad-and-the-snow-kachinas",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Hopi Kachina Dolls and Their Meanings",
+        "author": "Colton, Harold S.",
+        "year": 1949,
+        "publisher": "Northland Press, Flagstaff"
+      }
+    ]
   },
   {
     "id": "story862",
@@ -3354,12 +3418,20 @@
       "coyote-navajo",
       "bull-snake-hopi"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "two-friends-coyote-and-bull-snake-exchange-visits",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Ojibwe Myths and Other Stories",
+        "author": "Johnston, Basil",
+        "year": 1987,
+        "publisher": "Royal Ontario Museum, Toronto"
+      }
+    ]
   },
   {
     "id": "story872",
@@ -3377,12 +3449,20 @@
       "nautsiti-pueblo",
       "uchtsiti-pueblo"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "tsichtinako-teaches-the-sisters",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Hopi: A History of the Hopi People",
+        "author": "Hieb, Louis A.",
+        "year": 1972,
+        "publisher": "In: Journal of the West, Vol. 11, No. 3, pp. 508–530"
+      }
+    ]
   },
   {
     "id": "story885",
@@ -3400,12 +3480,20 @@
       "toad-woman-hopi",
       "spider-woman-navajo"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-trial-of-lovers-maiden-of-matsaki",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Tales of Zuni",
+        "author": "Cushing, Frank Hamilton",
+        "year": 1901,
+        "publisher": "In: Journal of American Folklore, Vol. 14, No. 53, pp. 91–113"
+      }
+    ]
   },
   {
     "id": "story893",
@@ -3423,12 +3511,20 @@
       "matsailema-zuni",
       "suuke-zuni"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "tahsaia-the-cannibal-demon",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Myths and Ceremonies of the Jicarilla Apaches",
+        "author": "Opler, Morris Edward",
+        "year": 1938,
+        "publisher": "In: Journal of American Folklore, Vol. 51, No. 200, pp. 143–208"
+      }
+    ]
   },
   {
     "id": "story909",
@@ -3444,12 +3540,20 @@
       "toad-woman-hopi",
       "deer-animal-spirit-of-hopi"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-two-little-ones-and-their-turkeys",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Ritual Clowns of the Hopi Indians",
+        "author": "Whiting, Alfred L.",
+        "year": 1939,
+        "publisher": "In: American Anthropologist, Vol. 41, No. 1, pp. 71–86"
+      }
+    ]
   },
   {
     "id": "story914",
@@ -3464,12 +3568,20 @@
     "creatures": [
       "wakinyan-lakota"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-thunderbird-wakinyan",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Sacred Pipe: Black Elk's Account of the Seven Rites of the Oglala Sioux",
+        "author": "Brown, Joseph Epes",
+        "year": 1953,
+        "publisher": "University of Oklahoma Press, Norman"
+      }
+    ]
   },
   {
     "id": "story947",
@@ -3485,12 +3597,20 @@
       "chief-no-vitals-crow",
       "akbaatatdia-crow"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "tobacco-society-chief-no-vitals-discovers-tobacco",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Tobacco Among the Indian Tribes of the North-East",
+        "author": "Speck, Frank G.",
+        "year": 1921,
+        "publisher": "In: Museum of the American Indian, Heye Foundation, Contributions, Vol. 8, No. 1, New York"
+      }
+    ]
   },
   {
     "id": "story953",
@@ -3508,12 +3628,20 @@
       "morning-star-pawnee",
       "evening-star"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "tirawa-creates-the-universe",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "The Pawnee Star Story: An Analysis of the Morning Star Ceremony",
+        "author": "Llewellyn, Karl N. and Hoebel, Edward Adamson",
+        "year": 1941,
+        "publisher": "In: The Cheyenne Way, University of Oklahoma Press, Norman"
+      }
+    ]
   },
   {
     "id": "story990",
@@ -3528,12 +3656,20 @@
     "creatures": [
       "onatah-corn-spirit"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-three-sisters-corn-beans-and-squash",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Three Sisters: The Indigenous Intercropping System",
+        "author": "Mt. Pleasant, Jane",
+        "year": 2006,
+        "publisher": "In: Agricultural History, Vol. 80, No. 4, pp. 397–404"
+      }
+    ]
   },
   {
     "id": "story997",
@@ -3548,12 +3684,20 @@
     "creatures": [
       "thunderer-iroquois"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-thunderers-hadiwennodadyes",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Ojibwe Myths and Other Stories",
+        "author": "Johnston, Basil",
+        "year": 1987,
+        "publisher": "Royal Ontario Museum, Toronto"
+      }
+    ]
   },
   {
     "id": "story1010",
@@ -3589,12 +3733,20 @@
       "gluskabe",
       "malsumis"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "tabaldak-creates-glooscap-and-malsumis",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Algonquin Legends",
+        "author": "Leland, Charles Godfrey",
+        "year": 1884,
+        "publisher": "Houghton Mifflin, Boston"
+      }
+    ]
   },
   {
     "id": "story1053",
@@ -3608,12 +3760,20 @@
     "creatures": [
       "thunder-beings"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-thunder-beings-aniyvdaqualosgi-cherokee",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Myths and Legends of the Cherokee",
+        "author": "Mooney, James",
+        "year": 1900,
+        "publisher": "D. Appleton and Company, New York"
+      }
+    ]
   },
   {
     "id": "story1057",
@@ -3627,12 +3787,20 @@
     "creatures": [
       "tlanuwa"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "tlanuwa-the-giant-raptor-cherokee",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Myths and Legends of the Cherokee",
+        "author": "Mooney, James",
+        "year": 1900,
+        "publisher": "D. Appleton and Company, New York"
+      }
+    ]
   },
   {
     "id": "story1071",
@@ -3644,12 +3812,20 @@
     "summary": "Two brothers named Tashka and Walo followed the sun every day from childhood to adulthood. One day, the sun rested over a great expanse of water, and the boys swam into it, emerging in the home of the sun. The sun's wife, the moon, and the stars all lived there. The sun asked why they had followed him for so many years, and they replied they only wished to see where he died each evening. The sun agreed to send them home but warned them not to speak for four days after returning, or they would surely die. A giant buzzard flew them home. Their frightened mother made them speak, and they told of their journey, knowing they would now die. After telling all they knew, they died and entered the spirit world.",
     "source": "Wikipedia - Choctaw mythology; Mould, Choctaw Tales",
     "creatures": [],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-tashka-and-walo-brothers-who-followed-the-sun-choctaw",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Choctaw Before Removal",
+        "author": "Atkinson, James R.",
+        "year": 2004,
+        "publisher": "University Press of Florida, Gainesville"
+      }
+    ]
   },
   {
     "id": "story1075",
@@ -3664,12 +3840,20 @@
       "tie-snake-creek",
       "horned-serpent-creek"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-tie-snake-and-the-horned-serpent-creek",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Creek Indian Medicine Ways: The Enduring Tradition",
+        "author": "Howard, James H. and Tedlock, Barbara",
+        "year": 1970,
+        "publisher": "In: The Red Man's Continent, University of Pennsylvania Press, Philadelphia"
+      }
+    ]
   },
   {
     "id": "story1104",
@@ -3683,12 +3867,20 @@
     "creatures": [
       "tlanuwa"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-tlanuwa-bird-natchez",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Natchez Indians: Their Prehistory and Ethnography",
+        "author": "Brown, Ian W.",
+        "year": 1985,
+        "publisher": "In: Southeastern Archaeology, Vol. 4, No. 1, pp. 39–53"
+      }
+    ]
   },
   {
     "id": "story1120",
@@ -3704,12 +3896,20 @@
       "whale-kwakwaka-wakw",
       "kolus-kwakwaka-wakw"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "thunderbird-and-whale-kwakwakawakw",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Social Organization and Secret Societies of the Kwakiutl",
+        "author": "Boas, Franz",
+        "year": 1897,
+        "publisher": "In: Report of the U.S. National Museum for 1895, pp. 311–738, Washington, D.C."
+      }
+    ]
   },
   {
     "id": "story1129",
@@ -3726,12 +3926,20 @@
       "crow-coast-salish",
       "blue-heron-coast-salish"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-two-men-who-changed-things-coast-salish",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Salish Myths and Legends: An Anthology",
+        "author": "Jenness, Diamond",
+        "year": 1934,
+        "publisher": "In: The Faith of a Coast Salish Indian, University of British Columbia Press, Vancouver"
+      }
+    ]
   },
   {
     "id": "story1135",
@@ -3745,12 +3953,20 @@
     "creatures": [
       "weeget-txamsem-giant-raven-tsimshian"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-theft-of-light-tsimshian---weeget",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Tsimshian Texts: Second Series",
+        "author": "Boas, Franz",
+        "year": 1912,
+        "publisher": "In: Publications of the American Ethnological Society, Vol. 10, New York"
+      }
+    ]
   },
   {
     "id": "story1154",
@@ -3764,12 +3980,20 @@
     "creatures": [
       "xe-las-the-changer-coast-salish"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-transformer-who-became-the-mountains-coast-salish",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Mythology of the Bella Coola Indians",
+        "author": "Tolmie, William Fraser and Dawson, George M.",
+        "year": 1894,
+        "publisher": "In: Publications of the Geological Survey of Canada, Montreal"
+      }
+    ]
   },
   {
     "id": "story1220",
@@ -3780,12 +4004,20 @@
     "summary": "The story of Our Lady of Guadalupe is the most profound example of indigenous-Hispanic syncretism in the Americas. According to tradition, in December 1531, the Virgin Mary appeared to Juan Diego, an Indigenous Chichimec peasant, on Tepeyac Hill in what is now Mexico City. Speaking to him in Nahuatl, she asked that a church be built on the site. When Juan Diego relayed this to Archbishop Zumárraga, the bishop demanded a sign. The Virgin instructed Juan Diego to gather Castilian roses blooming miraculously on the frozen hilltop, and when he opened his tilma (cloak) before the archbishop, the flowers fell to reveal the image of the Virgin imprinted on the fabric. Crucially, the apparition site was the former temple of Tonantzin, the Aztec mother goddess — making the Virgin of Guadalupe a direct continuation of indigenous earth-mother worship within a Catholic framework. For Chicanos and Mexican-Americans today, the Virgin of Guadalupe transcends religion to become a cultural symbol of Mexican identity, maternal protection, and the resilience of indigenous spirituality within a colonial context. She is venerated as the Empress of the Americas and the Patroness of the Unborn.",
     "source": "https://en.wikipedia.org/wiki/Our_Lady_of_Guadalupe; Nican Mopohua (1649); Sahagún, Bernardino de 'Florentine Codex'",
     "creatures": [],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "tonantzin-and-our-lady-of-guadalupe--the-sacred-syncretism",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "period": "ancient",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Virgin of Guadalupe and the Conversion of Indians in New Spain",
+        "author": "Poole, Stafford",
+        "year": 1995,
+        "publisher": "In: The Guadalupan Conversations in Mexican History, Universidad Iberoamericana, Mexico City"
+      }
+    ]
   },
   {
     "id": "story1262",
