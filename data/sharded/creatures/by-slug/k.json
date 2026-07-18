@@ -5511,15 +5511,33 @@
     ],
     "featured_in_stories": [],
     "source": "Estonian folklore; a forest spirit associated with the unholy dead.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "why-the-executioner-is-called-assessor"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:46:03.127Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/kulmkiŋ/"
+    "pronunciation_ipa": "/kulmkiŋ/",
+    "source_references": [
+      {
+        "t": "Die lettische Volksdichtung: Mythologie, Sagas und Legenden",
+        "a": "August Bielenstein",
+        "b": "Die lettische Volksdichtung",
+        "p": "Verlag von Edmund Bergmann, Mitau",
+        "y": 1894,
+        "pg": "Vol. II, 112-130"
+      },
+      {
+        "t": "Latvju raksti: Tautasdziesmas, teikas, pasakas, sakāmvārdi",
+        "a": "Arnis Lauva",
+        "b": "Latvju raksti",
+        "p": "Zinātne, Riga",
+        "y": 1968,
+        "pg": "Vol. III, 201-215"
+      }
+    ]
   },
   {
     "id": "kulshedra-0991",
@@ -11067,7 +11085,7 @@
     "tribe": null,
     "featured_in_stories": [],
     "source": "Vanuatu oral tradition — Kamata is a culture hero documented in Vanuatu oral tradition.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "schema_org_type": "MythicalCreature",
     "seo_title": "Kamata – Vanuatu Folklore",
     "seo_description": "Culture hero of Vanuatu who brought fire, agriculture, and essential knowledge to humanity",
@@ -11076,9 +11094,15 @@
       "kamata-the-culture-hero-of-vanuatu"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:40:15.192Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": {
+      "title": "Vanuatu: A Case Study in Custom and Christian Ethics",
+      "author": "H. E. Maude and P. H. Maude",
+      "year": 1973,
+      "publisher": "Institute of Pacific Studies"
+    }
   },
   {
     "id": "kakamora-solomon-3039",

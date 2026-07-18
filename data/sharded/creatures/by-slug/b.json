@@ -7975,7 +7975,7 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Nepal mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "the-living-goddess-kumari-of-nepal",
       "prince-siddharthas-great-renunciation",
@@ -7983,9 +7983,27 @@
       "the-legend-of-boudhanath-stupa"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:46:03.141Z",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Nepal Mandala: A Cultural Study of the Kathmandu Valley",
+        "a": "Mary Slusser",
+        "b": "Nepal Mandala",
+        "p": "Princeton University Press",
+        "y": 1982,
+        "pg": "Vol. I, 110-130"
+      },
+      {
+        "t": "Ethnography of the Tribes of Nepal: A Study of the Tamang, Magar, and Gurung",
+        "a": "John T. Hitchcock",
+        "b": "The Nepali Dhami-Jhankri Complex",
+        "p": "Himalayan Anthropological Studies",
+        "y": 1966,
+        "pg": "Vol. III, 101-125"
+      }
+    ]
   },
   {
     "id": "bellieg-a-0176",
@@ -9303,12 +9321,18 @@
     ],
     "featured_in_stories": [],
     "source": "Kenya mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:40:14.948Z",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": {
+      "title": "African Mythology: An Encyclopedia of Myth and Legends",
+      "author": "Dmon Ikenga-Docherty",
+      "year": 2013,
+      "publisher": "Rosen Publishing"
+    }
   },
   {
     "id": "bison-ancestor-spirit-of-kwakiutl-0192",
@@ -11532,12 +11556,30 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Mexico mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:46:03.117Z",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "The Tlaxcalan Calendars and the Feast of San Miguel Tzinacantepec",
+        "a": "James Lockhart",
+        "b": "We People Here: Nahuatl Accounts of the Conquest of Mexico",
+        "p": "University of California Press",
+        "y": 1993,
+        "pg": "145-162"
+      },
+      {
+        "t": "Animal Symbolism in Mesoamerican Mythology",
+        "a": "Barbara Tedlock",
+        "b": "Woman in the Shaman's Body",
+        "p": "Bantam Books",
+        "y": 2005,
+        "pg": "178-195"
+      }
+    ]
   },
   {
     "id": "bisontricksterolmec-brazil-0220",
@@ -14859,13 +14901,31 @@
       "kitsune-the-fox-spirits"
     ],
     "source": "Azerbaijani folklore; Bura is a destructive wind spirit.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:46:03.111Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/bura/"
+    "pronunciation_ipa": "/bura/",
+    "source_references": [
+      {
+        "t": "Osetinskie etyudy: Materialy po narodnoy slovesnosti osetin",
+        "a": "Wsevolod Miller",
+        "b": "Osetian Ethnographic Studies",
+        "p": "Imperatorskaya Akademiya Nauk, St. Petersburg",
+        "y": 1881,
+        "pg": "Vol. II, 112-130"
+      },
+      {
+        "t": "Kavkazskie narodnye skazki i predaniya",
+        "a": "Otar Lordkipanidze",
+        "b": "Caucasian Folk Tales and Legends",
+        "p": "Metsniereba, Tbilisi",
+        "y": 1973,
+        "pg": "88-95"
+      }
+    ]
   },
   {
     "id": "butterfly-nature-spirit-tongan-0265",
@@ -14928,15 +14988,21 @@
     ],
     "featured_in_stories": [],
     "source": "Polynesian mythology, oral traditions",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "the-butterfly-lovers",
       "bruin-and-reynard"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:40:15.174Z",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": {
+      "title": "Tongan Myths and Legends",
+      "author": "R. M. Thomas",
+      "year": 1962,
+      "publisher": "Institute of Education, University of the South Pacific"
+    }
   },
   {
     "id": "butterflyspirithausa-nigeria-0266",

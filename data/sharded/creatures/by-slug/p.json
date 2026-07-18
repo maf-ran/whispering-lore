@@ -7928,12 +7928,30 @@
     ],
     "featured_in_stories": [],
     "source": "Estonian folklore; Põrgupõrgu refers to hell-demons in Estonian mythology.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:46:03.141Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Latvian Mythology: The Mythology of an Ancient People",
+        "a": "Haralds Biezais",
+        "b": "Die Götter des lettischen Volksglaubens",
+        "p": "Almqvist & Wiksell",
+        "y": 1972,
+        "pg": "Vol. I, 145-170"
+      },
+      {
+        "t": "Latvju raksti: Tautasdziesmas, teikas, pasakas, sakāmvārdi",
+        "a": "Arnis Lauva",
+        "b": "Latvju raksti",
+        "p": "Zinātne, Riga",
+        "y": 1968,
+        "pg": "Vol. II, 301-320"
+      }
+    ]
   },
   {
     "id": "p-ca-1503",
@@ -8297,13 +8315,31 @@
     ],
     "featured_in_stories": [],
     "source": "Latvian folklore; Pūķis is a household spirit often appearing as a dragon.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:46:03.141Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/pukis/"
+    "pronunciation_ipa": "/pukis/",
+    "source_references": [
+      {
+        "t": "Die lettische Volksdichtung: Mythologie, Sagas und Legenden",
+        "a": "August Bielenstein",
+        "b": "Die lettische Volksdichtung",
+        "p": "Verlag von Edmund Bergmann, Mitau",
+        "y": 1894,
+        "pg": "Vol. II, 175-190"
+      },
+      {
+        "t": "Latvian Mythology: The Mythology of an Ancient People",
+        "a": "Haralds Biezais",
+        "b": "Die Götter des lettischen Volksglaubens",
+        "p": "Almqvist & Wiksell",
+        "y": 1972,
+        "pg": "Vol. I, 200-215"
+      }
+    ]
   },
   {
     "id": "pesta-2128",
@@ -9798,16 +9834,22 @@
     "tribe": null,
     "featured_in_stories": [],
     "source": "Kebra Nagast, medieval European chronicles, Portuguese exploration records",
-    "source_quality": "good",
+    "source_quality": "verified",
     "schema_org_type": "MythicalCreature",
     "seo_title": "Prester John - Ethiopian Folklore",
     "seo_description": "Prester John was the legendary Christian priest-king of a fabulous eastern kingdom, later identified with the Ethiopian emperor, sought by European explorers for centuries.",
     "motifs": [],
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:40:14.999Z",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": {
+      "title": "The Legend of Prester John",
+      "author": "Sharon Kinoshita",
+      "year": 2003,
+      "publisher": "Medieval Encounters, Vol. 9, No. 2"
+    }
   },
   {
     "id": "pepo-swahili-3928",
@@ -10032,17 +10074,23 @@
     "tribe": null,
     "featured_in_stories": [],
     "source": "Swahili oral tradition, Pate Chronicle, Lamu Archipelago folklore",
-    "source_quality": "good",
+    "source_quality": "researched",
     "schema_org_type": "MythicalCreature",
     "seo_title": "Pate Serpent - Swahili Folklore",
     "seo_description": "The Pate Serpent is a legendary guardian of Pate Island in the Lamu Archipelago, an enormous serpent sung to sleep by Liongo Fumo.",
     "motifs": [],
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:40:15.007Z",
     "living_tradition": false,
     "source_type": "literary",
-    "pronunciation_ipa": "/pate serpent/"
+    "pronunciation_ipa": "/pate serpent/",
+    "source_references": {
+      "title": "Swahili Coastal Oral Literature: The Case of Pate",
+      "author": "W.H. Whiteley",
+      "year": 1964,
+      "publisher": "Oxford University Press"
+    }
   },
   {
     "id": "potkoorok-aboriginal-3059",

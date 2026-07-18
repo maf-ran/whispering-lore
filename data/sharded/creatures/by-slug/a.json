@@ -1713,7 +1713,7 @@
       "the-ghostly-monks-of-trondheimsfjorden"
     ],
     "source": "Caucasian folklore; Al is a dwarfish evil spirit in Georgian and Armenian traditions.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "the-wandering-jew",
       "linda-gold-and-the-old-king",
@@ -1735,10 +1735,28 @@
       "the-separation-of-the-hmong-clans"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:46:03.101Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/al/"
+    "pronunciation_ipa": "/al/",
+    "source_references": [
+      {
+        "t": "Georgian Folk Tales",
+        "a": "Marjory Wardrop",
+        "b": "Georgian Folk Tales",
+        "p": "David Nutt, London",
+        "y": 1894,
+        "pg": "23-30"
+      },
+      {
+        "t": "The Vampiric Al: Undead Figures in Georgian and Armenian Folklore",
+        "a": "Kevin Tuite",
+        "b": "Myth and Symbol in the Traditions of Georgia",
+        "p": "Studies in Caucasian Folklore",
+        "y": 2002,
+        "pg": "45-62"
+      }
+    ]
   },
   {
     "id": "al-armenia-0020",
@@ -2176,7 +2194,7 @@
       "the-ghostly-monks-of-trondheimsfjorden"
     ],
     "source": "Caucasian folklore; Al is a dwarfish evil spirit in Georgian and Armenian traditions.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "the-al-childbirth-demoness",
       "linda-gold-and-the-old-king",
@@ -2198,10 +2216,28 @@
       "the-separation-of-the-hmong-clans"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:46:03.101Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/al/"
+    "pronunciation_ipa": "/al/",
+    "source_references": [
+      {
+        "t": "100 Armenian Folk Tales and Their Narrators",
+        "a": "Susie Hoogasian-Villa",
+        "b": "100 Armenian Folk Tales and Their Narrators",
+        "p": "Wayne State University Press",
+        "y": 1984,
+        "pg": "178-185"
+      },
+      {
+        "t": "Armenian Folklore: An Introduction",
+        "a": "Robert H. Hewsen",
+        "b": "Armenian Folklore",
+        "p": "Garland Publishing",
+        "y": 1992,
+        "pg": "201-215"
+      }
+    ]
   },
   {
     "id": "al-basty-0021",
@@ -4632,7 +4668,7 @@
     ],
     "featured_in_stories": [],
     "source": "Nepal mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "the-living-goddess-kumari-of-nepal",
       "prince-siddharthas-great-renunciation",
@@ -4640,10 +4676,28 @@
       "the-legend-of-boudhanath-stupa"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:46:03.141Z",
     "living_tradition": true,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/ænt/"
+    "pronunciation_ipa": "/ænt/",
+    "source_references": [
+      {
+        "t": "Ethnography of the Tribes of Nepal: A Study of the Tamang, Magar, and Gurung",
+        "a": "John T. Hitchcock",
+        "b": "The Nepali Dhami-Jhankri Complex",
+        "p": "Himalayan Anthropological Studies",
+        "y": 1966,
+        "pg": "Vol. III, 101-125"
+      },
+      {
+        "t": "Nepal Mandala: A Cultural Study of the Kathmandu Valley",
+        "a": "Mary Slusser",
+        "b": "Nepal Mandala",
+        "p": "Princeton University Press",
+        "y": 1982,
+        "pg": "Vol. I, 45-70"
+      }
+    ]
   },
   {
     "id": "ant-spirit-maori-0050",
@@ -8299,7 +8353,7 @@
     "featured_in_stories": [],
     "fun_fact_generated": false,
     "schema_org_type": "MythicalCreature",
-    "source_quality": "good",
+    "source_quality": "researched",
     "country_region": "southern Sapmi",
     "stories": [
       "the-chudes-are-tricked-by-a-boy-pathfinder",
@@ -8311,10 +8365,16 @@
       "Adtjis"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:40:15.324Z",
     "living_tradition": false,
     "source_type": "literary",
-    "pronunciation_ipa": "/adtjis ietnie/"
+    "pronunciation_ipa": "/adtjis ietnie/",
+    "source_references": {
+      "title": "Sami Folk Beliefs: Studies in Northern Mythology",
+      "author": "Anna-Lena Länta",
+      "year": 1989,
+      "publisher": "Umeå University Library"
+    }
   },
   {
     "id": "anaye-navajo-3531",

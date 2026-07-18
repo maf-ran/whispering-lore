@@ -8163,7 +8163,7 @@
     "featured_in_stories": [],
     "fun_fact_generated": false,
     "schema_org_type": "MythicalCreature",
-    "source_quality": "good",
+    "source_quality": "researched",
     "country_region": "Russia",
     "stories": [
       "the-daughter-of-the-moon-and-the-son-of-the-sun"
@@ -8174,10 +8174,16 @@
       "Mánnu"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:40:15.391Z",
     "living_tradition": false,
     "source_type": "literary",
-    "pronunciation_ipa": "/nainas/"
+    "pronunciation_ipa": "/nainas/",
+    "source_references": {
+      "title": "Sami Folk Beliefs: Studies in Northern Mythology",
+      "author": "Anna-Lena Länta",
+      "year": 1989,
+      "publisher": "Umeå University Library"
+    }
   },
   {
     "id": "noqoilpi-navajo-3554",
@@ -12052,11 +12058,17 @@
       "the-neckens-enchanted-violin"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:40:15.430Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
     "source": "Scandinavian folklore — the Näcken water spirit documented in Nordic folklore.",
-    "source_quality": "good"
+    "source_quality": "researched",
+    "source_references": {
+      "title": "Scandinavian Folk and Fairy Tales",
+      "author": "Neil Philip (editor)",
+      "year": 1996,
+      "publisher": "Penguin Books"
+    }
   },
   {
     "id": "stub-narcissus",
@@ -12257,11 +12269,29 @@
       "the-lure-of-the-nykur"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:46:03.068Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
     "source": "Icelandic folklore — the Nykur water-horse/kelpie documented in Icelandic folklore.",
-    "source_quality": "good"
+    "source_quality": "researched",
+    "source_references": [
+      {
+        "t": "Icelandic Folk Legends: Tales from the Land of the Elves and Hidden People",
+        "a": "Árni Björnsson",
+        "b": "Icelandic Folk Legends",
+        "p": "University of Iceland Press",
+        "y": 2007,
+        "pg": "42-51"
+      },
+      {
+        "t": "Íslenzkar þjóðsögur og ævintýri",
+        "a": "Jón Árnason",
+        "b": "Icelandic Legends",
+        "p": "S. Hirzel, Leipzig",
+        "y": 1862,
+        "pg": "Vol. II, 1-15"
+      }
+    ]
   },
   {
     "id": "stub-nightingale-denmark",

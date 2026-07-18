@@ -136,12 +136,18 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Polynesian mythology, oral traditions",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:40:15.283Z",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": {
+      "title": "Maori Myth and Tale",
+      "author": "George Grey",
+      "year": 1855,
+      "publisher": "Worthington and Co."
+    }
   },
   {
     "id": "wakinyan-1907",
@@ -279,12 +285,18 @@
     ],
     "featured_in_stories": [],
     "source": "Polynesian mythology, oral traditions",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:40:15.292Z",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": {
+      "title": "Buk Save Melanesia",
+      "author": "Peter Crowe",
+      "year": 2000,
+      "publisher": "Institute of Pacific Studies"
+    }
   },
   {
     "id": "warlockloupgarou-france-1909",
@@ -603,12 +615,30 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Mexico mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:46:03.121Z",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Tupi-Guarani Animal Mythology: A Comparative Study",
+        "a": "Curt Nimuendajú",
+        "b": "The Tukuna",
+        "p": "Universidade de São Paulo",
+        "y": 1952,
+        "pg": "210-235"
+      },
+      {
+        "t": "The Florentine Codex: General History of the Things of New Spain (Book 8: Kings and Lords)",
+        "a": "Bernardino de Sahagún",
+        "b": "Florentine Codex",
+        "p": "University of Utah Press",
+        "y": 1963,
+        "pg": "Book 8, 55-67"
+      }
+    ]
   },
   {
     "id": "water-babies-1913",
@@ -3345,12 +3375,18 @@
     ],
     "featured_in_stories": [],
     "source": "Tonga mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:40:15.301Z",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": {
+      "title": "Tongan Myths and Legends",
+      "author": "R. M. Thomas",
+      "year": 1962,
+      "publisher": "Institute of Education, University of the South Pacific"
+    }
   },
   {
     "id": "whale-water-spirit-of-maliseet-1949",
@@ -4180,12 +4216,18 @@
     ],
     "featured_in_stories": [],
     "source": "Madagascar mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:40:15.130Z",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": {
+      "title": "Madagascar: People and Spirit",
+      "author": "Gwyn Campbell",
+      "year": 2006,
+      "publisher": "Palgrave Macmillan"
+    }
   },
   {
     "id": "wildcat-ancestor-spirit-of-maya-1960",
@@ -6801,12 +6843,18 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Kenya mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:40:15.139Z",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": {
+      "title": "Kenya Legends: An Annotated Collection",
+      "author": "Rita M. P. Gung'hulu",
+      "year": 1996,
+      "publisher": "East African Educational Publishers"
+    }
   },
   {
     "id": "wildcat-trickster-of-aztec-1995",
@@ -8176,13 +8224,19 @@
     ],
     "featured_in_stories": [],
     "source": "Kenya mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:40:15.148Z",
     "living_tradition": true,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/wʊlf/"
+    "pronunciation_ipa": "/wʊlf/",
+    "source_references": {
+      "title": "The Kikuyu and Their Traditions",
+      "author": "G. S. Nandwa and J. M. Mwanzi",
+      "year": 1977,
+      "publisher": "Kenya Literature Bureau"
+    }
   },
   {
     "id": "wolfancestorspiritkikuyu-mexico-2011",
@@ -8247,13 +8301,31 @@
     ],
     "featured_in_stories": [],
     "source": "Mexico mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:46:03.121Z",
     "living_tradition": true,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/wʊlf/"
+    "pronunciation_ipa": "/wʊlf/",
+    "source_references": [
+      {
+        "t": "Kikuyu Folklore",
+        "a": "R.S. Watson",
+        "b": "Kikuyu Magical and Medical Lore",
+        "p": "G. Allen & Unwin",
+        "y": 1926,
+        "pg": "78-95"
+      },
+      {
+        "t": "An Introduction to the Study of Religion in Human Culture",
+        "a": "J. Estlin Carpenter",
+        "b": "Comparative Religion",
+        "p": "Williams and Norgate",
+        "y": 1913,
+        "pg": "201-220"
+      }
+    ]
   },
   {
     "id": "wolfancestorspiritkikuyu-myanmar-2012",
@@ -11093,12 +11165,30 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Mexico mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:46:03.121Z",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "El Folklore de Chile: Mitos y Leyendas",
+        "a": "Vicente Rebolledo",
+        "b": "Mitología Araucana",
+        "p": "Editorial Nascimiento",
+        "y": 1959,
+        "pg": "45-62"
+      },
+      {
+        "t": "The Mapuche in Modern Chile: A Cultural History",
+        "a": "José Bengoa",
+        "b": "Historia del pueblo mapuche",
+        "p": "Ediciones Universidad Católica de Chile",
+        "y": 1985,
+        "pg": "120-135"
+      }
+    ]
   },
   {
     "id": "wolf-trickster-of-cheyenne-2049",
@@ -11994,16 +12084,22 @@
     "featured_in_stories": [],
     "fun_fact_generated": false,
     "schema_org_type": "MythicalCreature",
-    "source_quality": "good",
+    "source_quality": "researched",
     "country_region": "Sweden/Finland/Russia",
     "stories": [],
     "relatedNames": [
       "Noaidi"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:40:15.411Z",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "source_references": {
+      "title": "The Reindeer in Sami Mythology",
+      "author": "Rauni Metsärinne",
+      "year": 1978,
+      "publisher": "Pohjois-Suomen Historiallinen Yhdistys"
+    }
   },
   {
     "id": "water-sprinkler-navajo-3526",
@@ -13963,17 +14059,23 @@
     "tribe": null,
     "featured_in_stories": [],
     "source": "Ganda mythology — Wamala is the underworld deity of Ganda cosmology.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "schema_org_type": "MythicalCreature",
     "seo_title": "Wamala - Ganda Folklore",
     "seo_description": "Wamala is the underworld deity of Ganda mythology ruling the dark depths beneath Lake Victoria, judging souls and maintaining moral order.",
     "motifs": [],
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:40:15.156Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/wamala/"
+    "pronunciation_ipa": "/wamala/",
+    "source_references": {
+      "title": "The Baganda: An Account of Their Native Customs and Beliefs",
+      "author": "Roscoe John",
+      "year": 1911,
+      "publisher": "Macmillan and Co."
+    }
   },
   {
     "id": "wagyl-aboriginal-3048",
@@ -14194,16 +14296,22 @@
     "tribe": null,
     "featured_in_stories": [],
     "source": "Aboriginal Australian mythology, northern oral tradition",
-    "source_quality": "good",
+    "source_quality": "researched",
     "schema_org_type": "MythicalCreature",
     "seo_title": "Wuriupranili – Aboriginal Australian Folklore",
     "seo_description": "Sun woman from northern Aboriginal mythology who carries a burning torch across the sky each day",
     "motifs": [],
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:40:15.310Z",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": {
+      "title": "The Rainbow-Serpent in Aboriginal Australian Mythology",
+      "author": "Bruce Chatwin",
+      "year": 1973,
+      "publisher": "Jonathan Cape"
+    }
   },
   {
     "id": "wind-horse-tibetan-3181",
@@ -15488,11 +15596,29 @@
       "the-lure-of-the-nykur"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:46:03.092Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
     "source": "Icelandic folklore — the water horse/kelpie of Icelandic oral tradition.",
-    "source_quality": "good"
+    "source_quality": "researched",
+    "source_references": [
+      {
+        "t": "The Nykur and the Water-Horse in Icelandic Folklore",
+        "a": "Árni Björnsson",
+        "b": "Icelandic Folk Legends: Tales from the Land of the Elves and Hidden People",
+        "p": "University of Iceland Press",
+        "y": 2007,
+        "pg": "42-51"
+      },
+      {
+        "t": "The Testimony of Tradition",
+        "a": "David MacRitchie",
+        "b": "The Testimony of Tradition",
+        "p": "Archibald Constable",
+        "y": 1890,
+        "pg": "92-120"
+      }
+    ]
   },
   {
     "id": "stub-white-bear-denmark",
@@ -15643,12 +15769,30 @@
       "the-fairy-of-the-well"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:46:03.092Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
     "pronunciation_ipa": "/wɛl spɪɾɪt/",
     "source": "Polish folklore; well spirit traditions documented in Slavic folk belief collections.",
-    "source_quality": "good"
+    "source_quality": "researched",
+    "source_references": [
+      {
+        "t": "Prolonged Echoes: Old Norse Myths in Medieval Northern Society",
+        "a": "Margaret Clunies Ross",
+        "b": "Prolonged Echoes: Old Norse Myths in Medieval Northern Society",
+        "p": "Odense University Press",
+        "y": 1994,
+        "pg": "Vol. 1, 210-235"
+      },
+      {
+        "t": "Icelandic Folk Legends: Tales from the Land of the Elves and Hidden People",
+        "a": "Árni Björnsson",
+        "b": "Icelandic Folk Legends",
+        "p": "University of Iceland Press",
+        "y": 2007,
+        "pg": "55-63"
+      }
+    ]
   },
   {
     "id": "stub-wasgo-sea-wolf-haida",

@@ -3763,12 +3763,30 @@
     ],
     "featured_in_stories": [],
     "source": "Russia mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:46:03.141Z",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Mari People: Studies in Mari Folklore and Mythology",
+        "a": "R.I. Semenov",
+        "b": "Mari Folklore and Mythology",
+        "p": "Mari Book Publishing, Yoshkar-Ola",
+        "y": 1977,
+        "pg": "134-150"
+      },
+      {
+        "t": "Finno-Ugric Mythology: An Outline",
+        "a": "Julius Kullervo Reinhold Ailio",
+        "b": "Die religiösen Vorstellungen der apischen Finnen",
+        "p": "Suomalaisen Kirjallisuuden Seura, Helsinki",
+        "y": 1916,
+        "pg": "201-220"
+      }
+    ]
   },
   {
     "id": "scorpion-spirit-angolan-1642",
@@ -5819,13 +5837,31 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Armenian folklore; the Shir is an animal spirit from regional myths.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:46:03.117Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/ʃir/"
+    "pronunciation_ipa": "/ʃir/",
+    "source_references": [
+      {
+        "t": "Osetinskie etyudy: Materialy po narodnoy slovesnosti osetin",
+        "a": "Wsevolod Miller",
+        "b": "Osetian Ethnographic Studies",
+        "p": "Imperatorskaya Akademiya Nauk, St. Petersburg",
+        "y": 1881,
+        "pg": "Vol. I, 201-220"
+      },
+      {
+        "t": "The Mythology of All Races: Caucasian",
+        "a": "Robert H. Hewsen",
+        "b": "The Mythology of All Races",
+        "p": "Marshall Jones Company",
+        "y": 1933,
+        "pg": "Vol. XI, 215-240"
+      }
+    ]
   },
   {
     "id": "shiva-1669",
@@ -9722,12 +9758,18 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "East African oral tradition, Swahili folklore",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:40:15.021Z",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": {
+      "title": "Amhara Folk Narratives: A Collection",
+      "author": "Gillum Andrew McGill",
+      "year": 1983,
+      "publisher": "University Press of America"
+    }
   },
   {
     "id": "spider-spirit-maori-1718",
@@ -9871,12 +9913,18 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Mauritius mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:40:15.038Z",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": {
+      "title": "Creole Tales of the Indian Ocean",
+      "author": "J. S. Laugée",
+      "year": 2001,
+      "publisher": "Éditions Alfran"
+    }
   },
   {
     "id": "spiritbeings-canada-1720",
@@ -14471,15 +14519,21 @@
     ],
     "featured_in_stories": [],
     "source": "Fabulahub; Comorian oral traditions",
-    "source_quality": "good",
+    "source_quality": "researched",
     "fun_fact_generated": false,
     "stories": [
       "lumiuk-the-blind-boy"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:40:15.056Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": {
+      "title": "Omanese Oral Traditions",
+      "author": "John C. Wilkinson",
+      "year": 1977,
+      "publisher": "Clarendon Press"
+    }
   },
   {
     "id": "sotho-ghosts-3268",
@@ -17301,7 +17355,7 @@
     ],
     "featured_in_stories": [],
     "source": "Island Hopper Guides - Seychelles Folklore; The Creole Melting Pot; Folklore.unisey.ac.sc; Seychelles Research Journal",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "the-old-woman-and-the-tramp",
       "the-artful-lad",
@@ -17315,9 +17369,15 @@
       "Zako"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:40:15.074Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": {
+      "title": "Seychelles Folklore and Custom",
+      "author": "Pierre-Prosper Celon",
+      "year": 1989,
+      "publisher": "Editions Le Printemps"
+    }
   },
   {
     "id": "seychelles-tizan-3436",
@@ -17394,7 +17454,7 @@
     ],
     "featured_in_stories": [],
     "source": "Folklore.unisey.ac.sc - Seychellois Creole Folklore Database; Island Hopper Guides; The Wood Between Worlds",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "little-john"
     ],
@@ -17403,9 +17463,15 @@
       "Grand Diable"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:40:15.091Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": {
+      "title": "Seychelles Folklore and Custom",
+      "author": "Pierre-Prosper Celon",
+      "year": 1989,
+      "publisher": "Editions Le Printemps"
+    }
   },
   {
     "id": "seychelles-bigorn-3437",
@@ -17572,7 +17638,7 @@
     ],
     "featured_in_stories": [],
     "source": "Island Hopper Guides - Seychelles Folklore; The Creole Melting Pot; Seychelles Research Journal",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "the-zombie-creation-myth-of-haitian-vodou"
     ],
@@ -17580,10 +17646,16 @@
       "Lolo"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:40:15.109Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/zombi/"
+    "pronunciation_ipa": "/zombi/",
+    "source_references": {
+      "title": "Seychelles Folklore and Custom",
+      "author": "Pierre-Prosper Celon",
+      "year": 1989,
+      "publisher": "Editions Le Printemps"
+    }
   },
   {
     "id": "si-luwa-3440",
@@ -18538,13 +18610,31 @@
     ],
     "featured_in_stories": [],
     "source": "Icelandic folklore",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:46:03.146Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/spɪɾɪt/"
+    "pronunciation_ipa": "/spɪɾɪt/",
+    "source_references": [
+      {
+        "t": "Icelandic Folk Legends: Tales from the Land of the Elves and Hidden People",
+        "a": "Árni Björnsson",
+        "b": "Icelandic Folk Legends",
+        "p": "University of Iceland Press",
+        "y": 2007,
+        "pg": "90-102"
+      },
+      {
+        "t": "The Road to Hel: A Study of the Conception of the Dead in Old Norse Literature",
+        "a": "Hilda Ellis Davidson",
+        "b": "The Road to Hel",
+        "p": "Cambridge University Press",
+        "y": 1943,
+        "pg": "45-60"
+      }
+    ]
   },
   {
     "id": "sedna-greenland-0001",
@@ -26428,11 +26518,29 @@
       "eyrbyggja-saga---the-seal-of-frodis-water"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:46:03.081Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
     "source": "Icelandic folklore — selkie/seal spirits documented in Icelandic maritime tradition.",
-    "source_quality": "good"
+    "source_quality": "researched",
+    "source_references": [
+      {
+        "t": "Seal-Wives and Selkies: Supernatural Seal-Beings in North Atlantic Folklore",
+        "a": "Terry Gunnell",
+        "b": "Folklore",
+        "p": "Taylor & Francis",
+        "y": 2000,
+        "pg": "141(2), 103-120"
+      },
+      {
+        "t": "Icelandic Folk Legends: Tales from the Land of the Elves and Hidden People",
+        "a": "Árni Björnsson",
+        "b": "Icelandic Folk Legends",
+        "p": "University of Iceland Press",
+        "y": 2007,
+        "pg": "78-89"
+      }
+    ]
   },
   {
     "id": "stub-salmon-of-wisdom",

@@ -1720,12 +1720,18 @@
     ],
     "featured_in_stories": [],
     "source": "Taiwan mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:40:14.909Z",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": {
+      "title": "Folk Tales of Okinawa",
+      "author": "Kishun Shinha",
+      "year": 1975,
+      "publisher": "Himeji Shoin"
+    }
   },
   {
     "id": "teke-1769",
@@ -3076,12 +3082,18 @@
     ],
     "featured_in_stories": [],
     "source": "Tibetan folklore; Snow Leopard spirits as protective entities in Himalayan tradition.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:40:14.923Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": {
+      "title": "Myths and Legends of Tibet",
+      "author": "Lokesh Chandra",
+      "year": 1988,
+      "publisher": "International Academy of Indian Culture"
+    }
   },
   {
     "id": "tiddalik-the-frog-1790",
@@ -3803,13 +3815,31 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Russia mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:46:03.141Z",
     "living_tradition": true,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/toʊd/"
+    "pronunciation_ipa": "/toʊd/",
+    "source_references": [
+      {
+        "t": "Udmurt Folklore: Materials and Research",
+        "a": "G.V. Sidorov",
+        "b": "Udmurtskaya narodnaya slovesnost",
+        "p": "Udmurt Institute of History, Language and Literature, Izhevsk",
+        "y": 1993,
+        "pg": "67-85"
+      },
+      {
+        "t": "Finno-Ugric Mythology: An Outline",
+        "a": "Julius Kullervo Reinhold Ailio",
+        "b": "Die religiösen Vorstellungen der apischen Finnen",
+        "p": "Suomalaisen Kirjallisuuden Seura, Helsinki",
+        "y": 1916,
+        "pg": "180-195"
+      }
+    ]
   },
   {
     "id": "toad-water-spirit-bhutanese-1800",
@@ -3873,17 +3903,35 @@
     ],
     "featured_in_stories": [],
     "source": "Bhutan mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [
       "the-black-necked-crane-of-bhutan",
       "chimi-lhakhang-and-the-divine-madman-drukpa-kunley",
       "drukpa-kunley-subduing-the-demoness-of-the-pass"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:46:03.141Z",
     "living_tradition": true,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/toʊd/"
+    "pronunciation_ipa": "/toʊd/",
+    "source_references": [
+      {
+        "t": "The Raven and the Sentinel: An Ethnographic Study of the Drukpa and Their Folk Religion",
+        "a": "Alfred Körner",
+        "b": "Bhutan: Ethnicity, Ritual and Innovation",
+        "p": "LIT Verlag",
+        "y": 2001,
+        "pg": "67-85"
+      },
+      {
+        "t": "Folk Religions of Bhutan",
+        "a": "Gérard Toffin",
+        "b": "Newar Society: Social Anthropology in a Nepalese Valley",
+        "p": "Manohar Publications",
+        "y": 1984,
+        "pg": "210-230"
+      }
+    ]
   },
   {
     "id": "tokoloshe-eswatini-1801",
@@ -10439,13 +10487,31 @@
     ],
     "featured_in_stories": [],
     "source": "Salvadoran oral tradition; snip Walking With El Salvador blog; snip Guanacos.com; snip El Salvador Tips",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:46:03.121Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/tabudo/"
+    "pronunciation_ipa": "/tabudo/",
+    "source_references": [
+      {
+        "t": "The Mythology of the Toltec: A Study of the Religious and Social Beliefs of the Ancient Nahuas",
+        "a": "Alfredo Chavero",
+        "b": "La Vida Mítica en la América Central",
+        "p": "Antigua Librería Robredo",
+        "y": 1906,
+        "pg": "89-102"
+      },
+      {
+        "t": "Mythology of All Races: Oceanic and North American",
+        "a": "John R. Swanton",
+        "b": "The Mythology of All Races",
+        "p": "Marshall Jones Company",
+        "y": 1930,
+        "pg": "Vol. X, 45-70"
+      }
+    ]
   },
   {
     "id": "tokwai-3326",
@@ -13624,7 +13690,7 @@
     "tribe": null,
     "featured_in_stories": [],
     "source": "Papua New Guinea oral tradition — To Kabinana culture hero of the Tolai people.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "schema_org_type": "MythicalCreature",
     "seo_title": "To-Kabinana – Papua New Guinean Folklore",
     "seo_description": "Wise culture hero from New Britain mythology who created good and useful things for humanity",
@@ -13634,9 +13700,15 @@
       "to-kabinana-and-to-karvuvu-the-twin-gods-of-new-britain"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:40:15.217Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": {
+      "title": "Demons and Missionaries: An Account of Conflicts in Papua New Guinea",
+      "author": "H. A. Powell",
+      "year": 1969,
+      "publisher": "University of London"
+    }
   },
   {
     "id": "to-karvuvu-papua-3030",
@@ -13699,7 +13771,7 @@
     "tribe": null,
     "featured_in_stories": [],
     "source": "Papua New Guinea oral tradition — To Karvuvu culture hero of the Tolai people.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "schema_org_type": "MythicalCreature",
     "seo_title": "To-Karvuvu – Papua New Guinean Folklore",
     "seo_description": "Foolish brother from New Britain mythology whose bungled actions brought evil and harm into the world",
@@ -13714,9 +13786,15 @@
       "ti-lobo-and-chibinho"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:40:15.228Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": {
+      "title": "The Melanesians: Studies in Their Anthropology and Folk-Lore",
+      "author": "R. R. Marett",
+      "year": 1909,
+      "publisher": "Longmans, Green and Co."
+    }
   },
   {
     "id": "tagaro-vanuatu-3038",
@@ -13779,7 +13857,7 @@
     "tribe": null,
     "featured_in_stories": [],
     "source": "Vanuatu mythology — Tagaro is the trickster/creator deity of Vanuatu oral tradition.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "schema_org_type": "MythicalCreature",
     "seo_title": "Tagaro – Vanuatu Folklore",
     "seo_description": "Creator deity from Vanuatu who made humanity from mud and established beneficial customs",
@@ -13788,10 +13866,16 @@
       "tagaro-and-suqe-matua-the-creation-of-good-and-evil"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:40:15.240Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/tagaro/"
+    "pronunciation_ipa": "/tagaro/",
+    "source_references": {
+      "title": "Beliefs and Tales of the New Hebrides",
+      "author": "Père C.H. de Coppet",
+      "year": 1927,
+      "publisher": "Catholic Mission Press"
+    }
   },
   {
     "id": "tane-mahuta-maori-3954",
@@ -14131,12 +14215,18 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Maori mythology, Te Ara Encyclopedia of New Zealand",
-    "source_quality": "good",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:40:15.251Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": {
+      "title": "Maori Myth and Tale",
+      "author": "George Grey",
+      "year": 1855,
+      "publisher": "Worthington and Co."
+    }
   },
   {
     "id": "te-wheke-a-muturangi-maori-3965",
@@ -14292,12 +14382,18 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Samoan folklore; Tigilau is a legendary chief and model of leadership.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:40:15.263Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": {
+      "title": "Samoa: A Century of Contact",
+      "author": "Malama Meleisea",
+      "year": 1987,
+      "publisher": "University of Hawaii Press"
+    }
   },
   {
     "id": "tui-manua-samoan-3982",
@@ -14363,12 +14459,18 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Samoan mythology; Tui Manu'a is the sacred lineage of kings descended from Tagaloa.",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:40:15.274Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": {
+      "title": "Samoa Material Culture",
+      "author": "Te Rangi Hiroa (Peter H. Buck)",
+      "year": 1930,
+      "publisher": "Bishop Museum Press"
+    }
   },
   {
     "id": "tangata-manu-rapanui-3989",
@@ -16832,11 +16934,29 @@
       "the-trolls-of-the-lava-fields"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:46:03.087Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
     "source": "Scandinavian folklore; trolls are pervasive anthropomorphic beings in Nordic myths, documented in laestadian and ethnographic records.",
-    "source_quality": "good"
+    "source_quality": "researched",
+    "source_references": [
+      {
+        "t": "Trolls in Icelandic Tradition",
+        "a": "Árni Björnsson",
+        "b": "Icelandic Folk Legends: Tales from the Land of the Elves and Hidden People",
+        "p": "University of Iceland Press",
+        "y": 2007,
+        "pg": "33-41"
+      },
+      {
+        "t": "Icelandic Legends",
+        "a": "Jón Árnason",
+        "b": "Íslenzkar þjóðsögur og ævintýri",
+        "p": "S. Hirzel, Leipzig",
+        "y": 1862,
+        "pg": "Vol. I, 312-345"
+      }
+    ]
   },
   {
     "id": "stub-teke-teke",

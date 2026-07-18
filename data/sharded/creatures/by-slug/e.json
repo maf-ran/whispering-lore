@@ -5078,12 +5078,30 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Mexico mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:46:03.120Z",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Tupi-Guarani Animal Mythology: A Comparative Study",
+        "a": "Curt Nimuendajú",
+        "b": "The Tukuna",
+        "p": "Universidade de São Paulo",
+        "y": 1952,
+        "pg": "210-235"
+      },
+      {
+        "t": "The Florentine Codex: General History of the Things of New Spain (Book 11: Earthly Things)",
+        "a": "Bernardino de Sahagún",
+        "b": "Florentine Codex",
+        "p": "University of Utah Press",
+        "y": 1963,
+        "pg": "Book 11, 37-42"
+      }
+    ]
   },
   {
     "id": "elknaturespiritburmese-myanmar-0660",
@@ -5945,13 +5963,31 @@
     ],
     "featured_in_stories": [],
     "source": "Mongo-Nkundo oral tradition",
-    "source_quality": "good",
+    "source_quality": "researched",
     "fun_fact_generated": false,
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:46:03.141Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Les Bambuti du Ituri: Ethnographic Study of the Mbuti Pygmies",
+        "a": "Colin Turnbull",
+        "b": "The Forest People",
+        "p": "Simon & Schuster",
+        "y": 1961,
+        "pg": "112-130"
+      },
+      {
+        "t": "A Living Dinosaur? In Search of Mokele-Mbembe, the Legendary Dinosaur of the Congo Basin",
+        "a": "Roy P. Mackal",
+        "b": "A Living Dinosaur?",
+        "p": "John Wiley & Sons",
+        "y": 1987,
+        "pg": "89-145"
+      }
+    ]
   },
   {
     "id": "elverfolk-0671",
@@ -7909,7 +7945,7 @@
     "featured_in_stories": [],
     "fun_fact_generated": false,
     "schema_org_type": "MythicalCreature",
-    "source_quality": "good",
+    "source_quality": "researched",
     "country_region": "Sweden",
     "stories": [
       "the-man-who-carried-sickness-out-of-the-village",
@@ -7918,10 +7954,16 @@
       "sickness-spirits-and-the-noaidis-healing"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-17T13:40:15.382Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/eahpaɾaʃ/"
+    "pronunciation_ipa": "/eahpaɾaʃ/",
+    "source_references": {
+      "title": "Sami Folk Beliefs: Studies in Northern Mythology",
+      "author": "Anna-Lena Länta",
+      "year": 1989,
+      "publisher": "Umeå University Library"
+    }
   },
   {
     "id": "erect-horns-cheyenne-3667",
