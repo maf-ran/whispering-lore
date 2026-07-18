@@ -20,6 +20,17 @@
 
 ## CRITICAL
 
+### S1: Story Source Quality — 1,697 stories (98.7%) below Stage 3+
+- **Scope:** 795 fair + 570 unknown + 332 good = 1,697 stories without academic source references.
+- **Impact:** Blocks 100% combined Stage 3+ coverage (currently 68.4%).
+- **Plan:** See `docs/story-upgrade-plan.md` for detailed implementation.
+- [ ] Phase 1: Classify 570 unknown stories by source_type (literary→good, oral_tradition→fair)
+- [ ] Phase 2: Generate batch slug files grouped by region (~34 batches × 50 stories)
+- [ ] Phase 3: Upgrade story batches with academic sources (parallel execution, 4 batches at a time)
+- [ ] Phase 4: Update methodology.html to 100%
+- [ ] Phase 5: Update todos.md and project memory
+- [ ] Verify: 106/106 Jest tests pass
+
 ### C1: stories.json — 931 stories (54.2%) have empty full_text
 - **Scope:** 931 of 1,719 stories have `full_text: null`. Every one has a non-empty `summary` (avg 819 chars).
 - **Root cause:** Single batch import on 2026-07-05 added stories with summaries only; full_text enrichment never ran.
