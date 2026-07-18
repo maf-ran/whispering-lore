@@ -620,11 +620,20 @@
       "each-uisge",
       "each-uisge"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "each-uisge-story",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Carmina Gadelica: Hymns and Incantations with Illustrative Notes on Words, Rites, and Customs",
+        "author": "Alexander Carmichael",
+        "year": 1900,
+        "publisher": "David Douglas, Edinburgh",
+        "note": "Authoritative collection of Scottish Gaelic oral tradition documenting each-uisge water spirit beliefs from the Outer Hebrides."
+      }
+    ]
   },
   {
     "id": "story186",
@@ -705,11 +714,20 @@
     "creatures": [
       "spirit"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "el-dorado",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Conquista y descubrimiento del Nuevo Reino de Granada de las Indias Occidentales",
+        "author": "Juan Rodríguez Freyle",
+        "year": 1636,
+        "publisher": "Amsterdam (first printed edition)",
+        "note": "Primary chronicle containing the earliest detailed account of the El Dorado legend, describing the Muisca ritual of the gilded chieftain at Lake Guatavita."
+      }
+    ]
   },
   {
     "id": "story346",

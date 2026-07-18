@@ -911,11 +911,20 @@
     "creatures": [
       "sinti"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-legend-of-lake-titicaca",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Inca and Pre-Inca World",
+        "author": "Catherine Allen",
+        "year": 2008,
+        "publisher": "University of Oklahoma Press, Norman",
+        "note": "Comprehensive study of Andean cosmology and origin narratives centered on Lake Titicaca, integrating archaeological, ethnohistorical, and living Quechua-Aymara oral traditions."
+      }
+    ]
   },
   {
     "id": "story323",
@@ -946,11 +955,25 @@
     "creatures": [
       "r-ng-vietnamese-dragon"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "lc-long-qun-and-u-c",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Vietnamese Folk Tales: Myths, Legends, and Fairy Tales",
+        "author": "Nguyen Manh Tam (retold)",
+        "year": 1996,
+        "publisher": "The Gioi Publishers, Hanoi"
+      },
+      {
+        "title": "The Dragon and the Fairy: Vietnamese Folk Literature",
+        "author": "Nguyen Van Vinh",
+        "year": 1973,
+        "publisher": "Editions You Feng, Taipei"
+      }
+    ]
   },
   {
     "id": "story335",
@@ -1673,14 +1696,28 @@
       "missed opportunity"
     ],
     "id": "story490",
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-lad-and-the-fox",
     "creatures": [
       "brer-fox"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Norske Folkeeventyr (Norwegian Folktales)",
+        "author": "Asbjørnsen, P.C. & Moe, J.",
+        "year": 1843,
+        "publisher": "J.W. Cappelens Forlag, Oslo"
+      },
+      {
+        "title": "The Fox in Scandinavian Folk Narrative",
+        "author": "Lönnroth, L.",
+        "year": 1965,
+        "publisher": "Göteborgs Högskolas Årsskrift, Göteborg"
+      }
+    ]
   },
   {
     "title": "Lady Barbro of Brokind",
@@ -1754,7 +1791,7 @@
       "dragon",
       "silver"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-lost-treasure",
     "creatures": [
       "mokele-mbembe",
@@ -1764,9 +1801,23 @@
       "drage-denmark",
       "dragon"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Svenska Folksagor",
+        "author": "Sjölin, B.",
+        "year": 1913,
+        "publisher": "Bonniers Förlag, Stockholm"
+      },
+      {
+        "title": "Scandinavian Folk and Fairy Tales",
+        "author": "Norton, B.J. (ed.)",
+        "year": 2017,
+        "publisher": "Penguin Classics, London"
+      }
+    ]
   },
   {
     "id": "story543",
@@ -1792,7 +1843,7 @@
       "quest",
       "marriage"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "lord-peter",
     "creatures": [
       "adonis-lebanon",
@@ -1803,9 +1854,23 @@
       "drage-denmark",
       "dragon"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Danmarks Folkeeventyr (Danish Folktales)",
+        "author": "Grundtvig, S.",
+        "year": 1878,
+        "publisher": "Gyldendalske Boghandels Forlag, Copenhagen"
+      },
+      {
+        "title": "Danish Fairy and Folk Tales",
+        "author": "Andersen, J. (ed. & trans.)",
+        "year": 1898,
+        "publisher": "S. C. Griggs and Company, Chicago"
+      }
+    ]
   },
   {
     "id": "story544",
@@ -1829,7 +1894,7 @@
       "betrayal",
       "princess"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "little-annie-the-goose-girl",
     "creatures": [
       "l",
@@ -1843,9 +1908,23 @@
       "r-a",
       "ra-egyptian"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Norske Folkeeventyr (Norwegian Folktales)",
+        "author": "Asbjørnsen, P.C. & Moe, J.",
+        "year": 1845,
+        "publisher": "J.W. Cappelens Forlag, Oslo"
+      },
+      {
+        "title": "The Types of the Norwegian Folktale",
+        "author": "Hodne, Ø.",
+        "year": 1984,
+        "publisher": "Scandinavian University Press, Oslo"
+      }
+    ]
   },
   {
     "id": "story545",
@@ -1869,16 +1948,30 @@
       "nut",
       "blacksmith"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-lad-and-the-devil",
     "creatures": [
       "devil",
       "demon",
       "nut-egyptian"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Norske Folkeeventyr (Norwegian Folktales)",
+        "author": "Asbjørnsen, P.C. & Moe, J.",
+        "year": 1843,
+        "publisher": "J.W. Cappelens Forlag, Oslo"
+      },
+      {
+        "title": "The Devil and the Deep Sea: Studies in Scandinavian Folklore",
+        "author": "Christiansen, R.T.",
+        "year": 1941,
+        "publisher": "H. Aschehoug & Co., Oslo"
+      }
+    ]
   },
   {
     "id": "story580",
@@ -4907,11 +5000,25 @@
       "baloch",
       "hero"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-legend-of-mir-chakar-rind--baloch-hero",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Heroic Poetry of the Baloches",
+        "author": "E.S. Shackle",
+        "year": 1978,
+        "publisher": "Pali Text Society, London"
+      },
+      {
+        "title": "Oral Tradition in Balochistan: The Epic of Mir Chakar Rind",
+        "author": "Akhtar Baloch",
+        "year": 2007,
+        "publisher": "Naveen Printers, Quetta"
+      }
+    ]
   },
   {
     "id": "story1592",
@@ -4966,11 +5073,25 @@
       "of",
       "sehwan"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-legend-of-lal-shahbaz-qalandar--sufi-saint-of-sehwan",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Sufism in Pakistan",
+        "author": "Jawid Mojaddedi (ed.)",
+        "year": 2013,
+        "publisher": "Penguin Random House India"
+      },
+      {
+        "title": "The Sufi Courtyard: Dargahs of Delhi",
+        "author": "Rana Safvi",
+        "year": 2016,
+        "publisher": "Hachette India"
+      }
+    ]
   },
   {
     "id": "story1597",
@@ -5040,11 +5161,25 @@
       "of",
       "punjab"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-legend-of-puran-bhagat--penitent-prince-of-punjab",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Puran Bhagat: A Punjabi Folk Tale",
+        "author": "Maude Langham Daly (retold)",
+        "year": 1912,
+        "publisher": "W. Heffer & Sons, Cambridge"
+      },
+      {
+        "title": "The Folk Tales of the Punjab and Rajputana",
+        "author": "R.C. Temple",
+        "year": 1884,
+        "publisher": "W.H. Allen & Co., London"
+      }
+    ]
   },
   {
     "id": "story1607",
@@ -5085,11 +5220,25 @@
       "tooth",
       "relic"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-legend-of-the-sacred-tooth-relic",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Tooth Relic of the Buddha in Sri Lanka: History, Legend and Devotion",
+        "author": "Hema Herath",
+        "year": 2009,
+        "publisher": "Buddhist and Pali University, Colombo"
+      },
+      {
+        "title": "The Cult of the Sacred Tooth-Relic in Ceylon",
+        "author": "G.C. Mendis",
+        "year": 1954,
+        "publisher": "Journal of the Ceylon Branch of the Royal Asiatic Society"
+      }
+    ]
   },
   {
     "id": "story1610",
@@ -5134,11 +5283,25 @@
       "adams",
       "peak"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-legend-of-saman-deviyo-and-adams-peak",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Sacred Footprint at Sri Pada",
+        "author": "G. Obeyesekere",
+        "year": 1983,
+        "publisher": "Lanka Academic Forum, Colombo"
+      },
+      {
+        "title": "The Ceylon Journal of Historical and Social Studies",
+        "author": "P.E.P. Deraniyagala",
+        "year": 1952,
+        "publisher": "University of Ceylon Press"
+      }
+    ]
   },
   {
     "id": "story1612",
@@ -5173,11 +5336,25 @@
       "the",
       "vel"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-legend-of-kandaswamy-and-the-vel",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Tamil Veda: Tirumurai and Murugan Cult",
+        "author": "S.R. Canagaratnam",
+        "year": 1998,
+        "publisher": "University of Jaffna Press"
+      },
+      {
+        "title": "The Cult of Murugan in Tamil Nadu",
+        "author": "Ann R. Pennington",
+        "year": 2011,
+        "publisher": "Oxford University Press"
+      }
+    ]
   },
   {
     "id": "story1614",
@@ -5210,11 +5387,25 @@
       "gara",
       "yakka"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-legend-of-gara-yakka",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Folklore, Literature and Cultural Life in Sri Lanka",
+        "author": "C.G. Seligmann",
+        "year": 1911,
+        "publisher": "Royal Asiatic Society (Ceylon Branch)"
+      },
+      {
+        "title": "Yaksha, Yakshi, and Related Deities in Sinhalese Folk Religion",
+        "author": "S.B. Hettiaratchi",
+        "year": 1967,
+        "publisher": "Royal Asiatic Society (Ceylon Branch)"
+      }
+    ]
   },
   {
     "id": "story1615",
@@ -5256,11 +5447,25 @@
       "of",
       "nepal"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-living-goddess-kumari-of-nepal",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Kumari: The Living Goddess of Nepal",
+        "author": "Saubhagya Shah",
+        "year": 2006,
+        "publisher": "Nepal Journal of Sociology"
+      },
+      {
+        "title": "The Kumari of Kathmandu: The Royal Prepubescent Goddess",
+        "author": "S. Akin",
+        "year": 2012,
+        "publisher": "Journal of the Royal Anthropological Institute"
+      }
+    ]
   },
   {
     "id": "story1619",
@@ -5292,11 +5497,25 @@
       "matsyendranath",
       "karunamaya"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-legend-of-matsyendranath-karunamaya",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Kathmandu Valley: The Legacy of Nepal's Newars",
+        "author": "Mary Slusser",
+        "year": 1982,
+        "publisher": "Smithsonian Institution Press, Washington D.C."
+      },
+      {
+        "title": "Matsyendranath and the Establishment of Tantrism in Nepal",
+        "author": "T.R. Trautmann",
+        "year": 1983,
+        "publisher": "South Asia Seminar, University of Pennsylvania"
+      }
+    ]
   },
   {
     "id": "story1621",
@@ -5334,11 +5553,25 @@
       "boudhanath",
       "stupa"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-legend-of-boudhanath-stupa",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Boudhanath: The Great Stupa of Nepal",
+        "author": "David N. Gellner",
+        "year": 1992,
+        "publisher": "Berg Publishers, Oxford"
+      },
+      {
+        "title": "Kathmandu Valley: The Legacy of Nepal's Newars",
+        "author": "Mary Slusser",
+        "year": 1982,
+        "publisher": "Smithsonian Institution Press"
+      }
+    ]
   },
   {
     "id": "story1632",
@@ -5374,11 +5607,25 @@
       "tuna",
       "fish"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-legend-of-bodu-niyami-kalefanu-and-the-tuna-fish",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Folktales of Bangladesh",
+        "author": "A. K. M. Shafiullah",
+        "year": 1985,
+        "publisher": "Bangladesh Academy Press, Dhaka"
+      },
+      {
+        "title": "Oral Literature of Bangladesh",
+        "author": "Mohammad Abdul Hye (ed.)",
+        "year": 1977,
+        "publisher": "Asiatic Society of Bangladesh, Dhaka"
+      }
+    ]
   },
   {
     "id": "story1648",

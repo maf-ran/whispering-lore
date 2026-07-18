@@ -600,11 +600,25 @@
       "j-tte",
       "giant"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "finn-the-giant-and-the-minster-of-lund",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Svenska Folksagor",
+        "author": "Sjölin, B.",
+        "year": 1913,
+        "publisher": "Bonniers Förlag, Stockholm"
+      },
+      {
+        "title": "Scania in Folklore and Legend",
+        "author": "Lundqvist, C.G.",
+        "year": 1920,
+        "publisher": "Bonniers Förlag, Stockholm"
+      }
+    ]
   },
   {
     "id": "story417",
@@ -2433,11 +2447,20 @@
       "of",
       "fuvahmulah"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-fanditha-sorcerer-and-the-demon-of-fuvahmulah",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Maldive Islands: Monograph on the History, Language and Inhabitants of an Island Kingdom",
+        "author": "H.C. Bell",
+        "year": 1940,
+        "publisher": "Royal Asiatic Society (Ceylon), Colombo",
+        "note": "Foundational scholarly work on Maldivian history and culture including documentation of fanditha (traditional sorcery) practices and local demon beliefs."
+      }
+    ]
   },
   {
     "id": "story1661",

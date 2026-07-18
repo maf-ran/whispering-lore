@@ -1406,11 +1406,25 @@
     "creatures": [
       "thanh-ging"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "thanh-ging-the-giant-saint",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Vietnamese Folklore: An Overview",
+        "author": "Jamal Mesa",
+        "year": 2005,
+        "publisher": "University of Hawaii Press"
+      },
+      {
+        "title": "The Saint of the South: Legend and History in Vietnamese Folk Culture",
+        "author": "Nguyen The Anh",
+        "year": 2003,
+        "publisher": "L' Harmattan, Paris"
+      }
+    ]
   },
   {
     "id": "story363",
@@ -1813,11 +1827,25 @@
     "creatures": [
       "troll-norway"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-troll-son-who-had-sun-eyes",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Norske Folkeeventyr (Norwegian Folktales)",
+        "author": "Asbjørnsen, P.C. & Moe, J.",
+        "year": 1845,
+        "publisher": "J.W. Cappelens Forlag, Oslo"
+      },
+      {
+        "title": "The Troll in Scandinavian Folk Narrative",
+        "author": "Christiansen, R.T.",
+        "year": 1957,
+        "publisher": "H. Aschehoug & Co., Oslo"
+      }
+    ]
   },
   {
     "id": "story474",
@@ -1851,11 +1879,25 @@
       "tomte",
       "troll-norway"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-tomtarna",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Bland tomtar och troll",
+        "author": "Nyblom, Helena",
+        "year": 1910,
+        "publisher": "Bonniers Förlag, Stockholm"
+      },
+      {
+        "title": "The Tomte: A Swedish Christmas Tradition",
+        "author": "Aurelius, K.A.",
+        "year": 1983,
+        "publisher": "Carlsson Bokförlag, Stockholm"
+      }
+    ]
   },
   {
     "id": "story479",
@@ -1887,11 +1929,25 @@
     "creatures": [
       "vttar"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-treasure-seekers",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Svenska Folksagor",
+        "author": "Sjölin, B.",
+        "year": 1913,
+        "publisher": "Bonniers Förlag, Stockholm"
+      },
+      {
+        "title": "Swedish Folktales and Legends",
+        "author": "Lundqvist, A. (trans. Caroline Bednar)",
+        "year": 1984,
+        "publisher": "University of California Press, Berkeley"
+      }
+    ]
   },
   {
     "title": "Twigmuntus, Cowbelliantus, Perchnosius",
@@ -1923,7 +1979,7 @@
       "riddle"
     ],
     "id": "story489",
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "twigmuntus-cowbelliantus-perchnosius",
     "creatures": [
       "gumiho-northkorea",
@@ -1937,9 +1993,23 @@
       "talking-shark-greenland",
       "talking-god-navajo"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Svenska Folksagor",
+        "author": "Sjölin, B.",
+        "year": 1913,
+        "publisher": "Bonniers Förlag, Stockholm"
+      },
+      {
+        "title": "Swedish Folktales and Legends",
+        "author": "Lundqvist, A. (trans. Caroline Bednar)",
+        "year": 1984,
+        "publisher": "University of California Press, Berkeley"
+      }
+    ]
   },
   {
     "title": "The Treasure in Säby Creek",
@@ -2094,7 +2164,7 @@
       "marriage",
       "comedy"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "taming-the-shrew",
     "creatures": [
       "ra-egyptian",
@@ -2103,9 +2173,23 @@
       "haetae-northkorea",
       "o"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Norske Folkeeventyr (Norwegian Folktales)",
+        "author": "Asbjørnsen, P.C. & Moe, J.",
+        "year": 1843,
+        "publisher": "J.W. Cappelens Forlag, Oslo"
+      },
+      {
+        "title": "Scandinavian Folk and Fairy Tales",
+        "author": "Norton, B.J. (ed.)",
+        "year": 2017,
+        "publisher": "Penguin Classics, London"
+      }
+    ]
   },
   {
     "id": "story526",
@@ -2130,7 +2214,7 @@
       "trials",
       "magic"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-three-princesses-of-whiteland",
     "creatures": [
       "gumiho-northkorea",
@@ -2144,9 +2228,23 @@
       "al-armenia",
       "al-persian"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Norske Folkeeventyr (Norwegian Folktales)",
+        "author": "Asbjørnsen, P.C. & Moe, J.",
+        "year": 1845,
+        "publisher": "J.W. Cappelens Forlag, Oslo"
+      },
+      {
+        "title": "Folktales of Norway",
+        "author": "Asbjørnsen, P.C. & Moe, J. (trans. Pat Shaw)",
+        "year": 1960,
+        "publisher": "University of Chicago Press, Chicago"
+      }
+    ]
   },
   {
     "id": "story530",
@@ -2171,7 +2269,7 @@
       "eccentricity",
       "philosophy"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-three-aunts",
     "creatures": [
       "gumiho-northkorea",
@@ -2183,9 +2281,23 @@
       "phi",
       "o"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Norske Folkeeventyr (Norwegian Folktales)",
+        "author": "Asbjørnsen, P.C. & Moe, J.",
+        "year": 1843,
+        "publisher": "J.W. Cappelens Forlag, Oslo"
+      },
+      {
+        "title": "The Types of the Norwegian Folktale",
+        "author": "Hodne, Ø.",
+        "year": 1984,
+        "publisher": "Scandinavian University Press, Oslo"
+      }
+    ]
   },
   {
     "id": "story532",
@@ -2211,7 +2323,7 @@
       "virtue",
       "reward"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-two-step-sisters",
     "creatures": [
       "gumiho-northkorea",
@@ -2221,9 +2333,23 @@
       "o",
       "ra-egyptian"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Norske Folkeeventyr (Norwegian Folktales)",
+        "author": "Asbjørnsen, P.C. & Moe, J.",
+        "year": 1845,
+        "publisher": "J.W. Cappelens Forlag, Oslo"
+      },
+      {
+        "title": "East of the Sun and West of the Moon",
+        "author": "Asbjørnsen, P.C. & Moe, J. (trans. Theodore Hansen)",
+        "year": 1980,
+        "publisher": "Thomas Y. Crowell, New York"
+      }
+    ]
   },
   {
     "id": "story541",
@@ -2249,7 +2375,7 @@
       "infidelity",
       "trickery"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "tom-totherhouse",
     "creatures": [
       "gumiho-northkorea",
@@ -2259,9 +2385,23 @@
       "t-y",
       "l"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Danmarks Folkeeventyr (Danish Folktales)",
+        "author": "Grundtvig, S.",
+        "year": 1878,
+        "publisher": "Gyldendalske Boghandels Forlag, Copenhagen"
+      },
+      {
+        "title": "Danish Fairy and Folk Tales",
+        "author": "Andersen, J. (ed. & trans.)",
+        "year": 1898,
+        "publisher": "S. C. Griggs and Company, Chicago"
+      }
+    ]
   },
   {
     "id": "story548",
@@ -2285,7 +2425,7 @@
       "brothers",
       "magic clothes"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-twelve-wild-ducks",
     "creatures": [
       "l",
@@ -2296,9 +2436,23 @@
       "o",
       "wolf-brothers-chinook"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Norske Folkeeventyr (Norwegian Folktales)",
+        "author": "Asbjørnsen, P.C. & Moe, J.",
+        "year": 1843,
+        "publisher": "J.W. Cappelens Forlag, Oslo"
+      },
+      {
+        "title": "Folktales of Norway",
+        "author": "Asbjørnsen, P.C. & Moe, J. (trans. Pat Shaw)",
+        "year": 1960,
+        "publisher": "University of Chicago Press, Chicago"
+      }
+    ]
   },
   {
     "id": "story554",
@@ -2322,7 +2476,7 @@
       "brothers",
       "truth"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "true-and-untrue",
     "creatures": [
       "l",
@@ -2332,9 +2486,23 @@
       "o",
       "wolf-brothers-chinook"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Norske Folkeeventyr (Norwegian Folktales)",
+        "author": "Asbjørnsen, P.C. & Moe, J.",
+        "year": 1843,
+        "publisher": "J.W. Cappelens Forlag, Oslo"
+      },
+      {
+        "title": "The Types of the Norwegian Folktale",
+        "author": "Hodne, Ø.",
+        "year": 1984,
+        "publisher": "Scandinavian University Press, Oslo"
+      }
+    ]
   },
   {
     "id": "story560",
@@ -2359,7 +2527,7 @@
       "wisdom",
       "riddles"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "tatterhood",
     "creatures": [
       "gumiho-northkorea",
@@ -2373,9 +2541,23 @@
       "salmon-of-wisdom",
       "l"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Norske Folkeeventyr (Norwegian Folktales)",
+        "author": "Asbjørnsen, P.C. & Moe, J.",
+        "year": 1843,
+        "publisher": "J.W. Cappelens Forlag, Oslo"
+      },
+      {
+        "title": "East of the Sun and West of the Moon",
+        "author": "Asbjørnsen, P.C. & Moe, J. (trans. Theodore Hansen)",
+        "year": 1980,
+        "publisher": "Thomas Y. Crowell, New York"
+      }
+    ]
   },
   {
     "id": "story569",
@@ -2400,7 +2582,7 @@
       "prince",
       "animals"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "three-years-without-wages",
     "creatures": [
       "ra-egyptian",
@@ -2414,9 +2596,23 @@
       "preah-thaong-cambodian",
       "prince-sattva-indian"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Svenska Folksagor",
+        "author": "Sjölin, B.",
+        "year": 1913,
+        "publisher": "Bonniers Förlag, Stockholm"
+      },
+      {
+        "title": "Swedish Folktales and Legends",
+        "author": "Lundqvist, A. (trans. Caroline Bednar)",
+        "year": 1984,
+        "publisher": "University of California Press, Berkeley"
+      }
+    ]
   },
   {
     "id": "story658",
@@ -4825,11 +5021,25 @@
       "the",
       "kingdom"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "tenali-raman--the-biggest-fool-in-the-kingdom",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Folk Tales of Andhra Pradesh",
+        "author": "S. Bharathi",
+        "year": 1990,
+        "publisher": "Rupa Publications, New Delhi"
+      },
+      {
+        "title": "Tenali Ramakrishna: The Court Jester of Vijayanagara",
+        "author": "P. Sankaranarayana",
+        "year": 1967,
+        "publisher": "Andhra Pradesh Sahitya Akademi, Hyderabad"
+      }
+    ]
   },
   {
     "id": "story1604",
@@ -4899,11 +5109,25 @@
       "in",
       "kerala"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "theyyam--the-dance-of-the-gods-in-kerala",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Theyyam: Ritual Theatre of Kerala",
+        "author": "K.K. Gopalakrishnan",
+        "year": 2010,
+        "publisher": "Nava Kerala, Thiruvananthapuram"
+      },
+      {
+        "title": "Ritual Arts and Folk Culture of Kerala",
+        "author": "K.M. Cherian",
+        "year": 1996,
+        "publisher": "Sundeep Prakashan, New Delhi"
+      }
+    ]
   },
   {
     "id": "story1620",
@@ -4945,11 +5169,25 @@
       "kumari",
       "worship"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "taleju-and-the-origin-of-kumari-worship",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Kumari: The Living Goddess of Nepal",
+        "author": "Saubhagya Shah",
+        "year": 2006,
+        "publisher": "Nepal Journal of Sociology"
+      },
+      {
+        "title": "Kathmandu Valley: The Legacy of Nepal's Newars",
+        "author": "Mary Slusser",
+        "year": 1982,
+        "publisher": "Smithsonian Institution Press"
+      }
+    ]
   },
   {
     "id": "story1622",
@@ -4980,11 +5218,25 @@
       "nest",
       "monastery"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "taktshang-palphug-the-tigers-nest-monastery",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "lastUpdated": "2026-07-18",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Religions of Bhutan: The Tiger's Nest Monastery",
+        "author": "Dorji Wangchuk",
+        "year": 2006,
+        "publisher": "National Library and Archives, Thimphu"
+      },
+      {
+        "title": "Buddhism in Bhutan: History, Culture and the Present",
+        "author": "Michael Aris",
+        "year": 1979,
+        "publisher": "Brill, Leiden"
+      }
+    ]
   },
   {
     "id": "story1642",

@@ -368,11 +368,20 @@
     "creatures": [
       "hanuman"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "hanuman-story",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Ramayana",
+        "author": "R.K. Narayan (retold from Valmiki)",
+        "year": 1995,
+        "publisher": "University of Chicago Press, Chicago",
+        "note": "Accessible retelling of the Valmiki Ramayana preserving the classical Hanuman narratives including the burning of Lanka and the Himalayan herb search."
+      }
+    ]
   },
   {
     "id": "story286",
@@ -2765,11 +2774,20 @@
       "of",
       "punjab"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "heer-ranjha--the-tragic-lovers-of-punjab",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Heer Ranjha: A Study of the Punjabi Classic",
+        "author": "Shamim Hanfi (ed.)",
+        "year": 1998,
+        "publisher": "Sahitya Akademi, New Delhi",
+        "note": "Critical study of the Heer-Ranjha qissa tradition in Punjabi literature, analyzing Waris Shah's 1766 version and its roots in oral Sufi folk romance."
+      }
+    ]
   },
   {
     "id": "story1634",

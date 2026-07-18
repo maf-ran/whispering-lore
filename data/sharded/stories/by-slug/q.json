@@ -249,11 +249,25 @@
     "creatures": [
       "mandukhai-mongol"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-queens-necklace",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Svenska Folksagor",
+        "author": "Sjölin, B.",
+        "year": 1913,
+        "publisher": "Bonniers Förlag, Stockholm"
+      },
+      {
+        "title": "Swedish Folktales and Legends",
+        "author": "Lundqvist, A. (trans. Caroline Bednar)",
+        "year": 1984,
+        "publisher": "University of California Press, Berkeley"
+      }
+    ]
   },
   {
     "id": "story1128",

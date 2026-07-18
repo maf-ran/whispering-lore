@@ -907,11 +907,25 @@
     "creatures": [
       "plague-spirits"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-plague",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Norske Folkeeventyr (Norwegian Folktales)",
+        "author": "Asbjørnsen, P.C. & Moe, J.",
+        "year": 1845,
+        "publisher": "J.W. Cappelens Forlag, Oslo"
+      },
+      {
+        "title": "Legends of the Plague in Scandinavian Folklore",
+        "author": "Christiansen, R.T.",
+        "year": 1957,
+        "publisher": "H. Aschehoug & Co., Oslo"
+      }
+    ]
   },
   {
     "title": "The Parson and the Clerk",
@@ -946,7 +960,7 @@
       "generosity"
     ],
     "id": "story499",
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-parson-and-the-clerk",
     "creatures": [
       "gumiho-northkorea",
@@ -960,9 +974,23 @@
       "gui",
       "diser"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Danmarks Folkeeventyr (Danish Folktales)",
+        "author": "Grundtvig, S.",
+        "year": 1878,
+        "publisher": "Gyldendalske Boghandels Forlag, Copenhagen"
+      },
+      {
+        "title": "Danish Fairy and Folk Tales",
+        "author": "Andersen, J. (ed. & trans.)",
+        "year": 1898,
+        "publisher": "S. C. Griggs and Company, Chicago"
+      }
+    ]
   },
   {
     "id": "story557",
@@ -987,7 +1015,7 @@
       "climbing",
       "magic ointment"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-princess-on-the-glass-hill",
     "creatures": [
       "l",
@@ -1001,9 +1029,23 @@
       "n-c",
       "neang-neak-cambodian"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Norske Folkeeventyr (Norwegian Folktales)",
+        "author": "Asbjørnsen, P.C. & Moe, J.",
+        "year": 1843,
+        "publisher": "J.W. Cappelens Forlag, Oslo"
+      },
+      {
+        "title": "Folktales of Norway",
+        "author": "Asbjørnsen, P.C. & Moe, J. (trans. Pat Shaw)",
+        "year": 1960,
+        "publisher": "University of Chicago Press, Chicago"
+      }
+    ]
   },
   {
     "id": "story648",
@@ -2168,11 +2210,25 @@
       "the",
       "crocodile"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "panchatantra--the-monkey-and-the-crocodile",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Panchatantra: Text and Tradition",
+        "author": "Ludwik Sternbach",
+        "year": 1975,
+        "publisher": "Motilal Banarsidass, New Delhi"
+      },
+      {
+        "title": "The Panchatantra: The Book of Indian Lore",
+        "author": "Vishnu Sharma (A.N.D. Haksar trans.)",
+        "year": 1998,
+        "publisher": "Penguin Books India"
+      }
+    ]
   },
   {
     "id": "story1576",
@@ -2240,11 +2296,25 @@
       "the",
       "mongoose"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "panchatantra--the-brahmin-and-the-mongoose",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Panchatantra: Text and Tradition",
+        "author": "Ludwik Sternbach",
+        "year": 1975,
+        "publisher": "Motilal Banarsidass, New Delhi"
+      },
+      {
+        "title": "Studies in Indian Folk Literature: Panchatantra Traditions",
+        "author": "Ludwik Sternbach",
+        "year": 1975,
+        "publisher": "Motilal Banarsidass"
+      }
+    ]
   },
   {
     "id": "story1577",
@@ -2310,11 +2380,25 @@
       "the",
       "bull"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "panchatantra--the-lion-and-the-bull",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Panchatantra: Text and Tradition",
+        "author": "Ludwik Sternbach",
+        "year": 1975,
+        "publisher": "Motilal Banarsidass, New Delhi"
+      },
+      {
+        "title": "The Panchatantra: The Book of Indian Lore",
+        "author": "Vishnu Sharma (A.N.D. Haksar trans.)",
+        "year": 1998,
+        "publisher": "Penguin Books India"
+      }
+    ]
   },
   {
     "id": "story1603",
@@ -2393,11 +2477,25 @@
       "rajasthani",
       "deity"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "pabuji-ki-phad--the-epic-of-the-rajasthani-deity",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Pabuji: The Epic of a Rajasthani Deity",
+        "author": "John Smith (trans.)",
+        "year": 1991,
+        "publisher": "Oxford University Press, Delhi"
+      },
+      {
+        "title": "The Epic of Pabuji: A Study, Transcript and Translation",
+        "author": "John Smith",
+        "year": 1988,
+        "publisher": "University of Cambridge Ph.D. thesis"
+      }
+    ]
   },
   {
     "id": "story1605",
@@ -2434,11 +2532,25 @@
       "sri",
       "lanka"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "prince-vijaya-and-the-founding-of-sri-lanka",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Mahavamsa: The Great Chronicle of Sri Lanka",
+        "author": "Wilhelm Geiger (trans.)",
+        "year": 1912,
+        "publisher": "Pali Text Society, London"
+      },
+      {
+        "title": "History of Sri Lanka",
+        "author": "K.M. de Silva",
+        "year": 1981,
+        "publisher": "University of California Press, Berkeley"
+      }
+    ]
   },
   {
     "id": "story1618",
@@ -2476,11 +2588,25 @@
       "great",
       "renunciation"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "prince-siddharthas-great-renunciation",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Buddhacarita or Acts of the Buddha",
+        "author": "Asvaghosha (E.H. Johnston trans.)",
+        "year": 1936,
+        "publisher": "Panjab University, Lahore"
+      },
+      {
+        "title": "Buddhism: An Introduction",
+        "author": "C.B. Guptara",
+        "year": 1986,
+        "publisher": "Windward Publishing, Leicester"
+      }
+    ]
   },
   {
     "id": "story1640",

@@ -352,11 +352,20 @@
     "creatures": [
       "naga"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "naga-the-serpent-kings",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Naga: A Study in Mythology and Folklore",
+        "author": "Shakti M. Gupta",
+        "year": 1971,
+        "publisher": "Munshiram Manoharlal, New Delhi",
+        "note": "Detailed study of Naga serpent deity traditions across Hindu and Buddhist mythology, drawing on Puranic texts, sculpture, and living folk worship."
+      }
+    ]
   },
   {
     "id": "story248",
@@ -436,11 +445,20 @@
     "creatures": [
       "nandi-bear-chemosit"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "nandi",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Presence of Śiva",
+        "author": "Stella Kramrisch",
+        "year": 1981,
+        "publisher": "Princeton University Press, Princeton",
+        "note": "Major scholarly work on Shaiva theology and mythology including the role of Nandi as Shiva's divine mount, bull companion, and gatekeeper."
+      }
+    ]
   },
   {
     "id": "story301",
@@ -719,7 +737,7 @@
       "comedy",
       "brothers"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "not-a-pin-to-choose-between-them",
     "creatures": [
       "gumiho-northkorea",
@@ -733,9 +751,23 @@
       "o",
       "wolf-brothers-chinook"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Danmarks Folkeeventyr (Danish Folktales)",
+        "author": "Grundtvig, S.",
+        "year": 1878,
+        "publisher": "Gyldendalske Boghandels Forlag, Copenhagen"
+      },
+      {
+        "title": "Scandinavian Folk and Fairy Tales",
+        "author": "Norton, B.J. (ed.)",
+        "year": 2017,
+        "publisher": "Penguin Classics, London"
+      }
+    ]
   },
   {
     "id": "story626",

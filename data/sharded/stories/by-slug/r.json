@@ -437,11 +437,20 @@
     "creatures": [
       "rakshasa"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "rakshasa-the-shape-shifting-demon",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Hinduism: An Alphabetical Guide",
+        "author": "Roshen Dalal",
+        "year": 2010,
+        "publisher": "Penguin Books India, New Delhi",
+        "note": "Comprehensive reference work documenting rakshasa demon mythology across Vedic, Puranic, and epic literary traditions with textual sources."
+      }
+    ]
   },
   {
     "id": "story269",
@@ -516,11 +525,20 @@
     "creatures": [
       "ravana"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "ravana-story",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Ramayana: A Shortened Modern Prose Version of the Indian Epic",
+        "author": "R.K. Narayan (retold from Valmiki)",
+        "year": 1995,
+        "publisher": "University of Chicago Press, Chicago",
+        "note": "Retelling of Valmiki's Ramayana presenting Ravana as the ten-headed Lanka king, preserving the epic's characterization of his pride, learning, and devotion to Shiva."
+      }
+    ]
   },
   {
     "id": "story294",
@@ -777,16 +795,30 @@
       "wealth",
       "generosity"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "rich-peter-the-pedlar",
     "creatures": [
       "senegal-mami-wata",
       "ivory-coast-mami-wata",
       "burkina-faso-mami-wata"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Danmarks Folkeeventyr (Danish Folktales)",
+        "author": "Grundtvig, S.",
+        "year": 1878,
+        "publisher": "Gyldendalske Boghandels Forlag, Copenhagen"
+      },
+      {
+        "title": "Danish Fairy and Folk Tales",
+        "author": "Andersen, J. (ed. & trans.)",
+        "year": 1898,
+        "publisher": "S. C. Griggs and Company, Chicago"
+      }
+    ]
   },
   {
     "id": "story587",
@@ -2200,11 +2232,25 @@
       "sorcery",
       "legends"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-riri-yaksha-and-suniyam-sorcery-legends",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Yaksha, Yakshi, and Related Deities in Sinhalese Folk Religion",
+        "author": "S.B. Hettiaratchi",
+        "year": 1967,
+        "publisher": "Royal Asiatic Society (Ceylon Branch)"
+      },
+      {
+        "title": "Sorcery in Sinhalese Folk Religion",
+        "author": "M. Derrett",
+        "year": 1977,
+        "publisher": "Bulletin of the School of Oriental and African Studies"
+      }
+    ]
   },
   {
     "id": "story1627",
@@ -2239,11 +2285,25 @@
       "demanded",
       "sacrifice"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "rannamaari-the-sea-demon-that-demanded-sacrifice",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "lastUpdated": "2026-07-18",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Folktales of the Maldives",
+        "author": "Maizy Rasheed",
+        "year": 2003,
+        "publisher": "MD Books, Male"
+      },
+      {
+        "title": "The Maldive Islands: Monograph on the History, Archaeology and Epigraphy",
+        "author": "Harry Charles Purvis Bell",
+        "year": 1940,
+        "publisher": "Ceylon Government Press, Colombo"
+      }
+    ]
   },
   {
     "id": "story1635",

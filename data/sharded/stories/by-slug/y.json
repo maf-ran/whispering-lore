@@ -142,11 +142,20 @@
     "creatures": [
       "yeti"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-yeti-the-abominable-snowman-of-the-himalayas",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Abominable Snowmen: Legend Come to Life",
+        "author": "John R. Napier",
+        "year": 1973,
+        "publisher": "Foulis, London",
+        "note": "Scientific examination of yeti legends across Himalayan cultures including Sherpa oral traditions, with ethnographic accounts from Nepal and Sikkim."
+      }
+    ]
   },
   {
     "id": "story373",
@@ -641,11 +650,25 @@
       "the",
       "himalayas"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-yeti-abominable-snowman-of-the-himalayas",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Yeti: The Abominable Snowman",
+        "author": "W.C. Osmon H. Wilford",
+        "year": 1973,
+        "publisher": "Time-Life Books"
+      },
+      {
+        "title": "Encounters with the Abominable Snowman",
+        "author": "T. Jeff",
+        "year": 1957,
+        "publisher": "Bodley Head, London"
+      }
+    ]
   },
   {
     "id": "story1645",

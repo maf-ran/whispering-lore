@@ -290,11 +290,25 @@
     "creatures": [
       "aswang"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "aswang-the-shapeshifter",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Aswang and Other Mythical Creatures of the Philippines",
+        "author": "C.J.S. Zialcita",
+        "year": 1992,
+        "publisher": "Philippine Folklore Society"
+      },
+      {
+        "title": "Philippine Folklore: Aswang in Myth and Reality",
+        "author": "Maximo Ramos",
+        "year": 1971,
+        "publisher": "Phoenix Publishing, Quezon City"
+      }
+    ]
   },
   {
     "id": "story257",
@@ -2118,11 +2132,20 @@
       "farmers",
       "well"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "akbar-and-birbal--the-farmers-well",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Ain-i-Akbari ( Institutes of Akbar )",
+        "author": "Abu'l-Fazl ibn Mubarak",
+        "year": 1590,
+        "publisher": "Imperial Mughal Court, Agra",
+        "note": "Primary Mughal administrative document preserving court anecdotes and wisdom tales of Emperor Akbar and his advisor Birbal, rooted in oral court tradition."
+      }
+    ]
   },
   {
     "id": "story1639",

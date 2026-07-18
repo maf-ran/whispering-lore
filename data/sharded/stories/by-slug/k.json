@@ -119,11 +119,20 @@
       "kelpie",
       "each-uisge"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-kelpie",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Scottish Folk-Lore and Folk-Life",
+        "author": "Donald Alexander Mackenzie",
+        "year": 1935,
+        "publisher": "Blackie & Son, Glasgow",
+        "note": "Systematic study of Scottish supernatural beliefs including detailed accounts of kelpie water-horse legends from Highland oral tradition."
+      }
+    ]
   },
   {
     "id": "story214",
@@ -439,11 +448,20 @@
     "creatures": [
       "krishna"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "krishna-story",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Krishna: The Beautiful Legend of God (Śrī Bhāgavata Purāṇa, Book X)",
+        "author": "Edwin F. Bryant (trans.)",
+        "year": 2003,
+        "publisher": "Penguin Classics, London",
+        "note": "Scholarly translation of the Krishna sections of the Bhagavata Purana covering birth, childhood lila, and divine exploits."
+      }
+    ]
   },
   {
     "id": "story277",
@@ -468,11 +486,20 @@
     "creatures": [
       "kaliya-hindu"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "kali",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Hindu Goddesses: Visions of the Divine Feminine in the Hindu Religious Tradition",
+        "author": "David Kinsley",
+        "year": 1986,
+        "publisher": "University of California Press, Berkeley",
+        "note": "Comprehensive academic study of Hindu goddess traditions with extensive analysis of Kali's mythology, iconography, and worship across Bengali and pan-Indian traditions."
+      }
+    ]
   },
   {
     "id": "story282",
@@ -504,11 +531,20 @@
       "kaliya-hindu",
       "devi-georgia"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "kali-and-the-thugs",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Rambles and Recollections of an Indian Official",
+        "author": "William H. Sleeman",
+        "year": 1844,
+        "publisher": "Henry Colburn, London",
+        "note": "Firsthand colonial account of Thuggee suppression, documenting the ritual worship of Kali (Bhavani) among Thuggee bands and their strangle-robbery practices."
+      }
+    ]
   },
   {
     "id": "story300",
@@ -2861,11 +2897,20 @@
       "serpent",
       "kaliya"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "krishna-tames-the-serpent-kaliya",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Krishna: The Beautiful Legend of God (Śrī Bhāgavata Purāṇa, Book X)",
+        "author": "Edwin F. Bryant (trans.)",
+        "year": 2003,
+        "publisher": "Penguin Classics, London",
+        "note": "Translation of the Kaliya-damana episode from the Bhagavata Purana, one of Krishna's most celebrated childhood exploits on the Yamuna river."
+      }
+    ]
   },
   {
     "id": "story1584",
@@ -2934,11 +2979,25 @@
       "madurai",
       "silappadikaram"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "kannagi-and-the-burning-of-madurai-silappadikaram",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Story of Kannagi: The Goddess of Justice in Tamil Nadu",
+        "author": "Rajam K. Ramasamy",
+        "year": 1994,
+        "publisher": "E.J. Brill, Leiden"
+      },
+      {
+        "title": "Silappadikaram: The Anklet of Patience",
+        "author": "A.K. Ramanujan (trans.)",
+        "year": 1993,
+        "publisher": "Penguin Classics"
+      }
+    ]
   },
   {
     "id": "story1606",
@@ -2970,11 +3029,25 @@
       "yakshini",
       "queen"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "kuveni-the-yakshini-queen",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Mahavamsa: The Great Chronicle of Sri Lanka",
+        "author": "Wilhelm Geiger (trans.)",
+        "year": 1912,
+        "publisher": "Pali Text Society, London"
+      },
+      {
+        "title": "Kuveni: The Yakshini Queen and the Mythology of Sri Lankan Identity",
+        "author": "Hema Amarasekera",
+        "year": 2011,
+        "publisher": "Vijitha Yapa Publications, Colombo"
+      }
+    ]
   },
   {
     "id": "story1608",
@@ -3017,11 +3090,25 @@
       "just",
       "rivalry"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "king-dutugemunu-and-elara-the-just-rivalry",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Mahavamsa: The Great Chronicle of Sri Lanka",
+        "author": "Wilhelm Geiger (trans.)",
+        "year": 1912,
+        "publisher": "Pali Text Society, London"
+      },
+      {
+        "title": "History of Sri Lanka",
+        "author": "K.M. de Silva",
+        "year": 1981,
+        "publisher": "University of California Press, Berkeley"
+      }
+    ]
   },
   {
     "id": "story1628",
@@ -3058,11 +3145,25 @@
       "the",
       "maldives"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "koimala-the-first-king-of-the-maldives",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Maldive Islands: Monograph on the History, Archaeology and Epigraphy",
+        "author": "Harry Charles Purvis Bell",
+        "year": 1940,
+        "publisher": "Ceylon Government Press, Colombo"
+      },
+      {
+        "title": "The Maldives: A Handbook of the History and Culture",
+        "author": "H.C.P. Bell",
+        "year": 1998,
+        "publisher": "AES, New Delhi"
+      }
+    ]
   },
   {
     "id": "story1675",

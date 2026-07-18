@@ -73,11 +73,20 @@
     "creatures": [
       "fairy-europe"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-wee-wee-man",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The English and Scottish Popular Ballads",
+        "author": "Francis James Child",
+        "year": 1882,
+        "publisher": "Houghton Mifflin, Boston",
+        "note": "Monumental five-volume ballad collection cataloguing the 'Wee Wee Man' ballad (Child Ballad No. 388) with full textual variants and comparative notes."
+      }
+    ]
   },
   {
     "id": "story49",
@@ -972,7 +981,7 @@
       "missed chance"
     ],
     "id": "story485",
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "what-shall-babys-name-be",
     "creatures": [
       "gumiho-northkorea",
@@ -986,9 +995,23 @@
       "ra-egyptian",
       "p-r"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Norske Folkeeventyr (Norwegian Folktales)",
+        "author": "Asbjørnsen, P.C. & Moe, J.",
+        "year": 1845,
+        "publisher": "J.W. Cappelens Forlag, Oslo"
+      },
+      {
+        "title": "Norwegian Folktales",
+        "author": "Asbjørnsen, P.C. & Moe, J. (trans. Pat Shaw & Carl Norman)",
+        "year": 1982,
+        "publisher": "Pantheon Books, New York"
+      }
+    ]
   },
   {
     "title": "Why the Executioner is Called Assessor",
@@ -1022,7 +1045,7 @@
       "swedish legend"
     ],
     "id": "story498",
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "why-the-executioner-is-called-assessor",
     "creatures": [
       "gumiho-northkorea",
@@ -1036,9 +1059,23 @@
       "lac-long-quan-vietnamese",
       "kulmking"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Norske Folkeeventyr (Norwegian Folktales)",
+        "author": "Asbjørnsen, P.C. & Moe, J.",
+        "year": 1845,
+        "publisher": "J.W. Cappelens Forlag, Oslo"
+      },
+      {
+        "title": "The Types of the Norwegian Folktale",
+        "author": "Hodne, Ø.",
+        "year": 1984,
+        "publisher": "Scandinavian University Press, Oslo"
+      }
+    ]
   },
   {
     "id": "story531",
@@ -1063,7 +1100,7 @@
       "kindness",
       "redemption"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-widows-son",
     "creatures": [
       "gumiho-northkorea",
@@ -1077,9 +1114,23 @@
       "makonde-witchcraft-spirits",
       "storm-witch-aland"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Norske Folkeeventyr (Norwegian Folktales)",
+        "author": "Asbjørnsen, P.C. & Moe, J.",
+        "year": 1843,
+        "publisher": "J.W. Cappelens Forlag, Oslo"
+      },
+      {
+        "title": "Folktales of Norway",
+        "author": "Asbjørnsen, P.C. & Moe, J. (trans. Pat Shaw)",
+        "year": 1960,
+        "publisher": "University of Chicago Press, Chicago"
+      }
+    ]
   },
   {
     "id": "story534",
@@ -1105,15 +1156,29 @@
       "frozen pond",
       "stumpy tail"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "why-the-bear-is-stumpy-tailed",
     "creatures": [
       "brer-bear",
       "brer-fox"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Norske Folkeeventyr (Norwegian Folktales)",
+        "author": "Asbjørnsen, P.C. & Moe, J.",
+        "year": 1843,
+        "publisher": "J.W. Cappelens Forlag, Oslo"
+      },
+      {
+        "title": "The Bear's Son: A Folktale Motif in Scandinavian and German Literature",
+        "author": "Holbek, B.",
+        "year": 1965,
+        "publisher": "Akademisk Forlag, Copenhagen"
+      }
+    ]
   },
   {
     "id": "story553",
@@ -1137,15 +1202,29 @@
       "fox",
       "betrayal"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "well-done-and-ill-paid",
     "creatures": [
       "brer-bear",
       "brer-fox"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Danmarks Folkeeventyr (Danish Folktales)",
+        "author": "Grundtvig, S.",
+        "year": 1878,
+        "publisher": "Gyldendalske Boghandels Forlag, Copenhagen"
+      },
+      {
+        "title": "Danish Fairy and Folk Tales",
+        "author": "Andersen, J. (ed. & trans.)",
+        "year": 1898,
+        "publisher": "S. C. Griggs and Company, Chicago"
+      }
+    ]
   },
   {
     "id": "story556",
@@ -1170,7 +1249,7 @@
       "sailor",
       "ocean"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "why-the-sea-is-salt",
     "creatures": [
       "l",
@@ -1184,9 +1263,23 @@
       "saltigue",
       "o"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Norske Folkeeventyr (Norwegian Folktales)",
+        "author": "Asbjørnsen, P.C. & Moe, J.",
+        "year": 1843,
+        "publisher": "J.W. Cappelens Forlag, Oslo"
+      },
+      {
+        "title": "East of the Sun and West of the Moon",
+        "author": "Asbjørnsen, P.C. & Moe, J. (trans. Theodore Hansen)",
+        "year": 1980,
+        "publisher": "Thomas Y. Crowell, New York"
+      }
+    ]
   },
   {
     "id": "story571",

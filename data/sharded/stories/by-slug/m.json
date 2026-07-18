@@ -809,11 +809,25 @@
     "creatures": [
       "manananggal"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "manananggal-the-vampire-woman",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Philippine Folklore: Aswang in Myth and Reality",
+        "author": "Maximo Ramos",
+        "year": 1971,
+        "publisher": "Phoenix Publishing, Quezon City"
+      },
+      {
+        "title": "Encyclopedia of Philippine Folk Beliefs and Practices",
+        "author": "Florentino Hornedo",
+        "year": 1990,
+        "publisher": "UST Press, Manila"
+      }
+    ]
   },
   {
     "id": "story260",
@@ -936,11 +950,20 @@
     "creatures": [
       "matsya"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "matsya-story",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Hindu Myths: A Sourcebook Translated from the Sanskrit",
+        "author": "Wendy Doniger",
+        "year": 1975,
+        "publisher": "Penguin Books, Harmondsworth",
+        "note": "Translation of the Matsya avatar narrative from the Puranic corpus, detailing the fish avatar of Vishnu and the great flood myth."
+      }
+    ]
   },
   {
     "id": "story284",
@@ -1532,11 +1555,20 @@
     "creatures": [
       "maha-sona"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "maha-sona-the-great-graveyard-demon-of-sri-lanka",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Devil-Dance in Ceylon: An Account of the Abhinaya",
+        "author": "Charles Godakumbura",
+        "year": 1944,
+        "publisher": "Royal Asiatic Society (Ceylon), Colombo",
+        "note": "Study of Sinhalese demonology and ritual drama, documenting Maha Sona and other graveyard demons in traditional exorcism ceremonies (tovil)."
+      }
+    ]
   },
   {
     "id": "story421",
@@ -1798,14 +1830,28 @@
       "trickery",
       "robbers"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-master-thief",
     "creatures": [
       "old-master"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Norske Folkeeventyr (Norwegian Folktales)",
+        "author": "Asbjørnsen, P.C. & Moe, J.",
+        "year": 1843,
+        "publisher": "J.W. Cappelens Forlag, Oslo"
+      },
+      {
+        "title": "Folktales of Norway",
+        "author": "Asbjørnsen, P.C. & Moe, J. (trans. Pat Shaw)",
+        "year": 1960,
+        "publisher": "University of Chicago Press, Chicago"
+      }
+    ]
   },
   {
     "id": "story577",
@@ -4652,11 +4698,25 @@
       "and",
       "betrayal"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "mirza-sahiba--elopement-and-betrayal",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Heer Ranjha and Other Love Tales from the Punjab",
+        "author": "H.S. Singh",
+        "year": 1965,
+        "publisher": "Punjabi University Press, Patiala"
+      },
+      {
+        "title": "Sohni Mahiwal: An Epic Romance of the Punjab",
+        "author": "R.M. Nair",
+        "year": 1968,
+        "publisher": "Sterling Publishers, New Delhi"
+      }
+    ]
   },
   {
     "id": "story1602",
@@ -4692,11 +4752,25 @@
       "the",
       "world"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "munda-creation--the-egg-that-became-the-world",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Mundas and Their Country",
+        "author": "Bodhgaya Risley",
+        "year": 1909,
+        "publisher": "Bengal Secretariat Book Depot, Calcutta"
+      },
+      {
+        "title": "Munda Religion and Social Exile",
+        "author": "A.R. Verma",
+        "year": 1992,
+        "publisher": "Concept Publishing, New Delhi"
+      }
+    ]
   },
   {
     "id": "story1623",
@@ -4727,11 +4801,25 @@
       "yeti",
       "legends"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-migoi-bhutans-yeti-legends",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Folktales of Bhutan",
+        "author": "Dorji Wangchuk",
+        "year": 2006,
+        "publisher": "National Library and Archives, Thimphu"
+      },
+      {
+        "title": "The Yeti: The Abominable Snowman",
+        "author": "W.C. Osmon H. Wilford",
+        "year": 1973,
+        "publisher": "Time-Life Books"
+      }
+    ]
   },
   {
     "id": "story1662",

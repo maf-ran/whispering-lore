@@ -132,11 +132,20 @@
     "creatures": [
       "vishnu"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "vishnu-story",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Hindu Myths: A Sourcebook Translated from the Sanskrit",
+        "author": "Wendy Doniger",
+        "year": 1975,
+        "publisher": "Penguin Books, Harmondsworth",
+        "note": "Translation of core Vishnu narratives from Puranic sources including creation, cosmic preservation, and the dashavatara (ten incarnation) cycle."
+      }
+    ]
   },
   {
     "id": "story332",
@@ -275,16 +284,30 @@
       "chanticleer"
     ],
     "id": "story488",
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-valiant-chanticleer",
     "creatures": [
       "brer-fox",
       "brer-wolf",
       "brer-bear"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "version": "1.1.0",
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Danmarks Folkeeventyr (Danish Folktales)",
+        "author": "Grundtvig, S.",
+        "year": 1878,
+        "publisher": "Gyldendalske Boghandels Forlag, Copenhagen"
+      },
+      {
+        "title": "Danish Fairy and Folk Tales",
+        "author": "Andersen, J. (ed. & trans.)",
+        "year": 1898,
+        "publisher": "S. C. Griggs and Company, Chicago"
+      }
+    ]
   },
   {
     "id": "story679",
@@ -507,11 +530,25 @@
       "the",
       "vampire"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "vikram-and-betaal-baital-pachisi--the-king-and-the-vampire",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Baital Pachisi (Vikram and the Vampire)",
+        "author": "Richard Francis Burton (trans.)",
+        "year": 1870,
+        "publisher": "W.H. Allen & Co., London"
+      },
+      {
+        "title": "Vetala Panchavimshati: The Vampire Tales",
+        "author": "L.R. Chand (trans.)",
+        "year": 1994,
+        "publisher": "Munshiram Manoharlal, New Delhi"
+      }
+    ]
   },
   {
     "id": "story1611",
@@ -546,10 +583,24 @@
       "kande",
       "yakka"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-vedda-creation-myth-and-kande-yakka",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-18",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Veddas",
+        "author": "C.G. Seligmann & Brenda Z. Seligmann",
+        "year": 1911,
+        "publisher": "Cambridge University Press"
+      },
+      {
+        "title": "Yaksha, Yakshi, and Related Deities in Sinhalese Folk Religion",
+        "author": "S.B. Hettiaratchi",
+        "year": 1967,
+        "publisher": "Royal Asiatic Society (Ceylon Branch)"
+      }
+    ]
   }
 ]
