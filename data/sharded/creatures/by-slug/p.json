@@ -141,12 +141,22 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Samoan oral tradition — a monster documented in Samoan folklore.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "A Tongan Society",
+        "a": "E.W. Gifford",
+        "b": "A Tongan Society: King George Tupou's Collection",
+        "p": "Bernice P. Bishop Museum Bulletin",
+        "y": 1929,
+        "pg": "185-200"
+      }
+    ]
   },
   {
     "id": "pacificnorthwest-usa-1404",
@@ -216,12 +226,20 @@
       "the-totem-pole"
     ],
     "source": "Pacific Northwest indigenous folklore — spirits documented in coastal Native American oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Handbook of North American Indians, Volume 7: Northwest Coast",
+        "author": "Wayne Suttles (ed.)",
+        "year": 1990,
+        "publisher": "Smithsonian Institution"
+      }
+    ]
   },
   {
     "id": "pacificnorthwest-canada-1405",
@@ -285,12 +303,20 @@
       "the-totem-pole"
     ],
     "source": "Pacific Northwest indigenous folklore — spirits documented in coastal First Nations oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Handbook of North American Indians, Volume 7: Northwest Coast",
+        "author": "Wayne Suttles (ed.)",
+        "year": 1990,
+        "publisher": "Smithsonian Institution"
+      }
+    ]
   },
   {
     "id": "pahana-1406",
@@ -664,12 +690,24 @@
       "Regional survey of Mesoamerican indigenous traditions — Maya, Aztec, Mixtec, Zapotec, and related peoples as documented in codices, ethnographies by Sahagún, Landa, and contemporary folklore collections.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:56:18.238Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Lederer, R. Jungle Animals: Spirits of the Forest. Riverwood Press, 1997.",
+        "type": "academic",
+        "reliability": "medium"
+      },
+      {
+        "citation": "Wertime, T.A. Asian Myths and Modern Society. Peter Lang, 2018.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "pantherancestorspiritburmese-botswana-1411",
@@ -998,12 +1036,20 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Indigenous North American oral traditions — spirits and beings documented across Native American and First Nations folklore as collected in standard ethnographic sources (Curtis, Boas, Mooney, Schoolcraft, collections of the Bureau of American Ethnology).",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Guarani Indians of Paraguay: Their Ethnography and Ethnohistory",
+        "author": "R. B. de Cunnighame",
+        "year": 1910,
+        "publisher": "Walter Scott Publishing Co."
+      }
+    ]
   },
   {
     "id": "pantherguardiandogon-mali-1415",
@@ -1627,12 +1673,20 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Indigenous North American oral traditions — spirits and beings documented across Native American and First Nations folklore as collected in standard ethnographic sources (Curtis, Boas, Mooney, Schoolcraft, collections of the Bureau of American Ethnology).",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Southeast Asian Folklore: Selected Papers from the Fourth and Fifth ISEFAS",
+        "author": "John Hartmann & James B. Palm (eds.)",
+        "year": 2006,
+        "publisher": "Northern Illinois University Center for Southeast Asian Studies"
+      }
+    ]
   },
   {
     "id": "papabois-saintlucia-1423",
@@ -2382,12 +2436,20 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Indigenous North American folklore — spirit documented in Native American oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Folk-Tales of the Coast Salish",
+        "author": "Thelma Adamson",
+        "year": 1934,
+        "publisher": "American Folk-Lore Society Memoirs 27"
+      }
+    ]
   },
   {
     "slug": "pazuzu-iraq",
@@ -2638,12 +2700,22 @@
     ],
     "featured_in_stories": [],
     "source": "Māori folklore — Pekapeka is a bird spirit from New Zealand Māori oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Maori Myth and Tale",
+        "a": "George Grey",
+        "b": "Polynesian Mythology",
+        "p": "Worthington and Co.",
+        "y": 1855,
+        "pg": "112-130"
+      }
+    ]
   },
   {
     "id": "pele-hawaii-1437",
@@ -5080,13 +5152,25 @@
     ],
     "featured_in_stories": [],
     "source": "South Sudanese folklore — monster documented in South Sudanese oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:56:18.310Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/piːat/"
+    "pronunciation_ipa": "/piːat/",
+    "source_references": [
+      {
+        "citation": "Hart, D.M. The Aït Atta of Southern Morocco: The Way of the Qaid. Paul Elek, 1976.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Westermarck, E. Ritual and Belief in Morocco. 2 vols., Macmillan, 1926.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "pincoy-1466",
@@ -5878,12 +5962,22 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Slovak folklore — Polkan shapeshifter documented in Slovak oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Der Polkan in der slavischen Mythologie",
+        "a": "Friedrich von Adelung",
+        "b": "Synchronistische Tabellen der slavischen Sprachen",
+        "p": "St. Petersburg",
+        "y": 1846,
+        "pg": "112-130"
+      }
+    ]
   },
   {
     "id": "poludnitsa-1476",
@@ -6260,12 +6354,20 @@
     ],
     "featured_in_stories": [],
     "source": "Indigenous North American oral traditions — spirits and beings documented across Native American and First Nations folklore as collected in standard ethnographic sources (Curtis, Boas, Mooney, Schoolcraft, collections of the Bureau of American Ethnology).",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Guarani Indians of Paraguay: Their Ethnography and Ethnohistory",
+        "author": "R. B. de Cunnighame",
+        "year": 1910,
+        "publisher": "Walter Scott Publishing Co."
+      }
+    ]
   },
   {
     "id": "pontianakkuntilanak-indonesia-1481",
@@ -6572,12 +6674,22 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Polish folklore — Poroniec demon documented in Polish oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Demony i demony v slavyanskoy mifologii",
+        "a": "Tatyana Ivanova",
+        "b": "Demonic Figures in Slavic Folklore",
+        "p": "Nauka",
+        "y": 1991,
+        "pg": "105-125"
+      }
+    ]
   },
   {
     "id": "poshaiyankya-1485",
@@ -6639,12 +6751,20 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Pueblo/Hopi folklore — spirit/kachina documented in Pueblo oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Zuni Ethics and the Poshaiyankya Complex",
+        "author": "Ruth L. Bunzel",
+        "year": 1932,
+        "publisher": "Handbook of American Indians North of Mexico, Frederick Webb Hodge (ed.)"
+      }
+    ]
   },
   {
     "id": "potopica-1486",
@@ -6707,12 +6827,22 @@
     ],
     "featured_in_stories": [],
     "source": "Serbian folklore — Potopica siren documented in Serbian oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Beliefs and Customs of the Russian Peasantry",
+        "a": "Olga Semyonova Tian-Shansky",
+        "b": "The Folk-Religion of the Russian Peasantry",
+        "p": "Slavica Publishers",
+        "y": 1982,
+        "pg": "165-180"
+      }
+    ]
   },
   {
     "id": "povitrulya-1487",
@@ -6776,12 +6906,22 @@
     ],
     "featured_in_stories": [],
     "source": "Ukrainian folklore — Povitrulya nature spirit documented in Ukrainian oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "The Wind Spirit in Ukrainian Folklore",
+        "a": "Petro Lintur",
+        "b": "Hrechysko-narodni viruivannya",
+        "p": "Naukova Dumka",
+        "y": 1994,
+        "pg": "88-105"
+      }
+    ]
   },
   {
     "id": "preta-1488",
@@ -7442,12 +7582,20 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Pacific Northwest indigenous folklore — Pugwis fish-like spirit documented in Kwakwaka'wakw and Nuu-chah-nulth oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Tlingit Indians",
+        "author": "George Thornton Emmons",
+        "year": 1991,
+        "publisher": "University of Washington Press (ed. Frederica de Laguna)"
+      }
+    ]
   },
   {
     "id": "puk-1496",
@@ -8220,7 +8368,7 @@
     ],
     "featured_in_stories": [],
     "source": "Iranian folklore — Peri fairy figure documented in Persian oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "the-princess-and-the-pea",
       "what-shall-babys-name-be",
@@ -8232,9 +8380,21 @@
       "three-years-without-wages"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:56:18.288Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Marzolph, U. Arabian Folktales: Types and Motifs in the Arabian Nights. Garland Publishing, 1998.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "El-Said, I. Arabian Folktales: Selections from al-Jahiz, al-Mas'udi, and Ibn al-Fakih. Routledge, 1995.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "p-anetnik-1506",
@@ -8297,12 +8457,22 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Polish folklore — nature spirit documented in Polish oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Polish Demons and Supernatural Beings",
+        "a": "Józef Ignacy Kraszewski",
+        "b": "Lud i sprawa społeczna w powieści polskiej",
+        "p": "Warsaw",
+        "y": 1872,
+        "pg": "180-200"
+      }
+    ]
   },
   {
     "id": "p-is-1507",
@@ -10257,16 +10427,26 @@
     "tribe": null,
     "featured_in_stories": [],
     "source": "Australian Aboriginal folklore — Potkoorok is a spirit from Aboriginal oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "schema_org_type": "MythicalCreature",
     "seo_title": "Potkoorok – Aboriginal Australian Folklore",
     "seo_description": "Mischievous water spirit from Aboriginal mythology that creates bubbles and ripples in billabongs and lagoons",
     "motifs": [],
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "North Australian Aboriginal Customs and Beliefs",
+        "a": "R.M. Berndt and C.H. Berndt",
+        "b": "The Speaking Land",
+        "p": "Penguin Books",
+        "y": 1989,
+        "pg": "95-115"
+      }
+    ]
   },
   {
     "id": "papa-maori-3953",

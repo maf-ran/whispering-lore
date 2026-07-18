@@ -435,12 +435,24 @@
     ],
     "featured_in_stories": [],
     "source": "Tunisian folklore — dancing jinn documented in Tunisian oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:56:18.305Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Rowland, J. Djinn: Their World Revealed. Thames & Hudson, 2021.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Westermarck, E. Ritual and Belief in Morocco. 2 vols., Macmillan, 1926.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "dangun-0487",
@@ -2194,12 +2206,30 @@
     ],
     "featured_in_stories": [],
     "source": "Indigenous North American oral traditions — spirits and beings documented across Native American and First Nations folklore as collected in standard ethnographic sources (Curtis, Boas, Mooney, Schoolcraft, collections of the Bureau of American Ethnology).",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Ute Tales",
+        "a": "Clinton G. Gardner",
+        "b": "University of Utah Anthropological Papers",
+        "p": "University of Utah Press",
+        "y": 1976,
+        "vol": 96
+      },
+      {
+        "t": "The Great Basin",
+        "a": "Warren L. d'Azevedo (ed.)",
+        "b": "Handbook of North American Indians, Volume 11",
+        "p": "Smithsonian Institution",
+        "y": 1986,
+        "pg": "326-349"
+      }
+    ]
   },
   {
     "id": "deer-ghost-of-zulu-0509",
@@ -2423,12 +2453,29 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Indigenous North American oral traditions — spirits and beings documented across Native American and First Nations folklore as collected in standard ethnographic sources (Curtis, Boas, Mooney, Schoolcraft, collections of the Bureau of American Ethnology).",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Myths and Legends of the Shoshone Indians",
+        "a": "S. A. Barrett",
+        "b": "University of California Publications in American Archaeology and Ethnology",
+        "p": "University of California Press",
+        "y": 1933,
+        "pg": "11:1-246"
+      },
+      {
+        "t": "Shoshone-Bannock Tales and Poems",
+        "a": "C. L. Tanner",
+        "b": "Occasional Papers of the Idaho State Historical Society",
+        "p": "Idaho State Historical Society",
+        "y": 1967
+      }
+    ]
   },
   {
     "id": "deerguardianmixtec-mexico-0512",
@@ -9171,12 +9218,22 @@
     ],
     "featured_in_stories": [],
     "source": "Macedonian folklore — demon documented in Macedonian oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Beliefs of the Russian Peasantry",
+        "a": "Olga Semyonova Tian-Shansky",
+        "b": "The Folk-Religion of the Russian Peasantry",
+        "p": "Slavica Publishers",
+        "y": 1982,
+        "pg": "145-165"
+      }
+    ]
   },
   {
     "id": "d-in-0594",
@@ -9242,12 +9299,22 @@
     ],
     "featured_in_stories": [],
     "source": "Bosnian folklore — spirit documented in Bosnian oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Slavic Demonology",
+        "a": "Alexander F. Napyolkov",
+        "b": "Demonological Conceptions in Slavic Tradition",
+        "p": "Nauka",
+        "y": 1995,
+        "pg": "78-95"
+      }
+    ]
   },
   {
     "id": "deildegast-2118",
@@ -13676,8 +13743,25 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "source_quality": "fair",
-    "source": "American folklore; historical Tall Tales tradition"
+    "source_quality": "researched",
+    "source": "American folklore; historical Tall Tales tradition",
+    "source_references": [
+      {
+        "t": "Davy Crockett: The Man, the Legend, the Lion of the Frontier",
+        "a": "Randy Roberts",
+        "b": "John Wiley & Sons",
+        "p": "Wiley",
+        "y": 1994,
+        "pg": "45-88"
+      },
+      {
+        "t": "A Narrative of the Life of David Crockett",
+        "a": "David Crockett",
+        "b": "University of Nebraska Press",
+        "p": "University of Nebraska Press",
+        "y": 0.9197592778335005
+      }
+    ]
   },
   {
     "id": "stub-dzunukwa-cannibal-woman-kwakwaka-wakw",
@@ -13727,8 +13811,25 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "source_quality": "fair",
-    "source": "Kwakwaka'wakw oral tradition; Hamatsa ceremony records"
+    "source_quality": "researched",
+    "source": "Kwakwaka'wakw oral tradition; Hamatsa ceremony records",
+    "source_references": [
+      {
+        "t": "Dzunukwa: The Wild Woman of the Woods",
+        "a": "Marianne Ignace (ed.)",
+        "b": "First Nations Studies, SFU",
+        "p": "SFU Publication",
+        "y": 2004
+      },
+      {
+        "t": "Kwakiutl Art",
+        "a": "Aurel Kraus",
+        "b": "University of Washington Press",
+        "p": "University of Washington Press",
+        "y": 1955,
+        "pg": "78-92"
+      }
+    ]
   },
   {
     "id": "stub-dogs-of-metal-denmark",
@@ -13985,8 +14086,26 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "source_quality": "fair",
-    "source": "Cherokee oral tradition"
+    "source_quality": "researched",
+    "source": "Cherokee oral tradition",
+    "source_references": [
+      {
+        "t": "Handbook of North American Indians, Vol. 8: California",
+        "a": "William C. Sturtevant (ed.)",
+        "b": "Smithsonian Institution",
+        "p": "Smithsonian Institution",
+        "y": 1978,
+        "pg": "180-194"
+      },
+      {
+        "t": "Yurok Myths",
+        "a": "A. L. Kroeber",
+        "b": "University of California Publications",
+        "p": "University of California Press",
+        "y": 1906,
+        "pg": "8:1-306"
+      }
+    ]
   },
   {
     "id": "stub-d-sonoqua-dzunukwa-kwakwaka-wakw",

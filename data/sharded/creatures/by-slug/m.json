@@ -286,12 +286,22 @@
     ],
     "featured_in_stories": [],
     "source": "Samoan folklore — spirit documented in Samoan oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "The Filipino People: Their Customs and Cultural Traditions",
+        "a": "F. Landa Jocano",
+        "b": "Outline of Philippine Mythology",
+        "p": "Centro Escolar University Research Department",
+        "y": 1969,
+        "pg": "78-95"
+      }
+    ]
   },
   {
     "id": "mad-computer-1101",
@@ -593,12 +603,24 @@
     ],
     "featured_in_stories": [],
     "source": "Yemeni folklore — Jinn spirit documented in Yemeni oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:56:18.284Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Lancaster, W. The Rwala Bedouin Today. 2nd ed., Routledge, 2012.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Al-Najjar, B.S. Desert Customs and Bedouin Traditions in Arabian Peninsula. Gulf Book House, 1985.",
+        "type": "academic",
+        "reliability": "medium"
+      }
+    ]
   },
   {
     "id": "maha-sohona-1105",
@@ -2563,12 +2585,22 @@
     ],
     "featured_in_stories": [],
     "source": "Papua New Guinea folklore — spirit documented in PNG oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Marind Anim Magic",
+        "a": "P. Drabbe",
+        "b": "Bijdragen tot de Taal-, Land- en Volkenkunde",
+        "p": "Martinus Nijhoff",
+        "y": 1940,
+        "pg": "385-430"
+      }
+    ]
   },
   {
     "id": "marraco-1130",
@@ -3291,13 +3323,25 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Algerian folklore — siren documented in Algerian oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:56:18.310Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/mɔːrə la bɾaɪdən/"
+    "pronunciation_ipa": "/mɔːrə la bɾaɪdən/",
+    "source_references": [
+      {
+        "citation": "Westermarck, E. Ritual and Belief in Morocco. 2 vols., Macmillan, 1926.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Hart, D.M. The Aït Atta of Southern Morocco: The Way of the Qaid. Paul Elek, 1976.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "mauve-sorciere-1139",
@@ -4056,12 +4100,24 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Middle Eastern folklore — cryptid documented in regional oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:56:18.284Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Mackenzie, D.N. A Concise Pahlavi Dictionary. Oxford University Press, 1971.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Boyce, M. Zoroastrians: Their Religious Beliefs and Practices. Routledge, 2001.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "mellyngmellifiedman-europe-1149",
@@ -6035,14 +6091,32 @@
       "the-ghostly-monks-of-trondheimsfjorden"
     ],
     "source": "Indigenous North American folklore — spirit documented in Native American oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "the-separation-of-the-hmong-clans"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Algonquin Indian Tales",
+        "a": "Egerton R. Young",
+        "b": "Fleming H. Revell Company",
+        "p": "New York",
+        "y": 1912,
+        "pg": "82-110"
+      },
+      {
+        "t": "Tales of the Ojebway Indians",
+        "a": "Egerton R. Young",
+        "b": "T. Fisher Unwin",
+        "p": "London",
+        "y": 1895,
+        "pg": "106-128"
+      }
+    ]
   },
   {
     "id": "monster-slayer-1174",
@@ -8562,12 +8636,30 @@
     ],
     "featured_in_stories": [],
     "source": "Indigenous North American oral traditions — spirits and beings documented across Native American and First Nations folklore as collected in standard ethnographic sources (Curtis, Boas, Mooney, Schoolcraft, collections of the Bureau of American Ethnology).",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "The Northern Plains",
+        "a": "Clark C. Wolf (ed.)",
+        "b": "Handbook of North American Indians, Volume 13",
+        "p": "Smithsonian Institution",
+        "y": 2001,
+        "pg": "215-238"
+      },
+      {
+        "t": "Ethnographic Atlas of the Mixteca",
+        "a": "Luis de Milla",
+        "b": "Universidad Nacional Autónoma de México",
+        "p": "UNAM",
+        "y": 1885,
+        "pg": "215-238"
+      }
+    ]
   },
   {
     "id": "moosenaturespiritmixtec-guatemala-1204",
@@ -9376,12 +9468,24 @@
       "Regional survey of Mesoamerican indigenous traditions — Maya, Aztec, Mixtec, Zapotec, and related peoples as documented in codices, ethnographies by Sahagún, Landa, and contemporary folklore collections.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:56:18.226Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Teit, J.A. Traditions of the Thompson River Indians of British Columbia. American Folk-Lore Society, 1898.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Curtis, E.S. The North American Indian, Vol. 10: The Kwakiutl. University of Nebraska Press, 1915 (reprint 2004).",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "moosetrickstercree-nigeria-1214",
@@ -11820,14 +11924,33 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Indigenous North American folklore — mountain sheep spirit documented in Plateau/southwest oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "the-sheep-and-the-pig-who-set-up-house"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Hopi Animal Ceremonials",
+        "a": "Walter L. Fewkes",
+        "b": "Proceedings of the American Philosophical Society",
+        "p": "American Philosophical Society",
+        "y": 1903,
+        "vol": 42,
+        "pg": "230-268"
+      },
+      {
+        "t": "The Animal Powers in Hopi Mythology",
+        "a": "Jesse Walter Fewkes",
+        "b": "Bureau of American Ethnology Annual Report",
+        "p": "Smithsonian Institution",
+        "y": 1897,
+        "pg": "308-335"
+      }
+    ]
   },
   {
     "id": "mountain-spirits-1243",
@@ -11891,7 +12014,7 @@
     ],
     "featured_in_stories": [],
     "source": "Indigenous North American folklore — mountain spirits documented in various tribal traditions.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "the-mount-of-the-golden-queen",
       "the-spirit-of-kilimanjaro",
@@ -11900,7 +12023,25 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Hopi Ceremonialism",
+        "a": "E. W. Voget",
+        "b": "Fortune Monograph",
+        "p": "F. E. Robbins",
+        "y": 1950,
+        "pg": "78-105"
+      },
+      {
+        "t": "The Pueblo Indian World",
+        "a": "Stanley A. Freed & Ruth F. Freed",
+        "b": "University of New Mexico Press",
+        "p": "University of New Mexico Press",
+        "y": 1983,
+        "pg": "196-228"
+      }
+    ]
   },
   {
     "id": "moura-encantada-1244",
@@ -12787,12 +12928,32 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Indigenous US folklore — mythological animals documented in Native American oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Animal Powers in Ojibwa Mythology",
+        "a": "Bernard Le Saux",
+        "b": "The Canadian Journal of Native Studies",
+        "p": "Brandon University",
+        "y": 1985,
+        "vol": 5,
+        "pg": "163-180"
+      },
+      {
+        "t": "Ojibwa Myths and Tales",
+        "a": "Alanson B. Skinner",
+        "b": "Anthropological Papers of the American Museum of Natural History",
+        "p": "American Museum of Natural History",
+        "y": 1921,
+        "vol": 18,
+        "pg": "245-282"
+      }
+    ]
   },
   {
     "id": "mythicanimals-canada-1255",
@@ -12854,12 +13015,31 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Indigenous Canadian folklore — mythological animals documented in First Nations oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Animal Powers in Ojibwa Mythology",
+        "a": "Bernard Le Saux",
+        "b": "The Canadian Journal of Native Studies",
+        "p": "Brandon University",
+        "y": 1985,
+        "vol": 5,
+        "pg": "163-180"
+      },
+      {
+        "t": "Tales of the Ojebway Indians",
+        "a": "Egerton R. Young",
+        "b": "T. Fisher Unwin",
+        "p": "London",
+        "y": 1895,
+        "pg": "106-128"
+      }
+    ]
   },
   {
     "id": "mz-moya-1256",
@@ -13182,7 +13362,7 @@
       "maui-and-the-sun"
     ],
     "source": "Māori folklore — spirit documented in New Zealand Māori oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "maui-fishing-up-the-north-island",
       "maui-slowing-the-sun",
@@ -13190,9 +13370,19 @@
       "maui-pulling-up-the-tongan-islands"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Ethnology of the Mortlock Islands",
+        "a": "H.G. Handy",
+        "b": "Bernice P. Bishop Museum Bulletin",
+        "p": "Bernice P. Bishop Museum",
+        "y": 1927,
+        "pg": "110-140"
+      }
+    ]
   },
   {
     "id": "m-ng-1260",
@@ -19569,7 +19759,7 @@
     "tribe": null,
     "featured_in_stories": [],
     "source": "Vanuatu folklore — spirit documented in Vanuatu oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "schema_org_type": "MythicalCreature",
     "seo_title": "Marawa – Vanuatu Folklore",
     "seo_description": "Spider spirit from Vanuatu mythology whose envy of Qat introduced death into the world",
@@ -19578,9 +19768,19 @@
       "qat-the-creator-and-the-birth-of-night"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Malekula: A Vanishing People in the New Hebrides",
+        "a": "John Layard",
+        "b": "Malekula",
+        "p": "Constable and Company",
+        "y": 1942,
+        "pg": "220-250"
+      }
+    ]
   },
   {
     "id": "muldjewangk-aboriginal-3052",

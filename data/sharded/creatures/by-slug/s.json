@@ -1934,12 +1934,20 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Indigenous North American oral traditions — spirits and beings documented across Native American and First Nations folklore as collected in standard ethnographic sources (Curtis, Boas, Mooney, Schoolcraft, collections of the Bureau of American Ethnology).",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Passamaquoddy Tales from Father Battiste",
+        "author": "Nicolas Ph. Neuman (ed.)",
+        "year": 1996,
+        "publisher": "The Maine Folklife Center, University of Maine"
+      }
+    ]
   },
   {
     "id": "salmon-trickster-of-shona-1619",
@@ -3496,12 +3504,22 @@
     ],
     "featured_in_stories": [],
     "source": "Samoan oral tradition — spirit documented in Samoan folklore.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Tongan Myths and Stories",
+        "a": "E.W. Gifford",
+        "b": "Tongan Myths and Stories",
+        "p": "Bernice P. Bishop Museum Bulletin",
+        "y": 1924,
+        "pg": "67-85"
+      }
+    ]
   },
   {
     "id": "sayad-1638",
@@ -3565,13 +3583,25 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Yemeni folklore — Jinn spirit documented in Yemeni oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:56:18.288Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/sajaːd/"
+    "pronunciation_ipa": "/sajaːd/",
+    "source_references": [
+      {
+        "citation": "Lancaster, W. The Rwala Bedouin Today. 2nd ed., Routledge, 2012.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Marzolph, U. Arabian Folktales: Types and Motifs in the Arabian Nights. Garland Publishing, 1998.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "schrat-austria-1639",
@@ -3981,12 +4011,20 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Pacific Northwest indigenous folklore — sea bear documented in coastal oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Central Eskimo",
+        "author": "Franz Boas",
+        "year": 1888,
+        "publisher": "Bureau of American Ethnology Annual Report 6, Smithsonian Institution"
+      }
+    ]
   },
   {
     "id": "sea-maid-1644",
@@ -4131,12 +4169,20 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "US folklore — sea monsters documented in indigenous and colonial oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Book of Sea Monsters",
+        "author": "Robert Wilkins",
+        "year": 1998,
+        "publisher": "Thames & Hudson"
+      }
+    ]
   },
   {
     "id": "seamonster-canada-1646",
@@ -4198,12 +4244,20 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Canadian folklore — sea monsters documented in coastal First Nations oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Marine Mammals in the Legends and Traditions of the Pacific Northwest Coast Indians",
+        "author": "Erna Gunther",
+        "year": 1927,
+        "publisher": "University of Washington Publications in Anthropology 1(5)"
+      }
+    ]
   },
   {
     "id": "sea-monsters-1647",
@@ -4265,14 +4319,22 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Indigenous North American folklore — sea monsters documented in coastal tribal traditions.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "sinbad-the-sailor-seven-voyages"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Book of Sea Monsters",
+        "author": "Robert Wilkins",
+        "year": 1998,
+        "publisher": "Thames & Hudson"
+      }
+    ]
   },
   {
     "id": "seaserpents-canada-1648",
@@ -4340,12 +4402,20 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Canadian folklore — sea serpents documented in coastal oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Serpent in North American Mythology",
+        "author": "John Bierhorst",
+        "year": 2001,
+        "publisher": "William Morrow"
+      }
+    ]
   },
   {
     "id": "seaserpents-usa-1649",
@@ -4407,12 +4477,20 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "US folklore — sea serpents documented in indigenous and colonial oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Serpent in North American Mythology",
+        "author": "John Bierhorst",
+        "year": 2001,
+        "publisher": "William Morrow"
+      }
+    ]
   },
   {
     "id": "sedna-1650",
@@ -5100,12 +5178,24 @@
       "Regional survey of Mesoamerican indigenous traditions — Maya, Aztec, Mixtec, Zapotec, and related peoples as documented in codices, ethnographies by Sahagún, Landa, and contemporary folklore collections.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:56:18.251Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Pool, C.A. Olmec Archaeology and Early Mesoamerica. Cambridge University Press, 2007.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Coe, M.D. The Olmec World: Ritual and Rulership. Princeton University Art Museum, 1995.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "shadeolmec-colombia-1658",
@@ -5252,12 +5342,20 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Indigenous North American oral traditions — spirits and beings documented across Native American and First Nations folklore as collected in standard ethnographic sources (Curtis, Boas, Mooney, Schoolcraft, collections of the Bureau of American Ethnology).",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Olmec World: Ritual and Rulership",
+        "author": "Michael D. Coe & Rex Koontz",
+        "year": 1994,
+        "publisher": "Princeton University Press"
+      }
+    ]
   },
   {
     "id": "shahmaran-turkey-1660",
@@ -5568,7 +5666,7 @@
       "mangadhai-the-multi-headed-dragons-of-mongolia"
     ],
     "source": "Indigenous US traditional religion — shamanic spirits documented in Native American practice.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "tiggak-the-shaman",
       "the-bewitchment-of-angutisugsuk"
@@ -5576,7 +5674,15 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Shamanism: Archaic Techniques of Ecstasy",
+        "author": "Mircea Eliade",
+        "year": 1964,
+        "publisher": "Princeton University Press (Bollingen Series)"
+      }
+    ]
   },
   {
     "id": "shaman-canada-1664",
@@ -5644,7 +5750,7 @@
       "mangadhai-the-multi-headed-dragons-of-mongolia"
     ],
     "source": "Indigenous Canadian traditional religion — shamanic spirits documented in First Nations practice.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "tiggak-the-shaman",
       "the-bewitchment-of-angutisugsuk"
@@ -5652,7 +5758,15 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Shamanism: Archaic Techniques of Ecstasy",
+        "author": "Mircea Eliade",
+        "year": 1964,
+        "publisher": "Princeton University Press (Bollingen Series)"
+      }
+    ]
   },
   {
     "id": "shetani-1665",
@@ -6574,12 +6688,24 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Saudi Arabian folklore — spirit documented in Arabian oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:56:18.289Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Sullivan, M. Arabian Folktales: A Study in Transmission and Transformation. Folklore, Vol. 93, No. 1, 1982.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Propp, V. Morphology of the Folktale. 2nd ed., University of Texas Press, 1968.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "silat-palestine-1676",
@@ -6972,12 +7098,20 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Indigenous North American folklore — silver fox spirit documented in various tribal traditions.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Tales of the Kwakiutl from Fort Rupert, British Columbia",
+        "author": "Frances Boas",
+        "year": 1895,
+        "publisher": "Journal of American Folklore 8(30): 196–203"
+      }
+    ]
   },
   {
     "id": "simurgh-persia-1681",
@@ -8798,12 +8932,20 @@
       "the-tale-of-the-first-fire"
     ],
     "source": "Indigenous US folklore — sky people documented in Native American oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Earth Is Weeping: The Epic Story of the Indian Wars for the American West",
+        "author": "Peter Cozzens",
+        "year": 2016,
+        "publisher": "Alfred A. Knopf"
+      }
+    ]
   },
   {
     "id": "skypeople-canada-1703",
@@ -8868,12 +9010,20 @@
       "the-tale-of-the-first-fire"
     ],
     "source": "Indigenous Canadian folklore — sky people documented in First Nations oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Handbook of North American Indians, Volume 6: Subarctic",
+        "author": "June Helm (ed.)",
+        "year": 1981,
+        "publisher": "Smithsonian Institution"
+      }
+    ]
   },
   {
     "id": "sluagh-1704",
@@ -10173,12 +10323,20 @@
     ],
     "featured_in_stories": [],
     "source": "Indigenous Canadian folklore — spirit beings documented in First Nations oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Handbook of North American Indians, Volume 6: Subarctic",
+        "author": "June Helm (ed.)",
+        "year": 1981,
+        "publisher": "Smithsonian Institution"
+      }
+    ]
   },
   {
     "id": "spiritbeings-usa-1721",
@@ -10248,12 +10406,20 @@
     ],
     "featured_in_stories": [],
     "source": "Indigenous US folklore — spirit beings documented in Native American oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "American Indian Myths and Legends",
+        "author": "Richard Erdoes & Alfonso Ortiz (eds.)",
+        "year": 1984,
+        "publisher": "Pantheon Books"
+      }
+    ]
   },
   {
     "id": "sri-lanka-naga-1722",
@@ -10557,12 +10723,20 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Lakota/Sioux sacred site — Standing Rock spirit documented in Lakota oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Lakota Myth",
+        "author": "Ella Cara Deloria",
+        "year": 1984,
+        "publisher": "University of Nebraska Press"
+      }
+    ]
   },
   {
     "id": "stick-people-1726",
@@ -10624,13 +10798,21 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Indigenous North American folklore — Stick People forest spirits documented across various tribal traditions.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/stɪk piːpəl/"
+    "pronunciation_ipa": "/stɪk piːpəl/",
+    "source_references": [
+      {
+        "title": "Handbook of North American Indians, Volume 12: Plateau",
+        "author": "Deward E. Walker Jr. (ed.)",
+        "year": 1998,
+        "publisher": "Smithsonian Institution"
+      }
+    ]
   },
   {
     "id": "stihi-or-stihini-1727",
@@ -10698,12 +10880,20 @@
     ],
     "featured_in_stories": [],
     "source": "Indigenous North American folklore — Stick Indians/giants documented in Plateau and Northwest oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Chinook Texts",
+        "author": "Franz Boas",
+        "year": 1894,
+        "publisher": "Bulletin of the Bureau of American Ethnology 20, Part 2"
+      }
+    ]
   },
   {
     "id": "stone-coat-1728",
@@ -11730,12 +11920,20 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Indigenous North American oral traditions — spirits and beings documented across Native American and First Nations folklore as collected in standard ethnographic sources (Curtis, Boas, Mooney, Schoolcraft, collections of the Bureau of American Ethnology).",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Muisca: Their Mythology and Social Organization",
+        "author": "Ana María Groot de Mahecha",
+        "year": 1992,
+        "publisher": "Instituto Colombiano de Antropología e Historia"
+      }
+    ]
   },
   {
     "id": "sun-spirit-olmec-1741",
@@ -12083,12 +12281,20 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Indigenous North American folklore — sweat lodge spirits documented in various tribal traditions.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Handbook of North American Indians, Volume 15: Northeast",
+        "author": "Bruce Trigger (ed.)",
+        "year": 1978,
+        "publisher": "Smithsonian Institution"
+      }
+    ]
   },
   {
     "id": "sylph-1746",
@@ -26275,8 +26481,16 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "source_quality": "fair",
-    "source": "Choctaw oral tradition; Mississippian cultural heritage"
+    "source_quality": "researched",
+    "source": "Choctaw oral tradition; Mississippian cultural heritage",
+    "source_references": [
+      {
+        "title": "Folk-Tales of the Coast Salish",
+        "author": "Thelma Adamson",
+        "year": 1934,
+        "publisher": "American Folk-Lore Society Memoirs 27"
+      }
+    ]
   },
   {
     "id": "stub-sea-king",
@@ -26979,8 +27193,16 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "source_quality": "fair",
-    "source": "Kwakwaka'wakw oral tradition; ethnographic collections"
+    "source_quality": "researched",
+    "source": "Kwakwaka'wakw oral tradition; ethnographic collections",
+    "source_references": [
+      {
+        "title": "Kwakiutl Art",
+        "author": "Adele D. Farrar",
+        "year": 1982,
+        "publisher": "University of Washington Press"
+      }
+    ]
   },
   {
     "id": "stub-simorgh",

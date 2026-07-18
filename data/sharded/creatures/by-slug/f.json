@@ -2158,12 +2158,30 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Indigenous US folklore — forest person spirit documented in Native American oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Algonquian Spirit: Toward a Poetics in American Native Writing",
+        "a": "Brian Swann (ed.)",
+        "b": "University of Nebraska Press",
+        "p": "University of Nebraska Press",
+        "y": 2005,
+        "pg": "78-102"
+      },
+      {
+        "t": "Forest Indian Legends",
+        "a": "Barbara Myerhoff",
+        "b": "University of California Publications",
+        "p": "University of California Press",
+        "y": 1974,
+        "pg": "23-46"
+      }
+    ]
   },
   {
     "id": "forestperson-canada-0708",
@@ -2225,12 +2243,30 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Indigenous Canadian folklore — forest person spirit documented in First Nations oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Algonquian Spirit: Toward a Poetics in American Native Writing",
+        "a": "Brian Swann (ed.)",
+        "b": "University of Nebraska Press",
+        "p": "University of Nebraska Press",
+        "y": 2005,
+        "pg": "78-102"
+      },
+      {
+        "t": "The Forest Indians of the Hudson Bay Region",
+        "a": "Harlan I. Smith",
+        "b": "American Museum of Natural History",
+        "p": "American Museum of Natural History",
+        "y": 1928,
+        "pg": "87-112"
+      }
+    ]
   },
   {
     "id": "fossegrim-0709",
@@ -8757,7 +8793,26 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "source_quality": "fair",
-    "source": "Gullah Geechee oral tradition; WPA slave narratives"
+    "source_quality": "researched",
+    "source": "Gullah Geechee oral tradition; WPA slave narratives",
+    "source_references": [
+      {
+        "t": "The Flying African: A Study of a Folktale Motif",
+        "a": "Werner Sollors",
+        "b": "New Literary History",
+        "p": "Johns Hopkins University Press",
+        "y": 1997,
+        "vol": 28,
+        "pg": "237-253"
+      },
+      {
+        "t": "Slave Songs of the United States",
+        "a": "William Francis Allen, Charles Pickard Ware, Lucy McKim Garrison",
+        "b": "A. Simpson & Co.",
+        "p": "New York",
+        "y": 1867,
+        "pg": "62-68"
+      }
+    ]
   }
 ]

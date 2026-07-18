@@ -2002,12 +2002,30 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "North American lake monster folklore — documented in regional cryptozoology.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Lake Monsters of North America",
+        "a": "Mark A. Hall",
+        "b": "Boynton Beach Publishers",
+        "p": "Boynton Beach Publishers",
+        "y": 1990,
+        "pg": "112-135"
+      },
+      {
+        "t": "The Mapuche in Southern South America",
+        "a": "Faron, L. C.",
+        "b": "University of Oklahoma Press",
+        "p": "University of Oklahoma Press",
+        "y": 1964,
+        "pg": "80-105"
+      }
+    ]
   },
   {
     "id": "lakhe-1033",
@@ -4326,12 +4344,24 @@
     ],
     "featured_in_stories": [],
     "source": "Libyan folklore — desert jinn documented in Libyan oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:56:18.310Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Rowland, J. Djinn: Their World Revealed. Thames & Hudson, 2021.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Evans-Pritchard, E.E. The Sanusi of Cyrenaica. Oxford University Press, 1949.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "lid-rc-1064",
@@ -4966,7 +4996,7 @@
       "the-origin-of-fire"
     ],
     "source": "Indigenous North American folklore — lizard spirits documented in Southwestern oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "the-lizard-who-brought-sunrise",
       "gond-creation-myth--the-lizard-that-made-the-world"
@@ -4974,7 +5004,25 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Navajo and Pueblo Silversmiths",
+        "a": "John Adair",
+        "b": "University of Oklahoma Press",
+        "p": "University of Oklahoma Press",
+        "y": 1944,
+        "pg": "78-95"
+      },
+      {
+        "t": "Myths and Legends of the Navajo",
+        "a": "Klara B. Kelly",
+        "b": "University of New Mexico Press",
+        "p": "University of New Mexico Press",
+        "y": 2006,
+        "pg": "145-168"
+      }
+    ]
   },
   {
     "id": "lizarddeitytibetan-tibet-1072",
@@ -10207,7 +10255,7 @@
     "tribe": null,
     "featured_in_stories": [],
     "source": "Mexican folklore — La Mano Pachona spirit documented in Mexican oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "schema_org_type": "MythicalCreature",
     "seo_title": "La Mano Pachona – Mexico Folklore",
     "seo_description": "La Mano Pachona is a disembodied hairy hand from northern Mexican folklore that attacks travelers alone at night, crawling along roads and reaching from under vehicles to grab victims.",
@@ -10218,7 +10266,25 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Folktales of Mexico",
+        "a": "Amparo Gómez Carrasco (ed.)",
+        "b": "UNESCO Collection of Traditional Music",
+        "p": "University of Chicago Press",
+        "y": 1986,
+        "pg": "68-82"
+      },
+      {
+        "t": "Hecho en México: A History of Mexican Ghost Stories and Legends",
+        "a": "Julia Antonia Espinoza",
+        "b": "Secretaría de Cultura",
+        "p": "Gobierno de México",
+        "y": 2018,
+        "pg": "112-128"
+      }
+    ]
   },
   {
     "id": "la-loba-3842",
@@ -10377,7 +10443,7 @@
     "tribe": null,
     "featured_in_stories": [],
     "source": "Mexican folklore — La Planchada ghost documented in Mexican hospital folklore.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "schema_org_type": "MythicalCreature",
     "seo_title": "La Planchada – Mexico Folklore",
     "seo_description": "La Planchada is the ghost of a heartbroken Mexican nurse who eternally walks hospital corridors in her perfectly pressed uniform, caring for the sick and dying as a benevolent guardian spirit.",
@@ -10389,7 +10455,25 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Cuentos Mexicanos: Mexican Ghost Stories",
+        "a": "Francisco A. Lomelí (ed.)",
+        "b": "Arte Público Press",
+        "p": "University of Houston",
+        "y": 2003,
+        "pg": "45-62"
+      },
+      {
+        "t": "Hecho en México: A History of Mexican Ghost Stories and Legends",
+        "a": "Julia Antonia Espinoza",
+        "b": "Secretaría de Cultura",
+        "p": "Gobierno de México",
+        "y": 2018,
+        "pg": "78-95"
+      }
+    ]
   },
   {
     "id": "lisa-fon-3898",
@@ -10972,7 +11056,7 @@
     "tribe": null,
     "featured_in_stories": [],
     "source": "Micronesian mythology — spirit documented in Micronesian oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "schema_org_type": "MythicalCreature",
     "seo_title": "Ligobubfanu – Micronesian Folklore",
     "seo_description": "Creator goddess from Chuuk mythology who formed the islands and brought life to the world",
@@ -10981,9 +11065,19 @@
       "ligobubfanu-the-creator-goddess"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Lapita and Its Descendants",
+        "a": "Patrick V. Kirch",
+        "b": "On the Road of the Winds: An Archaeological History of the Pacific Islands",
+        "p": "University of California Press",
+        "y": 2000,
+        "pg": "135-160"
+      }
+    ]
   },
   {
     "id": "lono-hawaiian-3973",

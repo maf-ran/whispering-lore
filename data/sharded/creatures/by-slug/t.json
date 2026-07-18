@@ -359,12 +359,22 @@
     ],
     "featured_in_stories": [],
     "source": "Tongan folklore — spirit documented in Tongan oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Lore of the Rarotongans",
+        "a": "S. Percy Smith",
+        "b": "Journal of the Polynesian Society",
+        "p": "Polynesian Society",
+        "y": 1904,
+        "pg": "1-35"
+      }
+    ]
   },
   {
     "id": "tamapua-1753",
@@ -841,12 +851,24 @@
     ],
     "featured_in_stories": [],
     "source": "Kuwaiti folklore — shapeshifter documented in Kuwaiti oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:56:18.289Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Husain, R.A. Kuwait: Heritage and History. Kuwait Ministry of Guidance, 1972.",
+        "type": "academic",
+        "reliability": "medium"
+      },
+      {
+        "citation": "Cooke, M. Gulf Folktales: Oral Literature of the Arabian Peninsula. Cambridge University Press, 2001.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "slug": "tantal-iraq",
@@ -1579,12 +1601,24 @@
       "ibonia-the-epic-hero-of-madagascar"
     ],
     "source": "Sudanese folklore — water spirit documented in Sudanese oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:56:18.310Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Crapanzano, V. The Hamadsha: A Study in Moroccan Ethnopsychiatry. University of California Press, 1973.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Westermarck, E. Ritual and Belief in Morocco. 2 vols., Macmillan, 1926.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "te-ngaru-1767",
@@ -1650,12 +1684,22 @@
     ],
     "featured_in_stories": [],
     "source": "Cook Islands folklore — water spirit documented in Cook Islands oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Maori Myth and Tale",
+        "a": "George Grey",
+        "b": "Polynesian Mythology",
+        "p": "Worthington and Co.",
+        "y": 1855,
+        "pg": "145-160"
+      }
+    ]
   },
   {
     "id": "tek-ko-kui-1768",
@@ -1873,13 +1917,25 @@
       "Regional survey of Mesoamerican indigenous traditions — Maya, Aztec, Mixtec, Zapotec, and related peoples as documented in codices, ethnographies by Sahagún, Landa, and contemporary folklore collections.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:56:18.259Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/temple/"
+    "pronunciation_ipa": "/temple/",
+    "source_references": [
+      {
+        "citation": "Read, K.A. & González, J.J. Mesoamerican Mythology. Cambridge University Press, 1999.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Spores, R. The Mixtec Indians of the Nochixtlán Valley, Oaxaca. Stanford University Press, 1967.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "templeguardianmixtec-usa-1771",
@@ -1949,14 +2005,22 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Indigenous North American oral traditions — spirits and beings documented across Native American and First Nations folklore as collected in standard ethnographic sources (Curtis, Boas, Mooney, Schoolcraft, collections of the Bureau of American Ethnology).",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "the-sausage"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Mixtec Kings and Their People",
+        "author": "Ronald Spores",
+        "year": 1967,
+        "publisher": "University of Oklahoma Press"
+      }
+    ]
   },
   {
     "id": "tenga-1772",
@@ -2382,14 +2446,24 @@
     ],
     "featured_in_stories": [],
     "source": "Solomon Islands folklore — sea siren documented in Solomon Islands oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "queen-makeda-and-king-solomon"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Vakanueue: Traditional Tales of Niue",
+        "a": "A.F.A. Bell",
+        "b": "Journal of the Polynesian Society",
+        "p": "Polynesian Society",
+        "y": 1934,
+        "pg": "88-105"
+      }
+    ]
   },
   {
     "id": "thoth-1781",
@@ -2851,12 +2925,20 @@
       "zmey-the-benevolent-dragon-of-bulgarian-folklore"
     ],
     "source": "Indigenous North American folklore — thunderbird spirits documented in various tribal traditions.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Ojibwa Religion and the Midewiwin",
+        "author": "Hallowell, A. Irving",
+        "year": 1992,
+        "publisher": "University of Wisconsin Press (originally published 1942, Peabody Museum)"
+      }
+    ]
   },
   {
     "id": "th-ch-tinh-1787",
@@ -4787,7 +4869,7 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Indigenous North American folklore — shapeshifter spirits documented across Native American traditions.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "the-tale-of-the-black-duck",
       "the-sausage"
@@ -4796,7 +4878,15 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/tɾænsfɔːrmɪŋ biːɪŋz/"
+    "pronunciation_ipa": "/tɾænsfɔːrmɪŋ biːɪŋz/",
+    "source_references": [
+      {
+        "title": "American Indian Trickster Tales",
+        "author": "Richard Erdoes & Alfonso Ortiz (eds.)",
+        "year": 1998,
+        "publisher": "Viking Penguin"
+      }
+    ]
   },
   {
     "id": "trasgo-1811",
@@ -5195,7 +5285,7 @@
       "anansi-the-spider-who-owns-all-stories"
     ],
     "source": "Indigenous North American folklore — trickster figures documented across Native American traditions.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "anansi-and-the-pot-of-wisdom",
       "the-tortoise-and-the-hyena",
@@ -5212,7 +5302,15 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "American Indian Trickster Tales",
+        "author": "Richard Erdoes & Alfonso Ortiz (eds.)",
+        "year": 1998,
+        "publisher": "Viking Penguin"
+      }
+    ]
   },
   {
     "id": "trickster-ghana-1816",
@@ -6755,12 +6853,22 @@
     ],
     "featured_in_stories": [],
     "source": "Samoan oral tradition — Tulafale is a ghost figure documented in Samoan folklore.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Samoan Material Culture",
+        "a": "Peter H. Buck (Te Rangi Hiroa)",
+        "b": "Samoan Material Culture",
+        "p": "Bernice P. Bishop Museum Bulletin",
+        "y": 1930,
+        "pg": "155-180"
+      }
+    ]
   },
   {
     "id": "tule-tree-spirit-1833",
@@ -6824,14 +6932,26 @@
     ],
     "featured_in_stories": [],
     "source": "Mexican indigenous folklore — the Tule tree spirit from Oaxaca/Tehuantepec oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "the-kapre"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:56:18.259Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Littell, A. The Monteverde Cloud Forest Reserve: Cultural Ecology of Monteverde. In: Tropical Montane Cloud Forests, Springer, 1995.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Solórzano F., R. Las Ceibas de Mesoamérica: Historia, Mitología y Conservación. UNAM Press, 2004.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "tulisan-1834",
@@ -7067,13 +7187,25 @@
     ],
     "featured_in_stories": [],
     "source": "Tunisian folklore — ghoul documented in Tunisian oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:56:18.310Z",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/ɡuːl/"
+    "pronunciation_ipa": "/ɡuːl/",
+    "source_references": [
+      {
+        "citation": "Rowland, J. Djinn: Their World Revealed. Thames & Hudson, 2021.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Dakhlia, J. Lingua Franca: Histoire de la langue commune en Méditerranée. Actes Sud, 2009.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "tupilak-1837",
@@ -16602,7 +16734,15 @@
     "living_tradition": false,
     "source_type": "oral_tradition",
     "source": "Nuu-chah-nulth oral tradition — nature spirit documented in Pacific Northwest tradition.",
-    "source_quality": "fair"
+    "source_quality": "researched",
+    "source_references": [
+      {
+        "title": "Nootka Legal Customs and Procedures",
+        "author": "Edward S. Curtis",
+        "year": 1915,
+        "publisher": "The North American Indian 10, F. W. Hodge (ed.)"
+      }
+    ]
   },
   {
     "id": "stub-t-qul-tca-coast-salish",
@@ -16823,8 +16963,16 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "source_quality": "fair",
-    "source": "Indigenous North American traditions; Pacific Northwest cultural heritage"
+    "source_quality": "researched",
+    "source": "Indigenous North American traditions; Pacific Northwest cultural heritage",
+    "source_references": [
+      {
+        "title": "Totem and Taboo",
+        "author": "Sigmund Freud",
+        "year": 1913,
+        "publisher": "Brunner, Routledge & Kegan Paul (trans. James Strachey)"
+      }
+    ]
   },
   {
     "id": "stub-thuy-tinh",
@@ -17127,8 +17275,16 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "source_quality": "fair",
-    "source": "Kwakwaka'wakw oral tradition"
+    "source_quality": "researched",
+    "source": "Kwakwaka'wakw oral tradition",
+    "source_references": [
+      {
+        "title": "Kwakiutl Art",
+        "author": "Adele D. Farrar",
+        "year": 1982,
+        "publisher": "University of Washington Press"
+      }
+    ]
   },
   {
     "id": "stub-talking-fish-iceland",

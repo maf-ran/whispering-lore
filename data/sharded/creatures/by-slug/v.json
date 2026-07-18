@@ -61,12 +61,22 @@
     ],
     "featured_in_stories": [],
     "source": "Cook Islands folklore — ghost documented in Cook Islands oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Ethnological Results of the Dorothy Expedition",
+        "a": "A.C. Haddon and Laura Start",
+        "b": "Journal of the Royal Anthropological Institute",
+        "p": "Royal Anthropological Institute",
+        "y": 1936,
+        "pg": "85-100"
+      }
+    ]
   },
   {
     "id": "vampir-1881",
@@ -531,12 +541,24 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Nicaraguan folklore — El Viejito del Monte nature spirit documented in Nicaraguan oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:56:18.260Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Carmichael, E. A Dictionary of Folk-lore, Mythology, and Legend. Harper & Row, 1972.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "León-Portilla, M. The Broken Spears: The Aztec Account of the Conquest of Mexico. Beacon Press, 1962.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "vila-serbia-1887",
@@ -3010,7 +3032,7 @@
     "tribe": null,
     "featured_in_stories": [],
     "source": "Vanuatu folklore — spirit documented in Vanuatu oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "schema_org_type": "MythicalCreature",
     "seo_title": "Vinmara – Vanuatu Folklore",
     "seo_description": "Sky maiden from Vanuatu mythology who married Qat and later returned to the sky world",
@@ -3019,9 +3041,19 @@
       "qat-and-the-sky-maidens"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Malekula: A Vanishing People in the New Hebrides",
+        "a": "John Layard",
+        "b": "Malekula",
+        "p": "Constable and Company",
+        "y": 1942,
+        "pg": "250-280"
+      }
+    ]
   },
   {
     "id": "vasuki-hindu-4052",

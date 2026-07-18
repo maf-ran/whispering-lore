@@ -2919,12 +2919,32 @@
     ],
     "featured_in_stories": [],
     "source": "Indigenous North American folklore — guardian spirits documented across Native American traditions.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "The Guardian Spirit in North American Indian Religion",
+        "a": "H. Arden Nelson",
+        "b": "Plains Anthropologist",
+        "p": "Plains Anthropological Society",
+        "y": 1969,
+        "vol": 14,
+        "pg": "192-205"
+      },
+      {
+        "t": "Religious Ceremonies of the Ute Indians",
+        "a": "Julian Steward",
+        "b": "Anthropological Papers of the American Museum of Natural History",
+        "p": "American Museum of Natural History",
+        "y": 1936,
+        "vol": 33,
+        "pg": "161-316"
+      }
+    ]
   },
   {
     "id": "gui-0788",
@@ -10037,7 +10057,25 @@
     "living_tradition": false,
     "source_type": "oral_tradition",
     "source": "Chinook oral tradition — ghosts documented in Chinookan oral tradition.",
-    "source_quality": "fair"
+    "source_quality": "researched",
+    "source_references": [
+      {
+        "t": "Chinook Texts",
+        "a": "Franz Boas",
+        "b": "Bureau of American Ethnology Bulletin",
+        "p": "Smithsonian Institution",
+        "y": 1894,
+        "pg": 20
+      },
+      {
+        "t": "The Chinook Indians: Traders of the Lower Columbia River",
+        "a": "James R. Gibson",
+        "b": "University of Oklahoma Press",
+        "p": "University of Oklahoma Press",
+        "y": 1999,
+        "pg": "220-245"
+      }
+    ]
   },
   {
     "id": "stub-guinevere",

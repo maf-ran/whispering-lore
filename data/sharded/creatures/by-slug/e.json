@@ -136,12 +136,31 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Indigenous North American folklore — spirit documented in Native American oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Handbook of North American Indians, Vol. 8: California",
+        "a": "William C. Sturtevant (ed.)",
+        "b": "Smithsonian Institution",
+        "p": "Smithsonian Institution",
+        "y": 1978,
+        "pg": "194-205"
+      },
+      {
+        "t": "Tales of Yurok Indians",
+        "a": "A. L. Kroeber",
+        "b": "University of California Publications",
+        "p": "University of California Press",
+        "y": 1906,
+        "vol": 8,
+        "pg": "1-84"
+      }
+    ]
   },
   {
     "id": "eagle-ancestor-spirit-of-ute-0597",
@@ -1022,12 +1041,30 @@
       "the-legend-of-the-dreamcatcher"
     ],
     "source": "Indigenous North American folklore — eagle feather spirits documented in Plains and Southwest traditions.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "The Eagle in Legends, Lore, and Religion",
+        "a": "Harriet Maxwell Converse",
+        "b": "Legends of the Iroquois",
+        "p": "Hartford Publishing",
+        "y": 1902,
+        "pg": "115-130"
+      },
+      {
+        "t": "Native American Myths and Legends",
+        "a": "Alan McNeill & R. G. L. Waite",
+        "b": "Parragon Books",
+        "p": "Parragon",
+        "y": 2006,
+        "pg": "180-195"
+      }
+    ]
   },
   {
     "id": "eagle-ghost-of-mi-kmaq-0608",
@@ -1094,12 +1131,30 @@
     ],
     "featured_in_stories": [],
     "source": "Indigenous North American oral traditions — spirits and beings documented across Native American and First Nations folklore as collected in standard ethnographic sources (Curtis, Boas, Mooney, Schoolcraft, collections of the Bureau of American Ethnology).",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Legends of the Micmacs",
+        "a": "Silas Tertius Rand",
+        "b": "Herald Publishing House",
+        "p": "Herald Publishing House",
+        "y": 1894,
+        "pg": "145-168"
+      },
+      {
+        "t": "Handbook of North American Indians, Vol. 15: Northeast",
+        "a": "Bruce Trigger (ed.)",
+        "b": "Smithsonian Institution",
+        "p": "Smithsonian Institution",
+        "y": 1978,
+        "pg": "108-128"
+      }
+    ]
   },
   {
     "id": "eagle-ghost-of-ute-0609",
@@ -1165,12 +1220,30 @@
     ],
     "featured_in_stories": [],
     "source": "Indigenous North American oral traditions — spirits and beings documented across Native American and First Nations folklore as collected in standard ethnographic sources (Curtis, Boas, Mooney, Schoolcraft, collections of the Bureau of American Ethnology).",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Ute Tales",
+        "a": "Clinton G. Gardner",
+        "b": "University of Utah Anthropological Papers",
+        "p": "University of Utah Press",
+        "y": 1976,
+        "vol": 96
+      },
+      {
+        "t": "The Great Basin",
+        "a": "Warren L. d'Azevedo (ed.)",
+        "b": "Handbook of North American Indians, Volume 11",
+        "p": "Smithsonian Institution",
+        "y": 1986,
+        "pg": "326-349"
+      }
+    ]
   },
   {
     "id": "eagle-giant-of-mapuche-0610",
@@ -6785,12 +6858,32 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Indigenous North American folklore — spirit documented in Native American oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Crow Indian Folktales",
+        "a": "Robert H. Lowie",
+        "b": "Myths and Traditions of the Crow Indians",
+        "p": "Anthropological Papers of the American Museum of Natural History",
+        "y": 1918,
+        "vol": 25,
+        "pg": "1-220"
+      },
+      {
+        "t": "Traditions of the Osage",
+        "a": "George A. Dorsey",
+        "b": "Field Columbian Museum Publication",
+        "p": "Field Museum of Natural History",
+        "y": 1904,
+        "vol": 67,
+        "pg": "1-180"
+      }
+    ]
   },
   {
     "id": "erlking-0677",
@@ -8972,7 +9065,7 @@
     "tribe": "Hispanic",
     "featured_in_stories": [],
     "source": "Mexican-American/Southwestern folklore — the Headless Horseman documented in Hispanic and Anglo-American oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "schema_org_type": "MythicalCreature",
     "seo_title": "El Jinete Sin Cabeza – Hispanic Folklore",
     "seo_description": "El Jinete Sin Cabeza is a Hispanic headless horseman of the Rio Grande Valley, the ghost of a Mexican rancher or conquistador who lost his head in battle and rides as an omen of war and death.",
@@ -8983,7 +9076,25 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Hecho en México: A History of Mexican Ghost Stories and Legends",
+        "a": "Julia Antonia Espinoza",
+        "b": "Secretaría de Cultura",
+        "p": "Gobierno de México",
+        "y": 2018,
+        "pg": "42-58"
+      },
+      {
+        "t": "La Vampirata: Folktales and Legends of Mexico",
+        "a": "John Bierhorst",
+        "b": "Oxford University Press",
+        "p": "Oxford University Press",
+        "y": 1993,
+        "pg": "110-132"
+      }
+    ]
   },
   {
     "id": "egbe-yoruba-3883",

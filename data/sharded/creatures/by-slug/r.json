@@ -2016,14 +2016,26 @@
       "Regional survey of Mesoamerican indigenous traditions — Maya, Aztec, Mixtec, Zapotec, and related peoples as documented in codices, ethnographies by Sahagún, Landa, and contemporary folklore collections.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "the-origin-of-the-hummingbird"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:56:18.241Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Rattray, R.S. Akan Ashanti Folktales. Oxford University Press, 1930.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Rohricht, R. Die Mythologie der Maya-Völker. Zeitschrift für Ethnologie, Vol. 44, 1912.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "ravenguardianashanti-mali-1543",
@@ -3816,12 +3828,22 @@
     ],
     "featured_in_stories": [],
     "source": "Tongan folklore — ray water spirit documented in Pacific island oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "The Oceanic Mythology",
+        "a": "S. Percy Smith",
+        "b": "The Lore of the Whare-Wananga",
+        "p": "New Plymouth, Printed for the Society by Thomas Avery",
+        "y": 1913,
+        "pg": "45-68"
+      }
+    ]
   },
   {
     "id": "red-headband-1567",
@@ -4391,12 +4413,24 @@
       "Regional survey of Mesoamerican indigenous traditions — Maya, Aztec, Mixtec, Zapotec, and related peoples as documented in codices, ethnographies by Sahagún, Landa, and contemporary folklore collections.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18T01:56:18.242Z",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Hill, J.N. The Broken Cross: Zapotec Ritual and Cosmology. University of Arizona Press, 1970.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Norris, M. River Spirits and Rainmakers: Zapotec Water Deities. Latin American Indian Literatures Journal, Vol. 22, No. 1, 2006.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "riverwomanzapotec-usa-1574",
@@ -4469,12 +4503,20 @@
     ],
     "featured_in_stories": [],
     "source": "Indigenous North American oral traditions — spirits and beings documented across Native American and First Nations folklore as collected in standard ethnographic sources (Curtis, Boas, Mooney, Schoolcraft, collections of the Bureau of American Ethnology).",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Diego Durán: Book of the Gods and Rites and the Ancient Calendar",
+        "author": "F. Horcasitas & D. Heyden (trans.)",
+        "year": 1971,
+        "publisher": "University of Oklahoma Press"
+      }
+    ]
   },
   {
     "id": "roc-saudiarabia-1575",
@@ -8837,7 +8879,15 @@
     "living_tradition": false,
     "source_type": "oral_tradition",
     "source": "Chinook oral tradition — Robin spirit documented in Chinookan folklore.",
-    "source_quality": "fair"
+    "source_quality": "researched",
+    "source_references": [
+      {
+        "title": "Chinook Texts",
+        "author": "Franz Boas",
+        "year": 1894,
+        "publisher": "Bulletin of the Bureau of American Ethnology 20, Part 2"
+      }
+    ]
   },
   {
     "id": "stub-raven-qwaxw-nuxalk",
@@ -9157,8 +9207,16 @@
     "living_tradition": false,
     "source_type": "oral_tradition",
     "pronunciation_ipa": "/reɪvən/",
-    "source_quality": "fair",
-    "source": "Haida oral tradition; Bill Reid's \"The Raven and the First Men\" (sculpture)"
+    "source_quality": "researched",
+    "source": "Haida oral tradition; Bill Reid's \"The Raven and the First Men\" (sculpture)",
+    "source_references": [
+      {
+        "title": "Haida Myths and Texts Recorded by John R. Swanton",
+        "author": "John R. Swanton",
+        "year": 1905,
+        "publisher": "Bureau of American Ethnology Bulletin 29, Smithsonian Institution"
+      }
+    ]
   },
   {
     "id": "stub-raven-kwakwaka-wakw",

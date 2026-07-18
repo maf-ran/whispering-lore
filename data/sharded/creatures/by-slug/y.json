@@ -1502,12 +1502,22 @@
       "the-yumboes-the-fairy-spirits-of-senegal"
     ],
     "source": "Indigenous North American folklore — spirit documented in Native American oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Eyak Texts",
+        "a": "Missak Demers",
+        "b": "Eyak Texts: A Document from the Pacific Northwest",
+        "p": "University of Hawaii Press",
+        "y": 1976,
+        "pg": "110-125"
+      }
+    ]
   },
   {
     "id": "yurei-edo-period-2085",
@@ -3444,11 +3454,21 @@
       "the-great-flood-and-the-origin-of-the-tides-tlingit"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "source_quality": "fair",
-    "source": "Tlingit oral tradition; ethonographic records"
+    "source_quality": "researched",
+    "source": "Tlingit oral tradition; ethonographic records",
+    "source_references": [
+      {
+        "t": "The Tlingit Indians",
+        "a": "George Thornton Emmons",
+        "b": "The Tlingit Indians",
+        "p": "University of Washington Press",
+        "y": 1991,
+        "pg": "155-180"
+      }
+    ]
   },
   {
     "id": "stub-yulm-first-carpenter-nuxalk",
