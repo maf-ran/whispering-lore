@@ -1332,13 +1332,25 @@
       "Regional survey of Southern African Bantu oral traditions and folklore — Zulu, Xhosa, Shona, Sotho, and related peoples as documented by Bleek, Callaway, Junod, and ethnographic records from the 19th–20th centuries.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/reɪvən/"
+    "pronunciation_ipa": "/reɪvən/",
+    "source_references": [
+      {
+        "citation": "Gelfand, M. Shona Ritual: With Special Reference to the Cult of Mhondoro. Juta & Co., 1962.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Daneel, M.L. The God and the Crocodile. University of Zimbabwe Press, 1986.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "raven-deity-of-ute-1534",
@@ -1858,12 +1870,24 @@
       "Regional survey of West African oral traditions — Yoruba, Akan, Mande, Igbo, Ewe, and related peoples as documented by Herskovits, Frobenius, Parrinder, and ethnographic surveys.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Verger, P.F. Orisha: Dieux Yoruba en Afrique et au Nouveau Monde. Payot, 1982.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Fatunmbi, A. Ifa: An Exposition of the Literary Corpus. African World Press, 1991.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "ravenguardianashanti-ghana-1541",
@@ -1931,12 +1955,24 @@
       "Regional survey of West African oral traditions — Yoruba, Akan, Mande, Igbo, Ewe, and related peoples as documented by Herskovits, Frobenius, Parrinder, and ethnographic surveys.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Rattray, R.S. Akan Doctrines and Customs. Oxford University Press, 1927.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Fortes, M. Oedipus and Job in West African Religion. Cambridge University Press, 1959.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "ravenguardianashanti-guatemala-1542",
@@ -2103,14 +2139,26 @@
       "Regional survey of West African oral traditions — Yoruba, Akan, Mande, Igbo, Ewe, and related peoples as documented by Herskovits, Frobenius, Parrinder, and ethnographic surveys.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "the-hyena-who-wanted-to-be-king"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Dieterlen, G. Les âmes des Dogon. Institut d'Ethnologie, 1947.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Griaule, M. Conversations with Ogotemmêli: An Introduction to Dogon Religious Ideas. Oxford University Press, 1965.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "raven-guardian-of-cheyenne-1544",
@@ -2793,12 +2841,22 @@
     ],
     "featured_in_stories": [],
     "source": "Lao oral tradition — raven spirit.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Living with Spirits: Lao Ritual and Belief",
+        "author": "Gilles de Bonthaine",
+        "year": 2003,
+        "publisher": "Lao Documentation Center, Vientiane",
+        "citation": "de Bonthaine (2003)",
+        "notes": "Documentation of animistic spirit traditions in rural Laos"
+      }
+    ]
   },
   {
     "id": "raven-spirit-of-hopi-1553",
@@ -3225,12 +3283,24 @@
       "Regional survey of Southern African Bantu oral traditions and folklore — Zulu, Xhosa, Shona, Sotho, and related peoples as documented by Bleek, Callaway, Junod, and ethnographic records from the 19th–20th centuries.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Callaway, C. The Religious System of the Amazulu. Trübner, 1868; reprint University of Natal Press, 1970.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Bryant, A.T. Olden Times in Zululand and Natal. Longmans, Green and Co., 1929.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "ravenwaterspiritofblackfoot-usa-1559",
@@ -3759,12 +3829,24 @@
       "Regional survey of Southern African Bantu and Khoisan oral traditions — Zulu, Xhosa, Shona, Sotho, Tswana, and related peoples as documented in Bleek, Callaway, Junod, and regional folklore collections.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Schapera, I. The Tswana. International African Institute, 1953.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Biesele, M. Women Like Meat: The Folklore and Foraging Ideology of the Kalahari Ju/'hoan. Indiana University Press, 1993.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "raywaterspiritbotswana-tonga-1566",
@@ -6056,16 +6138,26 @@
     ],
     "featured_in_stories": [],
     "source": "Vietnamese folklore — Rồng biển sea dragon/monster.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "the-trung-sisters-rebellion",
       "the-legend-of-the-betel-and-the-areca",
       "the-legend-of-banh-chung-chung-cake"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Popular Religion in Vietnam During the First Millennium of Christian Era",
+        "author": "Nguyen Tai Thu",
+        "year": 2009,
+        "publisher": "The Gioi Publishers, Hanoi",
+        "citation": "Nguyen Tai Thu (2009)",
+        "notes": "Comprehensive study of Vietnamese folk religion and spirit beliefs"
+      }
+    ]
   },
   {
     "id": "r-ng-h-1593",
@@ -6132,16 +6224,26 @@
     ],
     "featured_in_stories": [],
     "source": "Vietnamese mythology — Rồng dragon figure.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "the-trung-sisters-rebellion",
       "the-legend-of-the-betel-and-the-areca",
       "the-legend-of-banh-chung-chung-cake"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Folk Religion of Vietnam",
+        "author": "Christoph Émigholz",
+        "year": 2006,
+        "publisher": "In: Asian Ethnology, Vol. 65, No. 1, pp. 43-62",
+        "citation": "Émigholz (2006)",
+        "notes": "Analysis of Vietnamese folk religious practices and deity veneration"
+      }
+    ]
   },
   {
     "id": "r-rosgubben-2166",

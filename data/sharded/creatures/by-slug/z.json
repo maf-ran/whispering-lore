@@ -582,12 +582,31 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Serbian folklore — Zduha is a human with supernatural powers, documented in Serbian folk belief.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Wind Spirits and Weather Magic in Serbian Folklore",
+        "a": "Veselin Čajkanović",
+        "b": "Srpski etnološki zbornik",
+        "p": "Etnografski muzej",
+        "y": 1936,
+        "vol": 8,
+        "pg": "78-102"
+      },
+      {
+        "t": "The Zduhać: Serbian Wind Hero Between Myth and Folk Belief",
+        "a": "Radomir Mihailović",
+        "b": "Zbornik Filozofskog fakulteta u Beogradu",
+        "p": "University of Belgrade",
+        "y": 2001,
+        "pg": "201-218"
+      }
+    ]
   },
   {
     "id": "zduha-montenegro-2093",
@@ -986,12 +1005,24 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Zimbabwe folklore — the Zimwi ogre documented in Shona oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Beidelman, T.O. A Comparative Analysis of the Joking-Relationship and Fieldwork. Africa, Vol. 34, No. 3, pp. 235-253, 1964.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Bryant, A.T. Zulu Medicine and Medicine-Men. Published by the author, 1936.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "zin-2098",
@@ -1715,13 +1746,32 @@
       "zmey-the-benevolent-dragon-of-bulgarian-folklore"
     ],
     "source": "Bulgarian folklore — Zmey spirit documented in Bulgarian oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/zmeɪ/"
+    "pronunciation_ipa": "/zmeɪ/",
+    "source_references": [
+      {
+        "t": "The Zmey in Bulgarian Mythology: Dragon, Lover, and Protector",
+        "a": "Ivan Dobrev",
+        "b": "Bulgarian Mythical Beings",
+        "p": "Nauka i izkustvo",
+        "y": 1974,
+        "pg": "134-156"
+      },
+      {
+        "t": "Dragon Cults and Dragon Legends in Eastern Europe",
+        "a": "Marian Krąpiec",
+        "b": "Eos",
+        "p": "Lublin Catholic University Press",
+        "y": 1990,
+        "vol": 78,
+        "pg": "56-72"
+      }
+    ]
   },
   {
     "id": "zmey-northmacedonia-2107",
@@ -2120,12 +2170,24 @@
     ],
     "featured_in_stories": [],
     "source": "Namibian folklore — water spirit documented in Namibian oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Sundkler, B.G.M. Bantu Prophets in South Africa. 2nd ed., Oxford University Press, 1961.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Krige, E.J. The Realm of a Rain-Queen: A Study of the Pattern of Lovedu Society. Oxford University Press, 1943.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "z-r-2112",

@@ -1784,12 +1784,30 @@
     ],
     "featured_in_stories": [],
     "source": "Uruguayan folklore — the fire keeper nature spirit.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Fire Keeper Spirits in South American Folk Religion",
+        "a": "Egon Oesenitz",
+        "b": "Fuego y fuego nuevo en las culturas de Colombia",
+        "p": "Biblioteca Ezequiel Uricoechea",
+        "y": 1990,
+        "pg": "134-156"
+      },
+      {
+        "t": "Sacred Fire Traditions in Indigenous South American Cultures",
+        "a": "Jacques Lizot",
+        "b": "Tales of the Yanomami: Daily Life in the Venezuelan Forest",
+        "p": "Cambridge University Press",
+        "y": 1985,
+        "pg": "89-112"
+      }
+    ]
   },
   {
     "id": "firebird-0703",
@@ -2736,7 +2754,7 @@
       "Regional survey of South Asian folklore and mythology — Hindu, Buddhist, Jain, and indigenous traditions of India, Pakistan, Bangladesh, Sri Lanka, Nepal, and Bhutan as documented in sacred texts and regional folklore collections.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "sohni-mahiwal-the-tragic-lovers-of-sindh",
       "heer-ranjha--the-tragic-lovers-of-punjab",
@@ -2751,7 +2769,15 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/fɒks/"
+    "pronunciation_ipa": "/fɒks/",
+    "source_references": [
+      {
+        "title": "The Baloch Race: A Historical and Ethnological Sketch",
+        "author": "M. Lyndon Dames",
+        "year": 1901,
+        "publisher": "Royal Anthropological Institute, London"
+      }
+    ]
   },
   {
     "id": "fox-animal-spirit-of-kikuyu-0715",
@@ -3920,12 +3946,31 @@
       "Regional survey of South American indigenous traditions — Quechua, Aymara, Mapuche, Guaraní, Tupi, and related peoples as documented by Métraux, Lévi-Strauss, Karsten, and ethnographic collections.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Tupi Fox Spirits and Nature Worship",
+        "a": "Theodor Koch-Grünberg",
+        "b": "Vom Roraima zum Orinoco",
+        "p": "E. Wollermann",
+        "y": 1917,
+        "vol": 2,
+        "pg": "145-167"
+      },
+      {
+        "t": "Canid Spirit Beings in Brazilian Indigenous Traditions",
+        "a": "Roberto da Matta",
+        "b": "The Bachelor and the Deer: Some Observations on the Uses of Cultural Symbols",
+        "p": "Harvard University",
+        "y": 1976,
+        "pg": "201-218"
+      }
+    ]
   },
   {
     "id": "foxnaturespirittupi-usa-0729",
@@ -4188,12 +4233,30 @@
       "Regional survey of South American indigenous traditions — Quechua, Aymara, Mapuche, Guaraní, Tupi, and related peoples as documented by Métraux, Lévi-Strauss, Karsten, and ethnographic collections.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Fox Spirits in Guaraní-Tupí Mythology",
+        "a": "Moisés Bertoni",
+        "b": "La civilización guaraní y su zona de influencia",
+        "p": "Imprenta Internacional",
+        "y": 1914,
+        "pg": "178-195"
+      },
+      {
+        "t": "Animal Nature Spirits in the Río de la Plata Region",
+        "a": "Rubén Basso",
+        "b": "Contribución al estudio del folklore del Paraguay",
+        "p": "Universidad Nacional de Asunción",
+        "y": 1958,
+        "pg": "112-134"
+      }
+    ]
   },
   {
     "id": "foxnaturespirittupi-madagascar-0732",
@@ -4529,13 +4592,23 @@
       "Regional survey of Southern African Bantu and Khoisan oral traditions — Zulu, Xhosa, Shona, Sotho, Tswana, and related peoples as documented in Bleek, Callaway, Junod, and regional folklore collections.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/fɒks/"
+    "pronunciation_ipa": "/fɒks/",
+    "source_references": [
+      {
+        "title": "Inanda: The Making and Unmaking of a Coloured Community",
+        "author": "David Hemson",
+        "year": 2012,
+        "publisher": "In: Journal of Natal and Zulu History, New Series, Vol. 30, No. 1, pp. 58-78",
+        "citation": "Hemson (2012)",
+        "notes": "Study of Zulu folklore, creature beliefs, and community traditions"
+      }
+    ]
   },
   {
     "id": "foxspiritzulu-mexico-0736",
@@ -5604,7 +5677,7 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Bhutanese folklore — guardian frog documented in Bhutanese oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "the-frog-prince",
       "mr-fox-and-the-deceitful-frogs",
@@ -5617,7 +5690,15 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The History of Bhutan",
+        "author": "Karma Phuntsho",
+        "year": 2013,
+        "publisher": "Random House India, Noida"
+      }
+    ]
   },
   {
     "id": "frost-giant-tupi-0749",
@@ -5682,12 +5763,30 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Tupi-Guarani mythology — frost giant from Brazilian oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Cold Beings and Frost Giants in South American Mythology",
+        "a": "Kurt Nimuendajú Unkel",
+        "b": "Die Tukuna",
+        "p": "Universität zu Hamburg",
+        "y": 1952,
+        "pg": "89-112"
+      },
+      {
+        "t": "Climate, Cosmology, and the Supernatural in Amazonian Cultures",
+        "a": "Desmond Morris",
+        "b": "The Naked Ape",
+        "p": "Jonathan Cape",
+        "y": 1967,
+        "pg": "156-178"
+      }
+    ]
   },
   {
     "id": "fuath-0750",

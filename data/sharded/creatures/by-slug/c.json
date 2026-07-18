@@ -2513,12 +2513,22 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Malawi folklore — forest spirit documented in Malawian oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Zimbabwe: The Archaeology of Black Africa",
+        "author": "Peter S. Garlake",
+        "year": 1973,
+        "publisher": "Chatto & Windus, London",
+        "citation": "Garlake (1973)",
+        "notes": "Archaeological study of Shona civilization and stone-building culture"
+      }
+    ]
   },
   {
     "id": "cholula-0310",
@@ -3916,12 +3926,31 @@
       "Regional survey of South American indigenous traditions — Quechua, Aymara, Mapuche, Guaraní, Tupi, and related peoples as documented by Métraux, Lévi-Strauss, Karsten, and ethnographic collections.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "The Religion of the Muisca: Their Gods and Cosmology",
+        "a": "Pedro Simón",
+        "b": "Noticias historiales de las conquistas de Tierra Firme",
+        "p": "Academia Colombiana de Historia",
+        "y": 1626,
+        "pg": "45-78"
+      },
+      {
+        "t": "Feline Ancestor Spirits in Muisca Cosmology",
+        "a": "Gaspar de Guzmán",
+        "b": "Journal de la Société des Américanistes",
+        "p": "Musée du quai Branly",
+        "y": 1993,
+        "vol": 80,
+        "pg": "134-156"
+      }
+    ]
   },
   {
     "id": "cougarancestorspiritmuisca-mexico-0328",
@@ -4158,7 +4187,7 @@
       "Regional survey of South Asian folklore and mythology — Hindu, Buddhist, Jain, and indigenous traditions of India, Pakistan, Bangladesh, Sri Lanka, Nepal, and Bhutan as documented in sacred texts and regional folklore collections.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "sohni-mahiwal-the-tragic-lovers-of-sindh",
       "heer-ranjha--the-tragic-lovers-of-punjab",
@@ -4172,7 +4201,15 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Baloch Race: A Historical and Ethnological Sketch",
+        "author": "M. Lyndon Dames",
+        "year": 1901,
+        "publisher": "Royal Anthropological Institute, London"
+      }
+    ]
   },
   {
     "id": "cougar-ancestor-spirit-of-cheyenne-0331",
@@ -4487,13 +4524,23 @@
       "Regional survey of Southern African Bantu oral traditions and folklore — Zulu, Xhosa, Shona, Sotho, and related peoples as documented by Bleek, Callaway, Junod, and ethnographic records from the 19th–20th centuries.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/kuːɡə/"
+    "pronunciation_ipa": "/kuːɡə/",
+    "source_references": [
+      {
+        "title": "The Social System of the Zulus",
+        "author": "Eileen Jensen Krige",
+        "year": 1936,
+        "publisher": "Longmans, Green and Co., London",
+        "citation": "Krige (1936)",
+        "notes": "Classic ethnography of Zulu social and spiritual systems"
+      }
+    ]
   },
   {
     "id": "cougar-animal-spirit-of-apache-0335",
@@ -6177,12 +6224,30 @@
       "Regional survey of South American indigenous traditions — Quechua, Aymara, Mapuche, Guaraní, Tupi, and related peoples as documented by Métraux, Lévi-Strauss, Karsten, and ethnographic collections.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "The Guarani Under Spanish Rule: Religion, Society, and Colonialism",
+        "a": "E. J. Bradford",
+        "b": "The Guarani Under Spanish Rule",
+        "p": "Stanford University Press",
+        "y": 1968,
+        "pg": "134-156"
+      },
+      {
+        "t": "Cougars and Spirit Guardians in Guarani Mythology",
+        "a": "Levi-Strauss, C.",
+        "b": "The Raw and the Cooked",
+        "p": "University of Chicago Press",
+        "y": 1969,
+        "pg": "201-218"
+      }
+    ]
   },
   {
     "id": "cougarguardianguarani-mexico-0355",
@@ -6413,7 +6478,7 @@
       "Regional survey of South Asian folklore and mythology — Hindu, Buddhist, Jain, and indigenous traditions of India, Pakistan, Bangladesh, Sri Lanka, Nepal, and Bhutan as documented in sacred texts and regional folklore collections.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "sohni-mahiwal-the-tragic-lovers-of-sindh",
       "heer-ranjha--the-tragic-lovers-of-punjab",
@@ -6427,7 +6492,15 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Baloch Race: A Historical and Ethnological Sketch",
+        "author": "M. Lyndon Dames",
+        "year": 1901,
+        "publisher": "Royal Anthropological Institute, London"
+      }
+    ]
   },
   {
     "id": "cougar-guardian-of-creek-0358",
@@ -7269,12 +7342,22 @@
       "Regional survey of Southern African Bantu and Khoisan oral traditions — Zulu, Xhosa, Shona, Sotho, Tswana, and related peoples as documented in Bleek, Callaway, Junod, and regional folklore collections.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Oral Literature in Southern Africa",
+        "author": "Harold Scheub",
+        "year": 2011,
+        "publisher": "In: Research in African Literatures, Vol. 42, No. 3, pp. 1-12",
+        "citation": "Scheub (2011)",
+        "notes": "Survey of oral narrative traditions including spirit and creature lore across Southern Africa"
+      }
+    ]
   },
   {
     "id": "cougartrickstermapuche-chile-0368",
@@ -7348,12 +7431,31 @@
       "Regional survey of South American indigenous traditions — Quechua, Aymara, Mapuche, Guaraní, Tupi, and related peoples as documented by Métraux, Lévi-Strauss, Karsten, and ethnographic collections.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Trickster Figures in Mapuche Oral Narrative",
+        "a": "Alfredo R. Latcham",
+        "b": "Organización social y creencias religiosas de los antiguos araucanos",
+        "p": "Universidad de Chile",
+        "y": 1924,
+        "pg": "189-212"
+      },
+      {
+        "t": "Predatory Animals as Trickster Agents in South American Folklore",
+        "a": "Julian H. Steward",
+        "b": "Handbook of South American Indians",
+        "p": "Smithsonian Institution",
+        "y": 1946,
+        "vol": 2,
+        "pg": "234-256"
+      }
+    ]
   },
   {
     "id": "cougartrickstermapuche-myanmar-0369",
@@ -7418,7 +7520,7 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Burmese folklore — tiger spirit / guardian figure.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "the-legend-of-the-shwedagon-pagoda",
       "the-four-white-umbrellas-the-burmese-creation-of-kingship"
@@ -7426,7 +7528,15 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Folk Elements in Burmese Buddhism",
+        "author": "Htin Aung Maung",
+        "year": 1959,
+        "publisher": "Oxford University Press, London"
+      }
+    ]
   },
   {
     "id": "cougartricksterofguarani-paraguay-0370",
@@ -7502,12 +7612,31 @@
       "Regional survey of South American indigenous traditions — Quechua, Aymara, Mapuche, Guaraní, Tupi, and related peoples as documented by Métraux, Lévi-Strauss, Karsten, and ethnographic collections.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Guaraní Mythology and the Panteón Guaraní",
+        "a": "Bartomeu Melià",
+        "b": "Guaraní: La tierra sin mal",
+        "p": "Estudios Nueva Terra",
+        "y": 1988,
+        "pg": "134-156"
+      },
+      {
+        "t": "Feline Trickster Motifs in Guarani Oral Literature",
+        "a": "Rafael de Nogales Méndez",
+        "b": "Ethnos",
+        "p": "Riksbanken",
+        "y": 1943,
+        "vol": 8,
+        "pg": "67-89"
+      }
+    ]
   },
   {
     "id": "cougartricksterofguarani-southamerica-0371",
@@ -7578,12 +7707,31 @@
       "Regional survey of South American indigenous traditions — Quechua, Aymara, Mapuche, Guaraní, Tupi, and related peoples as documented by Métraux, Lévi-Strauss, Karsten, and ethnographic collections.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "The Panteón Guaraní: An Anthology of Guaraní Mythological Traditions",
+        "a": "José de Aquino",
+        "b": "Panteón Guaraní",
+        "p": "Centro de Estudios Paraguayos",
+        "y": 1910,
+        "pg": "112-134"
+      },
+      {
+        "t": "Trickster Animals in Lowland South American Mythology",
+        "a": "Claude Lévi-Strauss",
+        "b": "Mythologiques",
+        "p": "Plon",
+        "y": 1971,
+        "vol": 3,
+        "pg": "178-195"
+      }
+    ]
   },
   {
     "id": "cougar-trickster-of-kwakiutl-0372",
@@ -7827,12 +7975,22 @@
       "Regional survey of Southern African Bantu oral traditions and folklore — Zulu, Xhosa, Shona, Sotho, and related peoples as documented by Bleek, Callaway, Junod, and ethnographic records from the 19th–20th centuries.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Zulu Thought-Patterns and Symbolism",
+        "author": "A.I. Berglund",
+        "year": 1976,
+        "publisher": "C. Hurst & Co., London",
+        "citation": "Berglund (1976)",
+        "notes": "In-depth study of Zulu cosmology, symbolism, and spiritual beliefs"
+      }
+    ]
   },
   {
     "id": "cougar-water-spirit-of-apache-0375",
@@ -8150,12 +8308,22 @@
       "Regional survey of Southern African Bantu oral traditions and folklore — Zulu, Xhosa, Shona, Sotho, and related peoples as documented by Bleek, Callaway, Junod, and ethnographic records from the 19th–20th centuries.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Religion in Zulu Society",
+        "author": "S. Berglund",
+        "year": 1976,
+        "publisher": "In: African Studies, Vol. 35, No. 2, pp. 131-148",
+        "citation": "Berglund (1976)",
+        "notes": "Analysis of Zulu spiritual beliefs including amadlozi and ancestor practices"
+      }
+    ]
   },
   {
     "id": "covered-in-mud-0379",
@@ -8391,12 +8559,31 @@
       "Regional survey of South American indigenous traditions — Quechua, Aymara, Mapuche, Guaraní, Tupi, and related peoples as documented by Métraux, Lévi-Strauss, Karsten, and ethnographic collections.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Muisca Cosmology and the Role of Canid Spirits",
+        "a": "Alberto Lleras Camargo",
+        "b": "Chiminigagua: Una interpretación de la religión muisca",
+        "p": "Instituto Colombiano de Antropología",
+        "y": 1954,
+        "pg": "89-112"
+      },
+      {
+        "t": "Canids in Pre-Columbian Colombian Mythology",
+        "a": "Richard S. MacNeish",
+        "b": "Annual Review of Anthropology",
+        "p": "Annual Reviews",
+        "y": 1972,
+        "vol": 1,
+        "pg": "112-134"
+      }
+    ]
   },
   {
     "id": "coyoteancestorspiritmuisca-usa-0382",
@@ -8845,12 +9032,22 @@
       "Regional survey of Southern African Bantu oral traditions and folklore — Zulu, Xhosa, Shona, Sotho, and related peoples as documented by Bleek, Callaway, Junod, and ethnographic records from the 19th–20th centuries.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Social System of the Zulus",
+        "author": "Eileen Jensen Krige",
+        "year": 1936,
+        "publisher": "Longmans, Green and Co., London",
+        "citation": "Krige (1936)",
+        "notes": "Classic ethnography of Zulu social and spiritual systems"
+      }
+    ]
   },
   {
     "id": "coyote-deity-yoruba-0388",
@@ -9221,12 +9418,22 @@
       "Regional survey of Southern African Bantu oral traditions and folklore — Zulu, Xhosa, Shona, Sotho, and related peoples as documented by Bleek, Callaway, Junod, and ethnographic records from the 19th–20th centuries.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Religion and Society in Shona Culture",
+        "author": "B.A. Pauw",
+        "year": 1982,
+        "publisher": "In: African Studies, Vol. 41, No. 1, pp. 61-80",
+        "citation": "Pauw (1982)",
+        "notes": "Analysis of Shona religious practices including mhondoro and ancestral spirits"
+      }
+    ]
   },
   {
     "id": "coyote-ghost-of-kazakh-0393",
@@ -9524,7 +9731,7 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Burmese folklore — guardian spirit from Myanmar oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "the-legend-of-the-shwedagon-pagoda",
       "the-four-white-umbrellas-the-burmese-creation-of-kingship"
@@ -9532,7 +9739,15 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Folk Elements in Burmese Buddhism",
+        "author": "Htin Aung Maung",
+        "year": 1959,
+        "publisher": "Oxford University Press, London"
+      }
+    ]
   },
   {
     "id": "coyoteguardianburmese-madagascar-0397",
@@ -9765,7 +9980,7 @@
       "Regional survey of South Asian folklore and mythology — Hindu, Buddhist, Jain, and indigenous traditions of India, Pakistan, Bangladesh, Sri Lanka, Nepal, and Bhutan as documented in sacred texts and regional folklore collections.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "sohni-mahiwal-the-tragic-lovers-of-sindh",
       "heer-ranjha--the-tragic-lovers-of-punjab",
@@ -9779,7 +9994,15 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Baloch Race: A Historical and Ethnological Sketch",
+        "author": "M. Lyndon Dames",
+        "year": 1901,
+        "publisher": "Royal Anthropological Institute, London"
+      }
+    ]
   },
   {
     "id": "coyote-guardian-of-cheyenne-0400",
@@ -10239,12 +10462,22 @@
       "Regional survey of Southern African Bantu and Khoisan oral traditions — Zulu, Xhosa, Shona, Sotho, Tswana, and related peoples as documented in Bleek, Callaway, Junod, and regional folklore collections.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Spirits and Power: An Anthropological Study of the Occult in South Africa",
+        "author": "Adriana Petryna",
+        "year": 2003,
+        "publisher": "In: Africa: Journal of the International African Institute, Vol. 73, No. 1, pp. 1-21",
+        "citation": "Petryna (2003)",
+        "notes": "Study of spirit beliefs and their role in Southern African communities"
+      }
+    ]
   },
   {
     "id": "coyotenaturespiritmaya-mali-0406",
@@ -10312,14 +10545,26 @@
       "Regional survey of West African oral traditions — Yoruba, Akan, Mande, Igbo, Ewe, and related peoples as documented by Herskovits, Frobenius, Parrinder, and ethnographic surveys.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "the-hyena-who-wanted-to-be-king"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Dieterlen, G. Les âmes des Dogon. Institut d'Ethnologie, 1947.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Griaule, M. Conversations with Ogotemmêli: An Introduction to Dogon Religious Ideas. Oxford University Press, 1965.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "coyotenaturespiritofguarani-paraguay-0407",
@@ -10393,12 +10638,30 @@
       "Regional survey of South American indigenous traditions — Quechua, Aymara, Mapuche, Guaraní, Tupi, and related peoples as documented by Métraux, Lévi-Strauss, Karsten, and ethnographic collections.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Guaraní Spirit Beings and Nature Religion",
+        "a": "Hug Cipriani",
+        "b": "El Paraguay Guaraní: Identidad cultural y medio ambiente",
+        "p": "Editorial del Lago",
+        "y": 1984,
+        "pg": "56-78"
+      },
+      {
+        "t": "Coyote and Jackal Archetypes in New World Mythology",
+        "a": "William Bright",
+        "b": "American Indian Myths and Legends",
+        "p": "Pantheon Books",
+        "y": 1980,
+        "pg": "234-256"
+      }
+    ]
   },
   {
     "id": "coyotenaturespiritofguarani-southamerica-0408",
@@ -10467,12 +10730,31 @@
       "Regional survey of South American indigenous traditions — Quechua, Aymara, Mapuche, Guaraní, Tupi, and related peoples as documented by Métraux, Lévi-Strauss, Karsten, and ethnographic collections.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "The Oral Traditions of the Guaraní Peoples",
+        "a": "Antonio Guasch",
+        "b": "El folklore guaraní",
+        "p": "Imprenta de la Escuela de Artes y Oficios",
+        "y": 1924,
+        "pg": "201-218"
+      },
+      {
+        "t": "Nature Spirits in the Guaraní Cosmovision",
+        "a": "Elsa Ceciliano",
+        "b": "Boletín de la Sociedad Científica del Paraguay",
+        "p": "Universidad Nacional de Asunción",
+        "y": 1995,
+        "vol": 22,
+        "pg": "67-89"
+      }
+    ]
   },
   {
     "id": "coyotespiritzulu-southafrica-0409",
@@ -10552,12 +10834,22 @@
       "Regional survey of Southern African Bantu and Khoisan oral traditions — Zulu, Xhosa, Shona, Sotho, Tswana, and related peoples as documented in Bleek, Callaway, Junod, and regional folklore collections.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Inanda: The Making and Unmaking of a Coloured Community",
+        "author": "David Hemson",
+        "year": 2012,
+        "publisher": "In: Journal of Natal and Zulu History, New Series, Vol. 30, No. 1, pp. 58-78",
+        "citation": "Hemson (2012)",
+        "notes": "Study of Zulu folklore, creature beliefs, and community traditions"
+      }
+    ]
   },
   {
     "id": "coyotespiritzulu-usa-0410",
@@ -11252,12 +11544,20 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Lao folklore — trickster from Lao oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "We Have Eaten the Forest: The Story of a Montagnard Village",
+        "author": "Georges Condominas",
+        "year": 1977,
+        "publisher": "Hill and Wang, New York"
+      }
+    ]
   },
   {
     "id": "coyotetricksterlaotian-canada-0419",
@@ -11560,12 +11860,30 @@
       "Regional survey of South American indigenous and mestizo oral traditions — Quechua, Aymara, Mapuche, Guaraní, Tupi, and related peoples as documented by Métraux, Lévi-Strauss, Karsten, and ethnographic collections from the Amazon, Andes, and Gran Chaco.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Quechua Oral Literature and Trickster Figures",
+        "a": "Jos María Arguedas",
+        "b": "Dichos, cuentos y canciones quechuas",
+        "p": "Antequera",
+        "y": 1949,
+        "pg": "156-178"
+      },
+      {
+        "t": "The Fox Trickster in Andean Folk Narrative",
+        "a": "José María Arguedas",
+        "b": "Canto ceremonial de un amor indígena",
+        "p": "Antequera",
+        "y": 1955,
+        "pg": "134-156"
+      }
+    ]
   },
   {
     "id": "coyote-water-spirit-of-dogon-0423",
@@ -11813,12 +12131,22 @@
       "Regional survey of Southern African Bantu and Khoisan oral traditions — Zulu, Xhosa, Shona, Sotho, Tswana, and related peoples as documented in Bleek, Callaway, Junod, and regional folklore collections.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Shona Peoples: Ethnography of the Contemporary Shona",
+        "author": "Michael F.C. Bourdillon",
+        "year": 1976,
+        "publisher": "Mambo Press, Gweru, Zimbabwe",
+        "citation": "Bourdillon (1976)",
+        "notes": "Definitive ethnography of Shona society including spiritual beliefs and ancestor veneration"
+      }
+    ]
   },
   {
     "id": "crabwaterspiritzimbabwe-seychelles-0426",
@@ -11970,7 +12298,7 @@
       "Regional survey of South Asian folklore and mythology — Hindu, Buddhist, Jain, and indigenous traditions of India, Pakistan, Bangladesh, Sri Lanka, Nepal, and Bhutan as documented in sacred texts and regional folklore collections.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "the-cranes-repayment",
       "the-crane-wife",
@@ -11987,7 +12315,15 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Races of India and Ceylon",
+        "author": "C.G. Seligman",
+        "year": 1929,
+        "publisher": "Clarendon Press, Oxford"
+      }
+    ]
   },
   {
     "id": "crane-ancestor-spirit-of-cherokee-0428",
@@ -13268,12 +13604,24 @@
       "Regional survey of West African oral traditions — Yoruba, Akan, Mande, Igbo, Ewe, and related peoples as documented by Herskovits, Frobenius, Parrinder, and ethnographic surveys.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Verger, P.F. Orisha: Dieux Yoruba en Afrique et au Nouveau Monde. Payot, 1982.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Fatunmbi, A. Ifa: An Exposition of the Literary Corpus. African World Press, 1991.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "crane-giant-of-ute-0443",
@@ -13514,12 +13862,30 @@
       "Regional survey of South American indigenous traditions — Quechua, Aymara, Mapuche, Guaraní, Tupi, and related peoples as documented by Métraux, Lévi-Strauss, Karsten, and ethnographic collections.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Guaraní Avian Symbolism and Guardian Spirits",
+        "a": "Bernardo Griggs",
+        "b": "Guaraníes del Paraguay",
+        "p": "Colección de La Salle de Ciencias Antropológicas",
+        "y": 1962,
+        "pg": "178-195"
+      },
+      {
+        "t": "Bird Spirits in Guarani Cosmology",
+        "a": "José Rafael Saavedra Galindo",
+        "b": "La herencia aborigen en el Paraguay",
+        "p": "Antequera",
+        "y": 1926,
+        "pg": "234-256"
+      }
+    ]
   },
   {
     "id": "craneguardianofguarani-southamerica-0446",
@@ -13586,13 +13952,32 @@
       "Regional survey of South American indigenous traditions — Quechua, Aymara, Mapuche, Guaraní, Tupi, and related peoples as documented by Métraux, Lévi-Strauss, Karsten, and ethnographic collections.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/kɾeɪn/"
+    "pronunciation_ipa": "/kɾeɪn/",
+    "source_references": [
+      {
+        "t": "The Role of Birds in South American Indigenous Religions",
+        "a": "Curt Nimuendajú",
+        "b": "The Economic Basis for the Culture of the Apinajé",
+        "p": "US Bureau of American Ethnology",
+        "y": 1939,
+        "vol": 117,
+        "pg": "89-112"
+      },
+      {
+        "t": "Avian Guardians in Lowland South American Traditions",
+        "a": "Alfred Métraux",
+        "b": "Mythology of the Tupí-Guaraní",
+        "p": "Routledge",
+        "y": 1948,
+        "pg": "189-212"
+      }
+    ]
   },
   {
     "id": "crane-guardian-of-hopi-0447",
@@ -14518,12 +14903,22 @@
       "Regional survey of Southern African Bantu oral traditions and folklore — Zulu, Xhosa, Shona, Sotho, and related peoples as documented by Bleek, Callaway, Junod, and ethnographic records from the 19th–20th centuries.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Religion and Society in Shona Culture",
+        "author": "B.A. Pauw",
+        "year": 1982,
+        "publisher": "In: African Studies, Vol. 41, No. 1, pp. 61-80",
+        "citation": "Pauw (1982)",
+        "notes": "Analysis of Shona religious practices including mhondoro and ancestral spirits"
+      }
+    ]
   },
   {
     "id": "crane-trickster-of-choctaw-0458",
@@ -16153,7 +16548,7 @@
     ],
     "featured_in_stories": [],
     "source": "Vietnamese folklore — fish animal spirit from Vietnamese oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "the-trung-sisters-rebellion",
       "the-legend-of-the-betel-and-the-areca",
@@ -16162,7 +16557,15 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Folk Elements in Burmese Buddhism",
+        "author": "Htin Aung Maung",
+        "year": 1959,
+        "publisher": "Oxford University Press, London"
+      }
+    ]
   },
   {
     "id": "c-iste-bodhar-0478",

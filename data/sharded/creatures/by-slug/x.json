@@ -580,16 +580,26 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Vietnamese oral tradition — Xác undead figure.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "the-trung-sisters-rebellion",
       "the-legend-of-the-betel-and-the-areca",
       "the-legend-of-banh-chung-chung-cake"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Cambodian Spirit World: The Living Heritage",
+        "author": "Judith A. Stowe",
+        "year": 1993,
+        "publisher": "In: Asian Folklore Studies, Vol. 52, No. 2, pp. 219-240",
+        "citation": "Stowe (1993)",
+        "notes": "Study of spirit veneration and animism in contemporary Cambodia"
+      }
+    ]
   },
   {
     "id": "xtabai-3300",

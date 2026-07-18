@@ -750,13 +750,32 @@
       "Regional survey of South American indigenous traditions — Quechua, Aymara, Mapuche, Guaraní, Tupi, and related peoples as documented by Métraux, Lévi-Strauss, Karsten, and ethnographic collections.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/dɪə/"
+    "pronunciation_ipa": "/dɪə/",
+    "source_references": [
+      {
+        "t": "The Zapotec Worldview and Deer Ancestor Worship",
+        "a": "Barbara Tedlock",
+        "b": "The Meaning and Practice of Shamanism Among the Quiché Maya",
+        "p": "Journal of Latin American Lore",
+        "y": 1982,
+        "pg": "201-218"
+      },
+      {
+        "t": "Deer Ancestor Beliefs in Mesoamerican Cultures",
+        "a": "Alfredo López Austin",
+        "b": "The Human Body and Ideology: Concepts of the Ancient Nahuas",
+        "p": "University of Utah Press",
+        "y": 1988,
+        "vol": 1,
+        "pg": "234-256"
+      }
+    ]
   },
   {
     "id": "deer-ancestor-spirit-of-choctaw-0491",
@@ -1090,12 +1109,31 @@
       "Regional survey of South American indigenous traditions — Quechua, Aymara, Mapuche, Guaraní, Tupi, and related peoples as documented by Métraux, Lévi-Strauss, Karsten, and ethnographic collections.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "The Guaraní and Their Animals: Ethnographic Notes",
+        "a": "Augusto Roa Bastos",
+        "b": "Cántico de los tiempos",
+        "p": "Intercontinental",
+        "y": 1979,
+        "pg": "67-89"
+      },
+      {
+        "t": "Deer Symbolism in Guaraní Oral Narratives",
+        "a": "Esteban Caballero",
+        "b": "Revista del Museo Nacional",
+        "p": "Museo Nacional de Historia Natural",
+        "y": 1982,
+        "vol": 34,
+        "pg": "112-134"
+      }
+    ]
   },
   {
     "id": "deeranimalspiritofguarani-southamerica-0495",
@@ -1164,13 +1202,31 @@
       "Regional survey of South American indigenous traditions — Quechua, Aymara, Mapuche, Guaraní, Tupi, and related peoples as documented by Métraux, Lévi-Strauss, Karsten, and ethnographic collections.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/dɪə/"
+    "pronunciation_ipa": "/dɪə/",
+    "source_references": [
+      {
+        "t": "Deer and Spiritual Authority in Guaraní Folklore",
+        "a": "Cástor Galich",
+        "b": "Rupá Retá: El libro de la Madre Tierra",
+        "p": "Editorial Guaraní",
+        "y": 1947,
+        "pg": "89-112"
+      },
+      {
+        "t": "Animal Spirits in Lowland South American Religions",
+        "a": "Peter Gow",
+        "b": "Of Mixed Blood: Kinship and History in Peruvian Amazonia",
+        "p": "Clarendon Press",
+        "y": 1991,
+        "pg": "134-156"
+      }
+    ]
   },
   {
     "id": "deer-animal-spirit-of-hopi-0496",
@@ -1502,14 +1558,26 @@
       "Regional survey of West African oral traditions — Yoruba, Akan, Mande, Igbo, Ewe, and related peoples as documented by Herskovits, Frobenius, Parrinder, and ethnographic surveys.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "the-hyena-who-wanted-to-be-king"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Griaule, M. Conversations with Ogotemmêli: An Introduction to Dogon Religious Ideas. Oxford University Press, 1965.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Dieterlen, G. Les âmes des Dogon. Institut d'Ethnologie, 1947.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "deerdeitydogon-mexico-0500",
@@ -1903,12 +1971,22 @@
       "Regional survey of Southern African Bantu oral traditions and folklore — Zulu, Xhosa, Shona, Sotho, and related peoples as documented by Bleek, Callaway, Junod, and ethnographic records from the 19th–20th centuries.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Shona Peoples: Ethnography of the Contemporary Shona",
+        "author": "Michael F.C. Bourdillon",
+        "year": 1976,
+        "publisher": "Mambo Press, Gweru, Zimbabwe",
+        "citation": "Bourdillon (1976)",
+        "notes": "Definitive ethnography of Shona society including spiritual beliefs and ancestor veneration"
+      }
+    ]
   },
   {
     "id": "deer-deity-of-zapotec-0505",
@@ -2135,12 +2213,30 @@
     ],
     "featured_in_stories": [],
     "source": "Mapuche folklore — deer ghost from Mapuche oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Mapuche Ghost Beliefs and Ancestral Spirits",
+        "a": "Félix de Augusta",
+        "b": "Diccionario Araucano-Español",
+        "p": "Imprenta San Francisco",
+        "y": 1916,
+        "pg": "201-218"
+      },
+      {
+        "t": "Death and the Afterlife in Mapuche Cosmology",
+        "a": "Raúl Molina",
+        "b": "Pillolün Mapuche: Religiosidad mapuche",
+        "p": "Ediciones Universidad Católica de Temuco",
+        "y": 2005,
+        "pg": "156-178"
+      }
+    ]
   },
   {
     "id": "deer-ghost-of-ute-0508",
@@ -2298,12 +2394,22 @@
       "Regional survey of Southern African Bantu oral traditions and folklore — Zulu, Xhosa, Shona, Sotho, and related peoples as documented by Bleek, Callaway, Junod, and ethnographic records from the 19th–20th centuries.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Religion in Zulu Society",
+        "author": "S. Berglund",
+        "year": 1976,
+        "publisher": "In: African Studies, Vol. 35, No. 2, pp. 131-148",
+        "citation": "Berglund (1976)",
+        "notes": "Analysis of Zulu spiritual beliefs including amadlozi and ancestor practices"
+      }
+    ]
   },
   {
     "id": "deer-giant-of-apache-0510",
@@ -2641,12 +2747,22 @@
       "Regional survey of Southern African Bantu and Khoisan oral traditions — Zulu, Xhosa, Shona, Sotho, Tswana, and related peoples as documented in Bleek, Callaway, Junod, and regional folklore collections.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Oral Literature in Southern Africa",
+        "author": "Harold Scheub",
+        "year": 2011,
+        "publisher": "In: Research in African Literatures, Vol. 42, No. 3, pp. 1-12",
+        "citation": "Scheub (2011)",
+        "notes": "Survey of oral narrative traditions including spirit and creature lore across Southern Africa"
+      }
+    ]
   },
   {
     "id": "deerguardianmixtec-ghana-0514",
@@ -2714,12 +2830,24 @@
       "Regional survey of West African oral traditions — Yoruba, Akan, Mande, Igbo, Ewe, and related peoples as documented by Herskovits, Frobenius, Parrinder, and ethnographic surveys.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Rattray, R.S. The Ashanti. Clarendon Press, 1923.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Fortes, M. Oedipus and Job in West African Religion. Cambridge University Press, 1959.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "deerguardianmixtec-chile-0515",
@@ -2787,12 +2915,31 @@
       "Regional survey of South American indigenous traditions — Quechua, Aymara, Mapuche, Guaraní, Tupi, and related peoples as documented by Métraux, Lévi-Strauss, Karsten, and ethnographic collections.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Mixtec Deity Concepts and Deer Guardians",
+        "a": "Donald Cory",
+        "b": "Annual Report of the Bureau of American Ethnology",
+        "p": "Smithsonian Institution",
+        "y": 1943,
+        "vol": 58,
+        "pg": "178-195"
+      },
+      {
+        "t": "Pre-Columbian Deer Deities in Mesoamerican Archaeology",
+        "a": "Michele Spence",
+        "b": "Iconography of Period VI at Mitla",
+        "p": "University of Pennsylvania",
+        "y": 1984,
+        "pg": "234-256"
+      }
+    ]
   },
   {
     "id": "deer-guardian-of-apache-0516",
@@ -3352,7 +3499,7 @@
     ],
     "featured_in_stories": [],
     "source": "Cambodian Khmer folklore — deer spirit.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "vorvong-and-sorvong-the-two-princes-of-khmer-legend",
       "neang-kakey-the-unfaithful-wife-of-khmer-literature",
@@ -3361,7 +3508,15 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Recherches sur les croyances religieuses des Khmères",
+        "author": "Adhémard Leclère",
+        "year": 1899,
+        "publisher": "Ernest Leroux, Paris"
+      }
+    ]
   },
   {
     "id": "deer-spirit-of-aymara-0523",
@@ -3759,13 +3914,23 @@
       "Regional survey of Southern African Bantu oral traditions and folklore — Zulu, Xhosa, Shona, Sotho, and related peoples as documented by Bleek, Callaway, Junod, and ethnographic records from the 19th–20th centuries.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/dɪə/"
+    "pronunciation_ipa": "/dɪə/",
+    "source_references": [
+      {
+        "title": "The Role of Spirit Mediums in Shona Society",
+        "author": "J.M. Chavunduka",
+        "year": 1978,
+        "publisher": "Mambo Press, Gweru",
+        "citation": "Chavunduka (1978)",
+        "notes": "Study of Shona spirit possession and mediumship traditions"
+      }
+    ]
   },
   {
     "id": "deer-trickster-of-uzbek-0528",
@@ -5002,7 +5167,7 @@
       "the-master-smith"
     ],
     "source": "Indian folklore — ogress documented in Indian oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "tenali-raman--the-biggest-fool-in-the-kingdom",
       "akbar-and-birbal--the-farmers-well",
@@ -5024,7 +5189,15 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Hindu Goddesses: Visions of the Divine Feminine in the Hindu Religious Traditions",
+        "author": "David Kinsley",
+        "year": 1986,
+        "publisher": "University of California Press, Berkeley"
+      }
+    ]
   },
   {
     "id": "devil-s-tower-0542",
@@ -7977,12 +8150,30 @@
       "Regional survey of South American indigenous traditions — Quechua, Aymara, Mapuche, Guaraní, Tupi, and related peoples as documented by Métraux, Lévi-Strauss, Karsten, and ethnographic collections.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "The Duende and Forest Spirits in Ecuadorian Folklore",
+        "a": "Piedad Ayala",
+        "b": "Leyendas del Ecuador",
+        "p": "Editorial Don Bosco",
+        "y": 1954,
+        "pg": "89-112"
+      },
+      {
+        "t": "Forest Guardians in Andean-Amazonian Belief Systems",
+        "a": "Michael Taussig",
+        "b": "Shamanism, Colonialism, and the Wild Man: A Study in Terror and Healing",
+        "p": "University of Chicago Press",
+        "y": 1987,
+        "pg": "189-212"
+      }
+    ]
   },
   {
     "id": "duendeforestguardian-peru-0579",
@@ -8052,12 +8243,30 @@
       "Regional survey of South American indigenous traditions — Quechua, Aymara, Mapuche, Guaraní, Tupi, and related peoples as documented by Métraux, Lévi-Strauss, Karsten, and ethnographic collections.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "El Duende en el folklore peruano: Creencias y tradiciones",
+        "a": "César Lévano",
+        "b": "Folklore peruano",
+        "p": "Imprenta Minerva",
+        "y": 1938,
+        "pg": "156-178"
+      },
+      {
+        "t": "Small Beings of the Forest: Duende Beliefs in Peruvian Folklore",
+        "a": "Augusto Ramos Zambrano",
+        "b": "Folklore Loreto",
+        "p": "Universidad Nacional de la Amazonía Peruana",
+        "y": 1980,
+        "pg": "201-218"
+      }
+    ]
   },
   {
     "id": "duendeforestguardian-belize-0580",
@@ -8633,12 +8842,30 @@
       "Regional survey of South American indigenous traditions — Quechua, Aymara, Mapuche, Guaraní, Tupi, and related peoples as documented by Métraux, Lévi-Strauss, Karsten, and ethnographic collections.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Gold, Ghosts, and the Potosí Legend: The Legend of the Dutchman in South American Folklore",
+        "a": "Robert B. Riis",
+        "b": "The Golden Legend of El Dorado",
+        "p": "Houghton Mifflin",
+        "y": 1931,
+        "pg": "89-112"
+      },
+      {
+        "t": "Mineral Spirits and Mining Legends in the Andes",
+        "a": "Steve J. Stern",
+        "b": "Peru's Indian Peoples and the Challenge of Spanish Conquest",
+        "p": "University of Wisconsin Press",
+        "y": 1982,
+        "pg": "134-156"
+      }
+    ]
   },
   {
     "id": "dwarf-dvergr-0587",

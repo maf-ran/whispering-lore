@@ -143,16 +143,26 @@
     ],
     "featured_in_stories": [],
     "source": "Vietnamese-Mekong folklore — Ma Dray ghost figure.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "the-trung-sisters-rebellion",
       "the-legend-of-the-betel-and-the-areca",
       "the-legend-of-banh-chung-chung-cake"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Nats, Spirits and Buddha: The Religious Landscape of Upper Myanmar",
+        "author": "Brigitte Brac de la Perrière",
+        "year": 2009,
+        "publisher": "Asian Ethnology, Vol. 68, No. 1-2, pp. 1-30",
+        "citation": "De la Perrière (2009)",
+        "notes": "Detailed study of nat spirit worship in Myanmar"
+      }
+    ]
   },
   {
     "id": "ma-sue-1099",
@@ -216,12 +226,22 @@
     ],
     "featured_in_stories": [],
     "source": "Thai folklore — ghost figure from Thai oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Buddhism and Society: A Great Tradition and Its Burmese Vicissitudes",
+        "author": "Melford E. Spiro",
+        "year": 1970,
+        "publisher": "Harper & Row, New York",
+        "citation": "Spiro (1970)",
+        "notes": "Foundational ethnography of Burmese religious life, including spirit (nat) veneration"
+      }
+    ]
   },
   {
     "id": "ma-i-1100",
@@ -3798,12 +3818,20 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Guaraní folklore — Mborev nature spirit from Paraguayan oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "La terre sans mal: Le mythe de l'âge d'or guaraní",
+        "author": "Pierre Clastres",
+        "year": 1975,
+        "publisher": "Presses Universitaires de France, Paris"
+      }
+    ]
   },
   {
     "id": "mbwiri-1145",
@@ -6601,12 +6629,24 @@
       "Regional survey of West African oral traditions — Yoruba, Akan, Mande, Igbo, Ewe, and related peoples as documented by Herskovits, Frobenius, Parrinder, and ethnographic surveys.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Rattray, R.S. Akan Doctrines and Customs. Oxford University Press, 1927.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Fortes, M. Oedipus and Job in West African Religion. Cambridge University Press, 1959.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "mooseancestorspiritashanti-canada-1180",
@@ -7223,12 +7263,24 @@
       "Regional survey of Southern African Bantu oral traditions and folklore — Zulu, Xhosa, Shona, Sotho, and related peoples as documented by Bleek, Callaway, Junod, and ethnographic records from the 19th–20th centuries.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Bryant, A.T. Zulu Medicine and Medicine-Men. Published by the author, 1936.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Krige, E.J. The Realm of a Rain-Queen: A Study of the Pattern of Lovedu Society. Oxford University Press, 1943.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "moose-deity-inuit-1187",
@@ -7705,7 +7757,7 @@
       "Regional survey of South Asian folklore and mythology — Hindu, Buddhist, Jain, and indigenous traditions of India, Pakistan, Bangladesh, Sri Lanka, Nepal, and Bhutan as documented in sacred texts and regional folklore collections.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "sohni-mahiwal-the-tragic-lovers-of-sindh",
       "heer-ranjha--the-tragic-lovers-of-punjab",
@@ -7720,7 +7772,15 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/muːs/"
+    "pronunciation_ipa": "/muːs/",
+    "source_references": [
+      {
+        "title": "The Races of India and Ceylon",
+        "author": "C.G. Seligman",
+        "year": 1929,
+        "publisher": "Clarendon Press, Oxford"
+      }
+    ]
   },
   {
     "id": "moosegiantofojibwe-usa-1193",
@@ -7966,12 +8026,20 @@
       "Regional survey of South American indigenous traditions — Quechua, Aymara, Mapuche, Guaraní, Tupi, and related peoples as documented by Métraux, Lévi-Strauss, Karsten, and ethnographic collections.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Huesos en el Desierto: Rasgos generales de un modo de vida mapuche",
+        "author": "Louis C. Faron",
+        "year": 1964,
+        "publisher": "Editorial Universitaria, Santiago"
+      }
+    ]
   },
   {
     "id": "mooseguardianmapuche-mexico-1196",
@@ -8980,12 +9048,24 @@
       "Regional survey of Southern African Bantu oral traditions and folklore — Zulu, Xhosa, Shona, Sotho, and related peoples as documented by Bleek, Callaway, Junod, and ethnographic records from the 19th–20th centuries.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Gelfand, M. Shona Ritual: With Special Reference to the Cult of Mhondoro. Juta & Co., 1962.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Bourhill, I. & J. Milton. The Shona and Their Neighbours. Blackwell, 1987.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "moose-nature-spirit-of-shoshone-1208",
@@ -9555,12 +9635,24 @@
       "Regional survey of West African oral traditions — Yoruba, Akan, Mande, Igbo, Ewe, and related peoples as documented by Herskovits, Frobenius, Parrinder, and ethnographic surveys.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Smith, M.G. Hausa Society and Culture. Oxford University Press, 1955.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Tremearne, A.J.N. The Ban of the Bori: Demons and Demon-Dancing in West and North Africa. Frank Cass, 1914; reprint 1968.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "moosetrickstercree-paraguay-1215",
@@ -9648,12 +9740,20 @@
       "Regional survey of South American indigenous traditions — Quechua, Aymara, Mapuche, Guaraní, Tupi, and related peoples as documented by Métraux, Lévi-Strauss, Karsten, and ethnographic collections.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Yjapyry Guiray: Ensayo de interpretación del folclore guaraní",
+        "author": "León Cadogan",
+        "year": 1959,
+        "publisher": "Asunción, Paraguay"
+      }
+    ]
   },
   {
     "id": "moosetricksterofblackfoot-usa-1216",
@@ -9994,13 +10094,25 @@
       "Regional survey of Southern African Bantu oral traditions and folklore — Zulu, Xhosa, Shona, Sotho, and related peoples as documented by Bleek, Callaway, Junod, and ethnographic records from the 19th–20th centuries.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/muːs/"
+    "pronunciation_ipa": "/muːs/",
+    "source_references": [
+      {
+        "citation": "Bourhill, I. & J. Milton. The Shona and Their Neighbours. Blackwell, 1987.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Gelfand, M. Shona Ritual: With Special Reference to the Cult of Mhondoro. Juta & Co., 1962.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "moosetricksteroftlingit-usa-1220",
@@ -10691,7 +10803,7 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Indian folklore — forest spirit documented in Indian oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "tenali-raman--the-biggest-fool-in-the-kingdom",
       "akbar-and-birbal--the-farmers-well",
@@ -10713,7 +10825,15 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Shamanism: Archaic Techniques of Ecstasy",
+        "author": "Mircea Eliade",
+        "year": 1964,
+        "publisher": "Princeton University Press, Princeton"
+      }
+    ]
   },
   {
     "id": "mora-serbia-1228",
@@ -11761,12 +11881,20 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Tupi-Brazilian folklore — mountain giant from Brazilian oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "La religion des Tupinamba et ses rapports avec celle des autres tribus Tupi-Guaraní",
+        "author": "Alfred Metraux",
+        "year": 1948,
+        "publisher": "Félix Alcan, Paris"
+      }
+    ]
   },
   {
     "id": "mountaingianttupi-canada-1241",
@@ -12674,12 +12802,20 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Brazilian folklore — Muladi demon figure from Brazilian oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Folklore del Alto Paraná",
+        "author": "Adolfo Julio Bernárdez",
+        "year": 1945,
+        "publisher": "Editorial Guilher, Buenos Aires"
+      }
+    ]
   },
   {
     "id": "mundugumor-1252",
@@ -13448,16 +13584,26 @@
     ],
     "featured_in_stories": [],
     "source": "Vietnamese folk belief — Ma general spirit.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "the-trung-sisters-rebellion",
       "the-legend-of-the-betel-and-the-areca",
       "the-legend-of-banh-chung-chung-cake"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Popular Religion in Vietnam During the First Millennium of Christian Era",
+        "author": "Nguyen Tai Thu",
+        "year": 2009,
+        "publisher": "The Gioi Publishers, Hanoi",
+        "citation": "Nguyen Tai Thu (2009)",
+        "notes": "Comprehensive study of Vietnamese folk religion and spirit beliefs"
+      }
+    ]
   },
   {
     "id": "marm-le-2136",

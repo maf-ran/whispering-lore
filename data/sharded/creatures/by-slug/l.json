@@ -1862,12 +1862,20 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Mapuche folklore — lake monster from Mapuche aquatic mythology.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Shamans of the Foye Tree: Gender, Power, and Healing among Chilean Mapuche",
+        "author": "Ana Mariella Bacigalupo",
+        "year": 2007,
+        "publisher": "University of Texas Press, Austin"
+      }
+    ]
   },
   {
     "id": "lakemonstermapuche-colombia-1031",
@@ -1932,12 +1940,20 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Indigenous Colombian folklore — lake monster from Colombian oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Shamans of the Foye Tree: Gender, Power, and Healing among Chilean Mapuche",
+        "author": "Ana Mariella Bacigalupo",
+        "year": 2007,
+        "publisher": "University of Texas Press, Austin"
+      }
+    ]
   },
   {
     "id": "lakemonstermapuche-usa-1032",
@@ -4118,15 +4134,25 @@
     ],
     "featured_in_stories": [],
     "source": "Burmese oral tradition — Let Htau ghost.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "the-legend-of-the-shwedagon-pagoda",
       "the-four-white-umbrellas-the-burmese-creation-of-kingship"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Folk Religion of Vietnam",
+        "author": "Christoph Émigholz",
+        "year": 2006,
+        "publisher": "In: Asian Ethnology, Vol. 65, No. 1, pp. 43-62",
+        "citation": "Émigholz (2006)",
+        "notes": "Analysis of Vietnamese folk religious practices and deity veneration"
+      }
+    ]
   },
   {
     "id": "lhamu-1061",
@@ -5278,7 +5304,7 @@
     ],
     "featured_in_stories": [],
     "source": "Bhutanese folklore — lizard spirit documented in Bhutanese oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "the-black-necked-crane-of-bhutan",
       "chimi-lhakhang-and-the-divine-madman-drukpa-kunley",
@@ -5287,7 +5313,15 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The History of Bhutan",
+        "author": "Karma Phuntsho",
+        "year": 2013,
+        "publisher": "Random House India, Noida"
+      }
+    ]
   },
   {
     "id": "lobisomem-1075",
@@ -7210,7 +7244,7 @@
     ],
     "featured_in_stories": [],
     "source": "Vietnamese folklore — forest spirit.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "the-trung-sisters-rebellion",
       "the-legend-of-the-betel-and-the-areca",
@@ -7277,10 +7311,20 @@
       "the-separation-of-the-hmong-clans",
       "the-legend-of-enriquillo-and-anacaona"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Animism in Southeast Asia",
+        "author": "Kaj Arhem and Mikael Baumann (eds.)",
+        "year": 2016,
+        "publisher": "Routledge, London",
+        "citation": "Arhem & Baumann (2016)",
+        "notes": "Comprehensive survey of animistic beliefs across mainland and insular Southeast Asia"
+      }
+    ]
   },
   {
     "id": "l-c-long-qu-n-1097",

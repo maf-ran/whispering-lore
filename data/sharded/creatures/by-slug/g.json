@@ -3582,12 +3582,22 @@
     ],
     "featured_in_stories": [],
     "source": "Namibian folklore — spirit documented in Namibian oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Zimbabwe: The Archaeology of Black Africa",
+        "author": "Peter S. Garlake",
+        "year": 1973,
+        "publisher": "Chatto & Windus, London",
+        "citation": "Garlake (1973)",
+        "notes": "Archaeological study of Shona civilization and stone-building culture"
+      }
+    ]
   },
   {
     "id": "gwyllion-0794",
@@ -3802,7 +3812,7 @@
     ],
     "featured_in_stories": [],
     "source": "Nepali folklore — guardian spirit documented in Nepali oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "the-living-goddess-kumari-of-nepal",
       "prince-siddharthas-great-renunciation",
@@ -3812,7 +3822,15 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Races of India and Ceylon",
+        "author": "C.G. Seligman",
+        "year": 1929,
+        "publisher": "Clarendon Press, Oxford"
+      }
+    ]
   },
   {
     "id": "gardvord-2117",

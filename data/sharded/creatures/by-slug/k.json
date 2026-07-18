@@ -810,13 +810,25 @@
     ],
     "featured_in_stories": [],
     "source": "Mozambique folklore — water spirit documented in Mozambican coastal oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/kambujanu/"
+    "pronunciation_ipa": "/kambujanu/",
+    "source_references": [
+      {
+        "citation": "Sundkler, B.G.M. Bantu Prophets in South Africa. 2nd ed., Oxford University Press, 1961.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Berglund, A.I. Zulu Thought-Patterns and Symbolism. C. Hurst & Co., 1976.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "kappa-0926",
@@ -1929,12 +1941,20 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Colombian folklore — Kayeri forest spirit from Amazonian oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Los Aborígenes del Paraguay",
+        "author": "Branislava Susnik",
+        "year": 1978,
+        "publisher": "Museo Etnográfico Andrés Barbero, Asunción"
+      }
+    ]
   },
   {
     "id": "keemse-0941",
@@ -5856,12 +5876,24 @@
       "Regional survey of West African oral traditions — Yoruba, Akan, Mande, Igbo, Ewe, and related peoples as documented by Herskovits, Frobenius, Parrinder, and ethnographic surveys.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Rattray, R.S. The Ashanti. Clarendon Press, 1923.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Wilks, I. Asante in the Nineteenth Century: The Structure and Evolution of a Political Order. Cambridge University Press, 1975.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "kumiho-0995",

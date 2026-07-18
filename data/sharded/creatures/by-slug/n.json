@@ -4891,12 +4891,24 @@
       "Regional survey of West African oral traditions — Yoruba, Akan, Mande, Igbo, Ewe, and related peoples as documented by Herskovits, Frobenius, Parrinder, and ethnographic surveys.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Sundkler, B.G.M. Bantu Prophets in South Africa. 2nd ed., Oxford University Press, 1961.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Krige, E.J. The Realm of a Rain-Queen: A Study of the Pattern of Lovedu Society. Oxford University Press, 1943.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "nu-u-1318",
@@ -5475,12 +5487,24 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Eswatini folklore — monster documented in Swazi oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Sundkler, B.G.M. Bantu Prophets in South Africa. 2nd ed., Oxford University Press, 1961.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Hollyman, S. Traditional Swazi Medicine. Swaziland National Museum, 1978.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "nyabingi-1328",

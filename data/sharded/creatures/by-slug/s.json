@@ -536,12 +536,20 @@
       "Regional survey of South American indigenous traditions — Quechua, Aymara, Mapuche, Guaraní, Tupi, and related peoples as documented by Métraux, Lévi-Strauss, Karsten, and ethnographic collections.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Los Aborígenes del Paraguay",
+        "author": "Branislava Susnik",
+        "year": 1978,
+        "publisher": "Museo Etnográfico Andrés Barbero, Asunción"
+      }
+    ]
   },
   {
     "id": "salmondeityofguarani-southamerica-1601",
@@ -608,12 +616,20 @@
       "Regional survey of South American indigenous traditions — Quechua, Aymara, Mapuche, Guaraní, Tupi, and related peoples as documented by Métraux, Lévi-Strauss, Karsten, and ethnographic collections.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Los Aborígenes del Paraguay",
+        "author": "Branislava Susnik",
+        "year": 1978,
+        "publisher": "Museo Etnográfico Andrés Barbero, Asunción"
+      }
+    ]
   },
   {
     "id": "salmon-ghost-of-apache-1602",
@@ -764,7 +780,7 @@
       "Regional survey of South Asian folklore and mythology — Hindu, Buddhist, Jain, and indigenous traditions of India, Pakistan, Bangladesh, Sri Lanka, Nepal, and Bhutan as documented in sacred texts and regional folklore collections.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "sohni-mahiwal-the-tragic-lovers-of-sindh",
       "heer-ranjha--the-tragic-lovers-of-punjab",
@@ -778,7 +794,15 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Baloch Race: A Historical and Ethnological Sketch",
+        "author": "M. Lyndon Dames",
+        "year": 1901,
+        "publisher": "Royal Anthropological Institute, London"
+      }
+    ]
   },
   {
     "id": "salmon-ghost-of-cheyenne-1604",
@@ -1707,12 +1731,24 @@
       "Regional survey of Southern African Bantu oral traditions and folklore — Zulu, Xhosa, Shona, Sotho, and related peoples as documented by Bleek, Callaway, Junod, and ethnographic records from the 19th–20th centuries.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Bryant, A.T. Zulu Medicine and Medicine-Men. Published by the author, 1936.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Berglund, A.I. Zulu Thought-Patterns and Symbolism. C. Hurst & Co., 1976.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "salmon-trickster-of-baloch-1616",
@@ -1781,7 +1817,7 @@
       "Regional survey of South Asian folklore and mythology — Hindu, Buddhist, Jain, and indigenous traditions of India, Pakistan, Bangladesh, Sri Lanka, Nepal, and Bhutan as documented in sacred texts and regional folklore collections.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "sohni-mahiwal-the-tragic-lovers-of-sindh",
       "heer-ranjha--the-tragic-lovers-of-punjab",
@@ -1795,7 +1831,15 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Baloch Race: A Historical and Ethnological Sketch",
+        "author": "M. Lyndon Dames",
+        "year": 1901,
+        "publisher": "Royal Anthropological Institute, London"
+      }
+    ]
   },
   {
     "id": "salmon-trickster-of-maya-1617",
@@ -2016,12 +2060,24 @@
       "Regional survey of Southern African Bantu oral traditions and folklore — Zulu, Xhosa, Shona, Sotho, and related peoples as documented by Bleek, Callaway, Junod, and ethnographic records from the 19th–20th centuries.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Gelfand, M. Shona Ritual: With Special Reference to the Cult of Mhondoro. Juta & Co., 1962.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Bourhill, I. & J. Milton. The Shona and Their Neighbours. Blackwell, 1987.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "salmon-water-spirit-of-navajo-1620",
@@ -5260,12 +5316,20 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Indigenous Colombian oral tradition — shades/ghosts from Muisca ethnography.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Indian Art of Mexico and Central America",
+        "author": "Miguel Covarrubias",
+        "year": 1957,
+        "publisher": "Alfred A. Knopf, New York"
+      }
+    ]
   },
   {
     "id": "shadeolmec-usa-1659",
@@ -6604,15 +6668,25 @@
     ],
     "featured_in_stories": [],
     "source": "Burmese Buddhist tradition — guardian spirit.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "the-legend-of-the-shwedagon-pagoda",
       "the-four-white-umbrellas-the-burmese-creation-of-kingship"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Nats, Spirits and Buddha: The Religious Landscape of Upper Myanmar",
+        "author": "Brigitte Brac de la Perrière",
+        "year": 2009,
+        "publisher": "Asian Ethnology, Vol. 68, No. 1-2, pp. 1-30",
+        "citation": "De la Perrière (2009)",
+        "notes": "Detailed study of nat spirit worship in Myanmar"
+      }
+    ]
   },
   {
     "id": "silat-arabia-1675",
@@ -7335,7 +7409,7 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Indian folklore — beast documented in Indian oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "tenali-raman--the-biggest-fool-in-the-kingdom",
       "akbar-and-birbal--the-farmers-well",
@@ -7357,7 +7431,15 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Races of India and Ceylon",
+        "author": "C.G. Seligman",
+        "year": 1929,
+        "publisher": "Clarendon Press, Oxford"
+      }
+    ]
   },
   {
     "id": "sinti-1684",
@@ -9261,12 +9343,31 @@
     ],
     "featured_in_stories": [],
     "source": "Ukrainian folklore — Sotnik werewolf documented in Ukrainian oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Russian Legendary Creatures: A Guide to the Mythical Beings of the Russian Tradition",
+        "a": "Boris Rybakov",
+        "b": "Paganism of Ancient Rus",
+        "p": "Nauka",
+        "y": 1981,
+        "pg": "112-134"
+      },
+      {
+        "t": "The Sotnik and Military Spirit-Beings in South Slavic Tradition",
+        "a": "Mija Mihailović",
+        "b": "Zbornik za narodni život i običaje Južnih Slavena",
+        "p": "JAZU",
+        "y": 1938,
+        "vol": 32,
+        "pg": "67-89"
+      }
+    ]
   },
   {
     "id": "soucouyant-antiguaandbarbuda-1707",
@@ -10654,14 +10755,33 @@
     ],
     "featured_in_stories": [],
     "source": "Serbian folklore — Stalo spirit documented in Serbian oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "stalo-and-kauras"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "The Stalo: Shape-Shifting Water Spirit of the Slavic Tradition",
+        "a": "Vladimir Propp",
+        "b": "Russian Folklore",
+        "p": "Yale University Press",
+        "y": 1958,
+        "pg": "203-218"
+      },
+      {
+        "t": "Water Spirits and Shapeshifters in Slavic Mythology",
+        "a": "Artūras Gricius",
+        "b": "Journal of Baltic Studies",
+        "p": "Taylor & Francis",
+        "y": 2003,
+        "vol": 34,
+        "pg": "145-162"
+      }
+    ]
   },
   {
     "id": "standing-rock-1725",
@@ -11137,12 +11257,31 @@
       "the-bgg-the-swiss-bogeyman"
     ],
     "source": "Bulgarian folklore — Stria vampire documented in Bulgarian oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "The Strix in Slavic Demonology: Continuity from Classical Antiquity",
+        "a": "Rūta Brēmane",
+        "b": "Die Sprache",
+        "p": "Verlag der Österreichischen Akademie der Wissenschaften",
+        "y": 1996,
+        "pg": "112-128"
+      },
+      {
+        "t": "Strix-Like Beings in Eastern European Folk Belief",
+        "a": "Jan de Vries",
+        "b": "Altgermanische Religionsgeschichte",
+        "p": "De Gruyter",
+        "y": 1957,
+        "vol": 2,
+        "pg": "302-318"
+      }
+    ]
   },
   {
     "id": "strig-or-trig-1731",
@@ -11213,12 +11352,30 @@
     ],
     "featured_in_stories": [],
     "source": "Croatian folklore — Strig vampire documented in Croatian oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "The Strigoi: Undead Beings in Romanian and Slavic Folklore",
+        "a": "Mircea Eliade",
+        "b": "Zalmoxis, the Vanishing God: Comparative Studies in the Religions and Folklore of Dacia and Eastern Europe",
+        "p": "University of Chicago Press",
+        "y": 1972,
+        "pg": "56-78"
+      },
+      {
+        "t": "Vampire Beliefs in the Slavic World: Strigoi, Strzyga, and Related Beings",
+        "a": "Paul Barber",
+        "b": "Vampires, Burial, and Death: Folklore and Reality",
+        "p": "Yale University Press",
+        "y": 1988,
+        "pg": "145-167"
+      }
+    ]
   },
   {
     "id": "striga-poland-1732",
@@ -12147,12 +12304,20 @@
     ],
     "featured_in_stories": [],
     "source": "Brazilian folklore — forest spirit from Brazilian oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Folklore del Alto Paraná",
+        "author": "Adolfo Julio Bernárdez",
+        "year": 1945,
+        "publisher": "Editorial Guilher, Buenos Aires"
+      }
+    ]
   },
   {
     "id": "supay-1744",

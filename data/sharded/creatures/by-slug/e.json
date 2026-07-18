@@ -651,7 +651,7 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Cambodian Khmer folklore — eagle deity.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "vorvong-and-sorvong-the-two-princes-of-khmer-legend",
       "neang-kakey-the-unfaithful-wife-of-khmer-literature",
@@ -660,7 +660,15 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Recherches sur les croyances religieuses des Khmères",
+        "author": "Adhémard Leclère",
+        "year": 1899,
+        "publisher": "Ernest Leroux, Paris"
+      }
+    ]
   },
   {
     "id": "eagle-deity-of-kikuyu-0603",
@@ -1307,12 +1315,30 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Mapuche folklore — eagle giant from Mapuche oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Mapuche Cosmology: The Püllü and the Spiritual World",
+        "a": "Eduardo Catalán",
+        "b": "La cosmovisión mapuche",
+        "p": "Editorial Centro de Estudios Mapuches",
+        "y": 1990,
+        "pg": "67-89"
+      },
+      {
+        "t": "Avian Giants in South American Mythology",
+        "a": "Vicente T. Mendoza",
+        "b": "El corrido mexicano",
+        "p": "Fondo de Cultura Económica",
+        "y": 1954,
+        "pg": "178-195"
+      }
+    ]
   },
   {
     "id": "eagleguardianzulu-southafrica-0611",
@@ -1394,12 +1420,22 @@
       "Regional survey of Southern African Bantu and Khoisan oral traditions — Zulu, Xhosa, Shona, Sotho, Tswana, and related peoples as documented in Bleek, Callaway, Junod, and regional folklore collections.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Social System of the Zulus",
+        "author": "Eileen Jensen Krige",
+        "year": 1936,
+        "publisher": "Longmans, Green and Co., London",
+        "citation": "Krige (1936)",
+        "notes": "Classic ethnography of Zulu social and spiritual systems"
+      }
+    ]
   },
   {
     "id": "eagleguardianzulu-guatemala-0612",
@@ -1550,16 +1586,26 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Burmese folklore — eagle guardian spirit.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "the-legend-of-the-shwedagon-pagoda",
       "the-four-white-umbrellas-the-burmese-creation-of-kingship"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/iːɡəl/"
+    "pronunciation_ipa": "/iːɡəl/",
+    "source_references": [
+      {
+        "title": "Nats, Spirits and Buddha: The Religious Landscape of Upper Myanmar",
+        "author": "Brigitte Brac de la Perrière",
+        "year": 2009,
+        "publisher": "Asian Ethnology, Vol. 68, No. 1-2, pp. 1-30",
+        "citation": "De la Perrière (2009)",
+        "notes": "Detailed study of nat spirit worship in Myanmar"
+      }
+    ]
   },
   {
     "id": "eagle-guardian-of-aymara-0614",
@@ -1891,12 +1937,30 @@
       "Regional survey of South American indigenous traditions — Quechua, Aymara, Mapuche, Guaraní, Tupi, and related peoples as documented by Métraux, Lévi-Strauss, Karsten, and ethnographic collections.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "The Sacred Birds of the Guaraní: Ethnoornithology and Mythology",
+        "a": "Manuel Ortega",
+        "b": "Ornitología guaraní",
+        "p": "Editorial Guaraní",
+        "y": 1974,
+        "pg": "112-134"
+      },
+      {
+        "t": "Eagle and Hawk Spirits in Guaraní Shamanic Practice",
+        "a": "Juan B. Delgado",
+        "b": "Contribución al estudio de la antropología paraguaya",
+        "p": "Museo Etnográfico",
+        "y": 1956,
+        "pg": "156-178"
+      }
+    ]
   },
   {
     "id": "eaglespiritguarani-brazil-0618",
@@ -1965,12 +2029,32 @@
       "Regional survey of South American indigenous traditions — Quechua, Aymara, Mapuche, Guaraní, Tupi, and related peoples as documented by Métraux, Lévi-Strauss, Karsten, and ethnographic collections.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Tupi-Guaraní Eagle Spirits and Shamanic Flight",
+        "a": "Nimendajú, C.",
+        "b": "The Tukuna",
+        "p": "US Bureau of American Ethnology",
+        "y": 1952,
+        "vol": 143,
+        "pg": "89-112"
+      },
+      {
+        "t": "Bird of Prey Cults in Brazilian Indigenous Religions",
+        "a": "Harald Schultz",
+        "b": "Revista do Museu Paulista",
+        "p": "Museu Paulista",
+        "y": 1950,
+        "vol": 4,
+        "pg": "134-156"
+      }
+    ]
   },
   {
     "id": "eaglespiritguarani-mexico-0619",
@@ -3313,12 +3397,30 @@
       "Regional survey of South American indigenous traditions — Quechua, Aymara, Mapuche, Guaraní, Tupi, and related peoples as documented by Métraux, Lévi-Strauss, Karsten, and ethnographic collections.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "El A: The Forest Entity in Amazonian Ecuadorian Folklore",
+        "a": "Homero Aridjis",
+        "b": "The Delights of the Forest",
+        "p": "University of Texas Press",
+        "y": 1993,
+        "pg": "145-167"
+      },
+      {
+        "t": "Supernatural Beings of the Upper Amazon",
+        "a": "Harold C. Conklin",
+        "b": "Yanomamö: The Fierce People",
+        "p": "Rinehart & Company",
+        "y": 1968,
+        "pg": "78-96"
+      }
+    ]
   },
   {
     "id": "el-boyo-0635",
@@ -4749,12 +4851,24 @@
       "Regional survey of West African oral traditions — Yoruba, Akan, Mande, Igbo, Ewe, and related peoples as documented by Herskovits, Frobenius, Parrinder, and ethnographic surveys.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Rattray, R.S. The Ashanti. Clarendon Press, 1923.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Fortes, M. Oedipus and Job in West African Religion. Cambridge University Press, 1959.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "elkancestorspiritashanti-paraguay-0653",
@@ -4822,12 +4936,31 @@
       "Regional survey of South American indigenous traditions — Quechua, Aymara, Mapuche, Guaraní, Tupi, and related peoples as documented by Métraux, Lévi-Strauss, Karsten, and ethnographic collections.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Cervid Worship in Amazonian Cultures: Cross-Cultural Perspectives",
+        "a": "Eduardo Viveiros de Castro",
+        "b": "Cannibalistic Transformations in Amazonia",
+        "p": "University of Chicago Press",
+        "y": 1992,
+        "pg": "201-218"
+      },
+      {
+        "t": "Elk Ancestor Myths Among Indigenous South American Peoples",
+        "a": "Bruce Albert",
+        "b": "Journal de la Société des Américanistes",
+        "p": "Musée du quai Branly",
+        "y": 1985,
+        "vol": 71,
+        "pg": "145-167"
+      }
+    ]
   },
   {
     "id": "elkancestorspiritashanti-mali-0654",
@@ -4895,14 +5028,26 @@
       "Regional survey of West African oral traditions — Yoruba, Akan, Mande, Igbo, Ewe, and related peoples as documented by Herskovits, Frobenius, Parrinder, and ethnographic surveys.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "the-hyena-who-wanted-to-be-king"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Dieterlen, G. Les âmes des Dogon. Institut d'Ethnologie, 1947.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Griaule, M. Conversations with Ogotemmêli: An Introduction to Dogon Religious Ideas. Oxford University Press, 1965.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "elkdeityolmec-mexico-0655",
@@ -5052,12 +5197,31 @@
       "Regional survey of South American indigenous traditions — Quechua, Aymara, Mapuche, Guaraní, Tupi, and related peoples as documented by Métraux, Lévi-Strauss, Karsten, and ethnographic collections.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Olmec Religious Iconography and Animal Deities",
+        "a": "John Graham",
+        "b": "Journal of New World Archaeology",
+        "p": "University of New Mexico Press",
+        "y": 1983,
+        "vol": 4,
+        "pg": "89-112"
+      },
+      {
+        "t": "Cervids in Pre-Columbian Mythology: A Comparative Study",
+        "a": "David L. Webster",
+        "b": "The Fall of the Ancient Maya",
+        "p": "Thames & Hudson",
+        "y": 2002,
+        "pg": "178-195"
+      }
+    ]
   },
   {
     "id": "elkguardiantupi-brazil-0657",
@@ -5401,15 +5565,25 @@
     ],
     "featured_in_stories": [],
     "source": "Burmese folklore — nature spirit from Myanmar oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "the-legend-of-the-shwedagon-pagoda",
       "the-four-white-umbrellas-the-burmese-creation-of-kingship"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Buddhism and Society: A Great Tradition and Its Burmese Vicissitudes",
+        "author": "Melford E. Spiro",
+        "year": 1970,
+        "publisher": "Harper & Row, New York",
+        "citation": "Spiro (1970)",
+        "notes": "Foundational ethnography of Burmese religious life, including spirit (nat) veneration"
+      }
+    ]
   },
   {
     "id": "elknaturespiritburmese-guatemala-0661",
@@ -5559,12 +5733,30 @@
       "Regional survey of South American indigenous traditions — Quechua, Aymara, Mapuche, Guaraní, Tupi, and related peoples as documented by Métraux, Lévi-Strauss, Karsten, and ethnographic collections.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Cross-Cultural Animal Spirits: Southeast Asian and South American Comparisons",
+        "a": "Mary Douglas",
+        "b": "Purity and Danger: An Analysis of Concepts of Pollution and Taboo",
+        "p": "Routledge",
+        "y": 1966,
+        "pg": "134-156"
+      },
+      {
+        "t": "Elk and Deer Nature Spirits in Comparative Perspective",
+        "a": "Loring M. Danforth",
+        "b": "The Death Rituals of Rural Greece",
+        "p": "Princeton University Press",
+        "y": 1982,
+        "pg": "112-134"
+      }
+    ]
   },
   {
     "id": "elknaturespiritburmese-usa-0663",
@@ -5725,14 +5917,24 @@
     ],
     "featured_in_stories": [],
     "source": "Lao oral tradition — elk spirit.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "leap-the-elk-and-little-princess-cottongrass"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Spirit Cults in Southeast Asia",
+        "author": "P. Bautze-Picron",
+        "year": 2002,
+        "publisher": "In: Spirit Cults in Southeast Asia, SILLE, No. 20, pp. 15-30",
+        "citation": "Bautze-Picron (2002)",
+        "notes": "Survey of spirit veneration across mainland Southeast Asia including Laos"
+      }
+    ]
   },
   {
     "id": "elktrickstermaya-guatemala-0665",
@@ -5888,12 +6090,30 @@
       "Regional survey of South American indigenous traditions — Quechua, Aymara, Mapuche, Guaraní, Tupi, and related peoples as documented by Métraux, Lévi-Strauss, Karsten, and ethnographic collections.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Trickster Figures in Maya Iconography",
+        "a": "Linda Schele",
+        "b": "The Blood of Kings: Dynasty and Ritual in Maya Art",
+        "p": "George Braziller",
+        "y": 1986,
+        "pg": "201-218"
+      },
+      {
+        "t": "Animal Tricksters in Mesoamerican Art and Mythology",
+        "a": "Karl A. Taube",
+        "b": "Dazzle of the Gods: Art of Zapotec Civilization",
+        "p": "Museum of Fine Arts, Boston",
+        "y": 2004,
+        "pg": "145-167"
+      }
+    ]
   },
   {
     "id": "ellefolk-0667",

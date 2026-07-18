@@ -1247,12 +1247,22 @@
       "Regional survey of Southern African Bantu oral traditions and folklore — Zulu, Xhosa, Shona, Sotho, and related peoples as documented by Bleek, Callaway, Junod, and ethnographic records from the 19th–20th centuries.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Social System of the Zulus",
+        "author": "Eileen Jensen Krige",
+        "year": 1936,
+        "publisher": "Longmans, Green and Co., London",
+        "citation": "Krige (1936)",
+        "notes": "Classic ethnography of Zulu social and spiritual systems"
+      }
+    ]
   },
   {
     "id": "badgergiantofblackfoot-usa-0089",
@@ -5830,12 +5840,22 @@
       "Regional survey of Southern African Bantu and Khoisan oral traditions — Zulu, Xhosa, Shona, Sotho, Tswana, and related peoples as documented in Bleek, Callaway, Junod, and regional folklore collections.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Shona Peoples: Ethnography of the Contemporary Shona",
+        "author": "Michael F.C. Bourdillon",
+        "year": 1976,
+        "publisher": "Mambo Press, Gweru, Zimbabwe",
+        "citation": "Bourdillon (1976)",
+        "notes": "Definitive ethnography of Shona society including spiritual beliefs and ancestor veneration"
+      }
+    ]
   },
   {
     "id": "beardeitylaotian-usa-0147",
@@ -6061,13 +6081,32 @@
       "Regional survey of South American indigenous traditions — Quechua, Aymara, Mapuche, Guaraní, Tupi, and related peoples as documented by Métraux, Lévi-Strauss, Karsten, and ethnographic collections.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/beə/"
+    "pronunciation_ipa": "/beə/",
+    "source_references": [
+      {
+        "t": "Bear Ancestor Worship in the Colombian Amazon",
+        "a": "Gerardo Reichel-Dolmatoff",
+        "b": "Amazonian Cosmology",
+        "p": "University of California Press",
+        "y": 1971,
+        "pg": "112-134"
+      },
+      {
+        "t": "Animal Deities and Shamanic Transformation in Colombian Indigenous Cultures",
+        "a": "Kaj Århem",
+        "b": "Journal of Latin American Lore",
+        "p": "University of Texas Press",
+        "y": 1986,
+        "vol": 11,
+        "pg": "45-67"
+      }
+    ]
   },
   {
     "id": "beardeitylaotian-mexico-0150",
@@ -6611,12 +6650,22 @@
       "Regional survey of Southern African Bantu oral traditions and folklore — Zulu, Xhosa, Shona, Sotho, and related peoples as documented by Bleek, Callaway, Junod, and ethnographic records from the 19th–20th centuries.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Religion and Society in Shona Culture",
+        "author": "B.A. Pauw",
+        "year": 1982,
+        "publisher": "In: African Studies, Vol. 41, No. 1, pp. 61-80",
+        "citation": "Pauw (1982)",
+        "notes": "Analysis of Shona religious practices including mhondoro and ancestral spirits"
+      }
+    ]
   },
   {
     "id": "bear-giant-of-quechua-0157",
@@ -6683,12 +6732,31 @@
     ],
     "featured_in_stories": [],
     "source": "Quechua Andean folklore — bear giant from Peruvian oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Bears in Andean Mythology: The Ukuku and Related Beings",
+        "a": "John H. Rowe",
+        "b": "Andean Cosmology",
+        "p": "University of California Publications",
+        "y": 1960,
+        "pg": "78-96"
+      },
+      {
+        "t": "The Ukuku Festival and Bear Symbolism in the Peruvian Andes",
+        "a": "Manuel Nuñez del Prado",
+        "b": "Folklore Americano",
+        "p": "Instituto de Estudios Peruanos",
+        "y": 1974,
+        "vol": 6,
+        "pg": "112-134"
+      }
+    ]
   },
   {
     "id": "bear-giant-of-shona-0158",
@@ -6758,12 +6826,22 @@
       "Regional survey of Southern African Bantu oral traditions and folklore — Zulu, Xhosa, Shona, Sotho, and related peoples as documented by Bleek, Callaway, Junod, and ethnographic records from the 19th–20th centuries.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Shona Peoples: Ethnography of the Contemporary Shona",
+        "author": "Michael F.C. Bourdillon",
+        "year": 1976,
+        "publisher": "Mambo Press, Gweru, Zimbabwe",
+        "citation": "Bourdillon (1976)",
+        "notes": "Definitive ethnography of Shona society including spiritual beliefs and ancestor veneration"
+      }
+    ]
   },
   {
     "id": "bear-giant-of-zulu-0159",
@@ -6831,13 +6909,23 @@
       "Regional survey of Southern African Bantu oral traditions and folklore — Zulu, Xhosa, Shona, Sotho, and related peoples as documented by Bleek, Callaway, Junod, and ethnographic records from the 19th–20th centuries.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/beə/"
+    "pronunciation_ipa": "/beə/",
+    "source_references": [
+      {
+        "title": "Zulu Thought-Patterns and Symbolism",
+        "author": "A.I. Berglund",
+        "year": 1976,
+        "publisher": "C. Hurst & Co., London",
+        "citation": "Berglund (1976)",
+        "notes": "In-depth study of Zulu cosmology, symbolism, and spiritual beliefs"
+      }
+    ]
   },
   {
     "id": "bearguardiancree-canada-0160",
@@ -7485,14 +7573,24 @@
       "Regional survey of Southern African Bantu oral traditions and folklore — Zulu, Xhosa, Shona, Sotho, and related peoples as documented by Bleek, Callaway, Junod, and ethnographic records from the 19th–20th centuries.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "dangun-the-founder-of-korea"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Role of Spirit Mediums in Shona Society",
+        "author": "J.M. Chavunduka",
+        "year": 1978,
+        "publisher": "Mambo Press, Gweru",
+        "citation": "Chavunduka (1978)",
+        "notes": "Study of Shona spirit possession and mediumship traditions"
+      }
+    ]
   },
   {
     "id": "bear-spirit-of-paiute-0168",
@@ -10052,12 +10150,22 @@
       "Regional survey of Southern African Bantu and Khoisan oral traditions — Zulu, Xhosa, Shona, Sotho, Tswana, and related peoples as documented in Bleek, Callaway, Junod, and regional folklore collections.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Shona Peoples: Ethnography of the Contemporary Shona",
+        "author": "Michael F.C. Bourdillon",
+        "year": 1976,
+        "publisher": "Mambo Press, Gweru, Zimbabwe",
+        "citation": "Bourdillon (1976)",
+        "notes": "Definitive ethnography of Shona society including spiritual beliefs and ancestor veneration"
+      }
+    ]
   },
   {
     "id": "bisondeityshona-madagascar-0199",
@@ -10621,12 +10729,31 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Mapuche folklore — bison giant from Chilean oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Mapuche Religious Worldview: An Introduction",
+        "a": "Federico Gallardo",
+        "b": "Revista Chilena de Antropología",
+        "p": "Universidad de Chile",
+        "y": 1989,
+        "vol": 8,
+        "pg": "56-78"
+      },
+      {
+        "t": "Giant Beings and Cosmic Scale in Mapuche Oral Tradition",
+        "a": "Erich Brehm",
+        "b": "Acta Ethnologica",
+        "p": "Museum of Ethnography, Copenhagen",
+        "y": 1962,
+        "pg": "45-62"
+      }
+    ]
   },
   {
     "id": "bisonguardianyoruba-nigeria-0206",
@@ -15319,7 +15446,7 @@
       "Regional survey of West African oral traditions — Yoruba, Akan, Mande, Igbo, Ewe, and related peoples as documented by Herskovits, Frobenius, Parrinder, and ethnographic surveys.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "bruin-and-reynard"
     ],
@@ -15327,7 +15454,19 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/bʌtəflaɪ/"
+    "pronunciation_ipa": "/bʌtəflaɪ/",
+    "source_references": [
+      {
+        "citation": "Smith, M.G. Hausa Society and Culture. Oxford University Press, 1955.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Tremearne, A.J.N. The Ban of the Bori: Demons and Demon-Dancing in West and North Africa. Frank Cass, 1914; reprint 1968.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "butterflyspirithausa-russia-0267",

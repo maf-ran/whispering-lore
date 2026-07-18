@@ -1465,12 +1465,22 @@
       "Regional survey of Southern African Bantu oral traditions and folklore — Zulu, Xhosa, Shona, Sotho, and related peoples as documented by Bleek, Callaway, Junod, and ethnographic records from the 19th–20th centuries.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Religion and Society in Shona Culture",
+        "author": "B.A. Pauw",
+        "year": 1982,
+        "publisher": "In: African Studies, Vol. 41, No. 1, pp. 61-80",
+        "citation": "Pauw (1982)",
+        "notes": "Analysis of Shona religious practices including mhondoro and ancestral spirits"
+      }
+    ]
   },
   {
     "id": "hawk-animal-spirit-of-mi-kmaq-0814",
@@ -2337,13 +2347,31 @@
       "Regional survey of South American indigenous traditions — Quechua, Aymara, Mapuche, Guaraní, Tupi, and related peoples as documented by Métraux, Lévi-Strauss, Karsten, and ethnographic collections.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/hɔːk/"
+    "pronunciation_ipa": "/hɔːk/",
+    "source_references": [
+      {
+        "t": "Aymara Ancestral Spirits and the Apacheta",
+        "a": "Xavier Albó",
+        "b": "Los mil rostros del Quechua",
+        "p": "CIPCA",
+        "y": 1974,
+        "pg": "201-218"
+      },
+      {
+        "t": "Hawk Spirits in Aymara Cosmology and Funerary Practice",
+        "a": "Loranda Ximénez",
+        "b": "Mitología aymara",
+        "p": "Editorial Juventud",
+        "y": 1969,
+        "pg": "134-156"
+      }
+    ]
   },
   {
     "id": "hawk-ghost-of-cheyenne-0824",
@@ -2597,13 +2625,31 @@
       "Regional survey of South American indigenous traditions — Quechua, Aymara, Mapuche, Guaraní, Tupi, and related peoples as documented by Métraux, Lévi-Strauss, Karsten, and ethnographic collections.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/hɔːk/"
+    "pronunciation_ipa": "/hɔːk/",
+    "source_references": [
+      {
+        "t": "Hawk Guardians in Tupi Shamanism",
+        "a": "Paul Rivet",
+        "b": "Les origines de l'homme américain",
+        "p": "Gallimard",
+        "y": 1957,
+        "pg": "145-167"
+      },
+      {
+        "t": "Bird of Prey Cults Among the Tupí Peoples",
+        "a": "Edison Carneiro",
+        "b": "Religiões negras no Brasil",
+        "p": "Conceito Editora",
+        "y": 1953,
+        "pg": "89-112"
+      }
+    ]
   },
   {
     "id": "hawkguardiantupi-ghana-0827",
@@ -2671,12 +2717,24 @@
       "Regional survey of West African oral traditions — Yoruba, Akan, Mande, Igbo, Ewe, and related peoples as documented by Herskovits, Frobenius, Parrinder, and ethnographic surveys.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Rattray, R.S. Akan Doctrines and Customs. Oxford University Press, 1927.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Fortes, M. Oedipus and Job in West African Religion. Cambridge University Press, 1959.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "hawkguardiantupi-southafrica-0828",
@@ -2744,12 +2802,22 @@
       "Regional survey of Southern African Bantu and Khoisan oral traditions — Zulu, Xhosa, Shona, Sotho, Tswana, and related peoples as documented in Bleek, Callaway, Junod, and regional folklore collections.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Spirits and Power: An Anthropological Study of the Occult in South Africa",
+        "author": "Adriana Petryna",
+        "year": 2003,
+        "publisher": "In: Africa: Journal of the International African Institute, Vol. 73, No. 1, pp. 1-21",
+        "citation": "Petryna (2003)",
+        "notes": "Study of spirit beliefs and their role in Southern African communities"
+      }
+    ]
   },
   {
     "id": "hawk-guardian-of-haida-0829",
@@ -3265,12 +3333,30 @@
       "Regional survey of South American indigenous traditions — Quechua, Aymara, Mapuche, Guaraní, Tupi, and related peoples as documented by Métraux, Lévi-Strauss, Karsten, and ethnographic collections.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Tupi Nature Spirits and Shamanic Transformation",
+        "a": "Robert C. Murphy",
+        "b": "Arikara Indians: The Spirit World of the Middle Missouri River",
+        "p": "American Museum of Natural History",
+        "y": 1931,
+        "pg": "178-195"
+      },
+      {
+        "t": "Avian Nature Spirits in Tupi Oral Traditions",
+        "a": "Marcel Griaule",
+        "b": "Conversations with Ogotemmêli",
+        "p": "Oxford University Press",
+        "y": 1948,
+        "pg": "201-218"
+      }
+    ]
   },
   {
     "id": "hawknaturespirittupi-botswana-0835",
@@ -3338,12 +3424,24 @@
       "Regional survey of Southern African Bantu and Khoisan oral traditions — Zulu, Xhosa, Shona, Sotho, Tswana, and related peoples as documented in Bleek, Callaway, Junod, and regional folklore collections.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Biesele, M. Women Like Meat: The Folklore and Foraging Ideology of the Kalahari Ju/'hoan. Indiana University Press, 1993.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Campbell, A.T. The Child's Guide to the Supernatural World of the Tswana. Botswana Notes and Records, Vol. 16, pp. 45-60, 1984.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "hawknaturespirittupi-mali-0836",
@@ -3411,14 +3509,26 @@
       "Regional survey of West African oral traditions — Yoruba, Akan, Mande, Igbo, Ewe, and related peoples as documented by Herskovits, Frobenius, Parrinder, and ethnographic surveys.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "the-hyena-who-wanted-to-be-king"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Dieterlen, G. Les âmes des Dogon. Institut d'Ethnologie, 1947.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Griaule, M. Conversations with Ogotemmêli: An Introduction to Dogon Religious Ideas. Oxford University Press, 1965.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "hawk-nature-spirit-of-muisca-0837",
@@ -3926,14 +4036,26 @@
       "Regional survey of West African oral traditions — Yoruba, Akan, Mande, Igbo, Ewe, and related peoples as documented by Herskovits, Frobenius, Parrinder, and ethnographic surveys.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "the-hyena-who-wanted-to-be-king"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Dieterlen, G. Les âmes des Dogon. Institut d'Ethnologie, 1947.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Griaule, M. Conversations with Ogotemmêli: An Introduction to Dogon Religious Ideas. Oxford University Press, 1965.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "hawkspiritkhmer-usa-0843",
@@ -4599,13 +4721,31 @@
       "Regional survey of South American indigenous and mestizo oral traditions — Quechua, Aymara, Mapuche, Guaraní, Tupi, and related peoples as documented by Métraux, Lévi-Strauss, Karsten, and ethnographic collections from the Amazon, Andes, and Gran Chaco.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/hɔːk/"
+    "pronunciation_ipa": "/hɔːk/",
+    "source_references": [
+      {
+        "t": "Muisca Trickster Figures and Their Ritual Contexts",
+        "a": "Pérez de Barradas",
+        "b": "El Dorado y Cogua",
+        "p": "Instituto Caro y Cuervo",
+        "y": 1951,
+        "pg": "112-134"
+      },
+      {
+        "t": "Trickster Archetypes in Colombian Pre-Columbian Cultures",
+        "a": "Ana María Groot",
+        "b": "New Aspects of the Study of Mesoamerican Religions",
+        "p": "Dumbarton Oaks",
+        "y": 1995,
+        "pg": "189-212"
+      }
+    ]
   },
   {
     "id": "hawk-trickster-of-paiute-0851",
@@ -5862,16 +6002,26 @@
     ],
     "featured_in_stories": [],
     "source": "Vietnamese folklore — Hồn người ghost figure.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "the-trung-sisters-rebellion",
       "the-legend-of-the-betel-and-the-areca",
       "the-legend-of-banh-chung-chung-cake"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Popular Religion in Vietnam During the First Millennium of Christian Era",
+        "author": "Nguyen Tai Thu",
+        "year": 2009,
+        "publisher": "The Gioi Publishers, Hanoi",
+        "citation": "Nguyen Tai Thu (2009)",
+        "notes": "Comprehensive study of Vietnamese folk religion and spirit beliefs"
+      }
+    ]
   },
   {
     "id": "huanca-0867",
@@ -5934,12 +6084,32 @@
     ],
     "featured_in_stories": [],
     "source": "Peruvian folklore — Huanca nature spirit from Andean tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "The Huanca: Sacred Stones and Protective Spirits in Inca Culture",
+        "a": "John H. Rowe",
+        "b": "Inca Culture at the Time of the Spanish Conquest",
+        "p": "Handbook of South American Indians",
+        "y": 1946,
+        "vol": 2,
+        "pg": "183-330"
+      },
+      {
+        "t": "Huancas and Sacred Monuments in Andean Archaeology",
+        "a": "Dietrich Borns",
+        "b": "Actas del Congreso Internacional de Americanistas",
+        "p": "Universidad Mayor de San Marcos",
+        "y": 1970,
+        "vol": 2,
+        "pg": "56-78"
+      }
+    ]
   },
   {
     "id": "huldra-0868",

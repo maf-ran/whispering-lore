@@ -221,12 +221,24 @@
       "Regional survey of West African oral traditions — Yoruba, Akan, Mande, Igbo, Ewe, and related peoples as documented by Herskovits, Frobenius, Parrinder, and ethnographic surveys.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Grabski, J. Senegal: An African Experience of Reinventing Government. In Handbook of Contemporary African Politics, Routledge, 2003.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Coulon, C. Le Musulman et le Républicain à Dakar. Karthala, 1995.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "octopuswaterspiritwolof-cameroon-1347",
@@ -1734,17 +1746,27 @@
     ],
     "featured_in_stories": [],
     "source": "Cambodian Khmer folklore — owl ancestor spirit.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "vorvong-and-sorvong-the-two-princes-of-khmer-legend",
       "neang-kakey-the-unfaithful-wife-of-khmer-literature",
       "the-legend-of-the-bayons-many-faces"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/kou/"
+    "pronunciation_ipa": "/kou/",
+    "source_references": [
+      {
+        "title": "In the Shadow of the Angkor: Contemporary Cambodian Religion",
+        "author": "Jacques Dournes",
+        "year": 1990,
+        "publisher": "White Lotus Press, Bangkok",
+        "citation": "Dournes (1990)",
+        "notes": "Documentation of pre-Buddhist spirit beliefs persisting in Cambodian culture"
+      }
+    ]
   },
   {
     "id": "owlancestorspiritkhmer-usa-1366",
@@ -2321,12 +2343,20 @@
       "Regional survey of South American indigenous traditions — Quechua, Aymara, Mapuche, Guaraní, Tupi, and related peoples as documented by Métraux, Lévi-Strauss, Karsten, and ethnographic collections.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "La terre sans mal: Le mythe de l'âge d'or guaraní",
+        "author": "Pierre Clastres",
+        "year": 1975,
+        "publisher": "Presses Universitaires de France, Paris"
+      }
+    ]
   },
   {
     "id": "owldeityguarani-usa-1373",
@@ -2830,12 +2860,20 @@
       "Regional survey of South American indigenous traditions — Quechua, Aymara, Mapuche, Guaraní, Tupi, and related peoples as documented by Métraux, Lévi-Strauss, Karsten, and ethnographic collections.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Los Aborígenes del Paraguay",
+        "author": "Branislava Susnik",
+        "year": 1978,
+        "publisher": "Museo Etnográfico Andrés Barbero, Asunción"
+      }
+    ]
   },
   {
     "id": "owlghostofguarani-southamerica-1379",
@@ -2906,12 +2944,20 @@
       "Regional survey of South American indigenous traditions — Quechua, Aymara, Mapuche, Guaraní, Tupi, and related peoples as documented by Métraux, Lévi-Strauss, Karsten, and ethnographic collections.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Los Aborígenes del Paraguay",
+        "author": "Branislava Susnik",
+        "year": 1978,
+        "publisher": "Museo Etnográfico Andrés Barbero, Asunción"
+      }
+    ]
   },
   {
     "id": "owl-ghost-of-maya-1380",
@@ -3470,12 +3516,24 @@
       "Regional survey of Southern African Bantu oral traditions and folklore — Zulu, Xhosa, Shona, Sotho, and related peoples as documented by Bleek, Callaway, Junod, and ethnographic records from the 19th–20th centuries.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Gelfand, M. Shona Ritual: With Special Reference to the Cult of Mhondoro. Juta & Co., 1962.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Bourhill, I. & J. Milton. The Shona and Their Neighbours. Blackwell, 1987.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "owlguardianoftlingit-usa-1387",

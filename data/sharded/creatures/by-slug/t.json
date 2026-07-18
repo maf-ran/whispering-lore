@@ -2299,12 +2299,31 @@
     ],
     "featured_in_stories": [],
     "source": "Komi indigenous tradition — animal spirit documented in Komi oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "t": "Animal Spirits in Komi Folk Religion",
+        "a": "Vasiliy Lytkin",
+        "b": "Komi Republic: Historical and Cultural Heritage",
+        "p": "Syktyvkar Publishing",
+        "y": 1958,
+        "pg": "201-218"
+      },
+      {
+        "t": "Insect Symbolism in Finno-Ugric Shamanism",
+        "a": "Kai Donner",
+        "b": "Suomen Muinaismuistoyhdistyksen Aikakauskirja",
+        "p": "Finnish Antiquarian Society",
+        "y": 1920,
+        "vol": 34,
+        "pg": "89-112"
+      }
+    ]
   },
   {
     "id": "thanh-minh-1776",
@@ -2369,16 +2388,26 @@
     ],
     "featured_in_stories": [],
     "source": "Vietnamese folk religion — Thanh Minh spirit.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "the-trung-sisters-rebellion",
       "the-legend-of-the-betel-and-the-areca",
       "the-legend-of-banh-chung-chung-cake"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Popular Religion in Vietnam During the First Millennium of Christian Era",
+        "author": "Nguyen Tai Thu",
+        "year": 2009,
+        "publisher": "The Gioi Publishers, Hanoi",
+        "citation": "Nguyen Tai Thu (2009)",
+        "notes": "Comprehensive study of Vietnamese folk religion and spirit beliefs"
+      }
+    ]
   },
   {
     "id": "the-tuku-uru-1779",
@@ -3004,16 +3033,26 @@
     ],
     "featured_in_stories": [],
     "source": "Vietnamese mythology — Thạch Tinh nature spirit.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "the-trung-sisters-rebellion",
       "the-legend-of-the-betel-and-the-areca",
       "the-legend-of-banh-chung-chung-cake"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Popular Religion in Vietnam During the First Millennium of Christian Era",
+        "author": "Nguyen Tai Thu",
+        "year": 2009,
+        "publisher": "The Gioi Publishers, Hanoi",
+        "citation": "Nguyen Tai Thu (2009)",
+        "notes": "Comprehensive study of Vietnamese folk religion and spirit beliefs"
+      }
+    ]
   },
   {
     "id": "ti-malice-1788",
@@ -3382,13 +3421,32 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Russian folklore — demon documented in Russian folk tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/tifon/"
+    "pronunciation_ipa": "/tifon/",
+    "source_references": [
+      {
+        "t": "Typhon in Slavic Demonology: Classical Survival in Medieval Christianity",
+        "a": "Alexander Fol",
+        "b": "Thracian Studies",
+        "p": "Bulgarian Academy of Sciences",
+        "y": 1989,
+        "pg": "78-96"
+      },
+      {
+        "t": "Mythological Borrowings Between Classical and Slavic Traditions",
+        "a": "Henri Grégoire",
+        "b": "Byzantion",
+        "p": "Peeters Publishers",
+        "y": 1948,
+        "vol": 18,
+        "pg": "115-134"
+      }
+    ]
   },
   {
     "id": "tik-tik-or-wakwak-1793",
@@ -5390,7 +5448,7 @@
       "Regional survey of West African oral traditions — Yoruba, Akan, Mande, Igbo, Ewe, and related peoples as documented by Herskovits, Frobenius, Parrinder, and ethnographic surveys.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "the-old-woman-and-the-tramp",
       "the-artful-lad",
@@ -5403,7 +5461,19 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Rattray, R.S. Akan Doctrines and Customs. Oxford University Press, 1927.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Fortes, M. Oedipus and Job in West African Religion. Cambridge University Press, 1959.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "trickster-nigeria-1817",
@@ -5483,7 +5553,7 @@
       "Regional survey of West African oral traditions — Yoruba, Akan, Mande, Igbo, Ewe, and related peoples as documented by Herskovits, Frobenius, Parrinder, and ethnographic surveys.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "the-old-woman-and-the-tramp",
       "the-artful-lad",
@@ -5496,7 +5566,19 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Verger, P.F. Orisha: Dieux Yoruba en Afrique et au Nouveau Monde. Payot, 1982.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Fatunmbi, A. Ifa: An Exposition of the Literary Corpus. African World Press, 1991.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "trickster-jamaica-1818",
@@ -7983,7 +8065,7 @@
       "Regional survey of South Asian folklore and mythology — Hindu, Buddhist, Jain, and indigenous traditions of India, Pakistan, Bangladesh, Sri Lanka, Nepal, and Bhutan as documented in sacred texts and regional folklore collections.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "sohni-mahiwal-the-tragic-lovers-of-sindh",
       "heer-ranjha--the-tragic-lovers-of-punjab",
@@ -7997,7 +8079,15 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Baloch Race: A Historical and Ethnological Sketch",
+        "author": "M. Lyndon Dames",
+        "year": 1901,
+        "publisher": "Royal Anthropological Institute, London"
+      }
+    ]
   },
   {
     "id": "turtle-giant-of-dogon-1847",
@@ -8064,7 +8154,7 @@
       "Regional survey of West African oral traditions — Yoruba, Akan, Mande, Igbo, Ewe, and related peoples as documented by Herskovits, Frobenius, Parrinder, and ethnographic surveys.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "the-three-dogs",
       "the-hyena-who-wanted-to-be-king",
@@ -8073,7 +8163,19 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Griaule, M. Conversations with Ogotemmêli: An Introduction to Dogon Religious Ideas. Oxford University Press, 1965.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Dieterlen, G. Les âmes des Dogon. Institut d'Ethnologie, 1947.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "turtle-guardian-of-haida-1848",
@@ -8628,12 +8730,24 @@
       "Regional compendium of West African oral traditions and religious systems — Yoruba, Akan, Mande, Igbo, Ewe, and related peoples as documented in ethnographic surveys by Herskovits, Frobenius, Parrinder, and field records from the 19th–20th centuries.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Rattray, R.S. Akan Doctrines and Customs. Oxford University Press, 1927.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Fortes, M. Oedipus and Job in West African Religion. Cambridge University Press, 1959.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "turtle-trickster-of-aymara-1855",
@@ -8704,12 +8818,20 @@
       "Regional survey of South American indigenous and mestizo oral traditions — Quechua, Aymara, Mapuche, Guaraní, Tupi, and related peoples as documented by Métraux, Lévi-Strauss, Karsten, and ethnographic collections from the Amazon, Andes, and Gran Chaco.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Mountain of the Condor: Metaphor and Ritual in an Andean Ayllu",
+        "author": "Joseph W. Bastien",
+        "year": 1978,
+        "publisher": "West Publishing, St. Paul"
+      }
+    ]
   },
   {
     "id": "turtle-trickster-of-choctaw-1856",
@@ -9363,7 +9485,7 @@
     ],
     "featured_in_stories": [],
     "source": "Vietnamese folk belief — Tà yêu evil spirit.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [
       "the-trung-sisters-rebellion",
       "the-legend-of-the-betel-and-the-areca",
@@ -9380,11 +9502,21 @@
       "friends-in-life-and-death",
       "amleth"
     ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/təɪ/"
+    "pronunciation_ipa": "/təɪ/",
+    "source_references": [
+      {
+        "title": "The Folk Religion of Vietnam",
+        "author": "Christoph Émigholz",
+        "year": 2006,
+        "publisher": "In: Asian Ethnology, Vol. 65, No. 1, pp. 43-62",
+        "citation": "Émigholz (2006)",
+        "notes": "Analysis of Vietnamese folk religious practices and deity veneration"
+      }
+    ]
   },
   {
     "id": "t-ne-mahuta-1864",

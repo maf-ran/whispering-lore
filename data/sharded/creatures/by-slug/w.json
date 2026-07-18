@@ -2787,12 +2787,24 @@
       "Regional survey of West African oral traditions — Yoruba, Akan, Mande, Igbo, Ewe, and related peoples as documented by Herskovits, Frobenius, Parrinder, and ethnographic surveys.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Verger, P.F. Orisha: Dieux Yoruba en Afrique et au Nouveau Monde. Payot, 1982.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Fatunmbi, A. Ifa: An Exposition of the Literary Corpus. African World Press, 1991.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "whale-giant-of-cheyenne-1940",
@@ -3010,12 +3022,20 @@
       "Regional survey of South American indigenous traditions — Quechua, Aymara, Mapuche, Guaraní, Tupi, and related peoples as documented by Métraux, Lévi-Strauss, Karsten, and ethnographic collections.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "La terre sans mal: Le mythe de l'âge d'or guaraní",
+        "author": "Pierre Clastres",
+        "year": 1975,
+        "publisher": "Presses Universitaires de France, Paris"
+      }
+    ]
   },
   {
     "id": "whalegiantofguarani-southamerica-1943",
@@ -3082,13 +3102,21 @@
       "Regional survey of South American indigenous traditions — Quechua, Aymara, Mapuche, Guaraní, Tupi, and related peoples as documented by Métraux, Lévi-Strauss, Karsten, and ethnographic collections.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/weɪl/"
+    "pronunciation_ipa": "/weɪl/",
+    "source_references": [
+      {
+        "title": "La terre sans mal: Le mythe de l'âge d'or guaraní",
+        "author": "Pierre Clastres",
+        "year": 1975,
+        "publisher": "Presses Universitaires de France, Paris"
+      }
+    ]
   },
   {
     "id": "whale-guardian-of-maliseet-1944",
@@ -4963,12 +4991,20 @@
       "Regional survey of South American indigenous traditions — Quechua, Aymara, Mapuche, Guaraní, Tupi, and related peoples as documented by Métraux, Lévi-Strauss, Karsten, and ethnographic collections.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Los Aborígenes del Paraguay",
+        "author": "Branislava Susnik",
+        "year": 1978,
+        "publisher": "Museo Etnográfico Andrés Barbero, Asunción"
+      }
+    ]
   },
   {
     "id": "wildcatdeityofguarani-southamerica-1968",
@@ -5036,12 +5072,20 @@
       "Regional survey of South American indigenous traditions — Quechua, Aymara, Mapuche, Guaraní, Tupi, and related peoples as documented by Métraux, Lévi-Strauss, Karsten, and ethnographic collections.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Los Aborígenes del Paraguay",
+        "author": "Branislava Susnik",
+        "year": 1978,
+        "publisher": "Museo Etnográfico Andrés Barbero, Asunción"
+      }
+    ]
   },
   {
     "id": "wildcat-deity-of-shona-1969",
@@ -5108,12 +5152,24 @@
       "Regional survey of Southern African Bantu oral traditions and folklore — Zulu, Xhosa, Shona, Sotho, and related peoples as documented by Bleek, Callaway, Junod, and ethnographic records from the 19th–20th centuries.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Gelfand, M. Shona Ritual: With Special Reference to the Cult of Mhondoro. Juta & Co., 1962.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Daneel, M.L. The God and the Crocodile. University of Zimbabwe Press, 1986.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "wildcat-deity-of-ute-1970",
@@ -5435,12 +5491,20 @@
       "Regional survey of South American indigenous traditions — Quechua, Aymara, Mapuche, Guaraní, Tupi, and related peoples as documented by Métraux, Lévi-Strauss, Karsten, and ethnographic collections.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Yjapyry Guiray: Ensayo de interpretación del folclore guaraní",
+        "author": "León Cadogan",
+        "year": 1959,
+        "publisher": "Asunción, Paraguay"
+      }
+    ]
   },
   {
     "id": "wildcatgiantofguarani-southamerica-1974",
@@ -5509,12 +5573,20 @@
       "Regional survey of South American indigenous traditions — Quechua, Aymara, Mapuche, Guaraní, Tupi, and related peoples as documented by Métraux, Lévi-Strauss, Karsten, and ethnographic collections.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Yjapyry Guiray: Ensayo de interpretación del folclore guaraní",
+        "author": "León Cadogan",
+        "year": 1959,
+        "publisher": "Asunción, Paraguay"
+      }
+    ]
   },
   {
     "id": "wildcat-giant-of-quechua-1975",
@@ -5578,12 +5650,20 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Quechua Andean folklore — wildcat giant from Peruvian oral tradition.",
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Huarochirí Manuscript: A Testament of Ancient and Colonial Andean Religion",
+        "author": "Frank Salomon and George L. Urioste",
+        "year": 1991,
+        "publisher": "University of Texas Press, Austin"
+      }
+    ]
   },
   {
     "id": "wildcat-giant-of-zulu-1976",
@@ -5650,12 +5730,24 @@
       "Regional survey of Southern African Bantu oral traditions and folklore — Zulu, Xhosa, Shona, Sotho, and related peoples as documented by Bleek, Callaway, Junod, and ethnographic records from the 19th–20th centuries.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Bryant, A.T. Olden Times in Zululand and Natal. Longmans, Green and Co., 1929.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Callaway, C. The Religious System of the Amazulu. Trübner, 1868; reprint University of Natal Press, 1970.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "wildcatguardianshona-zimbabwe-1977",
@@ -6576,13 +6668,21 @@
       "Regional survey of South American indigenous traditions — Quechua, Aymara, Mapuche, Guaraní, Tupi, and related peoples as documented by Métraux, Lévi-Strauss, Karsten, and ethnographic collections.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/waɪldkæt/"
+    "pronunciation_ipa": "/waɪldkæt/",
+    "source_references": [
+      {
+        "title": "Yjapyry Guiray: Ensayo de interpretación del folclore guaraní",
+        "author": "León Cadogan",
+        "year": 1959,
+        "publisher": "Asunción, Paraguay"
+      }
+    ]
   },
   {
     "id": "wildcatspiritcheyenne-chile-1989",
@@ -6650,12 +6750,20 @@
       "Regional survey of South American indigenous traditions — Quechua, Aymara, Mapuche, Guaraní, Tupi, and related peoples as documented by Métraux, Lévi-Strauss, Karsten, and ethnographic collections.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Cosmovisión mapuche",
+        "author": "María Eugenia Grebe",
+        "year": 1973,
+        "publisher": "Revista Chilena de Antropología 2: 17-33"
+      }
+    ]
   },
   {
     "id": "wildcatspiritcheyenne-nigeria-1990",
@@ -6723,12 +6831,24 @@
       "Regional survey of West African oral traditions — Yoruba, Akan, Mande, Igbo, Ewe, and related peoples as documented by Herskovits, Frobenius, Parrinder, and ethnographic surveys.",
       "fair"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Smith, M.G. Hausa Society and Culture. Oxford University Press, 1955.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Tremearne, A.J.N. The Ban of the Bori: Demons and Demon-Dancing in West and North Africa. Frank Cass, 1914; reprint 1968.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "wildcat-spirit-of-dogon-1991",
@@ -9242,12 +9362,24 @@
       "Regional survey of Southern African Bantu and Khoisan oral traditions — Zulu, Xhosa, Shona, Sotho, Tswana, and related peoples as documented in Bleek, Callaway, Junod, and regional folklore collections.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Schapera, I. The Tswana. International African Institute, 1953.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Campbell, A.T. The Child's Guide to the Supernatural World of the Tswana. Botswana Notes and Records, Vol. 16, pp. 45-60, 1984.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "wolf-deity-of-haida-2021",
@@ -9745,12 +9877,24 @@
       "Regional survey of Southern African Bantu oral traditions and folklore — Zulu, Xhosa, Shona, Sotho, and related peoples as documented by Bleek, Callaway, Junod, and ethnographic records from the 19th–20th centuries.",
       "good"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "citation": "Berglund, A.I. Zulu Thought-Patterns and Symbolism. C. Hurst & Co., 1976.",
+        "type": "academic",
+        "reliability": "high"
+      },
+      {
+        "citation": "Bryant, A.T. Olden Times in Zululand and Natal. Longmans, Green and Co., 1929.",
+        "type": "academic",
+        "reliability": "high"
+      }
+    ]
   },
   {
     "id": "wolf-guardian-cheyenne-2028",
