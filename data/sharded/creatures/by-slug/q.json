@@ -1,93 +1,65 @@
 [
   {
-    "id": "qalupalik-inuit-1508",
-    "slug": "qalupalik-inuit",
-    "name": "Qalupalik",
+    "id": "stub-qals-mink-coast-salish",
+    "slug": "qals-mink-coast-salish",
+    "name": "Qals Mink Coast Salish",
     "country": "Canada",
     "region": "North America",
-    "culture": "Inuit",
-    "type": "humanoid",
-    "mythology": "Inuit",
-    "archetype": "water-spirit",
-    "element": "water",
+    "culture": "Coast Salish",
+    "type": "animal-spirit",
+    "mythology": "Indigenous North American",
+    "archetype": "Unknown",
+    "element": "Unknown",
     "aliases": [
-      "qalupalik",
-      "qalupalik-greenland",
-      "Qallupilluit",
-      "qalupalik-greenland-1"
+      "qals-mink-coast-salish"
     ],
     "related": [
-      "moosewaterspiritofblackfoot-canada",
-      "sedna",
-      "haietlik",
-      "waterspirits-canada",
-      "wolf-water-spirit-of-inuit",
-      "tupilak",
-      "qalupalik-inuit",
-      "lorelei",
-      "rau-kembingur",
-      "skeljungur",
-      "ocean-spider-greenland",
-      "talking-shark-greenland",
-      "aasik-greenland",
-      "anarteq-greenland",
-      "mahaha-greenland"
+      "mermaid-denmark",
+      "sun-nuxalk",
+      "tsilwalagame-kwakwaka-wakw",
+      "tomte-iceland",
+      "sea-nymph"
     ],
-    "description": "Scaly, humanoid creatures that dwell beneath the sea ice. They are notorious for kidnapping children who wander too close to the shoreline, stuffing them into a large amauti (pouch) to take them to their underwater homes.",
-    "appearance": "Qalupalik takes the form of a aquatic-humanoid known in Canada folklore.",
-    "behavior": "Known for drowning ability, aquatic speed, water manipulation.",
-    "habitat": "Rivers, sea, coastal waters",
-    "habitat_tags": [
-      "river",
-      "sea",
-      "coast",
-      "water"
-    ],
-    "behavior_tags": [
-      "lure"
-    ],
-    "strengths": [
-      "drowning ability",
-      "aquatic speed",
-      "water manipulation"
-    ],
-    "weaknesses": [
-      "pollution",
-      "land confinement",
-      "electricity conduction"
-    ],
-    "cultural_significance": "Inuit cautionary tale to keep children away from dangerous water. Explains child drownings.",
-    "summary": "A scaly sea-creature that kidnaps children who wander too close to the ice",
-    "fun_fact": "The Qalupalik is a scaly aquatic creature of Inuit lore that kidnaps disobedient children from the shoreline.",
+    "description": "Qals Mink is a trickster hero from Coast Salish folklore who adventures through transformation, often imitating greater beings with mixed results.",
+    "appearance": "Qals Mink Coast Salish is a animal-spirit from Canada tradition.",
+    "behavior": "The Qals Mink Coast Salish is a animal-spirit from Indigenous North American folklore with documented traditional stories.",
+    "habitat": "Not documented.",
+    "habitat_tags": [],
+    "behavior_tags": [],
+    "strengths": [],
+    "weaknesses": [],
+    "cultural_significance": "Qals Mink is a trickster hero from Coast Salish folklore who adventures through transformation, often imitating greater beings with mixed results",
+    "summary": "Qals Mink is a trickster hero from Coast Salish folklore who adventures through transformation, often imitating greater beings with mixed results.",
+    "fun_fact": "A animal-spirit figure from Indigenous North American mythology.",
     "fun_fact_generated": false,
     "keywords": [
-      "qalupalik",
-      "inuit"
+      "qals-mink-coast-salish"
     ],
     "search_terms": [
-      "qalupalik"
+      "qals-mink-coast-salish"
     ],
     "tags": [],
     "schema_org_type": "MythicalCreature",
-    "seo_title": "Qalupalik – Inuit Folklore",
-    "seo_description": "The Qalupalik is a scaly aquatic creature of Inuit lore that kidnaps disobedient children from the shoreline.",
-    "motifs": [
-      "A200",
-      "G100"
+    "stories": [
+      "qals-mink-and-the-transformations-coast-salish"
     ],
-    "featured_in_stories": [],
+    "version": "1.0.0",
+    "lastUpdated": "2026-07-17T13:12:22.969Z",
+    "living_tradition": false,
+    "source_type": "oral_tradition",
     "source": [
-      "Inuit spiritual tradition; documented in Arctic ethnographic records.",
+      "Coast Salish spiritual tradition; documented in Northwest Coast ethnographic records.",
       "good"
     ],
     "source_quality": "researched",
-    "stories": [],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "living_tradition": false,
-    "source_type": "oral_tradition",
-    "pronunciation_ipa": "/qəluːpəlik/",
-    "source_references": "Inuit folklore documentation"
+    "source_references": [
+      {
+        "title": "Handbook of North American Indians, Volume 7: Northwest Coast",
+        "author": "Wayne Suttles, ed.",
+        "year": 1990,
+        "publisher": "Smithsonian Institution"
+      }
+    ]
   },
   {
     "id": "qalupalik-greenland-1509",
@@ -196,6 +168,326 @@
         "y": 1930,
         "pg": "Vol. X, 45-70"
       }
+    ],
+    "cultural_variants": [
+      {
+        "slug": "qalupalik-greenland-1",
+        "country": "Greenland",
+        "culture": "Greenlandic"
+      },
+      {
+        "slug": "qalupalik-inuit",
+        "country": "Canada",
+        "culture": "Inuit"
+      }
+    ]
+  },
+  {
+    "id": "qalupalik-greenland-0001",
+    "slug": "qalupalik-greenland-1",
+    "name": "Qalupalik",
+    "country": "Greenland",
+    "region": "North America",
+    "culture": "Greenlandic",
+    "type": "humanoid",
+    "mythology": "Inuit",
+    "archetype": "child-stealer",
+    "element": "water",
+    "aliases": [
+      "Qallupilluit"
+    ],
+    "related": [
+      "ocean-spider-greenland",
+      "talking-shark-greenland",
+      "aasik-greenland",
+      "anarteq-greenland",
+      "mahaha-greenland",
+      "inuarutligaks-greenland"
+    ],
+    "description": "Qalupalik is a humanoid from Inuit mythology. They are notorious for kidnapping children who wander too close to the shoreline, stuffing them into a large amauti (pouch) to take them to their underwater homes.",
+    "appearance": "Qalupalik takes the form of a aquatic-humanoid known in Greenland folklore.",
+    "behavior": "Qalupalik is kidnapping, lurking, predatory in Greenland folklore.",
+    "habitat": "Beneath the sea ice and along the frozen shores",
+    "habitat_tags": [
+      "sea-ice",
+      "coast"
+    ],
+    "behavior_tags": [
+      "kidnapping",
+      "lurking",
+      "predatory"
+    ],
+    "strengths": [
+      "aquatic stealth",
+      "hypnotic humming"
+    ],
+    "weaknesses": [
+      "fire",
+      "distance from shore"
+    ],
+    "cultural_significance": "A cautionary figure used by parents to keep children safe from the extremely dangerous Arctic shoreline.",
+    "summary": "A scaly sea-creature that kidnaps children who wander too close to the ice",
+    "fun_fact": "The Qalupalik is a scaly aquatic creature of Inuit lore that kidnaps disobedient children from the shoreline.",
+    "fun_fact_generated": false,
+    "keywords": [
+      "qalupalik",
+      "greenland",
+      "child-stealer"
+    ],
+    "search_terms": [
+      "qalupalik",
+      "inuit sea monster"
+    ],
+    "tags": [
+      "monster",
+      "water"
+    ],
+    "schema_org_type": "MythicalCreature",
+    "seo_title": "Qalupalik – Greenland Folklore",
+    "seo_description": "The Qalupalik is a scaly aquatic creature of Inuit lore that kidnaps disobedient children from the shoreline.",
+    "motifs": [
+      "M400"
+    ],
+    "featured_in_stories": [],
+    "source": "Mythfolks",
+    "source_quality": "researched",
+    "stories": [
+      "the-visiting-animals",
+      "tiggak-the-shaman",
+      "the-last-sunrise",
+      "the-origin-of-the-stars",
+      "the-kidnapping-of-angangujuk",
+      "the-bewitchment-of-angutisugsuk",
+      "the-man-and-the-fox-wife",
+      "the-eagle-and-whale-husbands",
+      "the-polar-bear-son",
+      "the-voyages-of-kiviuk",
+      "the-legend-of-kaujjagjuk",
+      "the-boy-with-enormous-nostrils",
+      "lumiuk-the-blind-boy",
+      "tiktaliktaks-journey-home"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-07-05",
+    "living_tradition": false,
+    "source_type": "oral_tradition",
+    "source_references": "Holm, Greenland Eskimo Folklore (1922)",
+    "cultural_variants": [
+      {
+        "slug": "qalupalik-greenland",
+        "country": "Greenland",
+        "culture": "Greenland"
+      },
+      {
+        "slug": "qalupalik-inuit",
+        "country": "Canada",
+        "culture": "Inuit"
+      }
+    ]
+  },
+  {
+    "id": "qalupalik-inuit-1508",
+    "slug": "qalupalik-inuit",
+    "name": "Qalupalik",
+    "country": "Canada",
+    "region": "North America",
+    "culture": "Inuit",
+    "type": "humanoid",
+    "mythology": "Inuit",
+    "archetype": "water-spirit",
+    "element": "water",
+    "aliases": [
+      "qalupalik",
+      "qalupalik-greenland",
+      "Qallupilluit",
+      "qalupalik-greenland-1"
+    ],
+    "related": [
+      "moosewaterspiritofblackfoot-canada",
+      "sedna",
+      "haietlik",
+      "waterspirits-canada",
+      "wolf-water-spirit-of-inuit",
+      "tupilak",
+      "qalupalik-inuit",
+      "lorelei",
+      "rau-kembingur",
+      "skeljungur",
+      "ocean-spider-greenland",
+      "talking-shark-greenland",
+      "aasik-greenland",
+      "anarteq-greenland",
+      "mahaha-greenland",
+      "qalupalik-greenland"
+    ],
+    "description": "Scaly, humanoid creatures that dwell beneath the sea ice. They are notorious for kidnapping children who wander too close to the shoreline, stuffing them into a large amauti (pouch) to take them to their underwater homes.",
+    "appearance": "Qalupalik takes the form of a aquatic-humanoid known in Canada folklore.",
+    "behavior": "Known for drowning ability, aquatic speed, water manipulation.",
+    "habitat": "Rivers, sea, coastal waters",
+    "habitat_tags": [
+      "river",
+      "sea",
+      "coast",
+      "water"
+    ],
+    "behavior_tags": [
+      "lure"
+    ],
+    "strengths": [
+      "drowning ability",
+      "aquatic speed",
+      "water manipulation"
+    ],
+    "weaknesses": [
+      "pollution",
+      "land confinement",
+      "electricity conduction"
+    ],
+    "cultural_significance": "Inuit cautionary tale to keep children away from dangerous water. Explains child drownings.",
+    "summary": "A scaly sea-creature that kidnaps children who wander too close to the ice",
+    "fun_fact": "The Qalupalik is a scaly aquatic creature of Inuit lore that kidnaps disobedient children from the shoreline.",
+    "fun_fact_generated": false,
+    "keywords": [
+      "qalupalik",
+      "inuit"
+    ],
+    "search_terms": [
+      "qalupalik"
+    ],
+    "tags": [],
+    "schema_org_type": "MythicalCreature",
+    "seo_title": "Qalupalik – Inuit Folklore",
+    "seo_description": "The Qalupalik is a scaly aquatic creature of Inuit lore that kidnaps disobedient children from the shoreline.",
+    "motifs": [
+      "A200",
+      "G100"
+    ],
+    "featured_in_stories": [],
+    "source": [
+      "Inuit spiritual tradition; documented in Arctic ethnographic records.",
+      "good"
+    ],
+    "source_quality": "researched",
+    "stories": [],
+    "version": "1.0.0",
+    "lastUpdated": "2026-07-05",
+    "living_tradition": false,
+    "source_type": "oral_tradition",
+    "pronunciation_ipa": "/qəluːpəlik/",
+    "source_references": "Inuit folklore documentation",
+    "cultural_variants": [
+      {
+        "slug": "qalupalik-greenland",
+        "country": "Greenland",
+        "culture": "Greenland"
+      },
+      {
+        "slug": "qalupalik-greenland-1",
+        "country": "Greenland",
+        "culture": "Greenlandic"
+      }
+    ]
+  },
+  {
+    "id": "qamata-xhosa-3850",
+    "slug": "qamata-xhosa",
+    "name": "Qamata",
+    "country": "South Africa",
+    "region": "Southern Africa",
+    "culture": "Xhosa",
+    "type": "deity",
+    "mythology": "Xhosa",
+    "archetype": "creator-god",
+    "element": "spirit",
+    "aliases": [
+      "Qamata",
+      "uThixo",
+      "Thixo"
+    ],
+    "related": [
+      "unkulunkulu-zulu",
+      "modimo-tswana",
+      "gueno-fulani",
+      "wolfdeitymapuche-southafrica",
+      "bemba-bambara",
+      "tsui-goab-khoikhoi",
+      "zanahary-malagasy"
+    ],
+    "description": "Qamata (also known as uThixo) is the supreme creator god of the Xhosa people who existed before all things. From a primordial void of darkness and silence, Qamata created the world using Uhlanga (sacred reeds) as the material for all life. He divided existence into three realms: the sky for himself, the earth for humans, and the underworld for ancestors. He defeated the chaos giant Iqungqungqu to bring order to the cosmos, but remains distant from daily affairs, working through ancestors and natural signs with thunder and the sun representing his power.",
+    "appearance": "Invisible, omnipresent being. Manifested through natural phenomena: thunder, lightning, sun rays.",
+    "behavior": "Distant creator who works through intermediaries. Punishes wrongdoing through natural disasters. Rewards virtue through abundance.",
+    "habitat": "The sky realm; omnipresent",
+    "habitat_tags": [
+      "sky",
+      "heavenly"
+    ],
+    "behavior_tags": [
+      "creating",
+      "distant"
+    ],
+    "strengths": [
+      "creation",
+      "cosmic-order",
+      "divine-authority"
+    ],
+    "weaknesses": [
+      "distant; requires ancestral intermediation"
+    ],
+    "diet": "None (spiritual being)",
+    "origin": "Xhosa theology",
+    "cultural_impact": "The name uThixo was adopted by Xhosa Christians for the Christian God, making Qamata central to the syncretic religious identity of the Xhosa people today.",
+    "symbolism": "Three realms (sky, earth, underworld); sun as divine eye; sacred reeds as origin of life",
+    "associated_figures": [
+      "Iqungqungqu"
+    ],
+    "gender": "male",
+    "offspring": [],
+    "parents": [],
+    "siblings": [],
+    "equivalent": [
+      {
+        "name": "Unkulunkulu",
+        "culture": "Zulu"
+      },
+      {
+        "name": "Modimo",
+        "culture": "Tswana"
+      }
+    ],
+    "syncretic": [
+      "God in Xhosa Christianity"
+    ],
+    "tribe": "Xhosa",
+    "fun_fact": "The Xhosa name for God, 'uThixo,' may derive from the Khoisan word for 'spirit' and was adopted by early Christian missionaries to refer to the Christian deity, creating a direct bridge between traditional and Christian faiths.",
+    "summary": "Xhosa supreme creator god who formed the world from sacred reeds and defeated the chaos giant",
+    "other_names": [
+      "uThixo",
+      "Thixo"
+    ],
+    "source": "W.D. Hammond-Tooke, The Bantu-Speaking Peoples of Southern Africa (1974)",
+    "stories": [
+      "qamata-and-the-creation-of-the-xhosa-world"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-07-05",
+    "living_tradition": false,
+    "source_type": "literary",
+    "source_quality": "verified",
+    "cultural_significance": "Qamata is a a deity from Southern Africa mythology, representing important cultural values and traditional beliefs.",
+    "schema_org_type": "MythicalCreature",
+    "continent": "Africa",
+    "countries": [
+      "South Africa"
+    ],
+    "source_references": [
+      {
+        "t": "Qamata: Supreme Being of the Xhosa",
+        "a": "Eileen Krige",
+        "b": "The Realm of a Rain-Queen",
+        "p": "Oxford University Press",
+        "y": 1936,
+        "pg": "330-345"
+      }
     ]
   },
   {
@@ -298,7 +590,8 @@
       "bunjil-the-eagle",
       "tagaloa",
       "t-whaki",
-      "marawa-vanuatu"
+      "marawa-vanuatu",
+      "vinmara-vanuatu"
     ],
     "description": "Qat is a deity from Vanuatu folklore. It is said to dwell in Banks Islands. In folklore, it is described as created islands, humanity, night. established customs. Vanuatu creator god. Important in Banks Islands.",
     "appearance": "Creator deity, main god of region.",
@@ -370,7 +663,9 @@
       "xiezhi",
       "nian",
       "long",
-      "jiu-wei-hu-nine-tailed-fox"
+      "jiu-wei-hu-nine-tailed-fox",
+      "fenghuang",
+      "sun-goat"
     ],
     "description": "A benevolent hooved chimerical creature that appears in times of peace or to herald the birth of a great leader. 'Giraffe' in modern Chinese.",
     "appearance": "Dragon-like head with antlers, scaled body, hooves, and flowing mane. Often depicted with flames around the feet.",
@@ -421,6 +716,96 @@
     "source_type": "oral_tradition"
   },
   {
+    "id": "qu-1517",
+    "slug": "qu",
+    "name": "Quỷ",
+    "country": "Vietnam",
+    "region": "Southeast Asia",
+    "culture": "Vietnam",
+    "type": "demon",
+    "mythology": "Vietnam",
+    "archetype": "demonic-entity",
+    "element": "fire",
+    "aliases": [
+      "quỷ"
+    ],
+    "related": [
+      "jembalang",
+      "ifrit-ifr-t",
+      "bajrak-orang-bati",
+      "brahma-rakshasa",
+      "th-ch-tinh",
+      "p-rgup-rgu-hell"
+    ],
+    "description": "Vietnamese demon or evil spirit. Can be fallen spirit, cursed person, or black magic creature. Causes harm, possesses people, eats humans.",
+    "appearance": "Red or black skin, sharp teeth and claws, horns. Glowing eyes. Demonic features. Can be invisible.",
+    "behavior": "Hunts at night, possesses vulnerable people. Can be exorcised by monks. Feeds on fear and flesh. Afraid of temples and amulets.",
+    "habitat": "Haunted places, forests, ruins",
+    "habitat_tags": [
+      "forest",
+      "ruin"
+    ],
+    "behavior_tags": [
+      "night",
+      "evil",
+      "curse",
+      "hunt",
+      "possess"
+    ],
+    "strengths": [
+      "dark magic",
+      "curses",
+      "infernal power"
+    ],
+    "weaknesses": [
+      "holy symbols",
+      "lack of fuel",
+      "ice vulnerability"
+    ],
+    "cultural_significance": "General evil spirit concept. Mix of Buddhist and folk beliefs.",
+    "summary": "Quỷ is a demon from the folklore and mythology of Vietnam.",
+    "fun_fact": "Vietnamese demon or evil spirit. Can be fallen spirit, cursed person, or black magic creature. Causes harm, possesses people, eats humans.",
+    "fun_fact_generated": false,
+    "keywords": [
+      "quỷ",
+      "vietnam"
+    ],
+    "search_terms": [
+      "quỷ"
+    ],
+    "tags": [],
+    "schema_org_type": "MythicalCreature",
+    "seo_title": "Quỷ – Vietnam Folklore",
+    "seo_description": "Vietnamese demon or evil spirit. Can be fallen spirit, cursed person, or black magic creature. Causes harm, possesses people, eats humans.",
+    "motifs": [
+      "F300",
+      "G100"
+    ],
+    "featured_in_stories": [],
+    "source": "Vietnamese folk religion — Quỷ demon figure.",
+    "source_quality": "researched",
+    "stories": [
+      "the-trung-sisters-rebellion",
+      "the-legend-of-the-betel-and-the-areca",
+      "the-legend-of-banh-chung-chung-cake",
+      "queen-makeda-and-king-solomon"
+    ],
+    "version": "1.0.01",
+    "lastUpdated": "2026-07-18",
+    "living_tradition": false,
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Folk Religion of Vietnam",
+        "author": "Christoph Émigholz",
+        "year": 2006,
+        "publisher": "In: Asian Ethnology, Vol. 65, No. 1, pp. 43-62",
+        "citation": "Émigholz (2006)",
+        "notes": "Analysis of Vietnamese folk religious practices and deity veneration"
+      }
+    ]
+  },
+  {
     "id": "quetzalcoatl-1514",
     "slug": "quetzalcoatl",
     "name": "Quetzalcoatl",
@@ -439,7 +824,8 @@
       "tlaltecuhtli",
       "ah-puch",
       "kukulkanplumedserpent-mexico",
-      "turtle-ghost-of-aztec"
+      "turtle-ghost-of-aztec",
+      "tzitzimimeh"
     ],
     "description": "THE FEATHERED SERPENT — the most important syncretic deity in Mexican and Mexican-American spiritual folklore. In Aztec tradition, Quetzalcóatl was the god of wind (Ehecatl), knowledge, learning, the priesthood, and the morning star (Venus). He is credited with creating humanity by descending to Mictlan (the underworld) and mixing his own blood with the bones of previous generations to create a new race of people. He is the inventor of books, the calendar, and the arts of civilization. The feathered serpent iconography appears throughout Mesoamerica from Teotihuacan (200 BCE) to the Aztec Empire, with his worship centered at Cholula's great pyramid — the largest pyramid by volume in the world. Quetzalcóatl's name combines 'quetzal' (the brilliant green bird) and 'coatl' (serpent), symbolizing the union of earth and sky. In one of his most famous myths, he was tricked by Tezcatlipoca into getting drunk and sleeping with his sister, leading to his exile — but he promised to return from the east. This prophesied return was later fatally conflated with Hernán Cortés's arrival in 1519, a complex historical narrative that continues to shape Mexican-American understanding of conquest and cultural survival. In Chicano spirituality, Quetzalcóatl has been reclaimed as a powerful symbol of indigenous identity, cultural resistance, and the profound wisdom of pre-Columbian civilizations.",
     "appearance": "A massive serpent covered in the brilliant emerald-green feathers of the quetzal bird, often depicted with a plumed headdress, a white star (Venus) on his chest, and sometimes with human features. In Aztec codices, he is shown as both a fully serpentine figure and as a human wearing a conical cap and conch-shell pectoral. His serpent body is adorned with symbols of wind and movement.",
@@ -612,7 +998,9 @@
       "bhoot-of-haveli",
       "pet-nat",
       "churail",
-      "cougar-ancestor-spirit-of-baloch"
+      "cougar-ancestor-spirit-of-baloch",
+      "bhand",
+      "mujna"
     ],
     "description": "Pakistani ghost of a Sufi saint who died unjustly. Protects the oppressed, helps those in need. Haunts shrines and nearby areas.",
     "appearance": "Old man with long beard, wearing simple clothes, halo of light. Kind eyes, peaceful smile.",
@@ -676,95 +1064,6 @@
     "living_tradition": true,
     "source_type": "oral_tradition",
     "source_references": "Pakistani folklore documentation"
-  },
-  {
-    "id": "qu-1517",
-    "slug": "qu",
-    "name": "Quỷ",
-    "country": "Vietnam",
-    "region": "Southeast Asia",
-    "culture": "Vietnam",
-    "type": "demon",
-    "mythology": "Vietnam",
-    "archetype": "demonic-entity",
-    "element": "fire",
-    "aliases": [
-      "quỷ"
-    ],
-    "related": [
-      "jembalang",
-      "ifrit-ifr-t",
-      "bajrak-orang-bati",
-      "brahma-rakshasa",
-      "th-ch-tinh"
-    ],
-    "description": "Vietnamese demon or evil spirit. Can be fallen spirit, cursed person, or black magic creature. Causes harm, possesses people, eats humans.",
-    "appearance": "Red or black skin, sharp teeth and claws, horns. Glowing eyes. Demonic features. Can be invisible.",
-    "behavior": "Hunts at night, possesses vulnerable people. Can be exorcised by monks. Feeds on fear and flesh. Afraid of temples and amulets.",
-    "habitat": "Haunted places, forests, ruins",
-    "habitat_tags": [
-      "forest",
-      "ruin"
-    ],
-    "behavior_tags": [
-      "night",
-      "evil",
-      "curse",
-      "hunt",
-      "possess"
-    ],
-    "strengths": [
-      "dark magic",
-      "curses",
-      "infernal power"
-    ],
-    "weaknesses": [
-      "holy symbols",
-      "lack of fuel",
-      "ice vulnerability"
-    ],
-    "cultural_significance": "General evil spirit concept. Mix of Buddhist and folk beliefs.",
-    "summary": "Quỷ is a demon from the folklore and mythology of Vietnam.",
-    "fun_fact": "Vietnamese demon or evil spirit. Can be fallen spirit, cursed person, or black magic creature. Causes harm, possesses people, eats humans.",
-    "fun_fact_generated": false,
-    "keywords": [
-      "quỷ",
-      "vietnam"
-    ],
-    "search_terms": [
-      "quỷ"
-    ],
-    "tags": [],
-    "schema_org_type": "MythicalCreature",
-    "seo_title": "Quỷ – Vietnam Folklore",
-    "seo_description": "Vietnamese demon or evil spirit. Can be fallen spirit, cursed person, or black magic creature. Causes harm, possesses people, eats humans.",
-    "motifs": [
-      "F300",
-      "G100"
-    ],
-    "featured_in_stories": [],
-    "source": "Vietnamese folk religion — Quỷ demon figure.",
-    "source_quality": "researched",
-    "stories": [
-      "the-trung-sisters-rebellion",
-      "the-legend-of-the-betel-and-the-areca",
-      "the-legend-of-banh-chung-chung-cake",
-      "queen-makeda-and-king-solomon"
-    ],
-    "version": "1.0.01",
-    "lastUpdated": "2026-07-18",
-    "living_tradition": false,
-    "source_type": "oral_tradition",
-    "source_references": [
-      {
-        "title": "The Folk Religion of Vietnam",
-        "author": "Christoph Émigholz",
-        "year": 2006,
-        "publisher": "In: Asian Ethnology, Vol. 65, No. 1, pp. 43-62",
-        "citation": "Émigholz (2006)",
-        "notes": "Analysis of Vietnamese folk religious practices and deity veneration"
-      }
-    ]
   },
   {
     "id": "qutrub-3456",
@@ -869,96 +1168,6 @@
     ]
   },
   {
-    "id": "qalupalik-greenland-0001",
-    "slug": "qalupalik-greenland-1",
-    "name": "Qalupalik",
-    "country": "Greenland",
-    "region": "North America",
-    "culture": "Greenlandic",
-    "type": "humanoid",
-    "mythology": "Inuit",
-    "archetype": "child-stealer",
-    "element": "water",
-    "aliases": [
-      "Qallupilluit"
-    ],
-    "related": [
-      "ocean-spider-greenland",
-      "talking-shark-greenland",
-      "aasik-greenland",
-      "anarteq-greenland",
-      "mahaha-greenland"
-    ],
-    "description": "Qalupalik is a humanoid from Inuit mythology. They are notorious for kidnapping children who wander too close to the shoreline, stuffing them into a large amauti (pouch) to take them to their underwater homes.",
-    "appearance": "Qalupalik takes the form of a aquatic-humanoid known in Greenland folklore.",
-    "behavior": "Qalupalik is kidnapping, lurking, predatory in Greenland folklore.",
-    "habitat": "Beneath the sea ice and along the frozen shores",
-    "habitat_tags": [
-      "sea-ice",
-      "coast"
-    ],
-    "behavior_tags": [
-      "kidnapping",
-      "lurking",
-      "predatory"
-    ],
-    "strengths": [
-      "aquatic stealth",
-      "hypnotic humming"
-    ],
-    "weaknesses": [
-      "fire",
-      "distance from shore"
-    ],
-    "cultural_significance": "A cautionary figure used by parents to keep children safe from the extremely dangerous Arctic shoreline.",
-    "summary": "A scaly sea-creature that kidnaps children who wander too close to the ice",
-    "fun_fact": "The Qalupalik is a scaly aquatic creature of Inuit lore that kidnaps disobedient children from the shoreline.",
-    "fun_fact_generated": false,
-    "keywords": [
-      "qalupalik",
-      "greenland",
-      "child-stealer"
-    ],
-    "search_terms": [
-      "qalupalik",
-      "inuit sea monster"
-    ],
-    "tags": [
-      "monster",
-      "water"
-    ],
-    "schema_org_type": "MythicalCreature",
-    "seo_title": "Qalupalik – Greenland Folklore",
-    "seo_description": "The Qalupalik is a scaly aquatic creature of Inuit lore that kidnaps disobedient children from the shoreline.",
-    "motifs": [
-      "M400"
-    ],
-    "featured_in_stories": [],
-    "source": "Mythfolks",
-    "source_quality": "researched",
-    "stories": [
-      "the-visiting-animals",
-      "tiggak-the-shaman",
-      "the-last-sunrise",
-      "the-origin-of-the-stars",
-      "the-kidnapping-of-angangujuk",
-      "the-bewitchment-of-angutisugsuk",
-      "the-man-and-the-fox-wife",
-      "the-eagle-and-whale-husbands",
-      "the-polar-bear-son",
-      "the-voyages-of-kiviuk",
-      "the-legend-of-kaujjagjuk",
-      "the-boy-with-enormous-nostrils",
-      "lumiuk-the-blind-boy",
-      "tiktaliktaks-journey-home"
-    ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "living_tradition": false,
-    "source_type": "oral_tradition",
-    "source_references": "Holm, Greenland Eskimo Folklore (1922)"
-  },
-  {
     "id": "qwaxw-nuxalk-3800",
     "slug": "qwaxw-nuxalk",
     "name": "Qwaxw (Raven)",
@@ -983,7 +1192,8 @@
       "raven-haida",
       "boqs-nuxalk",
       "blue-jay-chinook",
-      "chufi-rabbit-creek"
+      "chufi-rabbit-creek",
+      "chukfi-rabbit-chickasaw"
     ],
     "description": "Qwaxw is the Nuxalk name for Raven, the culture hero who brought light to the world. Created by Yulm from charcoal, Qwaxw was given wings, eyes, and life by the Four Carpenters. He flew to Nusmata to retrieve the sun from Alhkw'ntam box. He transformed into mud in Skimina drinking water, was swallowed, and was born as her child. As Raven-child he cried for the sun box until Alhkw'ntam relented. Qwaxw broke the globe, and light leaked through the smoke vent.",
     "appearance": "Qwaxw is a raven created from charcoal, a glossy black bird that can transform into human form or into small objects like mud.",
@@ -1036,168 +1246,6 @@
     "source_type": "oral_tradition",
     "source_quality": "expert",
     "schema_org_type": "MythicalCreature"
-  },
-  {
-    "id": "qamata-xhosa-3850",
-    "slug": "qamata-xhosa",
-    "name": "Qamata",
-    "country": "South Africa",
-    "region": "Southern Africa",
-    "culture": "Xhosa",
-    "type": "deity",
-    "mythology": "Xhosa",
-    "archetype": "creator-god",
-    "element": "spirit",
-    "aliases": [
-      "Qamata",
-      "uThixo",
-      "Thixo"
-    ],
-    "related": [
-      "unkulunkulu-zulu",
-      "modimo-tswana",
-      "gueno-fulani",
-      "wolfdeitymapuche-southafrica",
-      "bemba-bambara"
-    ],
-    "description": "Qamata (also known as uThixo) is the supreme creator god of the Xhosa people who existed before all things. From a primordial void of darkness and silence, Qamata created the world using Uhlanga (sacred reeds) as the material for all life. He divided existence into three realms: the sky for himself, the earth for humans, and the underworld for ancestors. He defeated the chaos giant Iqungqungqu to bring order to the cosmos, but remains distant from daily affairs, working through ancestors and natural signs with thunder and the sun representing his power.",
-    "appearance": "Invisible, omnipresent being. Manifested through natural phenomena: thunder, lightning, sun rays.",
-    "behavior": "Distant creator who works through intermediaries. Punishes wrongdoing through natural disasters. Rewards virtue through abundance.",
-    "habitat": "The sky realm; omnipresent",
-    "habitat_tags": [
-      "sky",
-      "heavenly"
-    ],
-    "behavior_tags": [
-      "creating",
-      "distant"
-    ],
-    "strengths": [
-      "creation",
-      "cosmic-order",
-      "divine-authority"
-    ],
-    "weaknesses": [
-      "distant; requires ancestral intermediation"
-    ],
-    "diet": "None (spiritual being)",
-    "origin": "Xhosa theology",
-    "cultural_impact": "The name uThixo was adopted by Xhosa Christians for the Christian God, making Qamata central to the syncretic religious identity of the Xhosa people today.",
-    "symbolism": "Three realms (sky, earth, underworld); sun as divine eye; sacred reeds as origin of life",
-    "associated_figures": [
-      "Iqungqungqu"
-    ],
-    "gender": "male",
-    "offspring": [],
-    "parents": [],
-    "siblings": [],
-    "equivalent": [
-      {
-        "name": "Unkulunkulu",
-        "culture": "Zulu"
-      },
-      {
-        "name": "Modimo",
-        "culture": "Tswana"
-      }
-    ],
-    "syncretic": [
-      "God in Xhosa Christianity"
-    ],
-    "tribe": "Xhosa",
-    "fun_fact": "The Xhosa name for God, 'uThixo,' may derive from the Khoisan word for 'spirit' and was adopted by early Christian missionaries to refer to the Christian deity, creating a direct bridge between traditional and Christian faiths.",
-    "summary": "Xhosa supreme creator god who formed the world from sacred reeds and defeated the chaos giant",
-    "other_names": [
-      "uThixo",
-      "Thixo"
-    ],
-    "source": "W.D. Hammond-Tooke, The Bantu-Speaking Peoples of Southern Africa (1974)",
-    "stories": [
-      "qamata-and-the-creation-of-the-xhosa-world"
-    ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "living_tradition": false,
-    "source_type": "literary",
-    "source_quality": "verified",
-    "cultural_significance": "Qamata is a a deity from Southern Africa mythology, representing important cultural values and traditional beliefs.",
-    "schema_org_type": "MythicalCreature",
-    "continent": "Africa",
-    "countries": [
-      "South Africa"
-    ],
-    "source_references": [
-      {
-        "t": "Qamata: Supreme Being of the Xhosa",
-        "a": "Eileen Krige",
-        "b": "The Realm of a Rain-Queen",
-        "p": "Oxford University Press",
-        "y": 1936,
-        "pg": "330-345"
-      }
-    ]
-  },
-  {
-    "id": "stub-qals-mink-coast-salish",
-    "slug": "qals-mink-coast-salish",
-    "name": "Qals Mink Coast Salish",
-    "country": "Canada",
-    "region": "North America",
-    "culture": "Coast Salish",
-    "type": "animal-spirit",
-    "mythology": "Indigenous North American",
-    "archetype": "Unknown",
-    "element": "Unknown",
-    "aliases": [
-      "qals-mink-coast-salish"
-    ],
-    "related": [
-      "mermaid-denmark",
-      "sun-nuxalk",
-      "tsilwalagame-kwakwaka-wakw",
-      "tomte-iceland",
-      "sea-nymph"
-    ],
-    "description": "Qals Mink is a trickster hero from Coast Salish folklore who adventures through transformation, often imitating greater beings with mixed results.",
-    "appearance": "Qals Mink Coast Salish is a animal-spirit from Canada tradition.",
-    "behavior": "The Qals Mink Coast Salish is a animal-spirit from Indigenous North American folklore with documented traditional stories.",
-    "habitat": "Not documented.",
-    "habitat_tags": [],
-    "behavior_tags": [],
-    "strengths": [],
-    "weaknesses": [],
-    "cultural_significance": "Qals Mink is a trickster hero from Coast Salish folklore who adventures through transformation, often imitating greater beings with mixed results",
-    "summary": "Qals Mink is a trickster hero from Coast Salish folklore who adventures through transformation, often imitating greater beings with mixed results.",
-    "fun_fact": "A animal-spirit figure from Indigenous North American mythology.",
-    "fun_fact_generated": false,
-    "keywords": [
-      "qals-mink-coast-salish"
-    ],
-    "search_terms": [
-      "qals-mink-coast-salish"
-    ],
-    "tags": [],
-    "schema_org_type": "MythicalCreature",
-    "stories": [
-      "qals-mink-and-the-transformations-coast-salish"
-    ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-17T13:12:22.969Z",
-    "living_tradition": false,
-    "source_type": "oral_tradition",
-    "source": [
-      "Coast Salish spiritual tradition; documented in Northwest Coast ethnographic records.",
-      "good"
-    ],
-    "source_quality": "researched",
-    "source_references": [
-      {
-        "title": "Handbook of North American Indians, Volume 7: Northwest Coast",
-        "author": "Wayne Suttles, ed.",
-        "year": 1990,
-        "publisher": "Smithsonian Institution"
-      }
-    ]
   },
   {
     "id": "stub-qwaxw-raven-nuxalk",
