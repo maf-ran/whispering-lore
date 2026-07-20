@@ -1296,11 +1296,19 @@
       "brunnsgubbe",
       "bortbyting"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-lame-dog",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-20T10:26:18.878Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Svenska folksagor",
+        "author": "Sörlin, Lars-Levi",
+        "year": 1995,
+        "publisher": "Bra Böcker, Höganäs"
+      }
+    ]
   },
   {
     "id": "story410",
@@ -1384,11 +1392,19 @@
       "brunnsgubbe",
       "bortbyting"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "lasse-my-thrall",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-20T10:26:18.878Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Svenska folksagor och äfventyr",
+        "author": "Arwidsson, Ivar",
+        "year": 1839,
+        "publisher": "Hedström, Stockholm"
+      }
+    ]
   },
   {
     "id": "story430",
@@ -1422,11 +1438,19 @@
       "ghost",
       "devil"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-lady-of-pintorp",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-20T10:26:18.878Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Svenska sägner om det övernaturliga",
+        "author": "Lundqvist, Jan-Olof",
+        "year": 1997,
+        "publisher": "Carlsson Bokförlag, Stockholm"
+      }
+    ]
   },
   {
     "id": "story448",
@@ -1748,7 +1772,7 @@
       "Vardsnas"
     ],
     "id": "story507",
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "lady-barbro-of-brokind",
     "creatures": [
       "ghost",
@@ -1759,7 +1783,16 @@
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Svenska folk-sagor",
+        "author": "Ernst Beckman",
+        "year": "1882–1884",
+        "publisher": "Hugo Gebers Förlag, Stockholm",
+        "note": "Historical legends from Östergötland involving nobility and supernatural occurrences at Brokind estate."
+      }
+    ]
   },
   {
     "id": "story519",

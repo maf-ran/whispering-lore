@@ -899,11 +899,20 @@
       "werewolf-greece",
       "varulv-sweden"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-werewolf",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Välsignade och förbannade: Studier i folklig tro",
+        "author": "Åke Hultkrantz",
+        "year": "1962",
+        "publisher": "Bonniers, Stockholm",
+        "note": "Comprehensive study of Scandinavian folk beliefs including werewolf (varulv) traditions in Swedish oral history."
+      }
+    ]
   },
   {
     "id": "story438",

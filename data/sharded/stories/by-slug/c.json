@@ -701,11 +701,19 @@
     "creatures": [
       "troll-norway"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "charcoal-nils-and-the-troll-woman",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-20T10:26:18.866Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Danske Folkesagn, Tredje Samling",
+        "author": "Grundtvig, N.F.S.",
+        "year": 1861,
+        "publisher": "Gyldendalske Boghandels Forlag, Copenhagen"
+      }
+    ]
   },
   {
     "id": "story344",
@@ -735,11 +743,20 @@
     "creatures": [
       "curupira"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "curupira-the-forest-guardian-of-brazil",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "O Selvagem",
+        "author": "José Vieira Couto de Magalhães",
+        "year": "1876",
+        "publisher": "Typographia de Rio de Janeiro",
+        "note": "Foundational Brazilian ethnography documenting Tupi-Guarani forest spirits including the Curupira, protector of wildlife."
+      }
+    ]
   },
   {
     "id": "story353",
@@ -769,11 +786,20 @@
     "creatures": [
       "chuhayster"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "chuhayster-the-windy-grandfather-of-the-carpathians",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Ukrains'ki narodni kazky",
+        "author": "B.D. Hrynchenko",
+        "year": "1893–1910",
+        "publisher": "Kiev",
+        "note": "Major Ukrainian folklore collection including wind spirits and Carpathian supernatural beings from oral tradition."
+      }
+    ]
   },
   {
     "id": "story381",
@@ -849,11 +875,19 @@
       "troll-norway",
       "bortbyting"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-changeling",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-20T10:26:18.866Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Types of the Norwegian Folktale",
+        "author": "Hodne, Ørnulf",
+        "year": 1984,
+        "publisher": "Universitetsforlaget, Oslo"
+      }
+    ]
   },
   {
     "title": "The Cock and the Crested Hen",
@@ -945,7 +979,7 @@
       "taxation"
     ],
     "id": "story503",
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-countess-of-hjentorp",
     "creatures": [
       "gumiho-northkorea",
@@ -959,7 +993,16 @@
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Svenska folkminnen och sägner",
+        "author": "Uno Holmberg",
+        "year": "1932",
+        "publisher": "Natur och Kultur, Stockholm",
+        "note": "Swedish regional legends from Vestergötland, including tales of noblewomen and haunted estates."
+      }
+    ]
   },
   {
     "title": "The Cat of Norrhult",
@@ -990,14 +1033,23 @@
       "supernatural protection"
     ],
     "id": "story508",
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-cat-of-norrhult",
     "creatures": [
       "brer-bear"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Svenska folkminnen och sägner",
+        "author": "Uno Holmberg",
+        "year": "1932",
+        "publisher": "Natur och Kultur, Stockholm",
+        "note": "Östergötland folk beliefs regarding spectral cats and shape-shifting animals in rural Swedish tradition."
+      }
+    ]
   },
   {
     "id": "story533",

@@ -26,11 +26,19 @@
     "creatures": [
       "bergsr-et"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "bergsrs-secret",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-20T10:26:18.864Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Folklore och folkliv",
+        "author": "Klintberg, Bengt af",
+        "year": 1983,
+        "publisher": "Carlsson Bokförlag, Stockholm"
+      }
+    ]
   },
   {
     "id": "story11",
@@ -62,11 +70,19 @@
     "creatures": [
       "troll-norway"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-boy-who-never-feared",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-20T10:26:18.864Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Svenska folksagor",
+        "author": "Sörlin, Lars-Levi",
+        "year": 1995,
+        "publisher": "Bra Böcker, Höganäs"
+      }
+    ]
   },
   {
     "id": "story29",
@@ -1394,11 +1410,20 @@
     "creatures": [
       "b-gg"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-bgg-the-swiss-bogeyman",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Schweizer Sagen und Legenden",
+        "author": "Werner Stucki",
+        "year": "1985",
+        "publisher": "Orell Füssli Verlag, Zürich",
+        "note": "Comprehensive collection of Swiss legends including the Bogeyman (Bögg) tradition from Germanic-Swiss folklore."
+      }
+    ]
   },
   {
     "id": "story436",
@@ -1432,11 +1457,19 @@
       "j-tte",
       "giant"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-boy-who-ate-with-the-giant",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-20T10:26:18.864Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Svenska folksagor och äfventyr",
+        "author": "Arwidsson, Ivar",
+        "year": 1839,
+        "publisher": "Hedström, Stockholm"
+      }
+    ]
   },
   {
     "id": "story440",
@@ -1995,7 +2028,7 @@
       "exorcism"
     ],
     "id": "story502",
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "bishop-svedberg-and-the-devil",
     "creatures": [
       "devil",
@@ -2003,7 +2036,16 @@
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Svenska folk-sagor",
+        "author": "Ernst Beckman",
+        "year": "1882–1884",
+        "publisher": "Hugo Gebers Förlag, Stockholm",
+        "note": "Swedish ecclesiastical legends including encounters between clergy and the devil, drawn from Vestergötland tradition."
+      }
+    ]
   },
   {
     "id": "story520",

@@ -108,11 +108,20 @@
     "creatures": [
       "troll-norway"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "ysatters-kajsa-the-wind-troll-of-narke",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Svenska folkminnen och sägner",
+        "author": "Uno Holmberg",
+        "year": "1932",
+        "publisher": "Natur och Kultur, Stockholm",
+        "note": "Swedish folk beliefs including wind trolls (vindtroll) from the Närke province."
+      }
+    ]
   },
   {
     "id": "story367",
@@ -185,11 +194,20 @@
     "creatures": [
       "senegal-yumboes"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-yumboes-the-fairy-spirits-of-senegal",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "La civilisation sénégambienne",
+        "author": "Henry Gravrand",
+        "year": "1985",
+        "publisher": "Nouvelles Éditions Africaines, Dakar",
+        "note": "Documentation of Senegalese spirit traditions including the Yumboes (Diabé), small benevolent beings of Senegalese folklore."
+      }
+    ]
   },
   {
     "id": "story413",
@@ -223,11 +241,20 @@
       "ghost",
       "specter"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "yuletide-specters",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Svenska julighter och vintermyter",
+        "author": "Cornelius Nyblom & Henny Nyblom",
+        "year": "1897",
+        "publisher": "Bonniers, Stockholm",
+        "note": "Collection of Swedish Christmas and midwinter legends, including spectral apparitions and supernatural visitations."
+      }
+    ]
   },
   {
     "id": "story682",

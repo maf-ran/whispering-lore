@@ -26,11 +26,19 @@
     "creatures": [
       "huldra"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "huldras-tail",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-20T10:26:18.870Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Svenska folk-sagor",
+        "author": "Nyblom, Helena",
+        "year": 1897,
+        "publisher": "A. Bonnier, Stockholm"
+      }
+    ]
   },
   {
     "id": "story26",
@@ -284,11 +292,20 @@
       "bison-water-spirit-of-dogon",
       "bida-mande"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-hyena-who-wanted-to-be-king",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "A Treasury of African Folklore",
+        "author": "Harold Courlander",
+        "year": "1975",
+        "publisher": "Crown Publishers, New York",
+        "note": "West African animal fables featuring the hyena as a trickster figure, drawn from oral traditions across the Sahel."
+      }
+    ]
   },
   {
     "id": "story227",
@@ -457,11 +474,19 @@
     "creatures": [
       "devil"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "how-smaland-and-schonen-came-to-be",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "lastUpdated": "2026-07-20T10:26:18.870Z",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Svenska folksagor",
+        "author": "Hyltén-Cavallius, Gunnar Olof and Stephens, George",
+        "year": 1848,
+        "publisher": "Hedström, Stockholm"
+      }
+    ]
   },
   {
     "id": "story470",

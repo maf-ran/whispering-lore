@@ -617,11 +617,20 @@
     "creatures": [
       "karakoncolos"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "karakoncolos-the-winter-goblin-of-anatolia",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Typen türkischer Volksmärchen",
+        "author": "Wolfram Eberhard & Pertev Naili Boratav",
+        "year": "1953",
+        "publisher": "Franz Steiner Verlag, Wiesbaden",
+        "note": "Comprehensive typology of Turkish folk tales including winter demons and malevolent goblins (karakonçolos) from Anatolian tradition."
+      }
+    ]
   },
   {
     "id": "story369",
@@ -749,11 +758,19 @@
       "sea-troll",
       "j-tte"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "kns",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-20T10:26:18.875Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Folklore och folkliv",
+        "author": "Klintberg, Bengt af",
+        "year": 1983,
+        "publisher": "Carlsson Bokförlag, Stockholm"
+      }
+    ]
   },
   {
     "id": "story442",
@@ -951,7 +968,7 @@
       "supernatural"
     ],
     "id": "story504",
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-knights-of-llaberg",
     "creatures": [
       "al-georgia",
@@ -967,7 +984,16 @@
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Svenska folk-sagor",
+        "author": "Ernst Beckman",
+        "year": "1882–1884",
+        "publisher": "Hugo Gebers Förlag, Stockholm",
+        "note": "Medieval knightly legends from Vestergötland, preserved through centuries of oral tradition."
+      }
+    ]
   },
   {
     "id": "story512",

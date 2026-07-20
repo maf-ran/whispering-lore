@@ -76,11 +76,20 @@
       "anansi-ghana",
       "trickster-usa"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "anansi-and-the-pot-of-wisdom",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "A Treasury of African Folklore",
+        "author": "Harold Courlander",
+        "year": "1975",
+        "publisher": "Crown Publishers, New York",
+        "note": "Pan-African anthology of oral traditions including Anansi spider tales from Akan (Ashanti) tradition."
+      }
+    ]
   },
   {
     "id": "story95",
@@ -211,11 +220,20 @@
     "creatures": [
       "adze-benin"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "adze-the-vampiric-firefly",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "A Treasury of African Folklore",
+        "author": "Harold Courlander",
+        "year": "1975",
+        "publisher": "Crown Publishers, New York",
+        "note": "West African supernatural creature lore including the adze, a vampiric firefly spirit from Ewe folklore."
+      }
+    ]
   },
   {
     "id": "story243",

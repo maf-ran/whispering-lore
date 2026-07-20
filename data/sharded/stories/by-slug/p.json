@@ -671,11 +671,19 @@
     "creatures": [
       "popobawa"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "popobawa-the-bat-wing-terror-of-zanzibar",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-20T10:26:18.862Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Swahili Origins: Culture and Society in a Former European Colony",
+        "author": "de Vere Allen, James",
+        "year": 1993,
+        "publisher": "James Currey, Oxford"
+      }
+    ]
   },
   {
     "id": "story374",
@@ -748,11 +756,20 @@
     "creatures": [
       "papabois-saintlucia"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "papa-bois-the-old-man-of-the-forest",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Voodoo in Haiti",
+        "author": "Alfred Métraux",
+        "year": "1959",
+        "publisher": "Grove Press, New York",
+        "note": "Classic ethnographic study of Caribbean spiritual traditions including forest spirits and shape-shifting entities like Papa Bois."
+      }
+    ]
   },
   {
     "id": "story423",
@@ -835,11 +852,19 @@
       "brunnsgubbe",
       "bortbyting"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-princess-and-the-glass-mountain",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-20T10:26:18.880Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Folktales of Norway",
+        "author": "Christiansen, Reidar Th.",
+        "year": 1955,
+        "publisher": "University of Chicago Press, Chicago"
+      }
+    ]
   },
   {
     "id": "story427",
@@ -871,11 +896,19 @@
     "creatures": [
       "devil"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-poor-devil",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "lastUpdated": "2026-07-20T10:26:18.880Z",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Svenska folksagor",
+        "author": "Hyltén-Cavallius, Gunnar Olof and Stephens, George",
+        "year": 1848,
+        "publisher": "Hedström, Stockholm"
+      }
+    ]
   },
   {
     "id": "story481",

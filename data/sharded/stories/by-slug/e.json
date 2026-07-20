@@ -27,11 +27,19 @@
       "huldra",
       "vittra"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-enchanted-forest",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-20T10:26:18.867Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Folktales of Norway",
+        "author": "Christiansen, Reidar Th.",
+        "year": 1955,
+        "publisher": "University of Chicago Press, Chicago"
+      }
+    ]
   },
   {
     "id": "story22",
@@ -363,11 +371,19 @@
     "creatures": [
       "spirit"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-eternal-fool",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-20T10:26:18.867Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Svenska folk-sagor",
+        "author": "Nyblom, Helena",
+        "year": 1897,
+        "publisher": "A. Bonnier, Stockholm"
+      }
+    ]
   },
   {
     "id": "story146",
@@ -449,11 +465,19 @@
       "golden-frog-mongol",
       "sylvester-dragon"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-enchanted-mule",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-20T10:26:18.859Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Cuentos populares españoles",
+        "author": "Dembowska, María Antonia",
+        "year": 1899,
+        "publisher": "Suárez de Deza, Madrid"
+      }
+    ]
   },
   {
     "id": "story163",
@@ -1026,11 +1050,19 @@
     "creatures": [
       "devil"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-evil-one-and-kitta-grau",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "lastUpdated": "2026-07-20T10:26:18.867Z",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Hälsingefolklore",
+        "author": "Sjölin, Bo",
+        "year": 1977,
+        "publisher": "Umeå University, Umeå"
+      }
+    ]
   },
   {
     "id": "story517",

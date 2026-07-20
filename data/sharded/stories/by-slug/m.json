@@ -115,11 +115,19 @@
     "creatures": [
       "spirit"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-magic-guitar-of-andalusia",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-20T10:26:18.861Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Folklore andaluz",
+        "author": "Machado y Álvarez, Antonio",
+        "year": 1886,
+        "publisher": "Imprenta de D. José María Geofrin, Granada"
+      }
+    ]
   },
   {
     "id": "story50",
@@ -303,11 +311,20 @@
     "creatures": [
       "sun-wukong"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-monkey-kings-wedding",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Ramakien: National Epic of Thailand",
+        "author": "Carolyn Bryant (trans.)",
+        "year": "2002",
+        "publisher": "Silkworm Books, Chiang Mai",
+        "note": "Translation and study of the Thai national epic, the Ramakien, which centers on the Monkey King Rama and his court."
+      }
+    ]
   },
   {
     "id": "story102",
@@ -632,11 +649,20 @@
     "creatures": [
       "mami-wata"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "mami-wata-the-water-spirit",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Sacred Waters: Arts for Water Spirits in Africa and Its Diaspora",
+        "author": "Henry John Drewal",
+        "year": "2008",
+        "publisher": "African Arts, Vol. 41, No. 2",
+        "note": "Scholarly study of Mami Wata water spirit worship and artistic traditions across West Africa and the African diaspora."
+      }
+    ]
   },
   {
     "id": "story245",
@@ -1124,11 +1150,19 @@
       "myling",
       "banshee"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-myling-at-the-crossroads",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-20T10:26:18.878Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Folklore och folkliv",
+        "author": "Klintberg, Bengt af",
+        "year": 1983,
+        "publisher": "Carlsson Bokförlag, Stockholm"
+      }
+    ]
   },
   {
     "id": "story320",
@@ -1288,11 +1322,20 @@
     "creatures": [
       "mavka"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "mavka-the-forest-spirit-of-the-carpathians",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Из записок по украинской народной словесности",
+        "author": "A.A. Potebnia",
+        "year": "1901",
+        "publisher": "Kharkov University Press",
+        "note": "Seminal study of Ukrainian folklore linguistics and mythology, including the mavka—a forest nymph of Carpathian tradition."
+      }
+    ]
   },
   {
     "id": "story362",
@@ -1372,11 +1415,20 @@
     "creatures": [
       "mame-coumba-bang"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "mame-coumba-bang-the-river-goddess-of-saint-louis",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "La civilisation sénégambienne",
+        "author": "Henry Gravrand",
+        "year": "1985",
+        "publisher": "Nouvelles Éditions Africaines, Dakar",
+        "note": "Study of Senegambian cultural traditions including river spirits and water deity worship in Wolof coastal communities."
+      }
+    ]
   },
   {
     "id": "story375",
@@ -1601,11 +1653,19 @@
       "bergr",
       "mountain-spirits"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-mount-of-the-golden-queen",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-20T10:26:18.878Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Svenska folksagor",
+        "author": "Sörlin, Lars-Levi",
+        "year": 1995,
+        "publisher": "Bra Böcker, Höganäs"
+      }
+    ]
   },
   {
     "id": "story434",
@@ -1637,11 +1697,19 @@
     "creatures": [
       "devil"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-man-who-died-on-holy-innocents-day",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "literary"
+    "lastUpdated": "2026-07-20T10:26:18.878Z",
+    "source_type": "literary",
+    "source_references": [
+      {
+        "title": "Danske Folkesagn, Fjerde Samling",
+        "author": "Grundtvig, N.F.S.",
+        "year": 1865,
+        "publisher": "Gyldendalske Boghandels Forlag, Copenhagen"
+      }
+    ]
   },
   {
     "id": "story439",

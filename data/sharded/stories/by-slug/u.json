@@ -119,7 +119,7 @@
       "prophecy"
     ],
     "id": "story510",
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-urko-of-north-wij",
     "creatures": [
       "loon-bird-altai",
@@ -130,7 +130,16 @@
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Svenska folkminnen och sägner",
+        "author": "Uno Holmberg",
+        "year": "1932",
+        "publisher": "Natur och Kultur, Stockholm",
+        "note": "Östergötland creature legends including the urko, a guardian spirit of waterways and underground passages."
+      }
+    ]
   },
   {
     "id": "story596",

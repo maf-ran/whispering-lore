@@ -258,11 +258,20 @@
     "creatures": [
       "ijapa"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "ijapa-and-the-sky-feast",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "A Treasury of African Folklore",
+        "author": "Harold Courlander",
+        "year": "1975",
+        "publisher": "Crown Publishers, New York",
+        "note": "Yoruba trickster tales featuring Ijapa (Tortoise), a central figure in West African oral narrative tradition."
+      }
+    ]
   },
   {
     "id": "story345",

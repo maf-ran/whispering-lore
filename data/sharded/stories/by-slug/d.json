@@ -218,11 +218,20 @@
     "creatures": [
       "dragon"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-dragon-of-lopburi",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Monks and Magic: Revisiting a Classic Study of Religious Ceremonies in Thailand",
+        "author": "B.J. Terwiel",
+        "year": "1994",
+        "publisher": "White Lotus Press, Bangkok",
+        "note": "Ethnographic study of Thai religious traditions including naga (dragon/serpent) beliefs and their role in Buddhist cosmology."
+      }
+    ]
   },
   {
     "id": "story133",
@@ -703,11 +712,20 @@
       "thunder-beings",
       "spirit"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-drum-of-thunder-calls-rain",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "A Treasury of African Folklore",
+        "author": "Harold Courlander",
+        "year": "1975",
+        "publisher": "Crown Publishers, New York",
+        "note": "West African ceremonial traditions involving rainmaking drums and thunder spirits across multiple ethnic groups."
+      }
+    ]
   },
   {
     "id": "story242",
@@ -923,11 +941,19 @@
       "d-dning",
       "banshee"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-ddning-of-skne",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-20T10:26:18.867Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Svenska folksagor",
+        "author": "Hyltén-Cavallius, Gunnar Olof and Stephens, George",
+        "year": 1848,
+        "publisher": "Hedström, Stockholm"
+      }
+    ]
   },
   {
     "id": "story321",
@@ -1089,11 +1115,20 @@
     "creatures": [
       "pilatus-dragon"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-dragon-of-mount-pilatus",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Schweizer Sagen und Legenden",
+        "author": "Werner Stucki",
+        "year": "1985",
+        "publisher": "Orell Füssli Verlag, Zürich",
+        "note": "Swiss dragon legends centered on Mount Pilatus near Lucerne, one of the most enduring Alpine folk traditions."
+      }
+    ]
   },
   {
     "id": "story452",

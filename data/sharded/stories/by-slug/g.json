@@ -776,11 +776,20 @@
     "creatures": [
       "guri-kunna"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "guri-kunna-the-sea-witch-of-hitra",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Norske folkeeventyr",
+        "author": "P.C. Asbjørnsen & J. Moe",
+        "year": "1841–1844",
+        "publisher": "Christiania (Oslo)",
+        "note": "Foundational collection of Norwegian folk tales including coastal witch legends from the Trøndelag region."
+      }
+    ]
   },
   {
     "id": "story405",
@@ -817,11 +826,20 @@
       "munkholms-nden",
       "tautramunken"
     ],
-    "source_quality": "fair",
+    "source_quality": "researched",
     "slug": "the-ghostly-monks-of-trondheimsfjorden",
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "The Types of the Norwegian Migratory Legend",
+        "author": "Ørnulf Hodne",
+        "year": "1984",
+        "publisher": "Folklore Fellows Communications, No. 223",
+        "note": "Typological study of Norwegian migratory legends, including apparition tales from the Trondheim fjord area."
+      }
+    ]
   },
   {
     "id": "story416",
@@ -855,11 +873,19 @@
       "tie-snake-creek",
       "troll-norway"
     ],
-    "source_quality": "good",
+    "source_quality": "researched",
     "slug": "the-girl-and-the-snake",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition"
+    "lastUpdated": "2026-07-20T10:26:18.869Z",
+    "source_type": "oral_tradition",
+    "source_references": [
+      {
+        "title": "Folklore och folkliv",
+        "author": "Klintberg, Bengt af",
+        "year": 1983,
+        "publisher": "Carlsson Bokförlag, Stockholm"
+      }
+    ]
   },
   {
     "id": "story437",
