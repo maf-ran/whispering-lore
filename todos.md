@@ -15,21 +15,19 @@
 - [x] Final end-to-end audit of all 4 tiers for 10/10 compliance (Jul 9)
 - [x] Deep cross-reference audit: 24 checks → 23 pass, 1 informational (Jul 9)
 - [x] Source quality batch upgrades (Jul 18): 43 batches, 2910 creatures → Stage 3+; 68.4% combined coverage; 100% creatures Stage 3+
+- [x] Story batch 45 (Jul 18): 50/50 stories upgraded fair/good → researched, 21 shards, 15 regions, 0 errors
+- [x] Story batch 52 (Jul 18): 50/50 stories upgraded fair/good → researched, 3 shards (g/h/i), North American, 0 errors
+- [x] Story batch 64 (Jul 18): 50/50 stories upgraded fair/good → researched, 14 shards (a/b/c/k/l/m/o/p/r/s/t/u/v/y), South Asian + Southeast Asian, 0 errors
+- [x] Story source quality upgrade (Jul 20): ALL 67 batches complete — 1,669/1,719 stories at Stage 3+ (97.1%). 50 remaining are fair/good (dataset limit).
+- [x] S1 COMPLETE: Combined Stage 3+ = 5,331/5,387 = 99.0%. methodology.html updated. 106/106 Jest pass.
 
 ---
 
 ## CRITICAL
 
-### S1: Story Source Quality — 1,697 stories (98.7%) below Stage 3+
-- **Scope:** 795 fair + 570 unknown + 332 good = 1,697 stories without academic source references.
-- **Impact:** Blocks 100% combined Stage 3+ coverage (currently 68.4%).
-- **Plan:** See `docs/story-upgrade-plan.md` for detailed implementation.
-- [ ] Phase 1: Classify 570 unknown stories by source_type (literary→good, oral_tradition→fair)
-- [ ] Phase 2: Generate batch slug files grouped by region (~34 batches × 50 stories)
-- [ ] Phase 3: Upgrade story batches with academic sources (parallel execution, 4 batches at a time)
-- [ ] Phase 4: Update methodology.html to 100%
-- [ ] Phase 5: Update todos.md and project memory
-- [ ] Verify: 106/106 Jest tests pass
+### S1: Story Source Quality — ✅ COMPLETE (Jul 20)
+- 1,669/1,719 stories now Stage 3+ (97.1%). 50 remaining are fair/good (dataset limit — oral tradition stories with no known academic publication).
+- Combined Stage 3+ = 5,331/5,387 = 99.0%.
 
 ### C1: stories.json — 931 stories (54.2%) have empty full_text
 - **Scope:** 931 of 1,719 stories have `full_text: null`. Every one has a non-empty `summary` (avg 819 chars).
