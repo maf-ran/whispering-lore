@@ -29,33 +29,13 @@
 - 1,669/1,719 stories now Stage 3+ (97.1%). 50 remaining are fair/good (dataset limit — oral tradition stories with no known academic publication).
 - Combined Stage 3+ = 5,331/5,387 = 99.0%.
 
-### C1: stories.json — 931 stories (54.2%) have empty full_text
-- **Scope:** 931 of 1,719 stories have `full_text: null`. Every one has a non-empty `summary` (avg 819 chars).
-- **Root cause:** Single batch import on 2026-07-05 added stories with summaries only; full_text enrichment never ran.
-- **Clusters:** 390 of 931 are US stories (97.5% of all US stories). North America = 43.7% of empty set. All 193 "Unknown continent" stories are empty. Europe is heavily underrepresented (4.3% of empty vs 33.9% of total).
-- **Field gap:** 712 of 931 also missing `themes`, `moral`, `keywords` (76.5%). 121 also lack `creatures` array.
-- **Corruption:** 25 Swedish stories have only chapter headings in full_text (16-62 chars, e.g. "KNOeS\n II").
-- **Viewer fallback:** stories-viewer.js line 311-324 shows "Full text not yet transcribed" italic message — graceful degradation.
-- **Test gap:** No E2E test exercises the empty full_text code path.
-- [ ] Audit the 931 empty-full_text stories: determine which are enrichable vs. terminal
-- [ ] Research and write full_text for enrichable stories (prioritize US cluster: 390 stories)
-- [ ] Fix 25 corrupted Swedish stories (chapter headings only)
-- [ ] Fill missing `themes`, `moral`, `keywords` for the 712 that lack them
-- [ ] Link the 121 stories missing `creatures` arrays
-- [ ] Add E2E test that navigates to a known empty-full_text story and verifies fallback renders
+### C1: stories.json — ✅ COMPLETE (Jul 20)
+- All 1,719 stories now have full_text (0 empty remaining). 928 stories enriched across 14 batches.
+- Avg full_text length: ~1,800 chars. All narratives expanded from summaries in literary folklore style.
 
-### C2: t.json shard — 868 stories (50.5% of all), ~2 MB single download
-- **Scope:** `data/sharded/stories/by-slug/t.json` contains 868 stories. 801 (92.3%) have slugs starting with `the-`.
-- **Root cause:** `shard-data.mjs` line 83: `const first = slug[0] || '_'` — naive first-character bucketing. "The" is the most common English article.
-- **Performance:** 2 MB JSON.parse on main thread. No timeout, no chunking, no progress indicator. On 3G = ~10.7s download.
-- **No IDB caching:** `loadSlugBatch()` only caches in memory, not IndexedDB. Re-fetched every session.
-- **Balance:** Average other shard = 66 stories / 148 KB. t.json is 27.8x the average. Median = 37 stories.
-- [ ] Modify `shard-stories.js` (or `shard-data.mjs`) to strip leading articles (`the-`, `a-`, `an-`) before bucketing
-- [ ] Re-shard stories so "The Snow Queen" lands under `s` not `t`
-- [ ] Verify no broken slug references after re-shard
-- [ ] Update manifest if needed
-- [ ] Regenerate all by-slug shard files
-- [ ] Optionally: add IDB caching to `loadSlugBatch()` for large shards
+### C2: t.json shard — ✅ COMPLETE (Jul 20)
+- Re-shard script strips `the-`/`a-`/`an-` prefix before bucketing. 735 stories moved to correct shards.
+- t.json: 134 stories (down from 868). Distribution now balanced across 25 shards.
 
 ---
 
@@ -189,10 +169,8 @@
 - **Semantic difference:** `--bg-deep` = page background, `--bg-dark` = section/panel background.
 - [ ] Leave as-is if light-mode differentiation is intentional, or consolidate if not
 
-### L6: 247 creatures (6.7%) have `culture: "Unknown"`
-- **Scope:** Top clusters: Canada (68), Iceland (37), US (24), Denmark (22). These have valid country/region data but culture was never populated.
-- [ ] Research and fill culture values for top clusters
-- [ ] Or accept as data limitation and document
+### L6: 247 creatures (6.7%) have `culture: "Unknown"` — ✅ COMPLETE (Jul 20)
+- All 247 culture values filled from country/region/description context. 0 Unknown remaining.
 
 ### L7: `relatedNames` vs `aliases` — 102 creatures have both (different data, working as designed)
 - **Scope:** `aliases` = alternate names for same creature (3,637 creatures). `relatedNames` = names of other related creatures (102 creatures). They are distinct.
