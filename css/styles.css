@@ -2748,6 +2748,22 @@ footer p {
     display: none;
   }
 
+  .hero {
+    padding: 0 1rem;
+  }
+
+  .hero-feature-pill {
+    bottom: 3.5rem;
+    font-size: 0.9rem;
+    letter-spacing: 0.25em;
+    padding: 0.5rem 1.5rem;
+  }
+
+  .hero-scroll {
+    bottom: 1rem;
+    font-size: 1rem;
+  }
+
   nav {
     gap: 0.75rem;
   }
@@ -2783,14 +2799,14 @@ footer p {
     grid-template-columns: 1fr;
   }
 
-  .hero-scroll,
-  .hero-feature-pill { position: absolute; }
-  .hero-feature-pill { bottom: 4rem; }
-  .hero-scroll { bottom: 1.5rem; }
   .hero-content { padding-bottom: 0; width: 100%; max-width: 100%; box-sizing: border-box; }
+
+  .daily-feature { padding: 3rem 1rem; }
+  .feature-card { padding: 1.5rem 1.25rem 2rem; }
 
   .feature-grid {
     grid-template-columns: 1fr;
+    gap: 1rem;
   }
 
 
@@ -2850,13 +2866,22 @@ footer p {
 
 /* ── Responsive: 400px ── */
 @media (max-width: 400px) {
+  .hero { padding: 0 1rem; }
   .hero-stats { flex-direction: column; gap: 0.5rem; }
+  .hero-stat + .hero-stat::before { display: none; }
   .hero-stat-num { font-size: 1.8rem; }
+  .hero-feature-pill { bottom: 3.5rem; font-size: 0.9rem; letter-spacing: 0.25em; padding: 0.5rem 1.5rem; }
+  .hero-scroll { bottom: 1rem; font-size: 1rem; }
   .page-hero { min-height: 30vh; }
   .globe-view { height: 300px; }
-  nav a { font-size: 0.85rem; }
+  nav a { font-size: 0.55rem; }
   .story-reading-container { padding: 1rem 0.75rem 4rem; }
   .quiz-control select { width: auto; flex: 1; min-width: 0; }
+  .daily-feature { padding: 2rem 1rem; }
+  .feature-card { padding: 1.5rem 1rem 2rem; }
+  .feature-grid { gap: 1rem; }
+  .grid-section { padding: 2rem 1rem; }
+  .scroll-to-top { bottom: 1rem; right: 1rem; width: 36px; height: 36px; }
 }
 
 /* ── Responsive: 480px ── */
