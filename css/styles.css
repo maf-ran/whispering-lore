@@ -2743,13 +2743,9 @@ footer p {
     gap: 0.5rem;
   }
 
-  .header-brand {
-    font-size: 0.75rem;
-    letter-spacing: 0.2em;
-  }
-
+  .header-brand,
   .header-divider {
-    height: 1rem;
+    display: none;
   }
 
   nav {
