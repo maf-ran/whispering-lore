@@ -2870,7 +2870,7 @@ footer p {
   .hero-stats { flex-direction: column; gap: 0.5rem; }
   .hero-stat + .hero-stat::before { display: none; }
   .hero-stat-num { font-size: 1.8rem; }
-  .hero-feature-pill { bottom: 3.5rem; font-size: 0.9rem; letter-spacing: 0.25em; padding: 0.5rem 1.5rem; }
+  .hero-feature-pill { display: none; }
   .hero-scroll { bottom: 1rem; font-size: 1rem; }
   .page-hero { min-height: 30vh; }
   .globe-view { height: 300px; }
