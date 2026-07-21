@@ -94,8 +94,9 @@
 ### L2: `data/aliases-dictionary.md` — ✅ ALREADY DELETED (Jul 20)
 ### L3: `data/motifs-index.md` — ✅ ALREADY DELETED (Jul 20)
 
-### L4: Google Fonts loaded 9 times — ✅ COMPLETE (Jul 20)
-- Consolidated to single `@import` in styles.css. Removed 27 `<link>` tags across 9 HTML files.
+### L4: Google Fonts loaded 9 times — ✅ FIXED (Jul 21)
+- Jul 20: Consolidated to single `@import` in styles.css. Removed 27 `<link>` tags across 9 HTML files.
+- Jul 21: Reverted — `@import` was render-blocking (browser must download font CSS before parsing styles). Restored `<link rel="preconnect">` + `<link href="...fonts.googleapis.com...">` in all 9 HTML files for parallel non-blocking loading.
 
 ### L5: `--bg-deep` === `--bg-dark` in dark mode — ✅ NO ACTION (Jul 20)
 - Investigated: intentional two-tier depth system. `--bg-deep` = page backgrounds, `--bg-dark` = component fills. Different values in light mode (#F5F2EB vs #EDE8DF). Leave as-is.
@@ -117,3 +118,27 @@
 
 ### T3.2: Publish dataset to Zenodo — ✅ COMPLETE (Jul 16)
 - DOI: `10.5281/zenodo.21387109`. Published via `v1.0.0` tag. Workflow ran 3× successfully.
+
+---
+
+## MOBILE / CROSS-DEVICE (Jul 21)
+
+### MOBILE-1: Performance fixes — ✅ COMPLETE (Jul 21)
+- Removed render-blocking `@import url(...)` from css/styles.css line 1.
+- Restored `<link rel="preconnect">` + `<link href="...fonts.googleapis.com...">` in all 9 HTML files.
+- Disabled gold particles on mobile (<768px) in js/main.js.
+- Disabled grain overlay (SVG feTurbulence) on mobile in css/styles.css.
+- **Commits:** `97e44bc`, `78e8c77`, `7f4f13f`
+
+### MOBILE-2: Header brand hidden on mobile — ✅ COMPLETE (Jul 21)
+- Hidden `.header-brand` and `.header-divider` on mobile (≤768px) — frees navbar space for scrollable nav links.
+
+### MOBILE-3: Layout cleanup — ✅ COMPLETE (Jul 21)
+- Hero padding, nav font-size, stat dividers, feature card padding, grid gap, scroll-to-top all adjusted for mobile.
+- Feature pill hidden at ≤400px (was overlapping hero content by 112px on iPhone-SE).
+
+### MOBILE-4: Cross-device Playwright audit — ✅ COMPLETE (Jul 21)
+- 80 tests across 8 viewports: iPhone-SE (320×568), iPhone-13 (375×812), iPhone-11-Pro-Max (414×896), iPad-Mini (768×1024), iPad-Landscape (1024×768), Laptop-1280, Desktop-1440, Full-HD (1920×1080).
+- Tests: layout + no horizontal overflow (7 pages), hero overlap, nav scrollability + brand hidden on mobile, no JS errors.
+- **Result: 80/80 pass** (flaky timeout confirmed non-deterministic under parallel load).
+- `tests/e2e/cross-device-audit.spec.js` — screenshots saved to `test-screenshots/{device}/{page}.png`.

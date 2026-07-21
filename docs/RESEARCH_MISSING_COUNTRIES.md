@@ -1,8 +1,9 @@
 # Missing UN Member Countries — Folklore Research Report
 
-**Date:** 2026-05-23
+**Date:** 2026-05-23 (entries added Jul 2026)
 **Countries covered:** 17
 **Total creature entries researched:** ~61
+**Status:** All ~61 entries added to creatures.json
 
 ---
 
@@ -147,6 +148,7 @@
 - Chilean Museum of Pre-Columbian Art / Museums Victoria (Pacific collections).
 
 ## Next Steps
-- Add all ~61 creature entries to creatures.json with validated IDs
-- Update research-history.md and sources.md
-- Update COVERAGE.md quality dashboard
+
+- [x] Add all ~61 creature entries to creatures.json with validated IDs
+- [x] Update research-history.md and sources.md
+- [x] Update COVERAGE.md quality dashboard

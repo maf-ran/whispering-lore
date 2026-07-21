@@ -1,8 +1,8 @@
-# 🧠 Folklore Research Engine (OpenCode)
+# Folklore Research Engine
 
-## 📚 Table of Contents (Research Plans & Specs)
+## Table of Contents (Research Plans & Specs)
 
-- **Plans** (high‑level step‑by‑step workflows)
+- **Plans** (high-level step-by-step workflows)
   - `docs/superpowers/plans/2026-05-29-refine-creature-database.md`
   - `docs/superpowers/plans/2026-05-27-quiz-system-plan.md`
   - `docs/superpowers/plans/2026-05-26-sami-expansion.md`
@@ -29,99 +29,65 @@
 ---
 
 
-This document describes the complete research engine powering the Global Folklore Database.  
-It includes skills, hooks, data architecture, pipelines, and automation.
+This document describes the research methodology and data pipeline powering the Global Folklore Database.
+Research is conducted via AI-assisted multi-pass web searches with academic source prioritisation.
 
 ---
 
-# 📁 Project Structure (Research Engine)
+# Project Structure
 
-project-root/
-├── skills/
-│   ├── research-method/
-│   ├── folklore-entry/
-│   ├── source-criticism/
-│   └── dataset-builder/
-│
-├── data/
-│   ├── sources.md
-│   ├── research-history.md
-│   ├── motifs-index.md
-│   ├── aliases-dictionary.md
-│   ├── region-index.md
-│   └── datasets/
-│
-├── hooks/
-│   ├── update-sources-archive.md
-│   ├── append-research-history.md
-│   ├── validate-dataset.md
-│   └── load-source-archive.md
-│
-├── output/
-│   ├── entries/
-│   ├── logs/
-│   └── debug/
-│
-└── docs/
-└── RESEARCH_README.md
+```
+Whispering Lore/
+├─ data/datasets/creatures.json      — 3,668 creature entries
+├─ data/datasets/stories.json        — 1,719 story entries
+├─ data/sharded/                     — Shimmer manifest + region-based shards
+├─ data/geo-countries.json           — 243 country geodata
+├─ docs/                             — Research documentation
+│   ├─ RESEARCH_README.md            — This file
+│   ├─ RESEARCH_EXPERTS.md           — Folklore scholars reference
+│   ├─ RESEARCH_MISSING_COUNTRIES.md — Missing country research
+│   ├─ creature-schema.md            — Creature data model
+│   ├─ story-schema.md               — Story data model
+│   ├─ DATABASE-GUIDE.md             — Full database documentation
+│   ├─ COVERAGE.md                   — Coverage statistics
+│   ├─ PROJECT_SUMMARY.md            — Project overview
+│   └─ data-quality/                 — Quality audit reports
+├─ tests/                            — 141 Jest tests + 80 Playwright cross-device tests
+└─ archive/scripts/                  — Node scripts for data prep and validation
+```
 
 ---
 
-# 🧩 Skills Overview
+# Research Pipeline
 
-### **research-method**
-Multi-pass research engine:
-- regional → national → international search
-- motif search
-- alias search
-- archive search
-- academic prioritization
-- duplicate detection
-
-### **folklore-entry**
-Generates encyclopedia-style entries.
-
-### **source-criticism**
-Evaluates credibility, bias, and source quality.
-
-### **dataset-builder**
-Creates structured JSON datasets.
+1. **Identify** — Find creature/story name in Tier 1+ source
+2. **Corroborate** — Cross-reference across at least 2 sources
+3. **Contextualise** — Determine culture of origin, region, era
+4. **Classify** — Assign source_type and source_quality fields
+5. **Write** — Follow style guide (see DATABASE-GUIDE.md Section 4)
+6. **Cite** — Fill source field with specific reference
+7. **Cross-link** — Connect to related creatures and stories
 
 ---
 
-# 🔧 Hooks Overview
+# Source Quality Tiers
 
-### `update-sources-archive`
-Adds new sources to `sources.md`.
+| Tier | Label | Description |
+|------|-------|-------------|
+| Stage 3+ | expert | Academic ethnographies, peer-reviewed journals |
+| Stage 3+ | verified | University press, documented oral traditions |
+| Stage 3+ | researched | Web-sourced with academic references |
+| Stage 3+ | well-documented | Museum collections, official archives |
+| Below | fair | Oral tradition, no known academic publication |
+| Below | good | Literary works, general references |
 
-### `append-research-history`
-Logs research sessions.
-
-### `validate-dataset`
-Validates JSON datasets.
-
-### `load-source-archive`
-Loads known sources at session start.
-
----
-
-# 🔥 Pipeline C (Full Research Pipeline)
-
-1. Initialization  
-2. Known source extraction  
-3. Multi-pass research  
-4. New source processing  
-5. Data extraction  
-6. Dataset creation  
-7. Article generation  
-8. Logging  
-9. Follow-up planning  
+**Current coverage:** 99.0% Stage 3+ (5,331/5,387 entries)
 
 ---
 
-# 📦 Output
+# Output
 
-- Structured datasets  
-- Encyclopedia entries  
-- Updated source archive  
-- Updated research history  
+- Structured datasets (`data/datasets/`, `data/sharded/`)
+- Encyclopedia entries (inline in JSON)
+- Updated source archive (`docs/`)
+- Coverage reports (`docs/COVERAGE.md`)

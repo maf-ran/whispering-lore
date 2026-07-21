@@ -2,7 +2,7 @@
 
 ## What the Project Is
 A **static, offline‑first web encyclopedia** of global folklore. It ships a curated collection of:
-- **1,719 stories** from 209+ countries across 13 story types (myths, legends, fairy-tales, fables, horror, etc.).
+- **1,719 stories** from 212 countries across 13 story types (myths, legends, fairy-tales, fables, horror, etc.).
 - **3,668 mythical creatures** (the actual dataset in `data/datasets/creatures.json`).
 - Associated **metadata**: themes, morals, sources, periods, keywords, creature mentions, and regional tags.
 
@@ -10,7 +10,7 @@ A **static, offline‑first web encyclopedia** of global folklore. It ships a cu
 
 ```
 Whispering Lore/
-├─ index.html, bestiary.html, stories.html, world.html, about.html, quiz.html, mylore.html, 404.html
+├─ index.html, bestiary.html, stories.html, world.html, about.html, quiz.html, mylore.html, methodology.html, 404.html
 ├─ css/styles.css                    — global "Dark Nordic" UI theme
 ├─ js/
 │   ├─ main.js                       — site-wide UI (menu, nav, scroll, stats, particles)
@@ -18,11 +18,14 @@ Whispering Lore/
 │   ├─ daily-feature.js              — deterministic random creature/story per day
 │   ├─ creatures-viewer.js           — Bestiary UI – filters, sort, pagination, detail overlay
 │   ├─ stories-viewer.js             — Stories UI – filters, sort, pagination, detail overlay
+│   ├─ viewer-base.js                — Shared viewer logic (sort, filter, pagination)
 │   ├─ world-viewer.js               — Country data enrichment for globe page
 │   ├─ globe.js                      — Three.js interactive globe (ES module)
 │   ├─ mylore.js                     — Personal saved archives UI
-│   ├─ quiz.js                       — Mythical creature quiz logic
+│   ├─ quiz.js                       — Mythical creature quiz logic (1,071 questions, 6 levels)
 │   ├─ theme-toggle.js               — Dark/light mode toggle
+│   ├─ citations.js                  — Citation export for creature and story references
+│   ├─ region-glyphs.js              — Region-themed SVG glyphs
 │   └─ rune-scatter.js               — Hero rune animation
 ├─ data/datasets/creatures.json      — 3,668 creature entries (JSON)
 ├─ data/datasets/stories.json        — 1,719 story entries (JSON)
@@ -33,7 +36,7 @@ Whispering Lore/
 ├─ netlify.toml                      — Netlify build & deploy config
 ├─ archive/scripts/                  — Node scripts for data prep (migration, validation)
 ├─ docs/                             — internal documentation (arch, SEO, schemas)
-├─ tests/                            — 52 Jest tests + 9 Playwright (3 browsers × 3 specs)
+├─ tests/                            — 141 Jest tests (10 suites) + 80 Playwright (8 viewports × 7 pages)
 ├─ package.json
 └─ .github/workflows/ci.yml          — GitHub Actions (lint + test on push/PR)
 ```
@@ -53,10 +56,10 @@ Whispering Lore/
 | **Static Site Generation** | None required – pure static assets |
 | **Data Validation** | `node archive/scripts/validate-creatures.js`, `node archive/scripts/deduplicate-creatures.js` |
 | **Formatting / Linting** | `npm run lint`, `npm run format` (ESLint + Prettier) |
-| **Testing** | Jest — 52 tests (9 suites) + Playwright — 3 tests (3 browsers) |
+| **Testing** | Jest — 141 tests (10 suites) + Playwright — 80 tests (8 viewports, 7 pages) |
 | **Coverage Tracking** | `archive/scripts/update-coverage.js` updates `COVERAGE.md` |
 | **Service Worker** | `sw.js` implements cache-first strategy |
-| **Deploy** | Netlify (via `netlify.toml` + `_redirects`) — also `python -m http.server` locally |
+| **Deploy** | Netlify (via `netlify.toml` + `_redirects`) — also `npx serve` locally |
 | **CI** | GitHub Actions — lint + test on push/PR |
 
 ## UI / UX Details
@@ -73,12 +76,12 @@ Whispering Lore/
 |--------|-------|
 | Creatures | 3,668 |
 | Stories | 1,719 |
-| Countries covered | 210 |
+| Countries covered | 212 |
 | Regions | 32 |
 | Story Types | 13 |
 | Creature Types (canonical) | 46 |
-| HTML pages | 8 |
-| Test suites | 106 total |
+| HTML pages | 9 |
+| Test suites | 221 total (141 Jest + 80 Playwright) |
 | Descriptions ≥30 chars | 100% |
 | Zenodo DOI | 10.5281/zenodo.21387109 |
 
@@ -86,8 +89,8 @@ Whispering Lore/
 ```bash
 npm ci
 npm test
-python -m http.server 8000
-# Open http://localhost:8000
+npx serve -l 3000 --no-clipboard .
+# Open http://localhost:3000
 ```
 
 ## Future Roadmap

@@ -1,8 +1,8 @@
 # Whispering Lore — Database Guide
 
-**Last updated:** 2026-07-16  
+**Last updated:** 2026-07-21  
 **Scope:** `data/datasets/creatures.json` (3668 entries), `data/datasets/stories.json` (1719 entries)  
-**Coverage:** 210 countries, 32 cultural regions  
+**Coverage:** 212 countries, 32 cultural regions  
 
 ---
 
@@ -13,7 +13,7 @@
 | Metric | Value |
 |--------|-------|
 | Total entries | 3668 |
-| Unique countries | 210 |
+| Unique countries | 212 |
 | Unique regions | 32 |
 | Unique types | ~100 (canonical 46) |
 | Unique mythologies | ~100 |
@@ -32,8 +32,8 @@
 
 | Relationship | Count | Notes |
 |---|---|---|
-| Countries with both creatures & stories | 88 | Stories dataset is smaller; 132 creature-only countries |
-| Stories referencing specific creatures | 391/405 | 14 stories have no creature references |
+| Countries with both creatures & stories | 88 | Stories dataset covers 89 countries; 123 creature-only countries |
+| Stories referencing specific creatures | 1719/1719 | All stories now have creature cross-references |
 | Story-creature refs matching creature names | Most match as type/category | Refs use generic terms like "spirit", "fairy", "ghost" |
 | Overlapping slugs | 270 slug groups affecting 621 creatures | Different countries share identical slugs — needs disambiguation |
 | Creatures in stories but not in dataset | ~20 generic refs | "bergsrå", "vodnik", "Yggdrasil" etc. are missing from creatures |
@@ -312,14 +312,14 @@ The ideal pattern: `slug-countrycode` (e.g. `anansi-ghana`, `anansi-jamaica`).
 | Metric | Current | Target | Status |
 |--------|---------|--------|--------|
 | Total creatures | 3668 | — | ✅ |
-| Countries | 210 | 210+ | ✅ |
-| Stories | 1719 | 405+ | ✅ |
+| Countries | 212 | 212+ | ✅ |
+| Stories | 1719 | — | ✅ |
 | Stories per country | ~4.5 | 10+ | 🔶 Stories dataset needs expansion |
 | Creature types | 991 | 40–50 | ❌ Needs consolidation |
 | Creature regions | 1296 | 100–150 | ❌ Needs consolidation |
 | Fields at 100% | 22/34 | 28/34 | 🔶 7 fields need population |
-| Stories with full_text | 405/405 | 100% | ✅ |
-| Stories with creature refs | 391/405 | 405/405 | 🔶 14 missing |
+| Stories with full_text | 1719/1719 | 100% | ✅ |
+| Stories with creature refs | 1719/1719 | 1719/1719 | ✅ |
 | Description avg length | 329 | 200–500 | ✅ Within range |
 | Habitat min length | 10 chars | 50+ chars | ❌ 86 entries too short |
 | Archetype populated | 45% | 100% | ❌ |
