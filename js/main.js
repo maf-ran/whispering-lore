@@ -156,6 +156,7 @@ async function updateLatestAdditions() {
   function initGoldParticles () {
     var hero = document.querySelector('.hero') || document.querySelector('.page-hero')
     if (!hero) return
+    if (!window.matchMedia('(min-width: 768px)').matches) return
 
     function createParticle () {
       var particle = document.createElement('div')
