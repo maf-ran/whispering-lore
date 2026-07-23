@@ -17,7 +17,7 @@
   }
 
   function safeText(str) {
-    if (str == null) return ''
+    if (str === null || str === undefined) return ''
     const el = { textContent: String(str) }
     return el.textContent
   }

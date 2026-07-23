@@ -2,7 +2,7 @@
 ;(function () {
   'use strict'
 
-  var REGION_GLYPHS = {
+  const REGION_GLYPHS = {
     'East Asia': 'M16 2L22 10L16 18L10 10L16 2Z M16 22L10 14L16 6L22 14L16 22Z', // Interlocking diamonds
     'South Asia': 'M12 2L15 8L20 8L16 12L18 18L12 14L6 18L8 12L4 8L9 8L12 2Z', // Lotus-like star
     'Southeast Asia':

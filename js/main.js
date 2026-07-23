@@ -179,7 +179,6 @@
   }
 
   /* ── Gold particles (hero dust effect) ── */
-  let goldParticleInterval = null
   function initGoldParticles() {
     const hero =
       document.querySelector('.hero') || document.querySelector('.page-hero')
@@ -207,13 +206,10 @@
       }, 6000)
     }
 
-    const interval = setInterval(createParticle, 260)
+    setInterval(createParticle, 260)
     createParticle()
     createParticle()
     createParticle()
-
-    /* Store interval on window so it can be cleaned up */
-    goldParticleInterval = interval
   }
 
   /* ── Scroll-triggered card reveal (IntersectionObserver) ── */
