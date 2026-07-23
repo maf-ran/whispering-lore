@@ -408,7 +408,7 @@ function initGlobe() {
 
           html +=
             '<button class="globe-view-btn" data-country="' +
-            countryName.replace(/"/g, '&quot;') +
+            window.__sharedUtils.escapeXml(countryName) +
             '">View in Bestiary</button>'
 
           getInfo().innerHTML = html
@@ -592,7 +592,7 @@ window.renderCountryList = function () {
     const count = counts[c]
     html +=
       '<div class="globe-country-row" tabindex="0" role="button" data-country="' +
-      c.replace(/"/g, '&quot;') +
+      window.__sharedUtils.escapeXml(c) +
       '">' +
       '<span class="globe-row-name">' +
       window.__sharedUtils.escapeXml(c) +
