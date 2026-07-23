@@ -16,6 +16,13 @@
   --accent-rgb: 153, 27, 27;
   --border: #292524;
 
+  /* ── Hero gradient ── */
+  --hero-bg: #050505;
+  --hero-step1: #0A0808;
+  --hero-step2: #0F0D0B;
+  --hero-step3: #15110F;
+  --hero-step4: #1A1513;
+
   /* ── Badge semantic colors ── */
   --badge-success: #22c55e;
   --badge-info: #3b82f6;
@@ -271,15 +278,15 @@ nav a.active::after {
   position: absolute;
   inset: 0;
   z-index: 1;
-  background: #050505;
+  background: var(--hero-bg);
   background:
     linear-gradient(
       180deg,
-      #050505 0%,
-      #0A0808 25%,
-      #0F0D0B 50%,
-      #15110F 75%,
-      #1A1513 100%
+      var(--hero-bg) 0%,
+      var(--hero-step1) 25%,
+      var(--hero-step2) 50%,
+      var(--hero-step3) 75%,
+      var(--hero-step4) 100%
     );
 }
 
@@ -585,6 +592,7 @@ nav a.active::after {
 .section-divider svg {
   width: 60px;
   height: auto;
+  color: var(--accent);
 }
 
 /* ── Section heading ── */
@@ -631,24 +639,6 @@ nav a.active::after {
     max-width: 80%;
     justify-self: center;
   }
-}
-
-/* ── Featured card (asymmetric emphasis) ── */
-.content-grid--featured {
-  grid-template-columns: 1.2fr 0.8fr 1fr;
-}
-
-.content-grid--featured .card:first-child .card-image-placeholder {
-  height: 200px;
-}
-
-.content-grid--featured .card:last-child {
-  display: flex;
-  flex-direction: column;
-}
-
-.content-grid--featured .card:last-child .card-image-placeholder {
-  height: 100px;
 }
 
 /* ── Cards ── */
@@ -703,16 +693,19 @@ nav a.active::after {
   transform: scale(1.1);
 }
 
-.card-image {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  display: block;
-}
-
 .is-hidden {
   display: none !important;
 }
+
+.theme-icon-dark { display: none; }
+
+.text-center { text-align: center; }
+.text-muted { color: var(--text-secondary); font-style: italic; }
+.text-small { font-size: 0.85rem; }
+.mt-1 { margin-top: 1rem; }
+.mt-2 { margin-top: 2rem; }
+.mt-3 { margin-top: 3rem; }
+.mb-2 { margin-bottom: 2rem; }
 
 .card-image-placeholder::before {
   content: '';
@@ -1237,7 +1230,7 @@ nav a.active::after {
   padding-top: 1rem;
 }
 
-.facet-group h3 {
+.facet-group h2 {
   font-family: var(--font-display);
   font-size: 0.65rem;
   letter-spacing: 0.12em;
@@ -1632,7 +1625,7 @@ nav a.active::after {
 .cd-hero-bg {
   position: absolute;
   inset: 0;
-  background: linear-gradient(180deg, #050505 0%, #1A1513 50%, #0D0D0D 100%);
+  background: linear-gradient(180deg, var(--hero-bg) 0%, var(--hero-step4) 50%, var(--bg-deep) 100%);
   z-index: 0;
 }
 
@@ -1830,15 +1823,6 @@ nav a.active::after {
   margin-bottom: 1.5rem;
 }
 
-/* ── Detail IPA ── */
-.detail-ipa {
-  font-family: var(--font-body);
-  font-size: 0.65rem;
-  font-weight: 400;
-  color: var(--text-secondary);
-  letter-spacing: 0.05em;
-}
-
 /* ── Responsive ── */
 @media (max-width: 860px) {
   .cd-main {
@@ -1942,7 +1926,7 @@ footer p {
   height: 500px;
   overflow: hidden;
   border: 1px solid var(--border);
-  background: radial-gradient(ellipse at center, #0A0808 0%, #050505 100%);
+  background: radial-gradient(ellipse at center, var(--hero-step1) 0%, var(--hero-bg) 100%);
 }
 
 .globe-loading {
@@ -2457,79 +2441,9 @@ footer p {
 #start-quiz { margin-top: 0.5rem; width: fit-content; color: white; border-color: white; }
 
 
-/* ── Story Reading UX (full-page) ── */
-.story-reading-container {
-  max-width: 720px;
-  margin: 0 auto;
-  padding: 2rem 1rem 6rem;
-}
-.reading-back {
-  display: inline-block;
-  color: var(--accent);
-  text-decoration: none;
-  font-family: var(--font-body);
-  font-size: 0.95rem;
-  margin-bottom: 2rem;
-  opacity: 0.8;
-  transition: opacity 0.2s;
-}
-.reading-back:hover { opacity: 1; }
-.story-reading-header { margin-bottom: 2.5rem; }
-.story-reading-header h1 {
-  font-family: var(--font-display);
-  font-size: 2.2rem;
-  line-height: 1.2;
-  margin-bottom: 0.75rem;
-  color: var(--text-primary);
-}
-.story-reading-meta {
-  font-family: var(--font-body);
-  font-size: 0.9rem;
-  color: var(--text-secondary);
-  display: flex;
-  gap: 1.5rem;
-  flex-wrap: wrap;
-}
-.story-reading-body {
-  font-family: var(--font-body);
-  font-size: 1.1rem;
-  line-height: 1.8;
-  color: var(--text-primary);
-}
-.story-reading-body p {
-  margin-bottom: 1.25rem;
-  text-indent: 1.5em;
-}
-.story-reading-body p:first-child { text-indent: 0; }
-.story-reading-footer {
-  margin-top: 3rem;
-  padding-top: 2rem;
-  border-top: 1px solid var(--border);
-}
-.story-moral { font-style: italic; color: var(--text-secondary); }
 .story-empty-text { color: var(--text-secondary); font-style: italic; }
-.reading-progress-bar {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 3px;
-  background: transparent;
-  z-index: 100;
-}
-.reading-progress-fill {
-  height: 100%;
-  background: var(--accent);
-  width: 0;
-  transition: width 0.1s linear;
-}
 
 /* ── Cross-reference (related creatures / stories) ── */
-.detail-crossref {
-  margin-top: 3rem;
-  padding-top: 2rem;
-  border-top: 1px solid var(--border);
-}
 .detail-section-title {
   font-family: var(--font-display);
   font-size: 1.3rem;

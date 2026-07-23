@@ -37,7 +37,13 @@ const CORE_ASSETS = [
 self.addEventListener('install', function (event) {
   event.waitUntil(
     caches.open(CACHE_NAME).then(function (cache) {
-      return cache.addAll(CORE_ASSETS).then(function () {
+      return Promise.all(
+        CORE_ASSETS.map(function (url) {
+          return cache.add(url).catch(function () {
+            console.warn('SW: failed to cache', url)
+          })
+        })
+      ).then(function () {
         self.skipWaiting()
       })
     })

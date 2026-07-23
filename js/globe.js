@@ -241,9 +241,7 @@ function initGlobe() {
       parseBorders(countries, bordersGroup)
       createDots(countries, scene)
     })
-    .catch(function (err) {
-      console.warn('Failed to load borders:', err)
-    })
+    .catch(function () {})
 
   const raycaster = new THREE.Raycaster()
   const mouse = new THREE.Vector2()
@@ -424,7 +422,7 @@ function initGlobe() {
   renderer.domElement.addEventListener('pointermove', onPointerMove)
   renderer.domElement.addEventListener('click', onClick)
 
-  document.addEventListener('click', function (e) {
+  function onDocClick(e) {
     const btn = e.target.closest('.globe-view-btn')
     if (btn) {
       const country = btn.getAttribute('data-country')
@@ -432,7 +430,8 @@ function initGlobe() {
         window.location.href =
           'bestiary.html?country=' + encodeURIComponent(country)
     }
-  })
+  }
+  document.addEventListener('click', onDocClick)
 
   let resizeTimer
   function onResize() {
@@ -463,6 +462,7 @@ function initGlobe() {
     window.removeEventListener('resize', onResize)
     renderer.domElement.removeEventListener('pointermove', onPointerMove)
     renderer.domElement.removeEventListener('click', onClick)
+    document.removeEventListener('click', onDocClick)
   }
 }
 

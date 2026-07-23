@@ -16,12 +16,6 @@
       .replace(/"/g, '&quot;')
   }
 
-  function safeText(str) {
-    if (str === null || str === undefined) return ''
-    const el = { textContent: String(str) }
-    return el.textContent
-  }
-
   function animateNumber(el, target, duration) {
     const start = 0
     let startTime = null
@@ -546,7 +540,6 @@
   window.__sharedUtils = {
     fetchJSON: fetchJSON,
     escapeXml: escapeXml,
-    safeText: safeText,
     animateNumber: animateNumber,
     getSlug: getSlug,
     normalizeName: normalizeName,
@@ -706,49 +699,49 @@
       return window.__sharedUtils.TYPE_ALIAS_MAP[key] || key
     },
   }
-})()
 
-// Auto-load manifest on pages that use shared-utils
-if (document.readyState === 'loading') {
-  document.addEventListener('DOMContentLoaded', function () {
+  // Auto-load manifest on pages that use shared-utils
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', function () {
+      window.__sharedUtils.Shimmer.loadManifest(function () {}).catch(function () {})
+      initPageTransitions()
+    })
+  } else {
     window.__sharedUtils.Shimmer.loadManifest(function () {}).catch(function () {})
     initPageTransitions()
-  })
-} else {
-  window.__sharedUtils.Shimmer.loadManifest(function () {}).catch(function () {})
-  initPageTransitions()
-}
+  }
 
-// Smooth cross-browser page transitions
-function initPageTransitions() {
-  if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return
+  // Smooth cross-browser page transitions
+  function initPageTransitions() {
+    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return
 
-  document.addEventListener('click', function (e) {
-    const link = e.target.closest('a')
-    if (!link) return
-    if (e.ctrlKey || e.metaKey || e.shiftKey || e.altKey || e.button !== 0)
-      return
+    document.addEventListener('click', function (e) {
+      const link = e.target.closest('a')
+      if (!link) return
+      if (e.ctrlKey || e.metaKey || e.shiftKey || e.altKey || e.button !== 0)
+        return
 
-    // Skip links inside story/creature cards — they open overlays
-    if (link.closest('.story-card') || link.closest('.bestiary-card')) return
+      // Skip links inside story/creature cards — they open overlays
+      if (link.closest('.story-card') || link.closest('.bestiary-card')) return
 
-    const href = link.getAttribute('href')
-    if (
-      !href ||
-      href.startsWith('#') ||
-      href.startsWith('mailto:') ||
-      href.startsWith('tel:') ||
-      href.startsWith('http') ||
-      href.startsWith('//')
-    )
-      return
+      const href = link.getAttribute('href')
+      if (
+        !href ||
+        href.startsWith('#') ||
+        href.startsWith('mailto:') ||
+        href.startsWith('tel:') ||
+        href.startsWith('http') ||
+        href.startsWith('//')
+      )
+        return
 
-    // Same-origin internal link
-    e.preventDefault()
-    document.body.classList.add('page-exit')
-    if (window._pageTransitionTimer) clearTimeout(window._pageTransitionTimer)
-    window._pageTransitionTimer = setTimeout(function () {
-      window.location = href
-    }, 200)
-  })
-}
+      // Same-origin internal link
+      e.preventDefault()
+      document.body.classList.add('page-exit')
+      if (window._pageTransitionTimer) clearTimeout(window._pageTransitionTimer)
+      window._pageTransitionTimer = setTimeout(function () {
+        window.location = href
+      }, 200)
+    })
+  }
+})()

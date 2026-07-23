@@ -14,23 +14,7 @@ if (typeof global.fetch === 'undefined') {
 
 require('../js/shared-utils.js')
 
-var safeText = window.__sharedUtils.safeText
 var getSlug = window.__sharedUtils.getSlug
-
-describe('safeText', () => {
-  it('returns safe text (no HTML injection)', () => {
-    expect(safeText('<script>alert("xss")</script>')).toBe('<script>alert("xss")</script>')
-    expect(safeText('safe text')).toBe('safe text')
-    expect(safeText('')).toBe('')
-    expect(safeText(null)).toBe('')
-    expect(safeText(undefined)).toBe('')
-  })
-
-  it('converts non-string inputs to string', () => {
-    expect(safeText(42)).toBe('42')
-    expect(safeText(true)).toBe('true')
-  })
-})
 
 describe('getSlug', () => {
   it('converts name to URL-safe slug', () => {

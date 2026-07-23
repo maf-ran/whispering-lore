@@ -577,20 +577,20 @@ class StoriesViewer extends BaseViewer {
     const nextBtn = document.getElementById('detail-next')
     if (prevBtn) {
       if (idx > 0) {
-        prevBtn.style.display = ''
+        prevBtn.classList.remove('is-hidden')
         const prevSlug = data[idx - 1].slug || window.__sharedUtils.getSlug(data[idx - 1].title)
         prevBtn.onclick = () => this.showDetail(prevSlug)
       } else {
-        prevBtn.style.display = 'none'
+        prevBtn.classList.add('is-hidden')
       }
     }
     if (nextBtn) {
       if (idx < data.length - 1) {
-        nextBtn.style.display = ''
+        nextBtn.classList.remove('is-hidden')
         const nextSlug = data[idx + 1].slug || window.__sharedUtils.getSlug(data[idx + 1].title)
         nextBtn.onclick = () => this.showDetail(nextSlug)
       } else {
-        nextBtn.style.display = 'none'
+        nextBtn.classList.add('is-hidden')
       }
     }
   }

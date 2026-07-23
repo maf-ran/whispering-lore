@@ -48,7 +48,7 @@
       ])
       populateGeoDropdown(regions, countries)
     } catch (e) {
-      console.warn('Fetch for geo data failed, trying inline data...', e)
+      console.error('Fetch for geo data failed, trying inline data...', e)
       if (window.__REGIONS && window.__COUNTRIES) {
         populateGeoDropdown(window.__REGIONS, window.__COUNTRIES)
       } else {

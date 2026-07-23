@@ -142,3 +142,44 @@
 - Tests: layout + no horizontal overflow (7 pages), hero overlap, nav scrollability + brand hidden on mobile, no JS errors.
 - **Result: 80/80 pass** (flaky timeout confirmed non-deterministic under parallel load).
 - `tests/e2e/cross-device-audit.spec.js` — screenshots saved to `test-screenshots/{device}/{page}.png`.
+
+---
+
+## PROJECT AUDIT CLEANUP (Jul 23) — ✅ ALL 17 ITEMS COMPLETE
+
+### HIGH (3/3)
+- [x] **globe.js var→const/let** — 110 declarations converted
+- [x] **mythical-being story type** — added mapping + fixed 1 story
+- [x] **Clipboard .catch()** — added to 4 calls
+- [x] **XSS in globe.js** — replaced partial `.replace` with `escapeXml()` for `data-country`
+- [x] **Quiz error handling** — wrapped `loadPool()` in try/catch
+- [x] **quiz.js 'use strict'** — added to IIFE
+
+### MEDIUM (5/5)
+- [x] **Dead code removed** — `getPreferredTheme`, `cleanupGoldParticles`, `loadShardsFromShimmer`+`loadDataFromShimmer` (49 lines)
+- [x] **ESLint sourceType: module** — added to `.eslintrc.json`
+- [x] **TopoJSON vendored** — `countries-110m.json` at `vendor/topojson/`, SW cache tightened
+- [x] **Archetypes normalized** — 539→123 unique types via normalize script, 758 creatures updated
+- [x] **Stories full_text filled** — 928 stories populated, 0 empty remaining
+
+### CLEANUP (3/3)
+- [x] **Last var** — region-glyphs.js → const
+- [x] **Loose == null** — shared-utils.js → strict equality
+- [x] **Dead goldParticleInterval** — removed from main.js
+
+### AUDIT BATCH (17/17) ✅ COMPLETE
+- [x] **M1: SW cache.addAll fragility** — replaced with individual `cache.add()` + `.catch()` per asset (sw.js)
+- [x] **M2: shared-utils.js code outside IIFE** — moved `initPageTransitions()` + auto-load logic inside IIFE
+- [x] **M3: Inline styles** — reduced from 31 to 10 via utility classes (.text-center, .text-muted, .text-small, .mt-1/2/3, .mb-2, .is-hidden) + CSS rules (.theme-icon-dark, .facet-group h2)
+- [x] **M4: SVG stroke hardcoded** — replaced `stroke="#991B1B"` with `currentColor` in section dividers
+- [x] **L5: safeText() removed** — unused function + export + 2 tests removed
+- [x] **L6: console.warn removed** — quiz.js (kept as error), globe.js (stripped)
+- [x] **L7: Globe destroy() listener cleanup** — document click handler now stored as ref, removed in destroy()
+- [x] **L8: Unused CSS removed** — .card-image, .content-grid--featured, .detail-ipa, .story-reading-* (except .story-empty-text), .detail-crossref, .reading-progress-*
+- [x] **L9: Heading hierarchy fixed** — sidebar filter h3→h2 in bestiary.html + stories.html (+ CSS selector updated)
+- [x] **L10: Meta keywords removed** — bestiary.html + quiz.html (ignored by Google since 2009)
+- [x] **L11: Hero gradient CSS variables** — added --hero-bg + --hero-step1..4, replaced all hardcoded hex values
+- [x] **L12: rune-scatter.test.js rewritten** — 8 behavioral tests (rune count, Fisher-Yates, center avoidance, theme adaptation, error handling)
+- [x] **JS nav toggle** — creatures-viewer.js + stories-viewer.js updated to use classList.add/remove('is-hidden')
+
+**Result: 144/144 Jest tests pass. 18 files modified.**

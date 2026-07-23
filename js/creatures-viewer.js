@@ -568,18 +568,18 @@ class CreaturesViewer extends BaseViewer {
     const nextBtn = document.getElementById('detail-next')
     if (prevBtn) {
       if (idx > 0) {
-        prevBtn.style.display = ''
+        prevBtn.classList.remove('is-hidden')
         prevBtn.onclick = () => this.showDetail(data[idx - 1].slug)
       } else {
-        prevBtn.style.display = 'none'
+        prevBtn.classList.add('is-hidden')
       }
     }
     if (nextBtn) {
       if (idx < data.length - 1) {
-        nextBtn.style.display = ''
+        nextBtn.classList.remove('is-hidden')
         nextBtn.onclick = () => this.showDetail(data[idx + 1].slug)
       } else {
-        nextBtn.style.display = 'none'
+        nextBtn.classList.add('is-hidden')
       }
     }
   }
