@@ -6,6 +6,12 @@ window.matchMedia = window.matchMedia || function () {
   return { matches: false, addEventListener: function () {}, removeEventListener: function () {} }
 }
 
+if (typeof global.fetch === 'undefined') {
+  global.fetch = function () {
+    return Promise.reject(new Error('fetch not mocked'))
+  }
+}
+
 require('../js/shared-utils.js')
 require('../js/citations.js')
 

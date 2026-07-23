@@ -378,7 +378,7 @@
     "description": "Tamapua is a trickster from Vanuatu folklore. Vanuatu trickster spirit. Creates chaos, steals from villages. Can shapeshift. Stories warn against laziness and trickery. Important in island moral t. Vanuatu trickster. Moral tales.",
     "appearance": "Typical appearance matches its role as a trickster and trick and steal being.",
     "behavior": "Tamapua is trickster, trick, steal in Vanuatu folklore.",
-    "habitat": "Vanuatu",
+    "habitat": "Vanuatu forests, riverbanks, and coastal waters",
     "habitat_tags": [
       "Vanuatu wilderness",
       "Vanuatu villages",
@@ -813,7 +813,7 @@
     "culture": "Iraqi Marsh Arab",
     "type": "shapeshifter",
     "mythology": "Iraqi Folklore",
-    "archetype": "Trickster / Bogeyman",
+    "archetype": "trickster",
     "element": "water",
     "aliases": [
       "Tantal",
@@ -2517,7 +2517,7 @@
     "description": "Thoth is a god from Egypt folklore. Egyptian god of writing, wisdom, and the moon. Egyptian scribe god. God from Egypt. god associated with Egyptian heavens and Egyptian sacred sites. Known for cosmic power, aquatic speed, soul sight.",
     "appearance": "Typical appearance matches its role as a wisdom being.",
     "behavior": "Known for cosmic power, aquatic speed, soul sight.",
-    "habitat": "Egypt",
+    "habitat": "Egyptian heavens, sacred sites, and scribal chambers",
     "habitat_tags": [
       "Egyptian heavens",
       "Egyptian sacred sites"
@@ -4119,7 +4119,7 @@
     "culture": "Basotho, Zulu, Xhosa",
     "type": "spirit",
     "mythology": "Nguni-Basotho mythology",
-    "archetype": "Water Dwarf",
+    "archetype": "water-spirit",
     "element": "water",
     "aliases": [
       "Tikoloshe",
@@ -9859,7 +9859,7 @@
     "culture": "Mauritanian (Moorish, Hassaniyya)",
     "type": "trickster",
     "mythology": "Mauritanian folklore",
-    "archetype": "Desert Trickster",
+    "archetype": "trickster",
     "element": "earth",
     "aliases": [
       "The Scorpion of the Sands",
@@ -9951,7 +9951,7 @@
     "culture": "Berber (Amazigh), Ancient Libyan",
     "type": "deity",
     "mythology": "Berber mythology",
-    "archetype": "Triple Goddess",
+    "archetype": "deity",
     "element": "spirit",
     "aliases": [
       "Tannit",
@@ -10377,7 +10377,7 @@
     "culture": "Panamanian (Mixed)",
     "type": "spirit",
     "mythology": "Panama",
-    "archetype": "vengeful-spirit",
+    "archetype": "demonic-entity",
     "element": "shadow",
     "aliases": [
       "La Tulivieja",
@@ -10744,7 +10744,7 @@
     "culture": "Algerian (Tuareg / Amazigh)",
     "type": "ancestor-spirit",
     "mythology": "Tuareg / Amazigh",
-    "archetype": "legendary-queen",
+    "archetype": "ruler",
     "element": "earth",
     "aliases": [
       "Tin Hinan",
@@ -10914,7 +10914,7 @@
     "culture": "Greenlandic",
     "type": "spirit",
     "mythology": "Inuit",
-    "archetype": "companion-spirit",
+    "archetype": "spirit",
     "element": "spirit",
     "aliases": [
       "Tuurngaq",
@@ -11011,7 +11011,7 @@
     "culture": "Greenlandic",
     "type": "spirit",
     "mythology": "Inuit",
-    "archetype": "protector",
+    "archetype": "guardian",
     "element": "water",
     "aliases": [],
     "related": [
@@ -11865,7 +11865,7 @@
     "culture": "USA",
     "type": "creator-deity",
     "mythology": "Pawnee",
-    "archetype": "high-god",
+    "archetype": "supreme-being",
     "element": "spirit",
     "aliases": [
       "tirawa"
@@ -12095,7 +12095,7 @@
     "culture": "Huron",
     "type": "demigod",
     "mythology": "Huron",
-    "archetype": "evil-spirit",
+    "archetype": "demonic-entity",
     "element": "darkness",
     "aliases": [
       "Tawescaron",
@@ -12725,7 +12725,7 @@
     "culture": "African American",
     "mythology": "African American",
     "type": "object",
-    "archetype": "construct",
+    "archetype": "monster",
     "element": "earth",
     "aliases": [
       "Tar Baby",
@@ -12977,7 +12977,7 @@
     "culture": "Fijian",
     "type": "deity",
     "mythology": "Fijian",
-    "archetype": "god",
+    "archetype": "deity",
     "element": "water",
     "aliases": [
       "Tui Delaivugalei",
@@ -13205,7 +13205,7 @@
     "culture": "Vanuatu",
     "type": "deity",
     "mythology": "Vanuatu",
-    "archetype": "creator",
+    "archetype": "creator-god",
     "element": "spirit",
     "aliases": [
       "Tagaro",
@@ -13280,7 +13280,7 @@
     "culture": "Maori",
     "type": "deity",
     "mythology": "New Zealand",
-    "archetype": "forest-god",
+    "archetype": "forest-spirit",
     "element": "earth",
     "aliases": [
       "Tane",
@@ -13434,7 +13434,7 @@
     "culture": "Maori",
     "type": "deity",
     "mythology": "New Zealand",
-    "archetype": "weather-god",
+    "archetype": "weather-deity",
     "element": "air",
     "aliases": [
       "Tawhirimatea",
@@ -13662,7 +13662,7 @@
     "culture": "Samoa",
     "type": "hero",
     "mythology": "Samoa",
-    "archetype": "chief",
+    "archetype": "ruler",
     "element": "spirit",
     "aliases": [
       "Tigilau"
@@ -13734,7 +13734,7 @@
     "culture": "Samoa",
     "type": "hero",
     "mythology": "Samoa",
-    "archetype": "king",
+    "archetype": "ruler",
     "element": "spirit",
     "aliases": [
       "Tui Manu'a",
@@ -13805,7 +13805,7 @@
     "culture": "Rapa Nui",
     "type": "hero",
     "mythology": "Rapa Nui",
-    "archetype": "birdman",
+    "archetype": "animal-spirit",
     "element": "spirit",
     "aliases": [
       "Tangata Manu",
@@ -14194,7 +14194,7 @@
     "culture": "Tibetan",
     "type": "hero",
     "mythology": "Tibetan",
-    "archetype": "spiritual-discoverer",
+    "archetype": "spirit",
     "element": "earth",
     "aliases": [
       "terton",
@@ -14373,7 +14373,7 @@
     "culture": "indonesian",
     "type": "human",
     "mythology": "Indonesian",
-    "archetype": "escaped-victim",
+    "archetype": "hero",
     "element": "earth",
     "aliases": [
       "timun mas",
@@ -14706,7 +14706,7 @@
     "culture": "Nepali Newar",
     "type": "goddess",
     "mythology": "Nepali Hindu/Buddhist",
-    "archetype": "warrior goddess",
+    "archetype": "war-god",
     "element": "fire",
     "aliases": [
       "Taleju",
@@ -14791,7 +14791,7 @@
     "culture": "Jamaican",
     "type": "folk-hero",
     "mythology": "Jamaican folklore",
-    "archetype": "outlaw-trickster",
+    "archetype": "trickster",
     "element": "earth",
     "aliases": [
       "Three-Fingered Jack",
@@ -14986,7 +14986,8 @@
     "living_tradition": false,
     "source_type": "oral_tradition",
     "source_quality": "good",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "archetype": "demonic-entity"
   },
   {
     "id": "creature-finland-008",
@@ -15018,7 +15019,8 @@
     "living_tradition": false,
     "source_type": "literary",
     "source_quality": "expert",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "archetype": "spirit"
   },
   {
     "id": "indonesia-tuyul-0003",
@@ -15029,7 +15031,7 @@
     "culture": "Indonesia",
     "type": "spirit",
     "mythology": "Indonesia",
-    "archetype": "servant-spirit",
+    "archetype": "spirit",
     "element": "shadow",
     "aliases": [
       "tuyul"
@@ -15103,7 +15105,7 @@
     "culture": "Mongolian",
     "type": "spirit",
     "mythology": "Mongolian",
-    "archetype": "benefactor",
+    "archetype": "guide",
     "element": "light",
     "aliases": [
       "the white old man"
@@ -15172,7 +15174,7 @@
     "culture": "Amazonian",
     "type": "spirit",
     "mythology": "Peruvian",
-    "archetype": "predator",
+    "archetype": "monster",
     "element": "shadow",
     "aliases": [
       "forest ghost"
@@ -21621,7 +21623,7 @@
     "culture": "Berber (Amazigh), Algerian",
     "type": "spirit",
     "mythology": "Algerian Berber folklore",
-    "archetype": "Female Water Spirit",
+    "archetype": "water-spirit",
     "element": "water",
     "aliases": [
       "Aicha Kandicha",
@@ -21726,7 +21728,7 @@
     "culture": "Berber (Amazigh) - Kabyle, Chaoui",
     "type": "deity",
     "mythology": "Berber mythology",
-    "archetype": "Rain God",
+    "archetype": "deity",
     "element": "water",
     "aliases": [
       "Anẓar",
@@ -21817,7 +21819,7 @@
     "culture": "Berber (Amazigh), Ancient Libyan",
     "type": "giant",
     "mythology": "Berber and Greek mythology",
-    "archetype": "Earth Giant",
+    "archetype": "giant",
     "element": "earth",
     "aliases": [
       "Antaios",
@@ -21991,7 +21993,7 @@
     "culture": "Babylonian-Akkadian",
     "type": "hybrid",
     "mythology": "Mesopotamian",
-    "archetype": "Guardian / Warrior",
+    "archetype": "guardian",
     "element": "earth",
     "aliases": [
       "Girtablilu",
@@ -22077,7 +22079,7 @@
     "culture": "Phoenician/Greek",
     "type": "deity",
     "mythology": "Phoenician",
-    "archetype": "Dying-and-Rising God",
+    "archetype": "deity",
     "element": "earth",
     "aliases": [
       "Adon",
@@ -22175,7 +22177,7 @@
     "culture": "Mbundu (Kimbundu) / Ovimbundu",
     "type": "goddess",
     "mythology": "Mbundu mythology",
-    "archetype": "Water Deity / Mermaid Spirit",
+    "archetype": "water-spirit",
     "element": "water",
     "aliases": [
       "Dandalunda",
@@ -22266,7 +22268,7 @@
     "culture": "Mbundu (Kimbundu) / Ambundu",
     "type": "demon",
     "mythology": "Mbundu mythology",
-    "archetype": "Two-Faced Deceiver / Man-Eater",
+    "archetype": "shapeshifter",
     "element": "fire",
     "aliases": [
       "Kishi",
@@ -22357,7 +22359,7 @@
     "culture": "Mbundu (Kimbundu)",
     "type": "monster",
     "mythology": "Mbundu mythology",
-    "archetype": "Guardian of the Underworld / Serpent of the Deep",
+    "archetype": "death-deity",
     "element": "water / death",
     "aliases": [
       "Kalunga-Ngombé",
@@ -22537,7 +22539,7 @@
     "culture": "Lebanese / Phoenician",
     "type": "mermaid",
     "mythology": "Phoenician / Syrian / Canaanite",
-    "archetype": "water-deity",
+    "archetype": "deity",
     "element": "water",
     "aliases": [
       "Derketo",
@@ -22713,7 +22715,7 @@
     "culture": "Syrian (Palmyrene)",
     "type": "deity",
     "mythology": "Palmyrene / Syrian",
-    "archetype": "guardian-deities",
+    "archetype": "guardian",
     "element": "sky",
     "aliases": [
       "Azizu",
@@ -22987,7 +22989,7 @@
     "culture": "Algerian",
     "type": "jinn",
     "mythology": "Algerian / Arab-Berber",
-    "archetype": "hidden-entity",
+    "archetype": "hidden-people",
     "element": "spirit",
     "aliases": [
       "Al-Ruhban",
@@ -23168,7 +23170,7 @@
     "culture": "Finnish",
     "type": "human",
     "mythology": "Finnish",
-    "archetype": "tragic-maiden",
+    "archetype": "hero",
     "element": "water",
     "aliases": [],
     "related": [
@@ -23207,7 +23209,7 @@
     "culture": "Greenlandic",
     "type": "spirit",
     "mythology": "Inuit",
-    "archetype": "predator-spirit",
+    "archetype": "monster",
     "element": "ice",
     "aliases": [
       "Amaguq"
@@ -23389,7 +23391,7 @@
     "culture": "Greenlandic",
     "type": "deity",
     "mythology": "Inuit",
-    "archetype": "lunar-spirit",
+    "archetype": "celestial",
     "element": "sky",
     "aliases": [
       "Tarqiup Inua"
@@ -23479,7 +23481,7 @@
     "culture": "Greenlandic",
     "type": "monster",
     "mythology": "Inuit",
-    "archetype": "glutton",
+    "archetype": "monster",
     "element": "earth",
     "aliases": [],
     "related": [
@@ -23655,7 +23657,7 @@
     "culture": "Sami",
     "type": "goddess",
     "mythology": "Sami",
-    "archetype": "bringer-of-plague",
+    "archetype": "demonic-entity",
     "element": "earth",
     "aliases": [
       "Adtjis-ietnie",
@@ -24329,7 +24331,7 @@
     "culture": "USA",
     "type": "deity",
     "mythology": "Lakota",
-    "archetype": "dawn-deity",
+    "archetype": "celestial",
     "element": "light",
     "aliases": [
       "anpo"
@@ -24399,7 +24401,7 @@
     "culture": "USA",
     "type": "creator-deity",
     "mythology": "Blackfoot",
-    "archetype": "high-god",
+    "archetype": "supreme-being",
     "element": "spirit",
     "aliases": [
       "apistotoke"
@@ -24474,7 +24476,7 @@
     "culture": "USA",
     "type": "animal-spirit",
     "mythology": "Comanche",
-    "archetype": "messenger-spirit",
+    "archetype": "spirit",
     "element": "earth",
     "aliases": [
       "antelope spirit"
@@ -24546,7 +24548,7 @@
     "culture": "USA",
     "type": "creator-deity",
     "mythology": "Crow",
-    "archetype": "high-god",
+    "archetype": "supreme-being",
     "element": "spirit",
     "aliases": [
       "akbaatatdia"
@@ -24621,7 +24623,7 @@
     "culture": "USA",
     "type": "deity",
     "mythology": "Crow",
-    "archetype": "celestial-deity",
+    "archetype": "celestial",
     "element": "light",
     "aliases": [
       "aapisowaahs"
@@ -24766,7 +24768,7 @@
     "culture": "Huron",
     "type": "goddess",
     "mythology": "Huron",
-    "archetype": "primordial-mother",
+    "archetype": "mother-goddess",
     "element": "earth",
     "aliases": [
       "Aataentsic",
@@ -25261,7 +25263,7 @@
     "culture": "Yoruba",
     "type": "spirit",
     "mythology": "Yoruba",
-    "archetype": "wealth-spirit",
+    "archetype": "spirit",
     "element": "earth",
     "aliases": [
       "Ajé",
@@ -25342,7 +25344,7 @@
     "culture": "Yoruba",
     "type": "deity",
     "mythology": "Yoruba",
-    "archetype": "creation-deity",
+    "archetype": "creator-deity",
     "element": "earth",
     "aliases": [
       "Àjàlá-Ilẹ̀",
@@ -25585,7 +25587,7 @@
     "culture": "Fon (Dahomey)",
     "type": "deity",
     "mythology": "Fon (Dahomey)",
-    "archetype": "sea-deity",
+    "archetype": "sea-god",
     "element": "water",
     "aliases": [
       "Agbe",
@@ -25664,7 +25666,7 @@
     "culture": "Fon (Dahomey)",
     "type": "serpent",
     "mythology": "Fon (Dahomey)",
-    "archetype": "cosmic-serpent",
+    "archetype": "serpent",
     "element": "water",
     "aliases": [
       "Aido Hwedo",
@@ -25745,7 +25747,7 @@
     "culture": "Ethiopian",
     "type": "nature-spirit",
     "mythology": "Ethiopian",
-    "archetype": "Nature Spirit / Guardian Spirit",
+    "archetype": "nature-spirit",
     "element": "earth",
     "aliases": [
       "Adbar",
@@ -25823,7 +25825,7 @@
     "culture": "Luo",
     "type": "animal",
     "mythology": "Luo",
-    "archetype": "Trickster Hare",
+    "archetype": "trickster",
     "element": "air",
     "aliases": [
       "Apwoyo",
@@ -25906,7 +25908,7 @@
     "culture": "Somali",
     "type": "folk-hero",
     "mythology": "Somali",
-    "archetype": "Warrior Queen / Legendary Matriarch",
+    "archetype": "ruler",
     "element": "earth",
     "aliases": [
       "Arawelo",
@@ -26060,7 +26062,7 @@
     "culture": "Nauruan",
     "type": "deity",
     "mythology": "Nauruan",
-    "archetype": "creator",
+    "archetype": "creator-god",
     "element": "spirit",
     "aliases": [
       "Areop-Enap",
@@ -26140,7 +26142,7 @@
     "culture": "Micronesian",
     "type": "deity",
     "mythology": "Micronesian",
-    "archetype": "god",
+    "archetype": "deity",
     "element": "spirit",
     "aliases": [
       "Anulap",
@@ -26215,7 +26217,7 @@
     "culture": "Tonga",
     "type": "hero",
     "mythology": "Tonga",
-    "archetype": "king",
+    "archetype": "ruler",
     "element": "spirit",
     "aliases": [
       "Ahoeitu"
@@ -26444,7 +26446,7 @@
     "culture": "Kazakh",
     "type": "trickster",
     "mythology": "Kazakh",
-    "archetype": "folk-hero",
+    "archetype": "hero",
     "element": "air",
     "aliases": [
       "Aldar Qose"
@@ -26606,7 +26608,7 @@
     "culture": "Kyrgyz",
     "type": "spirit",
     "mythology": "Kyrgyz",
-    "archetype": "swan-maiden",
+    "archetype": "shapeshifter",
     "element": "air",
     "aliases": [
       "Ay-Chürök",
@@ -26757,7 +26759,7 @@
     "culture": "Turkmen",
     "type": "spirit",
     "mythology": "Turkmen",
-    "archetype": "fairy",
+    "archetype": "spirit",
     "element": "air",
     "aliases": [
       "Agaýunus",
@@ -26834,7 +26836,7 @@
     "culture": "Turkmen",
     "type": "spirit",
     "mythology": "Turkmen",
-    "archetype": "horse-spirit",
+    "archetype": "spirit",
     "element": "fire",
     "aliases": [
       "Akhal-Teke",
@@ -26994,7 +26996,7 @@
     "culture": "Altai",
     "type": "hero",
     "mythology": "Altai",
-    "archetype": "divine-ruler",
+    "archetype": "ruler",
     "element": "light",
     "aliases": [
       "Ak-Kaan",
@@ -27071,7 +27073,7 @@
     "culture": "Altai",
     "type": "spirit",
     "mythology": "Altai",
-    "archetype": "shamanic-figure",
+    "archetype": "deity",
     "element": "darkness",
     "aliases": [
       "Abram Moos",
@@ -27154,7 +27156,7 @@
     "culture": "Yakut (Sakha)",
     "type": "demon",
     "mythology": "Yakut (Sakha)",
-    "archetype": "evil-spirit",
+    "archetype": "demonic-entity",
     "element": "darkness",
     "aliases": [
       "abaasy",
@@ -27405,7 +27407,7 @@
     "culture": "Buryat",
     "type": "deity",
     "mythology": "Buryat",
-    "archetype": "evil-deity",
+    "archetype": "demonic-entity",
     "element": "darkness",
     "aliases": [
       "atai ulan",
@@ -27555,7 +27557,7 @@
     "culture": "Buryat",
     "type": "beast",
     "mythology": "Buryat",
-    "archetype": "primordial-beast",
+    "archetype": "monster",
     "element": "water",
     "aliases": [
       "anghir",
@@ -27877,7 +27879,7 @@
     "culture": "Khmer",
     "type": "spirit",
     "mythology": "Khmer",
-    "archetype": "dancer-spirit",
+    "archetype": "spirit",
     "element": "air",
     "aliases": [
       "apsara",
@@ -28135,7 +28137,7 @@
     "culture": "Arabic",
     "type": "mythical-bird",
     "mythology": "Arabic mythology",
-    "archetype": "primordial-beast",
+    "archetype": "monster",
     "element": "air",
     "aliases": [
       "Anqa Mughrib",
@@ -28216,7 +28218,7 @@
     "culture": "Persian",
     "type": "demon",
     "mythology": "Persian folklore",
-    "archetype": "childbirth-spirit",
+    "archetype": "spirit",
     "element": "fire",
     "aliases": [
       "Āl",
@@ -28649,7 +28651,8 @@
     "living_tradition": false,
     "source_type": "literary",
     "source_quality": "expert",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "archetype": "spirit"
   },
   {
     "id": "creature-finland-005",
@@ -28681,7 +28684,8 @@
     "living_tradition": false,
     "source_type": "literary",
     "source_quality": "expert",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "archetype": "guardian"
   },
   {
     "id": "india-airavata-0004",
@@ -28692,7 +28696,7 @@
     "culture": "India",
     "type": "animal",
     "mythology": "India",
-    "archetype": "mount",
+    "archetype": "magical-steed",
     "element": "water",
     "aliases": [
       "white elephant"
@@ -28917,7 +28921,7 @@
     "culture": "Yoruba",
     "type": "spirit",
     "mythology": "Yoruba",
-    "archetype": "cycle-spirit",
+    "archetype": "spirit",
     "element": "spirit",
     "aliases": [
       "abiku"
@@ -32674,7 +32678,7 @@
     "culture": "Papua New Guinea (Various)",
     "type": "spirit",
     "mythology": "Papua New Guinea",
-    "archetype": "place-spirit",
+    "archetype": "spirit",
     "element": "earth",
     "aliases": [
       "Masalai",
@@ -43573,7 +43577,7 @@
     "culture": "Chewa, Mang'anja",
     "type": "spirit",
     "mythology": "Chewa mythology",
-    "archetype": "Rain-Bringer Prophet",
+    "archetype": "prophet",
     "element": "water",
     "aliases": [
       "Mbona the Rainmaker",
@@ -43670,7 +43674,7 @@
     "culture": "Makonde",
     "type": "spirit",
     "mythology": "Makonde mythology",
-    "archetype": "Witchcraft Spirit",
+    "archetype": "spirit",
     "element": "spirit",
     "aliases": [
       "Uchawi",
@@ -44302,7 +44306,7 @@
     "culture": "Brunei Malay",
     "type": "animal",
     "mythology": "Brunei",
-    "archetype": "magical-animal",
+    "archetype": "sacred-animal",
     "element": "earth",
     "aliases": [
       "Mutiara",
@@ -44464,7 +44468,7 @@
     "culture": "Phoenician",
     "type": "deity",
     "mythology": "Phoenician",
-    "archetype": "King / Guardian / Explorer",
+    "archetype": "guardian",
     "element": "water",
     "aliases": [
       "Melkart",
@@ -44557,7 +44561,7 @@
     "culture": "Mauritian Creole",
     "type": "shapeshifter",
     "mythology": "Mauritian / Afro-French",
-    "archetype": "Monster / Boogeyman",
+    "archetype": "monster",
     "element": "earth",
     "aliases": [
       "Werewolf"
@@ -44641,7 +44645,7 @@
     "culture": "Mauritian Creole",
     "type": "spirit",
     "mythology": "Mauritian",
-    "archetype": "Night Visitor",
+    "archetype": "demonic-entity",
     "element": "air-earth",
     "aliases": [
       "Naked at Midnight"
@@ -44722,7 +44726,7 @@
     "culture": "Mauritian Creole",
     "type": "ghost",
     "mythology": "Mauritian",
-    "archetype": "Eternal Wanderer",
+    "archetype": "hero",
     "element": "air",
     "aliases": [
       "The Carriage of Lallmatie"
@@ -44801,7 +44805,7 @@
     "culture": "Mauritian",
     "type": "human",
     "mythology": "Mauritian",
-    "archetype": "Tragic Figure",
+    "archetype": "hero",
     "element": "earth",
     "aliases": [
       "The Stone Milkman"
@@ -44879,7 +44883,7 @@
     "culture": "Finnish",
     "type": "human",
     "mythology": "Finnish",
-    "archetype": "pure-maiden",
+    "archetype": "hero",
     "element": "earth",
     "aliases": [
       "The Berry-Born"
@@ -44920,7 +44924,7 @@
     "culture": "Icelandic",
     "type": "spirit",
     "mythology": "Icelandic",
-    "archetype": "night-terror",
+    "archetype": "demonic-entity",
     "element": "shadow",
     "aliases": [
       "Mara",
@@ -45001,7 +45005,7 @@
     "culture": "Greenlandic",
     "type": "deity",
     "mythology": "Inuit",
-    "archetype": "solar-spirit",
+    "archetype": "sun-god",
     "element": "sky",
     "aliases": [
       "Siqiniq"
@@ -45090,7 +45094,7 @@
     "culture": "Greenlandic",
     "type": "demon",
     "mythology": "Inuit",
-    "archetype": "trickster-predator",
+    "archetype": "trickster",
     "element": "ice",
     "aliases": [
       "The Tickling Demon"
@@ -45282,7 +45286,7 @@
     "culture": "Sami",
     "type": "goddess",
     "mythology": "Sami",
-    "archetype": "primordial-mother",
+    "archetype": "mother-goddess",
     "element": "earth",
     "aliases": [
       "Maderakka",
@@ -46064,7 +46068,7 @@
     "culture": "USA",
     "type": "creator-deity",
     "mythology": "Cheyenne",
-    "archetype": "high-god",
+    "archetype": "supreme-being",
     "element": "spirit",
     "aliases": [
       "ma'heo'o"
@@ -46213,7 +46217,7 @@
     "culture": "USA",
     "type": "deity",
     "mythology": "Crow",
-    "archetype": "celestial-hero",
+    "archetype": "celestial",
     "element": "fire",
     "aliases": [
       "morning star"
@@ -46359,7 +46363,7 @@
     "culture": "USA",
     "type": "animal-spirit",
     "mythology": "Arapaho",
-    "archetype": "helper-spirit",
+    "archetype": "spirit",
     "element": "earth",
     "aliases": [
       "mouse spirit"
@@ -46431,7 +46435,7 @@
     "culture": "USA",
     "type": "human",
     "mythology": "Arapaho",
-    "archetype": "human-hero",
+    "archetype": "hero",
     "element": "spirit",
     "aliases": [
       "medicine man"
@@ -46600,7 +46604,7 @@
     "culture": "Ojibwe",
     "type": "spirit",
     "mythology": "Ojibwe",
-    "archetype": "agricultural-spirit",
+    "archetype": "spirit",
     "element": "earth",
     "aliases": [
       "Mon-Daw-Min",
@@ -46678,7 +46682,7 @@
     "culture": "Abenaki",
     "type": "demigod",
     "mythology": "Abenaki",
-    "archetype": "evil-spirit",
+    "archetype": "demonic-entity",
     "element": "darkness",
     "aliases": [
       "Malsumis",
@@ -46982,7 +46986,7 @@
     "culture": "Zulu",
     "type": "water-spirit",
     "mythology": "Zulu",
-    "archetype": "water-deity",
+    "archetype": "deity",
     "element": "water",
     "aliases": [
       "Mamlambo",
@@ -47075,7 +47079,7 @@
     "culture": "Bambara",
     "type": "spirit",
     "mythology": "Bambara",
-    "archetype": "primordial-woman",
+    "archetype": "mother-goddess",
     "element": "fire",
     "aliases": [
       "Mousso Koroni Koundye",
@@ -47172,7 +47176,7 @@
     "culture": "Tswana",
     "type": "giant",
     "mythology": "Tswana",
-    "archetype": "ancestral-giant",
+    "archetype": "giant",
     "element": "earth",
     "aliases": [
       "Matsieng",
@@ -47589,7 +47593,7 @@
     "culture": "Fon (Dahomey)",
     "type": "deity",
     "mythology": "Fon (Dahomey)",
-    "archetype": "creator-goddess",
+    "archetype": "creator-god",
     "element": "air",
     "aliases": [
       "Mawu",
@@ -47674,7 +47678,7 @@
     "culture": "Maasai",
     "type": "culture-hero",
     "mythology": "Maasai",
-    "archetype": "Prophet / Spiritual Leader",
+    "archetype": "spirit",
     "element": "earth-spirit",
     "aliases": [
       "Mbatian the Great Laibon",
@@ -47750,7 +47754,7 @@
     "culture": "Kikuyu",
     "type": "human",
     "mythology": "Kikuyu",
-    "archetype": "First Woman / Mother Goddess",
+    "archetype": "mother-goddess",
     "element": "earth",
     "aliases": [
       "Mumbi",
@@ -47826,7 +47830,7 @@
     "culture": "Luba",
     "type": "culture-hero",
     "mythology": "Luba",
-    "archetype": "Culture Hero / Sacred King",
+    "archetype": "culture-hero",
     "element": "earth",
     "aliases": [
       "Mbidi Kiluwe",
@@ -47907,7 +47911,7 @@
     "culture": "Ganda",
     "type": "deity",
     "mythology": "Ganda",
-    "archetype": "God of Lake Victoria",
+    "archetype": "deity",
     "element": "water",
     "aliases": [
       "Mukasa",
@@ -47986,7 +47990,7 @@
     "culture": "Chaga",
     "type": "serpent",
     "mythology": "Chaga",
-    "archetype": "Mountain Guardian Serpent",
+    "archetype": "nature-spirit",
     "element": "earth",
     "aliases": [
       "Mountain Serpent",
@@ -48604,7 +48608,7 @@
     "culture": "Mongol",
     "type": "hero",
     "mythology": "Mongol",
-    "archetype": "warrior-queen",
+    "archetype": "ruler",
     "element": "light",
     "aliases": [
       "Mandukhai Sechen Khongorjin",
@@ -48761,7 +48765,7 @@
     "culture": "Yakut (Sakha)",
     "type": "beast",
     "mythology": "Yakut (Sakha)",
-    "archetype": "primordial-beast",
+    "archetype": "monster",
     "element": "earth",
     "aliases": [
       "mammoth",
@@ -48844,7 +48848,7 @@
     "culture": "Tibetan",
     "type": "deity",
     "mythology": "Tibetan",
-    "archetype": "wisdom-deity",
+    "archetype": "deity",
     "element": "air",
     "aliases": [
       "machik lapdron",
@@ -49002,7 +49006,7 @@
     "culture": "filipino",
     "type": "demigod",
     "mythology": "Filipino",
-    "archetype": "first-man",
+    "archetype": "culture-hero",
     "element": "earth",
     "aliases": [
       "malakas",
@@ -49082,7 +49086,7 @@
     "culture": "filipino",
     "type": "demigod",
     "mythology": "Filipino",
-    "archetype": "first-woman",
+    "archetype": "mother-goddess",
     "element": "earth",
     "aliases": [
       "maganda",
@@ -49161,7 +49165,7 @@
     "culture": "filipino",
     "type": "spirit",
     "mythology": "Filipino",
-    "archetype": "mountain-spirit",
+    "archetype": "nature-spirit",
     "element": "earth",
     "aliases": [
       "mariang makiling",
@@ -49244,7 +49248,7 @@
     "culture": "indonesian",
     "type": "human",
     "mythology": "Indonesian",
-    "archetype": "unfilial-son",
+    "archetype": "hero",
     "element": "earth",
     "aliases": [
       "malin kundang",
@@ -49406,7 +49410,7 @@
     "culture": "Vietnamese",
     "type": "hero",
     "mythology": "Vietnamese",
-    "archetype": "tragic-figure",
+    "archetype": "hero",
     "element": "earth",
     "aliases": [
       "my chau",
@@ -49740,7 +49744,7 @@
     "culture": "Nepali Newar",
     "type": "deity",
     "mythology": "Nepali Buddhist/Hindu",
-    "archetype": "savior",
+    "archetype": "hero",
     "element": "water",
     "aliases": [
       "Karunamaya",
@@ -49821,7 +49825,7 @@
     "culture": "Bhutanese",
     "type": "humanoid",
     "mythology": "Bhutanese",
-    "archetype": "nature spirit",
+    "archetype": "nature-spirit",
     "element": "earth",
     "aliases": [
       "Migoi",
@@ -49991,7 +49995,7 @@
     "culture": "Trinidadian",
     "type": "folk-hero",
     "mythology": "Trinidad Carnival folklore",
-    "archetype": "trickster-outlaw",
+    "archetype": "trickster",
     "element": "spirit",
     "aliases": [
       "Midnight Robber",
@@ -51838,7 +51842,7 @@
     "description": "The Lagahoo of Tobago is a shapeshifting monster deeply rooted in the island's Afro-Caribbean folklore traditions. Similar to its counterparts in Trinidad and Grenada, the Tobagonian Lagahoo is considered a malevolent spirit that roams the island after dark, embodying the fears and beliefs brought by enslaved Africans and blended with European colonial influences. The creature is a prominent figure in Tobagonian oral tradition, used to warn children and young adults about the dangers of staying out late. The legend varies between communities but consistently portrays the Lagahoo as one of the most feared supernatural beings in the Caribbean.",
     "appearance": "The Tobagonian Lagahoo is traditionally described as a headless man who carries a wooden coffin on his shoulders at night, with three lighted candles flickering atop the coffin. Heavy iron chains are wrapped around his body, clanking loudly with every step. He can transform into various animals, most commonly a large black dog with fiery red eyes, but also horses, pigs, goats, and donkeys. In some accounts, he appears as a centaur-like figure, half-man and half-horse. When shapeshifted, the creature retains an unnatural size and moves with an eerie, gliding motion that distinguishes it from ordinary animals.",
     "behavior": "The Lagahoo emerges at midnight and roams until the first light of dawn, seeking out lone travelers and those foolish enough to be out after dark. It announces its presence with the rattling of chains and the flickering light of its candles, delighting in the terror it inspires. It is said to be a blood-drinker that preys on both humans and livestock. Tobagonian folklore prescribes various protective measures including carrying a Bible, drawing a protective circle, or using holy water. The creature must be beaten with a blessed stick to be destroyed.",
-    "habitat": "Grenada",
+    "habitat": "Grenada forests, moonlit roads, and wilderness trails",
     "habitat_tags": [
       "Grenada, Trinidad and Tobago wilderness",
       "Grenada, Trinidad and Tobago forests"
@@ -52474,7 +52478,7 @@
     "culture": "Assyrian-Babylonian",
     "type": "guardian",
     "mythology": "Mesopotamian",
-    "archetype": "Guardian",
+    "archetype": "guardian",
     "element": "earth",
     "aliases": [
       "Lamma",
@@ -52740,7 +52744,7 @@
     "culture": "Ancient Libyan, Greek",
     "type": "spirit",
     "mythology": "Greek-Libyan mythology",
-    "archetype": "Child-Devouring Demon",
+    "archetype": "demon",
     "element": "shadow",
     "aliases": [
       "Lamia of Libya",
@@ -56213,7 +56217,7 @@
     "culture": "Canaanite-Phoenician",
     "type": "serpent",
     "mythology": "Canaanite",
-    "archetype": "Primordial Serpent",
+    "archetype": "serpent",
     "element": "water",
     "aliases": [
       "Litan",
@@ -58541,7 +58545,7 @@
     "culture": "Bemba, various Zambian",
     "type": "serpent",
     "mythology": "Bemba mythology",
-    "archetype": "Rain and Fertility Serpent",
+    "archetype": "serpent",
     "element": "water",
     "aliases": [
       "Lungu",
@@ -58807,7 +58811,7 @@
     "culture": "East Timor (Various)",
     "type": "spirit",
     "mythology": "East Timor",
-    "archetype": "totem-animal",
+    "archetype": "animal-spirit",
     "element": "water",
     "aliases": [
       "Lafaek",
@@ -58888,7 +58892,7 @@
     "culture": "Syrian (Canaanite / Ugaritic)",
     "type": "serpent",
     "mythology": "Canaanite / Ugaritic",
-    "archetype": "chaos-serpent",
+    "archetype": "serpent",
     "element": "water",
     "aliases": [
       "Litan",
@@ -58985,7 +58989,7 @@
     "culture": "Algerian (Kabyle / Amazigh)",
     "type": "trickster",
     "mythology": "Kabyle / Amazigh",
-    "archetype": "female-trickster",
+    "archetype": "trickster",
     "element": "water",
     "aliases": [
       "Lunja",
@@ -59219,7 +59223,7 @@
     "culture": "Finnish",
     "type": "demigod",
     "mythology": "Finnish",
-    "archetype": "reckless-wanderer",
+    "archetype": "hero",
     "element": "fire",
     "aliases": [
       "The Lover"
@@ -59268,7 +59272,7 @@
     "culture": "Icelandic",
     "type": "ogre",
     "mythology": "Icelandic",
-    "archetype": "lazy-companion",
+    "archetype": "trickster",
     "element": "earth",
     "aliases": [
       "Leppalúði"
@@ -59342,7 +59346,7 @@
     "culture": "Sami",
     "type": "deity",
     "mythology": "Sami",
-    "archetype": "provider",
+    "archetype": "guide",
     "element": "earth",
     "aliases": [
       "Leaibeolmmái",
@@ -59582,7 +59586,7 @@
     "culture": "Seminole",
     "type": "monster",
     "mythology": "Seminole",
-    "archetype": "man-eating-beast",
+    "archetype": "monster",
     "element": "earth",
     "aliases": [
       "Long-Ears",
@@ -59907,7 +59911,7 @@
     "culture": "Mexico",
     "mythology": "Mexico",
     "type": "spirit",
-    "archetype": "vengeful-spirit",
+    "archetype": "demonic-entity",
     "element": "spirit",
     "aliases": [
       "La Mano Pachona",
@@ -60324,7 +60328,7 @@
     "culture": "Maasai",
     "type": "spirit",
     "mythology": "Maasai",
-    "archetype": "Ancestral Spirit / Ritual Leader",
+    "archetype": "ancestral-spirit",
     "element": "spirit",
     "aliases": [
       "Oloiboni",
@@ -60401,7 +60405,7 @@
     "culture": "Ethiopian",
     "type": "human",
     "mythology": "Ethiopian",
-    "archetype": "Divinely Inspired Builder / Saint",
+    "archetype": "culture-hero",
     "element": "earth",
     "aliases": [
       "Lalibela",
@@ -60480,7 +60484,7 @@
     "culture": "Luo",
     "type": "monster",
     "mythology": "Luo",
-    "archetype": "Giant Water Serpent",
+    "archetype": "serpent",
     "element": "water",
     "aliases": [
       "Nyang'idi",
@@ -60555,7 +60559,7 @@
     "culture": "Swahili",
     "type": "culture-hero",
     "mythology": "Swahili",
-    "archetype": "Warrior Poet / Epic Hero",
+    "archetype": "warrior-hero",
     "element": "fire",
     "aliases": [
       "Liongo Fumo",
@@ -60637,7 +60641,7 @@
     "culture": "Micronesian",
     "type": "deity",
     "mythology": "Micronesian",
-    "archetype": "creator",
+    "archetype": "creator-god",
     "element": "earth",
     "aliases": [
       "Ligobubfanu",
@@ -60713,7 +60717,7 @@
     "culture": "Hawaii",
     "type": "deity",
     "mythology": "Hawaii",
-    "archetype": "agriculture-god",
+    "archetype": "fertility-deity",
     "element": "earth",
     "aliases": [
       "Lono",
@@ -60787,7 +60791,7 @@
     "culture": "Hawaii",
     "type": "hero",
     "mythology": "Hawaii",
-    "archetype": "princess",
+    "archetype": "ruler",
     "element": "spirit",
     "aliases": [
       "La'ieikawai",
@@ -60860,7 +60864,7 @@
     "culture": "Hawaii",
     "type": "hero",
     "mythology": "Hawaii",
-    "archetype": "chief",
+    "archetype": "ruler",
     "element": "spirit",
     "aliases": [
       "Lohiau",
@@ -61345,7 +61349,7 @@
     "culture": "Puerto Rican",
     "type": "folk-hero",
     "mythology": "Puerto Rican folklore",
-    "archetype": "haunting-legend",
+    "archetype": "ghost",
     "element": "spirit",
     "aliases": [
       "La Garita del Diablo",
@@ -61451,7 +61455,8 @@
     "living_tradition": false,
     "source_type": "literary",
     "source_quality": "good",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "archetype": "demonic-entity"
   },
   {
     "id": "creature-ljungra-008",
@@ -61486,7 +61491,8 @@
     "living_tradition": false,
     "source_type": "oral_tradition",
     "source_quality": "good",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "archetype": "spirit"
   },
   {
     "id": "creature-finland-010",
@@ -61518,7 +61524,8 @@
     "living_tradition": false,
     "source_type": "literary",
     "source_quality": "expert",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "archetype": "spirit"
   },
   {
     "id": "mali-lebe-0004",
@@ -63460,7 +63467,7 @@
     "culture": "Canaanite-Phoenician",
     "type": "deity",
     "mythology": "Canaanite",
-    "archetype": "Chaos Monster / Sea God",
+    "archetype": "sea-god",
     "element": "water",
     "aliases": [
       "Yam",
@@ -63653,7 +63660,7 @@
     "culture": "Icelandic",
     "type": "monster",
     "mythology": "Icelandic",
-    "archetype": "punishing-entity",
+    "archetype": "demonic-entity",
     "element": "ice",
     "aliases": [
       "Jólakötturinn",
@@ -64385,7 +64392,7 @@
     "culture": "Ewe",
     "type": "deity",
     "mythology": "Ewe",
-    "archetype": "thunder-deity",
+    "archetype": "thunder-spirit",
     "element": "fire",
     "aliases": [
       "Yeweh",
@@ -64471,7 +64478,7 @@
     "culture": "Ethiopian",
     "type": "human",
     "mythology": "Ethiopian",
-    "archetype": "Blessed Saint / Music Creator",
+    "archetype": "creator-god",
     "element": "spirit",
     "aliases": [
       "Saint Yared",
@@ -64880,7 +64887,7 @@
     "culture": "Tibetan",
     "type": "deity",
     "mythology": "Tibetan",
-    "archetype": "wisdom-deity",
+    "archetype": "deity",
     "element": "water",
     "aliases": [
       "yeshe tsogyal",
@@ -66510,7 +66517,7 @@
     "culture": "Carthaginian, Punic",
     "type": "spirit",
     "mythology": "Carthaginian mythology",
-    "archetype": "Netherworld Spirit",
+    "archetype": "death-deity",
     "element": "spirit",
     "aliases": [
       "Utlat",
@@ -66600,7 +66607,7 @@
     "culture": "Baganda",
     "type": "spirit",
     "mythology": "Ugandan Folklore",
-    "archetype": "Ancestral Guide",
+    "archetype": "guide",
     "element": "spirit",
     "aliases": [
       "Ancestral Spirits",
@@ -66691,7 +66698,7 @@
     "culture": "Nilotic/Bantu",
     "type": "spirit",
     "mythology": "Nile River Folklore",
-    "archetype": "Water Guardian",
+    "archetype": "water-spirit",
     "element": "water",
     "aliases": [
       "The River King",
@@ -66778,7 +66785,7 @@
     "culture": "General Ugandan",
     "type": "spirit",
     "mythology": "Jungle Folklore",
-    "archetype": "Trickster",
+    "archetype": "trickster",
     "element": "earth",
     "aliases": [
       "The Green Shadow",
@@ -66878,7 +66885,7 @@
     "culture": "Baganda (Ganda)",
     "type": "hero",
     "mythology": "Baganda mythology",
-    "archetype": "First Man / Ancestor",
+    "archetype": "culture-hero",
     "element": "earth",
     "aliases": [
       "Kintu the First Man",
@@ -66969,7 +66976,7 @@
     "culture": "Baganda (Ganda)",
     "type": "deity",
     "mythology": "Baganda mythology",
-    "archetype": "Sky Maiden / Earth Mother",
+    "archetype": "earth-goddess",
     "element": "sky / earth",
     "aliases": [
       "Nambi the Sky Maiden",
@@ -67058,7 +67065,7 @@
     "culture": "Baganda (Ganda)",
     "type": "spirit",
     "mythology": "Baganda mythology",
-    "archetype": "Death Bringer / Divine Punisher",
+    "archetype": "death-deity",
     "element": "shadow / void",
     "aliases": [
       "Warumbe",
@@ -67148,7 +67155,7 @@
     "culture": "Bahraini",
     "type": "jinn",
     "mythology": "Bahraini / Gulf Arabian",
-    "archetype": "monstrous-hybrid",
+    "archetype": "monster",
     "element": "earth",
     "aliases": [
       "Um Hmaar",
@@ -67629,7 +67636,7 @@
     "culture": "USA",
     "type": "serpent",
     "mythology": "Lakota",
-    "archetype": "primordial-monster",
+    "archetype": "monster",
     "element": "water",
     "aliases": [
       "unhcegila"
@@ -67705,7 +67712,7 @@
     "culture": "Cherokee",
     "type": "spirit-animal",
     "mythology": "Cherokee",
-    "archetype": "owl-spirit",
+    "archetype": "spirit",
     "element": "air",
     "aliases": [
       "Uku",
@@ -67877,7 +67884,7 @@
     "culture": "Hawaii",
     "type": "hero",
     "mythology": "Hawaii",
-    "archetype": "chief",
+    "archetype": "ruler",
     "element": "spirit",
     "aliases": [
       "'Umi-a-Liloa",
@@ -67953,7 +67960,7 @@
     "culture": "Altai",
     "type": "deity",
     "mythology": "Altai",
-    "archetype": "god-of-goodness",
+    "archetype": "deity",
     "element": "light",
     "aliases": [
       "Ülgen",
@@ -68571,7 +68578,7 @@
     "description": "Fijian trickster spirit. Creates mischief, steals food, leads travelers astray. Can be helpful if given kava. Known for clever pranks. Behavior includes trickster, trick, helpful, steal.",
     "appearance": "Possesses stealth, shapeshifting.",
     "behavior": "Mischief, steals food, leads astray. Helpful with kava.",
-    "habitat": "Fiji",
+    "habitat": "Fijian wilderness, forests, and coastal villages",
     "habitat_tags": [
       "Fijian wilderness",
       "Fijian villages",
@@ -70500,7 +70507,7 @@
     "culture": "Basotho (Sotho)",
     "type": "monster",
     "mythology": "Basotho mythology",
-    "archetype": "Devouring Monster",
+    "archetype": "monster",
     "element": "earth",
     "aliases": [
       "Gaping-Mouthed Bush Monster",
@@ -75441,7 +75448,7 @@
     "culture": "Chewa, Tumbuka, Yao",
     "type": "trickster",
     "mythology": "Malawian folklore",
-    "archetype": "Animal Trickster",
+    "archetype": "trickster",
     "element": "air",
     "aliases": [
       "Kalulu",
@@ -75535,7 +75542,7 @@
     "culture": "Tunisian",
     "type": "spirit",
     "mythology": "Tunisian folklore",
-    "archetype": "Enchanted Island Spirits",
+    "archetype": "spirit",
     "element": "water",
     "aliases": [
       "Kerkennah Spirits",
@@ -75714,7 +75721,7 @@
     "culture": "Purari Delta, Papuan Gulf",
     "type": "monster",
     "mythology": "Papua New Guinea",
-    "archetype": "ritual-beast",
+    "archetype": "monster",
     "element": "earth",
     "aliases": [
       "Kaiaimunu",
@@ -75795,7 +75802,7 @@
     "culture": "Eastern Solomon Islands (Santa Ana)",
     "type": "spirit",
     "mythology": "Solomon Islands",
-    "archetype": "tutelary-spirit",
+    "archetype": "guardian",
     "element": "water",
     "aliases": [
       "Karemanua",
@@ -75875,7 +75882,7 @@
     "culture": "Montenegrin (South Slavic)",
     "type": "spirit",
     "mythology": "Slavic",
-    "archetype": "night-demon",
+    "archetype": "demon",
     "element": "shadow",
     "aliases": [
       "Karakondzola",
@@ -76303,7 +76310,7 @@
     "culture": "Finnish",
     "type": "human",
     "mythology": "Finnish",
-    "archetype": "tragic-outcast",
+    "archetype": "hero",
     "element": "earth",
     "aliases": [],
     "related": [
@@ -77241,7 +77248,7 @@
     "culture": "USA",
     "type": "deity",
     "mythology": "Blackfoot",
-    "archetype": "earth-mother",
+    "archetype": "earth-goddess",
     "element": "earth",
     "aliases": [
       "kipitaakii"
@@ -77314,7 +77321,7 @@
     "culture": "USA",
     "type": "deity",
     "mythology": "Blackfoot",
-    "archetype": "moon-goddess",
+    "archetype": "celestial",
     "element": "water",
     "aliases": [
       "ko'komiki'somm"
@@ -77549,7 +77556,7 @@
     "culture": "Choctaw",
     "type": "monster",
     "mythology": "Choctaw",
-    "archetype": "swamp-spirit",
+    "archetype": "nature-spirit",
     "element": "earth",
     "aliases": [
       "Kashehotapalo",
@@ -77631,7 +77638,7 @@
     "culture": "Choctaw",
     "type": "spirit",
     "mythology": "Choctaw",
-    "archetype": "testing-spirit",
+    "archetype": "spirit",
     "element": "earth",
     "aliases": [
       "Kwanokasha",
@@ -77787,7 +77794,7 @@
     "culture": "Haida",
     "mythology": "Haida",
     "type": "spirit-animal",
-    "archetype": "winter-spirit",
+    "archetype": "spirit",
     "element": "water",
     "aliases": [
       "ice woman",
@@ -77939,7 +77946,7 @@
     "culture": "Tlingit",
     "mythology": "Tlingit",
     "type": "spirit-animal",
-    "archetype": "shape-shifter",
+    "archetype": "shapeshifter",
     "element": "water",
     "aliases": [
       "kooshdaa kaa",
@@ -78167,7 +78174,7 @@
     "culture": "Fulani",
     "type": "spirit",
     "mythology": "Fulani",
-    "archetype": "primordial-shepherd",
+    "archetype": "culture-hero",
     "element": "earth",
     "aliases": [
       "Koumen",
@@ -78254,7 +78261,7 @@
     "culture": "Kongo",
     "type": "spirit",
     "mythology": "Kongo",
-    "archetype": "Witchcraft Spirit / Occult Power",
+    "archetype": "spirit",
     "element": "shadow",
     "aliases": [
       "Kindoki",
@@ -78330,7 +78337,7 @@
     "culture": "Luba",
     "type": "culture-hero",
     "mythology": "Luba",
-    "archetype": "Epic Hero / Sacred Emperor",
+    "archetype": "epic-hero",
     "element": "fire",
     "aliases": [
       "Kalala Ilunga",
@@ -78410,7 +78417,7 @@
     "culture": "Ganda",
     "type": "deity",
     "mythology": "Ganda",
-    "archetype": "War God / Divine Warrior",
+    "archetype": "war-god",
     "element": "fire",
     "aliases": [
       "Kibuka",
@@ -78488,7 +78495,7 @@
     "culture": "Chaga",
     "type": "spirit",
     "mythology": "Chaga",
-    "archetype": "Mountain Spirits / Nature Guardians",
+    "archetype": "nature-spirit",
     "element": "earth",
     "aliases": [
       "Warimu",
@@ -78863,7 +78870,7 @@
     "culture": "Solomon Islands",
     "type": "deity",
     "mythology": "Solomon Islands",
-    "archetype": "creator",
+    "archetype": "creator-god",
     "element": "earth",
     "aliases": [
       "Kahausibware",
@@ -79386,7 +79393,7 @@
     "culture": "Kazakh",
     "type": "folk-hero",
     "mythology": "Kazakh",
-    "archetype": "sage-musician",
+    "archetype": "deity",
     "element": "spirit",
     "aliases": [
       "Dede Korkut",
@@ -79540,7 +79547,7 @@
     "culture": "Tatar",
     "type": "serpent",
     "mythology": "Tatar",
-    "archetype": "mythical-reptile",
+    "archetype": "sacred-animal",
     "element": "water",
     "aliases": [
       "Kazan Dragon",
@@ -80109,7 +80116,7 @@
     "culture": "indonesian",
     "type": "giant",
     "mythology": "Indonesian",
-    "archetype": "strongman",
+    "archetype": "warrior",
     "element": "earth",
     "aliases": [
       "kebo iwa",
@@ -80276,7 +80283,7 @@
     "culture": "Lao",
     "type": "culture-hero",
     "mythology": "Lao",
-    "archetype": "divine-king",
+    "archetype": "ruler",
     "element": "air",
     "aliases": [
       "khun borom",
@@ -80520,7 +80527,7 @@
     "culture": "Hindu",
     "type": "serpent",
     "mythology": "Hindu",
-    "archetype": "water spirit",
+    "archetype": "water-spirit",
     "element": "water",
     "aliases": [
       "Kaliya",
@@ -80608,7 +80615,7 @@
     "culture": "Sri Lankan Sinhalese",
     "type": "spirit",
     "mythology": "Sri Lankan",
-    "archetype": "spirit queen",
+    "archetype": "spirit",
     "element": "earth",
     "aliases": [
       "Kuveni",
@@ -80690,7 +80697,7 @@
     "culture": "Sri Lankan Sinhalese",
     "type": "deity",
     "mythology": "Sri Lankan",
-    "archetype": "war deity",
+    "archetype": "war-god",
     "element": "fire",
     "aliases": [
       "Kataragama",
@@ -80772,7 +80779,7 @@
     "culture": "Maldivian",
     "type": "demon",
     "mythology": "Maldivian",
-    "archetype": "water spirit",
+    "archetype": "water-spirit",
     "element": "water",
     "aliases": [
       "Kan'du Fureytha",
@@ -81011,7 +81018,7 @@
     "culture": "Kurdish",
     "type": "serpent",
     "mythology": "Kurdish mythology",
-    "archetype": "queen",
+    "archetype": "ruler",
     "element": "earth",
     "aliases": [
       "Şahmeran",
@@ -81193,7 +81200,8 @@
     "living_tradition": false,
     "source_type": "oral_tradition",
     "source_quality": "good",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "archetype": "demonic-entity"
   },
   {
     "id": "mali-kanaga-0005",
@@ -87682,7 +87690,7 @@
     "culture": "Sami",
     "type": "spirit",
     "mythology": "Sami",
-    "archetype": "restless-soul",
+    "archetype": "ghost",
     "element": "water",
     "aliases": [
       "Čáhcerávga"
@@ -88502,7 +88510,7 @@
     "culture": "Cherokee",
     "type": "spirit",
     "mythology": "Cherokee",
-    "archetype": "death-demon",
+    "archetype": "death-deity",
     "element": "air",
     "aliases": [
       "Kâ'lanû Ahkyeli'skï",
@@ -88763,7 +88771,7 @@
     "culture": "Chaga",
     "type": "deity",
     "mythology": "Chaga",
-    "archetype": "Sun God / Supreme Being",
+    "archetype": "sun-god",
     "element": "fire",
     "aliases": [
       "Ruwa",
@@ -88841,7 +88849,7 @@
     "culture": "Fijian",
     "type": "deity",
     "mythology": "Fijian",
-    "archetype": "god",
+    "archetype": "deity",
     "element": "earth",
     "aliases": [
       "Ratu-Mai-Mbula",
@@ -88986,7 +88994,7 @@
     "culture": "Maori",
     "type": "deity",
     "mythology": "New Zealand",
-    "archetype": "agriculture-god",
+    "archetype": "fertility-deity",
     "element": "earth",
     "aliases": [
       "Rongo",
@@ -89063,7 +89071,7 @@
     "culture": "Cook Islands",
     "type": "deity",
     "mythology": "Cook Islands",
-    "archetype": "agriculture-god",
+    "archetype": "fertility-deity",
     "element": "earth",
     "aliases": [
       "Rongo",
@@ -89137,7 +89145,7 @@
     "culture": "indonesian",
     "type": "spirit",
     "mythology": "Indonesian",
-    "archetype": "tragic-princess",
+    "archetype": "ruler",
     "element": "earth",
     "aliases": [
       "roro jonggrang",
@@ -89217,7 +89225,7 @@
     "culture": "indonesian",
     "type": "demon",
     "mythology": "Indonesian",
-    "archetype": "witch-queen",
+    "archetype": "ruler",
     "element": "shadow",
     "aliases": [
       "rangda",
@@ -89300,7 +89308,7 @@
     "culture": "Sri Lankan Sinhalese",
     "type": "demon",
     "mythology": "Sri Lankan",
-    "archetype": "wrathful spirit",
+    "archetype": "demonic-entity",
     "element": "death",
     "aliases": [
       "Riri Yakka",
@@ -89386,7 +89394,7 @@
     "culture": "Maldivian",
     "type": "demon",
     "mythology": "Maldivian",
-    "archetype": "water spirit",
+    "archetype": "water-spirit",
     "element": "water",
     "aliases": [
       "Rannamaari",
@@ -89695,7 +89703,8 @@
     "living_tradition": false,
     "source_type": "literary",
     "source_quality": "expert",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "archetype": "spirit"
   },
   {
     "id": "mv-rannamaari-0001",
@@ -91860,7 +91869,7 @@
     "culture": "Kittitian",
     "type": "spirit",
     "mythology": "Caribbean",
-    "archetype": "lover-spirit",
+    "archetype": "spirit",
     "element": "light",
     "aliases": [
       "green flash spirit",
@@ -94561,7 +94570,7 @@
     "culture": "Berber (Amazigh) - Laguatan",
     "type": "deity",
     "mythology": "Berber mythology",
-    "archetype": "War God",
+    "archetype": "war-god",
     "element": "fire",
     "aliases": [
       "Gurzil",
@@ -94652,7 +94661,7 @@
     "culture": "Berber (Amazigh) - Garamante",
     "type": "giant",
     "mythology": "Berber mythology",
-    "archetype": "Ancestral Giants",
+    "archetype": "giant",
     "element": "earth",
     "aliases": [
       "Garamante",
@@ -94748,7 +94757,7 @@
     "culture": "Kemak",
     "type": "animal",
     "mythology": "East Timor",
-    "archetype": "creation-beast",
+    "archetype": "monster",
     "element": "water",
     "aliases": [
       "Whale of the Deluge",
@@ -94826,7 +94835,7 @@
     "culture": "Arab (Bedouin)",
     "type": "spirit",
     "mythology": "Arabian",
-    "archetype": "shapeshifting-demon",
+    "archetype": "demon",
     "element": "shadow",
     "aliases": [
       "Ghul",
@@ -94915,7 +94924,7 @@
     "culture": "Mandinka",
     "type": "spirit",
     "mythology": "Mandinka",
-    "archetype": "jealous-spirit",
+    "archetype": "demonic-entity",
     "element": "spirit",
     "aliases": [
       "Spirit Husband",
@@ -95106,7 +95115,7 @@
     "culture": "Mandinka",
     "type": "animal",
     "mythology": "Mandinka",
-    "archetype": "sacred-guardian",
+    "archetype": "guardian",
     "element": "water",
     "aliases": [
       "Kachikally Crocodile Spirits",
@@ -95198,7 +95207,7 @@
     "culture": "Mandinka",
     "type": "spirit",
     "mythology": "Mandinka",
-    "archetype": "initiation-spirit",
+    "archetype": "spirit",
     "element": "spirit",
     "aliases": [
       "Wuleng Wulengo",
@@ -95292,7 +95301,7 @@
     "culture": "Mandinka / Wolof / Islamic",
     "type": "spirit",
     "mythology": "Arab-Islamic / West African",
-    "archetype": "Shapeshifter",
+    "archetype": "shapeshifter",
     "element": "fire",
     "aliases": [
       "Genie",
@@ -95390,7 +95399,7 @@
     "culture": "Gambian / Syncretic",
     "type": "water-spirit",
     "mythology": "West African",
-    "archetype": "Seductress",
+    "archetype": "seducer",
     "element": "water",
     "aliases": [
       "Water Mother",
@@ -95475,7 +95484,7 @@
     "culture": "Mandinka",
     "type": "nature-spirit",
     "mythology": "Mandinka",
-    "archetype": "Trickster / Guardian",
+    "archetype": "trickster",
     "element": "earth-air",
     "aliases": [
       "Bush Spirit",
@@ -96025,7 +96034,7 @@
     "culture": "USA",
     "type": "creator-deity",
     "mythology": "Comanche",
-    "archetype": "high-god",
+    "archetype": "supreme-being",
     "element": "spirit",
     "aliases": [
       "great spirit"
@@ -96182,7 +96191,7 @@
     "culture": "Ojibwe",
     "type": "spirit-animal",
     "mythology": "Ojibwe",
-    "archetype": "mythical-animal",
+    "archetype": "sacred-animal",
     "element": "air",
     "aliases": [
       "Ojiig",
@@ -96530,7 +96539,7 @@
     "culture": "Cherokee",
     "type": "spirit",
     "mythology": "Cherokee",
-    "archetype": "earth-shaper",
+    "archetype": "culture-hero",
     "element": "air",
     "aliases": [
       "Great Buzzard",
@@ -96605,7 +96614,7 @@
     "culture": "Haida",
     "mythology": "Haida",
     "type": "spirit-animal",
-    "archetype": "tide-spirit",
+    "archetype": "water-spirit",
     "element": "water",
     "aliases": [
       "flood-tide-woman",
@@ -96755,7 +96764,7 @@
     "culture": "Kwakwaka'wakw",
     "mythology": "Kwakwaka'wakw",
     "type": "spirit-animal",
-    "archetype": "cannibal-bird",
+    "archetype": "cannibal-demon",
     "element": "air",
     "aliases": [
       "crooked-beak of heaven",
@@ -97082,7 +97091,7 @@
     "culture": "Khoikhoi",
     "type": "deity",
     "mythology": "Khoikhoi",
-    "archetype": "evil-deity",
+    "archetype": "demonic-entity",
     "element": "darkness",
     "aliases": [
       "//Gaunab",
@@ -97363,7 +97372,7 @@
     "culture": "Fulani",
     "type": "serpent",
     "mythology": "Fulani",
-    "archetype": "sacred-serpent",
+    "archetype": "serpent",
     "element": "water",
     "aliases": [
       "Galamani",
@@ -97445,7 +97454,7 @@
     "culture": "Kikuyu",
     "type": "human",
     "mythology": "Kikuyu",
-    "archetype": "First Man / Ancestor",
+    "archetype": "culture-hero",
     "element": "earth",
     "aliases": [
       "Gikuyu",
@@ -97823,7 +97832,7 @@
     "culture": "Tibetan",
     "type": "hero",
     "mythology": "Tibetan",
-    "archetype": "epic-king",
+    "archetype": "epic-hero",
     "element": "light",
     "aliases": [
       "gesar",
@@ -97995,7 +98004,7 @@
     "culture": "Sri Lankan Sinhalese",
     "type": "demon",
     "mythology": "Sri Lankan",
-    "archetype": "disease spirit",
+    "archetype": "sea-spirit",
     "element": "death",
     "aliases": [
       "Gara Yaksha",
@@ -98156,7 +98165,7 @@
     "culture": "European",
     "type": "giant",
     "mythology": "European",
-    "archetype": "primordial-being",
+    "archetype": "supreme-being",
     "element": "earth",
     "aliases": [
       "giant",
@@ -98448,7 +98457,8 @@
     "living_tradition": false,
     "source_type": "literary",
     "source_quality": "expert",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "archetype": "demonic-entity"
   },
   {
     "id": "myanmar-galone-0004",
@@ -98459,7 +98469,7 @@
     "culture": "Burmese",
     "type": "humanoid",
     "mythology": "Burmese",
-    "archetype": "servant",
+    "archetype": "guide",
     "element": "air",
     "aliases": [
       "garuda"
@@ -104800,7 +104810,7 @@
     "culture": "Lamba, Bemba",
     "type": "serpent",
     "mythology": "Lamba mythology",
-    "archetype": "Giant Water Serpent",
+    "archetype": "serpent",
     "element": "water",
     "aliases": [
       "Funkwe Guardian",
@@ -104893,7 +104903,7 @@
     "culture": "Lebanese / Arabian",
     "type": "serpent",
     "mythology": "Arabian / Islamic Cosmology",
-    "archetype": "apocalyptic-serpent",
+    "archetype": "serpent",
     "element": "fire",
     "aliases": [
       "Falak",
@@ -104983,7 +104993,7 @@
     "culture": "Icelandic",
     "type": "spirit",
     "mythology": "Icelandic",
-    "archetype": "enchanter",
+    "archetype": "deity",
     "element": "nature",
     "aliases": [
       "Wood Sprite",
@@ -105063,7 +105073,7 @@
     "culture": "Faroe Islands",
     "type": "human",
     "mythology": "Faroe Islands",
-    "archetype": "sage",
+    "archetype": "deity",
     "element": "air",
     "aliases": [
       "finnur hin frodi",
@@ -105537,7 +105547,7 @@
     "culture": "USA",
     "type": "creator-deity",
     "mythology": "Arapaho",
-    "archetype": "high-god",
+    "archetype": "supreme-being",
     "element": "spirit",
     "aliases": [
       "flat pipe creator"
@@ -105842,7 +105852,7 @@
     "culture": "African American",
     "mythology": "African American",
     "type": "monster",
-    "archetype": "transformed-human",
+    "archetype": "shapeshifter",
     "element": "air",
     "aliases": [
       "Igbo Landing spirits",
@@ -105923,7 +105933,7 @@
     "culture": "Mande",
     "type": "spirit",
     "mythology": "Mande",
-    "archetype": "hunter-hero",
+    "archetype": "hero",
     "element": "earth",
     "aliases": [
       "Fara Makan",
@@ -106005,7 +106015,7 @@
     "culture": "Mongol",
     "type": "ancestor-spirit",
     "mythology": "Mongol",
-    "archetype": "totem-animal",
+    "archetype": "animal-spirit",
     "element": "spirit",
     "aliases": [
       "Ghoa Maral",
@@ -106084,7 +106094,7 @@
     "culture": "indonesian",
     "type": "spirit",
     "mythology": "Indonesian",
-    "archetype": "transformed-wife",
+    "archetype": "shapeshifter",
     "element": "water",
     "aliases": [
       "fish wife of lake toba",
@@ -106263,7 +106273,8 @@
     "living_tradition": false,
     "source_type": "literary",
     "source_quality": "good",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "archetype": "spirit"
   },
   {
     "id": "china-fenghuang-0005",
@@ -120124,7 +120135,7 @@
     "culture": "Comorian",
     "type": "spirit",
     "mythology": "Comorian folklore",
-    "archetype": "Sea Djinn",
+    "archetype": "demonic-entity",
     "element": "water",
     "aliases": [
       "Guardian of the Sea Garden",
@@ -120220,7 +120231,7 @@
     "culture": "Basotho (Sotho)",
     "type": "ghost",
     "mythology": "Basotho mythology",
-    "archetype": "Restless Ancestors",
+    "archetype": "ancestral-spirit",
     "element": "spirit",
     "aliases": [
       "Matsatsi",
@@ -120317,7 +120328,7 @@
     "culture": "Mauritanian (Moorish, Hassaniyya)",
     "type": "jinn",
     "mythology": "Mauritanian Islamic folklore",
-    "archetype": "Desert Spirits",
+    "archetype": "desert-spirit",
     "element": "fire",
     "aliases": [
       "Jenun",
@@ -120413,7 +120424,7 @@
     "culture": "Mauritanian (Moorish, Hassaniyya)",
     "type": "undead",
     "mythology": "Mauritanian Islamic folklore",
-    "archetype": "Desert Cannibal Spirit",
+    "archetype": "desert-spirit",
     "element": "earth",
     "aliases": [
       "Al-Ghul",
@@ -120507,7 +120518,7 @@
     "culture": "Makonde, Swahili",
     "type": "spirit",
     "mythology": "Makonde mythology",
-    "archetype": "Malevolent Spirit",
+    "archetype": "demonic-entity",
     "element": "spirit",
     "aliases": [
       "Mashetani",
@@ -120599,7 +120610,7 @@
     "culture": "Tunisian",
     "type": "spirit",
     "mythology": "Tunisian Islamic folklore",
-    "archetype": "Blessed Saint Spirit",
+    "archetype": "spirit",
     "element": "water",
     "aliases": [
       "Sidi Bou Said Well",
@@ -121046,7 +121057,7 @@
     "culture": "Panamanian (Indigenous)",
     "type": "spirit",
     "mythology": "Panama",
-    "archetype": "vengeful-spirit",
+    "archetype": "demonic-entity",
     "element": "air",
     "aliases": [
       "La Silampa",
@@ -121134,7 +121145,7 @@
     "culture": "Turkmen (Oghuz Turkic)",
     "type": "animal",
     "mythology": "Turkmen",
-    "archetype": "mythical-bird",
+    "archetype": "sacred-animal",
     "element": "air",
     "aliases": [
       "Simurg",
@@ -121386,7 +121397,7 @@
     "culture": "Wolof / Lebou",
     "type": "spirit",
     "mythology": "Wolof",
-    "archetype": "fairy-spirit",
+    "archetype": "spirit",
     "element": "spirit",
     "aliases": [
       "Bakhna Rakhna",
@@ -121479,7 +121490,7 @@
     "culture": "Mandinka / Bambara / Mandé",
     "type": "deity",
     "mythology": "Mandé",
-    "archetype": "water-god",
+    "archetype": "deity",
     "element": "water",
     "aliases": [
       "Faro the Purifier",
@@ -121667,7 +121678,7 @@
     "culture": "Serer",
     "type": "spirit",
     "mythology": "Senegalese Folklore",
-    "archetype": "Intermediary",
+    "archetype": "guide",
     "element": "spirit",
     "aliases": [
       "Pangool",
@@ -121758,7 +121769,7 @@
     "culture": "Serer",
     "type": "spirit",
     "mythology": "Senegalese Folklore",
-    "archetype": "Guardian",
+    "archetype": "guardian",
     "element": "water",
     "aliases": [
       "Mindis"
@@ -121847,7 +121858,7 @@
     "culture": "Senegalese (General West African)",
     "type": "water-spirit",
     "mythology": "Senegalese Folklore",
-    "archetype": "Seductress",
+    "archetype": "seducer",
     "element": "water",
     "aliases": [
       "Mother Water",
@@ -121937,7 +121948,7 @@
     "culture": "Wolof",
     "type": "spirit",
     "mythology": "Senegalese Folklore",
-    "archetype": "Trickster",
+    "archetype": "trickster",
     "element": "earth",
     "aliases": [
       "The Mythical Hyena"
@@ -122033,7 +122044,7 @@
     "culture": "Serer",
     "type": "spirit",
     "mythology": "Senegalese Folklore",
-    "archetype": "Judge",
+    "archetype": "judge",
     "element": "spirit",
     "aliases": [
       "Taahkarr"
@@ -122127,7 +122138,7 @@
     "culture": "Somali",
     "type": "demon",
     "mythology": "Somali Folklore",
-    "archetype": "Monster",
+    "archetype": "monster",
     "element": "fire",
     "aliases": [
       "The Long-Eared One",
@@ -122218,7 +122229,7 @@
     "culture": "Somali/Islamic",
     "type": "spirit",
     "mythology": "Somali Folklore",
-    "archetype": "Hidden Dweller",
+    "archetype": "hidden-people",
     "element": "fire-air",
     "aliases": [
       "The Invisible Ones",
@@ -122309,7 +122320,7 @@
     "culture": "Somali Maritime",
     "type": "beast",
     "mythology": "Coastal Folklore",
-    "archetype": "Ocean Terror",
+    "archetype": "sea-monster",
     "element": "water",
     "aliases": [
       "The Abyss-Dweller",
@@ -122396,7 +122407,7 @@
     "culture": "Somali",
     "type": "shapeshifter",
     "mythology": "Somali mythology",
-    "archetype": "Hyena-Man / Werehyena",
+    "archetype": "shapeshifter",
     "element": "darkness",
     "aliases": [
       "Hyena-Man",
@@ -122482,7 +122493,7 @@
     "culture": "Somali",
     "type": "spirit",
     "mythology": "Somali mythology",
-    "archetype": "Redeemed Monster / Friendly Demon",
+    "archetype": "demon",
     "element": "light",
     "aliases": [
       "Bruuti",
@@ -122565,7 +122576,7 @@
     "culture": "Dinka / Nuer",
     "type": "goddess",
     "mythology": "Dinka mythology",
-    "archetype": "First Woman / Garden Goddess",
+    "archetype": "mother-goddess",
     "element": "earth / moon",
     "aliases": [
       "Buk",
@@ -122657,7 +122668,7 @@
     "culture": "Dinka / Nuer",
     "type": "human",
     "mythology": "Dinka mythology",
-    "archetype": "First Man",
+    "archetype": "culture-hero",
     "element": "earth",
     "aliases": [
       "Garang the First Man"
@@ -122744,7 +122755,7 @@
     "culture": "Dinka",
     "type": "spirit",
     "mythology": "Dinka mythology",
-    "archetype": "Death Spirit / Shadow Being",
+    "archetype": "death-spirit",
     "element": "shadow / void",
     "aliases": [
       "Beeton",
@@ -122830,7 +122841,7 @@
     "culture": "Seychellois Creole",
     "type": "trickster",
     "mythology": "Seychellois Creole folklore",
-    "archetype": "Trickster Hare",
+    "archetype": "trickster",
     "element": "air",
     "aliases": [
       "Sougoula",
@@ -122922,7 +122933,7 @@
     "culture": "Seychellois Creole",
     "type": "spirit",
     "mythology": "Seychellois Creole folklore",
-    "archetype": "Forest Imp / Mischief Spirit",
+    "archetype": "trickster",
     "element": "earth / darkness",
     "aliases": [
       "Tizan the Forest Dwarf",
@@ -123010,7 +123021,7 @@
     "culture": "Seychellois Creole",
     "type": "serpent",
     "mythology": "Seychellois Creole folklore",
-    "archetype": "Dragon / Serpent Guardian",
+    "archetype": "dragon-serpent",
     "element": "earth",
     "aliases": [
       "Bigorn the Serpent",
@@ -123097,7 +123108,7 @@
     "culture": "Seychellois Creole",
     "type": "spirit",
     "mythology": "Seychellois Creole folklore",
-    "archetype": "Reanimated Corpse / Dark Spirit",
+    "archetype": "spirit",
     "element": "darkness / death",
     "aliases": [
       "Zombi",
@@ -123282,7 +123293,7 @@
     "culture": "Iraqi / Persian",
     "type": "mythical-horse",
     "mythology": "Perso-Arabic",
-    "archetype": "mythical-herbivore",
+    "archetype": "sacred-animal",
     "element": "air",
     "aliases": [
       "Shadhawar",
@@ -123377,7 +123388,7 @@
     "culture": "Iraqi (Shammar)",
     "type": "demon",
     "mythology": "Iraqi / Mesopotamian",
-    "archetype": "desert-demon",
+    "archetype": "demon",
     "element": "earth",
     "aliases": [
       "Se'ir",
@@ -123553,7 +123564,7 @@
     "culture": "Saudi Arabian / Bedouin",
     "type": "shapeshifter",
     "mythology": "Arabian / Pre-Islamic",
-    "archetype": "female-jinn",
+    "archetype": "demonic-entity",
     "element": "fire",
     "aliases": [
       "Si'lah",
@@ -123651,7 +123662,7 @@
     "culture": "Saudi Arabian / Bedouin",
     "type": "werewolf",
     "mythology": "Arabian / Bedouin",
-    "archetype": "she-wolf",
+    "archetype": "animal-spirit",
     "element": "earth",
     "aliases": [
       "Salu'ah",
@@ -123741,7 +123752,7 @@
     "culture": "Sweden",
     "type": "elf",
     "mythology": "Norse mythology and Swedish folklore",
-    "archetype": "dark-elf",
+    "archetype": "demonic-entity",
     "element": "shadow",
     "aliases": [
       "Svartálfr",
@@ -123852,7 +123863,7 @@
     "culture": "Icelandic",
     "type": "undead",
     "mythology": "Icelandic",
-    "archetype": "mariner-ghost",
+    "archetype": "ghost",
     "element": "water",
     "aliases": [
       "Havdraug",
@@ -123933,7 +123944,7 @@
     "culture": "Icelandic",
     "type": "beast",
     "mythology": "Icelandic",
-    "archetype": "oracle",
+    "archetype": "deity",
     "element": "water",
     "aliases": [
       "Talking Salmon",
@@ -124010,7 +124021,7 @@
     "culture": "Icelandic",
     "type": "spirit",
     "mythology": "Icelandic",
-    "archetype": "guide-trickster",
+    "archetype": "trickster",
     "element": "water",
     "aliases": [
       "The Black Sand Child",
@@ -124087,7 +124098,7 @@
     "culture": "Greenlandic",
     "type": "deity",
     "mythology": "Inuit",
-    "archetype": "sea-mother",
+    "archetype": "water-spirit",
     "element": "water",
     "aliases": [
       "Nerrivik",
@@ -124183,7 +124194,7 @@
     "culture": "Greenlandic",
     "type": "spirit",
     "mythology": "Inuit",
-    "archetype": "lost-soul",
+    "archetype": "ghost",
     "element": "sky",
     "aliases": [
       "Orion's Belt Hunters"
@@ -124270,7 +124281,7 @@
     "culture": "Sami",
     "type": "giant",
     "mythology": "Sami",
-    "archetype": "trickster-victim",
+    "archetype": "trickster",
     "element": "earth",
     "aliases": [
       "Stállu",
@@ -124640,7 +124651,7 @@
     "culture": "Åland",
     "type": "witch",
     "mythology": "Åland folklore",
-    "archetype": "weather-witch",
+    "archetype": "witch",
     "element": "air",
     "aliases": [
       "storm witch",
@@ -124758,7 +124769,7 @@
     "culture": "Navajo",
     "type": "spirit",
     "mythology": "Navajo",
-    "archetype": "wisdom-figure",
+    "archetype": "deity",
     "element": "earth",
     "aliases": [
       "spider woman"
@@ -124845,7 +124856,7 @@
     "culture": "Navajo",
     "type": "spirit",
     "mythology": "Navajo",
-    "archetype": "wisdom-figure",
+    "archetype": "deity",
     "element": "earth",
     "aliases": [
       "spider man"
@@ -125082,7 +125093,7 @@
     "culture": "Hopi",
     "type": "spirit",
     "mythology": "Hopi",
-    "archetype": "wisdom-figure",
+    "archetype": "deity",
     "element": "earth",
     "aliases": [
       "spider grandmother (spider woman)"
@@ -125749,7 +125760,7 @@
     "culture": "USA",
     "type": "demon",
     "mythology": "Comanche",
-    "archetype": "evil-spirit",
+    "archetype": "demonic-entity",
     "element": "shadow",
     "aliases": [
       "shape-shifting demon"
@@ -125892,7 +125903,7 @@
     "culture": "USA",
     "type": "spirit",
     "mythology": "Crow",
-    "archetype": "celestial-spirits",
+    "archetype": "celestial",
     "element": "earth",
     "aliases": [
       "seven bison"
@@ -125965,7 +125976,7 @@
     "culture": "USA",
     "type": "spirit",
     "mythology": "Crow",
-    "archetype": "spirit-animals",
+    "archetype": "animal-spirit",
     "element": "earth",
     "aliases": [
       "seven rams"
@@ -126105,7 +126116,7 @@
     "culture": "USA",
     "type": "deity",
     "mythology": "Pawnee",
-    "archetype": "afterlife-deity",
+    "archetype": "death-deity",
     "element": "spirit",
     "aliases": [
       "south star"
@@ -126250,7 +126261,7 @@
     "culture": "USA",
     "type": "spirit",
     "mythology": "Arapaho",
-    "archetype": "celestial-spirits",
+    "archetype": "celestial",
     "element": "light",
     "aliases": [
       "sky spirits"
@@ -126394,7 +126405,7 @@
     "culture": "Iroquois",
     "type": "goddess",
     "mythology": "Iroquois",
-    "archetype": "primordial-mother",
+    "archetype": "mother-goddess",
     "element": "earth",
     "aliases": [
       "Atsi'tsaká:ion",
@@ -127052,7 +127063,7 @@
     "culture": "Kwakwaka'wakw",
     "mythology": "Kwakwaka'wakw",
     "type": "spirit-animal",
-    "archetype": "serpent-spirit",
+    "archetype": "serpent",
     "element": "water",
     "aliases": [
       "double-headed serpent",
@@ -127130,7 +127141,7 @@
     "culture": "Nuxalk",
     "mythology": "Nuxalk",
     "type": "spirit-animal",
-    "archetype": "helper",
+    "archetype": "guide",
     "element": "earth",
     "aliases": [
       "granddaughter of the creator",
@@ -127631,7 +127642,7 @@
     "culture": "Yoruba",
     "type": "deity",
     "mythology": "Yoruba",
-    "archetype": "sky-deity",
+    "archetype": "sky-god",
     "element": "fire",
     "aliases": [
       "Sango",
@@ -127797,7 +127808,7 @@
     "culture": "Fon (Dahomey)",
     "type": "deity",
     "mythology": "Fon (Dahomey)",
-    "archetype": "earth-deity",
+    "archetype": "deity",
     "element": "earth",
     "aliases": [
       "Sagbata",
@@ -127968,7 +127979,7 @@
     "culture": "Mande",
     "type": "spirit",
     "mythology": "Mande",
-    "archetype": "sorcerer-king",
+    "archetype": "ruler",
     "element": "spirit",
     "aliases": [
       "Soumaoro Kanté",
@@ -128054,7 +128065,7 @@
     "culture": "Mande",
     "type": "spirit",
     "mythology": "Mande",
-    "archetype": "heroine-mother",
+    "archetype": "hero",
     "element": "earth",
     "aliases": [
       "Sogolon Kedjou",
@@ -128139,7 +128150,7 @@
     "culture": "Ewe",
     "type": "spirit",
     "mythology": "Ewe",
-    "archetype": "divine-law",
+    "archetype": "deity",
     "element": "spirit",
     "aliases": [
       "Se",
@@ -128216,7 +128227,7 @@
     "culture": "Kongo",
     "type": "water-spirit",
     "mythology": "Kongo",
-    "archetype": "Water Spirits / Guardian Spirits",
+    "archetype": "water-spirit",
     "element": "water",
     "aliases": [
       "Simbi",
@@ -128299,7 +128310,7 @@
     "culture": "Luba",
     "type": "object",
     "mythology": "Luba",
-    "archetype": "Sacred Object / Royal Regalia",
+    "archetype": "ceremonial-object",
     "element": "earth",
     "aliases": [
       "Sacred Drum of the Luba",
@@ -128374,7 +128385,7 @@
     "culture": "Aboriginal Australian",
     "type": "spirit",
     "mythology": "Aboriginal Australian",
-    "archetype": "sky-being",
+    "archetype": "celestial",
     "element": "spirit",
     "aliases": [
       "Seven Sisters",
@@ -128453,7 +128464,7 @@
     "culture": "Samoa",
     "type": "deity",
     "mythology": "Samoa",
-    "archetype": "goddess",
+    "archetype": "deity",
     "element": "spirit",
     "aliases": [
       "Sina",
@@ -128820,7 +128831,7 @@
     "culture": "Evenki",
     "type": "human",
     "mythology": "Evenki",
-    "archetype": "shaman",
+    "archetype": "deity",
     "element": "spirit",
     "aliases": [
       "sodani",
@@ -128900,7 +128911,7 @@
     "culture": "Buryat",
     "type": "demon",
     "mythology": "Buryat",
-    "archetype": "evil-spirit",
+    "archetype": "demonic-entity",
     "element": "darkness",
     "aliases": [
       "shiktur",
@@ -129148,7 +129159,7 @@
     "culture": "indonesian",
     "type": "demigod",
     "mythology": "Indonesian",
-    "archetype": "tragic-hero",
+    "archetype": "hero",
     "element": "earth",
     "aliases": [
       "sangkuriang",
@@ -129312,7 +129323,7 @@
     "culture": "malaysian",
     "type": "dragon",
     "mythology": "Malaysian",
-    "archetype": "lake-dragon",
+    "archetype": "dragon",
     "element": "water",
     "aliases": [
       "seri gumum",
@@ -129473,7 +129484,7 @@
     "culture": "Hmong",
     "type": "culture-hero",
     "mythology": "Hmong",
-    "archetype": "shamanic-ancestor",
+    "archetype": "deity",
     "element": "air",
     "aliases": [
       "siv yis",
@@ -129638,7 +129649,7 @@
     "culture": "Sri Lankan Sinhalese",
     "type": "demon",
     "mythology": "Sri Lankan",
-    "archetype": "sorcery spirit",
+    "archetype": "spirit",
     "element": "air",
     "aliases": [
       "Suniya",
@@ -129804,7 +129815,7 @@
     "culture": "Munda (Adivasi)",
     "type": "supreme-deity",
     "mythology": "Munda tribal",
-    "archetype": "creator",
+    "archetype": "creator-god",
     "element": "air",
     "aliases": [
       "Singbonga",
@@ -130209,7 +130220,7 @@
     "culture": "Egyptian",
     "type": "deity",
     "mythology": "Egyptian mythology",
-    "archetype": "primordial-beast",
+    "archetype": "monster",
     "element": "water",
     "aliases": [
       "Sobk",
@@ -130432,7 +130443,7 @@
     "culture": "Greek/Egyptian",
     "type": "guardian",
     "mythology": "Greek/Egyptian",
-    "archetype": "gatekeeper",
+    "archetype": "guardian",
     "element": "earth",
     "aliases": [
       "sphinx",
@@ -130620,7 +130631,8 @@
     "living_tradition": false,
     "source_type": "literary",
     "source_quality": "expert",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "archetype": "demonic-entity"
   },
   {
     "id": "creature-finland-001",
@@ -130652,7 +130664,8 @@
     "living_tradition": false,
     "source_type": "literary",
     "source_quality": "good",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "archetype": "spirit"
   },
   {
     "id": "creature-finland-011",
@@ -130684,7 +130697,8 @@
     "living_tradition": false,
     "source_type": "literary",
     "source_quality": "expert",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "archetype": "demonic-entity"
   },
   {
     "id": "brazil-saci-perere-0001",
@@ -132385,7 +132399,7 @@
     "culture": "Sweden",
     "type": "beast",
     "mythology": "Swedish folklore",
-    "archetype": "gluttonous-beast",
+    "archetype": "monster",
     "element": "earth",
     "aliases": [
       "Gulon",
@@ -132483,7 +132497,7 @@
     "culture": "Sweden",
     "type": "giant",
     "mythology": "Swedish folklore",
-    "archetype": "primordial-giant",
+    "archetype": "giant",
     "element": "earth",
     "aliases": [
       "Jättar",
@@ -132599,7 +132613,7 @@
     "culture": "Finnish",
     "type": "human",
     "mythology": "Finnish",
-    "archetype": "arrogant-youth",
+    "archetype": "hero",
     "element": "earth",
     "aliases": [],
     "related": [
@@ -132816,7 +132830,7 @@
     "culture": "Sami",
     "type": "giant",
     "mythology": "Sami",
-    "archetype": "punisher",
+    "archetype": "deity",
     "element": "earth",
     "aliases": [
       "Juovlastállu",
@@ -132905,7 +132919,7 @@
     "culture": "Faroe Islands",
     "type": "serpent",
     "mythology": "Faroe Islands",
-    "archetype": "world-serpent",
+    "archetype": "serpent",
     "element": "water",
     "aliases": [
       "jormungandr",
@@ -133077,7 +133091,7 @@
     "culture": "African American",
     "mythology": "African American",
     "type": "spirit",
-    "archetype": "wandering-soul",
+    "archetype": "ghost",
     "element": "fire",
     "aliases": [
       "Jacky-My-Lantern",
@@ -133157,7 +133171,7 @@
     "culture": "African American",
     "mythology": "African American",
     "type": "object",
-    "archetype": "charm",
+    "archetype": "ceremonial-object",
     "element": "spirit",
     "aliases": [
       "Jack",
@@ -133317,7 +133331,7 @@
     "culture": "Kazakh",
     "type": "animal",
     "mythology": "Kazakh",
-    "archetype": "spirit-animal",
+    "archetype": "spirit",
     "element": "earth",
     "aliases": [
       "Zhelmaia",
@@ -133391,7 +133405,7 @@
     "culture": "Altai",
     "type": "spirit",
     "mythology": "Altai",
-    "archetype": "mountain-spirit",
+    "archetype": "nature-spirit",
     "element": "earth",
     "aliases": [
       "Jade Serpent",
@@ -133474,7 +133488,7 @@
     "culture": "indonesian",
     "type": "human",
     "mythology": "Indonesian",
-    "archetype": "trickster-lover",
+    "archetype": "trickster",
     "element": "earth",
     "aliases": [
       "jaka tarub",
@@ -133552,7 +133566,7 @@
     "culture": "Hindu",
     "type": "deity",
     "mythology": "Hindu",
-    "archetype": "wise figure",
+    "archetype": "deity",
     "element": "earth",
     "aliases": [
       "Jambavanta",
@@ -134603,7 +134617,7 @@
     "culture": "USA",
     "type": "trickster",
     "mythology": "Lakota",
-    "archetype": "spider-trickster",
+    "archetype": "trickster",
     "element": "spirit",
     "aliases": [
       "iktomi"
@@ -135774,7 +135788,7 @@
     "culture": "Algerian, Berber (Amazigh)",
     "type": "jinn",
     "mythology": "Algerian Islamic folklore",
-    "archetype": "Powerful Malevolent Jinn",
+    "archetype": "demonic-entity",
     "element": "fire",
     "aliases": [
       "Ifrit",
@@ -135870,7 +135884,7 @@
     "culture": "Baoulé (Baule)",
     "type": "spirit",
     "mythology": "Baoulé",
-    "archetype": "judge-deity",
+    "archetype": "judge",
     "element": "spirit",
     "aliases": [
       "Gbèkrè",
@@ -136147,7 +136161,7 @@
     "culture": "Akan (Baoulé/Agni)",
     "type": "trickster",
     "mythology": "Ivorian Folklore",
-    "archetype": "The Trickster",
+    "archetype": "trickster",
     "element": "air",
     "aliases": [
       "Kweku Anansi",
@@ -136238,7 +136252,7 @@
     "culture": "Coastal/Mixed",
     "type": "water-spirit",
     "mythology": "Ivorian Folklore",
-    "archetype": "The Temptress",
+    "archetype": "seducer",
     "element": "water",
     "aliases": [
       "Mother of Water",
@@ -136322,7 +136336,7 @@
     "culture": "Baoulé",
     "type": "spirit",
     "mythology": "Ivorian Folklore",
-    "archetype": "The Guardian",
+    "archetype": "guardian",
     "element": "earth-air",
     "aliases": [
       "Goli Entity",
@@ -136405,7 +136419,7 @@
     "culture": "Akan (Baoulé/Agni)",
     "type": "shapeshifter",
     "mythology": "Ivorian Folklore",
-    "archetype": "The Steward",
+    "archetype": "guardian",
     "element": "spirit",
     "aliases": [
       "Nature Genies",
@@ -136742,7 +136756,7 @@
     "culture": "Finnish",
     "type": "demigod",
     "mythology": "Finnish",
-    "archetype": "eternal-smith",
+    "archetype": "culture-hero",
     "element": "fire",
     "aliases": [
       "The Smith of the Sky"
@@ -137283,7 +137297,7 @@
     "culture": "Yoruba",
     "type": "spirit",
     "mythology": "Yoruba",
-    "archetype": "twin-deity",
+    "archetype": "deity",
     "element": "spirit",
     "aliases": [
       "Orisa Ibeji",
@@ -137520,7 +137534,7 @@
     "culture": "Cook Islands",
     "type": "deity",
     "mythology": "Cook Islands",
-    "archetype": "goddess",
+    "archetype": "deity",
     "element": "spirit",
     "aliases": [
       "Ina",
@@ -137593,7 +137607,7 @@
     "culture": "filipino",
     "type": "bird",
     "mythology": "Filipino",
-    "archetype": "magical-bird",
+    "archetype": "sacred-animal",
     "element": "air",
     "aliases": [
       "adarna bird",
@@ -137761,7 +137775,7 @@
     "culture": "Tunisian",
     "type": "serpent",
     "mythology": "Tunisian folklore",
-    "archetype": "primordial-beast",
+    "archetype": "monster",
     "element": "earth",
     "aliases": [
       "Ifriqiyan Serpent",
@@ -144971,7 +144985,7 @@
     "culture": "Swazi (Swati)",
     "type": "deity",
     "mythology": "Swazi mythology",
-    "archetype": "High God / Creator",
+    "archetype": "supreme-being",
     "element": "creation / sky",
     "aliases": [
       "Mvelincanti",
@@ -145053,7 +145067,7 @@
     "culture": "Swazi (Swati)",
     "type": "spirit",
     "mythology": "Swazi mythology",
-    "archetype": "Ancestral Guardians",
+    "archetype": "guardian",
     "element": "spirit",
     "aliases": [
       "Emadloti",
@@ -145136,7 +145150,7 @@
     "culture": "Swazi (Swati) / Nguni peoples",
     "type": "spirit",
     "mythology": "Swazi / Zulu / Xhosa folklore",
-    "archetype": "Water Dweller / Mischief Spirit",
+    "archetype": "trickster",
     "element": "water",
     "aliases": [
       "Tokoloshe",
@@ -145223,7 +145237,7 @@
     "culture": "Tunisian",
     "type": "serpent",
     "mythology": "Tunisian",
-    "archetype": "guardian-dragon",
+    "archetype": "dragon",
     "element": "earth",
     "aliases": [
       "El Jem",
@@ -145407,7 +145421,7 @@
     "culture": "Sami",
     "type": "spirit",
     "mythology": "Sami",
-    "archetype": "unquiet-dead",
+    "archetype": "ghost",
     "element": "earth",
     "aliases": [
       "Eahpáraš"
@@ -146134,7 +146148,7 @@
     "culture": "Mexico",
     "mythology": "Mexico",
     "type": "spirit",
-    "archetype": "vengeful-spirit",
+    "archetype": "demonic-entity",
     "element": "spirit",
     "aliases": [
       "El Silbón",
@@ -146217,7 +146231,7 @@
     "culture": "Hispanic",
     "mythology": "Mexican American",
     "type": "ghost",
-    "archetype": "headless-horseman",
+    "archetype": "demonic-entity",
     "element": "spirit",
     "aliases": [
       "El Jinete Sin Cabeza",
@@ -146299,7 +146313,7 @@
     "culture": "Yoruba",
     "type": "spirit",
     "mythology": "Yoruba",
-    "archetype": "spirit-society",
+    "archetype": "spirit",
     "element": "air",
     "aliases": [
       "Orisha Egbe",
@@ -146374,7 +146388,7 @@
     "culture": "Maasai",
     "type": "supreme-deity",
     "mythology": "Maasai",
-    "archetype": "High God / Creator",
+    "archetype": "supreme-being",
     "element": "sky",
     "aliases": [
       "Engai",
@@ -146456,7 +146470,7 @@
     "culture": "Mongol",
     "type": "deity",
     "mythology": "Mongol",
-    "archetype": "death-god",
+    "archetype": "death-deity",
     "element": "darkness",
     "aliases": [
       "Erlik Khan",
@@ -146532,7 +146546,7 @@
     "culture": "Altai",
     "type": "deity",
     "mythology": "Altai",
-    "archetype": "underworld-god",
+    "archetype": "death-deity",
     "element": "darkness",
     "aliases": [
       "Erlik",
@@ -146691,7 +146705,7 @@
     "culture": "Haitian Vodou",
     "type": "spirit",
     "mythology": "Haitian Vodou",
-    "archetype": "love-deity",
+    "archetype": "deity",
     "element": "water",
     "aliases": [
       "Erzulie Freda",
@@ -146806,7 +146820,8 @@
     "living_tradition": false,
     "source_type": "literary",
     "source_quality": "expert",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "archetype": "spirit"
   },
   {
     "id": "mongolia-erlik-0004",
@@ -147307,7 +147322,7 @@
     "culture": "Nauruan",
     "type": "spirit",
     "mythology": "Nauruan",
-    "archetype": "moon bride",
+    "archetype": "celestial",
     "element": "spirit",
     "aliases": [
       "the moon bride"
@@ -149634,7 +149649,7 @@
     "culture": "Assyrian-Babylonian",
     "type": "demon",
     "mythology": "Mesopotamian",
-    "archetype": "Guardian / Destroyer",
+    "archetype": "guardian",
     "element": "air",
     "aliases": [
       "Pazuzu",
@@ -154031,7 +154046,7 @@
     "culture": "South Slavic (Bosnian, Serbian, Montenegrin)",
     "type": "monster",
     "mythology": "Balkan / Slavic Mythology",
-    "archetype": "Demon / Ghoul",
+    "archetype": "demon",
     "element": "shadow",
     "aliases": [
       "Psoglavac",
@@ -155376,7 +155391,7 @@
     "culture": "Brunei Malay",
     "type": "ghost",
     "mythology": "Brunei",
-    "archetype": "vengeful-spirit",
+    "archetype": "demonic-entity",
     "element": "shadow",
     "aliases": [
       "Pontianak",
@@ -155462,7 +155477,7 @@
     "culture": "Singapore Malay",
     "type": "ghost",
     "mythology": "Singapore",
-    "archetype": "vengeful-spirit",
+    "archetype": "demonic-entity",
     "element": "shadow",
     "aliases": [
       "Pontianak",
@@ -156170,7 +156185,7 @@
     "culture": "USA",
     "type": "spirit",
     "mythology": "Blackfoot",
-    "archetype": "mediator-spirit",
+    "archetype": "spirit",
     "element": "spirit",
     "aliases": [
       "pipe spirit"
@@ -156243,7 +156258,7 @@
     "culture": "USA",
     "type": "deity",
     "mythology": "Pawnee",
-    "archetype": "moon-god",
+    "archetype": "celestial",
     "element": "water",
     "aliases": [
       "pah"
@@ -156394,7 +156409,7 @@
     "culture": "Abenaki",
     "type": "spirit",
     "mythology": "Abenaki",
-    "archetype": "bird-spirit",
+    "archetype": "spirit",
     "element": "air",
     "aliases": [
       "Pamola",
@@ -156648,7 +156663,7 @@
     "culture": "Ethiopian",
     "type": "folk-hero",
     "mythology": "Ethiopian",
-    "archetype": "Mythical Christian King",
+    "archetype": "ruler",
     "element": "spirit",
     "aliases": [
       "Prester John",
@@ -156724,7 +156739,7 @@
     "culture": "Swahili",
     "type": "spirit",
     "mythology": "Swahili",
-    "archetype": "Sea Spirits / Possessing Spirits",
+    "archetype": "sea-spirit",
     "element": "water",
     "aliases": [
       "Pepo",
@@ -156807,7 +156822,7 @@
     "culture": "Swahili",
     "type": "deity",
     "mythology": "Swahili",
-    "archetype": "Sea Deity / Ocean Lord",
+    "archetype": "sea-god",
     "element": "water",
     "aliases": [
       "Pepo wa Bahari",
@@ -156883,7 +156898,7 @@
     "culture": "Swahili",
     "type": "serpent",
     "mythology": "Swahili",
-    "archetype": "Legendary Sea Serpent",
+    "archetype": "water-dragon",
     "element": "water",
     "aliases": [
       "Pate Serpent",
@@ -157260,7 +157275,7 @@
     "culture": "Hawaii",
     "type": "deity",
     "mythology": "Hawaii",
-    "archetype": "goddess",
+    "archetype": "deity",
     "element": "water",
     "aliases": [
       "Poliahu",
@@ -157336,7 +157351,7 @@
     "culture": "Tonga",
     "type": "spirit",
     "mythology": "Tonga",
-    "archetype": "underworld",
+    "archetype": "death-deity",
     "element": "spirit",
     "aliases": [
       "Pulotu",
@@ -157406,7 +157421,7 @@
     "culture": "Tibetan",
     "type": "deity",
     "mythology": "Tibetan",
-    "archetype": "wrathful-deity",
+    "archetype": "demonic-entity",
     "element": "fire",
     "aliases": [
       "palden lhamo",
@@ -157490,7 +157505,7 @@
     "culture": "malaysian",
     "type": "spirit",
     "mythology": "Malaysian",
-    "archetype": "enchanted-princess",
+    "archetype": "ruler",
     "element": "air",
     "aliases": [
       "puteri gunung ledang",
@@ -157745,7 +157760,7 @@
     "culture": "Burmese",
     "type": "spirit",
     "mythology": "Burmese",
-    "archetype": "mother-spirit",
+    "archetype": "spirit",
     "element": "earth",
     "aliases": [
       "popa medaw",
@@ -157983,7 +157998,7 @@
     "culture": "Khmer",
     "type": "animal",
     "mythology": "Khmer",
-    "archetype": "guardian-animal",
+    "archetype": "guardian",
     "element": "earth",
     "aliases": [
       "preah ko",
@@ -158063,7 +158078,7 @@
     "culture": "Khmer",
     "type": "hero",
     "mythology": "Khmer",
-    "archetype": "magician-hero",
+    "archetype": "hero",
     "element": "air",
     "aliases": [
       "preah keo",
@@ -158312,7 +158327,7 @@
     "culture": "Indian",
     "type": "spirit",
     "mythology": "Buddhist",
-    "archetype": "sacrificial figure",
+    "archetype": "deity",
     "element": "earth",
     "aliases": [
       "Prince Mahasattva",
@@ -158484,7 +158499,7 @@
     "culture": "Generic",
     "type": "bird",
     "mythology": "Generic",
-    "archetype": "cycle-of-life",
+    "archetype": "deity",
     "element": "air",
     "aliases": [
       "phoenix",
@@ -158564,7 +158579,7 @@
     "culture": "Indonesia",
     "type": "ghost",
     "mythology": "Indonesia",
-    "archetype": "undead",
+    "archetype": "revenant",
     "element": "shadow",
     "aliases": [
       "pocong",
@@ -159574,7 +159589,7 @@
     "culture": "Saudi Arabian / Bedouin",
     "type": "shapeshifter",
     "mythology": "Arabian / Pre-Islamic",
-    "archetype": "lycanthrope",
+    "archetype": "shapeshifter",
     "element": "earth",
     "aliases": [
       "Qutrub",
@@ -159666,7 +159681,7 @@
     "culture": "Greenlandic",
     "type": "humanoid",
     "mythology": "Inuit",
-    "archetype": "child-stealer",
+    "archetype": "demonic-entity",
     "element": "water",
     "aliases": [
       "Qallupilluit"
@@ -164701,7 +164716,7 @@
     "description": "Didibri are dragon-like creatures from Surinamese folklore, derived from the Sranan Tongo word for devil or dragon. These fearsome beings appear in the oral traditions of Suriname's diverse population, including Creole, Maroon, and Indigenous communities. The most famous tale, documented by folklorists Melville and Frances Herskovits in the early 20th century, tells of a twelve-tailed dragon named Didibri who transforms himself into a handsome human — calling himself Je Man — to woo a human woman. His twelve dragon brothers await to devour her. The story features magical objects called obia that the woman's brother uses to create obstacles — a great lake, a sea of fire, a field of cutting grass, and a mountain — that the dragons must overcome. Didibri represents the boundary between the human world and the dangerous spiritual realm in Surinamese cosmology.",
     "appearance": "Didibri is described as a massive serpentine or reptilian creature of terrifying aspect. In its true form, it has twelve heads and twelve tails, enormous scales like armor, a cavernous mouth filled with razor-sharp teeth, and great claws capable of tearing through earth. Its body can coil around entire villages. Its skin is impervious to most weapons, described as hard as stone. Some accounts depict it with a long horn or crest on its snout. When shapeshifted into human form, Didibri appears as a tall, dark, irresistibly handsome man with a magnetic presence, though he carries traces of his monstrous origin — a strange smell, a cold touch, or an unnatural gleam in his eyes that betrays his draconic nature.",
     "behavior": "Didibri is a cunning predator who uses shapeshifting and deception to capture human prey. It lures victims through charm and false promises, particularly targeting young women. Once its prey is secured, it reveals its true nature and devours them. Didibri lives with its mother, a human woman who survives because her sons spare her, and with eleven dragon brothers who share its cannibalistic appetite. The dragon possesses magical abilities including shapeshifting, fire manipulation, and superhuman strength. It can be defeated through cleverness and magical obia rather than direct combat. After sunset, Didibri hunts in forests and near villages, carrying its victims to its underground lair. Despite its evil nature, it has been known to honor pacts made with humans.",
-    "habitat": "Suriname",
+    "habitat": "Suriname deep rivers, jungle caves, and mountain lairs",
     "habitat_tags": [
       "Surinamese mountains",
       "Surinamese caves",
@@ -166949,7 +166964,7 @@
     "culture": "South Slavic (Bosnian, Serbian, Croatian)",
     "type": "spirit",
     "mythology": "South Slavic Mythology",
-    "archetype": "Restless Spirit / Harbinger",
+    "archetype": "ghost",
     "element": "shadow",
     "aliases": [
       "Drekalo",
@@ -169340,7 +169355,7 @@
     "culture": "Carthaginian, Tunisian",
     "type": "spirit",
     "mythology": "Carthaginian mythology / Tunisian folklore",
-    "archetype": "Cursing Spirit",
+    "archetype": "demonic-entity",
     "element": "spirit",
     "aliases": [
       "Carthaginian Curse",
@@ -169988,7 +170003,7 @@
     "culture": "Sweden",
     "type": "dragon",
     "mythology": "Swedish folklore",
-    "archetype": "treasure-hoarding-dragon",
+    "archetype": "dragon",
     "element": "earth",
     "aliases": [
       "Lindorm",
@@ -170097,7 +170112,7 @@
     "culture": "Sweden",
     "type": "dwarf",
     "mythology": "Norse mythology and Swedish folklore",
-    "archetype": "master-smith",
+    "archetype": "culture-hero",
     "element": "earth",
     "aliases": [
       "Dvärgar",
@@ -170687,7 +170702,7 @@
     "culture": "USA",
     "type": "dwarf",
     "mythology": "Arapaho",
-    "archetype": "cannibal-dwarf",
+    "archetype": "cannibal-demon",
     "element": "earth",
     "aliases": [
       "dwarf",
@@ -170848,7 +170863,7 @@
     "culture": "African American",
     "mythology": "African American",
     "type": "spirit",
-    "archetype": "devil",
+    "archetype": "demon",
     "element": "fire",
     "aliases": [
       "Satan",
@@ -171029,7 +171044,7 @@
     "culture": "Sotho",
     "type": "giant",
     "mythology": "Sotho",
-    "archetype": "cannibal-giant",
+    "archetype": "cannibal-demon",
     "element": "earth",
     "aliases": [
       "Dimo",
@@ -171228,7 +171243,7 @@
     "culture": "Aboriginal Australian",
     "type": "deity",
     "mythology": "Aboriginal Australian",
-    "archetype": "sky-being",
+    "archetype": "celestial",
     "element": "spirit",
     "aliases": [
       "Daramulum",
@@ -171305,7 +171320,7 @@
     "culture": "Mongol",
     "type": "deity",
     "mythology": "Mongol",
-    "archetype": "fertility-god",
+    "archetype": "fertility-deity",
     "element": "earth",
     "aliases": [
       "Dayan Degereki"
@@ -171382,7 +171397,7 @@
     "culture": "filipino",
     "type": "spirit",
     "mythology": "Filipino",
-    "archetype": "dwarf-goblin",
+    "archetype": "monster",
     "element": "earth",
     "aliases": [
       "duwende",
@@ -171464,7 +171479,7 @@
     "culture": "filipino",
     "type": "spirit",
     "mythology": "Filipino",
-    "archetype": "nature-deity",
+    "archetype": "deity",
     "element": "spirit",
     "aliases": [
       "diwata",
@@ -171549,7 +171564,7 @@
     "culture": "indonesian",
     "type": "goddess",
     "mythology": "Indonesian",
-    "archetype": "fertility-goddess",
+    "archetype": "fertility-deity",
     "element": "earth",
     "aliases": [
       "dewi sri",
@@ -171631,7 +171646,7 @@
     "culture": "bruneian",
     "type": "dragon",
     "mythology": "Bruneian",
-    "archetype": "sea-dragon",
+    "archetype": "dragon",
     "element": "water",
     "aliases": [
       "naga berani",
@@ -171790,7 +171805,7 @@
     "culture": "Hindu",
     "type": "deity",
     "mythology": "Hindu",
-    "archetype": "healer",
+    "archetype": "deity",
     "element": "earth",
     "aliases": [
       "Dhanwantari",
@@ -171958,7 +171973,7 @@
     "culture": "Bhutanese",
     "type": "dragon",
     "mythology": "Bhutanese",
-    "archetype": "national symbol",
+    "archetype": "culture-hero",
     "element": "air",
     "aliases": [
       "Druk",
@@ -172039,7 +172054,7 @@
     "culture": "Berber",
     "type": "spirit",
     "mythology": "Berber mythology",
-    "archetype": "wanderer",
+    "archetype": "hero",
     "element": "earth",
     "aliases": [
       "Idjura",
@@ -172212,7 +172227,7 @@
     "culture": "Generic",
     "type": "demon",
     "mythology": "Generic",
-    "archetype": "malevolent-entity",
+    "archetype": "demonic-entity",
     "element": "fire",
     "aliases": [
       "demon",
@@ -172296,7 +172311,7 @@
     "culture": "European",
     "type": "dwarf",
     "mythology": "European",
-    "archetype": "master-craftsman",
+    "archetype": "culture-hero",
     "element": "earth",
     "aliases": [
       "dwarf",
@@ -172397,7 +172412,8 @@
     "living_tradition": false,
     "source_type": "literary",
     "source_quality": "expert",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "archetype": "guardian"
   },
   {
     "id": "senegal-djinn-0004",
@@ -172630,7 +172646,7 @@
     "culture": "Maldivian",
     "type": "mythical-tree",
     "mythology": "Maldivian",
-    "archetype": "threshold spirit",
+    "archetype": "spirit",
     "element": "earth",
     "aliases": [
       "cosmic tree"
@@ -180613,7 +180629,7 @@
     "culture": "Brunei Malay",
     "type": "shapeshifter",
     "mythology": "Brunei",
-    "archetype": "were-creature",
+    "archetype": "shapeshifter",
     "element": "earth",
     "aliases": [
       "Harimau Jadian",
@@ -180784,7 +180800,7 @@
     "culture": "Arab (Bedouin)",
     "type": "spirit",
     "mythology": "Arabian",
-    "archetype": "vengeful-spirit",
+    "archetype": "demonic-entity",
     "element": "air",
     "aliases": [
       "Hāmah",
@@ -180866,7 +180882,7 @@
     "culture": "Sumerian-Akkadian",
     "type": "giant",
     "mythology": "Mesopotamian",
-    "archetype": "Guardian / Monster",
+    "archetype": "monster",
     "element": "earth",
     "aliases": [
       "Huwawa",
@@ -180958,7 +180974,7 @@
     "culture": "Saudi Arabian / Bedouin",
     "type": "spirit",
     "mythology": "Arabian / Islamic",
-    "archetype": "elemental-spirit",
+    "archetype": "spirit",
     "element": "air",
     "aliases": [
       "Hinn",
@@ -181933,7 +181949,7 @@
     "culture": "Iroquois",
     "type": "demigod",
     "mythology": "Iroquois",
-    "archetype": "evil-spirit",
+    "archetype": "demonic-entity",
     "element": "darkness",
     "aliases": [
       "Flint",
@@ -182684,7 +182700,7 @@
     "culture": "Maori",
     "type": "deity",
     "mythology": "New Zealand",
-    "archetype": "wild-food-god",
+    "archetype": "deity",
     "element": "earth",
     "aliases": [
       "Haumia",
@@ -182833,7 +182849,7 @@
     "culture": "Maori",
     "type": "deity",
     "mythology": "New Zealand",
-    "archetype": "dawn-goddess",
+    "archetype": "celestial",
     "element": "spirit",
     "aliases": [
       "Hine-titama",
@@ -182979,7 +182995,7 @@
     "culture": "Hawaii",
     "type": "deity",
     "mythology": "Hawaii",
-    "archetype": "goddess",
+    "archetype": "deity",
     "element": "spirit",
     "aliases": [
       "Hi'iaka",
@@ -183132,7 +183148,7 @@
     "culture": "Rapa Nui",
     "type": "hero",
     "mythology": "Rapa Nui",
-    "archetype": "king",
+    "archetype": "ruler",
     "element": "spirit",
     "aliases": [
       "Hotu Matu'a",
@@ -183206,7 +183222,7 @@
     "culture": "Rapa Nui",
     "type": "deity",
     "mythology": "Rapa Nui",
-    "archetype": "nature-god",
+    "archetype": "deity",
     "element": "earth",
     "aliases": [
       "Haua"
@@ -183277,7 +183293,7 @@
     "culture": "Turkmen",
     "type": "spirit",
     "mythology": "Turkmen",
-    "archetype": "prophet-guide",
+    "archetype": "prophet",
     "element": "water",
     "aliases": [
       "Hızır",
@@ -183357,7 +183373,7 @@
     "culture": "malaysian",
     "type": "hero",
     "mythology": "Malaysian",
-    "archetype": "legendary-warrior",
+    "archetype": "warrior",
     "element": "earth",
     "aliases": [
       "hang tuah",
@@ -183438,7 +183454,7 @@
     "culture": "malaysian",
     "type": "hero",
     "mythology": "Malaysian",
-    "archetype": "rebel-warrior",
+    "archetype": "warrior",
     "element": "fire",
     "aliases": [
       "hang jebat",
@@ -183519,7 +183535,7 @@
     "culture": "Vietnamese",
     "type": "ancestor-spirit",
     "mythology": "Vietnamese",
-    "archetype": "creation-beings",
+    "archetype": "creation-spirit",
     "element": "earth",
     "aliases": [
       "hundred egg children",
@@ -183600,7 +183616,7 @@
     "culture": "Burmese",
     "type": "mythical-bird",
     "mythology": "Burmese",
-    "archetype": "guardian-bird",
+    "archetype": "guardian",
     "element": "air",
     "aliases": [
       "hintha",
@@ -184033,7 +184049,8 @@
     "living_tradition": false,
     "source_type": "literary",
     "source_quality": "expert",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "archetype": "demonic-entity"
   },
   {
     "id": "creature-hamnskiftare-005",
@@ -184065,7 +184082,8 @@
     "living_tradition": false,
     "source_type": "literary",
     "source_quality": "expert",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "archetype": "trickster"
   },
   {
     "id": "creature-hamingja-006",
@@ -184098,7 +184116,8 @@
     "source_type": "literary",
     "pronunciation_ipa": "/hamingja/",
     "source_quality": "expert",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "archetype": "spirit"
   },
   {
     "id": "creature-havsfrun-010",
@@ -184130,7 +184149,8 @@
     "living_tradition": false,
     "source_type": "literary",
     "source_quality": "expert",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "archetype": "demonic-entity"
   },
   {
     "id": "creature-iceland-002",
@@ -184163,7 +184183,8 @@
     "source_type": "literary",
     "pronunciation_ipa": "/huldufɔlk/",
     "source_quality": "expert",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "archetype": "spirit"
   },
   {
     "id": "china-huli-jing-0002",
@@ -199470,7 +199491,7 @@
     "culture": "Comorian",
     "type": "jinn",
     "mythology": "Comorian Islamic folklore",
-    "archetype": "Invisible Spirits",
+    "archetype": "spirit",
     "element": "fire",
     "aliases": [
       "Mashetani",
@@ -199570,7 +199591,7 @@
     "culture": "Chewa, Tumbuka",
     "type": "creator-deity",
     "mythology": "Chewa mythology",
-    "archetype": "Spider Creator God",
+    "archetype": "trickster-creator",
     "element": "spirit",
     "aliases": [
       "Chiuta",
@@ -199665,7 +199686,7 @@
     "culture": "Yao, Chewa",
     "type": "culture-hero",
     "mythology": "Yao and Chewa mythology",
-    "archetype": "Creator's Messenger",
+    "archetype": "creator-god",
     "element": "spirit",
     "aliases": [
       "Nthenda",
@@ -199758,7 +199779,7 @@
     "culture": "Makonde, Swahili, various East African",
     "type": "serpent",
     "mythology": "East African folklore",
-    "archetype": "Legendary Snake",
+    "archetype": "serpent",
     "element": "air",
     "aliases": [
       "Crested Cobra",
@@ -199851,7 +199872,7 @@
     "culture": "Lamba, Bemba",
     "type": "water-spirit",
     "mythology": "Lamba mythology",
-    "archetype": "Mermaid Spirit",
+    "archetype": "water-spirit",
     "element": "water",
     "aliases": [
       "Kitapo",
@@ -200042,7 +200063,7 @@
     "culture": "Roman Catholic",
     "type": "humanoid",
     "mythology": "Roman Christian",
-    "archetype": "monstrous-race",
+    "archetype": "monster",
     "element": "earth",
     "aliases": [
       "Cynocephali",
@@ -200203,7 +200224,7 @@
     "culture": "Sami",
     "type": "water-spirit",
     "mythology": "Sami",
-    "archetype": "child-scarer",
+    "archetype": "demonic-entity",
     "element": "water",
     "aliases": [
       "Čáhcerávga"
@@ -200375,7 +200396,7 @@
     "culture": "Sami",
     "type": "beast",
     "mythology": "Sami",
-    "archetype": "cosmic-prey",
+    "archetype": "monster",
     "element": "air",
     "aliases": [
       "Golden-antlered deer",
@@ -200461,7 +200482,7 @@
     "culture": "Sami",
     "type": "water-spirit",
     "mythology": "Sami",
-    "archetype": "otherworldly-maiden",
+    "archetype": "celestial",
     "element": "water",
     "aliases": [
       "Čázevulošnieida",
@@ -202849,7 +202870,7 @@
     "culture": "east-timorese",
     "type": "spirit",
     "mythology": "East-Timorese",
-    "archetype": "transformed-prince",
+    "archetype": "shapeshifter",
     "element": "water",
     "aliases": [
       "lafaek diak",
@@ -202930,7 +202951,7 @@
     "culture": "east-timorese",
     "type": "spirit",
     "mythology": "East-Timorese",
-    "archetype": "agricultural-spirit",
+    "archetype": "spirit",
     "element": "earth",
     "aliases": [
       "ina mita",
@@ -203008,7 +203029,7 @@
     "culture": "Thai",
     "type": "animal",
     "mythology": "Thai",
-    "archetype": "royal-beast",
+    "archetype": "monster",
     "element": "earth",
     "aliases": [
       "chang pheuak",
@@ -203092,7 +203113,7 @@
     "culture": "Bengali",
     "type": "goddess",
     "mythology": "Tantric Hindu",
-    "archetype": "goddess of sacrifice",
+    "archetype": "deity",
     "element": "fire",
     "aliases": [
       "Chinnamasta",
@@ -203175,7 +203196,7 @@
     "culture": "Bhutanese",
     "type": "spirit-animal",
     "mythology": "Bhutanese Buddhist",
-    "archetype": "sacred animal",
+    "archetype": "sacred-animal",
     "element": "air",
     "aliases": [
       "Thrung Thrung Karmo",
@@ -204275,7 +204296,7 @@
     "culture": "South Slavic (Bosnian, with unique Bosnian variants)",
     "type": "spirit",
     "mythology": "South Slavic / Illyrian-influenced Mythology",
-    "archetype": "Nature Spirit / Fairy",
+    "archetype": "nature-spirit",
     "element": "air",
     "aliases": [
       "Samovila",
@@ -206299,7 +206320,7 @@
     "culture": "Finnish",
     "type": "demigod",
     "mythology": "Finnish",
-    "archetype": "eternal-sage",
+    "archetype": "deity",
     "element": "earth",
     "aliases": [
       "The Eternal Sage",
@@ -206453,7 +206474,7 @@
     "culture": "Vanuatu",
     "type": "spirit",
     "mythology": "Vanuatu",
-    "archetype": "sky-being",
+    "archetype": "celestial",
     "element": "spirit",
     "aliases": [
       "Vinmara",
@@ -206527,7 +206548,7 @@
     "culture": "Hindu",
     "type": "serpent",
     "mythology": "Hindu",
-    "archetype": "king",
+    "archetype": "ruler",
     "element": "water",
     "aliases": [
       "Vasuki Naga",
@@ -206610,7 +206631,7 @@
     "culture": "Generic",
     "type": "vampire",
     "mythology": "Generic",
-    "archetype": "undead-predator",
+    "archetype": "revenant",
     "element": "shadow",
     "aliases": [
       "vampire",
@@ -206716,7 +206737,8 @@
     "source_type": "oral_tradition",
     "pronunciation_ipa": "/vindrå/",
     "source_quality": "good",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "archetype": "spirit"
   },
   {
     "id": "obariyon-1344",
@@ -211345,7 +211367,7 @@
     "culture": "Finnish",
     "type": "spirit",
     "mythology": "Finnish",
-    "archetype": "forest-king",
+    "archetype": "forest-spirit",
     "element": "earth",
     "aliases": [
       "The Bear",
@@ -211386,7 +211408,7 @@
     "culture": "Greenlandic",
     "type": "monster",
     "mythology": "Inuit",
-    "archetype": "leviathan",
+    "archetype": "monster",
     "element": "water",
     "aliases": [],
     "related": [
@@ -211548,7 +211570,7 @@
     "culture": "USA",
     "type": "spirit",
     "mythology": "Cheyenne",
-    "archetype": "sacred-spring-spirit",
+    "archetype": "spirit",
     "element": "water",
     "aliases": [
       "old woman's water"
@@ -211694,7 +211716,7 @@
     "culture": "Iroquois",
     "type": "spirit",
     "mythology": "Iroquois",
-    "archetype": "agricultural-spirit",
+    "archetype": "spirit",
     "element": "earth",
     "aliases": [
       "Corn Spirit",
@@ -212028,7 +212050,7 @@
     "culture": "African American",
     "mythology": "African American",
     "type": "folk-hero",
-    "archetype": "antagonist",
+    "archetype": "adversary",
     "element": "earth",
     "aliases": [
       "Massa",
@@ -212308,7 +212330,7 @@
     "culture": "Yoruba",
     "type": "deity",
     "mythology": "Yoruba",
-    "archetype": "wisdom-deity",
+    "archetype": "deity",
     "element": "spirit",
     "aliases": [
       "Ọ̀rúnmìlà",
@@ -212564,7 +212586,7 @@
     "culture": "Maasai",
     "type": "serpent",
     "mythology": "Maasai",
-    "archetype": "Rainbow Serpent / Divine Messenger",
+    "archetype": "rainbow-serpent",
     "element": "water-air",
     "aliases": [
       "Olapa",
@@ -212790,7 +212812,7 @@
     "culture": "Altai",
     "type": "spirit",
     "mythology": "Altai",
-    "archetype": "spirit-helper",
+    "archetype": "spirit",
     "element": "spirit",
     "aliases": [
       "Ongon",
@@ -213500,7 +213522,7 @@
     "culture": "Ewe, Fon, Guin-Mina",
     "type": "spirit",
     "mythology": "Vodun",
-    "archetype": "night-guardian",
+    "archetype": "guardian",
     "element": "spirit",
     "aliases": [
       "Zangbetos",
@@ -214917,7 +214939,7 @@
     "culture": "Macedonian Slavic",
     "type": "spirit",
     "mythology": "Macedonian Slavic Mythology",
-    "archetype": "Dragon / Guardian / Lover",
+    "archetype": "dragon",
     "element": "air-fire",
     "aliases": [
       "Zmej",
@@ -215722,7 +215744,7 @@
     "culture": "Various",
     "type": "spirit",
     "mythology": "Eritrean",
-    "archetype": "possession spirit",
+    "archetype": "spirit",
     "element": "spirit",
     "aliases": [
       "zar"
@@ -216476,7 +216498,7 @@
     "culture": "Basotho (Sotho)",
     "type": "monster",
     "mythology": "Basotho mythology",
-    "archetype": "Glowing Water Serpent",
+    "archetype": "serpent",
     "element": "water",
     "aliases": [
       "They Who Shine in the Night",
@@ -222891,7 +222913,7 @@
     "culture": "Tonga, Shona",
     "type": "deity",
     "mythology": "Tonga mythology",
-    "archetype": "River Serpent God",
+    "archetype": "serpent",
     "element": "water",
     "aliases": [
       "Nyaminyami",
@@ -223067,7 +223089,7 @@
     "culture": "Brunei Malay",
     "type": "human",
     "mythology": "Brunei",
-    "archetype": "cautionary-figure",
+    "archetype": "omen",
     "element": "water",
     "aliases": [
       "Nakhoda Manis",
@@ -223234,7 +223256,7 @@
     "culture": "Arab",
     "type": "humanoid",
     "mythology": "Arabian",
-    "archetype": "half-human",
+    "archetype": "shapeshifter",
     "element": "earth",
     "aliases": [
       "Nasnās",
@@ -224012,7 +224034,7 @@
     "culture": "USA",
     "type": "spirit",
     "mythology": "Pawnee",
-    "archetype": "animal-spirits",
+    "archetype": "spirit",
     "element": "earth",
     "aliases": [
       "nahurac"
@@ -224087,7 +224109,7 @@
     "culture": "USA",
     "type": "trickster",
     "mythology": "Arapaho",
-    "archetype": "spider-trickster",
+    "archetype": "trickster",
     "element": "spirit",
     "aliases": [
       "nihancan"
@@ -224339,7 +224361,7 @@
     "culture": "Ojibwe",
     "type": "spirit",
     "mythology": "Ojibwe",
-    "archetype": "grandmother-figure",
+    "archetype": "deity",
     "element": "earth",
     "aliases": [
       "Nokomes",
@@ -224501,7 +224523,7 @@
     "culture": "Choctaw",
     "type": "spirit",
     "mythology": "Choctaw",
-    "archetype": "shadow-demon",
+    "archetype": "demon",
     "element": "shadow",
     "aliases": [
       "Nalusa Falaya",
@@ -224585,7 +224607,7 @@
     "culture": "Choctaw",
     "type": "spirit",
     "mythology": "Choctaw",
-    "archetype": "soul-eater",
+    "archetype": "demonic-entity",
     "element": "shadow",
     "aliases": [
       "Nalusa Chito",
@@ -224754,7 +224776,7 @@
     "culture": "Ashanti (Akan)",
     "type": "spirit",
     "mythology": "Ashanti (Akan)",
-    "archetype": "trickster-child",
+    "archetype": "trickster",
     "element": "air",
     "aliases": [
       "Ntikuma",
@@ -224911,7 +224933,7 @@
     "culture": "Kikuyu",
     "type": "supreme-deity",
     "mythology": "Kikuyu",
-    "archetype": "Creator God / High God",
+    "archetype": "creator-god",
     "element": "sky",
     "aliases": [
       "Ngai",
@@ -224990,7 +225012,7 @@
     "culture": "Luo",
     "type": "water-spirit",
     "mythology": "Luo",
-    "archetype": "Lake Spirit / Female Water Spirit",
+    "archetype": "water-spirit",
     "element": "water",
     "aliases": [
       "Nyamgondho Wuod Ombare",
@@ -225064,7 +225086,7 @@
     "culture": "Kongo",
     "type": "supreme-deity",
     "mythology": "Kongo",
-    "archetype": "High God / Creator",
+    "archetype": "supreme-being",
     "element": "fire",
     "aliases": [
       "Nzambi Mpungu",
@@ -225143,7 +225165,7 @@
     "culture": "Kongo",
     "type": "spirit",
     "mythology": "Kongo",
-    "archetype": "Storm God / Divine Warrior",
+    "archetype": "storm-spirit",
     "element": "storm",
     "aliases": [
       "Nzazi",
@@ -225222,7 +225244,7 @@
     "culture": "Kongo",
     "type": "serpent",
     "mythology": "Kongo",
-    "archetype": "Cosmic Serpent / Rainbow Serpent",
+    "archetype": "rainbow-serpent",
     "element": "water",
     "aliases": [
       "Nkadi",
@@ -225599,7 +225621,7 @@
     "culture": "Nenets",
     "type": "deity",
     "mythology": "Nenets",
-    "archetype": "evil-deity",
+    "archetype": "demonic-entity",
     "element": "darkness",
     "aliases": [
       "nga",
@@ -225679,7 +225701,7 @@
     "culture": "Tibetan",
     "type": "deity",
     "mythology": "Tibetan",
-    "archetype": "mountain-god",
+    "archetype": "nature-spirit",
     "element": "earth",
     "aliases": [
       "nyenchen thanglha",
@@ -225756,7 +225778,7 @@
     "culture": "indonesian",
     "type": "spirit",
     "mythology": "Indonesian",
-    "archetype": "heavenly-nymph",
+    "archetype": "celestial",
     "element": "air",
     "aliases": [
       "nawang wulan",
@@ -225839,7 +225861,7 @@
     "culture": "Thai",
     "type": "deity",
     "mythology": "Thai",
-    "archetype": "prosperity-spirit",
+    "archetype": "spirit",
     "element": "earth",
     "aliases": [
       "nang kwak",
@@ -226002,7 +226024,7 @@
     "culture": "Khmer",
     "type": "deity",
     "mythology": "Khmer",
-    "archetype": "queen-spirit",
+    "archetype": "spirit",
     "element": "water",
     "aliases": [
       "neang neak",
@@ -226171,7 +226193,7 @@
     "culture": "Hmong",
     "type": "spirit",
     "mythology": "Hmong",
-    "archetype": "evil-spirit",
+    "archetype": "demonic-entity",
     "element": "earth",
     "aliases": [
       "ntxwj nyog",
@@ -226254,7 +226276,7 @@
     "culture": "Egyptian",
     "type": "deity",
     "mythology": "Egyptian mythology",
-    "archetype": "sky-goddess",
+    "archetype": "sky-god",
     "element": "air",
     "aliases": [
       "Nuit",
@@ -226676,7 +226698,8 @@
     "living_tradition": false,
     "source_type": "literary",
     "source_quality": "expert",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "archetype": "demonic-entity"
   },
   {
     "id": "indonesia-nyai-roro-kidul-0004",
@@ -226687,7 +226710,7 @@
     "culture": "Indonesia",
     "type": "deity",
     "mythology": "Indonesia",
-    "archetype": "queen",
+    "archetype": "ruler",
     "element": "water",
     "aliases": [
       "Queen of the Southern Sea"
@@ -238423,7 +238446,7 @@
     "culture": "Icelandic",
     "type": "spirit",
     "mythology": "Icelandic",
-    "archetype": "spectral-predator",
+    "archetype": "monster",
     "element": "air",
     "aliases": [
       "Hounds of Odin",
@@ -238507,7 +238530,7 @@
     "culture": "Sami",
     "type": "spirit-animal",
     "mythology": "Sami",
-    "archetype": "messenger",
+    "archetype": "guide",
     "element": "earth",
     "aliases": [
       "Sacred reindeer",
@@ -239583,7 +239606,7 @@
     "culture": "USA",
     "type": "trickster",
     "mythology": "Cheyenne",
-    "archetype": "spider-trickster",
+    "archetype": "trickster",
     "element": "spirit",
     "aliases": [
       "wihio"
@@ -239731,7 +239754,7 @@
     "culture": "USA",
     "type": "spirit",
     "mythology": "Comanche",
-    "archetype": "wind-spirit",
+    "archetype": "spirit",
     "element": "air",
     "aliases": [
       "wind spirit"
@@ -240143,7 +240166,7 @@
     "culture": "Haida",
     "mythology": "Haida",
     "type": "spirit-animal",
-    "archetype": "hybrid-spirit",
+    "archetype": "spirit",
     "element": "water",
     "aliases": [
       "sea wolf",
@@ -240216,7 +240239,7 @@
     "culture": "Luo",
     "type": "supreme-deity",
     "mythology": "Luo",
-    "archetype": "High God / Creator",
+    "archetype": "supreme-being",
     "element": "sky",
     "aliases": [
       "Were",
@@ -240295,7 +240318,7 @@
     "culture": "Somali",
     "type": "deity",
     "mythology": "Somali",
-    "archetype": "Sky God / Creator Deity",
+    "archetype": "sky-god",
     "element": "spirit",
     "aliases": [
       "Waaq",
@@ -240373,7 +240396,7 @@
     "culture": "Ganda",
     "type": "deity",
     "mythology": "Ganda",
-    "archetype": "Underworld God / Death Deity",
+    "archetype": "death-deity",
     "element": "water",
     "aliases": [
       "Wamala",
@@ -240525,7 +240548,7 @@
     "culture": "Aboriginal Australian",
     "type": "spirit",
     "mythology": "Aboriginal Australian",
-    "archetype": "rain-spirit",
+    "archetype": "spirit",
     "element": "water",
     "aliases": [
       "Wandjina",
@@ -240845,7 +240868,7 @@
     "culture": "Jamaican",
     "type": "ghost",
     "mythology": "Jamaican folklore",
-    "archetype": "haunting-spirit",
+    "archetype": "ghost",
     "element": "darkness",
     "aliases": [
       "White Witch of Rose Hall",
@@ -257508,7 +257531,7 @@
     "culture": "Kittitian",
     "type": "mermaid",
     "mythology": "Caribbean",
-    "archetype": "siren",
+    "archetype": "water-spirit",
     "element": "water",
     "aliases": [
       "mermaids of black rocks",
@@ -257671,7 +257694,7 @@
     "culture": "Hausa (Mawri, Maguzawa)",
     "type": "spirit",
     "mythology": "Hausa",
-    "archetype": "spirit-possession",
+    "archetype": "spirit",
     "element": "earth",
     "aliases": [
       "Bori",
@@ -257753,7 +257776,7 @@
     "culture": "Canaanite-Phoenician",
     "type": "deity",
     "mythology": "Canaanite",
-    "archetype": "Storm God / Divine Warrior",
+    "archetype": "storm-spirit",
     "element": "air",
     "aliases": [
       "Baal Hadad",
@@ -257958,7 +257981,7 @@
     "culture": "Fon (Dahomey)",
     "type": "deity",
     "mythology": "Fon / Vodun",
-    "archetype": "trickster-god",
+    "archetype": "trickster",
     "element": "spirit",
     "aliases": [
       "Papa Legba",
@@ -258531,7 +258554,7 @@
     "culture": "Bwaba (Bobo)",
     "type": "spirit",
     "mythology": "Bwaba",
-    "archetype": "ritual-spirit",
+    "archetype": "spirit",
     "element": "spirit",
     "aliases": [
       "Sumbo Masks",
@@ -258620,7 +258643,7 @@
     "culture": "Fon, Ewe",
     "type": "forest-spirit",
     "mythology": "Beninese Folklore",
-    "archetype": "Benevolent Guide",
+    "archetype": "guide",
     "element": "earth",
     "aliases": [
       "Forest Fairies"
@@ -258704,7 +258727,7 @@
     "culture": "Coastal Beninese, Yoruba",
     "type": "water-spirit",
     "mythology": "Beninese Folklore",
-    "archetype": "Seductress/Provider",
+    "archetype": "seducer",
     "element": "water",
     "aliases": [
       "Water Mother",
@@ -258792,7 +258815,7 @@
     "culture": "Fon, Dahomey",
     "type": "shapeshifter",
     "mythology": "Beninese Folklore",
-    "archetype": "Night Hunter",
+    "archetype": "demonic-entity",
     "element": "spirit",
     "aliases": [
       "Light Spirit"
@@ -258876,7 +258899,7 @@
     "culture": "Ogu, Gun",
     "type": "spirit",
     "mythology": "Beninese Folklore",
-    "archetype": "Law Enforcer",
+    "archetype": "deity",
     "element": "spirit",
     "aliases": [
       "Men of the Night",
@@ -258962,7 +258985,7 @@
     "culture": "Burkinabé / West African",
     "type": "water-spirit",
     "mythology": "West African / Syncretic",
-    "archetype": "Seductress / Goddess of Wealth",
+    "archetype": "deity",
     "element": "water",
     "aliases": [
       "Mammy Water",
@@ -259062,7 +259085,7 @@
     "culture": "Mossi (Nyonyose)",
     "type": "spirit",
     "mythology": "Mossi",
-    "archetype": "Guide / Protector",
+    "archetype": "guardian",
     "element": "earth",
     "aliases": [
       "Ancestral Guide"
@@ -259142,7 +259165,7 @@
     "culture": "Mossi",
     "type": "nature-spirit",
     "mythology": "Mossi",
-    "archetype": "Land Guardian",
+    "archetype": "guardian",
     "element": "earth",
     "aliases": [
       "Spirit of the Land"
@@ -259221,7 +259244,7 @@
     "culture": "Burundian",
     "type": "beast",
     "mythology": "Lake Folklore",
-    "archetype": "Water Guardian",
+    "archetype": "water-spirit",
     "element": "water",
     "aliases": [
       "The Silver Coil",
@@ -259311,7 +259334,7 @@
     "culture": "Burundian",
     "type": "giant",
     "mythology": "Highland Folklore",
-    "archetype": "Earth Shaker",
+    "archetype": "giant",
     "element": "earth",
     "aliases": [
       "The Peak Dweller",
@@ -259403,7 +259426,7 @@
     "culture": "Burundian",
     "type": "spirit",
     "mythology": "Nocturnal Folklore",
-    "archetype": "Shadow Hunter",
+    "archetype": "demonic-entity",
     "element": "air-spirit",
     "aliases": [
       "The Moon-Shadow",
@@ -259489,7 +259512,7 @@
     "culture": "Barundi (Rundi)",
     "type": "hero",
     "mythology": "Barundi mythology (Kubandwa tradition)",
-    "archetype": "Divine Mediator / Spirit King",
+    "archetype": "spirit",
     "element": "light",
     "aliases": [
       "Ryangombe",
@@ -259577,7 +259600,7 @@
     "culture": "Barundi (Rundi)",
     "type": "spirit",
     "mythology": "Barundi mythology (Kubandwa tradition)",
-    "archetype": "Spirit Pantheon / Mediating Spirits",
+    "archetype": "spirit",
     "element": "spirit",
     "aliases": [
       "Imandwa",
@@ -259665,7 +259688,7 @@
     "culture": "Barundi (Rundi)",
     "type": "deity",
     "mythology": "Barundi mythology",
-    "archetype": "Creator God / High God",
+    "archetype": "creator-god",
     "element": "creation",
     "aliases": [
       "Imana the Creator",
@@ -259758,7 +259781,7 @@
     "culture": "Bahraini",
     "type": "sea-monster",
     "mythology": "Bahraini / Gulf Arabian",
-    "archetype": "sea-demon",
+    "archetype": "water-demon",
     "element": "water",
     "aliases": [
       "Bu Daryā",
@@ -260025,7 +260048,7 @@
     "culture": "Sami",
     "type": "deity",
     "mythology": "Sami",
-    "archetype": "creator",
+    "archetype": "creator-god",
     "element": "fire",
     "aliases": [
       "Beiwe",
@@ -260974,7 +260997,7 @@
     "culture": "USA",
     "type": "animal-spirit",
     "mythology": "Lakota",
-    "archetype": "totem-spirit",
+    "archetype": "spirit",
     "element": "earth",
     "aliases": [
       "buffalo spirit"
@@ -261120,7 +261143,7 @@
     "culture": "USA",
     "type": "monster",
     "mythology": "Crow",
-    "archetype": "skeletal-monster",
+    "archetype": "monster",
     "element": "earth",
     "aliases": [
       "bones together"
@@ -261275,7 +261298,7 @@
     "culture": "Haida",
     "mythology": "Haida",
     "type": "spirit-animal",
-    "archetype": "transformation-spirit",
+    "archetype": "spirit",
     "element": "earth",
     "aliases": [
       "bear wife",
@@ -261422,7 +261445,7 @@
     "culture": "Kwakwaka'wakw",
     "mythology": "Kwakwaka'wakw",
     "type": "spirit-animal",
-    "archetype": "cannibal-spirit",
+    "archetype": "cannibal-demon",
     "element": "air",
     "aliases": [
       "man-eater at the north end",
@@ -262163,7 +262186,7 @@
     "culture": "African American",
     "mythology": "African American",
     "type": "folk-hero",
-    "archetype": "victim",
+    "archetype": "hero",
     "element": "earth",
     "aliases": [
       "William Lyons",
@@ -262234,7 +262257,7 @@
     "culture": "African American",
     "mythology": "African American",
     "type": "spirit",
-    "archetype": "hag",
+    "archetype": "witch",
     "element": "spirit",
     "aliases": [
       "Boo Hag",
@@ -262319,7 +262342,7 @@
     "culture": "African American",
     "mythology": "African American",
     "type": "spirit",
-    "archetype": "poltergeist",
+    "archetype": "ghost",
     "element": "spirit",
     "aliases": [
       "Kate Batts' Witch",
@@ -262498,7 +262521,7 @@
     "culture": "Yoruba",
     "type": "deity",
     "mythology": "Yoruba",
-    "archetype": "water-deity",
+    "archetype": "deity",
     "element": "water",
     "aliases": [
       "Olokun",
@@ -262659,7 +262682,7 @@
     "culture": "Wolof",
     "type": "spirit",
     "mythology": "Wolof",
-    "archetype": "trickster-foil",
+    "archetype": "trickster",
     "element": "earth",
     "aliases": [
       "Bouki",
@@ -262744,7 +262767,7 @@
     "culture": "Somali",
     "type": "spirit",
     "mythology": "Somali",
-    "archetype": "Shape-Shifting Spirit",
+    "archetype": "shapeshifter",
     "element": "shadow",
     "aliases": [
       "Buundheex",
@@ -263043,7 +263066,7 @@
     "culture": "Mongol",
     "type": "ancestor-spirit",
     "mythology": "Mongol",
-    "archetype": "totem-animal",
+    "archetype": "animal-spirit",
     "element": "spirit",
     "aliases": [
       "Börte Chino",
@@ -263122,7 +263145,7 @@
     "culture": "Mongol",
     "type": "spirit",
     "mythology": "Mongol",
-    "archetype": "mountain-spirit",
+    "archetype": "nature-spirit",
     "element": "earth",
     "aliases": [
       "Burkhan Khaldun Mountain Spirit"
@@ -263197,7 +263220,7 @@
     "culture": "Kazakh",
     "type": "human",
     "mythology": "Kazakh",
-    "archetype": "epic-heroine",
+    "archetype": "epic-hero",
     "element": "earth",
     "aliases": [
       "Barchin Sulu"
@@ -263345,7 +263368,7 @@
     "culture": "Kyrgyz",
     "type": "hero",
     "mythology": "Kyrgyz",
-    "archetype": "counselor",
+    "archetype": "guide",
     "element": "earth",
     "aliases": [
       "Bakai"
@@ -263417,7 +263440,7 @@
     "culture": "Uzbek",
     "type": "folk-hero",
     "mythology": "Uzbek",
-    "archetype": "queen",
+    "archetype": "ruler",
     "element": "earth",
     "aliases": [
       "Bibi-Khanum"
@@ -263489,7 +263512,7 @@
     "culture": "Altai",
     "type": "mythical-tree",
     "mythology": "Altai",
-    "archetype": "world-tree",
+    "archetype": "culture-hero",
     "element": "earth",
     "aliases": [
       "Bay-Terek",
@@ -263727,7 +263750,7 @@
     "culture": "Tibetan",
     "type": "hero",
     "mythology": "Tibetan",
-    "archetype": "heroine",
+    "archetype": "hero",
     "element": "water",
     "aliases": [
       "brugmo",
@@ -263811,7 +263834,7 @@
     "culture": "filipino",
     "type": "serpent",
     "mythology": "Filipino",
-    "archetype": "eclipse-dragon",
+    "archetype": "dragon",
     "element": "spirit",
     "aliases": [
       "bakonaua",
@@ -263895,7 +263918,7 @@
     "culture": "filipino",
     "type": "giant",
     "mythology": "Filipino",
-    "archetype": "trapped-hero",
+    "archetype": "hero",
     "element": "earth",
     "aliases": [
       "bernardo carpio",
@@ -263974,7 +263997,7 @@
     "culture": "indonesian",
     "type": "spirit",
     "mythology": "Indonesian",
-    "archetype": "protector-beast",
+    "archetype": "monster",
     "element": "spirit",
     "aliases": [
       "barong",
@@ -264054,7 +264077,7 @@
     "culture": "Khmer",
     "type": "deity",
     "mythology": "Khmer",
-    "archetype": "guardian-deity",
+    "archetype": "guardian",
     "element": "air",
     "aliases": [
       "bayon faces",
@@ -264134,7 +264157,7 @@
     "culture": "Indian",
     "type": "animal",
     "mythology": "Buddhist",
-    "archetype": "sacred being",
+    "archetype": "spirit",
     "element": "earth",
     "aliases": [
       "Nigrodha Miga",
@@ -264219,7 +264242,7 @@
     "culture": "Maldivian",
     "type": "serpent",
     "mythology": "Maldivian",
-    "archetype": "water spirit",
+    "archetype": "water-spirit",
     "element": "water",
     "aliases": [
       "Bodu Naga",
@@ -264302,7 +264325,7 @@
     "culture": "Haitian Vodou",
     "type": "spirit",
     "mythology": "Haitian Vodou",
-    "archetype": "secret-society-spirit",
+    "archetype": "spirit",
     "element": "darkness",
     "aliases": [
       "Bizango",
@@ -264552,7 +264575,7 @@
     "culture": "Arabic",
     "type": "beast",
     "mythology": "Arabic mythology",
-    "archetype": "primordial-beast",
+    "archetype": "monster",
     "element": "water",
     "aliases": [
       "Behemoth",
@@ -264625,7 +264648,7 @@
     "culture": "Egyptian",
     "type": "mythical-bird",
     "mythology": "Egyptian mythology",
-    "archetype": "primordial-beast",
+    "archetype": "monster",
     "element": "air",
     "aliases": [
       "Benu bird",
@@ -264783,7 +264806,7 @@
     "culture": "European/Arabic",
     "type": "dragon",
     "mythology": "European/Arabic",
-    "archetype": "lethal-predator",
+    "archetype": "monster",
     "element": "earth",
     "aliases": [
       "basilisk",
@@ -265516,7 +265539,7 @@
     "culture": "Unknown",
     "type": "mermaid",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "mermaid-denmark"
@@ -265567,7 +265590,7 @@
     "culture": "Unknown",
     "type": "deity",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "ruler",
     "element": "Unknown",
     "aliases": [
       "sun-nuxalk"
@@ -265621,7 +265644,7 @@
     "culture": "Unknown",
     "type": "nature-spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "tsilwalagame-kwakwaka-wakw"
@@ -265675,7 +265698,7 @@
     "culture": "Unknown",
     "type": "household-spirit",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "tomte-iceland"
@@ -265726,7 +265749,7 @@
     "culture": "Unknown",
     "type": "nature-spirit",
     "mythology": "Mediterranean",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "sea nymph"
@@ -265777,7 +265800,7 @@
     "culture": "Unknown",
     "type": "nature-spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "bluejay-coast-salish"
@@ -265831,7 +265854,7 @@
     "culture": "Unknown",
     "type": "spirit",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "n-kk"
@@ -265882,7 +265905,7 @@
     "culture": "Unknown",
     "type": "serpent",
     "mythology": "African",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "arwe"
@@ -265933,7 +265956,7 @@
     "culture": "Unknown",
     "type": "spirit",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "spirit-iceland"
@@ -265985,7 +266008,7 @@
     "culture": "Unknown",
     "type": "trickster",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "trickster",
     "element": "Unknown",
     "aliases": [
       "coyote-comanche"
@@ -266038,7 +266061,7 @@
     "culture": "Unknown",
     "type": "nature-spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "patsallht-first-born-nuxalk"
@@ -266092,7 +266115,7 @@
     "culture": "Unknown",
     "type": "spirit",
     "mythology": "Southeast Asian",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "spirit helpers"
@@ -266143,7 +266166,7 @@
     "culture": "Unknown",
     "type": "spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "undersea-chief-haida"
@@ -266194,7 +266217,7 @@
     "culture": "Unknown",
     "type": "monster",
     "mythology": "African",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "kholumolumo"
@@ -266245,7 +266268,7 @@
     "culture": "Unknown",
     "type": "spirit",
     "mythology": "Asian",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "Bonbibi"
@@ -266296,7 +266319,7 @@
     "culture": "Unknown",
     "type": "human",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "icarus"
@@ -266347,7 +266370,7 @@
     "culture": "Unknown",
     "type": "human",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "magician"
@@ -266398,7 +266421,7 @@
     "culture": "Unknown",
     "type": "witch",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "morgan"
@@ -266449,7 +266472,7 @@
     "culture": "Unknown",
     "type": "human",
     "mythology": "Asian",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "mulan"
@@ -266500,7 +266523,7 @@
     "culture": "Unknown",
     "type": "witch",
     "mythology": "Nordic",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "witch-troll"
@@ -266551,7 +266574,7 @@
     "culture": "Unknown",
     "type": "ghost",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "guardian",
     "element": "Unknown",
     "aliases": [
       "flying dutchman"
@@ -266603,7 +266626,7 @@
     "culture": "Unknown",
     "type": "trickster",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "trickster",
     "element": "Unknown",
     "aliases": [
       "yule-lads-iceland"
@@ -266654,7 +266677,7 @@
     "culture": "Unknown",
     "type": "human",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "ts-uu-jaas-cedar-woman-haida"
@@ -266708,7 +266731,7 @@
     "culture": "Unknown",
     "type": "wight",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "wight-iceland"
@@ -266759,7 +266782,7 @@
     "culture": "Unknown",
     "type": "forest-spirit",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "chuhayster"
@@ -266810,7 +266833,7 @@
     "culture": "Unknown",
     "type": "human",
     "mythology": "Asian",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "kaguya-hime"
@@ -266862,7 +266885,7 @@
     "culture": "Unknown",
     "type": "animal-spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "yeil-raven-tlingit"
@@ -266918,7 +266941,7 @@
     "culture": "Unknown",
     "type": "animal",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "robin-chinook"
@@ -266969,7 +266992,7 @@
     "culture": "Unknown",
     "type": "spirit",
     "mythology": "Southeast Asian",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "oriole spirit"
@@ -267020,7 +267043,7 @@
     "culture": "Unknown",
     "type": "human",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "magical-boy-nuxalk"
@@ -267074,7 +267097,7 @@
     "culture": "Unknown",
     "type": "animal-spirit",
     "mythology": "African",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "Ijapa"
@@ -267125,7 +267148,7 @@
     "culture": "Unknown",
     "type": "spirit",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "magic-tinderbox-denmark"
@@ -267176,7 +267199,7 @@
     "culture": "Unknown",
     "type": "serpent",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "Sinti Lapitta"
@@ -267227,7 +267250,7 @@
     "culture": "Unknown",
     "type": "nature-spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "masmasalanicw-four-carpenters-nuxalk"
@@ -267282,7 +267305,7 @@
     "culture": "Unknown",
     "type": "animal-spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "raven-qwaxw-nuxalk"
@@ -267333,7 +267356,7 @@
     "culture": "Unknown",
     "type": "witch",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "witch-denmark"
@@ -267384,7 +267407,7 @@
     "culture": "Unknown",
     "type": "trickster",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "trickster",
     "element": "Unknown",
     "aliases": [
       "coyote-chinook"
@@ -267435,7 +267458,7 @@
     "culture": "Unknown",
     "type": "deity",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "ruler",
     "element": "Unknown",
     "aliases": [
       "one-who-walks-all-over-the-sky-tsimshian"
@@ -267489,7 +267512,7 @@
     "culture": "Unknown",
     "type": "hero",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "hero",
     "element": "Unknown",
     "aliases": [
       "davy crockett"
@@ -267540,7 +267563,7 @@
     "culture": "Unknown",
     "type": "human",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "green-knight-denmark"
@@ -267591,7 +267614,7 @@
     "culture": "Unknown",
     "type": "deity",
     "mythology": "Mediterranean",
-    "archetype": "Unknown",
+    "archetype": "ruler",
     "element": "Unknown",
     "aliases": [
       "underworld-god"
@@ -267642,7 +267665,7 @@
     "culture": "Unknown",
     "type": "nature-spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "tihtipihin-nuu-chah-nulth"
@@ -267693,7 +267716,7 @@
     "culture": "Unknown",
     "type": "deity",
     "mythology": "African",
-    "archetype": "Unknown",
+    "archetype": "ruler",
     "element": "Unknown",
     "aliases": [
       "cogaz"
@@ -267744,7 +267767,7 @@
     "culture": "Unknown",
     "type": "human",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "sea king"
@@ -267795,7 +267818,7 @@
     "culture": "Unknown",
     "type": "animal-spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "beaver-chinook"
@@ -267846,7 +267869,7 @@
     "culture": "Unknown",
     "type": "monster",
     "mythology": "Oceanic",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "Whowie"
@@ -267897,7 +267920,7 @@
     "culture": "Unknown",
     "type": "nature-spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "komokwa-copper-maker-kwakwaka-wakw"
@@ -267951,7 +267974,7 @@
     "culture": "Unknown",
     "type": "spirit",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "ghosts-iceland"
@@ -268003,7 +268026,7 @@
     "culture": "Unknown",
     "type": "fairy",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "cat-sidhe"
@@ -268055,7 +268078,7 @@
     "culture": "Unknown",
     "type": "human",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "ice-maiden-denmark"
@@ -268106,7 +268129,7 @@
     "culture": "Unknown",
     "type": "nature-spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "huxhukw-kwakwaka-wakw"
@@ -268160,7 +268183,7 @@
     "culture": "Unknown",
     "type": "animal-spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "weeget-txamsem-giant-raven-tsimshian"
@@ -268211,7 +268234,7 @@
     "culture": "Unknown",
     "type": "shapeshifter",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "trickster",
     "element": "Unknown",
     "aliases": [
       "kwatyat-nuu-chah-nulth"
@@ -268263,7 +268286,7 @@
     "culture": "Unknown",
     "type": "undead",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "guardian",
     "element": "Unknown",
     "aliases": [
       "revenant-iceland"
@@ -268314,7 +268337,7 @@
     "culture": "Unknown",
     "type": "nature-spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "t-qul-tca-coast-salish"
@@ -268368,7 +268391,7 @@
     "culture": "Unknown",
     "type": "nature-spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "gwaxwgwakwalanuksiwe-kwakwaka-wakw"
@@ -268422,7 +268445,7 @@
     "culture": "Unknown",
     "type": "deity",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "ruler",
     "element": "Unknown",
     "aliases": [
       "evening-star-tsimshian"
@@ -268476,7 +268499,7 @@
     "culture": "Unknown",
     "type": "animal-spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "weeget-raven-tsimshian"
@@ -268527,7 +268550,7 @@
     "culture": "Unknown",
     "type": "bird",
     "mythology": "Nordic",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "magical bird"
@@ -268578,7 +268601,7 @@
     "culture": "Unknown",
     "type": "animal-spirit",
     "mythology": "Mediterranean",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "bee-goddess"
@@ -268629,7 +268652,7 @@
     "culture": "Unknown",
     "type": "culture-hero",
     "mythology": "African",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "heitsi-eibib"
@@ -268680,7 +268703,7 @@
     "culture": "Unknown",
     "type": "fairy",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "blue caps"
@@ -268731,7 +268754,7 @@
     "culture": "Unknown",
     "type": "animal-spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "raven-coast-salish"
@@ -268782,7 +268805,7 @@
     "culture": "Unknown",
     "type": "ghost",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "guardian",
     "element": "Unknown",
     "aliases": [
       "headless horseman"
@@ -268833,7 +268856,7 @@
     "culture": "Unknown",
     "type": "spirit",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "wind spirits"
@@ -268884,7 +268907,7 @@
     "culture": "Unknown",
     "type": "serpent",
     "mythology": "Asian",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "Orochi"
@@ -268935,7 +268958,7 @@
     "culture": "Unknown",
     "type": "werewolf",
     "mythology": "Argentina",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "Lobizon"
@@ -268986,7 +269009,7 @@
     "culture": "Unknown",
     "type": "animal-spirit",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "wolf-prince-denmark"
@@ -269037,7 +269060,7 @@
     "culture": "Unknown",
     "type": "human",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "ista-first-woman-nuxalk"
@@ -269091,7 +269114,7 @@
     "culture": "Unknown",
     "type": "animal-spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "weeget-txamsem-raven-tsimshian"
@@ -269142,7 +269165,7 @@
     "culture": "Unknown",
     "type": "nature-spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "xe-las-the-changer-coast-salish"
@@ -269196,7 +269219,7 @@
     "culture": "Unknown",
     "type": "forest-spirit",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "huldra-iceland"
@@ -269247,7 +269270,7 @@
     "culture": "Unknown",
     "type": "nature-spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "bukwus-wild-man-of-the-woods-kwakwaka-wakw"
@@ -269301,7 +269324,7 @@
     "culture": "Unknown",
     "type": "human",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "ghostly-chieftain-iceland"
@@ -269352,7 +269375,7 @@
     "culture": "Unknown",
     "type": "human",
     "mythology": "Asian",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "arash"
@@ -269403,7 +269426,7 @@
     "culture": "Unknown",
     "type": "deity",
     "mythology": "African",
-    "archetype": "Unknown",
+    "archetype": "ruler",
     "element": "Unknown",
     "aliases": [
       "umvelinqangi"
@@ -269454,7 +269477,7 @@
     "culture": "Unknown",
     "type": "human",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "pygmalion"
@@ -269505,7 +269528,7 @@
     "culture": "Unknown",
     "type": "nature-spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "ho-ho-e-ap-bess-two-men-who-changed-things-coast-salish"
@@ -269559,7 +269582,7 @@
     "culture": "Unknown",
     "type": "animal-spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "wolf-brothers-chinook"
@@ -269613,7 +269636,7 @@
     "culture": "Unknown",
     "type": "water-spirit",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "nacken"
@@ -269664,7 +269687,7 @@
     "culture": "Unknown",
     "type": "cryptid",
     "mythology": "Puerto Rico",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "el-chupacabra"
@@ -269716,7 +269739,7 @@
     "culture": "Unknown",
     "type": "hero",
     "mythology": "Asian",
-    "archetype": "Unknown",
+    "archetype": "hero",
     "element": "Unknown",
     "aliases": [
       "Thanh Gióng"
@@ -269767,7 +269790,7 @@
     "culture": "Unknown",
     "type": "spirit",
     "mythology": "Asian",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "Leyak"
@@ -269818,7 +269841,7 @@
     "culture": "Unknown",
     "type": "animal-spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "wolf-clan-spirits-tsimshian"
@@ -269873,7 +269896,7 @@
     "culture": "Unknown",
     "type": "mermaid",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "merman-denmark"
@@ -269925,7 +269948,7 @@
     "culture": "Unknown",
     "type": "human",
     "mythology": "Asian",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "hou-yi"
@@ -269977,7 +270000,7 @@
     "culture": "Unknown",
     "type": "troll",
     "mythology": "Nordic",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "sea-troll"
@@ -270029,7 +270052,7 @@
     "culture": "Unknown",
     "type": "spirit",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "legends-iceland"
@@ -270080,7 +270103,7 @@
     "culture": "Unknown",
     "type": "giant",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "frost-giant-iceland"
@@ -270131,7 +270154,7 @@
     "culture": "Unknown",
     "type": "human",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "legendary-warrior-iceland"
@@ -270183,7 +270206,7 @@
     "culture": "Unknown",
     "type": "animal-spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "chulyen-crow-nuu-chah-nulth"
@@ -270234,7 +270257,7 @@
     "culture": "Unknown",
     "type": "spirit",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "ancestral-spirits-iceland"
@@ -270285,7 +270308,7 @@
     "culture": "Unknown",
     "type": "animal-spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "crane-coast-salish"
@@ -270339,7 +270362,7 @@
     "culture": "Unknown",
     "type": "spirit",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "white-dove-denmark"
@@ -270390,7 +270413,7 @@
     "culture": "Unknown",
     "type": "human",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "tide-woman-tlingit"
@@ -270444,7 +270467,7 @@
     "culture": "Unknown",
     "type": "ghost",
     "mythology": "Nordic",
-    "archetype": "Unknown",
+    "archetype": "guardian",
     "element": "Unknown",
     "aliases": [
       "specter"
@@ -270497,7 +270520,7 @@
     "culture": "Unknown",
     "type": "animal-spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "bear-woman-tlingit"
@@ -270551,7 +270574,7 @@
     "culture": "Unknown",
     "type": "witch",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "völva-iceland"
@@ -270602,7 +270625,7 @@
     "culture": "Unknown",
     "type": "animal-spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "whale-kwakwaka-wakw"
@@ -270656,7 +270679,7 @@
     "culture": "Unknown",
     "type": "nature-spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "hatsenas-tsimshian"
@@ -270710,7 +270733,7 @@
     "culture": "Unknown",
     "type": "animal",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "water-horse-iceland"
@@ -270761,7 +270784,7 @@
     "culture": "Unknown",
     "type": "object",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "totem"
@@ -270812,7 +270835,7 @@
     "culture": "Unknown",
     "type": "animal-spirit",
     "mythology": "Mali",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "the pale fox"
@@ -270863,7 +270886,7 @@
     "culture": "Unknown",
     "type": "animal-spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "beaver-tsimshian"
@@ -270917,7 +270940,7 @@
     "culture": "Unknown",
     "type": "deity",
     "mythology": "Asian",
-    "archetype": "Unknown",
+    "archetype": "ruler",
     "element": "Unknown",
     "aliases": [
       "Son Tinh"
@@ -270968,7 +270991,7 @@
     "culture": "Unknown",
     "type": "human",
     "mythology": "Asian",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "kintaro"
@@ -271019,7 +271042,7 @@
     "culture": "Unknown",
     "type": "spirit",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "b-gg"
@@ -271070,7 +271093,7 @@
     "culture": "Unknown",
     "type": "object",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "sentient-candle-denmark"
@@ -271121,7 +271144,7 @@
     "culture": "Unknown",
     "type": "animal-spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "raven-guguyni-nuu-chah-nulth"
@@ -271173,7 +271196,7 @@
     "culture": "Unknown",
     "type": "human",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "kalga-jaad-ice-woman-haida"
@@ -271227,7 +271250,7 @@
     "culture": "Unknown",
     "type": "dragon",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "Pilatus Dragon"
@@ -271278,7 +271301,7 @@
     "culture": "Unknown",
     "type": "spirit",
     "mythology": "East Asian",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "moon spirit"
@@ -271329,7 +271352,7 @@
     "culture": "Unknown",
     "type": "witch",
     "mythology": "Asian",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "Calon Arang"
@@ -271380,7 +271403,7 @@
     "culture": "Unknown",
     "type": "demon",
     "mythology": "Asian",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "Lakhey"
@@ -271431,7 +271454,7 @@
     "culture": "Unknown",
     "type": "ogre",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "ogress-iceland"
@@ -271482,7 +271505,7 @@
     "culture": "Unknown",
     "type": "nature-spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "ioi-coast-salish"
@@ -271536,7 +271559,7 @@
     "culture": "Unknown",
     "type": "animal-spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "bear-husband-tsimshian"
@@ -271590,7 +271613,7 @@
     "culture": "Unknown",
     "type": "animal-spirit",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "white-bear-denmark"
@@ -271641,7 +271664,7 @@
     "culture": "Unknown",
     "type": "nature-spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "asdiwal-tsimshian"
@@ -271695,7 +271718,7 @@
     "culture": "Unknown",
     "type": "spirit",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "ole-lukøje-sandman-denmark"
@@ -271746,7 +271769,7 @@
     "culture": "Unknown",
     "type": "ghost",
     "mythology": "Asian",
-    "archetype": "Unknown",
+    "archetype": "guardian",
     "element": "Unknown",
     "aliases": [
       "phi tai hong"
@@ -271797,7 +271820,7 @@
     "culture": "Unknown",
     "type": "human",
     "mythology": "African",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "Mame Coumba Bang"
@@ -271848,7 +271871,7 @@
     "culture": "Unknown",
     "type": "deity",
     "mythology": "Asian",
-    "archetype": "Unknown",
+    "archetype": "ruler",
     "element": "Unknown",
     "aliases": [
       "Thuy Tinh"
@@ -271899,7 +271922,7 @@
     "culture": "Unknown",
     "type": "animal",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "brer-possum"
@@ -271952,7 +271975,7 @@
     "culture": "Unknown",
     "type": "monster",
     "mythology": "Asian",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "olgoi-khorkhoi"
@@ -272003,7 +272026,7 @@
     "culture": "Unknown",
     "type": "spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "wakinyan-lakota"
@@ -272056,7 +272079,7 @@
     "culture": "Unknown",
     "type": "giant",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "giants-denmark"
@@ -272108,7 +272131,7 @@
     "culture": "Unknown",
     "type": "human",
     "mythology": "African",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "agokoli"
@@ -272160,7 +272183,7 @@
     "culture": "Unknown",
     "type": "animal-spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "bear-wife-tsimshian"
@@ -272214,7 +272237,7 @@
     "culture": "Unknown",
     "type": "animal-spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "salmon-boy-nuxalk"
@@ -272268,7 +272291,7 @@
     "culture": "Unknown",
     "type": "deity",
     "mythology": "African",
-    "archetype": "Unknown",
+    "archetype": "ruler",
     "element": "Unknown",
     "aliases": [
       "amadioha"
@@ -272321,7 +272344,7 @@
     "culture": "Unknown",
     "type": "bird",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "mechanical-bird-denmark"
@@ -272372,7 +272395,7 @@
     "culture": "Unknown",
     "type": "spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "Kowi Anukasha"
@@ -272424,7 +272447,7 @@
     "culture": "Unknown",
     "type": "creator-deity",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "ruler",
     "element": "Unknown",
     "aliases": [
       "alhkw-ntam-creator-nuxalk"
@@ -272479,7 +272502,7 @@
     "culture": "Unknown",
     "type": "spirit",
     "mythology": "Southeast Asian",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "rice spirit"
@@ -272530,7 +272553,7 @@
     "culture": "Unknown",
     "type": "animal-spirit",
     "mythology": "Nordic",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "talking fox"
@@ -272581,7 +272604,7 @@
     "culture": "Unknown",
     "type": "nature-spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "yulm-first-carpenter-nuxalk"
@@ -272635,7 +272658,7 @@
     "culture": "Unknown",
     "type": "deity",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "ruler",
     "element": "Unknown",
     "aliases": [
       "sun-tsimshian"
@@ -272689,7 +272712,7 @@
     "culture": "Unknown",
     "type": "human",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "prophetic-omens-iceland"
@@ -272740,7 +272763,7 @@
     "culture": "Unknown",
     "type": "spirit",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "angel-denmark"
@@ -272791,7 +272814,7 @@
     "culture": "Unknown",
     "type": "human",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "narcissus"
@@ -272842,7 +272865,7 @@
     "culture": "Unknown",
     "type": "spirit",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "well-spirit"
@@ -272894,7 +272917,7 @@
     "culture": "Unknown",
     "type": "spirit",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "trolls-iceland"
@@ -272946,7 +272969,7 @@
     "culture": "Unknown",
     "type": "human",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "maiden-of-the-rainbow-finland"
@@ -272998,7 +273021,7 @@
     "culture": "Unknown",
     "type": "spirit",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "guardian-spirit-iceland"
@@ -273049,7 +273072,7 @@
     "culture": "Unknown",
     "type": "animal-spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "wasgo-sea-wolf-haida"
@@ -273100,7 +273123,7 @@
     "culture": "Unknown",
     "type": "animal-spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "qals-mink-coast-salish"
@@ -273154,7 +273177,7 @@
     "culture": "Unknown",
     "type": "human",
     "mythology": "African",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "okomfo anokye"
@@ -273205,7 +273228,7 @@
     "culture": "Unknown",
     "type": "animal-spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "crow-tlingit"
@@ -273259,7 +273282,7 @@
     "culture": "Unknown",
     "type": "deity",
     "mythology": "African",
-    "archetype": "Unknown",
+    "archetype": "ruler",
     "element": "Unknown",
     "aliases": [
       "nana buluku"
@@ -273311,7 +273334,7 @@
     "culture": "Unknown",
     "type": "animal-spirit",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "supernatural-seal-iceland"
@@ -273362,7 +273385,7 @@
     "culture": "Unknown",
     "type": "deity",
     "mythology": "African",
-    "archetype": "Unknown",
+    "archetype": "ruler",
     "element": "Unknown",
     "aliases": [
       "kaang"
@@ -273413,7 +273436,7 @@
     "culture": "Unknown",
     "type": "object",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "cursed-object-iceland"
@@ -273468,7 +273491,7 @@
     "culture": "Unknown",
     "type": "undead",
     "mythology": "Haiti",
-    "archetype": "Unknown",
+    "archetype": "guardian",
     "element": "Unknown",
     "aliases": [
       "zombi"
@@ -273519,7 +273542,7 @@
     "culture": "Unknown",
     "type": "nature-spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "xe-las-coast-salish"
@@ -273574,7 +273597,7 @@
     "culture": "Unknown",
     "type": "spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "dzunukwa-cannibal-woman-kwakwaka-wakw"
@@ -273625,7 +273648,7 @@
     "culture": "Unknown",
     "type": "animal-spirit",
     "mythology": "Ireland",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "salmon-of-wisdom"
@@ -273678,7 +273701,7 @@
     "culture": "Unknown",
     "type": "undead",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "guardian",
     "element": "Unknown",
     "aliases": [
       "valraven"
@@ -273729,7 +273752,7 @@
     "culture": "Unknown",
     "type": "ghost",
     "mythology": "Asian",
-    "archetype": "Unknown",
+    "archetype": "guardian",
     "element": "Unknown",
     "aliases": [
       "teke-teke"
@@ -273780,7 +273803,7 @@
     "culture": "Unknown",
     "type": "giant",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "giant-iceland"
@@ -273832,7 +273855,7 @@
     "culture": "Unknown",
     "type": "spirit",
     "mythology": "African",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "soumaoro kanté"
@@ -273884,7 +273907,7 @@
     "culture": "Unknown",
     "type": "animal-spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "octopus-nuu-chah-nulth"
@@ -273935,7 +273958,7 @@
     "culture": "Unknown",
     "type": "deity",
     "mythology": "African",
-    "archetype": "Unknown",
+    "archetype": "ruler",
     "element": "Unknown",
     "aliases": [
       "uthixo"
@@ -273986,7 +274009,7 @@
     "culture": "Unknown",
     "type": "human",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "prophetic-spirits-iceland"
@@ -274037,7 +274060,7 @@
     "culture": "Unknown",
     "type": "human",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "merlin"
@@ -274088,7 +274111,7 @@
     "culture": "Unknown",
     "type": "mythical-tree",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "yggdrasil"
@@ -274139,7 +274162,7 @@
     "culture": "Unknown",
     "type": "troll",
     "mythology": "Nordic",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "flying troll"
@@ -274190,7 +274213,7 @@
     "culture": "Unknown",
     "type": "human",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "seer-iceland"
@@ -274241,7 +274264,7 @@
     "culture": "Unknown",
     "type": "spirit",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "undead-army-iceland"
@@ -274292,7 +274315,7 @@
     "culture": "Unknown",
     "type": "animal",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "brer-coon"
@@ -274343,7 +274366,7 @@
     "culture": "Unknown",
     "type": "deity",
     "mythology": "African",
-    "archetype": "Unknown",
+    "archetype": "ruler",
     "element": "Unknown",
     "aliases": [
       "olorun"
@@ -274394,7 +274417,7 @@
     "culture": "Unknown",
     "type": "serpent",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "sisiutl-kwakwaka-wakw"
@@ -274445,7 +274468,7 @@
     "culture": "Unknown",
     "type": "spirit",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "dogs-of-metal-denmark"
@@ -274496,7 +274519,7 @@
     "culture": "Unknown",
     "type": "nature-spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "kushtaka-land-otter-man-tlingit"
@@ -274550,7 +274573,7 @@
     "culture": "Unknown",
     "type": "sea-monster",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "kraken-iceland"
@@ -274602,7 +274625,7 @@
     "culture": "Unknown",
     "type": "human",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "gaayhllga-jaad-flood-tide-woman-haida"
@@ -274656,7 +274679,7 @@
     "culture": "Unknown",
     "type": "spirit",
     "mythology": "African",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "boukhencha"
@@ -274707,7 +274730,7 @@
     "culture": "Unknown",
     "type": "spirit",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "magic-trunk-denmark"
@@ -274758,7 +274781,7 @@
     "culture": "Unknown",
     "type": "animal-spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "raven-nang-kilslas-haida"
@@ -274812,7 +274835,7 @@
     "culture": "Unknown",
     "type": "nature-spirit",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "huldufolk"
@@ -274864,7 +274887,7 @@
     "culture": "Unknown",
     "type": "nature-spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "malahas-nuu-chah-nulth"
@@ -274915,7 +274938,7 @@
     "culture": "Unknown",
     "type": "ghost",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "guardian",
     "element": "Unknown",
     "aliases": [
       "ghost-iceland"
@@ -274967,7 +274990,7 @@
     "culture": "Unknown",
     "type": "water-spirit",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "vodnik"
@@ -275018,7 +275041,7 @@
     "culture": "Unknown",
     "type": "deity",
     "mythology": "African",
-    "archetype": "Unknown",
+    "archetype": "ruler",
     "element": "Unknown",
     "aliases": [
       "anyanwu"
@@ -275069,7 +275092,7 @@
     "culture": "Unknown",
     "type": "bird",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "blue-jay-iqesqes-chinook"
@@ -275122,7 +275145,7 @@
     "culture": "Unknown",
     "type": "giant",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "boqs-cannibal-giant-nuxalk"
@@ -275176,7 +275199,7 @@
     "culture": "Unknown",
     "type": "deity",
     "mythology": "Asian",
-    "archetype": "Unknown",
+    "archetype": "ruler",
     "element": "Unknown",
     "aliases": [
       "jade-emperor"
@@ -275227,7 +275250,7 @@
     "culture": "Unknown",
     "type": "spirit",
     "mythology": "Asian",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "diwata-0534"
@@ -275278,7 +275301,7 @@
     "culture": "Unknown",
     "type": "spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "ghosts-chinook"
@@ -275329,7 +275352,7 @@
     "culture": "Unknown",
     "type": "animal-spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "fish-hawk-tlingit"
@@ -275383,7 +275406,7 @@
     "culture": "Unknown",
     "type": "human",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "guinevere"
@@ -275434,7 +275457,7 @@
     "culture": "Unknown",
     "type": "nature-spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "matlose-nuu-chah-nulth"
@@ -275485,7 +275508,7 @@
     "culture": "Unknown",
     "type": "mythical-bird",
     "mythology": "Asian",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "simorgh"
@@ -275536,7 +275559,7 @@
     "culture": "Unknown",
     "type": "water-spirit",
     "mythology": "Cuba",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "Guije"
@@ -275587,7 +275610,7 @@
     "culture": "Unknown",
     "type": "spirit",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "magic-book-denmark"
@@ -275638,7 +275661,7 @@
     "culture": "Unknown",
     "type": "folk-hero",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "flying-african"
@@ -275691,7 +275714,7 @@
     "culture": "Unknown",
     "type": "spirit",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "bergr-"
@@ -275742,7 +275765,7 @@
     "culture": "Unknown",
     "type": "animal-spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "blue-heron-coast-salish"
@@ -275796,7 +275819,7 @@
     "culture": "Unknown",
     "type": "animal-spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "raven-kwakwaka-wakw"
@@ -275847,7 +275870,7 @@
     "culture": "Unknown",
     "type": "spirit",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "jacky-my-lantern"
@@ -275898,7 +275921,7 @@
     "culture": "Unknown",
     "type": "giant",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "giant-cat-iceland"
@@ -275949,7 +275972,7 @@
     "culture": "Unknown",
     "type": "deity",
     "mythology": "Asian",
-    "archetype": "Unknown",
+    "archetype": "ruler",
     "element": "Unknown",
     "aliases": [
       "ganesha"
@@ -276000,7 +276023,7 @@
     "culture": "Unknown",
     "type": "spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "tseiqami-thunderbird-kwakwaka-wakw"
@@ -276051,7 +276074,7 @@
     "culture": "Unknown",
     "type": "animal-spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "salmon-chief-tsimshian"
@@ -276105,7 +276128,7 @@
     "culture": "Unknown",
     "type": "nature-spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "alhkw-ntam-nuxalk"
@@ -276160,7 +276183,7 @@
     "culture": "Unknown",
     "type": "spirit",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "norns-iceland"
@@ -276211,7 +276234,7 @@
     "culture": "Unknown",
     "type": "animal-spirit",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "talking-fish-iceland"
@@ -276262,7 +276285,7 @@
     "culture": "Unknown",
     "type": "deity",
     "mythology": "African",
-    "archetype": "Unknown",
+    "archetype": "ruler",
     "element": "Unknown",
     "aliases": [
       "gewi"
@@ -276313,7 +276336,7 @@
     "culture": "Unknown",
     "type": "spirit",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "humans-denmark"
@@ -276376,7 +276399,7 @@
     "culture": "Unknown",
     "type": "deity",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "ruler",
     "element": "Unknown",
     "aliases": [
       "hel-goddess-denmark"
@@ -276427,7 +276450,7 @@
     "culture": "Unknown",
     "type": "human",
     "mythology": "Nordic",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "swan-maiden"
@@ -276478,7 +276501,7 @@
     "culture": "Unknown",
     "type": "nature-spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "kolus-kwakwaka-wakw"
@@ -276532,7 +276555,7 @@
     "culture": "Unknown",
     "type": "serpent",
     "mythology": "Asian",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "phaya nak"
@@ -276583,7 +276606,7 @@
     "culture": "Unknown",
     "type": "human",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "eynhallow-monk"
@@ -276635,7 +276658,7 @@
     "culture": "Unknown",
     "type": "bird",
     "mythology": "Southeast Asian",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "hamsa bird"
@@ -276686,7 +276709,7 @@
     "culture": "Unknown",
     "type": "spirit",
     "mythology": "African",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "khanyapa"
@@ -276737,7 +276760,7 @@
     "culture": "Unknown",
     "type": "animal-spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "qwaxw-raven-nuxalk"
@@ -276789,7 +276812,7 @@
     "culture": "Unknown",
     "type": "shapeshifter",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "trickster",
     "element": "Unknown",
     "aliases": [
       "selkies-iceland"
@@ -276840,7 +276863,7 @@
     "culture": "Unknown",
     "type": "fairy",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "Pichal Peri"
@@ -276891,7 +276914,7 @@
     "culture": "Unknown",
     "type": "animal-spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "crow-coast-salish"
@@ -276945,7 +276968,7 @@
     "culture": "Unknown",
     "type": "nature-spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "andaokut-nuu-chah-nulth"
@@ -276996,7 +277019,7 @@
     "culture": "Unknown",
     "type": "elf",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "elf-maidens-denmark"
@@ -277047,7 +277070,7 @@
     "culture": "Unknown",
     "type": "dragon",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "dragon-denmark"
@@ -277099,7 +277122,7 @@
     "culture": "Unknown",
     "type": "human",
     "mythology": "Mexico",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "la-malinche"
@@ -277150,7 +277173,7 @@
     "culture": "Unknown",
     "type": "deity",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "ruler",
     "element": "Unknown",
     "aliases": [
       "Dâyuni'sï"
@@ -277201,7 +277224,7 @@
     "culture": "Unknown",
     "type": "animal-spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "sgaana-supernatural-killer-whale-haida"
@@ -277255,7 +277278,7 @@
     "culture": "Unknown",
     "type": "spirit",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "j-tte"
@@ -277313,7 +277336,7 @@
     "culture": "Unknown",
     "type": "animal-spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "grizzly-bear-woman-nuxalk"
@@ -277367,7 +277390,7 @@
     "culture": "Unknown",
     "type": "spirit",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "plague spirits"
@@ -277418,7 +277441,7 @@
     "culture": "Unknown",
     "type": "trickster",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "trickster",
     "element": "Unknown",
     "aliases": [
       "iktomi-lakota"
@@ -277470,7 +277493,7 @@
     "culture": "Unknown",
     "type": "nature-spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "xanaax-atwaayaa-tlingit"
@@ -277524,7 +277547,7 @@
     "culture": "Unknown",
     "type": "dragon",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "lindworm-denmark"
@@ -277575,7 +277598,7 @@
     "culture": "Unknown",
     "type": "nature-spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "d-sonoqua-dzunukwa-kwakwaka-wakw"
@@ -277630,7 +277653,7 @@
     "culture": "Unknown",
     "type": "kelpie",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "nykur-iceland"
@@ -277681,7 +277704,7 @@
     "culture": "Unknown",
     "type": "animal-spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "bear-people-tsimshian"
@@ -277735,7 +277758,7 @@
     "culture": "Unknown",
     "type": "deity",
     "mythology": "Asian",
-    "archetype": "Unknown",
+    "archetype": "ruler",
     "element": "Unknown",
     "aliases": [
       "Maha Sona"
@@ -277786,7 +277809,7 @@
     "culture": "Unknown",
     "type": "spirit",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "hounds-iceland"
@@ -277837,7 +277860,7 @@
     "culture": "Unknown",
     "type": "elf",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "demonic-entity",
     "element": "Unknown",
     "aliases": [
       "alfvor"
@@ -277888,7 +277911,7 @@
     "culture": "Unknown",
     "type": "animal-spirit",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "nightingale-denmark"
@@ -277939,7 +277962,7 @@
     "culture": "Unknown",
     "type": "nature-spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "duk-ib-the-changer-coast-salish"
@@ -277994,7 +278017,7 @@
     "culture": "Unknown",
     "type": "spirit",
     "mythology": "Southeast Asian",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "new year spirit"
@@ -278045,7 +278068,7 @@
     "culture": "Unknown",
     "type": "animal-spirit",
     "mythology": "African",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "the mantis"
@@ -278097,7 +278120,7 @@
     "culture": "Unknown",
     "type": "nature-spirit",
     "mythology": "European",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "vättar"
@@ -278148,7 +278171,7 @@
     "culture": "Unknown",
     "type": "animal-spirit",
     "mythology": "Indigenous North American",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "porcupine-tsimshian"
@@ -278202,7 +278225,7 @@
     "culture": "Unknown",
     "type": "animal-spirit",
     "mythology": "Nordic",
-    "archetype": "Unknown",
+    "archetype": "spirit",
     "element": "Unknown",
     "aliases": [
       "magpie"

@@ -1,24 +1,21 @@
-;(function() {
-  var themeToggle = document.getElementById('theme-toggle');
-  if (!themeToggle) return;
+;(function () {
+  'use strict'
+  const themeToggle = document.getElementById('theme-toggle')
+  if (!themeToggle) return
 
-  var storedTheme = localStorage.getItem('theme');
-
-  var getPreferredTheme = function() {
-    if (storedTheme) return storedTheme;
-    return window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark';
-  };
-
-  var applyTheme = function(theme) {
-    document.documentElement.setAttribute('data-theme', theme);
-    localStorage.setItem('theme', theme);
-  };
+  const applyTheme = function (theme) {
+    document.documentElement.setAttribute('data-theme', theme)
+    localStorage.setItem('theme', theme)
+  }
 
   // Theme already set by inline script in <head> — only handle toggle clicks
-  themeToggle.addEventListener('click', function() {
-    var current = document.documentElement.getAttribute('data-theme');
-    var next = current === 'dark' ? 'light' : 'dark';
-    applyTheme(next);
-    themeToggle.setAttribute('aria-pressed', next === 'light' ? 'true' : 'false');
-  });
-})();
+  themeToggle.addEventListener('click', function () {
+    const current = document.documentElement.getAttribute('data-theme')
+    const next = current === 'dark' ? 'light' : 'dark'
+    applyTheme(next)
+    themeToggle.setAttribute(
+      'aria-pressed',
+      next === 'light' ? 'true' : 'false'
+    )
+  })
+})()

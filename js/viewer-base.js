@@ -1,223 +1,317 @@
 // js/viewer-base.js
 export class BaseViewer {
   constructor(options) {
-    this.type = options.type; 
-    this.perPage = options.perPage || 24;
-    this.gridId = options.gridId;
-    this.emptyId = options.emptyId;
-    this.loadMoreId = options.loadMoreId;
-    this.countSelector = options.countSelector;
-    
+    this.type = options.type
+    this.perPage = options.perPage || 24
+    this.gridId = options.gridId
+    this.emptyId = options.emptyId
+    this.loadMoreId = options.loadMoreId
+    this.countSelector = options.countSelector
+
     this.state = {
       filters: {},
       sortBy: 'relevance',
       page: 1,
       filteredData: [],
-      rafId: null
-    };
-    
-    this.cache = null;
+      rafId: null,
+    }
+
+    this.cache = null
   }
 
-  safeEl(id) { return document.getElementById(id); }
+  safeEl(id) {
+    return document.getElementById(id)
+  }
 
   getName(item) {
-    return item.name || item.title || '';
+    return item.name || item.title || ''
   }
 
   updateCount() {
-    var countEl = document.querySelector(this.countSelector);
-    if (!countEl) return;
-    if (this.state.rafId) cancelAnimationFrame(this.state.rafId);
-    
-    var currentText = countEl.textContent;
-    var numMatch = currentText.match(/\d+/);
-    var startVal = numMatch ? parseInt(numMatch[0]) : 0;
-    
-    var total = 0;
-    var man = window.__sharedUtils && window.__sharedUtils.Shimmer && window.__sharedUtils.Shimmer.manifest;
+    const countEl = document.querySelector(this.countSelector)
+    if (!countEl) return
+    if (this.state.rafId) cancelAnimationFrame(this.state.rafId)
+
+    const currentText = countEl.textContent
+    const numMatch = currentText.match(/\d+/)
+    const startVal = numMatch ? parseInt(numMatch[0]) : 0
+
+    let total = 0
+    const man =
+      window.__sharedUtils &&
+      window.__sharedUtils.Shimmer &&
+      window.__sharedUtils.Shimmer.manifest
     if (man && man[this.type] && man[this.type].total) {
-      total = man[this.type].total;
+      total = man[this.type].total
     } else if (this.cache) {
-      total = this.cache.length;
+      total = this.cache.length
     }
-    
-    var endVal = this.state.filteredData ? this.state.filteredData.length : 0;
-    var duration = 300;
-    var startTime = null;
+
+    const endVal = this.state.filteredData ? this.state.filteredData.length : 0
+    const duration = 300
+    let startTime = null
 
     const animate = (timestamp) => {
-      if (!startTime) startTime = timestamp;
-      var progress = Math.min((timestamp - startTime) / duration, 1);
-      var current = Math.floor(progress * (endVal - startVal) + startVal);
-      countEl.textContent = 'Showing ' + current + ' of ' + total + ' ' + (this.type === 'creatures' ? 'creatures' : 'stories');
+      if (!startTime) startTime = timestamp
+      const progress = Math.min((timestamp - startTime) / duration, 1)
+      const current = Math.floor(progress * (endVal - startVal) + startVal)
+      countEl.textContent =
+        'Showing ' +
+        current +
+        ' of ' +
+        total +
+        ' ' +
+        (this.type === 'creatures' ? 'creatures' : 'stories')
       if (progress < 1) {
-        this.state.rafId = window.requestAnimationFrame(animate);
+        this.state.rafId = window.requestAnimationFrame(animate)
       } else {
-        this.state.rafId = null;
+        this.state.rafId = null
       }
-    };
-    this.state.rafId = window.requestAnimationFrame(animate);
+    }
+    this.state.rafId = window.requestAnimationFrame(animate)
   }
 
   sortData() {
-    if (!this.state.filteredData || this.state.filteredData.length === 0) return;
-    var data = this.state.filteredData.slice();
-    
+    if (!this.state.filteredData || this.state.filteredData.length === 0) return
+    const data = this.state.filteredData.slice()
+
     if (this.state.sortBy === 'alphabetical') {
-      data.sort((a, b) => this.getName(a).localeCompare(this.getName(b)));
+      data.sort((a, b) => this.getName(a).localeCompare(this.getName(b)))
     } else if (this.state.sortBy === 'newest') {
       data.sort((a, b) => {
-        var aDate = a.lastUpdated || '';
-        var bDate = b.lastUpdated || '';
-        return bDate.localeCompare(aDate);
-      });
+        const aDate = a.lastUpdated || ''
+        const bDate = b.lastUpdated || ''
+        return bDate.localeCompare(aDate)
+      })
     }
-    this.state.filteredData = data;
+    this.state.filteredData = data
   }
 
   renderGrid(append, cardRenderer) {
-    var grid = this.safeEl(this.gridId);
-    var emptyState = this.safeEl(this.emptyId);
-    var loadMoreBtn = this.safeEl(this.loadMoreId);
-    if (!grid) return;
+    const grid = this.safeEl(this.gridId)
+    const emptyState = this.safeEl(this.emptyId)
+    const loadMoreBtn = this.safeEl(this.loadMoreId)
+    if (!grid) return
 
     if (this.state.filteredData.length === 0) {
-      grid.innerHTML = '';
-      grid.classList.add('is-hidden');
-      if (emptyState) emptyState.classList.remove('is-hidden');
-      if (loadMoreBtn) loadMoreBtn.classList.add('is-hidden');
-      return;
+      grid.innerHTML = ''
+      grid.classList.add('is-hidden')
+      if (emptyState) emptyState.classList.remove('is-hidden')
+      if (loadMoreBtn) loadMoreBtn.classList.add('is-hidden')
+      return
     }
 
-    grid.classList.remove('is-hidden');
-    if (emptyState) emptyState.classList.add('is-hidden');
-    if (!append) grid.innerHTML = '';
+    grid.classList.remove('is-hidden')
+    if (emptyState) emptyState.classList.add('is-hidden')
+    if (!append) grid.innerHTML = ''
 
-    var start = (this.state.page - 1) * this.perPage;
-    var end = this.state.page * this.perPage;
-    var slice = this.state.filteredData.slice(start, end);
+    const start = (this.state.page - 1) * this.perPage
+    const end = this.state.page * this.perPage
+    const slice = this.state.filteredData.slice(start, end)
 
     slice.forEach((item, index) => {
       // CRITICAL: Ensure correct this context for the renderer
-      var card = cardRenderer.call(this, item, index);
-      grid.appendChild(card);
-    });
+      const card = cardRenderer.call(this, item, index)
+      grid.appendChild(card)
+    })
 
     if (loadMoreBtn) {
-      loadMoreBtn.classList.toggle('is-hidden', this.state.filteredData.length <= this.state.page * this.perPage);
-      var self = this;
+      loadMoreBtn.classList.toggle(
+        'is-hidden',
+        this.state.filteredData.length <= this.state.page * this.perPage
+      )
+      const self = this
       if (!loadMoreBtn._listener) {
-        loadMoreBtn.addEventListener('click', function() {
-          self.state.page++;
-          self.renderGrid(true, self.cardRenderer);
-        });
-        loadMoreBtn._listener = true;
+        loadMoreBtn.addEventListener('click', function () {
+          self.state.page++
+          self.renderGrid(true, self.cardRenderer)
+        })
+        loadMoreBtn._listener = true
       }
     }
   }
 
   applyFilters() {
-    var data = this.cache || (this.type === 'creatures' ? window.__FULL_CREATURES : window.__FULL_STORIES) || [];
+    const data =
+      this.cache ||
+      (this.type === 'creatures'
+        ? window.__FULL_CREATURES
+        : window.__FULL_STORIES) ||
+      []
 
-    var filters = this.state.filters;
-    var hasActive = false;
-    for (var k in filters) {
-      var v = filters[k];
-      if (v !== null && v !== undefined && v !== '' && v !== 'all') { hasActive = true; break; }
+    const filters = this.state.filters
+    let hasActive = false
+    for (const k in filters) {
+      const v = filters[k]
+      if (v !== null && v !== undefined && v !== '' && v !== 'all') {
+        hasActive = true
+        break
+      }
     }
 
     if (!hasActive) {
-      this.state.filteredData = data.slice();
+      this.state.filteredData = data.slice()
     } else {
-      this.state.filteredData = data.filter(function(item) {
-        for (var dim in filters) {
-          var val = filters[dim];
-          if (val === null || val === undefined || val === '' || val === 'all') continue;
+      this.state.filteredData = data.filter(function (item) {
+        for (const dim in filters) {
+          const val = filters[dim]
+          if (val === null || val === undefined || val === '' || val === 'all')
+            continue
 
           if (dim === 'search') {
-            var q = val.toLowerCase();
-            var name = (item.name || item.title || '').toLowerCase();
-            var type = (item.type || '').toLowerCase();
-            var country = (item.country || '').toLowerCase();
-            if (name.indexOf(q) === -1 && type.indexOf(q) === -1 && country.indexOf(q) === -1) return false;
-            continue;
+            const q = val.toLowerCase()
+            const name = (item.name || item.title || '').toLowerCase()
+            const type = (item.type || '').toLowerCase()
+            const country = (item.country || '').toLowerCase()
+            if (
+              name.indexOf(q) === -1 &&
+              type.indexOf(q) === -1 &&
+              country.indexOf(q) === -1
+            )
+              return false
+            continue
           }
 
-          var itemVal = item[dim];
-          if (!itemVal || itemVal.toLowerCase() !== val.toLowerCase()) return false;
+          const itemVal = item[dim]
+          if (!itemVal || itemVal.toLowerCase() !== val.toLowerCase())
+            return false
         }
-        return true;
-      });
+        return true
+      })
     }
 
-    this.updateCount();
-    this.sortData();
-    this.state.page = 1;
-    this.renderGrid(false, this.cardRenderer);
-    this.calculateFacets();
-    this.updateFilterChips();
+    this.updateCount()
+    this.sortData()
+    this.state.page = 1
+    this.renderGrid(false, this.cardRenderer)
+    this.calculateFacets()
+    this.updateFilterChips()
+    this.writeStateToURL()
   }
 
   calculateFacets() {
-    var groups = document.querySelectorAll('.facet-group');
-    var self = this;
-    groups.forEach(function(group) {
-      var dim = group.getAttribute('data-dimension');
-      if (!dim) return;
-      var counts = {};
-      self.state.filteredData.forEach(function(item) {
-        var val = item[dim];
-        if (val) counts[val] = (counts[val] || 0) + 1;
-      });
-      var container = group.querySelector('.facet-options');
-      if (!container) return;
-      var sorted = Object.keys(counts).sort();
-      var html = '';
-      sorted.forEach(function(val) {
-        var activeClass = (self.state.filters[dim] === val) ? 'active' : '';
-        html += '<div class="facet-option ' + activeClass + '" data-dimension="' + window.__sharedUtils.escapeXml(dim) + '" data-value="' + window.__sharedUtils.escapeXml(val) + '">' +
-                window.__sharedUtils.escapeXml(val) + ' <span class="facet-count">(' + counts[val] + ')</span></div>';
-      });
-      container.innerHTML = html;
-    });
+    const groups = document.querySelectorAll('.facet-group')
+    const self = this
+    groups.forEach(function (group) {
+      const dim = group.getAttribute('data-dimension')
+      if (!dim) return
+      const counts = {}
+      self.state.filteredData.forEach(function (item) {
+        const val = item[dim]
+        if (val) counts[val] = (counts[val] || 0) + 1
+      })
+      const container = group.querySelector('.facet-options')
+      if (!container) return
+      const sorted = Object.keys(counts).sort()
+      let html = ''
+      sorted.forEach(function (val) {
+        const activeClass = self.state.filters[dim] === val ? 'active' : ''
+        html +=
+          '<div class="facet-option ' +
+          activeClass +
+          '" data-dimension="' +
+          window.__sharedUtils.escapeXml(dim) +
+          '" data-value="' +
+          window.__sharedUtils.escapeXml(val) +
+          '">' +
+          window.__sharedUtils.escapeXml(val) +
+          ' <span class="facet-count">(' +
+          counts[val] +
+          ')</span></div>'
+      })
+      container.innerHTML = html
+    })
   }
 
   populateSelect(selectId, field) {
-    var select = document.getElementById(selectId);
-    if (!select || !this.cache) return;
-    var values = {};
-    this.cache.forEach(function(item) {
-      var v = item[field];
-      if (v && typeof v === 'string') { values[v] = true; }
-    });
-    var sorted = Object.keys(values).sort();
-    if (sorted.length === 0) return;
-    sorted.forEach(function(v) {
-      var opt = document.createElement('option');
-      opt.value = v;
-      opt.textContent = v;
-      select.appendChild(opt);
-    });
+    const select = document.getElementById(selectId)
+    if (!select || !this.cache) return
+    const values = {}
+    this.cache.forEach(function (item) {
+      const v = item[field]
+      if (v && typeof v === 'string') {
+        values[v] = true
+      }
+    })
+    const sorted = Object.keys(values).sort()
+    if (sorted.length === 0) return
+    sorted.forEach(function (v) {
+      const opt = document.createElement('option')
+      opt.value = v
+      opt.textContent = v
+      select.appendChild(opt)
+    })
   }
 
   updateFilterChips() {
-    var containers = document.querySelectorAll('.filter-chips-container, .active-filters');
-    if (containers.length === 0) return;
-    var html = '';
-    for (var dim in this.state.filters) {
-      var val = this.state.filters[dim];
+    const containers = document.querySelectorAll(
+      '.filter-chips-container, .active-filters'
+    )
+    if (containers.length === 0) return
+    let html = ''
+    for (const dim in this.state.filters) {
+      const val = this.state.filters[dim]
       if (val && val !== 'all') {
-        html += '<div class="filter-chip" data-dimension="' + dim + '" data-value="' + val + '">' +
-                window.__sharedUtils.escapeXml(val) + ' <span class="chip-remove">&times;</span>' +
-                '</div>';
+        html +=
+          '<div class="filter-chip" data-dimension="' +
+          dim +
+          '" data-value="' +
+          val +
+          '">' +
+          window.__sharedUtils.escapeXml(val) +
+          ' <span class="chip-remove">&times;</span>' +
+          '</div>'
       }
     }
-    containers.forEach((container) => { container.innerHTML = html; });
+    containers.forEach((container) => {
+      container.innerHTML = html
+    })
   }
 
   getParam(name) {
-    var params = new URLSearchParams(window.location.search);
-    return params.get(name);
+    const params = new URLSearchParams(window.location.search)
+    return params.get(name)
+  }
+
+  readStateFromURL() {
+    const params = new URLSearchParams(window.location.search)
+    const filterDims = ['search', 'region', 'country', 'type', 'tribe']
+    filterDims.forEach((dim) => {
+      const val = params.get(dim)
+      if (val) this.state.filters[dim] = val
+    })
+    const sort = params.get('sort')
+    if (sort) this.state.sortBy = sort
+    const page = params.get('page')
+    if (page) this.state.page = parseInt(page, 10) || 1
+  }
+
+  writeStateToURL() {
+    const params = new URLSearchParams()
+    const filterDims = ['search', 'region', 'country', 'type', 'tribe']
+    filterDims.forEach((dim) => {
+      const val = this.state.filters[dim]
+      if (val && val !== 'all') params.set(dim, val)
+    })
+    if (this.state.sortBy !== 'relevance') params.set('sort', this.state.sortBy)
+    if (this.state.page > 1) params.set('page', this.state.page)
+    const qs = params.toString()
+    const url = qs ? '?' + qs : window.location.pathname
+    window.history.replaceState(null, '', url)
+  }
+
+  syncFilterUI() {
+    const dimToInput = {
+      search: this.type === 'creatures' ? 'bestiary-search' : 'story-search',
+      region: this.type === 'creatures' ? 'bestiary-region' : 'story-region-filter',
+      country: this.type === 'creatures' ? 'bestiary-country' : 'story-country-filter',
+      type: this.type === 'creatures' ? 'bestiary-type' : 'story-type-filter',
+    }
+    for (const dim in dimToInput) {
+      const el = document.getElementById(dimToInput[dim])
+      if (el && this.state.filters[dim]) el.value = this.state.filters[dim]
+    }
+    const sortEl = document.getElementById(this.type === 'creatures' ? 'bestiary-sort' : 'stories-sort')
+    if (sortEl) sortEl.value = this.state.sortBy
   }
 }

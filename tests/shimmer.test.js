@@ -63,32 +63,44 @@ Object.keys(slugData).forEach(function (key) {
   fixtureMap['data/sharded/' + parts[0] + '/by-slug/' + parts[1] + '.json'] = slugData[key];
 });
 
-// ── XHR Mock ──
-function MockXHR() {
-  this.method = '';
-  this.url = '';
-  this.onload = null;
-  this.onerror = null;
-  this.responseText = '';
-  this.status = 0;
+// ── fetch Mock ──
+function mockFetch(data) {
+  return Promise.resolve({
+    ok: true,
+    status: 200,
+    json: function () { return Promise.resolve(data); }
+  });
 }
-MockXHR.prototype.open = function (method, url) {
-  this.method = method;
-  this.url = url;
+function mockFetch404() {
+  return Promise.resolve({
+    ok: false,
+    status: 404,
+    json: function () { return Promise.resolve({}); }
+  });
+}
+function mockFetch500() {
+  return Promise.resolve({
+    ok: false,
+    status: 500,
+    json: function () { return Promise.resolve({}); }
+  });
+}
+function mockFetchBadJSON() {
+  return Promise.resolve({
+    ok: true,
+    status: 200,
+    json: function () { return Promise.reject(new Error('Unexpected token')); }
+  });
+}
+function mockFetchNetworkError() {
+  return Promise.reject(new Error('Network error'));
+}
+var origFetch = global.fetch;
+global.fetch = function (url) {
+  var data = fixtureMap[url];
+  if (data) return mockFetch(data);
+  return mockFetch404();
 };
-MockXHR.prototype.send = function () {
-  var self = this;
-  var data = fixtureMap[self.url];
-  if (data) {
-    self.responseText = JSON.stringify(data);
-    self.status = 200;
-  } else {
-    self.status = 404;
-    self.responseText = '';
-  }
-  setTimeout(function () { if (self.onload) self.onload(); }, 0);
-};
-global.XMLHttpRequest = MockXHR;
 
 // ── Load Shimmer ──
 require('../js/shared-utils.js');
@@ -230,7 +242,7 @@ describe('Shimmer.loadRegionShard', function () {
   it('returns error for nonexistent region', function (done) {
     Shimmer.loadRegionShard('creatures', 'Nonexistent', function (err) {
       expect(err).toBeTruthy();
-      expect(err.message).toContain('not found');
+      expect(err.message).toContain('shard fetch error');
       done();
     });
   });
@@ -263,63 +275,38 @@ describe('Shimmer.loadSlugBatch', function () {
   it('returns error for nonexistent batch', function (done) {
     Shimmer.loadSlugBatch('creatures', 'zzz', function (err) {
       expect(err).toBeTruthy();
-      expect(err.message).toContain('not found');
+      expect(err.message).toContain('slug fetch error');
       done();
     });
   });
 
   it('returns error for non-200 status', function (done) {
-    var origXHR = global.XMLHttpRequest;
-    function NotFoundXHR() {
-      this.open = function () {};
-      this.send = function () {
-        var self = this;
-        self.responseText = '';
-        self.status = 404;
-        setTimeout(function () { if (self.onload) self.onload(); }, 0);
-      };
-    }
-    global.XMLHttpRequest = NotFoundXHR;
+    var origFetch = global.fetch;
+    global.fetch = function () { return mockFetch404(); };
     Shimmer.loadSlugBatch('stories', 'x', function (err) {
-      global.XMLHttpRequest = origXHR;
+      global.fetch = origFetch;
       expect(err).toBeTruthy();
-      expect(err.message).toContain('not found');
+      expect(err.message).toContain('slug fetch error');
       done();
     });
   });
 
   it('returns error for bad JSON response', function (done) {
-    var origXHR = global.XMLHttpRequest;
-    function BadJSONXHR() {
-      this.open = function () {};
-      this.send = function () {
-        var self = this;
-        self.responseText = '{bad json}';
-        self.status = 200;
-        setTimeout(function () { if (self.onload) self.onload(); }, 0);
-      };
-    }
-    global.XMLHttpRequest = BadJSONXHR;
+    var origFetch = global.fetch;
+    global.fetch = function () { return mockFetchBadJSON(); };
     Shimmer.loadSlugBatch('stories', 'x', function (err) {
-      global.XMLHttpRequest = origXHR;
+      global.fetch = origFetch;
       expect(err).toBeTruthy();
-      expect(err.message).toContain('bad slug data');
+      expect(err.message).toContain('slug fetch error');
       done();
     });
   });
 
-  it('returns error on XHR failure', function (done) {
-    var origXHR = global.XMLHttpRequest;
-    function ErrorXHR() {
-      this.open = function () {};
-      this.send = function () {
-        var self = this;
-        setTimeout(function () { if (self.onerror) self.onerror(); }, 0);
-      };
-    }
-    global.XMLHttpRequest = ErrorXHR;
+  it('returns error on network failure', function (done) {
+    var origFetch = global.fetch;
+    global.fetch = function () { return mockFetchNetworkError(); };
     Shimmer.loadSlugBatch('stories', 'x', function (err) {
-      global.XMLHttpRequest = origXHR;
+      global.fetch = origFetch;
       expect(err).toBeTruthy();
       expect(err.message).toContain('slug fetch error');
       done();
@@ -531,45 +518,29 @@ describe('Shimmer.getAllItems', function () {
 // ─────────────────────────────────────────────────────────────────────
 describe('Shimmer error paths', function () {
   it('handle bad JSON in manifest response', function (done) {
-    var origXHR = global.XMLHttpRequest;
-    function BadJSONXHR() {
-      this.open = function () {};
-      this.send = function () {
-        var self = this;
-        self.responseText = '{ bad json }}}';
-        self.status = 200;
-        setTimeout(function () { if (self.onload) self.onload(); }, 0);
-      };
-    }
-    global.XMLHttpRequest = BadJSONXHR;
+    var origFetch = global.fetch;
+    global.fetch = function () { return mockFetchBadJSON(); };
 
     Shimmer.loadManifest().then(function () {
-      global.XMLHttpRequest = origXHR;
+      global.fetch = origFetch;
       done(new Error('should not resolve'));
     }).catch(function (err) {
-      global.XMLHttpRequest = origXHR;
+      global.fetch = origFetch;
       expect(err).toBeTruthy();
-      expect(err.message).toContain('bad manifest');
+      expect(err.message).toContain('no manifest');
       done();
     });
   });
 
-  it('handle XHR network error for manifest', function (done) {
-    var origXHR = global.XMLHttpRequest;
-    function ErrorXHR() {
-      this.open = function () {};
-      this.send = function () {
-        var self = this;
-        setTimeout(function () { if (self.onerror) self.onerror(); }, 0);
-      };
-    }
-    global.XMLHttpRequest = ErrorXHR;
+  it('handle network error for manifest', function (done) {
+    var origFetch = global.fetch;
+    global.fetch = function () { return mockFetchNetworkError(); };
 
     Shimmer.loadManifest().then(function () {
-      global.XMLHttpRequest = origXHR;
+      global.fetch = origFetch;
       done(new Error('should not resolve'));
     }).catch(function (err) {
-      global.XMLHttpRequest = origXHR;
+      global.fetch = origFetch;
       expect(err).toBeTruthy();
       expect(err.message).toContain('no manifest');
       done();
@@ -577,23 +548,14 @@ describe('Shimmer error paths', function () {
   });
 
   it('handle non-200 status for manifest', function (done) {
-    var origXHR = global.XMLHttpRequest;
-    function ServerErrorXHR() {
-      this.open = function () {};
-      this.send = function () {
-        var self = this;
-        self.responseText = '';
-        self.status = 500;
-        setTimeout(function () { if (self.onload) self.onload(); }, 0);
-      };
-    }
-    global.XMLHttpRequest = ServerErrorXHR;
+    var origFetch = global.fetch;
+    global.fetch = function () { return mockFetch500(); };
 
     Shimmer.loadManifest().then(function () {
-      global.XMLHttpRequest = origXHR;
+      global.fetch = origFetch;
       done(new Error('should not resolve'));
     }).catch(function (err) {
-      global.XMLHttpRequest = origXHR;
+      global.fetch = origFetch;
       expect(err).toBeTruthy();
       expect(err.message).toContain('no manifest');
       done();
@@ -601,39 +563,23 @@ describe('Shimmer error paths', function () {
   });
 
   it('handle bad JSON in region shard response', function (done) {
-    var origXHR = global.XMLHttpRequest;
-    function BadShardXHR() {
-      this.open = function () {};
-      this.send = function () {
-        var self = this;
-        self.responseText = 'not json at all';
-        self.status = 200;
-        setTimeout(function () { if (self.onload) self.onload(); }, 0);
-      };
-    }
-    global.XMLHttpRequest = BadShardXHR;
+    var origFetch = global.fetch;
+    global.fetch = function () { return mockFetchBadJSON(); };
 
     Shimmer.loadRegionShard('creatures', 'Nordic', function (err) {
-      global.XMLHttpRequest = origXHR;
+      global.fetch = origFetch;
       expect(err).toBeTruthy();
-      expect(err.message).toContain('bad shard data');
+      expect(err.message).toContain('shard fetch error');
       done();
     });
   });
 
-  it('handle XHR error for region shard', function (done) {
-    var origXHR = global.XMLHttpRequest;
-    function ErrorXHR() {
-      this.open = function () {};
-      this.send = function () {
-        var self = this;
-        setTimeout(function () { if (self.onerror) self.onerror(); }, 0);
-      };
-    }
-    global.XMLHttpRequest = ErrorXHR;
+  it('handle network error for region shard', function (done) {
+    var origFetch = global.fetch;
+    global.fetch = function () { return mockFetchNetworkError(); };
 
     Shimmer.loadRegionShard('creatures', 'Nordic', function (err) {
-      global.XMLHttpRequest = origXHR;
+      global.fetch = origFetch;
       expect(err).toBeTruthy();
       expect(err.message).toContain('shard fetch error');
       done();
@@ -641,22 +587,13 @@ describe('Shimmer error paths', function () {
   });
 
   it('handle non-200 status for region shard', function (done) {
-    var origXHR = global.XMLHttpRequest;
-    function ServerErrorXHR() {
-      this.open = function () {};
-      this.send = function () {
-        var self = this;
-        self.responseText = '';
-        self.status = 500;
-        setTimeout(function () { if (self.onload) self.onload(); }, 0);
-      };
-    }
-    global.XMLHttpRequest = ServerErrorXHR;
+    var origFetch = global.fetch;
+    global.fetch = function () { return mockFetch500(); };
 
     Shimmer.loadRegionShard('creatures', 'Nordic', function (err) {
-      global.XMLHttpRequest = origXHR;
+      global.fetch = origFetch;
       expect(err).toBeTruthy();
-      expect(err.message).toContain('shard not found');
+      expect(err.message).toContain('shard fetch error');
       done();
     });
   });

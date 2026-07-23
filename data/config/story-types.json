@@ -1,0 +1,37 @@
+{
+  "canonical": [
+    "legend", "myth", "fairy-tale", "folktale", "epic",
+    "supernatural", "deity", "fable", "ballad", "saga",
+    "romance", "ritual"
+  ],
+  "mapping": {
+    "historical-legend": "legend",
+    "urban-legend": "legend",
+    "maritime-legend": "legend",
+    "cryptid-legend": "legend",
+    "creation-myth": "myth",
+    "tale": "fairy-tale",
+    "folklore": "folktale",
+    "folklore-being": "folktale",
+    "folklore-rhyme": "folktale",
+    "folkloric-figure": "folktale",
+    "spirit": "supernatural",
+    "horror": "supernatural",
+    "deities": "deity",
+    "trickster": "folktale",
+    "adventure": "epic",
+    "race": "legend",
+    "afterlife": "supernatural",
+    "cryptid": "legend",
+    "tall tale": "folktale",
+    "historical": "legend",
+    "hero": "epic",
+    "monster": "legend",
+    "cultural-tradition": "folktale",
+    "mystery": "legend",
+    "vision": "legend",
+    "sacred-place": "legend",
+    "miracle": "legend",
+    "mythical-being": "myth"
+  }
+}

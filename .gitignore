@@ -13,8 +13,12 @@ node_modules/
 .playwright-cli/
 playwright-report/
 test-results/
+test-results */
 screenshots/
 test-screenshots/
+
+# Coverage output
+coverage/
 
 # Artifacts
 .superpowers/brainstorm/
@@ -37,3 +41,7 @@ backup_v2/
 data/stories_batch_1_*
 data/missing_stories_gap.json
 scripts/
+
+# Environment files
+.env
+.env.*

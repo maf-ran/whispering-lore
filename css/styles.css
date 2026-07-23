@@ -1587,6 +1587,31 @@ nav a.active::after {
   margin-bottom: 1.5rem;
 }
 
+.detail-nav-row {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 0;
+  border-top: 1px solid var(--border);
+  margin-top: 1.5rem;
+}
+.detail-nav-btn {
+  background: none;
+  border: 1px solid var(--border);
+  color: var(--text-secondary);
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  border-radius: 6px;
+  font-family: var(--font-body);
+  transition: border-color 0.2s, color 0.2s;
+}
+.detail-nav-btn:hover {
+  border-color: var(--accent);
+  color: var(--text-primary);
+}
+.detail-nav-arrow {
+  font-size: 1.1em;
+}
+
 /* ── Creature Detail Full Page ── */
 
 .cd-loader {

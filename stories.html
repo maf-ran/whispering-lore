@@ -30,7 +30,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&family=Lora:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="css/styles.css" />
-  <script src="https://unpkg.com/@phosphor-icons/web"></script>
+  <script src="vendor/phosphor-icons/dist/phosphor-icons.js"></script>
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -281,6 +281,15 @@
       </div>
     </div>
 
+    <div class="detail-nav-row">
+      <button class="detail-nav-btn" id="detail-prev" aria-label="Previous story" style="display:none">
+        <span class="detail-nav-arrow">&larr;</span> Previous
+      </button>
+      <button class="detail-nav-btn" id="detail-next" aria-label="Next story" style="display:none">
+        Next <span class="detail-nav-arrow">&rarr;</span>
+      </button>
+    </div>
+
     <div class="cd-error is-hidden" id="detail-error">
       <p>This story has not yet been recorded in our archives.</p>
       <a href="stories.html" class="card-cta">Return to Stories</a>
@@ -308,6 +317,29 @@
   <script src="js/shared-utils.js"></script>
   <script src="js/citations.js"></script>
   <script src="js/main.js"></script>
+  <script>
+    // Preload creatures for cross-referencing in story detail
+    (function() {
+      fetch('data/sharded/manifest.json')
+        .then(function(r) { return r.json() })
+        .then(function(manifest) {
+          var creatureManifest = manifest.creatures
+          if (creatureManifest && creatureManifest.shards) {
+            return Promise.all(creatureManifest.shards.map(function(shard) {
+              return fetch(shard.path)
+                .then(function(r) { return r.json() })
+                .then(function(data) { return Array.isArray(data) ? data : data.items || [] })
+                .catch(function() { return [] })
+            }))
+          }
+          return []
+        })
+        .then(function(results) {
+          window.__FULL_CREATURES = results.reduce(function(acc, arr) { return acc.concat(arr) }, [])
+        })
+        .catch(function() {})
+    })();
+  </script>
   <script type="module" src="js/stories-viewer.js"></script>
   <script src="js/rune-scatter.js" defer></script>
   <script>if('serviceWorker' in navigator){navigator.serviceWorker.register('/sw.js')}</script>

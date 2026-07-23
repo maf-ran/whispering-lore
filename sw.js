@@ -1,6 +1,6 @@
-var CACHE_NAME = "whisperinglore-v1_0_2"
+const CACHE_NAME = "whisperinglore-v1_0_4"
 
-var CORE_ASSETS = [
+const CORE_ASSETS = [
   '/',
   '/index.html',
   '/bestiary.html',
@@ -29,7 +29,9 @@ var CORE_ASSETS = [
     '/data/sharded/manifest.json',
     '/og-image.svg',
     '/favicon.svg',
-    '/images/placeholder-creature.svg'
+    '/images/placeholder-creature.svg',
+    '/vendor/phosphor-icons/dist/phosphor-icons.js',
+    '/vendor/topojson/countries-110m.json'
 ]
 
 self.addEventListener('install', function (event) {
@@ -59,9 +61,9 @@ self.addEventListener('activate', function (event) {
 self.addEventListener('fetch', function (event) {
   event.respondWith(
     caches.match(event.request).then(function (cached) {
-      var fetchPromise = fetch(event.request).then(function (response) {
+      const fetchPromise = fetch(event.request).then(function (response) {
         if (response && response.status === 200 && response.type === 'basic') {
-          var cloned = response.clone()
+          const cloned = response.clone()
           caches.open(CACHE_NAME).then(function (cache) {
             cache.put(event.request, cloned).catch(function () {})
           })
