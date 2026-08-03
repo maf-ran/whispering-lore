@@ -31,6 +31,7 @@
 | source | string | "Aboriginal Australian folklore" | Specific source citation |
 | source_quality | string | "unknown" | Reliability rating |
 | source_type | string | "oral_tradition" | oral_tradition, literary, unknown |
+| attested | boolean | undefined | Independent attestation in folklore sources (research pass) |
 | living_tradition | boolean | false | Is it still part of active folk belief? |
 | lastUpdated | string | "2026-07-05" | Date of last update |
 | version | string | "1.0.0" | Schema version |

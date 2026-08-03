@@ -93,10 +93,11 @@
       "the-rooster-the-hand-mill-and-the-swarm-of-hornets"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": true,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/tɔmte/"
+    "pronunciation_ipa": "/tɔmte/",
+    "attested": true
   },
   {
     "id": "tomte-v-tt-1806",
@@ -172,10 +173,11 @@
       "the-rooster-the-hand-mill-and-the-swarm-of-hornets"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/tɔmte/"
+    "pronunciation_ipa": "/tɔmte/",
+    "attested": false
   },
   {
     "id": "troll-norway-1819",
@@ -324,10 +326,11 @@
       "soria-moria-castle"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/tɾɔl/"
+    "pronunciation_ipa": "/tɾɔl/",
+    "attested": true
   },
   {
     "id": "troll-sweden-1820",
@@ -432,9 +435,10 @@
       "johan-and-the-trolls"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "troll-denmark-1821",
@@ -534,10 +538,11 @@
       "johan-and-the-trolls"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/tɾɔl/"
+    "pronunciation_ipa": "/tɾɔl/",
+    "attested": true
   },
   {
     "id": "troll-iceland-1822",
@@ -638,9 +643,10 @@
       "johan-and-the-trolls"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "trollkjerring-1823",
@@ -704,9 +710,10 @@
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "trollkona-sweden-1824",
@@ -946,9 +953,10 @@
       "the-troll-who-captured-a-princess"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "tusse-norway-2126",
@@ -1705,9 +1713,10 @@
       "johan-and-the-trolls"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "creature-trollkvinna-012",
@@ -1768,12 +1777,13 @@
     "stories": [],
     "summary": "Tonttu is a small, bearded household spirit from Finnish folklore, similar to a gnome or tomte, who protects homes and barns if treated with respect.",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "literary",
     "source_quality": "expert",
     "schema_org_type": "MythicalCreature",
-    "archetype": "spirit"
+    "archetype": "spirit",
+    "attested": true
   },
   {
     "id": "akkarmora-2191",
@@ -1839,10 +1849,7 @@
     "seo_description": "Akkarmora is a giant octopus or squid-like sea guardian from the Måsøy region of Finnmark, Northern Norway. The name comes from akkar (squid/octopus i",
     "motifs": [],
     "featured_in_stories": [],
-    "source": [
-      "Norwegian folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Norwegian folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -1882,12 +1889,13 @@
       "the-fate-of-aino"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "literary",
     "source_quality": "expert",
     "cultural_significance": "Tragic figure from Finnish mythology whose story reflects themes of agency, fate, and sacrifice.",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "attested": true
   },
   {
     "id": "creature-finland-003",
@@ -1915,12 +1923,13 @@
     "stories": [],
     "summary": "Ajatar is a female serpent-dragon from Finnish folklore, a forest spirit of disease who spreads pestilence and is associated with the devil.",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "literary",
     "source_quality": "expert",
     "schema_org_type": "MythicalCreature",
-    "archetype": "spirit"
+    "archetype": "spirit",
+    "attested": true
   },
   {
     "id": "creature-finland-005",
@@ -1948,12 +1957,13 @@
     "stories": [],
     "summary": "Aarni is a guardian spirit of hidden treasure in Finnish folklore, often appearing as a small old man or a glowing light protecting buried wealth.",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "literary",
     "source_quality": "poor",
     "schema_org_type": "MythicalCreature",
-    "archetype": "guardian"
+    "archetype": "guardian",
+    "attested": false
   },
   {
     "id": "mara-sweden-1123",
@@ -2049,10 +2059,11 @@
       "mara-sabina--the-mushroom-shaman-of-oaxaca"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/maːra/"
+    "pronunciation_ipa": "/maːra/",
+    "attested": true
   },
   {
     "id": "mennink-inen-1152",
@@ -2118,10 +2129,11 @@
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/menninkäinen/"
+    "pronunciation_ipa": "/menninkäinen/",
+    "attested": true
   },
   {
     "id": "mets-nhenki-1156",
@@ -2188,9 +2200,10 @@
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "myling-1253",
@@ -2271,9 +2284,10 @@
       "the-rooster-the-hand-mill-and-the-swarm-of-hornets"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "m-rksugga-1258",
@@ -2350,9 +2364,10 @@
       "the-rooster-the-hand-mill-and-the-swarm-of-hornets"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "marm-le-2136",
@@ -2417,10 +2432,7 @@
       "A200"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Norwegian folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Norwegian folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -2492,10 +2504,7 @@
       "A200"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Norwegian folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Norwegian folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -2572,10 +2581,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Norwegian folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Norwegian folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -2671,10 +2677,7 @@
       "popobawa-the-bat-wing-terror-of-zanzibar",
       "maha-sona-the-great-graveyard-demon-of-sri-lanka"
     ],
-    "source": [
-      "Norwegian folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Norwegian folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -2766,10 +2769,7 @@
       "popobawa-the-bat-wing-terror-of-zanzibar",
       "maha-sona-the-great-graveyard-demon-of-sri-lanka"
     ],
-    "source": [
-      "Danish folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Danish folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -2840,10 +2840,7 @@
     "seo_description": "Mannbjørn (man-bear) is a werebear in Norwegian folklore — a human who can transform into a bear. In Norwegian tradition, the bear transformation was ",
     "motifs": [],
     "featured_in_stories": [],
-    "source": [
-      "Norwegian folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Norwegian folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -2918,10 +2915,7 @@
     "featured_in_stories": [
       "the-ghostly-monks-of-trondheimsfjorden"
     ],
-    "source": [
-      "Norwegian folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Norwegian folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [
       "the-ghostly-monks-of-trondheimsfjorden"
@@ -3230,10 +3224,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Norwegian folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Norwegian folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -3303,10 +3294,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Swedish folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Swedish folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [
       "the-lame-dog",
@@ -3385,10 +3373,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Danish folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Danish folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -3474,9 +3459,10 @@
       "ones-own-children-are-always-prettiest"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "metalhunde-denmark-0019",
@@ -3549,9 +3535,10 @@
     "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "marjatta-finland-0001",
@@ -3587,12 +3574,13 @@
       "mariatta--wainamoinens-departure"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "literary",
     "source_quality": "good",
     "cultural_significance": "Virgin figure in Finnish mythology whose story parallels themes of purity and divine birth.",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "attested": true
   },
   {
     "id": "marmennil-faroeislands-3517",
@@ -3820,9 +3808,10 @@
       "the-rooster-the-hand-mill-and-the-swarm-of-hornets"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "landvttir-iceland-1044",
@@ -4050,9 +4039,10 @@
       "soria-moria-castle"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "lyktemann-2145",
@@ -4121,10 +4111,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Norwegian folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Norwegian folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -4199,10 +4186,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Norwegian folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Norwegian folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -4431,10 +4415,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Norwegian folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Norwegian folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -4576,10 +4557,7 @@
       "F300"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Norwegian folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Norwegian folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -4653,10 +4631,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Norwegian folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Norwegian folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -4872,10 +4847,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Swedish folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Swedish folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [
       "the-lame-dog",
@@ -4958,10 +4930,7 @@
     "seo_description": "Älvakungen (the elf king) is the ruler of the elves (älvor) in Swedish folklore. He leads the elf dance (älvadans) on misty meadows, especially around",
     "motifs": [],
     "featured_in_stories": [],
-    "source": [
-      "Swedish folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Swedish folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [
       "the-lame-dog",
@@ -5039,10 +5008,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Danish folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Danish folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -5124,9 +5090,10 @@
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "louhi-finland-0001",
@@ -5175,12 +5142,13 @@
       "restoration-of-the-sun-and-moon"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "literary",
     "source_quality": "good",
     "cultural_significance": "Powerful witch-queen of Pohjola in Finnish mythology, a master of magic and adversary of Väinämöinen.",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "attested": true
   },
   {
     "id": "lemminkainen-finland-0001",
@@ -5224,12 +5192,13 @@
       "capture-of-the-sampo"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "literary",
     "source_quality": "good",
     "cultural_significance": "Bold and reckless hero of Finnish mythology, known for his adventures and tragic death in the river of Tuonela.",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "attested": true
   },
   {
     "id": "creature-lindorm-001",
@@ -5279,10 +5248,7 @@
     "habitat": "The open heather-moors and scrublands of central and southern Sweden.",
     "cultural_significance": "The Ljungrå embodies the solitude and stark beauty of the Swedish moorlands. She serves as a reminder that even the most open landscapes have their own hidden guardians and secrets.",
     "fun_fact": "It is believed that if you find a perfectly circular patch of heather where nothing else grows, a Ljungrå has slept there.",
-    "source": [
-      "Swedish folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Swedish folk belief and ethnographic records of rural traditions.",
     "related": [
       "fylgja",
       "hamingja",
@@ -5326,12 +5292,13 @@
     "stories": [],
     "summary": "Lempo is a malicious forest spirit or devil from Finnish folklore who leads travelers astray and is associated with the god Hiisi.",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "literary",
     "source_quality": "expert",
     "schema_org_type": "MythicalCreature",
-    "archetype": "spirit"
+    "archetype": "spirit",
+    "attested": true
   },
   {
     "id": "yule-lads-2083",
@@ -5399,9 +5366,10 @@
     "source_quality": "expert",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "utburd-2121",
@@ -5734,12 +5702,13 @@
       "birth-of-wainamoinen"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "literary",
     "source_quality": "academic",
     "cultural_significance": "Ukko is a a god from Nordic mythology, representing important cultural values and traditional beliefs.",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "attested": true
   },
   {
     "id": "keiju-0944",
@@ -5890,9 +5859,10 @@
       "the-rooster-the-hand-mill-and-the-swarm-of-hornets"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "k-pakonan-selkie-1005",
@@ -6105,10 +6075,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Norwegian folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Norwegian folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -6181,10 +6148,7 @@
     "seo_description": "Kvitormen (the White Serpent) is a magical white snake from the folk belief of Vest-Agder in Sørlandet, particularly the areas of Lyngdal, Bjelland, a",
     "motifs": [],
     "featured_in_stories": [],
-    "source": [
-      "Norwegian folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Norwegian folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -6262,9 +6226,10 @@
     "source_quality": "expert",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "katthveli-faroeislands-2233",
@@ -6334,9 +6299,10 @@
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "kyrkogrim-2244",
@@ -6484,10 +6450,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Danish folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Danish folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -6608,12 +6571,13 @@
       "kullerwoinens-victory-and-death"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "literary",
     "source_quality": "good",
     "cultural_significance": "Kullervo is a a human from Nordic mythology, representing important cultural values and traditional beliefs.",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "attested": true
   },
   {
     "id": "kellingin-faroeislands-3516",
@@ -6980,12 +6944,13 @@
     "stories": [],
     "summary": "Rahko is a spirit or deity from Finnish-Karelian folklore associated with the waning moon and darkness, sometimes considered a god of sickness.",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "literary",
     "source_quality": "expert",
     "schema_org_type": "MythicalCreature",
-    "archetype": "spirit"
+    "archetype": "spirit",
+    "attested": true
   },
   {
     "id": "gast-0762",
@@ -7065,9 +7030,10 @@
       "the-rooster-the-hand-mill-and-the-swarm-of-hornets"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "gloson-0773",
@@ -7140,9 +7106,10 @@
       "the-rooster-the-hand-mill-and-the-swarm-of-hornets"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "gardvord-2117",
@@ -7214,10 +7181,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Norwegian folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Norwegian folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -7290,10 +7254,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Norwegian folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Norwegian folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -7371,10 +7332,7 @@
     "featured_in_stories": [
       "guri-kunna-the-sea-witch-of-hitra"
     ],
-    "source": [
-      "Norwegian folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Norwegian folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [
       "guri-kunna-the-sea-witch-of-hitra"
@@ -7446,10 +7404,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Norwegian folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Norwegian folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -7522,10 +7477,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Norwegian folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Norwegian folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -7601,10 +7553,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Norwegian folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Norwegian folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -7696,9 +7645,10 @@
     "source_quality": "expert",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "grla-faroeislands-2223",
@@ -7766,9 +7716,10 @@
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "gruvr-et-2247",
@@ -7833,10 +7784,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Swedish folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Swedish folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [
       "the-lame-dog",
@@ -7920,10 +7868,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Swedish folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Swedish folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [
       "the-lame-dog",
@@ -8005,10 +7950,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Swedish folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Swedish folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [
       "the-lame-dog",
@@ -8089,10 +8031,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Danish folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Danish folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -8170,10 +8109,7 @@
       "A200"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Danish folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Danish folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [
       "the-goblin-and-the-grocer"
@@ -8255,9 +8191,10 @@
     "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "creature-iceland-004",
@@ -8285,12 +8222,13 @@
     "stories": [],
     "summary": "Winter Grýla is a seasonal variant of the Icelandic ogress Grýla, said to be particularly active during the harsh winter months, coming down from the highlands to hunt for naughty children.",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "literary",
     "source_quality": "poor",
     "schema_org_type": "MythicalCreature",
-    "archetype": "demonic-entity"
+    "archetype": "demonic-entity",
+    "attested": false
   },
   {
     "id": "fairy-norway-0688",
@@ -8384,9 +8322,10 @@
     "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "fairy-denmark-0692",
@@ -8480,9 +8419,10 @@
     "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "fenrir-0700",
@@ -8618,10 +8558,7 @@
     "seo_description": "Danish mountain giant or hill man from folklore. Lives in ancient burial mounds. Usually friendly but strong. Can be tricked easily and works as a master smith",
     "motifs": [],
     "featured_in_stories": [],
-    "source": [
-      "Danish folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Danish folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -9067,10 +9004,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Norwegian folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Norwegian folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -9141,10 +9075,7 @@
     "seo_description": "Fakse is a type of carved wooden cult idol from the Setesdal region of Sørlandet, representing a rare survival of pre-Christian worship practices into",
     "motifs": [],
     "featured_in_stories": [],
-    "source": [
-      "Norwegian folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Norwegian folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -9360,10 +9291,7 @@
     "seo_description": "Finnur hin Fróði (Finn the Wise) is the legendary Faroese wizard associated with the Black Book (Cyprianus) tradition of Scandinavian folk magic.",
     "motifs": [],
     "featured_in_stories": [],
-    "source": [
-      "Faroese folk belief and ethnographic records of island traditions.",
-      "good"
-    ],
+    "source": "Faroese folk belief and ethnographic records of island traditions.",
     "source_quality": "good",
     "stories": [
       "finnur-hin-fri-and-faroese-wizard-legends"
@@ -9469,9 +9397,10 @@
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "selkie-iceland-1653",
@@ -9619,9 +9548,10 @@
       "the-rooster-the-hand-mill-and-the-swarm-of-hornets"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "sj-jungfru-1688",
@@ -9700,9 +9630,10 @@
       "the-rooster-the-hand-mill-and-the-swarm-of-hornets"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "sj-r-et-1689",
@@ -9784,9 +9715,10 @@
       "the-rooster-the-hand-mill-and-the-swarm-of-hornets"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "skogsfru-1695",
@@ -9869,9 +9801,10 @@
       "the-rooster-the-hand-mill-and-the-swarm-of-hornets"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "skogsr-1696",
@@ -9959,9 +9892,10 @@
       "the-rooster-the-hand-mill-and-the-swarm-of-hornets"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "skvader-1700",
@@ -10032,9 +9966,10 @@
       "the-rooster-the-hand-mill-and-the-swarm-of-hornets"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "stalldemon-stable-demon-1723",
@@ -10112,9 +10047,10 @@
       "the-rooster-the-hand-mill-and-the-swarm-of-hornets"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "storsj-odjuret-1729",
@@ -10193,9 +10129,10 @@
       "the-rooster-the-hand-mill-and-the-swarm-of-hornets"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "skr-mt-2120",
@@ -10262,10 +10199,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Norwegian folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Norwegian folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -10557,10 +10491,7 @@
       "A200"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Norwegian folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Norwegian folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -10631,10 +10562,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Norwegian folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Norwegian folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -11068,10 +10996,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Norwegian folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Norwegian folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -11141,10 +11066,7 @@
       "F300"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Norwegian folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Norwegian folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -11648,10 +11570,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Swedish folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Swedish folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [
       "the-lame-dog",
@@ -11730,10 +11649,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Swedish folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Swedish folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [
       "the-lame-dog",
@@ -11813,10 +11729,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Swedish folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Swedish folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [
       "the-lame-dog",
@@ -11896,10 +11809,7 @@
       "F300"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Swedish folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Swedish folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [
       "the-lame-dog",
@@ -11980,10 +11890,7 @@
     "seo_description": "Skogmannen (the forest man) is the rare male counterpart to the Skogsrå in Swedish folklore, found primarily in Skåne and adjacent regions. Unlike the",
     "motifs": [],
     "featured_in_stories": [],
-    "source": [
-      "Swedish folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Swedish folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [
       "the-lame-dog",
@@ -12061,10 +11968,7 @@
     "seo_description": "Skiftingen (also called Bytting) is the Danish changeling — a troll or Bjergfolk infant secretly exchanged for a human baby. The changeling is ugly, s",
     "motifs": [],
     "featured_in_stories": [],
-    "source": [
-      "Danish folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Danish folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -12207,10 +12111,7 @@
       "A200"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Danish folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Danish folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -12291,9 +12192,10 @@
     "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "snedronningen-denmark-0017",
@@ -12369,9 +12271,10 @@
     "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "svartalv-swedish-3484",
@@ -12693,12 +12596,13 @@
     "stories": [],
     "summary": "Syöjätär is a female cannibal giant or witch from Finnish folklore, often found in the forest luring and devouring children and travelers.",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "literary",
     "source_quality": "expert",
     "schema_org_type": "MythicalCreature",
-    "archetype": "demonic-entity"
+    "archetype": "demonic-entity",
+    "attested": true
   },
   {
     "id": "j-tul-2130",
@@ -12762,10 +12666,7 @@
     "seo_description": "Jøtul (also spelled jotne, jotun; plural: jøtuler) is the Norwegian folk term for the giants of Norse mythology and later Norwegian folklore. In Old N",
     "motifs": [],
     "featured_in_stories": [],
-    "source": [
-      "Norwegian folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Norwegian folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -12834,10 +12735,7 @@
     "seo_description": "Jutulkloa (the Giant's Claw) is a legendary giant associated with a distinctive rock formation on the Fosen coast of Trøndelag. The name combines 'jut",
     "motifs": [],
     "featured_in_stories": [],
-    "source": [
-      "Norwegian folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Norwegian folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -12986,9 +12884,10 @@
     "source_quality": "expert",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "jerff-3478",
@@ -13234,12 +13133,13 @@
     "source": "Elias Lönnrot, Kalevala (Runes 3–5, 40–41); Anna-Leena Siikala (2012); Kaarle Krohn (1914); SKVR runic song archives",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "literary",
     "source_quality": "expert",
     "cultural_significance": "Joukahainen is a a human from Nordic mythology, representing important cultural values and traditional beliefs.",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "attested": true
   },
   {
     "id": "jormungandr-faroeislands-3519",
@@ -13386,9 +13286,10 @@
       "how-death-came-to-humanity-yorubabenin"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "imehornets-underjordiske-2211",
@@ -13531,9 +13432,10 @@
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "irrbloss-3479",
@@ -13681,12 +13583,13 @@
       "birth-of-wainamoinen"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "literary",
     "source_quality": "expert",
     "cultural_significance": "Ilmatar is a a spirit from Nordic mythology, representing important cultural values and traditional beliefs.",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "attested": true
   },
   {
     "id": "ilmarinen-finland-0001",
@@ -13733,12 +13636,13 @@
       "capture-of-the-fire-fish"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "literary",
     "source_quality": "expert",
     "cultural_significance": "Ilmarinen is a a demigod from Nordic mythology, representing important cultural values and traditional beliefs.",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "attested": true
   },
   {
     "id": "ellefolk-0667",
@@ -13948,10 +13852,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Norwegian folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Norwegian folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -14029,10 +13930,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Norwegian folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Norwegian folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -14117,9 +14015,10 @@
       "brother-martin"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "creature-finland-012",
@@ -14147,12 +14046,13 @@
     "stories": [],
     "summary": "Etiäinen is a Finnish doppelgänger or fetch spirit that appears as a person's double, serving as an omen or representation of their soul.",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "literary",
     "source_quality": "expert",
     "schema_org_type": "MythicalCreature",
-    "archetype": "spirit"
+    "archetype": "spirit",
+    "attested": true
   },
   {
     "id": "peikko-1435",
@@ -14220,9 +14120,10 @@
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "pesta-2128",
@@ -14663,9 +14564,10 @@
       "torre-jeppe"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "dwarf-dvergr-0587",
@@ -14817,9 +14719,10 @@
       "the-rooster-the-hand-mill-and-the-swarm-of-hornets"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "deildegast-2118",
@@ -15022,10 +14925,7 @@
     "seo_description": "Dradokke (from dra = pull and dokke = doll) is a magical doll used by trolls and witches in Norwegian folklore to cast spells and manipulate events fr",
     "motifs": [],
     "featured_in_stories": [],
-    "source": [
-      "Norwegian folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Norwegian folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -15238,10 +15138,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Norwegian folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Norwegian folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -15317,10 +15214,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Norwegian folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Norwegian folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -15392,10 +15286,7 @@
       "F300"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Danish folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Danish folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -15481,9 +15372,10 @@
       "lord-peter"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "drake-swedish-3480",
@@ -16043,12 +15935,13 @@
     "stories": [],
     "summary": "Black Draugr is a particularly malevolent variant of the Norse draugr, a reanimated corpse with dark powers that rises from its burial mound to terrorize the living.",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "literary",
     "source_quality": "poor",
     "schema_org_type": "MythicalCreature",
-    "archetype": "guardian"
+    "archetype": "guardian",
+    "attested": false
   },
   {
     "id": "haltija-0803",
@@ -16189,10 +16082,7 @@
       "F300"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Swedish folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Swedish folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [
       "the-lame-dog",
@@ -16591,10 +16481,7 @@
     "seo_description": "Huldufólk (the Hidden People) are the most pervasive supernatural beings in Faroese folklore — a parallel race living just beyond human sight. Unlike ",
     "motifs": [],
     "featured_in_stories": [],
-    "source": [
-      "Faroese folk belief and ethnographic records of island traditions.",
-      "good"
-    ],
+    "source": "Faroese folk belief and ethnographic records of island traditions.",
     "source_quality": "good",
     "stories": [
       "hulduflk-the-hidden-people",
@@ -16756,10 +16643,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Norwegian folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Norwegian folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -16830,10 +16714,7 @@
     "seo_description": "Havmann (the sea-man) is a male merman figure in Norwegian coastal folklore, particularly strong along the Vestlandet fjords. Unlike the terrifying sj",
     "motifs": [],
     "featured_in_stories": [],
-    "source": [
-      "Norwegian folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Norwegian folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -16975,10 +16856,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Norwegian folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Norwegian folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -17048,10 +16926,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Norwegian folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Norwegian folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -17122,10 +16997,7 @@
     "seo_description": "Hitra-Kjempen (the Hitra Giant) is a legendary giant said to have lived on the island of Hitra, the largest island in Trøndelag (568 square kilometers",
     "motifs": [],
     "featured_in_stories": [],
-    "source": [
-      "Norwegian folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Norwegian folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -17399,10 +17271,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Norwegian folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Norwegian folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -17475,10 +17344,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Norwegian folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Norwegian folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -17626,10 +17492,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Swedish folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Swedish folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [
       "the-lame-dog",
@@ -17709,10 +17572,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Swedish folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Swedish folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [
       "the-lame-dog",
@@ -17791,10 +17651,7 @@
       "F300"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Danish folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Danish folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [
       "helhest-story"
@@ -17872,10 +17729,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Danish folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Danish folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -17960,9 +17814,10 @@
       "agneta-and-the-sea-king"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "havfrue-denmark-0002",
@@ -18039,9 +17894,10 @@
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "hel-denmark-0006",
@@ -18120,9 +17976,10 @@
       "the-living-goddess-kumari-of-nepal"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "heks-denmark-0009",
@@ -18201,9 +18058,10 @@
       "buttercup"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "creature-havsmannen-003",
@@ -18364,13 +18222,14 @@
     "stories": [],
     "summary": "Huldu-Elder is a wise and ancient leader of the Huldufólk (hidden people) in Icelandic folklore, possessing deep knowledge of the hidden world.",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "literary",
     "pronunciation_ipa": "/huldufɔlk/",
     "source_quality": "poor",
     "schema_org_type": "MythicalCreature",
-    "archetype": "spirit"
+    "archetype": "spirit",
+    "attested": false
   },
   {
     "id": "vittra-1892",
@@ -18463,9 +18322,10 @@
       "the-rooster-the-hand-mill-and-the-swarm-of-hornets"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "v-ki-1901",
@@ -18534,9 +18394,10 @@
     "source_quality": "expert",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "v-tt-1902",
@@ -18614,9 +18475,10 @@
       "the-rooster-the-hand-mill-and-the-swarm-of-hornets"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "v-rd-1903",
@@ -18696,9 +18558,10 @@
       "the-rooster-the-hand-mill-and-the-swarm-of-hornets"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "vette-2125",
@@ -18997,10 +18860,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Norwegian folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Norwegian folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -19076,10 +18936,7 @@
       "F300"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Swedish folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Swedish folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [
       "the-werewolf",
@@ -19166,10 +19023,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Danish folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Danish folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -19246,10 +19100,7 @@
       "F300"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Swedish folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Swedish folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [
       "the-lame-dog",
@@ -19340,10 +19191,7 @@
     "featured_in_stories": [
       "the-valraven"
     ],
-    "source": [
-      "Danish folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Danish folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -19418,12 +19266,13 @@
       "mariatta--wainamoinens-departure"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "literary",
     "source_quality": "expert",
     "cultural_significance": "Väinämöinen is a a demigod from Nordic mythology, representing important cultural values and traditional beliefs.",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "attested": true
   },
   {
     "id": "creature-vindra-009",
@@ -19440,10 +19289,7 @@
     "habitat": "The highest peaks of the Scandinavian mountains and the open air above the Baltic Sea.",
     "cultural_significance": "The Vindrå represents the unpredictability of the weather and the feeling of being at the mercy of forces larger than oneself. She is the embodiment of the 'invisible hand' that shapes the environment.",
     "fun_fact": "Traditional Swedish sailors would whistle a specific melody to appease the Vindrå, believing that a harmonious tune would bring a fair wind for their journey.",
-    "source": [
-      "Swedish folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Swedish folk belief and ethnographic records of rural traditions.",
     "related": [
       "ljungra",
       "fylgja",
@@ -19483,7 +19329,7 @@
       "lyktemann",
       "ladejarlens-gjenferd"
     ],
-    "description": "Odin is a god from Norway folklore",
+    "description": "Odin (Odinn), the Allfather, is the highest god of Norse mythology — lord of wisdom, poetry, war, and the dead. He gave one eye to Mimir's well for wisdom and hanged nine nights on Yggdrasil to win the runes. He rides the eight-legged Sleipnir with his ravens Huginn and Muninn, and receives half the battle-slain into Valhalla. He was widely venerated across Norway as chief of the Aesir.",
     "appearance": "One-eyed old man with ravens and wolves",
     "behavior": "Sacrifices self for wisdom, rides a eight-legged horse.",
     "habitat": "Asgard, the celestial realm of the Norse gods",
@@ -19566,7 +19412,7 @@
       "lyktemann",
       "ladejarlens-gjenferd"
     ],
-    "description": "Odin is a god from Iceland folklore",
+    "description": "Odin (Odinn) is the chief of the Norse Aesir — god of wisdom, poetry, war, and death. Icelandic sources, chiefly the Poetic and Prose Eddas, preserve the fullest accounts of his myths, including his sacrifice of an eye for wisdom and his winning of the runes. He rides Sleipnir, is flanked by ravens Huginn and Muninn, and gathers the battle-slain to Valhalla.",
     "appearance": "One-eyed old man with ravens and wolves",
     "behavior": "Sacrifices self for wisdom, rides a eight-legged horse.",
     "habitat": "Asgard, the celestial realm of the Norse gods",
@@ -19688,9 +19534,10 @@
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "ole-lukoje-denmark-0015",
@@ -19765,10 +19612,11 @@
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/ɔːlə lʊkɔjə/"
+    "pronunciation_ipa": "/ɔːlə lʊkɔjə/",
+    "attested": true
   },
   {
     "id": "otso-finland-0001",
@@ -19804,12 +19652,13 @@
       "otso-the-honey-eater"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "literary",
     "source_quality": "expert",
     "cultural_significance": "Otso is a a spirit from Nordic mythology, representing important cultural values and traditional beliefs.",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "attested": true
   },
   {
     "id": "nisse-sweden-1302",
@@ -19930,9 +19779,10 @@
       "the-rooster-the-hand-mill-and-the-swarm-of-hornets"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "nisse-denmark-1303",
@@ -20012,9 +19862,10 @@
       "nisse-story"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "nisse-norway-1304",
@@ -20090,9 +19941,10 @@
     "source_quality": "expert",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "nykurin-1332",
@@ -20165,10 +20017,11 @@
       "nykur-and-the-brothers-lake-vatnsdalsvatn-variant"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/nyːkʊɾɪn/"
+    "pronunciation_ipa": "/nyːkʊɾɪn/",
+    "attested": true
   },
   {
     "id": "n-cken-1334",
@@ -20250,9 +20103,10 @@
       "old-nick-and-the-girl"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "n-kki-1335",
@@ -20323,10 +20177,11 @@
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/nækki/"
+    "pronunciation_ipa": "/nækki/",
+    "attested": true
   },
   {
     "id": "n-h-ggr-1336",
@@ -20392,9 +20247,10 @@
     "source_quality": "expert",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "attested": true
   },
   {
     "id": "nkk-norway-1337",
@@ -20470,10 +20326,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Norwegian folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Norwegian folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -20622,10 +20475,7 @@
     "featured_in_stories": [
       "the-ghostly-monks-of-trondheimsfjorden"
     ],
-    "source": [
-      "Norwegian folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Norwegian folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [
       "the-ghostly-monks-of-trondheimsfjorden"
@@ -20776,10 +20626,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Norwegian folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Norwegian folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -20851,10 +20698,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Norwegian folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Norwegian folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -21069,10 +20913,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Swedish folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Swedish folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [
       "the-lame-dog",
@@ -21152,10 +20993,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Danish folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Danish folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -21310,9 +21148,10 @@
     "source_quality": "expert",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "creature-iceland-003",
@@ -21340,12 +21179,13 @@
     "stories": [],
     "summary": "Glacial Nykur is a water horse from Icelandic folklore, a shape-shifting creature that haunts glacial rivers and icy waters, luring victims to a watery grave.",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "literary",
     "source_quality": "expert",
     "schema_org_type": "MythicalCreature",
-    "archetype": "demonic-entity"
+    "archetype": "demonic-entity",
+    "attested": true
   },
   {
     "id": "bergsr-et-0181",
@@ -21429,9 +21269,10 @@
       "the-rooster-the-hand-mill-and-the-swarm-of-hornets"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "blak-0230",
@@ -21579,9 +21420,10 @@
       "the-rooster-the-hand-mill-and-the-swarm-of-hornets"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "b-ckah-sten-0275",
@@ -21659,9 +21501,10 @@
       "the-rooster-the-hand-mill-and-the-swarm-of-hornets"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "bytting-2119",
@@ -21727,10 +21570,7 @@
       "F300"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Norwegian folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Norwegian folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -21799,10 +21639,7 @@
     "seo_description": "Bøygen (also written Bøyg, Bøygen) is a monstrous serpentine creature in Norwegian folklore, most famously featured in Henrik Ibsen's Peer Gynt where ",
     "motifs": [],
     "featured_in_stories": [],
-    "source": [
-      "Norwegian folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Norwegian folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -21942,10 +21779,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Norwegian folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Norwegian folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -22038,10 +21872,7 @@
       "A210"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Norwegian folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Norwegian folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -22112,10 +21943,7 @@
       "F300"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Swedish folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Swedish folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "country_region": "Sápmi",
     "stories": [],
@@ -22335,10 +22163,7 @@
       "A210"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Swedish folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Swedish folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [
       "the-lame-dog",
@@ -22421,10 +22246,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Swedish folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Swedish folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [
       "the-lame-dog",
@@ -22503,10 +22325,7 @@
     "seo_description": "Bortbytingen (the swapped one) is a changeling — a troll infant left in place of a human baby stolen by trolls or the underground folk. In Swedish fol",
     "motifs": [],
     "featured_in_stories": [],
-    "source": [
-      "Swedish folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Swedish folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [
       "the-changeling",
@@ -22582,10 +22401,7 @@
     "seo_description": "Bjergfolkene (the Mountain Folk) are the Danish version of underworld beings who live inside ancient burial mounds (gravhøje). They appear as small pe",
     "motifs": [],
     "featured_in_stories": [],
-    "source": [
-      "Danish folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Danish folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -22660,10 +22476,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Danish folk belief and ethnographic records of rural traditions.",
-      "good"
-    ],
+    "source": "Danish folk belief and ethnographic records of rural traditions.",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -22744,9 +22557,10 @@
     "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "stub-witch-troll",
@@ -22793,11 +22607,12 @@
       "yuletide-specters"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "oral_tradition",
     "source": "Scandinavian folklore; snip no 'witch-troll' in Nordic folkloric taxonomies (Afzelius, Grundtvig, Árnason)",
-    "source_quality": "poor"
+    "source_quality": "poor",
+    "attested": false
   },
   {
     "id": "stub-magical-bird",
@@ -22844,11 +22659,12 @@
       "the-bird-grip"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "oral_tradition",
     "source": "Grundtvig & snip Kristensen, Danske Folkeæventyr (1876-1901); snip 'The Bird Grip' tale type ATU 550",
-    "source_quality": "documented"
+    "source_quality": "documented",
+    "attested": true
   },
   {
     "id": "stub-sea-troll",
@@ -22896,11 +22712,12 @@
       "silverwhite-and-lillwacker"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "oral_tradition",
     "source": "Nordic folklore; snip sjörå/havsfrun tradition; snip Ibsen's Peer Gynt (1867) for literary havtroll",
-    "source_quality": "poor"
+    "source_quality": "poor",
+    "attested": false
   },
   {
     "id": "stub-specter",
@@ -22949,11 +22766,12 @@
       "torre-jeppe"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "oral_tradition",
     "source": "Swedish ghost lore (gäst, spöke); snip no 'specter' as entity type in folkloric taxonomies",
-    "source_quality": "poor"
+    "source_quality": "poor",
+    "attested": false
   },
   {
     "id": "stub-talking-fox",
@@ -23000,11 +22818,12 @@
       "the-bird-grip"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "oral_tradition",
     "source": "Nordic folk tale indexes (ATU); snip no named 'talking fox' being in Swedish/Danish/Icelandic collections",
-    "source_quality": "poor"
+    "source_quality": "poor",
+    "attested": false
   },
   {
     "id": "stub-flying-troll",
@@ -23051,11 +22870,12 @@
       "dag-and-daga-and-the-flying-troll-of-sky-mountain"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "oral_tradition",
     "source": "Swedish folklore collections (Afzelius, Hyltén-Cavallius); snip no flying trolls in oral tradition",
-    "source_quality": "poor"
+    "source_quality": "poor",
+    "attested": false
   },
   {
     "id": "stub-swan-maiden",
@@ -23102,11 +22922,12 @@
       "swan-maiden-story"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "oral_tradition",
     "source": "Grundtvig, Danske Folkeæventyr; snip Icelandic variants in Árnason; snip pan-European ATU 400",
-    "source_quality": "documented"
+    "source_quality": "documented",
+    "attested": true
   },
   {
     "id": "stub-magpie",
@@ -23153,10 +22974,11 @@
       "the-magpie-with-salt-on-her-tail"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "oral_tradition",
     "source": "Swedish folk belief (omen bird)",
-    "source_quality": "good"
+    "source_quality": "good",
+    "attested": true
   }
 ]

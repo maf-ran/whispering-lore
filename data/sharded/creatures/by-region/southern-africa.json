@@ -64,9 +64,10 @@
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "tokoloshe-eswatini-1801",
@@ -576,9 +577,10 @@
     "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "moose-nature-spirit-of-shona-1207",
@@ -647,9 +649,10 @@
     "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "moose-trickster-of-shona-1219",
@@ -718,10 +721,11 @@
     "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/muːs/"
+    "pronunciation_ipa": "/muːs/",
+    "attested": false
   },
   {
     "id": "mbona-rain-prophet-3270",
@@ -1938,10 +1942,11 @@
     "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/reɪvən/"
+    "pronunciation_ipa": "/reɪvən/",
+    "attested": false
   },
   {
     "id": "ravennaturespiritsan-botswana-1546",
@@ -2009,9 +2014,10 @@
     "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "raven-trickster-of-zulu-1558",
@@ -2082,9 +2088,10 @@
     "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "raywaterspiritbotswana-botswana-1565",
@@ -2157,9 +2164,10 @@
     "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "grootslang-0783",
@@ -2471,7 +2479,7 @@
       "tsui-goab-and-gaunab-the-khoikhoi-supreme-being-and-the-evil-one"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "literary",
     "source_quality": "expert",
@@ -2480,7 +2488,8 @@
     "continent": "Africa",
     "countries": [
       "Namibia"
-    ]
+    ],
+    "attested": true
   },
   {
     "id": "foxspiritzulu-southafrica-0735",
@@ -2550,10 +2559,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Regional survey of Southern African Bantu and Khoisan oral traditions — Zulu, Xhosa, Shona, Sotho, Tswana, and related peoples as documented in Bleek, Callaway, Junod, and regional folklore collections.",
-      "good"
-    ],
+    "source": "Regional survey of Southern African Bantu and Khoisan oral traditions — Zulu, Xhosa, Shona, Sotho, Tswana, and related peoples as documented in Bleek, Callaway, Junod, and regional folklore collections.",
     "source_quality": "fair",
     "stories": [],
     "version": "1.0.0",
@@ -2723,9 +2729,10 @@
     "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "salmon-trickster-of-shona-1619",
@@ -2794,9 +2801,10 @@
     "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "sotho-ghosts-3268",
@@ -3051,10 +3059,11 @@
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/impundulu/"
+    "pronunciation_ipa": "/impundulu/",
+    "attested": true
   },
   {
     "id": "inkanyamba-0893",
@@ -3121,10 +3130,11 @@
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/iŋkanyamba/"
+    "pronunciation_ipa": "/iŋkanyamba/",
+    "attested": true
   },
   {
     "id": "eagleguardianzulu-southafrica-0611",
@@ -3202,10 +3212,7 @@
     "seo_description": "The eagle guardian of Myanmar tradition serves as a royal symbol and divine messenger between the human and spirit realms.",
     "motifs": [],
     "featured_in_stories": [],
-    "source": [
-      "Regional survey of Southern African Bantu and Khoisan oral traditions — Zulu, Xhosa, Shona, Sotho, Tswana, and related peoples as documented in Bleek, Callaway, Junod, and regional folklore collections.",
-      "good"
-    ],
+    "source": "Regional survey of Southern African Bantu and Khoisan oral traditions — Zulu, Xhosa, Shona, Sotho, Tswana, and related peoples as documented in Bleek, Callaway, Junod, and regional folklore collections.",
     "source_quality": "fair",
     "stories": [],
     "version": "1.0.0",
@@ -3279,10 +3286,11 @@
     "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": true,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/ɛlk/"
+    "pronunciation_ipa": "/ɛlk/",
+    "attested": false
   },
   {
     "id": "eswatini-mvelincanti-3426",
@@ -3615,9 +3623,10 @@
     "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "qamata-xhosa-3850",
@@ -3770,10 +3779,7 @@
     "seo_description": "Discover the Deer Deity of Shona tradition, the celestial sky guardian that commands rain storms and brings fertility to the savannas of Zimbabwe",
     "motifs": [],
     "featured_in_stories": [],
-    "source": [
-      "Regional survey of Southern African Bantu oral traditions and folklore — Zulu, Xhosa, Shona, Sotho, and related peoples as documented by Bleek, Callaway, Junod, and ethnographic records from the 19th–20th centuries.",
-      "good"
-    ],
+    "source": "Regional survey of Southern African Bantu oral traditions and folklore — Zulu, Xhosa, Shona, Sotho, and related peoples as documented by Bleek, Callaway, Junod, and ethnographic records from the 19th–20th centuries.",
     "source_quality": "fair",
     "stories": [],
     "version": "1.0.0",
@@ -3844,10 +3850,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Regional survey of Southern African Bantu oral traditions and folklore — Zulu, Xhosa, Shona, Sotho, and related peoples as documented by Bleek, Callaway, Junod, and ethnographic records from the 19th–20th centuries.",
-      "good"
-    ],
+    "source": "Regional survey of Southern African Bantu oral traditions and folklore — Zulu, Xhosa, Shona, Sotho, and related peoples as documented by Bleek, Callaway, Junod, and ethnographic records from the 19th–20th centuries.",
     "source_quality": "fair",
     "stories": [],
     "version": "1.0.0",
@@ -3921,9 +3924,10 @@
     "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "deer-trickster-of-shona-0527",
@@ -3990,10 +3994,7 @@
     "seo_description": "Discover the Deer Trickster of Shona mythology, a swift and clever spirit of Zimbabwe's granite cliffs who teaches that wit and preparation beat raw strength",
     "motifs": [],
     "featured_in_stories": [],
-    "source": [
-      "Regional survey of Southern African Bantu oral traditions and folklore — Zulu, Xhosa, Shona, Sotho, and related peoples as documented by Bleek, Callaway, Junod, and ethnographic records from the 19th–20th centuries.",
-      "good"
-    ],
+    "source": "Regional survey of Southern African Bantu oral traditions and folklore — Zulu, Xhosa, Shona, Sotho, and related peoples as documented by Bleek, Callaway, Junod, and ethnographic records from the 19th–20th centuries.",
     "source_quality": "fair",
     "stories": [],
     "version": "1.0.0",
@@ -4264,10 +4265,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Regional survey of Southern African Bantu oral traditions and folklore — Zulu, Xhosa, Shona, Sotho, and related peoples as documented by Bleek, Callaway, Junod, and ethnographic records from the 19th–20th centuries.",
-      "good"
-    ],
+    "source": "Regional survey of Southern African Bantu oral traditions and folklore — Zulu, Xhosa, Shona, Sotho, and related peoples as documented by Bleek, Callaway, Junod, and ethnographic records from the 19th–20th centuries.",
     "source_quality": "fair",
     "stories": [],
     "version": "1.0.0",
@@ -4337,10 +4335,7 @@
     "seo_description": "Discover the Tupi Hawk Guardian of southern Africa, a unique spirit manifestation that blends Amazonian Tupi traditions with African landscapes, guiding diaspora communities.",
     "motifs": [],
     "featured_in_stories": [],
-    "source": [
-      "Regional survey of Southern African Bantu and Khoisan oral traditions — Zulu, Xhosa, Shona, Sotho, Tswana, and related peoples as documented in Bleek, Callaway, Junod, and regional folklore collections.",
-      "good"
-    ],
+    "source": "Regional survey of Southern African Bantu and Khoisan oral traditions — Zulu, Xhosa, Shona, Sotho, Tswana, and related peoples as documented in Bleek, Callaway, Junod, and regional folklore collections.",
     "source_quality": "fair",
     "stories": [],
     "version": "1.0.0",
@@ -4410,10 +4405,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Regional survey of Southern African Bantu and Khoisan oral traditions — Zulu, Xhosa, Shona, Sotho, Tswana, and related peoples as documented in Bleek, Callaway, Junod, and regional folklore collections.",
-      "good"
-    ],
+    "source": "Regional survey of Southern African Bantu and Khoisan oral traditions — Zulu, Xhosa, Shona, Sotho, Tswana, and related peoples as documented in Bleek, Callaway, Junod, and regional folklore collections.",
     "source_quality": "fair",
     "stories": [],
     "version": "1.0.0",
@@ -4735,10 +4727,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Regional survey of Southern African Bantu oral traditions and folklore — Zulu, Xhosa, Shona, Sotho, and related peoples as documented by Bleek, Callaway, Junod, and ethnographic records from the 19th–20th centuries.",
-      "good"
-    ],
+    "source": "Regional survey of Southern African Bantu oral traditions and folklore — Zulu, Xhosa, Shona, Sotho, and related peoples as documented by Bleek, Callaway, Junod, and ethnographic records from the 19th–20th centuries.",
     "source_quality": "fair",
     "stories": [],
     "version": "1.0.0",
@@ -4809,10 +4798,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Regional survey of Southern African Bantu and Khoisan oral traditions — Zulu, Xhosa, Shona, Sotho, Tswana, and related peoples as documented in Bleek, Callaway, Junod, and regional folklore collections.",
-      "good"
-    ],
+    "source": "Regional survey of Southern African Bantu and Khoisan oral traditions — Zulu, Xhosa, Shona, Sotho, Tswana, and related peoples as documented in Bleek, Callaway, Junod, and regional folklore collections.",
     "source_quality": "fair",
     "stories": [],
     "version": "1.0.0",
@@ -4883,10 +4869,7 @@
     "seo_description": "Learn about the Cougar Trickster of Zulu tradition, a swamp-dwelling spirit that tests travelers in the marshlands of South Africa and challenges sangomas with riddles during their initiations",
     "motifs": [],
     "featured_in_stories": [],
-    "source": [
-      "Regional survey of Southern African Bantu oral traditions and folklore — Zulu, Xhosa, Shona, Sotho, and related peoples as documented by Bleek, Callaway, Junod, and ethnographic records from the 19th–20th centuries.",
-      "good"
-    ],
+    "source": "Regional survey of Southern African Bantu oral traditions and folklore — Zulu, Xhosa, Shona, Sotho, and related peoples as documented by Bleek, Callaway, Junod, and ethnographic records from the 19th–20th centuries.",
     "source_quality": "fair",
     "stories": [],
     "version": "1.0.0",
@@ -4960,10 +4943,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Regional survey of Southern African Bantu oral traditions and folklore — Zulu, Xhosa, Shona, Sotho, and related peoples as documented by Bleek, Callaway, Junod, and ethnographic records from the 19th–20th centuries.",
-      "good"
-    ],
+    "source": "Regional survey of Southern African Bantu oral traditions and folklore — Zulu, Xhosa, Shona, Sotho, and related peoples as documented by Bleek, Callaway, Junod, and ethnographic records from the 19th–20th centuries.",
     "source_quality": "fair",
     "stories": [],
     "version": "1.0.0",
@@ -5034,10 +5014,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Regional survey of Southern African Bantu oral traditions and folklore — Zulu, Xhosa, Shona, Sotho, and related peoples as documented by Bleek, Callaway, Junod, and ethnographic records from the 19th–20th centuries.",
-      "good"
-    ],
+    "source": "Regional survey of Southern African Bantu oral traditions and folklore — Zulu, Xhosa, Shona, Sotho, and related peoples as documented by Bleek, Callaway, Junod, and ethnographic records from the 19th–20th centuries.",
     "source_quality": "fair",
     "stories": [],
     "version": "1.0.0",
@@ -5108,10 +5085,7 @@
       "A200"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Regional survey of Southern African Bantu oral traditions and folklore — Zulu, Xhosa, Shona, Sotho, and related peoples as documented by Bleek, Callaway, Junod, and ethnographic records from the 19th–20th centuries.",
-      "good"
-    ],
+    "source": "Regional survey of Southern African Bantu oral traditions and folklore — Zulu, Xhosa, Shona, Sotho, and related peoples as documented by Bleek, Callaway, Junod, and ethnographic records from the 19th–20th centuries.",
     "source_quality": "fair",
     "stories": [],
     "version": "1.0.0",
@@ -5181,10 +5155,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Regional survey of Southern African Bantu and Khoisan oral traditions — Zulu, Xhosa, Shona, Sotho, Tswana, and related peoples as documented in Bleek, Callaway, Junod, and regional folklore collections.",
-      "good"
-    ],
+    "source": "Regional survey of Southern African Bantu and Khoisan oral traditions — Zulu, Xhosa, Shona, Sotho, Tswana, and related peoples as documented in Bleek, Callaway, Junod, and regional folklore collections.",
     "source_quality": "fair",
     "stories": [],
     "version": "1.0.0",
@@ -5266,10 +5237,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Regional survey of Southern African Bantu and Khoisan oral traditions — Zulu, Xhosa, Shona, Sotho, Tswana, and related peoples as documented in Bleek, Callaway, Junod, and regional folklore collections.",
-      "good"
-    ],
+    "source": "Regional survey of Southern African Bantu and Khoisan oral traditions — Zulu, Xhosa, Shona, Sotho, Tswana, and related peoples as documented in Bleek, Callaway, Junod, and regional folklore collections.",
     "source_quality": "fair",
     "stories": [],
     "version": "1.0.0",
@@ -5344,10 +5312,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Regional survey of Southern African Bantu and Khoisan oral traditions — Zulu, Xhosa, Shona, Sotho, Tswana, and related peoples as documented in Bleek, Callaway, Junod, and regional folklore collections.",
-      "good"
-    ],
+    "source": "Regional survey of Southern African Bantu and Khoisan oral traditions — Zulu, Xhosa, Shona, Sotho, Tswana, and related peoples as documented in Bleek, Callaway, Junod, and regional folklore collections.",
     "source_quality": "fair",
     "stories": [],
     "version": "1.0.0",
@@ -5422,9 +5387,10 @@
     "source_quality": "fair",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "chiuta-spider-creator-3269",
@@ -5870,9 +5836,10 @@
     "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "owlnaturespiritsan-botswana-1389",
@@ -5946,9 +5913,10 @@
     "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "zimwi-or-zimwi-2097",
@@ -6014,9 +5982,10 @@
     "source_quality": "fair",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "zumwani-2111",
@@ -6086,9 +6055,10 @@
     "source_quality": "fair",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "nanabolele-lesotho-1270",
@@ -6258,9 +6228,10 @@
     "source_quality": "fair",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "nyaminyami-river-god-3279",
@@ -6420,9 +6391,10 @@
     "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "wildcat-giant-of-zulu-1976",
@@ -6489,9 +6461,10 @@
     "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "wildcatguardianshona-zimbabwe-1977",
@@ -6565,9 +6538,10 @@
     "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "wildcattrickstercree-zimbabwe-1993",
@@ -6647,9 +6621,10 @@
     "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "wolfdeitymapuche-southafrica-2020",
@@ -6721,9 +6696,10 @@
     "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "wolf-giant-of-zulu-2027",
@@ -6790,9 +6766,10 @@
     "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "wolftrickstermapuche-botswana-2047",
@@ -6878,9 +6855,10 @@
     "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "badger-ghost-of-zulu-0088",
@@ -6946,10 +6924,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Regional survey of Southern African Bantu oral traditions and folklore — Zulu, Xhosa, Shona, Sotho, and related peoples as documented by Bleek, Callaway, Junod, and ethnographic records from the 19th–20th centuries.",
-      "good"
-    ],
+    "source": "Regional survey of Southern African Bantu oral traditions and folklore — Zulu, Xhosa, Shona, Sotho, and related peoples as documented by Bleek, Callaway, Junod, and ethnographic records from the 19th–20th centuries.",
     "source_quality": "fair",
     "stories": [],
     "version": "1.0.0",
@@ -7021,9 +6996,10 @@
     "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "bear-ghost-of-shona-0156",
@@ -7089,10 +7065,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Regional survey of Southern African Bantu oral traditions and folklore — Zulu, Xhosa, Shona, Sotho, and related peoples as documented by Bleek, Callaway, Junod, and ethnographic records from the 19th–20th centuries.",
-      "good"
-    ],
+    "source": "Regional survey of Southern African Bantu oral traditions and folklore — Zulu, Xhosa, Shona, Sotho, and related peoples as documented by Bleek, Callaway, Junod, and ethnographic records from the 19th–20th centuries.",
     "source_quality": "fair",
     "stories": [],
     "version": "1.0.0",
@@ -7164,10 +7137,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Regional survey of Southern African Bantu oral traditions and folklore — Zulu, Xhosa, Shona, Sotho, and related peoples as documented by Bleek, Callaway, Junod, and ethnographic records from the 19th–20th centuries.",
-      "good"
-    ],
+    "source": "Regional survey of Southern African Bantu oral traditions and folklore — Zulu, Xhosa, Shona, Sotho, and related peoples as documented by Bleek, Callaway, Junod, and ethnographic records from the 19th–20th centuries.",
     "source_quality": "fair",
     "stories": [],
     "version": "1.0.0",
@@ -7237,10 +7207,7 @@
     "seo_description": "Udongo bear giant in Zulu folklore of South Africa, a man-eating monster used in cautionary tales to teach respect for ancestral customs and the dangers of the wilderness.",
     "motifs": [],
     "featured_in_stories": [],
-    "source": [
-      "Regional survey of Southern African Bantu oral traditions and folklore — Zulu, Xhosa, Shona, Sotho, and related peoples as documented by Bleek, Callaway, Junod, and ethnographic records from the 19th–20th centuries.",
-      "good"
-    ],
+    "source": "Regional survey of Southern African Bantu oral traditions and folklore — Zulu, Xhosa, Shona, Sotho, and related peoples as documented by Bleek, Callaway, Junod, and ethnographic records from the 19th–20th centuries.",
     "source_quality": "fair",
     "stories": [],
     "version": "1.0.0",
@@ -7312,10 +7279,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Regional survey of Southern African Bantu oral traditions and folklore — Zulu, Xhosa, Shona, Sotho, and related peoples as documented by Bleek, Callaway, Junod, and ethnographic records from the 19th–20th centuries.",
-      "good"
-    ],
+    "source": "Regional survey of Southern African Bantu oral traditions and folklore — Zulu, Xhosa, Shona, Sotho, and related peoples as documented by Bleek, Callaway, Junod, and ethnographic records from the 19th–20th centuries.",
     "source_quality": "fair",
     "stories": [
       "dangun-the-founder-of-korea"
@@ -7397,10 +7361,7 @@
     "seo_description": "The Bison Deity of Shona mythology is a powerful sacred being from Zimbabwe. It serves as a guardian of the wilderness and an intermediary between humanity and the spirit realm of Mwari.",
     "motifs": [],
     "featured_in_stories": [],
-    "source": [
-      "Regional survey of Southern African Bantu and Khoisan oral traditions — Zulu, Xhosa, Shona, Sotho, Tswana, and related peoples as documented in Bleek, Callaway, Junod, and regional folklore collections.",
-      "good"
-    ],
+    "source": "Regional survey of Southern African Bantu and Khoisan oral traditions — Zulu, Xhosa, Shona, Sotho, Tswana, and related peoples as documented in Bleek, Callaway, Junod, and regional folklore collections.",
     "source_quality": "fair",
     "stories": [],
     "version": "1.0.0",

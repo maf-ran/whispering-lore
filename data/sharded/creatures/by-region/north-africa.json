@@ -123,9 +123,10 @@
     "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "thoth-1781",
@@ -199,9 +200,10 @@
       "the-book-of-the-dead-the-weighing-of-the-heart"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "attested": true
   },
   {
     "id": "tunisian-ghoul-1836",
@@ -268,10 +270,11 @@
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/ɡuːl/"
+    "pronunciation_ipa": "/ɡuːl/",
+    "attested": true
   },
   {
     "id": "tannit-libyan-goddess-3288",
@@ -1082,9 +1085,10 @@
       "the-book-of-the-dead-the-weighing-of-the-heart"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "attested": true
   },
   {
     "id": "apep-0052",
@@ -1155,9 +1159,10 @@
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "attested": true
   },
   {
     "id": "apophis-0053",
@@ -1949,10 +1954,11 @@
     "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/mɔːrə la bɾaɪdən/"
+    "pronunciation_ipa": "/mɔːrə la bɾaɪdən/",
+    "attested": false
   },
   {
     "id": "lamia-libya-1038",
@@ -2113,9 +2119,10 @@
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "lunja-3465",
@@ -2657,10 +2664,11 @@
       "sphinx-story"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": true,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/sfɪŋks/"
+    "pronunciation_ipa": "/sfɪŋks/",
+    "attested": true
   },
   {
     "id": "sidi-bou-said-well-3292",
@@ -3093,10 +3101,11 @@
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/dʒɒk/"
+    "pronunciation_ipa": "/dʒɒk/",
+    "attested": true
   },
   {
     "id": "ifrit-algeria-3284",
@@ -3428,9 +3437,10 @@
       "phoenix-story"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "piath-1465",
@@ -3497,10 +3507,11 @@
     "source_quality": "fair",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/piːat/"
+    "pronunciation_ipa": "/piːat/",
+    "attested": true
   },
   {
     "id": "dancing-djinn-0486",
@@ -3688,7 +3699,7 @@
       "apep",
       "apophis"
     ],
-    "description": "Osiris is a god from Egypt folklore",
+    "description": "Osiris is the ancient Egyptian god of the afterlife, death, and resurrection. Murdered by his brother Set and restored by his sister-wife Isis, he became ruler of the underworld, judging the dead at the Weighing of the Heart. As a dying-and-returning god he symbolized regeneration, the Nile flood, and the promise of life after death, with his cult center at Abydos.",
     "appearance": "Possesses aquatic speed, soul sight.",
     "behavior": "Known for benevolent and judging and protective.",
     "habitat": "Duat (underworld)",
@@ -3902,9 +3913,10 @@
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "z-r-2112",
@@ -3972,9 +3984,10 @@
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "nina-1300",
@@ -4043,9 +4056,10 @@
     "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "nyikang-1331",
@@ -4111,10 +4125,11 @@
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/njikang/"
+    "pronunciation_ipa": "/njikang/",
+    "attested": true
   },
   {
     "id": "bakh-0110",

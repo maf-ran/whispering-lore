@@ -80,10 +80,11 @@
     "source_quality": "fair",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/qəluːpəlik/"
+    "pronunciation_ipa": "/qəluːpəlik/",
+    "attested": true
   },
   {
     "id": "qalupalik-greenland-1509",
@@ -171,10 +172,11 @@
       "tiktaliktaks-journey-home"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/qəluːpəlik/"
+    "pronunciation_ipa": "/qəluːpəlik/",
+    "attested": true
   },
   {
     "id": "qarakorshaq-1510",
@@ -243,9 +245,10 @@
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "qat-1511",
@@ -268,7 +271,7 @@
       "t-whaki",
       "marawa-vanuatu"
     ],
-    "description": "Qat is a deity from Vanuatu folklore",
+    "description": "Qat is the creator deity and culture hero of the Banks Islands, Vanuatu. He is credited with fashioning the first humans from wood, bringing light by distributing darkness, and establishing many customs. The son of the earth spirit, Qat is generous and clever, often opposed by his foolish older brothers and by the rival figure Tagaro. After finishing his work of creation he departed to the sky or the underworld.",
     "appearance": "Creator deity, main god of region.",
     "behavior": "Created islands, humanity, night. Established customs.",
     "habitat": "Banks Islands",
@@ -384,9 +387,10 @@
     "source_quality": "well-documented",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "quetzalcoatl-1514",
@@ -546,10 +550,11 @@
     "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/kiɾkiɲtʃo vivo/"
+    "pronunciation_ipa": "/kiɾkiɲtʃo vivo/",
+    "attested": false
   },
   {
     "id": "qutb-shah-1516",
@@ -630,9 +635,10 @@
       "umar-marvi--the-faithful-woman-of-sindh"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "qu-1517",
@@ -709,9 +715,10 @@
       "queen-makeda-and-king-solomon"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "qutrub-3456",
@@ -890,9 +897,10 @@
       "tiktaliktaks-journey-home"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "qwaxw-nuxalk-3800",
@@ -967,11 +975,12 @@
     "source": "Nuxalk Nation (nuxalknation.ca); The Tyee (2024) Nuxalk creation feature",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "oral_tradition",
     "source_quality": "good",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "attested": true
   },
   {
     "id": "qamata-xhosa-3850",
@@ -1108,11 +1117,12 @@
       "qals-mink-and-the-transformations-coast-salish"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "oral_tradition",
     "source": "native-languages.org Mink (Saanich/Comox/Lummi); Coast Salish oral tradition",
-    "source_quality": "good"
+    "source_quality": "good",
+    "attested": true
   },
   {
     "id": "stub-qwaxw-raven-nuxalk",
@@ -1160,10 +1170,11 @@
       "the-nuxalk-origin-of-the-sun-nuxalk"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "oral_tradition",
     "source": "Nuxalk Nation (nuxalk.net), Smayusta: Four Carpenters and Other Stories",
-    "source_quality": "good"
+    "source_quality": "good",
+    "attested": true
   }
 ]

@@ -69,9 +69,10 @@
     "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "tengri-1773",
@@ -138,9 +139,10 @@
     "source_quality": "expert",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "turtle-animal-spirit-of-kazakh-1840",
@@ -209,9 +211,10 @@
     "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "turtle-nature-spirit-of-kazakh-1851",
@@ -280,10 +283,11 @@
     "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/təɾtəl/"
+    "pronunciation_ipa": "/təɾtəl/",
+    "attested": false
   },
   {
     "id": "tulpar-kazakh-4008",
@@ -359,9 +363,10 @@
       "khan-tl-the-hero"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "taytoru-kyrgyz-4016",
@@ -434,10 +439,11 @@
       "the-goose-girl"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/təjtɔɾu/"
+    "pronunciation_ipa": "/təjtɔɾu/",
+    "attested": true
   },
   {
     "id": "tengri-khormusta-buryat-3170",
@@ -517,9 +523,10 @@
       "abai-geser-the-mighty-buryat-epic"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "attested": true
   },
   {
     "id": "terton-tibetan-3186",
@@ -606,9 +613,10 @@
       "the-cat-on-the-dovrefjell"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "attested": true
   },
   {
     "id": "tolk-nivkh-3192",
@@ -696,9 +704,10 @@
       "the-shamans-canoe-journey-to-the-underworld"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "mongolia-tsagaan-uvgun-0005",
@@ -721,7 +730,7 @@
       "khazyr",
       "et-gen"
     ],
-    "description": "Tsagaan Üvgun is a spirit from Mongolia folklore. Also known as the white old man",
+    "description": "Tsagaan Ovgon ('White Old Man') is a Mongolian and Buryat spirit of longevity, fertility, and the wild. Depicted as a white-bearded old man with a staff, he is lord of water, animals, and the land, and is invoked for long life, good fortune, and protection of herds. He features prominently in Mongolian folk religion and Buddhist-influenced calendars.",
     "appearance": "A wise, elderly man with a long white beard and glowing eyes.",
     "behavior": "Blesses the herds of the faithful and ensures a prosperous spring.",
     "habitat": "The heavens, high mountain peaks",
@@ -1055,9 +1064,10 @@
       "fumo-liongo-the-warrior-poet-of-the-swahili-coast"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "aldar-qose-kazakh-4013",
@@ -1134,9 +1144,10 @@
       "ti-lobo-and-chibinho"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "attested": true
   },
   {
     "id": "ak-kula-kyrgyz-4014",
@@ -1216,10 +1227,11 @@
       "the-goose-girl"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "literary",
-    "pronunciation_ipa": "/ak kula/"
+    "pronunciation_ipa": "/ak kula/",
+    "attested": true
   },
   {
     "id": "ay-churok-kyrgyz-4017",
@@ -1294,9 +1306,10 @@
       "semetey-the-son-of-manas"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "alpamysh-uzbek-4019",
@@ -1368,9 +1381,10 @@
       "fumo-liongo-the-warrior-poet-of-the-swahili-coast"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "attested": true
   },
   {
     "id": "agayunus-peri-turkmen-4024",
@@ -1445,9 +1459,10 @@
       "groglu-the-son-of-the-grave-turkmen-version"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "attested": true
   },
   {
     "id": "akhal-teke-spirit-turkmen-4026",
@@ -1525,9 +1540,10 @@
       "the-legend-of-the-cocoa-spirit"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "argamak-altai-4037",
@@ -1605,9 +1621,10 @@
       "the-epic-of-ak-kaan"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "ak-kaan-altai-4042",
@@ -1682,9 +1699,10 @@
       "the-white-stag"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "abram-moos-altai-4044",
@@ -1765,9 +1783,10 @@
       "the-bewitchment-of-angutisugsuk"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "abaasy-yakut-3157",
@@ -1849,9 +1868,10 @@
       "kyys-debiliye-the-warrior-maiden"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "attested": true
   },
   {
     "id": "aiyy-yakut-3158",
@@ -1931,9 +1951,10 @@
       "er-sogotokh-the-lonely-man"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "abai-geser-buryat-3168",
@@ -2016,9 +2037,10 @@
       "abai-geser-the-mighty-buryat-epic"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "attested": true
   },
   {
     "id": "atai-ulan-buryat-3169",
@@ -2090,9 +2112,10 @@
       "abai-geser-the-mighty-buryat-epic"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "attested": true
   },
   {
     "id": "angara-river-buryat-3173",
@@ -2166,9 +2189,10 @@
       "the-angara-rivers-escape"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "anghir-buryat-3174",
@@ -2242,9 +2266,10 @@
       "the-buryat-earth-diver-creation"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "attested": true
   },
   {
     "id": "amur-tiger-nanai-3190",
@@ -2325,9 +2350,10 @@
       "the-first-hmong-shaman-how-the-shaman-got-his-power"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "attested": true
   },
   {
     "id": "mongolia-almas-0002",
@@ -2394,9 +2420,10 @@
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "manas-1117",
@@ -2464,9 +2491,10 @@
     "source_quality": "well-documented",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "mangus-mongol-3997",
@@ -2548,9 +2576,10 @@
       "fumo-liongo-the-warrior-poet-of-the-swahili-coast"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "attested": true
   },
   {
     "id": "mandukhai-mongol-4006",
@@ -2626,9 +2655,10 @@
       "queen-makeda-and-king-solomon"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "attested": true
   },
   {
     "id": "maadai-kara-altai-4041",
@@ -2705,9 +2735,10 @@
       "fumo-liongo-the-warrior-poet-of-the-swahili-coast"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "mammoth-underground-bull-yakut-3159",
@@ -2788,9 +2819,10 @@
       "yamal-creation-from-the-mammoth"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "attested": true
   },
   {
     "id": "machik-lapdron-tibetan-3185",
@@ -2866,9 +2898,10 @@
       "the-ghost-of-the-lhamo-tibetan-wrathful-deities"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "attested": true
   },
   {
     "id": "merger-nanai-3189",
@@ -2946,9 +2979,10 @@
       "merger-the-hero-nanai-epic"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "attested": true
   },
   {
     "id": "mongolia-mangadhai-0001",
@@ -3022,9 +3056,10 @@
       "big-peter-and-little-peter"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "lgii-khorkhoi-mongolian-death-worm-2114",
@@ -3088,9 +3123,10 @@
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "lord-of-the-gobi-mongol-4005",
@@ -3162,9 +3198,10 @@
     "fun_fact_generated": false,
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "loon-bird-altai-4036",
@@ -3241,10 +3278,11 @@
       "the-urko-of-north-wij"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/luːn/"
+    "pronunciation_ipa": "/luːn/",
+    "attested": true
   },
   {
     "id": "luus-buryat-3176",
@@ -3326,9 +3364,10 @@
       "the-creation-of-lake-baikal"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "mongolia-luus-0003",
@@ -3396,9 +3435,10 @@
     "source_quality": "well-documented",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "yelmo-2077",
@@ -3537,9 +3577,10 @@
     "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "yuch-kurbustan-altai-4043",
@@ -3615,9 +3656,10 @@
       "pabuji-ki-phad--the-epic-of-the-rajasthani-deity"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "yul-chyn-nenets-3166",
@@ -3700,9 +3742,10 @@
       "yamal-creation-from-the-mammoth"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "yeti-migoi-tibetan-3178",
@@ -3789,9 +3832,10 @@
       "the-yeti-migoi-legends"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "yeshe-tsogyal-tibetan-3184",
@@ -3868,10 +3912,11 @@
       "taktshang-palphug-the-tigers-nest-monastery"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "literary",
-    "pronunciation_ipa": "/jeʃe tsogjal/"
+    "pronunciation_ipa": "/jeʃe tsogjal/",
+    "attested": true
   },
   {
     "id": "uliman-1868",
@@ -3940,9 +3985,10 @@
     "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "ulu-ulan-1869",
@@ -4013,9 +4059,10 @@
     "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "ulgen-altai-4034",
@@ -4094,9 +4141,10 @@
       "the-shamans-journey-to-the-spirit-world"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "attested": true
   },
   {
     "id": "khas-uu-0946",
@@ -4468,9 +4516,10 @@
       "the-trows-fiddle"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "attested": true
   },
   {
     "id": "karakum-serpent-turkmen-4028",
@@ -4542,9 +4591,10 @@
       "the-big-bird-dan"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "kazan-serpent-tatar-4032",
@@ -4619,9 +4669,10 @@
       "the-kazan-creation-myth"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "kayra-han-altai-4033",
@@ -4697,9 +4748,10 @@
       "the-altai-creation-myth"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "kyys-debiliye-yakut-3156",
@@ -4772,9 +4824,10 @@
     "country_region": "Sakha Republic",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "khevkher-evenki-3161",
@@ -4847,9 +4900,10 @@
     "country_region": "Siberia",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "kuutkh-chukchi-3163",
@@ -4944,9 +4998,10 @@
       "the-sun-moon-and-firmament"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "attested": true
   },
   {
     "id": "khan-toolo-tuvan-3188",
@@ -5025,9 +5080,10 @@
       "khan-tl-the-hero"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "attested": false
   },
   {
     "id": "kurka-nivkh-3191",
@@ -5111,9 +5167,10 @@
       "raven-the-creator-nivkh-tradition"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "raven-water-spirit-of-kazakh-1562",
@@ -5183,9 +5240,10 @@
     "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "gadyucha-0755",
@@ -5403,9 +5461,10 @@
       "the-epic-of-geser-khan"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "golden-frog-mongol-3998",
@@ -5476,9 +5535,10 @@
       "the-enchanted-mule"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "attested": true
   },
   {
     "id": "goroglu-turkmen-4022",
@@ -5551,9 +5611,10 @@
       "pabuji-ki-phad--the-epic-of-the-rajasthani-deity"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "attested": true
   },
   {
     "id": "gyrat-turkmen-4023",
@@ -5627,9 +5688,10 @@
       "groglu-the-son-of-the-grave-turkmen-version"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "attested": true
   },
   {
     "id": "gesar-tibetan-3177",
@@ -5720,9 +5782,10 @@
       "the-tertn-treasure-revealer-traditions"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "attested": true
   },
   {
     "id": "farsakh-0698",
@@ -5937,9 +6000,10 @@
       "the-blue-wolf-and-the-fallow-doe-ancestors-of-the-mongols"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "attested": true
   },
   {
     "id": "shteli-kherkher-1670",
@@ -6010,9 +6074,10 @@
     "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "simurg-3344",
@@ -6246,10 +6311,11 @@
     "fun_fact_generated": false,
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "literary",
-    "pronunciation_ipa": "/semetej/"
+    "pronunciation_ipa": "/semetej/",
+    "attested": true
   },
   {
     "id": "singing-well-spirit-uzbek-4021",
@@ -6319,9 +6385,10 @@
     "fun_fact_generated": false,
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "shurale-tatar-4029",
@@ -6394,9 +6461,10 @@
       "shurale-the-forest-spirit"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "attested": true
   },
   {
     "id": "su-anasi-tatar-4030",
@@ -6472,9 +6540,10 @@
       "the-legend-of-the-blacksmiths-daughter"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "attested": true
   },
   {
     "id": "sodani-evenki-3160",
@@ -6551,10 +6620,11 @@
       "sodani-the-great-shaman"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/sodani/"
+    "pronunciation_ipa": "/sodani/",
+    "attested": true
   },
   {
     "id": "shiktur-buryat-3175",
@@ -6635,10 +6705,11 @@
       "the-buryat-earth-diver-creation"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "literary",
-    "pronunciation_ipa": "/ʃiktʊɾ/"
+    "pronunciation_ipa": "/ʃiktʊɾ/",
+    "attested": false
   },
   {
     "id": "songtsen-gampo-tibetan-3180",
@@ -6718,9 +6789,10 @@
       "songtsen-gampo-and-the-founding-of-tibet"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "attested": true
   },
   {
     "id": "shenlha-okar-tibetan-3183",
@@ -6800,9 +6872,10 @@
       "tatterhood"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "attested": true
   },
   {
     "id": "jhelmaia-camel-kazakh-4012",
@@ -6874,9 +6947,10 @@
       "the-legend-of-asan-kaighy-and-the-promised-land"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "attested": true
   },
   {
     "id": "jade-serpent-spirit-altai-4039",
@@ -6957,9 +7031,10 @@
       "gudbrand-on-the-hill-side"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "eagle-trickster-of-kazakh-0628",
@@ -7024,10 +7099,7 @@
     "seo_description": "The eagle trickster from Kazakh tradition, guardian of the valleys.",
     "motifs": [],
     "featured_in_stories": [],
-    "source": [
-      "Regional survey of Central Asian and Siberian indigenous traditions — Turkic epic cycles, Mongol shamanism, Buryat and Nenets animism, and Persianate folklore as documented by Radlov, Shirokogoroff, Potanin, and regional ethnographic records.",
-      "good"
-    ],
+    "source": "Regional survey of Central Asian and Siberian indigenous traditions — Turkic epic cycles, Mongol shamanism, Buryat and Nenets animism, and Persianate folklore as documented by Radlov, Shirokogoroff, Potanin, and regional ethnographic records.",
     "source_quality": "fair",
     "stories": [],
     "version": "1.0.0",
@@ -7098,10 +7170,7 @@
     "seo_description": "The eagle trickster from Uzbek tradition, guardian of the mountains.",
     "motifs": [],
     "featured_in_stories": [],
-    "source": [
-      "Regional survey of Central Asian and Siberian indigenous traditions — Turkic epic cycles, Mongol shamanism, Buryat and Nenets animism, and Persianate folklore as documented by Radlov, Shirokogoroff, Potanin, and regional ethnographic records.",
-      "good"
-    ],
+    "source": "Regional survey of Central Asian and Siberian indigenous traditions — Turkic epic cycles, Mongol shamanism, Buryat and Nenets animism, and Persianate folklore as documented by Radlov, Shirokogoroff, Potanin, and regional ethnographic records.",
     "source_quality": "fair",
     "stories": [],
     "version": "1.0.0",
@@ -7251,9 +7320,10 @@
       "erlig-khan-and-the-palace-of-the-dead"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "attested": true
   },
   {
     "id": "erlik-altai-4035",
@@ -7332,10 +7402,11 @@
       "ochi-bala-and-kan-altyn"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/erlik/"
+    "pronunciation_ipa": "/erlik/",
+    "attested": true
   },
   {
     "id": "er-sogotokh-yakut-3155",
@@ -7410,9 +7481,10 @@
     "country_region": "Sakha Republic",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "attested": true
   },
   {
     "id": "mongolia-erlik-0004",
@@ -7478,9 +7550,10 @@
     "source_quality": "academic",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "parikhan-1427",
@@ -7551,9 +7624,10 @@
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "peri-afghanistan-1442",
@@ -7777,9 +7851,10 @@
       "the-ghost-of-the-lhamo-tibetan-wrathful-deities"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "attested": true
   },
   {
     "id": "qarakorshaq-1510",
@@ -7848,9 +7923,10 @@
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "deer-nature-spirit-of-uzbek-0521",
@@ -7915,10 +7991,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Regional survey of Central Asian and Siberian indigenous traditions — Turkic epic cycles, Mongol shamanism, Buryat and Nenets animism, and Persianate folklore as documented by Radlov, Shirokogoroff, Potanin, and regional ethnographic records.",
-      "good"
-    ],
+    "source": "Regional survey of Central Asian and Siberian indigenous traditions — Turkic epic cycles, Mongol shamanism, Buryat and Nenets animism, and Persianate folklore as documented by Radlov, Shirokogoroff, Potanin, and regional ethnographic records.",
     "source_quality": "fair",
     "stories": [],
     "version": "1.0.0",
@@ -7989,10 +8062,7 @@
     "seo_description": "Explore the Deer Trickster of Uzbek folklore, a cave-dwelling spirit of Central Asia that tests seekers with riddles and guards ancient underground treasures",
     "motifs": [],
     "featured_in_stories": [],
-    "source": [
-      "Regional survey of Central Asian and Siberian indigenous traditions — Turkic epic cycles, Mongol shamanism, Buryat and Nenets animism, and Persianate folklore as documented by Radlov, Shirokogoroff, Potanin, and regional ethnographic records.",
-      "good"
-    ],
+    "source": "Regional survey of Central Asian and Siberian indigenous traditions — Turkic epic cycles, Mongol shamanism, Buryat and Nenets animism, and Persianate folklore as documented by Radlov, Shirokogoroff, Potanin, and regional ethnographic records.",
     "source_quality": "fair",
     "stories": [],
     "version": "1.0.0",
@@ -8216,9 +8286,10 @@
       "pabuji-ki-phad--the-epic-of-the-rajasthani-deity"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "attested": true
   },
   {
     "id": "huma-bird-0871",
@@ -8365,9 +8436,10 @@
       "groglu-the-son-of-the-grave-turkmen-version"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "chichkhan-0302",
@@ -8574,10 +8646,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Regional survey of Central Asian and Siberian indigenous traditions — Turkic epic cycles, Mongol shamanism, Buryat and Nenets animism, and Persianate folklore as documented by Radlov, Shirokogoroff, Potanin, and regional ethnographic records.",
-      "good"
-    ],
+    "source": "Regional survey of Central Asian and Siberian indigenous traditions — Turkic epic cycles, Mongol shamanism, Buryat and Nenets animism, and Persianate folklore as documented by Radlov, Shirokogoroff, Potanin, and regional ethnographic records.",
     "source_quality": "fair",
     "stories": [],
     "version": "1.0.0",
@@ -8720,10 +8789,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Regional survey of Central Asian and Siberian indigenous traditions — Turkic epic cycles, Mongol shamanism, Buryat and Nenets animism, and Persianate folklore as documented by Radlov, Shirokogoroff, Potanin, and regional ethnographic records.",
-      "good"
-    ],
+    "source": "Regional survey of Central Asian and Siberian indigenous traditions — Turkic epic cycles, Mongol shamanism, Buryat and Nenets animism, and Persianate folklore as documented by Radlov, Shirokogoroff, Potanin, and regional ethnographic records.",
     "source_quality": "fair",
     "stories": [],
     "version": "1.0.0",
@@ -8865,10 +8931,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Regional survey of Central Asian and Siberian indigenous traditions — Turkic epic cycles, Mongol shamanism, Buryat and Nenets animism, and Persianate folklore as documented by Radlov, Shirokogoroff, Potanin, and regional ethnographic records.",
-      "good"
-    ],
+    "source": "Regional survey of Central Asian and Siberian indigenous traditions — Turkic epic cycles, Mongol shamanism, Buryat and Nenets animism, and Persianate folklore as documented by Radlov, Shirokogoroff, Potanin, and regional ethnographic records.",
     "source_quality": "fair",
     "stories": [],
     "version": "1.0.0",
@@ -8940,10 +9003,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Regional survey of Central Asian and Siberian indigenous traditions — Turkic epic cycles, Mongol shamanism, Buryat and Nenets animism, and Persianate folklore as documented by Radlov, Shirokogoroff, Potanin, and regional ethnographic records.",
-      "good"
-    ],
+    "source": "Regional survey of Central Asian and Siberian indigenous traditions — Turkic epic cycles, Mongol shamanism, Buryat and Nenets animism, and Persianate folklore as documented by Radlov, Shirokogoroff, Potanin, and regional ethnographic records.",
     "source_quality": "fair",
     "stories": [],
     "version": "1.0.0",
@@ -9019,9 +9079,10 @@
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "crane-water-spirit-of-kazakh-0463",
@@ -9091,9 +9152,10 @@
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "celestial-deer-mongol-4001",
@@ -9164,9 +9226,10 @@
       "the-deer-stone-legends"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "chura-batyr-tatar-4031",
@@ -9240,9 +9303,10 @@
       "pabuji-ki-phad--the-epic-of-the-rajasthani-deity"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "chyskhaan-yakut-3153",
@@ -9319,9 +9383,10 @@
       "chyskhaan-the-snow-spirit"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "celestial-moose-evenki-3162",
@@ -9394,9 +9459,10 @@
       "the-moose-and-the-sun"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "celestial-reindeer-nenets-3167",
@@ -9472,9 +9538,10 @@
       "the-seven-reindeer-of-the-sky"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "attested": true
   },
   {
     "id": "veyis-baba-3347",
@@ -9620,9 +9687,10 @@
     "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "owl-giant-of-kazakh-1382",
@@ -9689,9 +9757,10 @@
     "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "ongon-spirit-altai-4040",
@@ -9768,9 +9837,10 @@
       "sodani-the-great-shaman"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "zambur-2086",
@@ -9838,9 +9908,10 @@
     "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "zhalmauyz-2095",
@@ -9911,9 +9982,10 @@
     "source_quality": "academic",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "zuleikha-turkmen-4027",
@@ -9989,9 +10061,10 @@
       "the-origin-of-the-hummingbird"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "attested": true
   },
   {
     "id": "nyurgun-bootur-yakut-3154",
@@ -10067,9 +10140,10 @@
       "nyurgun-bootur-the-swift"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "attested": true
   },
   {
     "id": "num-nenets-3164",
@@ -10144,9 +10218,10 @@
       "num-and-nga-the-duel-of-creation"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "nga-nenets-3165",
@@ -10224,9 +10299,10 @@
       "num-and-nga-the-duel-of-creation"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "nyenchen-thanglha-tibetan-3179",
@@ -10301,9 +10377,10 @@
       "mountain-god-nyenchen-thanglha"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "attested": true
   },
   {
     "id": "wildcat-guardian-of-kazakh-1979",
@@ -10370,9 +10447,10 @@
     "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "wildcat-nature-spirit-of-uzbek-1986",
@@ -10441,9 +10519,10 @@
     "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "wildcat-trickster-of-kazakh-1998",
@@ -10514,9 +10593,10 @@
     "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "wildcat-water-spirit-of-uzbek-2004",
@@ -10586,9 +10666,10 @@
     "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "wolf-nature-spirit-of-kazakh-2038",
@@ -10657,9 +10738,10 @@
     "source_quality": "academic",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "wind-horse-tibetan-3181",
@@ -10739,9 +10821,10 @@
       "the-stone-statue"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "attested": true
   },
   {
     "id": "badger-ghost-of-uzbek-0087",
@@ -11090,10 +11173,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": [
-      "Regional survey of Central Asian and Siberian indigenous traditions — Turkic epic cycles, Mongol shamanism, Buryat and Nenets animism, and Persianate folklore as documented by Radlov, Shirokogoroff, Potanin, and regional ethnographic records.",
-      "good"
-    ],
+    "source": "Regional survey of Central Asian and Siberian indigenous traditions — Turkic epic cycles, Mongol shamanism, Buryat and Nenets animism, and Persianate folklore as documented by Radlov, Shirokogoroff, Potanin, and regional ethnographic records.",
     "source_quality": "fair",
     "stories": [],
     "version": "1.0.0",
@@ -11176,9 +11256,10 @@
       "the-blue-wolf-and-the-fallow-doe-ancestors-of-the-mongols"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "burkhan-khaldun-spirit-mongol-4004",
@@ -11250,10 +11331,11 @@
       "gudbrand-on-the-hill-side"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/buɾxan xaldun/"
+    "pronunciation_ipa": "/buɾxan xaldun/",
+    "attested": true
   },
   {
     "id": "barchin-kazakh-4010",
@@ -11322,9 +11404,10 @@
       "alpamysh-batyr"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "attested": true
   },
   {
     "id": "baychibar-kazakh-4011",
@@ -11399,9 +11482,10 @@
       "the-epic-of-alpamysh-uzbek-version"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "attested": true
   },
   {
     "id": "bakai-kyrgyz-4018",
@@ -11471,9 +11555,10 @@
     "fun_fact_generated": false,
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "bibi-khanum-uzbek-4020",
@@ -11543,9 +11628,10 @@
       "the-legend-of-bibi-khanum"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "bay-terek-altai-4038",
@@ -11623,9 +11709,10 @@
       "the-epic-of-maadai-kara"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "bukha-noyon-buryat-3171",
@@ -11703,9 +11790,10 @@
       "bukha-noyon-the-bull-god"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "baikal-buryat-3172",
@@ -11781,9 +11869,10 @@
       "the-angara-rivers-escape"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "brugmo-tibetan-3187",
@@ -11865,8 +11954,9 @@
       "epic-of-gesar-of-ling"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-03",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "attested": true
   }
 ]

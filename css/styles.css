@@ -1489,6 +1489,22 @@ nav a.active::after {
   color: var(--badge-success);
   border-color: var(--badge-success);
 }
+.source-badge--expert {
+  color: var(--badge-info);
+  border-color: var(--badge-info);
+}
+.source-badge--academic {
+  color: var(--badge-purple);
+  border-color: var(--badge-purple);
+}
+.source-badge--documented {
+  color: var(--badge-quality-researched);
+  border-color: var(--badge-quality-researched);
+}
+.source-badge--poor {
+  color: var(--text-secondary);
+  border-color: var(--border);
+}
 
 .detail-section:last-child {
   border-bottom: none;
