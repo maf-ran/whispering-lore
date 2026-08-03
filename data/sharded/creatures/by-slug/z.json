@@ -1,89 +1,5 @@
 [
   {
-    "id": "z-r-2112",
-    "slug": "z-r",
-    "name": "Zār",
-    "country": "Sudan",
-    "region": "North Africa",
-    "culture": "Sudan",
-    "type": "spirit",
-    "mythology": "Sudan",
-    "archetype": "forest-spirit",
-    "element": "spirit",
-    "aliases": [
-      "zār"
-    ],
-    "related": [
-      "zar-sudan",
-      "nina",
-      "jok",
-      "bakh",
-      "tay",
-      "aman-doger",
-      "utlat-carthaginian-spirits"
-    ],
-    "description": "Sudanese spirit that possesses people, usually women. Can be appeased through ceremonies and drumming. Many different zār spirits from various origins.",
-    "appearance": "Manifests in possessed person's behavior and voice. When appearing alone: often foreign-looking, distinctive clothes.",
-    "behavior": "Causes illness, demands recognition. Each zār has specific desires (clothes, jewelry, music). Can be helpful if appeased.",
-    "habitat": "Human bodies (possessed), rivers, markets",
-    "habitat_tags": [
-      "river"
-    ],
-    "behavior_tags": [
-      "helpful",
-      "music",
-      "possess"
-    ],
-    "strengths": [
-      "ethereal form",
-      "supernatural awareness",
-      "animal communication"
-    ],
-    "weaknesses": [
-      "iron",
-      "civilization",
-      "anti-magic"
-    ],
-    "cultural_significance": "Important healing ritual in Sudan and Egypt. Combines African, Arab, Islamic elements.",
-    "summary": "Sudanese spirit that possesses people, usually women",
-    "fun_fact": "Sudanese spirit that possesses people, usually women. Can be appeased through ceremonies and drumming. Many different zār spirits from various origins",
-    "fun_fact_generated": false,
-    "keywords": [
-      "zār",
-      "sudan"
-    ],
-    "search_terms": [
-      "zār"
-    ],
-    "tags": [],
-    "schema_org_type": "MythicalCreature",
-    "seo_title": "Zār – Sudan Folklore",
-    "seo_description": "Sudanese spirit that possesses people, usually women. Can be appeased through ceremonies and drumming. Many different zār spirits from various origins",
-    "motifs": [
-      "G100"
-    ],
-    "featured_in_stories": [],
-    "source": "Sudanese folklore — spirit documented in Sudanese oral tradition.",
-    "source_quality": "researched",
-    "stories": [],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-18T01:56:18.312Z",
-    "living_tradition": false,
-    "source_type": "oral_tradition",
-    "source_references": [
-      {
-        "citation": "Hart, D.M. The Aït Atta of Southern Morocco: The Way of the Qaid. Paul Elek, 1976.",
-        "type": "academic",
-        "reliability": "high"
-      },
-      {
-        "citation": "Westermarck, E. Ritual and Belief in Morocco. 2 vols., Macmillan, 1926.",
-        "type": "academic",
-        "reliability": "high"
-      }
-    ]
-  },
-  {
     "id": "zambur-2086",
     "slug": "zambur",
     "name": "Zambur",
@@ -102,11 +18,10 @@
       "coyote-animal-spirit-of-uzbek",
       "zhalmauyz",
       "khas-uu",
-      "whale-animal-spirit-of-mapuche",
-      "farsakh"
+      "whale-animal-spirit-of-mapuche"
     ],
-    "description": "Zambur is a animal-spirit from Tajikistan folklore. Tajik scorpion spirit that lives in deserts and rocky areas. Can be deadly but also protective of sacred places. Associated with fire. Dangerous desert creature myth. Scorpions real danger, myth amplifies it. It is said to dwell in Deserts, rocky outcrops, ruins.",
-    "appearance": "Zambur takes the form of a animal-spirit known in Tajikistan folklore.",
+    "description": "Not independently attested as a scorpion spirit in Tajik folklore. The word zambur (zambūr) simply means 'wasp' in Persian, and no Tajik tale records a desert scorpion spirit by this name. Real scorpion lore in the region is confined to folk warnings about the black scorpion's sting and its place in proverbs and sayings.",
+    "appearance": "Tajik scorpion spirit that lives in deserts and rocky areas.",
     "behavior": "Tajik scorpion spirit that lives in deserts and rocky areas. Can be deadly but also protective of sacred places. Can be deadly but also protective of sacred places.",
     "habitat": "Deserts, rocky outcrops, ruins",
     "habitat_tags": [
@@ -146,14 +61,13 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Tajik folklore — Zambur animal spirit.",
-    "source_quality": "researched",
+    "source": "None — no independent source; 'zambur' = wasp (Persian)",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition",
-    "source_references": "Tajik folklore documentation"
+    "source_type": "oral_tradition"
   },
   {
     "id": "zana-2087",
@@ -176,9 +90,9 @@
       "lugat",
       "kulfre"
     ],
-    "description": "Zana is a nymph from Albania folklore. Mountain nymphs known for beauty and fierce independence. Protect nature, appear near rivers, waterfalls, forests. Those who disrespect nature risk wr. Albanian mountain nymphs. Compare to Greek muses. It is said to dwell in Mountains, rivers, waterfalls, dense forests.",
+    "description": "Zanë are the mountain nymphs of Albanian folklore, beautiful, fierce, and fiercely independent protectors of nature who appear near rivers, waterfalls, forests, and peaks. They guard the wilderness and may aid the worthy, but those who disrespect nature risk their wrath, which can bring madness or harm. Compare with the Greek muses and fairies across the Balkan mountains.",
     "appearance": "Protect nature, appear near rivers, waterfalls, forests.",
-    "behavior": "Zana is protect, benevolent, appear in Albania folklore.",
+    "behavior": "Mountain nymphs known for beauty and fierce independence. Protect nature, appear near rivers, waterfalls, forests.",
     "habitat": "Mountains, rivers, waterfalls, dense forests",
     "habitat_tags": [
       "forest",
@@ -222,115 +136,15 @@
     "featured_in_stories": [
       "the-zana-benevolent-fairies-of-the-albanian-mountains"
     ],
-    "source": "Albanian folklore — Zana nature spirits documented in Albanian oral tradition.",
-    "source_quality": "researched",
+    "source": "https://en.wikipedia.org/wiki/Zana_(mythology)",
+    "source_quality": "good",
     "stories": [
       "the-zana-benevolent-fairies-of-the-albanian-mountains"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition",
-    "source_references": "Elsie, Albanian Folktales and Legends (1994)"
-  },
-  {
-    "id": "zanahary-malagasy-3867",
-    "slug": "zanahary-malagasy",
-    "name": "Zanahary",
-    "country": "Madagascar",
-    "region": "East Africa",
-    "culture": "Malagasy",
-    "type": "deity",
-    "mythology": "Malagasy",
-    "archetype": "creator-god",
-    "element": "sky",
-    "aliases": [
-      "Zanahary",
-      "Andriamanitra",
-      "Father Sky"
-    ],
-    "related": [
-      "ratovantany-malagasy",
-      "ibonia-malagasy",
-      "gueno-fulani",
-      "amma-dogon",
-      "qamata-xhosa",
-      "bisondeityshona-madagascar",
-      "yawm-saub-hmong"
-    ],
-    "description": "Zanahary is the supreme sky creator god in Malagasy mythology, the source of all life and spirit. In the creation myth shared across Madagascar, Zanahary and the earth god Ratovantany collaborated to create humanity. Ratovantany shaped physical bodies from clay, but they remained lifeless until Zanahary breathed souls into them from the sky. Upon death, the soul returns to Zanahary in the heavens while the body returns to Ratovantany in the earth. This division underpins the deep Malagasy reverence for ancestors (Razana), who dwell near Zanahary and serve as intermediaries between the living and the divine.",
-    "appearance": "Invisible sky-dwelling being. Sometimes represented by the sun or the vast blue sky. Abstract, formless, omnipresent in the celestial realm.",
-    "behavior": "Breathes life into physical forms. Receives souls after death. Distant but benevolent. Communicates through ancestors and natural signs.",
-    "habitat": "The sky, the heavens, the celestial realm",
-    "habitat_tags": [
-      "sky",
-      "heavenly",
-      "sun"
-    ],
-    "behavior_tags": [
-      "creating",
-      "life-giving",
-      "receiving-souls"
-    ],
-    "strengths": [
-      "life-creation",
-      "soul-keeping",
-      "divine-authority"
-    ],
-    "weaknesses": [
-      "distant; requires ancestral intermediation"
-    ],
-    "diet": "None (spiritual being)",
-    "origin": "Malagasy theology",
-    "cultural_impact": "Zanahary is central to the Fomba Gasy traditional religion, still practiced by a significant portion of Madagascar's population, particularly among the Sakalava people (up to 80% adherence).",
-    "symbolism": "The sky; the soul; the breath of life; the sun as divine eye",
-    "associated_figures": [
-      "Ratovantany",
-      "Ibonia",
-      "Razana"
-    ],
-    "gender": "male",
-    "offspring": [
-      {
-        "name": "Andrianerinerina",
-        "relation": "son"
-      }
-    ],
-    "parents": [],
-    "siblings": [],
-    "equivalent": [
-      {
-        "name": "Amma",
-        "culture": "Dogon"
-      },
-      {
-        "name": "Qamata",
-        "culture": "Xhosa"
-      }
-    ],
-    "syncretic": [],
-    "tribe": "Malagasy",
-    "fun_fact": "The name 'Andriamanitra' (Fragrant Lord) is used among the Merina people to refer to the revered aspect of Zanahary, and this term was later adopted by Malagasy Christians for God.",
-    "summary": "Malagasy supreme sky god who breathes life into clay bodies created by Ratovantany",
-    "other_names": [
-      "Andriamanitra",
-      "Father Sky"
-    ],
-    "source": "Malagasy mythology; Zanahary is the supreme sky god.",
-    "stories": [
-      "zanahary-and-ratovantany-the-creation-of-humanity"
-    ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "living_tradition": false,
-    "source_type": "oral_tradition",
-    "source_quality": "expert",
-    "cultural_significance": "Zanahary is a a deity from East Africa mythology, representing important cultural values and traditional beliefs.",
-    "schema_org_type": "MythicalCreature",
-    "continent": "Africa",
-    "countries": [
-      "Madagascar"
-    ]
+    "source_type": "oral_tradition"
   },
   {
     "id": "zangbeto-benin-2088",
@@ -365,9 +179,9 @@
       "benin-legba",
       "agwe-fon"
     ],
-    "description": "Zangbeto, meaning 'Men of the Night' in the Goun and Fon languages, are sacred night guardian spirits central to the Vodun faith of Togo and Benin. These towering figures made of raffia and palm fibers spin through villages at night, serving as the eyes of justice in the darkness. According to tradition, Zangbetos are living vessels of ancestral spirits. Believers maintain that no human is inside the raffia structure, only spirit. They function as an unofficial spiritual police force, guarding against thieves and witches. The Zangbeto's hypnotic spinning is believed to cleanse the community of evil.",
-    "appearance": "Zangbeto takes the form of a guardian-spirit known in Benin folklore.",
-    "behavior": "Zangbeto is night, guardian, guard, appear, social in Benin folklore.",
+    "description": "Zangbeto, meaning 'Men of the Night' in the Goun and Fon languages, are sacred night guardian spirits central to the Vodun faith of Togo and Benin. These towering figures made of raffia and palm fibers spin through villages at night, serving as the eyes of justice in the darkness. According to tradition, Zangbetos are living vessels of ancestral spirits. Believers maintain that no human is inside the raffia structure, only spirit. They function as an unofficial spiritual police force, guarding against thieves and witches. The Zangbeto's hypnotic spinning is believed to cleanse the community of evil",
+    "appearance": "Zangbeto, meaning 'Men of the Night' in the Goun and Fon languages, are sacred night guardian spirits central to the Vodun faith of Togo and Benin.",
+    "behavior": "Zangbeto, meaning 'Men of the Night' in the Goun and Fon languages, are sacred night guardian spirits central to the Vodun faith of Togo and Benin. These towering figures made of raffia and palm fibers spin through villages at night, serving as the eyes of justice in the darkness.",
     "habitat": "Village streets at night",
     "habitat_tags": [
       "tree",
@@ -411,25 +225,12 @@
     ],
     "featured_in_stories": [],
     "source": "Benin/Gun traditional practice — Zangbeto night masquerade documented in Fon ethnography.",
-    "source_quality": "researched",
+    "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition",
-    "source_references": "Lima, Zangbeto (1987); Epega, The Mystery of Yoruba Gods (1994); Bay, Zangbeto: Traditional Guardian of the Night (1994)",
-    "cultural_variants": [
-      {
-        "slug": "benin-zangbeto",
-        "country": "Benin",
-        "culture": "Ogu, Gun"
-      },
-      {
-        "slug": "zangbeto-togo",
-        "country": "Togo",
-        "culture": "Ewe, Fon, Guin-Mina"
-      }
-    ]
+    "source_type": "oral_tradition"
   },
   {
     "id": "zangbeto-togo-2089",
@@ -440,7 +241,7 @@
     "culture": "Ewe, Fon, Guin-Mina",
     "type": "spirit",
     "mythology": "Vodun",
-    "archetype": "night-guardian",
+    "archetype": "guardian",
     "element": "spirit",
     "aliases": [
       "Zangbetos",
@@ -454,9 +255,9 @@
       "gambia-fara-kankurang",
       "batammariba-ancestor-spirits"
     ],
-    "description": "Zangbeto is a spirit from Vodun mythology. These towering figures made of raffia and palm fibers spin through villages at night, serving as the eyes of justice in the darkness. According to tradition, Zangbetos are living vessels of ancestral spirits. Believers maintain that no human is inside the raffia structure, only spirit. They function as an unofficial spiritual police force, guarding against thieves and witches. The Zangbeto's hypnotic spinning is believed to cleanse the community of evil.",
-    "appearance": "Zangbeto takes the form of a guardian-spirit known in Togo folklore.",
-    "behavior": "Zangbeto is nocturnal, protective, guardian, spinning in Togo folklore.",
+    "description": "Zangbeto is a spirit from Vodun mythology. These towering figures made of raffia and palm fibers spin through villages at night, serving as the eyes of justice in the darkness. According to tradition, Zangbetos are living vessels of ancestral spirits. Believers maintain that no human is inside the raffia structure, only spirit. They function as an unofficial spiritual police force, guarding against thieves and witches. The Zangbeto's hypnotic spinning is believed to cleanse the community of evil",
+    "appearance": "Zangbeto is a spirit from Vodun mythology.",
+    "behavior": "Zangbeto is a spirit from Vodun mythology. These towering figures made of raffia and palm fibers spin through villages at night, serving as the eyes of justice in the darkness.",
     "habitat": "Villages along the Mono River in southern Togo and Benin",
     "habitat_tags": [
       "village",
@@ -511,212 +312,13 @@
     ],
     "featured_in_stories": [],
     "source": "Benin folklore and spirit cultures, OldFolklore.com, Comboni Missionaries",
-    "source_quality": "researched",
+    "source_quality": "good",
     "fun_fact_generated": false,
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition",
-    "source_references": "Bay, Zangbeto: Traditional Guardian of the Night (1994); Epega, The Mystery of Yoruba Gods (1994)",
-    "cultural_variants": [
-      {
-        "slug": "benin-zangbeto",
-        "country": "Benin",
-        "culture": "Ogu, Gun"
-      },
-      {
-        "slug": "zangbeto-benin",
-        "country": "Benin",
-        "culture": "Benin"
-      }
-    ]
-  },
-  {
-    "id": "er-zar-0002",
-    "slug": "zar",
-    "name": "Zar",
-    "country": "Eritrea",
-    "region": "East Africa",
-    "culture": "Various",
-    "type": "spirit",
-    "mythology": "Eritrean",
-    "archetype": "possession spirit",
-    "element": "spirit",
-    "aliases": [
-      "zar"
-    ],
-    "related": [
-      "dekki-hdrtna",
-      "zar-eritrea",
-      "uganda-muzimu",
-      "jinn-eritrea",
-      "mngwa",
-      "jinn-jordan",
-      "zar-sudan"
-    ],
-    "description": "Zar is a spirit from Eritrea folklore. It is said to dwell in Human bodies, abandoned buildings. In folklore, it is described as demands specific gifts, music, or clothing; if ignored, causes illness or bad luck. Used to explain and treat psychological distress through communal rituals.",
-    "appearance": "Invisible, but manifests through the altered behavior and voice of the possessed person.",
-    "behavior": "Demands specific gifts, music, or clothing; if ignored, causes illness or bad luck.",
-    "habitat": "Human bodies, abandoned buildings",
-    "habitat_tags": [
-      "domestic"
-    ],
-    "behavior_tags": [
-      "demanding",
-      "possessive"
-    ],
-    "strengths": [
-      "mind control",
-      "emotional manipulation"
-    ],
-    "weaknesses": [
-      "healing rituals",
-      "music"
-    ],
-    "cultural_significance": "Used to explain and treat psychological distress through communal rituals.",
-    "summary": "Zar is a spirit from Various folklore in Eritrea, believed to embody the spiritual traditions of the region.",
-    "fun_fact": "Used to explain and treat psychological distress through communal rituals.",
-    "fun_fact_generated": false,
-    "keywords": [
-      "zar",
-      "eritrea",
-      "spirit"
-    ],
-    "search_terms": [
-      "zar"
-    ],
-    "tags": [
-      "spirit",
-      "possession"
-    ],
-    "schema_org_type": "MythicalCreature",
-    "seo_title": "Zar – Eritrea Folklore",
-    "seo_description": "The Zar: the possession spirits of Eritrean and East African mythology.",
-    "motifs": [],
-    "featured_in_stories": [],
-    "source": "East African oral tradition",
-    "source_quality": "verified",
-    "stories": [
-      "the-bewitchment-of-angutisugsuk",
-      "the-spirit-of-the-great-river",
-      "the-legend-of-the-cocoa-spirit"
-    ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "living_tradition": false,
-    "source_type": "oral_tradition",
-    "cultural_variants": [
-      {
-        "slug": "zar-eritrea",
-        "country": "Eritrea",
-        "culture": "Eritrea"
-      },
-      {
-        "slug": "zar-sudan",
-        "country": "Sudan",
-        "culture": "Sudan"
-      }
-    ]
-  },
-  {
-    "id": "zar-eritrea-2091",
-    "slug": "zar-eritrea",
-    "name": "Zar",
-    "country": "Eritrea",
-    "region": "East Africa",
-    "culture": "Eritrea",
-    "type": "spirit",
-    "mythology": "Eritrea",
-    "archetype": "spirit",
-    "element": "spirit",
-    "aliases": [
-      "Zar spirits",
-      "Zar cult spirits"
-    ],
-    "related": [
-      "dekki-hdrtna",
-      "zar",
-      "loulou",
-      "uganda-muzimu",
-      "jinn-eritrea",
-      "buda-ethiopia",
-      "buda-eritrea",
-      "jinn-jordan",
-      "somalia-desert-jinn",
-      "zar-sudan"
-    ],
-    "description": "Zar spirits are a class of supernatural beings in Eritrean folk belief, particularly among Tigrinya-speaking communities and the broader Horn of Africa region. Unlike the purely malevolent Buda, Zar spirits are ambivalent—they can cause illness and misfortune when angered but may also become protective allies when properly honored through ritual. The Zar possession cult is an important traditional healing system in Eritrea, involving drumming, dancing, and trance ceremonies designed to appease spirits possessing individuals. A person 'ridden' by a Zar spirit may experience physical or mental illness, social withdrawal, or behavioral changes. Diagnosis involves a traditional healer identifying the specific Zar, followed by a ceremony where the spirit is acknowledged, honored, and convinced to reduce its demands. Zar spirits are believed to have distinct personalities, preferences, and demands, often requiring specific colors, perfumes, or foods.",
-    "appearance": "Zar spirits are invisible to most people but may manifest through their human hosts during possession ceremonies. When possessing someone, the individual's behavior, voice, and mannerisms may change dramatically to reflect the Zar's personality. Zar are associated with specific colors, scents, and sometimes described in folk traditions as having particular imagined forms.",
-    "behavior": "Zar spirits 'ride' or possess human hosts, causing various ailments and misfortunes. They are demanding and capricious, requiring attention, offerings, and respect. When properly honored through regular ceremonies and offerings, a Zar may become a protective spirit for its host, offering guidance and even prosperity.",
-    "habitat": "Zar spirits exist in the spiritual realm but are believed to inhabit certain natural locations: rivers, large trees, barren mountains, and crossroads. They may also reside in households where they are properly honored.",
-    "habitat_tags": [
-      "spiritual realm",
-      "rivers",
-      "trees",
-      "mountains"
-    ],
-    "behavior_tags": [
-      "possession",
-      "malevolent",
-      "protective",
-      "capricious"
-    ],
-    "strengths": [
-      "invisibility",
-      "possession ability",
-      "influence over human affairs"
-    ],
-    "weaknesses": [
-      "appeasable through ritual",
-      "limited by traditional boundaries"
-    ],
-    "cultural_significance": "The Zar cult is one of the most important traditional spiritual practices in Eritrea, functioning as both a healing system and a way of understanding mental illness, infertility, and other afflictions. It provides a culturally sanctioned outlet for individuals experiencing distress and maintains community bonds through shared ritual participation. Despite pressure from Orthodox Christianity and Islam, Zar beliefs persist widely.",
-    "summary": "Ambivalent possession spirits in Eritrean folk belief that can cause illness but also become protective allies when properly honored through ritual ceremonies",
-    "fun_fact": "Zar spirits are ambivalent possession spirits in Eritrean folk belief, capable of causing illness or offering protection when honored through ritual.",
-    "keywords": [
-      "Zar",
-      "Eritrea",
-      "possession spirit",
-      "Zar cult",
-      "Horn of Africa folklore"
-    ],
-    "search_terms": [
-      "Zar spirits Eritrea",
-      "Eritrean possession cult"
-    ],
-    "tags": [],
-    "schema_org_type": "MythicalCreature",
-    "seo_title": "Zar – Eritrea Folklore",
-    "seo_description": "Zar spirits are ambivalent possession spirits in Eritrean folk belief, capable of causing illness or offering protection when honored through ritual.",
-    "motifs": [],
-    "featured_in_stories": [],
-    "source": "https://en.wikipedia.org/wiki/Z%C4%81r / https://www.jstor.org/stable/219657",
-    "source_quality": "researched",
-    "fun_fact_generated": false,
-    "stories": [],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-17T13:40:15.163Z",
-    "living_tradition": false,
-    "source_type": "literary",
-    "source_references": {
-      "title": "Curing Their Ills: Colonial Power and African Illness",
-      "author": "Clive C. Willis",
-      "year": 1999,
-      "publisher": "James Currey Publishers"
-    },
-    "cultural_variants": [
-      {
-        "slug": "zar",
-        "country": "Eritrea",
-        "culture": "Various"
-      },
-      {
-        "slug": "zar-sudan",
-        "country": "Sudan",
-        "culture": "Sudan"
-      }
-    ]
+    "source_type": "oral_tradition"
   },
   {
     "id": "zar-sudan-2090",
@@ -747,10 +349,9 @@
       "uganda-muzimu",
       "jinn-eritrea",
       "zar-eritrea",
-      "mngwa",
-      "utlat-carthaginian-spirits"
+      "mngwa"
     ],
-    "description": "Zar spirits are a class of supernatural beings in Eritrean folk belief, particularly among Tigrinya-speaking communities and the broader Horn of Africa region. Unlike the purely malevolent Buda, Zar spirits are ambivalent—they can cause illness and misfortune when angered but may also become protective allies when properly honored through ritual. The Zar possession cult is an important traditional healing system in Eritrea, involving drumming, dancing, and trance ceremonies designed to appease spirits possessing individuals. A person 'ridden' by a Zar spirit may experience physical or mental illness, social withdrawal, or behavioral changes. Diagnosis involves a traditional healer identifying the specific Zar, followed by a ceremony where the spirit is acknowledged, honored, and convinced to reduce its demands. Zar spirits are believed to have distinct personalities, preferences, and demands, often requiring specific colors, perfumes, or foods.",
+    "description": "Zar spirits are a class of supernatural beings in Eritrean folk belief, particularly among Tigrinya-speaking communities and the broader Horn of Africa region. Unlike the purely malevolent Buda, Zar spirits are ambivalent—they can cause illness and misfortune when angered but may also become protective allies when properly honored through ritual. The Zar possession cult is an important traditional healing system in Eritrea, involving drumming, dancing, and trance ceremonies designed to appease spirits possessing individuals. A person 'ridden' by a Zar spirit may experience physical or mental illness, social withdrawal, or behavioral changes. Diagnosis involves a traditional healer identifying the specific Zar, followed by a ceremony where the spirit is acknowledged, honored, and convinced to reduce its demands. Zar spirits are believed to have distinct personalities, preferences, and demands, often requiring specific colors, perfumes, or foods",
     "appearance": "Zar spirits are invisible to most people but may manifest through their human hosts during possession ceremonies. When possessing someone, the individual's behavior, voice, and mannerisms may change dramatically to reflect the Zar's personality. Zar are associated with specific colors, scents, and sometimes described in folk traditions as having particular imagined forms.",
     "behavior": "Zar spirits 'ride' or possess human hosts, causing various ailments and misfortunes. They are demanding and capricious, requiring attention, offerings, and respect. When properly honored through regular ceremonies and offerings, a Zar may become a protective spirit for its host, offering guidance and even prosperity.",
     "habitat": "Human hosts",
@@ -803,34 +404,170 @@
       "mangadhai-the-multi-headed-dragons-of-mongolia"
     ],
     "source": "Sudanese folk religion — Zar spirits documented in Sudanese possession tradition.",
-    "source_quality": "verified",
+    "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition",
-    "source_references": [
-      {
-        "t": "Zar: Spirit Possession in Sudan",
-        "a": "David Montgomery",
-        "b": "North African Folklore",
-        "p": "Routledge",
-        "y": 1990,
-        "pg": "155-170"
-      }
+    "source_type": "oral_tradition"
+  },
+  {
+    "id": "zar-eritrea-2091",
+    "slug": "zar-eritrea",
+    "name": "Zar",
+    "country": "Eritrea",
+    "region": "East Africa",
+    "culture": "Eritrea",
+    "type": "spirit",
+    "mythology": "Eritrea",
+    "archetype": "spirit",
+    "element": "spirit",
+    "aliases": [
+      "Zar spirits",
+      "Zar cult spirits"
     ],
-    "cultural_variants": [
-      {
-        "slug": "zar",
-        "country": "Eritrea",
-        "culture": "Various"
-      },
-      {
-        "slug": "zar-eritrea",
-        "country": "Eritrea",
-        "culture": "Eritrea"
-      }
-    ]
+    "related": [
+      "dekki-hdrtna",
+      "zar",
+      "loulou",
+      "uganda-muzimu",
+      "jinn-eritrea"
+    ],
+    "description": "Zar spirits are a class of supernatural beings in Eritrean folk belief, particularly among Tigrinya-speaking communities and the broader Horn of Africa region. Unlike the purely malevolent Buda, Zar spirits are ambivalent—they can cause illness and misfortune when angered but may also become protective allies when properly honored through ritual. The Zar possession cult is an important traditional healing system in Eritrea, involving drumming, dancing, and trance ceremonies designed to appease spirits possessing individuals. A person 'ridden' by a Zar spirit may experience physical or mental illness, social withdrawal, or behavioral changes. Diagnosis involves a traditional healer identifying the specific Zar, followed by a ceremony where the spirit is acknowledged, honored, and convinced to reduce its demands. Zar spirits are believed to have distinct personalities, preferences, and demands, often requiring specific colors, perfumes, or foods In Eritrea folklore, this figure is known among the Eritrea people.",
+    "appearance": "Zar spirits are invisible to most people but may manifest through their human hosts during possession ceremonies. When possessing someone, the individual's behavior, voice, and mannerisms may change dramatically to reflect the Zar's personality. Zar are associated with specific colors, scents, and sometimes described in folk traditions as having particular imagined forms.",
+    "behavior": "Zar spirits 'ride' or possess human hosts, causing various ailments and misfortunes. They are demanding and capricious, requiring attention, offerings, and respect. When properly honored through regular ceremonies and offerings, a Zar may become a protective spirit for its host, offering guidance and even prosperity.",
+    "habitat": "Zar spirits exist in the spiritual realm but are believed to inhabit certain natural locations: rivers, large trees, barren mountains, and crossroads. They may also reside in households where they are properly honored.",
+    "habitat_tags": [
+      "spiritual realm",
+      "rivers",
+      "trees",
+      "mountains"
+    ],
+    "behavior_tags": [
+      "possession",
+      "malevolent",
+      "protective",
+      "capricious"
+    ],
+    "strengths": [
+      "invisibility",
+      "possession ability",
+      "influence over human affairs"
+    ],
+    "weaknesses": [
+      "appeasable through ritual",
+      "limited by traditional boundaries"
+    ],
+    "cultural_significance": "The Zar cult is one of the most important traditional spiritual practices in Eritrea, functioning as both a healing system and a way of understanding mental illness, infertility, and other afflictions. It provides a culturally sanctioned outlet for individuals experiencing distress and maintains community bonds through shared ritual participation. Despite pressure from Orthodox Christianity and Islam, Zar beliefs persist widely.",
+    "summary": "Ambivalent possession spirits in Eritrean folk belief that can cause illness but also become protective allies when properly honored through ritual ceremonies",
+    "fun_fact": "Zar spirits are ambivalent possession spirits in Eritrean folk belief, capable of causing illness or offering protection when honored through ritual.",
+    "keywords": [
+      "Zar",
+      "Eritrea",
+      "possession spirit",
+      "Zar cult",
+      "Horn of Africa folklore"
+    ],
+    "search_terms": [
+      "Zar spirits Eritrea",
+      "Eritrean possession cult"
+    ],
+    "tags": [],
+    "schema_org_type": "MythicalCreature",
+    "seo_title": "Zar – Eritrea Folklore",
+    "seo_description": "Zar spirits are ambivalent possession spirits in Eritrean folk belief, capable of causing illness or offering protection when honored through ritual.",
+    "motifs": [],
+    "featured_in_stories": [],
+    "source": "https://en.wikipedia.org/wiki/Z%C4%81r / https://www.jstor.org/stable/219657",
+    "source_quality": "good",
+    "fun_fact_generated": false,
+    "stories": [],
+    "version": "1.0.0",
+    "lastUpdated": "2026-07-05",
+    "living_tradition": false,
+    "source_type": "literary"
+  },
+  {
+    "id": "zduha-serbia-2092",
+    "slug": "zduha-serbia",
+    "name": "Zduhać",
+    "country": "Serbia",
+    "region": "Slavic",
+    "culture": "Serbia",
+    "type": "human",
+    "mythology": "Serbia",
+    "archetype": "demonic-entity",
+    "element": "air",
+    "aliases": [
+      "zduhać",
+      "Zduhač",
+      "Vjetrovnjak",
+      "Weather Shaman",
+      "zduha-montenegro",
+      "zduhac"
+    ],
+    "related": [
+      "mora-serbia",
+      "psoglav-serbia",
+      "vila-serbia",
+      "bauk",
+      "stalo",
+      "krsnik",
+      "vila",
+      "zduhac",
+      "karakondzola",
+      "vila-montenegro",
+      "zduha-serbia",
+      "psoglav-montenegro",
+      "zduha-montenegro"
+    ],
+    "description": "Zduhać (also Zduhač) is a human with supernatural abilities from Montenegrin and Dalmatian folklore, particularly among mountain tribes. Born with a caul (amniotic membrane) on their head, a Zduhać is destined to protect their community from destructive weather. During storms, their spirit leaves their sleeping body to travel through the skies and battle evil forces or other Zduhaći who threaten their village's crops, livestock, and safety. These battles manifest on earth as hailstorms, whirlwinds, and thunderstorms. A Zduhać's physical body remains in a death-like trance during these astral battles, and if disturbed, the spirit cannot return and the person dies",
+    "appearance": "Appears as an ordinary human, recognizable at birth by the caul (amniotic membrane) covering the head. In spirit form, the zduhac is invisible to most but can be seen by those with spiritual sight as a whirlwind, shadow, or rushing wind moving against the sky.",
+    "behavior": "While their body appears to sleep, the zduhac's spirit leaves to battle weather demons and evil forces in the sky. They protect their village's crops and livestock from hailstorms by fighting other zduhaci from rival villages in fierce aerial combat.",
+    "habitat": "Mountains, fields, sky",
+    "habitat_tags": [
+      "mountain",
+      "field",
+      "sky"
+    ],
+    "behavior_tags": [
+      "protect",
+      "sing"
+    ],
+    "strengths": [
+      "soul binding",
+      "strength",
+      "possession"
+    ],
+    "weaknesses": [
+      "digging enemies",
+      "divine authority",
+      "holy power"
+    ],
+    "cultural_significance": "Important in Serbian agricultural folklore. Represents folk understanding of weather and protection.",
+    "summary": "Human weather shaman from Montenegrin folklore whose spirit leaves the body to battle evil forces and protect the community from storms",
+    "fun_fact": "Important in Serbian agricultural folklore. Represents folk understanding of weather and protection.",
+    "fun_fact_generated": false,
+    "keywords": [
+      "zduhać",
+      "serbia"
+    ],
+    "search_terms": [
+      "zduhać"
+    ],
+    "tags": [],
+    "schema_org_type": "MythicalCreature",
+    "seo_title": "Zduhać – Serbia Folklore",
+    "seo_description": "Zduhać are human weather shamans from Montenegrin folklore whose spirits leave their bodies to battle evil forces and protect communities from storms",
+    "motifs": [],
+    "featured_in_stories": [],
+    "source": "Serbian folklore — Zduha is a human with supernatural powers, documented in Serbian folk belief.",
+    "source_quality": "fair",
+    "stories": [],
+    "version": "1.0.0",
+    "lastUpdated": "2026-07-05",
+    "living_tradition": false,
+    "source_type": "oral_tradition"
   },
   {
     "id": "zduha-montenegro-2093",
@@ -856,10 +593,9 @@
       "karakondzola",
       "vila-montenegro",
       "zduha-serbia",
-      "psoglav-montenegro",
-      "vila-serbia"
+      "psoglav-montenegro"
     ],
-    "description": "Zduhać is a human from Slavic mythology. Born with a caul (amniotic membrane) on their head, a Zduhać is destined to protect their community from destructive weather. During storms, their spirit leaves their sleeping body to travel through the skies and battle evil forces or other Zduhaći who threaten their village's crops, livestock, and safety. These battles manifest on earth as hailstorms, whirlwinds, and thunderstorms. A Zduhać's physical body remains in a death-like trance during these astral battles, and if disturbed, the spirit cannot return and the person dies.",
+    "description": "Zduhać is a human from Slavic mythology. Born with a caul (amniotic membrane) on their head, a Zduhać is destined to protect their community from destructive weather. During storms, their spirit leaves their sleeping body to travel through the skies and battle evil forces or other Zduhaći who threaten their village's crops, livestock, and safety. These battles manifest on earth as hailstorms, whirlwinds, and thunderstorms. A Zduhać's physical body remains in a death-like trance during these astral battles, and if disturbed, the spirit cannot return and the person dies",
     "appearance": "Appears as an ordinary human, recognizable at birth by the caul (amniotic membrane) covering the head. In spirit form, the zduhac is invisible to most but can be seen by those with spiritual sight as a whirlwind, shadow, or rushing wind moving against the sky.",
     "behavior": "While their body appears to sleep, the zduhac's spirit leaves to battle weather demons and evil forces in the sky. They protect their village's crops and livestock from hailstorms by fighting other zduhaci from rival villages in fierce aerial combat.",
     "habitat": "Mountain villages of Montenegro, particularly in the Dinaric region",
@@ -910,7 +646,7 @@
     ],
     "featured_in_stories": [],
     "source": "Montenegrin oral tradition; snip snip South Slavic ethnographic studies by Friedrich Krauss",
-    "source_quality": "researched",
+    "source_quality": "good",
     "fun_fact_generated": false,
     "stories": [
       "he-who-could-ride-in-all-weathers"
@@ -918,233 +654,7 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition",
-    "source_references": "Basic, Serbian Folklore Studies (2000); Montenegrin folklore studies",
-    "cultural_variants": [
-      {
-        "slug": "zduha-serbia",
-        "country": "Serbia",
-        "culture": "Serbia"
-      },
-      {
-        "slug": "zduhac",
-        "country": "Montenegro",
-        "culture": "Montenegrin (South Slavic)"
-      }
-    ]
-  },
-  {
-    "id": "zduha-serbia-2092",
-    "slug": "zduha-serbia",
-    "name": "Zduhać",
-    "country": "Serbia",
-    "region": "Slavic",
-    "culture": "Serbia",
-    "type": "human",
-    "mythology": "Serbia",
-    "archetype": "demonic-entity",
-    "element": "air",
-    "aliases": [
-      "zduhać",
-      "Zduhač",
-      "Vjetrovnjak",
-      "Weather Shaman",
-      "zduha-montenegro",
-      "zduhac"
-    ],
-    "related": [
-      "mora-serbia",
-      "psoglav-serbia",
-      "vila-serbia",
-      "bauk",
-      "stalo",
-      "krsnik",
-      "vila",
-      "zduhac",
-      "karakondzola",
-      "vila-montenegro",
-      "zduha-serbia",
-      "psoglav-montenegro",
-      "zduha-montenegro"
-    ],
-    "description": "Zduhać (also Zduhač) is a human with supernatural abilities from Montenegrin and Dalmatian folklore, particularly among mountain tribes. Born with a caul (amniotic membrane) on their head, a Zduhać is destined to protect their community from destructive weather. During storms, their spirit leaves their sleeping body to travel through the skies and battle evil forces or other Zduhaći who threaten their village's crops, livestock, and safety. These battles manifest on earth as hailstorms, whirlwinds, and thunderstorms. A Zduhać's physical body remains in a death-like trance during these astral battles, and if disturbed, the spirit cannot return and the person dies.",
-    "appearance": "Appears as an ordinary human, recognizable at birth by the caul (amniotic membrane) covering the head. In spirit form, the zduhac is invisible to most but can be seen by those with spiritual sight as a whirlwind, shadow, or rushing wind moving against the sky.",
-    "behavior": "While their body appears to sleep, the zduhac's spirit leaves to battle weather demons and evil forces in the sky. They protect their village's crops and livestock from hailstorms by fighting other zduhaci from rival villages in fierce aerial combat.",
-    "habitat": "Mountains, fields, sky",
-    "habitat_tags": [
-      "mountain",
-      "field",
-      "sky"
-    ],
-    "behavior_tags": [
-      "protect",
-      "sing"
-    ],
-    "strengths": [
-      "soul binding",
-      "strength",
-      "possession"
-    ],
-    "weaknesses": [
-      "digging enemies",
-      "divine authority",
-      "holy power"
-    ],
-    "cultural_significance": "Important in Serbian agricultural folklore. Represents folk understanding of weather and protection.",
-    "summary": "Human weather shaman from Montenegrin folklore whose spirit leaves the body to battle evil forces and protect the community from storms",
-    "fun_fact": "Important in Serbian agricultural folklore. Represents folk understanding of weather and protection.",
-    "fun_fact_generated": false,
-    "keywords": [
-      "zduhać",
-      "serbia"
-    ],
-    "search_terms": [
-      "zduhać"
-    ],
-    "tags": [],
-    "schema_org_type": "MythicalCreature",
-    "seo_title": "Zduhać – Serbia Folklore",
-    "seo_description": "Zduhać are human weather shamans from Montenegrin folklore whose spirits leave their bodies to battle evil forces and protect communities from storms",
-    "motifs": [],
-    "featured_in_stories": [],
-    "source": "Serbian folklore — Zduha is a human with supernatural powers, documented in Serbian folk belief.",
-    "source_quality": "researched",
-    "stories": [],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "living_tradition": false,
-    "source_type": "oral_tradition",
-    "source_references": [
-      {
-        "t": "Wind Spirits and Weather Magic in Serbian Folklore",
-        "a": "Veselin Čajkanović",
-        "b": "Srpski etnološki zbornik",
-        "p": "Etnografski muzej",
-        "y": 1936,
-        "vol": 8,
-        "pg": "78-102"
-      },
-      {
-        "t": "The Zduhać: Serbian Wind Hero Between Myth and Folk Belief",
-        "a": "Radomir Mihailović",
-        "b": "Zbornik Filozofskog fakulteta u Beogradu",
-        "p": "University of Belgrade",
-        "y": 2001,
-        "pg": "201-218"
-      }
-    ],
-    "cultural_variants": [
-      {
-        "slug": "zduha-montenegro",
-        "country": "Montenegro",
-        "culture": "Montenegrin (South Slavic)"
-      },
-      {
-        "slug": "zduhac",
-        "country": "Montenegro",
-        "culture": "Montenegrin (South Slavic)"
-      }
-    ]
-  },
-  {
-    "id": "zduhac-3474",
-    "slug": "zduhac",
-    "name": "Zduhać",
-    "country": "Montenegro",
-    "region": "Slavic",
-    "culture": "Montenegrin (South Slavic)",
-    "type": "human",
-    "mythology": "Slavic",
-    "archetype": "weather-shaman",
-    "element": "air",
-    "aliases": [
-      "Zduhać",
-      "Zduhač",
-      "Vjetrovnjak",
-      "Weather Shaman"
-    ],
-    "related": [
-      "krsnik",
-      "vila",
-      "zduha-montenegro",
-      "karakondzola",
-      "vila-montenegro",
-      "zduha-serbia",
-      "psoglav-montenegro",
-      "vila-serbia"
-    ],
-    "description": "Zduhać is a human from Slavic mythology. Born with a caul (amniotic membrane) on their head, a Zduhać is destined to protect their community from destructive weather. During storms, their spirit leaves their sleeping body to travel through the skies and battle evil forces or other Zduhaći who threaten their village's crops, livestock, and safety. These battles manifest on earth as hailstorms, whirlwinds, and thunderstorms. A Zduhać's physical body remains in a death-like trance during these astral battles, and if disturbed, the spirit cannot return and the person dies.",
-    "appearance": "Appears as an ordinary human, recognizable at birth by the caul (amniotic membrane) covering the head. In spirit form, the zduhac is invisible to most but can be seen by those with spiritual sight as a whirlwind, shadow, or rushing wind moving against the sky.",
-    "behavior": "While their body appears to sleep, the zduhac's spirit leaves to battle weather demons and evil forces in the sky. They protect their village's crops and livestock from hailstorms by fighting other zduhaci from rival villages in fierce aerial combat.",
-    "habitat": "Mountain villages of Montenegro, particularly in the Dinaric region",
-    "habitat_tags": [
-      "mountain",
-      "rural",
-      "village"
-    ],
-    "behavior_tags": [
-      "protective",
-      "astral projection",
-      "nocturnal"
-    ],
-    "strengths": [
-      "weather control",
-      "astral projection",
-      "storm protection",
-      "spirit combat"
-    ],
-    "weaknesses": [
-      "body vulnerable during astral travel",
-      "can die if physical body disturbed",
-      "born only under specific conditions"
-    ],
-    "cultural_significance": "The Zduhać belief reflects the deep connection of Montenegrin highlanders to the harsh mountain environment and the constant threat of destructive storms.",
-    "summary": "Human weather shaman from Montenegrin folklore whose spirit leaves the body to battle evil forces and protect the community from storms",
-    "fun_fact": "A Zduhać is identified at birth by the caul (membrane) covering their head, which is preserved as a talisman",
-    "keywords": [
-      "zduhac",
-      "zduhač",
-      "montenegro",
-      "weather shaman",
-      "slavic folklore",
-      "storm protector"
-    ],
-    "search_terms": [
-      "Zduhac Montenegro",
-      "Slavic weather shamans",
-      "Dalmatian storm protectors"
-    ],
-    "tags": [],
-    "schema_org_type": "MythicalCreature",
-    "seo_title": "Zduhać – Montenegro's Weather-Shaman Storm Protectors",
-    "seo_description": "Zduhać are human weather shamans from Montenegrin folklore whose spirits leave their bodies to battle evil forces and protect communities from storms",
-    "motifs": [
-      "F565",
-      "D2142.1"
-    ],
-    "featured_in_stories": [],
-    "source": "Montenegrin oral tradition; snip snip South Slavic ethnographic studies by Friedrich Krauss",
-    "source_quality": "researched",
-    "stories": [
-      "he-who-could-ride-in-all-weathers"
-    ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "living_tradition": false,
-    "source_type": "oral_tradition",
-    "source_references": "Basic, Serbian Folklore Studies (2000)",
-    "cultural_variants": [
-      {
-        "slug": "zduha-montenegro",
-        "country": "Montenegro",
-        "culture": "Montenegrin (South Slavic)"
-      },
-      {
-        "slug": "zduha-serbia",
-        "country": "Serbia",
-        "culture": "Serbia"
-      }
-    ]
+    "source_type": "oral_tradition"
   },
   {
     "id": "zelebith-2094",
@@ -1167,7 +677,7 @@
       "segen",
       "lizarddeitytibetan-ethiopia"
     ],
-    "description": "Zelebith is a bird from Ethiopia folklore. Ethiopian mythical bird of paradise. Beautiful feathers, never touches ground. Lives in highest mountains. Sings only once in lifetime. Ethiopian legendary bird. Similar to phoenix but not fiery. Symbol of rarity and beauty. It is said to dwell in Ethiopian high mountains, inaccessible peaks.",
+    "description": "Zelebith (Ethiopia). is a bird. Zelebith is a bird from the folklore and mythology of Ethiopia.. Source: Ethiopian folklore — Zelebith bird documented in Ethiopian oral tradition.",
     "appearance": "Beautiful feathers, never touches ground.",
     "behavior": "Known for speed, animal communication, migration endurance.",
     "habitat": "Ethiopian high mountains, inaccessible peaks",
@@ -1205,38 +715,12 @@
     "motifs": [],
     "featured_in_stories": [],
     "source": "Ethiopian folklore — Zelebith bird documented in Ethiopian oral tradition.",
-    "source_quality": "researched",
+    "source_quality": "fair",
     "stories": [],
-    "version": "1.0.01",
-    "lastUpdated": "2026-07-18",
+    "version": "1.0.0",
+    "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition",
-    "source_references": [
-      {
-        "t": "The Dictionary of Deities and Demons in the Bible",
-        "a": "Karel van der Toorn, Bob Becking, and Pieter W. van der Horst (eds.)",
-        "b": "The Dictionary of Deities and Demons in the Bible",
-        "p": "Brill",
-        "y": 1999,
-        "pg": "921-924"
-      },
-      {
-        "t": "African Mythology A to Z",
-        "a": "Patricia Ann Lynch",
-        "b": "African Mythology A to Z",
-        "p": "Chelsea House Publishers",
-        "y": 2004,
-        "pg": "389-390"
-      },
-      {
-        "t": "Encyclopedia of African Religion",
-        "a": "Molefi Kete Asante and Ama Mazama (eds.)",
-        "b": "Encyclopedia of African Religion",
-        "p": "Sage Publications",
-        "y": 2009,
-        "pg": "923-925"
-      }
-    ]
+    "source_type": "oral_tradition"
   },
   {
     "id": "zhalmauyz-2095",
@@ -1259,9 +743,9 @@
       "owl-giant-of-kazakh",
       "zambur"
     ],
-    "description": "Zhalmauyz is a animal-spirit from Kazakhstan folklore. Kazakh spirit of the camel, protector of herds. Can appear as giant camel or elderly herder. Tests shepherds' treatment of animals. Important in Kazakh nomadic culture where camels are vital. Animal totem spirit. It is said to dwell in Deserts, steppe camps, camel herds.",
-    "appearance": "Zhalmauyz takes the form of a animal-spirit known in Kazakhstan folklore.",
-    "behavior": "Zhalmauyz is protect, cruel, kind, bless, appear, herd in Kazakhstan folklore.",
+    "description": "Zhalmauyz (Zhalmauyz Kempir) is the ogress of Kazakh folklore, an ancient cannibal hag who hunts for children to devour. She has seven heads, a single eye and hoof-like feet, and she shifts her shape to deceive her victims. Her name, echoing the steppe word for a child-stealing bogey, is used to frighten the young.",
+    "appearance": "Kazakh spirit of the camel, protector of herds.",
+    "behavior": "Kazakh spirit of the camel, protector of herds. Can appear as giant camel or elderly herder.",
     "habitat": "Deserts, steppe camps, camel herds",
     "habitat_tags": [
       "desert"
@@ -1303,23 +787,13 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Kazakh folklore — Zhalmauyz monster/ogre.",
-    "source_quality": "verified",
+    "source": "Wikipedia 'Zhalmauyz'; Kazakh oral tradition",
+    "source_quality": "academic",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition",
-    "source_references": [
-      {
-        "t": "Zhalmauyz in Kazakh Folklore",
-        "a": "N.poppe",
-        "b": "The Mongolian Oral Epic",
-        "p": "Indiana University",
-        "y": 1980,
-        "pg": "265-275"
-      }
-    ]
+    "source_type": "oral_tradition"
   },
   {
     "id": "zhar-ptitsa-firebird-2096",
@@ -1340,12 +814,11 @@
       "babayaga-russia",
       "kostroma",
       "termite-animal-spirit-komi",
-      "toad-guardian-udmurt",
-      "cikavac"
+      "toad-guardian-udmurt"
     ],
-    "description": "Zhar-Ptitsa (Firebird) is a bird from Russia folklore. Slavic magical firebird with glowing feathers. Its feathers light up darkness, and its song can charm anyone. Lives in distant lands, brings both bles. Famous Russian folktale bird. Used in many stories (e.g., 'Ivan Tsarevich and the Grey Wolf'). Symbol of unattainable desire. It is said to dwell in Faraway magical realms.",
+    "description": "Zhar-Ptitsa (Firebird) is the Slavic magical glowing bird from a faraway land. Its golden feathers illuminate darkness; a single feather lights a room. Both a blessing and a harbinger of doom to its captor. Central to quest tales (Ivan Tsarevich and the Grey Wolf) where heroes seek it for a tsar. Inspired Stravinsky's ballet The Firebird. Parallel to Armenian Hazaran Blbul and Iranian Simurgh.",
     "appearance": "Slavic magical firebird with glowing feathers. Its feathers light up darkness, and its song can charm anyone.",
-    "behavior": "Zhar-Ptitsa (Firebird) is curse, bless, sing, elusive in Russia folklore.",
+    "behavior": "Slavic magical firebird with glowing feathers. Its feathers light up darkness, and its song can charm anyone.",
     "habitat": "Faraway magical realms",
     "habitat_tags": [
       "Slavic forests",
@@ -1387,7 +860,7 @@
       "F300"
     ],
     "featured_in_stories": [],
-    "source": "Russian folklore — the Zhar-Ptitsa (Firebird) is documented in Russian fairy tales.",
+    "source": "Afanasyev, Narodnye russkie skazki (tale 168); Massie, Land of the Firebird; Stravinsky/Fokine/Benois, The Firebird ballet; Reymont, Chłopi (Nobel novel citing firebirds); Wikipedia (Firebird)",
     "source_quality": "expert",
     "stories": [],
     "version": "1.0.0",
@@ -1416,9 +889,9 @@
       "wildcatguardianshona-zimbabwe",
       "bear-giant-of-shona"
     ],
-    "description": "Zimwi (or Zimwi) is a ogre from Zimbabwe folklore. Giant, hairy, man-eating ogre that can be very strong. Sometimes has backwards feet to confuse trackers. Often outwitted by clever heroes. Common African ogre trope. Represents threat of wilderness and strangers. It is said to dwell in Forests, caves, remote places.",
+    "description": "Zimwi is a Shona ogre (giant, hairy, man-eating) from Zimbabwe folklore, dwelling in forests and caves. It represents the danger of wilderness and strangers, often depicted with backwards feet to confuse trackers. Heroes outwit it through cleverness. The term zimwi appears in Bantu religion literature as a class of ogre-like beings across southern Africa (amazimu in Zulu, madimo in Sotho).",
     "appearance": "Giant, hairy, man-eating ogre that can be very strong.",
-    "behavior": "Giant, hairy, man-eating ogre that can be very strong. Represents threat of wilderness and strangers. It is said to dwell in Forests, caves, remote places.",
+    "behavior": "Giant, hairy, man-eating ogre that can be very strong. Represents threat of wilderness and strangers.",
     "habitat": "Forests, caves, remote places",
     "habitat_tags": [
       "forest",
@@ -1455,25 +928,13 @@
     "seo_description": "Giant, hairy, man-eating ogre that can be very strong. Sometimes has backwards feet to confuse trackers. Often outwitted by clever heroes.",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Zimbabwe folklore — the Zimwi ogre documented in Shona oral tradition.",
-    "source_quality": "researched",
+    "source": "Shona oral tradition; snip Bantu religion literature (zimwi/madimo/amazimu as ogre class); snip Zimbabwe folklore collections",
+    "source_quality": "fair",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition",
-    "source_references": [
-      {
-        "citation": "Beidelman, T.O. A Comparative Analysis of the Joking-Relationship and Fieldwork. Africa, Vol. 34, No. 3, pp. 235-253, 1964.",
-        "type": "academic",
-        "reliability": "high"
-      },
-      {
-        "citation": "Bryant, A.T. Zulu Medicine and Medicine-Men. Published by the author, 1936.",
-        "type": "academic",
-        "reliability": "high"
-      }
-    ]
+    "source_type": "oral_tradition"
   },
   {
     "id": "zin-2098",
@@ -1494,14 +955,10 @@
       "oshun",
       "nix-switzerland",
       "nommo",
-      "nkk-norway",
-      "benin-mami-wata",
-      "dodo",
-      "gambia-mami-wata",
-      "mamiwata-liberia"
+      "nkk-norway"
     ],
-    "description": "Zin is a water-spirit from Niger folklore. Water spirits inhabiting the Niger River and lakes. Shape-shift between aquatic and human forms, capable of luring humans to watery domains. River's spiritual significance - teach respect for water's danger. It is said to dwell in Niger River, lakes.",
-    "appearance": "Zin takes the form of a water-spirit known in Niger folklore.",
+    "description": "Zin are Hausa water spirits inhabiting the Niger River and lakes in Niger and northern Nigeria. They shapeshift between aquatic and human forms, luring humans to watery domains. Feared as causes of drowning and disappearances. Related to broader West African water spirit complexes (Mami Wata, Ndi Mmili). Documented in Hausa oral tradition.",
+    "appearance": "Water spirits inhabiting the Niger River and lakes.",
     "behavior": "Zin is shape-shift, lure in Niger folklore.",
     "habitat": "Niger River, lakes",
     "habitat_tags": [
@@ -1590,97 +1047,13 @@
       "the-mongolian-death-worm-olgoi-khorkhoi",
       "samodiva-the-wood-nymphs-of-the-bulgarian-mountains"
     ],
-    "source": "Hausa oral tradition of Niger — Zin water spirits.",
-    "source_quality": "researched",
+    "source": "Hausa oral tradition; 'Bori' spirit possession ethnography (Tremearne, 'Hausa Superstitions'); Niger River folklore",
+    "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-17T13:33:07.885Z",
+    "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition",
-    "source_references": "Sylla, L'Empire du Djolof (1988, L'Harmattan); Monteil, Anthologie sénégalaise (1966, Présence Africaine); Labouret, Les Royaumes soudanais (1939, Payot)"
-  },
-  {
-    "id": "zin-kibaru-3341",
-    "slug": "zin-kibaru",
-    "name": "Zin Kibaru",
-    "country": "Niger",
-    "region": "West Africa",
-    "culture": "Songhay-Zarma, Fulani",
-    "type": "spirit",
-    "mythology": "Songhay",
-    "archetype": "water-demon",
-    "element": "water",
-    "aliases": [
-      "Zin Kibaru",
-      "Zin",
-      "Hari Zin",
-      "Water Genie"
-    ],
-    "related": [
-      "toula",
-      "bori-spirits",
-      "kel-essuf",
-      "lafaek-crocodile-spirit",
-      "gambia-jinn-beings",
-      "suv-peri"
-    ],
-    "description": "Zin Kibaru is a water spirit from Songhay-Zarma mythology of the Niger River region. The term Zin refers to a class of genies inhabiting water bodies, and Kibaru specifically designates a powerful water demon that demands respect and offerings. These spirits are associated with the Holeys, possession dances of the Songhay-Zarma people. Zin Kibaru are believed to inhabit the deepest parts of the Niger River and its tributaries. Fishermen and boatmen must make proper offerings before venturing onto certain waters. The Zin spirits can capsize boats, drown individuals, or bring abundant fish depending on how they are treated. They are served by the Do and Karou priestly lineages.",
-    "appearance": "Powerful water genie, sometimes described as a massive aquatic creature or a humanoid with water-associated features.",
-    "behavior": "Guards water bodies, demands respect and offerings. Rewards proper conduct with good fishing. Punishes disrespect with drowning or boat capsizing.",
-    "habitat": "Deep waters of the Niger River and its tributaries in Niger",
-    "habitat_tags": [
-      "water",
-      "river",
-      "rural"
-    ],
-    "behavior_tags": [
-      "territorial",
-      "protective",
-      "punitive"
-    ],
-    "strengths": [
-      "control over water bodies",
-      "power over fish abundance",
-      "capsizing boats"
-    ],
-    "weaknesses": [
-      "must be managed by Do and Karou priests",
-      "can be appeased with sacrifices"
-    ],
-    "cultural_significance": "Zin Kibaru belief regulates fishing practices along the Niger River and maintains the authority of traditional priestly lineages.",
-    "summary": "Powerful water genie from Songhay-Zarma mythology of Niger that inhabits the Niger River and demands respect from fishermen",
-    "fun_fact": "Zin Kibaru belief regulates fishing practices along the Niger River and maintains the authority of traditional priestly lineages.",
-    "keywords": [
-      "zin kibaru",
-      "niger",
-      "songhay",
-      "water spirit",
-      "niger river",
-      "hari zin"
-    ],
-    "search_terms": [
-      "Zin Kibaru Niger",
-      "Songhay water spirits",
-      "Niger River folklore"
-    ],
-    "tags": [],
-    "schema_org_type": "MythicalCreature",
-    "seo_title": "Zin Kibaru – The Water Genie of the Niger River",
-    "seo_description": "Zin Kibaru is a powerful water genie from Songhay-Zarma mythology of Niger, inhabiting the Niger River and controlling the fortunes of fishermen.",
-    "motifs": [
-      "B91",
-      "F420.2"
-    ],
-    "featured_in_stories": [],
-    "source": "Songhay oral tradition; snip snip Jean Rouch ethnographic studies; snip snip Boubou Hama",
-    "source_quality": "researched",
-    "fun_fact_generated": false,
-    "stories": [],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-17T13:33:07.885Z",
-    "living_tradition": false,
-    "source_type": "oral_tradition",
-    "source_references": "Sylla, L'Empire du Djolof (1988, L'Harmattan); Monteil, Anthologie sénégalaise (1966, Présence Africaine); Mulambw, Contribution à l'histoire du Djolof (1988, L'Harmattan)"
+    "source_type": "oral_tradition"
   },
   {
     "id": "zlydzens-2099",
@@ -1703,9 +1076,9 @@
       "crowmaya-mexico",
       "crowmaya-canada"
     ],
-    "description": "Zlydzens is a trickster from Belarus folklore. Small, hunchbacked, hazardous creatures living under masonry stove. Engaged in harmful activities - damaging utensils, making messes, pouring milk. Symbolize chaos when social norms violated. It is said to dwell in Under stoves.",
+    "description": "Zlydzens (Belarusian zlydni, Ukrainian zlydni) are small, hunchbacked, hazardous stove spirits living under the masonry oven. They wear big boots and earflap hats, resemble cat-dog hybrids. In groups they wreck utensils, spill milk, create chaos; drawn to greedy households. Cowardly alone. The Ukrainian phrase 'zhyty v zlydnyakh' (live in zlydni) means 'to live in poverty.'",
     "appearance": "Small, hunchbacked, hazardous creatures living under masonry stove.",
-    "behavior": "Zlydzens is deceiving, shapeshifting, mischievous in Belarus folklore.",
+    "behavior": "Small, hunchbacked, hazardous creatures living under masonry stove. Engaged in harmful activities - damaging utensils, making messes, pouring milk.",
     "habitat": "Under stoves",
     "habitat_tags": [
       "Belarusian wilderness",
@@ -1744,14 +1117,13 @@
     "seo_description": "Small, hunchbacked, hazardous creatures living under masonry stove. Engaged in harmful activities - damaging utensils, making messes, pouring milk. At",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Belarus mythology, oral tradition & folklore collections",
-    "source_quality": "researched",
+    "source": "Brouka, Magical World: From Belarusian Myths; Rybakov, Ancient Slavic Paganism; Tsybulkin et al., Vlesova kniga; Wikipedia (Zlydzens)",
+    "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": true,
-    "source_type": "oral_tradition",
-    "source_references": "Propp, Russian Folktale (1984); Belarusian folklore studies"
+    "source_type": "oral_tradition"
   },
   {
     "id": "zmaj-kosovo-2100",
@@ -1778,12 +1150,11 @@
       "bukavac",
       "lamya",
       "potopica",
-      "zmaj-kosovo",
-      "zmeu-moldova"
+      "zmaj-kosovo"
     ],
-    "description": "Zmaj is a dragon from Kosovo folklore. Kosovar dragon. Treasure guardian. It is known to be guard. It is said to dwell in Caves near villages. Known for heat generation, aquatic speed, supernatural strength. Associated with cave, village.",
-    "appearance": "Typical appearance matches its role as a guard being.",
-    "behavior": "Treasure guardian. Treasure guardian. It is known to be guard.",
+    "description": "Zmaj is the dragon of South Slavic folklore, including Kosovo, a great serpent or winged, fire-breathing beast dwelling in caves near villages. In Serbian and Kosovan tradition the fiery zmaj is often a guardian of crops who fights storm-demons, though dragons also guard treasure; its presence explains storms and drought. The figure parallels the Bulgarian zmey and Romanian zmeu.",
+    "appearance": "Zmaj is a dragon from Kosovo folklore.",
+    "behavior": "Treasure guardian.",
     "habitat": "Caves near villages",
     "habitat_tags": [
       "cave",
@@ -1821,8 +1192,8 @@
     "featured_in_stories": [
       "the-dragon-of-belgrade"
     ],
-    "source": "Kosovan/Serbian folklore — dragon documented in Kosovan oral tradition.",
-    "source_quality": "researched",
+    "source": "Serbian/Kosovan folklore — zmaj (South Slavic dragon tradition); https://en.wikipedia.org/wiki/Zmey",
+    "source_quality": "fair",
     "stories": [
       "the-dragon-of-belgrade"
     ],
@@ -1830,24 +1201,7 @@
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/zmaɪ/",
-    "source_references": [
-      {
-        "t": "Zmaj: Dragon-king in South Slavic Folklore",
-        "a": "Vuk Stefanović Karadžić",
-        "b": "Srpske Narodne Pripovijetke",
-        "p": "Cyrillic Press",
-        "y": 1853,
-        "pg": "134-155"
-      }
-    ],
-    "cultural_variants": [
-      {
-        "slug": "zmaj-serbia",
-        "country": "Serbia",
-        "culture": "Serbia"
-      }
-    ]
+    "pronunciation_ipa": "/zmaɪ/"
   },
   {
     "id": "zmaj-serbia-2101",
@@ -1870,9 +1224,9 @@
       "potopica",
       "zmaj-kosovo"
     ],
-    "description": "Zmaj is a dragon from Serbia folklore. Kosovar dragon. Treasure guardian. It is known to be guard. It is said to dwell in Caves near villages. Known for heat generation, flight, water manipulation.",
-    "appearance": "Typical appearance matches its role as a guard being.",
-    "behavior": "Treasure guardian. Treasure guardian. It is known to be guard.",
+    "description": "Zmaj is the Serbian dragon — a winged serpent dwelling in caves near villages. In Balkans lore, unlike the malevolent Russian zmey, the zmaj is often a benevolent guardian who fights the evil ala/lamia (drought demons). Can appear as a handsome man, fire bird, or smoke; takes human lovers (e.g., Tsarina Milica). Symbol of patriotic resistance against Ottoman rule.",
+    "appearance": "Zmaj is a dragon from Serbia folklore.",
+    "behavior": "Treasure guardian.",
     "habitat": "Caves near villages",
     "habitat_tags": [
       "cave",
@@ -1910,21 +1264,13 @@
     "featured_in_stories": [
       "the-dragon-of-belgrade"
     ],
-    "source": "Serbian folklore — Zmaj dragon documented in Serbian oral tradition.",
-    "source_quality": "researched",
+    "source": "Karadžić, Srpske narodne pjesme; Petrovitch, Hero Tales and Legends of the Serbs; MacDermott, Bulgarian Folk Songs; Wikipedia (Slavic dragon — Zmaj of Serbian fairy tales)",
+    "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition",
-    "source_references": "Propp, Russian Folktale (1984); Serbian dragon studies",
-    "cultural_variants": [
-      {
-        "slug": "zmaj-kosovo",
-        "country": "Kosovo",
-        "culture": "Kosovo"
-      }
-    ]
+    "source_type": "oral_tradition"
   },
   {
     "id": "zmej-2102",
@@ -1945,14 +1291,11 @@
       "karakondzho",
       "karakondzula",
       "ala",
-      "karakond-ul",
-      "baba-roga",
-      "zmey-russia",
-      "zmey-bulgaria"
+      "karakond-ul"
     ],
-    "description": "Zmej (Polish zmiy, Russian zmei, Serbian zmaj) is a Slavic dragon - a winged serpentine creature. The name derives from Proto-Slavic zmьjь meaning serpent or snake. In the Balkans, zmej are often benevolent guardian spirits.",
+    "description": "Zmej is the Bulgarian dragon — a winged, scale-covered serpent, often with multiple heads (3–12). Unlike East Slavic malevolent zmey, the Balkan zmej is a benevolent guardian who fights the lamia/hala (drought demons). Can appear as a handsome man to woo human women; children of such unions become vampire hunters. Symbol of patriotic resistance. St.",
     "appearance": "Winged serpent with scales; can be human-like with dragon form in air; sometimes multiple heads (3-12); in Serbian tales often appears as smoke, fire bird, or handsome man",
-    "behavior": "In East Slavic lore: malevolent three-to-twelve-headed dragon (Zmey Gorynych). In Balkans: benevolent guardian fighting evil lamia; can be lover of human women",
+    "behavior": "In East Slavic lore: malevolent three-to-twelve-headed dragon (Zmey Gorynych). In Balkans: benevolent guardian fighting evil lamia; can be lover of human women.",
     "habitat": "Mountains, caves, sometimes underwater",
     "habitat_tags": [
       "mountain",
@@ -1995,91 +1338,13 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Bulgarian folklore — Zmej dragon documented in Bulgarian oral tradition.",
-    "source_quality": "researched",
+    "source": "Georgieva, Bǎlgarska narodna mitologiya; MacDermott, Bulgarian Folk Songs; Slaveykov, folk collections; Marinov, St. George songs; Wikipedia (Slavic dragon — Balkan Slavic dragons)",
+    "source_quality": "expert",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition",
-    "source_references": "Propp, Russian Folktale (1984); Bulgarian dragon studies"
-  },
-  {
-    "id": "zmeu-moldova-2104",
-    "slug": "zmeu-moldova",
-    "name": "Zmeu",
-    "country": "Moldova",
-    "region": "Balkan",
-    "culture": "Moldova",
-    "type": "dragon",
-    "mythology": "Moldova",
-    "archetype": "water-spirit",
-    "element": "fire",
-    "aliases": [
-      "zmeu"
-    ],
-    "related": [
-      "zmeu-romania",
-      "s-rk-ny",
-      "kulshedra",
-      "dreq",
-      "zmaj-kosovo"
-    ],
-    "description": "Flying dragon in Romanian folklore - often a villain in ballads who kidnaps maidens. Can be defeated by brave heroes. Multiple heads possible.",
-    "appearance": "Flying dragon, often with multiple heads, fearsome appearance. Can also appear as handsome young man.",
-    "behavior": "Kidnaps maidens, causes trouble. Often defeated by heroic figures in ballads. Can have multiple heads.",
-    "habitat": "Mountains, castles, high places",
-    "habitat_tags": [
-      "mountain"
-    ],
-    "behavior_tags": [
-      "kidnap"
-    ],
-    "strengths": [
-      "drowning ability",
-      "fire breath",
-      "heat generation"
-    ],
-    "weaknesses": [
-      "arrogance",
-      "containment",
-      "holy weapons"
-    ],
-    "cultural_significance": "Important in Romanian folk ballads. Represents dangerous, powerful forces to be overcome by heroes.",
-    "summary": "Flying dragon in Romanian folklore - often a villain in ballads who kidnaps maidens",
-    "fun_fact": "Important in Romanian folk ballads. Represents dangerous, powerful forces to be overcome by heroes.",
-    "fun_fact_generated": false,
-    "keywords": [
-      "zmeu",
-      "moldova"
-    ],
-    "search_terms": [
-      "zmeu"
-    ],
-    "tags": [],
-    "schema_org_type": "MythicalCreature",
-    "seo_title": "Zmeu – Moldova Folklore",
-    "seo_description": "Flying dragon in Romanian folklore - often a villain in ballads who kidnaps maidens. Can be defeated by brave heroes. Multiple heads possible.",
-    "motifs": [],
-    "featured_in_stories": [
-      "zmeu-the-dragon-of-romanian-folklore"
-    ],
-    "source": "Roman mythology, Ovid's Metamorphoses",
-    "source_quality": "researched",
-    "stories": [],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "living_tradition": false,
-    "source_type": "oral_tradition",
-    "pronunciation_ipa": "/zmeu/",
-    "source_references": "Propp, Russian Folktale (1984); Romanian dragon studies",
-    "cultural_variants": [
-      {
-        "slug": "zmeu-romania",
-        "country": "Romania",
-        "culture": "Romania"
-      }
-    ]
+    "source_type": "oral_tradition"
   },
   {
     "id": "zmeu-romania-2103",
@@ -2102,10 +1367,9 @@
       "kulshedra",
       "dreq",
       "zmaj-kosovo",
-      "zmeu-romania",
-      "moroi"
+      "zmeu-romania"
     ],
-    "description": "Flying dragon in Romanian folklore - often a villain in ballads who kidnaps maidens. Can be defeated by brave heroes. Multiple heads possible.",
+    "description": "Zmeu is the dragon of Romanian folklore, a fearsome flying serpent, often multi-headed, that abducts maidens and menaces villages from mountain fastnesses and castles. In the folk ballads a hero must defeat the zmeu, sometimes with the aid of his captive's cunning; the dragon may also appear as a handsome youth. It personifies the dangerous forces overcome by heroic virtue.",
     "appearance": "Flying dragon, often with multiple heads, fearsome appearance. Can also appear as handsome young man.",
     "behavior": "Kidnaps maidens, causes trouble. Often defeated by heroic figures in ballads. Can have multiple heads.",
     "habitat": "Mountains, castles, high places",
@@ -2144,23 +1408,173 @@
     "featured_in_stories": [
       "zmeu-the-dragon-of-romanian-folklore"
     ],
-    "source": "Roman mythology, Ovid's Metamorphoses",
-    "source_quality": "verified",
+    "source": "https://en.wikipedia.org/wiki/Zmeu",
+    "source_quality": "good",
     "stories": [
       "zmeu-the-dragon-of-romanian-folklore"
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
+    "source_type": "oral_tradition"
+  },
+  {
+    "id": "zmeu-moldova-2104",
+    "slug": "zmeu-moldova",
+    "name": "Zmeu",
+    "country": "Moldova",
+    "region": "Balkan",
+    "culture": "Moldova",
+    "type": "dragon",
+    "mythology": "Moldova",
+    "archetype": "water-spirit",
+    "element": "fire",
+    "aliases": [
+      "zmeu"
+    ],
+    "related": [
+      "zmeu-romania",
+      "s-rk-ny",
+      "kulshedra",
+      "dreq",
+      "zmaj-kosovo"
+    ],
+    "description": "Zmeu is the dragon of Moldovan and Romanian folklore, a flying serpent, often multi-headed, that carries off maidens and plagues the land from mountains and high places, breathing fire and drowning its foes. Folk ballads tell of heroes who overcome it by courage and trickery. The zmeu represents the perilous forces that the human order must triumph over.",
+    "appearance": "Flying dragon, often with multiple heads, fearsome appearance. Can also appear as handsome young man.",
+    "behavior": "Kidnaps maidens, causes trouble. Often defeated by heroic figures in ballads. Can have multiple heads.",
+    "habitat": "Mountains, castles, high places",
+    "habitat_tags": [
+      "mountain"
+    ],
+    "behavior_tags": [
+      "kidnap"
+    ],
+    "strengths": [
+      "drowning ability",
+      "fire breath",
+      "heat generation"
+    ],
+    "weaknesses": [
+      "arrogance",
+      "containment",
+      "holy weapons"
+    ],
+    "cultural_significance": "Important in Romanian folk ballads. Represents dangerous, powerful forces to be overcome by heroes.",
+    "summary": "Flying dragon in Romanian folklore - often a villain in ballads who kidnaps maidens",
+    "fun_fact": "Important in Romanian folk ballads. Represents dangerous, powerful forces to be overcome by heroes.",
+    "fun_fact_generated": false,
+    "keywords": [
+      "zmeu",
+      "moldova"
+    ],
+    "search_terms": [
+      "zmeu"
+    ],
+    "tags": [],
+    "schema_org_type": "MythicalCreature",
+    "seo_title": "Zmeu – Moldova Folklore",
+    "seo_description": "Flying dragon in Romanian folklore - often a villain in ballads who kidnaps maidens. Can be defeated by brave heroes. Multiple heads possible.",
+    "motifs": [],
+    "featured_in_stories": [
+      "zmeu-the-dragon-of-romanian-folklore"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Zmeu",
+    "source_quality": "good",
+    "stories": [],
+    "version": "1.0.0",
+    "lastUpdated": "2026-07-05",
+    "living_tradition": false,
     "source_type": "oral_tradition",
-    "source_references": "Munceanu, Zmeu in Romanian Mythology (1999); Bugheșiu, Romanian Mythological Dictionary (1985)",
-    "cultural_variants": [
-      {
-        "slug": "zmeu-moldova",
-        "country": "Moldova",
-        "culture": "Moldova"
-      }
-    ]
+    "pronunciation_ipa": "/zmeu/"
+  },
+  {
+    "id": "zmey-russia-2105",
+    "slug": "zmey-russia",
+    "name": "Zmey",
+    "country": "Russia",
+    "region": "Slavic",
+    "culture": "Russia",
+    "type": "spirit",
+    "mythology": "Russia",
+    "archetype": "shapeshifter",
+    "element": "air-fire",
+    "aliases": [
+      "zmey",
+      "zmey-bulgaria",
+      "Zmej",
+      "Zmaj",
+      "Zmev",
+      "zmey-northmacedonia"
+    ],
+    "related": [
+      "zmey-bulgaria",
+      "zmey-gorynych",
+      "firebird",
+      "mosquito-guardian-mari",
+      "leshy",
+      "zmey-russia",
+      "samodiva",
+      "stria",
+      "zmej",
+      "ala",
+      "lamia-vatican",
+      "ala-igbo",
+      "vila-bosniaandherzegovina",
+      "p-anetnik",
+      "d-ambas"
+    ],
+    "description": "The Zmey (Macedonian: Змеј) is a dragon-like creature central to Macedonian folklore, distinct from the purely malevolent dragons of Western tradition. In Macedonian tales and folk songs, Zmey are described as extraordinarily intelligent beings with hypnotizing eyes, possessing a human-like form with a snake's tail and golden wings. They live in caves or on remote mountain tops and are extremely wise. The Zmey has a dual nature: they are territorial guardians who protect villages and fight destructive female Lamia in the skies during storms, yet they also fall passionately in love with human women, often kidnapping them to their mountain lairs. A Zmey can shape-shift into smoke, a spark, a firebird, a snake, a cloud, or a handsome man. In Macedonian belief, a woman may conceive a Zmey after a prolonged pregnancy of 15-20 months, and the child is born with small wings under the arms visible only to righteous people. Zmeys battle Lamia in the sky during storms to protect wheat harvests—the Zmey's spirit astrally projects into the clouds while his body sleeps. A crossbreed between a serpent and a samovila may also produce a Zmey",
+    "appearance": "Human-like body with a serpent's tail, large golden wings, and tremendous physical strength. Sometimes depicted as a winged serpent or multi-headed dragon. Can shape-shift into a handsome man, smoke, a firebird, a snake, or a cloud. Has hypnotizing eyes. Human-born Zmeys appear as ordinary people but have small wings under their arms visible only to the righteous.",
+    "behavior": "Zmeys guard their territory fiercely and fight other Zmeys who enter it. During storms, they astrally project into the sky to battle Lamia that threaten crops. They fall in love with women conceived on the same night or born on the same day as them, guarding them from childhood. Their love can cause women to fall ill with paleness, shyness, and hallucinations, sometimes leading to suicide. They kidnap women to their mountain caves. Despite their possessive nature, they are generally benevolent protectors of their people.",
+    "habitat": "Mountains, caves, dark forests",
+    "habitat_tags": [
+      "forest",
+      "mountain",
+      "cave"
+    ],
+    "behavior_tags": [
+      "kidnap"
+    ],
+    "strengths": [
+      "deception",
+      "shapeshifting",
+      "supernatural strength"
+    ],
+    "weaknesses": [
+      "holy weapons",
+      "ice vulnerability",
+      "vulnerable belly"
+    ],
+    "cultural_significance": "Slavic version of dragon mythology. Often represents chaos or foreign invaders.",
+    "summary": "A wise, golden-winged dragon from Macedonian folklore who protects villages from storm-demons yet kidnaps women he falls in love with",
+    "fun_fact": "Slavic version of dragon mythology. Often represents chaos or foreign invaders.",
+    "fun_fact_generated": false,
+    "keywords": [
+      "zmey",
+      "russia"
+    ],
+    "search_terms": [
+      "zmey"
+    ],
+    "tags": [],
+    "schema_org_type": "MythicalCreature",
+    "seo_title": "Zmey – Russia Folklore",
+    "seo_description": "The Zmey is a powerful dragon from Macedonian mythology—a shape-shifting, golden-winged protector who battles storm-demons and falls in love with human women.",
+    "motifs": [
+      "D100"
+    ],
+    "featured_in_stories": [
+      "zmey-the-benevolent-dragon-of-bulgarian-folklore"
+    ],
+    "source": "Russian folklore — Zmey dragon/spirit documented in Russian oral tradition.",
+    "source_quality": "good",
+    "stories": [
+      "zmey-the-benevolent-dragon-of-bulgarian-folklore"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-07-05",
+    "living_tradition": false,
+    "source_type": "oral_tradition"
   },
   {
     "id": "zmey-bulgaria-2106",
@@ -2181,10 +1595,9 @@
       "samodiva",
       "stria",
       "zmej",
-      "ala",
-      "zmey-northmacedonia"
+      "ala"
     ],
-    "description": "Zmey is a spirit from Bulgaria mythology. In Macedonian tales and folk songs, Zmey are described as extraordinarily intelligent beings with hypnotizing eyes, possessing a human-like form with a snake's tail and golden wings. They live in caves or on remote mountain tops and are extremely wise. The Zmey has a dual nature: they are territorial guardians who protect villages and fight destructive female Lamia in the skies during storms, yet they also fall passionately in love with human women, often kidnapping them to their mountain lairs. A Zmey can shape-shift into smoke, a spark, a firebird, a snake, a cloud, or a handsome man. In Macedonian belief, a woman may conceive a Zmey after a prolonged pregnancy of 15-20 months, and the child is born with small wings under the arms visible only to righteous people. Zmeys battle Lamia in the sky during storms to protect wheat harvests—the Zmey's spirit astrally projects into the clouds while his body sleeps. A crossbreed between a serpent and a samovila may also produce a Zmey.",
+    "description": "Zmey is a spirit from Bulgaria mythology. In Macedonian tales and folk songs, Zmey are described as extraordinarily intelligent beings with hypnotizing eyes, possessing a human-like form with a snake's tail and golden wings. They live in caves or on remote mountain tops and are extremely wise. The Zmey has a dual nature: they are territorial guardians who protect villages and fight destructive female Lamia in the skies during storms, yet they also fall passionately in love with human women, often kidnapping them to their mountain lairs. A Zmey can shape-shift into smoke, a spark, a firebird, a snake, a cloud, or a handsome man. In Macedonian belief, a woman may conceive a Zmey after a prolonged pregnancy of 15-20 months, and the child is born with small wings under the arms visible only to righteous people. Zmeys battle Lamia in the sky during storms to protect wheat harvests—the Zmey's spirit astrally projects into the clouds while his body sleeps. A crossbreed between a serpent and a samovila may also produce a Zmey",
     "appearance": "Human-like body with a serpent's tail, large golden wings, and tremendous physical strength. Sometimes depicted as a winged serpent or multi-headed dragon. Can shape-shift into a handsome man, smoke, a firebird, a snake, or a cloud. Has hypnotizing eyes. Human-born Zmeys appear as ordinary people but have small wings under their arms visible only to the righteous.",
     "behavior": "Zmeys guard their territory fiercely and fight other Zmeys who enter it. During storms, they astrally project into the sky to battle Lamia that threaten crops. They fall in love with women conceived on the same night or born on the same day as them, guarding them from childhood. Their love can cause women to fall ill with paleness, shyness, and hallucinations, sometimes leading to suicide. They kidnap women to their mountain caves. Despite their possessive nature, they are generally benevolent protectors of their people.",
     "habitat": "Mountains, caves, dark forests",
@@ -2228,119 +1641,13 @@
       "zmey-the-benevolent-dragon-of-bulgarian-folklore"
     ],
     "source": "Bulgarian folklore — Zmey spirit documented in Bulgarian oral tradition.",
-    "source_quality": "researched",
+    "source_quality": "fair",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/zmeɪ/",
-    "source_references": [
-      {
-        "t": "The Zmey in Bulgarian Mythology: Dragon, Lover, and Protector",
-        "a": "Ivan Dobrev",
-        "b": "Bulgarian Mythical Beings",
-        "p": "Nauka i izkustvo",
-        "y": 1974,
-        "pg": "134-156"
-      },
-      {
-        "t": "Dragon Cults and Dragon Legends in Eastern Europe",
-        "a": "Marian Krąpiec",
-        "b": "Eos",
-        "p": "Lublin Catholic University Press",
-        "y": 1990,
-        "vol": 78,
-        "pg": "56-72"
-      }
-    ],
-    "cultural_variants": [
-      {
-        "slug": "zmey-northmacedonia",
-        "country": "North Macedonia",
-        "culture": "Macedonian Slavic"
-      },
-      {
-        "slug": "zmey-russia",
-        "country": "Russia",
-        "culture": "Russia"
-      }
-    ]
-  },
-  {
-    "id": "zmey-gorynych-2108",
-    "slug": "zmey-gorynych",
-    "name": "Zmey Gorynych",
-    "country": "Russia",
-    "region": "Slavic",
-    "culture": "Russia",
-    "type": "dragon",
-    "mythology": "Russia",
-    "archetype": "water-spirit",
-    "element": "fire",
-    "aliases": [
-      "zmey gorynych"
-    ],
-    "related": [
-      "lamya",
-      "rusalka-russia",
-      "rusalka-water-spirit",
-      "vodyanoy",
-      "zmaj-serbia",
-      "nav",
-      "poludnitsa",
-      "zmaj-kosovo",
-      "zmey-russia"
-    ],
-    "description": "Zmey Gorynych is a specific multi-headed dragon in Russian folklore, one of the most famous antagonists in Russian fairy tales. The name means serpent Gorynych with goryny referring to mountains.",
-    "appearance": "Dragon with three to twelve heads; winged serpent; sometimes depicted with multiple heads and scales",
-    "behavior": "Malevolent dragon with multiple heads; each head can regenerate if not completely destroyed; kidnaps princesses; breathes fire",
-    "habitat": "Mountains, caves, frequently beyond three rivers or in far kingdoms",
-    "habitat_tags": [
-      "mountain",
-      "cave",
-      "river"
-    ],
-    "behavior_tags": [
-      "malevolent",
-      "kidnap"
-    ],
-    "strengths": [
-      "flight",
-      "armored scales",
-      "storm calling"
-    ],
-    "weaknesses": [
-      "water vulnerability",
-      "holy weapons",
-      "land confinement"
-    ],
-    "cultural_significance": "Classic villain in Russian byliny and fairy tales; defeated by heroes like Dobrynya Nikitich and Ilya Muromets",
-    "summary": "Zmey Gorynych is a specific multi-headed dragon in Russian folklore, one of the most famous antagonists in Russian fairy tales",
-    "fun_fact": "Classic villain in Russian byliny and fairy tales; defeated by heroes like Dobrynya Nikitich and Ilya Muromets",
-    "fun_fact_generated": false,
-    "keywords": [
-      "zmey gorynych",
-      "russia"
-    ],
-    "search_terms": [
-      "zmey gorynych"
-    ],
-    "tags": [],
-    "schema_org_type": "MythicalCreature",
-    "seo_title": "Zmey Gorynych – Russia Folklore",
-    "seo_description": "Zmey Gorynych is a specific multi-headed dragon in Russian folklore, one of the most famous antagonists in Russian fairy tales. The name means serpent",
-    "motifs": [],
-    "featured_in_stories": [
-      "zmey-the-benevolent-dragon-of-bulgarian-folklore"
-    ],
-    "source": "Russian folklore — Zmey Gorynych is the three-headed dragon of Russian epic tradition.",
-    "source_quality": "expert",
-    "stories": [],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "living_tradition": false,
-    "source_type": "oral_tradition"
+    "pronunciation_ipa": "/zmeɪ/"
   },
   {
     "id": "zmey-northmacedonia-2107",
@@ -2351,7 +1658,7 @@
     "culture": "Macedonian Slavic",
     "type": "spirit",
     "mythology": "Macedonian Slavic Mythology",
-    "archetype": "Dragon / Guardian / Lover",
+    "archetype": "dragon",
     "element": "air-fire",
     "aliases": [
       "Zmej",
@@ -2368,7 +1675,7 @@
       "p-anetnik",
       "d-ambas"
     ],
-    "description": "Zmey is a spirit from Macedonian Slavic Mythology mythology. In Macedonian tales and folk songs, Zmey are described as extraordinarily intelligent beings with hypnotizing eyes, possessing a human-like form with a snake's tail and golden wings. They live in caves or on remote mountain tops and are extremely wise. The Zmey has a dual nature: they are territorial guardians who protect villages and fight destructive female Lamia in the skies during storms, yet they also fall passionately in love with human women, often kidnapping them to their mountain lairs. A Zmey can shape-shift into smoke, a spark, a firebird, a snake, a cloud, or a handsome man. In Macedonian belief, a woman may conceive a Zmey after a prolonged pregnancy of 15-20 months, and the child is born with small wings under the arms visible only to righteous people. Zmeys battle Lamia in the sky during storms to protect wheat harvests—the Zmey's spirit astrally projects into the clouds while his body sleeps. A crossbreed between a serpent and a samovila may also produce a Zmey.",
+    "description": "Zmey is a spirit from Macedonian Slavic Mythology mythology. In Macedonian tales and folk songs, Zmey are described as extraordinarily intelligent beings with hypnotizing eyes, possessing a human-like form with a snake's tail and golden wings. They live in caves or on remote mountain tops and are extremely wise. The Zmey has a dual nature: they are territorial guardians who protect villages and fight destructive female Lamia in the skies during storms, yet they also fall passionately in love with human women, often kidnapping them to their mountain lairs. A Zmey can shape-shift into smoke, a spark, a firebird, a snake, a cloud, or a handsome man. In Macedonian belief, a woman may conceive a Zmey after a prolonged pregnancy of 15-20 months, and the child is born with small wings under the arms visible only to righteous people. Zmeys battle Lamia in the sky during storms to protect wheat harvests—the Zmey's spirit astrally projects into the clouds while his body sleeps. A crossbreed between a serpent and a samovila may also produce a Zmey",
     "appearance": "Human-like body with a serpent's tail, large golden wings, and tremendous physical strength. Sometimes depicted as a winged serpent or multi-headed dragon. Can shape-shift into a handsome man, smoke, a firebird, a snake, or a cloud. Has hypnotizing eyes. Human-born Zmeys appear as ordinary people but have small wings under their arms visible only to the righteous.",
     "behavior": "Zmeys guard their territory fiercely and fight other Zmeys who enter it. During storms, they astrally project into the sky to battle Lamia that threaten crops. They fall in love with women conceived on the same night or born on the same day as them, guarding them from childhood. Their love can cause women to fall ill with paleness, shyness, and hallucinations, sometimes leading to suicide. They kidnap women to their mountain caves. Despite their possessive nature, they are generally benevolent protectors of their people.",
     "habitat": "Remote mountain caves, mountain tops, and sometimes abandoned watermills. In Macedonian tradition, Zmeys are associated with specific mountains and deep cave systems throughout the country.",
@@ -2439,7 +1746,7 @@
     ],
     "featured_in_stories": [],
     "source": "Wikipedia (Macedonian Slavic mythology, Slavic dragon), Ovche Pole legends, Novaci cultural heritage site, allaboutdragons.com",
-    "source_quality": "researched",
+    "source_quality": "good",
     "fun_fact_generated": false,
     "stories": [],
     "relatedNames": [
@@ -2449,123 +1756,78 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition",
-    "source_references": "Propp, Russian Folktale (1984)",
-    "cultural_variants": [
-      {
-        "slug": "zmey-bulgaria",
-        "country": "Bulgaria",
-        "culture": "Bulgaria"
-      },
-      {
-        "slug": "zmey-russia",
-        "country": "Russia",
-        "culture": "Russia"
-      }
-    ]
+    "source_type": "oral_tradition"
   },
   {
-    "id": "zmey-russia-2105",
-    "slug": "zmey-russia",
-    "name": "Zmey",
+    "id": "zmey-gorynych-2108",
+    "slug": "zmey-gorynych",
+    "name": "Zmey Gorynych",
     "country": "Russia",
     "region": "Slavic",
     "culture": "Russia",
-    "type": "spirit",
+    "type": "dragon",
     "mythology": "Russia",
-    "archetype": "shapeshifter",
-    "element": "air-fire",
+    "archetype": "water-spirit",
+    "element": "fire",
     "aliases": [
-      "zmey",
-      "zmey-bulgaria",
-      "Zmej",
-      "Zmaj",
-      "Zmev",
-      "zmey-northmacedonia"
+      "zmey gorynych"
     ],
     "related": [
-      "zmey-bulgaria",
-      "zmey-gorynych",
-      "firebird",
-      "mosquito-guardian-mari",
-      "leshy",
-      "zmey-russia",
-      "samodiva",
-      "stria",
-      "zmej",
-      "ala",
-      "lamia-vatican",
-      "ala-igbo",
-      "vila-bosniaandherzegovina",
-      "p-anetnik",
-      "d-ambas",
-      "zmey-northmacedonia"
+      "lamya",
+      "rusalka-russia",
+      "rusalka-water-spirit",
+      "vodyanoy",
+      "zmaj-serbia"
     ],
-    "description": "The Zmey (Macedonian: Змеј) is a dragon-like creature central to Macedonian folklore, distinct from the purely malevolent dragons of Western tradition. In Macedonian tales and folk songs, Zmey are described as extraordinarily intelligent beings with hypnotizing eyes, possessing a human-like form with a snake's tail and golden wings. They live in caves or on remote mountain tops and are extremely wise. The Zmey has a dual nature: they are territorial guardians who protect villages and fight destructive female Lamia in the skies during storms, yet they also fall passionately in love with human women, often kidnapping them to their mountain lairs. A Zmey can shape-shift into smoke, a spark, a firebird, a snake, a cloud, or a handsome man. In Macedonian belief, a woman may conceive a Zmey after a prolonged pregnancy of 15-20 months, and the child is born with small wings under the arms visible only to righteous people. Zmeys battle Lamia in the sky during storms to protect wheat harvests—the Zmey's spirit astrally projects into the clouds while his body sleeps. A crossbreed between a serpent and a samovila may also produce a Zmey.",
-    "appearance": "Human-like body with a serpent's tail, large golden wings, and tremendous physical strength. Sometimes depicted as a winged serpent or multi-headed dragon. Can shape-shift into a handsome man, smoke, a firebird, a snake, or a cloud. Has hypnotizing eyes. Human-born Zmeys appear as ordinary people but have small wings under their arms visible only to the righteous.",
-    "behavior": "Zmeys guard their territory fiercely and fight other Zmeys who enter it. During storms, they astrally project into the sky to battle Lamia that threaten crops. They fall in love with women conceived on the same night or born on the same day as them, guarding them from childhood. Their love can cause women to fall ill with paleness, shyness, and hallucinations, sometimes leading to suicide. They kidnap women to their mountain caves. Despite their possessive nature, they are generally benevolent protectors of their people.",
-    "habitat": "Mountains, caves, dark forests",
+    "description": "Zmey Gorynych is the iconic Russian three-to-twelve-headed dragon of byliny and fairy tales. Dwells beyond three rivers or in mountain caves. Each severed head regenerates unless cauterized; kidnaps princesses; breathes fire. Slain by bogatyrs Dobrynya Nikitich and Ilya Muromets. A specific named antagonist, not a species. Name means 'serpent of the mountains (Goryny).'",
+    "appearance": "Dragon with three to twelve heads; winged serpent; sometimes depicted with multiple heads and scales",
+    "behavior": "Malevolent dragon with multiple heads; each head can regenerate if not completely destroyed; kidnaps princesses; breathes fire.",
+    "habitat": "Mountains, caves, frequently beyond three rivers or in far kingdoms",
     "habitat_tags": [
-      "forest",
       "mountain",
-      "cave"
+      "cave",
+      "river"
     ],
     "behavior_tags": [
+      "malevolent",
       "kidnap"
     ],
     "strengths": [
-      "deception",
-      "shapeshifting",
-      "supernatural strength"
+      "flight",
+      "armored scales",
+      "storm calling"
     ],
     "weaknesses": [
+      "water vulnerability",
       "holy weapons",
-      "ice vulnerability",
-      "vulnerable belly"
+      "land confinement"
     ],
-    "cultural_significance": "Slavic version of dragon mythology. Often represents chaos or foreign invaders.",
-    "summary": "A wise, golden-winged dragon from Macedonian folklore who protects villages from storm-demons yet kidnaps women he falls in love with",
-    "fun_fact": "Slavic version of dragon mythology. Often represents chaos or foreign invaders.",
+    "cultural_significance": "Classic villain in Russian byliny and fairy tales; defeated by heroes like Dobrynya Nikitich and Ilya Muromets",
+    "summary": "Zmey Gorynych is a specific multi-headed dragon in Russian folklore, one of the most famous antagonists in Russian fairy tales",
+    "fun_fact": "Classic villain in Russian byliny and fairy tales; defeated by heroes like Dobrynya Nikitich and Ilya Muromets",
     "fun_fact_generated": false,
     "keywords": [
-      "zmey",
+      "zmey gorynych",
       "russia"
     ],
     "search_terms": [
-      "zmey"
+      "zmey gorynych"
     ],
     "tags": [],
     "schema_org_type": "MythicalCreature",
-    "seo_title": "Zmey – Russia Folklore",
-    "seo_description": "The Zmey is a powerful dragon from Macedonian mythology—a shape-shifting, golden-winged protector who battles storm-demons and falls in love with human women.",
-    "motifs": [
-      "D100"
-    ],
+    "seo_title": "Zmey Gorynych – Russia Folklore",
+    "seo_description": "Zmey Gorynych is a specific multi-headed dragon in Russian folklore, one of the most famous antagonists in Russian fairy tales. The name means serpent",
+    "motifs": [],
     "featured_in_stories": [
       "zmey-the-benevolent-dragon-of-bulgarian-folklore"
     ],
-    "source": "Russian folklore — Zmey dragon/spirit documented in Russian oral tradition.",
-    "source_quality": "verified",
-    "stories": [
-      "zmey-the-benevolent-dragon-of-bulgarian-folklore"
-    ],
+    "source": "Afanasyev, Narodnye russkie skazki; Bilibin illustrations; Ralston, Russian Folk-Tales; Dobrynya Nikitich rescues Zabava (bylina); Wikipedia (Zmey Gorynych, Slavic dragon)",
+    "source_quality": "expert",
+    "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition",
-    "source_references": "Propp, Russian Folktale (1984); Afanasyev, Russian Fairy Tales (1865); Ivanits, Russian Folk Belief (1989)",
-    "cultural_variants": [
-      {
-        "slug": "zmey-bulgaria",
-        "country": "Bulgaria",
-        "culture": "Bulgaria"
-      },
-      {
-        "slug": "zmey-northmacedonia",
-        "country": "North Macedonia",
-        "culture": "Macedonian Slavic"
-      }
-    ]
+    "source_type": "oral_tradition"
   },
   {
     "id": "zmora-2109",
@@ -2586,11 +1848,9 @@
       "karakondzho",
       "karakond-ul",
       "tifon",
-      "mare-denmark",
-      "krampus-croatia",
-      "nav"
+      "mare-denmark"
     ],
-    "description": "Zmora is a demon from Poland folklore. It is said to dwell in Bedrooms, homes at night. In folklore, it is described as sits on chest of sleeping person, causes suffocation, bad dreams, exhaustion. Polish nightmare spirit. Connected to sleep paralysis and exhaustion.",
+    "description": "Zmora is a demon from Poland folklore",
     "appearance": "Dark spirit, often female form, sitting on chest. Oppressive, heavy presence.",
     "behavior": "Sits on chest of sleeping person, causes suffocation, bad dreams, exhaustion.",
     "habitat": "Bedrooms, homes at night",
@@ -2633,64 +1893,12 @@
     ],
     "featured_in_stories": [],
     "source": "Polish folklore — Zmora is a night demon documented in Polish oral tradition.",
-    "source_quality": "researched",
+    "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition",
-    "source_references": "Propp, Russian Folktale (1984); Polish nightmare spirit studies"
-  },
-  {
-    "id": "stub-zombi",
-    "slug": "zombi",
-    "name": "Zombi",
-    "country": "Haiti",
-    "region": "Americas",
-    "culture": "Haitian",
-    "type": "undead",
-    "mythology": "Haiti",
-    "archetype": "Unknown",
-    "element": "Unknown",
-    "aliases": [
-      "zombi"
-    ],
-    "related": [
-      "mermaid-denmark",
-      "sun-nuxalk",
-      "tsilwalagame-kwakwaka-wakw",
-      "tomte-iceland",
-      "sea-nymph"
-    ],
-    "description": "In Haitian Vodou tradition, a zombi is a reanimated corpse brought back to life by a bokor (sorcerer). Unlike the modern cinematic version, the Haitian zombi is a mindless laborer under the control of its creator.",
-    "appearance": "Zombi is known from recorded folklore and oral tradition in Haiti.",
-    "behavior": "In traditional accounts, Zombi from Americas  plays its role in the mythology and folklore of its culture.",
-    "habitat": "Not documented.",
-    "habitat_tags": [],
-    "behavior_tags": [],
-    "strengths": [],
-    "weaknesses": [],
-    "cultural_significance": "The zombi originates from Haitian Vodou and is deeply tied to the history of slavery on the island. It was legally recognized in Haiti's 19th-century criminal code. The concept entered global pop culture through films like White Zombie (1932).",
-    "summary": "In Haitian Vodou tradition, a zombi is a reanimated corpse brought back to life by a bokor (sorcerer). Unlike the modern cinematic version, the Haitian zombi is a mindless laborer under the control of its creator.",
-    "fun_fact": "A undead figure from Haiti mythology.",
-    "fun_fact_generated": false,
-    "keywords": [
-      "zombi"
-    ],
-    "search_terms": [
-      "zombi"
-    ],
-    "tags": [],
-    "schema_org_type": "MythicalCreature",
-    "stories": [
-      "the-zombi-the-living-dead-of-haitian-vodou"
-    ],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "living_tradition": false,
-    "source_type": "oral_tradition",
-    "source_quality": "well-documented",
-    "source": "The Serpent and the Rainbow (Davis, 1985); Haitian Folklore (Courlander, 1960)"
+    "source_type": "oral_tradition"
   },
   {
     "id": "zuhri-2110",
@@ -2713,7 +1921,7 @@
       "medusa",
       "gryphon-griffin"
     ],
-    "description": "Human-djinn hybrid child. Believed to possess psychic abilities connected to jinn world. Valuable for finding hidden treasures. It is commonly found in Human communities.",
+    "description": "The zuhri is a being of Moroccan belief, born of a human mother and a jinn father, who can see buried treasure beneath the earth. Marked by a slanting gaze, the zuhri is sought by treasure hunters, while the treasures themselves are said to strike the greedy dead. The belief is so potent that it has been invoked in real, violent crimes.",
     "appearance": "Human child with unusual palmar patterns, exceptional intelligence.",
     "behavior": "Has psychic abilities, connected to jinn. Used for treasure finding.",
     "habitat": "Human communities",
@@ -2751,113 +1959,13 @@
     "seo_description": "Human-djinn hybrid child. Believed to possess psychic abilities connected to jinn world. Valuable for finding hidden treasures.",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Moroccan folklore — chimera documented in Moroccan oral tradition.",
-    "source_quality": "researched",
+    "source": "Wikipedia: Zuhri; Moroccan oral tradition",
+    "source_quality": "good",
     "stories": [],
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-18T01:56:18.311Z",
-    "living_tradition": false,
-    "source_type": "oral_tradition",
-    "source_references": [
-      {
-        "citation": "Westermarck, E. Ritual and Belief in Morocco. 2 vols., Macmillan, 1926.",
-        "type": "academic",
-        "reliability": "high"
-      },
-      {
-        "citation": "Rowland, J. Djinn: Their World Revealed. Thames & Hudson, 2021.",
-        "type": "academic",
-        "reliability": "high"
-      }
-    ]
-  },
-  {
-    "id": "zuleikha-turkmen-4027",
-    "slug": "zuleikha-turkmen",
-    "name": "Zuleikha",
-    "country": "Turkmenistan",
-    "region": "Central Asia",
-    "culture": "Turkmen",
-    "type": "human",
-    "mythology": "Turkmen",
-    "archetype": "warrior",
-    "element": "fire",
-    "aliases": [
-      "Zuleikha",
-      "Kirk Kiz",
-      "Zuleikha of the Forty Maidens"
-    ],
-    "related": [
-      "akhal-teke-spirit-turkmen",
-      "goroglu-turkmen",
-      "khazyr",
-      "karakum-serpent-turkmen",
-      "gyrat-turkmen"
-    ],
-    "description": "A beautiful and brave Turkmen warrior maiden who leads a band of forty warrior women (Kirk Kiz — Forty Maidens) defending their people against invading forces. Rather than submit to forced marriage, Zuleikha trained herself and her forty companions in martial arts, horseback riding, and archery. She led a night raid that scattered the invaders.",
-    "appearance": "Beautiful woman in Turkmen warrior attire, armed with bow and sword. Fierce and determined expression. Rides horseback with exceptional skill.",
-    "behavior": "Leads forty warrior women in defense of her people. Fights with the ferocity of a lion and cunning of a wolf. Chooses death over dishonor.",
-    "habitat": "Turkmenistan, ancestral fortresses",
-    "habitat_tags": [
-      "desert",
-      "fortress"
-    ],
-    "behavior_tags": [
-      "warrior",
-      "brave",
-      "defiant"
-    ],
-    "strengths": [
-      "martial arts",
-      "horseback combat",
-      "leadership",
-      "inspiration"
-    ],
-    "weaknesses": [
-      "honor-bound",
-      "outnumbered"
-    ],
-    "cultural_significance": "Celebrates female heroism and resistance against oppression. Stone monuments called 'Forty Girls' exist across Central Asia.",
-    "summary": "Warrior maiden who leads forty female warriors in Turkmen legend",
-    "fun_fact": "Stone monuments called 'Forty Girls' exist across Central Asia, believed to be the petrified remains of these warrior women.",
-    "keywords": [
-      "zuleikha",
-      "turkmenistan",
-      "forty maidens",
-      "warrior"
-    ],
-    "search_terms": [
-      "Zuleikha Kirk Kiz Turkmen"
-    ],
-    "tags": [],
-    "schema_org_type": "MythicalCreature",
-    "seo_title": "Zuleikha – Turkmen Folklore",
-    "seo_description": "A beautiful and brave Turkmen warrior maiden who leads a band of forty warrior women (Kirk Kiz — Forty Maidens) defending their people against invading forces. ",
-    "motifs": [
-      "F565"
-    ],
-    "featured_in_stories": [],
-    "source": "https://journals.nauka-nanrk.kz/bulletin-science/article/view/1210",
-    "source_quality": "verified",
-    "fun_fact_generated": false,
-    "stories": [
-      "zuleikha-and-the-forty-maidens",
-      "the-origin-of-the-hummingbird"
-    ],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "literary",
-    "source_references": [
-      {
-        "t": "Zuleikha in Turkmen Folklore",
-        "a": "N.poppe",
-        "b": "The Mongolian Oral Epic",
-        "p": "Indiana University",
-        "y": 1980,
-        "pg": "405-415"
-      }
-    ]
+    "source_type": "oral_tradition"
   },
   {
     "id": "zumwani-2111",
@@ -2878,10 +1986,9 @@
       "inkanyamba",
       "river-mumma",
       "rusalka-ukraine",
-      "gutjion",
-      "khwa-rain-bull"
+      "gutjion"
     ],
-    "description": "Herero water spirit living in rivers and pans. Female, lures men with beauty but drowns them if they disrespect her.",
+    "description": "Zumwani is a Herero water spirit of Namibia, appearing as an exceedingly beautiful woman with reed-like hair wearing colorful cloth, dwelling in rivers, pans, and waterholes. She tests men's character at water's edge: rewarding the respectful with good rains, drowning the disrespectful. Associated with seasonal rains and water scarcity in Herero pastoral culture.",
     "appearance": "Exceedingly beautiful woman with long hair like reeds. Wears layers of colorful cloth. Disappears into reeds when angry.",
     "behavior": "Appears as beautiful woman at water's edge. Tests men's character. Reward: good rains; punishment: drowning.",
     "habitat": "Waterholes, seasonal pans, rivers",
@@ -2924,24 +2031,551 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Namibian folklore — water spirit documented in Namibian oral tradition.",
-    "source_quality": "researched",
+    "source": "Herero oral tradition (Namibia); snip Namibian folklore collections; snip limited academic documentation",
+    "source_quality": "fair",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition",
-    "source_references": [
+    "source_type": "oral_tradition"
+  },
+  {
+    "id": "z-r-2112",
+    "slug": "z-r",
+    "name": "Zār",
+    "country": "Sudan",
+    "region": "North Africa",
+    "culture": "Sudan",
+    "type": "spirit",
+    "mythology": "Sudan",
+    "archetype": "forest-spirit",
+    "element": "spirit",
+    "aliases": [
+      "zār"
+    ],
+    "related": [
+      "zar-sudan",
+      "nina",
+      "jok",
+      "bakh",
+      "tay"
+    ],
+    "description": "The zar is a class of possessing spirits in Sudan, Egypt, and the Horn of Africa, believed to seize people, most often women, causing illness, restlessness, and affliction. Each zar demands its own clothes, jewels, incense, and drumming, met through the healing ceremonies of the zar cult. Seven nations of zar spirits range from holy men to European officials.",
+    "appearance": "Manifests in possessed person's behavior and voice. When appearing alone: often foreign-looking, distinctive clothes.",
+    "behavior": "Causes illness, demands recognition. Each zār has specific desires (clothes, jewelry, music). Can be helpful if appeased.",
+    "habitat": "Human bodies (possessed), rivers, markets",
+    "habitat_tags": [
+      "river"
+    ],
+    "behavior_tags": [
+      "helpful",
+      "music",
+      "possess"
+    ],
+    "strengths": [
+      "ethereal form",
+      "supernatural awareness",
+      "animal communication"
+    ],
+    "weaknesses": [
+      "iron",
+      "civilization",
+      "anti-magic"
+    ],
+    "cultural_significance": "Important healing ritual in Sudan and Egypt. Combines African, Arab, Islamic elements.",
+    "summary": "Sudanese spirit that possesses people, usually women",
+    "fun_fact": "Sudanese spirit that possesses people, usually women. Can be appeased through ceremonies and drumming. Many different zār spirits from various origins",
+    "fun_fact_generated": false,
+    "keywords": [
+      "zār",
+      "sudan"
+    ],
+    "search_terms": [
+      "zār"
+    ],
+    "tags": [],
+    "schema_org_type": "MythicalCreature",
+    "seo_title": "Zār – Sudan Folklore",
+    "seo_description": "Sudanese spirit that possesses people, usually women. Can be appeased through ceremonies and drumming. Many different zār spirits from various origins",
+    "motifs": [
+      "G100"
+    ],
+    "featured_in_stories": [],
+    "source": "Zar possession studies (University of Cologne); J. Boddy, Wombs and Alien Spirits",
+    "source_quality": "good",
+    "stories": [],
+    "version": "1.0.0",
+    "lastUpdated": "2026-07-05",
+    "living_tradition": false,
+    "source_type": "oral_tradition"
+  },
+  {
+    "id": "zin-kibaru-3341",
+    "slug": "zin-kibaru",
+    "name": "Zin Kibaru",
+    "country": "Niger",
+    "region": "West Africa",
+    "culture": "Songhay-Zarma, Fulani",
+    "type": "spirit",
+    "mythology": "Songhay",
+    "archetype": "water-demon",
+    "element": "water",
+    "aliases": [
+      "Zin Kibaru",
+      "Zin",
+      "Hari Zin",
+      "Water Genie"
+    ],
+    "related": [
+      "toula",
+      "bori-spirits",
+      "kel-essuf",
+      "lafaek-crocodile-spirit",
+      "gambia-jinn-beings",
+      "suv-peri"
+    ],
+    "description": "Zin Kibaru is a water spirit from Songhay-Zarma mythology of the Niger River region. The term Zin refers to a class of genies inhabiting water bodies, and Kibaru specifically designates a powerful water demon that demands respect and offerings. These spirits are associated with the Holeys, possession dances of the Songhay-Zarma people. Zin Kibaru are believed to inhabit the deepest parts of the Niger River and its tributaries. Fishermen and boatmen must make proper offerings before venturing onto certain waters. The Zin spirits can capsize boats, drown individuals, or bring abundant fish depending on how they are treated. They are served by the Do and Karou priestly lineages",
+    "appearance": "Powerful water genie, sometimes described as a massive aquatic creature or a humanoid with water-associated features.",
+    "behavior": "Guards water bodies, demands respect and offerings. Rewards proper conduct with good fishing. Punishes disrespect with drowning or boat capsizing.",
+    "habitat": "Deep waters of the Niger River and its tributaries in Niger",
+    "habitat_tags": [
+      "water",
+      "river",
+      "rural"
+    ],
+    "behavior_tags": [
+      "territorial",
+      "protective",
+      "punitive"
+    ],
+    "strengths": [
+      "control over water bodies",
+      "power over fish abundance",
+      "capsizing boats"
+    ],
+    "weaknesses": [
+      "must be managed by Do and Karou priests",
+      "can be appeased with sacrifices"
+    ],
+    "cultural_significance": "Zin Kibaru belief regulates fishing practices along the Niger River and maintains the authority of traditional priestly lineages.",
+    "summary": "Powerful water genie from Songhay-Zarma mythology of Niger that inhabits the Niger River and demands respect from fishermen",
+    "fun_fact": "Zin Kibaru belief regulates fishing practices along the Niger River and maintains the authority of traditional priestly lineages.",
+    "keywords": [
+      "zin kibaru",
+      "niger",
+      "songhay",
+      "water spirit",
+      "niger river",
+      "hari zin"
+    ],
+    "search_terms": [
+      "Zin Kibaru Niger",
+      "Songhay water spirits",
+      "Niger River folklore"
+    ],
+    "tags": [],
+    "schema_org_type": "MythicalCreature",
+    "seo_title": "Zin Kibaru – The Water Genie of the Niger River",
+    "seo_description": "Zin Kibaru is a powerful water genie from Songhay-Zarma mythology of Niger, inhabiting the Niger River and controlling the fortunes of fishermen.",
+    "motifs": [
+      "B91",
+      "F420.2"
+    ],
+    "featured_in_stories": [],
+    "source": "Songhay oral tradition; snip snip Jean Rouch ethnographic studies; snip snip Boubou Hama",
+    "source_quality": "good",
+    "fun_fact_generated": false,
+    "stories": [],
+    "version": "1.0.0",
+    "lastUpdated": "2026-07-05",
+    "living_tradition": false,
+    "source_type": "oral_tradition"
+  },
+  {
+    "id": "zduhac-3474",
+    "slug": "zduhac",
+    "name": "Zduhać",
+    "country": "Montenegro",
+    "region": "Slavic",
+    "culture": "Montenegrin (South Slavic)",
+    "type": "human",
+    "mythology": "Slavic",
+    "archetype": "weather-shaman",
+    "element": "air",
+    "aliases": [
+      "Zduhać",
+      "Zduhač",
+      "Vjetrovnjak",
+      "Weather Shaman"
+    ],
+    "related": [
+      "krsnik",
+      "vila",
+      "zduha-montenegro",
+      "karakondzola",
+      "vila-montenegro",
+      "zduha-serbia",
+      "psoglav-montenegro"
+    ],
+    "description": "Zduhać is a human from Slavic mythology. Born with a caul (amniotic membrane) on their head, a Zduhać is destined to protect their community from destructive weather. During storms, their spirit leaves their sleeping body to travel through the skies and battle evil forces or other Zduhaći who threaten their village's crops, livestock, and safety. These battles manifest on earth as hailstorms, whirlwinds, and thunderstorms. A Zduhać's physical body remains in a death-like trance during these astral battles, and if disturbed, the spirit cannot return and the person dies In Montenegro folklore, this figure is known among the Montenegrin (South Slavic) people.",
+    "appearance": "Appears as an ordinary human, recognizable at birth by the caul (amniotic membrane) covering the head. In spirit form, the zduhac is invisible to most but can be seen by those with spiritual sight as a whirlwind, shadow, or rushing wind moving against the sky.",
+    "behavior": "While their body appears to sleep, the zduhac's spirit leaves to battle weather demons and evil forces in the sky. They protect their village's crops and livestock from hailstorms by fighting other zduhaci from rival villages in fierce aerial combat.",
+    "habitat": "Mountain villages of Montenegro, particularly in the Dinaric region",
+    "habitat_tags": [
+      "mountain",
+      "rural",
+      "village"
+    ],
+    "behavior_tags": [
+      "protective",
+      "astral projection",
+      "nocturnal"
+    ],
+    "strengths": [
+      "weather control",
+      "astral projection",
+      "storm protection",
+      "spirit combat"
+    ],
+    "weaknesses": [
+      "body vulnerable during astral travel",
+      "can die if physical body disturbed",
+      "born only under specific conditions"
+    ],
+    "cultural_significance": "The Zduhać belief reflects the deep connection of Montenegrin highlanders to the harsh mountain environment and the constant threat of destructive storms.",
+    "summary": "Human weather shaman from Montenegrin folklore whose spirit leaves the body to battle evil forces and protect the community from storms",
+    "fun_fact": "A Zduhać is identified at birth by the caul (membrane) covering their head, which is preserved as a talisman",
+    "keywords": [
+      "zduhac",
+      "zduhač",
+      "montenegro",
+      "weather shaman",
+      "slavic folklore",
+      "storm protector"
+    ],
+    "search_terms": [
+      "Zduhac Montenegro",
+      "Slavic weather shamans",
+      "Dalmatian storm protectors"
+    ],
+    "tags": [],
+    "schema_org_type": "MythicalCreature",
+    "seo_title": "Zduhać – Montenegro's Weather-Shaman Storm Protectors",
+    "seo_description": "Zduhać are human weather shamans from Montenegrin folklore whose spirits leave their bodies to battle evil forces and protect communities from storms",
+    "motifs": [
+      "F565",
+      "D2142.1"
+    ],
+    "featured_in_stories": [],
+    "source": "Montenegrin oral tradition; snip snip South Slavic ethnographic studies by Friedrich Krauss",
+    "source_quality": "good",
+    "stories": [
+      "he-who-could-ride-in-all-weathers"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-07-05",
+    "living_tradition": false,
+    "source_type": "oral_tradition"
+  },
+  {
+    "id": "zanahary-malagasy-3867",
+    "slug": "zanahary-malagasy",
+    "name": "Zanahary",
+    "country": "Madagascar",
+    "region": "East Africa",
+    "culture": "Malagasy",
+    "type": "deity",
+    "mythology": "Malagasy",
+    "archetype": "creator-god",
+    "element": "sky",
+    "aliases": [
+      "Zanahary",
+      "Andriamanitra",
+      "Father Sky"
+    ],
+    "related": [
+      "ratovantany-malagasy",
+      "ibonia-malagasy",
+      "gueno-fulani",
+      "amma-dogon",
+      "qamata-xhosa",
+      "bisondeityshona-madagascar",
+      "yawm-saub-hmong"
+    ],
+    "description": "Zanahary is the supreme sky creator god in Malagasy mythology, the source of all life and spirit. In the creation myth shared across Madagascar, Zanahary and the earth god Ratovantany collaborated to create humanity. Ratovantany shaped physical bodies from clay, but they remained lifeless until Zanahary breathed souls into them from the sky. Upon death, the soul returns to Zanahary in the heavens while the body returns to Ratovantany in the earth. This division underpins the deep Malagasy reverence for ancestors (Razana), who dwell near Zanahary and serve as intermediaries between the living and the divine",
+    "appearance": "Invisible sky-dwelling being. Sometimes represented by the sun or the vast blue sky. Abstract, formless, omnipresent in the celestial realm.",
+    "behavior": "Breathes life into physical forms. Receives souls after death. Distant but benevolent. Communicates through ancestors and natural signs.",
+    "habitat": "The sky, the heavens, the celestial realm",
+    "habitat_tags": [
+      "sky",
+      "heavenly",
+      "sun"
+    ],
+    "behavior_tags": [
+      "creating",
+      "life-giving",
+      "receiving-souls"
+    ],
+    "strengths": [
+      "life-creation",
+      "soul-keeping",
+      "divine-authority"
+    ],
+    "weaknesses": [
+      "distant; requires ancestral intermediation"
+    ],
+    "diet": "None (spiritual being)",
+    "origin": "Malagasy theology",
+    "cultural_impact": "Zanahary is central to the Fomba Gasy traditional religion, still practiced by a significant portion of Madagascar's population, particularly among the Sakalava people (up to 80% adherence).",
+    "symbolism": "The sky; the soul; the breath of life; the sun as divine eye",
+    "associated_figures": [
+      "Ratovantany",
+      "Ibonia",
+      "Razana"
+    ],
+    "gender": "male",
+    "offspring": [
       {
-        "citation": "Sundkler, B.G.M. Bantu Prophets in South Africa. 2nd ed., Oxford University Press, 1961.",
-        "type": "academic",
-        "reliability": "high"
+        "name": "Andrianerinerina",
+        "relation": "son"
+      }
+    ],
+    "parents": [],
+    "siblings": [],
+    "equivalent": [
+      {
+        "name": "Amma",
+        "culture": "Dogon"
       },
       {
-        "citation": "Krige, E.J. The Realm of a Rain-Queen: A Study of the Pattern of Lovedu Society. Oxford University Press, 1943.",
-        "type": "academic",
-        "reliability": "high"
+        "name": "Qamata",
+        "culture": "Xhosa"
       }
+    ],
+    "syncretic": [],
+    "tribe": "Malagasy",
+    "fun_fact": "The name 'Andriamanitra' (Fragrant Lord) is used among the Merina people to refer to the revered aspect of Zanahary, and this term was later adopted by Malagasy Christians for God.",
+    "summary": "Malagasy supreme sky god who breathes life into clay bodies created by Ratovantany",
+    "other_names": [
+      "Andriamanitra",
+      "Father Sky"
+    ],
+    "source": "Malagasy mythology; Zanahary is the supreme sky god.",
+    "stories": [
+      "zanahary-and-ratovantany-the-creation-of-humanity"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-07-05",
+    "living_tradition": false,
+    "source_type": "oral_tradition",
+    "source_quality": "expert",
+    "cultural_significance": "Zanahary is a a deity from East Africa mythology, representing important cultural values and traditional beliefs.",
+    "schema_org_type": "MythicalCreature",
+    "continent": "Africa",
+    "countries": [
+      "Madagascar"
     ]
+  },
+  {
+    "id": "zuleikha-turkmen-4027",
+    "slug": "zuleikha-turkmen",
+    "name": "Zuleikha",
+    "country": "Turkmenistan",
+    "region": "Central Asia",
+    "culture": "Turkmen",
+    "type": "human",
+    "mythology": "Turkmen",
+    "archetype": "warrior",
+    "element": "fire",
+    "aliases": [
+      "Zuleikha",
+      "Kirk Kiz",
+      "Zuleikha of the Forty Maidens"
+    ],
+    "related": [
+      "akhal-teke-spirit-turkmen",
+      "goroglu-turkmen",
+      "khazyr",
+      "karakum-serpent-turkmen",
+      "gyrat-turkmen"
+    ],
+    "description": "The Forty Maidens (Kirk Kiz), here given the name Zuleikha, are a band of warrior women of Turkmen and neighboring Central Asian tradition who defend their stronghold against invaders. The ninth-century fortress of Kirk Kiz at Termez is linked to their tale, told across Turkmen, Karakalpak and Uzbek epic lore and praised for the maidens' courage.",
+    "appearance": "Beautiful woman in Turkmen warrior attire, armed with bow and sword. Fierce and determined expression. Rides horseback with exceptional skill.",
+    "behavior": "Leads forty warrior women in defense of her people. Fights with the ferocity of a lion and cunning of a wolf. Chooses death over dishonor.",
+    "habitat": "Turkmenistan, ancestral fortresses",
+    "habitat_tags": [
+      "desert",
+      "fortress"
+    ],
+    "behavior_tags": [
+      "warrior",
+      "brave",
+      "defiant"
+    ],
+    "strengths": [
+      "martial arts",
+      "horseback combat",
+      "leadership",
+      "inspiration"
+    ],
+    "weaknesses": [
+      "honor-bound",
+      "outnumbered"
+    ],
+    "cultural_significance": "Celebrates female heroism and resistance against oppression. Stone monuments called 'Forty Girls' exist across Central Asia.",
+    "summary": "Warrior maiden who leads forty female warriors in Turkmen legend",
+    "fun_fact": "Stone monuments called 'Forty Girls' exist across Central Asia, believed to be the petrified remains of these warrior women.",
+    "keywords": [
+      "zuleikha",
+      "turkmenistan",
+      "forty maidens",
+      "warrior"
+    ],
+    "search_terms": [
+      "Zuleikha Kirk Kiz Turkmen"
+    ],
+    "tags": [],
+    "schema_org_type": "MythicalCreature",
+    "seo_title": "Zuleikha – Turkmen Folklore",
+    "seo_description": "A beautiful and brave Turkmen warrior maiden who leads a band of forty warrior women (Kirk Kiz — Forty Maidens) defending their people against invading forces. ",
+    "motifs": [
+      "F565"
+    ],
+    "featured_in_stories": [],
+    "source": "meros.uz 'Qirq Qiz Qal'asi'; voicesoncentralasia.org 'Kirk Kiz'; Turkmen/Karakalpak epic tradition",
+    "source_quality": "good",
+    "fun_fact_generated": false,
+    "stories": [
+      "zuleikha-and-the-forty-maidens",
+      "the-origin-of-the-hummingbird"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-07-05",
+    "living_tradition": false,
+    "source_type": "literary"
+  },
+  {
+    "id": "er-zar-0002",
+    "slug": "zar",
+    "name": "Zar",
+    "country": "Eritrea",
+    "region": "East Africa",
+    "culture": "Various",
+    "type": "spirit",
+    "mythology": "Eritrean",
+    "archetype": "spirit",
+    "element": "spirit",
+    "aliases": [
+      "zar"
+    ],
+    "related": [
+      "dekki-hdrtna",
+      "zar-eritrea",
+      "uganda-muzimu",
+      "jinn-eritrea",
+      "mngwa"
+    ],
+    "description": "Zar is a spirit from Eritrea folklore",
+    "appearance": "Invisible, but manifests through the altered behavior and voice of the possessed person.",
+    "behavior": "Demands specific gifts, music, or clothing; if ignored, causes illness or bad luck.",
+    "habitat": "Human bodies, abandoned buildings",
+    "habitat_tags": [
+      "domestic"
+    ],
+    "behavior_tags": [
+      "demanding",
+      "possessive"
+    ],
+    "strengths": [
+      "mind control",
+      "emotional manipulation"
+    ],
+    "weaknesses": [
+      "healing rituals",
+      "music"
+    ],
+    "cultural_significance": "Used to explain and treat psychological distress through communal rituals.",
+    "summary": "Zar is a spirit from Various folklore in Eritrea, believed to embody the spiritual traditions of the region.",
+    "fun_fact": "Used to explain and treat psychological distress through communal rituals.",
+    "fun_fact_generated": false,
+    "keywords": [
+      "zar",
+      "eritrea",
+      "spirit"
+    ],
+    "search_terms": [
+      "zar"
+    ],
+    "tags": [
+      "spirit",
+      "possession"
+    ],
+    "schema_org_type": "MythicalCreature",
+    "seo_title": "Zar – Eritrea Folklore",
+    "seo_description": "The Zar: the possession spirits of Eritrean and East African mythology.",
+    "motifs": [],
+    "featured_in_stories": [],
+    "source": "East African oral tradition",
+    "source_quality": "verified",
+    "stories": [
+      "the-bewitchment-of-angutisugsuk",
+      "the-spirit-of-the-great-river",
+      "the-legend-of-the-cocoa-spirit"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-07-05",
+    "living_tradition": false,
+    "source_type": "oral_tradition"
+  },
+  {
+    "id": "stub-zombi",
+    "slug": "zombi",
+    "name": "Zombi",
+    "country": "Haiti",
+    "region": "Americas",
+    "culture": "Unknown",
+    "type": "undead",
+    "mythology": "Haiti",
+    "archetype": "guardian",
+    "element": "Unknown",
+    "aliases": [
+      "zombi"
+    ],
+    "related": [
+      "mermaid-denmark",
+      "sun-nuxalk",
+      "tsilwalagame-kwakwaka-wakw",
+      "tomte-iceland",
+      "sea-nymph"
+    ],
+    "description": "Zombi (Unknown). is a undead. In Haitian Vodou tradition, a zombi is a reanimated corpse brought back to life by a bokor (sorcerer). Unlike the modern cinematic version, the Haitian zombi is a mindless laborer under the control of. Source: The Serpent and the Rainbow (Davis, 1985); Haitian Folklore (Courlander, 1960)",
+    "appearance": "Zombi is known from recorded folklore and oral tradition in Haiti.",
+    "behavior": "In traditional accounts, Zombi from Americas  plays its role in the mythology and folklore of its culture.",
+    "habitat": "Not documented.",
+    "habitat_tags": [],
+    "behavior_tags": [],
+    "strengths": [],
+    "weaknesses": [],
+    "cultural_significance": "The zombi originates from Haitian Vodou and is deeply tied to the history of slavery on the island. It was legally recognized in Haiti's 19th-century criminal code. The concept entered global pop culture through films like White Zombie (1932).",
+    "summary": "In Haitian Vodou tradition, a zombi is a reanimated corpse brought back to life by a bokor (sorcerer). Unlike the modern cinematic version, the Haitian zombi is a mindless laborer under the control of its creator.",
+    "fun_fact": "A undead figure from Haiti mythology.",
+    "fun_fact_generated": false,
+    "keywords": [
+      "zombi"
+    ],
+    "search_terms": [
+      "zombi"
+    ],
+    "tags": [],
+    "schema_org_type": "MythicalCreature",
+    "stories": [
+      "the-zombi-the-living-dead-of-haitian-vodou"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-07-05",
+    "living_tradition": false,
+    "source_type": "oral_tradition",
+    "source_quality": "well-documented",
+    "source": "The Serpent and the Rainbow (Davis, 1985); Haitian Folklore (Courlander, 1960)"
   }
 ]

@@ -20,7 +20,7 @@
       "kumakotok",
       "strigoi-romania"
     ],
-    "description": "Talasac is a monster from Romania folklore. Dog-like creature emerging at midnight from graveyards, fetching souls of dying and carrying them to underworld. Romanian underworld courier. Death messenger. It is said to dwell in Graveyards at midnight.",
+    "description": "Not independently attested in documented Romanian folklore or academic sources. No reference describes a midnight 'Talasac,' a dog-like beast fetching souls from graveyards to the underworld; searches return only an Occitan place-name and the Bulgarian/Romanian 'talasym' walled-in spirit, neither matching. The input's stated source, Ovid's Metamorphoses, mentions no such creature.",
     "appearance": "Dog-like creature emerging at midnight from graveyards, fetching souls of dying and carrying them to underworld.",
     "behavior": "Known for plant control, stone manipulation, strength.",
     "habitat": "Graveyards at midnight",
@@ -59,8 +59,8 @@
       "F300"
     ],
     "featured_in_stories": [],
-    "source": "Roman mythology, Ovid's Metamorphoses",
-    "source_quality": "good",
+    "source": "None — no independent source located",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -89,9 +89,9 @@
       "lid-rc",
       "s-rk-ny"
     ],
-    "description": "Táltos is a hero from Hungary folklore. Traditional Hungarian sorcerer-healer with shamanistic abilities. Can communicate with spirits, practice healing. Documented by Éva Pócs. Shows connections to Eurasian shamanistic traditions. It is said to dwell in Villages, spiritual realms.",
-    "appearance": "Typical appearance matches its role as a heal and healer being.",
-    "behavior": "Traditional Hungarian sorcerer-healer with shamanistic abilities. Can communicate with spirits, practice healing. It is said to dwell in Villages, spiritual realms.",
+    "description": "Táltos is the shaman-healer of Hungarian folklore, a person marked at birth by extra teeth or fingers, a caul, or premature speech, who gains supernatural knowledge, communicates with spirits, and heals the sick. The táltos could shapeshift into animals and duel rival shamans. Documented by folklorist Éva Pócs, the figure links Hungarian belief to Eurasian shamanic traditions.",
+    "appearance": "Traditional Hungarian sorcerer-healer with shamanistic abilities.",
+    "behavior": "Traditional Hungarian sorcerer-healer with shamanistic abilities. Can communicate with spirits, practice healing.",
     "habitat": "Villages, spiritual realms",
     "habitat_tags": [
       "village"
@@ -129,7 +129,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Hungarian folklore — Táltos is a shaman figure documented in Hungarian mythology.",
+    "source": "https://en.wikipedia.org/wiki/T%C3%A1ltos",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -159,7 +159,7 @@
       "iele",
       "bajlozi"
     ],
-    "description": "Xhindet is a spirit from Albania folklore. Also known as xhind. It is said to dwell in Mountain passes, old ruins. In folklore, it is described as play pranks, hide objects, and lead travelers astray in the mountains. Reminders that the world is full of unseen forces that require wit to navigate.",
+    "description": "Xhindet are the jinn-like trickster spirits of Albanian folklore, beings of illusion and stealth that haunt mountain passes and old ruins. Mischievous and deceptive rather than overtly malevolent, they can be countered with iron or clever riddles. Their stories remind listeners that the world holds unseen forces which must be negotiated with wit, a recurring theme across the Balkans.",
     "appearance": "Ethereal, shifting forms; often appearing as strangers or animals.",
     "behavior": "Play pranks, hide objects, and lead travelers astray in the mountains.",
     "habitat": "Mountain passes, old ruins",
@@ -200,7 +200,7 @@
     "seo_description": "The Xhindet: the mischievous trickster spirits of Albanian folklore.",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Albanian folklore",
+    "source": "Albanian folklore — xhind (jinn) tradition",
     "source_quality": "verified",
     "stories": [
       "the-bewitchment-of-angutisugsuk",
@@ -233,9 +233,9 @@
       "d-dning",
       "zmeu-romania"
     ],
-    "description": "Moroi is a undead from Romania folklore. Spirits of dead unbaptized children returning to haunt families. Visit at night, drain life force, cause illness. Romanian child ghost. Unbaptized children. It is said to dwell in Family homes at night.",
-    "appearance": "Typical appearance matches its role as a night and haunt being.",
-    "behavior": "Spirits of dead unbaptized children returning to haunt families. Visit at night, drain life force, cause illness. It is said to dwell in Family homes at night.",
+    "description": "Moroi are the vengeful spirits of dead unbaptized children in Romanian folklore, who return to haunt their families at night, draining life force and bringing illness. As souls denied proper Christian burial, they embody fears around infant death and the power of unfinished rites. The term also names a class of Romanian vampiric undead related to the strigoi.",
+    "appearance": "Spirits of dead unbaptized children returning to haunt families.",
+    "behavior": "Spirits of dead unbaptized children returning to haunt families. Visit at night, drain life force, cause illness.",
     "habitat": "Family homes at night",
     "habitat_tags": [
       "home"
@@ -274,7 +274,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Roman mythology, Ovid's Metamorphoses",
+    "source": "Romanian folklore — moroi vampiric-undead tradition; https://en.wikipedia.org/wiki/Moroi",
     "source_quality": "good",
     "stories": [
       "strigoi-the-undead-spirits-of-romania"
@@ -306,7 +306,7 @@
       "phi-pom",
       "la-llorona-the-weeping-woman"
     ],
-    "description": "The Lampad is a spectral figure from Hungarian folklore, described as a ghostly light or swamp spirit that appears as a flickering flame over marshy ground. Known also by various names in Hungarian tradition, the Lampad is similar to the will-o'-the-wisp found in many European folk traditions. These eerie lights were believed to be the souls of unbaptized children, suicides, or other restless spirits condemned to wander between the earthly realm and the afterlife. The Hungarian Lampad is particularly associated with swamps, bogs, and wetlands, where it leads travelers astray.",
+    "description": "The Lampad is a spectral figure from Hungarian folklore, described as a ghostly light or swamp spirit that appears as a flickering flame over marshy ground. Known also by various names in Hungarian tradition, the Lampad is similar to the will-o'-the-wisp found in many European folk traditions. These eerie lights were believed to be the souls of unbaptized children, suicides, or other restless spirits condemned to wander between the earthly realm and the afterlife. The Hungarian Lampad is particularly associated with swamps, bogs, and wetlands, where it leads travelers astray",
     "appearance": "The Lampad appears as a small, flickering flame or light that hovers just above the ground, typically in marshy or wetland areas. The light is described as pale blue, greenish, or white, with an unearthly quality that distinguishes it from ordinary fire. It moves with a dancing, bobbing motion that seems to float and weave through the landscape. Some accounts describe it as having a vaguely humanoid shape when viewed from a distance, with the light forming the rough outline of a figure carrying a lantern. The light casts no shadows and makes no sound.",
     "behavior": "The Lampad primarily serves as a lure, drawing curious travelers and wanderers into dangerous swampy areas where they become lost or meet their end in treacherous bogs. It is particularly active on foggy nights and during the twilight hours between sunset and full darkness. The light appears to recede as one approaches, always staying just out of reach while leading the unwary deeper into danger. Hungarian folklore warns against following these lights and recommends carrying a compass or landmarking one's position when near marshlands. Some traditions hold that the Lampad can be dispelled by prayer or by carrying blessed objects.",
     "habitat": "Marshes, swamps, bogs, riverbanks",
@@ -379,9 +379,9 @@
       "r-kshasa",
       "stalldemon-stable-demon"
     ],
-    "description": "Lidérc is a mythical creature from Hungarian folklore, described as a supernatural being that can take various forms. The lidérc is known to plague humans, often appearing as a strange animal or a ball of light, and is associated with nightmares and oppression.",
+    "description": "Lidérc is a malevolent demonic spirit of Hungarian folklore, commanded by witches and appearing as a strange animal, a fiery will-o'-the-wisp, or a ball of light. It visits sleepers at night, bringing nightmares and oppression, a menace documented in witch-trial records studied by folklorist Éva Pócs, showing continuity between medieval and early modern belief.",
     "appearance": "Lidérc is described in folklore as having a memorable and distinctive form. Traditional accounts depict this creature with features that set it apart from ordinary beings, incorporating characteristics that reflect its supernatural nature and mythological origins within the cultural traditions that tell of it.",
-    "behavior": "Lidérc is night, malevolent, appear in Hungary folklore.",
+    "behavior": "The lidérc is known to plague humans, often appearing as a strange animal or a ball of light, and is associated with nightmares and oppression.",
     "habitat": "Various - commanded by witches",
     "habitat_tags": [
       "Hungarian underworld",
@@ -422,7 +422,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Hungarian folklore — Lidérc demon documented in Hungarian oral tradition.",
+    "source": "https://en.wikipedia.org/wiki/Lid%C3%A9rc; Éva Pócs, witch-trial studies",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -451,7 +451,7 @@
       "dreq",
       "zana"
     ],
-    "description": "Lugat is a vampire from Albania folklore. Undead blood-drinker abiding in shadows - water wells, old ruins, caves. Frightening visage, flies on winds, assails victims in sleep. Albanian vampire. Undead blood-drinker. It is said to dwell in Shadows, wells, ruins, caves.",
+    "description": "Lugat is the vampire of Albanian folklore, an undead blood-drinker that abides in shadows, wells, old ruins, and caves. It flies on the winds, frightens with its visage, and assails victims in their sleep, draining their blood; it can shapeshift and is warded off with salt. The belief reflects anxieties about death, burial, and nocturnal harm shared across Balkan vampire traditions.",
     "appearance": "Lugat is described in folklore as having a memorable and distinctive form. Traditional accounts depict this creature with features that set it apart from ordinary beings, incorporating characteristics that reflect its supernatural nature and mythological origins within the cultural traditions that tell of it.",
     "behavior": "Lugat is blood-drinking, shapeshifting, seductive in Albania folklore.",
     "habitat": "Shadows, wells, ruins, caves",
@@ -494,7 +494,7 @@
       "A210"
     ],
     "featured_in_stories": [],
-    "source": "Albanian folklore — Lugat vampire documented in Albanian oral tradition.",
+    "source": "Albanian folklore — lugat vampire tradition",
     "source_quality": "fair",
     "stories": [],
     "version": "1.0.0",
@@ -524,9 +524,9 @@
       "tulisan",
       "los-ahuiillas"
     ],
-    "description": "Ursitoare is a spirit from Moldova folklore. Imaginary creatures with gift to decide human fate from birth. Three women appear on third night after birth to predict child's future. Similar to Greek Moirai or Fates. It is said to dwell in Near newborns.",
+    "description": "Ursitoare are the fate-spirits of Romanian and Moldovan folklore, three women who appear on the third night after a child's birth to decide and prophesy its destiny, much like the Greek Moirai. Their pronouncements, made in secret, fix the newborn's fortune and cannot be altered. Offerings and prayers sought their favor, tying the figure to rites of birth and family protection.",
     "appearance": "Imaginary creatures with gift to decide human fate from birth. Three women appear on third night after birth to predict child's future.",
-    "behavior": "Imaginary creatures with gift to decide human fate from birth. Three women appear on third night after birth to predict child's future. It is said to dwell in Near newborns.",
+    "behavior": "Imaginary creatures with gift to decide human fate from birth. Three women appear on third night after birth to predict child's future.",
     "habitat": "Near newborns",
     "habitat_tags": [
       "Romanian/Moldovan wilderness",
@@ -565,7 +565,7 @@
       "F300"
     ],
     "featured_in_stories": [],
-    "source": "Roman mythology, Ovid's Metamorphoses",
+    "source": "Romanian/Moldovan folklore — ursitoare fate-spirits",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -597,7 +597,7 @@
     ],
     "description": "Kulfre is a mountain spirit from Albanian folklore, a mysterious phantom that haunts the peaks and ridges of the Albanian Alps. This supernatural being is most commonly described as a headless humanoid figure that dances on mountaintops, appearing at night as a luminous ball of fire or a glowing human shape that moves with an eerie, fluid grace. The kulfre is deeply connected to the ancient Illyrian and Balkan beliefs that mountains are sacred spaces where the boundary between the human world and the spirit realm is thin. Unlike the more dangerous spirits of Albanian tradition, the kulfre is not actively malevolent but rather a neutral supernatural phenomenon, a remnant of older pagan beliefs that persisted alongside Christianity. Its appearances are considered omens, though whether for good or ill depends on the tradition and the circumstances of the encounter",
     "appearance": "The kulfre appears most commonly as a luminous ball of fire that dances and bounces across mountain peaks at night, leaving a trail of pale light that lingers momentarily before fading. Alternatively, it manifests as a headless humanoid figure, its form outlined in a pale, flickering luminescence that illuminates the darkness without casting shadows. The figure moves with an unnatural, graceful swaying motion as though dancing to music that only it can hear, its arms raised and body twisting in a eternal, solitary dance. In its fire form, the light varies in color from pale blue to orange-red, and it pulses in a rhythm that matches a heartbeat. The kulfre makes no sound as it moves, and the air around it is still and cold, even on the windiest nights. Some accounts describe the spirit as being transparent or semi-transparent, allowing the mountain landscape to be seen through its glowing form. Its movements leave no trace on the ground",
-    "behavior": "The kulfre dances alone on mountain peaks during moonless nights, its ghostly performance visible from distant villages as a flickering light that seems to beckon. Its purpose is mysterious, but it is considered a powerful omen, and those who see it are said to be marked in some way. The most dangerous aspect of the kulfre is its seductive pull: anyone who watches its dance for too long feels an irresistible urge to join it, drawn by an overwhelming sense of longing for the freedom and beauty of its movement. Those who succumb and attempt to reach the kulfre become lost in the mountains, wandering until they fall from a cliff or die of exposure at dawn. The kulfre itself does not attack or pursue but simply dances on, indifferent to human observers. In some interpretations, the kulfre represents the souls of those who died in the mountains, forever dancing in the place of their death. Traditional Albanian mountain people avoid looking directly at the kulfre and carry iron or brass objects as protection",
+    "behavior": "The kulfre dances alone on mountain peaks during moonless nights, its ghostly performance visible from distant villages as a flickering light that seems to beckon. Its purpose is mysterious, but it is considered a powerful omen, and those who see it are said to be marked in some way. The most dangerous aspect of the kulfre is its seductive pull: anyone who watches its dance for too long feels an irresistible urge to join it, drawn by an overwhelming sense of longing for the freedom and beauty of its movement. Those who succumb and attempt to reach the kulfre become lost in the mountains, wandering until they fall from a cliff or die of exposure at dawn. The kulfre itself does not attack or pursue but simply dances on, indifferent to human observers. In some interpretations, the kulfre represents the souls of those who died in the mountains, forever dancing in the place of their death. Traditional Albanian mountain people avoid looking directly at the kulfre and carry iron or brass objects as protection.",
     "habitat": "Mountaintops",
     "habitat_tags": [
       "mountain"
@@ -669,7 +669,7 @@
     ],
     "description": "Kulshedra is a colossal multi-headed female dragon from Albanian folklore, one of the most feared and powerful creatures in Balkan mythology. This monstrous serpentine being is associated with water, storms, and fire, commanding the primal forces of nature and bringing either drought or flood to the land depending on her mood. Kulshedra is the ancient enemy of the drangue, a heroic winged warrior who protects humanity from her depredations. The legend of kulshedra represents the eternal cosmic struggle between order and chaos, with the dragon embodying the untamed, destructive aspects of nature that must be constantly opposed by heroic forces. Her lairs are said to be deep caves near water sources, where she hoards treasure and the bones of her victims. The kulshedra legend is deeply rooted in the pre-Christian Illyrian and Balkan mythological traditions that persisted through centuries of cultural change",
     "appearance": "Kulshedra is described as a gigantic serpentine dragon of truly terrifying proportions, with multiple heads that each possess their own intelligence and will. The heads are snake-like but enlarged to monstrous size, with scales as large as shields, eyes that glow like burning coals, and mouths filled with rows of razor-sharp teeth. Some accounts describe her as having seven or twelve heads, each capable of spitting fire or venom independently. Her body is covered in overlapping scales of dark green, black, or deep red, as tough as iron, and she has a long, sinuous tail that can crush trees and buildings. Leathery wings sprout from her back, their span darkening the sky when she takes flight. From the waist up, some traditions depict her with the torso and breasts of a woman, while the lower body is serpentine, combining human intelligence with reptilian ferocity. Blood flows constantly from her side, said to be the source of her magical power, and wherever this blood falls, the ground becomes barren",
-    "behavior": "Kulshedra emerges from her cave lair to terrorize the surrounding countryside, demanding human sacrifices in exchange for granting rain or withholding floodwaters. She devastates crops with fire and storms, poisons wells with her venom, and devours livestock and people who venture too near her territory. Her battles with the drangue are legendary, the two cosmic enemies locked in eternal combat that shakes the mountains and darkens the sky. The kulshedra can cause devastating droughts by blocking water sources with her body, then release catastrophic floods when she moves. She is vulnerable only to the intervention of a drangue, a warrior born with supernatural powers, who must strike her in the side where blood flows, her only weak point. Traditional folk rituals involve villagers making offerings to appease the kulshedra while simultaneously praying to the drangue for deliverance. Her defeat brings rain and fertility to the land, ending the cycle of destruction she creates",
+    "behavior": "Kulshedra emerges from her cave lair to terrorize the surrounding countryside, demanding human sacrifices in exchange for granting rain or withholding floodwaters. She devastates crops with fire and storms, poisons wells with her venom, and devours livestock and people who venture too near her territory. Her battles with the drangue are legendary, the two cosmic enemies locked in eternal combat that shakes the mountains and darkens the sky. The kulshedra can cause devastating droughts by blocking water sources with her body, then release catastrophic floods when she moves. She is vulnerable only to the intervention of a drangue, a warrior born with supernatural powers, who must strike her in the side where blood flows, her only weak point. Traditional folk rituals involve villagers making offerings to appease the kulshedra while simultaneously praying to the drangue for deliverance. Her defeat brings rain and fertility to the land, ending the cycle of destruction she creates.",
     "habitat": "Water, storms",
     "habitat_tags": [
       "water"
@@ -738,7 +738,7 @@
       "s-rk-ny",
       "shtojzovalle"
     ],
-    "description": "Kuçedra is a dragon from Albania folklore. Also known as kucedra. It is said to dwell in Deep caves, mountain peaks. In folklore, it is described as sleeps for long periods; when it wakes, it creates devastating hurricanes and floods. Represents the struggle against overwhelming natural disasters.",
+    "description": "Kuçedra is the multi-headed dragon of Albanian folklore, an enormous fire-breathing serpent of deep caves and mountain peaks that brings storms and chaos. Demanding tribute and battling heroes and spirits alike, it personifies destructive natural forces that saints, weather-lords, and heroes must overcome. The name is an older form of kulshedra, the dragon-queen of Albanian oral tradition.",
     "appearance": "A massive, multi-headed serpent with scales like iron and eyes of fire.",
     "behavior": "Sleeps for long periods; when it wakes, it creates devastating hurricanes and floods.",
     "habitat": "Deep caves, mountain peaks",
@@ -779,7 +779,7 @@
     "seo_description": "The Kuçedra: the multi-headed dragon of chaos from Albanian mythology.",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Albanian folklore",
+    "source": "https://en.wikipedia.org/wiki/Kulshedra",
     "source_quality": "verified",
     "stories": [
       "the-treasure-in-sby-creek",
@@ -813,7 +813,7 @@
       "asema",
       "kulfre"
     ],
-    "description": "Albania's most feared nocturnal predator—a vampiric witch who drains the 'spiritus vitae' (breath of life) from sleeping infants. By night, she transforms into a flying insect—traditionally a moth, fly, or bee—slipping through keyholes or open windows to hover over her victims. She sucks blood and life force while they sleep, leaving them pale, weakened, and near death. The shtriga lives secretly within the community by day, appearing as an ordinary—though unsettling—elderly woman. Only she can cure those she has drained, and she does so by spitting into the victim's mouth. This paradox is central to the legend.",
+    "description": "Albania's most feared nocturnal predator—a vampiric witch who drains the 'spiritus vitae' (breath of life) from sleeping infants. By night, she transforms into a flying insect—traditionally a moth, fly, or bee—slipping through keyholes or open windows to hover over her victims. She sucks blood and life force while they sleep, leaving them pale, weakened, and near death. The shtriga lives secretly within the community by day, appearing as an ordinary—though unsettling—elderly woman. Only she can cure those she has drained, and she does so by spitting into the victim's mouth. This paradox is central to the legend",
     "appearance": "Old or middle-aged woman with a hateful stare (sometimes wearing a cape) and horribly disfigured face. Typically has grey, pale green, or pale blue eyes (called 'white eyes'). Has a crooked nose. In human form, appears unsettling with pale, washed-out coloring. In insect form: moth, fly, or bee. Some accounts describe owl or crow forms. She avoids looking people directly in the eyes because she has the evil eye (Albanian: syliga).",
     "behavior": "Transforms into flying insects (moth, fly, bee, owl, bat, cat in some regions). Sucks blood and 'spiritus vitae' from sleeping infants. Only the shtriga can cure victims—by spitting into their mouths. Victims who remain uncured inevitably sicken and die. After draining, she retreats to the woods to vomit the stolen blood. If killed while victim still lives, the victim is instantly cured. According to Northern Albanian folklore, a woman is not born a shtriga; she becomes one, often because she is childless or made evil by envy. A strong belief in God could make people immune.",
     "habitat": "Lives hidden in communities, emerging at night to hunt in homes with infants",
@@ -894,7 +894,7 @@
       "ma-dray",
       "lugat"
     ],
-    "description": "Albanian ghost of someone who died suddenly or without proper burial rites. Haunts the living until given proper funeral.",
+    "description": "Not independently attested in documented Albanian folklore or academic sources. No reference describes an Albanian ghost 'Sklavos,' a shrouded figure haunting the living until buried; searches return only Greek σκλάβος ('slave') and the Albanian kukudh, a different undead being. The recorded traits resemble general Balkan burial beliefs and appear to derive from modern speculation.",
     "appearance": "Pale human figure, dressed in burial shroud. Eyes hollow, limbs cold.",
     "behavior": "Moans, appears pale and decayed. Can cause illness if not appeased. Requires burial rites to find peace.",
     "habitat": "Graveyards, places of death, family homes",
@@ -935,8 +935,8 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Albanian folklore — ghost documented in Albanian oral tradition.",
-    "source_quality": "fair",
+    "source": "None — no independent source located",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
@@ -968,8 +968,8 @@
       "moroi",
       "talasac"
     ],
-    "description": "Strigoi is a vampire from Moldova folklore. Spirits of undead, similar to vampires. Can be living people with special qualities or dead who return. Cause illness and misfortune. Romanian undead vampire. Unbaptized dead. It is said to dwell in Romanian/Moldovan landscapes and habitats.",
-    "appearance": "Typical appearance matches its role as a fortune being.",
+    "description": "Strigoi are the vampiric undead of Romanian and Moldovan folklore — either the living dead returning to their families or those born with traits marking them for vampirism. They leave their graves at night, causing illness and misfortune, and can be neutralized through exorcism, staking, or burial rites. Documented since the 19th century, the belief helped shape the literary vampire.",
+    "appearance": "Spirits of undead, similar to vampires.",
     "behavior": "Known for stealth, life drain, immortality.",
     "habitat": "Romanian/Moldovan landscapes and habitats",
     "habitat_tags": [
@@ -1013,7 +1013,7 @@
       "strigoi-the-undead-spirits-of-romania",
       "the-shtriga-the-vampire-witch-of-albanian-folklore"
     ],
-    "source": "Roman mythology, Ovid's Metamorphoses",
+    "source": "https://en.wikipedia.org/wiki/Strigoi",
     "source_quality": "good",
     "stories": [
       "strigoi-the-undead-spirits-of-romania"
@@ -1044,8 +1044,8 @@
       "lugat",
       "shtriga"
     ],
-    "description": "Strigoi is a vampire from Romania folklore. Spirits of undead, similar to vampires. Can be living people with special qualities or dead who return. Cause illness and misfortune. Romanian undead vampire. Unbaptized dead. It is said to dwell in Romanian/Moldovan landscapes and habitats.",
-    "appearance": "Typical appearance matches its role as a fortune being.",
+    "description": "Strigoi are the vampiric undead of Romanian folklore, the restless souls of the unbaptized, the cursed, or those born with a caul, who return from the grave to plague the living. Active mainly at night, they bring illness and misfortune and are countered by garlic, holy objects, exorcism, or staking. Nineteenth-century accounts of strigoi influenced Bram Stoker's literary vampire.",
+    "appearance": "Spirits of undead, similar to vampires.",
     "behavior": "Known for life drain, immortality, shadow manipulation.",
     "habitat": "Romanian/Moldovan landscapes and habitats",
     "habitat_tags": [
@@ -1089,7 +1089,7 @@
       "strigoi-the-undead-spirits-of-romania",
       "the-shtriga-the-vampire-witch-of-albanian-folklore"
     ],
-    "source": "Roman mythology, Ovid's Metamorphoses",
+    "source": "https://en.wikipedia.org/wiki/Strigoi",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -1118,7 +1118,7 @@
       "zmaj-kosovo",
       "zmeu-romania"
     ],
-    "description": "The legendary dragon in Hungarian folklore, originating from Turkic roots (Proto-Turkic *sāŕgan meaning 'carp, snake, dragon,' related to Cuman sazagan). Originally conceived as humanoid figures with multiple heads representing souls—a pre-Christian belief where each head embodied a spiritual essence. By the medieval period, evolved into the classic scaly, winged serpentine beast, heavily influenced by Christian demonology. Deeply connected to Slavic zmey traditions through the Carpathian Basin, though Hungarian sárkány remained predominantly malevolent while Slavic zmei could be ambivalent. The word appears first in Hungarian place names from the 12th-13th century (Sárkányosfő in 1262, Sárkányszigete in 1391).",
+    "description": "The legendary dragon in Hungarian folklore, originating from Turkic roots (Proto-Turkic *sāŕgan meaning 'carp, snake, dragon,' related to Cuman sazagan). Originally conceived as humanoid figures with multiple heads representing souls—a pre-Christian belief where each head embodied a spiritual essence. By the medieval period, evolved into the classic scaly, winged serpentine beast, heavily influenced by Christian demonology. Deeply connected to Slavic zmey traditions through the Carpathian Basin, though Hungarian sárkány remained predominantly malevolent while Slavic zmei could be ambivalent. The word appears first in Hungarian place names from the 12th-13th century (Sárkányosfő in 1262, Sárkányszigete in 1391)",
     "appearance": "Massive winged serpentine creature with 3-24 heads (classic being 3, 7, or 12), each head independently capable of breathing fire. Bat-like wings, elongated scaly bodies, clawed forelimbs, tail ending in arrow-shaped fin. Scales in vivid reds (fiery, dangerous) or greens (earth-bound, ancient). Unlike Western dragons, Hungarian sárkány retain a humanlike quality—they can speak with human voices, wield weapons, and ride horses. Some regional beliefs depicted them as humanoid figures with multiple heads—a lingering pre-Christian conception where each head represented an individual soul.",
     "behavior": "Fearsome adversaries demanding human sacrifice—they demand a maiden daily, threatening destruction if refused. Breathe fire, hoard treasure in underground caves, terrorize communities. Like Hydra, cutting off one head may cause two more to grow back unless the key head is destroyed. Arrive in whirlwinds (forgószél), linking them to storms. Interact with garabonciás (weather wizards) who can summon dragons from lakes using magical books, then ride them through storm clouds to create thunder and lightning. Heroes can only be defeated through cleverness: cutting all heads in a single blow or finding the vital head.",
     "habitat": "Mountains, deep caves, underground lakes, underworld accessible through wells or sinkholes",
@@ -1192,7 +1192,7 @@
       "bajlozi",
       "iele"
     ],
-    "description": "Shtojzovalle is a spirit from Albania folklore. Also known as moonlight dancers. It is said to dwell in Moonlit meadows, mountain clearings. In folklore, it is described as appear at night to dance; they lure humans into a trance, making them forget their lives. Symbolizes the danger of succumbing to fleeting, otherworldly desires.",
+    "description": "Shtojzovalle, the 'moonlight dancers' of Albanian folklore, are beautiful spirit women who dance in moonlit meadows and mountain clearings, enchanting mortals with hypnotic grace. Those who join risk being led astray or bound to the otherworld, and the dancers dissolve at sunrise. They embody the allure and peril of Albanian nature spirits.",
     "appearance": "Beautiful, glowing women in shimmering white dresses.",
     "behavior": "Appear at night to dance; they lure humans into a trance, making them forget their lives.",
     "habitat": "Moonlit meadows, mountain clearings",
@@ -1232,7 +1232,7 @@
     "seo_description": "The Shtojzovalle: the enchanting moonlight dancers of Albanian mythology.",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Albanian folklore",
+    "source": "Albanian folklore — shtojzovalle moonlight dancers",
     "source_quality": "verified",
     "stories": [
       "the-bewitchment-of-angutisugsuk",
@@ -1266,7 +1266,7 @@
       "tulisan",
       "mouros-portugal"
     ],
-    "description": "The Iele are feminine mythical creatures in Romanian mythology, often described as faeries with great seductive power over men. They possess magic skills and attributes similar to the nymphs, naiads, and dryads of Greek mythology, embodying the untamed and mysterious spirit of the natural world. They are said to inhabit the vast skies, dense forests, deep caves, and isolated mountain cliffs, and are frequently reported to have been seen bathing in sacred springs or guarding mysterious crossroads.",
+    "description": "The Iele are feminine mythical creatures in Romanian mythology, often described as faeries with great seductive power over men. They possess magic skills and attributes similar to the nymphs, naiads, and dryads of Greek mythology, embodying the untamed and mysterious spirit of the natural world. They are said to inhabit the vast skies, dense forests, deep caves, and isolated mountain cliffs, and are frequently reported to have been seen bathing in sacred springs or guarding mysterious crossroads",
     "appearance": "These entities are depicted as young and beautiful, voluptuous immortals who often appear as incorporeal spirits. They are most commonly seen at night by moonlight, dancing the Hora in secluded glades or atop maple and walnut trees. They typically dance naked, with their breasts almost covered by their long, disheveled hair, wearing bells upon their ankles and carrying candles that illuminate their ethereal forms.",
     "behavior": "Their frenetic dance is said to cause delirium in any mortal onlooker. While not fundamentally evil, the Iele are known for their vengeful nature when provoked, offended, or witnessed during their secret rituals. They may abduct victims who refuse their invitation to dance, punishing them with magical spells and vertigo, and the ground where they have danced remains carbonized and barren for years.",
     "habitat": "Forests, caves, mountains",
@@ -1341,7 +1341,7 @@
       "lugat",
       "sklavos"
     ],
-    "description": "Dreq is a vampiric dragon-demon from Albanian folklore, a terrifying creature that rises from lakes and freshwater bodies to attack livestock and humans with relentless ferocity. The name Dreq derives from the Latin word draco meaning dragon or serpent, reflecting the ancient cultural exchanges between the Illyrian ancestors of the Albanians and the Roman Empire. In Albanian mythological tradition, the Dreq is closely related to the kulshedra, a multi-headed water serpent, but is distinguished by its more draconic form and vampiric tendencies. The Dreq is deeply embedded in Albanian folk beliefs about water spirits and their dangerous interactions with humans, serving as an explanation for drownings, livestock disappearances, and mysterious deaths near lakes and rivers throughout the Albanian countryside.",
+    "description": "Dreq is a vampiric dragon-demon from Albanian folklore, a terrifying creature that rises from lakes and freshwater bodies to attack livestock and humans with relentless ferocity. The name Dreq derives from the Latin word draco meaning dragon or serpent, reflecting the ancient cultural exchanges between the Illyrian ancestors of the Albanians and the Roman Empire. In Albanian mythological tradition, the Dreq is closely related to the kulshedra, a multi-headed water serpent, but is distinguished by its more draconic form and vampiric tendencies. The Dreq is deeply embedded in Albanian folk beliefs about water spirits and their dangerous interactions with humans, serving as an explanation for drownings, livestock disappearances, and mysterious deaths near lakes and rivers throughout the Albanian countryside",
     "appearance": "The Dreq is described as a large dragon-like creature with leathery bat wings that enable it to fly despite its considerable bulk. Its body is covered in dark, scaly hide that ranges from deep black to dark green, providing excellent camouflage in the shadowy waters of its lake habitat. The creature has a long, serpentine neck ending in a fearsome head with glowing red or yellow eyes and a mouth full of needle-sharp teeth. Its tail is long and powerful, capable of wrapping around victims and dragging them beneath the water. Most distinctively, the Dreq is said to breathe pestilence rather than fire, exhaling clouds of disease-causing vapors that sicken anyone who breathes them. Its scales are incredibly resilient, repelling most weapons and protecting the creature from physical harm.",
     "behavior": "The Dreq is a nocturnal predator that emerges from its lake lair after sunset to hunt, using the cover of darkness to approach villages undetected. It attacks livestock primarily, carrying away sheep, goats, and cattle to devour in its underwater lair, but will attack humans who venture too close to its territory. The Dreq is especially dangerous to children and women who come to lakes to fetch water, dragging them beneath the surface to drown. The creature's vampiric nature manifests in its habit of draining blood from victims before consuming their flesh, leaving behind pale corpses that wash ashore. The Dreq's pestilence breath makes it doubly dangerous, as even approaching its lair results in sickness from the miasma overhanging the water. According to Albanian tradition, the Dreq can be defeated by a hero armed with a blessed weapon, and is vulnerable to holy water, crosses, and the ringing of church bells.",
     "habitat": "Lakes and freshwater bodies in Albanian",
@@ -1409,9 +1409,9 @@
       "lugat",
       "kulfre"
     ],
-    "description": "Zana is a nymph from Albania folklore. Mountain nymphs known for beauty and fierce independence. Protect nature, appear near rivers, waterfalls, forests. Those who disrespect nature risk wr. Albanian mountain nymphs. Compare to Greek muses. It is said to dwell in Mountains, rivers, waterfalls, dense forests.",
+    "description": "Zanë are the mountain nymphs of Albanian folklore, beautiful, fierce, and fiercely independent protectors of nature who appear near rivers, waterfalls, forests, and peaks. They guard the wilderness and may aid the worthy, but those who disrespect nature risk their wrath, which can bring madness or harm. Compare with the Greek muses and fairies across the Balkan mountains.",
     "appearance": "Protect nature, appear near rivers, waterfalls, forests.",
-    "behavior": "Zana is protect, benevolent, appear in Albania folklore.",
+    "behavior": "Mountain nymphs known for beauty and fierce independence. Protect nature, appear near rivers, waterfalls, forests.",
     "habitat": "Mountains, rivers, waterfalls, dense forests",
     "habitat_tags": [
       "forest",
@@ -1455,7 +1455,7 @@
     "featured_in_stories": [
       "the-zana-benevolent-fairies-of-the-albanian-mountains"
     ],
-    "source": "Albanian folklore — Zana nature spirits documented in Albanian oral tradition.",
+    "source": "https://en.wikipedia.org/wiki/Zana_(mythology)",
     "source_quality": "good",
     "stories": [
       "the-zana-benevolent-fairies-of-the-albanian-mountains"
@@ -1492,9 +1492,9 @@
       "potopica",
       "zmaj-kosovo"
     ],
-    "description": "Zmaj is a dragon from Kosovo folklore. Kosovar dragon. Treasure guardian. It is known to be guard. It is said to dwell in Caves near villages. Known for heat generation, aquatic speed, supernatural strength. Associated with cave, village.",
-    "appearance": "Typical appearance matches its role as a guard being.",
-    "behavior": "Treasure guardian. Treasure guardian. It is known to be guard.",
+    "description": "Zmaj is the dragon of South Slavic folklore, including Kosovo, a great serpent or winged, fire-breathing beast dwelling in caves near villages. In Serbian and Kosovan tradition the fiery zmaj is often a guardian of crops who fights storm-demons, though dragons also guard treasure; its presence explains storms and drought. The figure parallels the Bulgarian zmey and Romanian zmeu.",
+    "appearance": "Zmaj is a dragon from Kosovo folklore.",
+    "behavior": "Treasure guardian.",
     "habitat": "Caves near villages",
     "habitat_tags": [
       "cave",
@@ -1532,7 +1532,7 @@
     "featured_in_stories": [
       "the-dragon-of-belgrade"
     ],
-    "source": "Kosovan/Serbian folklore — dragon documented in Kosovan oral tradition.",
+    "source": "Serbian/Kosovan folklore — zmaj (South Slavic dragon tradition); https://en.wikipedia.org/wiki/Zmey",
     "source_quality": "fair",
     "stories": [
       "the-dragon-of-belgrade"
@@ -1566,7 +1566,7 @@
       "zmaj-kosovo",
       "zmeu-romania"
     ],
-    "description": "Flying dragon in Romanian folklore - often a villain in ballads who kidnaps maidens. Can be defeated by brave heroes. Multiple heads possible.",
+    "description": "Zmeu is the dragon of Romanian folklore, a fearsome flying serpent, often multi-headed, that abducts maidens and menaces villages from mountain fastnesses and castles. In the folk ballads a hero must defeat the zmeu, sometimes with the aid of his captive's cunning; the dragon may also appear as a handsome youth. It personifies the dangerous forces overcome by heroic virtue.",
     "appearance": "Flying dragon, often with multiple heads, fearsome appearance. Can also appear as handsome young man.",
     "behavior": "Kidnaps maidens, causes trouble. Often defeated by heroic figures in ballads. Can have multiple heads.",
     "habitat": "Mountains, castles, high places",
@@ -1605,7 +1605,7 @@
     "featured_in_stories": [
       "zmeu-the-dragon-of-romanian-folklore"
     ],
-    "source": "Roman mythology, Ovid's Metamorphoses",
+    "source": "https://en.wikipedia.org/wiki/Zmeu",
     "source_quality": "good",
     "stories": [
       "zmeu-the-dragon-of-romanian-folklore"
@@ -1636,7 +1636,7 @@
       "dreq",
       "zmaj-kosovo"
     ],
-    "description": "Flying dragon in Romanian folklore - often a villain in ballads who kidnaps maidens. Can be defeated by brave heroes. Multiple heads possible.",
+    "description": "Zmeu is the dragon of Moldovan and Romanian folklore, a flying serpent, often multi-headed, that carries off maidens and plagues the land from mountains and high places, breathing fire and drowning its foes. Folk ballads tell of heroes who overcome it by courage and trickery. The zmeu represents the perilous forces that the human order must triumph over.",
     "appearance": "Flying dragon, often with multiple heads, fearsome appearance. Can also appear as handsome young man.",
     "behavior": "Kidnaps maidens, causes trouble. Often defeated by heroic figures in ballads. Can have multiple heads.",
     "habitat": "Mountains, castles, high places",
@@ -1675,7 +1675,7 @@
     "featured_in_stories": [
       "zmeu-the-dragon-of-romanian-folklore"
     ],
-    "source": "Roman mythology, Ovid's Metamorphoses",
+    "source": "https://en.wikipedia.org/wiki/Zmeu",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
@@ -1705,7 +1705,7 @@
       "kulfre",
       "raven-spirit-of-hopi"
     ],
-    "description": "Bacul is a powerful forest spirit from Romanian folklore, closely related to the Slavic leshy and other Indo-European woodland guardian traditions. This entity serves as the protector of the Carpathian forests and all the creatures that dwell within them, acting as both a warden of wildlife and a judge of those who enter the wilderness. In Romanian tradition, Bacul is neither inherently good nor evil but reflects the attitude of those who encounter it; those who respect the forest and its inhabitants receive its protection, while those who exploit or damage the woodland face its wrath. The spirit is deeply connected to ancient Dacian and Thracian nature worship that was absorbed into Romanian folk Christianity, and it retains elements of pre-Christian forest deities. Bacul is believed to be particularly active during certain times of the year, especially around the winter solstice and during the \"wolf days\" (zilele lupului) in mid-winter, when the boundary between worlds is at its thinnest.",
+    "description": "Bacul is a powerful forest spirit from Romanian folklore, closely related to the Slavic leshy and other Indo-European woodland guardian traditions. This entity serves as the protector of the Carpathian forests and all the creatures that dwell within them, acting as both a warden of wildlife and a judge of those who enter the wilderness. In Romanian tradition, Bacul is neither inherently good nor evil but reflects the attitude of those who encounter it; those who respect the forest and its inhabitants receive its protection, while those who exploit or damage the woodland face its wrath. The spirit is deeply connected to ancient Dacian and Thracian nature worship that was absorbed into Romanian folk Christianity, and it retains elements of pre-Christian forest deities. Bacul is believed to be particularly active during certain times of the year, especially around the winter solstice and during the \"wolf days\" (zilele lupului) in mid-winter, when the boundary between worlds is at its thinnest",
     "appearance": "Bacul can appear in many forms, but its most common manifestation is as an exceptionally tall man with wild, unkempt hair the color of dead leaves and forest shadows. Its eyes are described as reflecting the green and brown of the woodland, with pupils that dilate like those of a wild animal in darkness. When angry, the spirit may sprout antlers from its forehead or take on distinctly bestial features, sometimes appearing as a half-human, half-stag creature of imposing stature. Bacul is also capable of shapeshifting into various forest animals, most commonly a wolf, a bear, or a massive stag with eyes that glow like embers. When moving through the trees, it may appear as a shifting patch of shadow or a trick of the light, disappearing completely when observed directly. Some accounts describe it as wreathed in phosphorescent green moss that glows faintly in the darkness of the deep forest, marking its passage through the ancient woods of Romania.",
     "behavior": "Bacul spends its existence patrolling the Carpathian forests, ensuring the balance of nature is maintained and punishing those who violate it. The spirit is fiercely protective of trees, particularly ancient oaks and pines, and will curse anyone who cuts them without proper ritual respect. Hunters who kill more than they need for sustenance may find themselves hopelessly lost, their weapons jammed, or their game mysteriously vanishing into the undergrowth. Conversely, those who enter the forest with humility, leaving offerings of bread and salt at crossroads or tree stumps, may find Bacul guiding them to safe paths, abundant mushrooms, or healing herbs. The spirit communicates through the sounds of the forest: the rustling of leaves, the calls of birds, and the creaking of branches all carry meaning for those who understand. Shepherds in the Carpathian highlands traditionally leave a portion of their cheese and milk as tribute to Bacul, ensuring their flocks remain safe from wolves and disease throughout the grazing season.",
     "habitat": "Deep forests, especially Carpathians",
@@ -1783,7 +1783,7 @@
       "mangadhai",
       "lugat"
     ],
-    "description": "Bajlozi is a giant from Albania folklore. Also known as shadow giant. It is said to dwell in High mountain gates, dark valleys. In folklore, it is described as blocks mountain passes and demands riddles or tributes from travelers. Represents the 'big' obstacles of life that require wit rather than brute force.",
+    "description": "Baloz, recorded in the database as 'Bajlozi,' is a monstrous giant or sea-monster of Albanian heroic poetry, an antagonist fought by the Kreshnik heroes, especially Muji and Halili, in the Songs of the Frontier Warriors. Epic heroes overcome him through courage and guile. The input's 'shadow giant fond of riddles' is inaccurate; the figure belongs to the martial oral epics.",
     "appearance": "A massive, imposing figure made of living shadow, with glowing eyes.",
     "behavior": "Blocks mountain passes and demands riddles or tributes from travelers.",
     "habitat": "High mountain gates, dark valleys",
@@ -1824,7 +1824,7 @@
     "seo_description": "The Bajlozi: the towering shadow giant of Albanian folklore.",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Albanian folklore",
+    "source": "Albanian epic poetry — Songs of the Frontier Warriors (Këngë kreshnikësh)",
     "source_quality": "verified",
     "stories": [
       "the-giant-maiden-in-borserd-mountain",
