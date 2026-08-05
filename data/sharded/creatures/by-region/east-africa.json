@@ -164,7 +164,7 @@
       "zimwi-or-zimwi",
       "bisonspiritmalagasy-madagascar"
     ],
-    "description": "A fearsome ogre or man-eating giant from Malagasy folklore, deeply rooted in the oral traditions of Madagascar. These monstrous beings are said to dwell in remote forests, mountain caves, and desolate wilderness areas, where they hunt human prey. Anganos are typically male and possess immense physical strength that makes them nearly impossible to defeat in direct combat. They are closely associated with violent storms and bad weather, which they use to mask their approach or to trap victims. Legends warn that killing an Angano is extremely difficult because these creatures possess the uncanny ability to revive themselves unless their bodies are completely destroyed by fire. Some tales portray them as ancient spirits that have taken physical form, cursed to wander the earth consuming human flesh, while others describe them as a separate race of beings that predate humanity",
+    "description": "Not independently attested in folklore literature. In Malagasy, 'angano' means 'tale' or 'story' and is the word for the folk narratives themselves, not a creature; no source records a man-eating ogre named Angano. Giants and ogres do appear in Malagasy oral tales, but no attested name corresponds to this entry.",
     "appearance": "A gigantic humanoid standing ten to fifteen feet tall with a massively muscular, grotesque body covered in coarse, dark hair or thick, leathery skin. The Angano has an enormous, misshapen head with a huge mouth filled with jagged, discolored teeth and powerful jaws capable of crushing bone. Its eyes are small and deep-set, glowing with a malevolent red or yellow light in the darkness. The limbs are long and disproportionately large, ending in thick fingers tipped with black, claw-like nails. Its movements are clumsy but deceptively fast when hunting. The creature wears crude clothing made from animal hides or woven vegetation, and often carries a large club or uprooted tree as a weapon. The Angano's body emits a foul stench of decay and blood, and its heavy footsteps cause the ground to tremble.",
     "behavior": "The Angano actively hunts human beings, with a particular preference for children who stray too far from their villages. It uses its great strength to tear apart shelters and overturn obstacles while pursuing prey. Despite its brute force, the Angano can be tricked by clever heroes who challenge it to impossible tasks or exploit its low intelligence. It is known to fall for simple deceptions, such as being convinced to fight its own reflection or to attempt tasks beyond its capability. When angered or injured, the creature flies into a destructive rage, uprooting trees and smashing rocks. After killing, it carries its victims back to its lair to devour them. The Angano is territorial and will pursue anyone who enters its domain relentlessly, but can be driven away by fire or loud noises. Its regenerative ability means that only complete incineration can permanently destroy it.",
     "habitat": "Mountains, deep forests, caves",
@@ -204,13 +204,14 @@
     "seo_description": "Malagasy ogre or giant that eats humans. Usually male, very strong. Can be killed but often revives. Associated with storms and violence.",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Malagasy folklore — Angano ogre documented in Malagasy oral tradition.",
-    "source_quality": "fair",
+    "source": "No reliable source found (closest analogue: Malagasy oral tales)",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "angatra-0044",
@@ -233,7 +234,7 @@
       "coyotetricksterlaotian-madagascar",
       "krasue"
     ],
-    "description": "Angatra are vengeful spirits of the forgotten dead from Malagasy folklore, believed to be the restless souls of individuals whose bodies were never properly buried or whose memories were not preserved by the living. These spirits remain trapped between the world of the living and the afterlife, consumed by bitterness and anger at being forgotten. They lurk around burial sites, ancestral tombs, and places where death occurred, waiting to vent their fury upon the living. Unlike benevolent ancestor spirits, Angatra are purely malevolent and dangerous. If they are neglected for too long without offerings or recognition, they transform into even more terrifying entities known as Kinoly, becoming murderous wraiths that roam fields and forests at night. The transformation marks a complete loss of any remaining humanity, turning them into relentless killing machines driven solely by rage and hunger for vengeance",
+    "description": "Angatra are malevolent spirits of the dead in Malagasy belief: restless shades of people whose bodies were never properly buried or whose memory the living failed to preserve. They haunt tombs and places of death, feared as dangerous unlike the benevolent razana (ancestors). In some accounts neglected angatra become kinoly, murderous wraiths that roam at night.",
     "appearance": "Angatra appear as translucent, ghostly humanoid figures that flicker in and out of visibility, their forms wreathed in a cold, pale luminescence. Their faces are frozen in expressions of anguish and fury, with hollow eye sockets that burn with glowing red or orange light. Their bodies show signs of decay or the injuries that caused their death, and their hands end in long, bony fingers with sharp, claw-like nails. When they transform into Kinoly, their appearance becomes far more terrifying: their bodies solidify into a darker, more substantial form with gaunt, skeletal frames, and their fingers elongate into razor-sharp claws capable of disemboweling a victim with a single swipe. The Kinoly form radiates an aura of intense cold, and their approach is preceded by an unnatural silence as all animals and insects flee.",
     "behavior": "Angatra haunt burial sites and ancestral tombs, emerging primarily at night to seek out the living who trespass upon or neglect their resting places. They are drawn to the warmth of life and will pursue any human who enters their territory, using their ghostly nature to pass through solid obstacles and appear unexpectedly. Before attacking, they often emit a chilling wail or whisper the name of the forgotten dead. As Kinoly, their behavior becomes far more aggressive and indiscriminate. They abandon their burial sites to roam fields, forests, and even approach villages, killing anyone they encounter. Their claws are used to disembowel victims, and they are said to drink the blood or consume the organs of those they kill. The transformation to Kinoly is triggered by prolonged neglect; regular offerings and remembrance rituals by the living can prevent this transformation.",
     "habitat": "Burial sites, rice fields",
@@ -274,14 +275,15 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Malagasy folklore — Angatra spirits of the dead documented in Malagasy oral tradition.",
-    "source_quality": "good",
+    "source": "Malagasy oral tradition; literature on the Malagasy ancestor cult",
+    "source_quality": "documented",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/aŋatra/"
+    "pronunciation_ipa": "/aŋatra/",
+    "attested": true
   },
   {
     "id": "adbar-ethiopian-3917",
@@ -2980,7 +2982,7 @@
       "mama-dlo",
       "lakemonstermapuche-chile"
     ],
-    "description": "Kibanda is a water spirit from the folklore of the Bunyoro region of Uganda, deeply respected by local fishing communities who depend on the waters of Lake Bunyoro and its surrounding waterways for their livelihood. This powerful aquatic being is considered the master of the lakes fisheries, controlling the abundance or scarcity of fish based on its assessment of human behavior. Kibanda is known to manifest in multiple forms, most commonly described as either a gigantic python that coils beneath the waters surface or an enormous hippopotamus that rises from the depths. Fishermen approach the waters with great reverence, knowing that their catch depends entirely on the favor of this spirit. The Kibanda tradition reflects the deep connection between East African communities and their aquatic environments, where spiritual beliefs govern sustainable resource use and community ethics",
+    "description": "Not independently attested in folklore literature. No Bunyoro or Ugandan source documents a water spirit called 'Kibanda', and 'Lake Bunyoro' does not exist; the python-and-hippo master-of-the-fishery is generic filler. The genuine water-god of the region is Mugizi, associated with Lake Albert and the Cwezi kubandwa spirit cult.",
     "appearance": "Kibanda manifests in several distinct forms depending on its mood and purpose. In its most commonly reported form, it appears as an enormous python of immense proportions, with glistening black and green scales that seem to absorb light rather than reflect it, making it nearly invisible beneath the water. Its head is as large as a cooking pot, with amber eyes that glow like fire embers in the darkness. Alternatively, Kibanda appears as a colossal hippopotamus with hide like ancient stone, its back breaking the surface of the water with authority. Some accounts describe the spirit as a hybrid creature combining features of both animals, with a serpents body and a hippopotamuss head. When the spirit is active, the waters of the lake become unusually calm or turbulent, and strange ripples form without apparent cause. The Kibanda is said to be able to change its size at will, from invisible to monstrous",
     "behavior": "Kibanda controls the fish populations of Lake Bunyoro, actively rewarding ethical fishermen who practice sustainable harvest with abundant catches while punishing those who overfish, use destructive methods, or show disrespect to the water. Fishermen who make proper offerings and follow traditional protocols before launching their boats are blessed with nets full of fish, while those who act greedily or carelessly may find their nets empty, their boats capsized, or themselves pulled beneath the water by unseen forces. The spirit is known to test fishermen by appearing suddenly, causing their boats to rock violently, and only those who remain calm and show proper respect will be spared. Before each fishing season, community elders perform ceremonies to honor Kibanda and secure its blessing, offering millet beer, bananas, and the first catch of the season as tribute to the spirit of the lake.",
     "habitat": "Lake Bunyoro",
@@ -3022,13 +3024,14 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Ugandan folklore — Kibanda water spirit documented in Ugandan oral tradition.",
-    "source_quality": "fair",
+    "source": "Review finding: unattested; closest analogue is Mugizi of Lake Albert (Bunyoro/Cwezi cult)",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "kinoly-0955",
@@ -3666,7 +3669,7 @@
       "jinn-genie",
       "nandi-bear-chemosit"
     ],
-    "description": "The Goubet Monster is a legendary lake cryptid reported from Goubet al-Kharab, a deep cove in Djibouti on the Horn of Africa. The name Goubet al-Kharab translates from Arabic as the Gulf of the Demons or the Pit of Demons, reflecting the local belief that the area is haunted by supernatural entities. This enclosed basin is separated from the Gulf of Tadjoura by a narrow channel with notoriously violent currents and is surrounded by six-hundred-meter cliffs and the Ardoukoba volcano. The bay reaches depths of nearly two hundred meters, creating conditions conducive to large aquatic creatures. Local fishermen and Afar tribespeople have passed down stories of a massive creature inhabiting these waters for generations, referring to it as sheytan meaning devil. The remote location and treacherous waters have limited scientific exploration of the bay, allowing the legend to persist. The Goubet Monster represents one of several African lake cryptids that have captured the imagination of cryptozoologists, with some drawing parallels to the Loch Ness Monster and other reputed lake monsters worldwide",
+    "description": "Ghoubbet al-Kharab, a cliff-ringed cove on the Gulf of Tadjoura in Djibouti, is locally known as the 'Gulf of Demons'; the enclosed basin, nearly 200 m deep with violent currents, has long been linked in Afar and Somali coastal belief to sheytan and other supernatural beings. Occasional cryptid-monster claims circulate, but no such creature has been documented.",
     "appearance": "Witnesses describe the Goubet Monster as an enormous creature measuring approximately one hundred feet in length, with features somewhere between a shark and a giant eel. The body is elongated and serpentine, colored dark gray or black on top with a lighter underside, allowing it to blend with the dark waters of the deep cove. The head is described as relatively small in proportion to the body, with a mouth containing multiple rows of sharp teeth. The creature moves through the water with a distinctive undulating motion, creating a wake that can be observed from the surrounding cliffs. Some accounts mention a series of humps or ridges along the back that break the water's surface when the creature swims at depth. The eyes are described as large and positioned on the sides of the head, giving it a somewhat reptilian appearance. The skin is reportedly smooth rather than scaled, more like a whale or a dolphin than a fish, and is said to be incredibly tough and resistant to damage. The creature has been sighted from the surrounding cliffs and by fishermen who venture into the bay.",
     "behavior": "The Goubet Monster is described as a reclusive creature that primarily inhabits the deepest parts of the bay, rising to the surface only occasionally to breathe or hunt. It is believed to feed on the abundant fish and marine life that thrive in the nutrient-rich waters of the cove. The creature is generally shy and avoids human contact, but local legends warn that it can become aggressive if its territory is invaded, particularly by small boats. Fishermen traditionally avoid the deepest parts of the bay, especially during certain seasons when the creature is believed to be most active. The monster is most frequently sighted during the calmest weather, when the surface of the bay is smooth enough to reveal any disturbance below. Despite its fearsome reputation, there are no documented attacks on humans, and the creature seems content to remain hidden in the depths. The legend is maintained primarily through oral tradition among the Afar and Issa peoples who have lived along these shores for centuries. The Goubet Monster has attracted occasional cryptozoological interest but remains largely unstudied due to political instability and the remote location of the site.",
     "habitat": "Goubet Bay",
@@ -3707,13 +3710,14 @@
     "seo_description": "Explore the Goubet Monster of Djibouti, a legendary giant serpentine cryptid said to inhabit the deep volcanic bay of Goubet al-Kharab in the Horn of Africa",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Djiboutian cryptozoology — lake monster from Goubet al-Kharab documented in Djiboutian oral tradition.",
+    "source": "Djiboutian place-lore: Ghoubbet al-Kharab and its 'Gulf of Demons' reputation (Afar/Somali coastal belief); Cousteau expeditions",
     "source_quality": "fair",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "gikuyu-kikuyu-3921",
@@ -3955,7 +3959,7 @@
       "coyoteguardianburmese-kenya",
       "bisonspiritmalagasy-kenya"
     ],
-    "description": "In Kikuyu (Gikuyu) tradition from Kenya in East Africa, the fox appears in oral literature as a clever and adaptable animal spirit associated with wisdom and survival. The Kikuyu people have a rich storytelling tradition featuring animal characters that embody human virtues and vices, teaching moral lessons around the fireside. The fox appears as a creature of intelligence and resourcefulness, finding creative solutions through wit rather than physical strength. In Kikuyu cosmology as established by Ngai the Supreme God, each animal carries specific meanings and teachings for humanity. The fox's ability to thrive in diverse environments from savanna to forest edges demonstrates versatility and adaptability as core virtues. Fox behavior is observed for practical knowledge about the landscape, and encounters with foxes are interpreted as signs or omens conveying messages from the spirit world about health, weather, and fortune",
+    "description": "Not independently attested in folklore literature. No fox spirit or omen belief is recorded in Kikuyu oral collections, and the claimed meaning for the fox in Ngai's cosmos is invented. Kikuyu animal tales center on other creatures; no developed fox figure is documented.",
     "appearance": "The Kikuyu fox animal-spirit manifests as a bat-eared fox native to the East African savanna, with characteristically large ears giving exceptional hearing and a distinctive silhouette against golden grasslands. Its coat is grizzled grey-brown providing excellent camouflage among dry grasses and acacia scrub of the Kikuyu highlands. The fox's eyes are large and dark, adapted for primarily nocturnal and crepuscular habits. In human form it appears as a slender figure with high cheekbones, alert eyes, and movements suggesting constant environmental awareness. Traditional Kikuyu attire of tanned hides and beadwork adorns the human form with fox fur accent pieces. The spirit's presence is announced by sudden alertness of other animals: birds fall silent, small mammals freeze, and domestic animals prick up their ears. The fox carries the scent of dry grass and warm earth, leaving tracks that seem deliberately obscured.",
     "behavior": "The Kikuyu fox animal-spirit protects its domain and teaches respect for nature through stories and traditional wisdom. As a creature of the boundary between savanna and forest, it understands both environments and guides those navigating between different worlds. The fox appears to farmers and hunters, offering subtle signs about weather patterns, game movement, and the land's health. In Kikuyu oral tradition, the fox represents the value of careful listening and observation before acting, its large ears symbolizing the importance of hearing all sides before deciding. The fox tests humans by presenting situations requiring patience and careful thought rather than impulse. Those rushing into decisions find themselves outwitted by the fox's cleverness. The spirit maintains balance in its domain, controlling insect and rodent populations through hunting and reminding humans that every creature has its place in Ngai's creation.",
     "habitat": "Remote skys",
@@ -3997,13 +4001,14 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Regional folk beliefs and indigenous cosmology of East Africa, documented in ethnographic surveys of Kenya, Uganda, Tanzania, Ethiopia, and Madagascar.",
-    "source_quality": "good",
+    "source": "No source; fabricated",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "foxnaturespirittupi-madagascar-0732",
@@ -5341,7 +5346,7 @@
       "buda-eritrea",
       "agogwe"
     ],
-    "description": "The Zonbi (or Zombi) is a malevolent spirit or reanimated corpse from Seychellois Creole folklore, related to similar figures found across the Indian Ocean and Caribbean islands. Unlike the Hollywood depiction of zombies as mindless undead, the Seychellois Zonbi is more closely associated with dark magic and witchcraft—a spirit or corpse animated by sorcery to serve a malevolent purpose. Seychellois Zonbi stories are typically less common than those of Soungoula or Tizan but speak to deep anxieties about death, the afterlife, and the misuse of spiritual power. In traditional belief, Zonbi are associated with abandoned historical sites, particularly those linked to the colonial era and the slave trade. The lingering trauma of slavery infuses Zonbi legends—the idea that those who died in bondage might return as restless spirits, or that dark magic practiced on plantations could reanimate the dead. Visiting abandoned colonial-era sites at night is said to increase the risk of encountering a Zonbi. These tales remind Seychellois of the lingering impact of their colonial past and the thin boundary between the living and the dead",
+    "description": "The Zonbi is a malevolent spirit or reanimated corpse in Seychellois Creole folklore, linked to dark magic rather than Hollywood-style zombies. A corpse may be animated by sorcery to serve an evil purpose, and Zonbi are associated with abandoned historical sites. Belief in them reflects anxieties about death, the afterlife and the misuse of spiritual power.",
     "appearance": "Described as a pale or decaying humanoid form, often wearing tattered clothing from the colonial era. Sometimes invisible, sensed only as a cold presence or an unexplained stench.",
     "behavior": "Malevolent and threatening. May be controlled by a sorcerer or act independently. Haunts specific locations, particularly abandoned colonial sites. Active at night.",
     "habitat": "Abandoned plantations, old cemeteries, historical ruins, and other places associated with colonial-era death and suffering.",
@@ -5391,8 +5396,8 @@
       "Dark magic"
     ],
     "featured_in_stories": [],
-    "source": "Island Hopper Guides - Seychelles Folklore; The Creole Melting Pot; Seychelles Research Journal",
-    "source_quality": "good",
+    "source": "Seychellois Creole folk tradition; guide and travel accounts",
+    "source_quality": "documented",
     "stories": [
       "the-zombie-creation-myth-of-haitian-vodou"
     ],
@@ -5400,10 +5405,11 @@
       "Lolo"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/zombi/"
+    "pronunciation_ipa": "/zombi/",
+    "attested": true
   },
   {
     "id": "jinn-genie-0908",
@@ -7227,7 +7233,7 @@
       "hawk-water-spirit-of-kikuyu",
       "coyote-deity-of-kikuyu"
     ],
-    "description": "In Kikuyu (Gikuyu) traditions of Kenya, the cougar as a distinct concept does not exist since cougars are not native to Africa, but the cougar giant represents the powerful feline spirits that guard the lakes and water bodies of the Kikuyu highlands, particularly the sacred waters of the Mount Kenya region. In Kikuyu cosmology, Ngai (Mwene Nyaga), the supreme god, dwells atop Mount Kenya (Kirinyaga), and the mountains lakes and tarns are considered sacred spaces where the divine touches the earth. The marozi or spotted lion of the Aberdare Mountains, a cryptid reported in Kikuyu oral tradition, shares characteristics with the cougar giant concept. Kikuyu folklore tells of giant spirit cats that guard the glacial lakes on Mount Kenya, creatures that are neither lion nor leopard but something else entirely, beings that have watched over the waters since the time of Gikuyu and Mumbi, the first parents of the Kikuyu people",
+    "description": "Not independently attested in folklore literature. Cougars are not native to Africa, and no Kikuyu tradition describes giant spirit-cats guarding the lakes of Mount Kenya. Kikuyu cosmology centers on Ngai, the supreme god of Kirinyaga; the marozi, a spotted-lion cryptid of the Aberdares, is a separate and unverified notion.",
     "appearance": "The Kikuyu lake guardian appears as a massive feline creature significantly larger than any natural big cat, with a coat of dark gray marked by faint spots that resemble the shadows cast by clouds on Mount Kenya's slopes. Its fur is thick and shaggy, adapted to the cold high-altitude environment of the mountain lakes it protects. The creatures eyes are a piercing pale blue, the color of the glacial ice that feeds the sacred lakes, and they seem to reflect the surrounding landscape like still water. A mane of longer hair around its neck and shoulders frames a broad face with prominent whiskers that shimmer with frost even in summer. Its paws are enormous, leaving tracks in the volcanic ash that resemble those of a normal cat but three times the size. When it moves, mist rises from its fur, and its breath forms clouds visible from a distance. In the thin mountain air, its form sometimes appears to flicker and blur, making it difficult to distinguish from the mist and cloud.",
     "behavior": "The Kikuyu lake guardian patrols the shores of the sacred tarns and lakes on the slopes of Mount Kenya, particularly Lake Michaelson and the Curry Lakes. It prevents unauthorized access to the holiest sites where Ngai is believed to have touched the earth, driving away those who approach without proper ritual purification. The spirit feline responds to the prayers of Kikuyu elders and medicine people who come to the sacred waters to perform ceremonies for rain, healing, or divination. During times of drought, the guardian allows selected elders to approach the lakes to perform rituals that call Ngai to send rain to the parched highlands. The cougar giant communicates through low rumbling sounds that resonate with the mountains geology, and its roars can be heard echoing across the peaks during storms. Kikuyu tradition warns that those who attempt to hunt or harm this spirit being will be cursed with misfortune and that their families will suffer the consequences for generations.",
     "habitat": "Remote lakes",
@@ -7267,13 +7273,14 @@
     "seo_description": "The Cougar Giant of Kikuyu tradition is a spirit guardian of Mount Kenya's sacred lakes that protects the highland waters from desecration.",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Regional survey of East African indigenous traditions — Kikuyu, Luo, Ganda, Chaga, Malagasy, Maasai, Somali, Ethiopian, and related peoples as documented in regional ethnographic surveys and oral literature collections.",
-    "source_quality": "fair",
+    "source": "Kikuyu oral tradition",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "cougarnaturespiritkikuyu-kenya-0360",
@@ -10144,7 +10151,7 @@
       "bouda",
       "mauritius-lougarou"
     ],
-    "description": "Buda (Ge'ez: ቡዳ) is a powerful and feared figure in Eritrean and Ethiopian folk religion, representing the supernatural power of the evil eye combined with the ability to shapeshift into a hyena. The belief is deeply rooted in the highland cultures of Eritrea, particularly among Tigrinya-speaking communities. Buda is believed to be a power held and wielded by specific individuals, often associated with marginalized social groups such as metalworkers (täbbäb), potters, tanners, and weavers. The power is thought to be hereditary, transmitted through family lines, and can be either conscious or unconscious. Those with Buda can harm others through their gaze, causing illness, misfortune, or even death. By night, they are believed to transform into hyenas to attack livestock, desecrate graves, or harm enemies. Protective measures including amulets (kitab), holy water, and invocations of God's name are used to ward against Buda's effects In Eritrea folklore, this figure is known among the Eritrea people.",
+    "description": "Buda (Ge'ez: ቡዳ) is the Eritrean-Ethiopian belief in the evil eye wielded by hereditary social groups, often metalworkers, potters, and tanners, who harm others through their gaze and are said to shapeshift into hyenas at night. Protective amulets (kitab), holy water, and invocations of God's name ward off its effects.",
     "appearance": "In human form, Buda practitioners may exhibit certain physical markers believed to indicate their power: unusual eye shape or color, pale skin, slender builds, or discoloration around the mouth. In animal form, they appear as ordinary hyenas but are said to be distinguishable by their behavior—more brazen, with reversed footprints or a single glowing eye at night.",
     "behavior": "Buda operates through envy and malice, causing harm to those its bearer envies. The evil eye can cause nausea, weakness, illness, and even death. As a hyena, the Buda prowls at night, attacking livestock, exhuming and consuming corpses, and assaulting sleeping humans. The power is often described as an unconscious force—some Buda practitioners may not even know they possess the ability.",
     "habitat": "Buda exists within human communities throughout the Eritrean highlands. As hyenas, they roam the countryside, graveyards, and areas surrounding villages at night.",
@@ -10188,14 +10195,15 @@
     "seo_description": "Buda is a shapeshifter with the evil eye in Eritrean folk religion, capable of transforming into a hyena and causing harm through envy.",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "https://en.wikipedia.org/wiki/Buda_(folklore) / https://everything.explained.today/Buda_(folklore)/",
+    "source": "Eritrean/Ethiopian (Tigrinya) oral tradition",
     "source_quality": "good",
     "fun_fact_generated": false,
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "slug": "burundi-tanganyika-serpent",

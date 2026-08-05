@@ -4402,7 +4402,7 @@
       "eagle-deity-khmer",
       "phi-kam"
     ],
-    "description": "Krahom is a vengeful ghost from Cambodian folklore, the restless spirit of a person who died a violent or unjust death, bound to the earthly realm by the intensity of their final emotions. The name krahom reflects the deep connection between violent death and spiritual unrest in Khmer tradition, where improper death creates lingering spirits that cannot find peace. These ghosts are particularly feared in rural Cambodia, where they are blamed for a wide range of misfortunes from illness and crop failure to accidents and unexplained deaths. The Krahom is not inherently malicious but becomes dangerous because its suffering and anger twist its nature. The belief in such spirits reflects the importance of proper funeral rites and the resolution of grievances in Khmer Buddhist culture, where the living have a responsibility to help the dead move on to their next existence through merit-making ceremonies and compassionate action",
+    "description": "Not independently attested in folklore literature. No Cambodian tradition documents a vengeful ghost called 'Krahom'; the Khmer word krahom simply means 'red', and the invented etymology and vengeful-ghost details are filler. Khmer spirit belief does include neak ta (tutelary guardians) and various ghosts, but no attested figure corresponds to this entry.",
     "appearance": "The Krahom appears as a pale, ghostly figure in the form it had at the moment of death, with all wounds and injuries visible on its spectral body. It wears tattered remnants of the clothing it died in, often stained with blood, dirt, or water depending on the manner of death. The face is frozen in an expression of anger, sorrow, or shock, with eyes that may be completely white or bleeding, and a mouth that may be fixed open in a silent scream. Its skin has the gray-white pallor of death, and the air around it grows noticeably cold. Those who encounter a Krahom report feeling an overwhelming sense of dread and suffocating pressure, as though the weight of the spirits tragic death presses down on them. The ghost may appear solid or translucent, and it moves with an unnatural gait, sometimes dragging a wounded limb or floating above the ground. The Krahom may also manifest as sounds such as crying, whispering, or footsteps in empty rooms",
     "behavior": "The Krahom haunts the location of its death or places associated with its former life, appearing primarily at night to terrify those who encounter it. Its behavior is driven by the desire for justice, revenge, or proper funeral rites. The ghost may cause physical harm to those it blames for its death, create disturbances that frighten residents away, or inflict illness on those who occupy its haunting site. However, some Krahom seek only to communicate their need for proper rituals, appearing to family members in dreams or creating signs that something is wrong. In Cambodian tradition, the proper response to a haunting is to consult Buddhist monks, who can perform protective ceremonies, chant sutras to calm the spirit, and conduct merit-transfer rituals that help the ghost move on to a better rebirth. Offerings of food, incense, and paper money are made at the haunting site, and if the ghost is seeking revenge, the community may work to resolve the underlying injustice. The Krahom is bound until its grievances are addressed.",
     "habitat": "Scene of death, family home, angry places",
@@ -4445,17 +4445,18 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Cambodia mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source": "Review finding: unattested; krahom means 'red'; Khmer spirit tradition centers on neak ta",
+    "source_quality": "poor",
     "stories": [
       "vorvong-and-sorvong-the-two-princes-of-khmer-legend",
       "neang-kakey-the-unfaithful-wife-of-khmer-literature",
       "the-legend-of-the-bayons-many-faces"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "krasue-0982",
@@ -6493,7 +6494,7 @@
       "r-ng-vietnamese-dragon",
       "r-ng-h"
     ],
-    "description": "Seri Gumum is a legendary dragon (naga) said to dwell in the depths of Tasik Chini (Chini Lake) in Pahang, Malaysia — Malaysia's equivalent of the Loch Ness Monster. According to Orang Asli legend, the dragon was once a beautiful princess transformed into a serpentine guardian of the lake's mystical waters. The lake itself is a pristine body of water surrounded by ancient rainforest, and local folklore maintains that Seri Gumum is a protector rather than a menace. Fishermen speak of seeing a massive serpentine creature with golden scales breaching the surface, especially during storms and full moons. The dragon is considered the guardian of the lake's ecosystem — harming the lake's environment is believed to invoke its wrath. Local stories tell of the dragon surfacing during times of great change or crisis, serving as an omen of transformation",
+    "description": "Seri Gumum is a legendary dragon (naga) said to dwell in Tasik Chini in Pahang, Malaysia. According to Orang Asli tradition, a beautiful princess was transformed into a serpentine guardian of the lake's mystical waters. Local folklore holds that Seri Gumum protects the lake, and that harming its environment invokes the dragon's wrath.",
     "appearance": "Massive serpentine dragon with shimmering golden scales that glitter like coins under the water. It has a long, sinuous body that can coil around the entire lake, a dragon's head with horns or a mane, and glowing eyes that can be seen from the surface at night.",
     "behavior": "Territorial but not malevolent; acts as guardian and protector of the lake's ecosystem. Generally avoids humans but surfaces during storms, full moons, and times of crisis. Protects the lake from pollution and overfishing.",
     "habitat": "Tasik Chini (Chini Lake), Pahang, Malaysia",
@@ -6536,8 +6537,8 @@
     "seo_description": "Legendary golden dragon guardian of Tasik Chini in Pahang, the 'Malaysian Loch Ness Monster'",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "https://en.wikipedia.org/wiki/Seri_Gumum_Dragon",
-    "source_quality": "good",
+    "source": "Orang Asli tradition of Tasik Chini, Pahang",
+    "source_quality": "researched",
     "stories": [
       "sang-kancil-and-the-crocodile",
       "the-legend-of-puteri-gunung-ledang",
@@ -6546,10 +6547,11 @@
       "badang-the-strongman"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
     "source_type": "literary",
-    "pronunciation_ipa": "/seɾi ɡumum/"
+    "pronunciation_ipa": "/seɾi ɡumum/",
+    "attested": true
   },
   {
     "id": "son-tinh-vietnamese-3230",
@@ -10047,7 +10049,7 @@
       "preah-keo-cambodian",
       "neang-neak-cambodian"
     ],
-    "description": "Preah Ko (Khmer: ព្រះគោ, 'Sacred Ox') is a legendary sacred ox from one of Cambodia's most beloved folktales. The story follows two orphaned brothers — the elder Preah Ko (born under a sacred ox) and the younger Preah Keo (born under a shining gem). Preah Ko grew to be strong and virtuous, while Preah Keo possessed magical powers. Their adventures tested their complementary strengths — Preah Ko's physical fortitude and Preah Keo's magical insight. The sacred ox represents Preah Ko's humble origins and his connection to agriculture and labor. The temple of Preah Ko at Roluos (built by King Indravarman I in the 9th century) is named after this legend, with its three towers dedicated to the king's ancestors. The ox is also linked to the Hindu Nandi (Shiva's mount) through Khmer adaptation, giving it a dual significance in both folk religion and the Hindu-Buddhist temple tradition",
+    "description": "Preah Ko ('Sacred Ox') is the sacred ox of Khmer legend, brother of Preah Keo. According to the tale the ox's belly held precious objects and divine power that safeguarded the kingdom, making the brothers bringers of peace and prosperity to Cambodia. The sacred-ox figure is associated with the Hindu bull Nandi, and the legend is tied to the Emerald Buddha and royal tradition.",
     "appearance": "A magnificent white or golden ox with a hump, adorned with sacred markings. In temple art, depicted in stone as a guardian figure. In the legend, Preah Ko himself is a handsome, strong young man with the strength and virtue symbolized by the ox.",
     "behavior": "Strong, virtuous, patient, and hardworking. Represents agricultural productivity and earthly wisdom. Complements the magical insight of his younger brother. Embodies the virtues of labor, loyalty, and family devotion.",
     "habitat": "Cambodian countryside, temple compounds, Roluos temple group",
@@ -10092,15 +10094,16 @@
     "seo_description": "Legendary sacred ox from the Cambodian folktale of Preah Ko and Preah Keo",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Cambodian Khmer folklore — Preah Ko sacred bull/cow.",
-    "source_quality": "good",
+    "source": "Khmer legend of Preah Ko and Preah Keo; Cambodian royal tradition",
+    "source_quality": "researched",
     "stories": [
       "preah-ko-preah-keo-the-sacred-ox-and-sacred-gem"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "preah-keo-cambodian-3245",
@@ -10127,7 +10130,7 @@
       "bayon-face-spirit-cambodian",
       "trung-sisters-vietnamese"
     ],
-    "description": "Preah Keo (Khmer: ព្រះកែវ, 'Sacred Gem') is the younger brother in the famous Khmer folktale of Preah Ko and Preah Keo. Born under a shining gem that foretold his magical destiny, Preah Keo possessed supernatural powers and wisdom beyond his years. Together with his elder brother Preah Ko (born under a sacred ox), he embarked on adventures encountering giants, rescuing princesses, and overcoming enchantments. While Preah Ko represented physical strength and virtue, Preah Keo contributed magical insight, spiritual wisdom, and strategic thinking. The legend teaches that the balance of earthly strength and spiritual wisdom creates complete virtue. The 'gem' of his name symbolizes the inner light of knowledge and enlightenment. The story remains central to Cambodian shadow puppet theater (sbek thom) and classical dance traditions, performed at festivals and ceremonies throughout the country",
+    "description": "Preah Keo ('Sacred Gem') is one of the two sacred brothers of a famous Khmer legend. His brother Preah Ko took the form of a sacred ox whose belly held precious objects and divine power, while Preah Keo is associated with the sacred gem and the royal line that brings peace and prosperity to Cambodia. The legend is linked to the Emerald Buddha and Khmer royal tradition.",
     "appearance": "A young man radiating an inner light like a precious gem. Handsome, slender, and graceful, often depicted with magical artifacts — a mystical staff, a gemstone glowing on his forehead or chest. Associated with celestial light and prophetic visions.",
     "behavior": "Wise, spiritually attuned, and magically gifted. Uses supernatural insight to solve problems that strength alone cannot overcome. Complements his brother's physical prowess. Guides their adventures through divination and magical knowledge.",
     "habitat": "Cambodia, traveling between kingdoms in the legendary landscape",
@@ -10173,13 +10176,14 @@
     "seo_description": "Magical younger brother from the Cambodian folktale of Preah Ko and Preah Keo",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Cambodian Khmer folklore — Preah Keo sacred figure.",
-    "source_quality": "good",
+    "source": "Khmer legend of Preah Ko and Preah Keo; Cambodian royal chronicle tradition",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "phaya-thaen-lao-3248",
@@ -10847,7 +10851,7 @@
       "crocodile-prince-east-timorese",
       "mae-yanang-thai"
     ],
-    "description": "Naga Berani (The Brave Dragon) is a legendary sea dragon said to inhabit the waters of Brunei Bay, a large, sheltered bay on the northern coast of Borneo. According to Bruneian folklore, this massive naga was once a celestial guardian that descended to protect the waters of Brunei. Its serpentine body is said to be so long that it can coil around the entire bay, and its scales shimmer with the colors of the sunset reflecting off the water. The dragon controls the tides, protects fishermen from storms, and guides ships safely to harbor. In some tales, it is the guardian of a sunken kingdom beneath Brunei Bay — a once-great city that was swallowed by the sea as punishment for its inhabitants' arrogance. The dragon surfaces only during times of great significance for the nation, appearing as a line of shimmering waves or a mysterious wake in the bay's waters",
+    "description": "Not independently attested in folklore literature. No Brunei legend names a 'Naga Berani' guarding Brunei Bay, and the celestial-guardian and sunken-kingdom details are unattested. Naga serpent-dragon motifs are real across Malay folklore and appear in Brunei's epic of Awang Semaun, but not as this specific bay dragon.",
     "appearance": "Massive serpentine naga dragon with iridescent scales that shimmer with colors of the sunset — gold, crimson, and deep blue. It has a crowned head with horns like a deer, whiskers like a Chinese dragon, and a powerful, sinuous body.",
     "behavior": "Protective guardian of Brunei Bay and its marine life. Controls tides and weather patterns, protects fishermen from storms, and ensures safe passage for ships. Generally benevolent but fiercely territorial against those who harm the bay's ecosystem.",
     "habitat": "Brunei Bay, the coastal waters of Brunei Darussalam",
@@ -10890,8 +10894,8 @@
     "seo_description": "Legendary sea dragon guardian of Brunei Bay who controls tides and protects fishermen",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Bruneian coastal Malay folklore — the dragon of Brunei Bay.",
-    "source_quality": "good",
+    "source": "Bruneian coastal Malay folklore",
+    "source_quality": "poor",
     "stories": [
       "jong-batu-the-legend-of-the-stone-ship",
       "si-bungsu-and-the-seven-brothers",
@@ -10899,9 +10903,10 @@
       "bukit-shahbandar-the-warning-hill"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "dab-pog-hmong-3254",
@@ -12199,7 +12204,7 @@
       "fox-animal-spirit-of-kikuyu",
       "hawk-ancestor-spirit-kikuyu"
     ],
-    "description": "Among the coastal Swahili communities of Kenya and the inland peoples who have traded across the Indian Ocean for centuries, the coyote guardian has evolved from its Burmese origins into a distinctly East African spirit that protects the ancient trade routes connecting the coast to the interior. This spirit reflects the historical connections between Southeast Asia and East Africa through the monsoon trade winds that carried not only spices and textiles but also stories and spiritual beliefs across the Indian Ocean. In Swahili folklore, the coyote guardian is known as the Mlinzi wa Barabara, or Guardian of the Path, and it is invoked by caravan leaders before they set out on journeys into the interior. It is particularly associated with the crossroads where multiple trade routes intersect, places that Swahili tradition considers spiritually potent and deserving of respect and offerings",
+    "description": "Not independently attested in folklore literature. Coyotes are not native to Myanmar, and no Burmese coyote guardian exists; the given description is a Swahili coastal invention ('Mlinzi wa Barabara'). Genuine Burmese guardian spirits are the nats, not coyote beings.",
     "appearance": "The East African coyote guardian appears as a creature whose fur carries the rich patterns of the kanga cloth worn by Swahili women, its coat decorated with intricate designs and proverbs written in the flowing Arabic script used for Swahili. Its eyes are the deep blue of the Indian Ocean, and its ears are tipped with the white of the coral reefs that line the Kenyan coast. Around its neck hangs a pouch containing a mixture of Arabian frankincense, African myrrh, and Asian spices, representing the three continents that have shaped the Swahili coast's culture. In human form, it appears as a weathered caravan leader dressed in the white kanzu robe of the Swahili people, wearing a kofia cap embroidered with geometric patterns, and carrying a curved sword that represents both protection and the authority of the ancestors who have traveled these paths for countless generations before the present age.",
     "behavior": "The coyote guardian appears to travelers on the ancient caravan routes that connect the Swahili coast to the Great Lakes region, particularly at the points where paths cross or where natural obstacles like rivers and escarpments present challenges. It tests travelers by appearing as a beggar or a lost child, assessing their compassion before revealing itself as a guide or an obstacle. For those who show kindness to strangers, the guardian provides safe passage and reveals hidden water sources; for those who are cruel or greedy, it creates illusions that lead them astray into the bush. The coyote guardian embodies the Swahili concept of utu, the shared humanity that connects all people, teaching that the safety of any traveler depends on the kindness of strangers and that the spirits of the road reward those who treat all fellow travelers with dignity and respect, regardless of their origin or destination on the vast network of paths that connect the peoples of East Africa.",
     "habitat": "Remote valleys and wilderness areas",
@@ -12240,16 +12245,17 @@
     "seo_description": "A guardian spirit from Swahili folklore that protects the ancient Indian Ocean trade routes, testing travelers by their compassion and generosity.",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Burmese folklore — guardian spirit from Myanmar oral tradition.",
-    "source_quality": "fair",
+    "source": "Burmese oral tradition (nat lore)",
+    "source_quality": "poor",
     "stories": [
       "the-legend-of-the-shwedagon-pagoda",
       "the-four-white-umbrellas-the-burmese-creation-of-kingship"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "coyotetricksterlaotian-laos-0418",
@@ -15357,7 +15363,7 @@
       "mae-yanang-thai",
       "fish-wife-lake-toba-indonesian"
     ],
-    "description": "Penyimbang Laut (Sea Balancer) is a powerful water spirit in Bruneian folklore that governs the rivers, estuaries, and coastal waters of Brunei Darussalam. This ancient spirit is believed to have existed since before the founding of the Brunei Sultanate, dwelling in the deep pools of the Brunei River and along the coast. The spirit is both a guardian of waterways and a judge of human conduct — rewarding those who properly respect the waters with abundant catches and safe passage, while punishing those who pollute, overfish, or show disrespect with storms, boat accidents, and poor fishing. Traditional Bruneian fishermen make offerings of yellow rice, betel nut, and traditional cakes before embarking on voyages. Penyimbang Laut is said to be particularly active during the monsoon transitions, when the boundary between the human world and the spirit world is thinnest",
+    "description": "Not independently attested in Bruneian folklore. No scholarly or primary source documents a water spirit called 'Penyimbang Laut'; the figure appears only in a blog source. Brunei's documented river legend is Jong Batu, the tale of a son turned to stone.",
     "appearance": "Shimmering, semi-translucent figure that appears as a beautiful woman or an old man (depending on tradition) rising from the water. Often surrounded by bioluminescent light and accompanied by schools of fish. Sometimes visible only as a disturbance in the water.",
     "behavior": "Mercurial and powerful; controls the health and bounty of Brunei's waters. Generous and protective to those who show proper respect and environmental stewardship. Vengeful and dangerous to those who harm aquatic life or pollute the rivers.",
     "habitat": "Brunei River, its estuaries, and the coastal waters of Brunei Darussalam",
@@ -15404,8 +15410,8 @@
     "seo_description": "Ancient water spirit of Brunei Darussalam that governs rivers and coastal waters",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "https://www.progresif.com/blog/brunei-folklore",
-    "source_quality": "good",
+    "source": "No independent source found; negative research result",
+    "source_quality": "poor",
     "stories": [
       "urashima-taro-the-fisherman-and-the-sea-kingdom",
       "the-nckens-violin",
@@ -15415,9 +15421,10 @@
       "bukit-shahbandar-the-warning-hill"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "babi-ngepet-0071",
@@ -15587,7 +15594,7 @@
       "krahom",
       "phi-khao-nang"
     ],
-    "description": "Bama Dat is a type of ghost or restless spirit from Burmese folklore, part of the rich tradition of nat spirits and ghost beliefs that permeate the spiritual life of Myanmar. The term Bama Dat refers specifically to the spirit of a person who died unjustly, violently, or without proper funeral rites, leaving their soul trapped between the world of the living and the afterlife. In Burmese Buddhist cosmology, a proper death with appropriate ceremonies is essential for the soul's successful journey to its next existence. Those who die under unjust circumstances, such as murder victims, executed criminals, or those whose deaths were not properly mourned, may become Bama Dat, lingering in the human world to haunt the living until justice is served or proper rites are performed. This belief reflects the deep importance of karma and justice in Burmese Buddhist thought, where unresolved wrongs must be addressed before spiritual peace can be achieved. The Bama Dat is different from the official nat spirits recognized in the Burmese pantheon of thirty-seven nats, being instead a more personal and localized spirit, typically associated with specific locations where the death occurred",
+    "description": "Not independently attested in folklore literature. No Burmese source records a ghost named 'Bama Dat'; Burmese terms for the dead are thaye (ghosts/corpses) and the nat cult. Burmese belief does include restless dead, but the name appears fabricated, likely a garbling of nat-related categories.",
     "appearance": "The Bama Dat appears as a pale, ghostly figure dressed in white, the traditional color of mourning in Burmese Buddhist culture. Its form is distinctly human but with an ethereal, translucent quality that marks it as a spirit rather than a living person. The ghost's features may be difficult to distinguish clearly, often described as blurred or shifting, as if viewed through water or mist. The eyes of the Bama Dat are particularly striking, described as dark, hollow, or sometimes glowing faintly in the darkness, expressing the sorrow and anger of an unjust death. The spirit is typically barefoot and dressed in simple white garments, representing the traditional burial clothing of Myanmar. Some accounts describe the Bama Dat as having its shadow separate from its body, a sign that it is no longer fully part of the physical world. The ghost may appear with wounds or marks related to the manner of its death, serving as a visual reminder of the injustice that binds it to the human realm. The Bama Dat is most often seen at night, particularly at the location of its death or near its unmarked grave, where it may appear as a vague white shape moving silently through the darkness, sometimes accompanied by a cold draft or the sound of soft weeping.",
     "behavior": "The Bama Dat's primary motivation is the resolution of the injustice that binds it to the human world. This ghost actively seeks to draw attention to its plight, appearing to family members, witnesses, or authority figures in an effort to bring about justice. In Burmese folk tradition, a Bama Dat may cause illness, nightmares, or misfortune to those who were involved in or witnessed the injustice, hoping to compel them to take action. It may also haunt the location of its death, creating disturbances such as unexplained sounds, moving objects, or cold spots that signal its presence. The proper response to a Bama Dat is to identify the injustice, ensure that proper funeral ceremonies are performed, and if possible, see that justice is done regarding the wrongful death. A monk or spiritual specialist may be called upon to perform rituals to help the spirit move on, including offerings of food, prayers, and the transfer of merit through Buddhist ceremonies. If handled properly, the Bama Dat will cease to haunt the living and continue its journey through the cycle of rebirth. However, if ignored or disrespected, the Bama Dat may become increasingly aggressive, causing serious illness or even death to those it blames for its condition. The belief in Bama Dat serves as a powerful force for justice in Burmese communities, ensuring that deaths are properly investigated and that the dead are treated with the dignity and respect that Burmese Buddhist tradition demands for all souls.",
     "habitat": "Place of death, family home",
@@ -15630,16 +15637,17 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Myanmar mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source": "No reliable source found (closest analogue: Burmese nat tradition)",
+    "source_quality": "poor",
     "stories": [
       "the-legend-of-the-shwedagon-pagoda",
       "the-four-white-umbrellas-the-burmese-creation-of-kingship"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "bata-0131",
@@ -15662,7 +15670,7 @@
       "kumakotok",
       "siring"
     ],
-    "description": "In the animist spiritual traditions of the Udmurt people, a Finno-Ugric ethnic group indigenous to the Volga region of western Russia, the bat animal-spirit is a guardian being associated with the transition between day and night, the visible and invisible worlds. The Udmurt traditional religion, known as Udmurt Vos, is a complex system of animist beliefs centered around nature worship, ancestor veneration, and the veneration of countless spirits inhabiting the natural world. Within this cosmology, bats occupy a special place as creatures that belong neither fully to the day world of humans nor to the night world of spirits, making them powerful intermediaries between the mundane and supernatural realms. Unlike the negative associations bats carry in many European traditions, Udmurt culture often views these creatures as protectors that bring good fortune and spiritual insight to those who respect their domain",
+    "description": "Not independently attested in folklore literature. In Philippine languages bata means 'child,' and bata-bata was a term for small carved ancestor images (taotao/anito) in pre-colonial religion; the bat-spirit narrative belongs to Udmurt tradition, not the Philippines. The closest genuine analogues are the anito and diwata guardian spirits of indigenous Philippine belief.",
     "appearance": "The bat animal-spirit manifests as a spectral bat significantly larger than any natural species found in the Udmurt forests of the Volga region, with a wingspan described as spanning the width of a human's outstretched arms. Its body is covered in fine dark fur that seems to absorb light rather than reflect it, giving the spirit a shadowy quality even when seen clearly. The wings are membranous and translucent, veined with intricate patterns that resemble the sacred geometric designs found in traditional Udmurt embroidery and woodcarving. Its eyes are the most striking feature: large, luminous, and distinctly human-like in their intelligence and expressiveness, glowing with a soft amber or silver light in the darkness of twilight when the spirit is most active. In its most evolved form, the bat spirit can reveal a human-like face within its shadowy form when it chooses to communicate wisdom or guidance to those it favors.",
     "behavior": "The bat animal-spirit serves as a guardian of the threshold between worlds, appearing at dusk and dawn when the boundary between the human realm and the spirit realm is at its thinnest. It watches over the Udmurt people who maintain proper respect for the natural world, guiding lost travelers safely through the forests at night and warning communities of approaching danger through its presence in dreams and visions. Those who encounter the bat spirit in the forest are advised to show respect through silence and offering, as the spirit tests the character of humans who cross its path, rewarding the pure of heart with blessings of insight and good fortune while leading the disrespectful into confusion and misfortune. The spirit is particularly active during the traditional Udmurt ceremonies honoring Vorshud, the family guardian spirit, when the veils between worlds grow thin and communication with the spirit realm becomes possible.",
     "habitat": "Sacred sites, family homes, specific locations",
@@ -15706,16 +15714,17 @@
     "featured_in_stories": [
       "the-flying-dutchman"
     ],
-    "source": "Philippine folklore, indigenous oral traditions",
-    "source_quality": "good",
+    "source": "Philippine indigenous religion; anito/diwata traditions",
+    "source_quality": "poor",
     "stories": [
       "the-legend-of-the-pineapple-ang-alamat-ng-pinya",
       "the-legend-of-mount-mayon"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "batibat-0133",
@@ -15738,7 +15747,7 @@
       "tamawan",
       "mambabarang"
     ],
-    "description": "In the religious tradition of the Batammariba people, an ethnic group inhabiting the Atakora Mountains of northwestern Togo and neighboring Benin in West Africa, ancestor spirits known as Kumpo or Tiyebe form the foundation of spiritual life and social organization. The Batammariba, also known as the Tamberma or Somba, are renowned for their distinctive architecture of fortified clay tower houses called Tata Somba, which are designed to serve both as physical dwellings and as symbolic representations of the cosmos and the ancestral world. In Batammariba cosmology, death is not an end but a transition to the ancestral realm where the spirits of the departed continue to participate actively in the lives of their descendants, guiding, protecting, and disciplining the living members of the family lineage. The ancestor spirits are considered the true owners of the land and the ultimate authorities on matters of tradition, morality, and justice within the community",
+    "description": "The batibat is a vengeful tree-dwelling hag of Ilocano folklore, an obese female spirit who, when her tree is felled for a house post, migrates into it and sits on the chests of sleepers to suffocate them with fatal nightmares (bangungot). Biting one's thumb or wiggling the toes breaks her grip; the belief explains sudden unexplained nocturnal death syndrome.",
     "appearance": "Batammariba ancestor spirits appear to the living primarily in dreams and during ceremonial rituals, manifesting in forms that reflect their appearance in life while also displaying signs of their transformed spiritual nature. In dreams, they appear as they did when alive, dressed in the traditional attire of the Batammariba people including cotton smocks and wide-brimmed straw hats for men or wrapped skirts and bead necklaces for women, but with a luminous or radiant quality that distinguishes them from living beings. During the important funerary and commemorative ceremonies known as the funeral of the ancestors, the spirits are represented by living participants who wear elaborately carved and painted wooden face masks and full-body costumes made of plant fibers, transforming the wearer into a vessel for the ancestor spirit. These masked figures move with stylized gestures and speak in altered voices, embodying the specific personality and mannerisms of the deceased they represent. In their pure spiritual form, they are described as beings of light and energy that can appear anywhere their presence is needed.",
     "behavior": "The ancestor spirits maintain a constant watchful presence over their living descendants, ensuring that family traditions, agricultural practices, and social customs are observed according to the laws established by the original ancestors. They communicate their will through dreams, through the interpretations of diviners and traditional priests, and through signs in the natural world such as the behavior of animals, the patterns of rainfall, and the growth of crops. Ancestors who are properly honored through regular offerings of food, beer, and libations at the family shrine provide protection from illness, ensure good harvests, and guide the family toward prosperity and harmony. However, ancestor spirits who are neglected, whose graves are not maintained, or whose names are forgotten may express their displeasure by causing misfortune, illness, or crop failure, serving as a spiritual enforcement mechanism for maintaining family cohesion and traditional religious practice. Major life events including births, marriages, deaths, and the construction of new homes are marked by ceremonies that invoke the blessing and participation of the ancestors.",
     "habitat": "Bedrooms, house posts and frames (especially old wooden ones), hollow trees",
@@ -15785,16 +15794,17 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Philippine folklore, indigenous oral traditions",
+    "source": "Ilocano oral tradition; Ramos, Creatures of Philippine Lower Mythology",
     "source_quality": "good",
     "stories": [
       "the-legend-of-the-pineapple-ang-alamat-ng-pinya",
       "the-legend-of-mount-mayon"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "beardeitylaotian-laos-0145",
@@ -15915,7 +15925,7 @@
       "ma-dray",
       "krahom"
     ],
-    "description": "A ghost or disembodied spirit of a deceased person in the folklore of the Indian subcontinent, deeply embedded in Hindu, Muslim, and Buddhist cultural traditions across India, Pakistan, Bangladesh, Nepal, and Sri Lanka. Bhoots are believed to be the souls of individuals who died premature or violent deaths, were denied proper funeral rites, or left unresolved matters in their lives. Unlike the souls that successfully transmigrate, bhoots remain trapped in the mortal realm, often haunting specific locations connected to their deaths. The belief in bhoots has existed for thousands of years and is referenced in ancient texts including the Garuda Purana, which provides detailed instructions for dealing with these spirits. Bhoots occupy a significant place in South Asian popular culture, appearing in countless films, television shows, and folk tales that explore the boundary between the living and the dead",
+    "description": "A bhoot is the ghost of a person who died violently, prematurely, or without proper funeral rites in South and Southeast Asian folklore, remaining earthbound to haunt the site of death. Referenced in Sanskrit texts such as the Garuda Purana and familiar across Hindu, Muslim, and Buddhist cultures, bhoots are warded off with rituals, charms, and priestly intervention.",
     "appearance": "Bhoots typically appear in human form but with several telltale signs that reveal their supernatural nature. Their feet face backward, a distinctive feature that helps the living identify them. They cast no shadow, even in bright light, and float a small distance above the ground to avoid contact with the sacred earth. Bhoots speak with a nasal, twanging voice that sounds unnatural and hollow. They appear most often in white clothing, the traditional burial shroud color in South Asian funeral customs. They are weightless and may flicker in and out of visibility like a candle flame in wind. Their eyes are described as empty or lacking the light of life. Female bhoots who died during pregnancy or childbirth, called churels, may appear as beautiful women with backward-facing feet to lure unwary men. The bhoot can also shapeshift into animal forms including cats, dogs, or owls at will.",
     "behavior": "Bhoots are nocturnal and most active during the night, particularly at crossroads, cremation grounds, abandoned buildings, and near ancient trees. They are drawn to milk, which is believed to be their preferred substance, and consuming milk contaminated by a bhoot is considered a primary means of spirit possession. Bhoots haunt specific houses known as bhoot banglas, typically the locations where they died or places holding deep personal significance. They attempt to interact with the living by appearing in dreams, moving objects, creating cold spots, and producing disembodied voices. They are repelled by water, iron objects, burning turmeric, and the scent of the bhutkeshi herb. Recitation of holy names and mantras from the Atharva Veda can protect against them. Proper Shraddha funeral rituals and charitable acts performed in the spirits name can help a bhoot achieve peace and move on to its next incarnation.",
     "habitat": "Violent death sites",
@@ -15957,17 +15967,18 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Myanmar mythology, oral tradition & folklore collections",
+    "source": "South Asian folklore; Garuda Purana",
     "source_quality": "good",
     "stories": [
       "the-legend-of-the-shwedagon-pagoda",
       "the-four-white-umbrellas-the-burmese-creation-of-kingship"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": true,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/bhuːt/"
+    "pronunciation_ipa": "/bhuːt/",
+    "attested": true
   },
   {
     "id": "bunian-0261",
@@ -16063,7 +16074,7 @@
       "c-trong",
       "r-ng-vietnamese-dragon"
     ],
-    "description": "Bà Chúa is the revered Vietnamese goddess of the market, commerce, trade, and material wealth, venerated by merchants, shopkeepers, and business owners throughout Vietnam. Known formally as Bà Chúa Chợ (Lady of the Market) or Bà Chúa Của (Lady of Wealth), she presides over the flow of goods, currency, and prosperity in both traditional marketplaces and modern commercial spaces. Unlike purely benevolent deities, Bà Chúa is understood as a stern and exacting figure who demands strict honesty in business dealings—she rewards ethical merchants with abundance and punishes cheats, liars, and those who profit through exploitation. Her cult reflects the Vietnamese cultural emphasis on fair commerce as the foundation of community well-being and the belief that spiritual forces oversee economic activity",
+    "description": "Bà Chúa ('Lady') is an honorific for Vietnamese female deities of trade and prosperity, above all Bà Chúa Kho ('Lady of the Storehouse') of Bắc Ninh, whose devotees borrow money from her and repay with interest, and Bà Chúa Xứ ('Lady of the Realm') of Núi Sam, Châu Đốc, honoured by a major festival in the first lunar month.",
     "appearance": "Bà Chúa is depicted as an elegant Vietnamese woman of regal bearing, dressed in a traditional áo dài of rich silk in auspicious colors—typically red, gold, or deep green—worn over flowing trousers. She carries the symbols of her domain: a balance scale in one hand representing fair measure and a money bag filled with coins in the other, symbolizing prosperity and abundance. Her hair is styled in a traditional updo adorned with gold ornaments and fresh flowers, usually marigolds or lotus blossoms. Her face is beautiful but serious, with penetrating eyes that seem to assess the worth of all who approach her. In temple statues, she is often seated on a throne surrounded by offerings of fruit, incense, and small replicas of goods sold in the market.",
     "behavior": "Bà Chúa actively involves herself in the affairs of commerce, observing transactions and weighing the moral character of those who participate in trade. She blesses honest merchants with steady customers, good inventory turnover, and protection from theft or loss. Those who conduct business with integrity find that their stalls are always busy, their goods remain fresh, and unexpected profits come their way. Conversely, Bà Chúa punishes dishonesty severely—cheaters find their scales malfunctioning, their goods spoiling prematurely, their customers disappearing, or their profits vanishing in unexplained losses. She demands regular offerings of incense, fresh fruit, flowers, and sometimes small monetary tributes at her household shrines. Bà Chúa communicates through dreams, appearing to merchants with warnings of impending shortages, advice about which goods to stock, or revelations about dishonest employees.",
     "habitat": "Markets, shops, homes of business owners",
@@ -16104,17 +16115,18 @@
     "seo_description": "Vietnamese goddess of the market, commerce, and wealth. Protects honest merchants and punishes dishonest ones. Stern but generous to those who respect her.",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Vietnamese folklore, Lĩnh Nam chích quái",
-    "source_quality": "good",
+    "source": "Vietnamese folk religion; Bà Chúa Kho and Bà Chúa Xứ cults",
+    "source_quality": "documented",
     "stories": [
       "the-trung-sisters-rebellion",
       "the-legend-of-the-betel-and-the-areca",
       "the-legend-of-banh-chung-chung-cake"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "b-tri-u-0273",

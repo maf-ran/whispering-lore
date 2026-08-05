@@ -1818,7 +1818,7 @@
       "ladiablesse-dominica",
       "soucouyant-saintlucia"
     ],
-    "description": "In Saint Lucia, La Diablesse is a beautiful white demoness usually encountered on bridges or near rivers. She will talk quietly and politely to her victim before using her magical beauty to lure him into the forest. Once enchanted, the victim will be fed on lizards, wood ants, and snakes. Sometimes he is never seen again; if he is lucky, he will awake the next morning in a crevice on some rockface or ravine. She can be recognized by her cloven foot and by the heavy steel fetters glimpsed under her skirts. Making the sign of the cross will make a true Diablesse immediately disappear. Saint Lucian folklorist Kennedy Boot Samuel has documented how the Diablesse legend is still whispered about in rural communities. The legend likely blends French colonial devil imagery with West African spirit concepts, creating a uniquely Saint Lucian cautionary figure about the dangers of temptation",
+    "description": "La Diablesse (Lajables) is a figure of Dominican and wider Francophone-Caribbean folklore: a beautiful, elegantly dressed woman who lures men into the forest at night, revealing a cloven hoof or a withered leg under her long skirt. Dominican accounts describe her as a jumbie to be avoided on lonely roads. The text is corrected from the Saint Lucian version to the Dominican tradition.",
     "appearance": "Strikingly beautiful woman in elegant white or traditional dress, with long flowing hair and a wide hat. Her left foot is a cloven hoof concealed beneath her skirt. Heavy steel fetters can be glimpsed under her dress. She has no shadow. Preceded by the scent of jasmine or other flowers.",
     "behavior": "Lures men with polite conversation and enchanting beauty. Leads them into the forest or towards ravines. Disappears suddenly, leaving victims lost and disoriented. Victims are fed insects and snakes. Appears on bridges and river crossings. Avoids the sign of the cross.",
     "habitat": "Deep mountain forests, remote trails, ravines, high ridges, especially Morne Diablotins area of Dominica",
@@ -1874,13 +1874,14 @@
       "B200"
     ],
     "featured_in_stories": [],
-    "source": "Dominican oral tradition; snip DOM767 Dominican Folklore; snip Wikipedia",
-    "source_quality": "good",
+    "source": "Dominican (Francophone Caribbean) oral tradition; DOM767 Dominican folklore anthology",
+    "source_quality": "documented",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "ladiablesse-saintlucia-1015",
@@ -3164,7 +3165,7 @@
       "tataduende-belize",
       "soucouyant-saintvincentandthegrenadines"
     ],
-    "description": "The Rounce is a unique figure from Vincentian folklore — a guardian spirit of the natural world that is specific to Saint Vincent and the Grenadines. The Rounce is believed to be a nature spirit that dwells in the dense forests and mountains of the island, serving as a protector of the land and its creatures. Vincentians tell stories of the Rounce appearing to those who venture too deep into the forest or who disrespect the natural environment. The creature is elusive and rarely seen, but its presence is felt through sudden changes in the weather, strange sounds in the bush, or the feeling of being watched. The Rounce legend reflects Saint Vincent's rich blending of African, Kalinago/Garifuna, and French Creole spiritual traditions. Like Papa Bois in other islands, the Rounce teaches respect for nature and the consequences of environmental destruction",
+    "description": "The Rounce is a malevolent spirit in the folklore of Saint Vincent and the Grenadines, said to grunt like a pig and carry people away if they are out at night. Tradition holds that someone seized by a Rounce must be beaten with a stick, counting the blows, since passing the set count summons a rival Rounce. It is classed among the island's night-terror spirits.",
     "appearance": "Described as a tall, shadowy humanoid figure that can blend seamlessly into the forest. Sometimes seen with glowing eyes at night. Can appear as a sudden mist or fog. Makes distinctive sounds — rustling leaves, snapping twigs — that seem to follow intruders.",
     "behavior": "Guardian of the forest — watches over wildlife and plant life. Wards off those who enter with harmful intent. Creates confusion and disorientation in disrespectful visitors. Can manipulate weather and sounds. Rarely directly confronts but makes presence known through subtle signs.",
     "habitat": "Dense forests, mountains, interior woodlands, especially the Vermont Nature Trail and La Soufrière areas of Saint Vincent and the Grenadines",
@@ -3217,13 +3218,14 @@
       "B200"
     ],
     "featured_in_stories": [],
-    "source": "Saint Vincent and the Grenadines oral tradition; snip Vincentian folklore collections",
-    "source_quality": "good",
+    "source": "Searchlight (St. Vincent, 2008); Vincentian folklore accounts",
+    "source_quality": "documented",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "green-lady-stkitts-0781",
@@ -3424,7 +3426,7 @@
       "moko-jumbie-stvincent",
       "rounce"
     ],
-    "description": "The Soucouyant is well-known in Saint Vincent and the Grenadines folklore as a shape-shifting, blood-sucking hag. As documented by Charles Day in his 19th-century book 'Five Years in the West Indies' and referenced in the Know Your Caribbean Podcast, Vincentian tradition holds that the Soucouyant sheds her skin at night and flies as a ball of fire. In Saint Vincent, belief in the Soucouyant is intertwined with the practice of Obeah, which remains a powerful force in Vincentian spiritual life. The creature is said to be a reclusive old woman by day who transforms at night to drain the blood of her victims. Vincentians traditionally protect their homes by placing salt in doorways and hanging garlic over entrances. The legend reinforces the importance of community surveillance and the dangers of dabbling in black magic",
+    "description": "In Antiguan and Barbudan folklore the soucouyant is a blood-sucking hag who sheds her skin at night and flies as a ball of fire to enter homes and drain the blood of her victims. A figure shared across the Caribbean, she is warded off with salt in doorways and garlic, and belief in her warns against dabbling in black magic.",
     "appearance": "By day: a reclusive old woman living alone. By night: a ball of fire traversing the sky. Her skinless form is described as raw and terrifying. Leaves black and blue bite marks on her victims. Her discarded skin resembles a wrinkled empty sack stored in a mortar.",
     "behavior": "Nocturnal blood-feeder that transforms into a fireball. Seeks vulnerable victims, especially infants and the elderly. Enters homes through the smallest openings. Avoids salt, rice, and religious paraphernalia. Associated with Obeah practitioners.",
     "habitat": "Homes at night",
@@ -3469,15 +3471,16 @@
       "barong-and-rangda",
       "soucouyant-the-fireball-hag-of-the-caribbean"
     ],
-    "source": "Caribbean folklore — the Soucouyant vampire documented across Caribbean oral tradition.",
-    "source_quality": "good",
+    "source": "Antiguan folk tradition; Caribbean soucouyant complex",
+    "source_quality": "documented",
     "stories": [
       "soucouyant-the-fireball-hag-of-the-caribbean"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "soucouyant-trinidadandtobago-1708",
@@ -3673,7 +3676,7 @@
       "ladiablesse-dominica",
       "heartman"
     ],
-    "description": "Soucouyant is a vampire from Caribbean mythology. As documented by Charles Day in his 19th-century book 'Five Years in the West Indies' and referenced in the Know Your Caribbean Podcast, Vincentian tradition holds that the Soucouyant sheds her skin at night and flies as a ball of fire. In Saint Vincent, belief in the Soucouyant is intertwined with the practice of Obeah, which remains a powerful force in Vincentian spiritual life. The creature is said to be a reclusive old woman by day who transforms at night to drain the blood of her victims. Vincentians traditionally protect their homes by placing salt in doorways and hanging garlic over entrances. The legend reinforces the importance of community surveillance and the dangers of dabbling in black magic In Dominica folklore, this figure is known among the Dominican Creole people.",
+    "description": "The soucouyant is a blood-sucking hag in Dominican folklore: an old woman by day who sheds her skin at night and flies as a ball of fire to enter homes through keyholes and drain blood. A pan-Caribbean figure, she is kept at bay with salt, garlic or scattered seeds, and belief in her is tied to the practice of dark magic.",
     "appearance": "By day: a reclusive old woman living alone. By night: a ball of fire traversing the sky. Her skinless form is described as raw and terrifying. Leaves black and blue bite marks on her victims. Her discarded skin resembles a wrinkled empty sack stored in a mortar.",
     "behavior": "Nocturnal blood-feeder that transforms into a fireball. Seeks vulnerable victims, especially infants and the elderly. Enters homes through the smallest openings. Avoids salt, rice, and religious paraphernalia. Associated with Obeah practitioners.",
     "habitat": "Secluded villages, rural homes, silk cotton trees, night skies throughout Dominica",
@@ -3729,13 +3732,14 @@
       "B200"
     ],
     "featured_in_stories": [],
-    "source": "Dominican oral tradition; snip DOM767; snip Wikipedia",
-    "source_quality": "good",
+    "source": "Dominican folk tradition; Caribbean soucouyant complex",
+    "source_quality": "documented",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "soucouyant-saintlucia-1711",
@@ -3763,7 +3767,7 @@
       "ligaroo",
       "heartman"
     ],
-    "description": "Soucouyant is a vampire from Caribbean mythology. As documented by Charles Day in his 19th-century book 'Five Years in the West Indies' and referenced in the Know Your Caribbean Podcast, Vincentian tradition holds that the Soucouyant sheds her skin at night and flies as a ball of fire. In Saint Vincent, belief in the Soucouyant is intertwined with the practice of Obeah, which remains a powerful force in Vincentian spiritual life. The creature is said to be a reclusive old woman by day who transforms at night to drain the blood of her victims. Vincentians traditionally protect their homes by placing salt in doorways and hanging garlic over entrances. The legend reinforces the importance of community surveillance and the dangers of dabbling in black magic In Saint Lucia folklore, this figure is known among the Saint Lucian Creole people.",
+    "description": "In Saint Lucian folklore the sukuyant is a blood-sucking hag who sheds her skin at night and flies as a ball of fire in search of victims, entering homes to drain their blood. A figure shared across the Caribbean, she is warded off with salt in doorways and garlic, and is linked to shape-shifting and dark magic.",
     "appearance": "By day: a reclusive old woman living alone. By night: a ball of fire traversing the sky. Her skinless form is described as raw and terrifying. Leaves black and blue bite marks on her victims. Her discarded skin resembles a wrinkled empty sack stored in a mortar.",
     "behavior": "Nocturnal blood-feeder that transforms into a fireball. Seeks vulnerable victims, especially infants and the elderly. Enters homes through the smallest openings. Avoids salt, rice, and religious paraphernalia. Associated with Obeah practitioners.",
     "habitat": "Rural villages, silk cotton trees, secluded homes, night skies across Saint Lucia, especially the Mabouya Valley area",
@@ -3820,14 +3824,15 @@
       "B200"
     ],
     "featured_in_stories": [],
-    "source": "Saint Lucian oral tradition; snip Wikipedia; snip The Independent (1996); snip Know Your Caribbean Podcast",
-    "source_quality": "good",
+    "source": "Saint Lucian folk tradition; Caribbean sukuyant complex",
+    "source_quality": "documented",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/suːkuːjænt/"
+    "pronunciation_ipa": "/suːkuːjænt/",
+    "attested": true
   },
   {
     "id": "soucouyant-saintvincentandthegrenadines-1712",
@@ -3853,7 +3858,7 @@
       "ligaroo",
       "rounce"
     ],
-    "description": "Soucouyant is a vampire from Caribbean mythology. As documented by Charles Day in his 19th-century book 'Five Years in the West Indies' and referenced in the Know Your Caribbean Podcast, Vincentian tradition holds that the Soucouyant sheds her skin at night and flies as a ball of fire. In Saint Vincent, belief in the Soucouyant is intertwined with the practice of Obeah, which remains a powerful force in Vincentian spiritual life. The creature is said to be a reclusive old woman by day who transforms at night to drain the blood of her victims. Vincentians traditionally protect their homes by placing salt in doorways and hanging garlic over entrances. The legend reinforces the importance of community surveillance and the dangers of dabbling in black magic In Saint Vincent and the Grenadines folklore, this figure is known among the Vincentian people.",
+    "description": "The soucouyant is a shape-shifting, blood-sucking hag of Vincentian folklore, documented by Charles Day in 'Five Years in the West Indies'. She sheds her skin at night and flies as a ball of fire to drain her victims' blood. Vincentian homes are protected with salt in doorways and garlic, and belief in the soucouyant is tied to Obeah.",
     "appearance": "By day: a reclusive old woman living alone. By night: a ball of fire traversing the sky. Her skinless form is described as raw and terrifying. Leaves black and blue bite marks on her victims. Her discarded skin resembles a wrinkled empty sack stored in a mortar.",
     "behavior": "Nocturnal blood-feeder that transforms into a fireball. Seeks vulnerable victims, especially infants and the elderly. Enters homes through the smallest openings. Avoids salt, rice, and religious paraphernalia. Associated with Obeah practitioners.",
     "habitat": "Rural villages, isolated homes, silk cotton trees, forest edges throughout Saint Vincent and the Grenadines",
@@ -3910,13 +3915,14 @@
       "B200"
     ],
     "featured_in_stories": [],
-    "source": "Saint Vincent and the Grenadines oral tradition; snip Know Your Caribbean Podcast; snip Searchlight SVG",
-    "source_quality": "good",
+    "source": "Charles Day, 'Five Years in the West Indies'; Vincentian folk tradition",
+    "source_quality": "documented",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "steel-donkey-3294",
@@ -5155,7 +5161,7 @@
       "haggs",
       "xibalba"
     ],
-    "description": "The Domovoy, known as Domovoi or Domovik in various Slavic languages, is a household spirit deeply rooted in Slavic mythology across Russia, Ukraine, Belarus, Poland, Serbia, and other Eastern European nations. The name derives from the Proto-Slavic root 'dom' meaning house, establishing this entity as the master and guardian of the home who protects the family, oversees domestic harmony, and ensures household prosperity. According to folklorist E. Kagarov, the Domovoy represents a personification of the supreme god Rod within the microcosm of the family, linking it directly to ancestral worship traditions where the soul of the family's founder or a deceased male relative continues to watch over the living. The Domovoy shares a strong connection with the hearth and is deeply integrated into the moral framework of the household, not merely as a mischievous sprite but as a guardian of the kin's physical and spiritual well-being",
+    "description": "The Douen is a forest spirit of Trinidad and Tobagonian folklore, the soul of an unbaptized child who died and now wanders the woods. Its backward-turned feet confuse trackers, and it lures children away by mimicking the voices of parents and loved ones. Parents use Douen tales to keep children from wandering alone.",
     "appearance": "The Domovoy is typically depicted as a small, elderly man covered from head to toe in thick, soft hair, with grey hair, flashing eyes, and sometimes a small tail or little horns that reflect his liminal nature between benevolent guardian and potentially demonic being. He may also manifest in animal form, appearing as a cat, dog, bear, snake, or even as the departed ancestor of the family whose features he borrows. In some regional traditions, the Domovoy is symbolically represented as a snake living beneath the house, while in others, small clay or stone statuettes are crafted in his likeness, dressed in traditional tribal costume and placed in niches near the door or on mantelpieces above the oven. When glimpsed directly, he often appears as a small, hairy humanoid form that darts behind the stove, and his touch on sleeping humans ranges from warm and soft for good omens to cold and bristly as a warning of misfortune.",
     "behavior": "The Domovoy is profoundly protective of the family's well-being, particularly watching over children and livestock with unwavering vigilance. He engages in battles with other Domovoys to protect and expand the prosperity of his household, with the victorious Domovoy taking possession of the defeated family's home. He shares intimately in the joys and sorrows of the family, weeping audibly when a member dies and rejoicing during births and marriages. The Domovoy can forebode future events through his behavior: hearing him sob or wail at night signals impending death, plague, or war, while his laughter predicts joy. He becomes enraged when the family is corrupt, uses foul language, or neglects household duties, revealing his demonic aspect by bringing calamity. In extreme anger, he may abandon the household entirely, leaving it defenseless. Offerings of bread, salt, porridge, and tobacco appease him, and when moving homes, he must be ritually invited to accompany the family or misfortune will follow. A Domovoy who favors a family may even steal from neighbors to increase their wealth.",
     "habitat": "Dense forests and woodlands across Trinidadian",
@@ -5197,15 +5203,16 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Trinidadian folklore — Douen are forest spirits documented in Trinidadian oral tradition.",
+    "source": "Trinidadian oral tradition",
     "source_quality": "good",
     "stories": [
       "the-douen-lost-children-of-trinidad"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "duppy-bahamas-0583",
@@ -5240,7 +5247,7 @@
       "duppy-bahamas",
       "dwen-stlucia"
     ],
-    "description": "Duppy is the Kittitian term for a restless spirit or ghost, derived from the Akan word of West Africa. Kitts and Nevis folklore, duppies are the spirits of dead persons that linger in places they frequented during life, especially plantations and secluded areas. While generally mischievous or harmless, some duppies can be vengeful if wronged in life. They are known for causing unexplained noises, moving objects, appearing in dreams, and playing tricks on the living. The belief in duppies reflects a deep connection to ancestors and a recognition of their continued presence in the world. Kittitians traditionally avoid calling a person's name loudly at night, as a duppy might answer. Grave sites are adorned with personal belongings to comfort the duppy's spirit. The Mocko Jumbie stilt walker tradition counters duppies — the tall dancer's height allows him to see and ward off these spirits",
+    "description": "Duppy is the Bahamian term, shared across the English-speaking Caribbean, for the spirit of a dead person. Duppies are usually malevolent and wander at night, haunting the places they knew in life, and obeah practitioners may summon them or set them on others. Bahamians take precautions against duppies, reflecting an African-descended view of the dead lingering among the living.",
     "appearance": "Shadowy, dark humanoid figure often described as formless or mist-like. Can appear as a normal person from a distance but lacks a shadow or reflection. Sometimes manifests as a floating light, animal, or disembodied voice. Tends to be seen at the edges of vision.",
     "behavior": "Roams places associated with their life — plantations, roads, and homes. Causes strange phenomena: footsteps, door slamming, objects moving. Can possess the living during special ceremonies. More active at night and within the first 40 days after death. Shapeshifts into animal forms.",
     "habitat": "Night, silk cotton trees",
@@ -5283,7 +5290,7 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Caribbean folklore — Duppy ghosts documented across Caribbean oral tradition.",
+    "source": "Bahamian African-diaspora oral tradition",
     "source_quality": "good",
     "stories": [
       "the-rolling-calf",
@@ -5295,9 +5302,10 @@
       "the-legend-of-the-cocoa-spirit"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "duppy-saintkittsandnevis-0584",
@@ -5325,7 +5333,7 @@
       "duppy-bahamas",
       "dwen-stlucia"
     ],
-    "description": "Duppy is the Kittitian term for a restless spirit or ghost, derived from the Akan word of West Africa. Kitts and Nevis folklore, duppies are the spirits of dead persons that linger in places they frequented during life, especially plantations and secluded areas. While generally mischievous or harmless, some duppies can be vengeful if wronged in life. They are known for causing unexplained noises, moving objects, appearing in dreams, and playing tricks on the living. The belief in duppies reflects a deep connection to ancestors and a recognition of their continued presence in the world. Kittitians traditionally avoid calling a person's name loudly at night, as a duppy might answer. Grave sites are adorned with personal belongings to comfort the duppy's spirit. The Mocko Jumbie stilt walker tradition counters duppies — the tall dancer's height allows him to see and ward off these spirits In Saint Kitts and Nevis folklore, this figure is known among the Kittitian people.",
+    "description": "Duppy is the Kittitian word for a restless ghost, from the Akan-derived vocabulary of the African diaspora. Duppies linger where they lived, especially plantations and lonely places, making noises, moving objects, and playing tricks, and can be vengeful if wronged in life. Kittitians avoid shouting a name at night lest a duppy answer, and the tall Mocko Jumbie stilt-walker wards them off.",
     "appearance": "Shadowy, dark humanoid figure often described as formless or mist-like. Can appear as a normal person from a distance but lacks a shadow or reflection. Sometimes manifests as a floating light, animal, or disembodied voice. Tends to be seen at the edges of vision.",
     "behavior": "Roams places associated with their life — plantations, roads, and homes. Causes strange phenomena: footsteps, door slamming, objects moving. Can possess the living during special ceremonies. More active at night and within the first 40 days after death. Shapeshifts into animal forms.",
     "habitat": "Plantations, cemeteries, abandoned buildings, secluded roads, rural areas across St. Kitts and Nevis",
@@ -5381,7 +5389,7 @@
       "B200"
     ],
     "featured_in_stories": [],
-    "source": "St. Kitts and Nevis oral tradition; snip StKittsNevis.net; snip Nevis Traditional Folklore",
+    "source": "St. Kitts and Nevis oral tradition",
     "source_quality": "good",
     "stories": [
       "luz-de-yara-the-spirit-light-of-hatuey",
@@ -5391,9 +5399,10 @@
       "the-legend-of-the-cocoa-spirit"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "dwenn-grenada-0588",
@@ -5592,7 +5601,7 @@
       "dwen-stlucia",
       "trickster-jamaica"
     ],
-    "description": "Haggs are malevolent spirits from the folklore of the Isle of Man, a self-governing Crown dependency located in the Irish Sea between England and Ireland. These supernatural entities are closely related to the hags and witches found throughout Celtic mythology but possess distinct characteristics unique to Manx tradition. On the Isle of Man, the Haggs is often associated with the \"Mooinjer Veggey,\" the Little People or fairies, though it is considered a more harmful member of the fairy community. Manx folklore is rich with tales of supernatural beings that inhabit the islands hills, glens, and shorelines, and the Haggs occupies a particularly feared position as a bringer of misfortune. Like many Manx creatures, the Haggs is most active during the twilight hours and on festival nights such as Hop-tu-Naa (the Manx Halloween). The belief in such creatures was once widespread among the rural farming communities who relied on oral tradition to pass down warnings and protective measures",
+    "description": "Not independently attested in folklore literature. No source records a Manx or Saint Vincent being called 'Haggs'. The entry pairs an unverifiable Isle of Man fairy description with Saint Vincent metadata and names no tradition, collector, or text. Genuine Manx spirits include the buggane and fenodyree; genuine Saint Vincent lore includes the la diablesse and soucouyant.",
     "appearance": "The Haggs is described as an old, withered woman with a haggard face, stringy grey hair, and long, bony fingers ending in sharp, dirty nails. Its eyes are small, black, and bead-like, gleaming with malicious intelligence, and its skin is leathery and wrinkled like old bark. It wears ragged, tattered clothing in shades of grey, black, or brown, often described as layers of filthy rags that hang loosely from its gaunt frame. The Haggs has a hunched posture, leaning on a twisted staff or walking stick that it uses to hobble about, yet despite its aged appearance, it moves with surprising speed and stealth. Its mouth reveals yellowed, broken teeth or sometimes sharp, pointed fangs, and its breath carries the stench of decay. In some accounts, the Haggs appears with clawed hands rather than normal fingers, and its feet are described as twisted or backward-facing. Its presence is often preceded by the smell of damp earth and rotting vegetation, and the air around it feels unnaturally cold.",
     "behavior": "The Haggs is a nocturnal spirit that emerges from its hidden lair at night to cause mischief and harm to the living. It is known to enter homes through keyholes or cracks, bringing bad luck, spoiling milk, causing illness, and plaguing livestock with mysterious ailments. The Haggs particularly targets infants and young children, stealing them away or replacing them with changelings, a common theme in Celtic fairy lore. Farmers blame the Haggs for souring cream, causing cows to run dry, and blighting crops. Like other hags in Celtic folklore, it can be warded off by placing iron horseshoes above doorways, hanging rowan branches, or reciting protective prayers. The Haggs is especially active on Hop-tu-Naa, when the boundary between worlds is thinnest, and large turnip lanterns with carved faces are placed in windows to frighten it away. Despite its malevolence, the Haggs can be outwitted by clever humans and is bound by traditional fairy rules and taboos that it cannot break.",
     "habitat": "Homes at night",
@@ -5633,13 +5642,14 @@
       "A210"
     ],
     "featured_in_stories": [],
-    "source": "Saint Vincent folklore — spirit documented in Saint Vincent oral tradition.",
-    "source_quality": "fair",
+    "source": "Review finding: unattested; closest analogues buggane/fenodyree (Manx), la diablesse/soucouyant (Saint Vincent)",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "heartman-3295",
@@ -5812,7 +5822,7 @@
       "damballa",
       "trickster-jamaica"
     ],
-    "description": "Carival is a spirit of celebration and excess from Trinidadian and Tobagonian folklore, embodying the wild, transformative energy of Carnival. Unlike most traditional spirits that haunt specific locations or prey on the unwary, Carival is a seasonal entity that awakens during the Carnival season, possessing participants with an irresistible urge to dance, sing, and lose themselves in the festivities. This spirit reflects the unique cultural fusion of Trinidad and Tobago, where African, European, and indigenous Caribbean traditions blended to create one of the world's most famous Carnival celebrations. Carival represents the liminal space between ordinary life and the temporary madness of Carnival, where social rules are suspended, identities are masked, and the spirit of revelry takes control",
+    "description": "Not independently attested in folklore literature. No Trinidadian spirit named 'Carival' exists; the entry is a fabricated personification of Carnival. Trinidad's real folk entities include the douen, La Diablesse, the soucouyant, and Papa Bois, none of which is a personification of the festival.",
     "appearance": "Carival has no fixed physical form, existing more as a palpable force or atmosphere than a visible entity. When it does appear, it is often described as a shimmering presence among the Carnival crowds, a figure in an elaborate mask and costume that seems to be everywhere at once. Some accounts describe Carival as a tall, elegant figure in a pristine white costume with a featureless mask, while others depict it as a whirlwind of colorful fabric and feathers, moving with impossible speed and grace. The spirit can also manifest as a heat haze above the dancing crowds, as the sound of drums that never stops, or as a collective feeling of euphoria that sweeps through entire communities during the Carnival season.",
     "behavior": "Carival inspires the frenzied dancing, elaborate costume-making, musical creativity, and general revelry that characterize Trinidadian Carnival. It can possess individuals, filling them with supernatural energy that allows them to dance for hours or even days without rest, but also drives them to increasingly wild behavior that can become dangerous if left unchecked. The spirit is said to be particularly active during the period leading up to Ash Wednesday, when social norms are temporarily suspended. Those who resist the call of Carival are said to suffer bad luck for the following year, while those who fully surrender to the spirit experience good fortune. However, those who become completely possessed by Carival may find themselves unable to return to normal life, forever seeking the next Carnival. The spirit disappears at midnight on Carnival Tuesday when Lent begins, not to return until the next season.",
     "habitat": "Carnival events, streets, music venues",
@@ -5854,13 +5864,14 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Trinidadian folklore — spirit documented in Trinidadian oral tradition.",
-    "source_quality": "fair",
+    "source": "none; Trinidadian folklore (douen, La Diablesse, soucouyant)",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "chang-0297",
@@ -6401,7 +6412,7 @@
       "papabois-trinidadandtobago",
       "rounce"
     ],
-    "description": "The Ciguapa is a nocturnal mythical creature from Dominican folklore, described as a wild woman who inhabits the high mountain regions of the island. Her most distinctive feature is that her feet are turned backward, making it nearly impossible for hunters or trackers to follow her footprints. She is deeply tied to the natural world, possessing expert knowledge of medicinal herbs and plants found in the dense tropical forests. The first written account of the Ciguapa appeared in 1866 in the story 'La Ciguapa' by Francisco Javier Angulo Guridi. Some scholars debate whether the legend has Taíno origins or was introduced through European influences, drawing comparisons to mermaid myths and the Hindu churel In Dominican Republic folklore, this figure is known among the Dominican Republic people.",
+    "description": "The Ciguapa is a nocturnal wild woman of Dominican mountain folklore whose backward-turned feet baffle trackers. The earliest written account is Francisco Javier Angulo Guridi's 1866 story 'La Ciguapa.' Scholars debate a possible Taíno origin against European parallels such as mermaids and the churel.",
     "appearance": "The Ciguapa is described as a beautiful woman with brown or dark blue skin that blends into the shadows of the night forest. She has a long mane of smooth, glossy black hair that cascades down her body, often covering her entirely. Her feet are notably reversed, pointing backward, which leaves confusing tracks for anyone who pursues her. Some accounts describe her as having large, luminous eyes that glow in the darkness. She is typically depicted as completely naked, her hair serving as her only covering. Her appearance can be simultaneously alluring and terrifying, depending on the observer and her mood at the moment of encounter.",
     "behavior": "The Ciguapa is strictly nocturnal, emerging only under the cover of darkness to roam the mountains and forests. She is known to lure travelers into the wilderness, sometimes with romantic intentions that turn deadly, as she is said to kill men after seducing them. Her vocalizations are limited to whining or chirping sounds rather than human speech. She is fiercely territorial and protects her herbal knowledge jealously. According to local legend, the only way to capture a Ciguapa is to track her during a full moon using a black and white polydactyl dog known as a cinqueño. Despite her dangerous reputation, some sources suggest she can be benevolent and harmless toward those who show proper respect for the mountains.",
     "habitat": "Cuba, nocturnal",
@@ -6442,13 +6453,14 @@
     "featured_in_stories": [
       "la-ciguapa-the-backward-footed-woman-of-the-dominican-mountains"
     ],
-    "source": "Dominican republic mythology, oral tradition & folklore collections",
+    "source": "F. J. Angulo Guridi, 'La Ciguapa' (1866); Dominican oral tradition",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "culebra-de-coamo-0473",
@@ -7065,7 +7077,7 @@
       "lougawou",
       "j-rouges"
     ],
-    "description": "The Barmanou is a cryptid hominid from the mountainous regions of northern Pakistan, particularly the Chitral District and the Karakoram range along the border with China. Known locally as the Barmanou or Bar-Manu, this creature is considered Pakistan's equivalent of the Himalayan Yeti or North American Bigfoot, occupying a similar ecological and folkloric niche in South Asian mountain traditions. The name derives from local Khowar language terms describing a wild man of the mountains, and the creature has been part of the oral traditions of the Kalash, Kho, and Burusho peoples for centuries. Unlike the purely mythical entities of the region, the Barmanou is described as a physical, flesh-and-blood creature that leaves footprints, vocalizations, and occasional sightings reported by shepherds and mountaineers in the high valleys of the Hindu Kush and Karakoram ranges",
+    "description": "Baron Samedi ('Baron Saturday') is the loa of the dead, graveyards, and the crossroads in Haitian Vodou, chief of the Gede family of spirits. He is depicted in black tails, a top hat, and dark glasses, with a skull-like face, and is known for macabre jokes and coarse humour. He presides over burial and the boundary between life and death; his consort is Maman Brigitte.",
     "appearance": "A large bipedal primate standing between six and eight feet tall when fully upright, covered in thick shaggy dark brown or rusty-red hair that provides insulation against the extreme cold of the high mountain environment. Its body is powerfully built with broad shoulders, a thick muscular neck, and long arms that reach nearly to its knees when standing, suggesting a build similar to that of a gorilla but with a more human-like proportion in the hips and legs. The face is described as ape-like with a pronounced brow ridge, a flat broad nose, and a receding chin, but with an expressiveness that suggests greater intelligence than a common animal. Its hands and feet are large and broad with opposable thumbs, and it leaves distinctive human-like footprints measuring twelve to fifteen inches in length in the snow and soft ground of the mountain passes.",
     "behavior": "Inhabits the remote alpine forests and high-altitude meadows of the Chitral and Gilgit-Baltistan regions, avoiding human settlements but occasionally descending to lower elevations in search of food during harsh winters. The Barmanou is primarily nocturnal and highly elusive, making direct encounters rare, though shepherds report finding its distinctive footprints near their flocks and hearing its loud whistling calls echoing across the valleys at night. It is reputedly omnivorous, feeding on wild berries, roots, small mammals, and occasionally livestock when natural food sources are scarce. According to local folklore, the creature is known to abduct women from remote villages for mating purposes, a detail that mirrors similar narratives surrounding the Yeti in Nepal and the Sasquatch in North America. Despite these frightening stories, the Barmanou is generally shy and avoids confrontation with humans unless cornered or threatened.",
     "habitat": "Crossroads, cemeteries, funeral rites, invisible spirit realm",
@@ -7106,15 +7118,16 @@
     "seo_description": "Barmanou is a cryptid bipedal hominid from the Chitral and Karakoram Mountains of northern Pakistan, a hairy wild man of the Hindu Kush described as Pakistan's Bigfoot or Yeti, known for its elusiveness and local legends of abducting women.",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Haitian Vodou — Baron Samedi is the loa of the dead, documented in Haitian religious ethnography.",
+    "source": "Haitian Vodou tradition; Métraux, 'Voodoo in Haiti'",
     "source_quality": "expert",
     "stories": [
       "baron-samedi-lord-of-the-dead"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "baccoo-barbados-3296",

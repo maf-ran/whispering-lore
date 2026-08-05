@@ -1698,7 +1698,7 @@
       "eagletricksterofblackfoot-canada",
       "coyotetricksterlaotian-canada"
     ],
-    "description": "Kaugjagjuk is a mischievous trickster figure from Inuit folklore, known for his clever pranks, shape-shifting abilities, and the valuable moral lessons embedded in his adventures. This small, agile spirit is a beloved character in Inuit oral tradition, where his stories are told to entertain and educate both children and adults. Like many trickster figures across world cultures, Kaugjagjuk uses wit and deception to outsmart larger and more powerful opponents, often exposing greed, arrogance, and foolishness in the process. His tales serve a dual purpose: providing entertainment during the long Arctic winters while teaching important lessons about proper behavior, sharing, humility, and respect for others. Kaugjagjuk represents the clever underdog who triumphs through intelligence rather than brute strength",
+    "description": "Kaugjagjuk (also Kaujjarjuk) is a central Inuit legend: a mistreated orphan boy, kicked and humiliated by his community, is taken up by the Moon Man, who rescues him and brings him to the moon, where he becomes a protector of the abused. The tale, documented among Inuit communities and retold in collections of Inuit stories, is not a trickster tale; the prankster framing is corrected here.",
     "appearance": "Kaugjagjuk is described as a small, agile creature with quick reflexes and mischievous eyes that sparkle with intelligence and mischief. In his natural form, he appears as a dwarf-like being with a compact, nimble body suited for quick movements and stealthy approaches. His most remarkable ability is shape-shifting, allowing him to transform into various animals such as foxes, birds, seals, or even inanimate objects as the situation demands. As a human, he may appear as a small, unassuming person whose unremarkable appearance belies his cunning nature. His eyes are often described as particularly expressive, revealing his playful and scheming nature even when his form has changed. Some accounts describe him as having a sharp, pointed face with features reminiscent of Arctic foxes",
     "behavior": "Kaugjagjuk uses his shape-shifting abilities and sharp wit to play pranks that ultimately serve higher moral purposes. He famously tricks greedy hunters into sharing their catch with the community, scares away arrogant individuals who think too highly of themselves, and uses clever disguises to test the character of those he encounters. His pranks are not random cruelty but carefully crafted lessons that expose the flaws of his targets. He may appear as a lost child to test hospitality, transform into a wounded animal to test compassion, or use illusions to reveal the true nature of those who claim to be virtuous. In addition to his trickster role, Kaugjagjuk serves as a bridge between the human world and the supernatural realm, carrying messages, mediating disputes, and teaching important survival skills and social values through his entertaining adventures.",
     "habitat": "Throughout the Arctic - moves between communities, sea, and land.",
@@ -1744,13 +1744,14 @@
       "D100"
     ],
     "featured_in_stories": [],
-    "source": "Canada mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source": "Inuit oral tradition; documented in 'Inuit Stories of Being and Rebirth' and Inuit legend collections",
+    "source_quality": "documented",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "kawa-zaru-0939",
@@ -1983,7 +1984,7 @@
       "mooseguardianmapuche-mexico",
       "deerguardianmixtec-mexico"
     ],
-    "description": "Keeper is a guardian spirit from Maya folklore as practiced in Mexico, particularly in the Yucatan Peninsula, Chiapas, and Quintana Roo regions where Maya traditions remain vibrant. These powerful beings are the custodians of sacred locations including cenotes, ancient pyramid complexes, underground rivers, and jungle-hidden ruins that dot the Mexican landscape. The Maya believe that every significant natural feature has a spiritual guardian assigned to protect it, maintaining the cosmic order established by the gods. Keepers serve as the bridge between the mundane world and the realm of the divine, ensuring that humans do not overstep their bounds or disrespect the sacred geography inherited from the ancestors. Their role is especially important at cenotes, which are considered portals to the underworld",
+    "description": "Not independently attested in folklore literature. No Maya source documents a guardian spirit called 'Keeper'; the description is a generic 'custodian of sacred places' built from cenotes and jungle-ruin imagery with no named tradition. Maya religion does include specific guardians and deities, but no attested figure corresponds to this entry.",
     "appearance": "The Keeper manifests as a regal humanoid figure adorned in classic Maya ceremonial attire, reflecting the artistic and spiritual traditions of Mexican Maya culture. It typically appears wearing a tall headdress made from quetzal feathers and jade ornaments, a woven huipil or loincloth decorated with geometric patterns representing the cosmos, and intricate body paint or tattoos that symbolize spiritual authority. The guardians face is often depicted with classic Maya features including an aquiline nose, elongated earlobes stretched by jade plugs, and eyes that seem to hold ancient knowledge. Some accounts describe the Keeper carrying a ceremonial staff topped with the image of Kukulkan the feathered serpent, or holding a torch that burns with eternal flame. The being may be accompanied by spirit animals such as jaguars, owls, or snakes that serve as its companions",
     "behavior": "The Keeper actively guards its assigned location against those who would harm or disrespect it, using its spiritual powers to disorient, frighten, or physically block trespassers. It is known to create illusions that cause intruders to become lost in the jungle, to summon natural elements like sudden fog or rain to discourage visitors, and to appear in terrifying forms to those with malicious intent. However, the Keeper is also benevolent toward sincere pilgrims and seekers of wisdom, offering guidance through dreams, visions, or encounters with spirit animals. Modern Maya communities continue to leave offerings at sacred sites, including balche (ceremonial honey wine), corn, and copal incense, to maintain good relations with these guardians. The Keeper is particularly active at dawn and dusk, the threshold times between night and day when the veil between worlds is thinnest.",
     "habitat": "Natural environment appropriate to the being",
@@ -2024,16 +2025,17 @@
     "seo_description": "Keeper is a Maya guardian spirit from Mexico that protects sacred cenotes and ancient ruins. These feathered-headdress beings create illusions to ward off trespassers but guide sincere seekers with visions",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Regional survey of Mesoamerican indigenous traditions — Maya, Aztec, Mixtec, Zapotec, and related peoples as documented in codices, ethnographies by Sahagún, Landa, and contemporary folklore collections.",
-    "source_quality": "fair",
+    "source": "Review finding: unattested; no named Maya figure",
+    "source_quality": "poor",
     "stories": [
       "the-origin-of-the-hummingbird"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/kiːpə/"
+    "pronunciation_ipa": "/kiːpə/",
+    "attested": false
   },
   {
     "id": "keepermaya-mexico-0943",
@@ -2056,7 +2058,7 @@
       "mooseguardianmapuche-mexico",
       "deerguardianmixtec-mexico"
     ],
-    "description": "Keeper is a guardian spirit from Maya folklore as practiced in Mexico, particularly in the Yucatan Peninsula, Chiapas, and Quintana Roo regions where Maya traditions remain vibrant. These powerful beings are the custodians of sacred locations including cenotes, ancient pyramid complexes, underground rivers, and jungle-hidden ruins that dot the Mexican landscape. The Maya believe that every significant natural feature has a spiritual guardian assigned to protect it, maintaining the cosmic order established by the gods. Keepers serve as the bridge between the mundane world and the realm of the divine, ensuring that humans do not overstep their bounds or disrespect the sacred geography inherited from the ancestors. Their role is especially important at cenotes, which are considered portals to the underworld In Mexico folklore, this figure is known among the Mexico people.",
+    "description": "Not independently attested in folklore literature. This record repeats the same fabricated 'Keeper' entry with Mexican metadata and closes with empty filler about the 'Mexico people'. No Maya tradition documents a guardian spirit named 'Keeper'; the entry is template filler with no named source or story.",
     "appearance": "The Keeper manifests as a regal humanoid figure adorned in classic Maya ceremonial attire, reflecting the artistic and spiritual traditions of Mexican Maya culture. It typically appears wearing a tall headdress made from quetzal feathers and jade ornaments, a woven huipil or loincloth decorated with geometric patterns representing the cosmos, and intricate body paint or tattoos that symbolize spiritual authority. The guardians face is often depicted with classic Maya features including an aquiline nose, elongated earlobes stretched by jade plugs, and eyes that seem to hold ancient knowledge. Some accounts describe the Keeper carrying a ceremonial staff topped with the image of Kukulkan the feathered serpent, or holding a torch that burns with eternal flame. The being may be accompanied by spirit animals such as jaguars, owls, or snakes that serve as its companions",
     "behavior": "The Keeper actively guards its assigned location against those who would harm or disrespect it, using its spiritual powers to disorient, frighten, or physically block trespassers. It is known to create illusions that cause intruders to become lost in the jungle, to summon natural elements like sudden fog or rain to discourage visitors, and to appear in terrifying forms to those with malicious intent. However, the Keeper is also benevolent toward sincere pilgrims and seekers of wisdom, offering guidance through dreams, visions, or encounters with spirit animals. Modern Maya communities continue to leave offerings at sacred sites, including balche (ceremonial honey wine), corn, and copal incense, to maintain good relations with these guardians. The Keeper is particularly active at dawn and dusk, the threshold times between night and day when the veil between worlds is thinnest.",
     "habitat": "Natural environment appropriate to the being",
@@ -2097,13 +2099,14 @@
     "seo_description": "Keeper is a Maya guardian spirit from Mexico that protects sacred cenotes and ancient ruins. These feathered-headdress beings create illusions to ward off trespassers but guide sincere seekers with visions",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Regional survey of Mesoamerican indigenous traditions — Maya, Aztec, Mixtec, Zapotec, and related peoples as documented in codices, ethnographies by Sahagún, Landa, and contemporary folklore collections.",
-    "source_quality": "fair",
+    "source": "Review finding: unattested duplicate with template filler",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "keiju-0944",
@@ -2126,7 +2129,7 @@
       "sampo",
       "hiisi-portti-hiisi-s-gate"
     ],
-    "description": "Keiju are ethereal fairy beings from Finnish folklore, known as tiny, beautiful humanoids with translucent wings resembling those of dragonflies or butterflies. These delicate spirits inhabit the liminal spaces of the Finnish wilderness, particularly forest ponds, misty meadows, and the edges of deep woodlands where sunlight filters through the canopy. Keiju are considered nature spirits closely connected to the vitality of the forest and its waterways, dancing among wildflowers and resting on water lilies when they are not visible to human eyes. Unlike the more dangerous spirits of Finnish mythology such as the Hiisi or the Näkki, Keiju are generally benevolent, though they are shy and prefer to avoid human contact. They are believed to emerge primarily during the brief Finnish summer when the midnight sun illuminates the landscape with perpetual twilight",
+    "description": "The keijukainen (modern keiju) are small spirits of Finnish folk tradition, attested since Ganander's Mythologia Fennica (1789) as tiny flying beings connected with the dead — seen near funerals, graveyards, and roads, resembling snowflakes, small dolls, or flames, and counted among the kirkonväki death-spirits. The 'beautiful winged fairy' image is a later literary overlay.",
     "appearance": "Keiju are described as exquisitely beautiful humanoid beings no larger than a human hand, with delicate features and luminous skin that glows with a soft inner light reminiscent of moonlight on water. Their most striking features are their wings, which resemble those of dragonflies or butterflies, translucent and shimmering with iridescent colors that shift in the light, ranging from pale blues and silvers to soft greens and golds. They have long, flowing hair that seems to float and move as though underwater, often adorned with tiny wildflowers, dewdrops, or strands of spider silk that catch the light. Their clothing, when they wear any, is made from natural materials such as flower petals, woven grass, or spiderwebs, and their voices are said to sound like wind chimes or the gentle bubbling of a forest stream. Their eyes are large and luminous, reflecting the colors of the forest around them",
     "behavior": "Keiju are gentle, playful spirits that spend their days dancing in sun-dappled clearings, riding dragonflies, and weaving flowers into crowns and garlands. They are naturally shy around humans and will quickly hide if approached too closely, vanishing into flowers, mushrooms, or shafts of sunlight. However, they occasionally reveal themselves to children, the pure of heart, or those who show deep respect for nature, blessing them with good luck, inspiration, or the ability to understand the language of birds and animals. They are known to play harmless tricks on travelers, such as hiding small objects, leading people to beautiful hidden places, or tangling hair with bits of plant matter while they sleep. Keiju are most active during Midsummer celebrations, when the veil between worlds is thin, and they can be attracted by leaving offerings of cream, honey, or wildflowers at the edge of the forest.",
     "habitat": "Forest ponds, misty meadows",
@@ -2165,13 +2168,14 @@
     "seo_description": "Keiju are tiny, beautiful fairy beings from Finnish folklore with dragonfly-like wings that inhabit forest ponds and meadows. These gentle nature spirits bless those who respect the forest but shy away from human contact",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Finnish mythology, Kalevala compiled by Elias Lönnrot",
-    "source_quality": "good",
+    "source": "Finnish folk tradition: Ganander, Mythologia Fennica (1789); Finnish folklore-archive records of keijukaiset",
+    "source_quality": "documented",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "khas-uu-0946",
@@ -2194,7 +2198,7 @@
       "yelmo",
       "yetga-chach"
     ],
-    "description": "Khas-uu is a powerful tiger spirit from Mongolian folklore, deeply revered as the guardian spirit of the southern forest regions of Mongolia. Once roaming the forested slopes of the Khentii and Khangai mountain ranges, these magnificent spirits are now considered rare, with their numbers greatly diminished by hunting and habitat loss over the centuries. However, Mongolian traditions hold that the Khas-uu still prowls the remaining wilderness, watching over its territory with ancient wisdom and supernatural power. The tiger spirit is intimately associated with concepts of royalty, authority, and untamed natural power in Mongolian culture, serving as a symbol of the wild beauty that once dominated the southern landscape. It is considered both a physical animal and a spiritual entity that transcends the boundary between the natural and supernatural worlds",
+    "description": "Not independently attested in folklore literature. No Mongolian source documents a tiger spirit called 'khas-uu', and tigers are not native to the Khentii or Khangai ranges. 'Khas' in Mongolian tradition refers to the swastika-like eternal symbol (has tamga), not an animal. The entry is a generic animal-guardian fabrication.",
     "appearance": "The Khas-uu appears as a magnificent tiger of extraordinary size, approximately one and a half times larger than a normal tiger, with a muscular, powerful build that radiates raw strength and authority. Its fur displays the characteristic orange and black stripes of a Siberian or Caspian tiger, but with a supernatural quality that sets it apart from ordinary animals. The stripes glow faintly with an ethereal golden light, particularly visible at dusk and dawn when the spirit is most active. Its eyes are like gold coins, luminous and piercing, seeming to see directly into the soul of anyone who meets its gaze. The creatures movements are silent and fluid, barely disturbing the leaves beneath its massive paws, and it leaves no tracks even in soft mud or snow. When angered or aroused, a ghostly flame flickers around its body, and its roar echoes across the landscape like thunder",
     "behavior": "The Khas-uu is a territorial guardian that watches over its domain with keen intelligence and supernatural awareness. It tests the character of hunters and travelers who enter its territory, observing them from the shadows to determine their intentions and their respect for the natural world. A Khas-uu crossing a persons path from left to right is considered a favorable omen, indicating that the spirit approves of their presence and will grant them safe passage. However, a crossing from right to left warns of danger and advises turning back. Those who show disrespect by killing for sport, damaging the forest, or displaying arrogance may be punished by having their path blocked, their equipment destroyed, or even facing the spirits physical wrath. The Khas-uu is associated with royalty and power, and in ancient times, Mongol khans would invoke the spirit for courage and authority before battle.",
     "habitat": "Southern Mongolian mountains and forests",
@@ -2237,13 +2241,14 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Mongolian folklore — Khas Uu animal spirit.",
-    "source_quality": "good",
+    "source": "Review finding: unattested; 'khas' is the Mongolian swastika-symbol term (has tamga)",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "khodumodumo-lesotho-0947",
@@ -2362,7 +2367,7 @@
       "mama-dlo",
       "lakemonstermapuche-chile"
     ],
-    "description": "Kibanda is a water spirit from the folklore of the Bunyoro region of Uganda, deeply respected by local fishing communities who depend on the waters of Lake Bunyoro and its surrounding waterways for their livelihood. This powerful aquatic being is considered the master of the lakes fisheries, controlling the abundance or scarcity of fish based on its assessment of human behavior. Kibanda is known to manifest in multiple forms, most commonly described as either a gigantic python that coils beneath the waters surface or an enormous hippopotamus that rises from the depths. Fishermen approach the waters with great reverence, knowing that their catch depends entirely on the favor of this spirit. The Kibanda tradition reflects the deep connection between East African communities and their aquatic environments, where spiritual beliefs govern sustainable resource use and community ethics",
+    "description": "Not independently attested in folklore literature. No Bunyoro or Ugandan source documents a water spirit called 'Kibanda', and 'Lake Bunyoro' does not exist; the python-and-hippo master-of-the-fishery is generic filler. The genuine water-god of the region is Mugizi, associated with Lake Albert and the Cwezi kubandwa spirit cult.",
     "appearance": "Kibanda manifests in several distinct forms depending on its mood and purpose. In its most commonly reported form, it appears as an enormous python of immense proportions, with glistening black and green scales that seem to absorb light rather than reflect it, making it nearly invisible beneath the water. Its head is as large as a cooking pot, with amber eyes that glow like fire embers in the darkness. Alternatively, Kibanda appears as a colossal hippopotamus with hide like ancient stone, its back breaking the surface of the water with authority. Some accounts describe the spirit as a hybrid creature combining features of both animals, with a serpents body and a hippopotamuss head. When the spirit is active, the waters of the lake become unusually calm or turbulent, and strange ripples form without apparent cause. The Kibanda is said to be able to change its size at will, from invisible to monstrous",
     "behavior": "Kibanda controls the fish populations of Lake Bunyoro, actively rewarding ethical fishermen who practice sustainable harvest with abundant catches while punishing those who overfish, use destructive methods, or show disrespect to the water. Fishermen who make proper offerings and follow traditional protocols before launching their boats are blessed with nets full of fish, while those who act greedily or carelessly may find their nets empty, their boats capsized, or themselves pulled beneath the water by unseen forces. The spirit is known to test fishermen by appearing suddenly, causing their boats to rock violently, and only those who remain calm and show proper respect will be spared. Before each fishing season, community elders perform ceremonies to honor Kibanda and secure its blessing, offering millet beer, bananas, and the first catch of the season as tribute to the spirit of the lake.",
     "habitat": "Lake Bunyoro",
@@ -2404,13 +2409,14 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Ugandan folklore — Kibanda water spirit documented in Ugandan oral tradition.",
-    "source_quality": "fair",
+    "source": "Review finding: unattested; closest analogue is Mugizi of Lake Albert (Bunyoro/Cwezi cult)",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "kibati-0949",
@@ -2504,7 +2510,7 @@
       "mara-ukraine",
       "lesovik"
     ],
-    "description": "The Kiev Ghost is a legendary phantom from Ukrainian folklore, said to haunt the ancient streets, churches, and catacombs of Kyiv, one of Eastern Europes oldest and most historically layered cities. This spectral figure is most commonly identified as the spirit of a murdered monk or soldier from centuries past, bound to the earthly realm by unfinished business or violent death. The ghost is intimately connected to Kyievs rich history, which spans over 1,500 years including the Kyivan Rus period, Mongol invasions, Cossack uprisings, and modern conflicts. Depending on the tale, the Kiev Ghost appears to those who are in need, offering cryptic warnings, guidance to hidden treasures, or reassurance during times of crisis. The ghost embodies Ukraines complex and often tragic history, serving as a spiritual guardian of the nations cultural heritage and ancestral memory",
+    "description": "The Ghost of Kyiv is a Ukrainian wartime legend that emerged in the first days of the 2022 Russian invasion: a mysterious MiG-29 pilot reportedly downing multiple Russian aircraft over the capital. It became a symbol of resistance and morale before officials clarified that the story was a composite. The entry's medieval 'catacomb haunting' is replaced with the attested modern legend.",
     "appearance": "The Kiev Ghost typically appears as a solemn figure dressed in ancient monastic robes of dark wool or as a soldier wearing medieval Kyivan Rus armor, complete with a conical helmet and chainmail that clinks softly with each movement. The figure glows with a faint, ethereal luminescence that provides just enough light to reveal its features without casting a shadow on the ground, a detail that confirms its supernatural nature. Its face is pale and solemn, with dark eyes that hold centuries of sorrow and wisdom, and its hands are often clasped in prayer or resting on the hilt of a sword. Some accounts describe the ghost wearing the black cassock of an Orthodox monk with a koukoulion hood, while others depict it in the colors of the Zaporozhian Cossacks. The apparition may appear solid at first but gradually becomes translucent, and it moves without sound, gliding a few inches above the ground",
     "behavior": "The Kiev Ghost manifests exclusively at midnight, the traditional hour when the boundary between the living and the dead is at its thinnest. It appears before those who are lost, troubled, or in genuine need, speaking in a whisper that carries clearly despite its softness. The ghost delivers warnings of impending danger, reveals hidden passages, or recites ancient prayers in Church Slavonic that bring comfort to the distressed. It has been known to lead people to hidden treasures buried during times of invasion, point out secret tunnels beneath the city, or appear on the walls of the Kyivan Pechersk Lavra monastery to bless those who pass below. The ghost is selective about whom it appears to, revealing itself only to those who are spiritually receptive or in genuine need. When its message is delivered, it fades away like morning mist, leaving behind the faint scent of incense and candle wax. Those who see it are forever changed.",
     "habitat": "Kyiv churches, streets, underground passages",
@@ -2547,13 +2553,14 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Ukrainian folklore; hauntings of Kyiv streets, documented in local urban legends.",
-    "source_quality": "good",
+    "source": "Ukrainian wartime legend (2022); Ukrainian officials and press coverage",
+    "source_quality": "documented",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "kikimora-russia-0951",
@@ -3033,7 +3040,7 @@
       "awonawilona",
       "micipabis-usa"
     ],
-    "description": "Kitchi-Manitou, also known as Gitche Manitou or Gichi-manidoo, is the Great Spirit in the spiritual traditions of Algonquian-speaking Native American peoples of the United States, including the Ojibwe, Potawatomi, Menominee, and other tribes of the Great Lakes region. As the supreme creative force in the universe, Kitchi-Manitou is understood as the source from which all life, energy, and spiritual power emanate. Unlike the personified gods of many other religious traditions, Kitchi-Manitou represents a more abstract, all-pervasive spiritual reality that connects every aspect of existence in a sacred web of relationships. This concept of the Great Spirit is central to the traditional worldview that governs how people relate to each other, to nature, and to the spiritual realm. Kitchi-Manitou is the ultimate authority behind the Midewiwin or Grand Medicine Society, the traditional spiritual organization that has preserved sacred knowledge across generations In United States folklore, this figure is known among the USA people.",
+    "description": "Kitchi-Manitou (Gitche Manitou, Gichi-manidoo) is the Great Spirit of Algonquian-speaking peoples such as the Ojibwe, Potawatomi, and Menominee: the supreme creative power behind all life and spiritual authority, including the Midewiwin (Grand Medicine Society). The entry is condensed to the attested Great Spirit, and the empty filler naming 'the USA people' is removed.",
     "appearance": "Kitchi-Manitou is not portrayed with a physical form or anthropomorphic features, as it transcends human concepts of appearance and exists as an omnipresent spiritual essence. Its presence is made known through the grandeur and power of the natural world, with the sun often considered its most direct physical manifestation, providing light and life to all creation. The four cardinal directions are understood as expressions of the Great Spirits power, each bringing specific teachings, gifts, and challenges. In ceremonial contexts within the Midewiwin lodge, Kitchi-Manitou may be represented by the sacred miigis shell or by the central fire that burns during important rituals, symbolizing the eternal light of creation. Elders describe the presence of the Great Spirit as a feeling of profound peace, warmth, and connection that descends upon those who are spiritually prepared, rather than a visual apparition. The medicine wheel, with its four colors representing the four directions, races, stages of life, and aspects of being, serves as a symbolic representation of Kitchi-Manitous universal nature",
     "behavior": "In the spiritual traditions of US Algonquian peoples, Kitchi-Manitou establishes the fundamental laws of the universe, including the principles of reciprocity, respect, balance, and harmony that govern all relationships within creation. The Great Spirit does not micromanage human affairs but provides the framework within which individuals and communities exercise their free will and face the consequences of their choices. Communication with Kitchi-Manitou occurs through prayer, meditation, fasting, vision quests, and the ceremonial life of the community, particularly through the Midewiwin lodges that preserve the sacred teachings. Offerings of tobacco, the sacred plant that carries prayers to the spirit world, are fundamental to establishing communication with the Great Spirit. The sweat lodge ceremony, where participants pray and purify themselves in a small, dark structure heated by sacred stones, is considered a direct way to connect with Kitchi-Manitou. Dreams and visions are respected as potential messages from the spirit world, but their interpretation requires the guidance of experienced elders.",
     "habitat": "Natural world, spirit realm, forests, skies, rivers",
@@ -3071,13 +3078,14 @@
     "seo_description": "Kitchi-Manitou is the Great Spirit of Algonquian Native Americans in the Great Lakes region, the supreme creative force in Ojibwe and related traditions. This universal presence guides through natural laws, sweat lodge ceremonies, and the Midewiwin Grand Medicine Society",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Ojibwe/Algonquian religion — Kitchimanitou is the Great Spirit of Algonquian cosmology.",
+    "source": "Ojibwe/Algonquian religion: Gichi-manidoo as Great Spirit; Midewiwin tradition",
     "source_quality": "expert",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "kitsune-0960",
@@ -3335,7 +3343,7 @@
       "wei-e-frauen",
       "beetgumer-grom"
     ],
-    "description": "The Klabautermann is a water-kobold and ship spirit in Frisian, German, and Dutch maritime folklore — a small, pipe-smoking sailor-specter who resides aboard seagoing vessels from their very construction until their sinking. He is an ambiguous figure, simultaneously a guardian spirit who protects the crew and an omen of doom whose visible appearance foretells certain shipwreck. According to tradition, the Klabautermann enters a ship through its timber: if a stillborn or unbaptized child was buried under a tree later used for shipbuilding, its soul becomes the Klabautermann. By night he works small miracles — repairing broken tackle, pumping out leaks, coiling ropes, and polishing brass — so that sailors wake to a perfectly maintained ship. But if the crew becomes lazy, drunken, or blasphemous, he turns malicious, tangling rigging, hiding tools, and slapping sailors across the face with invisible hands. When the ship is doomed, he reveals himself, then abandons the vessel to its fate In Germany folklore, this figure is known among the Germany people.",
+    "description": "The Klabautermann is a ship spirit of German, Frisian, and Scandinavian maritime lore: a small sailor-specter who lives aboard a vessel, working unseen at night — mending ropes, pumping leaks, polishing — and guarding the ship, but who may turn malicious toward a slovenly or blasphemous crew, and whose visible appearance foretells shipwreck.",
     "appearance": "The Klabautermann is usually described as a small, wizened sailor with a red or gray beard, dressed in old-fashioned seaman's clothing: yellow or gray wool trousers, a striped jersey, and a sailor's cap. He is often depicted smoking a long clay pipe and carrying a small caulking mallet. He can appear as a small boy in gray or blue, or as a dancing blue flame (St. Elmo's fire) in the rigging before a death.",
     "behavior": "The Klabautermann is active at night while the crew sleeps. He performs all essential maintenance: pounding caulking into leaking seams, sharpening tools, splicing ropes, and stowing cargo properly. He shows appreciation for grateful crews by leaving small gifts or completing dangerous rigging work. He signals his displeasure by making loud knocking sounds, throwing firewood, and creating general ruckus. The most feared event is the Klabautermann showing himself — this is an infallible sign the ship will sink within days. He is said to appear as a small blue flame dancing in the rigging before a death.",
     "habitat": "The Klabautermann lives aboard sailing ships, specifically under the capstan (anchor windlass) or in the anchor chain locker. He travels with his ship across the North Sea, Baltic Sea, and all waters where Germanic sailors venture. He cannot exist on land and disappears if the ship is broken up or abandoned.",
@@ -3384,16 +3392,17 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "German/Frisian maritime folklore; the Klabautermann is a ship spirit.",
-    "source_quality": "good",
+    "source": "German/Frisian/Scandinavian maritime folklore; documented in seamanship and folk-belief literature",
+    "source_quality": "documented",
     "stories": [
       "the-nutcracker-and-the-mouse-king"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/klabaʊtəɾman/"
+    "pronunciation_ipa": "/klabaʊtəɾman/",
+    "attested": true
   },
   {
     "id": "kobold-0964",
@@ -3923,7 +3932,7 @@
       "yuki-onna",
       "yurei-edo-period"
     ],
-    "description": "Koreisha, also known as Geongumi or Wonhon, is a type of vengeful ghost from Korean folklore, the spirit of a person who died with a deep grudge or under unjust circumstances. These restless souls are unable to move on to the afterlife because of the powerful negative emotions that bind them to the earthly realm. Koreisha are most commonly the spirits of women who died tragically, often due to social injustice, betrayal, or violence, reflecting the historical struggles of women in Korean society. The belief in koreisha is deeply rooted in Korean shamanism, where death is not seen as an end but as a transition that can be disrupted by unresolved emotions. These ghosts serve as powerful reminders of the importance of justice, proper funeral rites, and addressing social wrongs. The Korean concept of han, a feeling of unresolved resentment, is central to understanding the koreisha condition",
+    "description": "Not independently attested in folklore literature. 'Koreisha' is the Japanese word for 'elderly people', and no Korean ghost tradition uses this name; the aliases 'geongumi' and 'wonhon' conflate invented names with the real Korean concept of wonhon, the resentful spirit of a wronged dead person. The attested figure is wonhon, not 'koreisha'.",
     "appearance": "A Koreisha typically appears as a ghostly human figure wearing traditional Korean burial clothes, usually a white hanbok known as a suui or soban, which is the traditional death garment. The figure has disheveled, long black hair that often covers the face, obscuring features except for occasional glimpses of pale, bloodless skin. Some accounts describe the Koreisha as having no eyes, only empty, dark sockets from which blood may weep, or having gaping wounds that reveal the manner of their death. The physical form is often translucent or flickering, appearing solid one moment and fading the next. The ghost floats a few inches above the ground, its feet never touching the earth, and its presence is preceded by a sudden drop in temperature and the smell of damp earth or rotting flowers. Some Koreisha are described as having long, claw-like fingernails and teeth that have grown after death, giving them a monstrous aspect",
     "behavior": "Koreisha haunt specific locations connected to their death or their former life, appearing at night to terrorize those who wronged them or who happen to cross their path. They cause misfortune, illness, and death through their presence, whispering curses that bring bad luck, appearing in dreams to torment the guilty, and physically draining the life force from those they encounter. The ghost is particularly active on the anniversary of its death and during the Korean festival of Baekjung when the boundary between worlds is thin. Traditional remedies include hiring a mudang shaman to perform a gut exorcism ceremony that discovers the ghosts grievance, negotiates with it, and performs the proper rituals to release it from its earthly attachments. Offerings of food, money, and clothing are made at the ghosts haunting site, and sometimes the spirit can be appeased by righting the wrong that caused its death. If unresolved, the koreisha may become a Dokkaebi, an even more powerful and malicious goblin-like entity.",
     "habitat": "Where they died or lived",
@@ -3965,16 +3974,17 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Korean folklore; vengeful ghosts (Koreisha) who haunt locations until resolved.",
-    "source_quality": "good",
+    "source": "Review finding: unattested as a Korean ghost; the real concept is wonhon",
+    "source_quality": "poor",
     "stories": [
       "the-moon-rabbit-of-korea"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/ɡʌŋɡumi/"
+    "pronunciation_ipa": "/ɡʌŋɡumi/",
+    "attested": false
   },
   {
     "id": "korkyt-0972",
@@ -4139,7 +4149,7 @@
       "jor-gumo",
       "tsukumogami"
     ],
-    "description": "Kosenj is a type of tsukumogami from Japanese folklore, a spirit that inhabits old lamps and lanterns that have been used for a hundred years or more. The name kosenj literally means \"old thousand-day fire\" and refers to the belief that objects of illumination, particularly andon paper lamps and chochin lanterns, develop their own consciousness and spirit after a century of faithful service. These yokai are part of the broader tsukumogami tradition in Japanese folklore, where everyday objects that reach their centennial anniversary become animated by spirits. Kosenj are typically associated with the warm season when they are most active, floating through summer nights with their flames flickering eerily. Like many tsukumogami, kosenj are neither purely good nor evil but reflect the treatment they received during their years of service, becoming playful or malicious depending on how they were cared for",
+    "description": "Kosenjōbi are ghost-fires of Japanese folklore: will-o'-the-wisp flames that appear over old battlefields, said to be the spirits of soldiers and horses killed in war, rising from the ground at dusk. The name is recorded in early modern collections such as the Shūchin-sō (17th century) and depicted in Toriyama Sekien's Konjaku Gazu Zoku Hyakki.",
     "appearance": "Kosenj appears as an old-fashioned Japanese lamp or lantern that has come to life, retaining the basic shape of its original form while gaining an unsettling sentience. The traditional andon lamp form consists of a paper-covered frame sitting on a wooden base, with the paper often yellowed and torn from age, revealing the ghostly flame burning within. The lantern forms, both the cylindrical chochin and the hanging tsuri-doro, are similarly aged and worn, with faded paint and torn paper. What distinguishes a kosenj from an ordinary lamp is the presence of a ghostly face that appears on the paper surface, with eyes, nose, and mouth forming from the shadows and light patterns cast by the flame within. The flame itself flickers with an unnatural quality, changing color from warm yellow to cold blue or green, and sometimes detaching from the lamp to float independently. The kosenj moves by hopping or floating, the lantern swaying as though carried by an invisible hand, casting dancing shadows on surrounding surfaces",
     "behavior": "Kosenj float through the night, flickering in ways that draw attention and sometimes startling humans who encounter them unexpectedly. In their benign aspect, they provide mysterious illumination that can guide lost travelers or simply create an eerie but harmless presence at temples and crossroads. However, they can become more dangerous when angered or disrespected, extinguishing other lights to create darkness, causing small fires by brushing their flame against flammable materials, and frightening people by suddenly appearing close to their faces. They are particularly active during the Obon season when the spirits of the dead are believed to return to the world of the living. Kosenj are attracted to other lights and may gather in groups, their collective flames creating an impressive display. Some legends say that kosenj protect the homes they once illuminated, driving away burglars and evil spirits with their watchful flame. Like all tsukumogami, they should be treated with respect, and old lanterns should be disposed of properly rather than simply thrown away.",
     "habitat": "Old temples, abandoned houses, attics",
@@ -4179,13 +4189,14 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Japanese folklore; tsukumogami spirits of old lanterns.",
-    "source_quality": "good",
+    "source": "Japanese folklore: Shūchin-sō (17th c.); Toriyama Sekien, Konjaku Gazu Zoku Hyakki; yokai literature",
+    "source_quality": "documented",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "kostroma-0975",
@@ -4418,7 +4429,7 @@
       "eagle-deity-khmer",
       "phi-kam"
     ],
-    "description": "Krahom is a vengeful ghost from Cambodian folklore, the restless spirit of a person who died a violent or unjust death, bound to the earthly realm by the intensity of their final emotions. The name krahom reflects the deep connection between violent death and spiritual unrest in Khmer tradition, where improper death creates lingering spirits that cannot find peace. These ghosts are particularly feared in rural Cambodia, where they are blamed for a wide range of misfortunes from illness and crop failure to accidents and unexplained deaths. The Krahom is not inherently malicious but becomes dangerous because its suffering and anger twist its nature. The belief in such spirits reflects the importance of proper funeral rites and the resolution of grievances in Khmer Buddhist culture, where the living have a responsibility to help the dead move on to their next existence through merit-making ceremonies and compassionate action",
+    "description": "Not independently attested in folklore literature. No Cambodian tradition documents a vengeful ghost called 'Krahom'; the Khmer word krahom simply means 'red', and the invented etymology and vengeful-ghost details are filler. Khmer spirit belief does include neak ta (tutelary guardians) and various ghosts, but no attested figure corresponds to this entry.",
     "appearance": "The Krahom appears as a pale, ghostly figure in the form it had at the moment of death, with all wounds and injuries visible on its spectral body. It wears tattered remnants of the clothing it died in, often stained with blood, dirt, or water depending on the manner of death. The face is frozen in an expression of anger, sorrow, or shock, with eyes that may be completely white or bleeding, and a mouth that may be fixed open in a silent scream. Its skin has the gray-white pallor of death, and the air around it grows noticeably cold. Those who encounter a Krahom report feeling an overwhelming sense of dread and suffocating pressure, as though the weight of the spirits tragic death presses down on them. The ghost may appear solid or translucent, and it moves with an unnatural gait, sometimes dragging a wounded limb or floating above the ground. The Krahom may also manifest as sounds such as crying, whispering, or footsteps in empty rooms",
     "behavior": "The Krahom haunts the location of its death or places associated with its former life, appearing primarily at night to terrify those who encounter it. Its behavior is driven by the desire for justice, revenge, or proper funeral rites. The ghost may cause physical harm to those it blames for its death, create disturbances that frighten residents away, or inflict illness on those who occupy its haunting site. However, some Krahom seek only to communicate their need for proper rituals, appearing to family members in dreams or creating signs that something is wrong. In Cambodian tradition, the proper response to a haunting is to consult Buddhist monks, who can perform protective ceremonies, chant sutras to calm the spirit, and conduct merit-transfer rituals that help the ghost move on to a better rebirth. Offerings of food, incense, and paper money are made at the haunting site, and if the ghost is seeking revenge, the community may work to resolve the underlying injustice. The Krahom is bound until its grievances are addressed.",
     "habitat": "Scene of death, family home, angry places",
@@ -4461,17 +4472,18 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Cambodia mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source": "Review finding: unattested; krahom means 'red'; Khmer spirit tradition centers on neak ta",
+    "source_quality": "poor",
     "stories": [
       "vorvong-and-sorvong-the-two-princes-of-khmer-legend",
       "neang-kakey-the-unfaithful-wife-of-khmer-literature",
       "the-legend-of-the-bayons-many-faces"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "krakono-0979",
@@ -5252,7 +5264,7 @@
       "bacul",
       "tulisan"
     ],
-    "description": "Kulfre is a mountain spirit from Albanian folklore, a mysterious phantom that haunts the peaks and ridges of the Albanian Alps. This supernatural being is most commonly described as a headless humanoid figure that dances on mountaintops, appearing at night as a luminous ball of fire or a glowing human shape that moves with an eerie, fluid grace. The kulfre is deeply connected to the ancient Illyrian and Balkan beliefs that mountains are sacred spaces where the boundary between the human world and the spirit realm is thin. Unlike the more dangerous spirits of Albanian tradition, the kulfre is not actively malevolent but rather a neutral supernatural phenomenon, a remnant of older pagan beliefs that persisted alongside Christianity. Its appearances are considered omens, though whether for good or ill depends on the tradition and the circumstances of the encounter",
+    "description": "Not independently attested in folklore literature. No Albanian source documents a mountain spirit called 'Kulfre' or a headless dancing phantom of the Albanian Alps; the description appears to be invented. Genuine Albanian tradition includes figures such as the zana (mountain fairies) and orë, but no 'Kulfre' appears in the recorded folklore.",
     "appearance": "The kulfre appears most commonly as a luminous ball of fire that dances and bounces across mountain peaks at night, leaving a trail of pale light that lingers momentarily before fading. Alternatively, it manifests as a headless humanoid figure, its form outlined in a pale, flickering luminescence that illuminates the darkness without casting shadows. The figure moves with an unnatural, graceful swaying motion as though dancing to music that only it can hear, its arms raised and body twisting in a eternal, solitary dance. In its fire form, the light varies in color from pale blue to orange-red, and it pulses in a rhythm that matches a heartbeat. The kulfre makes no sound as it moves, and the air around it is still and cold, even on the windiest nights. Some accounts describe the spirit as being transparent or semi-transparent, allowing the mountain landscape to be seen through its glowing form. Its movements leave no trace on the ground",
     "behavior": "The kulfre dances alone on mountain peaks during moonless nights, its ghostly performance visible from distant villages as a flickering light that seems to beckon. Its purpose is mysterious, but it is considered a powerful omen, and those who see it are said to be marked in some way. The most dangerous aspect of the kulfre is its seductive pull: anyone who watches its dance for too long feels an irresistible urge to join it, drawn by an overwhelming sense of longing for the freedom and beauty of its movement. Those who succumb and attempt to reach the kulfre become lost in the mountains, wandering until they fall from a cliff or die of exposure at dawn. The kulfre itself does not attack or pursue but simply dances on, indifferent to human observers. In some interpretations, the kulfre represents the souls of those who died in the mountains, forever dancing in the place of their death. Traditional Albanian mountain people avoid looking directly at the kulfre and carry iron or brass objects as protection.",
     "habitat": "Mountaintops",
@@ -5294,14 +5306,15 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Albanian folklore — spirit documented in Albanian oral tradition.",
-    "source_quality": "fair",
+    "source": "Review finding: unattested; closest analogues are zana and orë",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/kulfɾe/"
+    "pronunciation_ipa": "/kulfɾe/",
+    "attested": false
   },
   {
     "id": "kulmking-0990",
@@ -5612,7 +5625,7 @@
       "turtle-trickster-of-ashanti",
       "adinkra"
     ],
-    "description": "The Kumasi Ghost is a specialized ancestral spirit from the Ashanti tradition of Ghana, particularly associated with the royal court of Kumasi, the historic capital of the Ashanti Kingdom. These spirits serve as messengers and intermediaries between the living world and the ancestral realm, playing a crucial role in the spiritual governance of the Ashanti people. The Kumasi Ghost is distinct from ordinary ghosts or wandering spirits because it is specifically connected to the royal court, carrying messages between the living king and the departed kings who sit in the ancestral council. The belief in these spirits reflects the Ashanti understanding that the living and the dead exist in a continuous relationship of mutual obligation, with the ancestors retaining an active interest in the affairs of their descendants and the health of the kingdom",
+    "description": "Not independently attested in folklore literature. No Ashanti (Asante) source documents a 'Kumasi Ghost' as a royal-court messenger spirit; the description is generic ancestor-belief applied to an invented figure. Akan tradition does recognize spirits of the dead such as the saman and the restless atofo, but no attested 'Kumasi Ghost' corresponds to this entry.",
     "appearance": "The Kumasi Ghost manifests as a dignified figure that appears in dreams, visions, or as a subtle presence in the royal court. When it takes visible form, it appears as an elder dressed in traditional Ashanti kente cloth of gold and black, the colors of royalty and the spirit world. The figure may carry a ceremonial sword or staff that marks its authority as a messenger of the ancestors, and its face bears the calm, wise expression of one who has transcended earthly concerns. Some accounts describe the ghost as appearing at dawn or dusk, the threshold times when the boundary between worlds is permeable, standing silently in the shadows of the royal palace before delivering its message and fading away. The spirit leaves no footprints, and its presence is accompanied by the faint sound of distant drumming and the scent of palm wine and burning incense",
     "behavior": "The Kumasi Ghost appears at times of crisis, transition, or significant decision-making within the Ashanti kingdom, bearing messages from the ancestral kings to the living ruler. It may warn of impending danger, provide guidance on matters of state, confirm the legitimacy of a new ruler, or deliver censure for actions that violate ancestral customs. The ghost communicates through a designated court official or priest who interprets its messages, as it rarely speaks directly to the king. Its appearances are taken with the utmost seriousness, and the messages it conveys are considered binding upon the living. The Kumasi Ghost also serves as a protector of the royal lineage, ensuring that the traditions of the court are maintained and that the sacred objects of the kingdom, such as the Golden Stool, are properly honored. Offerings of palm wine, food, and kente cloth are made at the ancestral shrine to maintain the favor of these spirits.",
     "habitat": "Royal courts",
@@ -5655,13 +5668,14 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Regional survey of West African oral traditions — Yoruba, Akan, Mande, Igbo, Ewe, and related peoples as documented by Herskovits, Frobenius, Parrinder, and ethnographic surveys.",
-    "source_quality": "fair",
+    "source": "Review finding: unattested; Akan spirit terms are saman and atofo",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "kumiho-0995",
@@ -5755,7 +5769,7 @@
       "mishipizheu-canada",
       "mythicanimals-canada"
     ],
-    "description": "Kumvo is a spirit being from the mythology of the Kwakiutl people, also known as the Kwakwaka_wakw, an Indigenous nation of the Pacific Northwest coast of Canada. These spirits inhabit the rich spiritual landscape of Kwakiutl tradition, where the natural and supernatural worlds are deeply intertwined and where animals, natural features, and ancestral spirits all possess consciousness and power. The kumvo is part of the complex Kwakiutl understanding of the spirit world, which includes numerous categories of beings from animal spirits and ancestor spirits to the powerful beings that appear in the winter ceremonials. The Kwakiutl spiritual tradition is one of the most elaborate among Northwest Coast peoples, with an extensive pantheon of supernatural beings that govern all aspects of life. The kumvo would have been understood through the oral traditions passed down by elders and through the ceremonial life of the community",
+    "description": "Not independently attested in folklore literature. No Kwakwaka'wakw source documents a spirit called 'Kumvo'; the description is hedged ('would have been understood') generic spirit-world filler with no named figure or story. The Kwakwaka'wakw do have a rich ceremonial spirit world, but this name is unattested in their recorded traditions.",
     "appearance": "The kumvo is depicted in the distinctive artistic style of the Kwakiutl people, characterized by bold formline designs, dramatic curves, and the use of natural pigments including black, red, and blue-green. In ceremonial regalia and masks, the kumvo may be represented with features that blend human and animal characteristics, such as large eyes surrounded by concentric circles representing supernatural vision, a wide mouth with prominent teeth, and symbolic designs on the face that identify its specific nature and power. The spirit may be associated with specific animals such as the raven, wolf, bear, or killer whale, and its representation incorporates elements of those creatures. Traditional Kwakiutl art communicates the essence of a being through stylized but recognizable features, and the kumvo appearance in mask form would have included elaborate headdresses, cedar bark fringe, and symbolic paint that conveyed its status and powers to the initiated",
     "behavior": "The kumvo interacts with the human world through the ceremonial system of the Kwakiutl, particularly the winter ceremonials when the boundary between the human and spirit worlds is open. These spirits are believed to appear to individuals in dreams or visions, granting them special powers, songs, dances, and prerogatives that become part of their family heritage. The kumvo may also be encountered by those who venture into remote areas of the forest or coast, where they test the character of those they meet. Proper behavior toward the kumvo includes showing respect, following traditional protocols, and participating in the ceremonies that honor these spirits. The relationship between humans and kumvo is reciprocal: the spirits provide protection, power, and guidance in exchange for proper recognition and offerings. The most important interactions occur during potlatch ceremonies, where masked dancers embody the kumvo and other spirits, bringing their power directly into the community.",
     "habitat": "Natural world, spirit realm, forests, skies, rivers",
@@ -5793,13 +5807,14 @@
     "seo_description": "Kumvo is a spirit being from Kwakiutl mythology of the Pacific Northwest, appearing in elaborate ceremonial masks and winter dances. These powerful spirits interact with humans through dreams, visions, and potlatch ceremonies",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Indigenous Canadian folklore — spirit documented in First Nations oral tradition.",
-    "source_quality": "fair",
+    "source": "Review finding: unattested; no Kwakwaka'wakw source found",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "kuntilanak-0997",
@@ -5898,7 +5913,7 @@
       "pele-hawaii",
       "hale-mo-o"
     ],
-    "description": "Kupua are shapeshifting spirits from Hawaiian folklore, powerful supernatural beings that can take the form of any animal, plant, or object in the natural world. These spirits are among the most versatile and dangerous entities in the Hawaiian spiritual tradition, capable of moving unseen through the islands and causing harm or help depending on their nature and intentions. The kupua are associated with dark magic and are often summoned or controlled by kahuna sorcerers for specific purposes. However, not all kupua are malevolent; some are neutral or even helpful, serving as guardians of specific locations or families. The concept of kupua reflects the Hawaiian understanding of a universe where the boundaries between different forms of existence are fluid and where spiritual power can be channeled through proper ritual and knowledge. Kupua are particularly active during twilight hours when the veil between worlds is thin",
+    "description": "In Hawaiian tradition, kupua are shapeshifting demigods and magical beings who can take many forms, with well-known examples such as Kamapua'a (the hog-god) and figures in the epic cycles collected in the 19th century. The description is condensed to the attested shapeshifter-demi god tradition; the invented 'summoned by kahuna' and 'twilight veil' specifics are removed.",
     "appearance": "A kupua can take virtually any form it chooses, making its appearance unpredictable and difficult to describe. It may appear as a common animal such as a dog, cat, bird, fish, or insect, or as a plant such as a tree, vine, or flower. Some kupua prefer to manifest as inanimate objects like stones, shells, or pieces of driftwood that seem ordinary but feel strangely warm or heavy. However, regardless of the form it takes, every kupua has a hidden flaw that reveals its true nature to the observant: one eye may be a different color, the feature may lack a reflection, its shadow may have the wrong shape, or it may leave tracks that do not match its apparent form. In its true form, the kupua is described as a shadowy humanoid figure with features that shift and flow like liquid, never settling on a single appearance. Its eyes glow in the darkness, and its voice may sound like multiple people speaking at once",
     "behavior": "Kupua use their shapeshifting abilities primarily to deceive and manipulate humans, approaching victims in innocent forms before revealing their true purpose. They are known to lead travelers astray, appearing as familiar landmarks that guide people into dangerous areas, or as lost children that lure rescuers into traps. Kupua can possess humans, causing personality changes, illness, and strange behavior. However, they can also be helpful if properly approached and respected, serving as guides, protectors, or sources of knowledge. A kupua can be identified by its subtle flaw, and once recognized, it loses much of its power to deceive. Powerful kahuna shamans are skilled in dealing with kupua, using ritual knowledge to command, banish, or negotiate with them. Certain plants, particularly those with strong smells or protective properties, can repel kupua, and carrying a piece of iron or obsidian is said to prevent them from approaching. The most dangerous kupua are those that have bonded with a sorcerer, acting as their eyes and hands across the islands.",
     "habitat": "Everywhere, but especially haunted places",
@@ -5943,13 +5958,14 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Hawaiian mythology — Kupua are shapeshifter demigods documented in Hawaiian oral tradition.",
-    "source_quality": "good",
+    "source": "Hawaiian oral tradition: kupua demigods (e.g., Kamapua'a) in 19th-century collections",
+    "source_quality": "documented",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "kurupira-0999",
@@ -7308,7 +7324,7 @@
       "utlat-carthaginian-spirits",
       "alkhidr-egypt"
     ],
-    "description": "The Kerkennah Islands, a low-lying archipelago off the coast of Tunisia, are steeped in mystery and legend. According to local folklore, these islands were once part of a vast and wealthy kingdom that sank into the sea due to a divine curse—a legend reminiscent of the Atlantis myth. Today, the remaining islands are believed to be inhabited by spirits, the ghosts of the kingdom's former inhabitants. Fishermen and locals report strange phenomena: unexplained lights flickering over the water at night, sounds of phantom voices carried on the wind, and the sensation of being watched when alone on the beaches. The spirits are generally described as benign but melancholic, forever bound to the place where their kingdom fell. The Kerkennah Islands have a unique landscape of very low-lying land, extensive seagrass meadows, and ancient olive groves that can feel otherworldly. The legend adds to the islands' mysterious atmosphere and has become part of their cultural identity. Some versions of the myth suggest that the sunken kingdom can still be glimpsed on unusually calm days beneath the waves",
+    "description": "Not independently attested in folklore literature. The sunken-kingdom 'Atlantis' legend of Kerkennah is a modern retelling with no traditional source, and the ghost-inhabitant framing is invented. The real Kerkennah origin stories concern the founding families, notably the Ouled Bou Ali, as studied by Katherine Platt; no sunken kingdom or island-spirit cult appears in the recorded tradition.",
     "appearance": "The spirits appear as flickering lights over the sea at twilight, as shadowy figures among the olive groves, or as shimmering shapes just beneath the water's surface. They are rarely seen clearly but are felt as presences.",
     "behavior": "The Kerkennah spirits are generally peaceful but curious. They may approach lone visitors, particularly at sunset, and are known to lead lost fishermen back to shore or warn of approaching storms.",
     "habitat": "The Kerkennah Islands (Chergui, Gharbi, and surrounding islets) and the surrounding waters",
@@ -7369,16 +7385,17 @@
       "mystery"
     ],
     "featured_in_stories": [],
-    "source": "Carthage Magazine; Tunisian oral traditions",
-    "source_quality": "good",
+    "source": "Review finding: unattested as a sunken kingdom; real origin myth is the Ouled Bou Ali tradition (K. Platt, SOAS)",
+    "source_quality": "poor",
     "fun_fact_generated": false,
     "stories": [
       "katrineholm-manor"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "kilibob-and-manup-3324",
@@ -12627,7 +12644,7 @@
       "amenokal-tuareg",
       "la-loba"
     ],
-    "description": "Khorba spirits are supernatural beings in Berber folklore from Morocco and Algeria that inhabit abandoned buildings, ancient ruins, and collapsed granaries (the word 'khorba' means ruin or dilapidated building in Maghrebi Arabic and Berber dialects). These spirits are considered the guardians of forgotten places, protecting the remnants of previous civilizations. They are particularly associated with ksour (fortified villages) and granaries in the Atlas Mountains and the pre-Saharan valleys. Unlike the more generic jinn, Khorba spirits are tied to specific ruins and are believed to be the lingering spirits of the original inhabitants. They cause mischief: hiding tools, making noises at night, and leading people away from the ruins. However, they also protect the ruins from being completely destroyed or looted",
+    "description": "In Maghrebi folk belief, jinn and spirits are commonly said to haunt khorba, the ruined or abandoned buildings of North Africa — collapsed granaries, deserted ksour, and old fortifications. These beings are feared for mischief and nocturnal disturbance, and ruins are avoided after dark.",
     "appearance": "Short, shadowy humanoid figures that are see-through in daylight. Sometimes appear as old men or women dressed in ancient Berber clothing. Can take the form of a sudden chill wind in an empty room.",
     "behavior": "Territorial guardians of ruins. Mischievous rather than malicious. Night-active. Scatter livestock, hide objects, moan to frighten intruders. Can be friendly to those who ask permission to enter ruins.",
     "habitat": "Abandoned granaries, ancient ruins, old ksour, collapsed buildings in the Atlas Mountains",
@@ -12671,13 +12688,14 @@
     "seo_description": "Guardian spirits of ruins in Berber folklore that protect abandoned buildings and ancient structures.",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Berber oral tradition, Maghrebi folklore",
-    "source_quality": "researched",
+    "source": "Maghrebi folk belief in jinn of ruins (khorba); Moroccan and Algerian oral tradition",
+    "source_quality": "documented",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "kel-tamasheq-spirits-tuareg-4118",

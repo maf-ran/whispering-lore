@@ -11149,7 +11149,7 @@
       "santacompaa-portugal",
       "sylph"
     ],
-    "description": "Supernatural beings in Portuguese and Galician mythology, believed to be an ancient race that inhabited the land since the beginning of time before being forced underground for unknown reasons. The Mouros work gold, silver, and gemstones in subterranean forges beneath hills and ancient castro settlements, guarding enormous treasures protected by dragon-like cuélebres. They rarely emerge except to obtain food and during special liminal times like Midsummer (São João). Some appear as giants or warriors, while others take tiny forms called Mourinhos or Maruxinhos. The Moura Encantada (enchanted Moor woman) is their most famous manifestation. They are associated with megalithic monuments, and archaeologists have used Mouro legends to locate archaeological sites In Portugal folklore, this figure is known among the Portugal people.",
+    "description": "The Mouros are supernatural beings in Portuguese and Galician folklore, an ancient race forced underground. They work gold and silver in forges beneath hills and castro ruins, guarding treasure with dragon-like cuélebres, and surface mainly at liminal times such as Midsummer. The Moura Encantada is their best-known form, and their legends have guided archaeology.",
     "appearance": "Variable - sometimes appear as giants or warriors, other times as tiny elf-like beings. Often described as dark-skinned or shadowy. Workmen's appearance with mining tools. Those guarding treasures may appear as fearsome warriors. Mourinhos are tiny and agile.",
     "behavior": "Work precious metals and gems underground. Rarely surface except for food and at Midsummer. May appear to people near ancient sites. Guard treasures fiercely. Some are hostile, others indifferent to humans.",
     "habitat": "Underground caverns, beneath castros (Iron Age hillforts), dolmens, and ancient barrows across Portugal",
@@ -11194,14 +11194,15 @@
     "seo_description": "Supernatural beings in Portuguese and Galician mythology, believed to be an ancient race that inhabited the land since the beginning of time before be",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Galician/Portuguese mythology; the Mouros are an ancient race of supernatural beings.",
-    "source_quality": "good",
+    "source": "Portuguese/Galician folk tradition; castro legend scholarship",
+    "source_quality": "well-documented",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/mouɾos/"
+    "pronunciation_ipa": "/mouɾos/",
+    "attested": true
   },
   {
     "id": "mo-n-1247",
@@ -12577,7 +12578,7 @@
       "troll-denmark",
       "m-rksugga"
     ],
-    "description": "Maren (the Mare) is the Danish nightmare spirit — a female entity who sits on sleeping people's chests, pressing the air from their lungs and causing terrifying dreams. In Danish folklore, the Mare is a shape-shifter who can take the form of a cat, a dog, an owl, a horse, or even a straw. She is blamed for sleep paralysis, which in Danish is called 'mare-reden' (mare-ride). The Mare creates 'marelokker' (mare-locks) — tangled knots in horses' manes and women's hair, believed to be where she has been braiding at night. Protection against the Mare includes placing steel in the bed, reversing shoes before sleeping, carving a pentagram (called a 'marekors' or mare-cross) over the door, or sprinkling flax seeds on the floor — the Mare must count every seed before she can approach In Denmark folklore, this figure is known among the Denmark people.",
+    "description": "The Mare (Danish: Maren) is the Danish nightmare spirit, a female being who sits on sleepers' chests and presses the breath from them, causing the terror known as mareridt. She can appear as a cat, owl, horse or straw, braids marelokker into manes and hair, and is warded off with steel, reversed shoes, a marekors carved over the door, or scattered flax seeds she must first count.",
     "appearance": "Invisible when active, but can appear as a young woman in white, a large black cat, a spectral horse, or an owl with human eyes. When seen as a woman, she is pale with dark hair and leaves no footprints. Her touch feels cold and heavy.",
     "behavior": "Sits on sleeping victims' chests causing suffocation and nightmares. Braids horses' manes into 'marelokker.' Shape-shifts between human and animal forms. Must count scattered seeds before she can attack. Flees from steel, reversed shoes, and mare-cross symbols.",
     "habitat": "Homes, bedrooms, stables, and barns across Denmark. Enters through keyholes or cracks in walls. Most active at night during sleep hours. Can travel long distances to reach her victims.",
@@ -12639,13 +12640,14 @@
       "popobawa-the-bat-wing-terror-of-zanzibar",
       "maha-sona-the-great-graveyard-demon-of-sri-lanka"
     ],
-    "source": "Danish folk belief and ethnographic records of rural traditions.",
-    "source_quality": "good",
+    "source": "Danish folk belief; mare traditions documented in folklore collections",
+    "source_quality": "well-documented",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "mannbj-rn-2150",
@@ -13530,7 +13532,7 @@
       "sotho-ghosts",
       "eswatini-tikoloshe"
     ],
-    "description": "The Makonde people of northern Mozambique have a highly developed tradition of witchcraft and sorcery (uchawi) that involves a complex hierarchy of spirits and practitioners. In Makonde cosmology, witchcraft spirits are believed to be deployed by both malevolent individuals and traditional healers to achieve various ends. These spirits are distinct from the more generalized shetani in that they are specifically associated with human practitioners who use them for targeted purposes. Magic plays an influential role in Makonde culture, politics, and economics. Witchcraft can be used for both harmful purposes (causing illness, death, or misfortune) and protective purposes (defending against attacks, ensuring harvests). The Makonde distinguish between different types of witchcraft: inherited witchcraft (passed down family lines), learned sorcery (studied through apprenticeship), and spirit-induced witchcraft (where a spirit chooses a person). Accusations of witchcraft have serious social consequences and are adjudicated by traditional courts. The belief system provides explanations for misfortune and maintains social order through the fear of supernatural retribution",
+    "description": "Among the Makonde of northern Mozambique, witchcraft (uchawi) is a real and powerful tradition involving spirits deployed by malevolent practitioners and by healers. Belief distinguishes inherited witchcraft, learned sorcery, and spirit-chosen witchcraft; the power is used to harm or to protect, and accusations are adjudicated by traditional courts, maintaining social order.",
     "appearance": "Makonde witchcraft spirits are invisible to ordinary people but visible to those with supernatural sight. They are said to take many forms, including shadowy figures, animals (especially owls, hyenas, and snakes), or balls of light.",
     "behavior": "These spirits are sent by witches to perform specific tasks: causing illness, stealing wealth, destroying crops, or harming enemies. They are most active at night and are believed to gather at sacred trees for ritual meetings.",
     "habitat": "Sacred groves, baobab trees, crossroads, and cemeteries in Makonde territory",
@@ -13590,8 +13592,8 @@
       "Makonde"
     ],
     "featured_in_stories": [],
-    "source": "Wikipedia (Makonde witchcraft and sorcery)",
-    "source_quality": "good",
+    "source": "Makonde folk belief; ethnographic accounts of uchawi",
+    "source_quality": "researched",
     "fun_fact_generated": false,
     "stories": [
       "the-widows-son"
@@ -13600,9 +13602,10 @@
       "mozambique-shetani"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "attested": true
   },
   {
     "id": "maboyo-3301",

@@ -2254,7 +2254,7 @@
       "yuki-onna",
       "yurei-edo-period"
     ],
-    "description": "Koreisha, also known as Geongumi or Wonhon, is a type of vengeful ghost from Korean folklore, the spirit of a person who died with a deep grudge or under unjust circumstances. These restless souls are unable to move on to the afterlife because of the powerful negative emotions that bind them to the earthly realm. Koreisha are most commonly the spirits of women who died tragically, often due to social injustice, betrayal, or violence, reflecting the historical struggles of women in Korean society. The belief in koreisha is deeply rooted in Korean shamanism, where death is not seen as an end but as a transition that can be disrupted by unresolved emotions. These ghosts serve as powerful reminders of the importance of justice, proper funeral rites, and addressing social wrongs. The Korean concept of han, a feeling of unresolved resentment, is central to understanding the koreisha condition",
+    "description": "Not independently attested in folklore literature. 'Koreisha' is the Japanese word for 'elderly people', and no Korean ghost tradition uses this name; the aliases 'geongumi' and 'wonhon' conflate invented names with the real Korean concept of wonhon, the resentful spirit of a wronged dead person. The attested figure is wonhon, not 'koreisha'.",
     "appearance": "A Koreisha typically appears as a ghostly human figure wearing traditional Korean burial clothes, usually a white hanbok known as a suui or soban, which is the traditional death garment. The figure has disheveled, long black hair that often covers the face, obscuring features except for occasional glimpses of pale, bloodless skin. Some accounts describe the Koreisha as having no eyes, only empty, dark sockets from which blood may weep, or having gaping wounds that reveal the manner of their death. The physical form is often translucent or flickering, appearing solid one moment and fading the next. The ghost floats a few inches above the ground, its feet never touching the earth, and its presence is preceded by a sudden drop in temperature and the smell of damp earth or rotting flowers. Some Koreisha are described as having long, claw-like fingernails and teeth that have grown after death, giving them a monstrous aspect",
     "behavior": "Koreisha haunt specific locations connected to their death or their former life, appearing at night to terrorize those who wronged them or who happen to cross their path. They cause misfortune, illness, and death through their presence, whispering curses that bring bad luck, appearing in dreams to torment the guilty, and physically draining the life force from those they encounter. The ghost is particularly active on the anniversary of its death and during the Korean festival of Baekjung when the boundary between worlds is thin. Traditional remedies include hiring a mudang shaman to perform a gut exorcism ceremony that discovers the ghosts grievance, negotiates with it, and performs the proper rituals to release it from its earthly attachments. Offerings of food, money, and clothing are made at the ghosts haunting site, and sometimes the spirit can be appeased by righting the wrong that caused its death. If unresolved, the koreisha may become a Dokkaebi, an even more powerful and malicious goblin-like entity.",
     "habitat": "Where they died or lived",
@@ -2296,16 +2296,17 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Korean folklore; vengeful ghosts (Koreisha) who haunt locations until resolved.",
-    "source_quality": "good",
+    "source": "Review finding: unattested as a Korean ghost; the real concept is wonhon",
+    "source_quality": "poor",
     "stories": [
       "the-moon-rabbit-of-korea"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/ɡʌŋɡumi/"
+    "pronunciation_ipa": "/ɡʌŋɡumi/",
+    "attested": false
   },
   {
     "id": "kosen-0973",
@@ -2403,7 +2404,7 @@
       "jor-gumo",
       "tsukumogami"
     ],
-    "description": "Kosenj is a type of tsukumogami from Japanese folklore, a spirit that inhabits old lamps and lanterns that have been used for a hundred years or more. The name kosenj literally means \"old thousand-day fire\" and refers to the belief that objects of illumination, particularly andon paper lamps and chochin lanterns, develop their own consciousness and spirit after a century of faithful service. These yokai are part of the broader tsukumogami tradition in Japanese folklore, where everyday objects that reach their centennial anniversary become animated by spirits. Kosenj are typically associated with the warm season when they are most active, floating through summer nights with their flames flickering eerily. Like many tsukumogami, kosenj are neither purely good nor evil but reflect the treatment they received during their years of service, becoming playful or malicious depending on how they were cared for",
+    "description": "Kosenjōbi are ghost-fires of Japanese folklore: will-o'-the-wisp flames that appear over old battlefields, said to be the spirits of soldiers and horses killed in war, rising from the ground at dusk. The name is recorded in early modern collections such as the Shūchin-sō (17th century) and depicted in Toriyama Sekien's Konjaku Gazu Zoku Hyakki.",
     "appearance": "Kosenj appears as an old-fashioned Japanese lamp or lantern that has come to life, retaining the basic shape of its original form while gaining an unsettling sentience. The traditional andon lamp form consists of a paper-covered frame sitting on a wooden base, with the paper often yellowed and torn from age, revealing the ghostly flame burning within. The lantern forms, both the cylindrical chochin and the hanging tsuri-doro, are similarly aged and worn, with faded paint and torn paper. What distinguishes a kosenj from an ordinary lamp is the presence of a ghostly face that appears on the paper surface, with eyes, nose, and mouth forming from the shadows and light patterns cast by the flame within. The flame itself flickers with an unnatural quality, changing color from warm yellow to cold blue or green, and sometimes detaching from the lamp to float independently. The kosenj moves by hopping or floating, the lantern swaying as though carried by an invisible hand, casting dancing shadows on surrounding surfaces",
     "behavior": "Kosenj float through the night, flickering in ways that draw attention and sometimes startling humans who encounter them unexpectedly. In their benign aspect, they provide mysterious illumination that can guide lost travelers or simply create an eerie but harmless presence at temples and crossroads. However, they can become more dangerous when angered or disrespected, extinguishing other lights to create darkness, causing small fires by brushing their flame against flammable materials, and frightening people by suddenly appearing close to their faces. They are particularly active during the Obon season when the spirits of the dead are believed to return to the world of the living. Kosenj are attracted to other lights and may gather in groups, their collective flames creating an impressive display. Some legends say that kosenj protect the homes they once illuminated, driving away burglars and evil spirits with their watchful flame. Like all tsukumogami, they should be treated with respect, and old lanterns should be disposed of properly rather than simply thrown away.",
     "habitat": "Old temples, abandoned houses, attics",
@@ -2443,13 +2444,14 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Japanese folklore; tsukumogami spirits of old lanterns.",
-    "source_quality": "good",
+    "source": "Japanese folklore: Shūchin-sō (17th c.); Toriyama Sekien, Konjaku Gazu Zoku Hyakki; yokai literature",
+    "source_quality": "documented",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "kumiho-0995",
@@ -3398,7 +3400,7 @@
       "gumiho-southkorea",
       "manananggal"
     ],
-    "description": "Gyeong is a hopping vampire from East Asian folklore, sharing many characteristics with the Chinese jiangshi, on which it is based. The jiangshi legend originated in China during the Qing Dynasty and spread throughout East Asia, including Korea, where this specific variant acquired local characteristics. The term \"gyeong\" is associated with reanimated corpses that lack the ability to bend their joints due to rigor mortis, forcing them to move by hopping with their arms extended forward. According to Taoist-influenced folklore, a jiangshi is created when a persons soul (hun) fails to leave the body after death, often due to improper burial, suicide, or death under unnatural circumstances. The corpse becomes animated by residual qi energy and seeks to absorb the life force (yang energy) from the living to sustain its unnatural existence. These creatures were particularly feared in rural communities where proper burial rites were essential to ensuring the peaceful transition of the deceased",
+    "description": "Not independently attested in folklore literature. No Korean source records a vampire called 'gyeong'. The Korean term for the hopping corpse is gangsi (gangshi), a loan from the Chinese jiangshi; 'gyeong' is not attested as a creature name, and the description is generic jiangshi filler wrongly assigned a Korean variant.",
     "appearance": "Gyeong typically appears as a corpse dressed in the white burial shroud of Korean funerary tradition, with a pale or greenish-tinged face and dark circles around the eyes. Its arms are held stiffly extended forward, and it moves by hopping with both legs together, unable to bend its knees or joints due to rigor mortis. A prominent feature is a yellow Taoist talisman (fulu) attached to its forehead, which is used by Taoist priests to control or immobilize the creature. Its skin is cold, clammy, and emits a foul odor of decay. The creature may have long, sharp fingernails and fangs, though in more traditional depictions it simply bites to drain life force rather than using fangs. Its hair is long and disheveled and its eyes are wide, unblinking, and glazed over. In some variations, the Gyeong can fly or float short distances, and it is particularly associated with the night hours when it emerges from its grave or hiding place to hunt.",
     "behavior": "Gyeong hops through the night in search of living beings whose life force it can absorb, tracking them by sensing their breath. It cannot see or hear but is drawn to the breath of living creatures, which gives it an eerie, inexorable pursuit of its victims. Those who hold their breath can theoretically escape its notice, but this is difficult to sustain. The creature is most active at night and returns to its grave or a dark place before dawn, as sunlight is fatal to it. It attacks by grabbing victims with its stiff arms and draining their life force, leaving them pale and weakened or dead. Taoist priests are the traditional counters to gyeong, using special rituals, talismans, mirrors, and the sound of bells to control or destroy them. Sticky rice, incense ash, and peach wood are also believed to repel or weaken the creature. A gyeong can be destroyed by burning its body, and its immortality can be ended if the Taoist talisman on its forehead is removed.",
     "habitat": "Graves, abandoned temples",
@@ -3439,13 +3441,14 @@
       "A210"
     ],
     "featured_in_stories": [],
-    "source": "Korean folklore; a vampire-like creature similar to the jiangshi.",
-    "source_quality": "good",
+    "source": "Review finding: unattested; Korean term for the hopping corpse is gangsi",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "nk-gumiho-0003",
@@ -4927,7 +4930,7 @@
       "dwen-stlucia",
       "gangikoz"
     ],
-    "description": "Dokkaebi are legendary goblin-like creatures from Korean mythology and folklore, deeply embedded in both North and South Korean cultural traditions. Unlike ghosts (gwishin), dokkaebi are nature deities or spirits born from inanimate objects that have been imbued with spiritual energy over time — old discarded household tools like brooms, farming implements, or objects stained with human blood and emotions. They possess extraordinary supernatural powers and are known for their mischievous and unpredictable interactions with humans. Dokkaebi are neither purely good nor evil; they reward kindness and punish greed, often testing human morality through games and challenges. They are famously associated with the dokkaebi bangmangi, a magical club that can grant wishes and summon objects, though it cannot create life. Dokkaebi are skilled at ssireum (Korean wrestling) and cannot be beaten unless their right side is exploited. They are strongly attracted to buckwheat products and can be warded off by horse blood or sieves hung outside doors In North Korea folklore, this figure is known among the North Korea people.",
+    "description": "Dokkaebi are goblin-like spirits of Korean folklore, born from old household objects imbued with spiritual energy. Neither wholly good nor evil, they reward kindness and punish greed, wield the wish-granting bangmangi club, excel at ssireum wrestling, and can be warded off by horse blood or a hanging sieve.",
     "appearance": "Dokkaebi are depicted in various forms across different time periods, but common features include one or two horns on their heads, wild unkempt hair, large expressive eyes, and skin that may be blue, green, or red. They often wear tiger-skin pants or traditional Korean hanbok and carry a magical club called a dokkaebi bangmangi. Some traditions describe them as having only one leg, which explains their hopping, irregular movement. Their appearance is fearsome and awe-inspiring, and they are often associated with a glimmering blue flame called dokkaebi fire.",
     "behavior": "Mischievous, playful, and morally responsive. Dokkaebi love games, contests, and playing pranks on humans, though rarely with malicious intent. They challenge travelers to wrestling matches, sneak into homes to drink wine, and cause minor chaos for their own amusement. However, they also reward good deeds generously and punish evil behavior harshly. They are extremely clever and enjoy testing human honesty and humility. Dokkaebi are nocturnal and particularly active during festivals and celebrations.",
     "habitat": "Mountains, forests, abandoned houses, and rural areas throughout the Korean peninsula. They are associated with nature and the spiritual world that exists alongside the human realm, often dwelling near old trees, mountain passes, and isolated villages.",
@@ -4977,7 +4980,7 @@
     "seo_description": "Dokkaebi are mischievous Korean goblin spirits born from old objects, wielding magical clubs to reward good deeds and punish greed in Korean folklore.",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "https://en.wikipedia.org/wiki/Tokkaebi / https://www.britannica.com/topic/dokkaebi / National Folk Museum of Korea",
+    "source": "National Folk Museum of Korea; Korean oral tradition",
     "source_quality": "good",
     "id": "dokkaebi-northkorea-0557",
     "fun_fact_generated": false,
@@ -5062,9 +5065,10 @@
       "the-first-areto-drum"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "dokkaebi-gam-0558",

@@ -4123,7 +4123,7 @@
       "zimwi-or-zimwi",
       "bisonspiritmalagasy-madagascar"
     ],
-    "description": "A fearsome ogre or man-eating giant from Malagasy folklore, deeply rooted in the oral traditions of Madagascar. These monstrous beings are said to dwell in remote forests, mountain caves, and desolate wilderness areas, where they hunt human prey. Anganos are typically male and possess immense physical strength that makes them nearly impossible to defeat in direct combat. They are closely associated with violent storms and bad weather, which they use to mask their approach or to trap victims. Legends warn that killing an Angano is extremely difficult because these creatures possess the uncanny ability to revive themselves unless their bodies are completely destroyed by fire. Some tales portray them as ancient spirits that have taken physical form, cursed to wander the earth consuming human flesh, while others describe them as a separate race of beings that predate humanity",
+    "description": "Not independently attested in folklore literature. In Malagasy, 'angano' means 'tale' or 'story' and is the word for the folk narratives themselves, not a creature; no source records a man-eating ogre named Angano. Giants and ogres do appear in Malagasy oral tales, but no attested name corresponds to this entry.",
     "appearance": "A gigantic humanoid standing ten to fifteen feet tall with a massively muscular, grotesque body covered in coarse, dark hair or thick, leathery skin. The Angano has an enormous, misshapen head with a huge mouth filled with jagged, discolored teeth and powerful jaws capable of crushing bone. Its eyes are small and deep-set, glowing with a malevolent red or yellow light in the darkness. The limbs are long and disproportionately large, ending in thick fingers tipped with black, claw-like nails. Its movements are clumsy but deceptively fast when hunting. The creature wears crude clothing made from animal hides or woven vegetation, and often carries a large club or uprooted tree as a weapon. The Angano's body emits a foul stench of decay and blood, and its heavy footsteps cause the ground to tremble.",
     "behavior": "The Angano actively hunts human beings, with a particular preference for children who stray too far from their villages. It uses its great strength to tear apart shelters and overturn obstacles while pursuing prey. Despite its brute force, the Angano can be tricked by clever heroes who challenge it to impossible tasks or exploit its low intelligence. It is known to fall for simple deceptions, such as being convinced to fight its own reflection or to attempt tasks beyond its capability. When angered or injured, the creature flies into a destructive rage, uprooting trees and smashing rocks. After killing, it carries its victims back to its lair to devour them. The Angano is territorial and will pursue anyone who enters its domain relentlessly, but can be driven away by fire or loud noises. Its regenerative ability means that only complete incineration can permanently destroy it.",
     "habitat": "Mountains, deep forests, caves",
@@ -4163,13 +4163,14 @@
     "seo_description": "Malagasy ogre or giant that eats humans. Usually male, very strong. Can be killed but often revives. Associated with storms and violence.",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Malagasy folklore — Angano ogre documented in Malagasy oral tradition.",
-    "source_quality": "fair",
+    "source": "No reliable source found (closest analogue: Malagasy oral tales)",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "angatra-0044",
@@ -4192,7 +4193,7 @@
       "coyotetricksterlaotian-madagascar",
       "krasue"
     ],
-    "description": "Angatra are vengeful spirits of the forgotten dead from Malagasy folklore, believed to be the restless souls of individuals whose bodies were never properly buried or whose memories were not preserved by the living. These spirits remain trapped between the world of the living and the afterlife, consumed by bitterness and anger at being forgotten. They lurk around burial sites, ancestral tombs, and places where death occurred, waiting to vent their fury upon the living. Unlike benevolent ancestor spirits, Angatra are purely malevolent and dangerous. If they are neglected for too long without offerings or recognition, they transform into even more terrifying entities known as Kinoly, becoming murderous wraiths that roam fields and forests at night. The transformation marks a complete loss of any remaining humanity, turning them into relentless killing machines driven solely by rage and hunger for vengeance",
+    "description": "Angatra are malevolent spirits of the dead in Malagasy belief: restless shades of people whose bodies were never properly buried or whose memory the living failed to preserve. They haunt tombs and places of death, feared as dangerous unlike the benevolent razana (ancestors). In some accounts neglected angatra become kinoly, murderous wraiths that roam at night.",
     "appearance": "Angatra appear as translucent, ghostly humanoid figures that flicker in and out of visibility, their forms wreathed in a cold, pale luminescence. Their faces are frozen in expressions of anguish and fury, with hollow eye sockets that burn with glowing red or orange light. Their bodies show signs of decay or the injuries that caused their death, and their hands end in long, bony fingers with sharp, claw-like nails. When they transform into Kinoly, their appearance becomes far more terrifying: their bodies solidify into a darker, more substantial form with gaunt, skeletal frames, and their fingers elongate into razor-sharp claws capable of disemboweling a victim with a single swipe. The Kinoly form radiates an aura of intense cold, and their approach is preceded by an unnatural silence as all animals and insects flee.",
     "behavior": "Angatra haunt burial sites and ancestral tombs, emerging primarily at night to seek out the living who trespass upon or neglect their resting places. They are drawn to the warmth of life and will pursue any human who enters their territory, using their ghostly nature to pass through solid obstacles and appear unexpectedly. Before attacking, they often emit a chilling wail or whisper the name of the forgotten dead. As Kinoly, their behavior becomes far more aggressive and indiscriminate. They abandon their burial sites to roam fields, forests, and even approach villages, killing anyone they encounter. Their claws are used to disembowel victims, and they are said to drink the blood or consume the organs of those they kill. The transformation to Kinoly is triggered by prolonged neglect; regular offerings and remembrance rituals by the living can prevent this transformation.",
     "habitat": "Burial sites, rice fields",
@@ -4233,14 +4234,15 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Malagasy folklore — Angatra spirits of the dead documented in Malagasy oral tradition.",
-    "source_quality": "good",
+    "source": "Malagasy oral tradition; literature on the Malagasy ancestor cult",
+    "source_quality": "documented",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/aŋatra/"
+    "pronunciation_ipa": "/aŋatra/",
+    "attested": true
   },
   {
     "id": "angelo-custode-0045",
@@ -4263,7 +4265,7 @@
       "dame-blanche",
       "duende-portugal"
     ],
-    "description": "The Angelo Custode, or Guardian Angel, is a personal spiritual protector assigned to each individual according to Catholic folk tradition, a belief formalized in Church doctrine over many centuries. Rooted in both biblical references and popular piety, this celestial being accompanies every person from birth until death, serving as a divine companion, protector, and spiritual guide. The concept evolved from early Christian teachings about angels as ministers of God's providence, with Saint Thomas Aquinas and other theologians elaborating on their role. Guardian angels are believed to communicate through subtle intuitions, dreams, and moments of sudden insight, offering gentle guidance toward virtuous choices and away from danger. The tradition of venerating one's guardian angel became especially prominent in medieval Europe, with feast days and prayers dedicated to these protectors, and remains a cherished element of Catholic folk practice across many cultures",
+    "description": "The Angelo Custode (guardian angel) is the personal angel believed to protect and guide each individual, a tenet of Catholic teaching and popular piety. Rooted in scripture (Matthew 18:10, Acts 12:15) and elaborated by Aquinas, it holds that every person receives an angel at birth. Devotion includes the 'Angel of God' prayer and the 2 October feast of the Guardian Angels.",
     "appearance": "Guardian angels are typically envisioned as radiant, humanoid beings of exquisite beauty, bathed in a soft, warm golden or white light that emanates from within. They appear adorned in flowing, luminescent robes of pure white or pale blue, sometimes with intricate golden trim that symbolizes their divine origin. Their faces are serene and compassionate, with gentle eyes that hold infinite patience and love. A pair of large, majestic wings rises from their shoulders, covered in soft feathers that shimmer with an iridescent quality. These wings can fold around their charges in a protective embrace. When manifesting to humans, they may appear in a form that is comforting and familiar, sometimes as a figure of light without distinct features. A subtle halo or corona of light often surrounds their head, and their presence is accompanied by a profound sense of peace, warmth, and safety. They are usually depicted barefoot, symbolizing their connection to the earthly realm they watch over.",
     "behavior": "Guardian angels tirelessly watch over their assigned humans from birth to death, working invisibly to protect them from physical harm and spiritual danger. They guide individuals toward making virtuous decisions through gentle inspiration, subtle intuitions, and sometimes through the words or actions of other people. In moments of mortal danger, they are believed to intervene directly, creating unexpected circumstances that avert disaster or providing sudden clarity in crisis situations. They serve as intermediaries between humans and God, carrying prayers heavenward and delivering divine guidance earthward. Throughout life, they document a person's deeds and choices, and at the moment of death, they are present to comfort the dying and escort the soul to its judgment. They never force their will upon a person, respecting free will while persistently offering gentle guidance. Their protection can be strengthened through prayer and devotion.",
     "habitat": "Assigned to each person",
@@ -4303,13 +4305,14 @@
     "seo_description": "Personal guardian angel assigned to each person. Central to Catholic folk belief as codified in Vatican teachings.",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Christian Italian tradition — guardian angel documented in Catholic tradition.",
-    "source_quality": "fair",
+    "source": "Catholic devotional tradition; Roman liturgy",
+    "source_quality": "documented",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "anjana-0046",
@@ -4548,7 +4551,7 @@
       "crane-ancestor-spirit-of-baloch",
       "botu"
     ],
-    "description": "The Ant Ancestor-Spirit is a revered nature deity from the folk traditions of Nepal, particularly associated with the arid and semi-arid regions of the country where ants are seen as symbols of industry, cooperation, and perseverance. In Nepali folk belief, certain powerful ancestors who demonstrated exceptional wisdom and community service in life are reincarnated as spirits that take the form of animals, with the ant being a particularly honored form due to its tireless work ethic and social organization. These spirits serve as guardians of the desert and mountainous borderlands, watching over travelers and maintaining the ecological balance of their harsh domains. Local communities leave small offerings of grain, sugar, or water at anthills believed to house these spirits, seeking their blessings for successful journeys and protection from misfortune. The tradition reflects the deep respect for nature and ancestor veneration that characterizes much of Nepali folk religion",
+    "description": "Not independently attested in folklore literature. No Nepali tradition records an 'ant ancestor-spirit', and the claimed desert-borderlands framing does not match Nepal's geography. Nepali folk religion venerates ancestors and local deities, and genuine Himalayan figures include the yeti and the masked demon-dancer Lakhe, but the ant plays no documented spiritual role.",
     "appearance": "In its natural form, the Ant Ancestor-Spirit appears as a strikingly large ant, significantly bigger than common species, with a glossy black or dark brown exoskeleton that has an almost metallic sheen. Its body is marked with subtle, luminous patterns that seem to shift and glow with an inner light, particularly visible at dawn and dusk. When the spirit chooses to reveal its true nature, it can manifest a wise, human-like face upon its ant visage, with ancient, knowing eyes that speak of centuries of accumulated wisdom. The creature moves with deliberate, purposeful grace, and its antennae constantly taste the air for the presence of those who need guidance or protection. Surrounding the spirit ant, other ordinary ants behave with unusual reverence, forming protective circles or elaborate patterns. Sometimes it appears in human dreams as a wise elder with an ant-like face or accompanied by swarms of ants that form meaningful patterns and messages.",
     "behavior": "The Ant Ancestor-Spirit presides over its desert domain with patient wisdom, observing the comings and goings of all creatures within its territory. It guides lost travelers by appearing at crossroads and indicating the correct path through subtle movements or by leaving trails of tiny glowing footprints. It tests those who enter its domain, presenting challenges that reveal their true character - greed, kindness, courage, or foolishness. Those who show respect for all living creatures, share their resources, and demonstrate humility are rewarded with safe passage, while the arrogant and wasteful may be led in circles until they learn their lesson. It maintains the ecological health of its territory, ensuring that insect populations are balanced and that the desert remains productive. During droughts, it is believed to lead communities to hidden water sources. It communicates with those who leave offerings at anthills through dreams and intuitive insights, offering guidance on important decisions.",
     "habitat": "Desert regions",
@@ -4587,8 +4590,8 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Nepal mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source": "No reliable source found (closest analogue: Nepali ancestor veneration)",
+    "source_quality": "poor",
     "stories": [
       "the-living-goddess-kumari-of-nepal",
       "prince-siddharthas-great-renunciation",
@@ -4596,10 +4599,11 @@
       "the-legend-of-boudhanath-stupa"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": true,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/ænt/"
+    "pronunciation_ipa": "/ænt/",
+    "attested": false
   },
   {
     "id": "ant-spirit-maori-0050",
@@ -4916,7 +4920,7 @@
       "suv-peri",
       "wodnik"
     ],
-    "description": "Mysterious river-dwelling creatures from the folklore of the Mongolian and Central Asian steppe regions, known to inhabit the deeper rivers, lakes, and waterways that cross the vast grasslands. These water spirits are closely tied to the health of the rivers they inhabit and are believed to be the living embodiments of the water itself. In traditional Mongolian and Turkic shamanistic beliefs, bodies of water are considered sacred and inhabited by powerful spirits that must be respected. Arals serve as guardians of their rivers, punishing those who pollute the waters or take more than they need. They are particularly active during the spring floods and autumn storms, when the boundaries between the human and spirit worlds are at their thinnest. Local herders and fishermen traditionally make offerings of milk, tea, or small pieces of cloth at riverbanks before crossing or fishing, seeking permission from the Aral to pass safely",
+    "description": "Not independently attested in folklore literature. 'Aral' is a Turkic word meaning 'sea' or 'island', best known from the Aral Sea, and no tradition records a water spirit by this name. Water spirits are genuine in Turkic and Central Asian belief, such as the Turkic su iyesi or the su perisi, but they are not called 'Aral'.",
     "appearance": "Arals are described as having human-like upper bodies with pale, water-slicked skin that has a bluish or greenish tint, while their lower bodies end in powerful, fish-like tails covered in large, iridescent scales. Their hair is long and dark, flowing like waterweed around their faces, and their eyes are large and luminous with vertically slit pupils like those of a fish or snake. Their hands are webbed between the fingers, ending in sharp nails that can cut through fishing nets like paper. When angered, their skin takes on a darker, more threatening hue, and their eyes glow with an eerie phosphorescent light visible even through murky water. They can also appear as a disturbance in the water, a sudden whirlpool, or a large shadow moving beneath the surface. Their voices are melodic and hypnotic when they wish to lure humans, but when enraged, they produce a piercing shriek that echoes across the water and causes those who hear it to become disoriented.",
     "behavior": "Arals spend most of their time in the deep pools and underwater caves of their river domains, emerging primarily at dusk and dawn to hunt and to observe the activities of humans near their waters. They are fiercely territorial and will aggressively defend their section of river against anyone who threatens it. When angered by pollution, overfishing, or disrespect, they pull fishermen from their boats, capsize rafts, and cause sudden, dangerous floods that wash away livestock and structures near the riverbank. However, they are not inherently evil and will reward those who show respect by guiding them to abundant fishing spots, protecting them from drowning, and ensuring safe passage across dangerous crossings. They are known to form attachments to particular humans, sometimes appearing to warn them of approaching danger or to lead them to safety during floods. They communicate through the sounds of moving water, using changes in the river's flow to convey messages.",
     "habitat": "Rivers and freshwater streams throughout Tajik",
@@ -4968,13 +4972,14 @@
       "popobawa-the-bat-wing-terror-of-zanzibar",
       "gamarala-the-foolish-farmer-of-sri-lankan-folktales"
     ],
-    "source": "Tajik folklore — Aral water spirit.",
-    "source_quality": "good",
+    "source": "No reliable source found (closest analogue: Turkic su iyesi / su perisi traditions)",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "ar-ni-0055",
@@ -5282,7 +5287,7 @@
       "ole-higue",
       "rabbit-mapuche"
     ],
-    "description": "The Asema is a malevolent sorcerer or witch from the folk traditions of the Baltic region and parts of Eastern Europe, particularly associated with Finnish and Estonian mythology. This supernatural being appears as a harmless elderly person during daylight hours but transforms at night into a flying ball of light that drains the life force from sleeping victims. The Asema represents a class of soul-witches believed to be capable of sending their spirit or a portion of their soul out of their body to perform evil deeds while their physical form remains in a trance-like state. This concept of the out-of-body witch is common across Finno-Ugric folklore. The Asema is blamed for cases of sudden weakness, exhaustion, and mysterious illness, particularly when many people in a community fall ill simultaneously. Belief in the Asema was so strong that people would place sharp objects or special charms near their beds to protect themselves from the draining touch of the night-flying witch",
+    "description": "The asema is a vampire-witch of Afro-Surinamese legend: an old man or woman by day who sheds the skin at night and flies as a blue ball of light to suck blood from sleeping victims. Householders ward it off with garlic, bitter herbs, or seeds scattered on the floor, which the asema must stop and count; it must reclaim its skin before sunrise or it is destroyed.",
     "appearance": "During the day, the Asema appears as an unassuming elderly person, often described as having red or bloodshot eyes that betray their supernatural nature. Their toes point downward instead of forward, a subtle physical deformity that marks them as other than human. They may have pale, sallow skin and a withdrawn, secretive demeanor that makes others in the community uneasy. At night, when the Asema sheds its skin, it transforms into a sphere of blue or red light, sometimes described as a ball of fire or a luminous flame that flies through the darkness. This light is visible from great distances, bobbing and weaving through the night sky as it travels between houses. The skin casing left behind appears as a lifeless husk, and the Asema must return to it before dawn or risk being trapped in its spirit form. In some accounts, the flying form can also appear as a bird, particularly an owl, with glowing, fiery eyes.",
     "behavior": "The Asema rests during the day in its human form, conserving energy for its nocturnal activities. After nightfall, it removes its skin and transforms into a flying ball of light, traveling to the homes of its chosen victims. It enters houses through keyholes, cracks in the walls, or open windows, and settles upon the chest of sleeping people, pressing down on them and slowly draining their vitality, breath, and life force. Victims wake feeling exhausted, heavy, and unable to move, experiencing what modern science would describe as sleep paralysis. Repeated attacks can lead to wasting illness and eventually death. The Asema is particularly drawn to the energy of children and the weak. Protection methods include placing a knife, scissors, or a broom upside-down near the bed, drawing protective symbols on doors, or reciting specific prayers. If the Asema's skin is found and hidden or destroyed while it is away, the witch will be unable to re-enter its body and will die at dawn.",
     "habitat": "Homes at night",
@@ -5324,13 +5329,14 @@
       "A210"
     ],
     "featured_in_stories": [],
-    "source": "Surinamese Winti folklore — Asema vampire spirit.",
-    "source_quality": "good",
+    "source": "Surinamese oral tradition (Sranan); Dutch-language folklore",
+    "source_quality": "documented",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "asiman-0060",
@@ -7254,7 +7260,7 @@
       "bou-saadia",
       "el-jem"
     ],
-    "description": "Al-Mahrouq (The Burned One) is a famous jinn from Tunisian folklore said to haunt the streets of Tunis, particularly the ancient medina and its winding alleyways. According to legend, Al-Mahrouq can manifest as either a beautiful woman or a terrifying monster, embodying the fundamental duality of jinn as both protectors and harbingers of chaos. His name derives from an association with fire or burning, possibly referencing his origin as a jinn created from smokeless fire, or a tale of a burned spirit. Stories of encounters with Al-Mahrouq are shared during family gatherings as cautionary tales emphasizing the importance of respecting the unseen forces that inhabit the world. In some versions, Al-Mahrouq specifically appears to those who walk alone at night, testing their courage and faith. The legend reflects the deep belief in jinn that persists in Tunisian society, where even today, talk shows discuss jinn possessions and haunted homes, and politicians are rumored to consult sorcerers",
+    "description": "Not independently attested in folklore literature. The Arabic name means 'the Burned One', but no Tunisian source records a jinn by this name and the cited references do not mention it. Jinn are genuine figures of Tunisian and Islamic belief, beings created from smokeless fire, but they are unnamed or bear attested names such as Aisha Kandisha of Maghrebi tradition.",
     "appearance": "Dual forms: a beautiful, alluring woman or a terrifying, burned-looking monster of shadow and flame. Sometimes described as a charred or blackened figure with glowing eyes.",
     "behavior": "Haunts the medina streets and alleyways of Tunis at night. Tests passersby. Can be benevolent or malevolent depending on treatment. Embodies the duality of jinn nature.",
     "habitat": "The medina of Tunis, ancient city streets, abandoned buildings, hidden corners of urban Tunisia",
@@ -7313,13 +7319,14 @@
       "G400"
     ],
     "featured_in_stories": [],
-    "source": "MexicoHistorico.com; New Lines Magazine; oral Tunisian traditions",
-    "source_quality": "good",
+    "source": "No reliable source found (closest analogue: Maghrebi jinn tradition)",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "al-ruhban-3466",

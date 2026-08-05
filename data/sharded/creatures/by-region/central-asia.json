@@ -934,7 +934,7 @@
       "suv-peri",
       "wodnik"
     ],
-    "description": "Mysterious river-dwelling creatures from the folklore of the Mongolian and Central Asian steppe regions, known to inhabit the deeper rivers, lakes, and waterways that cross the vast grasslands. These water spirits are closely tied to the health of the rivers they inhabit and are believed to be the living embodiments of the water itself. In traditional Mongolian and Turkic shamanistic beliefs, bodies of water are considered sacred and inhabited by powerful spirits that must be respected. Arals serve as guardians of their rivers, punishing those who pollute the waters or take more than they need. They are particularly active during the spring floods and autumn storms, when the boundaries between the human and spirit worlds are at their thinnest. Local herders and fishermen traditionally make offerings of milk, tea, or small pieces of cloth at riverbanks before crossing or fishing, seeking permission from the Aral to pass safely",
+    "description": "Not independently attested in folklore literature. 'Aral' is a Turkic word meaning 'sea' or 'island', best known from the Aral Sea, and no tradition records a water spirit by this name. Water spirits are genuine in Turkic and Central Asian belief, such as the Turkic su iyesi or the su perisi, but they are not called 'Aral'.",
     "appearance": "Arals are described as having human-like upper bodies with pale, water-slicked skin that has a bluish or greenish tint, while their lower bodies end in powerful, fish-like tails covered in large, iridescent scales. Their hair is long and dark, flowing like waterweed around their faces, and their eyes are large and luminous with vertically slit pupils like those of a fish or snake. Their hands are webbed between the fingers, ending in sharp nails that can cut through fishing nets like paper. When angered, their skin takes on a darker, more threatening hue, and their eyes glow with an eerie phosphorescent light visible even through murky water. They can also appear as a disturbance in the water, a sudden whirlpool, or a large shadow moving beneath the surface. Their voices are melodic and hypnotic when they wish to lure humans, but when enraged, they produce a piercing shriek that echoes across the water and causes those who hear it to become disoriented.",
     "behavior": "Arals spend most of their time in the deep pools and underwater caves of their river domains, emerging primarily at dusk and dawn to hunt and to observe the activities of humans near their waters. They are fiercely territorial and will aggressively defend their section of river against anyone who threatens it. When angered by pollution, overfishing, or disrespect, they pull fishermen from their boats, capsize rafts, and cause sudden, dangerous floods that wash away livestock and structures near the riverbank. However, they are not inherently evil and will reward those who show respect by guiding them to abundant fishing spots, protecting them from drowning, and ensuring safe passage across dangerous crossings. They are known to form attachments to particular humans, sometimes appearing to warn them of approaching danger or to lead them to safety during floods. They communicate through the sounds of moving water, using changes in the river's flow to convey messages.",
     "habitat": "Rivers and freshwater streams throughout Tajik",
@@ -986,13 +986,14 @@
       "popobawa-the-bat-wing-terror-of-zanzibar",
       "gamarala-the-foolish-farmer-of-sri-lankan-folktales"
     ],
-    "source": "Tajik folklore — Aral water spirit.",
-    "source_quality": "good",
+    "source": "No reliable source found (closest analogue: Turkic su iyesi / su perisi traditions)",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "alpamysh-kazakh-4009",
@@ -4167,7 +4168,7 @@
       "yelmo",
       "yetga-chach"
     ],
-    "description": "Khas-uu is a powerful tiger spirit from Mongolian folklore, deeply revered as the guardian spirit of the southern forest regions of Mongolia. Once roaming the forested slopes of the Khentii and Khangai mountain ranges, these magnificent spirits are now considered rare, with their numbers greatly diminished by hunting and habitat loss over the centuries. However, Mongolian traditions hold that the Khas-uu still prowls the remaining wilderness, watching over its territory with ancient wisdom and supernatural power. The tiger spirit is intimately associated with concepts of royalty, authority, and untamed natural power in Mongolian culture, serving as a symbol of the wild beauty that once dominated the southern landscape. It is considered both a physical animal and a spiritual entity that transcends the boundary between the natural and supernatural worlds",
+    "description": "Not independently attested in folklore literature. No Mongolian source documents a tiger spirit called 'khas-uu', and tigers are not native to the Khentii or Khangai ranges. 'Khas' in Mongolian tradition refers to the swastika-like eternal symbol (has tamga), not an animal. The entry is a generic animal-guardian fabrication.",
     "appearance": "The Khas-uu appears as a magnificent tiger of extraordinary size, approximately one and a half times larger than a normal tiger, with a muscular, powerful build that radiates raw strength and authority. Its fur displays the characteristic orange and black stripes of a Siberian or Caspian tiger, but with a supernatural quality that sets it apart from ordinary animals. The stripes glow faintly with an ethereal golden light, particularly visible at dusk and dawn when the spirit is most active. Its eyes are like gold coins, luminous and piercing, seeming to see directly into the soul of anyone who meets its gaze. The creatures movements are silent and fluid, barely disturbing the leaves beneath its massive paws, and it leaves no tracks even in soft mud or snow. When angered or aroused, a ghostly flame flickers around its body, and its roar echoes across the landscape like thunder",
     "behavior": "The Khas-uu is a territorial guardian that watches over its domain with keen intelligence and supernatural awareness. It tests the character of hunters and travelers who enter its territory, observing them from the shadows to determine their intentions and their respect for the natural world. A Khas-uu crossing a persons path from left to right is considered a favorable omen, indicating that the spirit approves of their presence and will grant them safe passage. However, a crossing from right to left warns of danger and advises turning back. Those who show disrespect by killing for sport, damaging the forest, or displaying arrogance may be punished by having their path blocked, their equipment destroyed, or even facing the spirits physical wrath. The Khas-uu is associated with royalty and power, and in ancient times, Mongol khans would invoke the spirit for courage and authority before battle.",
     "habitat": "Southern Mongolian mountains and forests",
@@ -4210,13 +4211,14 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Mongolian folklore — Khas Uu animal spirit.",
-    "source_quality": "good",
+    "source": "Review finding: unattested; 'khas' is the Mongolian swastika-symbol term (has tamga)",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "kobyl-0965",
@@ -5811,7 +5813,7 @@
       "zambur",
       "fox-giant-of-kazakh"
     ],
-    "description": "The Farsakh is a legendary giant from Tajik folklore and oral tradition of the Pamir Mountains region. These immense beings are credited with constructing the ancient fortresses, terraced irrigation systems, and stone bridges that still dot the mountainous Tajik landscape. The name Farsakh connects to Persianate mythology where giants (divs or ghuls) were both builders and destroyers. In Pamiri tradition, the Farsakh represents the primordial labor that shaped the harsh mountain environment into habitable land. Legends tell of these giants moving boulders the size of houses, carving irrigation channels that still water terraced fields today, and building defensive walls across mountain passes. The giants worked primarily at night, when their immense strength was magnified. They are sometimes associated with the legendary one-armed builder Hasan, who constructed fortresses across Khorasan and the Pamirs after losing his right arm",
+    "description": "Not independently attested in folklore literature. Farsakh is a Persianate unit of distance (the parasang, roughly five to six kilometers), not a Pamiri giant, and the 'giant builder of terraces and fortresses' account is fabricated. The genuine giants of Iranian-influenced Central Asian tradition are the divs of Persian mythology.",
     "appearance": "The Farsakh appears as a gigantic humanoid figure standing approximately twenty feet tall, with a massively muscular build that reflects a lifetime of moving stone and earth. Their skin is weathered and dark from sun and wind like the mountain rock itself. They wear simple clothing of rough wool and leather, and they carry enormous tools—a pickaxe the size of a small tree, a stone hammer that would take six men to lift. Their hands are immense and calloused, with fingers thick as roots. Their faces are broad-featured with deep-set eyes that hold the patient, timeless quality of the mountains they shaped. Some legends describe them with a faint reddish glow to their skin, like the iron-rich soil of the Pamir valleys. They leave footprints the size of wagon wheels in soft earth.",
     "behavior": "Farsakh giants are solitary beings who work at night moving rocks and earth, silent and methodical in their labor. They are generally neutral toward humans but demand respect for their work and the land they shaped. They are particularly angered by wasteful use of water—the irrigation systems they built are sacred to them. Those who conserve water, maintain ancient terraces, and respect the mountain springs receive the Farsakh's protection and may find their fields unusually fertile. Those who waste water, damage ancient irrigation channels, or boast of their own building skills may find their walls crumble at night and their water sources run dry. The Farsakh is most active during the new moon, when darkness masks their labors. In times of need, a worthy human can summon a Farsakh by leaving a stone circle with an offering of bread and salt at a ancient irrigation channel.",
     "habitat": "Mountains, ancient sites, irrigation canals",
@@ -5851,13 +5853,14 @@
       "F300"
     ],
     "featured_in_stories": [],
-    "source": "Tajik Persian folklore — Farsakh giant figure.",
-    "source_quality": "good",
+    "source": "No source; fabricated",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "fox-giant-of-kazakh-0724",
@@ -8096,7 +8099,7 @@
       "al-basty",
       "rakshasa"
     ],
-    "description": "Div (Daeva) is a demon from Afghanistan mythology. Their mythology draws from both Zoroastrian and pre-Islamic traditions, blending with local Afghan beliefs about supernatural entities. In Afghan folk tales collected from the Hindu Kush to the Helmand Valley, divs appear as malevolent spirits who guard hidden treasures, kidnap travelers, and terrorize mountain villages. Unlike their Persian counterparts, Afghan divs are more closely tied to specific geographical landmarks — particular peaks, springs, and caves are known as div-dwellings. The folklore of Pashtun and Tajik communities includes stories of heroes who must outwit or overpower these divs to rescue captives or claim treasure. The divs of Afghan tradition reflect the harsh landscape they inhabit, embodying the dangers of the wilderness beyond village boundaries",
+    "description": "Divs are demonic beings of Afghan folk tradition, part of the wider Persianate belief descended from Zoroastrian daevas. In Dari and Pashto tales divs dwell in remote mountains and caves, guard treasure, and abduct travelers, and heroes must outwit or overpower them. The Afghan div tradition is real, though details vary locally.",
     "appearance": "The Div (Daeva) of Afghan folklore appear as giant humanoid beings, towering ten to twenty feet tall, with bodies covered in dark, matted hair. They have massive heads with horns of iron or bone, eyes that glow red in darkness, and long fangs protruding from their mouths. Their limbs are disproportionately long and powerful, with clawed fingers capable of crushing stone. Some legends describe them with one eye in the center of their forehead like a cyclops, or with multiple heads. They wear crude armor made from animal hides and hammered metal, and carry enormous clubs or maces studded with iron spikes. Their skin is resistant to ordinary weapons, and their voices boom like thunder. Older Afghan tales describe them as having the head of a wolf and the body of a man, reflecting the dangerous wildlife of the mountains.",
     "behavior": "Afghan divs are territorial predators who guard specific regions and treasures. They capture travelers who stray into their domains, imprisoning them in deep caves or wells. They are nocturnal hunters who emerge after dark to raid villages, steal livestock, and abduct women. Afghan divs possess limited shapeshifting abilities, often disguising themselves as rocks or trees to ambush prey. They can be bargained with — some stories tell of divs who spare travelers in exchange for promises or sacrifices. Divs have a particular weakness for riddles and games of wit, and clever heroes often defeat them through trickery rather than combat. They are bound by their word and will honor agreements made under duress. The most powerful Afghan divs are said to be immune to blades and require specific magical methods to be defeated, often involving fire or the intervention of saints or holy men.",
     "habitat": "Mountains, dark forests, demon realms",
@@ -8139,13 +8142,14 @@
       "F300"
     ],
     "featured_in_stories": [],
-    "source": "Persianate Afghan folklore — Div/Daeva demonic figures.",
+    "source": "Persianate Afghan oral tradition",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "div-e-sepid-0553",
@@ -8467,7 +8471,7 @@
       "fox-giant-of-kazakh",
       "wildcat-guardian-of-kazakh"
     ],
-    "description": "Chichkhan is a diminutive mountain dwarf from Kazakh and broader Central Asian Turkic folklore, known to inhabit remote caves and rocky crevices of the Tien Shan and Altai mountain ranges. These reclusive beings are part of the rich animistic tradition of the Kazakh people, where natural features like mountains, rivers, and caves were believed to house various spirits. The Chichkhan is associated with the concept of yer-su, or earth-water spirits, that protect specific geographical locations. Stories of Chichkhan have been passed down through oral tradition among Kazakh herders and mountaineers for centuries, serving as cautionary tales about respecting the natural world and the hidden dangers of venturing alone into treacherous mountain terrain where supernatural beings guard the earth's hidden treasures",
+    "description": "Not independently attested in folklore literature. No Kazakh mountain-dwarf spirit named 'Chichkhan' appears in any collection of Kazakh or Central Asian Turkic folklore. Kazakh animistic tradition does describe yer-su earth-water spirits, divs, and witch-figures such as Zheztyrnak, but none matches this name.",
     "appearance": "Chichkhan are described as small humanoid beings standing no more than three feet tall, with bodies that appear composed of rock and earth rather than flesh. Their skin has the texture and color of granite, rough and greyish-brown, often covered in patches of moss and lichen that make them nearly invisible against mountain stone. They possess large, luminous yellow eyes that can see perfectly in complete darkness, set deep within craggy weathered faces. Their hands are disproportionately large with thick stony fingers ending in sharp claws capable of digging through solid rock. Chichkhan are typically depicted wearing crude clothing made from animal hides and mountain grasses, and they carry small pickaxes or stone hammers crafted from flint and obsidian. Their voices are described as a low rumble like distant thunder or falling rocks echoing through cave systems.",
     "behavior": "Chichkhan spend most of their time deep within mountain caves, excavating elaborate tunnel networks and collecting precious minerals, gems, and rare metals. They are fiercely territorial and defend their underground homes against intruders by causing cave-ins, creating confusing tunnel mazes that lead wanderers deeper into the earth, or pushing loose boulders down onto trespassers. However, Chichkhan are not purely malevolent; they occasionally help lost travelers by leaving small piles of glowing stones to mark safe paths out of treacherous mountain passes. They are particularly fond of shiny objects and may approach human campsites at night to examine metal tools or jewelry left unattended. Chichkhan are known to kidnap children who wander too far into caves, raising them as their own in underground kingdoms where the children learn to see in the dark and work precious metals.",
     "habitat": "Caves, mountain crevices, old mines",
@@ -8509,13 +8513,14 @@
     "seo_description": "Chichkhan is a Kazakh mountain dwarf spirit that lives in remote caves and tunnels, known for guarding mineral treasures and trapping intruders.",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Kazakh folklore — Chichkhan dwarf-like figure.",
-    "source_quality": "good",
+    "source": "Kazakh oral tradition",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "chil-kuyz-0305",
@@ -8538,7 +8543,7 @@
       "cougar-ancestor-spirit-of-uzbek",
       "coyote-animal-spirit-of-uzbek"
     ],
-    "description": "Chil-kuyz is a cave spirit from Uzbek and broader Central Asian folklore, rooted in the pre-Islamic animistic traditions of the Turkic peoples of the region. The name translates approximately to spirit of the wilderness or wild place guardian in Uzbek. These spirits are associated with the network of caves, grottoes, and underground springs found throughout the mountainous regions of Uzbekistan, particularly in the Nuratau and Zarafshan ranges. Chil-kuyz are part of a broader class of yer-su (earth-water) spirits venerated by Central Asian peoples since ancient times, maintaining the balance between the human world and the hidden realms beneath the earth. Local communities traditionally offered small tributes before entering caves believed to be inhabited by these spirits, reflecting the deep respect for the unseen forces of the natural world",
+    "description": "Not independently attested in folklore literature. No Uzbek cave spirit named 'Chil-kuyz' is recorded. Uzbek and broader Turkic tradition instead names harmful spirits such as albasti and the iye (yeys) household and nature guardians; 'Chil-kuyz' appears to be an invented blend of these figures.",
     "appearance": "Chil-kuyz manifests as a vaguely humanoid figure composed of living stone and shadow, blending seamlessly with cave walls from which it emerges. Its form is indistinct and shifting, sometimes appearing as a tall gaunt figure draped in tattered earth-colored robes, other times as a hunched shape crawling along the cave ceiling like a spider. Its eyes are the most distinctive feature, glowing with pale phosphorescent light like bioluminescent fungi, floating independently of any discernible face. The spirit leaves no shadow on cave walls and its movements are silent as falling dust. When angered, its form becomes more defined, revealing sharp angular features and long skeletal fingers ending in points like stalactites. Some accounts describe it with multiple sets of eyes arranged in rows across its shifting face, each pair glowing with a different color of light.",
     "behavior": "Chil-kuyz serves as guardian of sacred underground spaces, protecting hidden springs, mineral deposits, and ancient burial sites from desecration. It tests those who enter its domain by creating confusing echoes from all directions, leading greedy treasure seekers into dead-end passages where they become lost. The spirit can cause cave-ins, extinguish lanterns and flashlights, and create the sensation of being watched or followed. To those who approach with genuine need and proper respect, Chil-kuyz may reveal hidden water sources, guide them safely through complex cave systems, or point them toward valuable resources. Traditional Uzbek miners and shepherds leave offerings of bread, salt, or small coins at cave entrances to gain safe passage. The spirit is most active during the new moon and retreats deep into the earth during the hottest summer months.",
     "habitat": "Caves, underground water sources, ancient tunnels",
@@ -8579,14 +8584,15 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Uzbek folklore — Chil Kuyz nature spirit.",
-    "source_quality": "good",
+    "source": "Uzbek oral tradition",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/tɕil kujz/"
+    "pronunciation_ipa": "/tɕil kujz/",
+    "attested": false
   },
   {
     "id": "cougar-ancestor-spirit-of-uzbek-0333",
@@ -8824,7 +8830,7 @@
       "crane-water-spirit-of-kazakh",
       "tengri"
     ],
-    "description": "In Kazakh folklore, where the vast steppes of Central Asia stretch endlessly beneath an ancient sky, the coyote ghost appears as a restless spirit known as the Iyt-Köz, or dog-eyed wanderer. Unlike the totemic wolf revered by Turkic peoples as the legendary ancestor of all Turkic nations, the coyote ghost represents the marginalized trickster, the spirit that survives on the edges of settlements and the boundaries of civilization. Kazakh nomadic traditions speak of this spirit as the remnant of a shaman who failed to pass properly into the afterlife, condemned to wander the steppes between the worlds of the living and the dead. It is particularly active during the harsh winter months when the boundary between worlds grows thin and the spirits of the ancestors draw close to the felt yurts of the nomadic Kazakh people",
+    "description": "Not independently attested in folklore literature. Coyotes are not native to Kazakhstan, and no Kazakh failed-shaman 'coyote ghost' or 'Iyt-Köz' appears in any recorded tradition. Kazakh folklore reveres the wolf as legendary ancestor; the dog-eyed wanderer here is an invented figure.",
     "appearance": "The Kazakh coyote ghost appears as a translucent, grey figure that seems to be woven from the steam that rises from the horses on cold mornings across the steppe. Its body is semi-transparent, revealing the distant horizon through its form, and its eyes burn with the cold blue flame of will-o'-the-wisps that lure travelers from the safety of known paths. A faint shimmer like the northern lights plays across its fur, and its footprints in the snow do not melt but remain as permanent indentations that mark the boundaries of its territory. In human form, it appears as a traveler wrapped in a threadbare chapan, its face obscured by a hood, carrying the burdens of a journey that has no end. It speaks in the voice of the winter wind, and those who hear it cannot tell if the words are real or merely the product of their imagination in the vast emptiness of the steppe.",
     "behavior": "The coyote ghost haunts the transitional spaces of the Kazakh landscape, appearing at the boundaries between tribal territories and at the crossroads where ancient trade routes intersect. It particularly targets those who disrespect the spirits of the steppe, such as travelers who fail to leave offerings at the cairns that mark sacred passes or hunters who take more than they need from the land. The ghost leads those who have wronged the spirits on endless circular journeys through the featureless grasslands, teaching them humility through disorientation before finally releasing them at the edge of their own encampment, transformed by their experience. Kazakh elders warn that the coyote ghost serves a necessary purpose in the spiritual ecology of the steppe, maintaining the balance between human activity and the wild forces that have shaped the nomadic way of life for thousands of years across the vast expanse of Central Asia.",
     "habitat": "Remote deserts",
@@ -8866,13 +8872,14 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Kazakh folklore — spirit figure from Kazakh oral tradition.",
-    "source_quality": "fair",
+    "source": "Kazakh oral tradition",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "coyote-spirit-of-uzbek-0417",
@@ -10853,7 +10860,7 @@
       "kobyl",
       "restless-spirit-blackfoot"
     ],
-    "description": "Uzbek folklore and spiritual traditions, shaped by a blend of pre-Islamic Turkic shamanism, Zoroastrian influences, and Sufi Islam, feature a rich cast of spirits and supernatural beings. The traditional Uzbek belief system includes jinn, devas, and various nature spirits that inhabit the mountains, deserts, and waterways of Central Asia. While the wolf holds a place of primary importance in Turkic mythology as the ancestral totem, and the eagle represents power and vision, the badger occupies a more obscure position. The European badger (Meles meles) and the honey badger are not native to Uzbekistan, though the Asian badger (Meles leucurus) ranges into parts of Central Asia. In Uzbek folk belief, a badger ghost would be considered a type of yil or animal spirit, possibly associated with the earth and underground places. These spirits are believed to have knowledge of hidden things, including buried treasure and underground water sources, making them valuable allies for those who know how to properly petition them",
+    "description": "Not independently attested in folklore literature. No Uzbek tradition records a badger ghost. Uzbek folk belief includes jinn, devs, and paris, along with Turkic nature spirits, but the badger plays no documented spirit role; the wolf and eagle are the culturally prominent Turkic animals.",
     "appearance": "In Uzbek folk tradition, the Badger Ghost would be envisioned with features drawn from the animals known to Central Asian peoples. It appears as a stout, low-bodied creature with a distinctive striped face that sets it apart from other mustelids in the region. The fur is depicted as thick and coarse, predominantly gray with darker legs and a pale stripe running from the muzzle over the crown and along the back. In Uzbek artistic renderings, this ghost might be shown with elements of traditional Turkic animal style, perhaps with curled patterns reminiscent of the ornamental designs found in Samarkand and Bukhara. The ghost's claws are emphasized as tools of great power, capable of excavating the hardest ground, and its eyes are said to glow like embers in the darkness of its underground realm. Traditional Uzbek descriptions might compare the badger ghost to the khar putlat or other earth-dwelling spirits of Central Asian folklore. The creature is sometimes depicted wearing a collar or being adorned with turquoise stones, which are traditionally believed in Central Asia to offer protection against evil spirits and to enhance spiritual vision.",
     "behavior": "The Badger Ghost of Uzbek tradition is understood as a solitary and secretive spirit, rarely seen by humans except by those who venture into remote mountain regions or abandoned caravan routes. It is most active at night when it emerges from its underground dwelling to forage and to guard the hidden treasures of the earth. In Uzbek folk belief, this ghost is not inherently malevolent but can be dangerous if disturbed or disrespected. It possesses knowledge of underground water sources, a precious commodity in the arid regions of Central Asia, and those who treat it with proper respect may be rewarded with the discovery of a spring or well. The Badger Ghost is also believed to guard ancient burial sites and archaeological treasures buried beneath the Central Asian soil. Traditional Uzbek stories might tell of travelers who encountered the Badger Ghost while crossing the Kyzylkum Desert or navigating the Fergana Valley, and who received warnings about unsafe paths or hidden dangers. Like many spirits in Central Asian folklore, it can be appeased with offerings of bread, milk, or coins left at the entrance of its burrow.",
     "habitat": "Not specifically documented in Uzbek tradition",
@@ -10896,13 +10903,14 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Uzbek folklore — badger ghost from Uzbek oral tradition.",
-    "source_quality": "fair",
+    "source": "No reliable source found (closest analogue: Uzbek/Turkic spirit beliefs)",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "bai-ulgan-0108",

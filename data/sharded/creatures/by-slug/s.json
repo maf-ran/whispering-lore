@@ -3449,7 +3449,7 @@
       "b-rbel",
       "r-bezahl"
     ],
-    "description": "The Schrat (plural Schratln) is a versatile and regionally diverse German legendary creature, appearing as either a wood sprite, a domestic kobold, or a nightmare demon depending on location and tradition. The term is ancient, entering Slavic languages as skrat, skrzat (Polish), skřítek (Czech), and even Estonian kratt — a testament to its deep Indo-European roots. In Bavaria and Austria, the Waldschrat is a solitary forest-dwelling spirit, small and mischievous, who plays malicious pranks on woodcutters and hikers. It breaks their axes, fells trees in wrong directions, and leads travelers astray with mocking laughter. In other regions, particularly the Upper Palatinate, the Schrat is a domestic house spirit akin to a kobold, protecting the home and bringing prosperity if respected, but causing chaos if offended. In Switzerland and the Alemannic regions, the Schratteli is an alp-like nightmare demon that causes sleep paralysis and has a unibrow — the telltale mark of those connected to the spirit world. The Schrat is considered the origin of the English term 'scrat' as an archaic word for a devil or goblin In Germany folklore, this figure is known among the Germany people.",
+    "description": "The Schrat is a regionally varied German legendary creature: a wood sprite (Waldschrat) that torments woodcutters in Bavaria and Austria, a domestic house spirit akin to a kobold in the Upper Palatinate, or an alp-like nightmare demon (Schratteli) in Switzerland and Alemannic regions. The old term spread into Slavic as skrzat, skřítek, and Estonian kratt.",
     "appearance": "The Waldschrat is usually described as a small, hunched, hairy creature with a wizened face, tangled hair, and small glowing eyes. It is sometimes depicted with a green mossy coat or bark-like skin, blending into the forest. The domestic Schrat appears as a small dwarf or gnome in simple clothing. The Schrätteli as nightmare-creature is tiny and shadow-like, often appearing as a butterfly at first before becoming a suffocating weight on the sleeper's chest.",
     "behavior": "The Schrat's behavior depends entirely on region and circumstances. The Waldschrat antagonizes forest workers: it breaks tools, misdirects tree falls, and scares hunters by laughing from the shadows. The domestic Schrat (Schrezala in the Fichtelgebirge) acts like a classic kobold: it performs chores at night, brings prosperity, but must be fed with leftover food — overstepping this custom drives it away forever. The Alpine Schrätteli functions as an alp: it sits on sleepers' chests, causes paralysis, and can be identified by its butterfly form or by the unibrow of its human host. In Carinthia, the Schratel was a common name for dogs, suggesting the spirit was once a tutelary household figure.",
     "habitat": "Deep, dark forests — the Schrat loves mature woodland and will abandon areas that are logged. It particularly frequents remote forest clearings, ancient groves, and the Fichtel Mountains of Bavaria. As a domestic spirit, it takes up residence in farmhouses, stables, and barns, especially in southeastern Germany and Austria. The Schrat is said to live in specific gnarled old trees that locals avoid cutting down.",
@@ -3505,15 +3505,16 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "German folklore; the Schrat is a versatile forest spirit in German tradition.",
-    "source_quality": "good",
+    "source": "German and Slavic folk tradition; comparative folklore scholarship",
+    "source_quality": "researched",
     "stories": [
       "the-nutcracker-and-the-mouse-king"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "scorpion-ancestor-spirit-mari-1641",
@@ -5033,7 +5034,7 @@
       "div-azerbaijan",
       "nga-india"
     ],
-    "description": "Shahmaran (from Persian Shah-i-Maran, 'King of Snakes') is a mythical half-woman, half-snake creature revered in Azerbaijani, Turkish, and Kurdish folklore. She is the immortal queen of all serpents, possessing profound wisdom and magical healing powers. According to widespread legend, Shahmaran dwells in an underground realm beneath the ancient city of Tarsus, where intelligent and compassionate serpents live in peace. In Azerbaijani variants, her legend is known in Nakhchivan, Lankaran, and along the Araz River basin. The most famous tale tells of Cəmşab, a poor woodcutter who discovered Shahmaran's underground kingdom and lived with her for years, learning her secrets. After betraying her location to a sick king, Shahmaran was killed but arranged that her killer would die and her faithful friend would gain all the world's medical wisdom, becoming a legendary healer akin to Luqman In Azerbaijan folklore, this figure is known among the Azerbaijan people.",
+    "description": "Shahmaran ('King of Snakes') is a mythical half-woman, half-snake being revered in Azerbaijani, Turkish and Kurdish folklore: the immortal queen of serpents, keeper of profound wisdom and healing power. In Azerbaijani variants the legend is known in Nakhchivan, Lankaran and the Araz River basin. The tale of Cəmşab recounts how her wisdom passed to a legendary healer.",
     "appearance": "A creature with the upper body of a beautiful young woman with long dark hair and the lower body of a coiled serpent covered in shimmering scales. Her human half has luminous skin and is often adorned with a large ornate necklace. Some depictions show a second head at the tip of the serpent tail, that of a snake with a crown. She is frequently illustrated with two crowns, one on her human head and one on the serpent head, symbolizing her dual dominion over human wisdom and animal nature.",
     "behavior": "Wise, compassionate, and protective of her serpent subjects. Shahmaran is generally benevolent toward humans who treat her with respect. She dispenses wisdom and knowledge to those she trusts but is capable of cunning deception to protect her loved ones. She is patient and forgiving, though her trust, once broken, leads to tragic consequences. Her death is designed to serve justice, rewarding the faithful and punishing the greedy.",
     "habitat": "Underground kingdoms beneath ancient cities, deep wells, caves near Tarsus, and river valleys of the Araz basin in Nakhchivan and southern Azerbaijan",
@@ -5084,14 +5085,15 @@
     "featured_in_stories": [
       "shahmaran-the-serpent-queen-of-turkey"
     ],
-    "source": "Azerbaijani/Persian mythology; the Shahmaran is a half-woman, half-snake deity.",
-    "source_quality": "expert",
+    "source": "Azerbaijani folk tradition; Shahmaran legends of the Caucasus",
+    "source_quality": "well-documented",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/ʃahmaɾan/"
+    "pronunciation_ipa": "/ʃahmaɾan/",
+    "attested": true
   },
   {
     "id": "shalako-1662",
@@ -6130,7 +6132,7 @@
       "silat-palestine",
       "jinn-jerusalem"
     ],
-    "description": "The Si'lat (plural: Si'lat) is a female class of jinn in Levantine and Palestinian folklore, distinct from both the ghoul and ordinary jinn. Unlike the shapeshifting ghoul, the Si'lat has an invariable form — it is a witchlike spirit of fixed appearance and is extremely treacherous. In Palestinian tradition, the Si'lat is considered one of the most dangerous types of jinn because of its cunning and malicious intelligence. It is particularly associated with causing madness, leading travelers astray in wilderness areas, and interfering with human affairs out of pure spite. Unlike jinn that can be reasoned with or placated, the Si'lat is irredeemably evil and delights in causing suffering. The Si'lat class of jinn is mentioned in medieval Arabic demonological texts alongside the Ghoul, the Ifrit, and the Marid",
+    "description": "The Si'lat is a class of female jinn in Levantine and Arab folklore, a witchlike spirit of fixed appearance, unlike the shapeshifting ghoul. Extremely treacherous, it is linked with madness, leading travellers astray in wilderness areas, and malicious interference in human affairs. Medieval Arabic demonological texts name it alongside the ghoul, the ifrit and the marid.",
     "appearance": "The Si'lat has a fixed witchlike appearance: a haggard old woman with long matted hair, sharp yellow teeth, claw-like fingernails, and skin the color of ash. Its eyes are described as burning coals, and it is often depicted wearing tattered black garments. Unlike ghouls, it does not shapeshift — its appearance is consistently hideous, which makes its treachery more insidious as it relies on deception of voice and circumstance rather than physical allure.",
     "behavior": "The Si'lat is malevolent and treacherous by nature. It specializes in deception, pretending to be a lost old woman asking for directions, a relative in distress, or a helpful guide. Once it has earned a human's trust, it leads them to their death or drives them mad. It is known to enter homes through cracks and crevices, bringing misfortune to households. Unlike ghouls that primarily desire flesh, the Si'lat derives pleasure from psychological torment and confusion.",
     "habitat": "Desert oases, ruins, lonely places",
@@ -6171,13 +6173,14 @@
     "seo_description": "Discover the Si'lat, a treacherous witchlike female jinn from Palestinian folklore with an invariable hideous form.",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Saudi Arabian folklore — spirit documented in Arabian oral tradition.",
-    "source_quality": "fair",
+    "source": "Arabic demonological texts; Levantine folk tradition",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "silat-palestine-1676",
@@ -6202,7 +6205,7 @@
       "abu-al-salasil",
       "umm-al-duwais"
     ],
-    "description": "The Si'lat (plural: Si'lat) is a female class of jinn in Levantine and Palestinian folklore, distinct from both the ghoul and ordinary jinn. Unlike the shapeshifting ghoul, the Si'lat has an invariable form — it is a witchlike spirit of fixed appearance and is extremely treacherous. In Palestinian tradition, the Si'lat is considered one of the most dangerous types of jinn because of its cunning and malicious intelligence. It is particularly associated with causing madness, leading travelers astray in wilderness areas, and interfering with human affairs out of pure spite. Unlike jinn that can be reasoned with or placated, the Si'lat is irredeemably evil and delights in causing suffering. The Si'lat class of jinn is mentioned in medieval Arabic demonological texts alongside the Ghoul, the Ifrit, and the Marid In Palestine folklore, this figure is known among the Palestine people.",
+    "description": "In Palestinian folklore the Si'lat is one of the most dangerous kinds of jinn: a female, witchlike spirit of fixed appearance and cunning malice, distinct from the shapeshifting ghoul. Associated with madness and with leading travellers astray in the wilderness, it cannot be reasoned with or placated and delights in causing suffering.",
     "appearance": "The Si'lat has a fixed witchlike appearance: a haggard old woman with long matted hair, sharp yellow teeth, claw-like fingernails, and skin the color of ash. Its eyes are described as burning coals, and it is often depicted wearing tattered black garments. Unlike ghouls, it does not shapeshift — its appearance is consistently hideous, which makes its treachery more insidious as it relies on deception of voice and circumstance rather than physical allure.",
     "behavior": "The Si'lat is malevolent and treacherous by nature. It specializes in deception, pretending to be a lost old woman asking for directions, a relative in distress, or a helpful guide. Once it has earned a human's trust, it leads them to their death or drives them mad. It is known to enter homes through cracks and crevices, bringing misfortune to households. Unlike ghouls that primarily desire flesh, the Si'lat derives pleasure from psychological torment and confusion.",
     "habitat": "Desolate wilderness, mountain passes, ruins, caves, and remote areas throughout Palestine and the Levant.",
@@ -6250,17 +6253,18 @@
     "seo_description": "Discover the Si'lat, a treacherous witchlike female jinn from Palestinian folklore with an invariable hideous form.",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "https://www.britannica.com/topic/sila-Arabian-spirit, https://yplus.ps/wp-content/uploads/2021/01/Odeh-Huda-and-Peter-Laban-Folklore-Tales-and-Other-Oral-Expressions-in-Palestine.pdf",
-    "source_quality": "good",
+    "source": "Palestinian folk tradition; Levantine jinn lore",
+    "source_quality": "researched",
     "fun_fact_generated": false,
     "stories": [
       "the-jinn-of-the-empty-quarter"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/siːlaːt/"
+    "pronunciation_ipa": "/siːlaːt/",
+    "attested": true
   },
   {
     "id": "sidhe-aos-s-1677",
@@ -6663,7 +6667,7 @@
       "nyoaty",
       "bura"
     ],
-    "description": "Simurgh is a colossal benevolent mythical bird in Azerbaijani folklore, shared with Persian and broader Turkic mythology. This wise and ancient creature possesses profound healing powers and esoteric knowledge. The Simurgh nests atop the mythical Qaf Mountain at the edge of the world and is said to have lived so long that it witnessed the destruction of the world three times. In Azerbaijani tales, the Simurgh appears at moments of greatest despair to rescue heroes trapped in deep pits or remote mountains, carrying them to safety and imparting wisdom. Its feathers have miraculous healing properties. The Simurgh represents the harmony between nature, wisdom, and divine goodness, standing in eternal opposition to dark forces like the Divs In Azerbaijan folklore, this figure is known among the Azerbaijan people.",
+    "description": "Simurgh is a colossal benevolent bird in Azerbaijani, Persian and Turkic folklore, keeper of ancient wisdom and healing power. Nesting on mythical Mount Qaf, it rescues heroes trapped in deep pits and remote mountains, carrying them to safety and imparting wisdom; its feathers have miraculous healing properties, and it stands in eternal opposition to dark forces such as the Divs.",
     "appearance": "A colossal bird, so enormous that it can carry an elephant or a full-grown human in its talons. It has the head of a dog or human, the body of a peacock covered in iridescent green, gold, and blue feathers, and the claws of a lion. Its feathers glow with inner light, and its wingspan darkens the sky when it flies. Single fallen feathers emit warmth and light. Some descriptions give it a woman's face with a bird's body.",
     "behavior": "Wise, benevolent, and protective of worthy humans. The Simurgh serves as a helper to heroes, giving advice, healing wounds, and providing magical feathers or guidance. It possesses the knowledge of all ages and speaks with profound wisdom. It has a maternal instinct toward lost or desperate humans who wander near its domain. It can carry adult humans on its back across vast distances. It only appears to those who are pure of heart or in dire need.",
     "habitat": "The mythical Qaf Mountain (Mount Qaf) on the edge of the world, inaccessible peaks of the Caucasus Mountains, and cosmic tree Tuba",
@@ -6712,13 +6716,14 @@
       "F300"
     ],
     "featured_in_stories": [],
-    "source": "Azerbaijani/Persian mythology; the Simurgh is a colossal benevolent bird.",
-    "source_quality": "expert",
+    "source": "Azerbaijani/Persian folk tradition; Simurgh of Mount Qaf",
+    "source_quality": "well-documented",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "singh-dhan-1683",
@@ -8584,7 +8589,7 @@
       "moko-jumbie-stvincent",
       "rounce"
     ],
-    "description": "The Soucouyant is well-known in Saint Vincent and the Grenadines folklore as a shape-shifting, blood-sucking hag. As documented by Charles Day in his 19th-century book 'Five Years in the West Indies' and referenced in the Know Your Caribbean Podcast, Vincentian tradition holds that the Soucouyant sheds her skin at night and flies as a ball of fire. In Saint Vincent, belief in the Soucouyant is intertwined with the practice of Obeah, which remains a powerful force in Vincentian spiritual life. The creature is said to be a reclusive old woman by day who transforms at night to drain the blood of her victims. Vincentians traditionally protect their homes by placing salt in doorways and hanging garlic over entrances. The legend reinforces the importance of community surveillance and the dangers of dabbling in black magic",
+    "description": "In Antiguan and Barbudan folklore the soucouyant is a blood-sucking hag who sheds her skin at night and flies as a ball of fire to enter homes and drain the blood of her victims. A figure shared across the Caribbean, she is warded off with salt in doorways and garlic, and belief in her warns against dabbling in black magic.",
     "appearance": "By day: a reclusive old woman living alone. By night: a ball of fire traversing the sky. Her skinless form is described as raw and terrifying. Leaves black and blue bite marks on her victims. Her discarded skin resembles a wrinkled empty sack stored in a mortar.",
     "behavior": "Nocturnal blood-feeder that transforms into a fireball. Seeks vulnerable victims, especially infants and the elderly. Enters homes through the smallest openings. Avoids salt, rice, and religious paraphernalia. Associated with Obeah practitioners.",
     "habitat": "Homes at night",
@@ -8629,15 +8634,16 @@
       "barong-and-rangda",
       "soucouyant-the-fireball-hag-of-the-caribbean"
     ],
-    "source": "Caribbean folklore — the Soucouyant vampire documented across Caribbean oral tradition.",
-    "source_quality": "good",
+    "source": "Antiguan folk tradition; Caribbean soucouyant complex",
+    "source_quality": "documented",
     "stories": [
       "soucouyant-the-fireball-hag-of-the-caribbean"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "soucouyant-trinidadandtobago-1708",
@@ -8833,7 +8839,7 @@
       "ladiablesse-dominica",
       "heartman"
     ],
-    "description": "Soucouyant is a vampire from Caribbean mythology. As documented by Charles Day in his 19th-century book 'Five Years in the West Indies' and referenced in the Know Your Caribbean Podcast, Vincentian tradition holds that the Soucouyant sheds her skin at night and flies as a ball of fire. In Saint Vincent, belief in the Soucouyant is intertwined with the practice of Obeah, which remains a powerful force in Vincentian spiritual life. The creature is said to be a reclusive old woman by day who transforms at night to drain the blood of her victims. Vincentians traditionally protect their homes by placing salt in doorways and hanging garlic over entrances. The legend reinforces the importance of community surveillance and the dangers of dabbling in black magic In Dominica folklore, this figure is known among the Dominican Creole people.",
+    "description": "The soucouyant is a blood-sucking hag in Dominican folklore: an old woman by day who sheds her skin at night and flies as a ball of fire to enter homes through keyholes and drain blood. A pan-Caribbean figure, she is kept at bay with salt, garlic or scattered seeds, and belief in her is tied to the practice of dark magic.",
     "appearance": "By day: a reclusive old woman living alone. By night: a ball of fire traversing the sky. Her skinless form is described as raw and terrifying. Leaves black and blue bite marks on her victims. Her discarded skin resembles a wrinkled empty sack stored in a mortar.",
     "behavior": "Nocturnal blood-feeder that transforms into a fireball. Seeks vulnerable victims, especially infants and the elderly. Enters homes through the smallest openings. Avoids salt, rice, and religious paraphernalia. Associated with Obeah practitioners.",
     "habitat": "Secluded villages, rural homes, silk cotton trees, night skies throughout Dominica",
@@ -8889,13 +8895,14 @@
       "B200"
     ],
     "featured_in_stories": [],
-    "source": "Dominican oral tradition; snip DOM767; snip Wikipedia",
-    "source_quality": "good",
+    "source": "Dominican folk tradition; Caribbean soucouyant complex",
+    "source_quality": "documented",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "soucouyant-saintlucia-1711",
@@ -8923,7 +8930,7 @@
       "ligaroo",
       "heartman"
     ],
-    "description": "Soucouyant is a vampire from Caribbean mythology. As documented by Charles Day in his 19th-century book 'Five Years in the West Indies' and referenced in the Know Your Caribbean Podcast, Vincentian tradition holds that the Soucouyant sheds her skin at night and flies as a ball of fire. In Saint Vincent, belief in the Soucouyant is intertwined with the practice of Obeah, which remains a powerful force in Vincentian spiritual life. The creature is said to be a reclusive old woman by day who transforms at night to drain the blood of her victims. Vincentians traditionally protect their homes by placing salt in doorways and hanging garlic over entrances. The legend reinforces the importance of community surveillance and the dangers of dabbling in black magic In Saint Lucia folklore, this figure is known among the Saint Lucian Creole people.",
+    "description": "In Saint Lucian folklore the sukuyant is a blood-sucking hag who sheds her skin at night and flies as a ball of fire in search of victims, entering homes to drain their blood. A figure shared across the Caribbean, she is warded off with salt in doorways and garlic, and is linked to shape-shifting and dark magic.",
     "appearance": "By day: a reclusive old woman living alone. By night: a ball of fire traversing the sky. Her skinless form is described as raw and terrifying. Leaves black and blue bite marks on her victims. Her discarded skin resembles a wrinkled empty sack stored in a mortar.",
     "behavior": "Nocturnal blood-feeder that transforms into a fireball. Seeks vulnerable victims, especially infants and the elderly. Enters homes through the smallest openings. Avoids salt, rice, and religious paraphernalia. Associated with Obeah practitioners.",
     "habitat": "Rural villages, silk cotton trees, secluded homes, night skies across Saint Lucia, especially the Mabouya Valley area",
@@ -8980,14 +8987,15 @@
       "B200"
     ],
     "featured_in_stories": [],
-    "source": "Saint Lucian oral tradition; snip Wikipedia; snip The Independent (1996); snip Know Your Caribbean Podcast",
-    "source_quality": "good",
+    "source": "Saint Lucian folk tradition; Caribbean sukuyant complex",
+    "source_quality": "documented",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/suːkuːjænt/"
+    "pronunciation_ipa": "/suːkuːjænt/",
+    "attested": true
   },
   {
     "id": "soucouyant-saintvincentandthegrenadines-1712",
@@ -9013,7 +9021,7 @@
       "ligaroo",
       "rounce"
     ],
-    "description": "Soucouyant is a vampire from Caribbean mythology. As documented by Charles Day in his 19th-century book 'Five Years in the West Indies' and referenced in the Know Your Caribbean Podcast, Vincentian tradition holds that the Soucouyant sheds her skin at night and flies as a ball of fire. In Saint Vincent, belief in the Soucouyant is intertwined with the practice of Obeah, which remains a powerful force in Vincentian spiritual life. The creature is said to be a reclusive old woman by day who transforms at night to drain the blood of her victims. Vincentians traditionally protect their homes by placing salt in doorways and hanging garlic over entrances. The legend reinforces the importance of community surveillance and the dangers of dabbling in black magic In Saint Vincent and the Grenadines folklore, this figure is known among the Vincentian people.",
+    "description": "The soucouyant is a shape-shifting, blood-sucking hag of Vincentian folklore, documented by Charles Day in 'Five Years in the West Indies'. She sheds her skin at night and flies as a ball of fire to drain her victims' blood. Vincentian homes are protected with salt in doorways and garlic, and belief in the soucouyant is tied to Obeah.",
     "appearance": "By day: a reclusive old woman living alone. By night: a ball of fire traversing the sky. Her skinless form is described as raw and terrifying. Leaves black and blue bite marks on her victims. Her discarded skin resembles a wrinkled empty sack stored in a mortar.",
     "behavior": "Nocturnal blood-feeder that transforms into a fireball. Seeks vulnerable victims, especially infants and the elderly. Enters homes through the smallest openings. Avoids salt, rice, and religious paraphernalia. Associated with Obeah practitioners.",
     "habitat": "Rural villages, isolated homes, silk cotton trees, forest edges throughout Saint Vincent and the Grenadines",
@@ -9070,13 +9078,14 @@
       "B200"
     ],
     "featured_in_stories": [],
-    "source": "Saint Vincent and the Grenadines oral tradition; snip Know Your Caribbean Podcast; snip Searchlight SVG",
-    "source_quality": "good",
+    "source": "Charles Day, 'Five Years in the West Indies'; Vincentian folk tradition",
+    "source_quality": "documented",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "sphinx-egypt-1714",
@@ -12038,7 +12047,7 @@
       "havmann",
       "nkk-norway"
     ],
-    "description": "Snåsavettern (the Snåsa Water Wight) is a water spirit said to inhabit Snåsavatnet, the largest lake in Trøndelag with an area of 125 square kilometers, located in Snåsa municipality. Like many large Norwegian lakes, Snåsavatnet was believed to have its own vette (nature spirit) that protected the lake and all the life within it. The Snåsavettern is a type of water vette that controls the fish population, the weather on the lake, and the safety of those who travel across it. It could grant excellent fishing to respectful fishermen or create dangerous waves and sudden storms to punish those who overfished or disrespected the lake. Offerings of the first catch of the season were traditionally thrown back into the lake to honor the Snåsavettern. Sami influence from the nearby Snåsa reindeer herding areas may have shaped the legend as well, blending Norse and Sami nature spirit traditions",
+    "description": "Not independently attested in Norwegian folklore. No scholarly or primary source documents a water-wight tradition for Snåsavatnet; the lake's genuine supernatural figure is the sea serpent Kudulla, recorded since the 1770s.",
     "appearance": "Usually invisible — felt as a presence on the lake. When seen, appears as a dark shape in the water, a large fish with unusual features, or a misty figure walking on water. Sometimes described as a tall, dark-clad figure standing on the shore.",
     "behavior": "Controls fish populations in the lake. Creates calm or stormy weather. Rewards respectful fishermen with good catches. Punishes overfishing and waste. Accepts offerings of first catch. Capsizes boats of those who disrespect the lake.",
     "habitat": "Snåsavatnet lake in Snåsa municipality, Trøndelag. Particularly in the deepest parts of the lake and near the inlets.",
@@ -12080,13 +12089,14 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Scandinavian folklore; Vættir are nature spirits of the land and water.",
-    "source_quality": "expert",
+    "source": "No independent source found; negative research result",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "stllo-norway-2179",
@@ -13843,7 +13853,7 @@
       "bear-ghost-of-shona",
       "deer-ghost-of-zulu"
     ],
-    "description": "Sotho ghosts, often called matsatsi, are believed to be the spirits of ancestors who have not found peace in the afterlife. In Basotho mythology of Lesotho, death is not the end of existence but a transition to another realm, where the ancestors (badimo) continue to influence the living world. Most ancestors are benevolent protectors, but those who died violently, were not properly buried, or who harbor unresolved grievances may become restless ghosts that wander the earth. These spirits are often marked by unusual occurrences, strange sounds, cold spots, or apparitions. The mountainous terrain of Lesotho, with its misty valleys and remote passes, is considered particularly active with ghostly activity. The Basotho people maintain elaborate rituals to honor their ancestors and ensure their peaceful rest, including animal sacrifice, beer offerings, and consultation with traditional diviners. The belief in ghosts reinforces the importance of proper burial rituals and the maintenance of family bonds beyond death",
+    "description": "In Basotho belief of Lesotho, death is a transition to another realm where the ancestors (badimo) continue to influence the living. Most ancestors are benevolent protectors, but those who died violently, were not properly buried or bear unresolved grievances may wander as restless ghosts (matsatsi). Rituals of animal sacrifice, beer offerings and divination ensure ancestral peace and family bonds.",
     "appearance": "Sotho ghosts are typically described as shadowy figures or translucent human shapes that may appear as they did in life. Some are said to be headless or show the wounds that caused their death. They are most often seen at dusk or in misty conditions.",
     "behavior": "Restless ghosts may haunt specific locations, appear to family members in dreams, cause unexplained noises, or manifest as cold breezes. They are generally not aggressive but seek attention or resolution for their unfinished business.",
     "habitat": "Battlefields, remote mountain passes, unmarked graves, and abandoned homesteads in Lesotho",
@@ -13908,14 +13918,15 @@
       ]
     ],
     "featured_in_stories": [],
-    "source": "Lesotho NewsDesk; Basotho oral traditions",
-    "source_quality": "good",
+    "source": "Basotho folk belief; Lesotho ancestral cult traditions",
+    "source_quality": "researched",
     "fun_fact_generated": false,
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "saharan-jinn-mauritania-3273",
@@ -13940,7 +13951,7 @@
       "ifrit-algeria",
       "adze-togo"
     ],
-    "description": "In Mauritania, belief in desert jinn (locally called jenun) is deeply embedded in the culture, shaped by the vast and unforgiving Saharan landscape. Mauritanian jinn are supernatural beings made of smokeless fire who inhabit the empty deserts, ancient ruins, oases, and remote mountain passes of this largely desert nation. The harsh Sahara creates a unique spiritual landscape where natural phenomena like sandstorms, mirages, and the howling of desert winds are attributed to jinn activity. Mauritanian folklore distinguishes between different types of jinn: some are Muslim and harmless, while others are unbelieving and malevolent. The desert jinn are particularly associated with the hours of darkness, when travelers may hear their voices carried on the wind or see their fires flickering in the distance. Tales of people being led astray by jinn who disguise themselves as fellow travelers are common. The concept of the 'evil eye' and jinn possession is also prevalent, with traditional healers (fqihs) using Quranic verses and incense to provide protection and treatment",
+    "description": "In Mauritania, belief in desert jinn (jenun) is deeply embedded in culture, shaped by the vast Sahara. Made of smokeless fire, they inhabit deserts, ruins, oases and remote passes; sandstorms, mirages and the howling of winds are read as their work. Some jinn are Muslim and harmless, others malevolent; travellers fear being led astray, and fqihs use Quranic verses and incense for protection.",
     "appearance": "Jinn are invisible but can manifest as columns of sand, heat shimmer, human travelers, animals (especially black dogs, camels, or snakes), or as beautiful people with subtle deformities such as backward-facing feet.",
     "behavior": "Desert jinn are territorial and may become hostile if their spaces are violated. They are known to lead travelers astray, cause mirages, and possess those who venture into their domains. Some are protectors of hidden treasures or sacred sites.",
     "habitat": "The Sahara Desert, particularly around oases, ancient caravan routes, ruins of medieval trading cities (Chinguetti, Oualata), and mountain passes",
@@ -14003,15 +14014,16 @@
       "protection"
     ],
     "featured_in_stories": [],
-    "source": "Mexicohistorico.com; Saharan oral traditions",
-    "source_quality": "good",
+    "source": "Mauritanian folk belief; Islamic jinn traditions of the Sahara",
+    "source_quality": "researched",
     "fun_fact_generated": false,
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/dʒɪn/"
+    "pronunciation_ipa": "/dʒɪn/",
+    "attested": true
   },
   {
     "id": "saharan-ghoul-3275",
@@ -16737,7 +16749,7 @@
       "buda-eritrea",
       "agogwe"
     ],
-    "description": "The Zonbi (or Zombi) is a malevolent spirit or reanimated corpse from Seychellois Creole folklore, related to similar figures found across the Indian Ocean and Caribbean islands. Unlike the Hollywood depiction of zombies as mindless undead, the Seychellois Zonbi is more closely associated with dark magic and witchcraft—a spirit or corpse animated by sorcery to serve a malevolent purpose. Seychellois Zonbi stories are typically less common than those of Soungoula or Tizan but speak to deep anxieties about death, the afterlife, and the misuse of spiritual power. In traditional belief, Zonbi are associated with abandoned historical sites, particularly those linked to the colonial era and the slave trade. The lingering trauma of slavery infuses Zonbi legends—the idea that those who died in bondage might return as restless spirits, or that dark magic practiced on plantations could reanimate the dead. Visiting abandoned colonial-era sites at night is said to increase the risk of encountering a Zonbi. These tales remind Seychellois of the lingering impact of their colonial past and the thin boundary between the living and the dead",
+    "description": "The Zonbi is a malevolent spirit or reanimated corpse in Seychellois Creole folklore, linked to dark magic rather than Hollywood-style zombies. A corpse may be animated by sorcery to serve an evil purpose, and Zonbi are associated with abandoned historical sites. Belief in them reflects anxieties about death, the afterlife and the misuse of spiritual power.",
     "appearance": "Described as a pale or decaying humanoid form, often wearing tattered clothing from the colonial era. Sometimes invisible, sensed only as a cold presence or an unexplained stench.",
     "behavior": "Malevolent and threatening. May be controlled by a sorcerer or act independently. Haunts specific locations, particularly abandoned colonial sites. Active at night.",
     "habitat": "Abandoned plantations, old cemeteries, historical ruins, and other places associated with colonial-era death and suffering.",
@@ -16787,8 +16799,8 @@
       "Dark magic"
     ],
     "featured_in_stories": [],
-    "source": "Island Hopper Guides - Seychelles Folklore; The Creole Melting Pot; Seychelles Research Journal",
-    "source_quality": "good",
+    "source": "Seychellois Creole folk tradition; guide and travel accounts",
+    "source_quality": "documented",
     "stories": [
       "the-zombie-creation-myth-of-haitian-vodou"
     ],
@@ -16796,10 +16808,11 @@
       "Lolo"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/zombi/"
+    "pronunciation_ipa": "/zombi/",
+    "attested": true
   },
   {
     "id": "si-luwa-3440",
@@ -21770,7 +21783,7 @@
       "karanga",
       "sundiata-mande"
     ],
-    "description": "Se is the concept of divine law, destiny, and cosmic order in Ewe cosmology. Se represents the moral and spiritual foundation of the universe — the divine principles established by Mawu that govern all existence. In Ewe belief, Se is not a personified deity but the underlying law that maintains balance between the spiritual and physical worlds. Se encompasses the rules of ancestral veneration, the moral code that Ewe people must follow, and the destiny assigned to each person. Honoring Se means maintaining proper relationships with the ancestors (through libations and offerings), following ethical conduct, and respecting the natural order. The Ewe believe that violating Se brings misfortune, while living in harmony with it brings blessings. Se is akin to the concept of Ma'at in Egyptian thought or the Yoruba concept of ase",
+    "description": "Se is divine law, destiny and cosmic order in Ewe cosmology: the moral and spiritual foundation set by the creator Mawu that governs all existence. Not a personified deity but the underlying balance between the spiritual and physical worlds, Se is honoured through ancestral rites, ethical conduct and respect for the natural order, and violating it brings misfortune.",
     "appearance": "No physical form — an invisible principle of cosmic order. Sometimes symbolized by sacred stools or ritual objects used in ancestral veneration ceremonies.",
     "behavior": "Impersonal cosmic law that maintains universal balance. Rewards those who follow ancestral traditions. Punishes violations through misfortune. Cannot be negotiated with — must be followed.",
     "habitat": "The foundation of the universe, the moral fabric of Ewe society, ancestral rituals",
@@ -21811,8 +21824,8 @@
     "tags": [],
     "tribe": null,
     "featured_in_stories": [],
-    "source": "Ewe oral tradition of Togo — Se spirit figure.",
-    "source_quality": "good",
+    "source": "Ewe cosmology; West African religious tradition",
+    "source_quality": "researched",
     "schema_org_type": "MythicalCreature",
     "seo_title": "Se – Ewe Folklore",
     "seo_description": "Se is the divine law of the Ewe people — the cosmic principle of order and morality that governs the universe and demands ancestral reverence.",
@@ -21821,9 +21834,10 @@
     ],
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "simbi-spirits-kongo-3937",
@@ -21931,7 +21945,7 @@
       "esevone-cheyenne",
       "drc-negoogunogumbar"
     ],
-    "description": "The Sacred Drum (Ngoma ya Bulopwe) is a legendary spirit-imbued royal drum in Luba tradition, believed to contain the soul of the Luba nation. According to tradition, the first sacred drum was given by the spirit of the forest, its voice carrying the power of ancestors. The drum's beat could be heard across the entire kingdom, announcing the king's health, war, or death of a ruler. Luba kings kept the sacred drum in a special house guarded by initiated priests. It was played only during coronations, royal funerals, and times of crisis. Its rhythm was coded language understood by the initiated. The drum was often carved with a female figure, as women were believed to mediate between kings and the spirit world. When the Belgians colonized the Congo, the last sacred drum was hidden in the forest, where some say it still beats",
+    "description": "The Luba ngoma is a sacred royal drum of the Luba people of the Democratic Republic of Congo: a single-headed goblet drum carved from wood with a reptile-skin head. Played at the Luba court for the investiture or funeral of a ruler or dignitary, royal drums (milumbu) were central to the sacred kingship of the mulopwe.",
     "appearance": "Magnificent drum carved from sacred wood, often with female figure. Adorned with beads, shells, and royal symbols.",
     "behavior": "Sacred object animated by ancestral spirits. Speaks through coded rhythms. Protects the kingdom as long as it beats.",
     "habitat": "The royal enclave, sacred drum house in the Luba capital, later hidden in Katanga forest",
@@ -21969,8 +21983,8 @@
     "tags": [],
     "tribe": null,
     "featured_in_stories": [],
-    "source": "Luba oral tradition, Central African folklore, Hamill Gallery",
-    "source_quality": "good",
+    "source": "Hartenberger World Musical Instrument Collection; Luba court art scholarship",
+    "source_quality": "academic",
     "schema_org_type": "MythicalCreature",
     "seo_title": "Sacred Drum Spirit - Luba Folklore",
     "seo_description": "The Sacred Drum of the Luba is a spirit-imbued royal object containing the soul of the Luba nation whose coded rhythms preserve the kingdom's spiritual life.",
@@ -21979,9 +21993,10 @@
       "the-sacred-drum-of-the-luba-realm"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "seven-sisters-aboriginal-3054",
@@ -22954,7 +22969,7 @@
       "r-ng-vietnamese-dragon",
       "r-ng-h"
     ],
-    "description": "Seri Gumum is a legendary dragon (naga) said to dwell in the depths of Tasik Chini (Chini Lake) in Pahang, Malaysia — Malaysia's equivalent of the Loch Ness Monster. According to Orang Asli legend, the dragon was once a beautiful princess transformed into a serpentine guardian of the lake's mystical waters. The lake itself is a pristine body of water surrounded by ancient rainforest, and local folklore maintains that Seri Gumum is a protector rather than a menace. Fishermen speak of seeing a massive serpentine creature with golden scales breaching the surface, especially during storms and full moons. The dragon is considered the guardian of the lake's ecosystem — harming the lake's environment is believed to invoke its wrath. Local stories tell of the dragon surfacing during times of great change or crisis, serving as an omen of transformation",
+    "description": "Seri Gumum is a legendary dragon (naga) said to dwell in Tasik Chini in Pahang, Malaysia. According to Orang Asli tradition, a beautiful princess was transformed into a serpentine guardian of the lake's mystical waters. Local folklore holds that Seri Gumum protects the lake, and that harming its environment invokes the dragon's wrath.",
     "appearance": "Massive serpentine dragon with shimmering golden scales that glitter like coins under the water. It has a long, sinuous body that can coil around the entire lake, a dragon's head with horns or a mane, and glowing eyes that can be seen from the surface at night.",
     "behavior": "Territorial but not malevolent; acts as guardian and protector of the lake's ecosystem. Generally avoids humans but surfaces during storms, full moons, and times of crisis. Protects the lake from pollution and overfishing.",
     "habitat": "Tasik Chini (Chini Lake), Pahang, Malaysia",
@@ -22997,8 +23012,8 @@
     "seo_description": "Legendary golden dragon guardian of Tasik Chini in Pahang, the 'Malaysian Loch Ness Monster'",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "https://en.wikipedia.org/wiki/Seri_Gumum_Dragon",
-    "source_quality": "good",
+    "source": "Orang Asli tradition of Tasik Chini, Pahang",
+    "source_quality": "researched",
     "stories": [
       "sang-kancil-and-the-crocodile",
       "the-legend-of-puteri-gunung-ledang",
@@ -23007,10 +23022,11 @@
       "badang-the-strongman"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
     "source_type": "literary",
-    "pronunciation_ipa": "/seɾi ɡumum/"
+    "pronunciation_ipa": "/seɾi ɡumum/",
+    "attested": true
   },
   {
     "id": "son-tinh-vietnamese-3230",

@@ -1412,7 +1412,7 @@
       "zar-sudan",
       "z-r"
     ],
-    "description": "Utlat were spirits of the netherworld in Carthaginian mythology, a tradition that flourished in what is now Tunisia before and during the Roman period. The Carthaginians, descendants of Phoenician settlers, developed a complex religious system that included spirits of the underworld who were both feared and propitiated. These spirits inhabited the realm of the dead and could influence the living world. The Carthaginians believed that the utlat could be contacted through specific rituals involving sacrifice and prayer at the tophet (sacred burial grounds). The most famous tophet in Carthage (in modern Tunis) is the Sanctuary of Tanit, where thousands of urns containing the cremated remains of children and animals were buried as votive offerings. The utlat were particularly associated with Baal Hammon and Tanit, the chief deities of Carthage. Belief in these netherworld spirits reflects the Carthaginian view of death as a continuation of existence in another realm, where the spirits required ongoing attention from the living. The concept of the utlat later blended with Roman ideas of the underworld and, after the Arab conquest, became partially absorbed into Islamic concepts of jinn and spirits of the dead",
+    "description": "Not independently attested in Carthaginian folklore or religion. No Punic or Carthaginian source records spirits called 'Utlat'; the name is not a Carthaginian term, and the entry wraps real tophet facts around an invented spirit class.",
     "appearance": "Utlat are invisible spirits of the dead and underworld. In Carthaginian art, they are sometimes depicted as winged beings or as shadowy human figures, often shown in funerary stelae with their hands raised in blessing or supplication.",
     "behavior": "Utlat require propitiation from the living through offerings and proper burial rites. They can bring blessings, fertility, and protection when honored, but may cause misfortune, illness, or hauntings if neglected.",
     "habitat": "The netherworld (underworld), accessible through tophets (sacred burial grounds) and caves in Carthage and other Punic sites in Tunisia",
@@ -1471,14 +1471,15 @@
       "ancient"
     ],
     "featured_in_stories": [],
-    "source": "Wikipedia (Punic religion); Carthaginian archaeological sources",
-    "source_quality": "good",
+    "source": "No independent source found; negative research result",
+    "source_quality": "poor",
     "fun_fact_generated": false,
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "attested": false
   },
   {
     "slug": "uganda-muzimu",
@@ -2145,7 +2146,7 @@
       "se-ir",
       "tantal"
     ],
-    "description": "Um El Sa'af Wel Leef (Mother of Palm Leaves and Fiber) is a tree spirit from Bahraini folklore that dwells behind palm trees in the darkness. Her name references the palm fronds (sa'af) and palm fiber (leef) that are essential materials in traditional Bahraini date palm cultivation. She lurks among the palm groves that once covered much of Bahrain, particularly in rural areas like Muharraq and the villages of the northern island. Parents invoke her name to warn children against wandering into palm plantations alone or staying out after dark near date farms. Like many Bahraini folkloric figures, she serves a utilitarian function — protecting children from the dangers of the agricultural landscape. She represents the animistic belief in spirits inhabiting the natural world and reflects the deep connection between Bahraini culture and the date palm, a symbol of life and sustenance in the arid Gulf environment",
+    "description": "Um El Sa'af Wel Leef ('Mother of Palm Leaves and Fiber') is a tree spirit of Bahraini folklore who dwells behind palm trees in the darkness, her name drawn from the palm fronds (sa'af) and palm fiber (leef) of date cultivation. Parents invoke her to warn children against wandering into palm plantations alone or staying out after dark.",
     "appearance": "Shadowy female figure hiding among palm trees, sometimes described as having rough, bark-like skin or palm fiber-textured hair. Melds into the darkness of palm groves.",
     "behavior": "Lurks behind palm trees at night. Frightens children who venture into palm groves alone. Protective of palm tree domains.",
     "habitat": "Palm groves, date plantations, rural agricultural areas of Bahrain",
@@ -2197,13 +2198,14 @@
       "C800"
     ],
     "featured_in_stories": [],
-    "source": "Gulf Weekly; Zainab Almahdi's 'Um Hmaar Returns!'; oral Bahraini traditions",
-    "source_quality": "good",
+    "source": "Bahraini folk tradition; Gulf Weekly feature; Almahdi comic",
+    "source_quality": "documented",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "ukko-finland-0001",

@@ -850,7 +850,7 @@
       "sotho-ghosts",
       "eswatini-tikoloshe"
     ],
-    "description": "The Makonde people of northern Mozambique have a highly developed tradition of witchcraft and sorcery (uchawi) that involves a complex hierarchy of spirits and practitioners. In Makonde cosmology, witchcraft spirits are believed to be deployed by both malevolent individuals and traditional healers to achieve various ends. These spirits are distinct from the more generalized shetani in that they are specifically associated with human practitioners who use them for targeted purposes. Magic plays an influential role in Makonde culture, politics, and economics. Witchcraft can be used for both harmful purposes (causing illness, death, or misfortune) and protective purposes (defending against attacks, ensuring harvests). The Makonde distinguish between different types of witchcraft: inherited witchcraft (passed down family lines), learned sorcery (studied through apprenticeship), and spirit-induced witchcraft (where a spirit chooses a person). Accusations of witchcraft have serious social consequences and are adjudicated by traditional courts. The belief system provides explanations for misfortune and maintains social order through the fear of supernatural retribution",
+    "description": "Among the Makonde of northern Mozambique, witchcraft (uchawi) is a real and powerful tradition involving spirits deployed by malevolent practitioners and by healers. Belief distinguishes inherited witchcraft, learned sorcery, and spirit-chosen witchcraft; the power is used to harm or to protect, and accusations are adjudicated by traditional courts, maintaining social order.",
     "appearance": "Makonde witchcraft spirits are invisible to ordinary people but visible to those with supernatural sight. They are said to take many forms, including shadowy figures, animals (especially owls, hyenas, and snakes), or balls of light.",
     "behavior": "These spirits are sent by witches to perform specific tasks: causing illness, stealing wealth, destroying crops, or harming enemies. They are most active at night and are believed to gather at sacred trees for ritual meetings.",
     "habitat": "Sacred groves, baobab trees, crossroads, and cemeteries in Makonde territory",
@@ -910,8 +910,8 @@
       "Makonde"
     ],
     "featured_in_stories": [],
-    "source": "Wikipedia (Makonde witchcraft and sorcery)",
-    "source_quality": "good",
+    "source": "Makonde folk belief; ethnographic accounts of uchawi",
+    "source_quality": "researched",
     "fun_fact_generated": false,
     "stories": [
       "the-widows-son"
@@ -920,9 +920,10 @@
       "mozambique-shetani"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "attested": true
   },
   {
     "id": "mamlambo-zulu-3849",
@@ -1215,7 +1216,7 @@
       "crowing-crested-cobra",
       "nanabolele-lesotho"
     ],
-    "description": "Lungu is a mythical great snake from Zambian folklore, particularly among the Bemba people, believed to inhabit the underworld and to have power over rain and fertility. Unlike the more localized Chitapo and Funkwe, Lungu is a broader, more elemental figure whose domain extends across the entire region. The great snake is associated with the creation of rivers and lakes, and is believed to control weather patterns and influence the growth of crops. Farmers and villagers traditionally perform rituals to appease Lungu, asking for rain and bountiful harvests. The myth underscores the deep connection between Zambian communities and their natural environment, particularly the dependence on rainfall for agriculture in a region where drought can be devastating. Lungu is said to travel between water sources through underground passages, and his movements are believed to cause earthquakes and the formation of new springs. In some versions, Lungu is a primordial being who carried the first humans across the great waters on his back, making him both a creator and a sustainer of life",
+    "description": "Lungu is a great mythical snake in Zambian folklore, especially among the Bemba, believed to dwell in the underworld and to command rain, rivers and fertility. Rituals are performed to appease it for rain and good harvests in a region where drought is a constant threat, tying the myth to the community's dependence on water.",
     "appearance": "An enormous serpent of immense length, with scales that range from deep black to iridescent green and gold. Its eyes are said to be as large as shields, and its body as thick as the trunk of a baobab tree.",
     "behavior": "Lungu is a powerful but generally benevolent force when respected. It controls rainfall and the fertility of the land. It becomes active during the rainy season and retreats underground during dry months.",
     "habitat": "The underworld, connected to rivers, lakes, and underground water sources throughout Zambia",
@@ -1274,14 +1275,15 @@
       "harvest"
     ],
     "featured_in_stories": [],
-    "source": "Youth Village Zambia; Bemba oral traditions",
-    "source_quality": "good",
+    "source": "Youth Village Zambia (Great Snake myth); oral tradition",
+    "source_quality": "researched",
     "fun_fact_generated": false,
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "unkulunkulu-zulu-3848",
@@ -2263,7 +2265,7 @@
       "sj-jungfru",
       "haiseb"
     ],
-    "description": "Gutjion is a forest entity from the folklore of the Nama people, an indigenous Khoekhoe ethnic group native to the Richtersveld region of South Africa and southern Namibia. The Nama people have a rich oral tradition centered on nature spirits, ancestral beings, and trickster figures like Heitsi-Eibib, who is both a culture hero and a trickster. Gutjion is understood as a guardian spirit that inhabits the wilderness, protecting sacred groves, water sources, and the natural balance of the land. In Nama cosmology, spirits of the wild serve as stewards of the natural world, punishing those who take more than they need or who show disrespect to the environment. The Nama people traditionally live as pastoralists in the arid Richtersveld region, an area of stark desert beauty that shelters unique plant and animal life, and their folklore reflects the necessity of living in harmony with a fragile ecosystem",
+    "description": "Not independently attested in folklore literature. No Nama or Khoekhoe source documents a spirit called 'Gutjion'; the entry's wilderness-guardian details and Richtersveld specifics are invented. Genuine Nama tradition centers on figures such as the trickster-culture hero Heitsi-Eibib, but no 'Gutjion' appears in the recorded lore.",
     "appearance": "Gutjion is described as a spectral or luminous figure that appears in the wilderness, particularly near ancient trees, rock formations, and waterholes. It is seen as a tall, thin humanoid form that seems to shimmer or glow with an ethereal light, making it visible even in the darkness of the desert night. Some accounts describe Gutjion as having deep-set eyes that reflect the moonlight, and its presence is often heralded by a sudden drop in temperature or an unnatural stillness in the air. It wears clothing woven from the shadows of the forest itself, appearing as dark, shifting fabric that blends with the surrounding darkness. The entity may also appear as a pillar of dust or heat haze shimmering above the arid landscape, taking fuller form only when it chooses to reveal itself. When angered, its eyes glow red like embers and its form becomes more defined and menacing.",
     "behavior": "Gutjion acts as a guardian of the wilderness, protecting sacred natural sites and the animals that inhabit them. It punishes those who hunt excessively, cut down sacred trees, or pollute water sources by leading them deep into the wilderness where they become lost, sometimes for days or permanently. Those who show proper respect for nature, asking permission before taking resources and leaving offerings in return, may find themselves protected by Gutjion or led to water when lost. It is particularly active during certain phases of the moon or at dusk and dawn, the liminal times when the boundary between the human world and the spirit world is thin. The entity communicates through signs in nature, such as unusual animal behavior or changes in wind patterns, and can be heard as whispers carried on the desert breeze. Nama elders teach that Gutjion is not evil, but acts as nature itself would: neutral but responsive to human behavior.",
     "habitat": "Mountains, springs, waterholes",
@@ -2304,13 +2306,14 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Namibian folklore — spirit documented in Namibian oral tradition.",
-    "source_quality": "fair",
+    "source": "Review finding: unattested; no Nama source found; closest analogue is Heitsi-Eibib",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "ga-gorib-khoikhoi-3852",
@@ -2836,7 +2839,7 @@
       "bear-ghost-of-shona",
       "deer-ghost-of-zulu"
     ],
-    "description": "Sotho ghosts, often called matsatsi, are believed to be the spirits of ancestors who have not found peace in the afterlife. In Basotho mythology of Lesotho, death is not the end of existence but a transition to another realm, where the ancestors (badimo) continue to influence the living world. Most ancestors are benevolent protectors, but those who died violently, were not properly buried, or who harbor unresolved grievances may become restless ghosts that wander the earth. These spirits are often marked by unusual occurrences, strange sounds, cold spots, or apparitions. The mountainous terrain of Lesotho, with its misty valleys and remote passes, is considered particularly active with ghostly activity. The Basotho people maintain elaborate rituals to honor their ancestors and ensure their peaceful rest, including animal sacrifice, beer offerings, and consultation with traditional diviners. The belief in ghosts reinforces the importance of proper burial rituals and the maintenance of family bonds beyond death",
+    "description": "In Basotho belief of Lesotho, death is a transition to another realm where the ancestors (badimo) continue to influence the living. Most ancestors are benevolent protectors, but those who died violently, were not properly buried or bear unresolved grievances may wander as restless ghosts (matsatsi). Rituals of animal sacrifice, beer offerings and divination ensure ancestral peace and family bonds.",
     "appearance": "Sotho ghosts are typically described as shadowy figures or translucent human shapes that may appear as they did in life. Some are said to be headless or show the wounds that caused their death. They are most often seen at dusk or in misty conditions.",
     "behavior": "Restless ghosts may haunt specific locations, appear to family members in dreams, cause unexplained noises, or manifest as cold breezes. They are generally not aggressive but seek attention or resolution for their unfinished business.",
     "habitat": "Battlefields, remote mountain passes, unmarked graves, and abandoned homesteads in Lesotho",
@@ -2901,14 +2904,15 @@
       ]
     ],
     "featured_in_stories": [],
-    "source": "Lesotho NewsDesk; Basotho oral traditions",
-    "source_quality": "good",
+    "source": "Basotho folk belief; Lesotho ancestral cult traditions",
+    "source_quality": "researched",
     "fun_fact_generated": false,
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "shetani-mozambique-3276",
@@ -6899,7 +6903,7 @@
       "moose-ancestor-spirit-of-zulu",
       "restless-spirit-blackfoot"
     ],
-    "description": "The Zulu people of Southern Africa possess a profound spiritual tradition where ancestors and animal spirits play central roles in daily life and cosmology. The honey badger or ratel (Mellivora capensis) is native to the Zulu territories of KwaZulu-Natal and is well known in African folklore for its extraordinary ferocity, intelligence, and fearlessness. In Zulu spiritual belief, the amadlozi or ancestral spirits communicate through animals, and certain animals are recognized as having special spiritual significance. The honey badger, known in Zulu as insizi or sometimes by other regional names, is respected as one of the most fearless creatures in the African bush. A badger ghost in Zulu tradition would be understood as a particularly powerful ancestral spirit manifesting in animal form, or as the spirit of the honey badger species itself. Its fearlessness in confronting predators far larger than itself makes it a symbol of courage and determination in Zulu culture. The honey badger's ability to defeat venomous snakes and raid beehives without harm marks it as a creature with special spiritual protection",
+    "description": "Not independently attested in folklore literature. No Zulu tradition records a badger ghost, although the honey badger (ratel) is respected for its ferocity in African animal lore. Genuine Zulu spiritual beings include the amadlozi (ancestral spirits), the trickster Hlakanyana, and the impundulu (lightning bird); no badger figure appears in the record.",
     "appearance": "In Zulu spiritual tradition, the Badger Ghost reflects the distinctive appearance of the African honey badger. This creature presents a striking visual contrast with its bold black and white coloration, the upper half of its body from crown to tail covered in pale grayish-white fur while the lower half, including the legs, face, and underbelly, is jet black. The division between the white upper body and black lower body creates a dramatic line that gives the honey badger a unique silhouette easily recognized across the African savanna. The body is long and thick-set with remarkably loose skin that hangs in folds, allowing the animal to twist and turn within it. In Zulu depictions, the Badger Ghost might be shown with elements of traditional Zulu beadwork patterns incorporated into its markings, and its claws are depicted as formidable weapons, long and pale against the dark fur. The eyes of the spirit badger are described as small but intensely focused, black beads that miss nothing, and its head is carried low in a posture of constant readiness. In Zulu spiritual art, the ghost may be adorned with traditional patterns representing the connection between the living and the ancestral realm, and its feet may be shown leaving no tracks as a sign of its spiritual nature.",
     "behavior": "The Badger Ghost of Zulu tradition embodies the spirit of fearless determination in the face of overwhelming odds. In Zulu cosmology, this ghost teaches that true power comes not from size but from heart and that the most dangerous creature is the one that does not know how to surrender. The honey badger's legendary reputation for attacking lions, venomous snakes, and anything that threatens it makes it a powerful symbol of the Zulu warrior spirit. The Badger Ghost is believed to grant protection to those it favors, making their skin as tough and loose as the honey badger's so that attacks cannot find purchase. It teaches the wisdom of persistence, showing that with enough determination even the hardest obstacles can be overcome. In Zulu folk tradition, the honey badger spirit is also associated with healing and medicine, as the animal is known to consume medicinal plants and to survive venomous snake bites that would kill most other creatures. Sangomas or traditional Zulu healers might call upon the Badger Ghost when treating patients suffering from severe illnesses, invoking its resilience and toughness. The ghost communicates through the behavior of living honey badgers, and its appearance in dreams is considered a call to develop greater courage and self-reliance.",
     "habitat": "Not specifically documented in Zulu tradition",
@@ -6942,13 +6946,14 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Regional survey of Southern African Bantu oral traditions and folklore — Zulu, Xhosa, Shona, Sotho, and related peoples as documented by Bleek, Callaway, Junod, and ethnographic records from the 19th–20th centuries.",
-    "source_quality": "fair",
+    "source": "No reliable source found (closest analogue: Zulu amadlozi tradition)",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "beardeitylaotian-zimbabwe-0146",
@@ -7255,7 +7260,7 @@
       "ma-i",
       "mama-djombo"
     ],
-    "description": "The Bear Spirit of Shona tradition represents the integration of bear symbolism into the rich spiritual landscape of the Shona people of Zimbabwe, where traditional animal totems and spirit hierarchies have adapted to include this powerful northern creature. While the Shona homeland in southern Africa has no native bear species, the Shona spiritual system is built around a complex hierarchy of ancestral spirits known as mhodzi and vadzimu, along with animal totems called mitupo that connect clan lineages to specific animal powers. In this framework, the bear spirit has been incorporated as a symbol of strength, protection, and healing power that transcends geographical boundaries. The Shona concept of unifying the physical and spiritual worlds through animal mediators allows for the recognition of bear power even in regions where bears do not naturally occur, reflecting the dynamic and adaptive nature of African traditional spirituality in an increasingly interconnected world",
+    "description": "Not independently attested in folklore literature. No bear species is native to southern Africa, and Shona clan totems (mitupo) and ancestral spirits (vadzimu) draw only on native animals. The entry itself concedes this and then invents a bear role in Shona cosmology; the genuine analogues are the vadzimu ancestors and mitupo animal totems of Shona religion.",
     "appearance": "The Bear Spirit in Shona tradition is envisioned as a massive, powerful creature with a coat of deep brown fur that seems to absorb the golden light of the African savanna. Its body is thick and muscular, with a broad head and small, intelligent eyes that miss nothing. Unlike the naturally occurring animals of southern Africa, the bear stands out for its sheer mass and the quiet confidence of its movements. Around its neck, it may wear a collar of carved wooden beads and animal teeth, marking it as a spirit being of high status. When the spirit manifests in human form, it appears as a respected elder or nganga healer with grey-streaked hair and a presence that commands immediate respect. This human form carries a divining horn filled with medicinal herbs and a fly whisk made from a wildebeest tail, traditional implements of Shona spiritual authority. The spirit's eyes remain dark and penetrating, and its voice has a resonant quality that seems to come from the earth itself.",
     "behavior": "The Bear Spirit serves as a guardian of clan lineages and a protector of traditional healing knowledge in the Shona spiritual system. It assists nganga diviners and healers in diagnosing illnesses caused by ancestral displeasure or spiritual imbalance, lending its power to the diagnosis and treatment of patients. The spirit is particularly associated with cases that require great strength to resolve, such as persistent family conflicts, cases of spiritual attack, or illnesses that have resisted normal treatment. It teaches the importance of maintaining proper relationships with ancestors and the natural world, and it rewards those who honor their clan traditions and respect the hierarchy of spirits that governs Shona life. The Bear Spirit participates in the bira ceremonies, where drumming, dancing, and possession allow the spirits to communicate with the living community. During these ceremonies, the bear spirit may possess a medium, speaking through them to offer guidance, warnings, or blessings to the assembled community.",
     "habitat": "Not documented in Shona tradition",
@@ -7297,15 +7302,16 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Regional survey of Southern African Bantu oral traditions and folklore — Zulu, Xhosa, Shona, Sotho, and related peoples as documented by Bleek, Callaway, Junod, and ethnographic records from the 19th–20th centuries.",
-    "source_quality": "fair",
+    "source": "none; Shona vadzimu/mitupo tradition",
+    "source_quality": "poor",
     "stories": [
       "dangun-the-founder-of-korea"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "bisondeityshona-zimbabwe-0198",
@@ -7480,7 +7486,7 @@
       "wildcattrickstercree-zimbabwe",
       "raven-trickster-of-zulu"
     ],
-    "description": "The Bison Trickster of the Shona people is a mountain-dwelling spirit that inhabits the granite kopjes and rocky highlands of Zimbabwe, serving as the guardian of the sacred hills where the ancestors dwell. In Shona cosmology, mountains are liminal spaces where the physical and spiritual worlds meet, and the Bison Trickster is the gatekeeper of these thresholds. It is a shape-shifting entity that appears to those who venture into the mountains without proper respect, leading them astray with clever illusions and echoes that seem to come from all directions at once. The Bison Trickster is particularly associated with the Mwari cult, the traditional Shona religious system, and is considered a messenger between the high god Mwari and the human world. Its lessons are harsh but never fatal—the spirit always leaves a path to redemption for those who recognize their mistakes and approach the mountains with genuine humility and reverence for the ancestors who rest within them",
+    "description": "Not independently attested in folklore literature. No Shona bison trickster exists; Shona trickster roles belong to the hare (Tsuro) and jackal, and the high god Mwari is served by human mediums (svikiro) at shrines, not by bison messengers. The granite-kopje illusion stories are invented.",
     "appearance": "The Shona Bison Trickster manifests as a massive Cape buffalo with a hide the color of weathered granite, textured like the ancient rock faces of the Zimbabwean kopjes. Its horns are unusually large and swept back, carved with faint spiraling patterns that resemble the petroglyphs found in sacred caves. Its eyes are a deep, ancient brown that hold the wisdom of the ancestors, and its low rumble vibrates through the earth like the heartbeat of the mountain itself. When it stands still against the granite outcrops, it is nearly invisible, blending perfectly with the stone. In human form, it appears as an elderly Shona man with weathered skin, a walking staff of mountain olive wood, and a headdress of buffalo horn and gray feathers. His presence is calm and commanding, and his voice carries the weight of authority earned through age and experience rather than force.",
     "behavior": "The Bison Trickster of the Shona is a vigilant sentinel that patrols the sacred mountains of Zimbabwe, particularly the Matobo Hills and the granite formations around Great Zimbabwe. It appears to those who climb the hills without first asking permission of the ancestors, leading them in circles through the boulder-strewn slopes until they become hopelessly disoriented. The spirit tests visitors by creating illusions—a path that leads to a sheer drop, a spring that vanishes when approached, the sound of voices calling from impossible directions. Those who admit their mistake, apologize to the ancestors, and ask for guidance will find the illusions dissolving and a clear path appearing before them. The Bison Trickster is also known to appear at the annual rain-making ceremonies of the Shona, where its presence is considered a powerful omen. Elders leave offerings of snuff tobacco and millet beer at the base of sacred kopjes to maintain the spirit's favor and ensure the rains come on time.",
     "habitat": "Remote mountains",
@@ -7522,13 +7528,14 @@
     "seo_description": "The bison trickster from Shona tradition, guardian of the mountains.",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Zimbabwe mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source": "none; Shona oral tradition",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "bison-trickster-of-zulu-0226",

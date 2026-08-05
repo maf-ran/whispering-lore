@@ -1105,7 +1105,7 @@
       "wei-e-frauen",
       "beetgumer-grom"
     ],
-    "description": "The Klabautermann is a water-kobold and ship spirit in Frisian, German, and Dutch maritime folklore — a small, pipe-smoking sailor-specter who resides aboard seagoing vessels from their very construction until their sinking. He is an ambiguous figure, simultaneously a guardian spirit who protects the crew and an omen of doom whose visible appearance foretells certain shipwreck. According to tradition, the Klabautermann enters a ship through its timber: if a stillborn or unbaptized child was buried under a tree later used for shipbuilding, its soul becomes the Klabautermann. By night he works small miracles — repairing broken tackle, pumping out leaks, coiling ropes, and polishing brass — so that sailors wake to a perfectly maintained ship. But if the crew becomes lazy, drunken, or blasphemous, he turns malicious, tangling rigging, hiding tools, and slapping sailors across the face with invisible hands. When the ship is doomed, he reveals himself, then abandons the vessel to its fate In Germany folklore, this figure is known among the Germany people.",
+    "description": "The Klabautermann is a ship spirit of German, Frisian, and Scandinavian maritime lore: a small sailor-specter who lives aboard a vessel, working unseen at night — mending ropes, pumping leaks, polishing — and guarding the ship, but who may turn malicious toward a slovenly or blasphemous crew, and whose visible appearance foretells shipwreck.",
     "appearance": "The Klabautermann is usually described as a small, wizened sailor with a red or gray beard, dressed in old-fashioned seaman's clothing: yellow or gray wool trousers, a striped jersey, and a sailor's cap. He is often depicted smoking a long clay pipe and carrying a small caulking mallet. He can appear as a small boy in gray or blue, or as a dancing blue flame (St. Elmo's fire) in the rigging before a death.",
     "behavior": "The Klabautermann is active at night while the crew sleeps. He performs all essential maintenance: pounding caulking into leaking seams, sharpening tools, splicing ropes, and stowing cargo properly. He shows appreciation for grateful crews by leaving small gifts or completing dangerous rigging work. He signals his displeasure by making loud knocking sounds, throwing firewood, and creating general ruckus. The most feared event is the Klabautermann showing himself — this is an infallible sign the ship will sink within days. He is said to appear as a small blue flame dancing in the rigging before a death.",
     "habitat": "The Klabautermann lives aboard sailing ships, specifically under the capstan (anchor windlass) or in the anchor chain locker. He travels with his ship across the North Sea, Baltic Sea, and all waters where Germanic sailors venture. He cannot exist on land and disappears if the ship is broken up or abandoned.",
@@ -1154,16 +1154,17 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "German/Frisian maritime folklore; the Klabautermann is a ship spirit.",
-    "source_quality": "good",
+    "source": "German/Frisian/Scandinavian maritime folklore; documented in seamanship and folk-belief literature",
+    "source_quality": "documented",
     "stories": [
       "the-nutcracker-and-the-mouse-king"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/klabaʊtəɾman/"
+    "pronunciation_ipa": "/klabaʊtəɾman/",
+    "attested": true
   },
   {
     "id": "kobold-0964",
@@ -1954,7 +1955,7 @@
       "b-rbel",
       "r-bezahl"
     ],
-    "description": "The Schrat (plural Schratln) is a versatile and regionally diverse German legendary creature, appearing as either a wood sprite, a domestic kobold, or a nightmare demon depending on location and tradition. The term is ancient, entering Slavic languages as skrat, skrzat (Polish), skřítek (Czech), and even Estonian kratt — a testament to its deep Indo-European roots. In Bavaria and Austria, the Waldschrat is a solitary forest-dwelling spirit, small and mischievous, who plays malicious pranks on woodcutters and hikers. It breaks their axes, fells trees in wrong directions, and leads travelers astray with mocking laughter. In other regions, particularly the Upper Palatinate, the Schrat is a domestic house spirit akin to a kobold, protecting the home and bringing prosperity if respected, but causing chaos if offended. In Switzerland and the Alemannic regions, the Schratteli is an alp-like nightmare demon that causes sleep paralysis and has a unibrow — the telltale mark of those connected to the spirit world. The Schrat is considered the origin of the English term 'scrat' as an archaic word for a devil or goblin In Germany folklore, this figure is known among the Germany people.",
+    "description": "The Schrat is a regionally varied German legendary creature: a wood sprite (Waldschrat) that torments woodcutters in Bavaria and Austria, a domestic house spirit akin to a kobold in the Upper Palatinate, or an alp-like nightmare demon (Schratteli) in Switzerland and Alemannic regions. The old term spread into Slavic as skrzat, skřítek, and Estonian kratt.",
     "appearance": "The Waldschrat is usually described as a small, hunched, hairy creature with a wizened face, tangled hair, and small glowing eyes. It is sometimes depicted with a green mossy coat or bark-like skin, blending into the forest. The domestic Schrat appears as a small dwarf or gnome in simple clothing. The Schrätteli as nightmare-creature is tiny and shadow-like, often appearing as a butterfly at first before becoming a suffocating weight on the sleeper's chest.",
     "behavior": "The Schrat's behavior depends entirely on region and circumstances. The Waldschrat antagonizes forest workers: it breaks tools, misdirects tree falls, and scares hunters by laughing from the shadows. The domestic Schrat (Schrezala in the Fichtelgebirge) acts like a classic kobold: it performs chores at night, brings prosperity, but must be fed with leftover food — overstepping this custom drives it away forever. The Alpine Schrätteli functions as an alp: it sits on sleepers' chests, causes paralysis, and can be identified by its butterfly form or by the unibrow of its human host. In Carinthia, the Schratel was a common name for dogs, suggesting the spirit was once a tutelary household figure.",
     "habitat": "Deep, dark forests — the Schrat loves mature woodland and will abandon areas that are logged. It particularly frequents remote forest clearings, ancient groves, and the Fichtel Mountains of Bavaria. As a domestic spirit, it takes up residence in farmhouses, stables, and barns, especially in southeastern Germany and Austria. The Schrat is said to live in specific gnarled old trees that locals avoid cutting down.",
@@ -2010,15 +2011,16 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "German folklore; the Schrat is a versatile forest spirit in German tradition.",
-    "source_quality": "good",
+    "source": "German and Slavic folk tradition; comparative folklore scholarship",
+    "source_quality": "researched",
     "stories": [
       "the-nutcracker-and-the-mouse-king"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "sennentuntschi-switzerland-1654",
@@ -2500,7 +2502,7 @@
       "klabautermann-germany",
       "werewolf-germany"
     ],
-    "description": "Frau Perchta (also Berchta, 'the Bright One') is a powerful winter goddess and guardian of moral order in Alpine Germanic folklore, widely regarded as the southern equivalent of Frau Holle. She belongs to the pre-Christian pantheon of continental Germanic peoples and was once venerated as a white-robed deity who oversaw spinning, weaving, and the domestic virtues. During the twelve Rauhnächte (Rough Nights) between Christmas and Epiphany, Perchta roams the countryside entering homes to judge the behavior of children and servants throughout the year. She rewards the industrious with a small silver coin, but the lazy and disobedient face horrific punishment: she slits open their bellies and stuffs the cavity with straw and stones. Her particular concern is spinning — girls who leave their flax unspun by Twelfth Night face her wrath. Despite Church efforts to demonize her (Luther himself railed against 'Fraw Hulde'), Perchta survives in Alpine Perchtenläufe — processions of Schönperchten and Schiachperchten that continue to this day In Germany folklore, this figure is known among the Germany people.",
+    "description": "Frau Perchta (Berchta, 'the Bright One') is a winter spirit of Alpine Germanic folklore, guardian of spinning, weaving and moral order. During the Rauhnächte between Christmas and Epiphany she roams the land inspecting homes, rewarding the industrious with a small coin and punishing the lazy and disobedient, in some tales slitting their bellies and stuffing them with straw.",
     "appearance": "Perchta is described with classic duality: sometimes a beautiful woman in flowing white robes with long golden hair and a crown of stars; more often a gaunt, aged crone with one webbed foot (like a goose or swan), a long iron nose, wild unkempt hair, and a staff or distaff. She carries a bunch of keys and a large knife for her punishments. She is accompanied by the Heimchen — souls of unbaptized children who follow in her train.",
     "behavior": "Perchta travels with an entourage of spirits and unbaptized children's souls, descending chimneys or entering through open doors on Twelfth Night. She inspects spinning work and household tidiness, rewarding diligence with coins and punishing laziness by slitting bellies and filling them with straw. She also ensures the traditional meal of fish and gruel is eaten on her feast day; eating other food provokes her same grisly punishment. In some traditions she leads the Wild Hunt across the winter sky. She can appear both as a beautiful white lady and as a terrifying crone.",
     "habitat": "Perchta dwells in the high Alpine wilderness during the rest of the year — deep mountain caves, remote forests, and abandoned alpine huts. During the Rauhnächte she descends into human settlements throughout Bavaria, Swabia, Tyrol, and the Alps, entering every home through doors that must be left unlocked for her.",
@@ -2548,15 +2550,16 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Alpine folklore; Frau Perchta is a powerful winter goddess and guardian of domestic order.",
-    "source_quality": "expert",
+    "source": "Alpine Germanic folk tradition; Perchtenläufe scholarship",
+    "source_quality": "well-documented",
     "stories": [
       "the-nutcracker-and-the-mouse-king"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "puk-1496",
@@ -2654,7 +2657,7 @@
       "tatzelwurm-switzerland",
       "tatzelwurm-austria"
     ],
-    "description": "The Drac is a dragon-like creature from French folklore, particularly associated with the Provence region and southern France, where legends describe it as a shapeshifting water dragon that inhabits rivers, lakes, and coastal waters. Unlike the typical winged dragons of northern European tradition, the Drac is often depicted as wingless but possessing multiple legs, a long serpentine body, and the ability to transform into human form at will. In Provencal folklore, the Drac is known for its complex relationship with humans, sometimes demanding tribute from villages in the form of livestock or even human sacrifices, while at other times forming unexpected alliances with shepherds and farmers. The creature is deeply woven into the fabric of French medieval bestiaries and continues to appear in regional folklore throughout the country, where it represents the dangerous yet sometimes benevolent forces of nature that dwell in the waterways of the French countryside",
+    "description": "Drache is the German word for dragon. In Germanic folklore the Drache is a fire-breathing serpent or reptile guarding treasure in mountains, caves, and forests, with regional forms such as the Lindwurm. In the Nibelungenlied, Siegfried slays the dragon and bathes in its blood to become invulnerable.",
     "appearance": "The Drac typically appears as a wingless dragon ranging dramatically in size from that of a large dog to a truly monstrous creature capable of swallowing a man whole. Its body is long and serpentine, supported by four to six powerful legs ending in sharp claws, and its neck is often described as frilled or crested with fin-like ridges running along the spine. The scales of the Drac are most commonly depicted as red or green, though some accounts describe iridescent scales that shift color in different light. In its human form, the Drac appears as a distinguished gentleman dressed in fine clothing, often using this disguise to walk among humans undetected and observe their behavior or negotiate for tribute. Some accounts describe the Drac with a long, forked tongue, cat-like eyes, and a forked tail that it struggles to conceal even in human form, serving as a telltale sign of its true nature.",
     "behavior": "The Drac is primarily an ambush predator that lies in wait near water sources, attacking livestock and unwary humans who venture too close to its territory. However, unlike many European dragons, the Drac displays a complex and sometimes contradictory behavioral pattern that includes helping shepherds protect their flocks from wolves and other predators, suggesting a bond that can form between individual Dracs and the humans who show them respect. The creature demands regular tribute from villages within its territory, typically livestock such as sheep, goats, or cattle, and in some legends, a yearly human sacrifice is required to maintain peace. The Drac's ability to shapeshift into a wealthy gentleman allows it to infiltrate human society, and it is said to particularly enjoy attending village festivals and weddings. It can be won over through genuine acts of kindness and bravery, with several folktales describing how a clever or courageous individual befriended a Drac and received protection or treasure in return. Its primary weakness is its pride, which can be exploited by those who earn its respect.",
     "habitat": "Mountains, caves, underground",
@@ -2694,15 +2697,16 @@
     "featured_in_stories": [
       "the-dragon-of-mount-pilatus"
     ],
-    "source": "Germanic folklore — Drache dragon documented in German oral tradition.",
-    "source_quality": "good",
+    "source": "Germanic folklore; Nibelungenlied",
+    "source_quality": "well-documented",
     "stories": [
       "the-nutcracker-and-the-mouse-king"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "duizendpoot-0581",
@@ -2725,7 +2729,7 @@
       "karkadann",
       "fnggen-austria"
     ],
-    "description": "The Duende of Belize is a prominent figure in the folklore of this Central American nation, where it represents the guardian spirit of the country's rich tropical forests, jungles, and wilderness areas. Belizean Duende traditions draw from both the Maya heritage of the region, particularly the Q'eqchi' and Mopan Maya peoples, and the mestizo and Creole cultural influences that have shaped Belize's unique identity. In Belizean folklore, the Duende is considered one of the most important supernatural beings of the forest, serving as the enforcer of traditional ecological knowledge and the protector of the natural resources that Belizean communities depend upon for their survival. The Belizean Duende is particularly active in the dense jungles of the Maya Mountains and the extensive cave systems that dot the Belizean landscape, where he guards both the natural treasures of the forest and the sacred Maya sites hidden within",
+    "description": "Not independently attested in folklore literature. Duizendpoot is simply the modern Dutch word for a centipede (literally 'thousand-foot') and names no mythological being in Dutch tradition, where the nearest domestic or forest spirits are the kabouter and the klabauterman. The present description is a copy-pasted Belize duende text.",
     "appearance": "The Belizean Duende is described as a small, sturdy man with deeply wrinkled brown skin, a long flowing white or grey beard, and a large palm-leaf or straw hat that shades his face and conceals his features. His feet are characteristically backwards, making it impossible for anyone to follow his trail, and his clothing is typically described as rustic peasant attire, often made from natural fibers and earth-toned fabrics. The Duende lacks thumbs on his hands, a supernatural characteristic that marks him as a spirit being rather than a human, and his fingers end in hard, nail-like points. His eyes are said to be deep black or dark brown with no visible whites, giving him an unsettling, otherworldly appearance. The Duende is often accompanied by a whistling sound or high-pitched laughter that seems to come from all directions at once, making it impossible to pinpoint his location. Some accounts describe him carrying a small machete or walking stick, tools that he uses both for navigating the forest and for punishing those who harm it.",
     "behavior": "The Belizean Duende is the tireless guardian of the forest, punishing those who hunt illegally, cut trees without need, pollute waterways, or disturb sacred Maya sites. He is particularly protective of caves, which the Maya considered portals to the underworld, and will aggressively pursue anyone who vandalizes or loots these sacred spaces. The Duende's punishments range from mischievous pranks like hiding tools, tangling fishing lines, and leading hunters on fruitless chases, to more severe consequences such as causing permanent disorientation that leaves offenders lost in the forest for days or weeks. He is known to protect specific animals, particularly the jaguar, tapir, and scarlet macaw, attacking anyone who hunts these sacred creatures. The Duende can be heard whistling through the jungle, a sound that experienced woodsmen recognize as a warning to turn back or show respect. To avoid the Duende's wrath, Belizean tradition teaches that one should always ask permission before entering a forest, never hunt more than necessary, and leave offerings of food or tobacco at the base of ceiba trees, which are considered the Duende's preferred dwelling places.",
     "habitat": "Castle dungeons, ruins, dark cellars",
@@ -2763,14 +2767,15 @@
     "seo_description": "The Duizendpoot is a gigantic centipede-like creature from Dutch folklore, said to inhabit old castles, abandoned ruins, and dark cellars. With venomous bite and countless legs, this territorial guardian is one of the Low Countries most fearsome mythical beasts",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Dutch folklore — beast documented in Dutch oral tradition.",
-    "source_quality": "fair",
+    "source": "Dutch language; no folklore tradition",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/døɪzənpəʊt/"
+    "pronunciation_ipa": "/døɪzənpəʊt/",
+    "attested": false
   },
   {
     "id": "heinzelm-nnchen-0855",
@@ -2864,7 +2869,7 @@
       "schrat-germany",
       "krampus-austria"
     ],
-    "description": "Cheval Mal Fet, meaning wicked horse in Haitian Creole, is a malevolent phantom horse from the folklore of Haiti and the French Caribbean. This spectral steed is deeply rooted in Haitian Vodou traditions and the colonial history of Saint-Domingue. The Cheval Mal Fet haunts the dense forests and misty mountains of Haiti, particularly the Massif de la Hotte and the Artibonite Valley. According to legend, the creature manifests from the restless spirits of horses that died in battle, torture, or neglect during the brutal plantation era, carrying the accumulated suffering and rage of centuries. Encounters with the Cheval Mal Fet are considered omens of imminent death or catastrophic misfortune, and its appearance is said to foretell violent storms, earthquakes, or the death of a community leader",
+    "description": "Not independently attested in folklore literature. The name 'Cheval Mal Fet' garbles 'Le Chevaler Mal Fet' — 'the ill-made knight' — the epithet of Lancelot in Arthurian romance, popularized by T. H. White's novel 'The Ill-Made Knight.' No phantom horse or Haitian or Belgian ghost-horse tradition by this name is documented.",
     "appearance": "The Cheval Mal Fet appears as an enormous black horse with eyes that burn like glowing coals, casting a hellish red light in darkness. Its coat is the color of deepest obsidian, slick with an otherworldly sheen that absorbs rather than reflects moonlight. The creature stands at least eighteen hands high at the shoulder, far larger than any natural horse, with powerful sinewy muscles rippling beneath its spectral hide. From its nostrils issue plumes of sulfurous smoke, and its hooves strike sparks that ignite small fires where they touch the ground. Its mane and tail are composed of living shadow that writhes independently, and witnesses report that its skeletal structure is partially visible through translucent flesh, revealing bones that glow with eerie phosphorescence. The creature leaves no tracks on any surface and casts no shadow, even in direct sunlight.",
     "behavior": "Cheval Mal Fet primarily hunts at night, galloping silently through forests and along mountain paths at impossible speeds. It targets solitary travelers, particularly those who have mistreated animals, and either tramples them to death or leads them on a terrifying chase through the wilderness until they drop from exhaustion. The phantom horse appears before moving vehicles on rural Haitian roads, causing drivers to swerve into ravines or trees. When angered, it can summon thick, impenetrable fog from its lungs to disorient victims and create illusions of impassable cliffs. According to Vodou priests, the Cheval Mal Fet can be temporarily driven away by the sound of church bells, the burning of certain herbs, or recitation of specific prayers, but only a proper Vodou ceremony with offerings to the lwa can lay the spirit to rest permanently.",
     "habitat": "Ardennes forest, lonely mountain roads",
@@ -2906,13 +2911,14 @@
     "seo_description": "Cheval Mal Fet is a malevolent phantom horse from Haitian folklore, a spectral steed born from Vodou traditions that haunts forests and brings omens of death.",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Belgian folklore — ghost horse documented in Belgian Walloon oral tradition.",
-    "source_quality": "fair",
+    "source": "Arthurian romance tradition (Lancelot epithet); T. H. White, The Once and Future King",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "nix-germany-1305",
@@ -3549,7 +3555,7 @@
       "kabouter-netherlands",
       "irrlicht"
     ],
-    "description": "The Beetgumer Grom is a ghost from Frisian folklore, specifically from the village of Beetgum, known in Frisian as Bitgum, in the province of Friesland in the Netherlands. This spectral figure is the restless spirit of a murdered farmer who is doomed to haunt the area around Beetgum and the surrounding agricultural lands of the northern Netherlands. Frisian folklore is rich with stories of ghosts and phantoms that reflect the harsh realities of life in the flat, foggy landscape of Friesland, where long winter nights and isolation fostered a strong tradition of supernatural storytelling. The Beetgumer Grom is one of many local ghosts in Friesland whose stories serve as cautionary tales and explanations for unexplained phenomena in the countryside, embodying the Frisian belief that the dead can return to the world of the living when their deaths were violent or their earthly affairs left unresolved",
+    "description": "Not independently attested in folklore literature. Only the village of Beetgum (Bitgum), Friesland, is real; no ghost or spirit named 'Beetgumer Grom' appears in Frisian folklore collections such as the Low Countries folktale bank. The murdered-farmer story is unverifiable filler. Genuine Frisian analogues include the klabautermann and regional household-sprite traditions.",
     "appearance": "The Beetgumer Grom appears as a tall, gaunt figure dressed in old-fashioned farmer's clothing typical of nineteenth-century Friesland: a dark coat, weathered trousers, wooden clogs, and a wide-brimmed hat that casts his face in shadow. In some accounts, the ghost is headless, carrying its head under its arm or searching for it in the ditches along the fields. Other versions describe the specter with glowing eyes that pierce the fog like lanterns, and hands that are cold as the grave when they brush against the living. The ghost is sometimes seen carrying a farming tool, such as a scythe or a pitchfork, the very instrument that may have been used in the murder that created the haunting. The figure moves silently across the fields, leaving no footprints in the mud, and can disappear instantly when approached. A peculiar stillness and drop in temperature accompany its presence, and the usual sounds of the countryside fall silent when the Beetgumer Grom is near.",
     "behavior": "The Beetgumer Grom haunts the roads and fields around Beetgum, particularly active during the dark winter months when the fog rolls in from the Wadden Sea and reduces visibility to mere meters. It appears most frequently to lone travelers on foot, especially those who are out after midnight, walking home from the village tavern or returning from a long day's work in the fields. The ghost does not typically attack or physically harm those who encounter it, but its sudden appearance causes profound terror that can lead to panic and accidents. Some accounts say the ghost leads travelers astray, causing them to wander in circles through the fog until they are thoroughly lost and exhausted, teaching a lesson about the dangers of being out after dark in isolated countryside. The Beetgumer Grom is bound to its haunting ground by the violent circumstances of its death, and Frisian tradition holds that the ghost cannot rest until the injustice of its murder is somehow resolved, a common motif in European ghostlore. Locals traditionally avoided certain paths and crossroads after dark, knowing that the Beetgumer Grom walked there.",
     "habitat": "Roads near Beetgum, farmlands",
@@ -3593,13 +3599,14 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Dutch Frisian folklore — Beetgumer Grom ghost documented in Frisian oral tradition.",
-    "source_quality": "fair",
+    "source": "none; Frisian folklore collections",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "berggeist-0179",

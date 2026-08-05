@@ -5853,7 +5853,7 @@
       "fylgja",
       "sjoorm"
     ],
-    "description": "Trollkona (Troll Woman) is the Faroese female troll — a distinct figure in the islands' folklore appearing in legends tied to specific locations across the archipelago. On Skuvoy island, troll women were said to haunt the mountain pastures, stealing sheep and terrorizing shepherds who stayed in the mountain huts at night. The most famous trollkona legend connects her to the very geography of the islands: the island of Koltur is said to be the head of a sleeping troll woman, her body stretching beneath the sea toward Hestur. Near Sandavágur, the Trøllkonufingur (Witch's Finger) rock pillar is the petrified finger of a troll woman caught at dawn while reaching. Multiple versions of the trollkona legend appear in the Færøsk Anthologi collection, each tied to a specific village or island's landscape. The trollkona is the female counterpart to the male giant (risin) and shares the fate of petrification at dawn",
+    "description": "Trollkona ('troll woman') denotes the female troll of Swedish folklore, typically a mountain-dwelling being (bergatroll). The ballad 'Herr Mannelig' (Bergatrollets frieri) tells of a mountain-troll woman who courts a Christian knight with rich gifts and is refused. Female mountain spirits (bergsrå) likewise lure people into the rock, a motif known as bergtagning.",
     "appearance": "An enormous woman-like figure, much larger than a human. Dressed in rough skins or animal hides. Wild grey hair reaching to her waist. Long, powerful arms. Her face is weathered like stone. So large that entire islands form parts of her body.",
     "behavior": "Steals sheep from mountain pastures. Terrorizes shepherds staying in mountain huts. Bedevils farmers. Petrified into rock formations when caught by sunrise (Trøllkonufingur, Koltur). Some sleep beneath the islands themselves.",
     "habitat": "Remote farmhouses, crossroads, burial grounds",
@@ -5897,8 +5897,8 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Scandinavian folklore; trolls are pervasive anthropomorphic beings in Nordic myths, documented in laestadian and ethnographic records.",
-    "source_quality": "good",
+    "source": "Swedish folk tradition; ballad 'Herr Mannelig' (SMB 26); bergsrå legends",
+    "source_quality": "researched",
     "stories": [
       "the-lame-dog",
       "lasse-my-thrall",
@@ -5908,9 +5908,10 @@
       "the-rooster-the-hand-mill-and-the-swarm-of-hornets"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "trollkona-faroeislands-1825",
@@ -8962,7 +8963,7 @@
       "skogsr",
       "huldra"
     ],
-    "description": "Tusse (also Tuss) is a regional variant of the troll/vätte complex found in Halland Småland and Västergötland — a transitional figure between the larger trolls and the smaller vättar. The tusse is smaller than a full troll but larger than a vätte typically described as a shaggy humanoid figure with a tail who lives under large stones or in forest caves. Tussen are tricksters who take pleasure in leading travelers astray moving trail markers and hiding objects. Unlike the genuinely malevolent Puke the tusse is more mischievous than evil. If a traveler gets lost in a Halland forest locals would say 'tussen har lett honom vilse' (the tusse has led him astray). Like the tomte the tusse could be helpful if given offerings of porridge. In Västergötland farmers would leave a bowl of porridge under a large stone on the property known as a tusse-sten (tusse stone). If the porridge was eaten the tusse would protect the farm. If it remained untouched the tusse was offended and trouble would follow. The word 'tusse' survives most clearly in Swedish place names. The tusse represents the intermediate zone in Swedish folklore between the human-scale supernatural (tomtar vättar) and the monstrous (troll giants). The name may derive from Old Norse þurs meaning giant or ogre showing its ancient roots in the language",
+    "description": "Tusse (also tuss) is a Norwegian folk-belief term for a vette, a supernatural guardian of the farmstead. In Nordland the farm vette was called tusse, alongside tuftekall, godbonde and tomte. Related is the haugtuss, a mound-dwelling being of the underjordiske who brings luck when respected and revenge when offended, as with Norwegian vetter generally.",
     "appearance": "A shaggy humanoid figure smaller than a troll but larger than a vätte — about the size of a 10-year-old child. Covered in brown or grey hair. Has a short tail. Face is monkey-like with a flat nose and pointed ears. Often seen wearing a tattered hat or cap.",
     "behavior": "A trickster troll-vätte hybrid who leads travelers astray and moves trail markers. Helps respectful farmers who leave porridge offerings under tusse-stenar. Causes trouble for those who neglect him. Smaller and less dangerous than a full troll but larger than a vätte.",
     "habitat": "Small hills, under large rocks, in crawl spaces under farmhouses, barns, and stables. Near human habitation but hidden from sight.",
@@ -9009,13 +9010,14 @@
     "seo_description": "Tusse (also Tuss) is a regional variant of the troll/vätte complex found in Halland Småland and Västergötland — a transitional figure between the larg",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Scandinavian folklore; trolls are pervasive anthropomorphic beings in Nordic myths, documented in laestadian and ethnographic records.",
-    "source_quality": "good",
+    "source": "Norwegian folk belief; vette traditions (Nordland); Aasen and Asbjørnsen material",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "tusse-sweden-2127",
@@ -9717,7 +9719,7 @@
       "turtle-trickster-of-ashanti",
       "anansi-ghana"
     ],
-    "description": "The Trickster Scorpion is a popular figure in Mauritanian folklore, embodying the dangers and deceptions of the desert. In one of the best-known tales, 'The Trickster Scorpion and the Desert Spirits,' a clever scorpion outwits both humans and supernatural beings through a combination of cunning, diplomacy, and strategic use of its venomous sting. The story spread across Mauritania as parents told it to their children and travelers carried it across the sands. The trickster scorpion is not purely evil but is opportunistic and survival-focused, reflecting the harsh realities of Saharan life where one must be clever to survive. Unlike the purely malicious scorpion of reality, the trickster scorpion in folklore is endowed with speech, complex reasoning, and a moral complexity that makes it a compelling character. The tales serve as both entertainment and practical education, teaching children about the real dangers of scorpions in the desert while also imparting wisdom about dealing with difficult people and situations",
+    "description": "Not independently attested in Mauritanian folklore. No scholarly or ethnographic source documents a trickster-scorpion figure; the text derives from a 2025 AI-generated folktales.africa page rather than genuine oral tradition.",
     "appearance": "A large desert scorpion with a glossy black or golden carapace, capable of speech and bipedal movement when in its mythical aspect. Its stinger glows with a faint light visible in the desert darkness.",
     "behavior": "Clever, opportunistic, and pragmatic. The trickster scorpion uses deception and negotiation to survive encounters with both humans and desert spirits. It respects strength but exploits weakness, and its stinger is always the final argument.",
     "habitat": "The Sahara Desert of Mauritania, including sandy plains, rocky outcrops, and areas near oases",
@@ -9776,16 +9778,17 @@
       "cunning"
     ],
     "featured_in_stories": [],
-    "source": "folktales.africa",
-    "source_quality": "good",
+    "source": "No independent source found; negative research result",
+    "source_quality": "poor",
     "fun_fact_generated": false,
     "stories": [
       "the-legend-of-enriquillo-and-anacaona"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "tannit-libyan-goddess-3288",
@@ -9812,7 +9815,7 @@
       "antaeus-libyan-giant",
       "lamia-libya"
     ],
-    "description": "Tannit (also known as Neith, Tanit) is the supreme female deity of ancient Berber mythology, originating in Libya. She is considered the Libyan Triple Goddess par excellence and is one of the oldest known goddess figures in North Africa. According to Berber mythology scholars, the Egyptian goddess Neith, the Phoenician goddess Tanit, and the Greek goddess Athena are all derived from the original Berber Tannit. She is a goddess of war, wisdom, fertility, and the cycles of life and death. Tannit was particularly venerated in the region of Libya and later became the patron goddess of Carthage. She is often depicted with a crescent moon on her forehead, associated with lunar cycles and the feminine principle. Her symbol—a circle above a triangle with a horizontal line—is one of the most recognizable religious symbols of the ancient world, found throughout Carthaginian sites in Tunisia and Libya. Tannit represents the indigenous Libyan foundation for many Mediterranean goddess traditions, highlighting the significant influence of Berber religion on neighboring cultures. Her worship included both protective and warlike aspects, and she was believed to provide guidance and protection in times of conflict",
+    "description": "Tanit (also Tinnit) was the great goddess of Carthage, a North African deity of sky, fertility and the afterlife, consort of Baal Hammon. Her symbol, a circle above a triangle over a horizontal bar, appears throughout Punic sites. Offerings at the tophet were made to her and Baal Hammon, and she was later identified with Juno Caelestis.",
     "appearance": "A powerful female figure crowned with a crescent moon, often depicted with wings, holding a lotus or a staff. Her symbol consists of a circle (sun/moon) above a triangle (female form) separated by a horizontal line (arms).",
     "behavior": "Tannit is both nurturing and warlike. As a mother goddess she provides fertility and protection, while as a war goddess she leads armies and inspires courage. She judges the dead and cycles between life and death.",
     "habitat": "Sky and underworld; temples throughout Libya and Carthage; particularly associated with the Libyan desert and coastal regions",
@@ -9870,17 +9873,18 @@
       "fertility"
     ],
     "featured_in_stories": [],
-    "source": "Temehu.com; Libyan Heritage House",
-    "source_quality": "good",
+    "source": "Punic scholarship on Carthaginian religion",
+    "source_quality": "academic",
     "fun_fact_generated": false,
     "stories": [
       "the-legend-of-tanit-and-baal-hammon"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
     "source_type": "literary",
-    "pronunciation_ipa": "/tannit/"
+    "pronunciation_ipa": "/tannit/",
+    "attested": true
   },
   {
     "id": "tabudo-3315",

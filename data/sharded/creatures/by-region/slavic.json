@@ -1748,7 +1748,7 @@
       "mara-ukraine",
       "lesovik"
     ],
-    "description": "The Kiev Ghost is a legendary phantom from Ukrainian folklore, said to haunt the ancient streets, churches, and catacombs of Kyiv, one of Eastern Europes oldest and most historically layered cities. This spectral figure is most commonly identified as the spirit of a murdered monk or soldier from centuries past, bound to the earthly realm by unfinished business or violent death. The ghost is intimately connected to Kyievs rich history, which spans over 1,500 years including the Kyivan Rus period, Mongol invasions, Cossack uprisings, and modern conflicts. Depending on the tale, the Kiev Ghost appears to those who are in need, offering cryptic warnings, guidance to hidden treasures, or reassurance during times of crisis. The ghost embodies Ukraines complex and often tragic history, serving as a spiritual guardian of the nations cultural heritage and ancestral memory",
+    "description": "The Ghost of Kyiv is a Ukrainian wartime legend that emerged in the first days of the 2022 Russian invasion: a mysterious MiG-29 pilot reportedly downing multiple Russian aircraft over the capital. It became a symbol of resistance and morale before officials clarified that the story was a composite. The entry's medieval 'catacomb haunting' is replaced with the attested modern legend.",
     "appearance": "The Kiev Ghost typically appears as a solemn figure dressed in ancient monastic robes of dark wool or as a soldier wearing medieval Kyivan Rus armor, complete with a conical helmet and chainmail that clinks softly with each movement. The figure glows with a faint, ethereal luminescence that provides just enough light to reveal its features without casting a shadow on the ground, a detail that confirms its supernatural nature. Its face is pale and solemn, with dark eyes that hold centuries of sorrow and wisdom, and its hands are often clasped in prayer or resting on the hilt of a sword. Some accounts describe the ghost wearing the black cassock of an Orthodox monk with a koukoulion hood, while others depict it in the colors of the Zaporozhian Cossacks. The apparition may appear solid at first but gradually becomes translucent, and it moves without sound, gliding a few inches above the ground",
     "behavior": "The Kiev Ghost manifests exclusively at midnight, the traditional hour when the boundary between the living and the dead is at its thinnest. It appears before those who are lost, troubled, or in genuine need, speaking in a whisper that carries clearly despite its softness. The ghost delivers warnings of impending danger, reveals hidden passages, or recites ancient prayers in Church Slavonic that bring comfort to the distressed. It has been known to lead people to hidden treasures buried during times of invasion, point out secret tunnels beneath the city, or appear on the walls of the Kyivan Pechersk Lavra monastery to bless those who pass below. The ghost is selective about whom it appears to, revealing itself only to those who are spiritually receptive or in genuine need. When its message is delivered, it fades away like morning mist, leaving behind the faint scent of incense and candle wax. Those who see it are forever changed.",
     "habitat": "Kyiv churches, streets, underground passages",
@@ -1791,13 +1791,14 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Ukrainian folklore; hauntings of Kyiv streets, documented in local urban legends.",
-    "source_quality": "good",
+    "source": "Ukrainian wartime legend (2022); Ukrainian officials and press coverage",
+    "source_quality": "documented",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "kikimora-russia-0951",
@@ -5003,7 +5004,7 @@
       "strig-or-trig",
       "psoglav-montenegro"
     ],
-    "description": "The Drekavac, meaning 'the screamer' or 'the screecher,' is a terrifying mythical creature from South Slavic mythology, with particularly strong belief in Bosnia and Herzegovina. It is most commonly described as the restless spirit of an unbaptized child that rises from its grave at night to haunt the living, emitting horrifying wails that blend animal cries with human sobs. In Maglaj, Bosnia, it takes the form of ghostly fallen soldiers unable to find peace, while in Kozarska Dubica it resembles a vampire-like undead man. The creature appears variably as a dappled, spindle-thin being with an oversized head, a humanoid canine, or a formless apparition. Its defining trait is its agonizing scream, which foretells death when appearing as a child or cattle disease when in animal form. The Drekavac is visible mainly at night, especially during the twelve days of Christmas (called 'unbaptized days') and early spring, and is repelled by dogs and bright light In Bosnia and Herzegovina folklore, this figure is known among the South Slavic (Bosnian, Serbian, Croatian) people.",
+    "description": "The Drekavac ('screamer') of South Slavic belief is the restless spirit of an unbaptized child that wails horribly at night, blending animal cries with human sobs. In parts of Bosnia it appears as a dappled, spindle-thin being or a spectral soldier, and its scream is said to foretell death or cattle disease. It shows itself at night, especially during the twelve 'unbaptized days' of Christmas.",
     "appearance": "Variable form: sometimes a dappled, elongated spindle-thin body with a disproportionately large head; other times a humanoid canine walking on hind legs, a cat-headed creature, or a pale child figure near cemeteries. In Maglaj, it appears as ghostly soldiers. Some descriptions mention a one-legged humanoid with glowing eyes. In animal form it may resemble a dog, foal, cat, or bird.",
     "behavior": "Primarily nocturnal, the Drekavac emits bone-chilling screams near cemeteries, rivers, forests, and abandoned villages. It may jump on the backs of travelers at night, forcing them to carry it. Its shadow causes illness or death. The creature attacks people returning from watermills, leaping from whirlpools. When appearing as a child, it may beg passersby to baptize it so its soul can find peace. It avoids dogs and bright light, and flees at rooster's crow.",
     "habitat": "Cemeteries, riversides, swamps, forests, abandoned villages, and whirlpools. Particularly associated with graveyards and watermill areas at night.",
@@ -5070,7 +5071,7 @@
       "redemption through baptism"
     ],
     "featured_in_stories": [],
-    "source": "Wikipedia, Crazy Alchemist Bestiary, Monstropedia, Radio Sarajevo, Your Guide to Bosnia",
+    "source": "South Slavic oral tradition; regional Bosnian collections",
     "source_quality": "good",
     "fun_fact_generated": false,
     "stories": [],
@@ -5078,9 +5079,10 @@
       "Plakavac"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "attested": true
   },
   {
     "id": "d-ambas-0593",
@@ -6962,7 +6964,7 @@
       "p-anetnik",
       "d-ambas"
     ],
-    "description": "The Zmey (Macedonian: Змеј) is a dragon-like creature central to Macedonian folklore, distinct from the purely malevolent dragons of Western tradition. In Macedonian tales and folk songs, Zmey are described as extraordinarily intelligent beings with hypnotizing eyes, possessing a human-like form with a snake's tail and golden wings. They live in caves or on remote mountain tops and are extremely wise. The Zmey has a dual nature: they are territorial guardians who protect villages and fight destructive female Lamia in the skies during storms, yet they also fall passionately in love with human women, often kidnapping them to their mountain lairs. A Zmey can shape-shift into smoke, a spark, a firebird, a snake, a cloud, or a handsome man. In Macedonian belief, a woman may conceive a Zmey after a prolonged pregnancy of 15-20 months, and the child is born with small wings under the arms visible only to righteous people. Zmeys battle Lamia in the sky during storms to protect wheat harvests—the Zmey's spirit astrally projects into the clouds while his body sleeps. A crossbreed between a serpent and a samovila may also produce a Zmey",
+    "description": "In Russian folklore the zmei (zmej gorynych) is a serpent-dragon of skazki and byliny, a fire-breathing monster who abducts princesses and ravages the land. Epic heroes such as Dobrynya Nikitich and Alyosha Popovich slay Zmei Gorynych, and Tugarin Zmeevich appears as a dragon adversary in the oral epic songs.",
     "appearance": "Human-like body with a serpent's tail, large golden wings, and tremendous physical strength. Sometimes depicted as a winged serpent or multi-headed dragon. Can shape-shift into a handsome man, smoke, a firebird, a snake, or a cloud. Has hypnotizing eyes. Human-born Zmeys appear as ordinary people but have small wings under their arms visible only to the righteous.",
     "behavior": "Zmeys guard their territory fiercely and fight other Zmeys who enter it. During storms, they astrally project into the sky to battle Lamia that threaten crops. They fall in love with women conceived on the same night or born on the same day as them, guarding them from childhood. Their love can cause women to fall ill with paleness, shyness, and hallucinations, sometimes leading to suicide. They kidnap women to their mountain caves. Despite their possessive nature, they are generally benevolent protectors of their people.",
     "habitat": "Mountains, caves, dark forests",
@@ -7005,15 +7007,16 @@
     "featured_in_stories": [
       "zmey-the-benevolent-dragon-of-bulgarian-folklore"
     ],
-    "source": "Russian folklore — Zmey dragon/spirit documented in Russian oral tradition.",
-    "source_quality": "good",
+    "source": "Russian folk tradition; byliny and skazki (Afanasyev compilation)",
+    "source_quality": "well-documented",
     "stories": [
       "zmey-the-benevolent-dragon-of-bulgarian-folklore"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "zmey-bulgaria-2106",
@@ -7036,7 +7039,7 @@
       "zmej",
       "ala"
     ],
-    "description": "Zmey is a spirit from Bulgaria mythology. In Macedonian tales and folk songs, Zmey are described as extraordinarily intelligent beings with hypnotizing eyes, possessing a human-like form with a snake's tail and golden wings. They live in caves or on remote mountain tops and are extremely wise. The Zmey has a dual nature: they are territorial guardians who protect villages and fight destructive female Lamia in the skies during storms, yet they also fall passionately in love with human women, often kidnapping them to their mountain lairs. A Zmey can shape-shift into smoke, a spark, a firebird, a snake, a cloud, or a handsome man. In Macedonian belief, a woman may conceive a Zmey after a prolonged pregnancy of 15-20 months, and the child is born with small wings under the arms visible only to righteous people. Zmeys battle Lamia in the sky during storms to protect wheat harvests—the Zmey's spirit astrally projects into the clouds while his body sleeps. A crossbreed between a serpent and a samovila may also produce a Zmey",
+    "description": "The zmey is a dragon of Bulgarian folklore, a powerful being that can aid people: male zmey protect villages and battle destructive female lamia or hala in the sky during storms, guarding the wheat harvest. Zmey may take human, serpent or cloud form and fall in love with human women; the forest dragon Zmey Gorianin is a noted figure.",
     "appearance": "Human-like body with a serpent's tail, large golden wings, and tremendous physical strength. Sometimes depicted as a winged serpent or multi-headed dragon. Can shape-shift into a handsome man, smoke, a firebird, a snake, or a cloud. Has hypnotizing eyes. Human-born Zmeys appear as ordinary people but have small wings under their arms visible only to the righteous.",
     "behavior": "Zmeys guard their territory fiercely and fight other Zmeys who enter it. During storms, they astrally project into the sky to battle Lamia that threaten crops. They fall in love with women conceived on the same night or born on the same day as them, guarding them from childhood. Their love can cause women to fall ill with paleness, shyness, and hallucinations, sometimes leading to suicide. They kidnap women to their mountain caves. Despite their possessive nature, they are generally benevolent protectors of their people.",
     "habitat": "Mountains, caves, dark forests",
@@ -7079,14 +7082,15 @@
     "featured_in_stories": [
       "zmey-the-benevolent-dragon-of-bulgarian-folklore"
     ],
-    "source": "Bulgarian folklore — Zmey spirit documented in Bulgarian oral tradition.",
-    "source_quality": "fair",
+    "source": "Bulgarian folk tradition; BNR folklore feature on the zmey",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/zmeɪ/"
+    "pronunciation_ipa": "/zmeɪ/",
+    "attested": true
   },
   {
     "id": "zmey-northmacedonia-2107",
@@ -8061,7 +8065,7 @@
       "bannik-russia",
       "bannik-ukraine"
     ],
-    "description": "The Bannik-Moist is a specific variant of the Bannik, a spirit from Slavic folklore, particularly Russian tradition, who inhabits bathhouses and steam baths. In Russian folk belief, the banya or traditional steam bath is a sacred yet dangerous place, inhabited by its own powerful spirit that must be respected. The standard Bannik is a capricious and sometimes malevolent spirit who demands proper behavior in the bathhouse, but the Bannik-Moist variant is described as somewhat more social and communicative. While the regular Bannik is known to be dangerous, particularly after midnight when it bathes itself and will attack anyone who disturbs it, the Bannik-Moist is more likely to engage with humans in riddles and conversation. This variant is particularly associated with public bathhouses rather than private family baths, where multiple people from the community gather. In Russian folklore, the bathhouse is a liminal space where the boundaries between the human world and the spirit world are thin, making it a prime location for encounters with spirits, divination, and supernatural experiences. The Bannik-Moist represents the more social aspect of bathhouse spirituality, the spirit that governs the communal experience of the banya rather than the dangerous solitary bather",
+    "description": "Not independently attested in folklore literature. The bannik, the Russian bathhouse spirit, dangerous after midnight and appeased with bread, salt, or an offering of water, is genuine Slavic folklore, but no 'Moist' variant appears in any source; the epithet and its supposed social character are invented.",
     "appearance": "The Bannik-Moist appears as an old, wrinkled man, his body partially obscured or wreathed in the steam and mist that fills the traditional Russian bathhouse. His skin is described as reddened and damp from the heat, with the sagging, wrinkled appearance of someone who has spent a very long time in the steam room. The spirit is often described as being naked or minimally clothed, fitting the bathhouse setting, and his body may be covered in leaves from the venik or birch brooms traditionally used in the banya. His face is ancient and wrinkled, with eyes that are described as bright and knowing despite his apparent age, and a thick beard that drips with condensation. The Bannik-Moist may also appear as a shifting shape within the steam, sometimes invisible except as a moist presence that can be felt but not seen, making his presence known through the creaking of the wooden benches or the sudden movement of bathhouse implements. When seen clearly, he is described as being about the size of a human but with an otherworldly quality that distinguishes him from ordinary bathers, his body seeming to blend with the steam and his movements leaving trails of mist. The spirit is also known to take the form of familiar people, appearing as a friend or neighbor to trick bathers into breaking the rules of the bathhouse.",
     "behavior": "The Bannik-Moist is known for engaging with humans through riddles and conversation, making him one of the more communicative spirits in Slavic folklore. According to tradition, the Bannik-Moist sits on the middle shelf of the bathhouse, the traditional seating area for experienced bathers, where he may engage those who enter with questions and riddles. Answering his riddles correctly may earn his favor, resulting in predictions about the future or useful advice about health and fortune. However, those who fail to answer correctly or who show disrespect may be punished with pinches, burns from the hot stones, or being locked in the bathhouse until morning. The Bannik-Moist is particularly concerned with the cleanliness and proper use of the bathhouse. He demands that bathers wash before entering the steam room, that they use the bathhouse at appropriate times, and that they clean up after themselves. Those who misuse the bathhouse, who bathe at improper times, who are drunk or rowdy, or who leave the bathhouse dirty will face the spirit's wrath. In Russian folk tradition, the Bannik-Moist could also be consulted for divination, particularly by young women seeking to learn about their future husbands. A woman might enter the bathhouse alone at night, present her back to the spirit, and ask him to touch her. A smooth touch foretold a kind husband, while a rough touch predicted a cruel one. The Bannik-Moist thus serves as both a guardian of bathhouse protocol and a source of supernatural knowledge for those who approach him with proper respect and ritual.",
     "habitat": "Public banyas, bathhouses",
@@ -8098,13 +8102,14 @@
     "seo_description": "Discover Bannik-Moist, the talkative bathhouse spirit of Russian Slavic folklore who sits on the middle shelf of the banya, engages visitors with riddles, predicts futures, and enforces the sacred rules of the steam bath.",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Russian folklore — Bannik bathhouse spirit variant.",
-    "source_quality": "fair",
+    "source": "No reliable source found (closest analogue: Russian bannik tradition)",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "bat-animal-spirit-udmurt-0130",
@@ -8195,7 +8200,7 @@
       "baba-roga",
       "drekavac-serbia"
     ],
-    "description": "In Lithuanian folklore, Baubas is a domestic fear entity or bogeyman figure that inhabits the shadowy corners of rural farmhouses, used by parents for generations as a disciplinary tool to frighten children into obedient behavior. The name Baubas derives from the Lithuanian verb baubti meaning to roar or bellow, referring to the low threatening sounds the creature is said to make in the darkness. Unlike the more complex and individualized supernatural beings of Lithuanian mythology such as the deity Perkunas or the fate goddess Laima, Baubas is a simple but effective household terror that belongs to a category of folklore figures found across virtually every human culture. In Lithuanian tradition, Baubas is one of several similar entities including the more specific Aitvaras and Kaukas, but Baubas is distinguished by its generic formlessness and its specific association with childhood discipline and the fear of the dark",
+    "description": "The bauk is a bear-like bogeyman of Serbian folklore, an animal-shaped monster hiding in dark corners, holes, and abandoned houses to grab, carry away, and devour victims, especially children. It has a clumsy gait (bauljanje) and an onomatopoeic cry of 'bau,' and is driven off by light and noise. Scholars read it as folk memory of the brown bear, once widespread in the Balkans.",
     "appearance": "Baubas is deliberately described in vague and shadowy terms, as its power lies in the imagination of the child who fears what might be lurking in the darkness rather than in any fixed physical form. It is most commonly described as a dark shapeless presence or a patch of deeper shadow that seems to move and breathe in the corners of rooms, under beds, inside closets, or behind furniture. Some folk descriptions give it a more defined form as a small hunched creature with shaggy dark fur, glowing yellow or red eyes that peer from the darkness, and long thin fingers that reach out from under the bed to grab ankles or pull blankets. Its most consistent feature across all Lithuanian accounts is its vague, shifting nature that makes it difficult to describe precisely, a quality that enhances its effectiveness as a figure of childhood fear since each child imagines the Baubas in the form they find most terrifying. The creature is sometimes described as having a mouthful of sharp teeth that it gnashes in the darkness, and a low growling or grumbling sound that issues from its hiding place.",
     "behavior": "Baubas emerges from its hiding places after dark when children are supposed to be sleeping, targeting those who refuse to go to bed, who misbehave during the day, or who disobey their parents. Its primary activities include pulling the hair of sleeping children, pressing down on their chests to cause nightmares and sleep paralysis, scratching on walls and furniture to create frightening sounds, and occasionally dragging small objects across the floor in the middle of the night. The creature is particularly active during the long dark winter nights of the Lithuanian countryside when the lack of electric lighting in traditional farmhouses created pools of impenetrable shadow in every room. Despite its frightening behavior, Baubas is not considered truly malevolent or dangerous in the sense of causing permanent harm; rather, it is a disciplinary presence whose threats are used by parents to enforce good behavior, and children who are obedient, brave, and who follow the rules have nothing to fear from the shadowy creature in the corner.",
     "habitat": "Dark corners, under beds, closets",
@@ -8238,13 +8243,14 @@
       "F300"
     ],
     "featured_in_stories": [],
-    "source": "Serbian folklore — Bauk monster documented in Serbian oral tradition.",
+    "source": "Serbian oral tradition; recorded by Vuk Karadžić",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "boginka-0234",

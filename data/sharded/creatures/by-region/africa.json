@@ -264,7 +264,7 @@
       "amenokal-tuareg",
       "la-loba"
     ],
-    "description": "Khorba spirits are supernatural beings in Berber folklore from Morocco and Algeria that inhabit abandoned buildings, ancient ruins, and collapsed granaries (the word 'khorba' means ruin or dilapidated building in Maghrebi Arabic and Berber dialects). These spirits are considered the guardians of forgotten places, protecting the remnants of previous civilizations. They are particularly associated with ksour (fortified villages) and granaries in the Atlas Mountains and the pre-Saharan valleys. Unlike the more generic jinn, Khorba spirits are tied to specific ruins and are believed to be the lingering spirits of the original inhabitants. They cause mischief: hiding tools, making noises at night, and leading people away from the ruins. However, they also protect the ruins from being completely destroyed or looted",
+    "description": "In Maghrebi folk belief, jinn and spirits are commonly said to haunt khorba, the ruined or abandoned buildings of North Africa — collapsed granaries, deserted ksour, and old fortifications. These beings are feared for mischief and nocturnal disturbance, and ruins are avoided after dark.",
     "appearance": "Short, shadowy humanoid figures that are see-through in daylight. Sometimes appear as old men or women dressed in ancient Berber clothing. Can take the form of a sudden chill wind in an empty room.",
     "behavior": "Territorial guardians of ruins. Mischievous rather than malicious. Night-active. Scatter livestock, hide objects, moan to frighten intruders. Can be friendly to those who ask permission to enter ruins.",
     "habitat": "Abandoned granaries, ancient ruins, old ksour, collapsed buildings in the Atlas Mountains",
@@ -308,13 +308,14 @@
     "seo_description": "Guardian spirits of ruins in Berber folklore that protect abandoned buildings and ancient structures.",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Berber oral tradition, Maghrebi folklore",
-    "source_quality": "researched",
+    "source": "Maghrebi folk belief in jinn of ruins (khorba); Moroccan and Algerian oral tradition",
+    "source_quality": "documented",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "kel-tamasheq-spirits-tuareg-4118",
@@ -1021,7 +1022,7 @@
       "khorba-spirits-berber",
       "geb-egyptian"
     ],
-    "description": "Ifriqiya is a legendary serpent or dragon of Tunisian folklore, named after the ancient Roman province of Africa Proconsularis (which covered modern Tunisia). In Tunisian folk tales, Ifriqiya is said to be the guardian of the land of Tunisia, a wise and ancient serpent that has lived since before the Arab conquest. It is sometimes conflated with the Roman era legend that a giant serpent guarded the granaries of Carthage. Unlike European dragons, Ifriqiya is not necessarily malevolent; snip it is a creature of wisdom and ancient knowledge. It sleeps beneath the earth and its movements cause earthquakes. Some legends say the city of Tunis was built over its head, and if the serpent ever awakens fully, the city will be destroyed. The story shares themes with the Phoenician (Canaanite) serpent Lotan and the Greek Python",
+    "description": "Not independently attested in folklore literature. 'Ifriqiya' is the medieval Arabic name of the North African province (from the Roman Africa, named for the Berber goddess Ifri and the Afri people), not a serpent of Tunisian legend. No Tunisian source describes a guardian dragon of that name; the earthquake and 'city built over its head' details are invented.",
     "appearance": "An immense serpent with scales of gold and earth, eyes like deep pools of water, and a crown-like ridge on its head. Enormous enough to encircle a hill. Often described as dark brown or gold with a pale underbelly.",
     "behavior": "Ancient, wise, and generally dormant. Causes earthquakes when stirring. Guardian of Tunisian soil. Possesses knowledge of all that has happened in the land. Slow to anger but devastating when roused.",
     "habitat": "Beneath the earth of Tunisia, particularly the hills around Carthage and Tunis",
@@ -1066,14 +1067,15 @@
     "seo_description": "A legendary serpent of Tunisian folklore that sleeps beneath the land, guardian of Tunisia with ancient wisdom.",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Tunisian oral tradition, Maghrebi folklore, Roman-era North African legends",
-    "source_quality": "researched",
+    "source": "Review finding: unattested as a serpent; Ifriqiya is the Arabic name of the province; the attested figure is the Berber goddess Ifri/Ifru",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/ifriqiya/"
+    "pronunciation_ipa": "/ifriqiya/",
+    "attested": false
   },
   {
     "id": "djura-berber-4120",
@@ -1348,7 +1350,7 @@
       "amenokal-tuareg",
       "la-loba"
     ],
-    "description": "The Hoggar Mountain spirits are supernatural beings from the beliefs of the Kel Ahaggar (Tuareg) people of the Hoggar Mountains in southern Algeria. These high peaks, including Mount Tahat (the highest in Algeria), are considered inhabited by powerful spirits that control the weather, protect grazing grounds, and guard hidden treasures. The Hoggar is considered a sacred landscape. Each mountain, pass, and spring has its own spirit. The most powerful is the spirit of Mount Tahat, who controls the rain. The spirits are masters of illusion, leading travelers astray with mirages. They are neither good nor evil but demand respect and are easily offended by littering, shouting, or polluting water sources. They appear as majestic rams with crystal horns, columns of mist, or tall veiled figures on the peaks",
+    "description": "Among the Kel Ahaggar, a Tuareg people of the Hoggar massif in southern Algeria, the desert and mountains are held to be inhabited by invisible spirits of the wild, known as essuf or kel essuf. These beings demand respect and are linked with solitude, healing rites, and the liminal spaces of the empty land. The invented specifics (crystal-horned rams, a rain-spirit of Mount Tahat) are removed.",
     "appearance": "Ghostly Tuareg veiled figures wrapped in light, or as magnificent mountain rams with translucent crystal horns. Also appear as sudden mist, swirling winds on peaks, or double shadows on the rocks.",
     "behavior": "Territorial and protective of the mountains. Lead disrespectful travelers astray with mirages. Reward those who show respect with safe passage and good weather. Communicate through mountain echoes.",
     "habitat": "The Hoggar Mountains (Ahaggar), especially Mount Tahat, mountain passes, high peaks",
@@ -1394,13 +1396,14 @@
     "seo_description": "Mountain spirits of the Tuareg Kel Ahaggar people that inhabit the Hoggar Mountains of Algeria, controlling weather and protecting the sacred peaks.",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Tuareg oral tradition, Kel Ahaggar beliefs",
-    "source_quality": "researched",
+    "source": "Kel Ahaggar (Tuareg) belief in essuf / kel essuf; documented by Lhote (1944) and later ethnography",
+    "source_quality": "documented",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "cyrene-serpent-libyan-4117",
@@ -1660,7 +1663,7 @@
       "aral",
       "atum-egyptian"
     ],
-    "description": "The Nile water spirits are a class of supernatural beings in Egyptian folk belief who inhabit the Nile River and its canals, lakes, and irrigation channels. Unlike the singular Sheikh of the Nile, these are numerous spirits that live in specific sections of the river, each with its own territory and characteristics. They are considered a type of jinn in Islamic Egyptian contexts. Some are benevolent, helping fishermen find good catches and protecting children from drowning; snip others are malicious, dragging swimmers to their deaths or capsizing boats. They are most active at night, dawn, and during the flood season. Offerings of bread, dates, or milk are left at riverbanks to gain their favor. They are shape-shifters, often appearing as beautiful women, giant fish, or luminous figures on the water",
+    "description": "Egyptian folk belief holds that spirits and jinn inhabit the Nile and its canals. The best-attested is El Naddaha ('the Caller'), a female, naiad-like spirit who appears near the river at night and calls men by name, hypnotizing and luring them to the water; the tradition was popular in 20th-century rural Egypt. Charms and caution protect fishermen and travellers from such spirits.",
     "appearance": "Variable forms: beautiful women with wet hair and green eyes (the most common), giant catfish or Nile perch with human eyes, shimmering humanoid shapes made of water, or as columns of mist on the river at dawn.",
     "behavior": "Territorial and protective of their river sections. Some helpful, some malicious. Most active at dawn, dusk, and during the Nile flood. Attracted to music and singing. Can be angered by pollution.",
     "habitat": "The Nile River, canals, irrigation ditches, lakes formed by the river",
@@ -1705,14 +1708,15 @@
     "seo_description": "Numerous water spirits of Egyptian folklore who inhabit the Nile, each with its own territory, either helping or harming humans.",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Egyptian folklore, rural Upper Egyptian traditions",
+    "source": "Egyptian folk tradition; El Naddaha (en-Naddaha) documented in Nile folklore accounts",
     "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/naɪl/"
+    "pronunciation_ipa": "/naɪl/",
+    "attested": true
   },
   {
     "id": "bennu-egyptian-4107",

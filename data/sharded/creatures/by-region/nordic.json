@@ -748,7 +748,7 @@
       "fylgja",
       "sjoorm"
     ],
-    "description": "Trollkona (Troll Woman) is the Faroese female troll — a distinct figure in the islands' folklore appearing in legends tied to specific locations across the archipelago. On Skuvoy island, troll women were said to haunt the mountain pastures, stealing sheep and terrorizing shepherds who stayed in the mountain huts at night. The most famous trollkona legend connects her to the very geography of the islands: the island of Koltur is said to be the head of a sleeping troll woman, her body stretching beneath the sea toward Hestur. Near Sandavágur, the Trøllkonufingur (Witch's Finger) rock pillar is the petrified finger of a troll woman caught at dawn while reaching. Multiple versions of the trollkona legend appear in the Færøsk Anthologi collection, each tied to a specific village or island's landscape. The trollkona is the female counterpart to the male giant (risin) and shares the fate of petrification at dawn",
+    "description": "Trollkona ('troll woman') denotes the female troll of Swedish folklore, typically a mountain-dwelling being (bergatroll). The ballad 'Herr Mannelig' (Bergatrollets frieri) tells of a mountain-troll woman who courts a Christian knight with rich gifts and is refused. Female mountain spirits (bergsrå) likewise lure people into the rock, a motif known as bergtagning.",
     "appearance": "An enormous woman-like figure, much larger than a human. Dressed in rough skins or animal hides. Wild grey hair reaching to her waist. Long, powerful arms. Her face is weathered like stone. So large that entire islands form parts of her body.",
     "behavior": "Steals sheep from mountain pastures. Terrorizes shepherds staying in mountain huts. Bedevils farmers. Petrified into rock formations when caught by sunrise (Trøllkonufingur, Koltur). Some sleep beneath the islands themselves.",
     "habitat": "Remote farmhouses, crossroads, burial grounds",
@@ -792,8 +792,8 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Scandinavian folklore; trolls are pervasive anthropomorphic beings in Nordic myths, documented in laestadian and ethnographic records.",
-    "source_quality": "good",
+    "source": "Swedish folk tradition; ballad 'Herr Mannelig' (SMB 26); bergsrå legends",
+    "source_quality": "researched",
     "stories": [
       "the-lame-dog",
       "lasse-my-thrall",
@@ -803,9 +803,10 @@
       "the-rooster-the-hand-mill-and-the-swarm-of-hornets"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "trollkona-faroeislands-1825",
@@ -985,7 +986,7 @@
       "skogsr",
       "huldra"
     ],
-    "description": "Tusse (also Tuss) is a regional variant of the troll/vätte complex found in Halland Småland and Västergötland — a transitional figure between the larger trolls and the smaller vättar. The tusse is smaller than a full troll but larger than a vätte typically described as a shaggy humanoid figure with a tail who lives under large stones or in forest caves. Tussen are tricksters who take pleasure in leading travelers astray moving trail markers and hiding objects. Unlike the genuinely malevolent Puke the tusse is more mischievous than evil. If a traveler gets lost in a Halland forest locals would say 'tussen har lett honom vilse' (the tusse has led him astray). Like the tomte the tusse could be helpful if given offerings of porridge. In Västergötland farmers would leave a bowl of porridge under a large stone on the property known as a tusse-sten (tusse stone). If the porridge was eaten the tusse would protect the farm. If it remained untouched the tusse was offended and trouble would follow. The word 'tusse' survives most clearly in Swedish place names. The tusse represents the intermediate zone in Swedish folklore between the human-scale supernatural (tomtar vättar) and the monstrous (troll giants). The name may derive from Old Norse þurs meaning giant or ogre showing its ancient roots in the language",
+    "description": "Tusse (also tuss) is a Norwegian folk-belief term for a vette, a supernatural guardian of the farmstead. In Nordland the farm vette was called tusse, alongside tuftekall, godbonde and tomte. Related is the haugtuss, a mound-dwelling being of the underjordiske who brings luck when respected and revenge when offended, as with Norwegian vetter generally.",
     "appearance": "A shaggy humanoid figure smaller than a troll but larger than a vätte — about the size of a 10-year-old child. Covered in brown or grey hair. Has a short tail. Face is monkey-like with a flat nose and pointed ears. Often seen wearing a tattered hat or cap.",
     "behavior": "A trickster troll-vätte hybrid who leads travelers astray and moves trail markers. Helps respectful farmers who leave porridge offerings under tusse-stenar. Causes trouble for those who neglect him. Smaller and less dangerous than a full troll but larger than a vätte.",
     "habitat": "Small hills, under large rocks, in crawl spaces under farmhouses, barns, and stables. Near human habitation but hidden from sight.",
@@ -1032,13 +1033,14 @@
     "seo_description": "Tusse (also Tuss) is a regional variant of the troll/vätte complex found in Halland Småland and Västergötland — a transitional figure between the larg",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Scandinavian folklore; trolls are pervasive anthropomorphic beings in Nordic myths, documented in laestadian and ethnographic records.",
-    "source_quality": "good",
+    "source": "Norwegian folk belief; vette traditions (Nordland); Aasen and Asbjørnsen material",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "tusse-sweden-2127",
@@ -2708,7 +2710,7 @@
       "troll-denmark",
       "m-rksugga"
     ],
-    "description": "Maren (the Mare) is the Danish nightmare spirit — a female entity who sits on sleeping people's chests, pressing the air from their lungs and causing terrifying dreams. In Danish folklore, the Mare is a shape-shifter who can take the form of a cat, a dog, an owl, a horse, or even a straw. She is blamed for sleep paralysis, which in Danish is called 'mare-reden' (mare-ride). The Mare creates 'marelokker' (mare-locks) — tangled knots in horses' manes and women's hair, believed to be where she has been braiding at night. Protection against the Mare includes placing steel in the bed, reversing shoes before sleeping, carving a pentagram (called a 'marekors' or mare-cross) over the door, or sprinkling flax seeds on the floor — the Mare must count every seed before she can approach In Denmark folklore, this figure is known among the Denmark people.",
+    "description": "The Mare (Danish: Maren) is the Danish nightmare spirit, a female being who sits on sleepers' chests and presses the breath from them, causing the terror known as mareridt. She can appear as a cat, owl, horse or straw, braids marelokker into manes and hair, and is warded off with steel, reversed shoes, a marekors carved over the door, or scattered flax seeds she must first count.",
     "appearance": "Invisible when active, but can appear as a young woman in white, a large black cat, a spectral horse, or an owl with human eyes. When seen as a woman, she is pale with dark hair and leaves no footprints. Her touch feels cold and heavy.",
     "behavior": "Sits on sleeping victims' chests causing suffocation and nightmares. Braids horses' manes into 'marelokker.' Shape-shifts between human and animal forms. Must count scattered seeds before she can attack. Flees from steel, reversed shoes, and mare-cross symbols.",
     "habitat": "Homes, bedrooms, stables, and barns across Denmark. Enters through keyholes or cracks in walls. Most active at night during sleep hours. Can travel long distances to reach her victims.",
@@ -2770,13 +2772,14 @@
       "popobawa-the-bat-wing-terror-of-zanzibar",
       "maha-sona-the-great-graveyard-demon-of-sri-lanka"
     ],
-    "source": "Danish folk belief and ethnographic records of rural traditions.",
-    "source_quality": "good",
+    "source": "Danish folk belief; mare traditions documented in folklore collections",
+    "source_quality": "well-documented",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "mannbj-rn-2150",
@@ -4370,7 +4373,7 @@
       "erik-munks-gjenferd",
       "den-gr-dame"
     ],
-    "description": "Ladejarlens Gjenferd (the Ghost of the Lade Jarl) is a spectral figure said to haunt the Lade area of Trondheim, where the powerful Lade Jarls had their seat in the Viking Age and early Middle Ages. The Lade Jarls (Earls of Lade) ruled much of Norway from their base at Lade (modern-day Trondheim) from the 9th to 11th centuries. The most famous of them — Håkon Grjotgardsson, Håkon Sigurdsson, and Eirik Håkonsson — were among the most powerful men in Norse history. Their ghost is said to appear as a tall, armored figure riding a spectral horse along the old road from Lade to the Nidelva river. The apparition is seen most often on stormy winter nights, sometimes accompanied by the sounds of battle. The legend reflects the lingering presence of Norway's Viking Age rulers in the Trondheim landscape, where their power once shaped the nation's history",
+    "description": "Not independently attested in folklore literature. No Norwegian source documents a ghost of the Lade Jarls haunting the Lade district of Trondheim; the entry wraps genuine history of the Earls of Lade in an invented spectral-horseman tale with no cited tradition. Trondheim does have attested ghost stories, but the 'Ladejarl's ghost' as such is unattested.",
     "appearance": "A tall, imposing figure in Viking Age armor — chainmail, helmet with noseguard, shield and sword. Rides a pale or black horse. Sometimes headless. Surrounded by a faint blue or green light.",
     "behavior": "Rides a spectral horse along the old Lade road at night. Accompanied by the sounds of battle and Viking horns. Disappears when the Nidaros Cathedral bells ring. Guardian of the old Lade jarldom.",
     "habitat": "The Lade area of Trondheim, particularly along the old road from Lade to the Nidelva. The area around the Lade church (where the jarls' hall once stood).",
@@ -4416,13 +4419,14 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Norwegian folk belief and ethnographic records of rural traditions.",
-    "source_quality": "good",
+    "source": "Review finding: unattested; real history of the Earls of Lade without a ghost tradition",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "lekam-ya-2194",
@@ -4587,7 +4591,7 @@
       "vette",
       "vonde-smund"
     ],
-    "description": "Listasanddjevelen (the Sand Devil of Lista) is a supernatural being associated with the shifting sand dunes of the Lista peninsula in Sørlandet. Lista has one of Norway's most dramatic dune landscapes — the Listastrendene beaches with massive moving sand dunes that have buried farms, roads, and churches over the centuries. The sand devil was believed to be a spirit that controlled the movement of the dunes, causing them to shift and bury farmland, buildings, and travelers caught in sandstorms. Local tradition said the sand devil had to be appeased with offerings to prevent the dunes from advancing. The sand devil reflects the real environmental challenge of sand drift on Lista — a problem that plagued the region from the 1600s until modern dune stabilization efforts. The spirit could be seen on stormy nights, a whirling figure of sand and wind moving across the dunes",
+    "description": "Not independently attested in Norwegian folklore. No scholarly or primary source documents a sand-devil spirit of Lista; the figure appears in a recent Wikipedia article built from real dune-burial history with an invented whirling-sand spirit.",
     "appearance": "A whirling column of sand and wind taking humanoid shape. Eyes like dark hollows in the spinning sand. Voice like the howling wind. Can appear as a tall, gaunt figure made entirely of sand. Leaves no tracks — dissolves into the dune.",
     "behavior": "Controls the movement of sand dunes. Causes sandstorms that bury farmland and buildings. Appears as a whirling column of sand during storms. Must be appeased with offerings. Can be warded off by planting specific grasses and erecting crosses on the dunes.",
     "habitat": "The sand dune landscape of Lista — Listastrendene, the beaches around Farsund, and the shifting dunes of the peninsula. Active during storms.",
@@ -4632,13 +4636,14 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Norwegian folk belief and ethnographic records of rural traditions.",
-    "source_quality": "good",
+    "source": "No independent source found; negative research result",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "lfar-2226",
@@ -5732,7 +5737,7 @@
       "sampo",
       "hiisi-portti-hiisi-s-gate"
     ],
-    "description": "Keiju are ethereal fairy beings from Finnish folklore, known as tiny, beautiful humanoids with translucent wings resembling those of dragonflies or butterflies. These delicate spirits inhabit the liminal spaces of the Finnish wilderness, particularly forest ponds, misty meadows, and the edges of deep woodlands where sunlight filters through the canopy. Keiju are considered nature spirits closely connected to the vitality of the forest and its waterways, dancing among wildflowers and resting on water lilies when they are not visible to human eyes. Unlike the more dangerous spirits of Finnish mythology such as the Hiisi or the Näkki, Keiju are generally benevolent, though they are shy and prefer to avoid human contact. They are believed to emerge primarily during the brief Finnish summer when the midnight sun illuminates the landscape with perpetual twilight",
+    "description": "The keijukainen (modern keiju) are small spirits of Finnish folk tradition, attested since Ganander's Mythologia Fennica (1789) as tiny flying beings connected with the dead — seen near funerals, graveyards, and roads, resembling snowflakes, small dolls, or flames, and counted among the kirkonväki death-spirits. The 'beautiful winged fairy' image is a later literary overlay.",
     "appearance": "Keiju are described as exquisitely beautiful humanoid beings no larger than a human hand, with delicate features and luminous skin that glows with a soft inner light reminiscent of moonlight on water. Their most striking features are their wings, which resemble those of dragonflies or butterflies, translucent and shimmering with iridescent colors that shift in the light, ranging from pale blues and silvers to soft greens and golds. They have long, flowing hair that seems to float and move as though underwater, often adorned with tiny wildflowers, dewdrops, or strands of spider silk that catch the light. Their clothing, when they wear any, is made from natural materials such as flower petals, woven grass, or spiderwebs, and their voices are said to sound like wind chimes or the gentle bubbling of a forest stream. Their eyes are large and luminous, reflecting the colors of the forest around them",
     "behavior": "Keiju are gentle, playful spirits that spend their days dancing in sun-dappled clearings, riding dragonflies, and weaving flowers into crowns and garlands. They are naturally shy around humans and will quickly hide if approached too closely, vanishing into flowers, mushrooms, or shafts of sunlight. However, they occasionally reveal themselves to children, the pure of heart, or those who show deep respect for nature, blessing them with good luck, inspiration, or the ability to understand the language of birds and animals. They are known to play harmless tricks on travelers, such as hiding small objects, leading people to beautiful hidden places, or tangling hair with bits of plant matter while they sleep. Keiju are most active during Midsummer celebrations, when the veil between worlds is thin, and they can be attracted by leaving offerings of cream, honey, or wildflowers at the edge of the forest.",
     "habitat": "Forest ponds, misty meadows",
@@ -5771,13 +5776,14 @@
     "seo_description": "Keiju are tiny, beautiful fairy beings from Finnish folklore with dragonfly-like wings that inhabit forest ponds and meadows. These gentle nature spirits bless those who respect the forest but shy away from human contact",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Finnish mythology, Kalevala compiled by Elias Lönnrot",
-    "source_quality": "good",
+    "source": "Finnish folk tradition: Ganander, Mythologia Fennica (1789); Finnish folklore-archive records of keijukaiset",
+    "source_quality": "documented",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "kvarngubbe-1003",
@@ -6715,7 +6721,7 @@
       "utburd",
       "erik-munks-gjenferd"
     ],
-    "description": "Rørosgubben (the Old Man of Røros) is a ghostly miner said to haunt the Røros Copper Works and the surrounding mining areas in the Røros region of Trøndelag. Røros was one of Norway's most important mining towns from its founding in 1644 until the mines closed in 1977. The ghost is believed to be the spirit of a miner who died in a cave-in or accident, and who now roams the tunnels, surface works, and slag heaps. The Rørosgubben is said to appear before disasters, warning miners of impending cave-ins, gas leaks, or other dangers. He is also seen walking through the characteristic black-timbered streets of Røros town. Some versions say he is searching for a lost treasure he hid before his death, while others claim he is a protective spirit who watches over the miners and their families. The legend is well known among the Røros community and is part of the UNESCO World Heritage site's cultural heritage",
+    "description": "Not independently attested in Norwegian folklore. No scholarly or primary source documents a ghost-miner legend of Røros; the name appears as a Røros polska folk tune in music collections rather than as a supernatural figure.",
     "appearance": "An old, stooped miner in traditional mining clothes — a dark coat, wide leather apron, and a small mining hat with a candle holder. Face blackened by soot. Carries a mining pick or a lantern. Moves with a slight limp.",
     "behavior": "Appears before mining disasters to warn miners. Walks through the empty tunnels at night. Taps on tunnel walls to indicate danger. Sometimes helps lost miners find their way out of collapsed sections. Guards the copper treasures hidden in the mountain.",
     "habitat": "The Røros Copper Works, mining tunnels, slag heaps, and the historic Røros town center. Particularly active in the oldest mines like Storwartz and Olavsgruva.",
@@ -6759,13 +6765,14 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Norwegian folklore; Rørosgubben is a ghostly miner from the Røros Copper Works.",
-    "source_quality": "good",
+    "source": "No independent source found; negative research result",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "rau-kembingur-2230",
@@ -7211,7 +7218,7 @@
       "hulder-huldra",
       "hitra-kjempen"
     ],
-    "description": "Gygrid (plural: gygrier) is a female giant or troll-woman in Norwegian folklore, from Old Norse gygr meaning ogress. The gygrid is a mountain-dwelling giantess, often associated with specific mountains in Vestlandet. Unlike male giants (jøtuler) who throw boulders, the gygrid is more subtle — she uses magic, seduction, and trickery. Some gygrier were said to be beautiful and would marry human men, but the marriage always came with a terrible price. Others were hideous hags who kidnapped children and travelers. Many Vestlandet mountains are said to be gygrier turned to stone when caught by the sunrise. The name appears in Norwegian place names throughout Vestlandet — Gygrehola, Gygrestolen, and Gygreskaret. The gygrid is distinct from the hulder (a forest spirit) — the gygrid is larger, more ancient, and more closely connected to the raw mountain landscape. She represents the untamed female power of the Norwegian mountains",
+    "description": "Not independently attested in folklore literature. No Norwegian tradition names a giantess 'Gygrid'; the real terms are gyger (singular) and gygjer (plural), from Old Norse gygr, and appear in place names such as Gygra. 'Gygrid' is better known as the Norwegian translation of the Harry Potter character Hagrid. The invented plural 'gygrier' and mountain lore are unfounded.",
     "appearance": "Tall and powerfully built — smaller than a male jøtul but still massive. Long wild hair — often red or dark. Dressed in rough wool or animal skins. Some are described as beautiful with pale skin; others as hideous with warty faces, tusks, and clawed hands. Carries a staff or a spinning wheel.",
     "behavior": "Lives alone on mountain peaks. Sometimes lures human men into marriage. Uses magic and shape-shifting. Kidnaps travelers and children in some stories. Turns to stone if caught by sunlight. Weaves and spins in her mountain home. Controls mountain weather — creates storms or clears them.",
     "habitat": "High mountain peaks, rocky summits, and remote valleys of Vestlandet. Specific mountains named after individual gygrier. Jotunheimen and the Jostedalsbreen area.",
@@ -7255,13 +7262,14 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Norwegian folk belief and ethnographic records of rural traditions.",
-    "source_quality": "good",
+    "source": "Review finding: unattested; real terms are gyger/gygjer (Old Norse gygr)",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "guri-kunna-2159",
@@ -7284,7 +7292,7 @@
       "marm-le",
       "margyge"
     ],
-    "description": "Guri Kunna (also known as Gurikunna) is a sea witch or mermaid-like creature from the coastal folklore of Hitra and Fosen in Trøndelag. According to tradition, Guri Kunna was a woman with magical powers who was turned into a sea spirit or who chose to live in the ocean. She appears to fishermen as a beautiful woman with long hair, sitting on rocks or skerries along the Fosen coast, combing her hair and singing. Her song lures fishermen toward the rocks where their boats are smashed. In some versions, she is a fallen woman who was cursed to become a sjøheks (sea witch); in others, she is a supernatural being who has always lived in the sea. Fishermen would leave offerings of food or small coins at certain rocks to appease her. The name Guri Kunna is preserved in local place names along the Hitra and Fosen coastline",
+    "description": "Guri Kunna is a troll-woman of the coastal tradition of Froan and the Fosen-Hitra district in Trøndelag. In the best-known legend she is a giantess who dragged the islands of Froan toward Hitra, and her name survives in local place names. The common 'mermaid luring fishermen' framing is a later overlay; the attested figure is a giant troll-woman of the islets.",
     "appearance": "A beautiful woman with long, flowing hair — often described as golden or seaweed-green. Pale skin. Wears a white or sea-green dress. Sometimes has a fish tail when swimming. Sits on rocks and combs her hair with a golden comb.",
     "behavior": "Sits on coastal rocks combing her long hair and singing. Lures fishermen toward dangerous rocks. Accepts offerings from respectful fishermen. Creates storms when angered. Can predict shipwrecks. Sometimes seen swimming alongside boats at night.",
     "habitat": "Coastal waters, skerries, and rocky shores of Hitra and Fosen in Trøndelag. Sits on specific rocks and small islands.",
@@ -7333,15 +7341,16 @@
     "featured_in_stories": [
       "guri-kunna-the-sea-witch-of-hitra"
     ],
-    "source": "Norwegian folk belief and ethnographic records of rural traditions.",
-    "source_quality": "good",
+    "source": "Trøndelag coastal legend (Froan/Fosen/Hitra); Norwegian place-name tradition",
+    "source_quality": "documented",
     "stories": [
       "guri-kunna-the-sea-witch-of-hitra"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "gr-mannen-2165",
@@ -7364,7 +7373,7 @@
       "fairy-norway",
       "s-trevette"
     ],
-    "description": "Gråmannen (the Grey Man) is a legendary mountain spirit associated with the Trollheimen mountain range in Trøndelag. Trollheimen means 'Home of the Trolls' — the name itself shows the deep folklore connection. Gråmannen is described as a tall, grey-clad figure who appears to travelers in the mountains, particularly in mist and fog. He is said to guard the mountain passes and high valleys, guiding respectful travelers who show proper mountain conduct but leading careless or arrogant hikers astray. The Gråmannen can create fog, change the weather, and cause avalanches to punish those who disrespect the mountain environment. Each major peak in Trollheimen — Trollhetta, Snota, Blåhøa, and others — is said to have its own mountain spirit. The tradition reflects the vital importance of respecting the dangerous Norwegian mountain environment and the long cultural history of mountain travel in Trøndelag",
+    "description": "Not independently attested in folklore literature. No Norwegian source records a mountain spirit called 'Gråmannen' in Trollheimen; the only attested use is the place name Gråmannen, a small summit and viewpoint near Kristiansand in Agder. The troll-guardian narrative in this entry is invented and appears in no ethnographic or folk-tradition source.",
     "appearance": "A tall, thin figure dressed entirely in grey — grey cloak, grey hat, grey beard. Almost invisible in fog. Moves silently without leaving footprints. Sometimes appears as a patch of fog that moves against the wind.",
     "behavior": "Guides lost travelers through fog to safety if they show respect. Creates sudden fog or storms to punish arrogant behavior. Causes rockfalls and avalanches. Disappears when directly addressed. Can mimic human voices to lead people off-trail.",
     "habitat": "Trollheimen mountain range in Trøndelag, particularly around Trollhetta, Snota, and the main mountain passes. Active in fog and bad weather.",
@@ -7405,13 +7414,14 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Norwegian folk belief and ethnographic records of rural traditions.",
-    "source_quality": "good",
+    "source": "Review finding: unattested; name attested only as a summit near Kristiansand",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "gamlingene-oppi-steinberget-2169",
@@ -7507,7 +7517,7 @@
       "nidelv-n-kken",
       "myromsk-na"
     ],
-    "description": "Gondol (also Gonde) is a malevolent lake spirit from the Setesdal region of Sørlandet, specifically associated with the deep lakes of the Otra river system — Byglandsfjorden and Åraksfjorden. Unlike the pan-Norwegian nøkk who lures with music, the gondol is a silent, grasping spirit that drags people into the depths, especially unbaptized children and those who venture out on the water alone. The gondol is particular to Setesdal's isolated valley culture and is documented in Johannes Skar's Gamalt or Setesdal (early 1900s). The creature rises from the still, dark waters of the deep fjord-lakes that characterize the Setesdal valley. Fishermen on Byglandsfjorden would make offerings before setting out and avoided certain parts of the lake after dark. The gondol represents the specific danger of Setesdal's unique geography — long, narrow, and very deep lakes surrounded by steep valley walls",
+    "description": "Not independently attested in folklore literature. No Setesdal source, including Johannes Skar's Gamalt or Sætesdal, records a lake spirit named 'gondol', and the name is best known as a Norwegian cable-car brand. Genuine Setesdal water-lore centers on the nøkk (näk); 'gondol' appears in no ethnographic record.",
     "appearance": "A dark, shadowy form glimpsed just below the water's surface. Sometimes described as a large, pale hand reaching up from the depths. When fully visible, a bloated humanoid figure with pale grey skin and long, dark hair like water weeds. Glowing eyes in the darkness.",
     "behavior": "Rises silently from deep lake waters to drag people under. Especially preys on unbaptized children and lone boaters. Grasps the hull of boats from below. Creates sudden waves that capsize small craft. Can be appeased with offerings of food thrown into the lake. Avoids areas where church bells can be heard.",
     "habitat": "Deep lakes of the Otra river system in Setesdal — Byglandsfjorden, Åraksfjorden, and Hartevatnet. Dark, still waters in the narrow valley bottom.",
@@ -7554,13 +7564,14 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Norwegian folk belief and ethnographic records of rural traditions.",
-    "source_quality": "good",
+    "source": "Review finding: unattested; no Setesdal record found; closest analogue is the Norwegian nøkk",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "grla-iceland-2222",
@@ -8064,7 +8075,7 @@
       "drage-denmark",
       "nisse-denmark-1"
     ],
-    "description": "The Goblin is a small, grotesque, mischievous creature from English folklore that has become one of the most recognizable figures in European fairy tradition. The name likely derives from the French gobelin or medieval Latin gobelinus, possibly related to the Greek kobalos meaning a mischievous spirit. Goblins are part of a broader family of household and wilderness spirits that includes hobgoblins, hobgoblins, and various regional variants across the British Isles. Unlike the more dangerous creatures of English folklore, goblins are primarily tricksters who cause trouble and annoyance rather than serious harm, though their pranks can sometimes have dangerous consequences. In English folk tradition, goblins are categorized among the trooping fairies that travel in groups rather than as solitary entities. They appear in countless English folktales and have been popularized through literary works from Shakespeare's A Midsummer Night's Dream to modern fantasy fiction. Their role varies by region, with some goblins being more malevolent and others merely bothersome In Denmark folklore, this figure is known among the Danish people.",
+    "description": "Not independently attested in folklore literature as a Danish being. The description is the English goblin entry copy-pasted with a filler line; 'goblin' names no Danish tradition, whose household spirit is the nisse and whose wilderness beings are the trold and elverfolk.",
     "appearance": "Goblins are typically described as small humanoid creatures standing between one and two feet tall, with ugly, wizened faces and features that seem slightly malformed. Their skin ranges from dark brown to greenish-gray, with warts and blemishes covering their faces and hands. Their hair is scraggly and unkempt, usually dark or gray, and they have sharp, pointed teeth that protrude from thin lips. Their ears are pointed, and their eyes are small and glittering with malicious intelligence. Goblins are usually depicted wearing ragged, dirty clothes made from whatever materials they can scavenge, often too large or too small for their bodies. Some traditions describe them with long arms that reach nearly to the ground, clawed fingers, and feet that are turned backward to confuse those who try to track them. Their movements are quick and jerky, and they are capable of contorting their bodies to fit through impossibly small spaces. Despite their small size, they are stronger than their appearance would suggest.",
     "behavior": "Goblins are inveterate tricksters who devote their existence to causing trouble for humans through a variety of nuisance behaviors. They steal jewelry, coins, and small valuable objects that they hoard in hidden caches, spoil food stores, tangle hair into elflocks while people sleep, and pinch or bite sleeping humans to cause bruises. They are particularly fond of causing chaos in households by breaking dishes, souring milk, hiding tools, and creating inexplicable messes. Despite their annoying nature, goblins are rarely lethal, preferring to torment rather than kill. However, they can become dangerous if seriously provoked, leading to more severe acts of sabotage. They are nocturnal by preference, conducting most of their mischief under cover of darkness. Goblins can be placated with offerings of food, particularly milk and bread left out overnight. They are afraid of iron, cold iron specifically, which can repel or injure them. Some regional traditions suggest that goblins can be bound to service if their true name is discovered, though such bound goblins will seek any opportunity to turn against their master.",
     "habitat": "Caves, mines, under the roots of ancient trees",
@@ -8111,15 +8122,16 @@
       "A200"
     ],
     "featured_in_stories": [],
-    "source": "Danish folk belief and ethnographic records of rural traditions.",
-    "source_quality": "good",
+    "source": "No source; fabricated",
+    "source_quality": "poor",
     "stories": [
       "the-goblin-and-the-grocer"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "gron-ridder-denmark-0011",
@@ -8520,7 +8532,7 @@
       "ellefolk",
       "elverfolk"
     ],
-    "description": "Fjeldvig is a Danish mountain giant, known as a bjergmand or hill man, from Danish folklore inhabiting ancient burial mounds and hills across the Danish countryside. These beings belong to the broader category of bjergfolk (mountain folk), small troll-like creatures who live in a parallel world beneath the hills and mounds. Unlike fearsome giants of other traditions, Danish bjergfolk are relatively small, with the largest reaching barely a meter in height while some ride horses no bigger than cats. They dress in old-fashioned peasant clothing from the 1800s with characteristic red pointed caps. Despite their modest stature, they possess tremendous strength and are renowned as master smiths. They consider the landscape around their hills to be their property, and humans living nearby must observe certain rules of respect. The bjergfolk can become invisible at will using their magical caps",
+    "description": "Not independently attested in folklore literature. Fjeldvig is a Norwegian place-name and surname, not a Danish folklore being, and the description grafts generic bjergfolk (hill-folk) lore onto the name. Genuine Danish mound-folk belong to the bjergfolk complex related to the nisse and trold; no being called Fjeldvig is recorded.",
     "appearance": "Fjeldvig appears as a humanoid figure of modest stature, typically no more than a meter in height, with a sturdy stocky build that belies surprising strength. His skin is greyish, resembling the stone of the hills he inhabits, with a rough textured quality echoing weathered rock faces. He wears a long full beard reaching his chest, often tangled and streaked with grey and earthy brown. His nose is prominent and bulbous, his eyes small and dark, glittering with cunning intelligence. He dresses in old-fashioned peasant garb from the 1800s: a simple woolen tunic, breeches, and wooden clogs in muted earth tones. His most distinctive feature is his red pointed cap believed to grant him invisibility. Despite his small size, his presence is imposing with broad shoulders and thick powerful arms suited for the smith work for which his kind is famous. Some accounts describe wild unkempt hair and a face weathered by centuries beneath the earth.",
     "behavior": "Fjeldvig's behavior reflects his dual nature as both helpful neighbor and dangerous supernatural being. He lives within ancient burial mounds, emerging at night to move large stones, tend invisible livestock, or work at his underground forge. When treated with respect he is remarkably helpful: a master smith who repairs broken tools, sharpens knives and scythes to unnatural sharpness, or assists with heavy labor. To receive his aid, one leaves the broken item with an offering of coins on the mound before sunset; snip snip by morning the work is done. If disrespected he becomes vengeful, stealing cattle when hungry or kidnapping humans as thralls within the hill, a fate known as bjergtagelse (mountain-taking). He swaps human babies with changeling offspring. On full moon nights the bjergfolk lift their entire hill on glowing pillars to dance and feast inside, and any human witnessing this risks being drawn into their world.",
     "habitat": "Mounds, hills, coastal cliffs",
@@ -8560,13 +8572,14 @@
     "seo_description": "Danish mountain giant or hill man from folklore. Lives in ancient burial mounds. Usually friendly but strong. Can be tricked easily and works as a master smith",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Danish folk belief and ethnographic records of rural traditions.",
-    "source_quality": "good",
+    "source": "No source; fabricated",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "fossegrim-0709",
@@ -10593,7 +10606,7 @@
       "havmann",
       "nkk-norway"
     ],
-    "description": "Snåsavettern (the Snåsa Water Wight) is a water spirit said to inhabit Snåsavatnet, the largest lake in Trøndelag with an area of 125 square kilometers, located in Snåsa municipality. Like many large Norwegian lakes, Snåsavatnet was believed to have its own vette (nature spirit) that protected the lake and all the life within it. The Snåsavettern is a type of water vette that controls the fish population, the weather on the lake, and the safety of those who travel across it. It could grant excellent fishing to respectful fishermen or create dangerous waves and sudden storms to punish those who overfished or disrespected the lake. Offerings of the first catch of the season were traditionally thrown back into the lake to honor the Snåsavettern. Sami influence from the nearby Snåsa reindeer herding areas may have shaped the legend as well, blending Norse and Sami nature spirit traditions",
+    "description": "Not independently attested in Norwegian folklore. No scholarly or primary source documents a water-wight tradition for Snåsavatnet; the lake's genuine supernatural figure is the sea serpent Kudulla, recorded since the 1770s.",
     "appearance": "Usually invisible — felt as a presence on the lake. When seen, appears as a dark shape in the water, a large fish with unusual features, or a misty figure walking on water. Sometimes described as a tall, dark-clad figure standing on the shore.",
     "behavior": "Controls fish populations in the lake. Creates calm or stormy weather. Rewards respectful fishermen with good catches. Punishes overfishing and waste. Accepts offerings of first catch. Capsizes boats of those who disrespect the lake.",
     "habitat": "Snåsavatnet lake in Snåsa municipality, Trøndelag. Particularly in the deepest parts of the lake and near the inlets.",
@@ -10635,13 +10648,14 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Scandinavian folklore; Vættir are nature spirits of the land and water.",
-    "source_quality": "expert",
+    "source": "No independent source found; negative research result",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "stllo-norway-2179",
@@ -13809,7 +13823,7 @@
       "havmann",
       "nidelv-n-kken"
     ],
-    "description": "Eintal (The Enchanter) is a supernatural being in Norwegian folklore associated with lakes and bodies of water, particularly in the Telemark region of Eastern Norway (Østlandet). The eintal is related to the nøkken but is specifically a water-dwelling spirit that enchants people with music. The name comes from ein meaning one/lone and tal meaning speech/song, suggesting a solitary singer. Eintal legends tell of a beautiful but dangerous being who sits by lakes playing a harp or Hardanger fiddle, enchanting listeners into the water. Unlike the nøkken who drowns victims, the eintal is more subtle - the listener is simply compelled to enter the water, drawn by the overwhelming beauty of the music. The eintal represents the specifically Telemark version of the dangerous water spirit, distinct from the nøkken of other regions. The Hardanger fiddle, Norway's national instrument, is central to eintal stories",
+    "description": "Not independently attested in folklore literature. No Norwegian water-spirit named 'eintal' appears in folklore collections, and the proposed ein plus tal ('lone song') etymology is invented. The genuine lake-dwelling musician who enchants listeners with fiddle music is the nokken, and Telemark accounts of such a being belong to that figure.",
     "appearance": "A solitary male figure sitting at the water's edge. Often described as a handsome young man with long dark hair, or as an indistinct shadowy figure. Holds a Hardanger fiddle or harp. Sometimes described with glowing eyes reflecting the water. Often shrouded in mist or twilight.",
     "behavior": "Sits by water playing enchanting music on a Hardanger fiddle or harp. Listeners are compelled to walk into the water, mesmerized by the beauty of the sound. Does not actively drown victims but simply draws them in. Can be heard on quiet evenings when mist covers the lakes. Playing correctly can drive the eintal away. If a fiddler plays better than the eintal, the spirit grants musical skill.",
     "habitat": "Lakes, ponds, and calm water bodies in the Telemark region of Eastern Norway. Particularly associated with the many lakes of the Telemark and Numedal areas.",
@@ -13855,13 +13869,14 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Norwegian folk belief and ethnographic records of rural traditions.",
-    "source_quality": "good",
+    "source": "No source; fabricated",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "erik-munks-gjenferd-2210",
@@ -14222,7 +14237,7 @@
       "d-dning",
       "ur-ark-ttur"
     ],
-    "description": "Drakos is the modern Greek term for dragon, representing a rich tradition of dragon mythology that bridges ancient Hellenic dragon lore with the Christian-era folktales of Greece. In Greek folklore, particularly as catalogued in Georgios Megas's comprehensive Greek Folktale Catalogue, the Drakos appears as a common antagonist in hero tales, typically associated with mountains, caves, and hidden lairs where it guards princesses, treasure, or sacred springs. The Drakos tradition represents a continuous evolution from the ancient Greek drakonta, the serpentine monsters of classical mythology like the Lernaean Hydra and the Colchian Dragon, into the more anthropomorphized dragons of medieval and modern Greek folklore. These creatures serve as tests of heroism and cleverness, representing the obstacles that heroes must overcome to achieve marriage, wealth, or magical power, and they appear in countless variations across the Greek islands and mainland",
+    "description": "Draugar are the undead revenants of Icelandic saga and folklore, animated corpses that rise from graves and burial mounds. Corporeal and supernaturally strong, they swell to a huge size, bring disease and death to nearby farms, and can be fought but not easily killed. The best-known are Glámr in Grettis Saga and the mound-dweller Kárr the Old.",
     "appearance": "The Drakos is typically described as a massive, serpentine creature with formidable physical characteristics that vary by region and tale. Many Drakos possess multiple heads, with three, seven, or even nine heads being common in the folktales, each head capable of independent thought and attack. Their bodies are covered in thick, impenetrable scales that repel conventional weapons, and some are described as having broad wings that allow them to take flight and attack from above. The Drakos is often depicted with fiery breath, clawed limbs, and a long, powerful tail capable of smashing buildings and trees. Some variations describe the Drakos with human-like features, reflecting the Christian-era trend toward depicting dragons as demonic entities with vaguely humanoid characteristics. The creature's eyes are typically described as glowing like hot coals, and its presence is often heralded by a foul stench that precedes its arrival, the ground shaking beneath its tremendous weight as it emerges from its lair.",
     "behavior": "The Drakos in Greek folktale tradition serves primarily as a tester of heroes, challenging young men who seek to win princesses, rescue captives, or claim treasure. Unlike the mindless beasts of some traditions, the Drakos is cunning and often engages in verbal exchanges with heroes, attempting to trick them or learn their weaknesses. Many tales describe the Drakos as demanding regular sacrifices of young women or livestock from nearby villages, creating a cycle of terror that only the bravest hero can break. The creature is deeply territorial and will pursue anyone who enters its domain, using its multiple heads to attack from multiple angles simultaneously. Despite its fearsome reputation, the Drakos can be defeated through cleverness as often as through strength, reflecting the Greek emphasis on metis or cunning intelligence. Heroes typically discover the Drakos's hidden weakness through observation or deception, such as a particular spot on its body that is vulnerable or a specific weapon that can harm it. The defeat of a Drakos often results in the liberation of an entire region and the acquisition of its treasure hoard.",
     "habitat": "Graves, burial sites",
@@ -14261,13 +14276,14 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Icelandic folklore, Íslenzkar þjóðsögur by Jón Árnason",
+    "source": "Grettis Saga; Íslenzkar þjóðsögur by Jón Árnason",
     "source_quality": "expert",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "draugen-0568",
@@ -14290,7 +14306,7 @@
       "utburd",
       "tautramunken"
     ],
-    "description": "Draugar are the undead revenants of Icelandic folklore and Old Norse mythology, representing the animated corpses of the deceased who rise from their graves to haunt the living. Unlike ghosts or spectral apparitions, the Draugar are corporeal undead with physical, tangible bodies that possess superhuman strength and a malevolent intelligence. In the Icelandic sagas, which provide the earliest written accounts of these beings, the Draugar typically dwell within their burial mounds or travel to nearby farms, bringing disease, death, and misfortune to all who encounter them. The most famous Draugar in saga literature include Karr the Old in Grettis Saga and the vampire-like Glamr, whose curse plagued the hero Grettir for the rest of his life. The belief in Draugar was deeply embedded in Norse culture, where how people died and how they were buried directly affected whether they would become Draugar, with mean, greedy, or evil individuals being the most likely to rise again",
+    "description": "Draugen is the sea-revenant of Danish and Norwegian coastal folklore, the ghost of a fisherman or sailor drowned at sea. He appears as a drenched figure rising half from the water, sometimes rowing a half-boat, and his appearance or cry foretells drowning and shipwreck. Belief was strongest in Norwegian fishing communities, where the draug warned of storms.",
     "appearance": "The Draugar are described as hideous, bloated corpses bearing a distinctive necrotic black or blue-black coloration, often swollen to enormous proportions like a bull or ox. Their bodies are preserved rather than decomposed, maintaining a terrifying semblance of life with glowering eyes that hold a terrible intelligence and awareness. Many accounts describe the Draugar as being hel-blar or death-blue, with some sagas mentioning that their skin is cold to the touch and gives off a reek of decay that fills entire valleys. They possess long claws rather than fingernails and sometimes have horns or tails, reflecting their liminal status between human and demon. The Draugar can change their size and mass at will, appearing sometimes as small as a cat to infiltrate buildings and other times swelling to giant proportions to intimidate opponents. Their hair and nails continue to grow even in death, and their faces are frozen in expressions of malice or hunger.",
     "behavior": "The Draugar are fearsome opponents who possess magical abilities far beyond those of living men. They are supernaturally strong and can crush the life from victims with their bare hands or tear them limb from limb. Many Draugar have the ability to shapeshift, appearing as great seals, bulls, horses, cats, or birds to trick the unwary. They can control the weather, summoning storms and darkness to aid their hunting, and can see into the future to predict their victims' movements. The Draugar are known to bring disease to livestock and humans alike, spreading pestilence wherever they roam. They can enter the dreams of the living to torment them and deliver prophetic warnings or curses. Despite their power, Draugar have specific weaknesses: they can be destroyed by beheading and burning the body, by driving a stake through their heart, or by exposure to sunlight. The most effective method of disposal involves decapitating the corpse, placing the head between the legs, and then burning the entire body to ashes, ensuring the Draugar cannot reform.",
     "habitat": "Sea, coasts, near drowning sites",
@@ -14331,13 +14347,14 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Norse mythology; Draugar are undead spirits of the dead, documented in the Sagas and Nordic folklore.",
-    "source_quality": "expert",
+    "source": "Nordic maritime folklore; Scandinavian ethnographic collections",
+    "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "draugrswedishvariant-sweden-0569",
@@ -14442,7 +14459,7 @@
       "landvttir-iceland",
       "yule-lads"
     ],
-    "description": "The Swedish variant of the Draugr shares many characteristics with its Norse cousins but has developed distinct features shaped by Sweden's unique coastal geography and maritime traditions. In Swedish folklore, the Draugr, also known regionally as drög or draug, is specifically associated with the Baltic Sea coast and the archipelagoes of Sweden, where it appears as the undead spirit of sailors and fishermen who died at sea. The Swedish Draugr tradition emphasizes the creature's role as both a guardian of sunken treasure and a bringer of storms, reflecting the dual nature of the Baltic Sea as both a source of livelihood and a cause of death for coastal communities. Unlike the more varied Draugr of Icelandic sagas, the Swedish variant is almost exclusively maritime in nature, with strong connections to shipwrecks, fishing disasters, and the treasures that lie beneath the waves In Iceland folklore, this figure is known among the Iceland people.",
+    "description": "Along Sweden's Baltic coast and archipelagoes, the draugr is the revenant of a fisherman or sailor lost at sea. This maritime variant guards sunken treasure, raises storms, and harries living boatmen, reflecting the sea as both livelihood and grave. It is distinct from the mound-dwelling draugar of the Icelandic sagas.",
     "appearance": "The Swedish Draugr appears as a decaying, swollen corpse covered in seaweed and barnacles, with waterlogged flesh that ranges in color from pale grey to sickly green from prolonged immersion in the Baltic Sea. Its body is often described as partially skeletal, with patches of rotting flesh clinging to bones, and its clothing consists of the tattered remains of sailor's garb or fisherman's oilskins, often centuries old. The creature's hair is long and tangled with kelp, and its eyes glow with an eerie phosphorescent light that can be seen from ships at night. In some accounts, the Swedish Draugr can also appear as a shadowy figure standing on the water or as a dense storm cloud that descends upon unsuspecting vessels. The smell of decay and brine precedes its arrival, and its presence is often accompanied by a sudden drop in temperature and an unnatural darkness that descends even in the middle of the day.",
     "behavior": "The Swedish Draugr is primarily a guardian of treasure that lies at the bottom of the sea, protecting sunken ships and their valuable cargo from anyone who might try to recover them. It actively causes shipwrecks by summoning sudden storms, creating treacherous waves, or leading ships onto rocks with deceptive lights that mimic those of safe harbors, a phenomenon similar to the will-o'-the-wisp. The Draugr manifests terrible strength, able to crush a man's skull with one hand or tear apart a small boat with its bare hands. When not actively sinking ships, the Draugr can be heard wailing across the water, mourning its own death and warning others of their fate. To defeat a Swedish Draugr, tradition holds that one must either drive an iron nail through its heart or decapitate it and burn the body, preferably on a pyre made of driftwood. Some accounts suggest that reciting specific Christian prayers or performing a proper burial ceremony for the creature's earthly remains can allow the restless spirit to finally find peace.",
     "habitat": "Burial mounds, coastal areas, shipwrecks",
@@ -14481,13 +14498,14 @@
       "D100"
     ],
     "featured_in_stories": [],
-    "source": "Norse mythology; draugar are corporeal undead, documented in the Sagas and Norse ethnographic studies.",
-    "source_quality": "expert",
+    "source": "Scandinavian coastal folk belief",
+    "source_quality": "fair",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "draugr-0571",
@@ -16195,7 +16213,7 @@
       "tussegjeita",
       "mennink-inen"
     ],
-    "description": "Hiisi Portti (Hiisi's Gate) is a phenomenon from Finnish folklore representing a supernatural portal that connects the human world to the realm of Hiisi and other dark spirits. These gates are not architectural structures but rather manifestations that appear at specific times and places, typically in deep forests, at crosswords, or near ancient sacred sites associated with Hiisi. The concept of the Hiisi Gate reflects the Finnish folk belief that the boundary between the human world and the spirit world is permeable at certain liminal moments and locations. Hiisi's Gate is considered extremely dangerous, as those who pass through may find themselves trapped in the spirit realm, unable to return, or may return transformed in body or mind. The gate is both a literal folklore element and a metaphor for the dangers of venturing too far from the safety of human community",
+    "description": "Not independently attested in folklore literature. No Finnish source describes a portal called 'Hiisi's Gate'; the resemblance is to Hiidenportti, which is the name of a national park in Kainuu, not a folklore phenomenon. Hiisi is a genuine figure of Finnish and Karelian tradition (appearing in the Kalevala), but the gate/portal mechanics here are invented.",
     "appearance": "Hiisi Portti appears as an ornate stone or wooden gate standing alone in the middle of a forest, in a place where no gate should logically exist. The gate is often carved with demonic figures, twisted faces, and ancient symbols that seem to writhe when viewed from the corner of the eye. Some accounts describe the gate as floating slightly above the ground, with a faint mist or glow emanating from the space between its posts. The gateway may appear as a simple arch of standing stones, reminiscent of Finland's ancient burial cairns, or as an elaborate structure that seems to have been carved from living trees that have grown into the shape of a doorway. The gate is sometimes said to be surrounded by an unnatural silence; even the wind and birds fall quiet near Hiisi's Gate.",
     "behavior": "Hiisi Portti appears most commonly during liminal times: Midsummer night, Walpurgis Night, and the darkest hours of winter, when the boundary between worlds is thinnest. The gate may also manifest to those who have become lost in the forest or who are in a state of spiritual vulnerability. Those who pass through Hiisi's Gate may never return, or may emerge days or years later with no memory of what they experienced. Some who return bring back knowledge of dark magic or treasures from Hiisi's realm, but are forever changed by the experience, marked in ways visible only to those with spiritual sight. The gate can be avoided by those who carry iron, who wear their clothing inside out, or who recite Christian prayers or traditional protective incantations. Folklore strongly warns against approaching any isolated gate or archway found in the deep forest.",
     "habitat": "Deep forest, between large trees",
@@ -16237,14 +16255,15 @@
       "F300"
     ],
     "featured_in_stories": [],
-    "source": "Finnish mythology, Kalevala compiled by Elias Lönnrot",
-    "source_quality": "good",
+    "source": "Review finding: unattested; Hiidenportti is a national park name; Hiisi itself is real Finnish/Karelian tradition",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/hiːsi portti/"
+    "pronunciation_ipa": "/hiːsi portti/",
+    "attested": false
   },
   {
     "id": "huldra-0868",
@@ -16346,7 +16365,7 @@
     "type": "elf",
     "mythology": "Norse",
     "archetype": "forest-spirit",
-    "description": "Huldufólk (the Hidden People) are the most pervasive supernatural beings in Faroese folklore — a parallel race living just beyond human sight. Unlike Icelandic hidden folk (often beautiful and slender), the Faroese version is consistently described as unusually large in build, with black hair and somber grey clothing. Their dwellings are in ancient burial mounds (álvheyggjur), the most famous being the elf-mound in Norðstreymoy south of Haldórsvík. The huldufólk keep livestock that graze invisibly among human flocks, and fishermen have reported seeing their boats at sea before they vanish. They hate electricity, church bells, and crosses. Anyone who throws stones at a mound risks their wrath — illness, bad luck, or having their children swapped for a changeling. Road construction in the Faroe Islands has been rerouted around known huldufólk dwellings as recently as the 20th century",
+    "description": "In Iceland, huldufólk ('hidden people') are a parallel race believed to live in rocks and cliffs, largely invisible to humans. They are central to Icelandic folklore, collected by Jón Árnason and others, and were to be treated with respect: building or blasting in their dwelling-places could bring misfortune. The entry's text is corrected from a Faroese copy to the distinct Icelandic tradition.",
     "appearance": "Taller than humans, large build, wearing only grey clothing, with black hair. Identical to humans except they lack a philtrum (the groove above the upper lip) and all their buttons are on the left side instead of the right.",
     "behavior": "Live parallel to humans in underground homes. Keep sheep and cattle that mingle with human herds. Hate electricity, crosses, and churches. Can abduct unbaptized children. Can make themselves visible or invisible at will. Punish disrespect with illness and bad luck.",
     "habitat": "Rocks, cliffs, hills, and lava fields throughout Iceland. Invisible houses and farms within the natural landscape.",
@@ -16393,8 +16412,8 @@
       "benevolent"
     ],
     "element": "earth",
-    "source": "Jón Árnason, \"Íslenzkar Þjóðsögur og Æfintýri\" (1862); Icelandic folklore archives",
-    "source_quality": "fair",
+    "source": "Icelandic folklore: Jón Árnason, Íslenzkar Þjóðsögur og Æfintýri (1862); Icelandic folk tradition",
+    "source_quality": "documented",
     "featured_in_stories": [
       "the-magic-scythe",
       "the-day-labourer-and-the-hidden-people"
@@ -16419,9 +16438,10 @@
       "the-midsummer-nights-dance"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "hulduflk-faroeislands-0870",
@@ -17235,7 +17255,7 @@
       "springand-annbj-r",
       "erik-munks-gjenferd"
     ],
-    "description": "Hughaman (also Hughamar) is a wraith-like doppelganger spirit from the folklore of Setesdal in Sørlandet. The name comes from hug (mind/soul) and ham (shape/form) — the spirit is the soul-form of a person seen before or after death. Seeing one's own hughaman foretells imminent death. Seeing another person's hughaman means that person will soon die or is in mortal danger. The hughaman appears as an exact copy of the person — same clothes, same mannerisms — but is always silent and casts no shadow. Unlike the Norwegian fylgje (a guardian animal spirit), the hughaman is specifically a human doppelganger and is always an omen of death. The hughaman was particularly feared in Setesdal's isolated farm communities. Multiple entries in Johannes Skar's Gamalt or Setesdal catalog the hughaman as one of the most common supernatural experiences in the valley",
+    "description": "Not independently attested in folklore literature. No Norwegian source records a doppelganger spirit called 'hughaman' or 'hughamar'; the term appears to be built from hug (mind) and ham (shape). The genuine Norwegian traditions of the vardøger (preceding double) and fylgje (attendant spirit) cover this territory under attested names.",
     "appearance": "An exact copy of a living person — identical clothing, posture, and features. But always silent and shadowless. May appear slightly translucent or with a greyish pallor. Moves without sound. Can be mistaken for the real person until its silent nature and lack of shadow are noticed.",
     "behavior": "Appears as an exact copy of a living person, seen by others. Always silent. Casts no shadow. If seen moving in a certain direction, the real person's body will be carried that way to burial. Appears days or hours before death. One's own hughaman seen in a mirror or window means certain death.",
     "habitat": "Appears on roads, farm paths, and near homes in Setesdal. Not tied to a specific location but to a specific person whose death it foreshadows.",
@@ -17277,13 +17297,14 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Norwegian folk belief and ethnographic records of rural traditions.",
-    "source_quality": "good",
+    "source": "Review finding: unattested; closest analogues are vardøger and fylgje",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "heksa-barbro-2212",
@@ -20362,7 +20383,7 @@
       "gardvord",
       "fj-snisse"
     ],
-    "description": "Nøstekatt (also naustkatt, from naust = boathouse) is a spirit cat that lives in boathouses (naust) along the Vestlandet coast. The nøstekatt is a supernatural cat that guards the fishing gear and boats stored in the naust. It appears as a large grey or black cat that is never seen outside the boathouse. The nøstekatt protects fishing equipment from thieves and supernatural harm, but also steals small quantities of fish for itself. Fishermen who kept their gear in a naust with a nøstekatt would always have good luck at sea. However, offending the nøstekatt — by being wasteful with fish, neglecting gear, or disrespecting the boathouse — would result in lost catches, damaged nets, and bad weather. The nøstekatt was believed to be the spirit of a drowned fisherman's cat, or in some versions, the cat that lived on the boat and was lost at sea with its owner. The tradition is particularly strong in the fishing communities of Hordaland and Sogn og Fjordane",
+    "description": "The troll cat (Norwegian: trollkatt, also nøstekatt) is a witch's familiar in Scandinavian folklore, a supernatural cat sent by a witch to steal milk from neighbours' cows. It may travel in the form of a ball of yarn (trollnøste), and harm done to it is shared by its witch, who must bury it with her. Fisherfolk and farmers feared its milking raids on cattle.",
     "appearance": "A large grey or black cat with thick fur. Often described as wet-looking even when dry. Glowing yellow eyes visible in the dark naust. Moves silently among the fishing gear. Sometimes described as having seaweed tangled in its fur. No visible owner or source of food.",
     "behavior": "Guards boathouses and fishing equipment. Steals small amounts of fish. Brings luck to respectful fishermen. Punishes waste and neglect by damaging nets and spoiling catches. Seen only inside the naust — if seen outside, it means disaster. Purrs loudly when content, hisses when angered.",
     "habitat": "Boathouses (naust) along the Vestlandet coast. Lives among the fishing gear, nets, and boats. Never leaves the naust. Found in Hordaland, Sogn og Fjordane.",
@@ -20405,13 +20426,14 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Norwegian folklore, collected by Peter Christen Asbjørnsen and Jørgen Moe",
-    "source_quality": "good",
+    "source": "Scandinavian folk belief; trollkatt / nøstekatt witch-familiar traditions",
+    "source_quality": "researched",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "nidaros-munken-2160",
@@ -21302,7 +21324,7 @@
       "n-kki",
       "margyge"
     ],
-    "description": "Blak is a colossal pike spirit from Finnish mythology, a primordial fish entity that dwells in the deepest, darkest lakes of the Finnish lake district, particularly those connected to the mythology of Ahti, the god of waters. In Finnish folklore, the Blak is more than a mere giant fish—it is an ancient, semi-divine being that predates the arrival of humans in the northern forests. The creature is intimately connected with the Finnish national epic, the Kalevala, where the hero Väinämöinen creates the first kantele (the Finnish stringed instrument) from the jawbone of a giant pike, an act that brings music and poetry into the world. The Blak represents the untamed, mysterious depths of the Finnish wilderness—the shadowy, unknown waters that hide secrets from the rational world. It is both a physical creature and a spiritual entity, capable of interacting with humans as either a fish, a spirit, or a shape-shifted human, depending on its mood and the circumstances of the encounter",
+    "description": "Not independently attested in folklore literature. No pike spirit named 'Blak' exists in Finnish mythology. The description grafts an invented name onto the genuine Kalevala motif of the giant pike whose jawbone Väinämöinen used to make the first kantele; that pike is not a named, personalized being.",
     "appearance": "The Blak appears as a pike of impossible proportions, its body easily the length of a large fishing boat or longer, with scales the size of dinner plates that shimmer in shifting tones of green, bronze, and silver depending on the light. Its eyes are large, round, and golden, with vertical slit pupils that seem to peer directly into the soul of anyone who meets its gaze. Its mouth is filled with rows of needle-sharp teeth, and its lower jaw is slightly longer than the upper, giving it a permanent, grim smile. The Blak's dorsal fin is ragged and tattered, suggesting great age and countless battles. In human form, it appears as a tall, gaunt man with green-tinged skin, long silver hair that moves as though underwater even on dry land, and eyes that remain distinctly pike-like—golden with vertical pupils. His fingers are long and webbed, and he smells of lake water and freshwater algae. This human form is called Ahtolainen, the people of Ahti.",
     "behavior": "The Blak is a complex spirit with a dual nature, alternately helpful or dangerous depending on how it is treated. It controls the fish populations of the lakes it inhabits, and Finnish fishermen traditionally leave offerings of the first catch of the season or a sip of vodka poured into the lake to secure its favor. The Blak may appear to a fisherman in distress, guiding his boat to safety through fog or leading him to waters teeming with fish. However, it is merciless toward those who overfish, pollute the lakes, or show disrespect to the water spirits. The creature has been known to capsize boats, snap fishing lines, and drag greedy fishermen down to its underwater lair, where they are kept in a dazed, enchanted state, breathing water and serving the Blak for a year and a day before being released. The Blak is also a keeper of esoteric knowledge, and Finnish shamans (tietäjät) would seek it out during trance journeys, hoping to receive the gift of poetry or prophecy, as Väinämöinen received the kantele from its ancestral kin.",
     "habitat": "Deep lakes, especially Saimaa",
@@ -21345,13 +21367,14 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Finnish mythology, Kalevala compiled by Elias Lönnrot",
-    "source_quality": "good",
+    "source": "none; Kalevala (Lönnrot)",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "bysen-0271",

@@ -602,7 +602,7 @@
       "bacul",
       "tulisan"
     ],
-    "description": "Kulfre is a mountain spirit from Albanian folklore, a mysterious phantom that haunts the peaks and ridges of the Albanian Alps. This supernatural being is most commonly described as a headless humanoid figure that dances on mountaintops, appearing at night as a luminous ball of fire or a glowing human shape that moves with an eerie, fluid grace. The kulfre is deeply connected to the ancient Illyrian and Balkan beliefs that mountains are sacred spaces where the boundary between the human world and the spirit realm is thin. Unlike the more dangerous spirits of Albanian tradition, the kulfre is not actively malevolent but rather a neutral supernatural phenomenon, a remnant of older pagan beliefs that persisted alongside Christianity. Its appearances are considered omens, though whether for good or ill depends on the tradition and the circumstances of the encounter",
+    "description": "Not independently attested in folklore literature. No Albanian source documents a mountain spirit called 'Kulfre' or a headless dancing phantom of the Albanian Alps; the description appears to be invented. Genuine Albanian tradition includes figures such as the zana (mountain fairies) and orë, but no 'Kulfre' appears in the recorded folklore.",
     "appearance": "The kulfre appears most commonly as a luminous ball of fire that dances and bounces across mountain peaks at night, leaving a trail of pale light that lingers momentarily before fading. Alternatively, it manifests as a headless humanoid figure, its form outlined in a pale, flickering luminescence that illuminates the darkness without casting shadows. The figure moves with an unnatural, graceful swaying motion as though dancing to music that only it can hear, its arms raised and body twisting in a eternal, solitary dance. In its fire form, the light varies in color from pale blue to orange-red, and it pulses in a rhythm that matches a heartbeat. The kulfre makes no sound as it moves, and the air around it is still and cold, even on the windiest nights. Some accounts describe the spirit as being transparent or semi-transparent, allowing the mountain landscape to be seen through its glowing form. Its movements leave no trace on the ground",
     "behavior": "The kulfre dances alone on mountain peaks during moonless nights, its ghostly performance visible from distant villages as a flickering light that seems to beckon. Its purpose is mysterious, but it is considered a powerful omen, and those who see it are said to be marked in some way. The most dangerous aspect of the kulfre is its seductive pull: anyone who watches its dance for too long feels an irresistible urge to join it, drawn by an overwhelming sense of longing for the freedom and beauty of its movement. Those who succumb and attempt to reach the kulfre become lost in the mountains, wandering until they fall from a cliff or die of exposure at dawn. The kulfre itself does not attack or pursue but simply dances on, indifferent to human observers. In some interpretations, the kulfre represents the souls of those who died in the mountains, forever dancing in the place of their death. Traditional Albanian mountain people avoid looking directly at the kulfre and carry iron or brass objects as protection.",
     "habitat": "Mountaintops",
@@ -644,14 +644,15 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Albanian folklore — spirit documented in Albanian oral tradition.",
-    "source_quality": "fair",
+    "source": "Review finding: unattested; closest analogues are zana and orë",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/kulfɾe/"
+    "pronunciation_ipa": "/kulfɾe/",
+    "attested": false
   },
   {
     "id": "kulshedra-0991",
@@ -1353,7 +1354,7 @@
       "lugat",
       "sklavos"
     ],
-    "description": "Dreq is a vampiric dragon-demon from Albanian folklore, a terrifying creature that rises from lakes and freshwater bodies to attack livestock and humans with relentless ferocity. The name Dreq derives from the Latin word draco meaning dragon or serpent, reflecting the ancient cultural exchanges between the Illyrian ancestors of the Albanians and the Roman Empire. In Albanian mythological tradition, the Dreq is closely related to the kulshedra, a multi-headed water serpent, but is distinguished by its more draconic form and vampiric tendencies. The Dreq is deeply embedded in Albanian folk beliefs about water spirits and their dangerous interactions with humans, serving as an explanation for drownings, livestock disappearances, and mysterious deaths near lakes and rivers throughout the Albanian countryside",
+    "description": "Dreq, from Latin draco, is a dragon-demon of Albanian folk belief that rises from lakes and freshwater to attack livestock and people. Closely related to the multi-headed kulshedra, it takes a more draconic, vampiric form. Albanian tradition ties the dreq to dangerous waters, explaining drownings and mysterious deaths near lakes and rivers.",
     "appearance": "The Dreq is described as a large dragon-like creature with leathery bat wings that enable it to fly despite its considerable bulk. Its body is covered in dark, scaly hide that ranges from deep black to dark green, providing excellent camouflage in the shadowy waters of its lake habitat. The creature has a long, serpentine neck ending in a fearsome head with glowing red or yellow eyes and a mouth full of needle-sharp teeth. Its tail is long and powerful, capable of wrapping around victims and dragging them beneath the water. Most distinctively, the Dreq is said to breathe pestilence rather than fire, exhaling clouds of disease-causing vapors that sicken anyone who breathes them. Its scales are incredibly resilient, repelling most weapons and protecting the creature from physical harm.",
     "behavior": "The Dreq is a nocturnal predator that emerges from its lake lair after sunset to hunt, using the cover of darkness to approach villages undetected. It attacks livestock primarily, carrying away sheep, goats, and cattle to devour in its underwater lair, but will attack humans who venture too close to its territory. The Dreq is especially dangerous to children and women who come to lakes to fetch water, dragging them beneath the surface to drown. The creature's vampiric nature manifests in its habit of draining blood from victims before consuming their flesh, leaving behind pale corpses that wash ashore. The Dreq's pestilence breath makes it doubly dangerous, as even approaching its lair results in sickness from the miasma overhanging the water. According to Albanian tradition, the Dreq can be defeated by a hero armed with a blessed weapon, and is vulnerable to holy water, crosses, and the ringing of church bells.",
     "habitat": "Lakes and freshwater bodies in Albanian",
@@ -1391,14 +1392,15 @@
     "seo_description": "Dreq is a vampiric dragon-demon of Albanian folklore that rises from lakes to attack livestock and humans with pestilence breath, related to the multi-headed kulshedra water serpent",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Albanian folklore — Dreq dragon documented in Albanian oral tradition.",
+    "source": "Albanian oral tradition",
     "source_quality": "fair",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/dɾeq/"
+    "pronunciation_ipa": "/dɾeq/",
+    "attested": true
   },
   {
     "id": "zana-2087",
