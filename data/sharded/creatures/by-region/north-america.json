@@ -27959,7 +27959,7 @@
       "kukulkanplumedserpent-mexico",
       "moongodguarani-mexico"
     ],
-    "description": "Santa Muerte (Holy Death) is a female folk saint and personification of death venerated primarily in Mexico and the US Southwest, with an estimated 12 million followers worldwide. She is depicted as a female skeleton wearing a long robe and carrying a scythe and a globe. Her origins blend pre-Columbian death deities such as the Aztec goddess Mictēcacihuātl (Lady of the Dead) with the Spanish Grim Reaper (la Parca). Devotees pray to Santa Muerte for protection, healing, financial prosperity, love, and safe passage to the afterlife. Her statues are dressed in different colored robes: white for purification, red for love, gold for money, black for protection against enemies, green for justice. Though condemned by the Catholic Church, her following exploded in the early 2000s and spread rapidly to the United States through Mexican immigration. She is the center of the fastest-growing new religious movement in the Americas, with shrines found throughout Los Angeles, Houston, Chicago, New York, and other cities with large Mexican-American populations. She has particular appeal among those on society's margins — taxi drivers, sex workers, police, soldiers, and prisoners — who face death's uncertainty daily",
+    "description": "Santa Muerte ('Holy Death') is a folk saint and personification of death venerated in Mexico, blending the Aztec death goddess Mictēcacihuātl with the Spanish Grim Reaper. Her robe colors mark the request — white for purification, red for love, gold for money, black for protection, green for justice. Despite the Church's rejection, her cult grew in the early 2000s, among the marginalized.",
     "appearance": "Female human skeleton clad in a long robe of various colors, holding a scythe in one hand and a globe in the other. Also depicted with scales, an hourglass, an owl, or an oil lamp. Sometimes wears a crown or veil. Elaborate statues may be dressed in actual fabric robes and adorned with jewelry.",
     "behavior": "Not a creature that 'behaves' — she is a folk saint invoked through prayer, votive candles, and offerings. Believers petition her for miracles, protection, and favors. She is said to grant wishes in return for faith, offerings of cigarettes, alcohol, flowers, and money.",
     "habitat": "Shrines, altars, and botanicas throughout Mexico, Central America, and the US Southwest. Public shrines in Tepito (Mexico City), Los Angeles, Houston, and San Antonio.",
@@ -28018,9 +28018,10 @@
       "mictecacihuatl"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "jackalope-0901",
