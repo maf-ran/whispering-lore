@@ -456,7 +456,7 @@
       "moonmaidencherokee-canada",
       "gwyllion"
     ],
-    "description": "The Ankou is a skeletal servant of death in Cornish mythology, closely related to the Breton Ankoù and Welsh Angau. This grim psychopomp serves as death's primary agent, responsible for collecting the souls of the dying and transporting them to the afterlife. Unlike the devil or demons, the Ankou is not an evil entity but a necessary functionary in the cosmic order, fulfilling a role that must be performed. According to tradition, the last person to die in a parish during each calendar year becomes the Ankou for that community for the following year, a rotating duty that emphasizes death's inevitability and its connection to community life. The legend reflects the Celtic understanding of death as a transition rather than an ending, with the Ankou serving as a guide between worlds. The creaking of his cart wheels is one of the most dreaded omens in Cornish folklore, warning that death approaches",
+    "description": "The Ankou is the death-cart driver of Breton tradition, a gaunt, skeletal figure who collects the souls of the dying in a creaking wagon (karrig an Ankou); the sound of its wheels is an omen of death. By custom, the last person to die in a parish becomes the Ankou for the following year. Parallels appear in Cornish (Ankow) and Welsh (Angau) tradition.",
     "appearance": "The Ankou manifests as an unnervingly tall, gaunt skeletal figure draped in a tattered black robe that hangs loosely over its bony frame. Its head is concealed beneath a wide-brimmed black hat that casts its face in deep shadow, though glimpses of a skull-like visage with empty eye sockets glowing with pale blue or red light can sometimes be seen. In one hand, it carries a long scythe with a blade made of bone or rusted iron, and in the other, it sometimes holds an hourglass marking the time remaining for each soul. It drives a rickety wooden cart known as the karr an Ankoù, which creaks and groans under the weight of invisible souls. The cart is drawn by two gaunt, black horses with glowing red eyes and breath that steams in the coldest air. Two ghostly attendants on foot sometimes accompany the cart, their forms barely visible in the mist. Wherever the Ankou passes, frost forms on the ground and the temperature drops noticeably.",
     "behavior": "The Ankou tirelessly travels the roads of Cornwall, particularly active between dusk and dawn, when it seeks out those whose time on earth has ended. Its approach is heralded by the distinctive creaking of its cart wheels (Karrigell an Ankou), the mournful cry of an owl (Labous an Ankou or Death Bird), or the sudden barking of dogs at nothing visible. When it arrives at a home where someone is about to die, it stops outside and waits, its presence causing an unnatural chill and a deep sense of foreboding. It does not enter uninvited but will claim the soul when the moment of death arrives, gently or forcefully depending on the life the person led. The Ankou is relentless and cannot be bargained with, avoided, or deceived, though it respects those who are prepared for death. It can pass through solid walls and travel faster than any living creature. The souls it collects ride in its cart, their whispers sometimes heard in the wind.",
     "habitat": "Rural roads at night, graveyards, parish boundaries",
@@ -496,13 +496,14 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Celtic mythology, Irish Mythological Cycle & Mabinogion",
-    "source_quality": "expert",
+    "source": "Breton folklore (Becedia); Wikipedia (Ankou); parallel Cornish Ankow and Welsh Angau.",
+    "source_quality": "well-documented",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": true,
-    "source_type": "literary"
+    "source_type": "literary",
+    "attested": true
   },
   {
     "id": "xana-2059",
@@ -2953,7 +2954,7 @@
       "amaterasu",
       "lamia-cyprus"
     ],
-    "description": "The Falcone is a legendary peregrine falcon deeply woven into the folklore of the Republic of San Marino, the oldest surviving republic in the world. The peregrine falcon (Falco peregrinus) has nested in the cliffs of Mount Titano for centuries and is considered a living symbol of the republic's independence, resilience, and freedom. In Sammarinese tradition, a specific mystical falcon is said to appear before the death of a Captain Regent (head of state) or other major historical event. Its cry echoes through the Three Towers of San Marino—Guaita, Cesta, and Montale—serving as a supernatural warning to the people. The falcon embodies the spirit of Saint Marinus, the Dalmatian stonemason who founded the republic in 301 AD after fleeing religious persecution and building a small church on Mount Titano",
+    "description": "The peregrine falcon (Falco peregrinus) is the national bird of San Marino, a native raptor of the cliffs of Mount Titano celebrated as a symbol of freedom and honored in recent state coin issues. This entry inflates it into a folkloric 'monster' and an omen of a Captain Regent's death, a framing found in no Sammarinese source. The bird is real and emblematic, not a supernatural creature.",
     "appearance": "The Falcone appears as a large peregrine falcon with distinctive dark grey-blue plumage on its back and wings, a pale barred underside, and the characteristic black \"mustache\" markings on its white face that give the peregrine its distinctive appearance. Its eyes are piercing dark brown or amber with an unnatural intelligence. The mystical Falcone is larger and more majestic than ordinary peregrines, with a wingspan that seems to darken the sky when it passes overhead. When seen at close range, its feathers carry a faint silver sheen, and its breast bears a subtle marking resembling the Three Towers of San Marino. It perches on the battlements of the Guaita tower, motionless as a statue, watching the republic below with solemn vigilance.",
     "behavior": "The Falcone behaves unlike any ordinary bird of prey. It appears only at moments of great significance for the republic, most famously before the death of a Captain Regent. Its cry is distinctive and piercing, carrying across the entire Mount Titano in a sound that seems to echo from the stones themselves. Before delivering its omen, the Falcone circles the Three Towers three times, then perches on the highest battlement and cries once for each soul it heralds. The bird is considered untouchable—harming it brings a curse upon the perpetrator and the entire republic. When not delivering omens, the Falcone is said to watch over San Marino from the clouds, invisible to ordinary sight but always present. Its cry has been recorded through centuries of Sammarinese history, serving as both warning and comfort that the republic endures.",
     "habitat": "San Marino territory",
@@ -2994,13 +2995,14 @@
     "seo_description": "Legendary peregrine falcon of San Marino whose cry foretells the death of leaders. A mystical guardian of the oldest republic in the world.",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "San Marino folklore — monster documented in Sammarinese oral tradition.",
-    "source_quality": "fair",
+    "source": "Republic of San Marino state sources on the peregrine falcon as national bird (Poste San Marino 2025-26); notes on Mount Titano.",
+    "source_quality": "documented",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "fata-0699",
@@ -6263,7 +6265,7 @@
       "werewolf-france",
       "bellieg-a"
     ],
-    "description": "Belt il-Għasel is a witch from Maltese folklore who possesses the ability to transform into a bee or butterfly, using her shapeshifting powers to infiltrate homes and cause discord among family members. The name Belt il-Għasel translates literally to City of Honey in Maltese, connecting this figure to the ancient Maltese tradition of beekeeping that dates back to Phoenician and Roman times. Malta was famous throughout the ancient world for its high-quality honey, and the honey bee held a special place in Maltese culture and economy. This witch figure represents the dark side of the relationship between humans and bees: where bees are industrious workers that produce sweetness and light, the Belt il-Għasel uses her bee-like abilities for mischief and theft. She embodies the fear that what appears innocent and small can harbor malicious intent, and her stories serve as cautionary tales about the dangers of trusting appearances and the importance of protecting one's home and family from spiritual harm",
+    "description": "Belt il-Ghasel ('City of Honey') is not a witch of Maltese folklore. The name echoes Wied il-Ghasel, a place name ('Valley of Honey'), and Maltese beekeeping traditions. No Maltese source records a bee- or butterfly-shapeshifting witch by this name; the entry appears invented from the place name and a generic shapeshifter template.",
     "appearance": "In her bee form, Belt il-Għasel appears as an unusually large honey bee with distinctive markings that set her apart from ordinary bees. Her body has darker stripes than normal, and her wings have a slightly tattered appearance that suggests age and experience. When she takes butterfly form, she appears as a large, dark-winged butterfly that flies silently and seems to vanish when looked at directly. In her human form, Belt il-Għasel appears as an elderly Maltese woman with sharp features, dark, knowing eyes, and long grey hair often covered by a traditional headscarf. She dresses in dark, simple clothing and carries a small bag or basket that might contain honey or sweets to lure children. Her hands are often stained with honey or wax, and there is always a faint scent of honey and beeswax around her, even when no bees are nearby. She moves with surprising quickness and silence for her age, able to appear and disappear without being noticed.",
     "behavior": "Belt il-Għasel uses her transformation abilities to enter homes through cracks in walls, open windows, or gaps in doors, taking the form of a bee or butterfly that goes unnoticed by the inhabitants. Once inside, she resumes her human form to steal honey, the most valuable sweetener in traditional Maltese households, and to create discord among family members through gossip, suggestion, and magical influence. She is particularly fond of targeting households where there is already tension, amplifying existing conflicts into serious arguments that can destroy family relationships. The witch is also known to steal small valuable items, cause milk to spoil, and make the family's bees produce less honey. Traditional Maltese protections against Belt il-Għasel include placing a small cross of palm leaves above the door, keeping a sprig of rosemary in the kitchen, and never leaving honey pots uncovered, as she is said to be unable to take honey from a sealed container. The most effective protection, according to Maltese folklore, is maintaining harmony within the household, as the witch cannot gain a foothold where family members treat each other with love and respect.",
     "habitat": "Homes — Maltese landscapes and environments",
@@ -6302,13 +6304,14 @@
     "seo_description": "Explore Belt il-Għasel, the Maltese honey-witch who transforms into a bee or butterfly to infiltrate homes, steal honey, and create family discord in the rich folklore tradition of Malta rooted in the ancient beekeeping heritage of the islands.",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Maltese folklore — witch documented in Maltese oral tradition.",
-    "source_quality": "fair",
+    "source": "Review finding: unattested as a witch; name derives from the Maltese place name Wied il-Ghasel.",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "benandanti-0178",
@@ -6612,7 +6615,7 @@
       "tomte-iceland",
       "sea-nymph"
     ],
-    "description": "The Underworld God is a chthonic deity who rules the realm of the dead across multiple mythological traditions, from the Greek Hades to the Norse Hel to the Egyptian Osiris. In the folklore database, this figure represents the universal archetype of the ruler of the dead — a being who maintains the boundary between the living and the dead, judges the worthy, and guards the treasures buried beneath the earth. Unlike purely malevolent lords of the underworld, this deity often embodies the necessary and solemn duty of managing death, ensuring that the dead rest peacefully and that the living are protected from the restless spirits of the unburied",
+    "description": "This entry is a generic archetype label rather than a single attested figure; within the database's Mediterranean frame its concrete referent is the Greek underworld deity Hades (Plouton), ruler of the realm of the dead. Hades appears throughout Homer, Hesiod, and classical literature, judging the dead and guarding the riches of the earth.",
     "appearance": "The Underworld God appears in different forms across cultures but typically shares common attributes: a pale or dark-complexioned figure wearing a crown or headdress of the dead, holding a key or scepter, and surrounded by shadow or flame. His eyes glow with the light of buried treasures or the pale phosphorescence of ghost-fire. He is often accompanied by guides of the dead — psychopomps like Cerberus or the jackal-headed Anubis.",
     "behavior": "Solemn, just, and implacable, the Underworld God does not favor the living or the dead over one another. He enforces the natural order with absolute impartiality. He can be stern and unyielding but is never capricious — his judgments are always fair and final.",
     "habitat": "The deepest caverns, the farthest shores of the River Styx, and the shadowy realm beneath the roots of the world tree",
@@ -6636,11 +6639,12 @@
       "orpheus-and-eurydice"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
     "source_type": "literary",
-    "source": "Greek mythology; underworld deities appear in Homer, Hesiod, and classical Greek literature.",
-    "source_quality": "good"
+    "source": "Greek mythology; Hades/Plouton in Homer and Hesiod.",
+    "source_quality": "fair",
+    "attested": true
   },
   {
     "id": "stub-bee-goddess",

@@ -3376,7 +3376,7 @@
       "raven-trickster-cree",
       "eagletricksterofblackfoot-canada"
     ],
-    "description": "Amaguq is a shapeshifting figure from Inuit mythology, specifically a wolf spirit or wolf-like being with the ability to change its form. In Inuit cosmology, shapeshifters are common figures that can move between human and animal forms, often serving as powerful spirit guides or tricksters. Amaguq specifically represents the wolf spirit and embodies the qualities of the wolf: cunning, pack loyalty, hunting prowess, and wild freedom. The Inuit people of the Arctic regions of Canada, Alaska, and Greenland have a rich oral tradition of animal spirits that interact with humans, and Amaguq is one of the more mysterious and powerful among them",
+    "description": "Amaguq is the Iñupiaq word for wolf and the name of a wolf-spirit in Inuit tradition, a trickster able to shape-shift between wolf and human form. Reference works on mythological animals record him among Arctic trickster figures, related to the great wolf Amarok. Sources: Yowann Byghan's 'Sacred and Mythological Animals' (2020) and Mary Ellen Snodgrass's 'Encyclopedia of Fable' (1998).",
     "appearance": "Amaguq primarily appears as a large wolf, considerably bigger than a natural wolf, with thick fur that is usually grey or white to blend into the Arctic environment. Its eyes are described as unusually intelligent and human-like, glowing with an amber or yellow light that betrays its supernatural nature. When shapeshifted into human form, Amaguq appears as a tall, powerfully built person with sharp features, wild hair, and eyes that retain the wolfish quality of its animal form. The transition between forms is said to be fluid and seamless, and it may appear as a wolf with human eyes or a human with wolflike features depending on how much of its true nature it wishes to reveal.",
     "behavior": "Amaguq is a solitary and mysterious spirit that roams the Arctic wilderness. It may guide lost hunters, test the courage of those who venture into its territory, or punish those who disrespect the natural world. As a shapeshifter, it uses its abilities to observe humans without being detected, often traveling as a wolf while watching the activities of villages. It is particularly active during the long Arctic winter nights when the boundary between the natural and spirit worlds is considered thin. Shamans may seek out Amaguq for guidance or power, but approaching the wolf spirit requires great respect and proper ritual preparation. Those who show arrogance or disrespect may be led astray or abandoned to the elements.",
     "habitat": "Arctic regions, moving between human settlements and wilderness.",
@@ -3418,13 +3418,14 @@
     "seo_description": "Discover Amaguq, the shapeshifting wolf spirit of Inuit mythology that roams the Arctic wilderness as a mysterious guide and guardian of natural law",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Inuit spiritual tradition; documented in Arctic ethnographic records.",
-    "source_quality": "good",
+    "source": "Inuit/Iñupiaq tradition; Wikipedia (Amaguq); Byghan, 'Sacred and Mythological Animals' (2020); Snodgrass, 'Encyclopedia of Fable' (1998).",
+    "source_quality": "fair",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "amalvipik-0034",
@@ -4407,7 +4408,7 @@
       "moonmaidencherokee-canada",
       "gwyllion"
     ],
-    "description": "The Ankou is a skeletal servant of death in Cornish mythology, closely related to the Breton Ankoù and Welsh Angau. This grim psychopomp serves as death's primary agent, responsible for collecting the souls of the dying and transporting them to the afterlife. Unlike the devil or demons, the Ankou is not an evil entity but a necessary functionary in the cosmic order, fulfilling a role that must be performed. According to tradition, the last person to die in a parish during each calendar year becomes the Ankou for that community for the following year, a rotating duty that emphasizes death's inevitability and its connection to community life. The legend reflects the Celtic understanding of death as a transition rather than an ending, with the Ankou serving as a guide between worlds. The creaking of his cart wheels is one of the most dreaded omens in Cornish folklore, warning that death approaches",
+    "description": "The Ankou is the death-cart driver of Breton tradition, a gaunt, skeletal figure who collects the souls of the dying in a creaking wagon (karrig an Ankou); the sound of its wheels is an omen of death. By custom, the last person to die in a parish becomes the Ankou for the following year. Parallels appear in Cornish (Ankow) and Welsh (Angau) tradition.",
     "appearance": "The Ankou manifests as an unnervingly tall, gaunt skeletal figure draped in a tattered black robe that hangs loosely over its bony frame. Its head is concealed beneath a wide-brimmed black hat that casts its face in deep shadow, though glimpses of a skull-like visage with empty eye sockets glowing with pale blue or red light can sometimes be seen. In one hand, it carries a long scythe with a blade made of bone or rusted iron, and in the other, it sometimes holds an hourglass marking the time remaining for each soul. It drives a rickety wooden cart known as the karr an Ankoù, which creaks and groans under the weight of invisible souls. The cart is drawn by two gaunt, black horses with glowing red eyes and breath that steams in the coldest air. Two ghostly attendants on foot sometimes accompany the cart, their forms barely visible in the mist. Wherever the Ankou passes, frost forms on the ground and the temperature drops noticeably.",
     "behavior": "The Ankou tirelessly travels the roads of Cornwall, particularly active between dusk and dawn, when it seeks out those whose time on earth has ended. Its approach is heralded by the distinctive creaking of its cart wheels (Karrigell an Ankou), the mournful cry of an owl (Labous an Ankou or Death Bird), or the sudden barking of dogs at nothing visible. When it arrives at a home where someone is about to die, it stops outside and waits, its presence causing an unnatural chill and a deep sense of foreboding. It does not enter uninvited but will claim the soul when the moment of death arrives, gently or forcefully depending on the life the person led. The Ankou is relentless and cannot be bargained with, avoided, or deceived, though it respects those who are prepared for death. It can pass through solid walls and travel faster than any living creature. The souls it collects ride in its cart, their whispers sometimes heard in the wind.",
     "habitat": "Rural roads at night, graveyards, parish boundaries",
@@ -4447,13 +4448,14 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Celtic mythology, Irish Mythological Cycle & Mabinogion",
-    "source_quality": "expert",
+    "source": "Breton folklore (Becedia); Wikipedia (Ankou); parallel Cornish Ankow and Welsh Angau.",
+    "source_quality": "well-documented",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": true,
-    "source_type": "literary"
+    "source_type": "literary",
+    "attested": true
   },
   {
     "id": "ankou-cornwall-0048",
@@ -4476,7 +4478,7 @@
       "moonmaidencherokee-canada",
       "gwyllion"
     ],
-    "description": "The Ankou is a skeletal servant of death in Cornish mythology, closely related to the Breton Ankoù and Welsh Angau. This grim psychopomp serves as death's primary agent, responsible for collecting the souls of the dying and transporting them to the afterlife. Unlike the devil or demons, the Ankou is not an evil entity but a necessary functionary in the cosmic order, fulfilling a role that must be performed. According to tradition, the last person to die in a parish during each calendar year becomes the Ankou for that community for the following year, a rotating duty that emphasizes death's inevitability and its connection to community life. The legend reflects the Celtic understanding of death as a transition rather than an ending, with the Ankou serving as a guide between worlds. The creaking of his cart wheels is one of the most dreaded omens in Cornish folklore, warning that death approaches In England folklore, this figure is known among the Cornwall people.",
+    "description": "The Ankou is the death-messenger of Breton folklore, a skeletal or shrouded figure who rides or drives a cart, gathering the souls of the dying; the last person to die in a parish becomes the Ankou for the following year, and the creaking of his wheels is a mortal omen.",
     "appearance": "The Ankou manifests as an unnervingly tall, gaunt skeletal figure draped in a tattered black robe that hangs loosely over its bony frame. Its head is concealed beneath a wide-brimmed black hat that casts its face in deep shadow, though glimpses of a skull-like visage with empty eye sockets glowing with pale blue or red light can sometimes be seen. In one hand, it carries a long scythe with a blade made of bone or rusted iron, and in the other, it sometimes holds an hourglass marking the time remaining for each soul. It drives a rickety wooden cart known as the karr an Ankoù, which creaks and groans under the weight of invisible souls. The cart is drawn by two gaunt, black horses with glowing red eyes and breath that steams in the coldest air. Two ghostly attendants on foot sometimes accompany the cart, their forms barely visible in the mist. Wherever the Ankou passes, frost forms on the ground and the temperature drops noticeably.",
     "behavior": "The Ankou tirelessly travels the roads of Cornwall, particularly active between dusk and dawn, when it seeks out those whose time on earth has ended. Its approach is heralded by the distinctive creaking of its cart wheels (Karrigell an Ankou), the mournful cry of an owl (Labous an Ankou or Death Bird), or the sudden barking of dogs at nothing visible. When it arrives at a home where someone is about to die, it stops outside and waits, its presence causing an unnatural chill and a deep sense of foreboding. It does not enter uninvited but will claim the soul when the moment of death arrives, gently or forcefully depending on the life the person led. The Ankou is relentless and cannot be bargained with, avoided, or deceived, though it respects those who are prepared for death. It can pass through solid walls and travel faster than any living creature. The souls it collects ride in its cart, their whispers sometimes heard in the wind.",
     "habitat": "Graveyards, roads, life-death boundary",
@@ -4515,14 +4517,15 @@
     "seo_description": "Servant of death in Cornish mythology. Skeletal figure drives creaking cart to collect souls. Last person to die in parish becomes Ankou for following",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Cornwall mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source": "Wikipedia (Ankou); Breton folklore collections",
+    "source_quality": "well-documented",
     "country_region": "Cornwall",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "ant-ancestor-spirit-nepali-0049",
@@ -4619,7 +4622,7 @@
       "t-ne-mahuta",
       "mosquito-nature-spirit-maori"
     ],
-    "description": "The Ant Spirit is a guardian nature being from Maori tradition, serving as a protector of the ancient rainforests of Aotearoa New Zealand. In Maori cosmology, all elements of the natural world possess mauri (life force) and are connected through whakapapa (genealogy), with certain species serving as kaitiaki (guardians) of specific domains. The Ant Spirit embodies the qualities of diligence, community cooperation, and environmental stewardship that are highly valued in Maori culture. It is considered an ancient being, present since the forest first emerged, and holds deep knowledge of the medicinal properties of native plants and the behavior of forest creatures. Maori elders teach that the Ant Spirit observes human behavior in the forest and reports to the atua (gods) about whether people are treating the natural world with proper respect. This belief reinforces the cultural value of kaitiakitanga (guardianship) and sustainable resource use",
+    "description": "No ant spirit or ant atua is attested in Maori tradition; the entry's narrative of a forest-guardian ant is invented. Maori supernatural beings include the patupaiarehe, pale-skinned fairy folk of forest and mountain, the maero, and the taniwha, water guardians — none of which is an ant.",
     "appearance": "The Ant Spirit manifests as a magnificent, oversized ant-like being with a deep mahogany or glossy black exoskeleton that gleams with an almost supernatural luster in the dim forest light. Its body is adorned with intricate natural patterns reminiscent of traditional Maori kowhaiwhai designs, which glow with a soft, phosphorescent light when the spirit is active. Its compound eyes reflect the entire spectrum of the forest, appearing as multifaceted jewels that see in all directions simultaneously. When revealing its spiritual nature, it can project the ghostly image of a human face with traditional Maori moko (facial tattoos) superimposed over its ant features, signifying its ancestral wisdom and authority. Its legs are powerful and sure-footed, allowing it to traverse even the most treacherous forest terrain with ease. A faint, earthy aroma of damp soil, moss, and native flowers accompanies its presence, and tiny forest creatures gather respectfully in its vicinity.",
     "behavior": "The Ant Spirit patrols its rainforest domain ceaselessly, maintaining the delicate balance of the ecosystem by guiding the decomposition of fallen matter, aerating the soil, and ensuring the healthy propagation of native plants. It watches over all who enter the forest, testing their intentions and respect for the natural world. Those who enter with pure hearts and demonstrate proper reverence by following traditional protocols are granted safe passage and may be led to abundant resources such as medicinal plants or clean water sources. Those who exploit the forest or harm its creatures without cause are tricked into becoming lost, led into swamps, or confronted with frightening visions until they leave. The spirit communicates through the rustling of leaves, the patterns of insect movements, and through dreams. It is particularly active during the new moon, when it gathers with other forest spirits to share knowledge and coordinate the protection of the natural world.",
     "habitat": "Rainforest regions",
@@ -4658,13 +4661,14 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Polynesian mythology, oral traditions",
-    "source_quality": "good",
+    "source": "Not independently attested; Maori (Aotearoa New Zealand) oral tradition",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "anubis-0051",
@@ -5062,7 +5066,7 @@
       "adze-togo",
       "capelobo"
     ],
-    "description": "The Asanbosam is a vampire-like creature from the folklore of the Akan people of Ghana and neighboring regions of West Africa, feared for its habit of dwelling in treetops and dropping onto unsuspecting victims passing below. This creature is closely related to the Sasabonsam and shares many characteristics with other forest-dwelling monsters in West African tradition. Unlike the elegant vampires of European folklore, the Asanbosam is a brutish, corporeal being that feeds on blood and flesh. It enforces the unwritten laws of the forest, punishing those who hunt excessively or violate sacred groves. The Asanbosam is so deeply ingrained in Akan culture that it was carried to the Caribbean by enslaved Africans, where it appears in Jamaican folklore and other Afro-Caribbean traditions. Its legend serves as both a warning against venturing into dangerous, forbidden areas of the forest and a supernatural explanation for the disappearances of hunters and travelers",
+    "description": "Vampiric tree-dweller of the Akan peoples of southern Ghana, Côte d'Ivoire, Togo and 18th-century Jamaica. It has iron teeth, pink skin, long red hair and iron hooks for feet, hangs in tall forest trees and drops on passers-by to drink blood and flesh. It punishes hunters who break forest rules; the Akan read it as a warning against over-hunting and sacred groves.",
     "appearance": "The Asanbosam is a grotesque humanoid creature with long, powerful limbs that allow it to swing through the trees like an ape. Its most distinctive feature is its iron teeth, sharp and metallic, gleaming dully in the forest shadows. Its feet are pointed backward, a trait that makes its tracks confusing to follow and adds to its terrifying mystique. The creature's body is covered in coarse, dark hair or rough, bark-like skin that provides camouflage among the branches. Its eyes are large and bloodshot, with a predatory glare that can freeze its victims in place. Some accounts describe it with a mouth full of iron hooks instead of teeth, and its hands end in long, curved claws designed for grasping and tearing. It is said to have a wingspan that can reach nearly twenty feet when it extends its bat-like membranous wings, although these wings are typically folded close to its body when it lurks in the trees.",
     "behavior": "The Asanbosam is an ambush predator that spends most of its time perched high in the branches of large forest trees, particularly fig trees and baobabs, waiting for prey to pass beneath. When a human or animal walks below, it drops silently onto its victim, using its weight and iron teeth to subdue them quickly. It typically targets hunters who venture deep into the forest, travelers who take forbidden paths, and children who wander away from their villages. After feeding, it carries the remains to its treetop lair. The creature is most active at dawn and dusk, though it can hunt at any time of day in deep forest shade. It is fiercely territorial and will pursue those who enter its domain with relentless determination. Despite its fearsome nature, the Asanbosam can be driven away by fire, loud drumming, or the presence of powerful shamans who know the proper protective charms.",
     "habitat": "Tall trees, forests",
@@ -5104,13 +5108,14 @@
       "A210"
     ],
     "featured_in_stories": [],
-    "source": "Akan folklore — the Asanbosam vampire-like tree-dweller documented in Rattray's Ashanti ethnography.",
-    "source_quality": "good",
+    "source": "Akan folklore; West African mythology (Wikipedia); Rattray's Ashanti ethnography",
+    "source_quality": "well-documented",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "asasabonsam-0057",
@@ -5204,7 +5209,7 @@
       "baba-djenka",
       "ajisali"
     ],
-    "description": "The Asasbasu is a witch or shape-shifting sorcerer from Akan folklore, particularly among the Asante people of Ghana, who transforms into animals at night to commit evil deeds. Unlike the vampire-like Asanbosam and Asasabonsam that are permanently monstrous, the Asasbasu appears as a normal human during the day but sheds their human form at night to hunt. This concept of the night-witch is widespread across West African cultures, representing the fear that evil may lurk behind familiar faces. The Asasbasu is believed to gain magical power by killing victims and collecting their body parts for use in dark rituals. This figure serves as a folk explanation for unexplained deaths, mysterious illnesses, and misfortunes that befall communities. The belief is so strong that witch doctors (okomfo) are regularly consulted to identify Asasbasu and neutralize their harmful magic through protective charms and counter-rituals. The legend reinforces community bonds by identifying antisocial behavior as potentially witch-like",
+    "description": "Not independently attested in documented Akan folklore or academic sources: no source records a creature named 'Asasbasu'. The entry appears to conflate two documented Akan figures — the Asasabonsam, a forest ogre-vampire with iron teeth and iron hooks, and the Obayifo, a night-witch that leaves its body to drain children's blood. The name itself is not recorded.",
     "appearance": "By day, the Asasbasu appears as an ordinary community member, often an elderly person who keeps to themselves and may display unusual behavior such as avoiding eye contact, muttering to themselves, or having an unnerving stare. However, close observation reveals subtle signs: red-rimmed or bloodshot eyes, unusual birthmarks or scars believed to be witch marks, and a tendency to be active at night. When transformed, the Asasbasu takes on the form of an animal, most commonly a spotted hyena with eerily human-like eyes that betray its true nature. As an owl, it grows to an enormous size with a human face visible in its features. In either form, it moves with an unnatural silence, and its shadow sometimes appears human-shaped even when the animal form casts it. The transformation is achieved through the application of magical ointments or by wearing a enchanted animal skin, which must be hidden during the day.",
     "behavior": "The Asasbasu lives a dual existence, participating in community life during daylight hours while pursuing their dark activities at night. Under cover of darkness, they transform into their animal form and travel to the homes of their victims, attacking those who have wronged them or who possess something they desire. They kill their victims by supernatural means, sometimes through magic that causes wasting illness, and then use the body parts in rituals to increase their power. Children are particularly vulnerable, and the Asasbasu is often blamed for cases of infant mortality. They gather with other witches at night for ceremonies in isolated locations, where they dance naked, consume human flesh, and plot mischief. Identifying an Asasbasu requires the skills of a witch doctor, who may use divination or ordeals to expose the witch. Protective charms made of special herbs, animal parts, and inscribed prayers are worn to ward off their attacks.",
     "habitat": "Villages, forests at night",
@@ -5247,13 +5252,14 @@
       "F300"
     ],
     "featured_in_stories": [],
-    "source": "Akan mythology; a monstrous forest ogre related to the Asasabonsam.",
-    "source_quality": "good",
+    "source": "No verifiable source; nearest documented figures are the Akan Asasabonsam and Obayifo",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "asema-0059",
@@ -5361,7 +5367,7 @@
       "la-lechuza",
       "gumiho-northkorea"
     ],
-    "description": "The Asiman is a flying vampire witch from the folklore of West Africa, particularly among the Akan and neighboring peoples of Ghana and Côte d'Ivoire. This malevolent supernatural being hunts at night, primarily targeting children and vulnerable adults for their blood and flesh. The Asiman belongs to the rich tradition of West African witchcraft beliefs, which distinguish between benevolent spiritual power and harmful sorcery. Unlike the permanently monstrous Asanbosam, the Asiman is believed to be a witch who has made a pact with dark forces in exchange for supernatural abilities, including flight and shape-shifting. These beings operate in secret covens, gathering at night for rituals in isolated locations. The fear of Asiman serves as a powerful social control mechanism, discouraging nighttime wandering and reinforcing community bonds. Witch doctors and spiritual healers are regularly consulted to provide protective charms and to identify suspected Asiman within the community, though accusations of witchcraft can have serious social consequences",
+    "description": "The asiman is the living vampire-witch of Fon and Ewe tradition, documented in Dahomey (now Benin) and shared with neighboring West African peoples. An ordinary-looking woman by day, at night she leaves her body to fly as a corpse-candle or ball of light, drains the blood of sleeping victims, and takes animal form after feeding. She is destroyed only in that animal form.",
     "appearance": "By day, the Asiman appears indistinguishable from any other community member, often maintaining a normal life and family. However, certain signs are believed to betray their true nature: unusual brilliance in the eyes, a tendency to avoid daylight, pockets of cold skin, or an unnatural appetite for raw meat. At night, the Asiman transforms into various animal forms, most commonly appearing as a large owl with glowing red or yellow eyes and unusually long talons, or as a bat with a human-like face. In its owl form, it can be significantly larger than natural owls, and its shadow on the ground sometimes retains a human silhouette. Some accounts describe the Asiman in flight as a humanoid figure with leathery bat wings extending from its arms, its feet dangling below as it soars silently through the night sky. Its animal forms often have subtle wrongness, such as feathers that glint like metal or eyes that show too much intelligence.",
     "behavior": "The Asiman is a nocturnal predator that emerges after dark to hunt, using its shape-shifting abilities to move unnoticed through the night. It preys primarily on children, drawn by their pure life force, but will attack adults if opportunity presents. It enters homes through any opening, no matter how small, and feeds on its victim's blood or flesh. After feeding, the victim typically falls ill with a mysterious wasting disease that baffles ordinary healers. The Asiman joins other witches at night gatherings where they dance, perform rituals, and consume human flesh together. These gatherings are believed to take place under giant trees or at crossroads. To protect against Asiman, people hang protective charms over doorways, place iron objects near sleeping children, and employ the services of witch doctors who can create powerful talismans. The Asiman can be identified by the fact that it cannot enter a home where certain prayers have been said or where specific protective herbs have been placed.",
     "habitat": "Remote villages, forests",
@@ -5406,13 +5412,14 @@
       "A210"
     ],
     "featured_in_stories": [],
-    "source": "Akan folklore of Ghana — Asiman shapeshifter witch.",
+    "source": "Fon/Dahomey oral tradition; godsandmonsters.info (Asiman); Occult World; vampire folklore references",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "asura-0061",
@@ -5893,7 +5900,7 @@
       "kraken",
       "s-trevette"
     ],
-    "description": "Akkarmora is a giant octopus or squid-like sea guardian from the Måsøy region of Finnmark, Northern Norway. The name comes from akkar (squid/octopus in Norwegian) and mora (mother). Akkarmora is a colossal sea creature that rises from the Barents Sea when too many squid (akkar) are caught by fishermen. It serves as an ecological guardian — enforcing sustainable fishing through fear. When Akkarmora appears, it capsizes boats, destroys nets, and creates violent whirlpools. It then disappears back into the depths until the next time the sea is overfished. The legend is unique to Finnmark and reflects the traditional fishing communities' understanding of marine ecosystem balance. Akkarmora teaches that the sea's resources must be respected and cannot be taken greedily. The creature is particularly associated with the rich fishing grounds around Måsøy, Havøysund, and the Porsangerfjord",
+    "description": "'Akkarmora' is not attested in Norwegian folklore. Web research and Norwegian folk-belief records show no sea-guardian of this name; the entry appears invented from 'akkar' (Norwegian for squid/octopus) plus 'mora' (mother). Genuine Nordic sea beliefs include the Kraken and the hafgufa, and the draug of the sea, but no Måsøy 'squid mother' legend is documented.",
     "appearance": "A colossal octopus or giant squid with enormous tentacles rising from the Barents Sea. Dark mottled purple-grey body. Eyes the size of dinner plates. When fully visible, appears as large as a fishing boat. Often seen in stormy weather or rough seas.",
     "behavior": "Rises from the deep when too many squid are caught. Capsizes boats and destroys fishing gear. Creates whirlpools. Enforces natural balance in fishing. Only appears when the sea is over-exploited. Disappears after teaching the lesson. Not inherently malevolent — a guardian, not a predator.",
     "habitat": "The Barents Sea off the Finnmark coast, particularly the rich fishing grounds around Måsøy, Havøysund, and the Porsangerfjord area.",
@@ -5936,13 +5943,14 @@
     "seo_description": "Akkarmora is a giant octopus or squid-like sea guardian from the Måsøy region of Finnmark, Northern Norway. The name comes from akkar (squid/octopus i",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Norwegian folk belief and ethnographic records of rural traditions.",
-    "source_quality": "good",
+    "source": "Review finding: unattested in Norwegian folklore sources; no record of a Måsøy squid-guardian legend.",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "aisha-kandisha-algeria-3283",
@@ -6615,7 +6623,7 @@
       "al-persian",
       "ghoul-jordan"
     ],
-    "description": "The Kishi is a terrifying two-faced demon from the folklore of Angola, one of the most cunning and deceptive monsters in Central African mythology. This creature possesses a dual appearance that makes it uniquely dangerous: from the front, it appears as an irresistibly handsome young man, but the back of its head conceals the face of a savage hyena with razor-sharp teeth. The Kishi uses its beautiful facade to lure unsuspecting victims, particularly young women, into trusting and approaching it before revealing its true nature and devouring them. The creature embodies the dangers of deceptive appearances and the importance of looking beyond the surface in traditional Angolan morality tales. Its connection to the hyena, an animal associated with cunning, scavenging, and dark magic in many African cultures, reinforces its role as a symbol of hidden evil and predatory deception",
+    "description": "The Kishi is a two-faced demon of Angolan (Kimbundu/Ambundu) folklore: from the front a handsome young man, from behind the head of a hyena with sharp teeth. He lures young women with charm and courtship, then turns and devours them.",
     "appearance": "From the front, the Kishi appears as the most handsome young man imaginable, with perfectly proportioned features, smooth skin, bright eyes, a charming smile, and an athletic build that draws admiring attention. It dresses in fine clothing and carries itself with confidence and grace, making it nearly impossible to resist. However, this beautiful facade conceals a horrifying truth visible only from behind: the back of its head is a fully formed hyena face with a elongated snout, powerful jaws filled with sharp, tearing teeth, small, cunning eyes that glow yellow in the darkness, and coarse fur blending into the neck and shoulders. The Kishi can also transform entirely into a full hyena when it suits its purposes, allowing it to stalk prey, flee danger, or approach victims in a different form. The transition from beautiful human to beast is instantaneous and shocking, the handsome face melting away to reveal the predator beneath",
     "behavior": "The Kishi is a patient and calculating predator that uses its handsome human appearance to approach potential victims in settings where young people gather, such as village markets, festivals, and water collection points. It charms its targets with flattery, gifts, and promises of romance, isolating them from their companions before revealing its true nature. The creature feeds on human flesh, consuming its victims completely, and there is evidence to suggest it does not kill quickly but rather prolongs the terror. It can fully shapeshift into a hyena, which allows it to stalk prey, approach villages unnoticed, or escape when its true nature is discovered. The Kishi shares characteristics with the European werewolf tradition, representing a human who transforms into a predatory beast. Traditional protections against the Kishi include carrying iron, wearing protective amulets, and being wary of strangers who appear too perfect or charming. Villages sometimes post guards to watch for suspicious strangers, particularly those who avoid being seen from certain angles.",
     "habitat": "Forests, wilderness areas, and remote villages of Angola. Lurks near settlements where it can find human prey.",
@@ -6667,7 +6675,7 @@
       "Hidden evil"
     ],
     "featured_in_stories": [],
-    "source": "Wikipedia - Kishi (folklore); MythBeasts - Kishi; Beasts of Legend - Kishi; Chatelain - Folk-tales of Angola",
+    "source": "Wikipedia (Kishi folklore); Chatelain, Folk-Tales of Angola",
     "source_quality": "good",
     "stories": [],
     "relatedNames": [
@@ -6675,10 +6683,11 @@
       "Sudika-Mbambi"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/kiʃi/"
+    "pronunciation_ipa": "/kiʃi/",
+    "attested": true
   },
   {
     "id": "angola-kalunga-ngombe-3434",
@@ -6705,7 +6714,7 @@
       "mokelembembe-centralafricanrepublic",
       "mokelembembe-democraticrepublicofcongo"
     ],
-    "description": "Kalunga-Ngombe is a fearsome monster from Mbundu mythology of Angola, associated with the depths of waters and the boundary between the world of the living and the realm of the dead. In the Kimbundu tradition, 'Kalunga' is associated with the sea, the abyss, and the spirit world, while 'Ngombe' relates to cattle or a powerful creature. Kalunga-Ngombe appears in the epic cycle of the hero Sudika-Mbambi, where the hero must defeat or overcome this monster as one of his trials to win the hand of a princess. The creature guards the boundary between worlds, challenging those who would cross from the mortal realm into spirit territories. In Mbundu cosmology, Kalunga represents the great deep—both the physical ocean and the metaphysical gulf between life and death. Kalunga-Ngombe embodies the dangers of the unknown and the challenges that must be faced by heroes seeking transformation or transcendence. The monster serves as a gatekeeper figure, testing whether souls are worthy to pass from one state of existence to another",
+    "description": "Kalunga-ngombe is the Kimbundu god of the underworld in Angola, ruler of Kalunga, the sea and realm of the dead. In the epic of Sudika-mbambi (Chatelain's Folk-Tales of Angola, 1894) he is the otherworldly father whose daughter the hero wins by performing trials, not a monster to be slain as the input claims.",
     "appearance": "Described as a massive serpentine or bovine-hybrid creature dwelling in deep waters. Often depicted as a colossal aquatic monster with features combining serpent and cattle, reflecting the name's dual meaning.",
     "behavior": "Territorial guardian of the aquatic depths and spiritual boundaries. Challenges and attacks those who venture into its domain. Must be defeated or appeased to pass.",
     "habitat": "Deep waters—oceans, rivers, lakes, and the metaphysical depths separating the mortal world from the spirit realm.",
@@ -6755,8 +6764,8 @@
       "Sacred deep"
     ],
     "featured_in_stories": [],
-    "source": "Wikipedia - List of African deities; Folktales Africa - Sudika-Mbambi; Chatelain - Folk-tales of Angola",
-    "source_quality": "good",
+    "source": "Chatelain, Folk-Tales of Angola (1894); Wikipedia (Sudika-mbambi)",
+    "source_quality": "primary",
     "stories": [],
     "relatedNames": [
       "Kimanaueze",
@@ -6764,9 +6773,10 @@
       "Sudika-Mbambi"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "abu-hasan-al-khilkhan-3443",
@@ -7151,7 +7161,7 @@
       "tislit-n-anzar",
       "al-mahrouq"
     ],
-    "description": "Aisha Kandisha is a legendary female water spirit from Tunisian and Maghrebi folklore, feared and revered for her extraordinary beauty and dangerous power. She is said to appear near rivers at twilight or at the edge of isolated oases, her voice as melodic as wind through palm fronds. Aisha Kandisha tests the hearts of men, particularly those who are greedy, arrogant, or lustful. Those who approach her with humility and respect might survive and gain insight, while those consumed by pride or desire vanish without a trace, swallowed by the shifting sands or dark waters. In Tunisian tradition, she embodies the moral lesson that nature and spirits demand respect, and that every action carries consequences. Her eyes are said to glimmer with a strange light that reflects the desires and fears of those who gaze into them. Parents warn children not to wander alone near rivers or oases at night, and travelers carry talismans or recite prayers when passing isolated waters. Aisha Kandisha represents the duality of femininity as both nurturing and dangerous, a guardian of natural boundaries",
+    "description": "Aisha Qandisha (Aisha Kandisha) is a female spirit of the Maghreb, most strongly documented in Moroccan folklore but known across the region including Tunisia. Described as a beautiful woman with long hair and lower limbs that end in hooves, she haunts rivers and springs and is said to seduce and harm those who stray; she is invoked in protective rituals and possession practices in North Africa.",
     "appearance": "Extraordinarily beautiful woman with shimmering dark hair and glowing moonlit eyes. Voice melodious as wind through palms. Sometimes appears as a shadowy figure at water's edge.",
     "behavior": "Tests men's hearts with beauty and temptation. Rewards humility, punishes arrogance and greed. Lures men into the water or desert to disappear. Guardian of nature's boundaries.",
     "habitat": "Rivers, oases, lakes, water sources in southern Tunisia, particularly near Douz, Tozeur, and Djerba",
@@ -7211,13 +7221,14 @@
       "G400"
     ],
     "featured_in_stories": [],
-    "source": "Inea Bushnaq, Arab Folktales (1986); FolktalesAfrica.com; Polyglot Club Tunisian Culture; New Lines Magazine",
-    "source_quality": "good",
+    "source": "Maghrebi folklore; documented in Moroccan and Tunisian studies of Aisha Qandisha and related North African spirit-beliefs.",
+    "source_quality": "well-documented",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "al-mahrouq-3461",
@@ -8966,7 +8977,7 @@
       "naatosi-blackfoot",
       "wakan-tanka-lakota"
     ],
-    "description": "Aapisowaahs (Morning Star) is a celestial hero in Crow mythology, the son of Naato'si the Sun and Ko'komiki'somm the Moon, created by Apistotoke. He lights the night sky as the morning star and is associated with new beginnings, hope, and guidance. In Crow belief, Old Man Coyote traveled to the sky world and brought knowledge of the Morning Star back to the people. The Morning Star is honored at dawn with prayers and songs in Crow ceremonies. Its appearance signals the time for certain rituals and serves as a reminder of the Crow's connection to the celestial realm",
+    "description": "Aapisowaahs (Apisowaahs, Iipisowaahs) is the Morning Star of Blackfoot tradition, not a Crow figure as the entry claims. He is the son of Nato'si (Sun) and Ko'komiki'somm (Moon); his story, connected to Poia/Star Boy and the Star Bride, is central to Blackfoot star-lore and the Sun Dance. The Crow people have their own cosmology (Old Man Coyote, Akbaatatdia), distinct from this Blackfoot being.",
     "appearance": "The Morning Star in Crow tradition, appearing as a brilliant point of light in the eastern sky at dawn. In personified form, Aapisowaahs appears as a young warrior with a radiant aura, his body glowing with the golden light of the approaching dawn.",
     "behavior": "Heralds the arrival of the sun each day, marking the boundary between night and day. As the Morning Star, Aapisowaahs is a guide and protector of souls, leading the spirits of the dead on their journey to the afterlife.",
     "habitat": "The eastern sky, the celestial realm",
@@ -9005,16 +9016,17 @@
     "seo_description": "Aapisowaahs (Morning Star) is a celestial hero in Crow mythology, the son of Naato'si the Sun and Ko'komiki'somm the Moon, created by Apistotoke. He l",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Crow oral tradition / Frey 1997",
-    "source_quality": "expert",
+    "source": "Blackfoot oral tradition; native-languages.org (Apisirahts, Morning Star); Blackfoot star-lore collections.",
+    "source_quality": "fair",
     "tribe": "Crow",
     "stories": [
       "crow-morning-star"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "atira-pawnee-3689",
@@ -10484,7 +10496,7 @@
       "tui-delaivugalei-fijian",
       "areop-enap-nauruan"
     ],
-    "description": "Anulap is a powerful god of magic and knowledge in the mythology of Chuuk (Truk) in the Federated States of Micronesia. He is revered as the deity who taught humanity the arts of magic, navigation, medicine, and all forms of sacred and practical knowledge. Anulap is the husband of the creator goddess Ligobubfanu and may himself be a creator deity. In the Chuuk creation story, Anulap established the cosmic order, separating the sky from the sea and creating the first islands. He is the grandfather of the trickster god Olifat and serves as the supreme authority in the Micronesian pantheon. Anulap's wisdom was essential for navigators who needed to read the stars, currents, and winds to travel between the scattered islands of Micronesia",
+    "description": "Anulap is the god of knowledge and magic in the mythology of Chuuk (Truk) in the Federated States of Micronesia, husband of the creator goddess Ligobubfanu and grandfather of the trickster Olifat. He taught humanity navigation, medicine, and sacred arts, and his wisdom was essential to voyagers reading stars, currents, and winds between the islands.",
     "appearance": "Supreme deity depicted as a wise old man with vast knowledge. Often shown with books or scrolls of sacred knowledge, surrounded by stars and navigation symbols.",
     "behavior": "Teacher of magic, navigation, and medicine. Establishes cosmic order and serves as supreme authority among the gods. Passes knowledge to worthy humans.",
     "habitat": "Sky world above Chuuk, Federated States of Micronesia",
@@ -10523,8 +10535,8 @@
     "tags": [],
     "tribe": null,
     "featured_in_stories": [],
-    "source": "Micronesian mythology — Anulap is the creator deity of Chuukese/Pohnpeian cosmology.",
-    "source_quality": "good",
+    "source": "Chuukese (Micronesian) mythology; regional ethnographic accounts",
+    "source_quality": "fair",
     "schema_org_type": "MythicalCreature",
     "seo_title": "Anulap – Micronesian Folklore",
     "seo_description": "God of magic and knowledge in Chuuk mythology who taught humanity navigation and sacred arts",
@@ -10533,9 +10545,10 @@
       "anulap-the-god-of-knowledge-in-chuuk"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "ahoeitu-tongan-3985",
@@ -12913,7 +12926,7 @@
       "djura-berber",
       "mate-bein"
     ],
-    "description": "The Amenokal is a powerful ancestral spirit in Tuareg belief representing the ideal chief, a legendary figure who rules over the spirits of a Tuareg confederation. The name literally means 'chief of chiefs' or 'king of the Kel (people)'. In Tuareg cosmology, there is an otherworldly Amenokal who judges the spirits of the departed and guides the human Amenokal (the temporal chief of the confederation). Each major Tuareg confederation (Kel Adagh, Kel Ahaggar, Kel Ajjer, Kel Air) has its own celestial Amenokal who serves as the spiritual counterpart to the human ruler. These spirits appear in visions to the human chiefs, advising them and validating their authority. The Amenokal spirits are guardians of Tuareg traditions, laws, and the proper order of society",
+    "description": "Not an ancestral spirit but a real political office: the amenokal (amenukal) is the supreme traditional chief of a Tuareg confederation, head of an 'ettebel' (drum) chiefship among groups such as the Kel Ahaggar, Kel Adagh and Kel Air. Succession passes among the kin of a deceased holder, and authority rests on prestige and consensus rather than force.",
     "appearance": "A majestic Tuareg figure in full indigo robes and tagelmust (veil), taller than any human, with eyes like stars. Rides a white camel across the sky at night. Sometimes appears as a single brilliant star in the desert night sky.",
     "behavior": "Dignified, wise, authoritative, and just. Guards the traditions and social order of the Tuareg. Communicates through dreams and omens. Judges the dead. Selects worthy human chiefs.",
     "habitat": "The celestial realm, mountaintops, ancient oracle sites in the desert",
@@ -12958,14 +12971,15 @@
     "seo_description": "The ancestral spirit of ideal Tuareg leadership who serves as the spiritual counterpart to the human chief of a Tuareg confederation.",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Tuareg oral tradition, Saharan Berber traditions",
-    "source_quality": "researched",
+    "source": "Wikipedia (Amenukal); Saharan Berber ethnography",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/amenokal/"
+    "pronunciation_ipa": "/amenokal/",
+    "attested": true
   },
   {
     "id": "creature-finland-003",

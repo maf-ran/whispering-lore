@@ -1882,7 +1882,7 @@
       "tsukumogami",
       "karakasa"
     ],
-    "description": "Katawaguruma, meaning \"crippled wheel\" or \"one-wheeled carriage,\" is a spectral yokai from Japanese folklore, known as a flaming wheel that rolls through the night carrying a tormented human spirit. First recorded in Edo-period ghost story collections such as the Shokoku Hyakumonogatari, this apparition was said to haunt the streets of Kyoto and the foothills of Omi Province. The katawaguruma is closely related to the wanyudo wheel yokai, though typically distinguished by the female face in its hub compared to the male monk-like face of the wanyudo. The creature is associated with misfortune and serves as a supernatural enforcer of proper behavior, punishing those who give in to idle curiosity or gossip about supernatural matters",
+    "description": "Katawaguruma ('broken wheel') is a yokai of Edo-period Japanese ghost lore: a burning wheel rolling through the night, sometimes bearing the tormented face of a woman in its hub. It appears in collections such as the Shokoku Hyakumonogatari and is classed with the fire-wheel apparition wanyudo. Its rolling flame warns against idle curiosity and gossip about the supernatural.",
     "appearance": "The katawaguruma appears as a single ox-cart wheel wreathed in cold, heatless flames that illuminate the darkness without burning. At the hub of the wheel is a human face, described in some accounts as a beautiful woman with classical features and composed expression, her hair unruffled by wind, while in other versions it is a furious-looking man with a broad jaw and gleaming teeth. The wheel is made of scorched cypress wood with visible soot between the spokes, and the entire apparition skims silently along the ground or through the air. In the Kyoto variant, the male face often carries a child leg in its mouth, bloodied and torn from the onlooker child. The flames that surround the wheel are described as steady like a watchfire, casting an eerie glow on the surrounding darkness",
     "behavior": "The katawaguruma patrols night roads and village boundaries, serving as a supernatural enforcer of propriety and domestic responsibility. When it appears before a home, the face in the wheel cries out a warning to the inhabitants, typically commanding them to watch their children rather than stare at the apparition. Those who give in to curiosity and peek at the katawaguruma are punished with the disappearance or injury of their children. However, the creature responds to sincere remorse and elegant poetry, as demonstrated in a famous tale where a grieving woman composed a tanka poem expressing her regret and posted it on her door, prompting the katawaguruma to return her child. The creature is sensitive to named gossip and will depart if its secrets are widely discussed. It can be warded off by posting protective poetry or charms at doorways.",
     "habitat": "Night roads, especially Kyoto and Omi Province",
@@ -1925,13 +1925,14 @@
       "F300"
     ],
     "featured_in_stories": [],
-    "source": "Japanese folklore; a flaming wheel yokai (Katawaguruma).",
-    "source_quality": "good",
+    "source": "Edo-period ghost collections (e.g., Shokoku Hyakumonogatari); Japanese yokai scholarship.",
+    "source_quality": "well-documented",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "kawa-zaru-0939",
@@ -2327,7 +2328,7 @@
       "hanako-san",
       "kosenj-bi"
     ],
-    "description": "Kosen is a hauntingly beautiful ghost spirit from Japanese folklore, a spectral woman who appears on moonlit nights to dance with an ethereal grace that mesmerizes all who see her. This yokai is closely related to the legends of Alison or the Chinese jiangshi, sharing characteristics of the beautiful female ghost who lures men to their doom. Kosen typically appears in remote areas such as abandoned temple grounds, forest clearings, and the edges of swamps and marshes, choosing locations where her supernatural nature might go unnoticed until it is too late. The spirit embodies the Japanese aesthetic concept of mono no aware, the bittersweet awareness of impermanence, as her beauty is both breathtaking and deadly. The legend of Kosen serves as a cautionary tale about the dangers of being seduced by appearances and the importance of maintaining awareness even in moments of great beauty",
+    "description": "'Kosen' garbles the attested yokai kosenjobi ('ancient battlefield fire'): ghost-flames rising over old killing grounds from the blood of fallen warriors and horses. Depicted by Toriyama Sekien in the Konjaku Gazu Zoku Hyakki and noted in Edo ghost-story collections, these pale fires drift as unsettled souls; witnesses would chant and withdraw. The input's 'dancing ghost woman' is fabricated.",
     "appearance": "Kosen manifests as a woman of extraordinary beauty, wearing a flowing white kimono that seems to glow with its own soft, internal light, the fabric moving as though stirred by a breeze that no one else can feel. Her hair is long and black, falling past her waist and moving with an unnatural fluidity, and her face is classically beautiful with pale, luminous skin, delicate features, and dark, captivating eyes that reflect the moonlight. She dances with an otherworldly grace, each movement perfectly fluid and hypnotic, as though she is not bound by the normal limitations of human anatomy. Her feet barely seem to touch the ground, and she leaves no footprints in dew or dust. In some accounts, those who look closely notice that her beauty is slightly off: her eyes may be completely black without iris or pupil, her mouth may be fixed in a smile that never changes, or her reflection in water may show a rotting corpse instead of a beautiful woman. The moonlight itself seems to gather around her, making her the brightest thing in the darkness",
     "behavior": "Kosen dances alone on moonlit nights, her movements so captivating that travelers cannot help but stop and watch, drawn into her performance by an irresistible compulsion. She never speaks but communicates through her dance, which tells a wordless story of longing, sorrow, and loss. Those who watch for too long become mesmerized, their will sapped by her beauty until they follow her into the swamps or marshes where she makes her home. Some victims drown in shallow water, walking into ponds as though in a trance, while others waste away from longing, unable to think of anything but the ghostly dancer they saw. The spirit is said to feed on the life force of those she entrances, growing stronger with each victim. Kosen has one known weakness: she fears mirrors, as they reflect her true rotting form, shattering the illusion of beauty that she depends upon. Those who suspect they are facing a Kosen are advised to carry a small mirror or to avoid looking directly at her, keeping their eyes on the ground instead.",
     "habitat": "Moonlit fields, near water",
@@ -2371,14 +2372,15 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Japanese folklore; a ghost woman who dances on moonlit nights.",
-    "source_quality": "good",
+    "source": "Toriyama Sekien, 'Konjaku Gazu Zoku Hyakki'; Edo ghost-story collections (e.g., Shuchin-so); yokai.jp / yokai.com.",
+    "source_quality": "well-documented",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/kosen/"
+    "pronunciation_ipa": "/kosen/",
+    "attested": true
   },
   {
     "id": "kosenj-bi-0974",
@@ -5085,7 +5087,7 @@
       "kama-itachi",
       "gumiho-southkorea"
     ],
-    "description": "Dokkaebi Gam is a specific type of Korean goblin distinguished by a magical club that can reproduce itself — each time the club strikes the ground, it creates another goblin. This reproduction ability makes Dokkaebi Gam particularly dangerous and unpredictable, as a single encounter can rapidly escalate into an invasion. The name 'Gam' is associated with the dokkaebi gamtu, an invisibility hat that some dokkaebi possess, allowing them to appear and disappear at will. In Korean folk belief, these goblins are not inherently evil but act according to a moral logic that rewards virtue and punishes vice. The Dokkaebi Gam embodies the frightening possibility of uncontrolled multiplication — a theme that appears in Korean folktales where heroes must find clever ways to stop the endless reproduction of goblins. Despite their fearsome reputation, Dokkaebi Gam can be befriended through offerings of food and drink, particularly buckwheat jelly and rice wine",
+    "description": "Korean folklore knows the dokkaebi, a horned goblin of ambiguous character, and its bangmangi (magic club) is central to a famous tale cycle: a kind woodcutter who aids a dokkaebi receives a club that yields gold, while his greedy rival is beaten or left poor. The 'Dokkaebi Gam' entry garbles this motif: the club rewards virtue and punishes greed, it does not spawn goblins.",
     "appearance": "Dokkaebi Gam appears as a twisted humanoid figure with one leg, long spindly arms, and bulging eyes that glow in darkness. Its skin has a rough, bark-like texture, colored deep blue, green, or red. It has a single horn or pair of small horns on its head, and its hair is wild and tangled like vines. It wears simple, tattered clothing — often a torn hanbok — and carries its signature magical club. When multiplied through its club's power, the resulting goblins are identical copies of the original, creating an army of identical creatures. Some descriptions give Dokkaebi Gam disproportionately large feet or a hunched back. It may also wear the dokkaebi gamtu, a small conical hat that renders it invisible. In Korean art, this goblin type is depicted in motion — leaping, dancing, or brandishing its club, always with a mischievous or menacing expression.",
     "behavior": "Dokkaebi Gam is a mischief-maker who uses its multiplying club to cause chaos and confusion. It may initially appear alone, challenging a traveler to a game or asking for food, but if threatened or angered, it strikes the ground with its club, creating an ever-growing army of goblins. Despite this fearsome power, Dokkaebi Gam can be generous to those who treat it well, granting wishes and sharing its treasure. It loves drinking games and can become a loyal friend to humans who share their alcohol with it. Dokkaebi Gam is bound by certain rules — it cannot harm a person who has shown genuine kindness, and it respects courage and cleverness. The multiplying effect of its club can be neutralized if the club is seized or destroyed, or if the goblin is tricked into overextending its power. Like all dokkaebi, it is repelled by horse blood and can be distracted by offerings of buckwheat foods.",
     "habitat": "Forests, mountains, lonely paths",
@@ -5123,13 +5125,14 @@
     "seo_description": "Dokkaebi Gam is a Korean goblin with a self-reproducing magical club that creates endless copies, only defeated through cleverness and kindness",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Korean folklore; a variation of the Dokkaebi with a magical club.",
-    "source_quality": "good",
+    "source": "Korean folktale collections, e.g., Hanguk gubi munhak daegye, recording the dokkaebi bangmangi cycle.",
+    "source_quality": "well-documented",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "nk-dokkaebi-0001",

@@ -988,7 +988,7 @@
       "bluecap-england",
       "skrzak"
     ],
-    "description": "The Boggart is a mischievous and often malevolent household spirit from the folklore of northern England, particularly Lancashire and Yorkshire, where it torments families by hiding objects, spoiling food, making terrible noises at night, and generally making domestic life unbearable. Unlike the more benign Brownie or Hobgoblin, the Boggart is rarely helpful and actively delights in causing chaos and fear. The name 'Boggart' is believed to derive from the Old English 'bog' meaning goblin or specter, and it is related to the broader category of 'bogeyman' figures found throughout British folklore. Boggarts are territorial spirits that attach themselves to specific houses or farms rather than to individual people, and once a Boggart has chosen a home, it is notoriously difficult to drive away. Traditional methods of boggart removal include scattering flaxseed on the floor (the Boggart must stop to count each seed), moving house entirely (though the Boggart may follow in a churn or other possession), or calling in a cunning man or priest to perform an exorcism. The Boggart serves as an explanation for the small, inexplicable misfortunes of daily life and as a warning against leaving a messy or disorderly home",
+    "description": "The boggart is a mischievous and often malevolent household spirit of northern English folklore, especially Lancashire and Yorkshire, that hides objects, spoils food, and makes night noises to torment a family. Tied to a house rather than a person, it is hard to drive away; flaxseed scattering or moving house may fail, as the boggart can follow.",
     "appearance": "The Boggart is typically described as a small, hairy creature with rough, dark fur, a wizened face with deep-set, glittering eyes, and long, clawed fingers with which it performs its mischief. Its mouth is wide and filled with irregular, yellow teeth, and its ears are large and pointed, twitching at the slightest sound. Some accounts describe it as having a long, thin tail, while others emphasize its ability to stretch and contort its body to fit through keyholes, under doors, or into the smallest cracks and crevices. Despite its small size, the Boggart is surprisingly strong and can move heavy furniture, break solid objects, and leave deep scratch marks on walls. The creature is capable of partial invisibility—it may reveal only its eyes gleaming in the darkness or the outline of its form against a moonlit wall. In some Yorkshire traditions, the Boggart can also take the form of a large black dog, a shaggy calf, or a hideous naked child, adapting its appearance to maximize the terror of its chosen victims.",
     "behavior": "The Boggart is a relentless tormentor that specializes in domestic disruption. Its typical activities include pulling the covers off sleeping family members, hiding household items in impossible locations, souring milk before it can be churned, making furniture scrape across the floor at all hours, and tapping on windows and doors to keep everyone awake. The Boggart has a particular fondness for targeting children, pinching them black and blue during the night or whispering frightening things in their ears. It is also known to impersonate family members, calling out in a perfect imitation of a mother's voice to lure children into danger or answering the door as a disguised version of the homeowner. Despite its cruel nature, the Boggart can be outwitted by cleverness. The classic story tells of a family who moved house to escape their Boggart, only to hear the spirit's voice from inside a churn they had packed, announcing that it had decided to move with them. The only reliable way to be rid of a Boggart is to make it laugh at its own reflection or to use its obsessive nature against it—scattering a pile of seeds forces it to stop and count each one, and if the pile is endless, the Boggart may eventually give up in frustration.",
     "habitat": "Homes, barns, cellars, marshes",
@@ -1035,14 +1035,15 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "English folklore — the Boggart is a household spirit documented in Northern English oral tradition.",
-    "source_quality": "good",
+    "source": "Northern English folklore; Lancashire and Yorkshire oral tradition",
+    "source_quality": "well-documented",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/bɒɡəɾt/"
+    "pronunciation_ipa": "/bɒɡəɾt/",
+    "attested": true
   },
   {
     "id": "stub-salmon-of-wisdom",

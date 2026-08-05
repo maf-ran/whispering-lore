@@ -799,7 +799,7 @@
       "ulu-ulan",
       "lgii-khorkhoi-mongolian-death-worm"
     ],
-    "description": "Gazar-bichig is a Mongolian spirit of sacred script and ancient manuscripts from traditional Mongolian animist beliefs. The name combines elements referring to earth and writing, reflecting this spirit's deep connection to the preservation of written knowledge and cultural memory. This entity is intrinsically linked to the traditional Mongolian script Mongol Bichig, a unique vertical writing system derived from the Old Uyghur alphabet that was created in the early thirteenth century when Genghis Khan's empire needed administrative documentation. The spirit protects ancient texts, religious scriptures, and historical records stored in Mongolian monasteries and libraries. It embodies the sacred nature of the written word in Mongolian culture, where script was traditionally seen as possessing inherent spiritual power. The gazar-bichig is particularly revered by scholars, scribes, and those who dedicate their lives to preserving Mongolia's literary heritage",
+    "description": "Not independently attested: the name combines Mongolian 'gazar' (land, place) and 'bichig' (script, document), meaning a land document or map, not a spirit. No household or forest spirit called Gazar-bichig is documented in Mongolian folk religion. The real vertical script Mongol Bichig and the lamaist reverence for texts are factual, but the personified 'spirit of sacred manuscripts' is invented.",
     "appearance": "Gazar-bichig appears as the translucent figure of an elderly Mongolian scribe or scholar dressed in traditional deel robe, seated at a low writing desk. The spirit's form is semi-transparent, with ancient scrolls and manuscripts floating ethereally around its body. Glowing Mongolian script characters made of golden light drift and swirl in the air around the apparition, occasionally arranging themselves into meaningful phrases before dispersing. The scribe's fingers are permanently stained with dark ink, and its eyes glow with a soft luminescence. A traditional writing brush and inkstone float nearby. The spirit may appear surrounded by a faint halo of illuminated text, with words from Buddhist sutras and ancient chronicles visible within its translucent form. Its face bears the deep wrinkles of great age and wisdom, with long white beard and hair typical of traditional Mongolian wise elders.",
     "behavior": "Gazar-bichig watches over libraries, monasteries, and any place where sacred texts and historical manuscripts are stored in Mongolia. It whispers ancient wisdom and forgotten knowledge to worthy scholars who approach their studies with proper respect and pure intentions. The spirit causes book pages to turn by themselves in the night, rearranges scrolls, and sometimes adds corrections or commentary to manuscripts through supernatural means. It is fiercely protective of written knowledge and punishes those who destroy books, burn scriptures, or vandalize texts with a terrible curse of illiteracy or madness. The gazar-bichig may appear to lazy students as a stern rebuke or to guide them toward proper understanding. During storms, it is said to shield library roofs from lightning and prevent water damage to precious collections. Offerings of ink, paper, and tea are traditionally left to gain its favor.",
     "habitat": "Libraries, monasteries, buried texts",
@@ -842,13 +842,14 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Mongolian folk religion — Gazar Bichig household spirits.",
-    "source_quality": "good",
+    "source": "No verifiable source; 'gazar bichig' means land document/map in Mongolian",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "gbahali-0765",
@@ -871,7 +872,7 @@
       "katthveli-faroeislands",
       "guri-kunna"
     ],
-    "description": "The Gbahali is a legendary reptilian cryptid from Liberian folklore and Mande mythology, described as a giant crocodile-like creature that inhabits deep rivers, swamps, and remote waterways of West Africa. Unlike ordinary crocodiles, local traditions emphasize that gbahali has a distinctive short-snouted, lizard-like head and more erect limbs that allow it to move effectively on land as well as in water. Witnesses and traditional accounts describe it reaching lengths of up to one hundred feet, making it significantly larger than any known crocodilian species. Some cryptozoologists speculate that gbahali could represent a surviving population of prehistoric reptiles or a misidentified large monitor lizard. The creature features prominently in the oral traditions of the Mande people and other ethnic groups of Liberia, where its legend serves as both a warning about the dangers of wild waterways and a symbol of nature's untamed power. Modern sightings continue to be reported",
+    "description": "The gbahali is a giant crocodile-like cryptid reported from the rivers, swamps and waterways of Liberia, part of local oral tradition and popular cryptozoology. Witnesses describe a short-snouted, lizard-headed beast with more erect limbs than a crocodile, reaching up to about a hundred feet; some link it to a surviving prehistoric reptile or a misidentified monitor lizard.",
     "appearance": "Gbahali is described as a massive reptile with a body resembling a crocodile but with notable differences in proportions and structure. Its head is shorter and blunter than a typical crocodile, more lizard-like in shape, with dagger-like teeth protruding from powerful jaws. The creature's legs are positioned more beneath its body than a crocodile's splayed limbs, giving it a more upright stance and allowing faster movement on land. Its hide is thick and scaly with a rough, armored texture, reportedly capable of shifting color to match its surroundings like a chameleon, making it nearly invisible against riverbanks and forest floors. The body is dark gray or brown with irregular patterns, and the eyes are described as large and luminous. Its tail is long and muscular, powerful enough to capsize small boats. The overall size is estimated at thirty to one hundred feet in length, with some accounts describing it as massive enough to drag fully grown cattle underwater.",
     "behavior": "Gbahali is an ambush predator that lies in wait near river crossings, watering holes, and along game trails, using its color-shifting hide to blend perfectly with the environment. It attacks with explosive speed, seizing prey in its powerful jaws and dragging it beneath the water to drown. The creature primarily targets large animals such as antelope, cattle, and unwary humans who venture too close to its territory. It is said to guard specific stretches of river, attacking anyone who attempts to cross at certain points. Unlike ordinary crocodiles that typically hunt from the water, the gbahali can pursue prey onto land with surprising agility. Local legends tell of entire villages being terrorized by these creatures, requiring powerful shamans to drive them away. The gbahali is solitary by nature and highly territorial, with males maintaining large stretches of river as their exclusive domain. Despite its fearsome reputation, it is considered a sacred guardian of waterways in some traditions.",
     "habitat": "Deep waters, river crossings",
@@ -912,13 +913,14 @@
       "A200"
     ],
     "featured_in_stories": [],
-    "source": "Liberian/Grebo oral tradition — Gbahali lizard-like cryptid from Liberian swamps.",
-    "source_quality": "good",
+    "source": "Liberian oral tradition; cryptozoology literature (cryptid records, Cryptid Wiki)",
+    "source_quality": "fair",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "ghoul-arabia-0766",
@@ -1268,7 +1270,7 @@
       "pwint",
       "o"
     ],
-    "description": "Gia Lâm is a benevolent forest spirit from Vietnamese folklore that inhabits ancient trees, bamboo groves, and sacred forests throughout Vietnam. Known as ông già cây or old man of the trees, this nature spirit embodies the deep reverence for forests and nature found in Vietnamese animist traditions. Gia Lâm is considered the guardian and protector of the forest and all its inhabitants, serving as an intermediary between the human world and the natural realm. The spirit is deeply connected to the Vietnamese concept of yếu tố tâm linh or spiritual ecology, where natural elements are believed to possess consciousness and agency. Stories of Gia Lâm are particularly prominent in rural areas where dense forests still stand, and the spirit is respected by woodcutters, hunters, and farmers who rely on forest resources. The legend reflects Vietnam's long cultural history of forest worship, predating both Buddhism and Confucianism in the region",
+    "description": "Not independently attested. No Vietnamese source records a forest spirit named 'Gia Lâm': the name is a district of Hanoi, birthplace of the hero Saint Giong, while 'già làng' denotes a Central Highlands village elder, a human role rather than a supernatural being. The 'old man of the trees' guardian account is generic template prose with no documentary basis.",
     "appearance": "Gia Lâm manifests as an elderly Vietnamese man of advanced age, with a long white beard that reaches down to his waist, symbolizing his centuries-long existence within the forest. His skin has the texture and color of ancient tree bark, rough and deeply furrowed like the trunk of an old banyan or ironwood tree. His eyes shine like polished amber, reflecting the golden light of sunset filtering through the forest canopy. The spirit dresses in simple clothing woven from natural fibers, leaves, and vines, blending seamlessly into the forest environment. He may carry a gnarled walking stick made of living wood that sprouts leaves and flowers. When moving through the forest, Gia Lâm appears to merge with the trees, becoming indistinguishable from the ancient trunks when standing still. Some accounts describe him as surrounded by a soft green luminescence, and small forest animals such as birds and squirrels often gather around him without fear.",
     "behavior": "Gia Lâm watches over the forest and its creatures, rewarding those who treat the natural world with respect while punishing those who exploit it greedily. To honest woodcutters who take only what they need and replant what they harvest, the spirit reveals the best trees for their purpose and guides them safely through the forest. Greedy poachers and loggers who destroy recklessly become hopelessly lost in the woods, trapped in an endless maze until they repent. The spirit can guide lost travelers back to safety, appearing as a distant figure who leads the way without speaking. He protects animals from unnecessary cruelty and may intervene when hunters kill more than they need for sustenance. Gia Lâm also ensures that bamboo groves remain healthy and productive, blessing villages that maintain sacred groves near their settlements. Offerings of rice, fruit, and incense are traditionally placed at the base of ancient trees to honor him and gain his protection.",
     "habitat": "Ancient trees, bamboo forests, mountains",
@@ -1311,17 +1313,18 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Vietnamese folklore — Già làng forest spirit from mountain region folklore.",
-    "source_quality": "good",
+    "source": "No verifiable source; 'Gia Lâm' is a Hanoi district, 'già làng' a village-elder title",
+    "source_quality": "poor",
     "stories": [
       "the-trung-sisters-rebellion",
       "the-legend-of-the-betel-and-the-areca",
       "the-legend-of-banh-chung-chung-cake"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "giltin-0771",
@@ -1783,7 +1786,7 @@
       "sri-lanka-naga",
       "kalu-devata"
     ],
-    "description": "Golem-Bakku is a water spirit from Sri Lankan folklore associated with the protection of sacred wells, springs, and water sources. The name combines influences from South Asian spirit traditions, reflecting the syncretic nature of Sri Lankan folk beliefs that blend indigenous animism, Buddhist cosmology, and Hindu mythology. This benevolent water guardian is particularly venerated in rural areas where natural springs and wells serve as vital community resources. The golem-bakku is one of many local nature spirits in Sri Lankan tradition known as devata or guardian spirits that inhabit specific natural features. Belief in water spirits of this nature predates the arrival of Buddhism in Sri Lanka in the third century BCE, representing some of the island's oldest continuous spiritual traditions. The golem-bakku embodies the Sri Lankan cultural value of water as sacred and life-giving, with these spirits serving as reminders of the need to treat water sources with reverence and not to pollute or waste this precious resource",
+    "description": "Not independently attested as a figure of Sri Lankan folklore. No source documents a water-spirit named 'Golem-Bakku' protecting wells or springs; the name is neither Sinhala nor Tamil and resembles the Japanese baku (dream-eater), not a Sri Lankan being. Genuine Sri Lankan guardian spirits are the devata, yaka and nāga figures invoked around water and shrines.",
     "appearance": "Golem-Bakku is described as a luminous, ethereal figure that dwells within and around water sources such as wells, springs, and natural pools. The spirit may appear as a shimmering humanoid form composed of light and water, with a bluish-white glow that illuminates the surrounding area at night. Some traditions describe it as a beautiful figure of indeterminate gender, draped in flowing garments that seem to be woven from water itself. When visible, it has translucent skin through which rippling water can be seen, and its eyes shine like polished gemstones reflecting moonlight. The spirit may also manifest as a patch of unusually clear, bright water within a larger body, or as a gentle light hovering above a well's surface. In some accounts, it takes the form of a small child or a wizened old person sitting beside the water. The golem-bakku can also appear as a white water lily or lotus flower floating on the surface of its well, or as steam rising from the water that takes human shape before dissipating.",
     "behavior": "Golem-Bakku guards its water source jealously, ensuring that only those with pure intentions and proper respect may draw from it. The spirit blesses the water with healing properties, and those who drink from a golem-bakku well with faith may find their illnesses cured or their burdens lightened. It protects the water from pollution and those who would misuse it, causing misfortune to fall upon anyone who deliberately contaminates a sacred spring. The spirit is particularly active at dawn and dusk when it may be seen tending to its well, clearing fallen leaves and debris from the water. Villagers traditionally make offerings of flowers, incense, and small coins at the edge of sacred wells to honor the golem-bakku and secure the continued purity and abundance of the water supply. During droughts, special ceremonies are performed to implore the spirit to intercede with higher powers for rain. The golem-bakku maintains the water's purity on a spiritual level, ensuring that those who drink with pure hearts receive not just physical hydration but spiritual cleansing as well.",
     "habitat": "Sacred wells",
@@ -1828,8 +1831,8 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Sri lanka mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source": "None — no independent source located",
+    "source_quality": "poor",
     "stories": [
       "gamarala-the-foolish-farmer-of-sri-lankan-folktales",
       "the-legend-of-the-sacred-tooth-relic",
@@ -1838,9 +1841,10 @@
       "the-legend-of-saman-deviyo-and-adams-peak"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "goreu-0778",
@@ -1863,7 +1867,7 @@
       "cyhyraeth",
       "c-iste-bodhar"
     ],
-    "description": "Goreu is a shapeshifting trickster spirit from Welsh folklore, closely related to the Pwca of Welsh tradition and the Irish Púca that share a common Celtic origin. The name derives from the same ancient Celtic root as púca meaning spirit or ghost, reflecting the creature's nature as a supernatural entity rather than a physical being. This multifarious spirit embodies the Welsh folk belief in pwca or pwca, ambivalent nature spirits that could be either helpful or harmful depending on circumstances. The Goreu is one of several related shapeshifting spirits found across the Celtic nations, including the Irish púca, Cornish bucca, and the English puck from which Shakespeare's character Puck in A Midsummer Night's Dream derives. Welsh folklore describes Goreu as particularly active in the rural countryside of Wales, where it haunts remote roads, mountain passes, and moorlands. The creature's dual nature reflects the Welsh cultural understanding of the supernatural world as neither purely good nor evil but capable of both benevolence and malice depending on human behavior",
+    "description": "Goreu fab Custennin is not a shapeshifting spirit but a hero of the Welsh tale Culhwch ac Olwen in the Mabinogion: son of Custennin the giant and cousin to Arthur, he joins Culhwch's quest and, at the story's end, beheads the giant chieftain Ysbaddaden, whose fortress and lands he receives. His name means 'best'.",
     "appearance": "Goreu is a supreme shapeshifter capable of assuming multiple forms, though three primary manifestations are most commonly recorded in Welsh folklore. Its most frequent form is that of a large black horse with glowing, fiery eyes that scorch the darkness, similar to the ceffyl dŵr or water horse of Welsh tradition. This equine form may appear as a magnificent stallion that tempts travelers to ride it before carrying them on a terrifying journey. Its second common form is that of an ugly little man with dark, wrinkled skin, long arms, and malicious glittering eyes, wearing ragged clothes and often sitting by the roadside. The third form is a goat-like creature with twisted horns and an unnerving human-like expression. Unlike some shapeshifters, Goreu can also appear as a shadow that moves independently of any light source, or as a disembodied voice that mimics the calls of friends and family. In all its forms, some unnatural feature betrays its supernatural nature, such as hooves that face backward or eyes that glow with otherworldly light.",
     "behavior": "Goreu is an inveterate trickster whose behavior swings between helpful guidance and malicious deception. In its benevolent aspect, it may lead lost travelers safely home through unfamiliar terrain, warn farmers of impending danger to their livestock, or reveal the location of hidden treasure. However, these helpful acts are always balanced by a tendency toward mischief that makes the Goreu fundamentally unpredictable. More commonly, it delights in misleading travelers, causing them to wander in circles through foggy mountain passes, luring them into bogs and marshes, or leading them to the edges of cliffs. The spirit appears most frequently at crossroads, bridges, and boundaries between parishes, liminal places where the veil between worlds is thin. It is particularly active during misty evenings and moonless nights. The Goreu can imitate the voices of loved ones to lure people into dangerous situations and may knock on doors at night only to vanish when opened. Despite its tricks, the Goreu rarely causes permanent harm, seeming to act more out of mischief than genuine malevolence. It can be warded off by iron or by reciting specific prayers.",
     "habitat": "Rural Wales, farms, crossroads",
@@ -1907,15 +1911,16 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Welsh folklore — ghost documented in Welsh oral tradition.",
-    "source_quality": "fair",
+    "source": "Wikipedia (Goreu fab Custennin); Culhwch ac Olwen (Mabinogion)",
+    "source_quality": "documented",
     "stories": [
       "the-red-robin-of-wales"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "goubet-monster-0779",
@@ -2983,7 +2988,7 @@
       "karakoncolos",
       "hirsiz-i-b"
     ],
-    "description": "The Gulyabani is a fearsome ghoul-like creature from Turkish and Anatolian folklore, whose name derives from the Persian \"Gul-i Beyabani,\" meaning \"Ghoul of the Desert.\" It is a horrifying being that haunts desolate places such as graveyards, ruins, deserts, and remote mountain slopes, preying on travelers and those who wander alone at night. The Gulyabani has roots in Arabic and Persian mythology, where similar creatures called \"ghul\" were believed to be demons that could shape-shift and devour human flesh. In Turkish culture, the Gulyabani serves as a bogeyman figure used by parents to discipline children and keep them from wandering into dangerous areas after dark. Unlike ordinary ghouls, which are merely grave-robbing scavengers, the Gulyabani is a cunning predator with a malevolent intelligence. It appears in classical Turkish literature and has been adapted into modern Turkish horror films and popular culture, cementing its place as one of Anatolias most terrifying legendary creatures",
+    "description": "The Gulyabani is a ghoul-like being of Turkish and Anatolian folk belief, from Persian 'Gul-i Beyabani' ('desert ghoul'). It haunts graveyards, ruins, and lonely roads at night, preying on travelers and those who wander alone after dark. In Turkish tradition it appears as a bogeyman used to keep children indoors, and it features in classical Turkish literature.",
     "appearance": "The Gulyabani is described as a massive, monstrous humanoid covered in thick reddish or yellow hair, with a long grey or black beard that is one of its most distinctive features. It stands far taller than a man and possesses a powerful, muscular build with long, sharp claws capable of rending flesh. Its eyes glow fiercely in the darkness, often described as red or yellow, and it emits a foul, nauseating odor that betrays its presence before it is seen. The Gulyabani has the ability to shape-shift, commonly appearing in the guise of an elderly man or woman to lure unsuspecting victims close before revealing its true monstrous nature. Some regional variations describe it with backward-facing feet, a trait it shares with other jinn-like beings in Middle Eastern folklore, which contributes to its ability to confuse and disorient those who try to track it. In Anatolian traditions, it is sometimes depicted as a tall, thin figure or as a giant with a single eye on its forehead.",
     "behavior": "The Gulyabani is primarily nocturnal, hiding in graves and desolate places during the day before emerging at night to hunt. It preys on lone travelers, using its shape-shifting ability to appear as a harmless old person in distress, then attacking when the victim comes close. A particularly gruesome habit involves finding people sleeping alone and licking the soles of their feet until the skin thins enough to bleed, then drinking their blood until they perish. The Gulyabani has an affinity for horses, sneaking into stables to ride them and braid their tails into intricate, impossible knots. It may challenge hunters or travelers to wrestling matches: if the human wins, the Gulyabani retreats, but if the human loses, they fall gravely ill. Villagers traditionally protect themselves using talismans, particularly the evil eye (nazar), and by staying indoors or in groups after dark. The Gulyabani possesses immense strength and can overpower and devour humans, making it one of the most feared entities in Turkish folklore.",
     "habitat": "Ruins, graveyards, abandoned places, ancient sites",
@@ -3022,13 +3027,14 @@
     "seo_description": "A giant ghoul from Turkish and Arabic folklore with a distinctive long beard. More powerful and dangerous than regular ghouls. Often guards treasures ",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Turkish folklore — Gulyabani undead spirit documented in Turkish oral tradition.",
-    "source_quality": "good",
+    "source": "Turkish folklore and literary tradition; Persian-derived name (gul-i biyabani), documented in Turkish folk-belief surveys.",
+    "source_quality": "documented",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "gumiho-southkorea-0790",
@@ -4286,7 +4292,7 @@
       "landvttir-sweden",
       "g-rdsr"
     ],
-    "description": "Gruvrået (the mine spirit), also called Gruvfrun (the mine lady) or Gruvjungfrun (the mine maiden), is a female guardian spirit of mines in Swedish folklore, particularly in the Bergslagen mining district. She appears as an elegantly dressed lady carrying a ring of keys, walking through the mine tunnels. The color of her dress serves as an omen — a white dress means a non-fatal accident will occur, while a black dress foretells a death in the mine. She rewards respectful miners by revealing rich ore veins and punishing swearing, whistling, or littering with cave-ins and lost tools. Miners would leave offerings of food, tobacco, or coins for her. The belief was so strong that new mines would be formally introduced to Gruvrået through a ceremony of respect",
+    "description": "Gruvrået, also called Gruvfrun or Gruvjungfrun, is the guardian spirit of mines in Swedish folklore, especially in the Bergslagen mining district. She is said to walk the tunnels as an elegantly dressed woman with a ring of keys; her dress color was read as an omen, and she rewarded respectful miners with rich ore while punishing swearing and careless behavior in the workings.",
     "appearance": "A tall, beautiful woman in a flowing dress (white or black) with a ring of keys at her waist. Carries a lantern. Pale skin. Sometimes appears with a crown of ore crystals. Her footsteps make no sound on stone.",
     "behavior": "Walks mine tunnels with a key ring that jingles to warn of danger. White dress indicates a minor accident; black dress means death. Reveals ore-rich veins to respectful miners. Causes cave-ins on those who swear or whistle underground.",
     "habitat": "Underground in iron, copper, and silver mines throughout Bergslagen (Västmanland, Dalarna, Närke, Värmland). Most active in deeper shafts. Appears at the end of shifts and during night work.",
@@ -4328,8 +4334,8 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Swedish folk belief and ethnographic records of rural traditions.",
-    "source_quality": "good",
+    "source": "Swedish folk belief; ethnographic records of Bergslagen mining tradition on the gruvrå/mine spirit.",
+    "source_quality": "documented",
     "stories": [
       "the-lame-dog",
       "lasse-my-thrall",
@@ -4339,9 +4345,10 @@
       "the-rooster-the-hand-mill-and-the-swarm-of-hornets"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "g-rdsr-2255",

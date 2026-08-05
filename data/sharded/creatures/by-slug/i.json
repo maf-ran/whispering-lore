@@ -2410,7 +2410,7 @@
       "benin-asiman",
       "aunt-ganga"
     ],
-    "description": "Asiman is a shapeshifter from Ivorian Folklore mythology. This malevolent supernatural being hunts at night, primarily targeting children and vulnerable adults for their blood and flesh. The Asiman belongs to the rich tradition of West African witchcraft beliefs, which distinguish between benevolent spiritual power and harmful sorcery. Unlike the permanently monstrous Asanbosam, the Asiman is believed to be a witch who has made a pact with dark forces in exchange for supernatural abilities, including flight and shape-shifting. These beings operate in secret covens, gathering at night for rituals in isolated locations. The fear of Asiman serves as a powerful social control mechanism, discouraging nighttime wandering and reinforcing community bonds. Witch doctors and spiritual healers are regularly consulted to provide protective charms and to identify suspected Asiman within the community, though accusations of witchcraft can have serious social consequences",
+    "description": "The asiman is the vampire-witch figure known to the Akan of Côte d'Ivoire and, above all, documented among the Fon of Dahomey: a woman who seems ordinary by day but at night sheds her body to fly as a corpse-candle or ball of light, drinking blood from the sleeping, then turning to animal shape. Regional Akan equivalents include the obayifo and the Ewe adze.",
     "appearance": "By day, the Asiman appears indistinguishable from any other community member, often maintaining a normal life and family. However, certain signs are believed to betray their true nature: unusual brilliance in the eyes, a tendency to avoid daylight, pockets of cold skin, or an unnatural appetite for raw meat. At night, the Asiman transforms into various animal forms, most commonly appearing as a large owl with glowing red or yellow eyes and unusually long talons, or as a bat with a human-like face. In its owl form, it can be significantly larger than natural owls, and its shadow on the ground sometimes retains a human silhouette. Some accounts describe the Asiman in flight as a humanoid figure with leathery bat wings extending from its arms, its feet dangling below as it soars silently through the night sky. Its animal forms often have subtle wrongness, such as feathers that glint like metal or eyes that show too much intelligence.",
     "behavior": "The Asiman is a nocturnal predator that emerges after dark to hunt, using its shape-shifting abilities to move unnoticed through the night. It preys primarily on children, drawn by their pure life force, but will attack adults if opportunity presents. It enters homes through any opening, no matter how small, and feeds on its victim's blood or flesh. After feeding, the victim typically falls ill with a mysterious wasting disease that baffles ordinary healers. The Asiman joins other witches at night gatherings where they dance, perform rituals, and consume human flesh together. These gatherings are believed to take place under giant trees or at crossroads. To protect against Asiman, people hang protective charms over doorways, place iron objects near sleeping children, and employ the services of witch doctors who can create powerful talismans. The Asiman can be identified by the fact that it cannot enter a home where certain prayers have been said or where specific protective herbs have been placed.",
     "habitat": "Old-growth forests, riverbanks, and beneath large boulders.",
@@ -2460,8 +2460,8 @@
       "whispering winds"
     ],
     "featured_in_stories": [],
-    "source": "Akan cosmology and indigenous beliefs",
-    "source_quality": "good",
+    "source": "Fon/Dahomey complex (asiman); Akan obayifo and Ewe adze parallels",
+    "source_quality": "fair",
     "fun_fact_generated": false,
     "id": "ivory-coast-asiman-3386",
     "stories": [
@@ -2474,9 +2474,10 @@
       "Forest Spirits"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "ivc-sasabonsam-3417",
@@ -2501,7 +2502,7 @@
       "adze-togo",
       "asanbosam"
     ],
-    "description": "Sasabonsam is a vampire from Akan mythology. This terrifying being dwells in the deepest forests, inhabiting tall trees from which it ambushes unwary travelers, hunters, and anyone who dares venture into its domain. Its most distinctive features are its iron-hard teeth and hooked feet that allow it to hang from branches and descend silently upon its prey. The Sasabonsam serves as a powerful moral guardian of the forest, enforcing boundaries between human settlements and the untamed wilderness. Its legends encode ecological wisdom about respecting forest spaces and the dangers of venturing too far from established paths. The creature has iron teeth, pink or dark skin, long red hair, and bat-like features including wings in some accounts. The Sasabonsam shares similarities with the Sasabonsam of Ghana and the Eloko of Central Africa, forming part of a regional pattern of forest-dwelling predatory spirits across West Africa In Ivory Coast folklore, this figure is known among the Akan (including Baoulé, Anyi) people.",
+    "description": "The Sasabonsam (Asanbosam) is the vampire-ogre of the Akan peoples of Côte d'Ivoire, including the Baoulé and Anyi: a tree-dwelling forest predator with iron teeth, pink or dark skin, long red hair, bat-like wings and hooked feet, which drops on travelers and hunters from the canopy. Its legends police forest boundaries and punish excessive hunting.",
     "appearance": "A large, muscular humanoid with long limbs adapted for arboreal movement. It has iron-hard teeth capable of crushing bone, hooked feet like iron claws for gripping branches and snatching victims, long red or black hair, and piercing eyes. Some accounts give it bat-like wings. Its body blends humanoid and monstrous traits.",
     "behavior": "Nocturnal predator that ambushes prey from above, using its hooked feet to hang from branches and descend silently. It targets those who travel alone or venture into forbidden forest areas. Known to be cunning and patient, sometimes following travelers for long distances before striking. Avoids open spaces and villages.",
     "habitat": "Deep forests and wooded areas across Ivory Coast, particularly in regions with tall trees suitable for its ambush hunting style. Prefers areas far from human settlements with dense canopy cover.",
@@ -2561,15 +2562,16 @@
       "forest guardian"
     ],
     "featured_in_stories": [],
-    "source": "Akan oral tradition",
+    "source": "Akan (Baoulé/Anyi) oral tradition, Côte d'Ivoire; Wikipedia (West African mythology); Britannica (Anyi)",
     "source_quality": "good",
     "stories": [
       "queen-abla-pokou-the-mother-of-the-baoule-people"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "irrbloss-3479",

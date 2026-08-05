@@ -763,7 +763,7 @@
       "si-lah",
       "se-ir"
     ],
-    "description": "The Tantal is a shape-shifting creature from the folklore of the Iraqi marshlands of southern Mesopotamia, particularly among the Marsh Arabs (Ma'dan). This elusive being can transform into any form—human, animal, or even inanimate object—and is most active at night. The Tantal is deeply embedded in the oral traditions of the marsh communities, where it serves as both a cautionary figure to keep children away from dangerous waters and a supernatural guardian of hidden treasures buried beneath the marshes. Each Tantal is named after the specific marsh territory it controls, with Tantal Hafiz considered the ruler of all Tantals. They possess the power of foresight and can offer prophecies to those brave enough to befriend them",
+    "description": "The Tantal is a shapeshifting being of the southern Mesopotamian marshlands, documented among the Marsh Arabs; in Gulf usage the figure also appears in Kuwaiti retellings. It shifts between human, animal, and object forms at night, and individual Tantals are named for the territories they haunt, with Tantal Hafiz described as their ruler. The core lore is Iraqi; the Kuwait framing is derivative.",
     "appearance": "The Tantal has no fixed form, being a master shape-shifter. It can appear as a human (often described as a giant black man in some local tales), as various animals, or as inanimate objects. It is sometimes described as having ass-like feet which betray its true nature.",
     "behavior": "Primarily nocturnal, the Tantal is a trickster and predator that targets lone travelers, children, and fishermen in the marshes. It guards hidden treasures fiercely, using fear and deception to keep people away from specific areas. Despite its malevolent tendencies, it possesses the gift of foresight.",
     "habitat": "Active during nighttime in Kuwaiti settlements and wilderness",
@@ -804,13 +804,14 @@
       "F300"
     ],
     "featured_in_stories": [],
-    "source": "Kuwaiti folklore — shapeshifter documented in Kuwaiti oral tradition.",
+    "source": "Kuwaiti and Iraqi folk tradition; E. S. Drower, 'Folk-Tales of Iraq'; Al Jazeera (2023).",
     "source_quality": "fair",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "slug": "tantal-iraq",
@@ -836,7 +837,7 @@
       "aqrabuamelu-iraq",
       "abu-hasan-al-khilkhan"
     ],
-    "description": "Tantal is a shapeshifter from Iraqi Folklore mythology. This elusive being can transform into any form—human, animal, or even inanimate object—and is most active at night. The Tantal is deeply embedded in the oral traditions of the marsh communities, where it serves as both a cautionary figure to keep children away from dangerous waters and a supernatural guardian of hidden treasures buried beneath the marshes. Each Tantal is named after the specific marsh territory it controls, with Tantal Hafiz considered the ruler of all Tantals. They possess the power of foresight and can offer prophecies to those brave enough to befriend them",
+    "description": "The Tantal is a shapeshifting spirit of Iraqi folklore, tied especially to the marshlands of southern Iraq and the Marsh Arab (Ma'dan) communities. It is said to change shape at night, appearing as a human, animal, or object, and particular Tantals are named for the marsh territories they haunt, with Tantal Hafiz regarded as foremost among them. Documented in Drower's Folk-Tales of Iraq.",
     "appearance": "The Tantal has no fixed form, being a master shape-shifter. It can appear as a human (often described as a giant black man in some local tales), as various animals, or as inanimate objects. It is sometimes described as having ass-like feet which betray its true nature.",
     "behavior": "Primarily nocturnal, the Tantal is a trickster and predator that targets lone travelers, children, and fishermen in the marshes. It guards hidden treasures fiercely, using fear and deception to keep people away from specific areas. Despite its malevolent tendencies, it possesses the gift of foresight.",
     "habitat": "The Mesopotamian Marshes of southern Iraq",
@@ -891,15 +892,16 @@
       "bogeyman"
     ],
     "featured_in_stories": [],
-    "source": "Al Jazeera Features (2023), Iraqi oral traditions",
-    "source_quality": "good",
+    "source": "Iraqi folklore; E. S. Drower, 'Folk-Tales of Iraq' (1931); modern journalistic accounts of Tantal belief.",
+    "source_quality": "documented",
     "fun_fact_generated": false,
     "id": "tantal-iraq-1759",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "taotaomo-na-1760",
@@ -3813,7 +3815,7 @@
       "eswatini-tikoloshe",
       "sotho-ghosts"
     ],
-    "description": "The Tokoloshe is a mischievous and often malevolent dwarf-like water spirit found in the mythology of the Nguni and Basotho peoples of Southern Africa, including Lesotho. This small but feared creature is typically summoned by malicious individuals (often witches or sorcerers) to cause trouble for their enemies. The Tokoloshe's powers range from relatively harmless mischief, such as scaring children, to severe harm including causing illness, nightmares, financial ruin, and even death. Traditionally described as being the size of a small child with a disproportionately large head and an enormous phallus, the Tokoloshe is said to be invisible to most people, appearing only to those with supernatural sight. In Lesotho and surrounding regions, belief in the Tokoloshe remains widespread in rural areas, where people take practical precautions such as raising beds on bricks to prevent the creature from reaching them during the night. The spirit serves as a powerful explanation for misfortune and a mechanism for social control within communities",
+    "description": "The tokoloshe (tikoloshe, thokolosi) is the dwarf-like water spirit of Nguni and Basotho belief, feared across Southern Africa and prominent in Eswatini, where it is a favoured agent of witches and sorcerers. Invisible to most people, it works at night causing illness, nightmares and ruin, and may be warded off by raising beds on bricks. Its mischief explains misfortune and enforces social norms.",
     "appearance": "A small, hairy humanoid figure about the height of a small child, with a large head, wrinkled face, and disproportionately large genitals. It can make itself invisible at will and is sometimes described as having only one eye or backward-facing feet.",
     "behavior": "Tokoloshe are nocturnal and are sent by witches or sorcerers to inflict harm on specific victims. They can cause nightmares by sitting on people's chests, bring disease, and create general chaos. They may also be used for less malicious purposes such as minor thievery.",
     "habitat": "Homes at night",
@@ -3856,16 +3858,17 @@
     "featured_in_stories": [
       "tokoloshe-the-water-imp"
     ],
-    "source": "Eswatini folklore — the Tokoloshe goblin documented in Swazi oral tradition.",
+    "source": "Swazi (Nguni) oral tradition; Eswatini ethnography",
     "source_quality": "good",
     "stories": [
       "tokoloshe-the-water-imp",
       "tokoloshe-the-mischievous-water-trickster"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "tokoloshe-southafrica-1802",
@@ -3888,7 +3891,7 @@
       "salmon-spirit-of-zulu",
       "eagleguardianzulu-southafrica"
     ],
-    "description": "Tokoloshe is a spirit from South Africa mythology. This small but feared creature is typically summoned by malicious individuals (often witches or sorcerers) to cause trouble for their enemies. The Tokoloshe's powers range from relatively harmless mischief, such as scaring children, to severe harm including causing illness, nightmares, financial ruin, and even death. Traditionally described as being the size of a small child with a disproportionately large head and an enormous phallus, the Tokoloshe is said to be invisible to most people, appearing only to those with supernatural sight. In Lesotho and surrounding regions, belief in the Tokoloshe remains widespread in rural areas, where people take practical precautions such as raising beds on bricks to prevent the creature from reaching them during the night. The spirit serves as a powerful explanation for misfortune and a mechanism for social control within communities",
+    "description": "The tokoloshe is the mischievous, water-dwelling dwarf-spirit of Zulu and Xhosa (Nguni) belief in South Africa: child-sized with an oversized head, invisible except to the supernaturally gifted. Witches and izangoma deploy it to bring misfortune, illness, nightmares or death, while people sleep with beds raised on bricks to thwart it. The belief remains widespread and explains inexplicable harm.",
     "appearance": "A small, hairy humanoid figure about the height of a small child, with a large head, wrinkled face, and disproportionately large genitals. It can make itself invisible at will and is sometimes described as having only one eye or backward-facing feet.",
     "behavior": "Tokoloshe are nocturnal and are sent by witches or sorcerers to inflict harm on specific victims. They can cause nightmares by sitting on people's chests, bring disease, and create general chaos. They may also be used for less malicious purposes such as minor thievery.",
     "habitat": "Homes at night",
@@ -3931,14 +3934,15 @@
     "featured_in_stories": [
       "tokoloshe-the-water-imp"
     ],
-    "source": "Zulu and Xhosa folklore — the Tokoloshe goblin documented in South African ethnography.",
+    "source": "Zulu/Xhosa ethnography; South African folklore",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/toko lɔːʃe/"
+    "pronunciation_ipa": "/toko lɔːʃe/",
+    "attested": true
   },
   {
     "id": "tokoloshe-lesotho-1803",
@@ -3963,7 +3967,7 @@
       "eswatini-tikoloshe",
       "sotho-ghosts"
     ],
-    "description": "Tokoloshe is a spirit from Nguni-Basotho mythology mythology. This small but feared creature is typically summoned by malicious individuals (often witches or sorcerers) to cause trouble for their enemies. The Tokoloshe's powers range from relatively harmless mischief, such as scaring children, to severe harm including causing illness, nightmares, financial ruin, and even death. Traditionally described as being the size of a small child with a disproportionately large head and an enormous phallus, the Tokoloshe is said to be invisible to most people, appearing only to those with supernatural sight. In Lesotho and surrounding regions, belief in the Tokoloshe remains widespread in rural areas, where people take practical precautions such as raising beds on bricks to prevent the creature from reaching them during the night. The spirit serves as a powerful explanation for misfortune and a mechanism for social control within communities",
+    "description": "The tokoloshe, known in Sotho-speaking regions as the hili or thokolosi, is the water-dwelling dwarf of Basotho tradition in Lesotho, sent by sorcerers to torment their enemies. About the size of a small child with a disproportionately large head, it is invisible to most people and acts at night, bringing illness, nightmares or ruin. Families still raise bed-legs on bricks against it.",
     "appearance": "A small, hairy humanoid figure about the height of a small child, with a large head, wrinkled face, and disproportionately large genitals. It can make itself invisible at will and is sometimes described as having only one eye or backward-facing feet.",
     "behavior": "Tokoloshe are nocturnal and are sent by witches or sorcerers to inflict harm on specific victims. They can cause nightmares by sitting on people's chests, bring disease, and create general chaos. They may also be used for less malicious purposes such as minor thievery.",
     "habitat": "Rivers, streams, and watery places. They are believed to emerge from water sources to visit their victims at night.",
@@ -4032,14 +4036,15 @@
       ]
     ],
     "featured_in_stories": [],
-    "source": "Symbol Sage; Wikipedia; Basotho oral traditions",
+    "source": "Basotho (Sotho) oral tradition; Symbol Sage; Wikipedia",
     "source_quality": "good",
     "fun_fact_generated": false,
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "tokosik-1804",
@@ -9900,7 +9905,7 @@
       "ahuizotl",
       "mamadleau-saintlucia"
     ],
-    "description": "El Tabudo is a lesser-known but fascinating water spirit from Salvadoran folklore, specifically associated with Lake Coatepeque (meaning 'Hill of Snakes' in Nahuatl). According to the legend, a wealthy man who lived in a mansion on the lake's shore went for a canoe ride and was swept away by an underground current to the realm of the goddess of fresh water. Months later, he reappeared to his servants with grotesquely swollen knees (tabas in Salvadoran Spanish, hence 'El Tabudo' meaning 'Man of Big Knees') and transformed lips, resembling a sea creature more than a human. He is said to appear as a humble fisherman to gain trust, then lure people to the depths of the lake. He transforms men into giant goldfish and women into freshwater mermaids. The legend serves as both a cautionary tale about the dangers of the lake and a conservation narrative — El Tabudo punishes those who harm the lake's flora and fauna",
+    "description": "El Tabudo ('Man of Big Knees') is a water-spirit or lake-guardian of Salvadoran folklore tied to Lake Coatepeque in Santa Ana department. Legend says a rich lakeside landowner was dragged beneath the water and returned months later transformed, with swollen knees and a fish-like appearance; he now haunts the lake, sometimes appearing as a fisherman to lure people in.",
     "appearance": "Appears as an ordinary fisherman or a strange humanoid creature with massively swollen, ball-like knees and enlarged, fish-like lips. Can expand to enormous size. Sometimes described as a hybrid of human and fish, with scaly skin and webbed digits. Moves effortlessly through water.",
     "behavior": "Appears to fishermen and visitors on Lake Coatepeque, pretending to be a humble fisherman. Invites people to tour the lake depths. Transforms men into goldfish and women into mermaids. Punishes those who harm the lake's ecosystem. Can grant peaceful rest in the lake's depths.",
     "habitat": "Lake Coatepeque, its depths and surrounding waters, fresh water bodies throughout El Salvador",
@@ -9954,14 +9959,15 @@
       "B200"
     ],
     "featured_in_stories": [],
-    "source": "Salvadoran oral tradition; snip Walking With El Salvador blog; snip Guanacos.com; snip El Salvador Tips",
-    "source_quality": "good",
+    "source": "Salvadoran oral tradition; documented on walkingwithelsalvador.org and Salvadoran legend roundups (Guanacos, El Salvador Tips).",
+    "source_quality": "documented",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/tabudo/"
+    "pronunciation_ipa": "/tabudo/",
+    "attested": true
   },
   {
     "id": "tokwai-3326",
@@ -10320,7 +10326,7 @@
       "aqrabuamelu-iraq",
       "abu-hasan-al-khilkhan"
     ],
-    "description": "Tantal is a shapeshifter from Iraqi / Mesopotamian mythology. This elusive being can transform into any form—human, animal, or even inanimate object—and is most active at night. The Tantal is deeply embedded in the oral traditions of the marsh communities, where it serves as both a cautionary figure to keep children away from dangerous waters and a supernatural guardian of hidden treasures buried beneath the marshes. Each Tantal is named after the specific marsh territory it controls, with Tantal Hafiz considered the ruler of all Tantals. They possess the power of foresight and can offer prophecies to those brave enough to befriend them",
+    "description": "The Tantal (Arabic 'tanṭāl') is a shapeshifting being of Iraqi folklore, particularly among the Marsh Arabs of southern Iraq. It can appear as a human, animal, or object and is active at night; specific Tantals are associated with particular marsh territories, and one, Tantal Hafiz, is named as a chief of them. The figure is documented in Iraqi oral tradition and journalism.",
     "appearance": "The Tantal has no fixed form, being a master shape-shifter. It can appear as a human (often described as a giant black man in some local tales), as various animals, or as inanimate objects. It is sometimes described as having ass-like feet which betray its true nature.",
     "behavior": "Primarily nocturnal, the Tantal is a trickster and predator that targets lone travelers, children, and fishermen in the marshes. It guards hidden treasures fiercely, using fear and deception to keep people away from specific areas. Despite its malevolent tendencies, it possesses the gift of foresight.",
     "habitat": "Mesopotamian Marshes (Ahwar) of southern Iraq, reed beds, waterways, remote marsh islands",
@@ -10382,13 +10388,14 @@
       "M300"
     ],
     "featured_in_stories": [],
-    "source": "Iraqi Marsh Arab oral traditions, documented by Abdulrahman Zeyad for Al Jazeera (2023) and Drower's Folk-Tales of Iraq",
-    "source_quality": "good",
+    "source": "Iraqi Marsh Arab oral tradition; documented by Abdulrahman Zeyad (Al Jazeera, 2023) and Drower, 'Folk-Tales of Iraq'.",
+    "source_quality": "documented",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "tislit-n-anzar-3463",
@@ -12262,7 +12269,7 @@
       "selu-cherokee",
       "pamola"
     ],
-    "description": "Tsul 'Kalu, the Slant-Eyed Giant, is a legendary figure of Cherokee mythology who serves as the Great Lord of the Game, the powerful spirit who owns and controls all the wild game in the mountains. He is frequently invoked in hunting rites and rituals. He lives on the summit of Tanasee Bald Mountain in North Carolina, in a home called Tsunegûñ'yï. According to legend, he married a Cherokee woman and fathered a child, but when the woman's mother saw him and screamed in terror, he became angry. After being betrayed by the people's failure to follow instructions during a ceremonial fast, he became permanently invisible, though his power is still felt. His name means 'he has them slanting,' referring to his distinctive slanted eyes. Judaculla Rock, a soapstone slab covered in petroglyphs in Jackson County, North Carolina, is said to bear markings made by Tsul 'Kalu",
+    "description": "Tsul'kalu, the Slant-Eyed Giant, is the Great Lord of the Game in Cherokee tradition, owner of the wild game of the mountains and master of hunting rites. He dwells on Tanasee Bald in North Carolina at Tsunegûñ'yï; Judaculla Rock bears markings attributed to his hands. His name means 'he has them slanting.'",
     "appearance": "A colossal giant of immense size, with long, slanted eyes. When visible, he was so large that lying doubled up in a small hut, his head touched the rafters while his toes scraped the roof. Now permanently invisible except to medicine people.",
     "behavior": "As Great Lord of the Game, Tsul Kalu controls all the wild animals in his domain. He assists hunters who show proper respect and perform the correct rituals. He can grant or withhold game from the Cherokee people. He is a powerful but invisible presence in the mountains.",
     "habitat": "Tsunegûñ'yï on Tanasee Bald Mountain, in the mountains of North Carolina at the convergence of Haywood, Jackson, and Transylvania Counties",
@@ -12311,14 +12318,15 @@
     "seo_description": "Tsul 'Kalu, the Slant-Eyed Giant, is the Great Lord of the Game in Cherokee mythology, a powerful invisible giant who controls all wild animals in the mountains.",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Mooney, Myths of the Cherokee; Wikipedia - Tsul 'Kalu; World History Encyclopedia; native-languages.org",
-    "source_quality": "expert",
+    "source": "James Mooney, Myths of the Cherokee; Cherokee oral tradition",
+    "source_quality": "well-documented",
     "tribe": "Cherokee",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "attested": true
   },
   {
     "id": "ts-uu-jaas-haida-3777",
@@ -14473,7 +14481,7 @@
       "au-co-vietnamese",
       "lac-long-quan-vietnamese"
     ],
-    "description": "Thagyamin (Burmese: သိကြားမင်း) is the highest-ranking nat (deity) in traditional Burmese Buddhist belief, adapted from the Hindu god Indra (Śakra). As king of the celestial Trāyastriṃśa heaven and ruler over the pantheon of 37 nats, Thagyamin serves as the supreme divine authority in Burmese cosmology. King Anawrahta of Pagan designated him as head of the official nat pantheon in the 11th century to harmonize animist traditions with Theravada Buddhism. Unlike other nats who died violent 'raw deaths,' Thagyamin ascended through merit — he was formerly the virtuous youth Māgha whose generosity and truthfulness earned rebirth as a celestial king. He is most active during Thingyan (Burmese New Year) when he descends invisibly to Earth, recording good deeds in a golden book and evil deeds in a dog-skin book. He commands thunder, lightning, and rain, connecting him directly to agricultural fertility",
+    "description": "Thagyamin is the Burmese name for Sakka (Indra), king of the Tāvatiṃsa heaven and head of the 37 nats. King Anawrahta of Pagan placed him atop the nat pantheon in the 11th century to harmonize animism with Buddhism; unlike nats who died violent deaths, he earned his throne by merit. During Thingyan he descends invisibly, recording mortals' fates in a golden book or a dog-hide ledger.",
     "appearance": "Royal celestial king with four faces and four arms, holding a conch shell and yak-tail fly-whisk. He stands or sits atop a three-headed white elephant (Airavata). Adorned in full Burmese royal regalia with a multilayered crown.",
     "behavior": "Just, wise, and compassionate. Judges human actions fairly during New Year. Maintains cosmic order and protects Buddhism. Generous to the virtuous but punishes the wicked. Does not die a violent death — unique among nats.",
     "habitat": "Trāyastriṃśa heaven (Tavatimsa), Mount Meru, Amarāvati celestial capital",
@@ -14522,7 +14530,7 @@
     "seo_description": "Supreme celestial king and highest nat who judges human deeds during Burmese New Year",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Burmese Buddhist mythology, Thagyamin legend, King Anawrahta's nat pantheon",
+    "source": "Burmese Buddhist belief; King Anawrahta's nat pantheon; Thingyan tradition",
     "source_quality": "good",
     "stories": [
       "thagyamin-the-king-of-the-nats-of-myanmar",
@@ -14530,9 +14538,10 @@
       "why-the-executioner-is-called-assessor"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "taleju-nepali-4066",

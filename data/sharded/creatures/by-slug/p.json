@@ -1579,7 +1579,7 @@
       "papabois-saintlucia",
       "dwenn-grenada"
     ],
-    "description": "Papa Bois, meaning Father of the Forest, is a legendary figure in Grenadian folklore who serves as the primary protector of the island's forests and wildlife. He appears as an ancient, muscular man with cloven hooves, goat-like horns, and a beard woven from living leaves. He can shapeshift into a deer to lure disrespectful hunters into the thickest parts of the woods, where they become hopelessly lost. His name is of French origin ('Papa Bois' meaning Father Wood). In Grenadian tradition, he is married to Mama Glo. He carries a hollowed-out bull's horn which he uses to warn animals when humans approach. Hunters in Grenada traditionally say a prayer or perform a small ritual before entering the forest, acknowledging Papa Bois as the true guardian of the land",
+    "description": "Papa Bois, 'Father of the Wood' in French Creole, is the guardian of the forest in Saint Lucian and wider Caribbean lore: an old, muscular man with cloven hooves, horns and a beard of living leaves who warns animals with a cow's horn and punishes wasteful hunters, sometimes by shapeshifting into a deer to lead them astray.",
     "appearance": "Half-man, half-beast with cloven hooves, goat-like horns, and a shaggy beard made of living moss and leaves. Muscular and tall, carrying a bull's horn. Can take the form of a deer or other forest animals. Eyes reflect ancient wisdom.",
     "behavior": "Protector of forest animals — warns animals of approaching hunters using his bull horn. Shapeshifts into a deer to lead poachers astray. Curses or transforms those who harm his domain. Rewards those who show respect to nature. Often seen at dawn and dusk.",
     "habitat": "Rainforests, mountains, forested interior of Saint Lucia, especially near the rainforest reserves and the Pitons area",
@@ -1633,15 +1633,16 @@
       "B200"
     ],
     "featured_in_stories": [],
-    "source": "Saint Lucian oral tradition; snip The Independent (1996); snip Sweettntmagazine",
-    "source_quality": "good",
+    "source": "Saint Lucian oral tradition; Caribbean folklore sources (Wikipedia)",
+    "source_quality": "documented",
     "stories": [
       "papa-bois-the-old-man-of-the-forest"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "papabois-trinidadandtobago-1424",
@@ -8858,7 +8859,7 @@
       "tlanuwa",
       "transforming-beings"
     ],
-    "description": "The Pipe Spirit is a sacred spirit in Blackfoot religion that gave the people the Medicine Pipe and taught the associated ceremonies. In Blackfoot tradition, a beautiful woman appeared to a man on a vision quest, giving him a pipe decorated with eagle feathers and teaching the prayers and songs. Alternatively, the Thunder spirit gave the pipe where lightning had struck a tree. The pipe serves as a mediator between the people and the spirit world, used for healing, peace-making, and communicating with Apistotoke. Its keeper must follow strict taboos and conduct annual renewal ceremonies",
+    "description": "In Blackfoot tradition the Medicine Pipe came to the people through a supernatural encounter: a woman appeared to a fasting man with a pipe adorned with eagle feathers and its prayers, or the Thunder spirit delivered it where lightning struck. The pipe mediates between humans and the spirit world, and its keeper observes strict taboos and yearly renewal ceremonies.",
     "appearance": "May appear as a beautiful woman bringing the sacred pipe to humanity, or as a Thunder spirit bestowing it from the sky. The pipe itself is a sacred object decorated with eagle feathers, wrapped in sweetgrass, and radiates divine power.",
     "behavior": "Mediates between humans and the divine, teaching pipe ceremonies, sacred prayers, and ceremonial songs. Requires strict ritual observance and taboos from its keeper. The Pipe Spirit's ceremonies are central to Blackfoot spiritual life, connecting the people with the Thunder and the Sun.",
     "habitat": "Sacred sites, vision quest locations, Medicine Pipe lodges",
@@ -8899,16 +8900,17 @@
     "seo_description": "The Pipe Spirit is a sacred spirit in Blackfoot religion that gave the people the Medicine Pipe and taught the associated ceremonies. In Blackfoot tra",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Grinnell / Blackfoot oral tradition",
-    "source_quality": "expert",
+    "source": "Blackfoot (Siksika) oral tradition; George Bird Grinnell",
+    "source_quality": "documented",
     "tribe": "Blackfoot",
     "stories": [
       "the-origin-of-the-medicine-pipe"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "pah-pawnee-3694",
@@ -9247,7 +9249,7 @@
       "lebe",
       "koumen-fulani"
     ],
-    "description": "Pemba is a primordial being in Bambara (Bamana) mythology, the first grain that fell to earth and became an acacia tree. From rotten wood and his own saliva, he created Mousso Koroni Koundye, the first woman. However, his creations were disordered and chaotic. Pemba represents the masculine creative principle without wisdom or balance. His premature and incomplete acts of creation introduced disorder into the cosmos, requiring Faro, the water deity, to descend and restore equilibrium. Pemba embodies the danger of creation without order and power without wisdom",
+    "description": "Pemba is the first grain of Bambara (Bamana) creation, which fell to earth and became an acacia tree; from rotten wood and his own saliva he shaped Mousso Koroni, the first woman. His premature, disordered acts of creation let chaos into the cosmos, and the water deity Faro had to descend to restore balance — creation without wisdom.",
     "appearance": "A grain of fonio (small cereal) that transforms into an acacia tree (Acacia albida). Can manifest as a tall, thin man or as the thorny acacia itself.",
     "behavior": "Acts impulsively, creating without order or foresight. Competitive with Faro for dominance. His creations tend toward chaos and imbalance.",
     "habitat": "Acacia trees, the savanna, the Sahel",
@@ -9308,12 +9310,13 @@
       "pemba-and-faro-the-bambara-twin-creation"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
     "source_type": "literary",
-    "source_quality": "expert",
+    "source_quality": "academic",
     "cultural_significance": "Pemba is a a spirit from West Africa mythology, representing important cultural values and traditional beliefs.",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "attested": true
   },
   {
     "id": "prester-john-ethiopian-3918",
@@ -10514,7 +10517,7 @@
       "puteri-gunung-ledang-malaysian",
       "diwata-filipino"
     ],
-    "description": "The Popa Nat refers to the collective guardian spirits of Mount Popa, the extinct volcano in central Myanmar that serves as the holiest nat pilgrimage site in the country. The mountain is considered the dwelling place of the 37 nats, with Popa Medaw as their queen. The Popa Nats are believed to protect the region, answer prayers, and intervene in human affairs. The most prominent among them are the Popa Medaw (Golden Mother) and the Mahagiri Nat (Great Mountain Spirit), the sibling pair who died tragically in a champaca tree. Pilgrims climb the 777 steps to the shrine atop the volcanic plug, carrying offerings of flowers, coconuts, bananas, and traditional costumes. Nat dancers perform at the shrine during festivals. The Popa Nats are believed to possess mediums who channel them during ceremonies, delivering messages and blessings to devotees. Mount Popa's lush green prominence rising from the dry central Myanmar plain was considered the abode of spirits long before Buddhism arrived",
+    "description": "Mount Popa, the extinct volcano of central Myanmar, is the holiest shrine of the Burmese nat religion, home of the 37 nats under their queen Popa Medaw (the Golden Mother) and her brother the Mahagiri nat, sibling martyrs burned in a champaca tree. Pilgrims climb 777 steps to the Taung Kalat shrine bearing flowers, coconuts and costumes, and nat mediums channel the spirits at festivals.",
     "appearance": "Multiple spirits inhabiting the forested mountain. The primary spirits are represented by statues — Popa Medaw as a beautiful flower-adorned woman, Mahagiri Nat as a fierce blacksmith-warrior. Other nats appear in various human forms.",
     "behavior": "Collectively protective of the mountain and its pilgrims. Respond to offerings and prayers through nat mediums (nat kadaw). Can bring blessings of health, prosperity, and fertility, but also misfortune if disrespected.",
     "habitat": "Mount Popa, Popa Taung Kalat (volcanic plug shrine)",
@@ -10558,13 +10561,14 @@
     "seo_description": "Guardian spirits of Mount Popa, the holiest nat pilgrimage site in Myanmar",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Burmese nat religion — the Popa Nat of Burmese spirit worship.",
+    "source": "Burmese nat religion; Mount Popa pilgrimage tradition",
     "source_quality": "expert",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "preah-thaong-cambodian-3241",

@@ -1426,7 +1426,7 @@
       "tusse-sweden",
       "skogsr"
     ],
-    "description": "The Jerff, also known as the Gulon, is a gluttonous beast from Swedish folklore first documented by Archbishop Olaus Magnus in his 1555 work Historia de gentibus septentrionalibus. It is described as a chimeric creature the size of a large dog with cat-like head and ears, shaggy brown fur, sharp claws, and a fox-like tail. The Jerff embodies the vice of gluttony through its legendary feeding habits: it gorges on carrion until its belly swells like a drum, then squeezes between two closely growing trees to induce vomiting so it can resume eating. This purging mechanism made it a powerful moral symbol of insatiable appetite in medieval Nordic bestiary tradition. The creature likely originated from exaggerated accounts of the wolverine (Gulo gulo), combining observed animal behavior with folkloric embellishment",
+    "description": "The Jerff (Gulon, 'Glutton') is a beast described in Olaus Magnus's 'Historia de Gentibus Septentrionalibus' (1555), a work of northern European natural history and folklore. It was said to be a gluttonous creature that gorged on carrion until its belly swelled, then squeezed between two trees to vomit so it could eat again; likely an exaggerated account of the wolverine (Gulo gulo).",
     "appearance": "Size of a large dog with cat-like head and ears, shaggy brown fur, sharp feet and claws, fox-like tail that is shorter and thicker than a true fox, skin in shades of white, brown, and black like damask cloth",
     "behavior": "Jerff is gluttonous, solitary, nocturnal, carrion-eater in Sweden folklore.",
     "habitat": "Deep forests of Sweden and Norway",
@@ -1487,19 +1487,20 @@
       "carrion"
     ],
     "featured_in_stories": [],
-    "source": "Historia de gentibus septentrionalibus (1555) by Olaus Magnus",
-    "source_quality": "primary",
+    "source": "Olaus Magnus, 'Historia de Gentibus Septentrionalibus' (1555), northern European bestiary tradition.",
+    "source_quality": "documented",
     "stories": [],
     "relatedNames": [
       "wolverine"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
     "source_type": "literary",
     "countries": [
       "Sweden"
-    ]
+    ],
+    "attested": true
   },
   {
     "id": "jatte-3481",
@@ -2202,7 +2203,7 @@
       "haint-ghost",
       "jack-o-lantern"
     ],
-    "description": "The Jack Ball is a powerful protective charm in African American Hoodoo and conjure tradition. Typically made by a Conjure Doctor, a jack ball consists of a collection of magical items — roots, herbs, bones, nails, coins, and personal belongings — wrapped in red flannel and bound with string or thread into a ball shape. The jack ball is then dressed with oils and 'fed' with whiskey or water to maintain its power. It serves as a guardian for the home or a personal talisman for protection, luck, love, or success. The jack ball tradition has roots in the African nkisi power objects of the Kongo people and is closely related to the better-known mojo bag. Unlike a mojo bag, which is carried on the person, a jack ball is often placed in a specific location to guard a space",
+    "description": "The jack ball is a protective charm of African American Hoodoo and conjure: a red-flannel bundle of roots, herbs, bones, coins, nails, and personal objects bound with string, dressed with oils and 'fed' to maintain its power. Placed to guard a home or carried as a talisman, it descends from Kongo nkisi power objects and parallels the mojo bag.",
     "appearance": "A ball roughly 2-4 inches in diameter, wrapped in red or black flannel, tied with string. Often anointed with oils and kept in a hiding place or buried near a doorstep.",
     "behavior": "Protective and empowering. The jack ball is a sentient charm in Hoodoo belief — it must be fed, spoken to, and respected. It actively guards against evil, brings luck, or works toward its intended purpose.",
     "habitat": "Homes, workplaces, and hiding places throughout the African American South.",
@@ -2245,7 +2246,7 @@
     ],
     "tags": [],
     "tribe": null,
-    "source": "Charles C. Jones, Negro Myths from the Georgia Coast (1888)",
+    "source": "African American Hoodoo and conjure tradition; Charles C. Jones, Negro Myths from the Georgia Coast (1888)",
     "stories": [
       "the-jack-ball-a-conjure-tale",
       "jack-and-the-robbers"
@@ -2254,11 +2255,12 @@
       "mojo bag"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
     "source_type": "literary",
-    "source_quality": "good",
-    "schema_org_type": "MythicalCreature"
+    "source_quality": "researched",
+    "schema_org_type": "MythicalCreature",
+    "attested": true
   },
   {
     "id": "julunggul-aboriginal-3047",
@@ -2284,7 +2286,7 @@
       "wandjina-aboriginal",
       "a-men-rainbow-serpent"
     ],
-    "description": "Julunggul (also known as Yurlunggur) is a powerful Rainbow Serpent and creator being from the mythology of the Yolngu people of Arnhem Land in northern Australia. In the Dreamtime, Julunggul emerged from the waterhole and traveled across the land, creating rivers, waterholes, and shaping the landscape. Associated with fertility, initiation, and the monsoon rains, Julunggul is a central figure in the Gunapipi ceremony — a sacred ritual of fertility and renewal. The serpent is both creative and dangerous, capable of bringing life-giving rains but also floods and destruction when angered. Julunggul swallows and then regurgitates initiates during ceremonies, symbolizing death and rebirth. Like all Rainbow Serpent figures, Julunggul embodies the creative and destructive forces of nature",
+    "description": "Julunggul (Yurlunggur) is the Rainbow Serpent of the Yolngu people of Arnhem Land, a creator being of the Gunapipi ceremony who controls the monsoon and the waters. He swallows and regurgitates initiates to symbolize death and rebirth, and he can bring life-giving rain or destructive floods when angered.",
     "appearance": "Enormous rainbow-colored serpent with scales that shimmer in all colors. Associated with rainbows appearing after storms. Can be seen moving through waterholes and rain clouds.",
     "behavior": "Creator being who shaped the landscape and established sacred ceremonies. Dangerous when angered, capable of causing floods. Participates in initiation rituals through symbolic swallowing.",
     "habitat": "Arnhem Land, Northern Territory, Australia",
@@ -2324,17 +2326,18 @@
     "tags": [],
     "tribe": null,
     "featured_in_stories": [],
-    "source": "Aboriginal Australian mythology; the Rainbow Serpent in Yolngu tradition.",
-    "source_quality": "expert",
+    "source": "Yolngu oral tradition; Arnhem Land ethnography (Ronald Berndt, Gunapipi)",
+    "source_quality": "documented",
     "schema_org_type": "MythicalCreature",
     "seo_title": "Julunggul – Aboriginal Australian Folklore",
     "seo_description": "Rainbow Serpent creator being from Yolngu mythology of Arnhem Land who shaped the landscape and presides over initiation ceremonies",
     "motifs": [],
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "jhelmaia-camel-kazakh-4012",

@@ -1335,7 +1335,7 @@
       "sennentuntschi-switzerland",
       "sennentuntschi-austria"
     ],
-    "description": "Kääk is a malevolent forest spirit from Estonian folklore, deeply rooted in the ancient Finno-Ugric animistic traditions of the Baltic region. The name Kääk is related to the Estonian word for 'fear' or 'terror,' and this entity embodies the primal dread that travelers feel when lost in deep, dark woods. Unlike more defined spirits with distinct personalities, Kääk represents the formless terror that lurks at the edge of perception, an ancient fear that has haunted the dense boreal forests of Estonia since prehistoric times. It is among the many metsavaimud (forest spirits) that populate Estonian mythology",
+    "description": "'Kaak' is not attested in Luxembourgish, Estonian, or Finno-Ugric folklore, and the entry itself mixes an Estonian framing with a Luxembourgish country tag. Genuine Estonian forest spirits (metsavaimud) such as the metsik have documented names; 'Kaak' does not. The name appears invented, and no oral or literary source records it.",
     "appearance": "Kääk is intentionally amorphous and difficult to describe, appearing as a shifting patch of deeper darkness among the trees, a twisted root that seems to move, or a shadow that detaches from the forest floor and stalks the unwary. Some accounts describe it as a tall, gaunt figure with long, branch-like arms that blend seamlessly with the surrounding trees. Its body appears woven from bark, moss, and shadow, with two faintly glowing yellow or green eyes that hover at about head height. When it moves, it makes no sound, and it can disappear entirely when observed directly.",
     "behavior": "Kääk stalks travelers through deep forests, particularly those who venture off established paths or who travel alone after dark. It does not attack directly but instead drives its victims into a state of irrational panic, causing them to become hopelessly lost and run in circles until they collapse from exhaustion. It mimics forest sounds like twigs snapping and animal calls to confuse and disorient its prey. In extreme cases, Kääk will manifest as the face of a loved one in the distance, luring the victim deeper into the wilderness. Traditional Estonian protection involves carrying iron, wearing clothing inside-out, or reciting specific prayers.",
     "habitat": "Marshlands",
@@ -1373,13 +1373,14 @@
     "seo_description": "Kääk is a malevolent forest spirit from Estonian folklore that embodies primal terror and stalks travelers through deep boreal forests.",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Luxembourgish folklore — spirit documented in Luxembourgish oral tradition.",
-    "source_quality": "fair",
+    "source": "Review finding: 'Kaak' unattested in Luxembourgish or Estonian folklore; no source records the name.",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "ratcatcher-of-hamelin-1524",
@@ -2045,7 +2046,7 @@
       "krampus-austria",
       "perchta-austria"
     ],
-    "description": "A vengeful artificial being from Alpine shepherd folklore, created when lonely shepherds fashion a female doll from straw, rags, and wood during their long summer isolation on high mountain pastures (Almen). According to legend spanning southern Austria's mountain regions — particularly Vorarlberg, Tyrol, and Carinthia — the doll comes to life through either supernatural means or the concentrated lust and desperation of the isolated men. Called Sennentuntschi ('shepherd's doll'), the creature inevitably turns on its creators, punishing them for their sins in spectacularly gruesome fashion. The most common version of the story tells of three shepherds on an alp who create the doll for entertainment; when she comes to life, she kills them one by one, sometimes by flaying them alive. The legend serves as a stark moral warning against lust, objectification of women, and the spiritual dangers of Alpine solitude",
+    "description": "Sennentuntschi, the 'shepherd's doll,' is a figure of Swiss Alpine legend, especially Appenzell. Lonely herders fashion a female doll from straw, rags, and wood during the summer on the alps; it comes to life and turns on its creators, often with gruesome violence. The tale works as a moral warning against lust and the mistreatment of women and is among the best-known Alp legends.",
     "appearance": "A beautiful young woman with a fully human appearance when animated, but her construction from straw, rags, wood, or animal skins is sometimes subtly visible. She wears traditional Alpine peasant clothing. At the moment of her transformation from doll to living being, she is sometimes described as having an unsettling, hollow gaze. When her true nature is revealed, her beauty becomes terrifying, and she is described with grotesque features representing the shepherds' sins.",
     "behavior": "Created from a straw doll by lonely shepherds, comes to life through supernatural means. At first appears as a beautiful, helpful woman who tends to the shepherds' needs. Gradually reveals her true vengeful nature and systematically murders her creators, often in extremely brutal ways such as skinning them alive. In some versions, she appears as a beautiful woman who seduces men before destroying them. Once her revenge is complete, she either vanishes or returns to her original inanimate form.",
     "habitat": "Alpine pastures, high meadows, mountain huts",
@@ -2090,13 +2091,14 @@
       "F300"
     ],
     "featured_in_stories": [],
-    "source": "Alpine folklore; the Sennentuntschi is a documented figure in Swiss shepherd legends.",
-    "source_quality": "good",
+    "source": "Swiss Alp legends (Appenzell); folklore collections on the Sennentuntschi.",
+    "source_quality": "documented",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "sennentuntschi-austria-1655",
@@ -2119,7 +2121,7 @@
       "perchta-austria",
       "luna"
     ],
-    "description": "A vengeful artificial being from Alpine shepherd folklore, created when lonely shepherds fashion a female doll from straw, rags, and wood during their long summer isolation on high mountain pastures (Almen). According to legend spanning southern Austria's mountain regions — particularly Vorarlberg, Tyrol, and Carinthia — the doll comes to life through either supernatural means or the concentrated lust and desperation of the isolated men. Called Sennentuntschi ('shepherd's doll'), the creature inevitably turns on its creators, punishing them for their sins in spectacularly gruesome fashion. The most common version of the story tells of three shepherds on an alp who create the doll for entertainment; when she comes to life, she kills them one by one, sometimes by flaying them alive. The legend serves as a stark moral warning against lust, objectification of women, and the spiritual dangers of Alpine solitude In Austria folklore, this figure is known among the Austria people.",
+    "description": "Sennentuntschi, the Alpine shepherd's doll, is best documented in the Swiss Alps, especially Appenzell, where lonely herders build a figure from straw, rags, and wood and it comes to life to punish their sins. Western Austrian variants (Vorarlberg, Tyrol) carry the same motif. The story warns against lust and the objectification of women; this entry is a regional variant of the Swiss legend.",
     "appearance": "A beautiful young woman with a fully human appearance when animated, but her construction from straw, rags, wood, or animal skins is sometimes subtly visible. She wears traditional Alpine peasant clothing. At the moment of her transformation from doll to living being, she is sometimes described as having an unsettling, hollow gaze. When her true nature is revealed, her beauty becomes terrifying, and she is described with grotesque features representing the shepherds' sins.",
     "behavior": "Created from a straw doll by lonely shepherds, comes to life through supernatural means. At first appears as a beautiful, helpful woman who tends to the shepherds' needs. Gradually reveals her true vengeful nature and systematically murders her creators, often in extremely brutal ways such as skinning them alive. In some versions, she appears as a beautiful woman who seduces men before destroying them. Once her revenge is complete, she either vanishes or returns to her original inanimate form.",
     "habitat": "Remote Alpine huts and summer pastures (Almen) in the high mountains of Vorarlberg (especially Montafon valley), Tyrol, and Carinthia, where shepherds spend months alone with their cattle during the summer grazing season.",
@@ -2166,14 +2168,15 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Alpine folklore; the Sennentuntschi is a documented figure in Austrian shepherd legends.",
-    "source_quality": "good",
+    "source": "Alpine Sennentuntschi legends; Swiss (Appenzell) and western Austrian variants.",
+    "source_quality": "fair",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/zɛnnəntʊntʃi/"
+    "pronunciation_ipa": "/zɛnnəntʊntʃi/",
+    "attested": true
   },
   {
     "id": "irrlicht-0898",
@@ -3619,7 +3622,7 @@
       "b-rbel",
       "anjana"
     ],
-    "description": "The Berggeist is a mountain spirit from Alpine folklore, particularly associated with the Rätikon mountains and the broader Alpine regions of Austria, Switzerland, and Germany. In Germanic and Alpine tradition, the Berggeist is a complex figure that encompasses both the personification of the mountain itself and the supernatural guardians of mineral wealth hidden within the earth. The Berggeist belongs to a family of mountain spirits that includes the Bergmännlein, the Wild Man of the woods, and the Gnome of Paracelsus element theory. Unlike the purely malevolent mountain demons, the Berggeist can be either benevolent or dangerous depending on how it is treated by humans. These spirits are particularly associated with the Alpine pastures, rocky peaks, and forests where hunters, herders, and travelers venture into the untamed wilderness that stands in contrast to the settled valleys below. The Berggeist embodies the unpredictable nature of the mountains themselves, offering rich pastures and abundant game to those who respect its domain but unleashing avalanches, storms, and rockfalls on those who violate its laws",
+    "description": "Berggeist ('mountain spirit') is a general term in Germanic and Alpine tradition for spirits who dwell in and guard mountains, most famously the Bergmonch, a monk-like figure seen in mines and high passes. These spirits reward respectful miners with ore and punish greed and carelessness. The Ratikon and Liechtenstein settings of the entry are local color on a wider Alpine motif.",
     "appearance": "The Berggeist appears in multiple forms depending on the specific tradition and the spirit's mood. Most commonly, it manifests as an old man with long, flowing white or grey hair and a beard that reaches his chest, dressed in a hooded cloak of grey or brown that blends with the rocky mountainside. In some accounts, the Berggeist is a giant of immense proportions, his head wreathed in clouds and his voice the rumble of thunder across the peaks. When the mountain is veiled in mist, it is said that the Berggeist has pulled his cap over his head, and when feathery clouds stream from the summit, he is combing his hair. In the mining traditions of the Alps, the Berggeist appears as a small, wizened figure in miner's clothing with a leather apron, a pointed hood, and a small lantern that glows with an eerie blue light. Some accounts describe the spirit as having eyes that glow like embers, skin the color of weathered stone, and the ability to walk through solid rock as easily as a human walks through air. The Berggeist's shadow, when cast on the mountain wall, is always larger and more imposing than its physical form suggests.",
     "behavior": "The Berggeist serves as the guardian and personification of its mountain domain, regulating access to the resources of the high Alps and enforcing traditional rules of conduct in the mountains. It protects hunters and herders who show proper respect, guiding lost individuals to safety, warning them of approaching storms, and leading them to good pastures or promising hunting grounds. Those who treat the mountains with disrespect, who hunt for sport rather than necessity, who damage alpine meadows, or who behave arrogantly in the high country may find themselves led onto dangerous slopes where avalanches are triggered, caught in sudden storms that appear from clear skies, or simply lost in fog that seems to follow them wherever they go. The Berggeist is particularly protective of the edelweiss, gentians, and other alpine flowers, and those who pick them carelessly may find their path blocked by impassable terrain. In the mining regions, the Berggeist guards rich veins of ore and punishes greedy miners who take more than their fair share or who cheat their partners. Offerings of bread, cheese, or a small splash of schnapps left at mountain shrines are traditional ways of honoring the Berggeist and requesting safe passage through its domain.",
     "habitat": "Rätikon mountains",
@@ -3661,13 +3664,14 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Liechtenstein mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source": "Germanic and Alpine mountain-spirit tradition (Bergmonch); Liechtenstein oral-tradition collections.",
+    "source_quality": "fair",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "bergkobold-0180",
@@ -3906,7 +3910,7 @@
       "hulder-huldra",
       "barbegazi"
     ],
-    "description": "Bärbel is a protective forest spirit from Swiss and Alpine folklore, particularly associated with the mountainous regions of central and eastern Switzerland. Known as a guardian of wild game animals and an overseer of hunting practices, Bärbel embodies the traditional Alpine understanding that nature is not an unlimited resource to be exploited but a sacred trust to be managed with respect and gratitude. The spirit is especially concerned with deer, chamois, ibex, and other game animals that sustained mountain communities for centuries. Swiss hunters traditionally acknowledged Bärbel before and after hunting expeditions, offering small tributes of milk, bread, or cheese at forest shrines to ensure the spirit's goodwill and to maintain the reciprocal relationship between humans and the wild",
+    "description": "'Barel' is not attested as the name of a Swiss forest or game spirit. The closest documented figures are the dwarfs and Fanggen of Alpine belief who tend chamois and punish wasteful hunters, as in the 'Fairy Mythology' collections. No Swiss source names such a guardian 'Barel,' so the entry appears to be an invented personification built from a generic forest-spirit template.",
     "appearance": "Bärbel appears as a tall, stately woman dressed in a long green coat or cloak that blends seamlessly with the forest foliage, making her difficult to distinguish from the surrounding trees and undergrowth. Her hair is described as being made of moss, leaves, and lichen, woven into elaborate braids decorated with forest flowers, berries, and small pine cones. She is nearly always accompanied by a deer companion—a large stag or doe that follows her like a loyal dog and serves as her messenger and familiar. Her eyes are deep green or brown, wise and ancient-looking, and she moves through the forest without making a sound, leaving no footprints. When angered, the green of her coat darkens to near black, and the forest around her grows ominously quiet.",
     "behavior": "Bärbel is first and foremost a protector of game animals, watching over deer herds, tracking their movements, and ensuring their populations remain healthy and balanced. She tests every hunter who enters her domain, presenting them with opportunities to demonstrate their respect for nature: a clear shot at a magnificent stag that they must decide whether to take, or a lost fawn that needs guidance back to its mother. Hunters who pass her tests—showing restraint, gratitude, and proper ritual respect—are rewarded with successful, ethical hunts and healthy game for their families. Those who hunt wastefully, kill pregnant females, or leave wounded animals to suffer find their luck turning: their rifles jam, their arrows miss, and they become lost in familiar woods until they learn their lesson. Bärbel also helps lost children find their way home, leading them safely through the darkest forests with her gentle green light.",
     "habitat": "Alpine forests, mountains",
@@ -3948,13 +3952,14 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Swiss folklore — forest spirit documented in Swiss oral tradition.",
-    "source_quality": "fair",
+    "source": "Review finding: name unattested; closest analogues are Swiss dwarfs/Fanggen in 'Fairy Mythology' collections.",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/bɛːrbəl/"
+    "pronunciation_ipa": "/bɛːrbəl/",
+    "attested": false
   }
 ]

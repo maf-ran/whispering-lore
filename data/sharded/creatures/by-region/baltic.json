@@ -544,7 +544,7 @@
       "kulmking",
       "metsavana"
     ],
-    "description": "Kratt is an artificial creature from Estonian folklore, a construct brought to life through a pact with the Devil. A kratt is created from found objects such as hay, straw, old household implements, or wooden tools by a person who makes a deal with the dark powers, typically by offering three drops of blood. Once animated, the kratt becomes an tireless servant that performs any task commanded of it, from household chores to stealing goods from neighbors. The belief in kratid reflects the Estonian folk tradition of resourceful peasants creating supernatural helpers to improve their lot, though always at a spiritual cost. The kratt is a morally ambiguous being, neither good nor evil in itself, but its creation requires a transaction with evil that inevitably corrupts the maker. The legend serves as a cautionary tale about the dangers of seeking shortcuts to wealth and comfort",
+    "description": "An artificial being of Estonian folklore, the kratt is assembled from hay, straw, old tools or wooden implements and animated by a pact with the Devil, sealed by three drops of blood. It works tirelessly, fetching grain and stealing from neighbors, and must always be given a task, or it turns on its maker. A leak in the roof or a drawn circle forces it to spill its loot.",
     "appearance": "A kratt has no fixed form but is cobbled together from whatever materials its creator has at hand, resulting in a rough, patchwork appearance that is unmistakably artificial. The most common base is a pile of hay or straw twisted into a crude humanoid shape, with sticks or old broom handles for arms and legs tied on with twine. The creators may add old clothing, rags, or a sack for a head, sometimes drawing crude eyes and mouth with charcoal. Some kratid are made from broken tools, wagon wheels, or barrel staves lashed together, creating a clattering, rattling construct that moves with jerky, mechanical motions. Despite its crude construction, the kratt moves with surprising speed and purpose, and it can transform itself into different shapes as commanded, including taking on a human-like appearance to perform tasks such as visiting the market. The most distinctive feature of any kratt is that it casts no shadow and leaves no footprints, betraying its supernatural origins",
     "behavior": "A kratt is a tireless worker that never sleeps, eats, or tires, performing any task assigned by its master without question or complaint. It is most commonly used for stealing, flying invisibly to neighboring farms and returning with grain, livestock, milk, or money. The kratt can also perform household chores, farm work, and construction at supernatural speed. However, the creature has a critical flaw: it must always be given a task. If its master runs out of commands, the kratt will turn on its creator, destroying property, harming livestock, or attacking the master themselves. The only way to stop a rampaging kratt is to give it an impossible task such as carrying water in a sieve or building a staircase to the sky, which causes it to fly upward in a rage and burn up as a meteor-like bolide. A kratt can be destroyed by fire, by learning its secret name and commanding it to disassemble, or by driving an iron nail through its heart. The creators soul is forfeit to the Devil upon death.",
     "habitat": "Homes, wherever master directs",
@@ -582,13 +582,14 @@
     "seo_description": "Kratt is an artificial creature from Estonian folklore created from hay and household objects through a pact with the Devil. These tireless servants steal for their masters but must be kept busy or they turn violent and destructive",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Estonian folklore; an artificial creature made from household items and animated by a contract with the devil.",
-    "source_quality": "expert",
+    "source": "Estonian folklore collections; Wikipedia (Kratt)",
+    "source_quality": "well-documented",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "kr-kl-or-kratt-0986",
@@ -684,7 +685,7 @@
       "kr-kl-or-kratt",
       "leszy"
     ],
-    "description": "Kulmking is a chilling forest spirit from Estonian folklore, the restless soul of a wicked individual who died without repentance and returned as a malevolent nature spirit bound to the forests and bogs of the Baltic landscape. Unlike the neutral or beneficial spirits of Estonian nature belief, the kulmking is distinctly hostile to humans, taking its place among the most feared supernatural entities in the region. Its connection to the souls of the unrepentant wicked gives it a particularly sinister character, as it retains the malice and cunning it possessed in life while gaining the supernatural powers of a spirit. The kulmking is deeply associated with the most dangerous and remote parts of the forest, where it serves as a guardian of the wild places that should not be entered lightly. The belief reflects the traditional Estonian understanding that those who live evil lives become part of the landscape after death as malevolent forces",
+    "description": "A hostile forest spirit of Estonian tradition, the kulmking (linked to Estonian 'külm', cold) is a malevolent being of the woods, bogs and remote wilds, dreaded more than the neutral forest guardians of Estonian nature belief and associated with the unholy dead. It is said to waylay travelers who enter its territory.",
     "appearance": "The kulmking is a shapeshifter that can take many forms, making a single description difficult, but it is most commonly encountered as a chilling presence rather than a visible form. Witnesses report a sudden drop in temperature, a feeling of being watched, and an overwhelming sense of dread that signals the spirits proximity. When it chooses to appear visually, it may take the form of a tall, dark figure that shifts and flickers at the edge of vision, never quite becoming solid or clear. It can appear as a mist or fog that moves against the wind, a patch of darkness deeper than the surrounding night, or a twisted tree stump that seems to move when not directly looked at. Some accounts describe it as taking animal forms such as a black dog with glowing eyes, a massive raven, or a wolf that moves with unnatural purpose. In its most terrifying manifestation, the kulmking appears as a decomposing corpse dressed in burial clothes, the face frozen in an expression of malice",
     "behavior": "The kulmking is a territorial spirit that punishes those who disrespect the forest, particularly those who harm trees without need, hunt for sport rather than sustenance, or enter sacred groves without proper reverence. It leads such individuals astray, causing them to become hopelessly lost even in familiar woods, and it is known to create illusions that disorient travelers, making paths appear where there are none and hiding landmarks. The spirit can summon fog and darkness to confuse its victims and cause accidents such as falls into hidden ravines or bogs. More aggressive encounters involve the kulmking physically attacking those who refuse to leave its territory, leaving claw marks and bruises that resist healing. Traditional protections include carrying iron, wearing clothing inside out to confuse the spirit, and reciting specific folk prayers. The most reliable protection is to show proper respect for the forest, asking permission before entering and leaving offerings of bread or tobacco at the forest edge.",
     "habitat": "Forests, bogs",
@@ -725,16 +726,17 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Estonian folklore; a forest spirit associated with the unholy dead.",
-    "source_quality": "good",
+    "source": "Folklore databases and popular retellings; no dedicated academic monograph located",
+    "source_quality": "fair",
     "stories": [
       "why-the-executioner-is-called-assessor"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/kulmkiŋ/"
+    "pronunciation_ipa": "/kulmkiŋ/",
+    "attested": true
   },
   {
     "id": "ragana-1519",

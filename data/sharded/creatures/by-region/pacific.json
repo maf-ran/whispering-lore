@@ -2685,7 +2685,7 @@
       "t-ne-mahuta",
       "mosquito-nature-spirit-maori"
     ],
-    "description": "The Ant Spirit is a guardian nature being from Maori tradition, serving as a protector of the ancient rainforests of Aotearoa New Zealand. In Maori cosmology, all elements of the natural world possess mauri (life force) and are connected through whakapapa (genealogy), with certain species serving as kaitiaki (guardians) of specific domains. The Ant Spirit embodies the qualities of diligence, community cooperation, and environmental stewardship that are highly valued in Maori culture. It is considered an ancient being, present since the forest first emerged, and holds deep knowledge of the medicinal properties of native plants and the behavior of forest creatures. Maori elders teach that the Ant Spirit observes human behavior in the forest and reports to the atua (gods) about whether people are treating the natural world with proper respect. This belief reinforces the cultural value of kaitiakitanga (guardianship) and sustainable resource use",
+    "description": "No ant spirit or ant atua is attested in Maori tradition; the entry's narrative of a forest-guardian ant is invented. Maori supernatural beings include the patupaiarehe, pale-skinned fairy folk of forest and mountain, the maero, and the taniwha, water guardians — none of which is an ant.",
     "appearance": "The Ant Spirit manifests as a magnificent, oversized ant-like being with a deep mahogany or glossy black exoskeleton that gleams with an almost supernatural luster in the dim forest light. Its body is adorned with intricate natural patterns reminiscent of traditional Maori kowhaiwhai designs, which glow with a soft, phosphorescent light when the spirit is active. Its compound eyes reflect the entire spectrum of the forest, appearing as multifaceted jewels that see in all directions simultaneously. When revealing its spiritual nature, it can project the ghostly image of a human face with traditional Maori moko (facial tattoos) superimposed over its ant features, signifying its ancestral wisdom and authority. Its legs are powerful and sure-footed, allowing it to traverse even the most treacherous forest terrain with ease. A faint, earthy aroma of damp soil, moss, and native flowers accompanies its presence, and tiny forest creatures gather respectfully in its vicinity.",
     "behavior": "The Ant Spirit patrols its rainforest domain ceaselessly, maintaining the delicate balance of the ecosystem by guiding the decomposition of fallen matter, aerating the soil, and ensuring the healthy propagation of native plants. It watches over all who enter the forest, testing their intentions and respect for the natural world. Those who enter with pure hearts and demonstrate proper reverence by following traditional protocols are granted safe passage and may be led to abundant resources such as medicinal plants or clean water sources. Those who exploit the forest or harm its creatures without cause are tricked into becoming lost, led into swamps, or confronted with frightening visions until they leave. The spirit communicates through the rustling of leaves, the patterns of insect movements, and through dreams. It is particularly active during the new moon, when it gathers with other forest spirits to share knowledge and coordinate the protection of the natural world.",
     "habitat": "Rainforest regions",
@@ -2724,13 +2724,14 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Polynesian mythology, oral traditions",
-    "source_quality": "good",
+    "source": "Not independently attested; Maori (Aotearoa New Zealand) oral tradition",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "aumakua-0063",
@@ -3068,7 +3069,7 @@
       "tui-delaivugalei-fijian",
       "areop-enap-nauruan"
     ],
-    "description": "Anulap is a powerful god of magic and knowledge in the mythology of Chuuk (Truk) in the Federated States of Micronesia. He is revered as the deity who taught humanity the arts of magic, navigation, medicine, and all forms of sacred and practical knowledge. Anulap is the husband of the creator goddess Ligobubfanu and may himself be a creator deity. In the Chuuk creation story, Anulap established the cosmic order, separating the sky from the sea and creating the first islands. He is the grandfather of the trickster god Olifat and serves as the supreme authority in the Micronesian pantheon. Anulap's wisdom was essential for navigators who needed to read the stars, currents, and winds to travel between the scattered islands of Micronesia",
+    "description": "Anulap is the god of knowledge and magic in the mythology of Chuuk (Truk) in the Federated States of Micronesia, husband of the creator goddess Ligobubfanu and grandfather of the trickster Olifat. He taught humanity navigation, medicine, and sacred arts, and his wisdom was essential to voyagers reading stars, currents, and winds between the islands.",
     "appearance": "Supreme deity depicted as a wise old man with vast knowledge. Often shown with books or scrolls of sacred knowledge, surrounded by stars and navigation symbols.",
     "behavior": "Teacher of magic, navigation, and medicine. Establishes cosmic order and serves as supreme authority among the gods. Passes knowledge to worthy humans.",
     "habitat": "Sky world above Chuuk, Federated States of Micronesia",
@@ -3107,8 +3108,8 @@
     "tags": [],
     "tribe": null,
     "featured_in_stories": [],
-    "source": "Micronesian mythology — Anulap is the creator deity of Chuukese/Pohnpeian cosmology.",
-    "source_quality": "good",
+    "source": "Chuukese (Micronesian) mythology; regional ethnographic accounts",
+    "source_quality": "fair",
     "schema_org_type": "MythicalCreature",
     "seo_title": "Anulap – Micronesian Folklore",
     "seo_description": "God of magic and knowledge in Chuuk mythology who taught humanity navigation and sacred arts",
@@ -3117,9 +3118,10 @@
       "anulap-the-god-of-knowledge-in-chuuk"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "ahoeitu-tongan-3985",
@@ -4511,7 +4513,7 @@
       "yara-ma-yha-who-aboriginal",
       "wandjina-aboriginal"
     ],
-    "description": "Muldjewangk is a malevolent water spirit from the Aboriginal Australian mythology of the Murray River region in South Australia. This powerful and dangerous creature dwells in the deep waters of the Murray River, particularly around Lake Alexandrina and the river's lower reaches. Muldjewangk is described as a large, dark creature that can capsize boats and drag people and animals under the water to drown them. The legend serves as a cautionary tale, especially for children, warning them about the dangers of swimming alone in deep or unknown waters along the Murray. While primarily malevolent, some stories describe Muldjewangk as a guardian of the river's secrets, protecting sacred underwater sites from human disturbance",
+    "description": "Muldjewangk is a malevolent water spirit of the Murray River region in Aboriginal tradition, dwelling in deep pools and the lower Murray and Lake Alexandrina. It capsizes boats and drags the unwary under, and the stories warn children against swimming alone in deep waters while some accounts cast it as guardian of the river's secrets.",
     "appearance": "Large, dark water creature with glowing eyes and long, sinewy limbs. Sometimes described with features of both fish and reptile. Moves silently beneath the water surface.",
     "behavior": "Malevolent water spirit that attacks boats and drowns swimmers. Acts as a cautionary figure. Some traditions describe it as a guardian of sacred underwater sites.",
     "habitat": "Murray River, Lake Alexandrina, and lower reaches of the Murray in South Australia",
@@ -4550,8 +4552,8 @@
     "tags": [],
     "tribe": null,
     "featured_in_stories": [],
-    "source": "Australian Aboriginal folklore — the Muldjewangk is a water spirit from Murray River region oral tradition.",
-    "source_quality": "good",
+    "source": "Aboriginal Australian oral tradition, Murray River region",
+    "source_quality": "fair",
     "schema_org_type": "MythicalCreature",
     "seo_title": "Muldjewangk – Aboriginal Australian Folklore",
     "seo_description": "Malevolent water spirit from Aboriginal mythology of the Murray River region that drowns swimmers and capsizes boats",
@@ -4560,9 +4562,10 @@
       "muldjewangk-the-murray-river-monster"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "maui-polynesian-3962",
@@ -5777,7 +5780,7 @@
       "mo-o",
       "kalai"
     ],
-    "description": "Kamapuaa, meaning \"hog child,\" is a powerful Hawaiian kupua or demigod who embodies the dual nature of man and pig. Born on the island of Oahu to Hina and the chief Kahikiula, he was discovered as an infant wrapped in kapa cloth in the form of a hog and raised by his grandmother. Kamapuaa is associated with Lono, the god of agriculture and fertility, and is considered the male archetype in Hawaiian mythology. He is described as defiant of all authority, bold and untamed, with a voracious appetite for adventure, love, and sensual pleasure. His most famous exploits include his turbulent romantic pursuit of the fire goddess Pele, his epic battles with the chief Olopana, and his legendary shapeshifting abilities that allow him to transform between human, hog, fish, and plant forms",
+    "description": "Kamapua'a, the 'hog child,' is a Hawaiian kupua, a demigod of dual human and pig nature, born on Oahu to Hina and the chief Kahikiula. Associated with Lono and agriculture, he is defiant and untamed, famous for his shapeshifting between human, hog, fish, and plant forms and for his stormy pursuit of the fire goddess Pele.",
     "appearance": "As a human, Kamapuaa is described as a tall, handsome man with sparkling eyes, a muscular build, and bristles down his back that he conceals under a cape. He wears a pigskin loincloth and a pigskin cloak with bristles facing outward instead of the traditional feather cloak of chiefs. His body is heavily tattooed to resemble a hog hide, and his hair is cut short to stand up like bristles. In his hog form, he appears as a massive, fearsome boar with enormous tusks. He can also transform into various fish including the humuhumunukunukuapuaa triggerfish, plants such as the kukui tree and ama‘u fern, and even natural elements like rain and fog. His plant bodies include the coarse grass called kukae-puaa that marks his wanderings",
     "behavior": "Kamapuaa is a classic trickster figure who uses his shapeshifting abilities for both heroic and mischievous purposes. He excels at combat, seduction, and strategic warfare, defeating enemies by transforming into various forms to gain advantage. His most famous battle was with Pele, where he countered her volcanic fire with fog and flood summoned by his sister, eventually turning Pele lava rock into fertile soil. After their conflict, he divided the Hawaiian islands with her, taking the rainy windward districts while she kept the volcanic leeward regions. He is a patron of farmers and commoners, associated with rain, fertility, and agriculture. Despite his wild nature, he is also a protective figure who watches over his descendants and appears as the state fish of Hawaii, the humuhumunukunukuapuaa.",
     "habitat": "Forests, mountains, ocean",
@@ -5823,15 +5826,16 @@
       "A200"
     ],
     "featured_in_stories": [],
-    "source": "Hawaii mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source": "Hawaiian oral tradition and folklore collections",
+    "source_quality": "well-documented",
     "stories": [
       "pele-and-kamapuaa"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "kapua-tiki-0928",
@@ -7884,7 +7888,7 @@
       "wandjina-aboriginal",
       "a-men-rainbow-serpent"
     ],
-    "description": "Julunggul (also known as Yurlunggur) is a powerful Rainbow Serpent and creator being from the mythology of the Yolngu people of Arnhem Land in northern Australia. In the Dreamtime, Julunggul emerged from the waterhole and traveled across the land, creating rivers, waterholes, and shaping the landscape. Associated with fertility, initiation, and the monsoon rains, Julunggul is a central figure in the Gunapipi ceremony — a sacred ritual of fertility and renewal. The serpent is both creative and dangerous, capable of bringing life-giving rains but also floods and destruction when angered. Julunggul swallows and then regurgitates initiates during ceremonies, symbolizing death and rebirth. Like all Rainbow Serpent figures, Julunggul embodies the creative and destructive forces of nature",
+    "description": "Julunggul (Yurlunggur) is the Rainbow Serpent of the Yolngu people of Arnhem Land, a creator being of the Gunapipi ceremony who controls the monsoon and the waters. He swallows and regurgitates initiates to symbolize death and rebirth, and he can bring life-giving rain or destructive floods when angered.",
     "appearance": "Enormous rainbow-colored serpent with scales that shimmer in all colors. Associated with rainbows appearing after storms. Can be seen moving through waterholes and rain clouds.",
     "behavior": "Creator being who shaped the landscape and established sacred ceremonies. Dangerous when angered, capable of causing floods. Participates in initiation rituals through symbolic swallowing.",
     "habitat": "Arnhem Land, Northern Territory, Australia",
@@ -7924,17 +7928,18 @@
     "tags": [],
     "tribe": null,
     "featured_in_stories": [],
-    "source": "Aboriginal Australian mythology; the Rainbow Serpent in Yolngu tradition.",
-    "source_quality": "expert",
+    "source": "Yolngu oral tradition; Arnhem Land ethnography (Ronald Berndt, Gunapipi)",
+    "source_quality": "documented",
     "schema_org_type": "MythicalCreature",
     "seo_title": "Julunggul – Aboriginal Australian Folklore",
     "seo_description": "Rainbow Serpent creator being from Yolngu mythology of Arnhem Land who shaped the landscape and presides over initiation ceremonies",
     "motifs": [],
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "isokelekel-micronesian-3045",
@@ -12060,7 +12065,7 @@
       "tamaiti",
       "aitu"
     ],
-    "description": "The Bulyit is a malevolent little people spirit from Australian Aboriginal folklore, particularly known among the Wurundjeri and other Kulin nation peoples of the southeastern Australian region. These small, hairy humanoid beings are feared as child-stealing entities that inhabit dark, shadowy places and emerge during the late afternoon and early evening to snatch misbehaving children who venture too far from their families. The Bulyit serves as a powerful cautionary figure in Aboriginal storytelling, teaching children to stay close to their families and return home before dark",
+    "description": "Bulyit is a Noongar (southwestern Australian) name for small, hairy, malevolent spirit-beings — grouped with Gnardi and Mumari — that lurk in shadows and are said to carry off children who stray from camp, especially near sundown. The entry misattributes them to the Wurundjeri and Kulin nations of Victoria; the term is genuinely Noongar.",
     "appearance": "The Bulyit are described as small, hairy little men standing no more than three to four feet tall, covered in coarse dark fur or hair from head to toe. Their faces are wrinkled and ancient-looking, with deep-set eyes that gleam in the darkness, broad flat noses, and wide mouths filled with pointed teeth. Their hands end in long, sharp claws used for grasping and carrying their prey, and their feet are broad and splayed, leaving distinctive tracks in soft earth. Despite their small stature, the Bulyit are described as immensely strong, able to carry away children much larger than themselves.",
     "behavior": "The Bulyit inhabit shadows, dark hollows, caves, and dense scrubland, emerging between mid-afternoon and sunset to hunt for children who have wandered away from their families or disobeyed their parents. They are said to grab children who stray too far and carry them away to their hidden lairs, where the children are kept or sometimes consumed. The Bulyit are particularly active in the hours before sunset, when the long shadows provide ample cover for their approach. Traditional Aboriginal elders would warn children that the Bulyit would get them if they did not behave or stay close to the camp, and families would build bright fires at night to keep these creatures at bay. Unlike some other Aboriginal spirits, the Bulyit are unambiguously malevolent and cannot be bargained with or appeased.",
     "habitat": "Darkness, shadows",
@@ -12100,13 +12105,14 @@
       "F300"
     ],
     "featured_in_stories": [],
-    "source": "Australia mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source": "Noongar (Nyungar) oral tradition; Wikimedia Incubator Wp/nys records; Gerhardt Laves field recordings",
+    "source_quality": "fair",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "bunjil-the-eagle-0262",
@@ -12280,7 +12286,7 @@
       "teke",
       "akkedem"
     ],
-    "description": "The Butterfly Nature-Spirit is a guardian entity from Tongan tradition, entrusted with the protection of sacred mountains and the natural treasures they contain. This gentle but powerful spirit embodies the delicate balance between beauty and strength, serving as both a caretaker of the land and a gatekeeper who tests the worthiness of those who venture into its domain. In Tongan cosmology, mountains are considered sacred spaces where the spiritual and physical worlds meet, and the butterfly spirit watches over these liminal zones with patient vigilance. The spirit is particularly associated with the indigenous forests and unique ecosystems found on Tonga's volcanic islands, where rare plants and animals thrive under its protection",
+    "description": "No butterfly spirit or guardian of sacred mountains is attested in Tongan tradition; Tongan mythology centers on Maui, the sky and sea god Tangaloa, and the divine descent of the royal lineage. The entry's description is an invented nature-spirit narrative with no documentary basis.",
     "appearance": "The Butterfly Nature-Spirit appears as a magnificent butterfly of extraordinary size, with wings spanning several feet that shimmer with iridescent patterns reflecting all the colors of the tropical Pacific—deep blues, vibrant greens, golden yellows, and sunset oranges. Its wings are patterned with intricate geometric designs reminiscent of Tongan traditional tattoos and tapa cloth motifs, and they leave a trail of sparkling light as the spirit moves through the forest. When the spirit chooses to reveal its wisdom, a serene human-like face with gentle, knowing eyes can be seen within the wing patterns, occasionally speaking in a voice that sounds like rustling leaves and distant waves. The spirit's presence is accompanied by the fragrance of tropical flowers and a sense of profound peace.",
     "behavior": "The Butterfly Nature-Spirit spends its days drifting silently through the mountain forests, monitoring the health of the ecosystem and ensuring that all creatures under its care live in harmony. It guides lost travelers back to safe paths and tests those who enter the mountain with pure or selfish intentions—the worthy receive blessings of clarity and protection, while the unworthy become hopelessly disoriented until they leave with proper respect. The spirit is an patient teacher to those who approach with humility, imparting traditional ecological knowledge about edible plants, medicinal herbs, and the signs that predict weather changes. During important ceremonies or moments of spiritual significance, the butterfly may appear to village elders as an omen, its behavior and color patterns conveying messages from the ancestor realm.",
     "habitat": "Mountain regions",
@@ -12319,16 +12325,17 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Polynesian mythology, oral traditions",
-    "source_quality": "good",
+    "source": "Not independently attested; Tongan mythology and oral tradition",
+    "source_quality": "poor",
     "stories": [
       "the-butterfly-lovers",
       "bruin-and-reynard"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "barama-papua-3034",

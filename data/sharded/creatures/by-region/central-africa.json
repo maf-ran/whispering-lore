@@ -116,7 +116,7 @@
       "al-persian",
       "ghoul-jordan"
     ],
-    "description": "The Kishi is a terrifying two-faced demon from the folklore of Angola, one of the most cunning and deceptive monsters in Central African mythology. This creature possesses a dual appearance that makes it uniquely dangerous: from the front, it appears as an irresistibly handsome young man, but the back of its head conceals the face of a savage hyena with razor-sharp teeth. The Kishi uses its beautiful facade to lure unsuspecting victims, particularly young women, into trusting and approaching it before revealing its true nature and devouring them. The creature embodies the dangers of deceptive appearances and the importance of looking beyond the surface in traditional Angolan morality tales. Its connection to the hyena, an animal associated with cunning, scavenging, and dark magic in many African cultures, reinforces its role as a symbol of hidden evil and predatory deception",
+    "description": "The Kishi is a two-faced demon of Angolan (Kimbundu/Ambundu) folklore: from the front a handsome young man, from behind the head of a hyena with sharp teeth. He lures young women with charm and courtship, then turns and devours them.",
     "appearance": "From the front, the Kishi appears as the most handsome young man imaginable, with perfectly proportioned features, smooth skin, bright eyes, a charming smile, and an athletic build that draws admiring attention. It dresses in fine clothing and carries itself with confidence and grace, making it nearly impossible to resist. However, this beautiful facade conceals a horrifying truth visible only from behind: the back of its head is a fully formed hyena face with a elongated snout, powerful jaws filled with sharp, tearing teeth, small, cunning eyes that glow yellow in the darkness, and coarse fur blending into the neck and shoulders. The Kishi can also transform entirely into a full hyena when it suits its purposes, allowing it to stalk prey, flee danger, or approach victims in a different form. The transition from beautiful human to beast is instantaneous and shocking, the handsome face melting away to reveal the predator beneath",
     "behavior": "The Kishi is a patient and calculating predator that uses its handsome human appearance to approach potential victims in settings where young people gather, such as village markets, festivals, and water collection points. It charms its targets with flattery, gifts, and promises of romance, isolating them from their companions before revealing its true nature. The creature feeds on human flesh, consuming its victims completely, and there is evidence to suggest it does not kill quickly but rather prolongs the terror. It can fully shapeshift into a hyena, which allows it to stalk prey, approach villages unnoticed, or escape when its true nature is discovered. The Kishi shares characteristics with the European werewolf tradition, representing a human who transforms into a predatory beast. Traditional protections against the Kishi include carrying iron, wearing protective amulets, and being wary of strangers who appear too perfect or charming. Villages sometimes post guards to watch for suspicious strangers, particularly those who avoid being seen from certain angles.",
     "habitat": "Forests, wilderness areas, and remote villages of Angola. Lurks near settlements where it can find human prey.",
@@ -168,7 +168,7 @@
       "Hidden evil"
     ],
     "featured_in_stories": [],
-    "source": "Wikipedia - Kishi (folklore); MythBeasts - Kishi; Beasts of Legend - Kishi; Chatelain - Folk-tales of Angola",
+    "source": "Wikipedia (Kishi folklore); Chatelain, Folk-Tales of Angola",
     "source_quality": "good",
     "stories": [],
     "relatedNames": [
@@ -176,10 +176,11 @@
       "Sudika-Mbambi"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/kiʃi/"
+    "pronunciation_ipa": "/kiʃi/",
+    "attested": true
   },
   {
     "id": "angola-kalunga-ngombe-3434",
@@ -206,7 +207,7 @@
       "mokelembembe-centralafricanrepublic",
       "mokelembembe-democraticrepublicofcongo"
     ],
-    "description": "Kalunga-Ngombe is a fearsome monster from Mbundu mythology of Angola, associated with the depths of waters and the boundary between the world of the living and the realm of the dead. In the Kimbundu tradition, 'Kalunga' is associated with the sea, the abyss, and the spirit world, while 'Ngombe' relates to cattle or a powerful creature. Kalunga-Ngombe appears in the epic cycle of the hero Sudika-Mbambi, where the hero must defeat or overcome this monster as one of his trials to win the hand of a princess. The creature guards the boundary between worlds, challenging those who would cross from the mortal realm into spirit territories. In Mbundu cosmology, Kalunga represents the great deep—both the physical ocean and the metaphysical gulf between life and death. Kalunga-Ngombe embodies the dangers of the unknown and the challenges that must be faced by heroes seeking transformation or transcendence. The monster serves as a gatekeeper figure, testing whether souls are worthy to pass from one state of existence to another",
+    "description": "Kalunga-ngombe is the Kimbundu god of the underworld in Angola, ruler of Kalunga, the sea and realm of the dead. In the epic of Sudika-mbambi (Chatelain's Folk-Tales of Angola, 1894) he is the otherworldly father whose daughter the hero wins by performing trials, not a monster to be slain as the input claims.",
     "appearance": "Described as a massive serpentine or bovine-hybrid creature dwelling in deep waters. Often depicted as a colossal aquatic monster with features combining serpent and cattle, reflecting the name's dual meaning.",
     "behavior": "Territorial guardian of the aquatic depths and spiritual boundaries. Challenges and attacks those who venture into its domain. Must be defeated or appeased to pass.",
     "habitat": "Deep waters—oceans, rivers, lakes, and the metaphysical depths separating the mortal world from the spirit realm.",
@@ -256,8 +257,8 @@
       "Sacred deep"
     ],
     "featured_in_stories": [],
-    "source": "Wikipedia - List of African deities; Folktales Africa - Sudika-Mbambi; Chatelain - Folk-tales of Angola",
-    "source_quality": "good",
+    "source": "Chatelain, Folk-Tales of Angola (1894); Wikipedia (Sudika-mbambi)",
+    "source_quality": "primary",
     "stories": [],
     "relatedNames": [
       "Kimanaueze",
@@ -265,9 +266,10 @@
       "Sudika-Mbambi"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "car-abada-0004",
@@ -2209,7 +2211,7 @@
       "drc-obrigwabibikwa",
       "angola-kishi"
     ],
-    "description": "Negoogunogumbar is a terrifying child-eating giant from the mythology of the Mbuti Pygmy people, who inhabit the Ituri Forest in the Democratic Republic of Congo. This monstrous ogre dwells in the densest parts of the rainforest and preys primarily on children who wander too far from their villages. The giant serves as a powerful deterrent, instilling caution in both children and adults about the dangers that lurk in the untamed wilderness. According to oral tradition, Negoogunogumbar was either a human transformed by sorcery or a primordial being born as a giant. His legend underscores the Mbuti's deep respect for the forest's perils and the importance of communal vigilance in protecting the young. The figure appears in the ethnographic work 'The Forest People' by Colin Turnbull, where the Mbuti describe Negoogunogumbar with genuine fear as a constant threat beyond the safety of the campfire",
+    "description": "Negoogunogumbar is the child-eating giant of the Mbuti (Bambuti) of the Ituri Forest, Democratic Republic of the Congo. In Mbuti oral tradition, documented by Colin Turnbull in The Forest People, he lurks beyond the campfire and devours children who stray, teaching the young the real dangers of the deep forest and reinforcing communal vigilance.",
     "appearance": "A gigantic, monstrous humanoid with features typical of an ogre. Described as towering over the tallest trees with immense strength, dark or shadowy skin, and a fearsome, grotesque face designed to terrify. Some accounts mention sharp teeth and long limbs suited for grasping and crushing prey.",
     "behavior": "Nocturnal predator that prowls the forest at night searching for human prey, especially children. Known to be cunning and patient, waiting near village paths to snatch the unwary. Despite his ferocity, he can be outwitted by clever individuals and is bound by certain forest rules that the Mbuti understand.",
     "habitat": "Dense rainforest of the Ituri Forest in the Congo Basin, particularly in areas far from human settlements where the canopy is thickest.",
@@ -2266,7 +2268,7 @@
       "forest guardian"
     ],
     "featured_in_stories": [],
-    "source": "Mbuti oral tradition, documented by Colin Turnbull",
+    "source": "Mbuti oral tradition; Colin Turnbull, The Forest People",
     "source_quality": "good",
     "fun_fact_generated": false,
     "stories": [
@@ -2278,10 +2280,11 @@
       "big-peter-and-little-peter"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/neɡoːɡunogumbaɾ/"
+    "pronunciation_ipa": "/neɡoːɡunogumbaɾ/",
+    "attested": true
   },
   {
     "id": "drc-obrigwabibikwa-3361",
@@ -3490,7 +3493,7 @@
       "leshy",
       "lesovik"
     ],
-    "description": "The Boumba is a powerful forest guardian spirit from the folklore of the Bantu peoples of Cameroon, particularly among the communities living in the dense rainforests of southern Cameroon. The Boumba serves as the protector of the wilderness, safeguarding animals and plants from human greed and punishing those who take more than they need from the forest. This spirit embodies the concept of ecological balance, reminding hunters and gatherers to respect the natural world and take only what is necessary for survival",
+    "description": "Not independently attested as a spirit: 'Boumba' is chiefly a toponym in southeastern Cameroon, the Boumba River and Boumba-Bek National Park, and no Bantu forest guardian of that name appears in documented sources. The description is a generic filler portrait of a forest-protector spirit.",
     "appearance": "The Boumba is described as a highly variable creature that can change its size at will, appearing as a towering giant to intimidate wrongdoers or shrinking to the size of a small child to move unseen through the undergrowth. It typically appears as a strange, shaggy humanoid figure covered in moss and leaves, with eyes that glow like hot coals in the darkness of the forest. Some accounts describe it with features of multiple animals, such as the horns of a forest antelope, the claws of a leopard, and the tusks of a forest elephant, as if it embodies the collective spirit of all forest creatures.",
     "behavior": "The Boumba patrols the rainforest silently, watching over the animals and plants that call it home. When a hunter kills more game than needed for food or cuts down trees unnecessarily, the Boumba appears to deliver punishment, either by causing the hunter to become lost in the forest for days, frightening away all game from the area, or by inflicting a mysterious illness that only resolves when the wrongdoer apologizes to the forest. The spirit is known to mimic animal calls to lead hunters astray and can create illusions of paths that lead deeper into the wilderness rather than back to the village. Despite its fearsome reputation, the Boumba is not inherently evil and will protect respectful travelers who honor the forest.",
     "habitat": "Rainforest",
@@ -3532,13 +3535,14 @@
     "seo_description": "The Boumba is a forest guardian spirit from Cameroon folklore that protects rainforest animals and punishes hunters who take more than they need from the wilderness.",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Cameroonian folklore — forest spirit documented in Cameroonian oral tradition.",
-    "source_quality": "fair",
+    "source": "No verifiable source; 'Boumba' attested only as a Cameroonian toponym",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "bwiti-0270",

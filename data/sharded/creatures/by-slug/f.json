@@ -1169,7 +1169,7 @@
       "amaterasu",
       "lamia-cyprus"
     ],
-    "description": "The Falcone is a legendary peregrine falcon deeply woven into the folklore of the Republic of San Marino, the oldest surviving republic in the world. The peregrine falcon (Falco peregrinus) has nested in the cliffs of Mount Titano for centuries and is considered a living symbol of the republic's independence, resilience, and freedom. In Sammarinese tradition, a specific mystical falcon is said to appear before the death of a Captain Regent (head of state) or other major historical event. Its cry echoes through the Three Towers of San Marino—Guaita, Cesta, and Montale—serving as a supernatural warning to the people. The falcon embodies the spirit of Saint Marinus, the Dalmatian stonemason who founded the republic in 301 AD after fleeing religious persecution and building a small church on Mount Titano",
+    "description": "The peregrine falcon (Falco peregrinus) is the national bird of San Marino, a native raptor of the cliffs of Mount Titano celebrated as a symbol of freedom and honored in recent state coin issues. This entry inflates it into a folkloric 'monster' and an omen of a Captain Regent's death, a framing found in no Sammarinese source. The bird is real and emblematic, not a supernatural creature.",
     "appearance": "The Falcone appears as a large peregrine falcon with distinctive dark grey-blue plumage on its back and wings, a pale barred underside, and the characteristic black \"mustache\" markings on its white face that give the peregrine its distinctive appearance. Its eyes are piercing dark brown or amber with an unnatural intelligence. The mystical Falcone is larger and more majestic than ordinary peregrines, with a wingspan that seems to darken the sky when it passes overhead. When seen at close range, its feathers carry a faint silver sheen, and its breast bears a subtle marking resembling the Three Towers of San Marino. It perches on the battlements of the Guaita tower, motionless as a statue, watching the republic below with solemn vigilance.",
     "behavior": "The Falcone behaves unlike any ordinary bird of prey. It appears only at moments of great significance for the republic, most famously before the death of a Captain Regent. Its cry is distinctive and piercing, carrying across the entire Mount Titano in a sound that seems to echo from the stones themselves. Before delivering its omen, the Falcone circles the Three Towers three times, then perches on the highest battlement and cries once for each soul it heralds. The bird is considered untouchable—harming it brings a curse upon the perpetrator and the entire republic. When not delivering omens, the Falcone is said to watch over San Marino from the clouds, invisible to ordinary sight but always present. Its cry has been recorded through centuries of Sammarinese history, serving as both warning and comfort that the republic endures.",
     "habitat": "San Marino territory",
@@ -1210,13 +1210,14 @@
     "seo_description": "Legendary peregrine falcon of San Marino whose cry foretells the death of leaders. A mystical guardian of the oldest republic in the world.",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "San Marino folklore — monster documented in Sammarinese oral tradition.",
-    "source_quality": "fair",
+    "source": "Republic of San Marino state sources on the peregrine falcon as national bird (Poste San Marino 2025-26); notes on Mount Titano.",
+    "source_quality": "documented",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "famadihana-0696",
@@ -2700,7 +2701,7 @@
       "turtle-trickster-of-ashanti",
       "deerguardianmixtec-ghana"
     ],
-    "description": "In Ashanti (Asante) tradition from Ghana, the fox deity represents a spiritual force associated with cleverness, strategic thinking, and navigating complex social and spiritual situations with intelligence. While Anansi the Spider is the primary trickster deity in Ashanti cosmology, the fox occupies a distinct niche as a more subtle and observant force. The fox deity embodies the wisdom of patience and careful observation, teaching that sometimes the best action is no action until the right moment. This deity is associated with night and mysteries unfolding under darkness when the fox moves unseen. In Ashanti spiritual practice, offerings are made to the fox deity when seeking guidance in matters requiring discretion, subtlety, and careful planning. The fox deity represents the understanding that true power often lies not in visible strength but in unseen influence and patient strategy",
+    "description": "Not independently attested. No fox deity appears in documented Ashanti (Akan) cosmology or folklore; the Ashanti trickster is Anansi the spider, and the fox plays no recorded role in Akan religion. The entry's account of offerings made to a 'fox deity' for discretion and careful planning is unsupported and appears invented.",
     "appearance": "The Ashanti fox deity appears as a transformative spirit, most often taking the form of a fox but capable of assuming human shape with fox-like features. In animal form it appears as a large reddish-gold fox with unusually intense amber eyes glowing from within. Its coat carries subtle patterns shifting in different lighting, revealing hidden markings associated with Ashanti spiritual symbols. In human form the deity appears as a figure of indeterminate age with sharp features, amber eyes, and fox-like ears visible through closely cropped hair. The human form wears simple but elegant Ashanti clothing in deep gold and rich brown. The deity is accompanied by faint crackling energy like distant fire and carries the scent of night-blooming flowers. Its movements are fluid and economical, never wasted or hurried, reflecting patient wisdom. When the deity speaks, its voice carries a subtle resonance suggesting hidden depths of meaning.",
     "behavior": "The Ashanti fox deity protects its territory and teaches respect for nature through subtle influence rather than overt displays of power. It can be sought for guidance in matters requiring careful strategy and discretion, but demands genuine respect. The fox deity tests supplicants by presenting situations revealing their true nature: greed, patience, wisdom, or folly. It communicates through signs, synchronicities, and animal behavior rather than direct speech. Those seeking the fox deity's favor must demonstrate patience, observation skills, and ability to read subtle messages from the natural world. The deity influences events indirectly, arranging circumstances so the wise prevail and fools reveal themselves. In Ashanti tradition, the fox deity is associated with the marketplace and complex social negotiations governing community life. It teaches that knowledge is power and the person who speaks least often learns most. Those earning its respect receive guidance in navigating difficult situations.",
     "habitat": "Remote skys and wilderness areas",
@@ -2739,13 +2740,14 @@
     "seo_description": "A fox deity from Ashanti (Asante) tradition of Ghana embodying strategic thinking and subtle wisdom. Can be sought for guidance",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Regional folk beliefs and indigenous cosmology of West Africa, documented in ethnographic surveys of the Akan, Yoruba, Dogon, and Igbo cultures.",
-    "source_quality": "good",
+    "source": "No verifiable source",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "fox-deity-of-cree-0717",
@@ -3052,7 +3054,7 @@
       "owl-ghost-of-mi-kmaq",
       "turtle-deity-of-kwakiutl"
     ],
-    "description": "The Fox Ghost of Inuit tradition is the restless spirit of the Arctic fox (tiriganiaq), a creature deeply woven into Inuit cosmology. In Inuit beliefs, the boundary between animal and spirit was thin, and foxes were known as shapeshifters capable of crossing between the physical world and the spirit realm. This ghost is not merely a departed animal but a lingering spirit entity, often connected to the Inuit concept of the soul (inuusiq) and the belief that animals possess souls that must be treated with respect. Fox ghosts were said to appear in dreams or vision quests to deliver messages from ancestors, acting as intermediaries between the living and the dead. In some accounts, they are the spirits of foxes that once helped humans and now guard sacred Arctic sites, warning trespassers through chilling barks that echo across the ice. The Fox Ghost embodies the Inuit understanding that all creatures carry spiritual essence and that the Arctic landscape is alive with invisible presences",
+    "description": "Not independently attested as a ghost of Inuit folklore. Inuit tradition knows the fox-woman, a fox who takes human form and marries a hunter — a shape-shifter tale, not a ghost story. No Inuit fox-ghost is documented; the fox's roles are those of trickster and spirit-wife, not revenant.",
     "appearance": "The Fox Ghost of Inuit manifests as a spectral Arctic fox with a coat of pure white fur that seems to glow with an ethereal luminescence under the aurora borealis. Its form is semi-transparent, allowing the frozen tundra behind it to be faintly visible through its body. Its eyes burn with an otherworldly amber light that flickers like distant campfires. In winter, its fur thickens into a flowing ghostly mane that trails behind it as it moves across the snow. When angered, its form flickers between corporeal and spiritual states, sometimes appearing as a skeleton wreathed in pale mist. Its paws leave no tracks in the snow, and it casts no shadow under the midnight sun. Some shamans (angakut) describe seeing it as a small ball of light that darts across the tundra, occasionally taking the form of a fox with stars shining through its body.",
     "behavior": "The Fox Ghost of Inuit is a guardian spirit that patrols the boundaries between the living world and the spirit realm. It appears most often during the long Arctic winter nights when the veil between worlds is thinnest. It guides lost hunters back to their camps by appearing as a flickering light in the distance, but it also tests the worthy by leading them into dangerous situations to prove their courage and respect for nature. It communicates through a series of high-pitched yips that carry across the frozen landscape, which the Inuit interpret as warnings or messages from the ancestors. The ghost is particularly active during shamanic rituals, where it may serve as a helping spirit (tuurngaq) for the angakoq. It teaches humility before the harsh Arctic environment and reminds humans that all animals possess souls deserving of respect. Those who disrespect the fox by hunting without gratitude may find themselves cursed to wander the tundra forever, chasing phantom prey that vanishes upon approach.",
     "habitat": "Remote undergrounds",
@@ -3096,13 +3098,14 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Inuit spiritual tradition; documented in Arctic ethnographic records.",
-    "source_quality": "good",
+    "source": "None — no independent source located; cf. Inuit 'The Fox-Woman' legend",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "fox-giant-of-apache-0722",
@@ -3263,7 +3266,7 @@
       "wildcat-guardian-of-kazakh",
       "wolf-nature-spirit-of-kazakh"
     ],
-    "description": "The Fox Giant of Kazakh tradition emerges from the vast oral epics and nomadic folklore of the Kazakh people of Central Asia. In Turkic mythology, the fox (tulki) is a complex figure appearing in the epic cycles of Manas, Korkut Ata, and the tales of Aldar Kose as both a trickster and a wise counselor. The Fox Giant represents the deified, primordial form of this creature, believed to be one of the ancient spirit-beings that roamed the Eurasian steppe before the rise of humanity. In Kazakh shamanic tradition (baqsy), the fox was considered a sacred animal whose fur was used in ritual garments, and giant foxes were said to be the companions of Korkut Ata, the legendary shaman and musician. The Fox Giant embodies the untamed spirit of the vast Kazakh steppe, teaching nomads how to read the land, predict weather patterns, and survive the brutal continental winters",
+    "description": "Not independently attested: while the fox (tülki) is a familiar trickster in Kazakh tales, such as those of Aldar Köse and in the Korkut-ata tradition, no 'giant fox' being is recorded in Kazakh folklore. The description inflates the fox's attested trickster role into a fabricated primordial giant. The closest genuine figure is the cunning fox of the folktales, not a supernatural giant.",
     "appearance": "The Fox Giant of Kazakh is a magnificent creature the size of a yurt, its coat a rich golden-red that blends perfectly with the autumn steppe grass. Its fur is extraordinarily thick and luxuriant, adapted to the harsh Central Asian climate, with a white-tipped tail that sweeps the ground behind it. Its eyes are the color of amber honey, wise and ancient, with vertical pupils that seem to pierce through deception. Its ears are tipped with black tassels that twitch independently, catching sounds across vast distances. When it runs across the steppe, its movement creates the illusion of fire sweeping across the grassland. Its paws are broad as shields, leaving tracks that Kazakh children say are the footprints of the spirit of the land. In winter, its fur lightens to a creamy white with golden highlights, allowing it to merge with the snow-covered plains. Its breath appears as visible vapor even on the warmest days.",
     "behavior": "The Fox Giant of Kazakh is a nomadic spirit that follows the ancient migration routes of the Kazakh people across the steppe. It appears to travelers who are lost or in danger, offering guidance by appearing in the distance and leading them to safety. It is deeply connected to the Kazakh tradition of hospitality, testing strangers by appearing at the edge of camps to see if they are offered food and shelter. The giant fox is also a guardian of sacred springs and burial mounds, and those who disrespect these sites may find their horses spooked and their supplies depleted by invisible forces. It communicates through the behavior of animals and the patterns of the wind, and Kazakh baqsy (shamans) sometimes invoke its spirit during healing ceremonies. The Fox Giant teaches respect for the land, the importance of adaptability, and the wisdom of reading nature's signs. It is said to appear during difficult times to remind the Kazakh people of their resilience and connection to the steppe.",
     "habitat": "Remote hills",
@@ -3303,13 +3306,14 @@
     "seo_description": "The primordial fox giant from Kazakh and Turkic steppe tradition, a sacred guardian of kurgans and teacher of nomadic wisdom across Central Asia",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Kazakh folklore — fox giant from Kazakh oral tradition, Turkic mythology.",
-    "source_quality": "fair",
+    "source": "No verifiable source; fox attested only as a Kazakh trickster figure",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "fox-guardian-lakota-0725",
@@ -3332,7 +3336,7 @@
       "raven-guardian-of-ute",
       "fox-guardian-of-ute"
     ],
-    "description": "The Fox Guardian of the Lakota people (known as sungi'la in the Lakota language) is a powerful protective spirit deeply embedded in the spiritual traditions of the Lakota Sioux of the Great Plains. In Lakota cosmology, the fox was a medicine animal of great significance, associated with the Kit Fox Society (Tokala), one of the primary warrior societies responsible for policing the camp and hunting for the community. The Fox Guardian is not merely an animal spirit but a wakan being (a sacred entity imbued with mystery and power) that serves as a protector of the people. It was believed to possess the power to reveal the locations of medicinal herbs to medicine men (wicasa wakan) and to teach warriors how to move through dangerous territory with stealth and courage. The Fox Guardian represents the Lakota value of courage tempered with wisdom",
+    "description": "In Lakota tradition the fox (šunğíla) is a genuine medicine animal: it is said to reveal the locations of healing herbs to medicine people and to teach swift escape and courage under fire. The Tokala, the Kit Fox warrior society, took its name and its ideals of bravery, generosity and selfless service from the fox, honoring it as a protector and guide.",
     "appearance": "The Fox Guardian of the Lakota appears as a sleek swift fox (kit fox) with fur the color of sun-bleached prairie grass, marked with darker patches that form the shape of a shield on its shoulders. Its eyes are the deep brown of fertile earth, flecked with gold, and its ears are disproportionately large, capable of detecting the slightest sound across the open plains. Its tail is exceptionally bushy, tipped with white like the sacred white buffalo calf, and its paws are small and delicate yet leave no trace on hard ground. Around its neck, it often wears the feathers of eagles and hawks, tokens of its sacred status. In ceremonial contexts, it appears with painted markings resembling the geometric patterns of Lakota parfleche containers. Its fur glows faintly at dusk, and when it runs at full speed, it becomes a blur of tan and white that merges with the prairie wind.",
     "behavior": "The Fox Guardian of Lakota tradition is a solitary spirit that dwells in the sacred hills and buttes of the Great Plains. It serves as a protector of the Lakota people, particularly warriors on the warpath and hunters seeking game for their families. It appears in vision quests (hanbleceya) to young men seeking their spiritual direction, offering guidance through cryptic signs and tests of character. The fox guardian is associated with the night, particularly the four night spirits that Taku Skanskan commands, and it is believed to bring messages from the spirit world through dreams. It teaches the value of patience, observation, and strategic thinking over brute force. Lakota medicine men call upon the Fox Guardian when seeking healing herbs, as the fox was believed to know the location of all medicinal plants. Those who disrespect nature or act with arrogance may find the fox guardian leading them in circles until they learn humility.",
     "habitat": "Remote hills and wilderness areas",
@@ -3373,13 +3377,14 @@
     "seo_description": "The sacred swift fox guardian from Lakota Sioux tradition, a wakan spirit that protects warriors and reveals medicinal herbs to medicine men of the Great Plains",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Indigenous North American folk beliefs and ethnographic records, including academic studies of Native American spiritual traditions.",
+    "source": "Aktá Lakota Museum and Cultural Center (St. Joseph's Indian School), Lakota fox teachings; Kit Fox Society",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "fox-guardian-of-inuit-0726",
@@ -3402,7 +3407,7 @@
       "owlguardianoftlingit-canada",
       "bear-guardian-of-haida"
     ],
-    "description": "The Fox Guardian of Inuit tradition is a protective Arctic fox spirit revered by the Inuit peoples across the Canadian Arctic and Greenland. In Inuit cosmology, the Arctic fox (tiriganiaq) was a significant helping spirit that assisted shamans (angakut) in their journeys between worlds and protected hunters on the sea ice. Unlike the trickster foxes of other traditions, the Inuit fox guardian is a benevolent and respected helper, known for its intelligence, adaptability, and ability to survive the harshest conditions on Earth. The fox was believed to have a special connection to Sedna, the sea goddess, and could intercede with her on behalf of hungry communities. This guardian spirit embodies the Inuit value of resourcefulness and teaches that survival depends on keen observation, patience, and respect for all living things",
+    "description": "Not independently attested as a guardian of Inuit folklore. The documented Inuit fox figures are the fox-woman of the Labrador legend, who becomes a hunter's wife, and the trickster fox of northern tales; neither acts as a guardian spirit. No Inuit fox-guardian is recorded in the available sources.",
     "appearance": "The Fox Guardian of Inuit manifests as an Arctic fox of exceptional size and beauty, its summer coat a rich brown-grey that blends seamlessly with the rocky tundra, and its winter coat a dazzling pure white that becomes nearly invisible against the snow. Its fur is thickest around its tail, which it wraps around itself like a living blanket when resting. Its eyes are a striking pale blue, nearly white, adapted to the perpetual twilight of the Arctic winter. Its paws are heavily furred, leaving prints that look like stars in the snow. When it moves, it seems to float across the frozen landscape, and its breath does not condense in the cold air. Around its neck, a patch of fur grows in the shape of an amulet, which Inuit elders say is the mark of a spirit connection. In moonlight, its fur takes on a silvery luminescence, and its eyes reflect the aurora borealis.",
     "behavior": "The Fox Guardian of Inuit is a compassionate and patient spirit that watches over hunting camps and traveling families. It appears most frequently during times of scarcity, leading hunters to seal breathing holes or caribou herds by appearing at a distance and disappearing in the direction of game. It protects children from the dangers of the frozen landscape, appearing to those who wander too far from camp and guiding them back to safety. The fox guardian communicates through behavior rather than speech, using specific postures and movements that experienced Inuit can read like language. It is also a guardian of traditional knowledge, appearing to elders in dreams to remind them of forgotten stories or survival techniques. Hunters traditionally left small offerings of fat or meat for the fox guardian, thanking it for its protection. It teaches that true strength is adaptability and that survival comes through community and cooperation.",
     "habitat": "Remote lakes",
@@ -3442,13 +3447,14 @@
     "seo_description": "The protective Arctic fox guardian from Inuit tradition, a compassionate spirit that guides hunters, protects children, and teaches survival wisdom in the Canadian Arctic",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Indigenous North American folk beliefs and ethnographic records, including academic studies of Native American spiritual traditions.",
-    "source_quality": "good",
+    "source": "None — no independent source located; cf. Inuit 'The Fox-Woman' legend",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "fox-guardian-of-ute-0727",
@@ -3471,7 +3477,7 @@
       "fox-guardian-lakota",
       "salmon-guardian-of-miwok"
     ],
-    "description": "The Fox Guardian of Ute tradition is a revered animal spirit from the mythology of the Ute people (Nuuchi), who have inhabited the Rocky Mountain region and the Great Basin for thousands of years. In Ute cosmology, animals play a central role, and the fox is recognized as one of the significant beings in their oral traditions along with Wolf, Coyote, Mountain Lion, and Bear. Unlike Coyote, who often serves as a foolish trickster in Ute tales, the Fox Guardian is associated with wisdom, stealth, and protection. It is one of the four night spirits that bring change and is respected for its keen observation and ability to navigate the treacherous mountain terrain. The Ute believe that the fox taught their ancestors how to move silently through the forests, how to read animal tracks, and how to survive the harsh mountain winters",
+    "description": "Not independently attested as a guardian of Ute folklore. The fox appears in some Ute tales as a clever figure, but no Ute fox-guardian or fox-spirit is documented in the sources. Ute spirit-helpers center on shamans and animal powers such as the bear and the eagle, not a guardian fox.",
     "appearance": "The Fox Guardian of Ute appears as a gray fox of exceptional size, its coat a beautiful silver-grey marked with rust-colored patches along its sides and the characteristic black stripe running down its back to the tip of its tail. Its fur is thick and luxurious, adapted to the high-altitude cold of the Rocky Mountains. Its eyes are the color of dark amber, with a piercing intelligence that seems to look through flesh to the spirit within. Its ears are large and constantly moving, catching every sound from the mountain forests. Its paws are broad and sure-footed, capable of climbing rocky cliffs with ease. Unlike other foxes, the Ute Fox Guardian has retractable claws that allow it to scale sheer rock faces. Its teeth are unusually sharp, gleaming white like fresh snowmelt. When it sits motionless among the pines, it becomes nearly invisible, its grey fur blending perfectly with the lichen-covered rocks.",
     "behavior": "The Fox Guardian of Ute is a watchful and patient spirit that patrols the sacred mountains and valleys of Ute ancestral territory. It appears to those who are lost in the wilderness, either leading them to safety or providing signs that guide their path. It is especially active during the winter months when the mountain environment is most dangerous, appearing at dawn and dusk when the light plays tricks on the eyes. The guardian serves as a mediator between the human world and the spirit world, and Ute elders have traditionally called upon it for protection during vision quests and ceremonies. It teaches the importance of silence, observation, and patience. Those who hunt without respect or take more than they need may find their prey mysteriously vanishing, led away by the fox guardian. It communicates through the arrangement of stones, the calls of birds, and the behavior of other animals.",
     "habitat": "Remote cliffs",
@@ -3513,13 +3519,14 @@
     "seo_description": "The wise gray fox guardian from Ute tradition that silently patrols the Rocky Mountains as a protector of sacred lands and teacher of survival wisdom",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Indigenous North American folk beliefs and ethnographic records, including academic studies of Native American spiritual traditions.",
-    "source_quality": "good",
+    "source": "None — no independent source located; no Ute fox-guardian found",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "foxnaturespirittupi-brazil-0728",
@@ -3926,7 +3933,7 @@
       "raven-nature-spirit-of-ute",
       "eagle-nature-spirit-of-ute"
     ],
-    "description": "The Fox Nature-Spirit of the Creek people (also known as the Muscogee or Mvskoke) is a woodland spirit from the traditions of the Creek Confederacy of the American Southeast. In Creek cosmology, the fox (chula) was recognized as a clever and resourceful animal possessing the power of medicine. Unlike the trickster figure of other Native American traditions, the Creek fox nature-spirit was a respected being that taught wisdom through subtle signs rather than deception. The Creek believed that foxes possessed the secret knowledge of fire and solar power, as evidenced by their red fur and their habit of appearing at dawn and dusk. This nature-spirit was particularly associated with the Green Corn Ceremony, the most important Creek ritual, when the sacred fire was rekindled and the world was renewed. The fox nature-spirit embodies the Creek values of adaptability, observation, and living in balance with the forest",
+    "description": "No fox nature-spirit is attested in Creek tradition. The fox appears in the Creek story of 'The Fox and the Fry Bread' as a clever character, but it carries no spirit role. Creek spiritual beings are tied to fire, the Green Corn Ceremony and beings such as the tie-snakes; a fox nature-spirit is not documented.",
     "appearance": "The Fox Nature-Spirit of the Creek appears as a red fox of exceptional size and beauty, its fur a brilliant russet red that seems to hold the warmth of the sun. Its coat is thick and glossy, always pristine regardless of season, and it carries the scent of pine needles and black earth. Its eyes are a striking golden-amber that seem to contain the wisdom of ages, and its ears are large and perpetually alert. Its tail is exceptionally bushy, tipped with pure white like a plume of smoke, and it sweeps behind it like a living flame. Its paws are delicate but leave deep impressions in the forest floor, as if weighted by ancient knowledge. On its forehead, a subtle diamond pattern in its fur marks it as a spirit being. When it moves through the pine forests of the Southeast, its passage creates no sound, and the forest itself seems to fall silent in its presence, acknowledging its sacred nature.",
     "behavior": "The Fox Nature-Spirit of the Creek is a solitary observer that wanders the pine forests and river bottoms of Creek ancestral territory. It appears most often during the changing of seasons, particularly at the transition from winter to spring when the Green Corn Ceremony approaches. It teaches the art of observation, appearing to hunters and medicine people to demonstrate the subtle signs of the forest. The fox spirit is associated with the sacred fire and appears at dawn, when the fire of the sun first touches the earth. Those who are attentive may learn from its behavior: how it tilts its ears to catch distant sounds, how it tests the wind before moving, how it disappears into the landscape without a trace. It punishes arrogance and greed by leading braggarts into thickets of briars and poison ivy, but rewards respectful hunters by allowing them to glimpse its form, a sign that their hunt will be successful.",
     "habitat": "Remote oceans",
@@ -3968,13 +3975,14 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Indigenous North American folk beliefs and ethnographic records, including academic studies of Native American spiritual traditions.",
-    "source_quality": "good",
+    "source": "Muskogee (Creek) tale 'The Fox and the Fry Bread'; no fox spirit in Creek cosmology",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "fox-nature-spirit-of-haida-0734",
@@ -3997,7 +4005,7 @@
       "moose-nature-spirit-of-kwakiutl",
       "deernaturespiritoftlingit-canada"
     ],
-    "description": "The Fox Nature-Spirit of the Haida people originates from the traditions of the Haida Nation of Haida Gwaii (the Queen Charlotte Islands) off the coast of British Columbia. In Haida cosmology, the fox was a minor but significant figure in the intricate system of clan crests and supernatural beings that populate their rich oral traditions. Unlike the sea wolves and thunderbirds of Haida legend, the fox nature-spirit is a more subtle figure associated with the deep forests of the island archipelago. The Haida believed that foxes were messengers between the forest spirits of the land and the sea spirits of the ocean, serving as mediators in the eternal dialogue between earth and water. The fox nature-spirit is particularly associated with the Skill-Halait (supernatural power) of cunning and strategy, and it was believed to grant cleverness to those who earned its favor. It embodies the Haida value of intelligence and adaptability in the challenging island environment",
+    "description": "No genuine fox nature-spirit is documented in Haida tradition; this entry is an unverifiable composite. Haida cosmology centers on Raven as trickster and creator, the Bear Mother, the supernatural killer-whale beings Sgaana, and the culture hero Nanasimget, none of which includes a fox spirit.",
     "appearance": "The Fox Nature-Spirit of the Haida appears as a cross fox, a rare color morph of the red fox with a striking pattern of black, silver, and reddish-gold fur that echoes the totemic art style of Haida carving. Its fur is marked with bold geometric patterns that resemble formline designs, with ovoid shapes and U-forms traced in darker fur across its body. Its eyes are the deep color of cedar bark, dark brown flecked with gold, and they hold an ancient patience. Its tail is unusually thick, striped with black and silver bands, and it wags slowly when the spirit is contemplating. Its ears are rimmed with white fur, giving it a regal appearance. It carries the scent of old-growth forest: cedar, spruce, damp moss, and salt mist. When it moves through the misty forests of Haida Gwaii, its form seems to flicker between this world and the spirit world, appearing solid one moment and translucent the next, as if it is never fully committed to being seen.",
     "behavior": "The Fox Nature-Spirit of the Haida is a cryptic and elusive being that favors the misty, fog-shrouded forests of Haida Gwaii. It appears most often during the salmon spawning season, when the boundary between the forest and the sea is blurred by fog and the spirits of land and water mix freely. It tests the cleverness of those who encounter it, appearing at crossroads in the forest and watching to see which path is chosen. It communicates through the arrangement of natural objects: a line of pebbles, a branch bent at an unusual angle, the sudden flight of birds. Haida hunters and gatherers traditionally read these signs as messages from the fox spirit. It teaches that intelligence and observation are more valuable than strength, and that the quietest being in the forest often knows the most. Those who act with arrogance or dismiss the signs of nature may find the fox leading them in circles through the mist until they learn to pay attention.",
     "habitat": "Remote swamps",
@@ -4039,13 +4047,14 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Indigenous North American folk beliefs and ethnographic records, including academic studies of Native American spiritual traditions.",
-    "source_quality": "good",
+    "source": "Not independently attested; no Haida source documents a fox spirit (cf. Swanton, Haida Texts and Myths)",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "foxspiritzulu-southafrica-0735",
@@ -4287,7 +4296,7 @@
       "deer-spirit-of-cherokee",
       "hawkspiritofblackfoot-usa"
     ],
-    "description": "The Fox Spirit of the Creek people is a messenger spirit from the spiritual traditions of the Muscogee (Creek) Nation of the American Southeast. While the Creek people recognize multiple fox-related beings, this spirit is specifically the messenger aspect, distinct from the woodland nature-spirit. The Creek believed that foxes could carry messages between the physical world and the spirit world, and that their sudden appearance or unusual behavior was a form of communication from the realm of the ancestors. This spirit was particularly important during times of transition such as birth, coming of age, and death, when the boundaries between worlds were considered thinner. The fox messenger spirit was associated with the element of air and the east wind, which carried the sounds and scents of distant places. It embodies the Creek belief that the universe is interconnected through a web of communication that includes both human and non-human beings",
+    "description": "No fox messenger spirit is attested in Creek (Muscogee) tradition. Documented Muscogee supernatural beings include Chufi, the Rabbit trickster; Kolowa, a hairy man-eating ogre; the underwater Tie-snakes; and Isti Papa, the 'man-eater' giant. The entry invents a messenger role with no support in ethnography.",
     "appearance": "The Fox Messenger Spirit of the Creek appears as a swift red fox of modest size, its coat the color of autumn hickory leaves. Its fur is sleek and aerodynamic, adapted for speed, and it seems to shimmer with a faint golden aura when caught in the long rays of morning or evening light. Its eyes are a piercing golden-yellow that seem to look through the observer rather than at them, as if reading messages written on the air itself. Its ears are large and constantly oriented toward the wind, catching messages carried from great distances. Its tail is long and flowing, streaming behind it like a banner when it runs. Its paws are small and delicate, designed for speed, and they leave tracks that seem to point toward significant locations. The white tip of its tail is unusually bright, as if dipped in starlight, and it serves as a beacon visible in the deep forest. When it runs at full speed across an open field, it appears as a streak of red and white, too fast for the eye to follow.",
     "behavior": "The Fox Messenger Spirit is a being of urgency and purpose, appearing suddenly and departing just as quickly. It comes to deliver warnings, announcements, or invitations from the spirit world. A single fox crossing a hunter's path might be interpreted as a message that game is near, while a fox appearing at the edge of a village at dawn might be a warning of approaching strangers. The spirit is particularly active during the changing of seasons, when it carries messages between the summer and winter spirits. It teaches that communication is sacred and that information must travel freely for the community to thrive. Creek runners and messengers traditionally invoked this fox spirit before embarking on long journeys, asking for speed, endurance, and safe passage. The spirit punishes those who hoard information or spread deliberate falsehoods by causing confusion, leading gossips into situations where their lies are exposed.",
     "habitat": "Remote hills",
@@ -4329,13 +4338,14 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Indigenous North American folk beliefs and ethnographic records, including academic studies of Native American spiritual traditions.",
-    "source_quality": "good",
+    "source": "Not independently attested; Muscogee (Creek) oral tradition and ethnographic records",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "fox-spirit-of-maya-0739",
@@ -4502,7 +4512,7 @@
       "hawk-spirit-of-zapotec",
       "foxspiritzulu-mexico"
     ],
-    "description": "The fox spirit from Zapotec tradition serves as a guardian of the underworld and a messenger between the living and the dead. In Zapotec cosmology, the fox is revered as a psychopomp that guides souls through the nine levels of the underworld, known as Lyobaa. This spirit is deeply tied to the ancient Zapotec belief that caves and underground passages are portals to the spirit realm. Elders recount stories of the fox spirit appearing to shamans during vision quests, imparting wisdom about medicinal plants and the cycles of nature. Unlike trickster foxes of other Mesoamerican traditions, the Zapotec fox spirit is solemn, dignified, and commands deep respect from those who encounter it",
+    "description": "The fox is a significant animal in Oaxacan Zapotec belief, where naguales and soul-companions may take animal form, and where caves and the underworld (Lyobaa) belong to the spirit world. The entry presents the Zapotec fox as a solemn guide of souls and helper of shamans, a plausible but generalized synthesis; specific 'psychopomp fox' tales are not widely recorded.",
     "appearance": "The Zapotec fox spirit manifests as a large, majestic red fox with eyes that glow like embers in darkness. Its fur is marked with intricate patterns reminiscent of Zapotec geometric designs, particularly the stepped fret motif found in the ruins of Monte Albán. When it chooses to appear in humanoid form, it takes the shape of a tall, slender figure wrapped in a cloak of woven agave fiber, with a fox's face partially visible beneath a ceremonial headdress. A faint, phosphorescent aura shimmers around its body, pulsing with the colors of sunset. Its footprints leave faint traces of luminescent dust that fade within moments.",
     "behavior": "This guardian spirit patrols the entrances to underground caverns and sacred burial sites, ensuring that only those with pure intentions may enter. It communicates through visions rather than speech, projecting symbolic images into the minds of visitors. Those who approach with greed or disrespect are led into confusing tunnel systems from which escape is nearly impossible. The spirit tests humans by presenting them with moral dilemmas, rewarding those who demonstrate wisdom and humility with knowledge of hidden water sources and fertile hunting grounds. It is particularly active during the Day of the Dead celebrations, when the boundary between worlds grows thin.",
     "habitat": "Remote undergrounds",
@@ -4545,13 +4555,14 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Mesoamerican mythology, Popol Vuh & Florentine Codex",
-    "source_quality": "expert",
+    "source": "Zapotec nagualism and underworld (Lyobaa) beliefs; Oaxaca ethnography.",
+    "source_quality": "fair",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "attested": true
   },
   {
     "id": "fox-trickster-mixtec-0742",
@@ -4574,7 +4585,7 @@
       "deer-trickster-mixtec",
       "hawk-trickster-of-aztec"
     ],
-    "description": "The Fox Trickster of Mixtec tradition is a cunning shape-shifter who embodies the unpredictable nature of the lakes and waterways of Oaxaca. In Mixtec cosmology, this trickster figure bridges the human world and the spirit realm, using deception and cleverness to teach moral lessons. Unlike the benevolent fox spirits of some traditions, the Mixtec fox trickster delights in leading travelers astray, creating illusions of treasure that vanish upon approach, and impersonating loved ones to expose hidden truths. Mixtec codex illustrations sometimes depict this figure with a fox head and human body, carrying a staff wound with serpents, symbolizing its mastery over both land and water domains",
+    "description": "The fox figures in Mixtec and wider Mesoamerican oral tradition as a clever, deceptive animal, though the specific 'Mixtec fox trickster' of this entry is a synthesis. The input's claim of codex illustrations showing a fox-headed, staff-carrying figure is unverified. What is attested is the fox as a wily trickster animal across the region's folktales.",
     "appearance": "This trickster most commonly appears as a sleek, russet-colored fox with unusually intelligent amber eyes that seem to hold ancient knowledge. Its fur has a subtle iridescent quality, shifting from deep red to silver as it moves through different lights. When in human form, it appears as a wiry, quick-moving person with sharp features, pointed ears, and a fox-like grin. Its clothing is always impeccably traditional Mixtec cotton garments, often stained at the hem with lake water. A distinctive tuft of white fur on its chest marks it as a spirit creature rather than an ordinary fox.",
     "behavior": "The Mixtec fox trickster is endlessly inventive in its deceptions, crafting elaborate scenarios that force humans to confront their own pride, greed, or foolishness. It particularly targets those who boast about their intelligence or claim superiority over others. The trickster has been known to create phantom villages that disappear at dawn, leave false trails that lead to waterfalls, and mimic the voices of missing relatives to draw people into negotiations with lake spirits. Despite its mischievous nature, it occasionally shares genuine wisdom with those who prove themselves humble and quick-witted. Fishermen leave small offerings of tortillas and fish at lake shores to curry favor with this unpredictable spirit.",
     "habitat": "Remote lakes and wilderness areas",
@@ -4615,13 +4626,14 @@
     "seo_description": "A fox trickster from Mixtec tradition that uses cunning and shapeshifting to teach moral lessons through elaborate deceptions.",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Mesoamerican mythology, Popol Vuh & Florentine Codex",
-    "source_quality": "expert",
+    "source": "Mesoamerican fox trickster tales; review note that the codex-illustration claim is unverified.",
+    "source_quality": "fair",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "attested": true
   },
   {
     "id": "fox-trickster-of-creek-0743",
@@ -4940,7 +4952,7 @@
       "moosetrickstercree-mexico",
       "fox-trickster-mixtec"
     ],
-    "description": "The Fox Trickster of Zapotec tradition is a cave-dwelling trickster figure from the highlands of Oaxaca, distinct from the more solemn Zapotec fox spirit. While the fox spirit serves as a psychopomp and guardian of the underworld, this trickster is a playful, unpredictable being that tests human cleverness and moral character. In Zapotec oral tradition, this figure appears in humorous tales told during community gatherings, where its exploits serve as warnings against vanity, greed, and the misuse of power. Its domain includes the cave systems and underground passages that riddle the Oaxacan mountains, remnants of the ancient Zapotec civilization's sacred geography",
+    "description": "Zapotec oral tradition of Oaxaca includes humorous tales of clever animals, among them the fox, told at community gatherings as warnings against vanity and greed. The entry contrasts a playful fox trickster with a solemn fox spirit; while both moods exist in regional tales, the specific division and the cave-dwelling framing are the editor's synthesis, not a fixed figure.",
     "appearance": "The Zapotec fox trickster appears as a compact, muscular fox with a coat of deep russet marked by distinctive black stripes running from its shoulders to its tail. Its most remarkable feature is its eyes, which appear as polished obsidian mirrors reflecting distorted images of whoever gazes into them. In human form, it manifests as a stocky, bandy-legged figure wearing a simple cotton tunic and carrying a gourd filled with pulque. A fox tail always protrudes from beneath the tunic, and its feet leave no footprints on stone surfaces. The trickster smells of cave earth, smoke, and fermented agave.",
     "behavior": "This cave-dwelling trickster emerges at twilight to engage with humans who venture near cave entrances. It specializes in creating illusions that reveal hidden truths—making the greedy see treasure that turns to stone, or showing the proud their reflection as a preposterously pompous figure. The trickster challenges locals to contests of wit, with high stakes such as a season's harvest or a family's health. Those who win through genuine cleverness are rewarded with knowledge of hidden archaeological treasures or medicinal plants. Losers are subjected to embarrassing transformations, such as growing donkey ears that last until they learn the intended lesson.",
     "habitat": "Remote caves",
@@ -4982,13 +4994,14 @@
     "seo_description": "The fox trickster from Zapotec tradition inhabits Oaxacan caves, testing human cleverness through illusions and teaching lessons against vanity and greed.",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Mesoamerican mythology, Popol Vuh & Florentine Codex",
-    "source_quality": "expert",
+    "source": "Zapotec oral tradition; Oaxaca folktale collections.",
+    "source_quality": "fair",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "attested": true
   },
   {
     "id": "frog-guardian-bhutanese-0748",
@@ -5087,7 +5100,7 @@
       "wildcatgiantofguarani-paraguay",
       "bear-giant-of-quechua"
     ],
-    "description": "The Frost Giant of Tupi folklore is a rare but fearsome entity from the indigenous traditions of coastal and Amazonian Brazil. Unlike the more common warm-climate spirits of Tupi mythology, this giant is associated with the cold southern winds that occasionally sweep through the Brazilian highlands, bringing unseasonable frost and damaging crops. In Tupi cosmology, the frost giant represents the destructive power of nature's imbalances and serves as a reminder that even the tropical world has its winter aspects. Stories of the frost giant were traditionally told during cold snaps to explain the phenomenon and to warn communities to prepare for sudden weather changes",
+    "description": "Not independently attested as a figure of Tupi tradition. Tupi-Guarani cosmology of tropical Brazil records beings such as Tupã, Anhangá and the Curupira, but no source mentions a frost giant or attributes unseasonable cold to one; frost is rare in the lowlands and is not personified in Tupi mythology. The entry is a generic giant archetype misassigned to the Tupi.",
     "appearance": "The Tupi frost giant stands twice the height of a tall man, with skin of pale blue-white like ice that contrasts dramatically with the warm-toned Tupi aesthetic traditions. Its body is covered in crystalline formations that resemble frozen leaves and vines, growing from its shoulders and arms. Its face is broad and angular, with frost-covered lips and eyes of frozen white that leak trails of cold vapor. Icicles hang from its chin like a beard, and its breath emerges as visible clouds even in the tropical heat. Despite its association with cold, it wears minimal clothing—a simple loincloth of bark fiber, suggesting its origin in warmer lands.",
     "behavior": "The frost giant appears only during the rare cold spells that descend upon the Brazilian highlands, usually between June and August. It walks through villages at night, leaving trails of frost that kill sensitive plants and startle livestock. The giant is not actively malevolent but is dangerously indifferent to human welfare, and its mere presence can destroy a season's crops. Tupi shamans traditionally performed rituals to warm the earth and drive the frost giant back to its mountain haunts, involving fires, tobacco smoke, and chants to the sun god Guaraci. The giant is said to be vulnerable to heat and will retreat if confronted with large bonfires and loud music.",
     "habitat": "Natural environment appropriate to the being",
@@ -5128,13 +5141,14 @@
     "seo_description": "A frost giant from Tupi folklore embodying the cold southern winds that occasionally damage crops in the Brazilian highlands.",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Tupi-Guarani mythology — frost giant from Brazilian oral tradition.",
-    "source_quality": "fair",
+    "source": "None — no independent source located",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "fuath-0750",
@@ -6102,7 +6116,7 @@
       "kaliya-hindu",
       "grootslang"
     ],
-    "description": "The Funkwe is a giant water snake from Lamba mythology of Zambia that serves as the guardian and protector of the Chitapo, the female lake spirit. This enormous serpent has the body of a massive snake but with the tail of a fish, making it a hybrid creature of both water serpent and fish characteristics. The Funkwe and the Chitapo are said to inhabit the same lakes in Zambia, including Lakes Nakamwale, Kashiba, and Namulolobwe, with the serpent guarding the treasure hoard of the Chitapo. In some traditions, the Funkwe is the more physically imposing of the two, and the Chitapo takes the form of a small diamond that sits in the snake's mouth for protection. The myths of the Funkwe and Chitapo overlap to such an extent that some anthropologists believe they may have originally been a single myth that later diverged, or that the mermaid-like imagery of the Chitapo is a later conflation with the Funkwe. The serpent is also associated with rainfall and fertility, with its movements in the lake believed to influence weather patterns",
+    "description": "The Funkwe is a giant hybrid water snake of Lamba tradition in Zambia, guardian of the lakes Nakamwale, Kashiba and Namulolobwe and of their mistress the Chitapo, a female lake spirit sometimes shown as a mermaid or as a diamond the serpent holds in its mouth. It protects treasure, governs rainfall and fertility, and some scholars read it and the Chitapo as a single myth that later diverged.",
     "appearance": "A massive serpent with scales that shimmer in iridescent blues, greens, and golds. It has the body of a python or anaconda but ends in a powerful fish-like tail instead of a typical serpent's tail. Its eyes are described as luminous and hypnotic.",
     "behavior": "The Funkwe is the guardian and protector of the Chitapo and her treasure. It is territorial and aggressive when approached, capable of creating waves and whirlpools. It may surface during storms or periods of heavy rain.",
     "habitat": "Lakes Nakamwale, Kashiba, and Namulolobwe in Zambia, particularly the deep sections of these lakes",
@@ -6160,7 +6174,7 @@
       "treasure"
     ],
     "featured_in_stories": [],
-    "source": "bestiarium (Tumblr); Zambian oral traditions",
+    "source": "Lamba mythology; bestiarium (Tumblr); Zambian oral tradition",
     "source_quality": "good",
     "fun_fact_generated": false,
     "stories": [],
@@ -6168,10 +6182,11 @@
       "zambia-chitapo"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/fuŋkwe/"
+    "pronunciation_ipa": "/fuŋkwe/",
+    "attested": true
   },
   {
     "id": "falak-3445",
@@ -6607,7 +6622,7 @@
       "rock-crystal-girl-navajo",
       "first-man-navajo"
     ],
-    "description": "First Angry (Áłtsé Hashké) is a powerful spirit in Navajo mythology, one of the Holy People (Diyin Dineʼé) who embodies the principle of righteous anger and conflict. He is the first being to feel rage in the world, and his anger was necessary to separate the forces of creation during the emergence stories. First Angry guards the eastern boundary of the sacred Navajo homeland and is invoked in healing ceremonies to confront and expel the sources of illness and discord. He carries a weapon of stone and lightning, and his voice shakes the mountains",
+    "description": "First Angry (Áłtsé Hashké) is a genuine Coyote Holy Person of Diné creation accounts. In the Diné Bahane' he emerged with the first beings, declared that he existed before they were formed, and is named as the one who brought witchcraft into the world, so that his power must be guarded against in Navajo ritual.",
     "appearance": "First Angry is depicted as a fierce, broad-shouldered figure with dark storm clouds gathering behind him. His face is painted with bold red and black lines, and his eyes flash like lightning. He wears a necklace of bear claws and carries a flint knife in one hand and a thunderbolt in the other.",
     "behavior": "Stern and unyielding, First Angry confronts evil and imbalance with overwhelming force. He does not harm the innocent but is terrifying to those who violate sacred law. His anger is purposeful — it restores balance when harmony (hózhó) has been disrupted.",
     "habitat": "The eastern horizon and the storm fronts that roll across the Navajo Nation at dawn",
@@ -6647,16 +6662,17 @@
       "A200"
     ],
     "featured_in_stories": [],
-    "source": "Navajo (Diné) spiritual tradition; documented in Navajo ethnographies and traditional oral histories.",
+    "source": "Diné Bahane' (Navajo creation account, Zolbrod trans.); Navajo ethnographies on Áłtsé Hashké",
     "source_quality": "good",
     "stories": [
       "first-man-and-first-woman",
       "the-ants-that-pushed-on-the-pine-tree"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "frog-navajo-3542",

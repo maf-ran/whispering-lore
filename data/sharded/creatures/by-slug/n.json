@@ -7262,7 +7262,7 @@
       "tataduende-belize",
       "papabois-trinidadandtobago"
     ],
-    "description": "Nanan, also known as the Old Woman of the Woods, is a legendary figure from Bajan folklore who serves as the guardian of Barbados' flora and fauna. She is described as a wise, supernatural elder who resides deep within the island's limestone gullies, particularly Welchman Hall Gully. Nanan has command over all plants and animals, can vanish into the landscape at will, and possesses deep knowledge of herbal healing. Her name derives from the Akan word 'Nana' meaning elder or monarch, directly linking Barbadian folklore to its West African Ashanti heritage. Unlike the terrifying Heartman or Steel Donkey, Nanan is benevolent and used in stories to teach children about environmental conservation and respect for nature",
+    "description": "Not independently attested: no Bajan spirit named Nanan or 'Old Woman of the Woods' guarding Welchman Hall Gully appears in documented Barbadian folklore, which features figures such as the Heartman, Baccoo, Rolling Calf, duppies and Soucouyant.",
     "appearance": "Wise old woman, sometimes depicted in traditional Caribbean dress with a head tie and long skirt, carrying a basket of medicinal herbs. Can appear as a silhouette among the trees or vanish into the foliage. Eyes carry ancient wisdom.",
     "behavior": "Protector of nature — rewards those who respect the environment and punishes those who harm it. Can calm the Steel Donkey. Commands duppies and lesser spirits. Guides lost travelers. Communicates through rustling leaves and whispering wind.",
     "habitat": "Limestone gullies of Barbados (especially Welchman Hall Gully), forests, caves, hidden springs",
@@ -7312,13 +7312,14 @@
       "B200"
     ],
     "featured_in_stories": [],
-    "source": "Barbadian oral tradition; snip Shapes Inc. Bajan Folklore Legend; snip Bajan Folk Tales revival",
-    "source_quality": "good",
+    "source": "No verifiable source; documented Bajan folklore lists Heartman, Baccoo, Rolling Calf, duppies, Soucouyant",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "nakhoda-manis-3316",
@@ -9185,7 +9186,7 @@
       "gikuyu-kikuyu",
       "waaq-somali"
     ],
-    "description": "Ngai, also known as Mwene Nyaga (the Possessor of Brightness), is the supreme god and creator of the Kikuyu people. Ngai lives on the snow-capped peak of Kirinyaga (Mount Kenya), the sacred mountain that serves as the dwelling place of the divine. Ngai is the creator and giver of all things, the union of masculine and feminine principles, the divider of the universe who has no mother, no father, and no companion. Ngai manifests in the sun, moon, stars, rainbow, lightning, and thunder. The Kikuyu approach Ngai through prayers and sacrifices made at sacred high places and beneath the mugumo (wild fig) tree, raising hands toward Kirinyaga. Ngai is also known as Mogai, the Divider, who separated the universe into its component parts. Ngai created the first man Gikuyu and gave him the land at Mukurwe wa Gathanga",
+    "description": "Ngai, also called Mwene Nyaga ('Possessor of Brightness') and Mogai ('the Divider'), is the supreme creator god of the Kikuyu (Agikuyu). He dwells on the peak of Kirinyaga (Mount Kenya) and manifests in the sun, moon, rain, thunder, and rainbow. Worship centers on sacred high places and the mugumo (fig) tree, and he created the first parents, Gikuyu and Mumbi.",
     "appearance": "Too brilliant to gaze upon, dwelling on Mount Kenya in blinding brightness. Manifests as the sun, moon, stars, rainbow, lightning, and thunder.",
     "behavior": "Creator who gives life and divides the universe. Responds to sacrifices beneath the mugumo tree. Reveals through natural phenomena. Benevolent but just.",
     "habitat": "Mount Kenya (Kirinyaga), the sky, sacred fig trees (mugumo), high places",
@@ -9225,8 +9226,8 @@
     "tags": [],
     "tribe": null,
     "featured_in_stories": [],
-    "source": "Kikuyu mythology; Ngai (Mwene Nyaga) is the supreme creator god.",
-    "source_quality": "expert",
+    "source": "Kikuyu mythology; Jomo Kenyatta, 'Facing Mount Kenya' (1938); Wikipedia and encyclopedic summaries of Ngai (Mwene Nyaga).",
+    "source_quality": "well-documented",
     "schema_org_type": "MythicalCreature",
     "seo_title": "Ngai (Mwene Nyaga) - Kikuyu Folklore",
     "seo_description": "Ngai (Mwene Nyaga) is the supreme creator god of the Kikuyu who dwells on Mount Kenya -- the Possessor of Brightness who divided the universe.",
@@ -9235,9 +9236,10 @@
       "ngai-on-mount-kenya"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "nyamgondho-luo-3925",
@@ -10200,7 +10202,7 @@
       "phi-phrai",
       "water-spirit-brunei-bruneian"
     ],
-    "description": "Nang Wanla is the compassionate mermaid from the Thai epic Phra Aphai Mani by Sunthorn Phu who helped Prince Aphai Mani escape the sea ogress Nang Phisuea Samud. She is half-human, half-fish, dwelling in the shallower waters between the ogress's deep palace and the surface world. Taking pity on the imprisoned prince, she guided him and his son Sin Samudr to safety on the magical island of Koh Kaeo Phitsadan. Nang Wanla later became Aphai Mani's second wife and bore him a son named Sud Sakhon, whose quest to find his father became a beloved sub-epic. In some versions, she was eventually granted a boon by the god Indra and transformed fully into a human woman named Chantawadee through diligent meditation and merit-making. Nang Wanla embodies the Thai ideal of feminine compassion and quiet heroism, and her son Sud Sakhon's adventures with the dragon horse Ma Nil Mangkorn remain among the most popular stories in Thai children's literature",
+    "description": "The mermaid of the Thai epic Phra Aphai Mani by Sunthorn Phu (1822-1844) rescues Prince Aphai Mani from the sea ogress Nang Phisuea Samut, then bears his son Sudsakorn, born on the isle of Ko Kaeo Phitsadan. Unnamed when first met, she is later called Chantawadee and becomes a queen. The tale is taught in Thai schools and memorialized in statues on Ko Samet.",
     "appearance": "Beautiful half-woman, half-fish with scales shimmering like mother-of-pearl. Long flowing hair, traditional Thai adornments, and a fish tail in iridescent colors. In human form, indistinguishable from an earthly woman.",
     "behavior": "Kind, compassionate, and gentle. Selflessly helps others in need despite personal risk. Devoted to those she loves. Patient and spiritually inclined — eventually achieved full human form through Buddhist merit-making.",
     "habitat": "Koh Kaeo Phitsadan (magical crystal island), shallow coastal waters, the sea between islands",
@@ -10247,13 +10249,14 @@
     "seo_description": "Compassionate mermaid from the Thai epic Phra Aphai Mani who helped the prince escape and bore his son",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Sunthorn Phu's Phra Aphai Mani epic (1822-1844 CE)",
+    "source": "Sunthorn Phu, Phra Aphai Mani; Thai literary tradition",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": true,
-    "source_type": "literary"
+    "source_type": "literary",
+    "attested": true
   },
   {
     "id": "neang-neak-cambodian-3242",
@@ -10365,7 +10368,7 @@
       "nagaburmese-thailand",
       "neang-neak-cambodian"
     ],
-    "description": "Ngueak (Lao: ງູເອົາ, also ngoak) is the Lao name for the Nāga — the great serpent deity that dwells in the Mekong River and serves as the guardian spirit of the Lao people. In Lao mythology, the Mekong River itself was created by the Ngueak king as he slithered across the land, carving the riverbed with his massive body. Every village along the Lao Mekong has its own Ngueak legends. The Ngueak are believed to protect boatmen from drowning, ensure good fish catches, and guard treasures hidden beneath the river. They can appear in human form, often as handsome men who marry mortal women — the most famous tale tells of a young woman who married a mysterious man from the river who was actually a Ngueak prince, and their child became a powerful ruler. The Ngueak is central to Lao identity, appearing in the annual Rocket Festival (Bun Bang Fai) when villagers launch rockets to signal the Ngueak to bring rain, and in the Boat Racing Festival when longboats carved as Ngueak honor the river spirits",
+    "description": "Ngueak is the Lao name for the nāga, the great serpent-deity of the Mekong and guardian spirit of the Lao people. Legend says the river's course was carved by the body of a Ngueak king. Village tales tell of nāga princes wedding mortal women, of protectors of boatmen and hoarders of river treasure; the Rocket Festival (Bun Bang Fai) and longboat races honour them and seek their rain.",
     "appearance": "A colossal serpent with multiple heads (typically 3, 5, or 7), iridescent scales of green and gold, a jeweled crest, and fiery breath. In human form, appears as a handsome man with slightly scaly skin and penetrating eyes.",
     "behavior": "Guardian of the Mekong and its people. Can be benevolent — protecting boatmen and providing fish — or dangerous when angered, capsizing boats and drowning disrespectful villagers. Capable of shape-shifting into human form. Maintains the annual cycle of floods and fertility.",
     "habitat": "Mekong River (especially Luang Prabang, Vientiane, Champasak), deep river pools, underground kingdoms",
@@ -10414,15 +10417,16 @@
     "seo_description": "Great serpent deity of the Mekong River who protects the Lao people and controls the waters",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Lao oral tradition, Mekong river folklore, Bun Bang Fai tradition",
+    "source": "Lao oral tradition; Mekong nāga belief; Bun Bang Fai festival tradition",
     "source_quality": "good",
     "stories": [
       "the-nga-of-the-mekong-guardian-serpent-of-laos"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "ntxwj-nyog-hmong-3252",

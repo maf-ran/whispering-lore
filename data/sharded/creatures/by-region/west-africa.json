@@ -1386,7 +1386,7 @@
       "adze-togo",
       "capelobo"
     ],
-    "description": "The Asanbosam is a vampire-like creature from the folklore of the Akan people of Ghana and neighboring regions of West Africa, feared for its habit of dwelling in treetops and dropping onto unsuspecting victims passing below. This creature is closely related to the Sasabonsam and shares many characteristics with other forest-dwelling monsters in West African tradition. Unlike the elegant vampires of European folklore, the Asanbosam is a brutish, corporeal being that feeds on blood and flesh. It enforces the unwritten laws of the forest, punishing those who hunt excessively or violate sacred groves. The Asanbosam is so deeply ingrained in Akan culture that it was carried to the Caribbean by enslaved Africans, where it appears in Jamaican folklore and other Afro-Caribbean traditions. Its legend serves as both a warning against venturing into dangerous, forbidden areas of the forest and a supernatural explanation for the disappearances of hunters and travelers",
+    "description": "Vampiric tree-dweller of the Akan peoples of southern Ghana, Côte d'Ivoire, Togo and 18th-century Jamaica. It has iron teeth, pink skin, long red hair and iron hooks for feet, hangs in tall forest trees and drops on passers-by to drink blood and flesh. It punishes hunters who break forest rules; the Akan read it as a warning against over-hunting and sacred groves.",
     "appearance": "The Asanbosam is a grotesque humanoid creature with long, powerful limbs that allow it to swing through the trees like an ape. Its most distinctive feature is its iron teeth, sharp and metallic, gleaming dully in the forest shadows. Its feet are pointed backward, a trait that makes its tracks confusing to follow and adds to its terrifying mystique. The creature's body is covered in coarse, dark hair or rough, bark-like skin that provides camouflage among the branches. Its eyes are large and bloodshot, with a predatory glare that can freeze its victims in place. Some accounts describe it with a mouth full of iron hooks instead of teeth, and its hands end in long, curved claws designed for grasping and tearing. It is said to have a wingspan that can reach nearly twenty feet when it extends its bat-like membranous wings, although these wings are typically folded close to its body when it lurks in the trees.",
     "behavior": "The Asanbosam is an ambush predator that spends most of its time perched high in the branches of large forest trees, particularly fig trees and baobabs, waiting for prey to pass beneath. When a human or animal walks below, it drops silently onto its victim, using its weight and iron teeth to subdue them quickly. It typically targets hunters who venture deep into the forest, travelers who take forbidden paths, and children who wander away from their villages. After feeding, it carries the remains to its treetop lair. The creature is most active at dawn and dusk, though it can hunt at any time of day in deep forest shade. It is fiercely territorial and will pursue those who enter its domain with relentless determination. Despite its fearsome nature, the Asanbosam can be driven away by fire, loud drumming, or the presence of powerful shamans who know the proper protective charms.",
     "habitat": "Tall trees, forests",
@@ -1428,13 +1428,14 @@
       "A210"
     ],
     "featured_in_stories": [],
-    "source": "Akan folklore — the Asanbosam vampire-like tree-dweller documented in Rattray's Ashanti ethnography.",
-    "source_quality": "good",
+    "source": "Akan folklore; West African mythology (Wikipedia); Rattray's Ashanti ethnography",
+    "source_quality": "well-documented",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "asasabonsam-0057",
@@ -1528,7 +1529,7 @@
       "baba-djenka",
       "ajisali"
     ],
-    "description": "The Asasbasu is a witch or shape-shifting sorcerer from Akan folklore, particularly among the Asante people of Ghana, who transforms into animals at night to commit evil deeds. Unlike the vampire-like Asanbosam and Asasabonsam that are permanently monstrous, the Asasbasu appears as a normal human during the day but sheds their human form at night to hunt. This concept of the night-witch is widespread across West African cultures, representing the fear that evil may lurk behind familiar faces. The Asasbasu is believed to gain magical power by killing victims and collecting their body parts for use in dark rituals. This figure serves as a folk explanation for unexplained deaths, mysterious illnesses, and misfortunes that befall communities. The belief is so strong that witch doctors (okomfo) are regularly consulted to identify Asasbasu and neutralize their harmful magic through protective charms and counter-rituals. The legend reinforces community bonds by identifying antisocial behavior as potentially witch-like",
+    "description": "Not independently attested in documented Akan folklore or academic sources: no source records a creature named 'Asasbasu'. The entry appears to conflate two documented Akan figures — the Asasabonsam, a forest ogre-vampire with iron teeth and iron hooks, and the Obayifo, a night-witch that leaves its body to drain children's blood. The name itself is not recorded.",
     "appearance": "By day, the Asasbasu appears as an ordinary community member, often an elderly person who keeps to themselves and may display unusual behavior such as avoiding eye contact, muttering to themselves, or having an unnerving stare. However, close observation reveals subtle signs: red-rimmed or bloodshot eyes, unusual birthmarks or scars believed to be witch marks, and a tendency to be active at night. When transformed, the Asasbasu takes on the form of an animal, most commonly a spotted hyena with eerily human-like eyes that betray its true nature. As an owl, it grows to an enormous size with a human face visible in its features. In either form, it moves with an unnatural silence, and its shadow sometimes appears human-shaped even when the animal form casts it. The transformation is achieved through the application of magical ointments or by wearing a enchanted animal skin, which must be hidden during the day.",
     "behavior": "The Asasbasu lives a dual existence, participating in community life during daylight hours while pursuing their dark activities at night. Under cover of darkness, they transform into their animal form and travel to the homes of their victims, attacking those who have wronged them or who possess something they desire. They kill their victims by supernatural means, sometimes through magic that causes wasting illness, and then use the body parts in rituals to increase their power. Children are particularly vulnerable, and the Asasbasu is often blamed for cases of infant mortality. They gather with other witches at night for ceremonies in isolated locations, where they dance naked, consume human flesh, and plot mischief. Identifying an Asasbasu requires the skills of a witch doctor, who may use divination or ordeals to expose the witch. Protective charms made of special herbs, animal parts, and inscribed prayers are worn to ward off their attacks.",
     "habitat": "Villages, forests at night",
@@ -1571,13 +1572,14 @@
       "F300"
     ],
     "featured_in_stories": [],
-    "source": "Akan mythology; a monstrous forest ogre related to the Asasabonsam.",
-    "source_quality": "good",
+    "source": "No verifiable source; nearest documented figures are the Akan Asasabonsam and Obayifo",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "asiman-0060",
@@ -1614,7 +1616,7 @@
       "la-lechuza",
       "gumiho-northkorea"
     ],
-    "description": "The Asiman is a flying vampire witch from the folklore of West Africa, particularly among the Akan and neighboring peoples of Ghana and Côte d'Ivoire. This malevolent supernatural being hunts at night, primarily targeting children and vulnerable adults for their blood and flesh. The Asiman belongs to the rich tradition of West African witchcraft beliefs, which distinguish between benevolent spiritual power and harmful sorcery. Unlike the permanently monstrous Asanbosam, the Asiman is believed to be a witch who has made a pact with dark forces in exchange for supernatural abilities, including flight and shape-shifting. These beings operate in secret covens, gathering at night for rituals in isolated locations. The fear of Asiman serves as a powerful social control mechanism, discouraging nighttime wandering and reinforcing community bonds. Witch doctors and spiritual healers are regularly consulted to provide protective charms and to identify suspected Asiman within the community, though accusations of witchcraft can have serious social consequences",
+    "description": "The asiman is the living vampire-witch of Fon and Ewe tradition, documented in Dahomey (now Benin) and shared with neighboring West African peoples. An ordinary-looking woman by day, at night she leaves her body to fly as a corpse-candle or ball of light, drains the blood of sleeping victims, and takes animal form after feeding. She is destroyed only in that animal form.",
     "appearance": "By day, the Asiman appears indistinguishable from any other community member, often maintaining a normal life and family. However, certain signs are believed to betray their true nature: unusual brilliance in the eyes, a tendency to avoid daylight, pockets of cold skin, or an unnatural appetite for raw meat. At night, the Asiman transforms into various animal forms, most commonly appearing as a large owl with glowing red or yellow eyes and unusually long talons, or as a bat with a human-like face. In its owl form, it can be significantly larger than natural owls, and its shadow on the ground sometimes retains a human silhouette. Some accounts describe the Asiman in flight as a humanoid figure with leathery bat wings extending from its arms, its feet dangling below as it soars silently through the night sky. Its animal forms often have subtle wrongness, such as feathers that glint like metal or eyes that show too much intelligence.",
     "behavior": "The Asiman is a nocturnal predator that emerges after dark to hunt, using its shape-shifting abilities to move unnoticed through the night. It preys primarily on children, drawn by their pure life force, but will attack adults if opportunity presents. It enters homes through any opening, no matter how small, and feeds on its victim's blood or flesh. After feeding, the victim typically falls ill with a mysterious wasting disease that baffles ordinary healers. The Asiman joins other witches at night gatherings where they dance, perform rituals, and consume human flesh together. These gatherings are believed to take place under giant trees or at crossroads. To protect against Asiman, people hang protective charms over doorways, place iron objects near sleeping children, and employ the services of witch doctors who can create powerful talismans. The Asiman can be identified by the fact that it cannot enter a home where certain prayers have been said or where specific protective herbs have been placed.",
     "habitat": "Remote villages, forests",
@@ -1659,13 +1661,14 @@
       "A210"
     ],
     "featured_in_stories": [],
-    "source": "Akan folklore of Ghana — Asiman shapeshifter witch.",
+    "source": "Fon/Dahomey oral tradition; godsandmonsters.info (Asiman); Occult World; vampire folklore references",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "amma-dogon-3855",
@@ -3085,7 +3088,7 @@
       "faramakan-mande",
       "lebe"
     ],
-    "description": "Mousso Koroni Koundye is the first woman in Bambara (Bamana) mythology, created by Pemba from rotten wood and his saliva. She represents the feminine creative principle in its raw, untamed form. Enraged by Pemba's infidelity, she introduced witchcraft and sorcery into the world and taught humans the destructive arts. She also introduced menstrual taboos and is associated with wild, chaotic feminine power. Her name means 'the Beautiful Little Old Woman.' She embodies the dangerous aspect of female divinity — creative but unpredictable, nurturing but destructive when wronged",
+    "description": "Mousso Koroni Koundye, 'the Beautiful Little Old Woman,' is the first woman of Bambara (Bamana) myth, created by Pemba from rotten wood and his saliva. Angered by his infidelity, she brought witchcraft and sorcery into the world, taught destructive arts and introduced menstrual taboos — the untamed, dangerous side of feminine creative power.",
     "appearance": "An old woman who appears beautiful. Sometimes described as covered in a red powder. Wild hair, untamed presence. Can shift between haggish and alluring forms.",
     "behavior": "Teaches sorcery and witchcraft when angered. Introduced impurity and menstrual taboos. Extremely jealous; punishes infidelity harshly. Wild, untamable, powerful.",
     "habitat": "Wild places, baobab trees, crossroads, the edges of villages",
@@ -3148,13 +3151,14 @@
       "pemba-and-faro-the-bambara-twin-creation"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
     "source_type": "literary",
     "pronunciation_ipa": "/muso koroni/",
-    "source_quality": "expert",
+    "source_quality": "academic",
     "cultural_significance": "Trickster and chaotic creator force in Bambara cosmology, representing the untamed aspects of nature.",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "attested": true
   },
   {
     "id": "moremi-yoruba-3881",
@@ -4373,7 +4377,7 @@
       "olokun",
       "nommo"
     ],
-    "description": "Kibati is a legendary water creature from the folklore of Guinea-Bissau, a formidable being that inhabits the rivers and waterways of this West African nation. Described as a giant serpent or dragon of immense power, Kibati is one of the most feared and respected supernatural entities in the region. Local traditions speak of the creature as an ancient being that has dwelt in the rivers since time immemorial, possessing knowledge of both the water world and the human realm. The Kibati is deeply embedded in the spiritual landscape of Guinea-Bissau, where it serves as both a guardian of natural resources and a force of cosmic justice. Communities living along the rivers maintain a complex relationship with this powerful entity, offering respect and tributes while carefully avoiding actions that might provoke its wrath. The creature represents the untamed power of nature itself",
+    "description": "Not independently attested. No documented Guinea-Bissauan or Bijago tradition records a water creature named 'Kibati' in any academic or folklore source; the only web matches are a generic fiction video and country profiles. The description of a feared river-serpent guardian is generic and unverified; the closest documented West African water-dragon is the Gambian Ninki Nanka.",
     "appearance": "The Kibati is described as a massive serpentine or draconic creature of truly terrifying proportions, its body as thick as the trunk of a baobab tree and stretching longer than a dozen fishing canoes placed end to end. Its scales are large and overlapping like armor plates, ranging in color from deep green to black, with an iridescent sheen that catches the light when it surfaces. The creatures head is broad and flat like that of a viper, with yellow or red eyes that glow in the darkness and a forked tongue that can extend several feet. Some accounts describe it as having fin-like ridges along its back, horns on its head, or a mane of waterweed that trails behind it as it swims. When the Kibati moves through the water, it creates waves that can capsize boats, and its passage is marked by a distinctive wake and the sound of rushing water unlike any normal river current",
     "behavior": "The Kibati possesses the dual nature of bringer of prosperity and agent of destruction, its behavior determined entirely by how the local community treats the rivers and the spirit itself. When properly honored with offerings and respect, the Kibati ensures abundant fish, clean water, and safe passage for fishermen, and may even reveal hidden treasures or healing knowledge to those it favors. However, communities that pollute the rivers, overfish, or fail to show proper reverence face the creatures terrible wrath in the form of floods that destroy villages, boat-capsassing waves, drowning of disrespectful swimmers, and the withdrawal of all fish from the waters. The Kibati is particularly sensitive to blood in the water, which can provoke an immediate attack. Local traditions prescribe specific rituals and offerings to appease the creature, including pouring libations of palm wine into the river and sacrificing white animals at designated points along the bank.",
     "habitat": "Rivers and freshwater streams throughout Guinean",
@@ -4414,13 +4418,14 @@
       "A200"
     ],
     "featured_in_stories": [],
-    "source": "Bijago oral tradition of Guinea-Bissau — Kibati sea monster.",
-    "source_quality": "good",
+    "source": "No verifiable source; no Guinea-Bissauan or Bijago tradition records 'Kibati'",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "koma-0969",
@@ -4443,7 +4448,7 @@
       "lagahoo-grenada",
       "lagahoo-trinidad"
     ],
-    "description": "Koma is a shapeshifter spirit from the Dogon people of Mali, West Africa, a mysterious being that moves between the human world and the spirit realm by taking on animal forms. The Koma is deeply connected to the elaborate mask ceremonies that are central to Dogon spiritual and cultural life, particularly the dama funeral ceremonies that guide the souls of the deceased to the afterlife. Unlike the dangerous shapeshifters of some traditions, the Koma serves as a liminal being that facilitates communication between the living and the dead, the human and the natural world. Its ability to become invisible and to take on animal forms makes it an effective messenger and guardian of sacred knowledge. The Koma tradition reflects the Dogon understanding of a universe where the boundaries between species are fluid and where spiritual power can be accessed through proper ritual and masquerade",
+    "description": "Not independently attested as a Dogon spirit. No Dogon shapeshifter named 'Koma' appears in Griaule's ethnography or other sources; the name instead matches the Komo, a powerful secret society of the Bambara (Bamana) and other Mande peoples, whose fearsome helmet-masks invoke nyama. The Dogon masked funerary rites are the Awa society and dama with kanaga masks.",
     "appearance": "The Koma is not typically described with a fixed physical form, as its essence is defined by its shapeshifting nature. When taking animal form, it most commonly appears as a fox, jackal, or small antelope, creatures that move silently through the bush and are associated with the boundary between the village and the wilderness. In its invisible state, the Koma leaves traces of its presence through footprints that appear and disappear, disturbed vegetation, and an eerie feeling of being watched. During mask ceremonies, the Koma is represented by dancers wearing specific masks that combine human and animal features, carved from wood and painted with geometric patterns in red, white, and black pigments. These masks feature elongated snouts, hollow eyes, and stylized horns or ears that represent the spirits animal aspect. The dancer movements mimic the chosen animal, creating the impression of a being that is neither fully human nor fully beast but something in between",
     "behavior": "The Koma uses its shapeshifting abilities primarily to travel unseen between the human world and the spirit realm, serving as a messenger and intermediary during important ceremonies. It is known to lead people astray at night if they wander where they should not be, serving as a spiritual deterrent that keeps individuals away from sacred or dangerous locations. During dama ceremonies, the Koma spirit is invoked through masked dancers who embody its power, performing specific choreographed movements that reenact mythological events and guide the souls of the deceased. The Koma is particularly active during transitions, such as dawn and dusk, the period between death and burial, and the liminal days between the old year and the new. Those who encounter a Koma unexpectedly are advised to show respect and avoid interfering with its movements, as the spirit can become hostile if provoked. The Koma is feared but respected, its unpredictable nature a reminder that the human world is not the only reality.",
     "habitat": "Dogon territory",
@@ -4486,16 +4491,17 @@
       "F300"
     ],
     "featured_in_stories": [],
-    "source": "Dogon oral tradition of Mali — Koma spirits documented in Dogon ethnography by Griaule.",
-    "source_quality": "good",
+    "source": "No verifiable Dogon source; cf. Bambara Komo society (Smarthistory, Brooklyn Museum)",
+    "source_quality": "poor",
     "stories": [
       "the-hyena-who-wanted-to-be-king",
       "the-wise-fool-of-somali-folklore"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "kumasi-ghost-0994",
@@ -4676,7 +4682,7 @@
       "kanaga-spirit",
       "faramakan-mande"
     ],
-    "description": "Koumen is the primordial shepherd of the Fulani people, entrusted by Gueno (the eternal creator) with the care of all cattle. He is the depositary of pastoral initiation secrets and can transform wild animals into domestic ones and vice versa. Koumen appears to humans as a child between three and eleven years old, a surprising form for such profound knowledge. With his wife Foroforondu, he transmits the secret pastoral knowledge to initiates (Sile). Those who complete the initiation cycle gain the ability to understand animal language and become Silatigi, masters of ritual speech. Koumen embodies the sacred bond between the Fulani and their cattle",
+    "description": "Koumen is the primordial shepherd of the Fulani, custodian of pastoral initiation, who appears as a child of three to eleven. With his wife Foroforondu he passes the secret knowledge of cattle to initiates (Sile); those who complete the cycle gain mastery of ritual speech as Silatigi. Documented in Griaule and Dieterlen's The Pale Fox.",
     "appearance": "Appears as a young boy between three and eleven years old, despite being an ancient being. Innocent face, knowing eyes. Sometimes carries a herder's staff.",
     "behavior": "Guides initiates through twelve stages of pastoral knowledge. Protects cattle. Transforms wild animals. Teaches the secret language of animals. Wise beyond his apparent age.",
     "habitat": "The Sahel, cattle camps, sacred groves, the bush",
@@ -4732,12 +4738,13 @@
       "Foroforondu"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
     "source_type": "literary",
-    "source_quality": "expert",
+    "source_quality": "academic",
     "cultural_significance": "Koumen is a a spirit from West Africa mythology, representing important cultural values and traditional beliefs.",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "attested": true
   },
   {
     "id": "mali-kanaga-0005",
@@ -5189,7 +5196,7 @@
       "katthveli-faroeislands",
       "guri-kunna"
     ],
-    "description": "The Gbahali is a legendary reptilian cryptid from Liberian folklore and Mande mythology, described as a giant crocodile-like creature that inhabits deep rivers, swamps, and remote waterways of West Africa. Unlike ordinary crocodiles, local traditions emphasize that gbahali has a distinctive short-snouted, lizard-like head and more erect limbs that allow it to move effectively on land as well as in water. Witnesses and traditional accounts describe it reaching lengths of up to one hundred feet, making it significantly larger than any known crocodilian species. Some cryptozoologists speculate that gbahali could represent a surviving population of prehistoric reptiles or a misidentified large monitor lizard. The creature features prominently in the oral traditions of the Mande people and other ethnic groups of Liberia, where its legend serves as both a warning about the dangers of wild waterways and a symbol of nature's untamed power. Modern sightings continue to be reported",
+    "description": "The gbahali is a giant crocodile-like cryptid reported from the rivers, swamps and waterways of Liberia, part of local oral tradition and popular cryptozoology. Witnesses describe a short-snouted, lizard-headed beast with more erect limbs than a crocodile, reaching up to about a hundred feet; some link it to a surviving prehistoric reptile or a misidentified monitor lizard.",
     "appearance": "Gbahali is described as a massive reptile with a body resembling a crocodile but with notable differences in proportions and structure. Its head is shorter and blunter than a typical crocodile, more lizard-like in shape, with dagger-like teeth protruding from powerful jaws. The creature's legs are positioned more beneath its body than a crocodile's splayed limbs, giving it a more upright stance and allowing faster movement on land. Its hide is thick and scaly with a rough, armored texture, reportedly capable of shifting color to match its surroundings like a chameleon, making it nearly invisible against riverbanks and forest floors. The body is dark gray or brown with irregular patterns, and the eyes are described as large and luminous. Its tail is long and muscular, powerful enough to capsize small boats. The overall size is estimated at thirty to one hundred feet in length, with some accounts describing it as massive enough to drag fully grown cattle underwater.",
     "behavior": "Gbahali is an ambush predator that lies in wait near river crossings, watering holes, and along game trails, using its color-shifting hide to blend perfectly with the environment. It attacks with explosive speed, seizing prey in its powerful jaws and dragging it beneath the water to drown. The creature primarily targets large animals such as antelope, cattle, and unwary humans who venture too close to its territory. It is said to guard specific stretches of river, attacking anyone who attempts to cross at certain points. Unlike ordinary crocodiles that typically hunt from the water, the gbahali can pursue prey onto land with surprising agility. Local legends tell of entire villages being terrorized by these creatures, requiring powerful shamans to drive them away. The gbahali is solitary by nature and highly territorial, with males maintaining large stretches of river as their exclusive domain. Despite its fearsome reputation, it is considered a sacred guardian of waterways in some traditions.",
     "habitat": "Deep waters, river crossings",
@@ -5230,13 +5237,14 @@
       "A200"
     ],
     "featured_in_stories": [],
-    "source": "Liberian/Grebo oral tradition — Gbahali lizard-like cryptid from Liberian swamps.",
-    "source_quality": "good",
+    "source": "Liberian oral tradition; cryptozoology literature (cryptid records, Cryptid Wiki)",
+    "source_quality": "fair",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "gu-0785",
@@ -6563,7 +6571,7 @@
       "turtle-trickster-of-ashanti",
       "deerguardianmixtec-ghana"
     ],
-    "description": "In Ashanti (Asante) tradition from Ghana, the fox deity represents a spiritual force associated with cleverness, strategic thinking, and navigating complex social and spiritual situations with intelligence. While Anansi the Spider is the primary trickster deity in Ashanti cosmology, the fox occupies a distinct niche as a more subtle and observant force. The fox deity embodies the wisdom of patience and careful observation, teaching that sometimes the best action is no action until the right moment. This deity is associated with night and mysteries unfolding under darkness when the fox moves unseen. In Ashanti spiritual practice, offerings are made to the fox deity when seeking guidance in matters requiring discretion, subtlety, and careful planning. The fox deity represents the understanding that true power often lies not in visible strength but in unseen influence and patient strategy",
+    "description": "Not independently attested. No fox deity appears in documented Ashanti (Akan) cosmology or folklore; the Ashanti trickster is Anansi the spider, and the fox plays no recorded role in Akan religion. The entry's account of offerings made to a 'fox deity' for discretion and careful planning is unsupported and appears invented.",
     "appearance": "The Ashanti fox deity appears as a transformative spirit, most often taking the form of a fox but capable of assuming human shape with fox-like features. In animal form it appears as a large reddish-gold fox with unusually intense amber eyes glowing from within. Its coat carries subtle patterns shifting in different lighting, revealing hidden markings associated with Ashanti spiritual symbols. In human form the deity appears as a figure of indeterminate age with sharp features, amber eyes, and fox-like ears visible through closely cropped hair. The human form wears simple but elegant Ashanti clothing in deep gold and rich brown. The deity is accompanied by faint crackling energy like distant fire and carries the scent of night-blooming flowers. Its movements are fluid and economical, never wasted or hurried, reflecting patient wisdom. When the deity speaks, its voice carries a subtle resonance suggesting hidden depths of meaning.",
     "behavior": "The Ashanti fox deity protects its territory and teaches respect for nature through subtle influence rather than overt displays of power. It can be sought for guidance in matters requiring careful strategy and discretion, but demands genuine respect. The fox deity tests supplicants by presenting situations revealing their true nature: greed, patience, wisdom, or folly. It communicates through signs, synchronicities, and animal behavior rather than direct speech. Those seeking the fox deity's favor must demonstrate patience, observation skills, and ability to read subtle messages from the natural world. The deity influences events indirectly, arranging circumstances so the wise prevail and fools reveal themselves. In Ashanti tradition, the fox deity is associated with the marketplace and complex social negotiations governing community life. It teaches that knowledge is power and the person who speaks least often learns most. Those earning its respect receive guidance in navigating difficult situations.",
     "habitat": "Remote skys and wilderness areas",
@@ -6602,13 +6610,14 @@
     "seo_description": "A fox deity from Ashanti (Asante) tradition of Ghana embodying strategic thinking and subtle wisdom. Can be sought for guidance",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Regional folk beliefs and indigenous cosmology of West Africa, documented in ethnographic surveys of the Akan, Yoruba, Dogon, and Igbo cultures.",
-    "source_quality": "good",
+    "source": "No verifiable source",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "fox-spirit-of-ashanti-0737",
@@ -7011,7 +7020,7 @@
       "adze-togo",
       "sasabonsam-ivorycoast"
     ],
-    "description": "The Sasabonsam is a fearsome vampire-like creature from Akan folklore, including the Baoulé and Anyi peoples of Ivory Coast. This terrifying being dwells in the deepest forests, inhabiting tall trees from which it ambushes unwary travelers, hunters, and anyone who dares venture into its domain. Its most distinctive features are its iron-hard teeth and hooked feet that allow it to hang from branches and descend silently upon its prey. The Sasabonsam serves as a powerful moral guardian of the forest, enforcing boundaries between human settlements and the untamed wilderness. Its legends encode ecological wisdom about respecting forest spaces and the dangers of venturing too far from established paths. The creature has iron teeth, pink or dark skin, long red hair, and bat-like features including wings in some accounts. The Sasabonsam shares similarities with the Sasabonsam of Ghana and the Eloko of Central Africa, forming part of a regional pattern of forest-dwelling predatory spirits across West Africa",
+    "description": "The Sasabonsam is the vampire-ogre of the Akan and Ashanti of Ghana, a forest spirit with iron teeth, pink or dark skin, long red hair, bat-like wings and iron hooks for feet, which hangs in tall trees and drops on those who venture too deep. Rattray recorded it in Ashanti Proverbs; it polices forest boundaries.",
     "appearance": "A large, muscular humanoid with long limbs adapted for arboreal movement. It has iron-hard teeth capable of crushing bone, hooked feet like iron claws for gripping branches and snatching victims, long red or black hair, and piercing eyes. Some accounts give it bat-like wings. Its body blends humanoid and monstrous traits.",
     "behavior": "Nocturnal predator that ambushes prey from above, using its hooked feet to hang from branches and descend silently. It targets those who travel alone or venture into forbidden forest areas. Known to be cunning and patient, sometimes following travelers for long distances before striking. Avoids open spaces and villages.",
     "habitat": "Highest branches of ancient silk-cotton trees (Ceiba pentandra/onyina) and odum trees in deep rainforest",
@@ -7058,13 +7067,14 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Akan/Ashanti folklore — the Sasabonsam is a forest vampire documented in Rattray's \"Ashanti Proverbs\" and subsequent ethnography.",
+    "source": "Rattray, Ashanti Proverbs; Akan/Ashanti oral tradition; Wikipedia (West African mythology)",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "sasabonsam-ivorycoast-1633",
@@ -7089,7 +7099,7 @@
       "adze-togo",
       "asanbosam"
     ],
-    "description": "Sasabonsam is a vampire from Akan mythology. This terrifying being dwells in the deepest forests, inhabiting tall trees from which it ambushes unwary travelers, hunters, and anyone who dares venture into its domain. Its most distinctive features are its iron-hard teeth and hooked feet that allow it to hang from branches and descend silently upon its prey. The Sasabonsam serves as a powerful moral guardian of the forest, enforcing boundaries between human settlements and the untamed wilderness. Its legends encode ecological wisdom about respecting forest spaces and the dangers of venturing too far from established paths. The creature has iron teeth, pink or dark skin, long red hair, and bat-like features including wings in some accounts. The Sasabonsam shares similarities with the Sasabonsam of Ghana and the Eloko of Central Africa, forming part of a regional pattern of forest-dwelling predatory spirits across West Africa",
+    "description": "The Sasabonsam (Asanbosam), the 'iron-toothed tree vampire,' is the Akan forest ogre of Côte d'Ivoire, told among the Baoulé, Anyi and neighboring groups. It lives in tall trees, seizes passers-by from above, and is said to have iron teeth, hooked feet and bat-like wings; regional tellings color its skin, hair and limbs differently.",
     "appearance": "A large, muscular humanoid with long limbs adapted for arboreal movement. It has iron-hard teeth capable of crushing bone, hooked feet like iron claws for gripping branches and snatching victims, long red or black hair, and piercing eyes. Some accounts give it bat-like wings. Its body blends humanoid and monstrous traits.",
     "behavior": "Nocturnal predator that ambushes prey from above, using its hooked feet to hang from branches and descend silently. It targets those who travel alone or venture into forbidden forest areas. Known to be cunning and patient, sometimes following travelers for long distances before striking. Avoids open spaces and villages.",
     "habitat": "Deep forests and wooded areas across Ivory Coast, particularly in regions with tall trees suitable for its ambush hunting style. Prefers areas far from human settlements with dense canopy cover.",
@@ -7149,16 +7159,17 @@
       "forest guardian"
     ],
     "featured_in_stories": [],
-    "source": "Akan oral tradition",
+    "source": "Akan (Baoulé/Anyi) oral tradition, Côte d'Ivoire; Wikipedia (West African mythology)",
     "source_quality": "good",
     "fun_fact_generated": false,
     "stories": [
       "queen-abla-pokou-the-mother-of-the-baoule-people"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "saharan-jinn-mauritania-3273",
@@ -7279,7 +7290,7 @@
       "sand-jinn",
       "sasabonsom-ashanti"
     ],
-    "description": "The Saharan Ghoul (Al-Ghul) is a fearsome creature from Mauritanian and broader Saharan folklore, a malevolent spirit that preys on travelers in the desert. The ghoul is a shape-shifting, cannibalistic being that inhabits graveyards, ruins, and remote desert areas, where it feasts on the flesh of humans, particularly travelers, children, and corpses stolen from graves. In Mauritanian tradition, the ghoul is especially feared because of its ability to appear as a familiar person or a beautiful woman to lure victims. The most feared form is the female ghula, who marries unsuspecting men before revealing her true nature. The ghoul is nocturnal and associated with liminal spaces - the boundaries between civilization and wilderness. In the vast Mauritanian Sahara, where travelers can go for days without seeing another person, the ghoul represents the ultimate fear of the desert: being lost, deceived, and consumed. Belief in ghouls serves as a cautionary mechanism, discouraging travel at night and reinforcing the importance of community and hospitality",
+    "description": "Al-Ghul, the desert ghoul, is a shapeshifting, corpse-eating spirit of Saharan and Mauritanian tradition. It haunts graves, ruins and remote wastes, luring travelers to their death by appearing as a familiar face or a beautiful woman; the female ghula may even marry a man before revealing her nature. Belief in it discourages night travel.",
     "appearance": "By night, a monstrous humanoid with pale, corpse-like skin, fangs, and claws. It can shapeshift into attractive humans, animals, or even inanimate objects like rocks. Its true form is horrifically ugly, with a single eye or other deformities.",
     "behavior": "Nocturnal and predatory, the ghoul lurks near cemeteries and isolated areas, feeding on corpses and living humans alike. It uses shapeshifting to deceive victims, and can emit lights to lure travelers off path.",
     "habitat": "Deserts, ancient ruins, cemeteries, and isolated areas of Mauritania's Sahara",
@@ -7341,14 +7352,15 @@
       "grave"
     ],
     "featured_in_stories": [],
-    "source": "folktales.africa; Mauritanian oral traditions",
+    "source": "Saharan/Mauritanian oral tradition; Arabic ghul/ghula folklore",
     "source_quality": "good",
     "fun_fact_generated": false,
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "senegal-yumboes-3370",
@@ -9585,7 +9597,7 @@
       "benin-asiman",
       "aunt-ganga"
     ],
-    "description": "Asiman is a shapeshifter from Ivorian Folklore mythology. This malevolent supernatural being hunts at night, primarily targeting children and vulnerable adults for their blood and flesh. The Asiman belongs to the rich tradition of West African witchcraft beliefs, which distinguish between benevolent spiritual power and harmful sorcery. Unlike the permanently monstrous Asanbosam, the Asiman is believed to be a witch who has made a pact with dark forces in exchange for supernatural abilities, including flight and shape-shifting. These beings operate in secret covens, gathering at night for rituals in isolated locations. The fear of Asiman serves as a powerful social control mechanism, discouraging nighttime wandering and reinforcing community bonds. Witch doctors and spiritual healers are regularly consulted to provide protective charms and to identify suspected Asiman within the community, though accusations of witchcraft can have serious social consequences",
+    "description": "The asiman is the vampire-witch figure known to the Akan of Côte d'Ivoire and, above all, documented among the Fon of Dahomey: a woman who seems ordinary by day but at night sheds her body to fly as a corpse-candle or ball of light, drinking blood from the sleeping, then turning to animal shape. Regional Akan equivalents include the obayifo and the Ewe adze.",
     "appearance": "By day, the Asiman appears indistinguishable from any other community member, often maintaining a normal life and family. However, certain signs are believed to betray their true nature: unusual brilliance in the eyes, a tendency to avoid daylight, pockets of cold skin, or an unnatural appetite for raw meat. At night, the Asiman transforms into various animal forms, most commonly appearing as a large owl with glowing red or yellow eyes and unusually long talons, or as a bat with a human-like face. In its owl form, it can be significantly larger than natural owls, and its shadow on the ground sometimes retains a human silhouette. Some accounts describe the Asiman in flight as a humanoid figure with leathery bat wings extending from its arms, its feet dangling below as it soars silently through the night sky. Its animal forms often have subtle wrongness, such as feathers that glint like metal or eyes that show too much intelligence.",
     "behavior": "The Asiman is a nocturnal predator that emerges after dark to hunt, using its shape-shifting abilities to move unnoticed through the night. It preys primarily on children, drawn by their pure life force, but will attack adults if opportunity presents. It enters homes through any opening, no matter how small, and feeds on its victim's blood or flesh. After feeding, the victim typically falls ill with a mysterious wasting disease that baffles ordinary healers. The Asiman joins other witches at night gatherings where they dance, perform rituals, and consume human flesh together. These gatherings are believed to take place under giant trees or at crossroads. To protect against Asiman, people hang protective charms over doorways, place iron objects near sleeping children, and employ the services of witch doctors who can create powerful talismans. The Asiman can be identified by the fact that it cannot enter a home where certain prayers have been said or where specific protective herbs have been placed.",
     "habitat": "Old-growth forests, riverbanks, and beneath large boulders.",
@@ -9635,8 +9647,8 @@
       "whispering winds"
     ],
     "featured_in_stories": [],
-    "source": "Akan cosmology and indigenous beliefs",
-    "source_quality": "good",
+    "source": "Fon/Dahomey complex (asiman); Akan obayifo and Ewe adze parallels",
+    "source_quality": "fair",
     "fun_fact_generated": false,
     "id": "ivory-coast-asiman-3386",
     "stories": [
@@ -9649,9 +9661,10 @@
       "Forest Spirits"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "ivc-sasabonsam-3417",
@@ -9676,7 +9689,7 @@
       "adze-togo",
       "asanbosam"
     ],
-    "description": "Sasabonsam is a vampire from Akan mythology. This terrifying being dwells in the deepest forests, inhabiting tall trees from which it ambushes unwary travelers, hunters, and anyone who dares venture into its domain. Its most distinctive features are its iron-hard teeth and hooked feet that allow it to hang from branches and descend silently upon its prey. The Sasabonsam serves as a powerful moral guardian of the forest, enforcing boundaries between human settlements and the untamed wilderness. Its legends encode ecological wisdom about respecting forest spaces and the dangers of venturing too far from established paths. The creature has iron teeth, pink or dark skin, long red hair, and bat-like features including wings in some accounts. The Sasabonsam shares similarities with the Sasabonsam of Ghana and the Eloko of Central Africa, forming part of a regional pattern of forest-dwelling predatory spirits across West Africa In Ivory Coast folklore, this figure is known among the Akan (including Baoulé, Anyi) people.",
+    "description": "The Sasabonsam (Asanbosam) is the vampire-ogre of the Akan peoples of Côte d'Ivoire, including the Baoulé and Anyi: a tree-dwelling forest predator with iron teeth, pink or dark skin, long red hair, bat-like wings and hooked feet, which drops on travelers and hunters from the canopy. Its legends police forest boundaries and punish excessive hunting.",
     "appearance": "A large, muscular humanoid with long limbs adapted for arboreal movement. It has iron-hard teeth capable of crushing bone, hooked feet like iron claws for gripping branches and snatching victims, long red or black hair, and piercing eyes. Some accounts give it bat-like wings. Its body blends humanoid and monstrous traits.",
     "behavior": "Nocturnal predator that ambushes prey from above, using its hooked feet to hang from branches and descend silently. It targets those who travel alone or venture into forbidden forest areas. Known to be cunning and patient, sometimes following travelers for long distances before striking. Avoids open spaces and villages.",
     "habitat": "Deep forests and wooded areas across Ivory Coast, particularly in regions with tall trees suitable for its ambush hunting style. Prefers areas far from human settlements with dense canopy cover.",
@@ -9736,15 +9749,16 @@
       "forest guardian"
     ],
     "featured_in_stories": [],
-    "source": "Akan oral tradition",
+    "source": "Akan (Baoulé/Anyi) oral tradition, Côte d'Ivoire; Wikipedia (West African mythology); Britannica (Anyi)",
     "source_quality": "good",
     "stories": [
       "queen-abla-pokou-the-mother-of-the-baoule-people"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "ibeji-yoruba-3882",
@@ -10755,7 +10769,7 @@
       "lebe",
       "koumen-fulani"
     ],
-    "description": "Pemba is a primordial being in Bambara (Bamana) mythology, the first grain that fell to earth and became an acacia tree. From rotten wood and his own saliva, he created Mousso Koroni Koundye, the first woman. However, his creations were disordered and chaotic. Pemba represents the masculine creative principle without wisdom or balance. His premature and incomplete acts of creation introduced disorder into the cosmos, requiring Faro, the water deity, to descend and restore equilibrium. Pemba embodies the danger of creation without order and power without wisdom",
+    "description": "Pemba is the first grain of Bambara (Bamana) creation, which fell to earth and became an acacia tree; from rotten wood and his own saliva he shaped Mousso Koroni, the first woman. His premature, disordered acts of creation let chaos into the cosmos, and the water deity Faro had to descend to restore balance — creation without wisdom.",
     "appearance": "A grain of fonio (small cereal) that transforms into an acacia tree (Acacia albida). Can manifest as a tall, thin man or as the thorny acacia itself.",
     "behavior": "Acts impulsively, creating without order or foresight. Competitive with Faro for dominance. His creations tend toward chaos and imbalance.",
     "habitat": "Acacia trees, the savanna, the Sahel",
@@ -10816,12 +10830,13 @@
       "pemba-and-faro-the-bambara-twin-creation"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
     "source_type": "literary",
-    "source_quality": "expert",
+    "source_quality": "academic",
     "cultural_significance": "Pemba is a a spirit from West Africa mythology, representing important cultural values and traditional beliefs.",
-    "schema_org_type": "MythicalCreature"
+    "schema_org_type": "MythicalCreature",
+    "attested": true
   },
   {
     "id": "cape-verde-peixe-caball-0001",
@@ -11356,7 +11371,7 @@
       "asasbasu",
       "lagahoo-grenada"
     ],
-    "description": "Djibo is a shapeshifting creature from Malian folklore, particularly associated with the Bambara and Dogon peoples of West Africa. Djibo is a being that can transform between hyena and human forms, often working in service of sorcerers and witches. In Bambara tradition, the hyena is a powerful symbol associated with the sixth and final level of the Korè initiation society — representing the pinnacle of knowledge, supernatural intelligence, and vigilance. Hyena masks known as Suruku are used in elaborate masquerades where dancers embody the animal's destructive yet wise nature. Djibo stories serve as cautionary tales warning against wandering alone at night and trusting strangers. The creature embodies the liminal boundary between civilization and wilderness, between human society and the dangerous forces of the bush. In some traditions, Djibo can steal children who misbehave or wander from their villages",
+    "description": "A Malian hyena-shapeshifter figure: a being said to pass between hyena and human form in the service of sorcerers, aligned with the Bambara (Bamana) Korè initiation society, whose suruku hyena masks are danced in ritual and whose members 'become' hyenas by roleplay.",
     "appearance": "Djibo appears as a human figure with hyena features — spotted skin, a long neck, hunched back, and a sloping gait that suggests the animal within. In its full hyena form, it looks like a large, powerful spotted hyena but with uncannily human eyes and deliberate, calculating movements that distinguish it from ordinary animals. Its human form may bear scars or marks that reveal its supernatural nature: an odd patch of fur on the back, teeth that are too sharp, or a laugh that sounds like the hyena's distinctive call. In masquerade traditions, Djibo is represented by elaborate wooden hyena masks with powerful jaws, erect ears, and a thick mane. The mask is painted with geometric patterns and worn with a full costume of raffia and cloth that mimics the hyena's spotted coat.",
     "behavior": "Djibo is a night-active shapeshifter who preys on human settlements during darkness. It leads travelers astray by creating confusion and disorientation, causing them to lose their way in the bush. Djibo works with sorcerers, serving as their familiar or spy in exchange for blood offerings or human souls. It is said to steal children who wander too far from home, devouring them or carrying them into the spirit world. Despite its malevolent nature, Djibo is bound by certain rules — it cannot enter a home without permission and can be warded off by iron, fire, and certain prayers. The hyena-form of Djibo possesses the animal's legendary strength — its jaws can crush bone, and it can carry away full-grown sheep with ease. In Bambara initiation traditions, the Djibo mask dancer imitates the hyena's movements, teaching initiates about the dangers of uncontrolled power and the importance of community wisdom.",
     "habitat": "Village edges, deserts, transitional zones",
@@ -11400,15 +11415,16 @@
       "F300"
     ],
     "featured_in_stories": [],
-    "source": "Fulani oral tradition of Mali — Djibo shapeshifter figure.",
-    "source_quality": "good",
+    "source": "Bambara Korè tradition; Wikipedia (Cultural depictions of spotted hyenas); werehyena references",
+    "source_quality": "fair",
     "stories": [
       "the-hyena-who-wanted-to-be-king"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "dodo-0555",
@@ -11431,7 +11447,7 @@
       "toula",
       "abumi-guchi"
     ],
-    "description": "The Dodo is a monstrous humanoid creature from Hausa folklore, widely feared across Niger, northern Nigeria, Ghana, and neighboring West African regions. Despite sharing its name with the extinct flightless bird, the Hausa Dodo is utterly unrelated — it is a giant, cannibalistic bush spirit that embodies the dangers of the wilderness beyond village boundaries. In Hausa cosmology, Dodo is an ancient deity of pre-Muslim times who represents the dry season and dried vegetation, opposed by his wife Damina who symbolizes the rainy season. Dodo is a highly ambiguous figure — feared for his destructive capacity yet held in awe for his potential to reward those who meet his demands. He lurks in deep forests, swamps, and baobab trees, emerging to seize those who stray too far from home. His stories serve as powerful moral lessons, teaching children the importance of obedience, community, and respect for boundaries",
+    "description": "The Dodo is the great bush-spirit and bogeyman of Hausa tradition in Niger and northern Nigeria, an ancient deity of the dry season whose wife Damina brings the rains. A giant, cannibalistic being of forests, swamps and baobab trees, he seizes those who stray from home; his tales enforce obedience, community and respect for boundaries.",
     "appearance": "The Dodo is described as a towering humanoid creature of immense strength, forced to stoop to fit through doorways. He has long, shaggy black hair covering his body, a massive head with a vast mouth glowing red from within, and sharp teeth capable of devouring humans whole. His eyes are large and terrifying, sometimes described as burning coals. He has long arms ending in powerful claws and a tail like a beast. Some accounts describe him with multiple heads, horns, or reptilian scales. His sense of smell is extraordinarily keen — he can detect human flesh from great distances. The Dodo's most distinctive feature is his glowing red mouth and seemingly infinite stomach capacity, allowing him to engulf entire villages. He is often associated with particular trees, especially baobabs and tamarinds, which are said to be his dwelling places.",
     "behavior": "The Dodo is a predatory being who hunts humans, especially young women who refuse to marry him or children who misbehave and wander from their villages. He kills and devours his victims, sometimes swallowing them whole. Despite his monstrous nature, the Dodo can speak human languages, marry human wives, and father half-human children, making him a liminal figure who moves between the fantasy world and the real world. He makes bargains with potential victims — sparing a woman's life if she agrees to marry him or give him her firstborn child. Encountering the Dodo is an initiation that can transform a weakling into a hero. The Dodo can be outwitted by clever individuals who exploit his greed and ruthlessness, which paradoxically become the means of his undoing. He cannot cross running water, a significant weakness that victims exploit. In modern Hausa usage, 'dodo' has come to mean anything that inspires great fear, including people in positions of authority.",
     "habitat": "Forests, swamps",
@@ -11473,13 +11489,14 @@
       "A200"
     ],
     "featured_in_stories": [],
-    "source": "Hausa folklore of Niger — Dodo bogeyman/monster figure.",
+    "source": "Hausa folklore; Oxford Reference (Dodo); A Book of Creatures",
     "source_quality": "good",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "senegal-djinn-0004",
@@ -11578,7 +11595,7 @@
       "owl-nature-spirit-of-ashanti",
       "mooseancestorspiritashanti-ghana"
     ],
-    "description": "Hawk Guardian (Tupi) is a guardian from Ghana mythology. This manifestation of the guardian spirit adapted to the savannas and coastal regions of Africa while maintaining its essential nature as a protector and guide. The Hawk Guardian in this region embodies the synthesis of Tupi cosmology with new landscapes, demonstrating the adaptability of indigenous spiritual beliefs. For Tupi descendants who found themselves in Africa through the complex currents of colonial history, this Hawk Guardian became a bridge between their Amazonian heritage and their African reality, helping them navigate unfamiliar territories while staying connected to their ancestral spiritual practices",
+    "description": "Not independently attested and geographically incoherent: the Tupi are an indigenous South American people, and no 'Hawk Guardian' of Tupi origin appears in Ghanaian tradition or documented diaspora history. The entry's account of 'Tupi descendants' reaching Africa through colonial history and carrying a hawk guardian is unsupported and appears fabricated.",
     "appearance": "In the African context, the Tupi Hawk Guardian takes on features that blend Amazonian and African bird characteristics, with feathers that range from deep chestnut to warm gold, accented by iridescent green patches reminiscent of both rainforest and savanna birds. Its eyes are large and penetrating, colored like African amber with flecks of Amazonian gold. The spirit's wings show faint patterns that resemble both Tupi geometric designs and African Ndebele motifs. Its call is described as a unique sound that combines the sharp cry of South American hawks with the deeper resonance of African raptors, creating a voice that carries authority in both worlds.",
     "behavior": "This manifestation of the Tupi Hawk Guardian patrols the boundaries between the familiar and the foreign, helping Tupi descendants maintain their cultural identity while adapting to life in Africa. It appears most frequently during ceremonies that blend Tupi and African traditions, validating the cultural synthesis that occurs when different indigenous spiritual practices meet. The guardian guides those who feel caught between two worlds, helping them find their path and purpose. It is said to appear at crossroads and boundaries, offering wisdom about which direction to take in life. Tupi elders in Africa call upon this Hawk Guardian during naming ceremonies and coming-of-age rituals, ensuring that young people understand both their Tupi heritage and their African home.",
     "habitat": "Remote valleys and wilderness areas",
@@ -11619,13 +11636,14 @@
     "seo_description": "Discover the Tupi Hawk Guardian of southern Africa, a unique spirit manifestation that blends Amazonian Tupi traditions with African landscapes, guiding diaspora communities.",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Regional survey of West African oral traditions — Yoruba, Akan, Mande, Igbo, Ewe, and related peoples as documented by Herskovits, Frobenius, Parrinder, and ethnographic surveys.",
-    "source_quality": "fair",
+    "source": "No verifiable source",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "hawknaturespirittupi-mali-0836",
@@ -11720,7 +11738,7 @@
       "deerdeitydogon-mali",
       "ravenguardianashanti-mali"
     ],
-    "description": "Hawk Spirit (Khmer) is a spirit from Mali mythology. In this northern setting, the spirit is particularly associated with the great migratory journeys of birds, mirroring the immigration journey of the Cambodian people who resettled in Canada. The Hawk Spirit serves as a powerful symbol of guidance through unfamiliar territories, both physical and cultural. It represents the successful integration of traditional Khmer spirituality into the multicultural fabric of Canadian society, maintaining its essential nature while finding new expressions in a new land. The spirit is especially revered during the long winter months when its presence brings comfort",
+    "description": "Not independently attested and internally contradictory: the Khmer are a Cambodian people, and the entry, attributed to Mali, describes a hawk spirit tied to 'Cambodian people who resettled in Canada' and to comfort 'during the long winter months.' No such figure appears in Malian or Khmer tradition; the entry appears fabricated.",
     "appearance": "Canadian accounts describe the Hawk Spirit as appearing in the form of a large rough-legged hawk or red-tailed hawk with unusually pale feathers that blend into the snowy winter landscape, yet its amber eyes remain visible as glowing embers against white backgrounds. A distinctive marking of red feathers on its chest forms a maple leaf shape, which believers interpret as the spirit's acceptance of its Canadian home. In human manifestations, it appears as a serene figure wrapped in a traditional Khmer scarf woven with Canadian symbols, with feathered patterns incorporated into the fabric. The spirit is often glimpsed near bodies of water during spring thaw.",
     "behavior": "The Hawk Spirit in Canada serves as a cultural bridge-builder, appearing to Cambodian-Canadian youth who struggle with their dual identity and offering guidance through symbolic visions. It is said to circle over Cambodian Buddhist temples during important ceremonies, validating the continuation of traditions in a new land. During winter, the spirit is believed to visit homes and leave signs of its presence through the arrangement of frost on windows. It protects families during harsh weather and guides those who become lost in snowstorms. The spirit maintains particularly strong connections with elders who preserve traditional Khmer healing and meditation practices, helping them pass wisdom to younger generations.",
     "habitat": "Remote deserts and wilderness areas",
@@ -11761,15 +11779,16 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Regional survey of West African oral traditions — Yoruba, Akan, Mande, Igbo, Ewe, and related peoples as documented by Herskovits, Frobenius, Parrinder, and ethnographic surveys.",
-    "source_quality": "fair",
+    "source": "No verifiable source",
+    "source_quality": "poor",
     "stories": [
       "the-hyena-who-wanted-to-be-king"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "hawk-water-spirit-of-yoruba-0853",
@@ -11792,7 +11811,7 @@
       "ndi-mmili",
       "deer-water-spirit-of-ashanti"
     ],
-    "description": "In the rich spiritual tradition of the Yoruba people of Nigeria, the Hawk Water-Spirit occupies a special place as a messenger being that moves between the realms of water and sky. Yoruba cosmology is centered on a complex pantheon of orishas, and this hawk spirit serves as an intermediary, carrying prayers and offerings to the water deities and bringing their responses back to human devotees. The Hawk Water-Spirit is particularly associated with rivers, streams, and sacred groves where water flows, places where the boundary between the human world and the spirit world is considered thin. This being embodies the Yoruba understanding of the interconnectedness of all elements and the importance of maintaining proper relationships between different realms of existence",
+    "description": "Not independently attested. No hawk water-spirit appears in documented Yoruba tradition; the Yoruba water deities are Mami Wata, Oshun and Olokun, and no source records a hawk intermediary between water and sky. The entry's generic 'messenger spirit' framing is unsupported and appears fabricated.",
     "appearance": "The Yoruba Hawk Water-Spirit appears as a West African harrier hawk with plumage that combines warm earth tones with brilliant touches of yellow and gold, colors associated with the river orishas. Its feathers are always slightly damp, scattering fine droplets of water as it moves, and its eyes shine like polished amber beads, the kind used in Yoruba divination practices. In human form, the spirit appears as a slim, elegant figure wrapped in yellow and gold cloth adorned with cowrie shells, with facial markings that indicate its connection to the water orishas. A crown of river reeds and hawk feathers adorns its head, and it carries a messenger's staff wound with alternating strips of yellow and white fabric.",
     "behavior": "The Hawk Water-Spirit serves as an oshé (messenger) between Yoruba devotees and the water orishas, particularly Oshun and Yemoja, carrying offerings placed on riverbanks to the spirit world. It appears to babalawos (diviners) during Ifá divination ceremonies, providing insights that would otherwise be inaccessible. The spirit guards sacred rivers against pollution and disrespect, punishing those who defile these waters with misfortune. It is particularly active during the annual Osun-Osogbo festival, where its presence is considered essential for the success of the ceremonies. The Hawk Water-Spirit also guides the souls of those who drown to their proper place in the ancestral realm, ensuring they do not become restless spirits haunting the waterways.",
     "habitat": "Remote undergrounds",
@@ -11837,13 +11856,14 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Regional folk beliefs and indigenous cosmology of West Africa, documented in ethnographic surveys of the Akan, Yoruba, Dogon, and Igbo cultures.",
-    "source_quality": "good",
+    "source": "No verifiable source",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "cougar-deity-of-yoruba-0345",
@@ -11936,7 +11956,7 @@
       "olokun",
       "moosetrickstercree-nigeria"
     ],
-    "description": "In Yoruba cosmology, where the pantheon of orishas governs every aspect of existence, the coyote deity (known as Ikunle or Aje in some syncretic traditions) represents the trickster aspect of divine intelligence that operates outside the established hierarchy of the orishas. This deity embodies the principle of akomolede, the hidden wisdom that cannot be taught but must be discovered through experience and misdirection. Unlike the established orishas like Eshu who serves as the messenger between humans and gods, the coyote deity is a more primal force that dwells in the liminal spaces of the African savanna. It is associated with the color indigo and the element of the crossroads, particularly the unexpected paths that open when all conventional routes have failed",
+    "description": "Not independently attested. Coyotes are absent from Yorubaland, and no Yoruba deity or spirit of the coyote appears in documented tradition. The claimed names 'Ikunle' or 'Aje' are not attested Yoruba titles for a trickster; the Yoruba trickster is Eshu (Elegba), messenger of the gods. The entry's coyote deity appears invented.",
     "appearance": "The Yoruba coyote deity appears as a magnificent creature with a coat of deep indigo marked with patterns resembling the divination symbols of Ifa, the Yoruba system of wisdom. Its eyes glow with the amber light of the setting sun over the Nigerian forest, and its teeth are said to be made of cowrie shells, the traditional currency of spiritual transactions. When it manifests in human form, it appears as an elder dressed in flowing indigo robes, carrying the divining chain of an Ifa priest but wearing the mischievous smile of someone who knows secrets that have not yet been revealed to the gods themselves. A faint corona of blue fire surrounds its form, representing the ase or spiritual power that flows through all things in Yoruba philosophy, and its voice carries the deep resonance of the talking drum.",
     "behavior": "This coyote deity operates at the boundaries of established order, testing the wisdom of both mortals and orishas through elaborate games of wit and misdirection. It is not worshipped in the traditional sense, as it operates outside the established framework of Yoruba religious practice, but it is acknowledged by babalawo priests as a force that must be respected. The coyote deity appears at crucial moments of decision, offering advice that sounds foolish but contains hidden wisdom, or appearing as an obstacle that forces seekers to find alternative paths. It teaches that not all knowledge is meant to be acquired through proper channels and that some truths can only be discovered through rule-breaking and unconventional thinking. In Yoruba philosophy, this deity represents the necessary chaos that prevents the universe from becoming stagnant, ensuring that growth and change remain possible even within the most rigid structures of existence.",
     "habitat": "Remote deserts and wilderness areas",
@@ -11975,13 +11995,14 @@
     "seo_description": "A trickster deity from Yoruba cosmology that embodies hidden wisdom outside the established orisha hierarchy, testing both mortals and gods.",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Regional folk beliefs and indigenous cosmology of West Africa, documented in ethnographic surveys of the Akan, Yoruba, Dogon, and Igbo cultures.",
-    "source_quality": "good",
+    "source": "No verifiable source",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "coyotenaturespiritmaya-mali-0406",
@@ -12148,7 +12169,7 @@
       "nyerum",
       "deer-water-spirit-of-ashanti"
     ],
-    "description": "The Coyote Water-Spirit of Dogon tradition is a powerful aquatic entity that draws upon the complex cosmology of the Dogon people of Mali, who believe water spirits called Nommo are the primordial ancestors of humanity. In Dogon mythology, water is the source of all life and the medium through which the creator god Amma's creative force flows into the world. This coyote water-spirit serves as an intermediary between the realm of the Nommo and the human world, carrying messages between the living and the ancestral spirits that dwell beneath the surface of rivers and waterholes. It embodies the life-giving and mysterious qualities of water in the arid Sahel region",
+    "description": "Not independently attested. Coyotes do not occur in Dogon country (Mali), and no Dogon water-spirit of the coyote is recorded in the substantial ethnographic literature on the Dogon. The genuine Dogon water-spirits are the Nommo, amphibious ancestral beings created by Amma; the coyote figure appears to be an invented conflation.",
     "appearance": "This water-spirit takes the form of a sleek canine with skin that shifts between deep indigo and turquoise, patterned with spiral motifs reminiscent of Dogon granary doors and Nommo imagery. Its fur is replaced by fine, overlapping scales that glisten with moisture even in the dry season. Its eyes are large and inky black like the deep pools of the Bandiagara Escarpment, and its tongue is forked like that of the Nommo. When it surfaces, droplets of water cling to its form as though it has just emerged from the primeval waters of creation, and a faint bioluminescent glow emanates from its chest.",
     "behavior": "The Coyote Water-Spirit of Dogon tradition patrols the sacred water sources of the Dogon country, ensuring that humans maintain proper ritual purity when approaching these sites. It surfaces during the Dama funeral ceremonies to guide the souls of the departed toward the ancestral waters, where they join the cosmic cycle of rebirth. The spirit communicates through the gurgling of springs and the patterns formed by ripples on the surface of waterholes. It is known to challenge hunters who pursue game near water sources, leading them in circles until they abandon the chase. During the Sigui festival, held once every sixty years, this water-spirit is said to reveal itself to the Hogon spiritual leader, imparting wisdom about the coming generation.",
     "habitat": "Remote oceans",
@@ -12191,15 +12212,16 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Regional folk beliefs and indigenous cosmology of West Africa, documented in ethnographic surveys of the Akan, Yoruba, Dogon, and Igbo cultures.",
-    "source_quality": "good",
+    "source": "No verifiable source; cf. Griaule/Dieterlen on Dogon Nommo",
+    "source_quality": "poor",
     "stories": [
       "the-hyena-who-wanted-to-be-king"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "crane-ghost-of-yoruba-0442",
@@ -15554,7 +15576,7 @@
       "abonsam",
       "asasbasu"
     ],
-    "description": "Baba Djenka is a mischievous forest spirit from Ghanaian folklore, known throughout the Akan and surrounding cultural regions as a trickster entity that delights in causing confusion and loss. This spirit inhabits the dense forests and hidden groves that dot the West African landscape, emerging primarily during the twilight hours when the boundary between the human and spirit worlds grows thin. Baba Djenka is particularly notorious for stealing items from the unwary and hiding them in impossible locations, leading victims on frustrating searches through the underbrush. The spirit is also known for its ability to twist familiar paths, causing travelers to become hopelessly lost even in terrain they have known their entire lives. In Ghanaian tradition, Baba Djenka serves as both a warning against carelessness and a reminder that the forest is alive with forces beyond human understanding",
+    "description": "Not independently attested in documented Ghanaian folklore or academic sources: no collection records a forest spirit named 'Baba Djenka'. The description's traits — a spirit that steals items, twists paths and makes travelers lose their way — resemble the documented Akan mmoatia, small forest dwarfs with backward-turned feet, but no figure bears this name.",
     "appearance": "Baba Djenka appears as a small, wizened humanoid figure with leathery, bark-textured skin that blends seamlessly with the forest environment. The spirit stands no more than three feet tall and has elongated limbs ending in long, spidery fingers capable of reaching into the smallest crevices. Its face is dominated by wide, knowing eyes that gleam like polished obsidian, and its mouth often carries a mischievous grin that reveals pointed, irregular teeth. Baba Djenka is typically adorned with leaves, vines, and forest debris that seem to grow directly from its body, providing natural camouflage. Some accounts describe it wearing a small, tattered hat woven from palm fronds and carrying a crooked staff made of twisted roots. The spirit moves with an unnerving silence, appearing and disappearing among the trees like a shifting shadow, and its presence is often announced by the sudden stillness of forest birds.",
     "behavior": "Baba Djenka spends its days observing human travelers from hidden vantage points, waiting for opportunities to play its elaborate tricks. The spirit specializes in petty theft with a purpose, stealing everyday items such as cooking pots, farming tools, or bundles of firewood and hiding them in trees, beneath roots, or inside hollow logs. When a traveler becomes lost due to Baba Djenka's interference, the spirit delights in leading them in circles, sometimes for hours, before finally allowing them to find their way. Despite its mischievous nature, Baba Djenka is not malevolent and will return stolen items if properly appeased with small offerings of food or tobacco left at the base of a designated tree. Those who respect the forest and acknowledge the spirit's presence are less likely to fall victim to its tricks. Elders teach that Baba Djenka tests the patience and humility of those who venture into the wilderness, rewarding the respectful with safe passage.",
     "habitat": "Dense forests and woodlands across Ghanaian",
@@ -15596,13 +15618,14 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Ghana mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source": "No verifiable source; no Ghanaian folklore collection records 'Baba Djenka'",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "badger-guardian-of-ashanti-0094",
@@ -15910,7 +15933,7 @@
       "moosetrickstercree-nigeria",
       "river-mother-cherokee"
     ],
-    "description": "The Bear Nature-Spirit of Yoruba tradition represents the adaptive integration of bear symbolism into Yoruba cosmology through the diaspora experience, where African spiritual traditions encountered New World environments populated by bears. While traditional Yorubaland in present-day Nigeria and Benin has no native bear populations, the Yoruba orisha tradition is richly populated with powerful animal-associated spirits, and the bear concept has found resonance among Yoruba diaspora communities in the Americas where bears are present. In this expanded context, the bear nature-spirit draws parallels to the forest orisha Ogun, who embodies the raw power of the wilderness, and to the protective aspects of Oshun, who governs rivers and fertility. The bear spirit serves as a bridge between traditional Yoruba concepts of animal power and the ecological realities of the Americas, embodying the strength, healing ability, and fierce protectiveness that characterize bears in nature",
+    "description": "Not independently attested. No bear spirit appears in Yoruba orisha tradition or Yoruba folklore: bears do not occur in Yorubaland (Nigeria and Benin), and the entry's claim of a diaspora-introduced 'bear nature-spirit' invoking Ogun and Oshun has no documentary basis. The name and concept appear invented.",
     "appearance": "The Bear Nature-Spirit in Yoruba-influenced tradition appears as a powerful, dark-furred bear with markings that echo the patterns found on Yoruba ceremonial textiles and beadwork. Its coat is deep brown to black, with subtle reddish highlights that reference the red clay of Yorubaland and the sacred color of Ogun. Around its neck, the bear wears a strand of alternating brown and white beads, similar to the oke beads worn by orisha devotees. Its eyes are large and intelligent, holding the calm wisdom of ancient forests. When the spirit manifests in human form, it appears as a tall, muscular figure with scarification patterns on its face and arms that tell the story of its lineage and power. This human form wears flowing robes of indigo-dyed cloth and carries a staff topped with a carved bear figure, representing the connection between the forest power of the Americas and the ancestral traditions of the Yoruba people. A faint scent of palm oil and incense accompanies its presence.",
     "behavior": "The Bear Nature-Spirit serves as a guardian of forest boundaries and a protector of those who practice the traditional ways in new lands. It teaches the importance of adaptability, showing how the core principles of Yoruba spirituality can be maintained while honoring the unique character of the natural environment where practitioners find themselves. The spirit tests those who seek its guidance by challenging them to demonstrate their commitment to the ancestors and their understanding of the natural world. It rewards those who show respect for all living beings and who maintain proper ritual cleanliness, while punishing those who exploit the natural world or who practice their spirituality with a closed heart. The bear spirit participates in ceremonies that honor the connection between African diaspora communities and the lands they now inhabit, helping to establish new traditions that honor both the old ways and the new environment. It is particularly active during the full moon, when it is said to walk the boundaries between cultivated land and wilderness, maintaining the balance between human habitation and the wild places that must be preserved.",
     "habitat": "Not documented in Yoruba tradition",
@@ -15954,13 +15977,14 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "West African oral tradition, Akan/Ashanti folklore",
-    "source_quality": "good",
+    "source": "No verifiable source",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "bisonguardianyoruba-nigeria-0206",
@@ -15995,7 +16019,7 @@
       "hawkguardianofojibwe-canada",
       "coyote-guardian-of-mi-kmaq"
     ],
-    "description": "The Bison Guardian in Canada carries the Yoruba buffalo spirit into the northern reaches of the African diaspora, where it adapted to the vast Canadian prairies and the wood bison of the boreal forests. This manifestation of the guardian maintains the core attributes of Oya's sacred animal while incorporating elements from the indigenous First Nations cultures of the northern plains. The guardian serves as a protector of African Canadian communities, particularly those in the prairie provinces who trace their ancestry to both African American settlers and Caribbean immigrants. In Canadian hoodoo and folk magic traditions, the Bison Guardian is invoked for protection during the harsh northern winters and for guidance in navigating the complex cultural landscape of the diaspora. Its presence is felt strongest in Alberta and Saskatchewan, where the plains stretch to the horizon and the spirit of the buffalo still runs through the tall prairie grass",
+    "description": "Not independently attested. Bison do not occur in Nigeria, and no Yoruba guardian spirit associated with the bison appears in Yoruba orisha tradition or documented diaspora practice. The entry's account of a bison guardian among 'African Canadian' communities in Alberta and Saskatchewan is unsupported and appears fabricated; no Yoruba source names such a figure.",
     "appearance": "The Canadian Bison Guardian manifests as a wood bison, the larger and darker subspecies adapted to the northern forests and prairies. Its coat is a deep chocolate brown, almost black, growing exceptionally thick and woolly across its hump and forequarters to withstand the brutal prairie winters. Its horns rise from a massive skull, shorter and more sharply curved than the plains bison, ideal for pushing through dense brush and snowdrifts. In winter, its breath freezes into crystalline patterns that hang in the air like chandeliers, catching the pale northern light. When the guardian takes human form, it appears as a tall figure wrapped in a Hudson's Bay blanket coat, its face half-hidden by a hood rimmed with frost. A single copper earring shaped like a buffalo horn glints in one ear, and its footsteps leave no impressions in the snow.",
     "behavior": "The Bison Guardian of Canada patrols the invisible boundary lines between provinces and territories, between the reservations of First Nations and the settlements of newcomers, serving as a mediator between different peoples and traditions. It appears most frequently during the winter solstice, when the days are shortest and the spirit world is closest to the physical realm. Hunters and trappers who encounter the guardian are warned to share their catch with those in need, for the spirit is the enforcer of the principle of reciprocity that binds all inhabitants of the northern plains. The guardian is especially protective of children and elders, and it is said to clear paths through blizzards for those who have shown kindness to strangers. Offerings of tobacco, red cloth, and sweetgrass are left at fence posts where the guardian has been seen.",
     "habitat": "Remote deserts and wilderness areas",
@@ -16036,13 +16060,14 @@
     "seo_description": "Northern adaptation of the Yoruba buffalo guardian protecting African Canadian communities across the prairies.",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Nigeria mythology, oral tradition & folklore collections",
-    "source_quality": "good",
+    "source": "No verifiable source",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": true,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "bison-water-spirit-of-dogon-0228",
@@ -16219,7 +16244,7 @@
       "mosquito-guardian-mari",
       "leshy"
     ],
-    "description": "The Butterfly Spirit is a guardian entity from Hausa tradition adapted within Russian folkloric interpretation, entrusted with the protection of desert landscapes and the precious resources hidden within them. Though the Hausa people are indigenous to West Africa, this spirit's legend has traveled along trade routes and cultural exchanges, finding new expressions in diverse traditions. The butterfly spirit oversees the delicate balance of arid ecosystems, safeguarding hidden springs, resilient plants, and desert wildlife. In the cosmology that reveres it, the spirit serves as a bridge between the human world and the untamed wilderness, reminding travelers that survival in harsh terrain depends on respect for the spiritual forces that guard these marginal lands",
+    "description": "Not independently attested. No Hausa spirit of the butterfly appears in documented Hausa tradition; the entry's framing — a 'desert-guarding butterfly spirit' adapted 'within Russian folkloric interpretation' and carried along trade routes — is internally contradictory and unsupported by any source. The name and concept appear fabricated.",
     "appearance": "The Butterfly Spirit manifests as a large, majestic butterfly with wings colored in warm desert tones—sandy gold, terracotta, deep amber, and indigo. Its wings bear intricate geometric patterns reminiscent of traditional African textile designs and rock art, and they shimmer with a subtle internal luminescence that becomes visible in low light conditions. A calm, knowing human face can sometimes be seen within the wing markings—aged features with wise eyes that seem to look directly into the soul of the observer. The spirit leaves faint trails of golden dust as it moves, and its presence is often accompanied by a sudden stillness in the air and the distant scent of rain on dry earth.",
     "behavior": "The Butterfly Spirit patrols its domain with patient vigilance, monitoring the health of water sources and protecting the fragile desert ecosystem. It tests all who enter its territory, presenting subtle challenges—a fork in the path, a sudden dust storm, an encounter with a desert creature—that reveal the traveler's true nature. Those who approach with humility and generosity receive guidance to safe passage and hidden water; those who are wasteful, cruel, or disrespectful find themselves lost, turned around, or subjected to worsening conditions until they change their ways. The spirit communicates through natural signs: the pattern of wind ripples on dunes, the behavior of insects and birds, and the quality of light at different times of day. It is particularly active during the twilight hours when the boundary between worlds grows thin.",
     "habitat": "Desert regions",
@@ -16258,16 +16283,17 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Regional survey of West African oral traditions — Yoruba, Akan, Mande, Igbo, Ewe, and related peoples as documented by Herskovits, Frobenius, Parrinder, and ethnographic surveys.",
-    "source_quality": "fair",
+    "source": "No verifiable source",
+    "source_quality": "poor",
     "stories": [
       "bruin-and-reynard"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "pronunciation_ipa": "/bʌtəflaɪ/"
+    "pronunciation_ipa": "/bʌtəflaɪ/",
+    "attested": false
   },
   {
     "id": "butu-0268",
@@ -16449,7 +16475,7 @@
       "benin-legba",
       "mawu-fon"
     ],
-    "description": "Da (also known as Aido-Hwedo or Dan) is the primordial rainbow serpent and one of the most important deities in Fon Vodun cosmology of Benin. According to Fon creation mythology, Da existed at the beginning of time alongside the supreme creator Mawu-Lisa. The serpent coiled around the earth to hold it together and serves as the cosmic support that prevents the universe from collapsing. In Fon belief, Da is associated with riches, cool breezes, fertility, and renewal. He is the companion of Mawu and is said to have helped create the world by coiling around it and keeping it stable. The rainbow is seen as Da's physical manifestation in the sky. The Python Temple in Ouidah, Benin, houses living royal pythons that are considered sacred incarnations of Da, where they roam freely through the town and are never harmed. Da's worship has spread globally through the Vodun diaspora, becoming Damballa in Haitian Vodou, where he is revered as a primordial serpent spirit of creation",
+    "description": "Da (Aido-Hwedo) is the primordial rainbow-serpent of Fon Vodun cosmology: the cosmic support said to have coiled beneath the earth to hold the universe stable, companion of the creator Mawu-Lisa. The rainbow is his manifestation. At Ouidah, living royal pythons are honored as his incarnations, and in the diaspora he endures as Damballa in Haitian Vodou.",
     "appearance": "A cosmic serpent of immense proportions, often depicted as a rainbow-colored snake. In temple representations, shown as a python or large serpent with iridescent scales. Sometimes depicted as a serpent biting its own tail (ouroboros), symbolizing infinity and cosmic cycles.",
     "behavior": "Primordial being that maintains cosmic stability. Coiled beneath the earth, Da supports the world and prevents its collapse. When he moves underground, he causes earthquakes. He is also associated with the flow of rivers and the cycle of seasons. Benevolent when properly venerated, but cosmic disruption occurs if he is disturbed.",
     "habitat": "Exists in the cosmic realm, wrapped around the foundation of the earth. His physical manifestations appear as rainbows in the sky and as sacred pythons in temples, particularly the Python Temple of Ouidah, Benin.",
@@ -16509,8 +16535,8 @@
       "primordial snake"
     ],
     "featured_in_stories": [],
-    "source": "Fon oral tradition and Vodun religious texts",
-    "source_quality": "good",
+    "source": "Fon Vodun cosmology; Ouidah Python Temple; Wikipedia (Da, Aido-Hwedo, Damballa)",
+    "source_quality": "well-documented",
     "fun_fact_generated": false,
     "stories": [
       "linda-gold-and-the-old-king",
@@ -16519,9 +16545,10 @@
       "queen-makeda-and-king-solomon"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "literary"
+    "source_type": "literary",
+    "attested": true
   },
   {
     "id": "benin-legba-3368",
@@ -16830,7 +16857,7 @@
       "galamani-fulani",
       "sarki-hausa"
     ],
-    "description": "The Kintogou is a legendary serpent of immense size from the folklore of Burkina Faso, particularly associated with the Mossi people. This mythical serpent is believed to inhabit rivers, deep water bodies, and sacred groves, serving as both a guardian and a danger. The Kintogou embodies the complex relationship between humans and water sources in the semi-arid Sahel region, where water is both precious and potentially deadly. While it can be seen as a creature to be feared due to its size and power, it is also revered as a guardian of water sources and a symbol of the natural forces that must be respected. The serpent's presence is said to mark the boundaries between safe and dangerous waters, and stories of the Kintogou serve as cautionary tales about respecting the natural environment and the hidden dangers that may lurk beneath seemingly calm waters. The Kintogou represents the Mossi understanding that the natural world contains powerful beings that must be approached with humility and respect",
+    "description": "Not independently attested in documented Mossi (Moose) tradition or academic sources: no collection or record names a water-serpent 'Kintogou' among the Mossi of Burkina Faso. The description of a guardian river-serpent is generic and unverified; the closest documented West African water-dragons are the Soninke Bida and the Gambian Ninki Nanka.",
     "appearance": "An immense serpent of legendary proportions, often described as being large enough to block rivers or encircle entire pools. Its color varies in different accounts, but it is typically described as dark with scales that glisten when it surfaces. Some accounts give it a crest or horns, marking it as a king among serpents.",
     "behavior": "Guardian of water sources who controls the flow of rivers and the availability of water. It can be either protective or destructive depending on how it is treated. Known to capsize boats, flood villages, or withhold rain when angered. Respectful communities who offer proper tributes may receive its protection and blessings of abundant water.",
     "habitat": "Rivers, deep pools, lakes, and sacred water bodies across Burkina Faso, particularly in areas where the Mossi people live. It is associated with permanent water sources that persist through the dry season.",
@@ -16886,16 +16913,17 @@
       "river spirit"
     ],
     "featured_in_stories": [],
-    "source": "Mossi oral tradition",
-    "source_quality": "good",
+    "source": "No verifiable source; no Mossi tradition records 'Kintogou'",
+    "source_quality": "poor",
     "fun_fact_generated": false,
     "stories": [
       "the-big-bird-dan"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "burkina-mba-katre-3376",
@@ -16921,7 +16949,7 @@
       "gizo-hausa",
       "burkina-kintogou"
     ],
-    "description": "Mba-Katrè is the hyena trickster figure in Mossi folklore of Burkina Faso, a central character in the rich oral tradition of the Mossi (Moose) people. In Mossi folktales, Mba-Katrè embodies the qualities of gluttony, foolishness, greed, and gullibility — serving as a contrast to the clever and resourceful hare figure Mba-Soêmba. The hyena's legendary appetite and stupidity make him the perfect foil for the hare's cunning, and their paired stories form the backbone of Mossi oral education for children. In these tales, Mba-Katrè's unchecked desires and lack of foresight consistently lead to his downfall, teaching listeners about the consequences of greed, the importance of delayed gratification, and the value of intelligence over brute strength. The hyena is also associated with witchcraft in some contexts across West Africa, adding a layer of supernatural danger to his character. Stories of Mba-Katrè are traditionally told by elders and griots during evening gatherings, serving as both entertainment and moral education for the community",
+    "description": "Mba-Katrè is the hyena of Mossi (Moose) folktales in Burkina Faso, the gluttonous, foolish trickster outwitted at every turn by the cunning hare Mba-Soamba. Published in Folktales from the Moose of Burkina Faso (Langaa, 2010), the paired tales teach children the cost of greed, lack of foresight and unchecked appetite, setting hyena stupidity against hare finesse.",
     "appearance": "A hyena with exaggerated features that emphasize his gluttonous nature — often depicted with an enormous belly, slavering jaws, and a perpetually hungry expression. In Mossi storytelling, he may be described wearing simple clothing or ornaments that mark him as a foolish but recognizable character.",
     "behavior": "Greedy, gluttonous, gullible, and lacking foresight. Mba-Katrè is constantly driven by his appetite and easily tricked by the clever hare Mba-Soêmba. He falls into obvious traps, makes poor decisions based on immediate gratification, and repeatedly suffers the consequences of his foolishness.",
     "habitat": "The savannah and bushlands of Burkina Faso, featuring in village stories told around evening fires. In Mossi animated storytelling, he is found in the wild spaces between villages.",
@@ -16978,8 +17006,8 @@
       "greed punished"
     ],
     "featured_in_stories": [],
-    "source": "Mossi oral tradition",
-    "source_quality": "good",
+    "source": "Folktales from the Moose of Burkina Faso (Langaa RPCIG, 2010)",
+    "source_quality": "academic",
     "fun_fact_generated": false,
     "stories": [
       "the-hyena-who-wanted-to-be-king",
@@ -16993,9 +17021,10 @@
       "ti-lobo-and-chibinho"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "burkina-mba-soemba-3377",
@@ -17380,7 +17409,7 @@
       "koma",
       "gumiho-northkorea"
     ],
-    "description": "Asiman is a shapeshifter from Beninese Folklore mythology. This malevolent supernatural being hunts at night, primarily targeting children and vulnerable adults for their blood and flesh. The Asiman belongs to the rich tradition of West African witchcraft beliefs, which distinguish between benevolent spiritual power and harmful sorcery. Unlike the permanently monstrous Asanbosam, the Asiman is believed to be a witch who has made a pact with dark forces in exchange for supernatural abilities, including flight and shape-shifting. These beings operate in secret covens, gathering at night for rituals in isolated locations. The fear of Asiman serves as a powerful social control mechanism, discouraging nighttime wandering and reinforcing community bonds. Witch doctors and spiritual healers are regularly consulted to provide protective charms and to identify suspected Asiman within the community, though accusations of witchcraft can have serious social consequences",
+    "description": "The asiman is the vampire-witch of Fon (Dahomey) tradition in Benin: an ordinary woman by day who, at night, leaves her body and flies as a corpse-candle or ball of light. She drains blood from sleeping victims, especially children, then shapeshifts into an animal; only in that animal form can she be destroyed. She is kin to the Ashanti obayifo and the Ewe adze.",
     "appearance": "By day, the Asiman appears indistinguishable from any other community member, often maintaining a normal life and family. However, certain signs are believed to betray their true nature: unusual brilliance in the eyes, a tendency to avoid daylight, pockets of cold skin, or an unnatural appetite for raw meat. At night, the Asiman transforms into various animal forms, most commonly appearing as a large owl with glowing red or yellow eyes and unusually long talons, or as a bat with a human-like face. In its owl form, it can be significantly larger than natural owls, and its shadow on the ground sometimes retains a human silhouette. Some accounts describe the Asiman in flight as a humanoid figure with leathery bat wings extending from its arms, its feet dangling below as it soars silently through the night sky. Its animal forms often have subtle wrongness, such as feathers that glint like metal or eyes that show too much intelligence.",
     "behavior": "The Asiman is a nocturnal predator that emerges after dark to hunt, using its shape-shifting abilities to move unnoticed through the night. It preys primarily on children, drawn by their pure life force, but will attack adults if opportunity presents. It enters homes through any opening, no matter how small, and feeds on its victim's blood or flesh. After feeding, the victim typically falls ill with a mysterious wasting disease that baffles ordinary healers. The Asiman joins other witches at night gatherings where they dance, perform rituals, and consume human flesh together. These gatherings are believed to take place under giant trees or at crossroads. To protect against Asiman, people hang protective charms over doorways, place iron objects near sleeping children, and employ the services of witch doctors who can create powerful talismans. The Asiman can be identified by the fact that it cannot enter a home where certain prayers have been said or where specific protective herbs have been placed.",
     "habitat": "The night sky and dense forests.",
@@ -17433,15 +17462,16 @@
       "Predatory flight"
     ],
     "featured_in_stories": [],
-    "source": "Wikipedia (West African mythology section)",
+    "source": "Fon/Dahomey oral tradition; godsandmonsters.info (Asiman); vampire folklore compilations",
     "source_quality": "good",
     "fun_fact_generated": false,
     "id": "benin-asiman-3389",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "slug": "benin-zangbeto",

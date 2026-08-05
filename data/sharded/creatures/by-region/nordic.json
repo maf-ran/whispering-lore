@@ -1806,7 +1806,7 @@
       "kraken",
       "s-trevette"
     ],
-    "description": "Akkarmora is a giant octopus or squid-like sea guardian from the Måsøy region of Finnmark, Northern Norway. The name comes from akkar (squid/octopus in Norwegian) and mora (mother). Akkarmora is a colossal sea creature that rises from the Barents Sea when too many squid (akkar) are caught by fishermen. It serves as an ecological guardian — enforcing sustainable fishing through fear. When Akkarmora appears, it capsizes boats, destroys nets, and creates violent whirlpools. It then disappears back into the depths until the next time the sea is overfished. The legend is unique to Finnmark and reflects the traditional fishing communities' understanding of marine ecosystem balance. Akkarmora teaches that the sea's resources must be respected and cannot be taken greedily. The creature is particularly associated with the rich fishing grounds around Måsøy, Havøysund, and the Porsangerfjord",
+    "description": "'Akkarmora' is not attested in Norwegian folklore. Web research and Norwegian folk-belief records show no sea-guardian of this name; the entry appears invented from 'akkar' (Norwegian for squid/octopus) plus 'mora' (mother). Genuine Nordic sea beliefs include the Kraken and the hafgufa, and the draug of the sea, but no Måsøy 'squid mother' legend is documented.",
     "appearance": "A colossal octopus or giant squid with enormous tentacles rising from the Barents Sea. Dark mottled purple-grey body. Eyes the size of dinner plates. When fully visible, appears as large as a fishing boat. Often seen in stormy weather or rough seas.",
     "behavior": "Rises from the deep when too many squid are caught. Capsizes boats and destroys fishing gear. Creates whirlpools. Enforces natural balance in fishing. Only appears when the sea is over-exploited. Disappears after teaching the lesson. Not inherently malevolent — a guardian, not a predator.",
     "habitat": "The Barents Sea off the Finnmark coast, particularly the rich fishing grounds around Måsøy, Havøysund, and the Porsangerfjord area.",
@@ -1849,13 +1849,14 @@
     "seo_description": "Akkarmora is a giant octopus or squid-like sea guardian from the Måsøy region of Finnmark, Northern Norway. The name comes from akkar (squid/octopus i",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Norwegian folk belief and ethnographic records of rural traditions.",
-    "source_quality": "good",
+    "source": "Review finding: unattested in Norwegian folklore sources; no record of a Måsøy squid-guardian legend.",
+    "source_quality": "poor",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": false
   },
   {
     "id": "aino-finland-0001",
@@ -7742,7 +7743,7 @@
       "landvttir-sweden",
       "g-rdsr"
     ],
-    "description": "Gruvrået (the mine spirit), also called Gruvfrun (the mine lady) or Gruvjungfrun (the mine maiden), is a female guardian spirit of mines in Swedish folklore, particularly in the Bergslagen mining district. She appears as an elegantly dressed lady carrying a ring of keys, walking through the mine tunnels. The color of her dress serves as an omen — a white dress means a non-fatal accident will occur, while a black dress foretells a death in the mine. She rewards respectful miners by revealing rich ore veins and punishing swearing, whistling, or littering with cave-ins and lost tools. Miners would leave offerings of food, tobacco, or coins for her. The belief was so strong that new mines would be formally introduced to Gruvrået through a ceremony of respect",
+    "description": "Gruvrået, also called Gruvfrun or Gruvjungfrun, is the guardian spirit of mines in Swedish folklore, especially in the Bergslagen mining district. She is said to walk the tunnels as an elegantly dressed woman with a ring of keys; her dress color was read as an omen, and she rewarded respectful miners with rich ore while punishing swearing and careless behavior in the workings.",
     "appearance": "A tall, beautiful woman in a flowing dress (white or black) with a ring of keys at her waist. Carries a lantern. Pale skin. Sometimes appears with a crown of ore crystals. Her footsteps make no sound on stone.",
     "behavior": "Walks mine tunnels with a key ring that jingles to warn of danger. White dress indicates a minor accident; black dress means death. Reveals ore-rich veins to respectful miners. Causes cave-ins on those who swear or whistle underground.",
     "habitat": "Underground in iron, copper, and silver mines throughout Bergslagen (Västmanland, Dalarna, Närke, Värmland). Most active in deeper shafts. Appears at the end of shifts and during night work.",
@@ -7784,8 +7785,8 @@
       "G100"
     ],
     "featured_in_stories": [],
-    "source": "Swedish folk belief and ethnographic records of rural traditions.",
-    "source_quality": "good",
+    "source": "Swedish folk belief; ethnographic records of Bergslagen mining tradition on the gruvrå/mine spirit.",
+    "source_quality": "documented",
     "stories": [
       "the-lame-dog",
       "lasse-my-thrall",
@@ -7795,9 +7796,10 @@
       "the-rooster-the-hand-mill-and-the-swarm-of-hornets"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "g-rdsr-2255",
@@ -12912,7 +12914,7 @@
       "tusse-sweden",
       "skogsr"
     ],
-    "description": "The Jerff, also known as the Gulon, is a gluttonous beast from Swedish folklore first documented by Archbishop Olaus Magnus in his 1555 work Historia de gentibus septentrionalibus. It is described as a chimeric creature the size of a large dog with cat-like head and ears, shaggy brown fur, sharp claws, and a fox-like tail. The Jerff embodies the vice of gluttony through its legendary feeding habits: it gorges on carrion until its belly swells like a drum, then squeezes between two closely growing trees to induce vomiting so it can resume eating. This purging mechanism made it a powerful moral symbol of insatiable appetite in medieval Nordic bestiary tradition. The creature likely originated from exaggerated accounts of the wolverine (Gulo gulo), combining observed animal behavior with folkloric embellishment",
+    "description": "The Jerff (Gulon, 'Glutton') is a beast described in Olaus Magnus's 'Historia de Gentibus Septentrionalibus' (1555), a work of northern European natural history and folklore. It was said to be a gluttonous creature that gorged on carrion until its belly swelled, then squeezed between two trees to vomit so it could eat again; likely an exaggerated account of the wolverine (Gulo gulo).",
     "appearance": "Size of a large dog with cat-like head and ears, shaggy brown fur, sharp feet and claws, fox-like tail that is shorter and thicker than a true fox, skin in shades of white, brown, and black like damask cloth",
     "behavior": "Jerff is gluttonous, solitary, nocturnal, carrion-eater in Sweden folklore.",
     "habitat": "Deep forests of Sweden and Norway",
@@ -12973,19 +12975,20 @@
       "carrion"
     ],
     "featured_in_stories": [],
-    "source": "Historia de gentibus septentrionalibus (1555) by Olaus Magnus",
-    "source_quality": "primary",
+    "source": "Olaus Magnus, 'Historia de Gentibus Septentrionalibus' (1555), northern European bestiary tradition.",
+    "source_quality": "documented",
     "stories": [],
     "relatedNames": [
       "wolverine"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
     "source_type": "literary",
     "countries": [
       "Sweden"
-    ]
+    ],
+    "attested": true
   },
   {
     "id": "jatte-3481",
@@ -14882,7 +14885,7 @@
       "tusse-norway",
       "trollkatt"
     ],
-    "description": "Dradokke (from dra = pull and dokke = doll) is a magical doll used by trolls and witches in Norwegian folklore to cast spells and manipulate events from a distance. The dradokke is a small cloth or wooden doll that serves as a focus for sympathetic magic — what happens to the doll happens to the target. In Vestlandet folk tradition, witches used dradokker to steal milk from neighbors' cows, cause illness, or bring misfortune. The doll was created secretly, named after the target, and then manipulated. Trolls used dradokker to lure children away from their homes. Finding a dradokke hidden in a barn or house meant someone was working witchcraft against you. The only remedy was to burn the doll while reciting specific prayers or verses from the Bible. Dradokker were sometimes buried under doorsteps to protect homes from evil, a practice called a builder's offering",
+    "description": "A dradokke (dra-doll, dragedokke) is a doll-like object of Norwegian folk belief that 'draws' wealth to its owner. Sources in the Norsk Folkeminnesamling record that it was sent out at night to bring back milk, grain, clothes, gold, and silver, sometimes from drowned men at the seabed; recipes for making one could call for stolen cloth or a dead thief's right thumb.",
     "appearance": "A small doll made of cloth, wood, or wax. Usually crudely shaped with minimal features. Sometimes wrapped in hair or clothing from the target. May have pins stuck in it. Can be dressed in scraps of fabric. Usually hidden and not meant to be seen.",
     "behavior": "Used by witches to cast spells on enemies. Manipulated to cause illness, misfortune, or milk theft. Protects homes if used as a builder's offering (buried under doorstep). Must be created in secret and named after target. Destroyed by burning with prayers. A dradokke found in a barn meant someone was bewitching the farmer.",
     "habitat": "Hidden in barns, under doorsteps, in roof beams, or buried near homes. Witches kept their dradokker in secret places. Found throughout Vestlandet farm communities.",
@@ -14925,13 +14928,14 @@
     "seo_description": "Dradokke (from dra = pull and dokke = doll) is a magical doll used by trolls and witches in Norwegian folklore to cast spells and manipulate events fr",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Norwegian folk belief and ethnographic records of rural traditions.",
-    "source_quality": "good",
+    "source": "Norwegian folk belief; Norsk Folkeminnesamling records; Ørnulf Hodne, 'Vetter og skrømt' (1995); SAMLA/Universitetet i Bergen; Bø 1987.",
+    "source_quality": "documented",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "de-syv-s-stre-2197",
@@ -15024,7 +15028,7 @@
       "tusse-norway",
       "trollkjerringene-p-letnesberget"
     ],
-    "description": "Dønnamannen (the Man of Dønna) is a troll from Nordland folklore who was the drunken guardian of the Seven Sisters. According to legend, Dønnamannen was assigned to guard the sisters while they slept, but he fell asleep drunk on the job. When the sun rose, the sisters were caught and turned to stone on Alsten island. Dønnamannen woke too late to save them and was himself turned to stone while lying on his back with his hands folded across his chest. The Dønnamannen rock formation on the island of Dønna clearly shows a reclining figure with hands crossed over his chest. The formation is about 80 meters long and visible from the sea. The legend explains Dønnamannen's distinctive shape and serves as a cautionary tale about the consequences of negligence and drunkenness",
+    "description": "Dønnamannen ('the Man of Dønna') is a troll of Norwegian legend tied to the reclining rock formation on the island of Dønna in Nordland. The story connects him to the Seven Sisters, the famous mountain range on nearby Alstenøya: as a troll he is said to have been turned to stone, and his rock silhouette lies on its back with hands folded across its chest, visible from the sea.",
     "appearance": "A reclining human figure lying on his back with his hands folded across his chest. The 80-meter-long rock formation clearly shows a face, chest, and folded hands. Moss and vegetation give the appearance of old clothing.",
     "behavior": "Drunk guardian who fell asleep while protecting the Seven Sisters. Woke too late when the sun rose. Turned to stone while lying on his back. His failure led to the sisters' petrification.",
     "habitat": "The island of Dønna in Nordland, south of Sandnessjøen. Visible from the sea as a reclining figure on the island's coast.",
@@ -15066,13 +15070,14 @@
     "seo_description": "Dønnamannen (the Man of Dønna) is a troll from Nordland folklore who was the drunken guardian of the Seven Sisters. According to legend, Dønnamannen w",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Scandinavian folklore; trolls are pervasive anthropomorphic beings in Nordic myths, documented in laestadian and ethnographic records.",
-    "source_quality": "good",
+    "source": "Norwegian regional legend and place-name tradition of Helgeland (Nordland); folklore and tourism accounts of Dønnamannen.",
+    "source_quality": "documented",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "domen-heksene-2201",
@@ -15851,7 +15856,7 @@
       "hulduflk-faroeislands",
       "tr-ldur"
     ],
-    "description": "Draugur (Faroese: dreygur) is the Faroese variant of the Norse draugr — a malevolent undead revenant that rises from the grave to haunt the living. In Faroese tradition, draugar are described in strikingly similar terms to the Huldufólk: large in build, wearing grey clothes, with black hair. They inhabit graves, burial mounds, and coastal areas, often guarding treasure. Unlike ghosts, draugar have physical bodies — animated corpses that can swell to enormous size. In Faroese sea folklore, fishermen who drown at sea may become sea-draugar who haunt the waters where they died, dragging the living to their doom. The draugur embodies the thin boundary between the living and dead in isolated island communities where death at sea was a constant reality. Some accounts say draugar can be warded off by the sign of the cross and by naming them aloud",
+    "description": "Draugur (Faroese dreygur) is the Faroese form of the Norse draugr, a walking dead being of island tradition. Draugar in the Faroes were often described as large figures in grey clothes who guarded burial mounds and treasure or, in sea lore, as the drowned dead who rose to drag the living down. The sign of the cross and naming them aloud were said to ward them off.",
     "appearance": "Large, swollen corpse-like figure with blackened or death-blue (hel-blár) skin. Wears grey clothing with black hair — the same description given for Huldufólk in Faroese tradition. Can appear as a dark shape on the water (sea-draugur) or as a massive figure rising from burial mounds. Emits a reek of decay. Some accounts describe them with one dead eye.",
     "behavior": "Malevolent and territorial. Guards treasure in burial mounds. Haunts the living who trespass on graves or coastal waters. Sea-draugar drag swimmers and fishermen to their deaths. Can swell to enormous size when threatened. Destroy livestock and property. Weak to Christian symbols and being named aloud. Most active at night and during winter.",
     "habitat": "Burial mounds, churchyards, rocky coasts, and sea waters around the Faroe Islands. Sea-draugar specifically haunt the waters where they drowned. Often associated with treacherous coastal areas and known shipwreck sites.",
@@ -15899,15 +15904,16 @@
     "seo_description": "Draugur (dreygur) is the Faroese malevolent undead revenant that rises from graves and sea waters to haunt the living.",
     "motifs": [],
     "featured_in_stories": [],
-    "source": "Norse mythology; Draugar are undead spirits of the dead, documented in the Sagas and Nordic folklore.",
-    "source_quality": "expert",
+    "source": "Faroese oral tradition; recorded in Nordic folklore collections on the draugr/revenant motif.",
+    "source_quality": "documented",
     "stories": [
       "draugur-faroese-revenant-legends"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "creature-iceland-001",
@@ -17609,7 +17615,7 @@
       "tussehesten",
       "lindorm-denmark"
     ],
-    "description": "Helhesten (the Hell Horse) is a three-legged or headless horse in Danish folklore, buried alive under church foundations as a foundation sacrifice. Its distinctive hobbling gait — one leg shorter than the others — serves as a death omen for anyone who sees or hears it. The Helhest rises from its grave at midnight and drags its body around the churchyard three times on Christmas Eve, leaving only three hoofprints. If it stands before your door and whinnies, someone in that house will die within the year. At Aarhus Cathedral, a legendary account tells of a man who looked upon the Helhest and fell sick and died within days. In Roskilde, people once spat on a stone covering the Helhest's burial to ward off its influence",
+    "description": "Helhest ('Hell-horse') is the three-legged horse of Danish folk belief, a death-omen that haunted churchyards. It was said to drag itself around the church at night, and whoever saw it or heard it whinny would die within the year. Old accounts tie the creature to a horse or sacrificial beast buried alive beneath a church or graveyard; stories cluster at Aarhus, Roskilde, and other towns.",
     "appearance": "A large horse with only three legs — one leg is always shorter, causing a distinctive hobbling gait. Sometimes headless. Coat is pale gray or white, often matted with grave earth. Eyes glow red or yellow. Breaths visible as steam even in summer. Leaves three hoofprints on snow.",
     "behavior": "Hobbles around churches on three legs, counting years or souls. Stands before doors as a death omen. Whinnies to announce approaching death. Cannot cross running water. Counts onlookers — if it counts you, you die. Protection: face away and do not meet its eyes.",
     "habitat": "Buried beneath church foundations, churchyards, and church doors across Denmark. Emerges at midnight. Most active on Christmas Eve, New Year's Eve, and during the dark winter months. Also roams the streets of Roskilde (Hersegade) and Aarhus.",
@@ -17651,15 +17657,16 @@
       "F300"
     ],
     "featured_in_stories": [],
-    "source": "Danish folk belief and ethnographic records of rural traditions.",
-    "source_quality": "good",
+    "source": "Danish folk tradition; documented in Danish folklore collections (H. F. Feilberg and later surveys).",
+    "source_quality": "well-documented",
     "stories": [
       "helhest-story"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "attested": true
   },
   {
     "id": "hyldemor-2269",
