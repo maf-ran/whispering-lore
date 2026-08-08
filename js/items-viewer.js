@@ -91,6 +91,9 @@ class ItemsViewer extends BaseViewer {
     this.readStateFromURL()
     this.syncFilterUI()
     this.applyFilters()
+    if (window.__WL_PRELOAD) {
+      await window.__WL_PRELOAD
+    }
     if (itemParam) this.showDetail(itemParam)
   }
 
@@ -277,6 +280,7 @@ class ItemsViewer extends BaseViewer {
         }
 
         const sourceBadge = document.getElementById('detail-source-type-badge')
+        const attrCard = document.getElementById('detail-attribution-card')
         if (sourceBadge && item.source_type) {
           const st = item.source_type
           const stLabel = st.replace(/_/g, ' ').replace(/\b\w/g, function (l) {
@@ -288,6 +292,9 @@ class ItemsViewer extends BaseViewer {
             '">' +
             window.__sharedUtils.escapeXml(stLabel) +
             '</span>'
+          if (attrCard) attrCard.classList.remove('is-hidden')
+        } else if (attrCard) {
+          attrCard.classList.add('is-hidden')
         }
 
         const attrEl = document.getElementById('detail-attribution')

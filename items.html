@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <script>
+    (function(){
+      var t = localStorage.getItem('theme');
+      if (!t) t = window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark';
+      if (t === 'light') document.documentElement.setAttribute('data-theme', 'light');
+    })();
+  </script>
+  <meta name="color-scheme" content="dark light" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Artifacts — Whispering Lore</title>
+  <meta name="description" content="Explore sacred objects, weapons, tools, ships, and ritual objects from myth and folklore. Discover the legendary artifacts of human imagination." />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Artifacts — Whispering Lore" />
+  <meta property="og:description" content="Explore sacred objects, weapons, tools, ships, and ritual objects from myth and folklore. Discover the legendary artifacts of human imagination." />
+  <meta property="og:image" content="https://whisperinglore.com/og-image.svg" />
+  <meta property="og:url" content="https://whisperinglore.com/items.html" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Artifacts — Whispering Lore" />
+  <meta name="twitter:description" content="Explore sacred objects, weapons, tools, ships, and ritual objects from myth and folklore." />
+  <meta name="twitter:image" content="https://whisperinglore.com/og-image.svg" />
+  <link rel="canonical" href="https://whisperinglore.com/items.html" />
+
+
+  <link rel="icon" type="image/svg+xml" href="favicon.svg" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&family=Lora:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/styles.css" />
+  <script src="vendor/phosphor-icons/dist/phosphor-icons.js"></script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Dataset",
+    "name": "Whispering Lore Artifact Collection",
+    "description": "A curated collection of sacred objects, weapons, tools, ships, and ritual objects from myth, legend, and folklore around the world.",
+    "url": "https://whisperinglore.com/items.html",
+    "keywords": ["artifacts", "mythic objects", "legendary weapons", "ritual objects", "folklore"],
+    "inLanguage": ["en"]
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Artifacts — Whispering Lore",
+    "description": "Explore sacred objects, weapons, tools, ships, and ritual objects from myth and folklore.",
+    "url": "https://whisperinglore.com/items.html",
+    "inLanguage": ["en"]
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://whisperinglore.com/" },
+      { "@type": "ListItem", "position": 2, "name": "Artifacts", "item": "https://whisperinglore.com/items.html" }
+    ]
+  }
+  </script>
+  <link rel="manifest" href="manifest.json">
+  </head>
+<body>
+
+  <a href="#main-content" class="skip-link">Skip to content</a>
+
+  <header>
+    <span class="header-brand">Whispering <span class="hero-accent">LORE</span></span>
+    <div class="header-divider" aria-hidden="true"></div>
+    <div class="header-nav-strip">
+      <nav id="site-nav" aria-label="Main navigation">
+        <a href="index.html">HOME</a>
+        <a href="bestiary.html">BESTIARY</a>
+        <a href="items.html" class="active">ARTIFACTS</a>
+        <a href="stories.html">STORIES</a>
+        <a href="world.html">WORLD</a>
+        <a href="quiz.html">EXAMINATION</a>
+        <a href="about.html">ABOUT</a>
+        <a href="mylore.html">MY LORE</a>
+        <a href="methodology.html">METHODOLOGY</a>
+      </nav>
+    </div>
+    <button class="theme-toggle" id="theme-toggle" aria-label="Toggle light/dark mode">
+      <svg class="theme-icon-light" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true" focusable="false">
+        <circle cx="12" cy="12" r="5"/>
+        <path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/>
+      </svg>
+      <svg class="theme-icon-dark" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true" focusable="false">
+        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>
+      </svg>
+    </button>
+  </header>
+
+  <main id="main-content">
+
+  <section class="page-hero">
+    <div class="hero-bg"></div>
+    <canvas id="rune-canvas" class="rune-scatter" aria-hidden="true"></canvas>
+    <div class="page-hero-content">
+      <h1>Artifacts</h1>
+      <span class="accent-line"></span>
+      <p>Sacred objects, legendary weapons, tools, ships, and ritual items — the tangible wonders of myth and folklore.</p>
+    </div>
+  </section>
+
+  <div class="filter-bar">
+    <div class="filter-group">
+      <label for="item-search" class="sr-only">Search artifacts</label>
+      <input type="text" id="item-search" placeholder="Search artifacts…" />
+    </div>
+  </div>
+
+  <div class="bestiary-layout">
+    <aside class="bestiary-sidebar">
+      <div class="sidebar-controls">
+        <div class="control-group">
+          <label for="item-region">Region</label>
+          <select id="item-region">
+            <option value="all">All Regions</option>
+          </select>
+        </div>
+        <div class="control-group">
+          <label for="item-country">Country</label>
+          <select id="item-country">
+            <option value="all">All Countries</option>
+          </select>
+        </div>
+        <div class="control-group">
+          <label for="item-type">Type</label>
+          <select id="item-type">
+            <option value="all">All Types</option>
+          </select>
+        </div>
+        <div class="control-group">
+          <label for="items-sort">Sort By</label>
+          <select id="items-sort">
+            <option value="relevance">Relevance</option>
+            <option value="alphabetical">A-Z</option>
+            <option value="newest">Newest</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="active-filters"></div>
+
+      <div class="quick-filters">
+        <button class="chip" data-type="weapon">Weapons</button>
+        <button class="chip" data-type="ritual object">Ritual Objects</button>
+        <button class="chip" data-type="jewelry">Jewelry</button>
+        <button class="chip" data-type="ship">Ships</button>
+        <button class="chip" data-type="tool">Tools</button>
+        <button class="chip" data-type="garment">Garments</button>
+      </div>
+
+      <div class="facet-group" data-dimension="region">
+        <h2>Region</h2>
+        <div class="facet-options"></div>
+      </div>
+      <div class="facet-group" data-dimension="country">
+        <h2>Country</h2>
+        <div class="facet-options"></div>
+      </div>
+      <div class="facet-group" data-dimension="type">
+        <h2>Type</h2>
+        <div class="facet-options"></div>
+      </div>
+    </aside>
+    <div class="bestiary-main">
+      <p class="item-count" aria-live="polite">Loading artifacts...</p>
+      <div id="item-empty" class="no-results is-hidden">
+        <p role="alert">The vaults are empty. No artifacts match your search.</p>
+      </div>
+      <div class="filter-chips-container"></div>
+      <section class="grid-section grid-section-nopad">
+        <div class="content-grid" id="item-grid"></div>
+        <div id="load-more-container" class="load-more-container">
+          <button id="item-load-more" class="btn-load-more is-hidden">Load More</button>
+        </div>
+      </section>
+    </div>
+  </div>
+
+  <!-- ── Artifact Detail Full Page ── -->
+  <section class="story-detail is-hidden" id="item-detail">
+    <div class="cd-loader" id="detail-loader">
+      <span class="loader-text">Unveiling the relic...</span>
+    </div>
+
+    <div class="cd-page is-hidden" id="detail-content">
+      <!-- Hero Banner -->
+      <div class="cd-hero">
+        <div class="cd-hero-bg"></div>
+        <div class="cd-hero-inner">
+          <a href="items.html" class="cd-back" id="detail-back-link">&larr; Back to Artifacts</a>
+          <div class="cd-hero-text">
+            <div class="cd-hero-title-row">
+              <h1 id="detail-name"></h1>
+            </div>
+            <span class="accent-line"></span>
+            <div class="cd-hero-location" id="detail-hero-location">
+              <span id="detail-country"></span>
+              <span class="cd-hero-dot">&middot;</span>
+              <span id="detail-region"></span>
+            </div>
+            <div class="cd-hero-actions">
+              <button id="detail-share" class="cd-action-btn">Share</button>
+              <button id="detail-cite-btn" class="cd-action-btn">Cite</button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Main Content + Sidebar -->
+      <div class="cd-main">
+        <div class="cd-content">
+          <div class="detail-section">
+            <h3>Description</h3>
+            <div id="detail-description"></div>
+          </div>
+          <div class="cd-crossref is-hidden" id="detail-creatures-section">
+            <h2 class="detail-section-title">Creatures Bound to This Artifact</h2>
+            <div class="detail-creature-grid" id="detail-creatures"></div>
+          </div>
+          <div class="cd-crossref is-hidden" id="detail-stories-section">
+            <h2 class="detail-section-title">Tales Featuring This Artifact</h2>
+            <div class="detail-creature-grid" id="detail-stories"></div>
+          </div>
+        </div>
+
+        <aside class="cd-sidebar">
+          <div class="cd-sidebar-card" id="detail-cite-card">
+            <h4>Cite This Artifact</h4>
+            <div class="cite-popover" id="detail-cite-popover">
+              <div class="cite-format-tabs">
+                <button class="cite-format-tab active" data-format="bibtex">BibTeX</button>
+                <button class="cite-format-tab" data-format="mla">MLA</button>
+                <button class="cite-format-tab" data-format="apa">APA</button>
+              </div>
+              <div class="cite-text" id="cite-text"></div>
+              <button class="cite-copy-btn" id="cite-copy-btn">Copy to Clipboard</button>
+            </div>
+          </div>
+          <div class="cd-sidebar-card is-hidden" id="detail-attribution-card">
+            <h4>Tradition</h4>
+            <p id="detail-source-type-badge"></p>
+            <p id="detail-attribution" class="text-small text-muted" style="margin-top:0.25rem;"></p>
+          </div>
+          <div class="cd-sidebar-card">
+            <h4>Artifact Details</h4>
+            <p id="detail-type-badge"></p>
+            <p id="detail-culture" class="text-small text-muted" style="margin-top:0.25rem;"></p>
+            <p id="detail-material" class="text-small text-muted"></p>
+            <p id="detail-era" class="text-small text-muted"></p>
+            <p id="detail-maker" class="text-small text-muted"></p>
+            <p id="detail-powers" class="text-small text-muted"></p>
+          </div>
+          <div class="cd-sidebar-card">
+            <h4>Last Updated</h4>
+            <p id="detail-last-updated"></p>
+          </div>
+        </aside>
+      </div>
+    </div>
+
+    <div class="detail-nav-row">
+      <button class="detail-nav-btn is-hidden" id="detail-prev" aria-label="Previous artifact">
+        <span class="detail-nav-arrow">&larr;</span> Previous
+      </button>
+      <button class="detail-nav-btn is-hidden" id="detail-next" aria-label="Next artifact">
+        Next <span class="detail-nav-arrow">&rarr;</span>
+      </button>
+    </div>
+
+    <div class="cd-error is-hidden" id="detail-error">
+      <p>This artifact has not yet been recorded in our archives.</p>
+      <a href="items.html" class="card-cta">Return to Artifacts</a>
+    </div>
+  </section>
+
+  </main>
+
+  <footer>
+    <span class="crimson-line"></span>
+    <div class="footer-nav" aria-label="Footer navigation">
+      <a href="index.html">Home</a>
+      <a href="bestiary.html">Bestiary</a>
+      <a href="items.html">Artifacts</a>
+      <a href="stories.html">Stories</a>
+      <a href="world.html">World</a>
+      <a href="quiz.html">Examination</a>
+      <a href="about.html">About</a>
+      <a href="mylore.html">My Lore</a>
+      <a href="methodology.html">Methodology</a>
+    </div>
+    <p>Whispering Lore &nbsp;<span class="logo-mark logo-mark-icon" aria-hidden="true"><svg viewBox="0 0 32 32" fill="none" width="100%" height="100%"><path d="M16 2L30 16L16 30L2 16L16 2Z" stroke="currentColor" stroke-width="1.5"/><path d="M16 8L24 16L16 24L8 16L16 8Z" stroke="currentColor" stroke-width="1"/><path d="M2 16H30" stroke="currentColor" stroke-width="0.8" opacity="0.4"/><path d="M16 2V30" stroke="currentColor" stroke-width="0.8" opacity="0.4"/></svg></span>&nbsp; 2026</p>
+    <p class="footer-tagline">Preserving the myths and legends of humanity</p>
+  </footer>
+
+  <script src="js/shared-utils.js"></script>
+  <script src="js/citations.js"></script>
+  <script src="js/main.js"></script>
+  <script>
+    // Preload only the creatures and stories referenced by artifacts for
+    // cross-referencing in the artifact detail view. Data-driven from
+    // items.json: collects related creature/story slugs, groups by first
+    // letter, and loads only the needed by-slug shards.
+    (function() {
+      function loadBatch(type, letter) {
+        return fetch('data/sharded/' + type + '/by-slug/' + letter + '.json')
+          .then(function(r) { return r.json() })
+          .then(function(data) { return Array.isArray(data) ? data : data.items || [] })
+          .catch(function() { return [] })
+      }
+      function loadRefs(type, slugs) {
+        var letters = {}
+        slugs.forEach(function(slug) {
+          var ch = slug.replace(/^(the|a|an)-/, '')[0] || '_'
+          letters[ch] = true
+        })
+        var keys = Object.keys(letters)
+        if (keys.length === 0) return Promise.resolve([])
+        return Promise.all(keys.map(function(ch) {
+          return loadBatch(type, ch)
+        })).then(function(batches) {
+          return batches.reduce(function(acc, arr) { return acc.concat(arr) }, [])
+        })
+      }
+      window.__WL_PRELOAD = fetch('data/items.json')
+        .then(function(r) { return r.json() })
+        .then(function(items) {
+          var creatureSlugs = []
+          var storySlugs = []
+          items.forEach(function(item) {
+            if (item.related_creatures) creatureSlugs = creatureSlugs.concat(item.related_creatures)
+            if (item.featured_in_stories) storySlugs = storySlugs.concat(item.featured_in_stories)
+          })
+          return Promise.all([
+            loadRefs('creatures', creatureSlugs),
+            loadRefs('stories', storySlugs),
+          ])
+        })
+        .then(function(results) {
+          window.__FULL_CREATURES = results[0]
+          window.__FULL_STORIES = results[1]
+        })
+        .catch(function() {})
+    })();
+  </script>
+  <script type="module" src="js/items-viewer.js"></script>
+  <script src="js/rune-scatter.js" defer></script>
+  <script>if('serviceWorker' in navigator){navigator.serviceWorker.register('/sw.js')}</script>
+  <script src="js/theme-toggle.js" defer></script>
+<button id="scroll-to-top" class="scroll-to-top" aria-label="Scroll to top">
+  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true" focusable="false">
+    <path d="M18 15l-6-6-6 6"/>
+  </svg>
+</button>
+<div class="grain-overlay"></div>
+</body>
+</html>
