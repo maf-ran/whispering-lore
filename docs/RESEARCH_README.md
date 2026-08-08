@@ -39,9 +39,9 @@ Research is conducted via AI-assisted multi-pass web searches with academic sour
 ```
 Whispering Lore/
 ├─ data/datasets/creatures.json      — 3,668 creature entries
-├─ data/datasets/stories.json        — 1,719 story entries
+├─ data/datasets/stories.json        — 2,185 story entries
 ├─ data/sharded/                     — Shimmer manifest + region-based shards
-├─ data/geo-countries.json           — 243 country geodata
+├─ data/geo-countries.json           — 242 country geodata
 ├─ docs/                             — Research documentation
 │   ├─ RESEARCH_README.md            — This file
 │   ├─ RESEARCH_EXPERTS.md           — Folklore scholars reference

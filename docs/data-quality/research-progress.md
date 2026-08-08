@@ -1,7 +1,7 @@
 # Research Pipeline Progress
 
 
-**Last updated:** 2026-07-21
+**Last updated:** 2026-07-30
 **Target:** Move from unknown/unverified to verified source quality (T2.1) — COMPLETE
 
 
@@ -27,7 +27,7 @@
 
 ## Region-by-Region Verification Progress
 
-> **Note:** All regions are now 100% classified (source_type assigned to all 3,668 creatures). Source quality verification (known vs unknown) was completed Jul 2026.
+> **Note:** All regions are now 100% classified (source_type assigned to all 3,668 creatures). Source quality verification (known vs unknown) was completed Jul 2026. The Jul 28-29 expansion (+4 creatures) is included.
 
 | # | Region | Total | Known | Unknown | % Done | Priority |
 |---|--------|-------|-------|---------|--------|----------|

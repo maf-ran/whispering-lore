@@ -15,7 +15,7 @@ npm ci
 npm run lint
 npm run format
  
-# Run unit tests (141 tests, 10 suites)
+# Run unit tests (144 tests, 11 suites)
 npm test
 
 # Run cross-device E2E tests (80 tests, 8 viewports)
@@ -34,7 +34,7 @@ npx playwright test tests/e2e/cross-device-audit.spec.js --project=chromium
 - **Examination**: 1,071 quiz questions across 6 difficulty levels with 10 randomised variants.
 - **World Map**: Three.js globe with country-level creature and story counts.
 - **Cross-Reference Integrity**: 35,457 bidirectional links audited with 0 broken refs.
-- **Research Pipeline**: All 3,668 creatures and 1,719 stories classified by source_type and source_quality. Stage 3+ coverage: 99.0%.
+- **Research Pipeline**: All 3,668 creatures and 2,185 stories classified by source_type and source_quality. Stage 3+ coverage: 99.0% (of classified shard data).
 
 ## Run the site locally
 
@@ -50,12 +50,12 @@ npx serve -l 3000 --no-clipboard .
 | `*.html` | Static pages (index, bestiary, stories, world, about, mylore, quiz, methodology, 404) |
 | `css/styles.css` | Dark Nordic theme (Bone & Ash palette) |
 | `js/` | Vanilla JavaScript — 14 modules (see below) |
-| `data/datasets/` | Creature (3,668) and story (1,719) JSON datasets |
+| `data/datasets/` | Creature (3,668) and story (2,185) JSON datasets |
 | `data/datasets/by-region/` | Region-split creature JSONs (32 regions, stale — superseded by sharded/) |
 | `data/sharded/` | Shimmer shard system — manifest + region-based shards |
-| `data/geo-countries.json` | 243 country geodata for world map |
+| `data/geo-countries.json` | 242 country geodata for world map |
 | `docs/` | Project documentation |
-| `tests/` | Jest unit tests (141 tests, 10 suites) + Playwright E2E (8 spec files) |
+| `tests/` | Jest unit tests (144 tests, 11 suites) + Playwright E2E (8 spec files) |
 | `sw.js` | Service worker for offline caching |
 
 ### JavaScript modules (`js/`)
@@ -82,7 +82,7 @@ npx serve -l 3000 --no-clipboard .
 | Metric | Count | Stage 3+ |
 |--------|-------|----------|
 | Creatures | 3,668 | 100% (3,684 upgrade records across 43 batches) |
-| Stories | 1,719 | 97.1% (1,669 at Stage 3+; 50 fair/good — oral tradition limit) |
+| Stories | 2,185 | 97.1% (1,669 at Stage 3+; 50 fair/good — oral tradition limit) |
 | Countries | 212 | — |
 | Cross-refs | 35,457 | 0 broken |
 | Quiz questions | 1,071 | 10 variants each, 6 difficulty levels |
@@ -97,7 +97,7 @@ npx serve -l 3000 --no-clipboard .
 npm test
 ```
 
-10 suites: creatures viewer, stories viewer, quiz engine, daily feature, shared utils, globe, citations, region glyphs, viewer base, theme toggle. **141/141 pass.**
+11 suites: creatures viewer, stories viewer, quiz engine, daily feature, shared utils, globe, citations, region glyphs, viewer base, theme toggle. **144/144 pass.**
 
 ### Cross-device E2E (Playwright)
 

@@ -1,6 +1,6 @@
 # Story Source Quality Upgrade Plan
 
-> **STATUS: COMPLETE** (Jul 20, 2026) — All 67 batches executed. 1,669/1,719 stories at Stage 3+ (97.1%). 50 remaining are fair/good (oral tradition limit). This document is retained for reference.
+> **STATUS: SUPERSEDED** (Jul 20, 2026) — The upgrade plan covered 1,719 stories. The Jul 28-29 expansion added 466 stories (total now 2,185), and the source quality classification system was restructured. See `docs/COVERAGE.md` and `methodology.html` for current quality stats. This document is retained as historical reference only.
 
 **Goal:** Upgrade all stories below Stage 3+ to have academic source references, achieving 99%+ coverage across the dataset.
 
@@ -214,12 +214,16 @@ git push
 
 ---
 
-## Success Criteria
+## Success Criteria (as of Jul 20, 2026 — original 1,719-story dataset)
 
-- [x] All 1,669/1,719 stories at Stage 3+ (expert/verified/researched/well-documented) — 97.1%
+- [x] All 1,669/1,719 stories at Stage 3+ (97.1%)
 - [x] 0 stories with source_quality "unknown"
-- [x] 50 stories remaining at fair/good — oral tradition limit (dataset constraint)
+- [x] 50 stories remaining at fair/good — oral tradition limit
 - [x] 99.0% combined Stage 3+ coverage (5,331/5,387)
 - [x] All 141 Jest tests pass
 - [x] Methodology.html updated to 99.0%
 - [x] All commits pushed to GitHub
+
+> **Note:** The Jul 28-29 database expansion added 466 new stories
+> (current totals: 3,668 creatures, 2,185 stories). The source quality system was also
+> restructured. See `methodology.html` for current distributions.

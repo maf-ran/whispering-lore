@@ -1,8 +1,8 @@
 # Whispering Lore — Database Guide
 
-**Last updated:** 2026-07-21  
-**Scope:** `data/datasets/creatures.json` (3668 entries), `data/datasets/stories.json` (1719 entries)  
-**Coverage:** 212 countries, 32 cultural regions  
+**Last updated:** 2026-07-30  
+**Scope:** `data/datasets/creatures.json` (3668 entries), `data/datasets/stories.json` (2185 entries)  
+**Coverage:** 212 countries, 151 cultural regions  
 
 ---
 
@@ -23,7 +23,7 @@
 
 | Metric | Value |
 |--------|-------|
-| Total entries | 1719 |
+| Total entries | 2185 |
 | Unique countries | 89 |
 | Unique types | 14 (legend, myth, fairy-tale, etc.) |
 | Field count per entry | 14 |
@@ -32,8 +32,8 @@
 
 | Relationship | Count | Notes |
 |---|---|---|
-| Countries with both creatures & stories | 88 | Stories dataset covers 89 countries; 123 creature-only countries |
-| Stories referencing specific creatures | 1719/1719 | All stories now have creature cross-references |
+| Countries with both creatures & stories | 212 | Stories dataset covers 242 countries (some compound); 30 story-only countries |
+| Stories referencing specific creatures | 2062/2185 | 94% of stories have creature cross-references; 123 without are myth/legend types with no specific creature |
 | Story-creature refs matching creature names | Most match as type/category | Refs use generic terms like "spirit", "fairy", "ghost" |
 | Overlapping slugs | 270 slug groups affecting 621 creatures | Different countries share identical slugs — needs disambiguation |
 | Creatures in stories but not in dataset | ~20 generic refs | "bergsrå", "vodnik", "Yggdrasil" etc. are missing from creatures |
@@ -313,13 +313,13 @@ The ideal pattern: `slug-countrycode` (e.g. `anansi-ghana`, `anansi-jamaica`).
 |--------|---------|--------|--------|
 | Total creatures | 3668 | — | ✅ |
 | Countries | 212 | 212+ | ✅ |
-| Stories | 1719 | — | ✅ |
+| Stories | 2185 | — | ✅ |
 | Stories per country | ~4.5 | 10+ | 🔶 Stories dataset needs expansion |
 | Creature types | 991 | 40–50 | ❌ Needs consolidation |
 | Creature regions | 1296 | 100–150 | ❌ Needs consolidation |
 | Fields at 100% | 22/34 | 28/34 | 🔶 7 fields need population |
-| Stories with full_text | 1719/1719 | 100% | ✅ |
-| Stories with creature refs | 1719/1719 | 1719/1719 | ✅ |
+| Stories with full_text | 2185/2185 | 100% | ✅ |
+| Stories with creature refs | 2062/2185 | 2185/2185 | 🔶 123 stories lack creature refs |
 | Description avg length | 329 | 200–500 | ✅ Within range |
 | Habitat min length | 10 chars | 50+ chars | ❌ 86 entries too short |
 | Archetype populated | 45% | 100% | ❌ |

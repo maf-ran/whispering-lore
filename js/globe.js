@@ -323,9 +323,9 @@ function initGlobe() {
         mat.color.setHex(DOT_SELECTED)
         d.scale.set(1.6, 1.6, 1.6)
         selectedCountry = d.userData.name
+        const countryName = d.userData.name
+        const creatureCount = d.userData.creatureCount || 0
         if (getInfo()) {
-          const countryName = d.userData.name
-          const creatureCount = d.userData.creatureCount || 0
           const allCreatures = window.__FULL_CREATURES || []
           const allStories = window.__FULL_STORIES || []
 

@@ -2,7 +2,7 @@
 
 ## What the Project Is
 A **static, offline‑first web encyclopedia** of global folklore. It ships a curated collection of:
-- **1,719 stories** from 212 countries across 13 story types (myths, legends, fairy-tales, fables, horror, etc.).
+- **2,185 stories** from 212 countries across 13 story types (myths, legends, fairy-tales, fables, horror, etc.).
 - **3,668 mythical creatures** (the actual dataset in `data/datasets/creatures.json`).
 - Associated **metadata**: themes, morals, sources, periods, keywords, creature mentions, and regional tags.
 
@@ -28,7 +28,7 @@ Whispering Lore/
 │   ├─ region-glyphs.js              — Region-themed SVG glyphs
 │   └─ rune-scatter.js               — Hero rune animation
 ├─ data/datasets/creatures.json      — 3,668 creature entries (JSON)
-├─ data/datasets/stories.json        — 1,719 story entries (JSON)
+├─ data/datasets/stories.json        — 2,185 story entries (JSON)
 ├─ data/sharded/                     — Shimmer manifest + region-based shards for lazy loading
 ├─ sw.js                             — Service Worker – caches 16+ core assets for offline use
 ├─ sitemap.xml                       — SEO sitemap
@@ -75,7 +75,7 @@ Whispering Lore/
 | Metric | Value |
 |--------|-------|
 | Creatures | 3,668 |
-| Stories | 1,719 |
+| Stories | 2,185 |
 | Countries covered | 212 |
 | Regions | 32 |
 | Story Types | 13 |
