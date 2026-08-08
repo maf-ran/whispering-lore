@@ -52,3 +52,4 @@
 | pronunciation_ipa | string | ~14% | IPA pronunciation, e.g. "/tɔmte/" |
 | country_region | string | ~3% | Specific sub-region within country |
 | pronunciation_audio | string | 0% | Audio file URL for pronunciation |
+| related_items | string[] | sparse | Item slugs (from `data/items.json`) this creature is associated with (e.g. `fenrir.related_items = ["gleipnir"]`); default `[]` |

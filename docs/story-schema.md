@@ -16,6 +16,7 @@
 | moral | string | "With gifts come responsibilities." | Story moral/lesson |
 | keywords | string[] | list | Search keywords |
 | creatures | string[] | ["odin-norway","yggdrasil"] | Creature slugs referenced |
+| items | string[] | ["sampo"] | Item slugs (from `data/items.json`) featured in this story; additive, default absent/`[]` |
 | source | string | "Norse Mythology (Prose Edda)" | Collection/publication source |
 | source_type | string | "oral_tradition" | oral_tradition or literary |
 | source_quality | string | "unknown" | Reliability rating |

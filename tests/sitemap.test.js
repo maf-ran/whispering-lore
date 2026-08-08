@@ -3,7 +3,7 @@ const path = require('path');
 
 describe('Static files', () => {
   const root = path.resolve(__dirname, '..');
-  const files = ['index.html', 'about.html', 'bestiary.html', 'stories.html', 'world.html', 'quiz.html', 'mylore.html', 'methodology.html'];
+  const files = ['index.html', 'about.html', 'bestiary.html', 'items.html', 'stories.html', 'world.html', 'quiz.html', 'mylore.html', 'methodology.html'];
   const sitemapExcluded = ['404.html'];
 
   [...files, ...sitemapExcluded].forEach(f => {

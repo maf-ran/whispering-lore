@@ -1,5 +1,14 @@
 # Project Todos
 
+## Items & Artifacts Feature (Aug 8) — plan: docs/superpowers/plans/2026-08-08-items-artifacts.md
+- [x] T1 — items.json 20 seed + items-schema.md + items-data.test.js + creature/story back-refs (`c44eac6`, 160/160)
+- [x] T2 — js/items-viewer.js + viewer-base countLabel + tests/items-viewer.test.js (3 jsdom) + transform-esm.js (`195833e`, 163/163)
+- [x] T3 — items.html artifacts page (`f36b845`; preload race fix: `__WL_PRELOAD` by-slug shard loader awaited by items-viewer.init; attribution-card toggle)
+- [ ] T4 — citations.js isItem param + tests
+- [ ] T5 — nav/sitemap/SW/stats integration
+- [ ] T6 — research batches to ~150 items
+- [ ] T7 — optional e2e + final verification
+
 ## Latest (Aug 7)
 - [x] **DB RELATIONAL NORMALIZATION**: normalized all 5,866 legacy creature refs in `stories.json` (`troll-norway-1819` → `troll-norwegian`) to match canonical `creature.slug`s. 5,582/5,582 (100%) now resolve across 1,928 stories (1920 unique slugs) via `normalize-stories-creatures.mjs` (strip numeric suffix / `stub-` prefix / country prefix + 20 explicit variant overrides). Story detail "Featured Creatures" cards now render links. Removed 284 unmappable generic-* stubs (giant-generic-0004 etc.). Shards rebuilt.
 - [x] **FIELD COMPLETION 100%**: filled all 24 missing `appearance` + 25 missing `habitat` fields via `fill-missing-fields.mjs` (0 remaining). Covers unattested entries (honest "no canonical appearance recorded"), i.e. ñuhu Mixtec guardians, Tulafale orator-ghost, Yeay Lac, Matlazihua phantom, Curupira/Iara, Waaq, plus 25 NW Coast / Sami habitat fills.

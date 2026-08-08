@@ -1,9 +1,10 @@
-const CACHE_NAME = "whisperinglore-v1_0_5"
+const CACHE_NAME = "whisperinglore-v1_0_6"
 
 const CORE_ASSETS = [
   '/',
   '/index.html',
   '/bestiary.html',
+  '/items.html',
   '/stories.html',
   '/world.html',
   '/about.html',
@@ -11,6 +12,7 @@ const CORE_ASSETS = [
     '/js/main.js',
     '/js/creatures-viewer.js',
     '/js/stories-viewer.js',
+    '/js/items-viewer.js',
     '/js/viewer-base.js',
     '/js/shared-utils.js',
     '/quiz.html',
@@ -27,6 +29,7 @@ const CORE_ASSETS = [
     '/js/globe.js',
     '/js/citations.js',
     '/data/sharded/manifest.json',
+    '/data/items.json',
     '/og-image.svg',
     '/favicon.svg',
     '/images/placeholder-creature.svg',

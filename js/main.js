@@ -34,6 +34,18 @@
 
       const elRegions = document.getElementById('stat-regions')
       if (elRegions) elRegions.textContent = formatNum(regions)
+
+      const elArtifacts = document.getElementById('stat-artifacts')
+      if (elArtifacts && typeof fetch === 'function') {
+        fetch('data/items.json')
+          .then((r) => (r.ok ? r.json() : null))
+          .then((items) => {
+            if (items && Array.isArray(items) && items.length > 0) {
+              elArtifacts.textContent = formatNum(items.length)
+            }
+          })
+          .catch(function () {})
+      }
     } catch (e) {
       console.error('Failed to update global stats:', e)
     }
