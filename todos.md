@@ -4,9 +4,9 @@
 - [x] T1 — items.json 20 seed + items-schema.md + items-data.test.js + creature/story back-refs (`c44eac6`, 160/160)
 - [x] T2 — js/items-viewer.js + viewer-base countLabel + tests/items-viewer.test.js (3 jsdom) + transform-esm.js (`195833e`, 163/163)
 - [x] T3 — items.html artifacts page (`f36b845`; preload race fix: `__WL_PRELOAD` by-slug shard loader awaited by items-viewer.init; attribution-card toggle)
-- [ ] T4 — citations.js isItem param + tests
-- [ ] T5 — nav/sitemap/SW/stats integration
-- [ ] T6 — research batches to ~150 items
+- [x] T4 — citations.js isItem param + tests (`320b92f`; 12/12 citation, full 167/167)
+- [x] T5 — nav/sitemap/SW/stats integration (`63d8c3f`; ARTIFACTS links in 9 pages, sitemap/sw.js v1_0_6, #stat-artifacts on index+about, 168/168)
+- [x] T6 — research batches to ~150 items (3 batches applied: batch-1 35 Norse/Icelandic `02xx`, batch-2 48 Swedish `03xx`, batch-3 48 Norwegian/Danish `04xx`; total 151; backrefs via `research_items_phase1.py apply`, shards rebuilt, sw.js v1_0_7, 168/168)
 - [ ] T7 — optional e2e + final verification
 
 ## Latest (Aug 7)
