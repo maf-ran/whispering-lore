@@ -7,7 +7,7 @@
 - [x] T4 — citations.js isItem param + tests (`320b92f`; 12/12 citation, full 167/167)
 - [x] T5 — nav/sitemap/SW/stats integration (`63d8c3f`; ARTIFACTS links in 9 pages, sitemap/sw.js v1_0_6, #stat-artifacts on index+about, 168/168)
 - [x] T6 — research batches to ~150 items (3 batches applied: batch-1 35 Norse/Icelandic `02xx`, batch-2 48 Swedish `03xx`, batch-3 48 Norwegian/Danish `04xx`; total 151; backrefs via `research_items_phase1.py apply`, shards rebuilt, sw.js v1_0_7, 168/168)
-- [ ] T7 — optional e2e + final verification
+- [x] T7 — e2e + final verification (`a84f307`; items.html in DATA_PAGES+navLabels, Artifacts layout block 5×5, new items-viewer.spec.js 6 functional tests incl. search/cross-refs/deep-link/stats — 18/18 stable ×3; jest 168/168, lint no new errors; full e2e 385/414 — 29 pre-existing failures in comprehensive-audit/cross-device/layout-integrity/text-overflow, all reproduced on pre-items tree 8dc2e88)
 
 ## Latest (Aug 7)
 - [x] **DB RELATIONAL NORMALIZATION**: normalized all 5,866 legacy creature refs in `stories.json` (`troll-norway-1819` → `troll-norwegian`) to match canonical `creature.slug`s. 5,582/5,582 (100%) now resolve across 1,928 stories (1920 unique slugs) via `normalize-stories-creatures.mjs` (strip numeric suffix / `stub-` prefix / country prefix + 20 explicit variant overrides). Story detail "Featured Creatures" cards now render links. Removed 284 unmappable generic-* stubs (giant-generic-0004 etc.). Shards rebuilt.
