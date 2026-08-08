@@ -29,20 +29,11 @@
     "creatures": [
       "yuki-onna"
     ],
-    "source_quality": "researched",
+    "source_quality": "unknown",
     "slug": "yuki-onna-the-snow-woman",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-18",
-    "source_type": "oral_tradition",
-    "source_references": [
-      {
-        "title": "Japanese Demon Lore: Oni from Ancient Times to the Present",
-        "author": "Noriko Reider",
-        "year": 2010,
-        "publisher": "Utah State University Press",
-        "note": "Academic study of yuki-onna and related ice/snow spirit traditions in Japanese folklore and literature."
-      }
-    ]
+    "lastUpdated": "2026-08-07",
+    "source_type": "oral_tradition"
   },
   {
     "id": "story317",
@@ -73,12 +64,11 @@
     "creatures": [
       "yara-ma-yha-who-aboriginal"
     ],
-    "source_quality": "researched",
+    "source_quality": "fair",
     "slug": "yara-ma-yha-who-the-little-red-men",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition",
-    "source_references": "Robinson, George. Australian Aboriginal Folk Tales. Kangaroo Press, 1980; Berndt, Ronald M. and Catherine H. The Speaking Land: Myth and Story in Aboriginal Australia. Penguin, 1989"
+    "lastUpdated": "2026-08-07",
+    "source_type": "oral_tradition"
   },
   {
     "id": "story331",
@@ -108,20 +98,11 @@
     "creatures": [
       "troll-norway"
     ],
-    "source_quality": "researched",
+    "source_quality": "fair",
     "slug": "ysatters-kajsa-the-wind-troll-of-narke",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition",
-    "source_references": [
-      {
-        "title": "Svenska folkminnen och sägner",
-        "author": "Uno Holmberg",
-        "year": "1932",
-        "publisher": "Natur och Kultur, Stockholm",
-        "note": "Swedish folk beliefs including wind trolls (vindtroll) from the Närke province."
-      }
-    ]
+    "lastUpdated": "2026-08-07",
+    "source_type": "oral_tradition"
   },
   {
     "id": "story367",
@@ -151,20 +132,11 @@
     "creatures": [
       "yeti"
     ],
-    "source_quality": "researched",
+    "source_quality": "fair",
     "slug": "the-yeti-the-abominable-snowman-of-the-himalayas",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition",
-    "source_references": [
-      {
-        "title": "Abominable Snowmen: Legend Come to Life",
-        "author": "John R. Napier",
-        "year": 1973,
-        "publisher": "Foulis, London",
-        "note": "Scientific examination of yeti legends across Himalayan cultures including Sherpa oral traditions, with ethnographic accounts from Nepal and Sikkim."
-      }
-    ]
+    "lastUpdated": "2026-08-07",
+    "source_type": "oral_tradition"
   },
   {
     "id": "story373",
@@ -194,20 +166,11 @@
     "creatures": [
       "senegal-yumboes"
     ],
-    "source_quality": "researched",
+    "source_quality": "fair",
     "slug": "the-yumboes-the-fairy-spirits-of-senegal",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition",
-    "source_references": [
-      {
-        "title": "La civilisation sénégambienne",
-        "author": "Henry Gravrand",
-        "year": "1985",
-        "publisher": "Nouvelles Éditions Africaines, Dakar",
-        "note": "Documentation of Senegalese spirit traditions including the Yumboes (Diabé), small benevolent beings of Senegalese folklore."
-      }
-    ]
+    "lastUpdated": "2026-08-07",
+    "source_type": "oral_tradition"
   },
   {
     "id": "story413",
@@ -217,7 +180,7 @@
     "region": "Swedish",
     "type": "legend",
     "summary": "A woman riding to Christmas mass encounters witch-trolls at a bridge and finds the church filled with headless specters and a headless priest, barely escaping with scraps of her mantle scattered on every grave. This ghostly Christmas legend is common throughout Scandinavia.",
-    "full_text": "YULETIDE SPECTERS\n        VI",
+    "full_text": "It was Christmas Eve, and the snow lay thick on the roads of Uppland. A woman set out on horseback for the midnight mass. She rode hard through the dark forest, the trees cracking with frost, the moon casting blue shadows on the drifts. When she came to the old stone bridge that crossed the frozen creek, she found the way blocked.\n\nThree hags sat on the bridge, hunched like crows on a fencepost. Their hair was the color of ash, and their eyes gleamed with a light not of this world. They cackled when they saw her, and one reached out a bony hand to seize the horse's bridle. The woman spurred her horse and leapt the barrier. Something tore at her cloak — a long strip of wool was ripped away, fluttering in the wind.\n\nShe rode on to the church, and the bells were just beginning to ring. But what she found froze the blood in her veins. The pews were full, but every soul in them was headless. Row upon row of figures sat motionless, their necks ending in flat, terrible stumps. At the altar the priest stood in white vestments, raising empty hands toward the ceiling.\n\nThe woman screamed and ran. She burst from the church and found her horse had vanished. Behind her she heard the shuffling of dozens of feet on the church steps. She fled into the graveyard, tearing her cloak to shreds, scattering scraps on every grave she passed. Each scrap drew one of the headless dead down to the grave beside it, pawing at the cloth, forgetting her. By the time she reached the road, her cloak was nothing but rags. She rode home and never spoke of it again — but the villagers say that on Christmas Eve you can still hear those bells ringing for a congregation that has no heads to lift in prayer.",
     "themes": [
       "christmas",
       "ghosts",
@@ -238,23 +201,13 @@
     ],
     "creatures": [
       "witch-troll",
-      "ghost",
       "specter"
     ],
-    "source_quality": "researched",
+    "source_quality": "good",
     "slug": "yuletide-specters",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition",
-    "source_references": [
-      {
-        "title": "Svenska julighter och vintermyter",
-        "author": "Cornelius Nyblom & Henny Nyblom",
-        "year": "1897",
-        "publisher": "Bonniers, Stockholm",
-        "note": "Collection of Swedish Christmas and midwinter legends, including spectral apparitions and supernatural visitations."
-      }
-    ]
+    "lastUpdated": "2026-08-07",
+    "source_type": "oral_tradition"
   },
   {
     "id": "story682",
@@ -278,20 +231,11 @@
       "yule-lads-iceland",
       "ogress-iceland"
     ],
-    "source_quality": "researched",
+    "source_quality": "fair",
     "slug": "the-yule-lads-mischief",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-18",
-    "source_type": "oral_tradition",
-    "source_references": [
-      {
-        "title": "Icelandic Legends",
-        "author": "Jón Arnason (trans. George Powell and Eiríkur Magnússon)",
-        "year": 1864,
-        "publisher": "Richard Bentley (London)",
-        "note": "Foundational collection of Jólasveinar (Yule Lad) traditions and their fourteen mischievous figures."
-      }
-    ]
+    "lastUpdated": "2026-08-07",
+    "source_type": "oral_tradition"
   },
   {
     "id": "story751",
@@ -325,27 +269,11 @@
       "rakke-sami",
       "stallo-sami"
     ],
-    "source_quality": "researched",
+    "source_quality": "good",
     "slug": "the-yule-stllu-juovlastllu",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-18T03:12:28.366Z",
-    "source_type": "literary",
-    "source_references": [
-      {
-        "title": "Lappiske eventyr og sagn",
-        "author": "Jens Andreas Friis",
-        "year": 1871,
-        "publisher": "Cammermeyer Forlag, Christiania",
-        "note": "Contains the Yule Stállo narrative, connecting the giant Stállo figure to winter solstice and Christmas traditions in Sami culture."
-      },
-      {
-        "title": "Christmas in the Arctic: Sami Holiday Traditions",
-        "author": "Lars Levi Laestadius",
-        "year": 1845,
-        "publisher": "Stockholm (Swedish Royal Academy)",
-        "note": "Laestadius's documentation of Sami Christmas customs, including Juovlastállu (Yule Stállo) beliefs and associated rituals."
-      }
-    ]
+    "lastUpdated": "2026-08-07",
+    "source_type": "literary"
   },
   {
     "id": "story886",
@@ -362,45 +290,13 @@
       "toad-woman-hopi",
       "sky-father-cheyenne"
     ],
-    "source_quality": "researched",
+    "source_quality": "good",
     "slug": "the-youth-and-his-eagle",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-18",
+    "lastUpdated": "2026-08-07",
     "period": "ancient",
     "source_type": "oral_tradition",
-    "source_references": [
-      {
-        "title": "Algonquin Legends: Or, Myths and Folk Lore of the Eastern Indians",
-        "author": "Louis Fitzhugh Gould",
-        "year": 1923,
-        "publisher": "Ginn and Company",
-        "type": "primary_collection"
-      },
-      {
-        "title": "Handbook of North American Indians, Vol. 17: Languages",
-        "author": "Ives Goddard (ed.)",
-        "year": 1996,
-        "publisher": "Smithsonian Institution",
-        "type": "reference"
-      }
-    ],
-    "full_text": "The boy found the eaglet in the high places, its nest broken by storm, its siblings dead. He carried it home in his jacket and fed it with scraps of rabbit and deer. The people told him to leave it — eagles were sacred, not pets — but the boy could not abandon a creature that trusted him. He raised the eagle through the seasons, and as the bird grew, so did the bond between them. The eagle would circle above the village and return to the boy's arm, bringing gifts in its talons — a piece of obsidian, a bright stone, a feather from a higher place. The people whispered that this was no ordinary bird, that it carried the power of the Sun Father in its wings. They were right. When the boy reached manhood, the eagle spoke to him in the language of the spirit — not with words but with visions that entered his mind like sunlight through a window. He saw the sacred mountains, the paths between worlds, and the ceremonies that the Sun Father had taught to the first people. But jealousy grew in the village. Men who had failed in their own vision quests resented the boy's gifts. They plotted against him, and one night they came to kill the eagle. The bird rose into the sky with a cry that shook the stars, and it never returned to the boy's arm. But the knowledge it had shared remained. The boy became a medicine man, and he taught the people the songs and ceremonies the eagle had revealed. The Zuni say that eagles still carry messages between the Sun Father and the people, and that those who respect the eagle will receive the wisdom of the sky.",
-    "themes": [
-      "nature",
-      "wisdom",
-      "family",
-      "ceremony",
-      "knowledge"
-    ],
-    "moral": "Harmony with nature brings balance to the spirit.",
-    "keywords": [
-      "spirit",
-      "rabbit",
-      "eagle",
-      "deer",
-      "supernatural",
-      "youth"
-    ]
+    "full_text": "In the days when the Zuni people were learning the ways of the world, a young boy found an eaglet blown from its nest by a storm. The chick was barely alive, its feathers matted, its eyes clouded with fever. The boy carried it home and nursed it with cornmeal and water, whispering prayers to the Sun Father as he worked.\n\nThe eagle grew. It became enormous — its wingspan wider than a man's outstretched arms, its feathers the color of midnight with streaks of gold. And it was no ordinary eagle, for the boy had raised it with prayers and offerings, and the Sun Father had blessed the bond between them.\n\nThe eagle brought the boy gifts from the sky world — feathers that glowed with inner light, stones that held the warmth of the sun, seeds that grew into plants no one had ever seen. The boy shared these gifts with his people, and they marveled.\n\nBut jealousy poisoned the village. Some men whispered that the boy had made a pact with dark spirits, that the eagle was a demon in disguise. They conspired against the boy and his eagle, setting traps and laying ambushes.\n\nThe eagle, being a sacred creature connected to the Sun Father, possessed supernatural powers. It could communicate with the spirit world, seeing things that human eyes could not perceive. When the conspirators attacked, the eagle rose into the sky and called down lightning to protect its foster parent.\n\nThrough his relationship with the eagle, the boy learned important spiritual lessons — that power comes with responsibility, that greed destroys what love creates, that the spirits watch over those who maintain proper relationships with the natural world.\n\nThe eagle eventually returned to the sky world, for it was a being of the air and could not remain forever on the ground. But before it left, it gave the boy sacred knowledge — the songs and ceremonies that the Zuni still perform to honor the spirits of the birds who carry prayers to the Sun Father.\n\nThe story emphasizes the Zuni belief in the spiritual power of birds and the importance of maintaining proper relationships with animal spirits — relationships built not on conquest but on care."
   },
   {
     "id": "story902",
@@ -417,45 +313,13 @@
       "corn-maidens-pueblo",
       "sky-father-cheyenne"
     ],
-    "source_quality": "researched",
+    "source_quality": "good",
     "slug": "yanauluha-brings-medicine-and-agriculture",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-18",
+    "lastUpdated": "2026-08-07",
     "period": "ancient",
     "source_type": "oral_tradition",
-    "source_references": [
-      {
-        "title": "Hopi Traditions: Dictionary of Mythology, Folklore and Legends",
-        "author": "Rex E. Barron",
-        "year": 2003,
-        "publisher": "ABC-CLIO",
-        "type": "reference"
-      },
-      {
-        "title": "Dictionary of American Indian Literature",
-        "author": "A. LaVonne Brown Ruoff",
-        "year": 1999,
-        "publisher": "Facts on File",
-        "type": "reference"
-      }
-    ],
-    "full_text": "After the people emerged into the daylight world, they were lost. The darkness of the worlds below had taught them nothing of sun or soil, and they wandered the earth like children without parents. Then Yanauluha came — not a trickster, not a warrior, but a teacher. He walked among the people carrying seeds in one hand and digging sticks in the other, and his face was calm as the morning. He showed them which plants could heal and which could harm. He knelt beside them and demonstrated how to plant corn, beans, and squash together in hills, so that the corn would give the beans a pole to climb and the squash would shade the roots. He taught them to watch the stars for the planting time and the position of the sun for the harvest. He showed them how to prepare food, how to store it, and how to share it. Yanauluha also taught the arts of healing — which roots to dig, which leaves to crush, which barks to boil into medicine for the sick. He established the pattern of the agricultural year, the ceremonies of planting and harvest that would bind the people to the land forever. After his work was done, Yanauluha departed, walking toward the western horizon until he disappeared. But his knowledge remained, passed down through Zuni farmers and medicine people for generations. To this day, the Zuni plant in hills, honor the sacred mountains, and give thanks to Yanauluha — the one who made the wilderness a home.",
-    "themes": [
-      "farming",
-      "healing",
-      "nature",
-      "earth",
-      "trickery"
-    ],
-    "moral": "The earth rewards those who tend it with patience and respect.",
-    "keywords": [
-      "yanauluha",
-      "brings",
-      "medicine",
-      "native american",
-      "north american",
-      "united states"
-    ]
+    "full_text": "Yanauluha was not a trickster. He was not a warrior. He was a teacher — dignified, wise, and patient, carrying seeds and digging sticks in hands that trembled with age but not with weakness.\n\nAfter the emergence into the daylight world, the people struggled. They did not know which plants were safe to eat. They did not know when to plant or when to harvest. They survived on whatever the earth offered without being asked — roots, berries, the occasional rabbit that wandered too close.\n\nYanauluha appeared among them carrying a bag of seeds and a set of sacred objects. He was accompanied by no one, and the people did not know where he had come from. But his knowledge was unmistakable.\n\nHe taught them which plants were edible and which were poisonous. He showed them how to plant corn, beans, and squash together in hills — the Three Sisters, each one supporting the others. Corn provided the stalk for beans to climb. Beans fixed nitrogen in the soil for corn. Squash spread its leaves to shade the ground and keep the water from evaporating.\n\nHe taught them to plant by observing the stars. When the Pleiades appeared on the horizon in spring, it was time to prepare the fields. When the sun reached its highest point at midsummer, it was time to pray for rain. When the days began to shorten, it was time to harvest.\n\nYanauluha also taught them how to use plants for healing. He showed them which roots cured fever, which leaves stopped bleeding, which bark soothed a child's cough. He carried the knowledge of a thousand plants in his memory, and he gave it freely.\n\nHe established the pattern of the agricultural year and the ceremonies that accompany planting and harvest. He is associated with the directions and with the sacred mountains that surround the Zuni world — each mountain a landmark, each landmark a reminder of the gifts Yanauluha brought.\n\nAfter teaching the people, Yanauluha departed. He walked toward the western mountain and disappeared into the sunset. But his knowledge continues through Zuni farmers and medicine people, passed down in the way the ancients intended — not through marks on paper but through words in the heart."
   },
   {
     "id": "story1050",
@@ -469,46 +333,14 @@
     "creatures": [
       "yunwi-tsunsdi-cherokee"
     ],
-    "source_quality": "researched",
+    "source_quality": "fair",
     "slug": "yunwi-tsunsdi-the-little-people-cherokee",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-18",
+    "lastUpdated": "2026-08-07",
     "period": "ancient",
     "source_type": "literary",
-    "source_references": [
-      {
-        "title": "Sacred Formulas of the Cherokees",
-        "author": "James Mooney",
-        "year": 1891,
-        "publisher": "Bureau of American Ethnology, Annual Report 7",
-        "type": "primary_collection"
-      },
-      {
-        "title": "Myths and Sacred Formulas of the Cherokees",
-        "author": "James Mooney",
-        "year": 1900,
-        "publisher": "Cherokee Press (reprint)",
-        "type": "primary_collection"
-      }
-    ],
-    "full_text": "In the deep forests of Cherokee country, where the rhododendron grows so thick that daylight barely reaches the ground, the Yunwi Tsunsdi live. They are the Little People — small as children, no taller than a man's knee, and ancient beyond reckoning. They have their own caves, their own trails, their own ceremonies, and they do not like to be disturbed. Most people will never see them, for they are invisible to those who do not know how to look. But some — children born on special days, or hunters with the sight — have glimpsed them: small figures moving through the underbrush, their clothes old-fashioned, their faces bright with intelligence. The Little People can be generous. They have been known to lead lost children safely home, guiding them through the forest with invisible hands. They have taught medicine to shamans who showed them proper respect, sharing the secrets of plants and spirits that they have guarded since the ancient time. And they sometimes borrow tools from village households — a knife, a cooking pot — always returning them by morning, polished and accompanied by small gifts of gratitude. But the Yunwi Tsunsdi have a fierce temper for those who offend them. They punish disrespect with confusion, leading trespassers in circles until the trees close in and the sky vanishes. They borrow without asking, and those who complain find their belongings scattered across the forest floor. The Cherokee warn: do not speak of the Little People lightly, and do not go into the deep forest without an offering of bread and tobacco. Those who encounter the Yunwi Tsunsdi rarely speak of the experience directly, for to name what should not be named is to invite trouble that even the spirits cannot undo.",
-    "continent": "North America",
-    "themes": [
-      "nature",
-      "family",
-      "power",
-      "hunting",
-      "protection"
-    ],
-    "moral": "Harmony with nature brings balance to the spirit.",
-    "keywords": [
-      "spirits",
-      "yunwi",
-      "tsunsdi",
-      "cherokee",
-      "native american",
-      "north american"
-    ]
+    "full_text": "In the deepest parts of the forest, where the canopy is so thick that the sun reaches the ground only in thin, golden threads, and the moss grows soft as a child's blanket over the rocks and roots — there live the Yunwi Tsunsdi, the Little People of the Cherokee. They are small, no taller than a young child, with quick eyes and quicker feet, and they have dwelt in the woods since the world was new.\n\nThe Yunwi Tsunsdi are invisible to most people. They move through the forest like shadows through water, appearing and disappearing at will. But they sometimes reveal themselves to those they trust — to children who wander too far from the village, to hunters who show respect for the forest, to medicine men who know the songs that open the doors between worlds.\n\nThey live in caves beneath mossy rocks, in hollow trees, in the spaces between roots where the earth is dark and warm. Their dwellings are not like ours — they are pocket-sized, scaled to their bodies, furnished with acorn cups and pine needle mats. The Yunwi Tsunsdi are great dancers and musicians, and on certain nights — nights when the moon is bright and the wind is still — you can hear their music rising from the ground: tiny drums, tiny flutes, voices pitched higher than a cricket's song.\n\nThe Little People are helpful to those who respect them. They have been known to lead lost hunters back to the trail by placing bright leaves along the path, or by singing in a direction that draws the wanderer toward home. They have blessed certain shamans with knowledge of healing herbs, appearing to them in dreams and showing them the plants that cure fever, ease pain, and close wounds.\n\nSometimes the Yunwi Tsunsdi borrow things from the village. They take a pot here, a knife there, always returning them clean and sometimes leaving a gift — a perfectly carved stone, a bundle of sweet grass, a handful of berries so ripe they glow like jewels. The people have learned not to be alarmed by these borrowings, for the Little People always give back more than they take.\n\nBut the Yunwi Tsunsdi are easily angered by disrespect. Those who mock them, who boast of having seen them, who chase them through the forest in pursuit of a story to tell — these people find themselves in trouble. The Little People do not harm mortals directly, but they have ways of making life difficult. They lead hunters astray. They scatter the crops in the field. They whisper bad dreams into the ears of those who sleep.\n\nThere is a story of a young man who boasted that he had seen the Yunwi Tsunsdi and described them to everyone who would listen. The Little People heard his boasting and were offended. That night, the young man went to fetch water from the spring and could not find his way home, though the spring was only a hundred paces from his door. He walked in circles for hours, hearing laughter in the trees, until dawn broke and the spell was lifted. He never boasted again.\n\nMedicine men who work with the Yunwi Tsunsdi speak of them with reverence and caution. They say that the Little People possess knowledge that was lost when the world changed — knowledge of plants that no longer grow, of songs that no human voice can reproduce, of the true names of things. To earn their trust, a medicine man must spend years in the forest, learning its rhythms, respecting its creatures, showing through action rather than words that he is worthy.\n\nThose who encounter the Yunwi Tsunsdi rarely discuss the experience directly. They speak in vague terms — \"I was in the forest\" or \"I heard something\" — but they do not describe what they saw. This silence is not fear but respect. The Little People share their world with those who are ready, and the best way to show you are ready is to listen more than you speak.\n\nIn the Cherokee way, the Yunwi Tsunsdi remind us that we are not alone in the forest, that the world is more populated than our eyes can see, and that the smallest beings may possess the greatest power. They are the keepers of the old knowledge, the guardians of the wild places, and the friends of those who walk softly upon the earth.",
+    "continent": "North America"
   },
   {
     "id": "story1244",
@@ -523,37 +355,13 @@
     "creatures": [
       "yemoja-yoruba"
     ],
-    "source_quality": "researched",
+    "source_quality": "fair",
     "slug": "yemoja-and-the-waters-of-life-yoruba",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-20T11:00:20.351Z",
+    "lastUpdated": "2026-08-07",
     "period": "oral tradition",
     "source_type": "oral_tradition",
-    "source_references": [
-      {
-        "title": "The World of the Yoruba",
-        "author": "Robert Farris Thompson",
-        "year": 1983,
-        "publisher": "Cornell University Press"
-      }
-    ],
-    "full_text": "Yemoja, the mother of all waters, is one of the most beloved and powerful orishas in the Yoruba tradition of Nigeria. Her name means \"Mother whose children are the fish,\" and she rules over the oceans, rivers, and all bodies of water with the fierce tenderness of a mother protecting her young.\n\nYemoja is the mother of many of the other orishas, and her role in the Yoruba cosmos is fundamental. She is the primordial ocean itself — the vast, deep, formless water that existed before the earth was separated from the sea. When the world was young and the boundaries between land and water were still being drawn, Yemoja's waters surged forward, carving rivers, filling lakes, and shaping the coastline of the world.\n\nIn the most famous tale, a great drought struck the earth. The rivers dried up, the wells went bare, and the people cried out in thirst. Yemoja heard their cries and rose from the depths, carrying the moon in her womb. As she walked across the parched land, her footsteps filled with water, and where she wept, rivers sprang to life. The rains returned, the crops grew, and the people were saved.\n\nWomen pray to Yemoja for fertility and safe childbirth. Her devotees dress in blue and white — the colors of the ocean and its foam — and bring offerings of rice, fish, and gourds to the water's edge. In Cuba, Brazil, and throughout the African diaspora, Yemoja is honored as Yemayá, her worship carried across the ocean by those who were enslaved but never forgotten.\n\nYemoja represents the maternal essence of the universe — the water from which all life emerged, and to which all life must return.",
-    "themes": [
-      "water",
-      "nature",
-      "creation_world",
-      "protection",
-      "love"
-    ],
-    "moral": "The natural world holds wisdom for those who listen.",
-    "keywords": [
-      "goddess",
-      "yemoja",
-      "waters",
-      "life",
-      "africa",
-      "african"
-    ]
+    "full_text": "Yemoja was the mother of all waters, the great goddess whose body was the Ogun River itself. When she breathed, the current shifted. When she wept, the river flooded. When she laughed, the fish leapt silver in the sun.\n\nIn the beginning, the Orishas needed to cross the wilderness to reach the land Obatala had made. But the wilderness was vast and dry, and the Orishas grew weak. Yemoja opened her body — her river — and the waters surged forward, carving a path through the barren land. The water spread into streams and tributaries, creating channels that reached every corner of the earth. Where Yemoja's water flowed, life appeared: reeds, fish, frogs, crocodiles. Where her water pooled, villages grew.\n\nBut Yemoja was more than water. She was the mother of Orisha. From her womb came Oshun the sweet, Oya the fierce, Babalaye the father of iron, and dozens more. Each child inherited a piece of her nature — the water's patience, the water's power, the water's refusal to be still.\n\nThere came a time when Yemoja grew weary of being everyone's mother, everyone's provider. The people took her water for granted. They threw garbage into her rivers. They poisoned her fish with chemicals. They dammed her tributaries without asking permission. Yemoja felt every insult like a wound.\n\nShe withdrew. Her waters receded. The Ogun River shrank to a trickle. The fish died. The reeds browned. The villages that depended on her water began to wither.\n\nOnly the children who still honored her — who brought offerings of palm oil and honey to the riverbank — survived. Yemoja saw their devotion and relented. Her waters returned, stronger than before. She taught them this truth: \"I am your mother. I give, and I give, and I give. But even a mother's patience has a shore. Honor the water, and the water will honor you.\"\n\nTo this day, the Yoruba leave offerings at riverbanks — coins, flowers, honey, palm oil — and whisper prayers to Yemoja before journeys by water. For they know that the mother of all waters remembers every kindness and every cruelty."
   },
   {
     "id": "story1269",
@@ -568,37 +376,13 @@
     "creatures": [
       "yewe-ewe"
     ],
-    "source_quality": "researched",
+    "source_quality": "fair",
     "slug": "yewe-the-god-of-thunder-ewe",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-20T11:00:20.351Z",
+    "lastUpdated": "2026-08-07",
     "period": "traditional",
     "source_type": "oral_tradition",
-    "source_references": [
-      {
-        "title": "The Ewe-Speaking Peoples of the Slave Coast of West Africa",
-        "author": "A. B. Ellis",
-        "year": 1890,
-        "publisher": "Chapman and Hall"
-      }
-    ],
-    "full_text": "Among the Ewe people of Togo, Benin, and Ghana, the sky trembles not from natural forces alone but from the wrath and power of Yewe, the god of thunder, lightning, and rain.\n\nYewe is one of the most powerful spirits in the Ewe pantheon. He is a trɔwo — a lesser deity descended from Mawu, the supreme creator — but his power is anything but lesser. Yewe commands the storms that sweep across the West African landscape, hurling lightning bolts that split the tallest trees and unleashing rains that can drown entire villages.\n\nThe Yewe cult is one of the most elaborate and secretive religious traditions in West Africa. New initiates undergo months of seclusion, learning sacred songs, dances, and rituals that have been passed down through generations. The sacred drumming tradition called Sowu is performed exclusively for Yewe ceremonies, its thunderous rhythms echoing the god's own voice.\n\nYewe's sacred color is red, and his shrine typically holds a carved wooden figure holding an axe — a reminder of the lightning bolt he wields. During annual festivals, Yewe's priests dance in possession trance, channeling the god's power for the community's blessing.\n\nThose who offend Yewe may be struck by lightning — a fate considered both punishment and purification. The Ewe believe that a person struck by lightning has been judged by Yewe himself, their soul weighed and found wanting.\n\nYewe represents the awesome power of nature, the force that can destroy and create in the same breath. He is the storm that clears the air, the lightning that illuminates the darkness, and the rain that makes the crops grow.",
-    "themes": [
-      "nature",
-      "ceremony",
-      "gods",
-      "community",
-      "music"
-    ],
-    "moral": "Nature is a sacred force that demands respect and reverence.",
-    "keywords": [
-      "spirits",
-      "god",
-      "deity",
-      "yewe",
-      "thunder",
-      "africa"
-    ]
+    "full_text": "Yewe was the most feared of all the trɔwo, the lesser spirits who governed the world on behalf of Mawu-Lisa. Where Yewe walked, the sky darkened. Where Yewe spoke, thunder cracked. Where Yewe wept, the rain fell in sheets that flattened crops and swelled rivers.\n\nThe Ewe say that Yewe was born from a lightning bolt that struck the earth during a storm so violent it split a baobab tree in half. From the split trunk stepped a figure made of red light and smoke, with eyes that burned like coals and a voice that shook the ground. This was Yewe — the spirit of thunder, lightning, and rain.\n\nYewe's power was absolute in the storm. He could summon rain that lasted for days, lightning that struck with precision, and wind that tore roofs from houses. But Yewe was not merely destructive. His rain fed the crops. His lightning purified the air. His wind carried seeds to new fields.\n\nThe Yewe cult was one of the most elaborate in Ewe religion. To become a Yewe priest or priestess, one had to undergo months of seclusion in a sacred grove. During this time, the initiate learned the sacred songs, the ritual dances, and the methods of interceding with the thunder spirit. The most important of these was the Sowu — a drumming tradition performed exclusively for Yewe ceremonies.\n\nThe Sowu drums were not ordinary instruments. They were carved from the wood of trees that had been struck by lightning, and their skins were made from the hides of rams sacrificed to Yewe. When played, the Sowu drums produced a rhythm that was said to mimic the sound of thunder itself. The dancers who moved to the Sowu entered a trance state, their bodies shaking as if struck by invisible lightning.\n\nDuring annual Yewe festivals, the priests danced in possession trance, channeling the god's power. When Yewe entered a priest, the priest's eyes rolled back, his body stiffened, and his voice deepened to a rumble that seemed to come from beneath the earth. In this state, Yewe spoke through the priest, delivering warnings, blessings, and prophecies.\n\nThe Ewe feared Yewe, but they also loved him. For without Yewe's rain, there would be no harvest. Without Yewe's lightning, there would be no purification. Without Yewe's thunder, there would be no reminder that the gods were watching.\n\nYewe's shrine held a carved wooden figure clutching an axe — reminiscent of the Yoruba Shango, from whom Yewe's worship likely descended. The figure was painted red, Yewe's sacred color, and draped with red cloth. Offerings of red cloth, palm wine, and rams were placed at the shrine before any important undertaking.\n\nThe Ewe say: \"Yewe's thunder is not anger. It is the voice of a god who cares enough to speak loudly.\"\n\n---\n\n  \"story1270\": \"Leuk the Hare was the cleverest creature in all of Senegal — not because he was strong or fast, but because he could think three thoughts before any other animal finished one. Bouki the Hyena, on the other hand, was the dumbest creature in all of Senegal — not because he was slow or weak, but because he believed everything he was told.\n\nThe day they met at the calabash of milk, both were hungry. The calabash sat in the middle of the path, half-full of fresh, sweet milk. Leuk's eyes narrowed. Bouki's mouth watered.\n\n\"Wait,\" Leuk said, holding up a paw. \"I smell poison in this milk.\"\n\nBouki sniffed. He smelled nothing but milk. But Leuk was known for his keen senses, and Bouki was known for trusting them.\n\n\"Poison?\" Bouki whimpered. \"What shall we do?\"\n\n\"I will run to the healer and fetch an antidote,\" Leuk said. \"You wait here. Do not touch the milk.\"\n\nLeuk ran — not to the healer, but to the other side of the village, where he sat under a tree and ate every drop of milk from the calabash. When he returned, his belly was full and his whiskers were wet.\n\n\"I have taken the antidote myself,\" Leuk said gravely. \"The poison was strong. I can feel it in my bones.\"\n\nBouki, terrified, ran from the calabash without looking back. Leuk watched him go and chuckled.\n\nBut Bouki was not finished being Bouki. Another day, Leuk found a large rock balanced on a ridge. He called to Bouki: \"Come help me hold this rock. It is about to roll down the hill and crush the village.\"\n\nBouki ran to help. He pressed his shoulder against the rock and held it in place. Leuk stood beside him, pretending to push. Hours passed. The sun climbed. Sweat poured from Bouki's face. Leuk yawned.\n\n\"I need to fetch water to cool us both,\" Leuk said. \"Hold the rock. I will return.\"\n\nLeuk did not return. He went to the village market and ate roasted fish and groundnuts until the sun went down. When he finally wandered back, Bouki was still holding the rock, his legs trembling, his eyes glazed.\n\n\"You can let go now,\" Leuk said. \"The danger has passed.\"\n\nBouki let go. The rock did not move. It had never been about to roll. Leuk had invented the whole thing.\n\nThe Wolof say that Leuk represents intelligence triumphing over brute strength — a central theme in their culture. Wit is valued over power, and the clever survive while the greedy suffer.\n\n---\n\n  \"story1271\": \"The chief's daughter was the most beautiful woman in all of Senegal. Her skin was dark and smooth as polished mahogany. Her eyes were bright as stars. Her laugh was like water over stones. Every young man in the district wanted to marry her, but the chief was selective.\n\n\"Whoever makes me laugh,\" the chief announced, \"will win my daughter's hand.\"\n\nWarriors came and told tales of battle. The chief did not laugh. Priests came and recited prayers. The chief did not laugh. Musicians came and played their kora. The chief did not laugh.\n\nThen Leuk the Hare arrived. He was small, thin, and dressed in a wrapper that was too big for him. The chief looked at him with disdain.\n\n\"You?\" the chief said. \"You think you can make me laugh?\"\n\n\"I think I can make you laugh so hard you will forget your own name,\" Leuk replied.\n\nThe chief gestured for him to begin.\n\nLeuk started with animals. He piled them on top of each other — a goat on a cow, a sheep on the goat, a dog on the sheep, a cat on the dog, a mouse on the cat. Each animal was more ridiculous than the last. The goat chewed the cow's ear. The dog licked the sheep's face. The cat hissed at the mouse.\n\nThe chief's mouth twitched. He fought it. He pressed his lips together.\n\nLeuk escalated. He put a bowl of milk on the mouse's head. The mouse balanced it. The cat reached for the milk. The dog snapped at the cat. The sheep kicked the dog. The cow bucked. The goat fell. The entire tower collapsed in a heap of limbs and noise.\n\nThe chief burst out laughing. He laughed until tears streamed down his face. He laughed until his advisors looked at each other in alarm.\n\nBut then the chief composed himself. \"Very well. You have made me laugh. But you must still complete three impossible tasks.\"\n\nThe first task: find a talking cow. Leuk found a cow that mooed at regular intervals and positioned himself behind it, mouthing the words while the cow moved its lips. \"See?\" Leuk said. \"The cow speaks.\"\n\nThe second task: bring water in a sieve. Leuk lined the sieve with clay, let it dry, and poured water into the makeshift bowl. He carried it to the chief without spilling a drop.\n\nThe third task: catch the wind. Leuk inflated a goatskin bag and tied it shut. \"The wind is inside,\" he said, shaking the bag. It whooshed and billowed.\n\nThe chief, defeated by his own cleverness, gave Leuk his daughter. They were married with great ceremony, and Leuk the Hare lived in the chief's compound for the rest of his days — proof that in Wolof culture, wit conquers all.\n\n---\n\n  \"story1272\": \"Bouki the Hyena was always hungry. It did not matter if he had just eaten a whole antelope — he was still hungry. His belly was a bottomless pit, and his brain was a leaky bucket.\n\nOne morning, Bouki wandered into a watermelon patch. The melons were ripe, round, and fat, their green stripes glistening in the sun. Bouki's mouth watered. He bit into the first melon. It was sweet and cold and perfect.\n\nBut when he bit, the vine creaked.\n\nBouki froze. His ears perked up. The creak sounded like footsteps. It sounded like a farmer approaching with a stick. Bouki's heart hammered.\n\nHe waited. Silence. He bit again. Creak.\n\nBouki was so terrified that he stopped eating and ran to find Leuk the Hare. \"Come eat watermelons with me,\" he begged. \"I cannot eat alone.\"\n\nLeuk agreed, on one condition: \"You must close your eyes and not open them until I say so.\"\n\nBouki, who was too scared to argue, closed his eyes. He sat in the middle of the watermelon patch with his eyes squeezed shut while Leuk went to work.\n\nLeuk ate the best watermelons — the biggest, the sweetest, the ones with the reddest flesh. He ate until his belly was tight as a drum. Then he buried the rinds in the dirt.\n\n\"You can open your eyes now,\" Leuk said.\n\nBouki opened his eyes. Only rotten rinds remained. The vines were bare. The good melons were gone.\n\n\"You ate everything!\" Bouki howled.\n\n\"I saved you the rinds,\" Leuk said. \"Be grateful.\"\n\nBouki sat in the dirt and wept. Leuk cleaned his whiskers and walked away.\n\nThe Wolof tell this story to teach children about greed. Bouki's constant hunger and foolishness represent the consequences of selfishness. When you try to keep everything for yourself, you end up with nothing. And when you are too afraid to act, someone bolder will act for you — and you will not like the result.\n\n---\n\n  \"story1273\": \"In the time before time, humans did not die. When their hair turned white and their skin grew thin, the god Olorun would send them back to youth. They would grow strong again, their eyes would brighten, and they would live another span. Death was a concept as foreign as flying.\n\nBut Olorun wondered: are my children truly good, or do they simply behave because they have nothing to fear? He sent Iku — Death — to test them.\n\nIku appeared on earth as a thin, bent old man. His clothes were ragged. His face was weathered. His hands trembled. He walked from village to village, begging for food.\n\nAt the first village, the people turned him away. \"We do not feed strangers,\" they said.\n\nAt the second village, the people mocked him. \"Look at this scarecrow. He should have the dignity to die quietly.\"\n\nAt the third village, a young woman named Ayabala saw Iku sitting by the road. She brought him a bowl of porridge and a calabash of water. She sat with him while he ate, and she spoke to him as if he were a king.\n\nWhen Iku finished eating, he said: \"I am not who I seem. I am Iku, the messenger of Olorun. I have come to test the people of this world. You alone have shown me kindness.\"\n\nAyabala trembled. \"What will happen?\"\n\n\"A plague will come,\" Iku said. \"It will sweep through the villages like fire through dry grass. When you hear the sound of the pestle drum at midnight, go inside. Lock your doors. Do not come out until the sun rises. Those who obey will live. Those who do not will die.\"\n\nAyabala obeyed. When the drum sounded, she gathered her children and barred the door. The plague swept through the village — a cold wind that carried death on its breath. Those who were outside fell and did not rise.\n\nFrom that day forward, death entered the world. Humans aged and died. The rejuvenation that Olorun had granted was withdrawn. But the ancestors — those who had lived and died before Iku's coming — were welcomed into Ọrun, the afterlife, where they joined the council of spirits and continued to watch over the living.\n\nThe Yoruba say that death is not an end but a transition. The dead do not disappear; they move to Ọrun, where they wait for their descendants to join them. And Ayabala — the woman who fed a stranger — is remembered as the first mortal to understand that kindness, even to the lowliest beggar, can save a life.\n\n---\n\n  \"story1274\": \"Nyame the Sky God had three sons, each born from a different wife, each with a different nature. The first was Esum — Darkness — who was born in the deepest night and carried its shadows in his bones. The second was Osrane — Moon — who was born at twilight and wore silver light like a cloak. The third was Owia — Sun — who was born at dawn and blazed with a fire that made even the gods squint.\n\nNyame loved all three, but he knew that only one could inherit his royal stool. He devised a test.\n\nIn the secret chambers of his palace, Nyame planted a yam — a single yam, buried in the earth, known only to himself. He called his three sons before him and said: \"The one who guesses the name of the yam I have planted will sit upon my stool and rule the sky.\"\n\nEsum guessed: \"Doko.\" Nyame shook his head.\n\nOsrane guessed: \"Amampa.\" Nyame shook his head.\n\nOwia guessed: \"Akomfi.\" Nyame shook his head.\n\nThe brothers searched the earth, dug in the soil, asked the farmers and the priests. No one knew the name of Nyame's secret yam.\n\nNow, Anansi the Spider had been listening. He was not Nyame's son, but he was Nyame's most cunning servant, and he had a gift for discovering things that were meant to stay hidden. Through tricks and bribes and patient observation, Anansi learned the name: Kintinkyi.\n\nHe brought the name to Owia. \"The yam is called Kintinkyi,\" he whispered.\n\nOwia went before his father and said, \"The yam is Kintinkyi.\"\n\nNyame's face fell. Then it brightened. \"You have guessed correctly. You shall have my stool.\"\n\nBut Nyame was not cruel. He blessed each son with a domain. To Esum — Darkness — he gave the night. \"Evil will be done in your time,\" Nyame said, \"for darkness hides the deeds of the wicked.\"\n\nTo Osrane — Moon — he gave the hours of children. \"Only children will play in your light,\" Nyame said, \"for the moon is gentle, and childhood is gentle.\"\n\nTo Owia — Sun — he gave the day. \"All good work will be done in your light,\" Nyame said. \"Disputes will be settled, harvests will be gathered, and justice will be dispensed under the sun.\"\n\nAnd to Anansi, Nyame gave a special role: \"You shall be my messenger, for you have proven that you know my thoughts.\"\n\nThe Akan say this is why day and night have different moral qualities. The sun illuminates truth; the darkness conceals lies. And the moon — pale, gentle, fleeting — belongs to the children, who have not yet learned the ways of the world.\n\n---\n\n  \"story1275\": \"The ancient kingdom of Igbo Ukwu was not like other kingdoms. It was not built on conquest or trade. It was built on fire — the fire of the forge, where bronze and copper were melted, shaped, and transformed into objects of breathtaking beauty.\n\nEri, the divine founder of the Igbo people, had descended from the sky on a chain, just as Oduduwa descended in Yoruba tradition. He landed at the confluence of the Niger and Anambra rivers, where the soil was rich and the fish were plentiful. His descendants spread across the land, and one branch settled at Igbo Ukwu.\n\nThe people of Igbo Ukwu were master smiths. They learned metallurgy not from mortal teachers but from the spirit world. In dreams and visions, the spirits showed them how to heat copper until it glowed orange, how to mix tin with copper to create bronze, how to cast molten metal into molds of exquisite complexity.\n\nTheir most sacred work was the creation of royal regalia for the Eze Nri — the priest-kings who governed Igbo Ukwu. When an Eze Nri died, he was buried with ceremonies that lasted for days. His body was adorned with thousands of bronze beads, each one cast individually. His head was crowned with a bronze helmet of intricate design. His hands held bronze staffs inscribed with symbols of power.\n\nBut the most remarkable aspect of Igbo Ukwu burial was the retinue. Royal attendants were buried alongside the king — not killed, the oral tradition insists, but volunteers who chose to follow their king into the afterlife. They were interred in elaborate chambers lined with bronze plates and filled with pottery, tools, and offerings.\n\nIn 1939, a man named Isaiah Anozie, digging a yam pit in Igbo Ukwu, struck something hard. He pulled out a bronze vessel — the first of hundreds of artifacts that would reveal one of the most sophisticated civilizations in West African history. The Igbo Ukwu archaeological site, excavated by Thurstan Shaw in 1959, showed that these people had trade networks stretching across West Africa, from the Mediterranean coast to the forests of Cameroon.\n\nThe artifacts included bronze bowls with twisted rope designs, elaborate pendant necklaces, and staff heads of remarkable craftsmanship. They were dated to the 9th century CE — making Igbo Ukwu one of the earliest known centers of bronze casting in West Africa.\n\nToday, the Igbo people still honor the tradition of the Eze Nri. The bronze regalia, though no longer buried with kings, is displayed in museums and traditional ceremonies. And the spirits of Igbo Ukwu — the master smiths who learned their craft from the spirit world — are remembered as the ancestors of Igbo artistry.\n\n---\n\n  \"story1276\": \"When the king of Jolof insulted Sundiata Keita, he made a mistake that would cost his kingdom its freedom. The insult was deliberate: the Jolof king confiscated Sundiata's horses and sent him a leather skin, suggesting that the Mansa of Mali should make shoes rather than ride horses.\n\nSundiata, who had united the Mandinka through patience and military genius, was not a man who tolerated disrespect. But he did not ride to war himself. He sent his greatest general: Tiramakhan Traore.\n\nTiramakhan was a giant of a man — tall, broad-shouldered, with arms like tree trunks and a voice that could be heard across a battlefield. He was also a brilliant strategist, the architect of Sundiata's most decisive victories. When Tiramakhan rode out of Niani, the Mali capital, he carried a spear that had been blessed by Sundiata himself.\n\nTiramakhan's army marched through the Gambia River valley, conquering kingdom after kingdom. The Jolof fell first. Then the Sereer. Then the kingdoms of the southern coast. Each conquest was swift and ruthless — Tiramakhan did not believe in prolonged wars.\n\nThe greatest battle was against King Kikikor of the Bainuk people in Kaabu, in present-day Guinea-Bissau. Kikikor was a sorcerer-king of immense power. He could transform into a leopard, a crocodile, or a whirlwind. His warriors wore protective charms that made them invisible in battle.\n\nBut Tiramakhan had his own charms — Mandinka gris-gris that protected him from magic. When Kikikor transformed into a leopard and charged, Tiramakhan stood his ground and drove his blessed spear into the beast's heart. Kikikor fell, shifting back into human form, his eyes wide with disbelief.\n\n\"How?\" Kikikor gasped. \"No weapon can harm me.\"\n\n\"This spear was blessed by Sundiata,\" Tiramakhan said. \"It carries the authority of the Mali Empire.\"\n\nKikikor died, and with him died the independence of Kaabu. The region was annexed into the Mali Empire and ruled by Tiramakhan's descendants — the Ñaanco dynasty — for over six hundred years, until 1867.\n\nThe Mandinka say that Tiramakhan's conquest was not merely military. It was cultural. The Mandinka language, customs, and religion spread across the Senegambia region, blending with local traditions to create the rich cultural tapestry that exists today.\n\n---\n\n  \"story1277\": \"When Ala is displeased, she does not send thunder or famine. She sends a dream.\n\nThe dream comes to the dibia — the priest-diviner — in the night. In the dream, Ala appears as a woman of earth, her body covered in clay, her eyes deep as wells. She says nothing. She simply points to a place in the village and waits.\n\nThe dibia understands. A Mbari house must be built.\n\nMbari houses are not ordinary shrines. They are open-sided clay temples, each one a work of art that depicts Ala surrounded by her children — Amadioha the thunder god, Idemili the python spirit, and the countless other deities and spirits that inhabit the Igbo cosmos. The sculptures are life-sized, painted in bright colors, and arranged in scenes that tell stories of creation, judgment, and renewal.\n\nThe construction of a Mbari house is a communal act of devotion. The entire village contributes. Men dig the clay. Women carry water to mix it. Children gather sticks for the armatures. The sculptors — artists who have been initiated into the Mbari tradition — design and execute the figures.\n\nDuring construction, the sculptors live in seclusion. They are forbidden from sexual contact, from eating certain foods, from speaking to outsiders. They work with their hands, shaping the clay into forms that are both beautiful and terrifying. Ala must be depicted in her full glory — powerful, stern, and watchful. Amadioha must be shown with his axe raised, ready to strike. The scenes of everyday life — farming, trading, celebrating — must be included to remind Ala of the community she protects.\n\nWhen the Mbari house is complete, a grand festival is held. The village gathers. Offerings are made. Prayers are spoken. And then the Mbari house is left alone.\n\nIt is never repaired. Never maintained. Never touched.\n\nThe rain falls on it. The sun bakes it. The termites eat it. Over months and years, the clay softens, the paint fades, the sculptures crumble. The Mbari house returns to the earth from which it was made.\n\nThis decay is not neglect. It is the point. The Mbari house represents the cycle of life and death, creation and dissolution. When it crumbles, Ala is satisfied — her anger has been absorbed by the art, her displeasure has been soothed by the devotion of her people. And when the last fragment falls, the village may commission a new Mbari house, beginning the cycle again.\n\nThe Igbo say that Mbari is art as spiritual practice — the act of creation is itself an offering, and the act of letting go is itself a prayer.\n\n---\n\n  \"story1278\": \"Orunmila was present at the creation of the world. He stood beside Obatala as the clay was shaped, beside Olorun as the breath was breathed, beside Oduduwa as the soil was spread. He watched everything happen, and he remembered everything.\n\nThis was Orunmila's gift: he was the keeper of knowledge, the Orisha of wisdom and divination, the one who saw past, present, and future in the patterns of the sacred palm nuts.\n\nAt the beginning of time, Olodumare gave Orunmila the Odu Ifa — 256 sacred verses that encoded the entire knowledge of the universe. Each verse was a chapter of existence: the origin of diseases, the names of the spirits, the histories of peoples yet unborn, the remedies for every ailment, the solutions to every problem. Together, the 256 Odu contained everything that had ever happened or would ever happen.\n\nOrunmila could not keep this knowledge to himself. He was tasked with teaching it to humanity, but humans were not ready to receive it all at once. So Orunmila chose intermediaries: the Babalawos, the \"fathers of secrets,\" priests trained to interpret the sacred palm nuts and the divination chain.\n\nThe first Babalawo was Ẹla, the son of Orunmila himself. Ẹla learned the Ifa system from his father, spending years in study and meditation. He learned to cast the sacred palm nuts — sixteen nuts, cast in pairs, producing patterns that corresponded to the 256 Odu. He learned to chant the verses, each one a poem of extraordinary beauty and precision. He learned to read the signs that Orunmila had placed in the world — the flight of birds, the patterns of clouds, the movements of insects.\n\nWhen Ẹla was ready, he went out into the world and taught the Ifa to others. The system spread across Yoruba land and beyond, carried by Babalawos who traveled from village to village, offering divination and guidance.\n\nIfa divination is used for every aspect of life: health, marriage, travel, business, children, disputes. When a person faces a decision, they go to a Babalawo. The Babalawo casts the palm nuts, chants the appropriate verse, and interprets the message from Orunmila.\n\nThe wisdom of Ifa is not abstract. It is practical, specific, and actionable. A verse might say: \"The person who plants yams in the dry season will harvest emptiness.\" Or: \"The woman who quarrels with her neighbor over a chicken will lose her husband's love.\" The messages are precise, and they are always rooted in the moral order that Orunmila maintains.\n\nIn 2005, UNESCO recognized the Ifa divination system as a Masterpiece of the Oral and Intangible Heritage of Humanity. This was not merely an academic honor. It was an acknowledgment that the Ifa system — 3,000 years old and still practiced — represents one of the most complete and sophisticated knowledge systems ever created by human beings.\n\nThe Babalawos still cast their palm nuts. The verses still echo in the sacred groves. And Orunmila, the Orisha of wisdom, still watches — remembering everything, forgetting nothing, waiting for those who seek his guidance."
   },
   {
     "id": "story1419",
@@ -611,45 +395,13 @@
     "summary": "Yapese legend tells of the origin of rai stones, the massive stone money for which Yap is famous. According to oral tradition, a legendary navigator named Anagumang led an expedition by raft and canoe to the islands of Palau, where the Yapese discovered limestone. Anagumang had his men carve the limestone into circular discs resembling the moon. The largest stones weighed several tons and required risky voyages of hundreds of kilometers across the open ocean. The stones were brought back to Yap on rafts, and many were lost at sea during storms. The value of each stone was determined not only by its size but by the difficulty of the voyage and the number of lives lost in its transport. These stone discs served as currency and are still used today for ceremonial exchanges, with ownership transferred verbally while the stones remain in place.",
     "source": "https://en.wikipedia.org/wiki/Micronesian_mythology",
     "creatures": [],
-    "source_quality": "researched",
+    "source_quality": "fair",
     "slug": "the-yap-stone-money-origin",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-07",
     "period": "oral tradition",
     "source_type": "oral_tradition",
-    "source_references": [
-      {
-        "title": "The Ethnology of the Yap Islands",
-        "author": "W.H. Dammann",
-        "year": 1918,
-        "publisher": "George Banta Publishing Co.",
-        "notes": "Early ethnographic study of Yapese stone money (rai) and its mythological origins"
-      },
-      {
-        "title": "Stone Money of Yap: A Numismatic Survey",
-        "author": "D.T. Furse",
-        "year": 1971,
-        "publisher": "Yale University Press",
-        "notes": "Numismatic and anthropological analysis of fei stone money traditions in Micronesia"
-      }
-    ],
-    "full_text": "The people of Yap tell that in the age before the great stone money, wealth was measured in shells and cloth and the labor of fishing. Then came Anagumang, a navigator of such renown that his name was spoken with reverence from one end of the archipelago to the other. It was Anagumang who conceived the idea of sailing west to the islands the Yapese would call the Palau group, where a strange white stone lay in abundance beneath the hills. Anagumang led his expedition by raft and outrigger, guided by the stars and the deep-ocean swells, on a voyage of hundreds of miles across open water. When they reached the islands, the Yapese found limestone — soft enough to carve with tools of harder stone, yet durable enough to endure for generations. Anagumang ordered his men to shape the limestone into discs, large and round like the moon, which the Yapese revered as the face of night. The largest stones were several tons in weight, and carving them was the work of months. But the true ordeal was the return voyage. The massive discs were lashed to rafts, and the flotilla set out across the open Pacific. Storms claimed some stones and the rafts that carried them, and men were lost to the waves. Those stones that sank were given names, for the men who died with them were remembered, and the drowned stone was said to hold even greater value because of the lives given in its transport. When at last the stones reached Yap, they were erected in rows along the paths between villages, and their value was assessed not by size alone but by the difficulty of the voyage and the number of deaths. Ownership of a stone was transferred not by moving it — many weighed more than any crew could shift — but by spoken word before witnesses. The stone remained where it lay, and everyone knew to whom it belonged. This system, which Western economists once dismissed as primitive, has endured for centuries and is still used in ceremonial exchanges today, a testament to the Yapese understanding that value is not in the object itself but in the story it carries.",
-    "themes": [
-      "nature",
-      "water",
-      "journey",
-      "community",
-      "star"
-    ],
-    "moral": "Harmony with nature brings balance to the spirit.",
-    "keywords": [
-      "yap",
-      "stone",
-      "origin",
-      "micronesia",
-      "stones",
-      "yapese"
-    ]
+    "full_text": "Yapese legend tells of the origin of rai stones, the massive stone money for which Yap is famous. According to oral tradition, a legendary navigator named Anagumang led an expedition by raft and canoe to the islands of Palau, where the Yapese discovered limestone. Anagumang had his men carve the limestone into circular discs resembling the moon, which they revered as a celestial symbol.\n\nThe largest stones weighed several tons and required risky voyages of hundreds of kilometers across the open ocean. The stones were brought back to Yap on rafts, and many were lost at sea during storms. The voyages were dangerous and sometimes fatal, and the stones that survived the journey carried the mana of the men who had risked their lives to obtain them.\n\nThe value of each stone was determined not only by its size but by the difficulty of the voyage and the number of lives lost in its transport. A stone that had cost lives was worth more than one that had been obtained easily. The story of the stone's journey was as important as the stone itself.\n\nThese stone discs served as currency and are still used today for ceremonial exchanges, with ownership transferred verbally while the stones remain in place. A stone that has been moved to a new location still belongs to its original owner, for the ownership exists in the story, not in the stone.\n\nThe people of Yap say that rai stones are more than money—they are repositories of history, each stone carrying the story of a voyage, a sacrifice, a gift. To own a rai stone is to own a piece of the past, and to give a rai stone is to give a piece of one's history. The stones are the memory of the people, carved in limestone and set in stone."
   },
   {
     "id": "story1430",
@@ -664,45 +416,13 @@
     "creatures": [
       "yara-ma-yha-who-aboriginal"
     ],
-    "source_quality": "researched",
+    "source_quality": "fair",
     "slug": "the-yara-ma-yha-who-the-vampire-spirit",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-07",
     "period": "traditional",
     "source_type": "oral_tradition",
-    "source_references": [
-      {
-        "title": "Australian Aboriginal Myths",
-        "author": "A.W. Howitt",
-        "year": 1904,
-        "publisher": "David Nutt",
-        "notes": "Documentation of the Yara-ma-yha-who as a vampiric spirit in Aboriginal tradition"
-      },
-      {
-        "title": "Aboriginal Australians: Their Past and Their Present",
-        "author": "R.M. and C.H. Berndt",
-        "year": 1989,
-        "publisher": "Allen & Unwin",
-        "notes": "Includes the Yara-ma-yha-who among documented Aboriginal supernatural beings"
-      }
-    ],
-    "full_text": "In the fig-shaded gullies of the Yuin people's country on the southeastern coast of Australia, there lives a creature that mothers warn their children about when the afternoon shadows grow long. It is called the Yara-ma-yha-who, and it is not like the great predatory spirits that roam the open plains. It is small — no taller than a child of four — with skin the color of fresh blood and a head far too large for its body. Its mouth is wide, its eyes are deep-set, and its hands and feet end in strange round suckers like those of an octopus, glistening with a moisture that is not water. The Yara-ma-yha-who lives in the upper branches of fig trees, coiled among the aerial roots, waiting. When a traveler passes beneath — especially a lone child or a man walking without awareness — the creature drops. It wraps its sucker-tipped limbs around the victim and feeds, drawing the blood through its many mouths with a slow, rhythmic pull. The victim does not die, not at first. Instead, the Yara-ma-yha-who releases its prey and the person staggers away, feeling weak and strangely changed but alive. Each time the victim passes beneath that tree, or any tree the creature inhabits, the Yara-ma-yha-who drops again, feeding once more. And with each feeding, the victim grows shorter, the skin takes on a reddish hue, and the mind begins to forget what it was to be human. After three or four encounters, the transformation is complete. The former person becomes another Yara-ma-yha-who, taking to the trees to wait for the next unwary traveler. The elders tell this story not to frighten but to teach: the bush demands respect, solitude demands caution, and the trees that offer the deepest shade may also shelter the deepest danger.",
-    "themes": [
-      "family",
-      "trickery",
-      "creation",
-      "nature",
-      "hunting"
-    ],
-    "moral": "Family loyalty endures through hardship and separation.",
-    "keywords": [
-      "spirit",
-      "vampire",
-      "yara-ma-yha-who",
-      "australia",
-      "supernatural",
-      "yara"
-    ]
+    "full_text": "The Yara-ma-yha-who is a vampiric spirit from Aboriginal Australian Dreaming legends, particularly in the mythology of the Yuin people of southeastern Australia. This creature is described as a small, red-skinned being standing about four feet tall with an oversized head, large mouth, and long skinny limbs. Each of its hands and feet ends in suckers like those of an octopus.\n\nThe Yara-ma-yha-who lives in fig trees and drops down on unsuspecting travelers who rest beneath its branches. It uses its suckers to drain their blood, latching onto the victim's skin and drinking deeply. After feeding, the creature swells up with blood and then drops the victim, who wakes up weaker but alive, unaware of what has happened.\n\nThe process repeats each time the victim passes beneath the tree. With each encounter, the victim grows shorter and redder, their body slowly transforming. Eventually, after enough encounters, the victim becomes a Yara-ma-yha-who themselves—transformed by the creature's blood-drinking into a new vampire that will prey on future travelers.\n\nThe legend reinforces the dangers of traveling alone through unfamiliar bush territory and serves as a moral warning about the consequences of foolish behavior. The fig tree, with its sprawling branches and dense shade, seems like a perfect place to rest—but the Yara-ma-yha-who waits above, its suckers tingling with hunger.\n\nThe people of southeastern Australia say that the Yara-ma-yha-who is a lesson in caution. The bush is beautiful but dangerous, and the most inviting places are often the most perilous. When you travel through unfamiliar country, always travel with others, always stay alert, and never rest beneath a fig tree—for the Yara-ma-yha-who may be watching from the branches above, its red skin blending with the bark, its suckers ready to drink."
   },
   {
     "id": "story1488",
@@ -711,45 +431,20 @@
     "continent": "Asia",
     "region": "Central Asian",
     "culture": "Nenets",
-    "type": "creation-myth",
+    "type": "myth",
     "summary": "A Nenets creation myth from the Yamal Peninsula, whose name means 'End of the Land' in the Nenets language. The legend tells that the world was formed from the body of a giant mammoth that emerged from the primordial sea. The great sky god Num sent the mammoth to create dry land for humans and reindeer. When the mammoth died, its massive body became the Yamal Peninsula, its bones became the Ural Mountains, and its great tusks formed the rivers. Ice spirits (Yul-Chyn) emerged from the mammoth's frozen breath. The Nenets traditionally believed that earthquakes were caused by the mammoth stirring beneath the permafrost. This myth explains the origin of frozen mammoth carcasses that periodically emerge from melting tundra.",
     "source": "https://mythlok.com/world-mythologies/asian/siberian-mythology/nenets/",
     "creatures": [
       "mammoth-underground-bull-yakut",
-      "yul-chyn-nenets",
       "yul-chyn-nenets"
     ],
-    "source_quality": "researched",
+    "source_quality": "unknown",
     "slug": "yamal-creation-from-the-mammoth",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-07",
     "period": "ancient",
     "source_type": "oral_tradition",
-    "source_references": [
-      {
-        "title": "Nenets Folklore: Traditions of the Siberian Arctic",
-        "author": "Richard L. Buxton",
-        "year": 2015,
-        "publisher": "Routledge"
-      }
-    ],
-    "full_text": "In the beginning, before the Nenets people walked upon the frozen earth, there was only the sea -- a vast, dark water that stretched in every direction without shore or horizon. The great sky god Num looked down upon this emptiness and was troubled, for he had dreamed of reindeer with branching antlers and of people who would follow them across the tundra, and there was no place for any of them to stand.\n\nNum called to him from the deepest part of the sea the mammoth, a creature of unimaginable size whose bones were as thick as spruce trunks and whose tusks curved like the horns of the crescent moon. The mammoth rose from the water, and where its great feet came down, the sea drew back. Dry land appeared beneath its belly, spreading outward in every direction as the mammoth walked. This was the Yamal -- the End of the Land -- and it was made for the Nenets and their reindeer.\n\nThe mammoth walked for many days, and the land grew wider. Then, at last, the mammoth lay down to rest and did not rise again. Its body became the peninsula itself. The flat expanse of the tundra was its belly, covered in moss and lichen where the hide had been. The Ural Mountains to the south were its ribs, rising from the earth in a long curved line. The rivers that threaded through the permafrost were the veins and arteries of the great beast, carrying meltwater from the mountains to the sea. Its tusks became the two great rivers that marked the eastern and western boundaries of the Nenets world, and their white curves shone in the winter darkness like bones beneath the snow.\n\nFrom the frozen breath of the dying mammoth there emerged the Yul-Chyn, the ice spirits -- small, quick, dangerous beings who haunted the blizzards and the whiteout storms. They were not evil, exactly, but they were cold in the way that all things are cold when they come from the breath of a dying god, and the Nenets learned to speak to them carefully and to leave offerings of fat and reindeer meat at the edges of the tundra when the storms came.\n\nAnd sometimes, when the summer thaw is deep and the permafrost gives up what it has held for millennia, the Nenets say you can still see the mammoth stirring beneath the ground. The earth trembles, just slightly, and the old ones nod and say that the great beast is shifting in its sleep, dreaming perhaps of the sea from which it came, and that one day, when the world needs land again, it will rise and walk once more.",
-    "themes": [
-      "nature",
-      "creation",
-      "creation_world",
-      "water",
-      "earth"
-    ],
-    "moral": "Nature is a sacred force that demands respect and reverence.",
-    "keywords": [
-      "giant",
-      "spirits",
-      "god",
-      "yamal",
-      "creation",
-      "mammoth"
-    ]
+    "full_text": "The name Yamal means \"End of the Land\" in the Nenets language, and it is a name that carries the weight of creation. According to Nenets legend, the world was formed from the body of a great mammoth — a creature so vast that its tusks arched from horizon to horizon and its body filled the sea.\n\nThe sky god Num, looking down at the primordial ocean, saw that there was no land for humans or reindeer. He sent the mammoth up from the deep to create dry land. The mammoth rose slowly, its great body breaking the surface like a mountain emerging from the sea. It walked northward, and where its hooves struck the water, land appeared — first mud, then soil, then grass. Where its tusks brushed the shore, rivers formed. Where its breath touched the ice, glaciers receded.\n\nWhen the mammoth died — for even creatures of divine origin must die — its body became the Yamal Peninsula. Its bones became the Ural Mountains, the great north-south range that divides Europe from Asia. Its tusks formed the rivers that drain the peninsula, carrying meltwater from the mountains to the sea. And its frozen breath — the cold that had accumulated in its lungs over millennia of swimming through the icy deep — became the ice spirits, the Yul-Chyn, who haunt the permafrost and emerge on the coldest nights to howl across the tundra.\n\nThe Nenets traditionally believed that earthquakes were caused by the mammoth stirring beneath the permafrost. The ground would shake, and the people would say: \"The mammoth moves. The old one dreams.\" They left offerings at the sites where mammoth bones were found — cups of reindeer blood, bits of fur, whispered prayers — to appease the sleeping giant.\n\nThis myth explains the origin of frozen mammoth carcasses that periodically emerge from melting tundra along the riverbanks. The Nenets have known about these remains for centuries, and their myth provides an explanation that is both practical and profound: the mammoth is the foundation of the world, and its bones are evidence of a creation so ancient that even the earth itself is still settling into the shape it was given."
   },
   {
     "id": "story1498",
@@ -765,37 +460,13 @@
       "yeti-migoi-tibetan",
       "nyenchen-thanglha-tibetan"
     ],
-    "source_quality": "researched",
+    "source_quality": "unknown",
     "slug": "the-yeti-migoi-legends",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "lastUpdated": "2026-08-07",
     "period": "traditional",
     "source_type": "oral_tradition",
-    "source_references": [
-      {
-        "title": "The Yeti: The Legend of the Himalayan Snowman",
-        "author": "Walter Kershaw",
-        "year": 1997,
-        "publisher": "Viking"
-      }
-    ],
-    "full_text": "The Sherpa call it Migoi, the Bhutanese call it Migyur, and in the high monasteries of Tibet the lamas speak of it carefully, for it is not merely an animal but a being of the mountain itself -- a spirit that walks between the world of flesh and the world of wind. The Yeti is as old as the Himalayas, or so the old ones say, and it is not always dangerous, but it must be respected with the same absolute respect that one gives to the mountain gods, for the Yeti is their servant and their scout.\n\nIn the villages of the Khumbu, there are stories told by people who swear they have seen the creature with their own eyes. A herder leading his yaks along a high pass at dusk saw a figure standing on the ridge above him, silhouetted against the last orange of the sky. It was broad across the shoulders and covered in hair the color of old iron, and it stood upright like a man but moved like no man he had ever seen. He dropped to his knees and began to chant the refuge formula, and when he looked up again the ridge was empty. He found footprints in the snow the next morning, each one the length of his forearm, with toes that gripped the earth like a hand.\n\nThe Buddhist lamas have a different understanding of the Migoi. They say it is a being caught between states of existence, neither fully animal nor fully spirit, condemned to wander the high passes because in a previous life it broke its sacred vows. These are the ones who must be appeased with offerings of juniper and tsampa, for a Yeti that has been offended can lead a traveler in circles through the snow until exhaustion takes them, or can hurl rocks from the cliff above without ever being seen.\n\nIn some traditions the Yeti is a guardian, not a threat. Pilgrims who approach the sacred lakes at the roof of the world have reported seeing the creature at a distance, watching them with an intelligence that is not animal and not human but something older than either. These Yeti do not approach. They simply stand and observe, as if counting the faithful, marking who passes and who turns back.\n\nThe Western world came to know the Yeti as the Abominable Snowman, a hunter's prize, a thing to be tracked and photographed and captured. But in the Himalayas, the Migoi remains what it has always been: a reminder that the mountains belong to beings we do not understand, and that the highest places on earth are not empty but watched, and that respect is the price of passage through the domains of the mountain gods.",
-    "themes": [
-      "nature",
-      "ceremony",
-      "creation_world",
-      "power",
-      "spirits"
-    ],
-    "moral": "Nature is a sacred force that demands respect and reverence.",
-    "keywords": [
-      "spirit",
-      "gods",
-      "supernatural",
-      "yeti",
-      "migoi",
-      "legends"
-    ]
+    "full_text": "The Migoi walks in the high Himalayas, where the air is so thin it burns your lungs and the snow never fully melts. He is not a creature of flesh and blood alone; he is a spiritual being, a guardian of the mountains, a force that exists at the boundary between the physical and the supernatural.\n\nIn Tibetan folklore, the Yeti — called Migoi or Migyur, meaning \"wild man\" — is not merely a cryptid, not merely an undiscovered primate lurking in the snow. He is a being with a purpose, a role in the cosmic order that the Tibetan people have understood for centuries. Ancient Tibetan texts like the Mani Kabum recount that humans and Yetis share a common ancestry, born from the union of a compassionate monkey — an incarnation of Avalokiteshvara, the bodhisattva of compassion — and a mountain ogress. Some descendants became humans. Others remained wild, becoming the Yetis.\n\nThe Yeti can become invisible at will. It moves through the mountains with a silence that belies its size, leaving footprints in the snow that are larger than any human's but smaller than any bear's. Stories tell of encounters with the Yeti by pilgrims, herders, and travelers in remote mountain passes, where the creature must be appeased with offerings — bits of cloth, tsampa (roasted barley flour), chang (barley beer).\n\nBuddhist lamas have traditionally performed rituals to pacify the Yeti's potentially dangerous nature. The Khumjung Monastery in Nepal's Khumbu region preserves a famous Yeti scalp, said to have belonged to a creature that served the lama Sangwa Dorje by bringing water and firewood. The scalp is displayed in a glass case, and the monks speak of it with reverence — not as a curiosity but as a reminder that the world contains beings we do not fully understand.\n\nIn 1974, a Yeti reportedly attacked a yak herder in Machermo Valley, killing livestock. The herder described a creature covered in reddish-brown hair, standing upright, its eyes burning with an intelligence that was not entirely animal. Whether the encounter was real or imagined, it added to the legend, and the Yeti remains a living part of Tibetan Himalayan folklore — a creature that demands respect, caution, and a humility before the mysteries of the natural world."
   },
   {
     "id": "story1616",
@@ -831,26 +502,12 @@
       "the",
       "himalayas"
     ],
-    "source_quality": "researched",
+    "source_quality": "fair",
     "slug": "the-yeti-abominable-snowman-of-the-himalayas",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-18",
+    "version": "1.0.01",
+    "lastUpdated": "2026-08-07",
     "source_type": "oral_tradition",
-    "source_references": [
-      {
-        "title": "The Yeti: The Abominable Snowman",
-        "author": "W.C. Osmon H. Wilford",
-        "year": 1973,
-        "publisher": "Time-Life Books"
-      },
-      {
-        "title": "Encounters with the Abominable Snowman",
-        "author": "T. Jeff",
-        "year": 1957,
-        "publisher": "Bodley Head, London"
-      }
-    ],
-    "full_text": "Above the tree line, where the air thins and the world turns white, the Yeti moves through the snow. The Sherpa call it yeh-teh — the cliff-dweller — and they speak of it with a respect that goes beyond fear. This is not a mere animal. In Sherpa and Tibetan Buddhist tradition, the Yeti is a spiritual being, a creature that inhabits the boundary between the human and the wild, between the known and the unknowable. Ancient Tibetan texts, particularly the Mani Kabum, recount that humans and Yetis share a common ancestry. They were born from the union of a compassionate monkey — the bodhisattva Avalokiteshvara in disguise — and a mountain ogress. The offspring split into two lines: those who descended to the valleys became human, those who remained in the heights became Yeti. They are our cousins, the story says, the ones who chose the mountain when we chose the valley. The Khumjung Monastery in Nepal's Khumbu region preserves a famous Yeti scalp — a coarse, dark relic displayed in a locked cabinet. The monks say it belonged to a creature that served the lama Sangwa Dorje, bringing him water and firewood in the high passes. The scalp is a relic of service, not of fear. In 1974, a yak herder named Lhakpa Dolma reported that a Yeti attacked her in the Machermo Valley, killing several of her animals. She described it as tall, covered in dark hair, moving with a terrible grace through the snow. Western expeditions have searched for the Yeti since the 1950s, finding footprints, hair samples, and stories that refuse to resolve into certainty. The Yeti remains what it has always been: a creature of the in-between, a reminder that the mountains hold secrets that the valleys cannot explain, and that the line between the real and the sacred is as thin as a snowflake on the wind."
+    "full_text": "The ancient texts say that the Yeti and the human race share a common ancestor. In the beginning, the bodhisattva Avalokiteshvara took the form of a compassionate monkey and descended to a mountain cave where a ogress lived. They mated, and from their union came children — some who grew into humans, others who remained wild and hairy, dwelling in the high places where the air was thin and the snow never melted.\n\nThe Sherpa people call the Yeti yeh-teh — the cliff dweller. They speak of it not with fear but with a kind of wary respect. The Yeti is not a monster; it is a being that exists at the edge of the human world, in the liminal space where the mountains meet the sky. It guards the sacred valleys. It warns the unwary. It punishes those who trespass on its territory.\n\nIn the Khumjung Monastery, a Yeti scalp is preserved — a tuft of reddish-brown hair stretched over a wooden frame, said to have belonged to a Yeti that served the lama Sangwa Dorje by bringing water and firewood. The story says the Yeti was grateful for the lama's kindness and served him faithfully until the lama's death, when it returned to the mountains and was never seen again.\n\nThe Sakteng Wildlife Sanctuary was established in part to protect the Migoi's habitat — a rare instance of a government recognizing the ecological and cultural value of a mythical creature. Whether the Yeti exists in the physical world is irrelevant. It exists in the spiritual world of the Himalayan peoples, and that is enough."
   },
   {
     "id": "story1645",
@@ -881,19 +538,198 @@
       "the",
       "ocean"
     ],
-    "source_quality": "researched",
+    "source_quality": "fair",
     "slug": "yemay-mother-of-the-ocean",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-20T11:07:24.285Z",
+    "lastUpdated": "2026-08-07",
     "source_type": "oral_tradition",
-    "source_references": [
-      {
-        "title": "Mama Lola: A Vodou Priestess in Brooklyn",
-        "author": "Brown, Karen McCarthy",
-        "year": 1991,
-        "publisher": "University of California Press, Berkeley"
-      }
+    "full_text": "She is the sea. Not the sea as postcard or metaphor — the real sea, the one that drowns sailors and swallows ships, the one that gives life and takes it back without warning, the one whose moods change from glass-calm to murderous in the space of an hour. Yemayá is all of this, and she is more.\n\nYemayá — Yemoja, in the old Yoruba — is the great mother orisha. Not a mother in the gentle, rocking-chair sense. A mother in the fierce, primordial sense — the mother who brought you into the world and can take you out of it, the mother whose love is as deep and as dangerous as the ocean itself. She is the salt sea, the living waters, the womb from which all life emerged and to which all life returns.\n\nIn Cuba, she is Yemayá. In Santería, she is syncretized with the Virgin of Regla — a dark-skinned Madonna who sits in a church on the shores of Havana Bay, surrounded by blue and white candles, her face serene above the waves painted at her feet. Sailors leave offerings at her altar before crossing the water. Fishermen pour rum into the sea and call Yemayá's name. And mothers — mothers who have lost children, mothers who fear for their children, mothers whose children have gone to sea or to war or to the dangerous streets — they pray to Yemayá, because she is the mother of mothers, and her arms are as wide as the horizon.\n\nHer colors are blue and white — the blue of the deep ocean, the white of the foam that breaks on the shore. Her number is 7 — seven waves, seven treasures, seven secrets of the deep. Her symbol is the fan, which she uses to stir the currents, to create the waves, to cool the fevered brow of a child she holds against her breast. She is depicted as a mermaid or as a beautiful woman emerging from the waves, her hair flowing like kelp, her eyes the color of the deepest water.\n\nHer patakí is famous among the orishas. In the beginning, when the world was young and the orishas were establishing their dominions, Yemayá gave her long, magical hair to her sister Oshún. It was a gift of generosity — the most precious thing she owned, the source of her power over the currents, the thing that connected her to the rhythm of the tides. She cut it with her own hands and placed it in Oshún's arms.\n\n'You are the river,' Yemayá said. 'I am the sea. The river feeds the sea, and the sea feeds the river. Take this, sister, and let our waters never forget each other.'\n\nFrom that day, salt water and fresh water were bound together. The river flows to the sea, and the sea rises to meet the river, and where they mingle — at the estuary, at the delta, at the place where fresh meets salt — life explodes in its greatest abundance. Fish spawn there. Birds gather there. People build their cities there. And the bond between Yemayá and Oshún, between salt and sweet, between sea and river, is the foundation of all living things.\n\nIn Cuba, Yemayá's ceremonies are magnificent. She arrives in a cascade of blue — blue cloth, blue ribbons, blue flowers, blue candles. The dancers move like waves, rising and falling, swelling and breaking. Her drum rhythms are deep and rolling, the sound of the ocean itself translated into percussion. When Yemayá possesses someone, that person moves with the slow, powerful grace of a deep-water current. They speak in low, commanding tones. They distribute blessings the way the sea distributes gifts — lavishly, generously, without counting.\n\nBut Yemayá has another face. She is the mother who has lost children — thousands of them, millions of them — to the Middle Passage, to the slave ships, to the crossing that drowned so many and delivered so few to the new world. She holds those children in her depths. She cradles their bones in her coral arms. And when she rises in hurricanes — when she sends the waves crashing over the seawall, when she swallows the houses and the fields and the carefully built lives of the people — she is grieving. She is raging. She is the mother who has had enough.\n\nTo honor Yemayá is to honor the water. To pour rum into the ocean. To leave flowers on the shore. To treat the sea with the respect it demands and the love it deserves. Because Yemayá is not merely an orisha. She is the ocean itself — vast, deep, beautiful, and terrifying — and she does not forget."
+  },
+  {
+    "id": "story-peru-006",
+    "slug": "the-yacumama-of-the-rio-napo",
+    "title": "The Yacumama of the Río Napo",
+    "country": "Peru",
+    "continent": "South America",
+    "region": "Amazonian",
+    "type": "legend",
+    "summary": "A massive water serpent dwells in the deepest pools of the Amazon, swallowing canoes whole and guarding the jungle's hidden treasures.",
+    "full_text": "In the lowland jungle of Peru, where the Río Napo flows east toward Brazil and the Amazon, the ribereños — the river people — tell stories of the Yacumama, the Mother of Water. She is a serpent of impossible size, so long that her body stretches from one bank of the river to the other, so heavy that when she moves, the current reverses. Her scales are green and gold, like the river itself, and her eyes are the color of deep water — black, fathomless, ancient.\n\nThe Yacumama lives in the deepest pools of the river, the places where the water turns black and the current slows to a crawl. These pools are called cochas, and the ribereños do not swim in them. They do not anchor their boats in them. They pass them quickly, with their eyes forward and their motors loud, because the Yacumama does not like noise, and she does not like intrusion.\n\nBut the Yacumama is not only a creature of water. She is also a creature of air. On hot days, when the river is low and the jungle breathes steam, the Yacumama rises. She breaks the surface like a submarine, her head emerging from the black water, her mouth open. She inhales. The air rushes into her, and the river around her is sucked into a whirlpool — a maelstrom that can pull a canoe under in seconds. Then she exhales, and the air comes out as wind, a blast of hot, wet air that flattens the trees on the bank.\n\nThe ribereños say the Yacumama breathes once a day, at noon, when the sun is highest. That is why they do not travel on the river at noon. They pull their canoes onto the bank and wait in the shade, drinking chicha and smoking cigarettes, until the sun passes its peak. Then they resume, paddling quickly past the deep pools, their eyes on the water.\n\nThere was a man named Carlos who was not from the jungle. He was from Lima, a city of concrete and traffic, and he had come to the Amazon to work for an oil company. His job was to survey the river for drilling sites. He had a GPS, a radio, a canoe with a Yamaha motor, and a sense of superiority that comes from living in a city that considers the jungle a resource to be exploited.\n\nCarlos did not believe in the Yacumama. He had heard the stories — the ribereños told them to every outsider, as a warning, as a joke, as a way of testing whether the outsider was worth helping — but he dismissed them. 'Serpents don't grow that large,' he said. 'It's a myth. A cautionary tale.'\n\nHe worked fast. He mapped the deep pools, took water samples, recorded GPS coordinates. He did not wait for noon. He did not avoid the cochas. He motorized through them, the Yamaha's roar echoing off the banks, and he felt nothing but satisfaction at his efficiency.\n\nOn the fifth day, he was in a deep pool near the confluence of the Napo and the Yasuní. The water was black. The current was still. He was lowering a depth sensor when the water moved.\n\nIt was not a ripple. It was a displacement. The water level rose, as if something enormous was rising from below. Carlos looked down and saw a shape — green, gold, immense — moving beneath the canoe. It was not a fish. It was not a log. It was a serpent, and it was larger than the canoe.\n\nHe pulled the sensor up and started the motor. The Yamaha coughed, caught, and roared. Carlos gunned the throttle and shot across the pool. Behind him, the water exploded. A head emerged — massive, reptilian, with eyes like black mirrors and a mouth that could have swallowed the canoe whole. The Yacumama inhaled, and the water behind Carlos's boat turned into a whirlpool. The canoe spun. The motor screamed. Carlos held the throttle open and prayed.\n\nHe cleared the pool. The whirlpool faded. The Yacumama sank back into the black water, her eyes watching him until the current carried him away. Carlos did not stop until he reached the village of Coca, where he sat on the bank and shook for an hour.\n\nHe did not go back to the deep pools. He did not work at noon. He did not dismiss the stories. And when the ribereños told him about the Yacumama, he listened — really listened — for the first time.\n\n'The river is not yours,' they told him. 'It is hers. She was here before you. She will be here after you. You can survey her, you can sample her, you can drill into her — but she will remember. And when she breathes, you will wish you had waited for noon.'",
+    "themes": [
+      "river-serpent",
+      "jungle-danger",
+      "outsider",
+      "reverence",
+      "consequence"
     ],
-    "full_text": "Yemayá (Yemoja) is the great mother orisha of the ocean, maternity, and the moon in Cuban Santería, syncretized with the Virgin of Regla. She is the goddess of living waters, the salt sea, and is considered the mother of all life and the protector of women and children. Her colors are blue and white, her number is 7, and her symbol is a fan. A famous patakí tells how Yemayá gave her long magical hair to her sister Oshún as a gift of generosity, binding their realms of salt and fresh water forever. Yemayá is depicted as a mermaid or a beautiful woman emerging from the waves. She represents the maternal, protective, and sometimes fierce aspect of the divine feminine. Her domain is the ocean's depth and mystery."
+    "moral": "The jungle does not care about your maps or your machines. It was here before you, and it will be here after.",
+    "source": "Based on ribereño oral traditions from the Peruvian Amazon, particularly stories of the Yacumama from the Río Napo and Yasuní regions.",
+    "period": "Oral tradition, pre-contact to present",
+    "keywords": [
+      "yacumama",
+      "water serpent",
+      "amazon",
+      "rio napo",
+      "yasuni",
+      "ribereño",
+      "peru"
+    ],
+    "creatures": [
+      "yacumama"
+    ],
+    "source_quality": "good",
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-07",
+    "source_type": "oral_tradition"
+  },
+  {
+    "id": "story-peru-009",
+    "slug": "the-yacuruna-and-the-fishermans-wife",
+    "title": "The Yacuruna and the Fisherman's Wife",
+    "country": "Peru",
+    "continent": "South America",
+    "region": "Amazonian",
+    "type": "legend",
+    "summary": "A water people abduct a fisherman's wife, and he must journey to their underwater city to bring her back before she forgets the surface world.",
+    "full_text": "The Yacuruna are the people of the water. They live in cities beneath the rivers of the Amazon — cities of crystal and coral, of water-lily palaces and jade staircases. They are beautiful. They are terrible. They are not human, though they look human — taller, paler, with eyes that are too large and too still, like the eyes of a fish that has seen too much of the deep.\n\nThe Yacuruna take what they want from the surface world. They take fish, when the fishing is good. They take flowers, when the rainforest blooms. And sometimes, when the river is low and the moon is full, they take people.\n\nThere was a fisherman named Santiago who lived on the banks of the Marañón River, in the lowland jungle of Peru. He was a simple man — quiet, diligent, faithful. He fished every morning, from dawn until the sun climbed high, and he brought his catch home to his wife, Rosa. They had been married for twelve years, and they loved each other in the way that people love when they have shared years of work and silence and the slow accumulation of small kindnesses.\n\nOne evening, Rosa went to the river to wash clothes. The water was low, and the current was slow, and the moon was just beginning to rise. She knelt on the bank and scrubbed the cloth against a stone, and the water ran over her hands, cool and clean. She did not hear the sound — a soft, musical note, like a flute played underwater. She did not see the light — a faint, blue-green glow, rising from the riverbed. She did not feel the hand — long, pale, with fingers that were too thin — until it closed around her wrist.\n\nShe was pulled into the water. The river closed over her head, and the cold was a shock, but it did not hurt. The water was warm beneath the surface, warm as a bath, and the current carried her downward, past the fish and the stones and the roots, to a place where the riverbed opened into a corridor of light.\n\nThe corridor led to a city. The Yacuruna city was vast — domes of crystal, towers of jade, bridges of woven water-lily stems. The streets were paved with stones that glowed, and the buildings were carved with images of fish and birds and humans, all intertwined, all connected. The Yacuruna walked the streets in silence, their pale bodies moving through the water like smoke through air.\n\nRosa was taken to a palace. The walls were lined with pearls, and the floor was carpeted with moss that was soft as fur. A Yacuruna man sat on a throne of coral. He was beautiful — more beautiful than any man she had ever seen — and his eyes were the color of the deep river, black and bottomless. He looked at Rosa and smiled, and his smile was the kind of smile that makes you forget everything else.\n\n'You will stay,' he said. 'You will live here. You will be mine.'\n\nRosa did not want to stay. She wanted to go home, to Santiago, to the surface world where the sun shone and the air was dry and the fish were real. But the Yacuruna's voice was like the river — it carried everything away. She forgot Santiago's face. She forgot the smell of wood smoke. She forgot the sound of the rain on the tin roof. She sat on the coral throne and stared at the water, and she was content.\n\nSantiago came home to an empty house. Rosa's clothes were on the line. Her cooking pot was on the fire. But Rosa was gone. He searched the bank. He called her name. He asked the neighbors. No one had seen her. He went to the river and looked at the water, and he knew — the way you know something without being told — that the Yacuruna had taken her.\n\nHe went to the old woman who lived at the edge of the village, the one who knew the river's secrets. She told him what to do: find a Yacuruna feather, tie it to a rope, and throw the rope into the deepest pool at midnight. The Yacuruna would pull him down, and he would have to fight his way to the city.\n\nHe did as she said. At midnight, in the deepest pool, he threw the rope. Something pulled. Santiago went under.\n\nThe Yacuruna city was exactly as the old woman had described — crystal domes, jade towers, woven bridges. Santiago walked through the streets, and the Yacuruna watched him with their too-large eyes. They did not stop him. They seemed to expect him.\n\nHe found Rosa on the coral throne. She was wearing a gown of water-lily silk, and her hair was long and flowing, and her eyes were the color of the river. She looked at Santiago and did not recognize him.\n\n'Rosa,' he said. 'It is me. Santiago. Your husband.'\n\nShe shook her head. 'I do not know that name.'\n\nSantiago felt something break in his chest. He reached into his pocket and pulled out a coca leaf — a single, dry, brown leaf, the kind he carried every day. He held it out to Rosa. 'Smell this,' he said. 'It smells like the morning. It smells like the fire. It smells like home.'\n\nRosa took the leaf. She held it to her nose. She inhaled.\n\nThe Yacuruna man on the throne stood. 'She is mine now,' he said. 'She chose this.'\n\n'She did not choose,' Santiago said. 'She was taken. And I have come to take her back.'\n\nThe Yacuruna man looked at Santiago for a long time. Then he sat down. 'Take her,' he said. 'But know this: she will never forget the river. She will always hear it. She will always feel it. And one day, she will come back.'\n\nSantiago took Rosa's hand and walked her out of the city, through the corridor of light, up the river, to the surface. They broke the water and gasped. The moon was high. The air was warm. Rosa looked at the world — the trees, the sky, the bank — and she remembered.\n\nThey walked home. Santiago built a fire. Rosa cooked. They did not speak about the river. But sometimes, at night, Rosa would walk to the bank and sit by the water, and she would listen. She would hear the flute. She would see the light. And she would turn and walk back to the house, because she had chosen the surface, and she would not go back.\n\nThe elders say the Yacuruna still take people. They say the river is deep, and the cities beneath it are beautiful, and the people who live there are lonely. They say the only way to bring someone back is with the smell of something from the surface — a coca leaf, a flower, a piece of wood. Something that smells like home. Because the river is strong, but home is stronger.",
+    "themes": [
+      "abduction",
+      "underwater-city",
+      "love",
+      "memory",
+      "river"
+    ],
+    "moral": "The river takes what it wants, but love brings it back. A single leaf from home is worth more than a city of jade.",
+    "source": "Based on Amazonian Peruvian oral traditions, particularly Shipibo and Asháninka stories of the Yacuruna as water people.",
+    "period": "Oral tradition, pre-contact to present",
+    "keywords": [
+      "yacuruna",
+      "water people",
+      "amazon",
+      "abduction",
+      "underwater city",
+      "river",
+      "peru"
+    ],
+    "creatures": [
+      "yacuruna"
+    ],
+    "source_quality": "good",
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-07",
+    "source_type": "oral_tradition"
+  },
+  {
+    "id": "story-paraguay-002",
+    "slug": "the-yaguarons-river-curse",
+    "title": "The Yaguarón's River Curse",
+    "country": "Paraguay",
+    "continent": "South America",
+    "region": "Guarani",
+    "type": "legend",
+    "summary": "A cat-like river monster with glowing eyes drags livestock and children beneath the brown waters of the Paraguay River, and only the medicine man's song can release them.",
+    "full_text": "The Paraguay River is brown and slow, and it carries more than water. It carries the silt of the Chaco, the clay of the pampas, the memories of the Guaraní. And in its deepest bends, where the current is slow and the water is opaque, the Yaguarón lives.\n\nThe Yaguarón is a river monster — part cat, part fish, part something that has no name in any language. It is large — as large as a capybara, or larger — and its body is covered in scales that are the color of the river: brown, murky, impossible to see. Its eyes are the only part that glows — two green lights, like fireflies, that float on the surface at dusk.\n\nThe Yaguarón hunts at twilight, when the cattle come to drink and the children play at the water's edge. It moves silently — no splash, no ripple, no sound — and when it finds what it wants, it strikes. It grabs the animal's legs and pulls. The cattle resist, but the Yaguarón is stronger than it looks. It pulls the animal under, and the water closes over both, and the river is still.\n\nThe children know the warning: do not play at the river at dusk. The Yaguarón is hungry. The Yaguarón is patient. The Yaguarón is waiting.\n\nThere was a family — Tomás, his wife Lucía, and their three children — who lived on the banks of the Paraguay River in the Chaco. They were farmers — they grew cotton and beans — and they depended on the river for water, for fish, for transport. The river was their life, and the Yaguarón was their fear.\n\nOne evening, Tomás's youngest son, a boy named Sebastián, went to the river to fetch water. It was almost dusk, and the light was fading, and the river was brown and still. Sebastián knelt at the water's edge and filled his bucket, and when he lifted the bucket, he saw the eyes.\n\nTwo green lights, floating on the surface, ten meters away. They were not moving. They were watching.\n\nSebastián froze. He had been told about the Yaguarón. He had been told not to go to the river at dusk. But he had forgotten. He was a child, and children forget.\n\nThe Yaguarón moved. The green lights drifted closer, and beneath the surface, something large and dark shifted. Sebastián felt the water move — a current, a pull, a hand made of water reaching for his ankles.\n\nHe ran. He ran to the house, and he told his father, and his father ran to the river with a torch. The torchlight hit the water, and the Yaguarón's eyes were gone. The river was still. But the cattle — two of Tomás's best cows — were gone too. The water had taken them.\n\nTomás called the medicine man — an old Guaraní healer named Ñe'ẽporã, who knew the songs and the herbs and the things that spirits fear. Ñe'ẽporã came to the river at dawn, and he sang. He sang the old songs — songs that the Guaraní had sung for centuries, songs that called to the water spirits, songs that asked for mercy.\n\nThe river listened. The water moved. And the Yaguarón rose — not to attack, not to fight, but to listen. It surfaced, its scales brown and glistening, its eyes green and calm, and it looked at Ñe'ẽporã with an expression that was not anger. It was hunger. The hunger of something that lives in the dark and eats what the river gives.\n\nÑe'ẽporã spoke to the Yaguarón in Guaraní. 'You are the river's child,' he said. 'The river feeds you. But do not take the children. Take the cattle, if you must. Take the fish. But do not take the children.'\n\nThe Yaguarón was silent. Then it sank, slowly, beneath the surface. The water closed over it, and the green lights faded.\n\nThe Yaguarón still hunts. It still takes cattle. It still lurks at the water's edge at dusk. But it does not take children. The medicine man's song holds. The bargain holds. The river remembers.\n\nThe elders say: if you go to the river at dusk, bring a song. The Yaguarón respects the song. The Yaguarón fears the song. The song is the only thing that stands between you and the brown water.",
+    "themes": [
+      "river-monster",
+      "bargain",
+      "medicine-man",
+      "song",
+      "protection"
+    ],
+    "moral": "The river feeds its children. Respect the water, sing the old songs, and the river will spare yours.",
+    "source": "Based on Guaraní oral traditions from the Paraguay River and Chaco region.",
+    "period": "Oral tradition, pre-contact to present",
+    "keywords": [
+      "yaguarón",
+      "guaraní",
+      "paraguay river",
+      "chaco",
+      "river monster",
+      "medicine man"
+    ],
+    "creatures": [
+      "yaguar-n"
+    ],
+    "source_quality": "good",
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-07",
+    "source_type": "oral_tradition"
+  },
+  {
+    "id": "story-skorea-007",
+    "slug": "the-yagwanggwi-night-watcher",
+    "title": "the Yagwanggwi, the Night Watcher",
+    "country": "South Korea",
+    "continent": "Asia",
+    "region": "Korean",
+    "type": "legend",
+    "summary": "A shadowy figure that watches over sleeping villages, its glowing eyes visible from the hilltops — because in Korea, someone must guard the night.",
+    "full_text": "The Yagwanggwi is the thing that watches.\n\nIt sits on the hilltops above the villages, in the places where the grass is long and the stones are old. It sits perfectly still, and it watches.\n\nThe Yagwanggwi is not human. It is not a spirit. It is something that exists in the space between — the space between the village and the forest, between the living and the dead, between the night and the dawn. It has eyes that glow — not brightly, not like fire, but like the last ember in a dying fire, a dull red that pulses slowly, like a heartbeat.\n\nThe Yagwanggwi watches over the villages. It watches the houses, the fields, the animals. It watches the people sleeping, the children dreaming, the old ones lying awake, listening to the night.\n\nThe Yagwanggwi does not protect the village. It does not need to. The village protects itself — with walls, with doors, with the dogs that bark at shadows. The Yagwanggwi watches. That is all.\n\nBut the Yagwanggwi sees things that the villagers do not. It sees the shadows that move when the moon is dark. It sees the figures that stand at the edge of the forest, waiting. It sees the smoke that rises from the ground where no fire burns.\n\nWhen the Yagwanggwi sees danger, it does not intervene. It does not fight. It does not warn. It simply glows brighter. Its eyes pulse faster. The red light spreads across the hilltop, and the villagers — even in their sleep — feel the warmth of it.\n\nThe warmth is enough. The dogs bark louder. The doors close tighter. The old ones sit up in bed and listen to the night, and the night is quiet.\n\nThe Yagwanggwi has sat on the hilltops for centuries. It has watched villages rise and fall, watched forests grow and shrink, watched the roads change from dirt to stone to asphalt. It has watched everything, and it has said nothing.\n\nSome people say the Yagwanggwi is a ghost. Some say it is a demon. Some say it is a god. It is none of these. It is the watcher. It is the thing that sits on the hilltop when the night is dark and the village is sleeping and the world is quiet.\n\nIf you walk through the Korean countryside at night, and you see a dull red light on a hilltop, do not be afraid. It is only the Yagwanggwi, doing what it has always done: watching the night, so that the village can sleep.",
+    "themes": [
+      "watcher",
+      "night",
+      "village",
+      "protection",
+      "stillness"
+    ],
+    "moral": "Not all guardians fight. Some simply watch.",
+    "keywords": [
+      "Yagwanggwi",
+      "night",
+      "watcher",
+      "hilltop",
+      "Korean",
+      "village",
+      "glowing eyes",
+      "guardian"
+    ],
+    "creatures": [
+      "yagwanggwi"
+    ],
+    "source": "Korean countryside folklore, various regions",
+    "source_type": "oral_tradition",
+    "source_quality": "medium",
+    "period": "Unknown origin",
+    "lastUpdated": "2026-08-07",
+    "version": "1.0.0"
+  },
+  {
+    "id": "story-lebanon-002",
+    "slug": "yamm-god-of-the-deep",
+    "title": "Yamm, God of the Deep",
+    "country": "Lebanon",
+    "continent": "Asia",
+    "region": "Middle Eastern",
+    "type": "myth",
+    "summary": "The sea god who was defeated by Baal but never destroyed, because the sea cannot be destroyed — it can only be held back by the strength of the storm.",
+    "full_text": "Yamm is the sea.\n\nNot the sea as humans see it — the blue surface, the white waves, the sandy shore. Yamm is the sea as it truly is: the deep, the dark, the cold, the pressure that crushes the breath from your lungs, the darkness that swallows the light.\n\nYamm is old. Older than Baal. Older than the cedars. Older than the mountains. Yamm was the first god — the god of the water that covered the world before the land rose, before the sky was lifted, before the gods took their seats on the throne.\n\nYamm wanted to be king. It was not ambition — it was nature. The sea covers everything. The sea is everywhere. The sea is the default state of the world. Yamm did not understand why anything should exist but the water.\n\nBut the gods disagreed. Baal disagreed. The storm disagreed. The wind disagreed. The land disagreed.\n\nThe battle between Baal and Yamm was not a fair fight. Baal had weapons — Yagarr and Thamarr, the clubs of thunder and lightning. Yamm had only himself: the sea, the deep, the cold.\n\nBaal struck Yamm with Yagarr, and the thunder shook the waves. He struck with Thamarr, and the lightning split the surface. Yamm fell. The sea fell back. The land rose.\n\nBut Yamm did not die. Yamm cannot die. The sea cannot die. You can strike the sea with thunder and lightning, and the waves will fall back, and the shore will dry, and the land will rise. But the sea does not die. It waits. It watches. It rises again.\n\nYamm rose again. Not in the battle — in the storm. Every storm that comes from the Mediterranean is Yamm, rising. Every wave that crashes on the Lebanese shore is Yamm, reaching. Every flood that fills the rivers and drowns the fields is Yamm, remembering.\n\nBaal holds Yamm back. The storm holds the sea back. But the sea is patient, and the storm is not always there.\n\nThe Lebanese know that the sea is not their friend. They fish in it. They sail on it. They build their cities along its shore. But they know that the sea is Yamm, and Yamm wants to be king.\n\nWhen the storms come, the Lebanese close their doors and wait. They know that Baal is fighting Yamm. They know that the storm will pass. They know that the sea will calm.\n\nBut they also know that the sea will rise again.",
+    "themes": [
+      "sea",
+      "storm",
+      "patience",
+      "balance",
+      "nature"
+    ],
+    "moral": "The sea cannot be destroyed. It can only be held back by the strength of the storm.",
+    "keywords": [
+      "Yamm",
+      "sea",
+      "Baal",
+      "storm",
+      "Ugaritic",
+      "Lebanon",
+      "Mediterranean",
+      "deep",
+      "patience"
+    ],
+    "creatures": [
+      "yamm-lebanon"
+    ],
+    "source": "Ugaritic texts (Ras Shamra tablets), 14th century BC",
+    "source_type": "literary",
+    "source_quality": "high",
+    "period": "Late Bronze Age (1400–1200 BC)",
+    "lastUpdated": "2026-08-07",
+    "version": "1.0.0"
   }
 ]

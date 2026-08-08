@@ -27,19 +27,11 @@
     "creatures": [
       "skogsr"
     ],
-    "source_quality": "researched",
+    "source_quality": "fair",
     "slug": "the-iron-pig",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-18",
-    "source_type": "oral_tradition",
-    "source_references": [
-      {
-        "title": "Kinder- und Hausmärchen: Das Eisenhütchen",
-        "author": "Brüder Grimm",
-        "year": 1819,
-        "publisher": "Realschulbuchhandlung"
-      }
-    ]
+    "lastUpdated": "2026-08-07",
+    "source_type": "oral_tradition"
   },
   {
     "id": "story80",
@@ -71,20 +63,11 @@
     "creatures": [
       "eynhallow-monk"
     ],
-    "source_quality": "researched",
+    "source_quality": "fair",
     "slug": "ikkyu-the-monk-child",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-18",
-    "source_type": "oral_tradition",
-    "source_references": [
-      {
-        "title": "Wild Ways: Zen Poems of Ikkyū Sōjun",
-        "author": "John Stevens (trans.)",
-        "year": 1995,
-        "publisher": "Shambhala Publications",
-        "note": "Translation and biography of the eccentric Zen monk Ikkyū, whose life inspired centuries of Japanese folklore."
-      }
-    ]
+    "lastUpdated": "2026-08-07",
+    "source_type": "oral_tradition"
   },
   {
     "id": "story106",
@@ -118,25 +101,11 @@
     "creatures": [
       "icarus"
     ],
-    "source_quality": "researched",
+    "source_quality": "unknown",
     "slug": "icarus-wings-too-close-to-the-sun",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-18",
-    "source_type": "literary",
-    "source_references": [
-      {
-        "title": "Metamorphoses, Book VIII",
-        "author": "Ovid",
-        "year": 8,
-        "publisher": "Ancient Rome"
-      },
-      {
-        "title": "The Oxford Companion to Classical Literature",
-        "author": "M.C. Howatson (ed.)",
-        "year": 2011,
-        "publisher": "Oxford University Press"
-      }
-    ]
+    "lastUpdated": "2026-08-07",
+    "source_type": "literary"
   },
   {
     "id": "story173",
@@ -164,22 +133,12 @@
       "mountain",
       "alps"
     ],
-    "creatures": [
-      "spirit"
-    ],
-    "source_quality": "researched",
+    "creatures": [],
+    "source_quality": "unknown",
     "slug": "the-ice-maiden",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition",
-    "source_references": [
-      {
-        "title": "Andersen's Fairy Tales",
-        "author": "Hans Christian Andersen (trans. Tiina Nunnally)",
-        "year": 2005,
-        "publisher": "Penguin Classics"
-      }
-    ]
+    "lastUpdated": "2026-08-07",
+    "source_type": "oral_tradition"
   },
   {
     "id": "story308",
@@ -210,25 +169,11 @@
     "creatures": [
       "ifrit-arabia"
     ],
-    "source_quality": "researched",
+    "source_quality": "unknown",
     "slug": "ifrit",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition",
-    "source_references": [
-      {
-        "title": "A Dictionary of Muslim Names",
-        "author": "Sa'id Rahman",
-        "year": 2001,
-        "publisher": "New Age International"
-      },
-      {
-        "title": "The Jinns in Medieval Islamic Society",
-        "author": "B. Opie",
-        "year": 2003,
-        "publisher": "Routledge"
-      }
-    ]
+    "lastUpdated": "2026-08-07",
+    "source_type": "oral_tradition"
   },
   {
     "id": "story338",
@@ -236,7 +181,7 @@
     "country": "Nigeria",
     "continent": "Africa",
     "region": "West Africa",
-    "type": "folklore",
+    "type": "folktale",
     "summary": "A clever Yoruba tortoise tries to attend a sky feast by tricking birds into carrying him, but his greed leads to a cracked shell.",
     "full_text": "Ijapa the tortoise was the most cunning creature in all of Yorubaland. He was small and slow, but his mind moved faster than any other animal's. His schemes were legendary, and his appetite was even more legendary.\n\nOne day, Ijapa heard that the sky god Olorun was preparing a great feast for all the animals of the earth. Every creature was invited — the elephant, the lion, the antelope, the monkey — every creature, that is, except the tortoise. Olorun had heard of Ijapa's tricks and specifically forbade him from attending.\n\nBut Ijapa was not one to be left out of a feast. He went to the bird Agbe, who had been invited, and offered to paint beautiful patterns on Agbe's wings in exchange for a ride to the sky. Agbe agreed. Ijapa painted the bird's wings with intricate designs and hid himself among Agbe's feathers.\n\nWhen Agbe arrived at Olorun's feast, Ijapa slipped out and joined the other animals. Olorun did not recognize him in the crowd. The feast was magnificent — mountains of yam, rivers of palm wine, forests of roasted meat. Ijapa ate until his belly swelled like a drum.\n\nBut Olorun, who sees all things, eventually noticed the tortoise. He was furious. He grabbed Ijapa and flung him back to earth. Ijapa fell for three days and three nights, crashing through the roof of his house. His shell shattered into a thousand pieces. His wife, with the help of the village healer, pieced the shell back together — but it was never smooth again. To this day, the tortoise carries the cracks on his shell as a reminder of his greed.\n\nThe Yoruba say: Greed takes you high, but it brings you down hard.",
     "themes": [
@@ -258,20 +203,11 @@
     "creatures": [
       "ijapa"
     ],
-    "source_quality": "researched",
+    "source_quality": "unknown",
     "slug": "ijapa-and-the-sky-feast",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition",
-    "source_references": [
-      {
-        "title": "A Treasury of African Folklore",
-        "author": "Harold Courlander",
-        "year": "1975",
-        "publisher": "Crown Publishers, New York",
-        "note": "Yoruba trickster tales featuring Ijapa (Tortoise), a central figure in West African oral narrative tradition."
-      }
-    ]
+    "lastUpdated": "2026-08-07",
+    "source_type": "oral_tradition"
   },
   {
     "id": "story345",
@@ -301,19 +237,11 @@
     "creatures": [
       "iara"
     ],
-    "source_quality": "researched",
+    "source_quality": "fair",
     "slug": "iara-the-river-mother-of-brazil",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-18T02:19:55.155Z",
-    "source_type": "oral_tradition",
-    "source_references": [
-      {
-        "title": "Folk-Lore Brasileiro",
-        "author": "Silvio Romero",
-        "year": 1885,
-        "publisher": "L. Garnier, Rio de Janeiro"
-      }
-    ]
+    "lastUpdated": "2026-08-07",
+    "source_type": "oral_tradition"
   },
   {
     "id": "story370",
@@ -343,20 +271,11 @@
     "creatures": [
       "ibonia-malagasy"
     ],
-    "source_quality": "researched",
+    "source_quality": "fair",
     "slug": "ibonia-the-epic-hero-of-madagascar",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-18",
-    "source_type": "oral_tradition",
-    "source_references": [
-      {
-        "title": "Histoire de la grande île de Madagascar (History of the Great Island of Madagascar)",
-        "author": "Jean-François de La Harpe",
-        "year": 1785,
-        "publisher": "Paris",
-        "note": "Early European account of Malagasy oral epic traditions including the Ibonia cycle, the longest epic in Malagasy literature."
-      }
-    ]
+    "lastUpdated": "2026-08-07",
+    "source_type": "oral_tradition"
   },
   {
     "id": "story468",
@@ -393,25 +312,11 @@
       "raven-canada",
       "raven-greenland"
     ],
-    "source_quality": "researched",
+    "source_quality": "good",
     "slug": "innocences-journey",
-    "version": "1.1.0",
-    "lastUpdated": "2026-07-18",
-    "source_type": "oral_tradition",
-    "source_references": [
-      {
-        "title": "Danmarks Folkeeventyr (Danish Folktales)",
-        "author": "Grundtvig, S.",
-        "year": 1878,
-        "publisher": "Gyldendalske Boghandels Forlag, Copenhagen"
-      },
-      {
-        "title": "Danish Fairy and Folk Tales",
-        "author": "Andersen, J. (ed. & trans.)",
-        "year": 1898,
-        "publisher": "S. C. Griggs and Company, Chicago"
-      }
-    ]
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-07",
+    "source_type": "oral_tradition"
   },
   {
     "id": "story579",
@@ -440,25 +345,11 @@
       "louhi-finland",
       "ilmarinen-finland"
     ],
-    "source_quality": "researched",
+    "source_quality": "unknown",
     "slug": "ilmarinen-forges-the-sampo",
-    "version": "1.0.1",
-    "lastUpdated": "2026-07-18",
-    "source_type": "literary",
-    "source_references": [
-      {
-        "title": "The Kalevala: A New Verse Translation",
-        "author": "Elias Lönnrot (trans. Keith Bosley)",
-        "year": 1989,
-        "publisher": "Oxford University Press"
-      },
-      {
-        "title": "The Sampo: A Magic Mill",
-        "author": "Martti Haavio",
-        "year": 1952,
-        "publisher": "Suomalainen Tiedeakatemia"
-      }
-    ]
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-07",
+    "source_type": "literary"
   },
   {
     "id": "story588",
@@ -490,25 +381,11 @@
       "louhi-finland",
       "ilmarinen-finland"
     ],
-    "source_quality": "researched",
+    "source_quality": "unknown",
     "slug": "ilmarinens-wooing",
-    "version": "1.0.1",
-    "lastUpdated": "2026-07-18",
-    "source_type": "literary",
-    "source_references": [
-      {
-        "title": "The Kalevala: An Epic Poem after the Oral Traditions of Finland",
-        "author": "Elias Lönnrot (trans. Francis Peabody Magoun Jr.)",
-        "year": 1963,
-        "publisher": "Harvard University Press"
-      },
-      {
-        "title": "Sammon salaisuus",
-        "author": "Martti Haavio",
-        "year": 1948,
-        "publisher": "Werner Söderström Osakeyhtiö"
-      }
-    ]
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-07",
+    "source_type": "literary"
   },
   {
     "id": "story590",
@@ -538,25 +415,11 @@
       "louhi-finland",
       "ilmarinen-finland"
     ],
-    "source_quality": "researched",
+    "source_quality": "unknown",
     "slug": "ilmarinens-wedding-feast",
-    "version": "1.0.1",
-    "lastUpdated": "2026-07-18",
-    "source_type": "literary",
-    "source_references": [
-      {
-        "title": "The Kalevala: A New Verse Translation",
-        "author": "Elias Lönnrot (trans. Keith Bosley)",
-        "year": 1989,
-        "publisher": "Oxford University Press"
-      },
-      {
-        "title": "Finnish Folklore Research",
-        "author": "Kaarle Krohn",
-        "year": 1926,
-        "publisher": "Société Finno-Ougrienne"
-      }
-    ]
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-07",
+    "source_type": "literary"
   },
   {
     "id": "story598",
@@ -581,25 +444,11 @@
     "creatures": [
       "vainamoinen-finland"
     ],
-    "source_quality": "researched",
+    "source_quality": "unknown",
     "slug": "the-isle-of-refuge",
-    "version": "1.0.1",
-    "lastUpdated": "2026-07-18",
-    "source_type": "literary",
-    "source_references": [
-      {
-        "title": "The Kalevala: An Epic Poem after the Oral Traditions of Finland",
-        "author": "Elias Lönnrot (trans. Francis Peabody Magoun Jr.)",
-        "year": 1963,
-        "publisher": "Harvard University Press"
-      },
-      {
-        "title": "Kalevala: The Finnish Epic of Magic and Adventure",
-        "author": "Gerald Cain",
-        "year": 1989,
-        "publisher": "Firebird Book Publishing"
-      }
-    ]
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-07",
+    "source_type": "literary"
   },
   {
     "id": "story606",
@@ -628,25 +477,11 @@
     "creatures": [
       "ilmarinen-finland"
     ],
-    "source_quality": "researched",
+    "source_quality": "unknown",
     "slug": "ilmarinens-bride-of-gold",
-    "version": "1.0.1",
-    "lastUpdated": "2026-07-18",
-    "source_type": "literary",
-    "source_references": [
-      {
-        "title": "The Kalevala: A New Verse Translation",
-        "author": "Elias Lönnrot (trans. Keith Bosley)",
-        "year": 1989,
-        "publisher": "Oxford University Press"
-      },
-      {
-        "title": "The Hammer of the Smith: The Forge in Finnish Folklore",
-        "author": "Leea Virtanen",
-        "year": 1977,
-        "publisher": "SKS"
-      }
-    ]
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-07",
+    "source_type": "literary"
   },
   {
     "id": "story607",
@@ -674,25 +509,11 @@
     "creatures": [
       "ilmarinen-finland"
     ],
-    "source_quality": "researched",
+    "source_quality": "unknown",
     "slug": "ilmarinens-fruitless-wooing",
-    "version": "1.0.1",
-    "lastUpdated": "2026-07-18",
-    "source_type": "literary",
-    "source_references": [
-      {
-        "title": "The Kalevala: An Epic Poem after the Oral Traditions of Finland",
-        "author": "Elias Lönnrot (trans. Francis Peabody Magoun Jr.)",
-        "year": 1963,
-        "publisher": "Harvard University Press"
-      },
-      {
-        "title": "Suomen uskonto",
-        "author": "Sibling Sixtus Hämäläinen",
-        "year": 1920,
-        "publisher": "Kustannusosakeyhtiö Kirja"
-      }
-    ]
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-07",
+    "source_type": "literary"
   },
   {
     "id": "story638",
@@ -716,19 +537,11 @@
     "creatures": [
       "ice-maiden-denmark"
     ],
-    "source_quality": "researched",
+    "source_quality": "unknown",
     "slug": "the-ice-maiden-1",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
-    "source_type": "oral_tradition",
-    "source_references": [
-      {
-        "title": "Hans Christian Andersen: The Complete Fairy Tales",
-        "author": "Hans Christian Andersen (trans. Jean Hersholt)",
-        "year": 1974,
-        "publisher": "Oxford University Press"
-      }
-    ]
+    "lastUpdated": "2026-08-07",
+    "source_type": "oral_tradition"
   },
   {
     "id": "story771",
@@ -761,27 +574,11 @@
       "ulda-sami",
       "haldi-sami"
     ],
-    "source_quality": "researched",
+    "source_quality": "fair",
     "slug": "in-the-house-of-ulda",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-18T03:10:17.217Z",
-    "source_type": "oral_tradition",
-    "source_references": [
-      {
-        "title": "Lappiske eventyr og sagn",
-        "author": "Jens Andreas Friis",
-        "year": 1871,
-        "publisher": "Cammermeyer Forlag, Christiania",
-        "note": "Contains this narrative about the underworld realm of Ulda, a Sami deity associated with the subterranean world of the dead."
-      },
-      {
-        "title": "Samernas mytologi och världsbild",
-        "author": "Anna M. H. Jones and Görel Cavalli-Sforza",
-        "year": 1984,
-        "publisher": "Norstedts Förlag, Stockholm",
-        "note": "Study of Sami cosmological concepts including Ulda's underworld, documented as part of the traditional Sami three-tiered cosmos."
-      }
-    ]
+    "lastUpdated": "2026-08-07",
+    "source_type": "oral_tradition"
   },
   {
     "id": "story867",
@@ -790,7 +587,7 @@
     "continent": "North America",
     "region": "North American",
     "tribe": "Pueblo",
-    "type": "creation-myth",
+    "type": "myth",
     "summary": "In the Acoma Pueblo creation myth, two sisters named Iatiku (Life Bringer) and Nautsiti (Full Basket) emerged from the underworld through a sacred place called Shipapu, guided by Tsichtinako (Thought Woman). They were given two baskets containing seeds, animal figurines, and sacred objects. Tsichtinako instructed them to pray to the Sun (Uchtsiti), their father, who had created the world from a clot of his own blood. The sisters created the mountains, directions, plants, and animals. Iatiku created the Corn Mother and the Kachinas. Nautsiti introduced death into the world when she disobeyed a taboo. The sisters became the mothers of the Acoma people, with Iatiku's children becoming the Pueblo clans. The story explains the origins of ceremonies, clans, and the relationship between the people, the land, and the spirits.",
     "source": "Edward Proctor Hunt, The Origin Myth of Acoma Pueblo (1928); Peter Nabokov edition (2015)",
     "creatures": [
@@ -803,43 +600,13 @@
       "koshari-pueblo",
       "spider-woman-navajo"
     ],
-    "source_quality": "researched",
+    "source_quality": "good",
     "slug": "the-iatiku-and-nautsiti-creation-acoma-pueblo",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-20",
+    "lastUpdated": "2026-08-07",
     "period": "ancient",
     "source_type": "oral_tradition",
-    "source_references": [
-      {
-        "title": "Mythology of the Acoma Indians",
-        "author": "Adolph F. Bandelier",
-        "year": 1890,
-        "publisher": "Proceedings of the American Association for the Advancement of Science, Vol. 39"
-      },
-      {
-        "title": "The Delight Makers",
-        "author": "Adolph F. Bandelier",
-        "year": 1890,
-        "publisher": "Dodd, Mead and Company, New York"
-      }
-    ],
-    "full_text": "Before the Acoma people walked the earth, two sisters stood at the entrance to Shipapu, the place of emergence, and looked out at a world that was still being made. Iatiku, the elder, was called Life Bringer, for she carried in her basket the seeds of corn, beans, and squash — the three sisters that would feed the people. Nautsiti, the younger, was called Full Basket, for her basket held the animal figurines and sacred objects that would give the world its creatures. Tsichtinako, Thought Woman, stood behind them and gave instructions. She told them to pray to Uchtsiti, the Sun, their father, who had created the world from a clot of his own blood and was waiting in the sky to see what his daughters would make of it. Iatiku went east and placed the first corn seeds in the earth. The earth accepted them, and green shoots appeared within hours. Nautsiti went west and released the animal figurines from her basket. They shook themselves and became real — deer, rabbits, eagles, bears, each one finding its place in the landscape. Iatiku created the Corn Mother, a being of infinite patience who would teach the people to plant and harvest. She also summoned the Kachinas, spirits of rain and fertility who would dance for the people in times of need. Nautsiti, in her eagerness, touched something she was not meant to touch, and in doing so introduced death into the world. It was not malice — it was accident, a consequence of curiosity, but it changed everything. The sisters became the mothers of the Acoma people. Iatiku's children became the clans, each one carrying a fragment of her wisdom. The ceremonies the people perform today are the ceremonies the sisters taught them: dances for rain, prayers for corn, songs for the dead. The Acoma have lived on their mesa for a thousand years, and they say it is because Iatiku and Nautsiti made the world right in the beginning, and the people have kept it right ever since.",
-    "themes": [
-      "nature",
-      "creation",
-      "family",
-      "animal",
-      "death"
-    ],
-    "moral": "Harmony with nature brings balance to the spirit.",
-    "keywords": [
-      "spirits",
-      "deer",
-      "kachinas",
-      "iatiku",
-      "nautsiti",
-      "creation"
-    ]
+    "full_text": "Before the world had shape, there was only Shipapu — a dark opening in the earth through which the first light would eventually shine. From within this darkness, the voice of Tsichtinako — Thought Woman — spoke. She could not be seen, for she was a spirit without a body, a voice without a face. But her words were precise as starlight.\n\n\"Two sisters must emerge,\" she said. \"Iatiku — Life Bringer — and Nautsiti — Full Basket. They will carry the seeds of everything that lives.\"\n\nThe sisters climbed upward from the underworld, emerging into a world of blinding light and empty plains. Tsichtinako placed two baskets in their hands: one filled with seeds — corn, beans, squash, sunflower — and one filled with animal figurines of wood and stone, each one carved with the likeness of a creature that did not yet exist.\n\n\"Pray to the Sun, your father,\" Tsichtinako instructed. \"He created this world from a clot of his own blood. Without his warmth, nothing will grow.\"\n\nThe sisters knelt and prayed. The Sun — Uchtsiti — looked down from the sky and sent his rays to warm the earth. Where his light touched the soil, it turned from gray to brown to rich, dark loam. The sisters planted the seeds from their baskets, and from the earth rose the mountains, the rivers, the plains.\n\nIatiku created the Corn Mother — a figure of power and abundance — and the Kachinas, spirits who would bring rain and fertility. Nautsiti, proud and independent, introduced death into the world when she disobeyed a taboo, walking where she was told not to walk and touching what she was told not to touch.\n\nThe sisters became the mothers of the Acoma people. Iatiku's children became the clans — the Corn Clan, the Sun Clan, the Kachina Clan — each one carrying a piece of the original gift. The story explains the origins of ceremonies, clans, and the relationship between the people, the land, and the spirits who watch from above.\n\nThe baskets that Tsichtinako gave are still represented in Acoma ceremonies, carried by priests who walk the paths the sisters first walked, planting hope in the dry earth."
   },
   {
     "id": "story911",
@@ -848,49 +615,19 @@
     "continent": "North America",
     "region": "North American",
     "tribe": "Lakota",
-    "type": "trickster",
+    "type": "folktale",
     "summary": "Iktomi is the spider trickster of Lakota mythology, born fully grown with the body of a spider and the cunning of a man. He is known for his clever schemes and predictions, but his selfishness and mischievous nature often backfire. In one tale, Iktomi tried to keep a pot of fish soup for himself rather than share with a visitor, devising a race trick that ultimately failed. In another, Iktomi angered a boulder and was crushed, only to be freed by bats who were turned into stones. Despite his flaws, Iktomi is considered wise and his stories teach moral lessons about generosity and respect.",
     "source": "Wikipedia / Readmio / ALA",
     "creatures": [
       "iktomi-lakota"
     ],
-    "source_quality": "researched",
+    "source_quality": "fair",
     "slug": "iktomi-the-spider-trickster",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-20",
+    "lastUpdated": "2026-08-07",
     "period": "traditional",
     "source_type": "oral_tradition",
-    "source_references": [
-      {
-        "title": "The Spider Man: A Sioux Myth Told to Little Boys and Girls",
-        "author": "Charles A. Eastman (Ohiyesa) and Elaine Goodale Eastman",
-        "year": 1918,
-        "publisher": "Little, Brown and Company, Boston"
-      },
-      {
-        "title": "Indian Story and Song from the North American Plains",
-        "author": "Alice C. Fletcher",
-        "year": 1900,
-        "publisher": "Ginn and Company, Boston"
-      }
-    ],
-    "full_text": "Iktomi was born fully formed — a spider with the body of a man, or a man with the legs of a spider, depending on who was telling the story. He came into the world already knowing everything and already planning to use that knowledge for his own amusement. He was clever. He was cunning. He was, more often than not, his own worst enemy. In one story, Iktomi found a pot of fish soup simmering over a fire. It smelled divine, and he was about to eat when a visitor appeared — a hungry traveler with hollow eyes and a rumbling belly. Iktomi did not want to share. He devised a race: whoever ran around the lake faster would get the soup. He told the traveler to run clockwise while he ran counterclockwise, knowing they would meet at the starting line. But Iktomi had secretly marked a tree as a shortcut. When the traveler saw Iktomi ahead of him, he was confused, but he kept running. Iktomi won the race and ate the soup alone. The traveler, who was a spirit in disguise, cursed Iktomi's greed, and the soup turned to ash in his mouth. In another story, Iktomi met a boulder sitting in the middle of a trail. Feeling generous — or perhaps feeling superior — he draped his fine robe over the boulder. Later, when he wanted the robe back, the boulder refused. Iktomi insulted the boulder. The boulder, who was larger and older and had no patience for foolishness, rolled after Iktomi and crushed him flat. Bats came to help, peeling the boulder away, but their faces were smashed flat in the effort. Iktomi, freed, scattered pebbles across the plains in gratitude — the stones that cover the ground to this day. Iktomi's stories are cautionary tales. He is not a hero. He is not a villain. He is a mirror, reflecting the parts of ourselves that are petty, vain, and self-destructive, and reminding us that cleverness without wisdom is the shortest path to ruin.",
-    "themes": [
-      "trickery",
-      "trickster",
-      "wisdom",
-      "knowledge",
-      "oral_tradition"
-    ],
-    "moral": "The trickster teaches through reversal and wit.",
-    "keywords": [
-      "spirit",
-      "spider",
-      "iktomi",
-      "trickster",
-      "native american",
-      "north american"
-    ]
+    "full_text": "Iktomi was born fully grown — no childhood, no learning, no gradual awakening. One moment he was nothing, and the next he was a spider with the body of a spider and the cunning of a man. He emerged into the world already knowing its tricks, already planning his schemes.\n\nHe was known as the trickster, the weaver of false webs, the maker of predictions that came true in ways no one expected. His stories were told around the fire, each one a warning wrapped in laughter.\n\nIn one tale, Iktomi found a pot of fish soup simmering over a fire. It was not his soup. He knew this. He sat down beside it anyway and began to eat. When a visitor arrived — a traveler with hollow cheeks and hopeful eyes — Iktomi devised a trick to keep the soup for himself.\n\n\"Let us race,\" Iktomi said. \"The winner takes the soup.\"\n\nThe traveler agreed. Iktomi drew a line in the dirt and told the traveler to run to the cottonwood tree and back. But while the traveler ran, Iktomi ate the soup. When the traveler returned, breathless and victorious, the pot was empty.\n\nThe traveler looked at the empty pot. Then he looked at Iktomi. Then he smiled. \"You have won the soup,\" he said. \"But you have lost something more valuable — the trust of anyone who hears this story.\"\n\nIktomi laughed, but the laughter was hollow, for he knew the traveler was right.\n\nIn another tale, Iktomi angered a boulder by insulting its weight and stubbornness. The boulder chased him and crushed him flat. Bats came to help, pecking at the boulder until it cracked open. But the bats' faces were smashed flat in the effort, and Iktomi — ever ungrateful — scattered pebbles that became the stones covering the plains.\n\nDespite his flaws, Iktomi is considered wise. His stories teach moral lessons about generosity, respect, and the consequences of selfishness. He is the trickster who reveals truth through deception, who teaches wisdom through folly."
   },
   {
     "id": "story917",
@@ -899,49 +636,19 @@
     "continent": "North America",
     "region": "North American",
     "tribe": "Lakota",
-    "type": "trickster",
+    "type": "folktale",
     "summary": "Iktomi the spider trickster wrapped himself in a fine robe and went walking. He came upon a large boulder and, feeling generous, offered it his robe. The boulder declined, but Iktomi insisted and placed the robe upon it. Later, when Iktomi wanted his robe back, the boulder refused. Iktomi grew angry and insulted the boulder, which chased him and crushed him flat. Bats came to help Iktomi, pecking at the boulder until it cracked open, freeing him. But the bats' faces were smashed flat in the effort, and Iktomi—ever ungrateful—scattered pebbles that became the stones covering the plains.",
     "source": "ALA / Paul Goble collection",
     "creatures": [
       "iktomi-lakota"
     ],
-    "source_quality": "researched",
+    "source_quality": "good",
     "slug": "iktomi-and-the-boulder",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-20",
+    "lastUpdated": "2026-08-07",
     "period": "traditional",
     "source_type": "oral_tradition",
-    "source_references": [
-      {
-        "title": "The Spider Man: A Sioux Myth Told to Little Boys and Girls",
-        "author": "Charles A. Eastman (Ohiyesa) and Elaine Goodale Eastman",
-        "year": 1918,
-        "publisher": "Little, Brown and Company, Boston"
-      },
-      {
-        "title": "Tales of the Lakota",
-        "author": "Charles Eastman (Ohiyesa)",
-        "year": 1926,
-        "publisher": "Little, Brown and Company, Boston"
-      }
-    ],
-    "full_text": "Iktomi wrapped himself in a fine robe and went walking, as he often did, looking for someone to impress or something to steal. He came upon a large boulder sitting in the middle of the trail, its surface smooth and weathered, its shadow long in the afternoon sun. Iktomi felt a rare impulse — generosity. 'You look cold,' he said to the boulder. 'Take my robe.' The boulder said nothing. Iktomi draped the robe over its surface and continued on his way, feeling pleased with himself. Hours later, the sun went down and the air turned cold. Iktomi returned to retrieve his robe. 'I'll have the robe back now,' he said. The boulder said nothing. 'Did you hear me?' Iktomi said. 'Give me back my robe.' The boulder did not move. Iktomi grew angry. He shouted. He insulted the boulder. He kicked it, which only hurt his foot. The boulder, who had been patient, who had tolerated the robe being draped over it without complaint, finally lost patience. It rolled. It chased Iktomi down the trail, gathering speed, its surface grinding against the earth with a sound like grinding teeth. Iktomi ran, but the boulder was faster. It caught him and crushed him flat, pressing him into the ground like a bug. Iktomi lay there, flattened and humiliated, unable to move, unable to speak. The boulder settled back into its place and was still. Hours passed. Then bats came — small, squeaking, blind in the daylight. They saw Iktomi trapped and took pity on him. They pecked at the boulder, chipping away at its edges, their small teeth making no impression at first. But they persisted, and eventually the boulder cracked. Iktomi crawled free, gasping, his body sore, his pride in tatters. The bats' faces were smashed flat from the effort — a deformity they carry to this day. Iktomi, ever ungrateful, scattered pebbles on the ground as if they were coins payment for services rendered. The pebbles covered the plains, and the bats flew away, and Iktomi went home, promising himself he would never be generous again.",
-    "themes": [
-      "trickery",
-      "nature",
-      "trickster",
-      "hunting",
-      "earth"
-    ],
-    "moral": "Cleverness can triumph over brute strength.",
-    "keywords": [
-      "spider",
-      "iktomi",
-      "boulder",
-      "native american",
-      "north american",
-      "united states"
-    ]
+    "full_text": "Iktomi the spider trickster wrapped himself in a fine robe and went walking. He was feeling generous — a rare and dangerous state for Iktomi, for his generosity usually came with strings attached.\n\nHe came upon a large boulder sitting in the middle of the trail. \"You must be cold,\" Iktomi said to the boulder. \"Here — take my robe.\"\n\nThe boulder did not respond. It was a boulder.\n\n\"I insist,\" Iktomi said, draping the robe across the boulder's surface. \"A fine robe like this deserves a fine recipient.\"\n\nIktomi walked away, feeling virtuous. But when the wind picked up and the air grew cold, he wanted his robe back. He returned to the boulder.\n\n\"I have come for my robe,\" he said.\n\nThe boulder did not respond.\n\n\"My robe,\" Iktomi repeated, tugging at the fabric. It did not move. The boulder had absorbed the robe into itself, as boulders do.\n\nIktomi grew angry. \"You ungrateful stone! I gave you my finest robe and you refuse to return it!\"\n\nHe insulted the boulder. He kicked it. He scratched at it with his spider claws.\n\nThe boulder, who had patience but not infinite patience, began to move. It rolled toward Iktomi, slowly at first, then faster. Iktomi ran, but the boulder was relentless. It caught him and crushed him flat.\n\nIktomi lay in the dust, flattened like a pressed leaf. He could not move. He could not speak. He could only watch as the sky wheeled overhead.\n\nBats came to help. They flew down from the rocks and pecked at the boulder with their tiny teeth. They pecked and pecked until the boulder cracked open, and Iktomi slid free.\n\nBut the bats' faces were smashed flat in the effort. To this day, bats have flattened faces — a reminder of the time they saved the trickster who could not save himself.\n\nIktomi, ever ungrateful, scattered pebbles across the plains as he walked away. The pebbles became the stones that cover the land, and Iktomi never wore a robe again."
   },
   {
     "id": "story1022",
@@ -950,44 +657,17 @@
     "continent": "North America",
     "region": "North American",
     "tribe": "Huron (Wyandot)",
-    "type": "creation-myth",
+    "type": "myth",
     "summary": "After Aataentsic fell to the new earth, she gave birth to twin daughters. One of these daughters, Tekawerahkwa, became the mother of twin sons — Ioskeha and Tawescaron. The twins were opposites in every way. Ioskeha, the older twin, was the benefactor of the Huron people. He created the sun from his mother's body, brought light to the world, slew monsters, gave the people corn and tobacco, and taught them how to live. Tawescaron, the younger twin, was his antagonist. He created monsters, darkness, and winter, and constantly tried to undo his brother's good works. Ioskeha represented light, creation, and life, and was associated with the sun. Tawescaron represented darkness, destruction, and death, and was associated with the night and winter. Despite their opposition, both were necessary for the balance of the world.",
     "source": "Barbeau - Huron and Wyandot Mythology; native-languages.org Wyandot Legends",
-    "creatures": [
-      "ioskeha",
-      "tawescaron"
-    ],
-    "source_quality": "researched",
+    "creatures": [],
+    "source_quality": "unknown",
     "slug": "ioskeha-and-tawescaron-the-twin-brothers",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-20",
+    "lastUpdated": "2026-08-07",
     "period": "ancient",
     "source_type": "oral_tradition",
-    "source_references": [
-      {
-        "title": "Huron and Wyandot Mythology",
-        "author": "Barbeau, Marius",
-        "year": 1915,
-        "publisher": "Government Printing Bureau (Canada), Anthropological Series No. 15"
-      }
-    ],
-    "full_text": "After Aataentsic fell from the Sky Land and landed on the back of the Great Turtle, she gave birth to twin daughters. One of these daughters, Tekawerahkwa, bore twin sons — Ioskeha and Tawescaron. From the moment of their birth, the brothers were enemies. They fought in the womb. They fought in the cradle. They fought with sticks and stones and words and silence, and their mother could not stop them. Ioskeha, the older, was the bringer of light. He created the sun from his mother's body when she died, lifting it into the sky to warm the world. He slew the monsters that terrorized the people, giving them corn and tobacco, teaching them how to live in harmony with the land. He was associated with the sun, with the east, with the morning — with everything that grows and flourishes. Tawescaron, the younger, was his opposite. He created darkness, winter, and the monsters that Ioskeha destroyed. He tried to undo his brother's work at every turn — freezing the crops, poisoning the water, whispering doubt into the hearts of the people. He was associated with the night, with the west, with the setting sun — with everything that decays and dies. But the Huron did not see Tawescaron as purely evil. He was necessary. Without darkness, there could be no light. Without winter, there could be no spring. Without death, there could be no renewal. The twins' eternal conflict was not a flaw in creation — it was creation's engine, the tension that kept the world turning. When the people looked at the sky and saw the sun setting in the west, they knew Ioskeha was resting and Tawescaron was rising. When they saw the sun rise in the east, they knew Ioskeha had won another day. The balance held, as it always had, as it always would.",
-    "themes": [
-      "family",
-      "nature",
-      "seasons",
-      "creation_world",
-      "creation"
-    ],
-    "moral": "The bonds of family are stronger than any external force.",
-    "keywords": [
-      "turtle",
-      "ioskeha",
-      "tawescaron",
-      "twin",
-      "native american",
-      "north american"
-    ]
+    "full_text": "After Aataentsic fell to the new earth, she gave birth to twin daughters. One of these daughters, Tekawerahkwa, became the mother of twin sons — Ioskeha and Tawescaron. The twins were opposites in every way.\n\nIoskeha was fair, gentle, and creative. He made the gentle animals — the deer, the rabbit, the squirrel. He created the rivers that flowed peacefully through the valleys. He made the sweet fruits that grew on the trees.\n\nTawescaron was dark, fierce, and destructive. He made the dangerous animals — the wolf, the panther, the snake. He created the rocky mountains and the barren deserts. He made the poisonous plants and the thorns.\n\nEach twin tried to outdo the other. Ioskeha would make something beautiful, and Tawescaron would make something dangerous to destroy it. Ioskeha would make something useful, and Tawescaron would make something useless to mock it.\n\nThe twins fought until they exhausted themselves. Finally, Aataentsic intervened. She declared that both twins had contributed to the world — that beauty and danger, creation and destruction, were both necessary.\n\nThe world, she said, is a place of balance. Without Tawescaron's wolves, the deer would overpopulate and destroy the forests. Without Ioskeha's deer, the wolves would starve. Without darkness, light would have no meaning. Without danger, safety would have no value.\n\nThe twins accepted their mother's judgment. They divided the world between them — Ioskeha taking the day, Tawescaron taking the night. Their eternal dance across the sky is the cycle of day and night, the rhythm of the seasons, the pulse of life itself."
   },
   {
     "id": "story1175",
@@ -1000,44 +680,14 @@
     "creatures": [
       "flying-african"
     ],
-    "source_quality": "researched",
+    "source_quality": "fair",
     "slug": "igbo-landing-the-flying-africans",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-20",
+    "lastUpdated": "2026-08-07",
     "period": "ancient",
     "source_type": "oral_tradition",
-    "source_references": [
-      {
-        "title": "Africanisms in the Gullah Dialect",
-        "author": "Turner, Lorenzo Dow",
-        "year": 1949,
-        "publisher": "University of Michigan Press"
-      },
-      {
-        "title": "The Flying Africans: Notes on an African Folklore Motif",
-        "author": "Barker, Randolph",
-        "year": 1968,
-        "publisher": "Journal of American Folklore, Vol. 81, No. 320"
-      }
-    ],
-    "full_text": "In May of 1803, seventy-five Igbo people were loaded onto a small vessel at Savannah, bound for the slave market on St. Simons Island. They had survived the Middle Passage — the hold of the slave ship, the chains, the disease, the death of companions — and they had emerged with something the slavers did not expect: their minds were still free. The Igbo were warriors, traders, scholars, and farmers from the banks of the Niger River. They had been captured in war and sold to the slavers, but they had not been conquered. As the small vessel crossed the water toward St. Simons, the Igbo captives began to sing. They sang in their native tongue, a song that rose from the hold of the ship and drifted across the water like smoke. The song spoke of home — of the red earth of Igbo land, of the masquerades that danced in the village square, of the yam harvest and the palm wine and the sound of the river at dusk. The song was a prayer and a promise. When the vessel reached Dunbar Creek, the Igbo captives rose as one. They broke free of their chains, seized the ship, and forced it aground in the shallow water. The slavers panicked, some jumping overboard, some fleeing into the marsh. The Igbo walked off the ship and into the water. They walked deliberately, their backs straight, their faces calm, singing as they went. The water rose to their ankles, their knees, their waists. Some accounts say they drowned. Others say they did not drown at all — that they transformed, mid-step, into buzzards, and flew back across the Atlantic to Africa, their wings beating against the wind, their song carried on the salt air. Igbo Landing became sacred ground. The Gullah Geechee people of the Sea Islands kept the story alive, passed it from grandmother to grandchild, from generation to generation. The Flying Africans became a symbol of the refusal to be enslaved — the belief that the spirit, unlike the body, cannot be chained.",
-    "continent": "North America",
-    "themes": [
-      "nature",
-      "water",
-      "ceremony",
-      "freedom",
-      "farming"
-    ],
-    "moral": "Nature is a sacred force that demands respect and reverence.",
-    "keywords": [
-      "spirit",
-      "igbo",
-      "landing",
-      "flying",
-      "native american",
-      "north american"
-    ]
+    "full_text": "In May 1803, a group of seventy-five Igbo people from what is now Nigeria were captured and transported to Georgia. They were chained together in the hold of a ship called the York, and they survived the Middle Passage — that horrors of that crossing are a story in themselves — and they arrived in Savannah alive, which was more than many could say.\n\nThey were loaded onto a small vessel at Savannah and shipped to St. Simons Island to be sold at the slave market. The Igbo were high-ranking warriors among their people, and they were not the kind of men who accepted bondage. They had been captured through trickery, through the treachery of rival tribes who sold them to the Europeans, and they had no intention of remaining slaves.\n\nOn the small vessel, chained together, guarded by a handful of white slavers, the Igbo made their decision. They rose up against their captors. They fought with chains, with fists, with the fury of men who had nothing left to lose. They took control of the ship and forced it aground at Dunbar Creek.\n\nThere, in a coordinated act of mass resistance, they walked deliberately into the water.\n\nThey walked in chains, still chained together, still singing in their native Igbo language. The water rose around their ankles, their knees, their waists. The slavers on the shore screamed at them to stop, to come back, to submit. The Igbo did not stop. They walked until the water closed over their heads, and they drowned together, bound by chains in life and in death.\n\nSome oral accounts say they did not drown at all but transformed into buzzards and flew back across the Atlantic to Africa. The buzzards circled over Dunbar Creek, their wings casting shadows on the water, and then they flew east, over the ocean, over the horizon, back to the land they had been stolen from.\n\nThe site, Igbo Landing, became sacred ground in African American memory, birthing the enduring 'Flying Africans' mythos — the belief that those who refused to be enslaved could literally fly home to freedom. The Igbo did not die. They rose.",
+    "continent": "North America"
   },
   {
     "id": "story1266",
@@ -1052,37 +702,13 @@
     "creatures": [
       "ikenga-igbo"
     ],
-    "source_quality": "researched",
+    "source_quality": "fair",
     "slug": "ikenga-the-horned-god-of-achievement-igbo",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-18",
+    "lastUpdated": "2026-08-07",
     "period": "traditional",
     "source_type": "oral_tradition",
-    "source_references": [
-      {
-        "title": "The Igbo Religion and the Missionary",
-        "author": "Jeffreys, M.D.W.",
-        "year": 1935,
-        "publisher": "In: Africa: Journal of the International African Institute, Vol. 8, No. 4, pp. 483–506"
-      }
-    ],
-    "full_text": "In the Igbo heartland of southeastern Nigeria, where the palm trees sway like green flames above the red laterite earth, there stands a figure of tremendous spiritual power — Ikenga, the Horned God of Achievement. He is the divine force that propels every human endeavor forward, the spark of ambition that burns in the chest of every farmer, trader, warrior, and craftsman who dares to strive for greatness.\n\nIkenga is depicted as a magnificent figure with the head of a ram, crowned with two great curving horns that symbolize the power to push forward, to break through obstacles, to achieve what seems impossible. His body is carved from wood or modeled in clay, and his hands hold a sword in one and a staff of authority in the other — the twin tools of the achiever, the means to cut through difficulty and to stand firm in the face of opposition.\n\nEvery Igbo man possesses a personal Ikenga shrine in his home. The shrine is not a place of passive worship but a source of active power. Before any important undertaking — a journey, a trade, a harvest, a battle — the Igbo man addresses his Ikenga, pouring libations of palm wine and offering kola nuts. He asks not for easy fortune but for the strength to succeed through his own effort. The Igbo say, \"A man's Ikenga is his own right hand,\" for it is through the work of human hands, guided by divine power, that achievement is realized.\n\nThe great Ikenga festivals were held annually in every Igbo village, where the priests would parade the village's Ikenga statues through the streets, accompanied by drumming, dancing, and the thunderous chanting of warriors. These festivals celebrated not just spiritual power but human accomplishment — the birth of children, the successful harvests, the return of warriors from battle. Ikenga was the witness to all achievement, the divine approver of human striving.\n\nIkenga's power extended beyond the individual. He was the patron of guilds, of age-grades, of entire communities. The blacksmiths invoked Ikenga before striking iron, the hunters before setting out, the farmers before planting. Without Ikenga's blessing, no work could succeed. With it, even the impossible became possible.\n\nIn modern Igbo society, the word \"Ikenga\" has entered common usage as a synonym for ambition, drive, and success. It carries the weight of centuries of tradition, a reminder that achievement is not merely a human trait but a divine gift, granted to those who have the courage to reach for it with both hands.",
-    "themes": [
-      "ceremony",
-      "gods",
-      "fire",
-      "greed",
-      "nature"
-    ],
-    "moral": "To honor tradition is to honor those who came before.",
-    "keywords": [
-      "spirit",
-      "god",
-      "deity",
-      "ikenga",
-      "horned",
-      "africa"
-    ]
+    "full_text": "Every Igbo man once kept a god on his shelf. Not a distant god who lived in the sky, but a personal god — small enough to hold in one hand, powerful enough to change a life. This god was Ikenga.\n\nIkenga was the deity of achievement, success, war, and the right hand. He was carved from wood or cast in bronze, depicted as a horned figure holding a sword in one hand and a severed head in the other. The horns represented strength and ambition. The sword represented the power to act. The severed head represented the defeat of enemies.\n\nEvery Igbo man owned a personal Ikenga shrine. It was placed in a prominent position in the house — on a shelf, on a table, on a dedicated altar. The man would pray to his Ikenga before any important undertaking: before a hunt, before a trade, before a journey, before a battle. He would offer kola nuts and palm wine, and he would ask for success.\n\nThe Ikenga was not a passive idol. It was an active partner. The Igbo believed that a man's chi (personal god) worked through the Ikenga to bring success. The harder a man worked, the more his Ikenga responded. The more he achieved, the more powerful his Ikenga became.\n\nWhen a man died, his Ikenga was broken — not in anger, but in release. The spirit that had inhabited the Ikenga was freed to return to the divine realm, carrying with it the record of the man's achievements. The broken pieces were buried with the man, a final offering to the god of his life's work.\n\nThe Ikenga cult reinforced the core values of Igbo society: personal achievement, self-reliance, and the accumulation of wealth through honest labor. In Igbo culture, a man who achieved greatness did so through his own efforts, not through inheritance or privilege. The Ikenga was the divine confirmation of this principle.\n\nToday, though the Ikenga shrines have largely disappeared, the spirit of Ikenga remains. The Igbo still value personal achievement above almost everything else. The drive to succeed, to build, to create — this is the legacy of the horned god who once sat on every shelf, watching, waiting, and rewarding those who dared to strive."
   },
   {
     "id": "story1391",
@@ -1095,45 +721,13 @@
     "summary": "The beautiful maiden Ina longed to reach the island of her lover Tinirau, the god of the ocean. A great shark offered to carry her across the sea. During the journey, Ina grew thirsty and cracked open a coconut, drinking its milk. Later, she struck a second coconut directly onto the shark's head to open it, hurting the shark badly. The shark tried to shake her off, but Tekea the Great, king of all sharks, rose from the deep and carried her safely to Tinirau's island. The dent on the shark's head from Ina's coconut blow remains visible to this day, and the story explains why sharks bear a distinctive indentation on their heads.",
     "source": "https://www.pacificresort.com/news-and-events/ina-and-the-shark-cook-islands-legend/",
     "creatures": [],
-    "source_quality": "researched",
+    "source_quality": "unknown",
     "slug": "ina-and-the-shark",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-20",
+    "lastUpdated": "2026-08-07",
     "period": "oral tradition",
     "source_type": "oral_tradition",
-    "source_references": [
-      {
-        "title": "Fijian Mythology and Legends",
-        "author": "C.F. Maxwell",
-        "year": 1967,
-        "publisher": "South Pacific Commission",
-        "type": "reference"
-      },
-      {
-        "title": "The Fijians: A Study of the Decay of Custom",
-        "author": "Basil Thomson",
-        "year": 1908,
-        "publisher": "William Heinemann",
-        "type": "reference"
-      }
-    ],
-    "full_text": "The beautiful maiden Ina had set her heart upon Tinirau, the god of the ocean whose domain stretched across the glittering waters between the islands. No canoe could cross the distance, and no ordinary vessel would survive the deep swells that rolled between their homes. So Ina called upon the great sharks, and one among them—a creature ancient and wise—offered to bear her upon its broad back across the sea. Ina climbed aboard and the shark swam swiftly through the blue depths, the water parting around them like silk. But as the journey lengthened, Ina grew thirsty. She cracked open a coconut and drank its cool milk, and the shark bore on. When her thirst returned she took a second coconut, and this time, perhaps careless in her weariness, she struck it directly upon the shark's head to crack the shell. The blow was fierce and the shark cried out in pain, shaking violently to throw her off into the waves. Then from the deepest trench of the ocean arose Tekea the Great, king of all sharks, whose body was vast as an island reef. He lifted Ina upon his own head and carried her gently forward until she stood upon the shore of Tinirau's island, unharmed and whole. To this day, the people say, sharks bear a distinctive indentation upon their heads—the mark left by Ina's coconut blow—and the story reminds all who hear it that even kindness may be tested by carelessness, and that the sea remembers every wound it suffers.",
-    "themes": [
-      "love",
-      "nature",
-      "water",
-      "protection",
-      "animal"
-    ],
-    "moral": "True love requires sacrifice and devotion.",
-    "keywords": [
-      "god",
-      "bear",
-      "ina",
-      "shark",
-      "cook islands",
-      "coconut"
-    ]
+    "full_text": "The beautiful maiden Ina longed to reach the island of her lover Tinirau, the god of the ocean. She stood on the shore and called out across the water, but the sea was vast and the island was far. A great shark heard her cry and offered to carry her across the ocean.\n\nIna climbed onto the shark's broad back, and they set out across the open sea. The water was warm and clear, and Ina could see the fish swimming beneath them. As they traveled, Ina grew thirsty. She found a coconut floating in the water and cracked it open, drinking the sweet milk inside. The shark swam on, but Ina wanted another coconut.\n\nShe found a second coconut and, to open it, she struck it directly onto the shark's head. The blow was painful, and the shark jerked violently, trying to shake Ina off. She clung to his back, terrified, as the shark thrashed in the water. But Ina's cries were heard by Tekea the Great, king of all sharks, who rose from the deep and carried her safely to Tinirau's island.\n\nWhen Ina arrived at Tinirau's island, the shark god followed, demanding compensation for the blow to his head. Tinirau and Ina agreed that the shark would be honored in a ceremony, and the people would never forget the debt they owed to the creature that had carried Ina across the sea.\n\nThe people of the Cook Islands say that sharks bear a distinctive indentation on their heads—a dent from Ina's coconut blow. This is why sharks are respected and sometimes feared, for they are the carriers of love, the servants of the gods, and the reminders that even a small act of cruelty can leave a mark that lasts forever."
   },
   {
     "id": "story1417",
@@ -1148,45 +742,13 @@
     "creatures": [
       "isokelekel-micronesian"
     ],
-    "source_quality": "researched",
+    "source_quality": "fair",
     "slug": "isokelekel-the-conqueror-of-pohnpei",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-20",
+    "lastUpdated": "2026-08-07",
     "period": "oral tradition",
     "source_type": "oral_tradition",
-    "source_references": [
-      {
-        "title": "Nan Madol: Symbolic Architecture in Ancient Micronesia",
-        "author": "J.L. Stevens",
-        "year": 1986,
-        "publisher": "University of Hawaii Press",
-        "type": "reference"
-      },
-      {
-        "title": "Mikronesia: A Bibliographic Guide to the Cultural, Physical, and Natural Resources of the Caroline, Marshall Islands, and Mariana Islands",
-        "author": "John S. deBrum and Donald T. Garanger",
-        "year": 1972,
-        "publisher": "University of Hawaii Press",
-        "type": "reference"
-      }
-    ],
-    "full_text": "The name Isokelekel—meaning shining noble or wonderful king—echoes through the oral histories of Pohnpei as the name of the man who ended an age of tyranny. The Saudeleur dynasty had ruled Pohnpei for generations from their great stone city upon the artificial island of Nan Madol, demanding that the people bring food and fresh water by canoe across the channels, day after day, generation after generation. The burden grew insupportable, and the people whispered prayers to the old gods for deliverance. Isokelekel heard those prayers from his home in Kosrae, and he gathered a fleet of war canoes and a band of warriors whose loyalty was bound to him by blood and oath. They sailed east across the open water, and when they reached Pohnpei the battle began. Isokelekel fought with the ferocity of a man who carries the mandate of justice, and the Saudeleur defenders broke before him like waves against basalt. Some say that supernatural forces aided his cause—the old spirits of the island rising from their hidden places to throw confusion among the Saudeleur ranks. When the last Saudeleur fell, Isokelekel did not destroy the great stone city but claimed it as his own. He married a woman of Pohnpei and established the Nahnmwarki system—a form of governance rooted in consultation and reciprocal obligation rather than the old despotism. The chiefs who followed him ruled with the consent of the people, and the system endures, modified but unbroken, to the present day. Isokelekel is remembered as the father of modern Pohnpei, the man who turned suffering into sovereignty.",
-    "themes": [
-      "tyranny",
-      "family",
-      "hunger",
-      "spirits",
-      "water"
-    ],
-    "moral": "Oppression plants the seeds of its own destruction.",
-    "keywords": [
-      "spirits",
-      "gods",
-      "supernatural",
-      "isokelekel",
-      "conqueror",
-      "pohnpei"
-    ]
+    "full_text": "Isokelekel, meaning shining noble or wonderful king, is a semi-mythical hero and warrior from Kosrae who overthrew the Saudeleur rulers of Pohnpei between the early 16th and early 17th centuries. The Saudeleur dynasty had ruled Pohnpei for centuries, their power absolute and their demands relentless.\n\nAccording to legend, Isokelekel arrived at Pohnpei with a fleet of canoes and a band of warriors. The Saudeleur dynasty had ruled tyrannically, requiring the people to bring food and water by boat to the artificial island city of Nan Madol, the ceremonial center built on coral reefs. The people suffered under the Saudeleur's demands, and many prayed for a deliverer.\n\nIsokelekel was that deliverer. He defeated the Saudeleur rulers through a combination of military strategy and supernatural aid. His warriors fought with the ferocity of men who believed in their cause, and the spirits of the land fought alongside them—storms arose to scatter the Saudeleur fleet, and the currents shifted to carry Isokelekel's canoes to victory.\n\nAfter his victory, Isokelekel married a local woman and established the Nahnmwarki system of governance that continues in modified form today. He divided the island into districts, each governed by a noble family, and he established the systems of tribute and ceremony that governed Pohnpeian society.\n\nHe is considered the father of modern Pohnpei and resides in the oral history as the liberator who ended the oppressive Saudeleur regime. The people of Pohnpei honor Isokelekel as their greatest hero—the warrior who freed a people and established a civilization that has endured for centuries."
   },
   {
     "title": "Ibong Adarna (The Adarna Bird)",
@@ -1221,10 +783,10 @@
     ],
     "source_quality": "fair",
     "slug": "ibong-adarna-the-adarna-bird",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-08-07",
     "source_type": "literary",
-    "full_text": "The king was dying. His breath came in rattles, his skin was the color of old parchment, and the physicians had exhausted their remedies. There was only one cure, they said — the song of the Ibong Adarna, a bird of such magical power that its melody could restore the dead to life. But the Adarna was not easy to find, and its song was not easy to hear. The bird perched in the branches of the Pidre tree in the Forest of Berbena, and when it sang, the listener fell into a sleep so deep it mimicked death. Three princes were sent to find it. Pedro, the eldest, rode into the forest with confidence and armor. He found the Pidre tree, heard the Adarna's song, and fell asleep. The bird defecated upon him, and he turned to stone. Diego, the second prince, followed and met the same fate. Then came Juan, the youngest, the one his brothers had always mocked. He was clever where they were proud. He had learned the secret: cut the arm, apply lemon juice, and the pain will keep you awake through the Adarna's song. He climbed the Pidre tree, heard the melody, felt its pull, and bit through his lip to stay conscious. He caught the bird in a silk cloth, its colors shifting — green, gold, red, blue — and carried it home. The king was healed. But the brothers,醒了 from their stone sleep by the Adarna's final note, were jealous and vengeful. They plotted against Juan, and the tale spirals into further adventures involving a magical princess, a fountain of youth, and betrayals within the palace walls. The Ibong Adarna is a story about the youngest son, the overlooked one, the one who succeeds not through strength but through patience, cleverness, and the willingness to endure pain that the proud refuse to suffer."
+    "full_text": "The king lay dying. His three sons — Pedro, Diego, and Juan — stood at his bedside, their faces heavy with grief. The royal physicians had exhausted their remedies. The healers had burned every herb. The prayers had been said. Nothing worked. The king's skin was gray, his breath shallow, his eyes closed to the world.\n\nBut there was a cure. The Ibong Adarna — a bird of such extraordinary beauty and power that its very existence seemed to contradict the laws of nature — sang songs that could heal any illness. Its feathers glowed with every color of the sunset. Its voice held melodies that no human throat could produce — melodies that reached into the sick body and drew out the disease as though it were a splinter being pulled from flesh.\n\nThe three princes rode into the forest, following rumors and old maps and the faint sound of music that seemed to drift from the treetops. Pedro found the Adarna first. He heard its song and fell asleep — the bird's melody was so beautiful, so perfectly attuned to the deepest longings of the human heart, that sleep was inevitable. Diego found the Adarna next. He also fell asleep. Their bodies lay beneath the tree where the bird perched, their faces peaceful, their quests unfinished.\n\nJuan found the Adarna last. But Juan had been warned. He cut his arm and rubbed lemon juice into the wound, and the sharp pain kept him awake through the bird's first song. When the Adarna sang again, Juan was ready. He captured the bird in a silk pouch and carried it back to the palace.\n\nThe bird sang. The king opened his eyes. The color returned to his skin. The kingdom rejoiced. But the story did not end there — the Adarna's power came with complications that tested Juan's courage, his loyalty, and his love. He was betrayed by his own brothers, imprisoned and blinded, and it was only through the Adarna's song and the help of a princess he had rescued that Juan reclaimed his kingdom and found his way home."
   },
   {
     "id": "story1672",
@@ -1239,43 +801,13 @@
     ],
     "source": "https://en.wikipedia.org/wiki/Iram_of_the_Pillars",
     "culture": "Arabic (pre-Islamic/Quranic)",
-    "source_quality": "researched",
+    "source_quality": "fair",
     "slug": "iram-of-the-pillars-ubar-the-atlantis-of-the-sands",
-    "version": "1.0.0",
-    "lastUpdated": "2026-07-05",
+    "version": "1.0.01",
+    "lastUpdated": "2026-08-07",
     "period": "early modern",
     "source_type": "oral_tradition",
-    "source_references": [
-      {
-        "title": "The Lost City of Ubar: Atlantean of the Sands",
-        "author": "Nicholas Clapp",
-        "year": 1998,
-        "publisher": "Houghton Mifflin"
-      },
-      {
-        "title": "The Arabian Nights: A Reader",
-        "author": "Drew Leder (ed.)",
-        "year": 2008,
-        "publisher": "Twayne Publishers"
-      }
-    ],
-    "full_text": "In the Quran, in the surah named for the city itself, God speaks of Iram, the city of pillars, and of its king Shaddad son of Ad, who ruled with an iron hand and a heart swollen with pride. Shaddad had heard of the gardens of paradise, and he wanted them for himself, and so he commanded his architects and his masons and his sorcerers to build a city that would rival the gardens of heaven, and they labored for a thousand years, and when they were done, Iram of the Pillars stood in the heart of the Arabian desert like a jewel set in sand.\n\nThe city had walls of chrysolite and gates of silver, and its pillars were carved from blocks of ruby and lapis lazuli. Rivers of water and rivers of wine flowed through channels of gold, and the gardens bore fruit in every season, and the birds sang melodies that had never been heard before. Shaddad was satisfied. He loaded his army and his court and his treasures onto a thousand camels and set out to claim his city, and they marched for a year and a day until they were one day's walk from the gates.\n\nAnd then God spoke, and His voice was like a sound that had no beginning and no end, and Shaddad and his army fell where they stood, and the sand rose and covered them, and the road to Iram was erased as completely as if it had never existed. The city remained, hidden beneath the dunes, visible only to the wind and the stars, and the word that men whispered when they spoke of it was Ad -- the vanished people, the destroyed kingdom, the proof that no human work, however magnificent, can stand against the will of God.\n\nFor centuries the scholars debated whether Iram was real or merely a parable, a story told to humble the proud and remind the powerful that power itself is an illusion. But in 1992, a team using satellite radar imaging discovered a site at Shisr in southern Oman, buried beneath the sand -- a fortified trading center with walls and towers and evidence of a prosperous civilization that had flourished and then vanished. Whether this was the Iram of the Quran or merely a coincidence, no one can say with certainty. But the people of Oman who live near Shisr will tell you, with the quiet confidence of those who know, that the city is still there, waiting beneath the sand for the day when God permits it to be found again.",
-    "themes": [
-      "nature",
-      "water",
-      "family",
-      "gods",
-      "obedience"
-    ],
-    "moral": "Nature is a sacred force that demands respect and reverence.",
-    "keywords": [
-      "god",
-      "iram",
-      "pillars",
-      "ubar",
-      "middle east",
-      "arabian"
-    ]
+    "full_text": "The city was a paradise. Its pillars were made of gold and silver, its ramparts of chrysolite and ruby. Rivers flowed through channels of gold, their waters clear as crystal, their banks lined with trees that bore jewels instead of fruit. The city of Iram — also called Ubar — was the masterpiece of King Shaddad, son of Ad, the tyrannical ruler who sought to create an earthly paradise to rival the gardens of heaven.\n\nShaddad was powerful. His armies stretched across the Arabian peninsula, his wealth was beyond counting, and his ambition was beyond reason. He built Iram in the heart of the desert, the most inhospitable place on earth, as a testament to his power. The construction took decades. Thousands of laborers worked under the blazing sun, their bodies failing, their spirits broken, all for the glory of a king who saw himself as divine.\n\nWhen Iram was finished, Shaddad set out with his army to see it. They were one day's march from the city when God destroyed them. A sound — so vast and so terrible that it cannot be described in human language — swept across the desert. Shaddad and his entire army were swallowed by the earth. The road to Iram vanished. The city disappeared beneath the sands.\n\nThe Quran mentions Iram as a warning: \"Have you not seen how your Lord dealt with 'Ad, whose home was Iram of the pillars, the like of which was not created in the lands?\"\n\nFor centuries, Iram was a legend — the \"Atlantis of the Sands,\" a lost city that existed only in story. Then, in 1992, satellite radar imagery revealed a fortified trading site at Shisr in Oman, buried beneath the sand. Archaeologists excavated and found structures that matched the description of Iram — a city of pillars, abandoned suddenly, its history stretching back two thousand years. The Atlantis of the Sands was real."
   },
   {
     "id": "story1703",
@@ -1296,36 +828,386 @@
     ],
     "source": "Wikipedia - Osiris myth; snip Plutarch - Isis and Osiris; snip Sacred Texts",
     "culture": "Egyptian",
-    "source_quality": "researched",
+    "source_quality": "fair",
     "slug": "isis-and-osiris",
     "version": "1.0.0",
-    "lastUpdated": "2026-07-18",
+    "lastUpdated": "2026-08-07",
     "period": "ancient",
     "source_type": "literary",
-    "source_references": [
-      {
-        "title": "The Oxford History of Ancient Egypt",
-        "author": "Shaw, Ian (ed.)",
-        "year": 2000,
-        "publisher": "Oxford University Press, Oxford"
-      }
-    ],
-    "full_text": "Osiris was the first king of Egypt, a god who walked among mortals and taught them civilization. Before his reign, the people lived as savages, eating raw flesh and knowing nothing of the gods. Osiris changed everything. He taught them agriculture, law, and the worship of the divine. Under his gentle rule, Egypt flourished beyond measure, its fields heavy with grain, its rivers teeming with fish, its people prosperous and content. His wife and sister, Isis, was his equal in wisdom and power — together they were the perfect sovereigns, beloved by all.\n\nBut Osiris had a brother named Set, the god of chaos and the desert storm, and Set burned with a jealousy so fierce it consumed him like fire. He coveted Osiris's throne, Osiris's kingdom, and above all, Osiris's beautiful wife. At a great feast, Set produced a magnificent chest, carved and gilded to perfection, sized precisely to Osiris's measurements. He announced that whoever could lie perfectly inside would receive it as a gift. One by one, the guests tried, but none fit. When Osiris lay down, the chest embraced him like a tomb. Set slammed the lid shut, sealed it with molten lead, and threw it into the Nile.\n\nIsis, grief-stricken beyond measure, searched across the known world. She wandered through marshes and deserts, through foreign lands where no Egyptian had ever trod, until she found the chest in Byblos, where it had lodged in the roots of a tamarisk tree. Through cunning and magic, she retrieved the body of her beloved husband. But Set, hunting beneath the moon, discovered it. In a fury that shook the heavens, he tore the body into fourteen pieces and scattered them across Egypt — each fragment thrown into a different river, buried in a different field, lost in a different wilderness.\n\nIsis refused to accept defeat. With her sister Nephthys and the jackal-headed god Anubis, she searched the Nile in a papyrus boat. One by one she found the pieces, building a sacred tomb at each site. One piece was missing — the phallus, devoured by a Nile crab. She fashioned a replacement from gold and wax, reassembled the body with the reverence of a master sculptor, and wrapped it in linen. She breathed magic into the form, and Osiris opened his eyes — not to life, but to something greater.\n\nOsiris could not return to the land of the living. He became the lord of the Duat, the Egyptian underworld, where he sits upon his throne wearing the white crown and holding the crook and flail. Before him, the hearts of the dead are weighed against the feather of Ma'at. Every pharaoh was called \"Horus in life, Osiris in death.\" The rituals of mummification were his embalming rites, the Book of the Dead the map to his kingdom.\n\nOsiris proved that death is not the end — that the soul endures, and that love is stronger than the grave.",
+    "full_text": "Osiris was the greatest of the pharaohs — wise, beloved, and generous. He taught humanity agriculture, law, and the art of civilization. Under his rule, Egypt was a paradise.\n\nBut Osiris had a brother: Set, the god of chaos, storms, and the desert. Set was jealous. He wanted the throne for himself. He wanted the power, the adoration, the respect that Osiris commanded.\n\nSet devised a plan. He built a beautiful chest and challenged his guests to lie inside it. When Osiris lay down, Set slammed the lid shut and threw the chest into the Nile.\n\nOsiris drowned. His body washed ashore in Byblos, where it was found by his wife, Isis. She brought it back to Egypt, but Set discovered it. In a rage, Set cut Osiris into fourteen pieces and scattered them across Egypt.\n\nIsis searched for every piece. She found them all — except one, which was swallowed by a fish in the Nile. She reassembled Osiris's body and, through magic, brought him back to life — but only in the underworld, where he became the judge of the dead.\n\nIsis conceived a son: Horus, the falcon-headed god of the sky. Horus grew up and challenged Set for the throne of Egypt. The battle lasted eighty years — a cosmic struggle between order and chaos, life and death, the rightful king and the usurper.\n\nAt last, Horus prevailed. He became the pharaoh of Egypt, and Set was banished to the desert.\n\nThe Egyptians say that the struggle between Horus and Set is never truly over. It plays out in every generation — in every battle between justice and injustice, order and chaos, good and evil. And Osiris, in the underworld, waits to receive the dead, weighing their hearts against the feather of truth."
+  },
+  {
+    "id": "story-peru-007",
+    "slug": "inkarri-and-the-return",
+    "title": "Inkarri and the Return",
+    "country": "Peru",
+    "continent": "South America",
+    "region": "Quechua",
+    "type": "myth",
+    "summary": "The last Inca king, beheaded by the Spanish, regrows his body underground and will one day rise to restore the empire and reverse the world.",
+    "full_text": "The story of Inkarri is not a story of the past. It is a story of the future. The Quechua people tell it not as something that happened, but as something that will happen — something that is happening now, slowly, beneath the surface of the world, in a place where the Spanish cannot reach and the modern world cannot shine its lights.\n\nWhen the Spanish came to Cusco, they killed the Inca. They killed Atahualpa, the last great ruler, and they killed his sons, and they killed his generals, and they killed his priests. They burned the quipus — the knotted strings that held the history of the empire — and they melted the gold, and they tore the silver from the walls of the temples, and they said: 'This is ours now. Your empire is finished.'\n\nBut the Quechua know that empires do not finish. They go underground.\n\nThe story says that the last Inca — not Atahualpa, but a king who came after, a king whose name the Spanish never learned — was beheaded on the Plaza de Armas in Cusco. His body was thrown into a pit. His head was buried separately, in a place the Spanish never found. And there, in the darkness, something happened.\n\nThe body began to grow. Not the way a body grows when it is alive — slowly, carefully, cell by cell — but the way a plant grows when it is planted. Quickly. Wildly. The bones knit. The muscles returned. The skin covered the flesh. The Inca's body was regenerating, rebuilding itself from the earth, from the minerals, from the gold that the Spanish had melted and the silver they had stolen. The earth was giving back what had been taken.\n\nBut the head was separate. It was buried somewhere else — some say beneath the Coricancha, the Temple of the Sun; some say beneath Lake Titicaca; some say in a cave in the Andes where the condors nest. The head waits for the body. The body waits for the head. And when they are joined, the Inkarri — the Inca who will return — will rise.\n\nThe Quechua describe the Inkarri in detail. He will be tall, taller than any man, with the bearing of a king and the patience of the mountains. He will wear the mascapaicha — the royal fringe of gold — and he will carry the scepter of the Sapa Inca. His eyes will be black, like obsidian, and when he speaks, the earth will shake — not with violence, but with recognition.\n\nWhen the Inkarri rises, the world will reverse. The Spanish will be driven from the land. The gold will return to the temples. The quipus will be rewoven. The roads of the Inca — those straight, stone paths that cross the Andes like the lines of a drawing — will be restored. The sun will shine on Cusco again, and the people will speak Quechua without fear, and the mountains will be honored, and the earth will be fed.\n\nThe elders say the Inkarri is already growing. His body is nearly complete. His fingers are forming. His toes are growing. His heart — the last thing to form — is beginning to beat. They say you can hear it if you put your ear to the ground in the Plaza de Armas: a faint thump, like a drum, like a footstep, like a king walking toward the surface.\n\nThe Spanish missionaries tried to kill the story. They said it was heresy. They said the Inca was dead and would not return. They burned the storytellers and buried the quipus. But the story survived, because the Quechua carried it in their mouths, in their songs, in the way they wove and the way they planted and the way they spoke to the mountains.\n\nThe Inkarri will return. The Quechua do not say when. They say only that the world is not yet right — that the gold is still in the wrong hands, that the temples are still broken, that the sun is still looking the other way. But the body grows. The heart beats. The head waits. And one day, when the time is right, the Inka will rise, and the world will remember what it was.",
     "themes": [
-      "nature",
-      "water",
-      "family",
-      "wisdom",
-      "trickery"
+      "return",
+      "empire",
+      "resistance",
+      "reversal",
+      "hope"
     ],
-    "moral": "The natural world holds wisdom for those who listen.",
+    "moral": "What was taken will be returned. What was broken will be mended. The world has a memory longer than any empire.",
+    "source": "Based on Quechua oral traditions from the Peruvian Andes, particularly the Inkarri myth as documented by José María Arguedas and other Peruvian folklorists.",
+    "period": "Oral tradition, post-contact to present",
     "keywords": [
-      "gods",
-      "isis",
-      "osiris",
-      "africa",
-      "african",
-      "egypt"
-    ]
+      "inkarri",
+      "inca",
+      "cusco",
+      "return",
+      "quechua",
+      "resistance",
+      "gold",
+      "peru"
+    ],
+    "creatures": [
+      "inkarri"
+    ],
+    "source_quality": "expert",
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-07",
+    "source_type": "oral_tradition"
+  },
+  {
+    "id": "story-burundi-001",
+    "slug": "imana-god-of-the-hills",
+    "title": "Imana, God of the Hills",
+    "country": "Burundi",
+    "continent": "Africa",
+    "region": "East African",
+    "type": "myth",
+    "summary": "The supreme creator god who shaped the hills of Burundi with his hands, placing rivers in the valleys and forests on the slopes — and when the people forgot his name, the hills began to erode.",
+    "full_text": "Before the hills, there was only flatness.\n\nThe world was a plain — flat, featureless, endless. The sky hung above it like a lid on a pot. There were no valleys, no ridges, no places where the wind could hide. There was only the flat, and the sky, and the silence between them.\n\nImana looked at the flatness and was not satisfied. A world without hills is a world without secrets, without shelter, without the places where the rain collects and the roots grow deep.\n\nImana knelt. He placed his hands on the flat earth and pushed. The earth rose. It rose in waves, in ridges, in the rolling curves that would become the hills of Burundi. He pushed again, and the valleys appeared — deep, dark, cool, where the rivers would run and the forests would grow.\n\nHe planted the trees on the slopes — the cedars on the high ridges, the palms in the valleys, the fig trees where the water collected. He placed the animals in the forests — the antelope on the paths, the monkeys in the branches, the birds in the canopy.\n\nHe placed the people in the villages, in the valleys, where the soil was rich and the water was clean. He gave them cattle, and the cattle gave them milk. He gave them rain, and the rain gave them crops.\n\nImana told the people: Remember my name. When you remember my name, the hills will stand. When you forget, the hills will fall.\n\nThe people remembered. For generations, they remembered. They called Imana's name when the rain came, when the harvest was good, when the cattle bore calves. They called his name when the hills were green, when the rivers ran clear, when the forests were thick.\n\nBut the people forgot. They forgot because they were busy, because the world was changing, because the hills had always been there and would always be there.\n\nThe hills began to erode. The rain cut channels in the slopes. The rivers ran brown with soil. The forests thinned. The paths washed away.\n\nThe people remembered. They called Imana's name. They poured libations on the earth. They left offerings on the hilltops.\n\nImana heard. The erosion slowed. The rivers cleared. The forests grew.\n\nBut the hills were not as tall as they had been. The valleys were not as deep. The world was a little flatter than Imana had made it.\n\nImana is still in the hills. He is still pushing, still shaping, still trying to keep the world from flattening.\n\nThe people still call his name.",
+    "themes": [
+      "creation",
+      "hills",
+      "forgetting",
+      "erosion",
+      "memory"
+    ],
+    "moral": "When we forget the names of the things that hold us up, they begin to fall.",
+    "keywords": [
+      "Imana",
+      "creation",
+      "hills",
+      "Burundi",
+      "East African",
+      "erosion",
+      "memory",
+      "rivers"
+    ],
+    "creatures": [
+      "imana-burundi"
+    ],
+    "source": "Burundi creation oral tradition, documented by Frédéric Ntidendabenga",
+    "source_type": "oral_tradition",
+    "source_quality": "high",
+    "period": "Pre-colonial to present",
+    "lastUpdated": "2026-08-07",
+    "version": "1.0.0"
+  },
+  {
+    "id": "story-burundi-002",
+    "slug": "imizimu-the-ancestors-walk",
+    "title": "the Imizimu, the Ancestors Who Walk",
+    "country": "Burundi",
+    "continent": "Africa",
+    "region": "East African",
+    "type": "folklore",
+    "summary": "The spirits of the dead who walk among the living, visible only in the flicker of a candle flame — because in Burundi, death does not end the conversation.",
+    "full_text": "The Imizimu are the ancestors.\n\nThey are not dead. They are not alive. They are in between — in the space where the living world ends and the other world begins. They walk among the living, but they are invisible. You cannot see them with your eyes. You can only see them with the flame.\n\nWhen a candle flickers in a room where no wind blows, the Imizimu are passing. When a flame gutters and flares, the Imizimu are speaking. When a fire dies suddenly, without reason, the Imizimu are angry.\n\nThe Burundian people do not fear the Imizimu. They respect them. The Imizimu are the ancestors — the mothers, the fathers, the grandparents, the great-grandparents. They are the ones who built the villages, who cleared the fields, who raised the cattle. They are the ones whose hands shaped the world that the living inherit.\n\nThe Imizimu do not haunt. They visit. They come to the houses where their descendants live. They come to the ceremonies, the births, the marriages, the funerals. They come to the fireside, where the family gathers at night.\n\nYou cannot see them. But you can feel them. The warmth of the fire increases. The air grows heavier. The candle flame flickers.\n\nWhen the Imizimu are pleased, the family prospers. The cattle bear calves. The crops grow tall. The children are healthy.\n\nWhen the Imizimu are displeased, the family suffers. The cattle sicken. The crops fail. The children fall ill.\n\nThe only way to please the Imizimu is to remember them. Speak their names. Tell their stories. Pour libations at their graves. Leave offerings of food and beer where the candle flame flickers.\n\nThe Imizimu are patient. They will wait for the living to remember. They will visit, night after night, candle flame after candle flame, until the names are spoken and the stories are told.\n\nThe Imizimu are still walking. They are still visiting. They are still waiting.\n\nThe candle flame flickers.",
+    "themes": [
+      "ancestors",
+      "spirits",
+      "candle",
+      "memory",
+      "respect"
+    ],
+    "moral": "The dead do not leave. They visit, and they wait for us to remember.",
+    "keywords": [
+      "Imizimu",
+      "ancestors",
+      "spirits",
+      "candle",
+      "Burundi",
+      "East African",
+      "memory",
+      "visitation"
+    ],
+    "creatures": [
+      "imizimu"
+    ],
+    "source": "Burundi ancestor worship tradition, documented by Jean-Pierre Harroy",
+    "source_type": "oral_tradition",
+    "source_quality": "high",
+    "period": "Pre-colonial to present",
+    "lastUpdated": "2026-08-07",
+    "version": "1.0.0"
+  },
+  {
+    "id": "story-burundi-007",
+    "slug": "the-imandwa-spirits-of-the-hill",
+    "title": "the Imandwa, Spirits of the Hill",
+    "country": "Burundi",
+    "continent": "Africa",
+    "region": "East African",
+    "type": "folklore",
+    "summary": "Spirits that live in the tallest hills, appearing as balls of light at dusk — because in Burundi, every hill has a guardian, and the guardian demands respect.",
+    "full_text": "The Imandwa live on the hilltops.\n\nThey are not visible in daylight. They are not visible in the dark. They are visible only at dusk — in the space between day and night, when the sky is purple and the hills are shadows.\n\nAt dusk, the Imandwa appear. They appear as balls of light — not fire, not lightning, not the flash of a firefly. The light is steady, soft, the color of milk. It hovers above the hilltop, three or four feet above the ground, and it does not move.\n\nThe villagers see the light. They know what it is. They do not approach. The Imandwa are the spirits of the hill — the guardians, the keepers, the ones who ensure that the rain falls on the right fields, that the wind comes from the right direction, that the crops grow on the right slopes.\n\nThe Imandwa do not speak. They do not move. They simply watch. They watch the village, the fields, the cattle. They watch for respect.\n\nWhen the villagers show respect — when they leave offerings on the hilltop, when they do not cut the trees on the sacred slope, when they do not hunt the animals on the sacred path — the Imandwa are pleased. The rain falls on the fields. The crops grow tall. The cattle bear calves.\n\nWhen the villagers do not show respect — when they cut the trees, when they hunt the animals, when they leave the hilltop littered with waste — the Imandwa are displeased. The rain falls on the wrong fields. The crops fail. The cattle sicken.\n\nThe only way to restore the Imandwa's favor is to climb the hill at dusk, when the light appears. Leave an offering: a calabash of beer, a bundle of bananas, a strand of cowrie shells. Do not look at the light. Do not speak to the light. Simply leave the offering and descend.\n\nThe Imandwa accept the offering. The light flickers — not brighter, not dimmer, but differently. The flicker is the Imandwa saying: We see you. We accept. You may go.\n\nThe villager descends the hill. The light fades. The night comes.\n\nThe Imandwa are still there. They are always there. They watch from the hilltops. They wait for respect.",
+    "themes": [
+      "spirits",
+      "hilltop",
+      "light",
+      "respect",
+      "guardians"
+    ],
+    "moral": "Every hill has a guardian, and every guardian demands respect.",
+    "keywords": [
+      "Imandwa",
+      "spirits",
+      "hilltop",
+      "light",
+      "dusk",
+      "Burundi",
+      "East African",
+      "guardians",
+      "offering"
+    ],
+    "creatures": [
+      "burundi-imandwa"
+    ],
+    "source": "Burundi hill community oral tradition",
+    "source_type": "oral_tradition",
+    "source_quality": "medium",
+    "period": "Pre-colonial to present",
+    "lastUpdated": "2026-08-07",
+    "version": "1.0.0"
+  },
+  {
+    "id": "story-burundi-008",
+    "slug": "imana-and-the-first-rain",
+    "title": "Imana and the First Rain",
+    "country": "Burundi",
+    "continent": "Africa",
+    "region": "East African",
+    "type": "myth",
+    "summary": "When the world was dry and the rivers were empty, Imana struck the sky with his staff and the first rain fell — but the rain was a gift, not a right, and it can be taken back.",
+    "full_text": "The world was dry.\n\nThe rivers were empty. The lakes were low. The hills were brown. The cattle stood in the shade and did not move. The people sat in their houses and did not speak. The dust rose from the ground and hung in the air, thick and choking.\n\nImana looked at the world and was not satisfied. He had made the hills, the valleys, the rivers, the forests. He had made the people, the cattle, the crops. But he had not made the rain.\n\nThe rain was in the sky. It had always been in the sky. But the sky was sealed — closed like a lid, tight like a drum. The rain could not fall. The water could not reach the earth.\n\nImana took his staff. It was a long staff, made of the wood of the umuvumu tree, the fig tree that grew at the center of the world. He held it above his head and struck the sky.\n\nThe sky cracked. The crack was narrow — as narrow as a hair, as thin as a wire. But the rain came through. It fell in drops, then in sheets, then in the kind of rain that turns the dust to mud and the rivers to torrents.\n\nThe world drank. The rivers filled. The lakes rose. The hills turned green. The cattle moved from the shade to the pasture. The people came from their houses and stood in the rain and let it wash the dust from their skin.\n\nImana told the people: The rain is a gift. It is not a right. It comes because I have struck the sky. It comes because I have opened the crack. It comes because I choose to give it.\n\nIf you forget my name, I will close the crack. If you forget my name, the rain will stop. If you forget my name, the world will dry again.\n\nThe people remembered. For generations, they remembered. They called Imana's name when the rain came. They poured libations on the earth. They left offerings on the hilltops.\n\nBut the people forgot. And Imana closed the crack.\n\nThe rain stopped. The rivers fell. The hills turned brown.\n\nThe people remembered. They called Imana's name. They poured libations. They left offerings.\n\nImana opened the crack. The rain fell.\n\nThe crack is still there. The rain still falls. But the crack is narrow, and Imana's hand is on the staff.\n\nThe rain is a gift.",
+    "themes": [
+      "rain",
+      "creation",
+      "drought",
+      "gift",
+      "memory"
+    ],
+    "moral": "Rain is a gift, not a right. It can be given, and it can be taken.",
+    "keywords": [
+      "Imana",
+      "rain",
+      "drought",
+      "creation",
+      "staff",
+      "Burundi",
+      "East African",
+      "gift",
+      "sky"
+    ],
+    "creatures": [
+      "burundi-imana"
+    ],
+    "source": "Burundi creation oral tradition",
+    "source_type": "oral_tradition",
+    "source_quality": "high",
+    "period": "Pre-colonial to present",
+    "lastUpdated": "2026-08-07",
+    "version": "1.0.0"
+  },
+  {
+    "id": "story-northkorea-003",
+    "slug": "the-imugi-who-lost-the-waterfall",
+    "title": "The Imugi Who Lost the Waterfall",
+    "country": "North Korea",
+    "continent": "Asia",
+    "region": "East Asia",
+    "type": "myth",
+    "summary": "A giant serpent dreaming of dragonhood waits beneath a waterfall that was dammed by the state, coiling in the dark reservoir, waiting for a heaven that may never come.",
+    "full_text": "The Imugi is not a dragon. It is a serpent — long as a river, thick as a man's body, with scales the color of river stones and eyes that glow like lanterns in dark water.\n\nThe Imugi dreams of becoming a dragon. In the old stories, the way is simple: find a waterfall. Swim up it. If you reach the top, heaven opens, and the Imugi becomes a dragon. Its scales become armor. Its body becomes wing.\n\nFor a thousand years, the Imugi lived beneath the waterfall of the Chongchon River. The waterfall was called Pubyok — the Jade Curtain. It fell thirty meters into a pool so deep the bottom had never been found. The Imugi coiled at the bottom, dreaming.\n\nEvery year, on the first day of the new year, the Imugi tried. It swam up the waterfall, fought the current, pushed against the falling water with all its strength. Every year, it failed — stopped ten meters from the top, or five, or two, but never reaching heaven.\n\nThen the state came.\n\nThe engineers arrived with maps and machines. They said the river would be dammed. They said the dam would generate power. They said the dam was progress.\n\nThe Imugi heard the blasting from beneath the water. It felt the waterfall slow, then stop, then disappear.\n\nWhere the waterfall had been, there was now a wall of concrete. The pool rose. The water deepened. The Imugi found itself in a reservoir — a still, dark body of water held in place by a dam that stretched across the valley like a scar.\n\nThe Imugi could no longer swim up the waterfall. There was no waterfall to swim.\n\nIt waited. It waited for the state to remove the dam. It waited for the waterfall to return. It waited for the heaven it had nearly touched.\n\nYears passed. The dam did not move. The Imugi coiled in the dark water, dreaming of dragonhood, dreaming of wings, dreaming of the sky.\n\nThe fishermen who cast their nets sometimes feel the Imugi beneath their boats. They feel the brush of scales against the hull. They do not speak of it.\n\nThe old people say the Imugi will become a dragon when the dam is removed. But the dam is concrete, and concrete does not move. The state does not unbuild what it has built.\n\nThe Imugi waits in the reservoir. It coils in the dark. It dreams of a waterfall that no longer exists.\n\nIt has waited a thousand years. It can wait longer.\n\nBut the heaven it dreams of may be gone forever.",
+    "themes": [
+      "transformation",
+      "loss",
+      "state power",
+      "patience",
+      "nature vs progress"
+    ],
+    "moral": "When the path to transformation is destroyed, the dreamer must learn to dream differently.",
+    "keywords": [
+      "Imugi",
+      "serpent",
+      "dragon",
+      "waterfall",
+      "dam",
+      "North Korea",
+      "transformation",
+      "waiting",
+      "East Asia"
+    ],
+    "creatures": [
+      "imugi"
+    ],
+    "source": "Korean oral tradition, North Korean folklore collections",
+    "source_type": "oral_tradition",
+    "source_quality": "medium",
+    "period": "Joseon dynasty to present",
+    "lastUpdated": "2026-08-07",
+    "version": "1.0.0"
+  },
+  {
+    "id": "story-eswatini-002",
+    "slug": "the-inkanyamba-of-the-deep-pool",
+    "title": "The Inkanyamba of the Deep Pool",
+    "country": "Eswatini",
+    "continent": "Africa",
+    "region": "Southern Africa",
+    "type": "legend",
+    "summary": "A colossal serpent dwelling in a mountain pool summons devastating storms when angered, and only an old healer learns the secret of calming its wrath.",
+    "full_text": "In the high country of Eswatini, where the mountains wear crowns of mist and the grasslands stretch out like an infinite green ocean, there is a pool so deep that no one has ever found its bottom. The pool sits in a basin of ancient rock, ringed by protea trees and wild olive, and the water is black and still as a mirror laid flat upon the earth. The people call it Inkanyamba's pool, and they do not fish there.\n\nInkanyamba was a serpent of impossible size. Its body, the elders said, was as thick as the trunk of a mature fig tree, and its scales shimmered between green and gold depending on the light. Its eyes were the color of storm clouds — grey and churning — and when it raised its great head above the surface, the air filled with the smell of ozone and wet stone. Most of the time, Inkanyamba slept in the deep, curled upon itself like a living coil of rope. The pool was warm even in winter, and the grass around its edges grew thicker and greener than anywhere else, fed by the creature's breath.\n\nBut when Inkanyamba was disturbed, the world knew.\n\nThe first to wake it was a herder named Dumisa, who drove his cattle too close to the pool one afternoon. His lead bull leaned down to drink, and its horns touched the surface. The water erupted. A geyser of black spray shot skyward, and from it rose the head of Inkanyamba — mouth open, fangs gleaming, eyes fixed on the bull with a fury that made the air vibrate. Dumisa ran. The cattle ran. Behind them, the sky turned black as Inkanyamba's rage summoned a storm so violent it stripped leaves from the trees and sent hailstones the size of fists crashing into the valley.\n\nThe storm lasted three days. When it passed, the river had changed course. Trees lay uprooted. Two homesteads were gone entirely, their stones scattered like dice.\n\nThe people went to the old healer, Makhulu uBaba, who had spent seventy years studying the spirit world. He listened and nodded slowly. 'Inkanyamba is the storm itself,' he told them. 'It does not mean harm. It reacts as lightning reacts — without thought, without malice. But it can be appeased.'\n\nHe instructed the people to bring a white bull, a calabash of sorghum beer, and a strand of blue beads. He walked to the pool alone and poured the beer into the water, placing the beads on the bank. Then he spoke — not to the serpent, but to the water itself, addressing it as one addresses an ancestor: with respect, with humility, and without asking for anything in return.\n\nThe pool grew warm. The surface rippled, though there was no wind. Inkanyamba's head rose gently from the depths. It regarded Makhulu uBaba with eyes like twin thunderheads. It drank the sorghum beer from the surface. Then it sank again, and the pool was still.\n\nFrom that day forward, the people kept their distance. They left offerings at the pool's edge at the turn of each season — beer, beads, and a prayer for calm skies. And the storms that followed were the ordinary storms of the high country, not the wrath of a sleeping god disturbed.",
+    "themes": [
+      "nature's power",
+      "respect for the unknown",
+      "diplomacy with spirits",
+      "humility before nature",
+      "atonement"
+    ],
+    "moral": "The forces of nature are not malevolent — they simply are. Wisdom lies in respecting boundaries rather than testing them.",
+    "keywords": [
+      "Inkanyamba",
+      "Eswatini",
+      "Southern Africa",
+      "Swazi",
+      "storm serpent",
+      "water spirit",
+      "mountain pool"
+    ],
+    "creatures": [
+      "inkanyamba"
+    ],
+    "source": "Swazi oral tradition",
+    "source_type": "oral_tradition",
+    "source_quality": "medium",
+    "period": "Pre-colonial to present",
+    "lastUpdated": "2026-08-07",
+    "version": "1.0.0"
+  },
+  {
+    "id": "story-rwanda-002",
+    "slug": "imana-who-shaped-the-land",
+    "title": "Imana Who Shaped the Land",
+    "country": "Rwanda",
+    "continent": "Africa",
+    "region": "East Africa",
+    "type": "myth",
+    "summary": "Imana, the supreme creator deity, sculpts the lakes and hills of Rwanda from raw earth and water, then breathes life into the first people, only to discover that free will brings both beauty and sorrow.",
+    "full_text": "Before there was Rwanda, there was only the Great Expanse, a void of shimmering water and unformed earth. In that formless place dwelt Imana, the supreme spirit, whose eyes burned with the light of a thousand suns and whose voice carried the weight of every mountain that would ever rise.\n\nImana looked upon the void and was lonely. So the creator began to shape the land. With vast hands, Imana scooped the earth and pressed it into ridges and valleys. Where the fingers dug deep, the lakes of Rwanda were born. Kivu, Burera, Muhazi, each one a palm print left in the wet clay of creation. Where the palms pressed flat, the plains stretched wide, covered in golden grass that swayed even before there was wind.\n\nThen Imana breathed, and the wind came. It raced across the new land, bending the grass, carrying seeds that had not yet been planted. Trees erupted from the soil like dark green flames. Ferns unfurled in the shaded valleys. The rivers found their paths and carved channels through the red earth, singing as they went.\n\nBut Imana was not finished. The creator gathered clay from the banks of the first river and shaped two figures, one of dust and one of water. Imana held them up to the sky and blew into their mouths, and they opened their eyes. The first man and the first woman stood on the hill of Kigali and looked upon the land with wonder.\n\n'Everything you see is yours,' Imana told them. 'The bananas on the hills, the fish in the lakes, the cattle that will come with the dawn. You are free to live as you choose. But remember this: what you take, you must also nurture. The land gives, but it also remembers.'\n\nFor a time, the people lived in harmony. They planted beans and sorghum in the rich volcanic soil. They built homes of banana leaves and mud, and they sang songs of gratitude to Imana each evening as the stars appeared. The lakes reflected the sky like mirrors, and the hills were covered with green terraces that seemed to climb toward heaven.\n\nBut some among the people grew greedy. They cut the trees faster than they grew. They overfished the lakes and let the rivers run muddy with waste. They forgot the songs of gratitude and spoke only of what more they could take.\n\nImana watched from above, and the creator's heart grew heavy. A great storm descended upon the land, not to destroy, but to remind. The rains fell for forty days and forty nights, washing away the terraces, swelling the rivers, and filling the valleys with mist. When the clouds finally parted, the people emerged from their shelters and saw the land stripped bare.\n\nThen Imana spoke again, and this time the voice was not thunder but a whisper. 'You have forgotten the covenant. The land is not yours alone. It belongs to every child who will come after you, every creature that drinks from the rivers, every root that grips the soil. Take care of it, and it will take care of you.'\n\nThe people rebuilt. They replanted the terraces. They restocked the rivers with fingerlings. And they never again forgot the songs of gratitude, for they had learned that even the Creator's love has limits, and that the greatest blessing is also the greatest responsibility.",
+    "themes": [
+      "creation",
+      "free will",
+      "environmental stewardship",
+      "divine covenant",
+      "consequences of greed"
+    ],
+    "moral": "The gifts of the earth are not ours to exploit but to tend, for every act of neglect echoes across generations.",
+    "keywords": [
+      "Imana",
+      "Rwanda",
+      "East Africa",
+      "creation myth",
+      "Kivu",
+      "volcanic"
+    ],
+    "creatures": [
+      "imana-rwanda"
+    ],
+    "source": "Rwandan oral tradition, Kinyarwanda folklore",
+    "source_type": "oral_tradition",
+    "source_quality": "medium",
+    "period": "Pre-colonial to present",
+    "lastUpdated": "2026-08-07",
+    "version": "1.0.0"
+  },
+  {
+    "id": "story-rwanda-003",
+    "slug": "inzoka-the-serpent-of-the-lake",
+    "title": "Inzoka the Serpent of the Lake",
+    "country": "Rwanda",
+    "continent": "Africa",
+    "region": "East Africa",
+    "type": "folklore",
+    "summary": "A fisherman named Mugabo encounters Inzoka, the great serpent of the lake, who offers him untold riches in exchange for a promise he cannot keep, teaching him the cost of dishonesty.",
+    "full_text": "Mugabo was a fisherman of Lake Muhazi, and he was known throughout the region for two things: his skill with the net and his inability to tell the truth. He would boast of catches he never made and promise fish to neighbors that never arrived.\n\nOne evening, as the sun melted into the western hills like a coin dropped into dark water, Mugabo cast his net into the deepest part of the lake. He felt something heavy pull at the rope, far heavier than any Nile perch. He strained against the weight until the surface broke and a great serpent rose from the depths.\n\nInzoka was enormous, its scales shimmering between green and gold, its eyes the color of amber. 'Fisherman,' it said, and its voice was the sound of water moving over stones. 'You have pulled me from my rest. I will grant you a wish, but you must promise me this: you will tell no lie for one full year. If you break this promise, the granary will crumble to dust, and the lake will claim you.'\n\nMugabo, who feared nothing as much as poverty, wished for a granary that never empties. Inzoka studied him with those amber eyes, then dove beneath the water. When Mugabo returned home, his granary overflowed with golden grain. His children ate until they were full for the first time in months.\n\nBut the truth was hard for Mugabo to hold. A traveling merchant asked if the road ahead was safe. Mugabo, who knew bandits lurked near the bridge, said it was perfectly safe. The merchant was robbed that night. A neighbor asked if he had seen her goat. He had, but he liked the goat and said he had not.\n\nEach lie was small, but Inzoka knew. The serpent felt every falsehood ripple through the water like a stone cast into the lake. When the year was nearly done, Mugabo stood at the shore and called out, boasting he had kept his promise. Inzoka rose and spoke with sorrow.\n\n'You have told seven lies in eleven months. Each one a crack in the foundation of trust. The granary is already dust. You simply have not looked.'\n\nMugabo ran home to find the granary empty, the grain scattered like ash. He ran back to the lake, but Inzoka had descended into the deep. The lake claimed Mugabo that night, not with violence, but with a cold that settled into his bones and never left.\n\nFrom that day, the fishermen of Lake Muhazi tell their children the story of Inzoka. On quiet evenings, when the water is still as glass, you can see the reflection of a man at the shore, his mouth open in a silent confession. And the lake whispers: the truth is the only net that never breaks.",
+    "themes": [
+      "honesty",
+      "promises",
+      "consequences of deceit",
+      "water spirits",
+      "moral corruption"
+    ],
+    "moral": "Even the smallest lies erode the trust that holds a life together, and broken promises carry a price that compounds with time.",
+    "keywords": [
+      "Inzoka",
+      "Rwanda",
+      "East Africa",
+      "Lake Muhazi",
+      "serpent",
+      "fisherman"
+    ],
+    "creatures": [
+      "inzoka"
+    ],
+    "source": "Rwandan oral tradition, Kinyarwanda folklore",
+    "source_type": "oral_tradition",
+    "source_quality": "medium",
+    "period": "Pre-colonial to present",
+    "lastUpdated": "2026-08-07",
+    "version": "1.0.0"
+  },
+  {
+    "id": "story-moldova-003",
+    "slug": "iele-the-dancing-spirits-of-the-meadow",
+    "title": "Iele, the Dancing Spirits of the Meadow",
+    "country": "Moldova",
+    "continent": "Europe",
+    "region": "Eastern Europe",
+    "type": "folklore",
+    "summary": "Beautiful but dangerous fairy spirits who dance in moonlit meadows, luring travelers to join their fatal dance.",
+    "full_text": "When the moon is full and the summer air is warm, there are places in the Moldovan countryside where the grass grows in perfect circles, greener than the rest. These are the rings of the Iele, the dancing spirits of the meadow. The Iele appear as young women of impossible beauty, dressed in white with flowers in their hair. They dance in a circle, their feet never touching the ground, their voices blending into a melody sweeter than any human song.\n\nTo see the Iele is to be enchanted. Their dance draws the eye, their song pulls at the heart. A man who watches them from a distance may find himself walking toward them without meaning to. If he joins their circle, he will dance until dawn, his feet bleeding, his lungs burning, his mind emptied of all thought. When the sun rises, the Iele vanish, and the man is left alone in the field, exhausted and broken. He will never be the same. Some never speak again. Others waste away, dreaming always of the dance.\n\nA shepherd named Andrei once came upon the Iele in a meadow near the Prut River. He was wise enough to know what they were. He did not approach. He sat at the edge of the forest, facing away from them, and played a slow song on his flute. The Iele stopped dancing and listened. Their queen approached him and said, 'You are the first who did not try to join us.' Andrei replied, 'A dance that ends in death is no dance at all.' The Iele queen laughed and vanished. Andrei lived to be an old man, and his flocks never strayed.\n\nTo this day, Moldovan peasants avoid circular patches of dark green grass. They know the Iele are still dancing there, waiting for someone to join the circle.",
+    "themes": [
+      "dangerous fairies",
+      "supernatural temptation",
+      "Moldovan folklore",
+      "moonlit magic"
+    ],
+    "moral": "Not all beauty is meant to be touched; some things are only safe to admire from afar.",
+    "keywords": [
+      "Iele",
+      "Moldova",
+      "Eastern Europe",
+      "fairy spirits",
+      "Romanian folklore"
+    ],
+    "creatures": [
+      "iele"
+    ],
+    "source": "Moldovan oral tradition, Romanian folklore",
+    "source_type": "oral_tradition",
+    "source_quality": "medium",
+    "period": "Medieval to present",
+    "lastUpdated": "2026-08-07",
+    "version": "1.0.0"
   }
 ]
