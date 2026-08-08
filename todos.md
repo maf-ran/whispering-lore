@@ -10,7 +10,7 @@
 - [x] T7 — e2e + final verification (`a84f307`; items.html in DATA_PAGES+navLabels, Artifacts layout block 5×5, new items-viewer.spec.js 6 functional tests incl. search/cross-refs/deep-link/stats — 18/18 stable ×3; jest 168/168, lint no new errors; full e2e 385/414 — 29 pre-existing failures in comprehensive-audit/cross-device/layout-integrity/text-overflow, all reproduced on pre-items tree 8dc2e88)
 
 ## Next Phase (Aug 8) — 4 workstreams approved
-- [ ] G1 — Expand artifacts beyond Nordic: research + apply 2-4 batches (Celtic/Germanic, Greek/Roman, Egyptian/Levantine, East Asian) via `archive/scripts/research_items_phase1.py` + `guide.md` (ids 05xx+). Target: 0% Nordic-only gap; backrefs + shards rebuilt; jest 168+; e2e count updates.
+- [•] G1 — Expand artifacts beyond Nordic: research + apply 2-4 batches (Celtic/Germanic, Greek/Roman, Egyptian/Levantine, East Asian) via `archive/scripts/research_items_phase1.py` + `guide.md` (ids 05xx+). Target: 0% Nordic-only gap; backrefs + shards rebuilt; jest 168+; e2e count updates.
 - [ ] G2 — Fix 29 pre-existing e2e failures (reproduced on pre-items 8dc2e88): world.html cross-device overflow, body scroll-lock, story-detail timeouts, serve-301/localStorage/METHODOLOGY env issues. Goal: full chromium suite green on `python3 -m http.server`.
 - [ ] G3 — Shard `items.json` (per-letter by-slug + manifest registration, matching creatures/stories architecture); update items-viewer loadData + SW cache + tests.
 - [ ] G4 — Publish Zenodo v1.1.0: include `data/items.json` + `docs/items-schema.md` in the archive bundle via `zenodo-publish.yml`; bump version/tag.
