@@ -29,6 +29,12 @@ var mockStory = {
   lastUpdated: '2026-07-05'
 }
 
+var mockItem = {
+  slug: 'mjolnir',
+  name: 'Mjölnir',
+  lastUpdated: '2026-08-08'
+}
+
 test('BibTeX creature citation starts with @misc', function () {
   var result = CitationGenerator.formats.bibtex(mockCreature, false)
   expect(result.startsWith('@misc{nuckelavee,')).toBe(true)
@@ -82,4 +88,30 @@ test('generateAll returns all three formats', function () {
   expect(typeof all.bibtex).toBe('string')
   expect(typeof all.mla).toBe('string')
   expect(typeof all.apa).toBe('string')
+})
+
+test('BibTeX item citation contains item URL, name, and artifact type', function () {
+  var result = CitationGenerator.formats.bibtex(mockItem, false, true)
+  expect(result.indexOf('items.html?item=') !== -1).toBe(true)
+  expect(result.indexOf('Mjölnir') !== -1).toBe(true)
+  expect(result.indexOf('mythical artifact') !== -1).toBe(true)
+})
+
+test('MLA item citation contains item URL and Artifact subtitle', function () {
+  var result = CitationGenerator.formats.mla(mockItem, false, true)
+  expect(result.indexOf('items.html?item=') !== -1).toBe(true)
+  expect(result.indexOf('Artifact') !== -1).toBe(true)
+})
+
+test('APA item citation contains item URL and name', function () {
+  var result = CitationGenerator.formats.apa(mockItem, false, true)
+  expect(result.indexOf('items.html?item=') !== -1).toBe(true)
+  expect(result.indexOf('Mjölnir') !== -1).toBe(true)
+})
+
+test('generateAll item returns all three with item URL', function () {
+  var all = CitationGenerator.generateAll(mockItem, false, true)
+  expect(all.bibtex.indexOf('items.html?item=') !== -1).toBe(true)
+  expect(all.mla.indexOf('items.html?item=') !== -1).toBe(true)
+  expect(all.apa.indexOf('items.html?item=') !== -1).toBe(true)
 })

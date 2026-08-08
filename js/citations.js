@@ -24,13 +24,21 @@
 
   const formats = {}
 
-  formats.bibtex = function (entry, isStory) {
+  formats.bibtex = function (entry, isStory, isItem) {
     const id = entry.slug || entry.id || 'unknown'
     const title = isStory
       ? entry.title || 'Untitled'
       : entry.name || 'Unknown Creature'
-    const subtitle = isStory ? 'folktale' : 'mythical creature entry'
-    const urlBase = isStory ? 'stories.html?story=' : 'bestiary.html?creature='
+    const subtitle = isItem
+      ? 'mythical artifact entry'
+      : isStory
+        ? 'folktale'
+        : 'mythical creature entry'
+    const urlBase = isItem
+      ? 'items.html?item='
+      : isStory
+        ? 'stories.html?story='
+        : 'bestiary.html?creature='
     const url =
       'https://whisperinglore.com/' +
       urlBase +
@@ -63,12 +71,20 @@
     )
   }
 
-  formats.mla = function (entry, isStory) {
+  formats.mla = function (entry, isStory, isItem) {
     const title = isStory
       ? entry.title || 'Untitled'
       : entry.name || 'Unknown Creature'
-    const subtitle = isStory ? 'Folktale' : 'Mythical Creature Entry'
-    const urlBase = isStory ? 'stories.html?story=' : 'bestiary.html?creature='
+    const subtitle = isItem
+      ? 'Mythical Artifact Entry'
+      : isStory
+        ? 'Folktale'
+        : 'Mythical Creature Entry'
+    const urlBase = isItem
+      ? 'items.html?item='
+      : isStory
+        ? 'stories.html?story='
+        : 'bestiary.html?creature='
     const url =
       'https://whisperinglore.com/' +
       urlBase +
@@ -87,11 +103,15 @@
     )
   }
 
-  formats.apa = function (entry, isStory) {
+  formats.apa = function (entry, isStory, isItem) {
     const title = isStory
       ? entry.title || 'Untitled'
       : entry.name || 'Unknown Creature'
-    const urlBase = isStory ? 'stories.html?story=' : 'bestiary.html?creature='
+    const urlBase = isItem
+      ? 'items.html?item='
+      : isStory
+        ? 'stories.html?story='
+        : 'bestiary.html?creature='
     const url =
       'https://whisperinglore.com/' +
       urlBase +
@@ -102,11 +122,11 @@
     )
   }
 
-  function generateAll(entry, isStory) {
+  function generateAll(entry, isStory, isItem) {
     return {
-      bibtex: formats.bibtex(entry, isStory),
-      mla: formats.mla(entry, isStory),
-      apa: formats.apa(entry, isStory),
+      bibtex: formats.bibtex(entry, isStory, isItem),
+      mla: formats.mla(entry, isStory, isItem),
+      apa: formats.apa(entry, isStory, isItem),
     }
   }
 
