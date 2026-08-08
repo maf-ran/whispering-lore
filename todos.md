@@ -9,6 +9,12 @@
 - [x] T6 — research batches to ~150 items (3 batches applied: batch-1 35 Norse/Icelandic `02xx`, batch-2 48 Swedish `03xx`, batch-3 48 Norwegian/Danish `04xx`; total 151; backrefs via `research_items_phase1.py apply`, shards rebuilt, sw.js v1_0_7, 168/168)
 - [x] T7 — e2e + final verification (`a84f307`; items.html in DATA_PAGES+navLabels, Artifacts layout block 5×5, new items-viewer.spec.js 6 functional tests incl. search/cross-refs/deep-link/stats — 18/18 stable ×3; jest 168/168, lint no new errors; full e2e 385/414 — 29 pre-existing failures in comprehensive-audit/cross-device/layout-integrity/text-overflow, all reproduced on pre-items tree 8dc2e88)
 
+## Next Phase (Aug 8) — 4 workstreams approved
+- [ ] G1 — Expand artifacts beyond Nordic: research + apply 2-4 batches (Celtic/Germanic, Greek/Roman, Egyptian/Levantine, East Asian) via `archive/scripts/research_items_phase1.py` + `guide.md` (ids 05xx+). Target: 0% Nordic-only gap; backrefs + shards rebuilt; jest 168+; e2e count updates.
+- [ ] G2 — Fix 29 pre-existing e2e failures (reproduced on pre-items 8dc2e88): world.html cross-device overflow, body scroll-lock, story-detail timeouts, serve-301/localStorage/METHODOLOGY env issues. Goal: full chromium suite green on `python3 -m http.server`.
+- [ ] G3 — Shard `items.json` (per-letter by-slug + manifest registration, matching creatures/stories architecture); update items-viewer loadData + SW cache + tests.
+- [ ] G4 — Publish Zenodo v1.1.0: include `data/items.json` + `docs/items-schema.md` in the archive bundle via `zenodo-publish.yml`; bump version/tag.
+
 ## Latest (Aug 7)
 - [x] **DB RELATIONAL NORMALIZATION**: normalized all 5,866 legacy creature refs in `stories.json` (`troll-norway-1819` → `troll-norwegian`) to match canonical `creature.slug`s. 5,582/5,582 (100%) now resolve across 1,928 stories (1920 unique slugs) via `normalize-stories-creatures.mjs` (strip numeric suffix / `stub-` prefix / country prefix + 20 explicit variant overrides). Story detail "Featured Creatures" cards now render links. Removed 284 unmappable generic-* stubs (giant-generic-0004 etc.). Shards rebuilt.
 - [x] **FIELD COMPLETION 100%**: filled all 24 missing `appearance` + 25 missing `habitat` fields via `fill-missing-fields.mjs` (0 remaining). Covers unattested entries (honest "no canonical appearance recorded"), i.e. ñuhu Mixtec guardians, Tulafale orator-ghost, Yeay Lac, Matlazihua phantom, Curupira/Iara, Waaq, plus 25 NW Coast / Sami habitat fills.
