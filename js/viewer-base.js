@@ -7,6 +7,7 @@ export class BaseViewer {
     this.emptyId = options.emptyId
     this.loadMoreId = options.loadMoreId
     this.countSelector = options.countSelector
+    this.countLabel = options.countLabel
 
     this.state = {
       filters: {},
@@ -61,7 +62,8 @@ export class BaseViewer {
         ' of ' +
         total +
         ' ' +
-        (this.type === 'creatures' ? 'creatures' : 'stories')
+        (this.countLabel ||
+          (this.type === 'creatures' ? 'creatures' : 'stories'))
       if (progress < 1) {
         this.state.rafId = window.requestAnimationFrame(animate)
       } else {

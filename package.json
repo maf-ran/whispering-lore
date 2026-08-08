@@ -25,6 +25,10 @@
     "format": "prettier --write ."
   },
   "jest": {
+    "transform": {
+      "js/items-viewer\\.js$": "<rootDir>/tests/transform-esm.js",
+      "js/viewer-base\\.js$": "<rootDir>/tests/transform-esm.js"
+    },
     "testPathIgnorePatterns": [
       "/node_modules/",
       "/tests/e2e/"
