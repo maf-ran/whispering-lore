@@ -8,7 +8,7 @@ const VIEWPORTS = [
   { w: 1920, h: 1080, label: '1920' },
 ];
 
-const DATA_PAGES = ['bestiary.html', 'stories.html', 'world.html'];
+const DATA_PAGES = ['bestiary.html', 'stories.html', 'items.html', 'world.html'];
 
 async function commonChecks(page, path, vp) {
   const issues = [];
@@ -21,7 +21,7 @@ async function commonChecks(page, path, vp) {
 
   // Active link matches current page
   const navLabels = {
-    'index': 'HOME', 'bestiary': 'BESTIARY', 'stories': 'STORIES',
+    'index': 'HOME', 'bestiary': 'BESTIARY', 'stories': 'STORIES', 'items': 'ARTIFACTS',
     'world': 'WORLD', 'quiz': 'EXAMINATION', 'about': 'ABOUT', 'mylore': 'MY LORE'
   };
   const pageName = path.replace('.html', '');
@@ -210,6 +210,26 @@ test.describe('Stories layout', () => {
       await page.locator('.card').first().waitFor({ state: 'visible', timeout: 30000 });
 
       let issues = await commonChecks(page, 'stories.html', vp);
+      issues = issues.concat(await pageHeroChecks(page));
+      issues = issues.concat(await filterBarChecks(page));
+      issues = issues.concat(await cardGridChecks(page, 1));
+
+      expect(issues).toEqual([]);
+    });
+  }
+});
+
+// Artifacts
+test.describe('Artifacts layout', () => {
+  for (const vp of VIEWPORTS) {
+    test(`layout at ${vp.label} (${vp.w}x${vp.h})`, async ({ page }) => {
+      test.setTimeout(45000);
+      test.slow();
+      await page.setViewportSize({ width: vp.w, height: vp.h });
+      await page.goto('http://localhost:3000/items.html', { waitUntil: 'load', timeout: 15000 });
+      await page.locator('.card').first().waitFor({ state: 'visible', timeout: 30000 });
+
+      let issues = await commonChecks(page, 'items.html', vp);
       issues = issues.concat(await pageHeroChecks(page));
       issues = issues.concat(await filterBarChecks(page));
       issues = issues.concat(await cardGridChecks(page, 1));
