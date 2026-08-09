@@ -66,7 +66,7 @@ netlify deploy --dir . --prod
 
 ## Zenodo DOI Archive
 
-A GitHub Actions workflow (`.github/workflows/zenodo-publish.yml`) automatically archives the dataset to Zenodo when a `v*` tag is pushed. This creates a citable DOI (currently `10.5281/zenodo.21387109`).
+A GitHub Actions workflow (`.github/workflows/zenodo-publish.yml`) automatically archives the dataset to Zenodo when a `v*` tag is pushed. This creates a citable DOI (currently `10.5281/zenodo.21865169`).
 
 ### Publishing a new version
 
@@ -86,8 +86,8 @@ The workflow will:
 
 After the workflow completes:
 1. Check the GitHub Actions tab for a green run
-2. Visit `https://zenodo.org/deposit/21387109` to confirm the published record
-3. The DOI resolves to `https://doi.org/10.5281/zenodo.21387109`
+2. Visit `https://zenodo.org/records/21865169` to confirm the published record
+3. The DOI resolves to `https://doi.org/10.5281/zenodo.21865169`
 
 ## Update from Latest Deployment
 

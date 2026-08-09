@@ -88,7 +88,7 @@ npx serve -l 3000 --no-clipboard .
 | Cross-refs | 35,457 | 0 broken |
 | Quiz questions | 1,071 | 10 variants each, 6 difficulty levels |
 
-**Zenodo DOI**: [`10.5281/zenodo.21387109`](https://doi.org/10.5281/zenodo.21387109) (v1.0.0; v1.1.0 adds 319 artifact records + schema docs)
+**Zenodo DOI**: [`10.5281/zenodo.21865169`](https://doi.org/10.5281/zenodo.21865169) (v1.1.0 — 3,668 creatures, 2,185 stories, 319 artifacts)
 
 ## Testing
 

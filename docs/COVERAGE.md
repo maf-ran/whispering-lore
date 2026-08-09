@@ -18,7 +18,7 @@
 | Source type classified | 3668/3668 (100%) |
 | Source quality classified | 5857/5857 (100%) |
 | Cross-references | 35,457 (0 broken) |
-| Zenodo DOI | 10.5281/zenodo.21387109 |
+| Zenodo DOI | 10.5281/zenodo.21865169 |
 
 ## Top Creature Types
 

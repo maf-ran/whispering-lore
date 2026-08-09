@@ -83,7 +83,7 @@ Whispering Lore/
 | HTML pages | 9 |
 | Test suites | 221 total (141 Jest + 80 Playwright) |
 | Descriptions ≥30 chars | 100% |
-| Zenodo DOI | 10.5281/zenodo.21387109 |
+| Zenodo DOI | 10.5281/zenodo.21865169 |
 
 ## Running the Project Locally
 ```bash
@@ -116,7 +116,7 @@ npx serve -l 3000 --no-clipboard .
 If you use this dataset, please cite:
 ```
 Olsson, Mats. (2026). Whispering Lore: A Comprehensive Digital Compendium of
-World Mythology and Folklore. Zenodo. https://doi.org/10.5281/zenodo.21387109
+World Mythology and Folklore. Zenodo. https://doi.org/10.5281/zenodo.21865169
 ```
 
 ## License & Contribution
