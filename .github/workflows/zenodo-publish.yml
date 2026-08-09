@@ -23,8 +23,11 @@ jobs:
 
       - name: Zip dataset
         run: |
-          zip -r dataset.zip data/datasets/ data/sharded/
+          zip -r dataset.zip data/datasets/ data/sharded/ data/items.json docs/items-schema.md docs/creature-schema.md docs/story-schema.md
           echo "Dataset zipped: $(du -h dataset.zip | cut -f1)"
+          echo "Archive contents:"
+          zipinfo -1 dataset.zip | head -5
+          echo "... ($(zipinfo -1 dataset.zip | wc -l | tr -d ' ') files total)"
 
       - name: Create Zenodo deposition
         id: create

@@ -72,13 +72,13 @@ A GitHub Actions workflow (`.github/workflows/zenodo-publish.yml`) automatically
 
 ```bash
 # 1. Tag the release
-git tag v1.0.0   # or v1.0.1, v1.1.0, etc.
+git tag v1.1.0   # or v1.0.1, v1.1.0, etc.
 git push origin v1.0.0
 ```
 
 The workflow will:
 1. Create a new Zenodo deposition
-2. Upload `data/datasets/` + `data/sharded/` as a ZIP
+2. Upload `data/datasets/`, `data/sharded/`, `data/items.json`, and the dataset schema docs (`docs/*-schema.md`) as a ZIP
 3. Set metadata (title, creators, license CC-BY-4.0, keywords)
 4. Publish and mint a new DOI
 

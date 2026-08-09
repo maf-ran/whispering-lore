@@ -83,11 +83,12 @@ npx serve -l 3000 --no-clipboard .
 |--------|-------|----------|
 | Creatures | 3,668 | 100% (3,684 upgrade records across 43 batches) |
 | Stories | 2,185 | 97.1% (1,669 at Stage 3+; 50 fair/good — oral tradition limit) |
+| Artifacts | 319 | 100% (items.json + sharded for the artifacts viewer) |
 | Countries | 212 | — |
 | Cross-refs | 35,457 | 0 broken |
 | Quiz questions | 1,071 | 10 variants each, 6 difficulty levels |
 
-**Zenodo DOI**: [`10.5281/zenodo.21387109`](https://doi.org/10.5281/zenodo.21387109) (v1.0.0)
+**Zenodo DOI**: [`10.5281/zenodo.21387109`](https://doi.org/10.5281/zenodo.21387109) (v1.0.0; v1.1.0 adds 319 artifact records + schema docs)
 
 ## Testing
 
