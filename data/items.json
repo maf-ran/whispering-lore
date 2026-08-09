@@ -304,6 +304,8 @@
     "name": "Gram",
     "aliases": [
       "Balmung",
+      "Nothung",
+      "Siegfried's Sword",
       "Sigurd's Sword"
     ],
     "country": "Iceland",
@@ -330,11 +332,15 @@
       "volsunga"
     ],
     "search_terms": [
-      "gram",
       "balmung",
-      "sigurds sword",
-      "sigmund sword",
       "branstock",
+      "gram",
+      "nibelungenlied",
+      "nothung",
+      "siegfried",
+      "siegfried sword",
+      "sigmund sword",
+      "sigurds sword",
       "volsunga saga"
     ],
     "version": "1.0.0",
@@ -2988,8 +2994,11 @@
     "slug": "the-magic-table",
     "name": "The Magic Table",
     "aliases": [
+      "Det självdukande bordet",
+      "Little Table Set Yourself",
+      "Table, the Ass and the Stick",
       "The Self-Setting Table",
-      "Det självdukande bordet"
+      "Tischlein deck dich"
     ],
     "country": "Sweden",
     "region": "Swedish",
@@ -3015,9 +3024,12 @@
       "magic"
     ],
     "search_terms": [
+      "grimm",
       "magic table",
       "self setting table",
+      "self-setting table",
       "självdukande bord",
+      "tischlein deck dich",
       "wishing table sweden"
     ],
     "version": "1.0.0",
@@ -8249,5 +8261,5038 @@
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-08-08"
+  },
+  {
+    "id": "excalibur-1001",
+    "slug": "excalibur",
+    "name": "Excalibur",
+    "aliases": [
+      "Caliburn",
+      "Caladfwlch",
+      "King Arthur's Sword"
+    ],
+    "country": "England",
+    "region": "Celtic",
+    "culture": "Arthurian (British)",
+    "type": "weapon",
+    "material": "Iron with gilded fittings",
+    "era": "Arthurian",
+    "powers": "Blade that cut through any armor; scabbard protected the wearer from wounding.",
+    "associated_creature": null,
+    "description": "The great sword of King Arthur, given to him by the Lady of the Lake and returned to her waters after his death at Camlann. In Thomas Malory's Le Morte d'Arthur its scabbard protects the wearer from wounding. The name also attaches to the sword Arthur drew from the stone in later romance.",
+    "related_creatures": [
+      "merlin",
+      "morgan"
+    ],
+    "featured_in_stories": [
+      "excalibur",
+      "the-lady-of-the-lake",
+      "the-sword-in-the-stone"
+    ],
+    "source": "Thomas Malory, Le Morte d'Arthur (1485)",
+    "source_type": "literary",
+    "source_quality": "well-documented",
+    "attested": true,
+    "keywords": [
+      "sword",
+      "arthur",
+      "camelot",
+      "lady of the lake",
+      "britain"
+    ],
+    "search_terms": [
+      "excalibur",
+      "caliburn",
+      "caladfwlch",
+      "king arthur sword",
+      "lady of the lake"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "claive-mor-1002",
+    "slug": "claive-mor",
+    "name": "Claíomh Mór",
+    "aliases": [
+      "Claíomh Solais",
+      "Sword of Light",
+      "Nuada's Sword"
+    ],
+    "country": "Ireland",
+    "region": "Celtic",
+    "culture": "Irish (Tuatha Dé Danann)",
+    "type": "weapon",
+    "material": "Iron",
+    "era": "Mythic age",
+    "powers": "Said to bite through any armor or shield.",
+    "associated_creature": "tuatha-d-danann",
+    "description": "Claíomh Mór, the 'great sword' of Irish tradition, one of the four treasures the Tuatha Dé Danann carried into Ireland and linked with Nuada Airgetlám. Later lore gives it a blade that could pierce any armour or shield. The name is close to, and often confused with, Claíomh Solais, the sword of light.",
+    "related_creatures": [
+      "tuatha-d-danann"
+    ],
+    "featured_in_stories": [],
+    "source": "Lebor Gabála Érenn",
+    "source_type": "literary",
+    "source_quality": "documented",
+    "attested": true,
+    "keywords": [
+      "sword",
+      "nuada",
+      "tuatha de danann",
+      "four treasures",
+      "ireland"
+    ],
+    "search_terms": [
+      "claíomh mór",
+      "claive mor",
+      "claíomh solais",
+      "sword of light",
+      "nuada's sword"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "dyrnwyn-1003",
+    "slug": "dyrnwyn",
+    "name": "Dyrnwyn",
+    "aliases": [
+      "Sword of Rhydderch",
+      "Dyrnwyn Hael"
+    ],
+    "country": "Wales",
+    "region": "Celtic",
+    "culture": "Welsh",
+    "type": "weapon",
+    "material": "Iron",
+    "era": "Medieval",
+    "powers": "Burst into flame when drawn by a worthy man; burned the unworthy bearer.",
+    "associated_creature": null,
+    "description": "Dyrnwyn, the sword of Rhydderch Hael, one of the Thirteen Treasures of the Island of Britain. Drawn by a worthy man it burst into flame; drawn by an unworthy bearer it burned the wielder himself. A noble warrior is said to have taken it, though later tradition preserves few details of its fate.",
+    "related_creatures": [],
+    "featured_in_stories": [],
+    "source": "Medieval Welsh list of the Thirteen Treasures of the Island of Britain",
+    "source_type": "literary",
+    "source_quality": "documented",
+    "attested": true,
+    "keywords": [
+      "sword",
+      "wales",
+      "thirteen treasures",
+      "rhydderch",
+      "flame sword"
+    ],
+    "search_terms": [
+      "dyrnwyn",
+      "dyrnwync",
+      "sword of rhydderch",
+      "thirteen treasures of britain"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "spear-of-lugh-1004",
+    "slug": "spear-of-lugh",
+    "name": "Gáe Assail",
+    "aliases": [
+      "Spear of Lugh",
+      "Lugh's Spear",
+      "Gáe Assail (Assal)"
+    ],
+    "country": "Ireland",
+    "region": "Celtic",
+    "culture": "Irish (Tuatha Dé Danann)",
+    "type": "weapon",
+    "material": "Iron",
+    "era": "Mythic age",
+    "powers": "Unstoppable spear of the champion of the Tuatha Dé Danann.",
+    "associated_creature": "tuatha-d-danann",
+    "description": "Gáe Assail, the great spear of Lugh, one of the four treasures the Tuatha Dé Danann carried into Ireland. Lugh used it at the Second Battle of Mag Tuired, where it helped rout the Fomorians. Its name preserves an older association with the Otherworld gift-bearers of Irish tradition.",
+    "related_creatures": [
+      "tuatha-d-danann"
+    ],
+    "featured_in_stories": [],
+    "source": "Cath Maige Tuired",
+    "source_type": "literary",
+    "source_quality": "documented",
+    "attested": true,
+    "keywords": [
+      "spear",
+      "lugh",
+      "tuatha de danann",
+      "mag tuired",
+      "four treasures"
+    ],
+    "search_terms": [
+      "gae assail",
+      "spear of lugh",
+      "lugh's spear",
+      "gae assal",
+      "assail"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "green-knight-axe-1005",
+    "slug": "green-knight-axe",
+    "name": "The Green Knight's Axe",
+    "aliases": [
+      "Gawain's Axe",
+      "Axe of the Green Chapel"
+    ],
+    "country": "England",
+    "region": "Celtic",
+    "culture": "Arthurian (English)",
+    "type": "weapon",
+    "material": "Steel",
+    "era": "Medieval",
+    "powers": "Weapon of the beheading challenge at Camelot.",
+    "associated_creature": "green-knight-denmark",
+    "description": "The enormous green-steel axe carried by the Green Knight into King Arthur's hall at the start of the fourteenth-century poem Sir Gawain and the Green Knight. Gawain strikes the Knight's head off with it, and the Knight picks up the severed head, which reminds Gawain of the return blow owed at the Green Chapel.",
+    "related_creatures": [
+      "green-knight-denmark"
+    ],
+    "featured_in_stories": [
+      "the-green-knights-challenge"
+    ],
+    "source": "Sir Gawain and the Green Knight (fourteenth century)",
+    "source_type": "literary",
+    "source_quality": "well-documented",
+    "attested": true,
+    "keywords": [
+      "axe",
+      "gawain",
+      "green knight",
+      "beheading game",
+      "camelot"
+    ],
+    "search_terms": [
+      "green knight axe",
+      "gawain axe",
+      "green chapel axe",
+      "sir gawain"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "durendal-1007",
+    "slug": "durendal",
+    "name": "Durendal",
+    "aliases": [
+      "Durandal",
+      "Roland's Sword"
+    ],
+    "country": "France",
+    "region": "Europe",
+    "culture": "Frankish (Chanson de Roland)",
+    "type": "weapon",
+    "material": "Iron with gilded pommel",
+    "era": "Medieval",
+    "powers": "Indestructible blade whose pommel holds relics of Saint Peter, Saint Basil and Saint Denis.",
+    "associated_creature": null,
+    "description": "Durendal, Roland's sword in the eleventh-century Chanson de Roland. Its gilded pommel holds a tooth of Saint Peter, blood of Saint Basil and hair of Saint Denis. Wounded at Roncevaux, Roland tries to break it against a rock rather than let it fall to the Saracens; the blade survives and the rock splits.",
+    "related_creatures": [],
+    "featured_in_stories": [],
+    "source": "Chanson de Roland (c. 1100)",
+    "source_type": "literary",
+    "source_quality": "well-documented",
+    "attested": true,
+    "keywords": [
+      "sword",
+      "roland",
+      "charlemagne",
+      "roncevaux",
+      "relics"
+    ],
+    "search_terms": [
+      "durendal",
+      "durandal",
+      "roland's sword",
+      "roncevaux sword"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "szczerbiec-1008",
+    "slug": "szczerbiec",
+    "name": "Szczerbiec",
+    "aliases": [
+      "The Jagged Sword",
+      "Coronation Sword of Poland"
+    ],
+    "country": "Poland",
+    "region": "Slavic",
+    "culture": "Polish",
+    "type": "weapon",
+    "material": "Steel with gold fittings",
+    "era": "Medieval",
+    "powers": "Symbol of Polish kingship; the notched blade carries the Kiev legend.",
+    "associated_creature": null,
+    "description": "Szczerbiec, the jagged sword used at Polish coronations from the Middle Ages. Its name, 'the notched one', recalls the legend that Bolesław the Brave struck it against the Golden Gate of Kiev in 1018. The surviving blade, now in Wawel Castle, was damaged in a nineteenth-century theft.",
+    "related_creatures": [],
+    "featured_in_stories": [],
+    "source": "Wawel Crown Jewels; coronation tradition",
+    "source_type": "archaeological",
+    "source_quality": "verified",
+    "attested": true,
+    "keywords": [
+      "sword",
+      "poland",
+      "coronation",
+      "wawel",
+      "kingship"
+    ],
+    "search_terms": [
+      "szczerbiec",
+      "jagged sword",
+      "polish coronation sword",
+      "sword of boleslaw"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "attilas-sword-1009",
+    "slug": "attilas-sword",
+    "name": "Sword of Attila",
+    "aliases": [
+      "Sabre of Attila",
+      "Sword of Mars",
+      "Attila's Sword"
+    ],
+    "country": "Hungary",
+    "region": "Europe",
+    "culture": "Hungarian (Hunnic tradition)",
+    "type": "weapon",
+    "material": "Iron with gold and gem-set hilt",
+    "era": "Late Antiquity",
+    "powers": "Blade of world dominion pledged to Attila.",
+    "associated_creature": null,
+    "description": "The sword said to have belonged to Attila the Hun and kept among Hungarian royal treasures. The Roman historian Jordanes records that a shepherd found a blade in the ground that Attila called the Sword of Mars, pledge of world dominion. The gilded iron saber shown in Vienna's Kunsthistorisches Museum is identified with it in later tradition.",
+    "related_creatures": [],
+    "featured_in_stories": [],
+    "source": "Jordanes, Getica; Kunsthistorisches Museum attribution",
+    "source_type": "literary",
+    "source_quality": "documented",
+    "attested": true,
+    "keywords": [
+      "sword",
+      "attila",
+      "hun",
+      "sabre",
+      "hungary"
+    ],
+    "search_terms": [
+      "attila's sword",
+      "sword of attila",
+      "sword of mars",
+      "sabre of attila"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "tara-brooch-1010",
+    "slug": "tara-brooch",
+    "name": "Tara Brooch",
+    "aliases": [
+      "Bettystown Brooch"
+    ],
+    "country": "Ireland",
+    "region": "Celtic",
+    "culture": "Irish",
+    "type": "jewelry",
+    "material": "Silver-gilt, gold filigree, amber and glass",
+    "era": "Early Medieval",
+    "associated_creature": null,
+    "description": "The Tara Brooch, a richly filigreed silver-and-gold annular brooch made around the eighth century. It was discovered in 1850 on the beach at Bettystown, County Meath, and the name 'Tara' was attached for sale because of the site's royal associations. It survives in the National Museum of Ireland with its original chain intact.",
+    "related_creatures": [],
+    "featured_in_stories": [],
+    "source": "National Museum of Ireland; 1850 find",
+    "source_type": "archaeological",
+    "source_quality": "verified",
+    "attested": true,
+    "keywords": [
+      "brooch",
+      "ireland",
+      "insular art",
+      "filigree",
+      "eighth century"
+    ],
+    "search_terms": [
+      "tara brooch",
+      "bettystown brooch",
+      "celtic brooch",
+      "annular brooch"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "snettisham-torc-1011",
+    "slug": "snettisham-torc",
+    "name": "Great Torc of Snettisham",
+    "aliases": [
+      "Snettisham Torc",
+      "Snettisham Hoard Torc"
+    ],
+    "country": "England",
+    "region": "Celtic",
+    "culture": "Celtic (Iron Age Britain)",
+    "type": "jewelry",
+    "material": "Gold alloy",
+    "era": "Iron Age",
+    "associated_creature": null,
+    "description": "The Great Torc of Snettisham, a necklace of two interlocking gold-alloy rings with ornate buffer terminals, made in eastern England around 75 BC and found in a hoard at Snettisham, Norfolk, in 1950. Such tores marked high status among Iron Age Britons; the example is a centrepiece of the British Museum's Celtic collection.",
+    "related_creatures": [],
+    "featured_in_stories": [],
+    "source": "British Museum; Snettisham hoard",
+    "source_type": "archaeological",
+    "source_quality": "verified",
+    "attested": true,
+    "keywords": [
+      "torc",
+      "necklace",
+      "gold",
+      "iron age",
+      "celtic"
+    ],
+    "search_terms": [
+      "snettisham torc",
+      "great torc",
+      "snettisham hoard",
+      "celtic torc"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "claddagh-ring-1012",
+    "slug": "claddagh-ring",
+    "name": "Claddagh Ring",
+    "aliases": [
+      "Fáinne Chladaigh",
+      "Ring of the Claddagh"
+    ],
+    "country": "Ireland",
+    "region": "Celtic",
+    "culture": "Irish",
+    "type": "jewelry",
+    "material": "Gold or silver",
+    "era": "17th century onward",
+    "associated_creature": null,
+    "description": "The Claddagh, a ring shaped as two hands holding a heart beneath a crown, made in Galway since at least the seventeenth century. The popular story of Richard Joyce, enslaved in Algiers, who sent one home, is late and unverifiable; older written records of the motif are scarce, so the origin legend is treated as tradition rather than fact.",
+    "related_creatures": [],
+    "featured_in_stories": [],
+    "source": "Galway goldsmith tradition",
+    "source_type": "oral_tradition",
+    "source_quality": "fair",
+    "attested": false,
+    "keywords": [
+      "ring",
+      "claddagh",
+      "galway",
+      "love",
+      "heart and hands"
+    ],
+    "search_terms": [
+      "claddagh",
+      "claddagh ring",
+      "galway ring",
+      "fáinne chladaigh"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "crown-of-saint-wenceslas-1013",
+    "slug": "crown-of-saint-wenceslas",
+    "name": "Crown of Saint Wenceslas",
+    "aliases": [
+      "Svatováclavská koruna",
+      "Bohemian Crown"
+    ],
+    "country": "Czech Republic",
+    "region": "Slavic",
+    "culture": "Czech (Bohemian)",
+    "type": "jewelry",
+    "material": "Gold set with rubies, sapphires and emeralds",
+    "era": "Medieval",
+    "associated_creature": null,
+    "description": "The Crown of Saint Wenceslas, made in 1347 for Charles IV and used to crown Bohemian kings. It is set with rubies, sapphires and emeralds and kept with the other Czech crown jewels. Legend holds that any usurper who sets it on his head will die within a year; it is shown only rarely and under strict conditions.",
+    "related_creatures": [],
+    "featured_in_stories": [],
+    "source": "Bohemian crown jewels; Prague legend",
+    "source_type": "archaeological",
+    "source_quality": "verified",
+    "attested": true,
+    "keywords": [
+      "crown",
+      "bohemia",
+      "charles iv",
+      "czech",
+      "jewels"
+    ],
+    "search_terms": [
+      "crown of st wenceslas",
+      "svatováclavská koruna",
+      "czech crown jewels",
+      "bohemian crown"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "flying-dutchman-ship-1014",
+    "slug": "flying-dutchman-ship",
+    "name": "Ship of the Flying Dutchman",
+    "aliases": [
+      "The Phantom Ship",
+      "Van der Decken's Vessel"
+    ],
+    "country": "Netherlands",
+    "region": "Germanic",
+    "culture": "Dutch maritime",
+    "type": "ship",
+    "material": "Wood (legendary)",
+    "era": "Folk era",
+    "powers": "Doomed to sail the Cape of Good Hope forever; sighting it is an omen.",
+    "associated_creature": "flying-dutchman",
+    "description": "The ghost ship of the Flying Dutchman, a spectral East Indiaman doomed to round the Cape of Good Hope forever after its captain, variously named Van der Decken, swore against the wind in a storm. Sightings were reported from the seventeenth century onward; no physical vessel exists, and the tale is maritime legend.",
+    "related_creatures": [
+      "flying-dutchman"
+    ],
+    "featured_in_stories": [
+      "the-flying-dutchman"
+    ],
+    "source": "Maritime legend, from the seventeenth century",
+    "source_type": "oral_tradition",
+    "source_quality": "documented",
+    "attested": false,
+    "keywords": [
+      "ghost ship",
+      "flying dutchman",
+      "cape of good hope",
+      "phantom vessel",
+      "seafaring"
+    ],
+    "search_terms": [
+      "flying dutchman",
+      "phantom ship",
+      "van der decken",
+      "ghost ship"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "prydwen-1015",
+    "slug": "prydwen",
+    "name": "Prydwen",
+    "aliases": [
+      "Arthur's Ship",
+      "Shield of Arthur"
+    ],
+    "country": "Wales",
+    "region": "Celtic",
+    "culture": "Welsh",
+    "type": "ship",
+    "material": "Wood (legendary)",
+    "era": "Arthurian",
+    "powers": "Arthur's vessel for voyages to the Otherworld stronghold of Annwn.",
+    "associated_creature": null,
+    "description": "Prydwen, the ship of King Arthur in Welsh tradition. In Culhwch ac Olwen Arthur sails in Prydwen, and the poem Preiddeu Annwn describes Arthur's fleet journey to the Otherworld fortress of Annwn. Welsh sources also give the name to a shield, showing the word shifted between ship and protection.",
+    "related_creatures": [],
+    "featured_in_stories": [],
+    "source": "Culhwch ac Olwen; Preiddeu Annwn",
+    "source_type": "literary",
+    "source_quality": "documented",
+    "attested": true,
+    "keywords": [
+      "ship",
+      "arthur",
+      "wales",
+      "annwn",
+      "otherworld"
+    ],
+    "search_terms": [
+      "prydwen",
+      "arthur's ship",
+      "preiddeu annwn",
+      "shield of arthur"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "mantle-of-tegau-1016",
+    "slug": "mantle-of-tegau",
+    "name": "Mantle of Tegau Eurfron",
+    "aliases": [
+      "Tegau's Mantle",
+      "Mantle of Tegau Gold-Breast"
+    ],
+    "country": "Wales",
+    "region": "Celtic",
+    "culture": "Welsh",
+    "type": "garment",
+    "material": "Woven cloth (legendary)",
+    "era": "Medieval",
+    "powers": "Fitted only a wife faithful to her husband; exposed unfaithful wives.",
+    "associated_creature": null,
+    "description": "Tegau Eurfron's mantle, one of the Thirteen Treasures of the Island of Britain. It would fall only to a wife faithful to her husband; for a woman who had broken her vows it would not cover her, and the truth of her conduct was laid bare. It is the Welsh counterpart of the chastity-testing garments of continental romance.",
+    "related_creatures": [],
+    "featured_in_stories": [],
+    "source": "Medieval Welsh list of the Thirteen Treasures of the Island of Britain",
+    "source_type": "literary",
+    "source_quality": "documented",
+    "attested": true,
+    "keywords": [
+      "mantle",
+      "wales",
+      "chastity",
+      "thirteen treasures",
+      "faithfulness"
+    ],
+    "search_terms": [
+      "tegau mantle",
+      "tegau eurfron",
+      "mantle of tegau",
+      "thirteen treasures"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "arthur-mantle-1017",
+    "slug": "arthur-mantle",
+    "name": "Arthur's Mantle",
+    "aliases": [
+      "Mantle of Arthur",
+      "Cloak of Invisibility"
+    ],
+    "country": "Wales",
+    "region": "Celtic",
+    "culture": "Welsh (Arthurian)",
+    "type": "garment",
+    "material": "Woven cloth (legendary)",
+    "era": "Medieval",
+    "powers": "Made the wearer invisible while still allowing them to see everything around them.",
+    "associated_creature": null,
+    "description": "Arthur's mantle, one of the Thirteen Treasures of the Island of Britain. Whoever wore it became invisible, though the wearer could still see everything about them. The mantle belongs to the Arthur of the medieval Welsh marvel-list tradition, distinct from the later continental Arthur of Malory, and is recorded only in the Welsh treasure catalogue.",
+    "related_creatures": [],
+    "featured_in_stories": [],
+    "source": "Medieval Welsh list of the Thirteen Treasures of the Island of Britain",
+    "source_type": "literary",
+    "source_quality": "documented",
+    "attested": true,
+    "keywords": [
+      "mantle",
+      "arthur",
+      "invisibility",
+      "thirteen treasures",
+      "wales"
+    ],
+    "search_terms": [
+      "arthur's mantle",
+      "mantle of arthur",
+      "cloak of invisibility",
+      "thirteen treasures"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "tarnhelm-1018",
+    "slug": "tarnhelm",
+    "name": "Tarnhelm",
+    "aliases": [
+      "Tarnkappe",
+      "Cap of Invisibility"
+    ],
+    "country": "Germany",
+    "region": "Germanic",
+    "culture": "Medieval German (Nibelungen)",
+    "type": "garment",
+    "material": "Forged metal cap (legendary)",
+    "era": "Medieval",
+    "powers": "Rendered the wearer invisible.",
+    "associated_creature": null,
+    "description": "Tarnhelm, the magic cap of invisibility in the Nibelungenlied. Siegfried takes it from the dwarf Alberich along with the Nibelung hoard; it lets him work unseen. Richard Wagner later gave the name to the golden ring's forging helmet in the Ring cycle, where it also allows shape-shifting, a power absent from the medieval poem.",
+    "related_creatures": [],
+    "featured_in_stories": [],
+    "source": "Das Nibelungenlied",
+    "source_type": "literary",
+    "source_quality": "well-documented",
+    "attested": true,
+    "keywords": [
+      "tarnkappe",
+      "invisibility",
+      "siegfried",
+      "alberich",
+      "ring cycle"
+    ],
+    "search_terms": [
+      "tarnhelm",
+      "tarnkappe",
+      "invisibility cap",
+      "nibelungen cap",
+      "wagner ring"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "selkie-seal-skin-1019",
+    "slug": "selkie-seal-skin",
+    "name": "Selkie's Seal-Skin",
+    "aliases": [
+      "Seal-Skin Cloak",
+      "Rókuskinn",
+      "Skin of the Seal Bride"
+    ],
+    "country": "Scotland",
+    "region": "Celtic",
+    "culture": "Scottish",
+    "type": "garment",
+    "material": "Seal pelt",
+    "era": "Folk era",
+    "powers": "Lets the selkie shed human form and return to the sea when put back on.",
+    "associated_creature": "selkie",
+    "description": "The seal-skin of the selkie, the shapeshifting seal-people of Scottish and Irish tradition. A selkie sheds the skin to take human form on land and must have it returned to go back to the sea; a human who hides the skin keeps the selkie as a spouse until the skin is found. The motif underpins the classic selkie-bride tales.",
+    "related_creatures": [
+      "selkie",
+      "selkie-scotland"
+    ],
+    "featured_in_stories": [
+      "the-selkie-bride",
+      "selkie-story"
+    ],
+    "source": "Hebridean and Orcadian selkie tradition",
+    "source_type": "oral_tradition",
+    "source_quality": "documented",
+    "attested": true,
+    "keywords": [
+      "selkie",
+      "seal skin",
+      "shapeshifter",
+      "seal bride",
+      "scotland"
+    ],
+    "search_terms": [
+      "selkie skin",
+      "seal skin",
+      "selkie bride",
+      "rókuskinn",
+      "seal woman"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "silver-branch-of-emain-1020",
+    "slug": "silver-branch-of-emain",
+    "name": "Silver Branch of Emain",
+    "aliases": [
+      "Apple Branch of the Otherworld",
+      "Bran's Silver Branch"
+    ],
+    "country": "Ireland",
+    "region": "Celtic",
+    "culture": "Irish",
+    "type": "tool",
+    "material": "Silver with golden apples",
+    "era": "Mythic age",
+    "powers": "Its music lulled listeners and summoned heroes to the Otherworld.",
+    "associated_creature": null,
+    "description": "The silver apple-branch carried by a woman of the Otherworld to the hero Bran in the medieval tale the Voyage of Bran. Its music lulls those who hear it, and Bran leaves with its bearer for the Land of Women across the sea. Messengers of the Irish Otherworld traditionally bear such singing branches.",
+    "related_creatures": [],
+    "featured_in_stories": [],
+    "source": "Immram Brain (Voyage of Bran)",
+    "source_type": "literary",
+    "source_quality": "documented",
+    "attested": true,
+    "keywords": [
+      "silver branch",
+      "apple branch",
+      "otherworld",
+      "voyage of bran",
+      "music"
+    ],
+    "search_terms": [
+      "silver branch",
+      "apple branch",
+      "voyage of bran",
+      "emain branch",
+      "bran mac febail"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "cormacs-cup-1021",
+    "slug": "cormacs-cup",
+    "name": "Cormac's Cup",
+    "aliases": [
+      "Cup of Cormac mac Airt",
+      "Cup of Truth"
+    ],
+    "country": "Ireland",
+    "region": "Celtic",
+    "culture": "Irish",
+    "type": "household object",
+    "material": "Gold",
+    "era": "Mythic age",
+    "powers": "Shattered at a spoken lie and restored itself when truth was told.",
+    "associated_creature": null,
+    "description": "The cup given to the high king Cormac mac Airt in Echtra Cormaic, offered by a warrior who proves to be Manannán mac Lir. It shatters when a lie is spoken and restores itself when the truth is told, allowing Cormac to test the words of his court. It is one of the moral test-objects of Irish wonder literature.",
+    "related_creatures": [],
+    "featured_in_stories": [],
+    "source": "Echtra Cormaic (The Adventure of Cormac mac Airt)",
+    "source_type": "literary",
+    "source_quality": "documented",
+    "attested": true,
+    "keywords": [
+      "cup",
+      "cormac",
+      "truth",
+      "manannan",
+      "echtra cormaic"
+    ],
+    "search_terms": [
+      "cormac's cup",
+      "cup of cormac",
+      "echtra cormaic",
+      "truth cup",
+      "lie cup"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "frau-holles-feather-bed-1023",
+    "slug": "frau-holles-feather-bed",
+    "name": "Frau Holle's Feather Bed",
+    "aliases": [
+      "Mother Hulda's Bedding",
+      "Holles Federbett"
+    ],
+    "country": "Germany",
+    "region": "Germanic",
+    "culture": "German (Grimm)",
+    "type": "household object",
+    "material": "Feathers and bedding",
+    "era": "Folk era",
+    "powers": "Shaken by Frau Holle, its feathers fall to earth as snow.",
+    "associated_creature": null,
+    "description": "Frau Holle's feather bed, the great bedding the old woman shakes in the Grimm tale of the same name. Each time she shakes it the feathers fall as snow, which is why, the tale explains, snow falls in winter. The heroine earns it through service; the episode is the story's comic explanation of the seasons.",
+    "related_creatures": [],
+    "featured_in_stories": [],
+    "source": "Grimm, Kinder- und Hausmärchen no. 24",
+    "source_type": "literary",
+    "source_quality": "well-documented",
+    "attested": true,
+    "keywords": [
+      "frau holle",
+      "snow",
+      "feathers",
+      "grimm",
+      "winter"
+    ],
+    "search_terms": [
+      "frau holle",
+      "mother hulda",
+      "feather bed",
+      "snow feathers",
+      "holle"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "franks-casket-1024",
+    "slug": "franks-casket",
+    "name": "Franks Casket",
+    "aliases": [
+      "Auzon Casket",
+      "Runen-Textbox"
+    ],
+    "country": "England",
+    "region": "Northern Europe",
+    "culture": "Anglo-Saxon",
+    "type": "household object",
+    "material": "Whalebone with gilt mounts",
+    "era": "Early Medieval",
+    "associated_creature": null,
+    "description": "The Franks Casket, an eighth-century Anglo-Saxon chest carved from whalebone, covered with scenes from Germanic legend, the Bible and classical history, with runic and Latin inscriptions. The front panel shows the smith Weland being released by a maiden he rescued. It was bought in the nineteenth century and is now in the British Museum.",
+    "related_creatures": [],
+    "featured_in_stories": [],
+    "source": "British Museum; runic inscriptions",
+    "source_type": "archaeological",
+    "source_quality": "verified",
+    "attested": true,
+    "keywords": [
+      "runic",
+      "whalebone",
+      "anglo-saxon",
+      "weland",
+      "casket"
+    ],
+    "search_terms": [
+      "franks casket",
+      "auzon casket",
+      "runic casket",
+      "whalebone box",
+      "anglo-saxon casket"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "bran-cauldron-1025",
+    "slug": "bran-cauldron",
+    "name": "Cauldron of Rebirth",
+    "aliases": [
+      "Pair Dadeni",
+      "Brân's Cauldron"
+    ],
+    "country": "Wales",
+    "region": "Celtic",
+    "culture": "Welsh (Mabinogi)",
+    "type": "ritual object",
+    "material": "Iron",
+    "era": "Mythic age",
+    "powers": "Restored slain warriors to life, though the revived could not speak.",
+    "associated_creature": null,
+    "description": "Pair Dadeni, the Cauldron of Rebirth in the Second Branch of the Mabinogi. Given to Brân the Blessed by a giant couple from Ireland, it restores slain warriors to life, though the revived cannot speak. In the war for Branwen the cauldron is finally shattered by Efnysien, who throws himself into it.",
+    "related_creatures": [],
+    "featured_in_stories": [],
+    "source": "Mabinogion, Second Branch (Branwen)",
+    "source_type": "literary",
+    "source_quality": "well-documented",
+    "attested": true,
+    "keywords": [
+      "cauldron",
+      "rebirth",
+      "mabinogi",
+      "branwen",
+      "wales"
+    ],
+    "search_terms": [
+      "bran's cauldron",
+      "pair dadeni",
+      "cauldron of rebirth",
+      "mabinogi cauldron"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "dagda-cauldron-1026",
+    "slug": "dagda-cauldron",
+    "name": "Cauldron of the Dagda",
+    "aliases": [
+      "Coire an Dagda",
+      "Cauldron of Plenty"
+    ],
+    "country": "Ireland",
+    "region": "Celtic",
+    "culture": "Irish (Tuatha Dé Danann)",
+    "type": "ritual object",
+    "material": "Iron",
+    "era": "Mythic age",
+    "powers": "No company ever went away from it unsatisfied.",
+    "associated_creature": "tuatha-d-danann",
+    "description": "Coire an Dagda, the Dagda's cauldron, one of the four treasures of the Tuatha Dé Danann. It is the cauldron of plenty: no company ever went away from it unsatisfied. With the spear of Lugh, the stone of Fal and the sword of Nuada it ranks among the wonder-gifts carried into Ireland by the Old Gods.",
+    "related_creatures": [
+      "tuatha-d-danann"
+    ],
+    "featured_in_stories": [],
+    "source": "Lebor Gabála Érenn; four treasures of the Tuatha Dé Danann",
+    "source_type": "literary",
+    "source_quality": "documented",
+    "attested": true,
+    "keywords": [
+      "cauldron",
+      "dagda",
+      "plenty",
+      "four treasures",
+      "ireland"
+    ],
+    "search_terms": [
+      "dagda cauldron",
+      "coire an dagda",
+      "cauldron of plenty",
+      "four treasures"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "lia-fail-1027",
+    "slug": "lia-fail",
+    "name": "Lia Fáil",
+    "aliases": [
+      "Stone of Fal",
+      "Stone of Destiny",
+      "Stone of Tara"
+    ],
+    "country": "Ireland",
+    "region": "Celtic",
+    "culture": "Irish",
+    "type": "ritual object",
+    "material": "Stone",
+    "era": "Mythic age",
+    "powers": "Cried out beneath the rightful king of Ireland when he stood on it.",
+    "associated_creature": "tuatha-d-danann",
+    "description": "Lia Fáil, the Stone of Destiny at the hill of Tara, one of the four treasures of the Tuatha Dé Danann. In tradition it cried out beneath the rightful king of Ireland when he stood on it. The medieval account of the coronation of Conn is the best-known instance of the stone's voice.",
+    "related_creatures": [
+      "tuatha-d-danann"
+    ],
+    "featured_in_stories": [],
+    "source": "Lebor Gabála Érenn; Baile in Scáil",
+    "source_type": "literary",
+    "source_quality": "documented",
+    "attested": true,
+    "keywords": [
+      "stone",
+      "tara",
+      "kingship",
+      "four treasures",
+      "destiny"
+    ],
+    "search_terms": [
+      "lia fail",
+      "stone of fal",
+      "stone of destiny",
+      "tara stone",
+      "inauguration stone"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "ardagh-chalice-1028",
+    "slug": "ardagh-chalice",
+    "name": "Ardagh Chalice",
+    "aliases": [
+      "Calice d'Ardagh"
+    ],
+    "country": "Ireland",
+    "region": "Celtic",
+    "culture": "Irish (early Christian)",
+    "type": "ritual object",
+    "material": "Silver, bronze, gold filigree, glass and enamel",
+    "era": "Early Medieval",
+    "associated_creature": null,
+    "description": "The Ardagh Chalice, a silver-and-bronze liturgical cup made around the eighth century, found in 1868 in a ring-fort at Ardagh, County Limerick, with a hoard of other church metalwork. Its decorated panels of gold filigree, glass and enamel mark it as a masterpiece of Insular art; it is held by the National Museum of Ireland.",
+    "related_creatures": [],
+    "featured_in_stories": [],
+    "source": "National Museum of Ireland; 1868 hoard",
+    "source_type": "archaeological",
+    "source_quality": "verified",
+    "attested": true,
+    "keywords": [
+      "chalice",
+      "ireland",
+      "insular art",
+      "silver",
+      "eighth century"
+    ],
+    "search_terms": [
+      "ardagh chalice",
+      "ardagh hoard",
+      "insular metalwork",
+      "eighth century chalice"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "peredur-grail-1029",
+    "slug": "peredur-grail",
+    "name": "The Grail of Peredur",
+    "aliases": [
+      "The Dish of Peredur",
+      "Salver of Peredur ab Efrawg"
+    ],
+    "country": "Wales",
+    "region": "Celtic",
+    "culture": "Welsh (Arthurian)",
+    "type": "ritual object",
+    "material": "Gold and silver (legendary)",
+    "era": "Medieval",
+    "associated_creature": null,
+    "description": "The dish or salver carried in the procession at the castle of Peredur in the medieval Welsh romance that bears his name. Unlike the French Grail romances, the Welsh text describes a bleeding head on a salver and a woman carrying a dish, a version that preserves a distinct Celtic Arthurian strand. The item is legendary and unattested.",
+    "related_creatures": [],
+    "featured_in_stories": [],
+    "source": "Peredur ab Efrawg (Welsh romance)",
+    "source_type": "literary",
+    "source_quality": "documented",
+    "attested": true,
+    "keywords": [
+      "grail",
+      "peredur",
+      "salver",
+      "procession",
+      "wales"
+    ],
+    "search_terms": [
+      "peredur grail",
+      "salver of peredur",
+      "welsh grail",
+      "peredur ab efrawg"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "nanteos-cup-1030",
+    "slug": "nanteos-cup",
+    "name": "Nanteos Cup",
+    "aliases": [
+      "Cup of Nanteos",
+      "The Nanteos Grail"
+    ],
+    "country": "Wales",
+    "region": "Celtic",
+    "culture": "Welsh",
+    "type": "household object",
+    "material": "Wood (oak mazer bowl)",
+    "era": "Late Medieval",
+    "associated_creature": null,
+    "description": "The Nanteos Cup, a late medieval wooden mazer bowl kept for two centuries at Nanteos mansion in Ceredigion and treated as a healing cup. Sick pilgrims were said to drink from it, and its gradual erosion was blamed on those who bit or scraped it. Claims that it was the Holy Grail began only in the nineteenth century and remain unverified.",
+    "related_creatures": [],
+    "featured_in_stories": [],
+    "source": "Nanteos mansion tradition; 19th-century claims",
+    "source_type": "oral_tradition",
+    "source_quality": "documented",
+    "attested": true,
+    "keywords": [
+      "nanteos",
+      "cup",
+      "grail",
+      "healing",
+      "wales"
+    ],
+    "search_terms": [
+      "nanteos cup",
+      "nanteos grail",
+      "welsh grail",
+      "mazer bowl",
+      "healing cup"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "ceridwen-cauldron-1031",
+    "slug": "ceridwen-cauldron",
+    "name": "Ceridwen's Cauldron",
+    "aliases": [
+      "Awen Cauldron",
+      "Cauldron of Inspiration"
+    ],
+    "country": "Wales",
+    "region": "Celtic",
+    "culture": "Welsh (mythological)",
+    "type": "ritual object",
+    "material": "Iron (legendary)",
+    "era": "Mythic age",
+    "powers": "Brewed the Awen, the drops of inspiration and knowledge, for a year and a day.",
+    "associated_creature": null,
+    "description": "Ceridwen's cauldron in the medieval Tale of Taliesin, in which the goddess-figure Ceridwen brews a potion of inspiration for her son for a year and a day. The three drops fall on Gwion, who swallows them and gains the Awen before being transformed and pursued through animal shapes. The cauldron is wholly legendary.",
+    "related_creatures": [],
+    "featured_in_stories": [],
+    "source": "Ystoria Taliesin (The Tale of Taliesin)",
+    "source_type": "literary",
+    "source_quality": "documented",
+    "attested": true,
+    "keywords": [
+      "cauldron",
+      "ceridwen",
+      "awen",
+      "taliesin",
+      "inspiration"
+    ],
+    "search_terms": [
+      "ceridwen's cauldron",
+      "cauldron of awen",
+      "tale of taliesin",
+      "ceridwen brew"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "pied-pipers-pipe-1032",
+    "slug": "pied-pipers-pipe",
+    "name": "Pied Piper's Pipe",
+    "aliases": [
+      "Rattenfänger's Flute",
+      "Flute of Hamelin"
+    ],
+    "country": "Germany",
+    "region": "Germanic",
+    "culture": "German",
+    "type": "musical instrument",
+    "material": "Wood or bone (legendary)",
+    "era": "Medieval",
+    "powers": "Its music charmed rats, and later children, following the piper out of Hamelin.",
+    "associated_creature": "ratcatcher-of-hamelin",
+    "description": "The pipe of the Pied Piper of Hamelin, the instrument whose music lured the town's rats to the river Weser, and then, when the townsfolk refused payment, drew the children away into a mountainside. No actual pipe survives; it belongs to the semi-legendary 1284 Hamelin tradition and its later retellings.",
+    "related_creatures": [
+      "ratcatcher-of-hamelin"
+    ],
+    "featured_in_stories": [
+      "the-pied-piper-of-hamelin"
+    ],
+    "source": "Hamelin tradition; Grimm and Browning retellings",
+    "source_type": "oral_tradition",
+    "source_quality": "documented",
+    "attested": true,
+    "keywords": [
+      "pipe",
+      "hamelin",
+      "pied piper",
+      "music",
+      "rats"
+    ],
+    "search_terms": [
+      "pied piper's pipe",
+      "rattenfänger",
+      "hamelin flute",
+      "pied piper flute"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "green-knights-holly-branch-1033",
+    "slug": "green-knights-holly-branch",
+    "name": "Green Knight's Holly Branch",
+    "aliases": [
+      "Grene Knyghtes Holli",
+      "The Knight's Green Bough"
+    ],
+    "country": "England",
+    "region": "Celtic",
+    "culture": "English (Arthurian)",
+    "type": "tool",
+    "material": "Holly (legendary)",
+    "era": "Medieval",
+    "associated_creature": null,
+    "description": "The holly branch carried by the Green Knight in Sir Gawain and the Green Knight when he rides unarmed into Arthur's hall. Its evergreen branches mark him as one of the winter gods of the older year, and he uses it to hold his own axe as he delivers his challenge. It is an emblem of the poem's beheading-game and seasonal cycle.",
+    "related_creatures": [],
+    "featured_in_stories": [
+      "the-green-knights-challenge"
+    ],
+    "source": "Sir Gawain and the Green Knight",
+    "source_type": "literary",
+    "source_quality": "well-documented",
+    "attested": true,
+    "keywords": [
+      "holly",
+      "green knight",
+      "gawain",
+      "winter",
+      "axe"
+    ],
+    "search_terms": [
+      "green knight holly",
+      "holly branch gawain",
+      "green bough arthurian"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "the-round-table-1034",
+    "slug": "the-round-table",
+    "name": "The Round Table",
+    "aliases": [
+      "Arthur's Round Table",
+      "Bwrdd Arthur"
+    ],
+    "country": "England",
+    "region": "Celtic",
+    "culture": "English (Arthurian)",
+    "type": "household object",
+    "material": "Wood",
+    "era": "Medieval",
+    "powers": "Seated all the knights of Arthur's court without quarrels over precedence.",
+    "associated_creature": null,
+    "description": "The Round Table of King Arthur, the great table at which none of the knights could claim a higher seat than another. In Geoffrey of Monmouth it is a table of guests; in later romance the table, like Arthur's court, is divided when Merlin reads the fate of a knight who will win the Grail. A 13th-century table at Winchester is linked to the legend.",
+    "related_creatures": [],
+    "featured_in_stories": [],
+    "source": "Geoffrey of Monmouth; Arthurian romance; Winchester table",
+    "source_type": "literary",
+    "source_quality": "well-documented",
+    "attested": true,
+    "keywords": [
+      "round table",
+      "arthur",
+      "knights",
+      "winchester",
+      "merlin"
+    ],
+    "search_terms": [
+      "round table",
+      "arthur's table",
+      "round table knights",
+      "winchester table"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "jacks-singing-harp-1035",
+    "slug": "jacks-singing-harp",
+    "name": "The Singing Harp",
+    "aliases": [
+      "Harp of the Giant",
+      "Jack's Golden Harp"
+    ],
+    "country": "England",
+    "region": "Celtic",
+    "culture": "English",
+    "type": "musical instrument",
+    "material": "Gold (legendary)",
+    "era": "Folk era",
+    "powers": "Sang on its own and cried out for its master, waking the giant.",
+    "associated_creature": null,
+    "description": "The singing golden harp of the giant in the tale of Jack and the Beanstalk. As Jack climbs down the beanstalk with the hen and the gold, the harp calls out for its master, waking the giant and setting the chase in motion. It is one of the three treasures the giant keeps in his castle.",
+    "related_creatures": [],
+    "featured_in_stories": [
+      "jack-and-the-beanstalk"
+    ],
+    "source": "Jack and the Beanstalk (English fairy tale)",
+    "source_type": "oral_tradition",
+    "source_quality": "documented",
+    "attested": true,
+    "keywords": [
+      "harp",
+      "jack",
+      "beanstalk",
+      "giant",
+      "golden harp"
+    ],
+    "search_terms": [
+      "singing harp",
+      "jack and the beanstalk harp",
+      "golden harp",
+      "giant's harp"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "snow-whites-mirror-1036",
+    "slug": "snow-whites-mirror",
+    "name": "The Magic Mirror",
+    "aliases": [
+      "Spiegel der Schneewittchen",
+      "Queen's Mirror"
+    ],
+    "country": "Germany",
+    "region": "Germanic",
+    "culture": "German (Grimm)",
+    "type": "household object",
+    "material": "Glass",
+    "era": "Folk era",
+    "powers": "Told its owner who was the fairest in the land.",
+    "associated_creature": null,
+    "description": "The magic mirror of the queen in the Grimm tale of Snow White. Each time she asks 'Mirror, mirror on the wall, who is the fairest of them all?', the mirror answers truly, and its answer drives the queen to send Snow White into the wood. The mirror is a test-object of the tale and exists only in fiction.",
+    "related_creatures": [],
+    "featured_in_stories": [
+      "snow-white-and-the-seven-dwarfs"
+    ],
+    "source": "Grimm, Kinder- und Hausmärchen no. 53",
+    "source_type": "literary",
+    "source_quality": "well-documented",
+    "attested": true,
+    "keywords": [
+      "mirror",
+      "snow white",
+      "queen",
+      "fairest",
+      "grimm"
+    ],
+    "search_terms": [
+      "magic mirror",
+      "mirror mirror on the wall",
+      "snow white mirror",
+      "queen's mirror"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "cinderellas-slipper-1037",
+    "slug": "cinderellas-slipper",
+    "name": "Cinderella's Glass Slipper",
+    "aliases": [
+      "Aschenputtels Schuh",
+      "Pantoffel von Glas"
+    ],
+    "country": "Germany",
+    "region": "Germanic",
+    "culture": "German (Grimm)",
+    "type": "garment",
+    "material": "Glass (legendary)",
+    "era": "Folk era",
+    "powers": "Fitted only Cinderella, letting the prince find her after the ball.",
+    "associated_creature": null,
+    "description": "The glass slipper in the Grimms' Aschenputtel, the shoe lost as Cinderella flees the prince's ball. Because it fits no other foot in the kingdom, it lets the prince find his bride. Perrault's version makes the slipper glass; the object is a fairy-tale token and no such slipper survives.",
+    "related_creatures": [],
+    "featured_in_stories": [
+      "cinderella"
+    ],
+    "source": "Grimm, Kinder- und Hausmärchen no. 21; Perrault",
+    "source_type": "literary",
+    "source_quality": "well-documented",
+    "attested": true,
+    "keywords": [
+      "slipper",
+      "cinderella",
+      "glass shoe",
+      "ball",
+      "grimm"
+    ],
+    "search_terms": [
+      "cinderella's slipper",
+      "glass slipper",
+      "aschenputtel",
+      "glass shoe"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "six-swans-shirts-1038",
+    "slug": "six-swans-shirts",
+    "name": "The Six Swans' Shirts",
+    "aliases": [
+      "Nettle Shirts",
+      "Hemden der sechs Schwäne"
+    ],
+    "country": "Germany",
+    "region": "Germanic",
+    "culture": "German (Grimm)",
+    "type": "garment",
+    "material": "Stinging-nettle cloth (legendary)",
+    "era": "Folk era",
+    "powers": "Thrown over her swan brothers, restored them to human form.",
+    "associated_creature": null,
+    "description": "The six shirts of stinging nettles woven in silence by the sister in the Grimms' tale of the six swans. For years she must sew them without speaking a word; when at last they are thrown over her brothers, the swans become men again. The shirt-making is the tale's central task and ordeal.",
+    "related_creatures": [],
+    "featured_in_stories": [
+      "the-six-swans"
+    ],
+    "source": "Grimm, Kinder- und Hausmärchen no. 49",
+    "source_type": "literary",
+    "source_quality": "well-documented",
+    "attested": true,
+    "keywords": [
+      "swans",
+      "shirts",
+      "nettles",
+      "sister",
+      "grimm"
+    ],
+    "search_terms": [
+      "six swans shirts",
+      "nettle shirts",
+      "die sechs schwäne",
+      "swan brothers"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "briar-rose-spinning-wheel-1039",
+    "slug": "briar-rose-spinning-wheel",
+    "name": "Briar Rose's Spinning Wheel",
+    "aliases": [
+      "Dornröschens Spinnrad",
+      "The Enchanted Distaff"
+    ],
+    "country": "Germany",
+    "region": "Germanic",
+    "culture": "German (Grimm)",
+    "type": "tool",
+    "material": "Wood",
+    "era": "Folk era",
+    "powers": "Pricked the princess and cast the whole castle into a hundred-year sleep.",
+    "associated_creature": null,
+    "description": "The spinning wheel in the Grimms' Dornröschen, whose spindle pricks the sleeping princess and sends the entire castle into a century of sleep. The king had ordered all spindles burned, but the old woman in the tower still spins. When the prince cuts through the thorns, the spindle's pricking is undone and the wheel stands still.",
+    "related_creatures": [],
+    "featured_in_stories": [
+      "briar-rose-sleeping-beauty"
+    ],
+    "source": "Grimm, Kinder- und Hausmärchen no. 50",
+    "source_type": "literary",
+    "source_quality": "well-documented",
+    "attested": true,
+    "keywords": [
+      "spinning wheel",
+      "sleeping beauty",
+      "dornröschen",
+      "spindle",
+      "grimm"
+    ],
+    "search_terms": [
+      "briar rose spinning wheel",
+      "dornröschen spinnrad",
+      "sleeping beauty spindle"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "golden-goose-1040",
+    "slug": "golden-goose",
+    "name": "The Golden Goose",
+    "aliases": [
+      "Die goldene Gans",
+      "Goose of Dummling"
+    ],
+    "country": "Germany",
+    "region": "Germanic",
+    "culture": "German (Grimm)",
+    "type": "other",
+    "material": "Gold (legendary)",
+    "era": "Folk era",
+    "powers": "Stuck fast anyone who touched it, drawing a growing chain of followers.",
+    "associated_creature": null,
+    "description": "Die goldene Gans, the goose from the Grimms' tale of the same name. Found by Dummling in the wood, the golden goose sticks fast to anyone who touches it, so that the whole town follows in a chain behind him; the sight makes the sad princess laugh, winning her hand. The goose is a purely fictional marvel.",
+    "related_creatures": [],
+    "featured_in_stories": [],
+    "source": "Grimm, Kinder- und Hausmärchen no. 64",
+    "source_type": "literary",
+    "source_quality": "well-documented",
+    "attested": true,
+    "keywords": [
+      "golden goose",
+      "dummling",
+      "grimm",
+      "laugh",
+      "fool"
+    ],
+    "search_terms": [
+      "golden goose",
+      "die goldene gans",
+      "dummling goose",
+      "grimm goose"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "papyrus-of-ani-1101",
+    "slug": "papyrus-of-ani",
+    "name": "The Papyrus of Ani",
+    "aliases": [
+      "Book of the Dead of Ani",
+      "Ani's Book of the Dead"
+    ],
+    "country": "Egypt",
+    "region": "Egyptian",
+    "culture": "Ancient Egyptian",
+    "type": "ritual object",
+    "material": "Papyrus, pigment, ink",
+    "era": "New Kingdom (c. 1250 BCE)",
+    "maker": "Scribes of Thebes for the scribe Ani",
+    "powers": "Guides the deceased through the judgment of the afterlife.",
+    "associated_creature": null,
+    "description": "The finest surviving Book of the Dead manuscript, commissioned for the Theban scribe Ani around 1250 BCE. Its long roll of vignettes and hieroglyphic spells was meant to guide the dead through the afterlife, most famously the weighing of the heart against the feather of Ma'at in chapter 125, with Ani and his wife shown before the gods. It is the classic witness to Egyptian funerary literature.",
+    "related_creatures": [
+      "thoth",
+      "osiris",
+      "ammit-devourer",
+      "anubis"
+    ],
+    "featured_in_stories": [
+      "the-book-of-the-dead-the-weighing-of-the-heart"
+    ],
+    "source": "The Book of the Dead (Papyrus of Ani), British Museum EA 10470",
+    "source_type": "archaeological",
+    "source_quality": "well-documented",
+    "attested": true,
+    "keywords": [
+      "book of the dead",
+      "papyrus",
+      "ani",
+      "afterlife",
+      "thebes"
+    ],
+    "search_terms": [
+      "papyrus of ani",
+      "book of the dead",
+      "weighing of the heart",
+      "egyptian funerary text"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "eye-of-horus-1102",
+    "slug": "eye-of-horus",
+    "name": "Eye of Horus",
+    "aliases": [
+      "Wedjat",
+      "Udjat",
+      "Eye of Ra"
+    ],
+    "country": "Egypt",
+    "region": "Egyptian",
+    "culture": "Ancient Egyptian",
+    "type": "jewelry",
+    "material": "Gold, lapis lazuli, faience",
+    "era": "Old Kingdom onwards",
+    "maker": "Temple goldsmiths",
+    "powers": "Protects the wearer and restores wholeness; the healed eye of the falcon god.",
+    "associated_creature": null,
+    "description": "The wedjat, the eye that the god Thoth healed after Set tore it from Horus, worn as an amulet of protection, healing, and wholeness. Its hieroglyphic fractions were used for measuring grain volumes, and thousands of wedjat amulets in faience, gold, and stone survive in tombs from the Old Kingdom into the Graeco-Roman period, where the sign still guarded the living and the dead.",
+    "related_creatures": [
+      "horus-egyptian",
+      "thoth"
+    ],
+    "featured_in_stories": [
+      "the-eyes-of-horus",
+      "the-contendings-of-horus-and-set"
+    ],
+    "source": "Egyptian amulets and temple reliefs; Pyramid Texts",
+    "source_type": "archaeological",
+    "source_quality": "well-documented",
+    "attested": true,
+    "keywords": [
+      "eye of horus",
+      "wedjat",
+      "udjat",
+      "amulet",
+      "protection"
+    ],
+    "search_terms": [
+      "eye of horus",
+      "wedjat",
+      "udjat",
+      "eye of ra",
+      "horus eye amulet"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "scales-of-maat-1103",
+    "slug": "scales-of-maat",
+    "name": "The Scales of Ma'at",
+    "aliases": [
+      "Balance of the Judgment Hall",
+      "Weighing of the Heart"
+    ],
+    "country": "Egypt",
+    "region": "Egyptian",
+    "culture": "Ancient Egyptian",
+    "type": "ritual object",
+    "material": "Gold (mythic)",
+    "era": "Mythic age",
+    "maker": "Unnamed (divine instrument)",
+    "powers": "Weighs the heart of the dead against the feather of truth in the judgment hall.",
+    "associated_creature": null,
+    "description": "The great balance set up in the Hall of Two Truths, where the heart of the dead was weighed against the feather of Ma'at before Osiris, with Thoth recording the result. Chapter 125 of the Book of the Dead describes the rite, while the devourer Ammit waits to swallow any heart found heavier than the feather. The scene is among the most reproduced images of Egyptian religion.",
+    "related_creatures": [
+      "thoth",
+      "osiris",
+      "ammit-devourer",
+      "anubis"
+    ],
+    "featured_in_stories": [
+      "the-book-of-the-dead-the-weighing-of-the-heart"
+    ],
+    "source": "Book of the Dead, chapter 125",
+    "source_type": "literary",
+    "source_quality": "expert",
+    "attested": true,
+    "keywords": [
+      "scales",
+      "maat",
+      "judgment",
+      "heart",
+      "afterlife"
+    ],
+    "search_terms": [
+      "scales of maat",
+      "weighing of the heart",
+      "hall of two truths",
+      "book of the dead chapter 125"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "feather-of-maat-1104",
+    "slug": "feather-of-maat",
+    "name": "The Feather of Ma'at",
+    "aliases": [
+      "Feather of Truth",
+      "Shut Feather"
+    ],
+    "country": "Egypt",
+    "region": "Egyptian",
+    "culture": "Ancient Egyptian",
+    "type": "other",
+    "material": "Ostrich feather (mythic)",
+    "era": "Mythic age",
+    "maker": "Unnamed",
+    "powers": "The counterweight of truth against which the heart of the dead is weighed.",
+    "associated_creature": null,
+    "description": "The ostrich feather worn on the head of the goddess Ma'at, placed on the scales of judgment as the counterweight to the heart of the dead. A heart lighter than the feather passed on to the afterlife; a heavier one was devoured by Ammit. The feather, also worn by the god Shu in his role of lifting the sky, became the emblem of a life measured by truth.",
+    "related_creatures": [
+      "thoth",
+      "ammit-devourer"
+    ],
+    "featured_in_stories": [
+      "the-book-of-the-dead-the-weighing-of-the-heart"
+    ],
+    "source": "Book of the Dead, chapter 125",
+    "source_type": "literary",
+    "source_quality": "expert",
+    "attested": true,
+    "keywords": [
+      "feather",
+      "maat",
+      "truth",
+      "judgment",
+      "ostrich"
+    ],
+    "search_terms": [
+      "feather of maat",
+      "feather of truth",
+      "shut feather",
+      "weighing of the heart"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "golden-falcon-hierakonpolis-1105",
+    "slug": "golden-falcon-hierakonpolis",
+    "name": "The Golden Falcon of Hierakonpolis",
+    "aliases": [
+      "Hierakonpolis Falcon",
+      "Horus of Hierakonpolis"
+    ],
+    "country": "Egypt",
+    "region": "Egyptian",
+    "culture": "Ancient Egyptian",
+    "type": "ritual object",
+    "material": "Gold, obsidian",
+    "era": "Predynastic/Early Dynastic (c. 3100 BCE)",
+    "maker": "Unknown (temple workshop)",
+    "powers": "The earliest great image of the falcon god Horus.",
+    "associated_creature": null,
+    "description": "A gold head of the falcon god Horus found in the main deposit of the temple at Hierakonpolis, dated to about 3100 BCE, one of the oldest large cult images of a deity to survive from Egypt. With its obsidian eyes and worked gold feathers, it stood as the focus of worship at the site where the Narmer Palette was also found, marking the beginnings of pharaonic divine kingship.",
+    "related_creatures": [
+      "horus-egyptian"
+    ],
+    "featured_in_stories": [],
+    "source": "Archaeological find, Hierakonpolis temple deposit",
+    "source_type": "archaeological",
+    "source_quality": "well-documented",
+    "attested": true,
+    "keywords": [
+      "falcon",
+      "horus",
+      "hierakonpolis",
+      "gold",
+      "cult image"
+    ],
+    "search_terms": [
+      "golden falcon",
+      "hierakonpolis falcon",
+      "horus gold",
+      "golden falcon head"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "sistrum-1106",
+    "slug": "sistrum",
+    "name": "The Sistrum",
+    "aliases": [
+      "Sesheshet",
+      "Sistrum of Hathor"
+    ],
+    "country": "Egypt",
+    "region": "Egyptian",
+    "culture": "Ancient Egyptian",
+    "type": "musical instrument",
+    "material": "Bronze with gold plating",
+    "era": "Old Kingdom onwards",
+    "maker": "Temple metalworkers",
+    "powers": "Its rattling pleased the goddess and drove away hostile powers.",
+    "associated_creature": null,
+    "description": "A sacred rattle of looped bronze rods strung across a frame, shaken in the cult of Hathor and Isis to please the goddess and repel evil with its hissing sound. Priestesses, queens, and kings bore it in temple ritual, and great ceremonial versions stood as temple furniture. Its naos-shaped variant carried the cow-eared head of Hathor between its handles and remained in use into Graeco-Roman Egypt.",
+    "related_creatures": [
+      "hathor-egyptian",
+      "isis-egyptian"
+    ],
+    "featured_in_stories": [],
+    "source": "Temple reliefs and excavated instruments",
+    "source_type": "archaeological",
+    "source_quality": "well-documented",
+    "attested": true,
+    "keywords": [
+      "sistrum",
+      "rattle",
+      "hathor",
+      "isis",
+      "music"
+    ],
+    "search_terms": [
+      "sistrum",
+      "sesheshet",
+      "sistrum of hathor",
+      "egyptian sacred rattle"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "crook-and-flail-1107",
+    "slug": "crook-and-flail",
+    "name": "The Crook and Flail",
+    "aliases": [
+      "Heka and Nekhakha",
+      "Shepherd's Crook and Flail of Osiris"
+    ],
+    "country": "Egypt",
+    "region": "Egyptian",
+    "culture": "Ancient Egyptian",
+    "type": "ritual object",
+    "material": "Gold and blue faience (mythic and royal)",
+    "era": "Mythic age",
+    "maker": "Royal artisans",
+    "powers": "Signs of kingship and of Osiris's shepherd-care over the people.",
+    "associated_creature": null,
+    "description": "The crossed crook (heka) and flail (nekhakha) carried by Osiris as emblems of royal authority and of the shepherd's care for his flock, laid crossed over royal mummies. Temple reliefs show the living pharaoh handing the pair to the god of the dead and receiving it back, and gilt examples were buried with kings such as Tutankhamun. Together they fix the image of the enthroned Osiris.",
+    "related_creatures": [
+      "osiris"
+    ],
+    "featured_in_stories": [
+      "the-death-of-osiris",
+      "isis-and-osiris",
+      "osiris-story"
+    ],
+    "source": "Royal tombs and temple reliefs",
+    "source_type": "archaeological",
+    "source_quality": "well-documented",
+    "attested": true,
+    "keywords": [
+      "crook",
+      "flail",
+      "osiris",
+      "heka",
+      "kingship"
+    ],
+    "search_terms": [
+      "crook and flail",
+      "heka nekhakha",
+      "osiris crook",
+      "pharaoh crook flail"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "solar-barque-of-ra-1108",
+    "slug": "solar-barque-of-ra",
+    "name": "The Solar Barque of Ra",
+    "aliases": [
+      "Mandjet and Mesektet",
+      "Day Boat and Night Boat"
+    ],
+    "country": "Egypt",
+    "region": "Egyptian",
+    "culture": "Ancient Egyptian",
+    "type": "ship",
+    "material": "Acacia wood, gold (mythic)",
+    "era": "Mythic age",
+    "maker": "Unnamed",
+    "powers": "Carries the sun across the sky by day and through the underworld by night.",
+    "associated_creature": null,
+    "description": "The two celestial boats in which the sun god Ra sails: the day barque Mandjet crossing the sky and the night barque Mesektet crossing the Duat, where the crew repels the serpent Apep with spears. The nightly battle myth inspired real solar barques buried beside temples and pyramids, including the Khufu boat, so that the king might make the same journey after death.",
+    "related_creatures": [
+      "ra-egyptian",
+      "apep"
+    ],
+    "featured_in_stories": [
+      "ra-and-the-secret-name",
+      "ra-and-the-hidden-name",
+      "ra-and-the-snake",
+      "the-cat-ra"
+    ],
+    "source": "Pyramid Texts and solar barque burials",
+    "source_type": "literary",
+    "source_quality": "expert",
+    "attested": true,
+    "keywords": [
+      "solar barque",
+      "ra",
+      "sun boat",
+      "mandjet",
+      "mesektet"
+    ],
+    "search_terms": [
+      "solar barque",
+      "barque of ra",
+      "mandjet mesektet",
+      "sun boat egypt",
+      "khufu boat"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "ushabti-figurines-1109",
+    "slug": "ushabti-figurines",
+    "name": "Ushabti Figurines",
+    "aliases": [
+      "Shabti",
+      "Shawabti",
+      "Answerer"
+    ],
+    "country": "Egypt",
+    "region": "Egyptian",
+    "culture": "Ancient Egyptian",
+    "type": "ritual object",
+    "material": "Faience, wood, stone, clay",
+    "era": "Middle Kingdom to Ptolemaic period",
+    "maker": "Tomb workshops",
+    "powers": "Answer the summons to labor in the afterlife in place of the deceased.",
+    "associated_creature": null,
+    "description": "Small mummiform figurines placed in Egyptian tombs to perform field labor for the dead in the afterlife, inscribed with spell 6 of the Book of the Dead, in which the figure answers 'here I am' when summoned to work. A single burial could hold several hundred, from a modest clay set to the 413 ushabtis of Tutankhamun. The name derives from the Egyptian word for 'answerer.'",
+    "related_creatures": [
+      "osiris",
+      "anubis"
+    ],
+    "featured_in_stories": [],
+    "source": "Book of the Dead, spell 6; tomb assemblages",
+    "source_type": "archaeological",
+    "source_quality": "well-documented",
+    "attested": true,
+    "keywords": [
+      "ushabti",
+      "shabti",
+      "funerary figurine",
+      "afterlife"
+    ],
+    "search_terms": [
+      "ushabti",
+      "shabti",
+      "shawabti",
+      "answerer figurine",
+      "book of the dead spell 6"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "djed-pillar-1110",
+    "slug": "djed-pillar",
+    "name": "The Djed Pillar",
+    "aliases": [
+      "Djed Pillar of Osiris",
+      "Pillar of Stability"
+    ],
+    "country": "Egypt",
+    "region": "Egyptian",
+    "culture": "Ancient Egyptian",
+    "type": "ritual object",
+    "material": "Wood, faience, gold leaf",
+    "era": "Mythic and dynastic",
+    "maker": "Unnamed",
+    "powers": "Symbol of stability and of the backbone of Osiris.",
+    "associated_creature": null,
+    "description": "The columnar sign shaped like a stylized tree trunk or spinal column, symbol of stability and of Osiris, whose backbone it was said to be. Set up as a temple emblem and raised by the king in the sed festival to renew his reign, it was also worn as an amulet; in the myth Isis and Nephthys restore the god beside it. Countless faience djed amulets survive from graves.",
+    "related_creatures": [
+      "osiris",
+      "set-egyptian",
+      "isis-egyptian",
+      "nephthys-egyptian"
+    ],
+    "featured_in_stories": [
+      "isis-and-osiris"
+    ],
+    "source": "Pyramid Texts; amulet deposits",
+    "source_type": "archaeological",
+    "source_quality": "well-documented",
+    "attested": true,
+    "keywords": [
+      "djed",
+      "pillar",
+      "osiris",
+      "stability",
+      "amulet"
+    ],
+    "search_terms": [
+      "djed pillar",
+      "djed amulet",
+      "pillar of stability",
+      "backbone of osiris"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "knot-of-isis-1111",
+    "slug": "knot-of-isis",
+    "name": "The Knot of Isis",
+    "aliases": [
+      "Tjet",
+      "Tyet",
+      "Girdle of Isis"
+    ],
+    "country": "Egypt",
+    "region": "Egyptian",
+    "culture": "Ancient Egyptian",
+    "type": "jewelry",
+    "material": "Red jasper, carnelian, faience",
+    "era": "New Kingdom onwards",
+    "maker": "Amulet makers",
+    "powers": "Guards the wearer through the power of Isis.",
+    "associated_creature": null,
+    "description": "The looped red tjet amulet, the 'girdle of Isis,' worn by the living and the dead for the goddess's protection. Spell 156 of the Book of the Dead directs that it be made of red jasper and placed on the neck of the deceased so that Isis's might guards the throat. Red carnelian and faience tjets are common in New Kingdom burials, where they sit with the djed and ankh in protective groupings.",
+    "related_creatures": [
+      "isis-egyptian"
+    ],
+    "featured_in_stories": [
+      "isis-and-osiris"
+    ],
+    "source": "Book of the Dead, spell 156; amulet deposits",
+    "source_type": "archaeological",
+    "source_quality": "well-documented",
+    "attested": true,
+    "keywords": [
+      "knot of isis",
+      "tjet",
+      "girdle",
+      "amulet",
+      "red jasper"
+    ],
+    "search_terms": [
+      "knot of isis",
+      "tjet",
+      "tyet",
+      "girdle of isis",
+      "book of the dead spell 156"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "uraeus-1112",
+    "slug": "uraeus",
+    "name": "The Uraeus",
+    "aliases": [
+      "Royal Cobra",
+      "Sacred Cobra of the Pharaoh"
+    ],
+    "country": "Egypt",
+    "region": "Egyptian",
+    "culture": "Ancient Egyptian",
+    "type": "jewelry",
+    "material": "Gold, lapis lazuli, glazed ware",
+    "era": "Old Kingdom onwards",
+    "maker": "Royal goldsmiths",
+    "powers": "Spits fire against the king's enemies; guards the brow as the eye of Ra.",
+    "associated_creature": null,
+    "description": "The rearing cobra worn on the brow of the pharaoh and of deities such as Ra, embodying the goddess Wadjet, protector of Lower Egypt. The uraeus spat fire at the king's foes and stood for the blazing eye that defended the sun god, and it was worn by kings and gods alike. Golden examples survive on royal diadems, most famously the cobra and vulture of Tutankhamun's gold mask.",
+    "related_creatures": [
+      "ra-egyptian"
+    ],
+    "featured_in_stories": [],
+    "source": "Royal regalia and tomb finds",
+    "source_type": "archaeological",
+    "source_quality": "well-documented",
+    "attested": true,
+    "keywords": [
+      "uraeus",
+      "cobra",
+      "pharaoh",
+      "wadjet",
+      "crown"
+    ],
+    "search_terms": [
+      "uraeus",
+      "royal cobra",
+      "sacred cobra",
+      "wadjet cobra",
+      "pharaoh brow"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "senet-board-1113",
+    "slug": "senet-board",
+    "name": "The Senet Board",
+    "aliases": [
+      "Senet",
+      "Game of Passing"
+    ],
+    "country": "Egypt",
+    "region": "Egyptian",
+    "culture": "Ancient Egyptian",
+    "type": "tool",
+    "material": "Wood, faience, ivory",
+    "era": "Predynastic to Ptolemaic period",
+    "maker": "Board-game craftsmen",
+    "powers": "Its play mirrored the soul's passage through the hazards of the afterlife.",
+    "associated_creature": null,
+    "description": "The Egyptian board game of thirty squares in three rows, played with counters and knucklebones, the most common game board found in Egypt. The crossing of its hazardous squares mirrored the soul's journey through the afterlife, and the Book of the Dead shows the deceased playing senet against an invisible opponent to win passage. Complete boards, including Tutankhamun's, survive from royal tombs.",
+    "related_creatures": [],
+    "featured_in_stories": [],
+    "source": "Excavated boards; Book of the Dead vignettes",
+    "source_type": "archaeological",
+    "source_quality": "well-documented",
+    "attested": true,
+    "keywords": [
+      "senet",
+      "board game",
+      "tutankhamun",
+      "afterlife"
+    ],
+    "search_terms": [
+      "senet",
+      "senet board",
+      "game of passing",
+      "egyptian board game"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "palette-of-narmer-1114",
+    "slug": "palette-of-narmer",
+    "name": "The Palette of Narmer",
+    "aliases": [
+      "Narmer Palette",
+      "Great Hierakonpolis Palette"
+    ],
+    "country": "Egypt",
+    "region": "Egyptian",
+    "culture": "Ancient Egyptian",
+    "type": "ritual object",
+    "material": "Siltstone (schist)",
+    "era": "c. 3100 BCE",
+    "maker": "Unnamed (royal workshop)",
+    "powers": "Ceremonial record of the king's victory and of the unification of the Two Lands.",
+    "associated_creature": null,
+    "description": "A ceremonial siltstone palette from Hierakonpolis carved around 3100 BCE, showing King Narmer smiting an enemy and reviewing decapitated captives, long read as an early record of the unification of Upper and Lower Egypt. The falcon-god Horus perched above a bound foe and the king wielding a mace set the visual language of pharaonic royal power for three thousand years.",
+    "related_creatures": [
+      "horus-egyptian"
+    ],
+    "featured_in_stories": [],
+    "source": "Archaeological find, Hierakonpolis main deposit",
+    "source_type": "archaeological",
+    "source_quality": "well-documented",
+    "attested": true,
+    "keywords": [
+      "narmer",
+      "palette",
+      "hierakonpolis",
+      "unification",
+      "egypt"
+    ],
+    "search_terms": [
+      "palette of narmer",
+      "narmer palette",
+      "hierakonpolis palette",
+      "unification of egypt"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "war-shield-of-neith-1115",
+    "slug": "war-shield-of-neith",
+    "name": "The War Shield of Neith",
+    "aliases": [
+      "Shield of Neith",
+      "Neith's Emblem"
+    ],
+    "country": "Egypt",
+    "region": "Egyptian",
+    "culture": "Ancient Egyptian",
+    "type": "weapon",
+    "material": "Shield with crossed arrows (emblem)",
+    "era": "Predynastic onwards",
+    "maker": "Unnamed",
+    "powers": "Emblem of the goddess of war and of weaving.",
+    "associated_creature": null,
+    "description": "The emblem of the goddess Neith of Sais: a shield across which two crossed arrows are set, combining her natures as a war goddess and a weaver. The symbol is attested as her sign from early Egyptian writing, painted on her temple walls and on votive objects, and the classical authors Plutarch and Herodotus described it. It is one of the oldest goddess emblems of Egypt.",
+    "related_creatures": [],
+    "featured_in_stories": [],
+    "source": "Neith emblem on early votives; Plutarch, De Iside",
+    "source_type": "archaeological",
+    "source_quality": "documented",
+    "attested": true,
+    "keywords": [
+      "neith",
+      "shield",
+      "arrows",
+      "sais",
+      "war goddess"
+    ],
+    "search_terms": [
+      "shield of neith",
+      "neith emblem",
+      "crossed arrows",
+      "neith saïs",
+      "goddess of saïs"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "wesekh-collar-1116",
+    "slug": "wesekh-collar",
+    "name": "The Wesekh Collar",
+    "aliases": [
+      "Broad Collar",
+      "Wide Collar of Gold"
+    ],
+    "country": "Egypt",
+    "region": "Egyptian",
+    "culture": "Ancient Egyptian",
+    "type": "jewelry",
+    "material": "Gold, faience beads, semiprecious stones",
+    "era": "Middle Kingdom to Ptolemaic period",
+    "maker": "Jewelers and bead makers",
+    "powers": "Bestowed solar protection and divine favor on its wearer.",
+    "associated_creature": null,
+    "description": "The broad beaded collar worn across the chest by pharaohs, queens, and gods, built of rows of faience and semiprecious beads capped by golden falcon-headed terminals. Such collars were given as royal gifts and buried with the dead, who are shown receiving them from deities; Tutankhamun's burial yielded dozens in gold, glass, and stone. The wesekh lent its wearer solar protection and divine favor.",
+    "related_creatures": [],
+    "featured_in_stories": [],
+    "source": "Royal tombs and temple reliefs",
+    "source_type": "archaeological",
+    "source_quality": "well-documented",
+    "attested": true,
+    "keywords": [
+      "wesekh",
+      "broad collar",
+      "jewelry",
+      "tutankhamun",
+      "beads"
+    ],
+    "search_terms": [
+      "wesekh",
+      "broad collar",
+      "wide collar",
+      "egyptian beaded collar"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "cup-of-jamshid-1117",
+    "slug": "cup-of-jamshid",
+    "name": "The Cup of Jamshid",
+    "aliases": [
+      "Jam-e Jam",
+      "Jam-i Jamshid",
+      "World-Viewing Cup"
+    ],
+    "country": "Iran",
+    "region": "Persian",
+    "culture": "Persian",
+    "type": "household object",
+    "material": "Mythic (glass or gem)",
+    "era": "Mythic age",
+    "maker": "Unnamed",
+    "powers": "Reveals the whole world to the one who looks into it.",
+    "associated_creature": null,
+    "description": "The cup of the legendary shah Jamshid, in which, according to the Shahnameh and later Persian tradition, the whole world could be seen as in a mirror, so that nothing was hidden from the king. The cup became a byword for far-seeing royal wisdom, and Persian poets used it as an image of mystical vision and self-knowledge. Its ties to the older idea of the king's divine glory are debated.",
+    "related_creatures": [],
+    "featured_in_stories": [],
+    "source": "Ferdowsi, Shahnameh; Persian poetic tradition",
+    "source_type": "literary",
+    "source_quality": "expert",
+    "attested": true,
+    "keywords": [
+      "jamshid",
+      "cup",
+      "jam-e jam",
+      "world mirror",
+      "persian"
+    ],
+    "search_terms": [
+      "cup of jamshid",
+      "jam-e jam",
+      "jām-i jamshid",
+      "world-viewing cup",
+      "jamshid cup"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "rostams-spear-1118",
+    "slug": "rostams-spear",
+    "name": "Rostam's Spear",
+    "aliases": [
+      "Nezeh-e Rostam",
+      "Rostam's Lance"
+    ],
+    "country": "Iran",
+    "region": "Persian",
+    "culture": "Persian",
+    "type": "weapon",
+    "material": "Ash shaft and steel head (mythic)",
+    "era": "Mythic age (Shahnameh)",
+    "maker": "Unnamed",
+    "powers": "The heavy lance carried beside the mace and lasso in the hero's trials.",
+    "associated_creature": null,
+    "description": "The heavy war-spear of the hero Rostam in the Shahnameh, carried alongside his bull-headed mace and lasso through the Haft Khan and the wars against Turan, and used to strike down champions in single combat. In Ferdowsi's epic it is one of the enormous plain weapons that suit his strength, wielded in duels such as the fateful fight with Sohrab. Its details follow epic convention.",
+    "related_creatures": [],
+    "featured_in_stories": [
+      "rostam-and-sohrab",
+      "rostams-seven-trials-haft-khan-e-rostam"
+    ],
+    "source": "Ferdowsi, Shahnameh",
+    "source_type": "literary",
+    "source_quality": "expert",
+    "attested": true,
+    "keywords": [
+      "rostam",
+      "spear",
+      "lance",
+      "shahnameh",
+      "hero"
+    ],
+    "search_terms": [
+      "rostam spear",
+      "nezeh rostam",
+      "rostam lance",
+      "shahnameh weapons"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "simurghs-feather-1119",
+    "slug": "simurghs-feather",
+    "name": "The Feather of the Simurgh",
+    "aliases": [
+      "Par-e Simorgh",
+      "Feather of the Persian Roc"
+    ],
+    "country": "Iran",
+    "region": "Persian",
+    "culture": "Persian",
+    "type": "other",
+    "material": "Mythic (golden feather)",
+    "era": "Mythic age",
+    "maker": "Simurgh",
+    "powers": "Burned as a signal, its smoke summons the great bird to help.",
+    "associated_creature": null,
+    "description": "The feather given by the great bird Simurgh to the hero Zal and later to his son Rostam, to be burned whenever they needed the bird's aid, at whose smoke Simurgh came flying. In the Shahnameh the feather carries the abandoned boy Zal to safety and later rescues Rostam in his direst need. In later Sufi poetry it became an emblem of the soul's reliance on divine help.",
+    "related_creatures": [
+      "simurgh-persia",
+      "simorgh"
+    ],
+    "featured_in_stories": [
+      "simurgh-and-zal",
+      "the-simorgh-and-the-prince"
+    ],
+    "source": "Ferdowsi, Shahnameh",
+    "source_type": "literary",
+    "source_quality": "expert",
+    "attested": true,
+    "keywords": [
+      "simurgh",
+      "feather",
+      "zal",
+      "rostam",
+      "shahnameh"
+    ],
+    "search_terms": [
+      "simurgh feather",
+      "par-e simorgh",
+      "zal feather",
+      "feather of the simurgh"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "mace-of-faridun-1120",
+    "slug": "mace-of-faridun",
+    "name": "The Mace of Faridun",
+    "aliases": [
+      "Gurz-e Faridun",
+      "Bull-Headed Mace"
+    ],
+    "country": "Iran",
+    "region": "Persian",
+    "culture": "Persian",
+    "type": "weapon",
+    "material": "Iron with a bull's head (mythic)",
+    "era": "Mythic age (Shahnameh)",
+    "maker": "Forged for the young prince Faridun",
+    "powers": "Struck down the tyrant Zahhak and freed Iran from his reign.",
+    "associated_creature": null,
+    "description": "The bull-headed mace (gurz) forged for the young prince Faridun, which Ferdowsi describes being made to his measure before his campaign against the tyrant Zahhak. With it Faridun struck Zahhak's crowned head and split the serpents on his shoulders, ending a thousand years of tyranny and binding the usurper in a mountain cave. It became the archetypal weapon of Persian hero-kings.",
+    "related_creatures": [],
+    "featured_in_stories": [
+      "zahhak-the-serpent-shouldered-tyrant"
+    ],
+    "source": "Ferdowsi, Shahnameh",
+    "source_type": "literary",
+    "source_quality": "expert",
+    "attested": true,
+    "keywords": [
+      "faridun",
+      "mace",
+      "gurz",
+      "zahhak",
+      "shahnameh"
+    ],
+    "search_terms": [
+      "mace of faridun",
+      "gurz-e faridun",
+      "bull-headed mace",
+      "faridun zahhak"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "derafsh-kaviani-1121",
+    "slug": "derafsh-kaviani",
+    "name": "The Derafsh Kaviani",
+    "aliases": [
+      "Kaveh's Banner",
+      "Leather Apron Banner",
+      "Dirafsh-e Kavian"
+    ],
+    "country": "Iran",
+    "region": "Persian",
+    "culture": "Persian",
+    "type": "other",
+    "material": "Leather apron, gold, silk, jewels (later ornament)",
+    "era": "Mythic age (Shahnameh)",
+    "maker": "Kaveh the blacksmith; ornamented under Faridun",
+    "powers": "Royal standard of Iran, carried before the shahs as a sign of popular revolt and kingship.",
+    "associated_creature": null,
+    "description": "The leather apron of the blacksmith Kaveh, raised on a spear when he led the people of Iran against the tyrant Zahhak; the new king Faridun then adorned it with gold, silk, and jewels, and it became the royal standard of the Shahs under the name Derafsh Kaviani. The banner is retold each Newroz with Kaveh as a symbol of popular revolt and rightful rule.",
+    "related_creatures": [],
+    "featured_in_stories": [
+      "kaveh-the-blacksmith-and-the-derafsh-kaviani",
+      "kawa-the-blacksmith-and-newroz"
+    ],
+    "source": "Ferdowsi, Shahnameh",
+    "source_type": "literary",
+    "source_quality": "expert",
+    "attested": true,
+    "keywords": [
+      "kaveh",
+      "banner",
+      "derafsh",
+      "blacksmith",
+      "newroz"
+    ],
+    "search_terms": [
+      "derafsh kaviani",
+      "kaveh banner",
+      "dirafsh kavian",
+      "leather apron banner",
+      "kaveh blacksmith"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "belt-of-tahmineh-1122",
+    "slug": "belt-of-tahmineh",
+    "name": "The Belt of Tahmineh",
+    "aliases": [
+      "Girdle of Tahmineh"
+    ],
+    "country": "Iran",
+    "region": "Persian",
+    "culture": "Persian",
+    "type": "garment",
+    "material": "Silk and gold (mythic)",
+    "era": "Mythic age (Shahnameh)",
+    "maker": "The lady Tahmineh of Samangan",
+    "powers": "Binds the bond between the lady of Samangan and the hero Rostam.",
+    "associated_creature": null,
+    "description": "A belt said to be woven by Tahmineh of Samangan, mother of Sohrab, and given to the hero Rostam on the night of their meeting, binding their union in some tellings of the tale. The motif varies across recensions of the Shahnameh and in modern retellings, and Ferdowsi's text describes no single canonical belt, so the object's particulars rest on later tradition rather than the epic's own lines.",
+    "related_creatures": [],
+    "featured_in_stories": [
+      "rostam-and-sohrab"
+    ],
+    "source": "Shahnameh recensions and later retellings",
+    "source_type": "literary",
+    "source_quality": "fair",
+    "attested": false,
+    "keywords": [
+      "tahmineh",
+      "belt",
+      "girdle",
+      "rostam",
+      "sohrab"
+    ],
+    "search_terms": [
+      "belt of tahmineh",
+      "girdle of tahmineh",
+      "tahmineh rostan",
+      "samangan belt"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "arrow-of-arash-1123",
+    "slug": "arrow-of-arash",
+    "name": "The Arrow of Arash",
+    "aliases": [
+      "Tir-e Arash",
+      "Arash the Archer's Arrow"
+    ],
+    "country": "Iran",
+    "region": "Persian",
+    "culture": "Persian",
+    "type": "weapon",
+    "material": "Wood and metal (mythic)",
+    "era": "Mythic age",
+    "maker": "Unnamed",
+    "powers": "Its single flight fixed the boundary between Iran and Turan.",
+    "associated_creature": null,
+    "description": "The arrow shot by Arash the archer from the summit of Mount Damavand to fix the frontier between Iran and Turan, a flight blessed in the myth by the giving of his own strength, covering hundreds of miles before falling on the far bank of the Oxus. Ferdowsi and earlier Persian sources recount how Arash was chosen for the feat, and modern poetry revived the story as a symbol of national sacrifice.",
+    "related_creatures": [],
+    "featured_in_stories": [
+      "arash-the-archer"
+    ],
+    "source": "Avestan references; Ferdowsi, Shahnameh",
+    "source_type": "literary",
+    "source_quality": "expert",
+    "attested": true,
+    "keywords": [
+      "arash",
+      "archer",
+      "arrow",
+      "boundary",
+      "damavand"
+    ],
+    "search_terms": [
+      "arrow of arash",
+      "tir-e arash",
+      "arash the archer",
+      "arash damavand"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "ruby-of-qabus-1124",
+    "slug": "ruby-of-qabus",
+    "name": "The Ruby of Qabus",
+    "aliases": [
+      "Ruby of the Tower of Qabus",
+      "Yaqut-e Qabus"
+    ],
+    "country": "Iran",
+    "region": "Persian",
+    "culture": "Persian",
+    "type": "jewelry",
+    "material": "Mythic (ruby)",
+    "era": "Medieval legend",
+    "maker": "Unnamed",
+    "powers": "A treasure gem of the Ziyarid ruler's court.",
+    "associated_creature": null,
+    "description": "A great ruby linked in Persian legend and anecdote with Qabus, the Ziyarid ruler and patron of scholars remembered for the tower tomb of Gonbad-e Qabus. The gem is said to have been kept among his treasures or set in his regalia, but no named early source describes it in any detail, and the surviving references belong to later literary tradition. Its particulars therefore cannot be verified.",
+    "related_creatures": [],
+    "featured_in_stories": [],
+    "source": "Later Persian anecdotal tradition",
+    "source_type": "secondary_scholarly",
+    "source_quality": "poor",
+    "attested": false,
+    "keywords": [
+      "ruby",
+      "qabus",
+      "ziyarid",
+      "gem",
+      "gonbad"
+    ],
+    "search_terms": [
+      "ruby of qabus",
+      "yaqut-e qabus",
+      "gonbad-e qabus ruby"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "seal-of-solomon-1125",
+    "slug": "seal-of-solomon",
+    "name": "The Seal of Solomon",
+    "aliases": [
+      "Khatam Sulayman",
+      "Ring of Solomon",
+      "Signet of Solomon"
+    ],
+    "country": "Israel",
+    "region": "Middle East",
+    "culture": "Jewish and Islamic",
+    "type": "jewelry",
+    "material": "Gold ring set with a stone (mythic)",
+    "era": "Biblical and Islamic age",
+    "maker": "Unnamed",
+    "powers": "By its engraving of the divine Name, its bearer commanded the winds, beasts, and jinn.",
+    "associated_creature": null,
+    "description": "The signet ring of the prophet-king Solomon, engraved with the divine Name, by whose power he commanded the winds, beasts, and jinn in Jewish and Islamic tradition alike, told in the Quran, the midrash, and the Thousand and One Nights. Its seal, often drawn as a six-pointed star, later became a widespread protective emblem across the Middle East, North Africa, and Europe.",
+    "related_creatures": [
+      "jinn-jordan",
+      "ifrit-arabia",
+      "jann"
+    ],
+    "featured_in_stories": [
+      "king-solomon-and-the-jinn"
+    ],
+    "source": "Quran; midrash; Thousand and One Nights",
+    "source_type": "literary",
+    "source_quality": "expert",
+    "attested": true,
+    "keywords": [
+      "solomon",
+      "seal",
+      "ring",
+      "jinn",
+      "signet"
+    ],
+    "search_terms": [
+      "seal of solomon",
+      "khatam sulayman",
+      "ring of solomon",
+      "signet of solomon"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "solomons-flying-carpet-1126",
+    "slug": "solomons-flying-carpet",
+    "name": "Solomon's Flying Carpet",
+    "aliases": [
+      "Carpet of Solomon",
+      "Wind Carpet"
+    ],
+    "country": "Israel",
+    "region": "Middle East",
+    "culture": "Jewish and Islamic",
+    "type": "other",
+    "material": "Silk and green stuff (mythic)",
+    "era": "Biblical and Islamic age",
+    "maker": "Unnamed",
+    "powers": "Carried the king, his throne, and his court through the air on the wind.",
+    "associated_creature": null,
+    "description": "The carpet of Solomon, woven of silk and green stuff, said in Islamic tradition to be large enough to bear the king, his throne, and his whole court, carried through the air by the wind at his command and shaded by a flock of birds overhead. The Quran records the wind as made subject to Solomon, and later commentators expanded this into the famous flying carpet, whose details grow in the tellings.",
+    "related_creatures": [],
+    "featured_in_stories": [
+      "king-solomon-and-the-jinn"
+    ],
+    "source": "Quran; al-Tabari; al-Kisa'i; Thousand and One Nights",
+    "source_type": "literary",
+    "source_quality": "expert",
+    "attested": true,
+    "keywords": [
+      "solomon",
+      "carpet",
+      "flying",
+      "wind",
+      "throne"
+    ],
+    "search_terms": [
+      "solomon carpet",
+      "solomons flying carpet",
+      "carpet of solomon",
+      "wind carpet"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "aladdins-lamp-1127",
+    "slug": "aladdins-lamp",
+    "name": "Aladdin's Lamp",
+    "aliases": [
+      "The Wonderful Lamp",
+      "Lamp of Aladdin"
+    ],
+    "country": "Syria",
+    "region": "Middle East",
+    "culture": "Arab (Syrian folk tradition)",
+    "type": "household object",
+    "material": "Brass or copper (folktale)",
+    "era": "Folktale (collected 1704-1714)",
+    "maker": "Unnamed",
+    "powers": "Rubbed, it summoned a powerful jinni who granted its holder's wishes.",
+    "associated_creature": null,
+    "description": "The lamp of the tale of Aladdin, added to the Thousand and One Nights by Antoine Galland from the Syrian storyteller Hanna Diyab around 1709. Rubbing it summoned a powerful jinni who granted wishes, while its twin, the magician's lamp, drove the plot's theft and recovery. No medieval Arabic original of the tale survives, so the lamp is a literary invention of the folk tradition.",
+    "related_creatures": [
+      "ifrit-arabia"
+    ],
+    "featured_in_stories": [
+      "aladdin-and-the-magic-lamp",
+      "aladdin-and-the-wonderful-lamp"
+    ],
+    "source": "Galland's Mille et une nuits (1709)",
+    "source_type": "literary",
+    "source_quality": "fair",
+    "attested": false,
+    "keywords": [
+      "aladdin",
+      "lamp",
+      "genie",
+      "jinni",
+      "wish"
+    ],
+    "search_terms": [
+      "aladdin lamp",
+      "wonderful lamp",
+      "aladdin genie",
+      "magic lamp"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "nights-magic-carpet-1128",
+    "slug": "nights-magic-carpet",
+    "name": "The Magic Carpet of the Nights",
+    "aliases": [
+      "Flying Carpet",
+      "Bisat al-Rih"
+    ],
+    "country": "Iraq",
+    "region": "Middle East",
+    "culture": "Arab (Thousand and One Nights tradition)",
+    "type": "other",
+    "material": "Woven carpet (mythic)",
+    "era": "Folktale",
+    "maker": "Unnamed",
+    "powers": "Bore its riders through the air to distant lands.",
+    "associated_creature": null,
+    "description": "The flying carpet of the Thousand and One Nights cycle and of later oriental folklore, a woven rug that carried its riders through the air to far-off countries. Within the Nights corpus itself the carpet appears chiefly in the tale of Prince Husayn in the later 'Forty Wazirs' addition, and much of its modern fame comes from European retellings. Its details vary widely from one telling to another.",
+    "related_creatures": [],
+    "featured_in_stories": [],
+    "source": "Thousand and One Nights (later additions)",
+    "source_type": "literary",
+    "source_quality": "fair",
+    "attested": false,
+    "keywords": [
+      "flying carpet",
+      "magic carpet",
+      "nights",
+      "wish"
+    ],
+    "search_terms": [
+      "flying carpet",
+      "magic carpet",
+      "bisat al-rih",
+      "carpet of the nights"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "ifrits-bottle-1129",
+    "slug": "ifrits-bottle",
+    "name": "The Bottle of the Ifrit",
+    "aliases": [
+      "The Fisherman's Bottle",
+      "Bottle of the Jinni"
+    ],
+    "country": "Iraq",
+    "region": "Middle East",
+    "culture": "Arab (Thousand and One Nights tradition)",
+    "type": "other",
+    "material": "Copper (sealed jar in the tale)",
+    "era": "Folktale",
+    "maker": "Unnamed",
+    "powers": "Held a vast ifrit imprisoned for centuries until a fisherman freed him.",
+    "associated_creature": null,
+    "description": "The sealed copper bottle cast up in the fisherman's net in the Thousand and One Nights tale of the Fisherman and the Jinni, from which a vast ifrit escaped in a pillar of smoke and threatened to kill his liberator. The fisherman tricked the spirit back into the vessel by doubting that so great a being could fit. The jar is the archetype of the bottled-jinn motif in world folklore.",
+    "related_creatures": [
+      "ifrit-ifr-t"
+    ],
+    "featured_in_stories": [
+      "the-fisherman-and-the-jinni"
+    ],
+    "source": "Thousand and One Nights, The Fisherman and the Jinni",
+    "source_type": "literary",
+    "source_quality": "fair",
+    "attested": false,
+    "keywords": [
+      "ifrit",
+      "bottle",
+      "jar",
+      "fisherman",
+      "jinni"
+    ],
+    "search_terms": [
+      "ifrit bottle",
+      "fisherman bottle",
+      "bottle of the jinni",
+      "bottled ifrit"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "sefer-yetzirah-1130",
+    "slug": "sefer-yetzirah",
+    "name": "Sefer Yetzirah",
+    "aliases": [
+      "Book of Formation",
+      "Sepher Yetzirah"
+    ],
+    "country": "Israel",
+    "region": "Middle East",
+    "culture": "Jewish",
+    "type": "ritual object",
+    "material": "Manuscript",
+    "era": "c. 2nd-6th century CE",
+    "maker": "Tradition attributes it to the patriarch Abraham",
+    "powers": "Describes the creation of the world through the Hebrew letters and the ten sefirot.",
+    "associated_creature": null,
+    "description": "The earliest surviving Hebrew text of Jewish mysticism, the 'Book of Formation,' which describes how the world was created through the twenty-two letters of the Hebrew alphabet and the ten sefirot, and sets out paths by which the mystic may emulate that act. Its opening lines attribute it to the patriarch Abraham, and it shaped the whole later development of Kabbalah.",
+    "related_creatures": [],
+    "featured_in_stories": [],
+    "source": "Sefer Yetzirah (manuscript tradition)",
+    "source_type": "literary",
+    "source_quality": "academic",
+    "attested": true,
+    "keywords": [
+      "sefer yetzirah",
+      "kabbalah",
+      "hebrew letters",
+      "sephirot",
+      "mysticism"
+    ],
+    "search_terms": [
+      "sefer yetzirah",
+      "book of formation",
+      "sepher yetzirah",
+      "book of creation"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "temple-menorah-1131",
+    "slug": "temple-menorah",
+    "name": "The Temple Menorah",
+    "aliases": [
+      "Seven-Branched Candlestick",
+      "Lampstand of the Tabernacle"
+    ],
+    "country": "Israel",
+    "region": "Middle East",
+    "culture": "Jewish",
+    "type": "ritual object",
+    "material": "Gold",
+    "era": "Biblical period",
+    "maker": "Bezalel (per Exodus)",
+    "powers": "The seven-branched lampstand kept alight in the sanctuary.",
+    "associated_creature": null,
+    "description": "The seven-branched golden lampstand of the Tabernacle and later of the Jerusalem Temple, prescribed in the Book of Exodus as a beaten-gold work with almond-shaped cups and blossoms, kept burning in the sanctuary. Its image survives on the Arch of Titus relief and throughout Jewish art, and its fate after the Temple's destruction in 70 CE became a theme of Jewish legend and diaspora memory.",
+    "related_creatures": [],
+    "featured_in_stories": [],
+    "source": "Book of Exodus; Arch of Titus relief",
+    "source_type": "literary",
+    "source_quality": "expert",
+    "attested": true,
+    "keywords": [
+      "menorah",
+      "temple",
+      "lampstand",
+      "seven branches",
+      "jerusalem"
+    ],
+    "search_terms": [
+      "temple menorah",
+      "seven-branched candlestick",
+      "lampstand",
+      "arch of titus menorah"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "ark-of-the-covenant-1132",
+    "slug": "ark-of-the-covenant",
+    "name": "The Ark of the Covenant",
+    "aliases": [
+      "Aron Ha-Berit",
+      "Ark of the Testimony",
+      "Tabot"
+    ],
+    "country": "Israel",
+    "region": "Middle East",
+    "culture": "Jewish (also Ethiopian tradition)",
+    "type": "ritual object",
+    "material": "Acacia wood overlaid with gold",
+    "era": "Biblical period",
+    "maker": "Bezalel (per Exodus)",
+    "powers": "Carried before Israel and kept in the Holy of Holies as the throne of God's presence.",
+    "associated_creature": null,
+    "description": "The gilded chest built at Sinai to hold the stone tablets of the Ten Commandments, carried before the Israelites and kept in the Holy of Holies of the Jerusalem Temple. Legend holds it was hidden before the Babylonian destruction, while Ethiopian tradition claims it rests at Aksum. Its descriptions come from the biblical books; no archaeological witness survives.",
+    "related_creatures": [],
+    "featured_in_stories": [],
+    "source": "Hebrew Bible (Exodus, Joshua, Samuel)",
+    "source_type": "literary",
+    "source_quality": "expert",
+    "attested": true,
+    "keywords": [
+      "ark",
+      "covenant",
+      "tablets",
+      "holy of holies",
+      "ten commandments"
+    ],
+    "search_terms": [
+      "ark of the covenant",
+      "aron ha-berit",
+      "ark of the testimony",
+      "tabot",
+      "ark aksum"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "brazen-serpent-1133",
+    "slug": "brazen-serpent",
+    "name": "The Brazen Serpent",
+    "aliases": [
+      "Nehushtan",
+      "Serpent of Bronze"
+    ],
+    "country": "Israel",
+    "region": "Middle East",
+    "culture": "Jewish",
+    "type": "ritual object",
+    "material": "Bronze",
+    "era": "Biblical period",
+    "maker": "Moses (per Numbers)",
+    "powers": "Healed the Israelites bitten by desert serpents when they looked upon it.",
+    "associated_creature": null,
+    "description": "The bronze serpent made by Moses at God's command to heal the Israelites bitten by serpents in the wilderness, raised on a pole so that the stricken who looked upon it lived. Kept in the Jerusalem Temple, it was later destroyed by King Hezekiah as an idol under the name Nehushtan. Its story is told in Numbers and 2 Kings, and the object itself is known only from scripture.",
+    "related_creatures": [],
+    "featured_in_stories": [],
+    "source": "Numbers 21; 2 Kings 18",
+    "source_type": "literary",
+    "source_quality": "expert",
+    "attested": true,
+    "keywords": [
+      "brazen serpent",
+      "nehushtan",
+      "moses",
+      "bronze",
+      "hezekiah"
+    ],
+    "search_terms": [
+      "brazen serpent",
+      "nehushtan",
+      "serpent of bronze",
+      "moses serpent"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "sword-of-goliath-1134",
+    "slug": "sword-of-goliath",
+    "name": "The Sword of Goliath",
+    "aliases": [
+      "Goliath's Blade",
+      "Sword of the Philistine"
+    ],
+    "country": "Israel",
+    "region": "Middle East",
+    "culture": "Jewish",
+    "type": "weapon",
+    "material": "Iron (biblical)",
+    "era": "Biblical period",
+    "maker": "Philistine armorers",
+    "powers": "The heavy blade of the Philistine champion, kept as a relic at Nob.",
+    "associated_creature": null,
+    "description": "The sword of the Philistine champion Goliath, taken as spoil after David slew him and later kept wrapped in a cloth behind the ephod at the sanctuary of Nob, where the fugitive David received it, saying there was none like it. The weapon is described in the First Book of Samuel, and David's possession of it anchors his kingship narrative in the biblical account.",
+    "related_creatures": [],
+    "featured_in_stories": [],
+    "source": "1 Samuel 17, 21",
+    "source_type": "literary",
+    "source_quality": "expert",
+    "attested": true,
+    "keywords": [
+      "goliath",
+      "sword",
+      "david",
+      "philistine",
+      "nob"
+    ],
+    "search_terms": [
+      "sword of goliath",
+      "goliath blade",
+      "goliath sword",
+      "david goliath sword"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "grail-of-qumran-1135",
+    "slug": "grail-of-qumran",
+    "name": "The Grail of Qumran",
+    "aliases": [
+      "Qumran Grail",
+      "Holy Grail of the Dead Sea"
+    ],
+    "country": "Israel",
+    "region": "Middle East",
+    "culture": "Jewish (modern attribution)",
+    "type": "household object",
+    "material": "Mythic (cup)",
+    "era": "Modern attribution",
+    "maker": "Unnamed",
+    "powers": "None attested; a modern identification without support.",
+    "associated_creature": null,
+    "description": "A drinking vessel that popular speculation has linked with the Dead Sea Scrolls community at Qumran and identified with the Holy Grail of Christian legend. No manuscript, inscription, or excavation connects any Qumran cup to the Grail tradition, and the identification is a modern theory built on suggestion rather than any primary source. It is a derived claim, not an attested artifact.",
+    "related_creatures": [],
+    "featured_in_stories": [],
+    "source": "Modern popular literature",
+    "source_type": "secondary_scholarly",
+    "source_quality": "poor",
+    "attested": false,
+    "keywords": [
+      "qumran",
+      "grail",
+      "dead sea",
+      "cup",
+      "dead sea scrolls"
+    ],
+    "search_terms": [
+      "grail of qumran",
+      "qumran grail",
+      "dead sea grail",
+      "qumran cup"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "khamsa-1136",
+    "slug": "khamsa",
+    "name": "The Khamsa",
+    "aliases": [
+      "Hand of Fatima",
+      "Hand of Miriam",
+      "Hamsa",
+      "Khmissa"
+    ],
+    "country": "Morocco",
+    "region": "North Africa",
+    "culture": "Maghrebi (Jewish and Muslim)",
+    "type": "jewelry",
+    "material": "Silver, gold, metal",
+    "era": "Folk era (ancient root)",
+    "maker": "Maghrebi silversmiths",
+    "powers": "Deflects the evil eye and brings blessing to its bearer.",
+    "associated_creature": null,
+    "description": "The open-hand amulet of the Maghreb and wider Middle East, called the Hand of Fatima after the Prophet's daughter and the Hand of Miriam in Jewish usage, hung in homes, worn as jewelry, and painted on doorways against the evil eye. The silver khamsa was the standard talisman of North African Jews and Muslims alike, with pieces from sheet silver to fine filigree set with coral.",
+    "related_creatures": [],
+    "featured_in_stories": [],
+    "source": "Maghrebi ethnographic collections",
+    "source_type": "secondary_scholarly",
+    "source_quality": "documented",
+    "attested": true,
+    "keywords": [
+      "khamsa",
+      "hand of fatima",
+      "hand of miriam",
+      "evil eye",
+      "amulet"
+    ],
+    "search_terms": [
+      "khamsa",
+      "hamsa",
+      "hand of fatima",
+      "khmissa",
+      "hand of miriam"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "gris-gris-morocco-1137",
+    "slug": "gris-gris-morocco",
+    "name": "The Gris-gris",
+    "aliases": [
+      "Hirz",
+      "Talisman Pouch"
+    ],
+    "country": "Morocco",
+    "region": "North Africa",
+    "culture": "Maghrebi",
+    "type": "other",
+    "material": "Leather, paper, metal",
+    "era": "Folk era",
+    "maker": "Fqih (learned man) who wrote the contents",
+    "powers": "Protects, heals, or brings luck by the written words sealed inside.",
+    "associated_creature": null,
+    "description": "A small leather pouch worn on the body, holding written Qur'anic verses, prayers, or magic squares, used across North Africa to protect, heal, or bring fortune. In Morocco the hirz was stitched by a fqih and worn at the neck or arm, its power resting entirely on the writing sealed inside. The custom is documented in ethnographic surveys of Maghrebi folk practice and survives today.",
+    "related_creatures": [],
+    "featured_in_stories": [],
+    "source": "Ethnographic surveys of Maghrebi folk practice",
+    "source_type": "secondary_scholarly",
+    "source_quality": "documented",
+    "attested": true,
+    "keywords": [
+      "gris-gris",
+      "hirz",
+      "amulet",
+      "talisman",
+      "morocco"
+    ],
+    "search_terms": [
+      "gris-gris",
+      "hirz",
+      "talisman pouch",
+      "moroccan amulet",
+      "fqih amulet"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "tunisian-fibula-1138",
+    "slug": "tunisian-fibula",
+    "name": "The Tunisian Fibula",
+    "aliases": [
+      "Tazabt",
+      "Amazigh Fibula",
+      "Kabyle Brooch"
+    ],
+    "country": "Tunisia",
+    "region": "North Africa",
+    "culture": "Amazigh (Berber)",
+    "type": "jewelry",
+    "material": "Silver, coral, enamel",
+    "era": "Folk era",
+    "maker": "Amazigh silversmiths",
+    "powers": "Fastened the shawl and served as a bridal heirloom and protective talisman.",
+    "associated_creature": null,
+    "description": "The large silver pin or brooch, often triangular with a central coral or enamel stud and a long pointed pin, worn by Amazigh women across Tunisia, Algeria, and Morocco to fasten the shawl and passed down as a bridal heirloom. Its form echoes Roman-era brooches of the region, and its silver and coral decoration is documented in museum collections of Maghrebi dress.",
+    "related_creatures": [],
+    "featured_in_stories": [],
+    "source": "Museum collections of Maghrebi dress",
+    "source_type": "secondary_scholarly",
+    "source_quality": "documented",
+    "attested": true,
+    "keywords": [
+      "fibula",
+      "brooch",
+      "berber",
+      "silver",
+      "tunisia"
+    ],
+    "search_terms": [
+      "tunisian fibula",
+      "tazabt",
+      "amazigh fibula",
+      "kabyle brooch",
+      "berber brooch"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "sword-of-antar-1139",
+    "slug": "sword-of-antar",
+    "name": "The Sword of Antar",
+    "aliases": [
+      "Dhami",
+      "Sayf Antar",
+      "Sword of Antarah ibn Shaddad"
+    ],
+    "country": "Saudi Arabia",
+    "region": "Middle East and North Africa",
+    "culture": "Arab (pre-Islamic and medieval sira)",
+    "type": "weapon",
+    "material": "Steel (mythic in the sira)",
+    "era": "Medieval (sira tradition)",
+    "maker": "Unnamed (won in combat)",
+    "powers": "The great blade of the warrior-poet, wielded in his duels and tribal wars.",
+    "associated_creature": null,
+    "description": "The sword Dhami, the chosen blade of Antarah ibn Shaddad, the pre-Islamic warrior-poet of the Arabian Peninsula whose exploits fill the medieval romance Sirah 'Antar. In the sira, Antar wins the sword in combat and carries it through the wars of the tribe of Abs and his long struggle to marry Abla. The romance is literary, and the sword's named exploits grow with the telling.",
+    "related_creatures": [],
+    "featured_in_stories": [
+      "antar-and-abla"
+    ],
+    "source": "Sirah 'Antar (medieval Arabic romance)",
+    "source_type": "literary",
+    "source_quality": "fair",
+    "attested": true,
+    "keywords": [
+      "antar",
+      "antarah",
+      "sword",
+      "sira",
+      "abla"
+    ],
+    "search_terms": [
+      "sword of antar",
+      "dhami",
+      "antarah ibn shaddad",
+      "sirah antar",
+      "sayf antar"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "jambiya-1140",
+    "slug": "jambiya",
+    "name": "The Jambiya",
+    "aliases": [
+      "Jambia",
+      "Janbiya",
+      "Jambiyyah"
+    ],
+    "country": "Yemen",
+    "region": "Middle East and North Africa",
+    "culture": "Yemeni",
+    "type": "weapon",
+    "material": "Silver, steel, horn",
+    "era": "Folk era",
+    "maker": "Yemeni silversmiths and bladesmiths",
+    "powers": "Symbol of honor and manhood; drawn in the bara' dance.",
+    "associated_creature": null,
+    "description": "The short curved dagger with a broad double-edged blade worn at the belt by Yemeni men, a symbol of honor and manhood carried from youth and drawn in the bara' war dance. Silver-sheathed jambiya hilts, some of rhino horn, are treasured heirlooms and marks of tribal standing. The weapon is attested across Yemeni material culture and in the dances, songs, and poetry that surround it.",
+    "related_creatures": [],
+    "featured_in_stories": [],
+    "source": "Yemeni material culture and ethnographic records",
+    "source_type": "secondary_scholarly",
+    "source_quality": "documented",
+    "attested": true,
+    "keywords": [
+      "jambiya",
+      "dagger",
+      "yemen",
+      "honor",
+      "bara"
+    ],
+    "search_terms": [
+      "jambiya",
+      "jambia",
+      "janbiya",
+      "yemeni dagger",
+      "bara dance"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "kusanagi-no-tsurugi-1201",
+    "slug": "kusanagi-no-tsurugi",
+    "name": "Kusanagi-no-Tsurugi",
+    "aliases": [
+      "Kusanagi",
+      "Grass-Cutting Sword",
+      "Ama-no-Murakumo-no-Tsurugi"
+    ],
+    "country": "Japan",
+    "region": "Japanese",
+    "culture": "Japanese",
+    "type": "weapon",
+    "material": "Iron",
+    "era": "Mythic age",
+    "maker": "Susanoo (legendary)",
+    "powers": "Said to command the wind and fell whole fields of grass; one of the Three Sacred Treasures.",
+    "associated_creature": "amaterasu",
+    "description": "The legendary grass-cutting sword drawn from the tail of the eight-headed serpent Yamata no Orochi by Susanoo, then offered to Amaterasu and placed among the Three Sacred Treasures of the Japanese imperial regalia. Kept today at Atsuta Shrine in Nagoya, it is said to command the wind and cut down an entire field of grass in a single stroke.",
+    "related_creatures": [
+      "amaterasu",
+      "orochi"
+    ],
+    "featured_in_stories": [
+      "orochi-the-eight-headed-serpent"
+    ],
+    "source": "Kojiki; Nihon Shoki",
+    "source_type": "literary",
+    "source_quality": "well-documented",
+    "attested": true,
+    "keywords": [
+      "sword",
+      "imperial regalia",
+      "susanoo",
+      "orochi",
+      "amaterasu",
+      "atsuta"
+    ],
+    "search_terms": [
+      "kusanagi",
+      "kusanagi-no-tsurugi",
+      "ama-no-murakumo",
+      "grass cutting sword",
+      "three sacred treasures",
+      "susanoo",
+      "orochi"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "yata-no-kagami-1202",
+    "slug": "yata-no-kagami",
+    "name": "Yata no Kagami",
+    "aliases": [
+      "Eight-Fold Mirror",
+      "Yata Mirror"
+    ],
+    "country": "Japan",
+    "region": "Japanese",
+    "culture": "Japanese",
+    "type": "other",
+    "material": "Bronze",
+    "era": "Mythic age",
+    "maker": "Amaterasu (legendary)",
+    "powers": "Reflects truth and brilliance; part of the imperial regalia.",
+    "associated_creature": "amaterasu",
+    "description": "The Eight-Fold Mirror hung from a sacred sakaki tree outside the cave where Amaterasu hid, its brilliance luring the sun goddess back to illuminate the world. Revered at Ise Grand Shrine as one of the Three Sacred Treasures, it stands for truth and for the imperial line's legitimacy in Japanese myth.",
+    "related_creatures": [
+      "amaterasu"
+    ],
+    "featured_in_stories": [
+      "amaterasu-and-the-cave"
+    ],
+    "source": "Kojiki; Nihon Shoki",
+    "source_type": "literary",
+    "source_quality": "well-documented",
+    "attested": true,
+    "keywords": [
+      "mirror",
+      "amaterasu",
+      "imperial regalia",
+      "ise",
+      "sun goddess"
+    ],
+    "search_terms": [
+      "yata no kagami",
+      "eight fold mirror",
+      "yata mirror",
+      "amaterasu mirror",
+      "sacred mirror"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "yasakani-no-magatama-1203",
+    "slug": "yasakani-no-magatama",
+    "name": "Yasakani no Magatama",
+    "aliases": [
+      "Sacred Jewel",
+      "Curved Jewel of Yasakani"
+    ],
+    "country": "Japan",
+    "region": "Japanese",
+    "culture": "Japanese",
+    "type": "jewelry",
+    "material": "Jade",
+    "era": "Mythic age",
+    "maker": "Unknown (mythic)",
+    "powers": "Symbolizes benevolent fortune and the sovereign's right to rule.",
+    "associated_creature": "amaterasu",
+    "description": "The curved jade bead (magatama) dangled from the branch of the sacred sakaki tree beside the mirror that drew Amaterasu from her cave. Counted among the Three Sacred Treasures of Japan, it symbolizes benevolent fortune and the sovereign's mandate, and its comma shape recurs in tomb jewelry from the Kofun period.",
+    "related_creatures": [
+      "amaterasu"
+    ],
+    "featured_in_stories": [
+      "amaterasu-and-the-cave"
+    ],
+    "source": "Kojiki; Nihon Shoki",
+    "source_type": "literary",
+    "source_quality": "well-documented",
+    "attested": true,
+    "keywords": [
+      "magatama",
+      "jewel",
+      "amaterasu",
+      "imperial regalia",
+      "kofun"
+    ],
+    "search_terms": [
+      "yasakani",
+      "magatama",
+      "curved jewel",
+      "yasakani no magatama",
+      "sacred jewel japan"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "shichishito-1204",
+    "slug": "shichishito",
+    "name": "Shichishito",
+    "aliases": [
+      "Seven-Branched Sword",
+      "Nanatsusaya no Tachi"
+    ],
+    "country": "Japan",
+    "region": "Japanese",
+    "culture": "Japanese",
+    "type": "weapon",
+    "material": "Iron",
+    "era": "Ancient (5th century)",
+    "maker": "Baekje swordmakers (inscribed)",
+    "powers": "None (honorific and ritual sword)",
+    "associated_creature": null,
+    "description": "An iron sword with seven branch-like projections along the blade, dedicated to the Isonokami Shrine and recorded in the Nihon Shoki as a gift from the kingdom of Baekje. Its long inlaid inscription describing offerings to the sun deity makes it a rare physical relic of early Korean-Japanese exchange and a treasure of Japanese shrine keeping.",
+    "related_creatures": [],
+    "featured_in_stories": [],
+    "source": "Nihon Shoki; Isonokami Shrine inscription",
+    "source_type": "archaeological",
+    "source_quality": "primary",
+    "attested": true,
+    "keywords": [
+      "sword",
+      "seven branches",
+      "baekje",
+      "isonokami",
+      "inscription"
+    ],
+    "search_terms": [
+      "shichishito",
+      "seven branched sword",
+      "nanatsusaya",
+      "isonokami shrine",
+      "baekje sword"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "hannya-mask-1205",
+    "slug": "hannya-mask",
+    "name": "Hannya Mask",
+    "aliases": [
+      "Hannya",
+      "Demon Woman Mask"
+    ],
+    "country": "Japan",
+    "region": "Japanese",
+    "culture": "Japanese",
+    "type": "other",
+    "material": "Carved cypress wood",
+    "era": "Edo period (refined form)",
+    "maker": "Noh mask carvers",
+    "powers": "Embodies a woman turned demon by jealousy",
+    "associated_creature": null,
+    "description": "A Noh theatre mask sculpted as the face of a woman twisted by jealousy into a horned, serpent-eyed demon, with metal fangs and a grimacing mouth. Carried by performers in plays such as Dojoji and Aoi no Ue, the hannya shows obsession consuming the living into demonic form, and the mask itself is held to retain dangerous power.",
+    "related_creatures": [
+      "oni"
+    ],
+    "featured_in_stories": [],
+    "source": "Noh repertoire (Dojoji; Aoi no Ue)",
+    "source_type": "literary",
+    "source_quality": "documented",
+    "attested": true,
+    "keywords": [
+      "mask",
+      "noh",
+      "demon",
+      "jealousy",
+      "theatre",
+      "oni"
+    ],
+    "search_terms": [
+      "hannya",
+      "hannya mask",
+      "noh mask",
+      "demon woman",
+      "dojoji",
+      "aoi no ue"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "oni-no-kanabo-1206",
+    "slug": "oni-no-kanabo",
+    "name": "Oni no Kanabo",
+    "aliases": [
+      "Oni's Iron Club",
+      "Demon's Studded Club"
+    ],
+    "country": "Japan",
+    "region": "Japanese",
+    "culture": "Japanese",
+    "type": "weapon",
+    "material": "Iron-studded wood",
+    "era": "Folk era",
+    "maker": "Unknown (stock attribute)",
+    "powers": "Said to crush any demon or mortal it strikes",
+    "associated_creature": "oni",
+    "description": "The iron-studded club that Japanese tales and art place in the grip of the oni, the red-and-blue ogre of legend. Treated as a stock attribute of the ogre rather than a documented artifact, it appears in tales from Shuten-doji onward, its weight said to crush whatever it strikes; no historical example survives.",
+    "related_creatures": [
+      "oni"
+    ],
+    "featured_in_stories": [
+      "shuten-doji"
+    ],
+    "source": "Folktale and image tradition",
+    "source_type": "oral_tradition",
+    "source_quality": "good",
+    "attested": false,
+    "keywords": [
+      "club",
+      "oni",
+      "ogre",
+      "shuten-doji",
+      "weapon"
+    ],
+    "search_terms": [
+      "kanabo",
+      "oni no kanabo",
+      "oni club",
+      "iron club",
+      "demon club",
+      "shuten doji"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "shimenawa-1207",
+    "slug": "shimenawa",
+    "name": "Shimenawa",
+    "aliases": [
+      "Sacred Rope",
+      "Himorogi rope"
+    ],
+    "country": "Japan",
+    "region": "Japanese",
+    "culture": "Japanese",
+    "type": "ritual object",
+    "material": "Rice straw",
+    "era": "Ancient to present",
+    "maker": "Shrine weavers",
+    "powers": "Marks off divine ground and repels impurity",
+    "associated_creature": "amaterasu",
+    "description": "A sacred rope twisted from rice straw and hung before shrines, torii gates, and sacred trees to mark off divine ground. Its origin is tied to the rope strung across the cave mouth after Amaterasu emerged, preventing the sun goddess from retreating; the shimenawa now seals off the kami's dwelling places from impurity.",
+    "related_creatures": [
+      "amaterasu"
+    ],
+    "featured_in_stories": [
+      "amaterasu-and-the-cave"
+    ],
+    "source": "Shinto practice; Kojiki cave narrative",
+    "source_type": "literary",
+    "source_quality": "well-documented",
+    "attested": true,
+    "keywords": [
+      "rope",
+      "shinto",
+      "shrine",
+      "torii",
+      "sacred",
+      "amaterasu"
+    ],
+    "search_terms": [
+      "shimenawa",
+      "sacred rope",
+      "shinto rope",
+      "straw rope",
+      "kami boundary"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "hagoromo-1208",
+    "slug": "hagoromo",
+    "name": "Hagoromo",
+    "aliases": [
+      "Feather Mantle",
+      "Feather Robe of the Tennyo"
+    ],
+    "country": "Japan",
+    "region": "Japanese",
+    "culture": "Japanese",
+    "type": "garment",
+    "material": "Feathered white cloth",
+    "era": "Classical and Noh period",
+    "maker": "Heavenly maidens (legendary)",
+    "powers": "Lets its wearer fly between heaven and earth",
+    "associated_creature": null,
+    "description": "The feather mantle that lets a heavenly maiden (tennyo) fly between the mortal world and the sky. In the classic Noh play Hagoromo, a fisherman of Mio Bay finds one hung on a pine and makes the angel dance before returning it; the robe marks the tenuous boundary between human and divine realms in Japanese drama and folklore.",
+    "related_creatures": [],
+    "featured_in_stories": [],
+    "source": "Noh play Hagoromo; coastal legend tradition",
+    "source_type": "literary",
+    "source_quality": "documented",
+    "attested": true,
+    "keywords": [
+      "robe",
+      "feather",
+      "tennyo",
+      "noh",
+      "heavenly maiden",
+      "flying"
+    ],
+    "search_terms": [
+      "hagoromo",
+      "feather mantle",
+      "feather robe",
+      "tennyo",
+      "heavenly maiden",
+      "mio bay"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "kitsune-comb-1209",
+    "slug": "kitsune-comb",
+    "name": "Kitsune's Crescent Comb",
+    "aliases": [
+      "Zori-gushi",
+      "Fox Comb"
+    ],
+    "country": "Japan",
+    "region": "Japanese",
+    "culture": "Japanese",
+    "type": "jewelry",
+    "material": "Wood or tortoiseshell",
+    "era": "Edo period tales",
+    "maker": "Unknown (tale object)",
+    "powers": "Reveals a fox in human form; granting it service or love",
+    "associated_creature": "kitsune",
+    "description": "The crescent-shaped comb that Japanese tales say a shapeshifting kitsune drops when its fox tail is betrayed. A man who finds one may gain the fox's love or service, and the comb recurs as the tell-tale clue in tales of fox wives whose disguise slips at midnight, linking the small hair ornament to the oldest fox legends of Japan.",
+    "related_creatures": [
+      "kitsune"
+    ],
+    "featured_in_stories": [
+      "kitsune-the-fox-wife",
+      "kitsune-the-fox-spirits"
+    ],
+    "source": "Kitsune folktale tradition (Genjimonogatari imagery)",
+    "source_type": "oral_tradition",
+    "source_quality": "good",
+    "attested": true,
+    "keywords": [
+      "comb",
+      "kitsune",
+      "fox",
+      "shapeshifter",
+      "fox wife",
+      "hair ornament"
+    ],
+    "search_terms": [
+      "kitsune comb",
+      "fox comb",
+      "crescent comb",
+      "zori gushi",
+      "fox wife"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "daruma-doll-1210",
+    "slug": "daruma-doll",
+    "name": "Daruma Doll",
+    "aliases": [
+      "Daruma",
+      "Bodhidharma Doll"
+    ],
+    "country": "Japan",
+    "region": "Japanese",
+    "culture": "Japanese",
+    "type": "other",
+    "material": "Papier-mache over a weighted core",
+    "era": "Edo period onward",
+    "maker": "Takasaki and temple dollmakers",
+    "powers": "Talisman of perseverance and wish fulfillment",
+    "associated_creature": null,
+    "description": "A rounded paper-mache doll modeled on Bodhidharma, the first Zen patriarch, whose hollow weighted body always rocks back upright. Bought as a talisman of perseverance, its eyes are inked one at a time as a wish is granted, and the year's dolls are burned in temple ceremonies that close out the warding of ill fortune.",
+    "related_creatures": [],
+    "featured_in_stories": [],
+    "source": "Edo-period devotional craft tradition",
+    "source_type": "secondary_scholarly",
+    "source_quality": "documented",
+    "attested": true,
+    "keywords": [
+      "doll",
+      "bodhidharma",
+      "talisman",
+      "wish",
+      "perseverance",
+      "papier mache"
+    ],
+    "search_terms": [
+      "daruma",
+      "daruma doll",
+      "bodhidharma doll",
+      "tumbling doll",
+      "takasaki daruma"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "ruyi-jingu-bang-1211",
+    "slug": "ruyi-jingu-bang",
+    "name": "Ruyi Jingu Bang",
+    "aliases": [
+      "As-You-Will Gold-Banded Staff",
+      "Monkey King's Staff"
+    ],
+    "country": "China",
+    "region": "Chinese",
+    "culture": "Chinese",
+    "type": "weapon",
+    "material": "Polar iron ringed with gold",
+    "era": "Ming dynasty (novel)",
+    "maker": "Yu the Great (legendary)",
+    "powers": "Shrinks and grows at the wearer's will; weighs thirteen thousand five hundred catties",
+    "associated_creature": "sun-wukong",
+    "description": "The magic staff of Sun Wukong the Monkey King, pulled from the East Sea Dragon Palace where it stood as a pillar weighing thirteen thousand five hundred catties. It shrank and grew at its bearer's will, and its gold-banded ends helped the Monkey King defy the heavenly host before he was pressed into escorting the pilgrim Tripitaka to the West.",
+    "related_creatures": [
+      "sun-wukong"
+    ],
+    "featured_in_stories": [
+      "the-journey-to-the-west",
+      "the-monkey-king"
+    ],
+    "source": "Journey to the West (16th century)",
+    "source_type": "literary",
+    "source_quality": "well-documented",
+    "attested": true,
+    "keywords": [
+      "staff",
+      "monkey king",
+      "sun wukong",
+      "journey to the west",
+      "dragon palace",
+      "weapon"
+    ],
+    "search_terms": [
+      "ruyi jingu bang",
+      "ruyi bang",
+      "monkey king staff",
+      "sun wukong staff",
+      "gold banded staff",
+      "jingu bang"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "jiu-ding-1212",
+    "slug": "jiu-ding",
+    "name": "Jiu Ding",
+    "aliases": [
+      "Nine Tripods",
+      "Nine Cauldrons of Yu"
+    ],
+    "country": "China",
+    "region": "Chinese",
+    "culture": "Chinese",
+    "type": "ritual object",
+    "material": "Bronze",
+    "era": "Mythic Xia dynasty",
+    "maker": "Yu the Great (legendary)",
+    "powers": "Signifies the Mandate of Heaven and legitimacy of rule",
+    "associated_creature": null,
+    "description": "The nine bronze tripods (jiu ding) that culture hero Yu the Great is said to have cast from tribute metal gathered across the Nine Provinces, inscribing each region's creatures so the people could recognize them. Passed between the Xia, Shang, and Zhou dynasties as the physical warrant of the Mandate of Heaven, they became the archetype of legitimate rule in Chinese historiography.",
+    "related_creatures": [
+      "long"
+    ],
+    "featured_in_stories": [],
+    "source": "Shujing (Book of Documents); Zuo Zhuan",
+    "source_type": "literary",
+    "source_quality": "academic",
+    "attested": true,
+    "keywords": [
+      "tripod",
+      "ding",
+      "yu the great",
+      "mandate of heaven",
+      "bronze",
+      "nine provinces"
+    ],
+    "search_terms": [
+      "jiu ding",
+      "nine tripods",
+      "nine cauldrons",
+      "ding vessels",
+      "yu the great tripods"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "hou-yi-bow-1213",
+    "slug": "hou-yi-bow",
+    "name": "Hou Yi's Bow",
+    "aliases": [
+      "Ten Suns Bow",
+      "The Red Bow"
+    ],
+    "country": "China",
+    "region": "Chinese",
+    "culture": "Chinese",
+    "type": "weapon",
+    "material": "Wood and sinew",
+    "era": "Mythic age",
+    "maker": "Hou Yi (legendary)",
+    "powers": "Shot down nine of the ten suns",
+    "associated_creature": "hou-yi",
+    "description": "The red bow of the legendary archer Hou Yi, who in Chinese myth shot down nine of the ten suns that scorched the earth, leaving one to light the day. His skill earned him the elixir of immortality, and his bow remains the emblem of marksmanship in tales of the heavenly archer and his doomed wife Chang'e.",
+    "related_creatures": [
+      "hou-yi",
+      "chang-er"
+    ],
+    "featured_in_stories": [
+      "hou-yi-and-the-arrows",
+      "chang-er-on-the-moon"
+    ],
+    "source": "Huainanzi; Shanhaijing tradition",
+    "source_type": "literary",
+    "source_quality": "well-documented",
+    "attested": true,
+    "keywords": [
+      "bow",
+      "hou yi",
+      "archer",
+      "sun",
+      "myth",
+      "chang e"
+    ],
+    "search_terms": [
+      "hou yi bow",
+      "ten suns",
+      "archer hou yi",
+      "red bow",
+      "shooting the suns"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "elixir-of-immortality-1214",
+    "slug": "elixir-of-immortality",
+    "name": "Elixir of Immortality",
+    "aliases": [
+      "Chang'e's Elixir",
+      "Drug of Longevity"
+    ],
+    "country": "China",
+    "region": "Chinese",
+    "culture": "Chinese",
+    "type": "other",
+    "material": "Alchemical drug",
+    "era": "Mythic age",
+    "maker": "Queen Mother of the West (legendary)",
+    "powers": "Bestows eternal life",
+    "associated_creature": "chang-er",
+    "description": "The drug of immortality that Hou Yi obtained from the Queen Mother of the West. His wife Chang'e swallowed it to keep it from a thief and drifted to the moon, where she lives forever in the cold lunar palace with the jade rabbit; the tale, recorded in Han-era sources, gave the moon its goddess and the Mid-Autumn Festival its story.",
+    "related_creatures": [
+      "chang-er",
+      "hou-yi"
+    ],
+    "featured_in_stories": [
+      "chang-er-on-the-moon"
+    ],
+    "source": "Huainanzi; later Chang'e tradition",
+    "source_type": "literary",
+    "source_quality": "well-documented",
+    "attested": true,
+    "keywords": [
+      "elixir",
+      "immortality",
+      "chang e",
+      "hou yi",
+      "moon",
+      "queen mother of the west"
+    ],
+    "search_terms": [
+      "elixir of immortality",
+      "chang e elixir",
+      "drug of immortality",
+      "chang'e",
+      "moon goddess"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "jade-rabbits-mortar-1215",
+    "slug": "jade-rabbits-mortar",
+    "name": "Jade Rabbit's Mortar",
+    "aliases": [
+      "Moon Rabbit's Pestle",
+      "Mortar of the Moon"
+    ],
+    "country": "China",
+    "region": "Chinese",
+    "culture": "Chinese",
+    "type": "tool",
+    "material": "Stone mortar and pestle",
+    "era": "Han era onward",
+    "maker": "Moon rabbit (legendary)",
+    "powers": "Pounds the elixir of immortality",
+    "associated_creature": "chang-er",
+    "description": "The mortar and pestle with which the Jade Rabbit pounds the elixir of immortality on the moon, a familiar figure in Mid-Autumn Festival imagery. The rabbit is said to grind herbs under the cassia tree for Chang'e, and the same moon-rabbit motif recurs across East Asian lore, including Korean tales of a rabbit on the lunar surface.",
+    "related_creatures": [
+      "chang-er"
+    ],
+    "featured_in_stories": [
+      "chang-er-on-the-moon"
+    ],
+    "source": "Han bronze mirrors and moon-rabbit tradition",
+    "source_type": "oral_tradition",
+    "source_quality": "good",
+    "attested": true,
+    "keywords": [
+      "rabbit",
+      "mortar",
+      "moon",
+      "elixir",
+      "chang e",
+      "mid autumn"
+    ],
+    "search_terms": [
+      "jade rabbit",
+      "moon rabbit",
+      "jade rabbit mortar",
+      "rabbit pestle",
+      "mid autumn festival"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "bagua-mirror-1216",
+    "slug": "bagua-mirror",
+    "name": "Bagua Mirror",
+    "aliases": [
+      "Eight Trigrams Mirror",
+      "Feng Shui Mirror"
+    ],
+    "country": "China",
+    "region": "Chinese",
+    "culture": "Chinese",
+    "type": "ritual object",
+    "material": "Bronze or glass",
+    "era": "Folk era",
+    "maker": "Feng shui artisans",
+    "powers": "Deflects harmful energy (sha qi) and returns evil glances",
+    "associated_creature": null,
+    "description": "A circular mirror ringed with the eight trigrams of the Book of Changes around a central yin-yang disc, hung over doorways in Chinese feng shui practice to turn away harmful energy (sha qi). Also paired with talismanic spells against hauntings, the bagua mirror is said to return an attacker's evil gaze and to guard the threshold from malign spirits.",
+    "related_creatures": [
+      "jiangshi"
+    ],
+    "featured_in_stories": [],
+    "source": "Feng shui and talismanic practice",
+    "source_type": "secondary_scholarly",
+    "source_quality": "good",
+    "attested": true,
+    "keywords": [
+      "mirror",
+      "bagua",
+      "feng shui",
+      "trigrams",
+      "talisman",
+      "protection"
+    ],
+    "search_terms": [
+      "bagua mirror",
+      "eight trigrams mirror",
+      "feng shui mirror",
+      "pakua mirror"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "guan-dao-1217",
+    "slug": "guan-dao",
+    "name": "Guan Dao",
+    "aliases": [
+      "Green Dragon Crescent Blade",
+      "Yanyue Dao"
+    ],
+    "country": "China",
+    "region": "Chinese",
+    "culture": "Chinese",
+    "type": "weapon",
+    "material": "Steel blade on a long wooden shaft",
+    "era": "Three Kingdoms era to present",
+    "maker": "Guan Yu's smiths (legendary)",
+    "powers": "Emblem of martial protection and the god of war",
+    "associated_creature": null,
+    "description": "The heavy curved-blade polearm historically carried by Guan Yu, the Three Kingdoms general deified as the god of war. The 'Green Dragon Crescent Blade' is the most famous of its kind; ceremonial guan dao are still kept in martial temples and used in lion-dance and martial-arts displays to invoke his protection.",
+    "related_creatures": [],
+    "featured_in_stories": [],
+    "source": "Three Kingdoms tradition; martial practice",
+    "source_type": "literary",
+    "source_quality": "documented",
+    "attested": true,
+    "keywords": [
+      "polearm",
+      "guan yu",
+      "guan dao",
+      "green dragon",
+      "god of war",
+      "blade"
+    ],
+    "search_terms": [
+      "guan dao",
+      "green dragon crescent blade",
+      "yanyue dao",
+      "guan yu blade"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "flaming-pearl-1218",
+    "slug": "flaming-pearl",
+    "name": "Flaming Pearl",
+    "aliases": [
+      "Huozhu",
+      "Dragon Pearl"
+    ],
+    "country": "China",
+    "region": "Chinese",
+    "culture": "Chinese",
+    "type": "jewelry",
+    "material": "Pearl wreathed in flame",
+    "era": "Han era to present",
+    "maker": "Unknown (art motif)",
+    "powers": "Signifies wisdom, wealth, and transformation",
+    "associated_creature": "long",
+    "description": "A luminous pearl wreathed in flame (huozhu) depicted in Chinese art as the treasure two dragons chase or guard. Linked to the dragon's undersea realm and to Buddhist wish-granting jewels, the flaming pearl symbolizes wisdom, wealth, and transformation, and it appears on temple roofs, ceramics, and paintings across East Asia.",
+    "related_creatures": [
+      "long"
+    ],
+    "featured_in_stories": [],
+    "source": "Dragon art motif; Buddhist jewel tradition",
+    "source_type": "oral_tradition",
+    "source_quality": "good",
+    "attested": true,
+    "keywords": [
+      "pearl",
+      "dragon",
+      "flame",
+      "treasure",
+      "huozhu",
+      "symbol"
+    ],
+    "search_terms": [
+      "flaming pearl",
+      "huozhu",
+      "dragon pearl",
+      "flaming jewel",
+      "chasing pearl"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "heavenly-loom-1219",
+    "slug": "heavenly-loom",
+    "name": "The Heavenly Loom",
+    "aliases": [
+      "Zhinü's Loom",
+      "Weaver Girl's Loom"
+    ],
+    "country": "China",
+    "region": "Chinese",
+    "culture": "Chinese",
+    "type": "tool",
+    "material": "Celestial loom",
+    "era": "Han era onward",
+    "maker": "Zhinü (legendary)",
+    "powers": "Wove the patterned clouds of the sky",
+    "associated_creature": null,
+    "description": "The celestial loom of Zhinü, the Weaver Girl, who wove the patterned clouds of the sky beside the Heavenly River. When her marriage to the cowherd Niulang made her neglect her weaving, the Jade Emperor separated the pair, and on the seventh night of the seventh month magpies bridge the river for their yearly reunion, the origin of the Qixi festival.",
+    "related_creatures": [
+      "jade-emperor"
+    ],
+    "featured_in_stories": [
+      "the-cowherd-and-the-weaver-girl",
+      "the-tale-of-the-cowherd-and-the-weaver-girl"
+    ],
+    "source": "Qixi legend; Han to Tang sources",
+    "source_type": "literary",
+    "source_quality": "well-documented",
+    "attested": true,
+    "keywords": [
+      "loom",
+      "weaver girl",
+      "zhinu",
+      "qixi",
+      "milky way",
+      "niulang"
+    ],
+    "search_terms": [
+      "zhinu loom",
+      "weaver girl",
+      "heavenly loom",
+      "qixi",
+      "cowherd and weaver girl",
+      "magpie bridge"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "cheonbuin-1220",
+    "slug": "cheonbuin",
+    "name": "Cheonbuin",
+    "aliases": [
+      "Heavenly Seal",
+      "Seal of Hwanung"
+    ],
+    "country": "Korea",
+    "region": "Korean",
+    "culture": "Korean",
+    "type": "other",
+    "material": "Jade or bronze",
+    "era": "Mythic age",
+    "maker": "Hwanin, the sky god (legendary)",
+    "powers": "Marks the royal mandate of the founder king",
+    "associated_creature": "dangun",
+    "description": "The heavenly seal that the Samguk Yusa says Hwanung, son of the sky god Hwanin, carried when he descended to Mount Taebaek with three seals to govern the world. Given to his descendants as the mark of royal mandate, the seal anchors the Dangun foundation myth in which the bear-woman Ungnyeo's son Dangun founded the first Korean kingdom.",
+    "related_creatures": [
+      "dangun"
+    ],
+    "featured_in_stories": [
+      "the-dangun-founding-myth",
+      "dangun-the-founder-of-korea"
+    ],
+    "source": "Samguk Yusa",
+    "source_type": "literary",
+    "source_quality": "well-documented",
+    "attested": true,
+    "keywords": [
+      "seal",
+      "dangun",
+      "hwanung",
+      "samguk yusa",
+      "foundation myth",
+      "korea"
+    ],
+    "search_terms": [
+      "cheonbuin",
+      "heavenly seal",
+      "hwanung seal",
+      "dangun seal",
+      "three heavenly seals"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "geobukseon-1221",
+    "slug": "geobukseon",
+    "name": "Geobukseon",
+    "aliases": [
+      "Turtle Ship",
+      "Kobukson"
+    ],
+    "country": "South Korea",
+    "region": "Korean",
+    "culture": "Korean",
+    "type": "ship",
+    "material": "Wood with iron-plated shell",
+    "era": "Imjin War (1592-1598)",
+    "maker": "Admiral Yi Sun-sin's fleet",
+    "powers": "Iron-roofed warship that shed fire and boarding parties",
+    "associated_creature": null,
+    "description": "The armored turtle warship built for Admiral Yi Sun-sin's fleet in the 1590s, roofed with an iron-studded shell that shed flame and repelled boarders. Though a real historical vessel, it passed into Korean folklore as an invincible protector of the coast, celebrated in songs and tales of the Imjin War against the Japanese invasion.",
+    "related_creatures": [],
+    "featured_in_stories": [],
+    "source": "Nanjung Ilgi; Joseon war records",
+    "source_type": "archaeological",
+    "source_quality": "academic",
+    "attested": true,
+    "keywords": [
+      "ship",
+      "turtle",
+      "yi sun sin",
+      "navy",
+      "imjin war",
+      "korea"
+    ],
+    "search_terms": [
+      "geobukseon",
+      "kobukson",
+      "turtle ship",
+      "yi sun sin",
+      "turtle warship"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "gogok-1222",
+    "slug": "gogok",
+    "name": "Gogok",
+    "aliases": [
+      "Comma-Shaped Jewel",
+      "Korean Comma Bead"
+    ],
+    "country": "South Korea",
+    "region": "Korean",
+    "culture": "Korean",
+    "type": "jewelry",
+    "material": "Jade and hardstone",
+    "era": "Silla kingdom (5th-6th century)",
+    "maker": "Silla royal workshops",
+    "powers": "Symbol of rank, fertility, and the sun",
+    "associated_creature": null,
+    "description": "The comma-shaped jade ornament threaded onto the gold crowns and belts of the Silla kingdom and excavated in numbers from the tombs of Gyeongju. Scholars link the curved bead to the bear-woman Ungnyeo's offering in the Dangun myth and to shamanic fertility symbolism; it remains the emblem of ancient Korean royal regalia.",
+    "related_creatures": [
+      "dangun"
+    ],
+    "featured_in_stories": [],
+    "source": "Gyeongju tomb excavations",
+    "source_type": "archaeological",
+    "source_quality": "academic",
+    "attested": true,
+    "keywords": [
+      "jade",
+      "jewelry",
+      "silla",
+      "gold crown",
+      "gyeongju",
+      "comma bead"
+    ],
+    "search_terms": [
+      "gogok",
+      "comma jewel",
+      "comma shaped jade",
+      "silla crown",
+      "magatama korea"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "bangmangi-1223",
+    "slug": "bangmangi",
+    "name": "Bangmangi",
+    "aliases": [
+      "Dokkaebi's Magic Club",
+      "Wishing Club"
+    ],
+    "country": "South Korea",
+    "region": "Korean",
+    "culture": "Korean",
+    "type": "weapon",
+    "material": "Wooden club",
+    "era": "Folk era",
+    "maker": "Dokkaebi (legendary)",
+    "powers": "Grants whatever the wielder wishes when struck",
+    "associated_creature": "dokkaebi-gam",
+    "description": "The magic club (bangmangi) of the Korean goblin dokkaebi, which in folktales grants whatever a person wishes when it strikes. Villagers trick the gullible dokkaebi into beating the club and losing it, or use it to draw endless food, gold, and healing; the club and its owner remain beloved fixtures of Korean storytelling.",
+    "related_creatures": [
+      "dokkaebi-gam"
+    ],
+    "featured_in_stories": [
+      "the-dokkaebi-goblin",
+      "the-dokkaebi-gam-medicine-goblin"
+    ],
+    "source": "Dokkaebi folktale cycle",
+    "source_type": "oral_tradition",
+    "source_quality": "good",
+    "attested": true,
+    "keywords": [
+      "club",
+      "dokkaebi",
+      "goblin",
+      "wish",
+      "magic",
+      "korea"
+    ],
+    "search_terms": [
+      "bangmangi",
+      "dokkaebi club",
+      "magic club",
+      "wishing club",
+      "korean goblin"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "thuan-thien-sword-1224",
+    "slug": "thuan-thien-sword",
+    "name": "Thuan Thien Sword",
+    "aliases": [
+      "Heaven's Will Sword",
+      "Sword of Le Loi"
+    ],
+    "country": "Vietnam",
+    "region": "Southeast Asia",
+    "culture": "Vietnamese",
+    "type": "weapon",
+    "material": "Steel",
+    "era": "15th century",
+    "maker": "Kim Qui, the golden turtle (legendary)",
+    "powers": "Granted victory over the Ming invaders",
+    "associated_creature": "kim-qui-vietnamese",
+    "description": "The magic sword Thuan Thien ('Heaven's Will') given to the farmer-emperor Le Loi by the golden turtle god Kim Qui during his revolt against Ming rule. After his victory the turtle surfaced on Hoan Kiem Lake to reclaim the blade, giving the lake its name, the Lake of the Returned Sword.",
+    "related_creatures": [
+      "kim-qui-vietnamese"
+    ],
+    "featured_in_stories": [
+      "the-legend-of-hoan-kiem-lake-and-the-restored-sword"
+    ],
+    "source": "Hoan Kiem Lake legend cycle",
+    "source_type": "oral_tradition",
+    "source_quality": "good",
+    "attested": true,
+    "keywords": [
+      "sword",
+      "le loi",
+      "hoan kiem",
+      "kim qui",
+      "turtle",
+      "vietnam"
+    ],
+    "search_terms": [
+      "thuan thien",
+      "heavens will sword",
+      "le loi sword",
+      "hoan kiem lake",
+      "restored sword"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "betel-areca-tray-1225",
+    "slug": "betel-areca-tray",
+    "name": "Betel and Areca Tray",
+    "aliases": [
+      "Tray of Betel and Cau",
+      "Trau Cau Tray"
+    ],
+    "country": "Vietnam",
+    "region": "Southeast Asia",
+    "culture": "Vietnamese",
+    "type": "household object",
+    "material": "Brass or bamboo",
+    "era": "Folk era",
+    "maker": "Village craftsmen",
+    "powers": "Foundation of hospitality and marriage ritual",
+    "associated_creature": null,
+    "description": "The tray that carries betel leaves, areca nut, and lime, the foundation of Vietnamese hospitality and marriage custom. In the founding legend, twin brothers Cao and Lang died for love of the same woman and became the areca tree and betel vine; chewing the combination remains a rite of respect, greeting, and kinship.",
+    "related_creatures": [],
+    "featured_in_stories": [
+      "the-legend-of-the-betel-and-the-areca"
+    ],
+    "source": "Betel and areca legend; folk custom",
+    "source_type": "oral_tradition",
+    "source_quality": "good",
+    "attested": true,
+    "keywords": [
+      "betel",
+      "areca",
+      "tray",
+      "marriage",
+      "hospitality",
+      "vietnam"
+    ],
+    "search_terms": [
+      "betel and areca",
+      "trau cau",
+      "betel tray",
+      "areca nut",
+      "vietnamese betel"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "jade-emperors-gong-1226",
+    "slug": "jade-emperors-gong",
+    "name": "The Jade Emperor's Gong",
+    "aliases": [
+      "The Frog's Gong",
+      "Gong of Heaven"
+    ],
+    "country": "Vietnam",
+    "region": "Southeast Asia",
+    "culture": "Vietnamese",
+    "type": "musical instrument",
+    "material": "Bronze",
+    "era": "Folk era",
+    "maker": "Jade Emperor (legendary)",
+    "powers": "Summoned rain when struck by the frog",
+    "associated_creature": "jade-emperor",
+    "description": "In a Vietnamese folk tale, a frog led a deputation of animals to heaven to complain that rain never fell, then beat the Jade Emperor's own bronze gong until the god sent rain. The gong is a story element rather than a documented artifact, and the tale survives chiefly through oral retellings across the Red River delta.",
+    "related_creatures": [
+      "jade-emperor"
+    ],
+    "featured_in_stories": [],
+    "source": "Vietnamese oral folktale",
+    "source_type": "oral_tradition",
+    "source_quality": "fair",
+    "attested": false,
+    "keywords": [
+      "gong",
+      "frog",
+      "jade emperor",
+      "rain",
+      "vietnam",
+      "folktale"
+    ],
+    "search_terms": [
+      "jade emperor gong",
+      "frog gong",
+      "frog and the gong",
+      "vietnamese folktale rain"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "co-loa-crossbow-1227",
+    "slug": "co-loa-crossbow",
+    "name": "Co Loa Crossbow",
+    "aliases": [
+      "An Duong Vuong's Crossbow",
+      "Magic Crossbow of Au Lac"
+    ],
+    "country": "Vietnam",
+    "region": "Southeast Asia",
+    "culture": "Vietnamese",
+    "type": "weapon",
+    "material": "Wood and bone trigger",
+    "era": "3rd century BCE (legend)",
+    "maker": "Cao Lo (legendary)",
+    "powers": "Each shot could slay thousands",
+    "associated_creature": "kim-qui-vietnamese",
+    "description": "The magic crossbow of An Duong Vuong, its trigger made from the golden turtle-claw that Kim Qui gave the king at Co Loa. Each shot could kill thousands, but when the king's daughter My Chau revealed the secret to her husband Trong Thuy, the stolen trigger lost the citadel to the enemy.",
+    "related_creatures": [
+      "kim-qui-vietnamese"
+    ],
+    "featured_in_stories": [
+      "my-chau-and-trong-thuy-the-tragedy-of-co-loa-citadel"
+    ],
+    "source": "Co Loa citadel legend",
+    "source_type": "oral_tradition",
+    "source_quality": "good",
+    "attested": true,
+    "keywords": [
+      "crossbow",
+      "co loa",
+      "an duong vuong",
+      "kim qui",
+      "my chau",
+      "vietnam"
+    ],
+    "search_terms": [
+      "co loa crossbow",
+      "an duong vuong",
+      "magic crossbow",
+      "golden turtle claw",
+      "au lac"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "emerald-buddha-robes-1228",
+    "slug": "emerald-buddha-robes",
+    "name": "The Emerald Buddha's Robes",
+    "aliases": [
+      "Three Seasonal Robes",
+      "Royal Vestments of the Emerald Buddha"
+    ],
+    "country": "Thailand",
+    "region": "Thai",
+    "culture": "Thai",
+    "type": "garment",
+    "material": "Gold threaded with jewels",
+    "era": "Bangkok period",
+    "maker": "Royal court artisans",
+    "powers": "Palladium of the Thai kingdom",
+    "associated_creature": null,
+    "description": "The three robes of gold worn by the Emerald Buddha in the Wat Phra Kaew temple in Bangkok and changed at the turn of each season in a ceremony performed by the king. The jeweled garments, their alternation fixed by royal ritual, mark the image as the palladium of the Thai state and the axis of the kingdom's legitimacy.",
+    "related_creatures": [],
+    "featured_in_stories": [],
+    "source": "Wat Phra Kaew royal ritual",
+    "source_type": "secondary_scholarly",
+    "source_quality": "documented",
+    "attested": true,
+    "keywords": [
+      "robe",
+      "emerald buddha",
+      "wat phra kaew",
+      "thailand",
+      "royal ritual",
+      "gold"
+    ],
+    "search_terms": [
+      "emerald buddha robes",
+      "three seasonal robes",
+      "wat phra kaew",
+      "emerald buddha",
+      "royal vestments"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "nagas-jewel-1229",
+    "slug": "nagas-jewel",
+    "name": "The Naga's Jewel",
+    "aliases": [
+      "Naga Mani",
+      "Mekong Serpent's Gem"
+    ],
+    "country": "Thailand",
+    "region": "Thai",
+    "culture": "Thai",
+    "type": "jewelry",
+    "material": "Gem",
+    "era": "Folk era",
+    "maker": "Naga (legendary)",
+    "powers": "Grants wealth and kingship to its holder",
+    "associated_creature": "phaya-nak-thai",
+    "description": "The luminous gem that the naga, the great serpent of the Mekong, is said to guard in the watery underworld, granting wealth and kingship to whoever obtains it. Retold in Thai and Lao river lore, the jewel is also linked to the fireballs that rise from the river during the full moon festival of the eleventh lunar month.",
+    "related_creatures": [
+      "phaya-nak-thai"
+    ],
+    "featured_in_stories": [
+      "the-nga-fireballs-of-the-mekong"
+    ],
+    "source": "Mekong naga lore",
+    "source_type": "oral_tradition",
+    "source_quality": "good",
+    "attested": true,
+    "keywords": [
+      "naga",
+      "jewel",
+      "mekong",
+      "serpent",
+      "gem",
+      "thailand"
+    ],
+    "search_terms": [
+      "naga jewel",
+      "naga mani",
+      "mekong serpent gem",
+      "naga fireballs",
+      "serpent jewel"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "bayon-smile-1230",
+    "slug": "bayon-smile",
+    "name": "The Bayon Smile",
+    "aliases": [
+      "Face Towers of the Bayon",
+      "Many Faces of Angkor Thom"
+    ],
+    "country": "Cambodia",
+    "region": "Southeast Asia",
+    "culture": "Khmer",
+    "type": "other",
+    "material": "Sandstone",
+    "era": "12th century",
+    "maker": "Jayavarman VII's builders",
+    "powers": "The king's watchful presence over the kingdom",
+    "associated_creature": "bayon-face-spirit-cambodian",
+    "description": "The colossal stone face-towers of the Bayon temple at Angkor Thom, carved in the 12th century under Jayavarman VII with serene, downcast smiles. Khmer legend reads the many faces as the king's presence watching over the kingdom from every direction, and the towers remain the emblem of Angkor's guardian gaze.",
+    "related_creatures": [
+      "bayon-face-spirit-cambodian"
+    ],
+    "featured_in_stories": [
+      "the-legend-of-the-bayons-many-faces"
+    ],
+    "source": "Angkor epigraphy; Bayon legend cycle",
+    "source_type": "archaeological",
+    "source_quality": "academic",
+    "attested": true,
+    "keywords": [
+      "bayon",
+      "angkor",
+      "face towers",
+      "jayavarman vii",
+      "statue",
+      "cambodia"
+    ],
+    "search_terms": [
+      "bayon smile",
+      "bayon faces",
+      "angkor thom",
+      "face towers",
+      "jayavarman vii"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "four-white-umbrellas-1231",
+    "slug": "four-white-umbrellas",
+    "name": "The Four White Umbrellas",
+    "aliases": [
+      "Umbrellas of Kingship",
+      "White Umbrella Standards"
+    ],
+    "country": "Myanmar",
+    "region": "Southeast Asia",
+    "culture": "Burmese",
+    "type": "other",
+    "material": "Cloth over lacquered frames",
+    "era": "Kingdom period",
+    "maker": "Royal craftsmen",
+    "powers": "Emblems of the right to rule granted from above",
+    "associated_creature": "thagyamin-burmese",
+    "description": "The white-tiered umbrellas that the Burmese chronicles place among the regalia of the first kings, emblems of the right to rule granted from above. Their role in the creation tale of kingship binds earthly sovereignty to the nats, and umbrella standards still crown Burmese pagodas and throne halls as marks of sacred authority.",
+    "related_creatures": [
+      "thagyamin-burmese"
+    ],
+    "featured_in_stories": [
+      "the-four-white-umbrellas-the-burmese-creation-of-kingship"
+    ],
+    "source": "Glass Palace Chronicle; kingship tradition",
+    "source_type": "literary",
+    "source_quality": "documented",
+    "attested": true,
+    "keywords": [
+      "umbrella",
+      "kingship",
+      "myanmar",
+      "nat",
+      "regalia",
+      "white umbrella"
+    ],
+    "search_terms": [
+      "four white umbrellas",
+      "white umbrella myanmar",
+      "burmese kingship",
+      "umbrella standard"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "that-phanom-relic-1232",
+    "slug": "that-phanom-relic",
+    "name": "The Relic of That Phanom",
+    "aliases": [
+      "Buddha's Breastbone Relic",
+      "Stupa of That Phanom"
+    ],
+    "country": "Laos",
+    "region": "Southeast Asia",
+    "culture": "Lao",
+    "type": "ritual object",
+    "material": "Stupa housing a bone relic",
+    "era": "Folk era",
+    "maker": "Monks and local builders (legendary)",
+    "powers": "Focus of veneration; guardian presence of the Mekong",
+    "associated_creature": "ngueak-lao",
+    "description": "The relic of the Buddha's breastbone enshrined at That Phanom on the Mekong, the most revered stupa of Laos and northeastern Thailand. Lao legend holds that a naga king, Phanya Sithan, invited the monks and guarded the shrine site, binding the sacred chedi to the river's serpentine protectors.",
+    "related_creatures": [
+      "ngueak-lao"
+    ],
+    "featured_in_stories": [
+      "the-legend-of-that-phanom"
+    ],
+    "source": "That Phanom legend cycle",
+    "source_type": "oral_tradition",
+    "source_quality": "good",
+    "attested": true,
+    "keywords": [
+      "relic",
+      "stupa",
+      "that phanom",
+      "laos",
+      "naga",
+      "buddha"
+    ],
+    "search_terms": [
+      "that phanom",
+      "phanom relic",
+      "breastbone relic",
+      "phanya sithan",
+      "lao stupa"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "khaen-1233",
+    "slug": "khaen",
+    "name": "Khaen",
+    "aliases": [
+      "Lao Mouth Organ",
+      "Kaen"
+    ],
+    "country": "Laos",
+    "region": "Southeast Asia",
+    "culture": "Lao",
+    "type": "musical instrument",
+    "material": "Bamboo over a wooden wind-chest",
+    "era": "Folk era",
+    "maker": "Lao instrument makers",
+    "powers": "Voice of lam song and festival celebration",
+    "associated_creature": null,
+    "description": "The free-reed mouth organ of Laos built from rows of bamboo tubes bound around a wooden wind-chest, its drone-and-melody sound the soul of lam folk song. Played at festivals, rituals, and courtship, the khaen is credited by Lao tradition with shaping the speech and poetry of the people.",
+    "related_creatures": [],
+    "featured_in_stories": [],
+    "source": "Lao musical tradition",
+    "source_type": "secondary_scholarly",
+    "source_quality": "documented",
+    "attested": true,
+    "keywords": [
+      "khaen",
+      "mouth organ",
+      "laos",
+      "lam",
+      "music",
+      "bamboo"
+    ],
+    "search_terms": [
+      "khaen",
+      "kaen",
+      "lao mouth organ",
+      "lam music",
+      "bamboo organ"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "golden-whip-genghis-1234",
+    "slug": "golden-whip-genghis",
+    "name": "The Golden Whip of Genghis Khan",
+    "aliases": [
+      "Whip of Genghis Khan",
+      "Altan Tsagiur (legend)"
+    ],
+    "country": "Mongolia",
+    "region": "Mongolian",
+    "culture": "Mongolian",
+    "type": "other",
+    "material": "Gold over leather",
+    "era": "13th century (legend)",
+    "maker": "Unknown (legendary)",
+    "powers": "Said to rally and reward warriors of the khan",
+    "associated_creature": null,
+    "description": "The golden whip that legend says Genghis Khan carried, brandished to rally and reward his warriors, and in some tellings the source of his military genius. No such whip survives or is named in the Secret History; the story is a modern heroic retelling of the conqueror's rise rather than a documented relic.",
+    "related_creatures": [],
+    "featured_in_stories": [
+      "genghis-khan-and-the-golden-whip"
+    ],
+    "source": "Genghis Khan legend cycle",
+    "source_type": "oral_tradition",
+    "source_quality": "fair",
+    "attested": false,
+    "keywords": [
+      "whip",
+      "genghis khan",
+      "mongolia",
+      "legend",
+      "warrior"
+    ],
+    "search_terms": [
+      "golden whip",
+      "whip of genghis",
+      "altan",
+      "genghis khan whip"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "whistling-arrow-1235",
+    "slug": "whistling-arrow",
+    "name": "The Whistling Arrow",
+    "aliases": [
+      "Signal Arrow",
+      "Whistling Arrow of the Steppe"
+    ],
+    "country": "Mongolia",
+    "region": "Mongolian",
+    "culture": "Mongolian",
+    "type": "weapon",
+    "material": "Bone head over wooden shaft",
+    "era": "13th century",
+    "maker": "Mongol arrow smiths",
+    "powers": "Signal whistle that directed cavalry maneuvers",
+    "associated_creature": null,
+    "description": "The signal arrow of the Mongol armies, tipped with a drilled bone head that shrieked in flight, used by Genghis Khan's cavalry to direct charges and ambushes across the steppe. Described by Persian and Chinese chroniclers, the whistling arrow survives as a motif of the swift, coordinated warfare that built the empire.",
+    "related_creatures": [],
+    "featured_in_stories": [],
+    "source": "Persian and Chinese chronicles of the Mongol campaigns",
+    "source_type": "literary",
+    "source_quality": "documented",
+    "attested": true,
+    "keywords": [
+      "arrow",
+      "whistling",
+      "mongolia",
+      "genghis khan",
+      "signal",
+      "cavalry"
+    ],
+    "search_terms": [
+      "whistling arrow",
+      "signal arrow",
+      "mongol arrow",
+      "steppe arrow"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "morin-khuur-1236",
+    "slug": "morin-khuur",
+    "name": "Morin Khuur",
+    "aliases": [
+      "Horsehead Fiddle",
+      "Horse-Head Fiddle"
+    ],
+    "country": "Mongolia",
+    "region": "Mongolian",
+    "culture": "Mongolian",
+    "type": "musical instrument",
+    "material": "Wood with horsehair strings",
+    "era": "Folk era",
+    "maker": "Herdsman (legendary)",
+    "powers": "Voice of the horse and the steppe",
+    "associated_creature": null,
+    "description": "The two-stringed horse-head fiddle of Mongolia, its scroll carved as a horse's head and its strings and bow made of horsehair. Legend tells of a herdsman whose beloved horse was killed, and who made the fiddle from its remains to keep the horse's song alive; it is now an emblem of Mongolian national identity.",
+    "related_creatures": [],
+    "featured_in_stories": [
+      "the-origin-of-the-horsehead-fiddle-morin-khuur"
+    ],
+    "source": "Morin khuur origin legend",
+    "source_type": "oral_tradition",
+    "source_quality": "good",
+    "attested": true,
+    "keywords": [
+      "fiddle",
+      "horse",
+      "morin khuur",
+      "mongolia",
+      "music",
+      "herdsman"
+    ],
+    "search_terms": [
+      "morin khuur",
+      "horsehead fiddle",
+      "horse head fiddle",
+      "morin huur"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "tsagaan-tug-1237",
+    "slug": "tsagaan-tug",
+    "name": "Tsagaan Tug",
+    "aliases": [
+      "White Banner",
+      "White Standard of the Khans"
+    ],
+    "country": "Mongolia",
+    "region": "Mongolian",
+    "culture": "Mongolian",
+    "type": "ritual object",
+    "material": "Horsehair over a spear shaft",
+    "era": "13th century to present",
+    "maker": "Mongol standard bearers",
+    "powers": "Ensign of khanly authority and national unity",
+    "associated_creature": null,
+    "description": "The white standard (tsagaan tug) that Mongol tradition honors as the ensign of Genghis Khan's lineage, kept at the mausoleum complex in Ordos and paraded with the nine black banners at the Naadam festival. Its horsehair crown and spear shaft mark the enduring authority of the steppe khans.",
+    "related_creatures": [],
+    "featured_in_stories": [],
+    "source": "Mongol standard tradition; Naadam ceremony",
+    "source_type": "secondary_scholarly",
+    "source_quality": "documented",
+    "attested": true,
+    "keywords": [
+      "banner",
+      "white",
+      "genghis khan",
+      "mongolia",
+      "naadam",
+      "standard"
+    ],
+    "search_terms": [
+      "tsagaan tug",
+      "white banner",
+      "white standard",
+      "tug",
+      "sulde"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "phurba-1238",
+    "slug": "phurba",
+    "name": "Phurba",
+    "aliases": [
+      "Ritual Dagger",
+      "Kila"
+    ],
+    "country": "Tibet",
+    "region": "East Asia and Pacific",
+    "culture": "Tibetan",
+    "type": "ritual object",
+    "material": "Iron or wood",
+    "era": "Tantric period to present",
+    "maker": "Tibetan metalworkers",
+    "powers": "Pins down demons during exorcism rituals",
+    "associated_creature": null,
+    "description": "The three-sided ritual dagger of Tibetan Buddhism, its pommel carved with a wrathful deity's head and its blade meant to pin down demonic forces. Used by lamas in exorcism, the phurba transfixes evil at the axis between the worlds, and inscribed iron examples survive in temple collections.",
+    "related_creatures": [],
+    "featured_in_stories": [],
+    "source": "Tibetan tantric ritual tradition; temple collections",
+    "source_type": "archaeological",
+    "source_quality": "academic",
+    "attested": true,
+    "keywords": [
+      "dagger",
+      "phurba",
+      "tibet",
+      "ritual",
+      "exorcism",
+      "tantric"
+    ],
+    "search_terms": [
+      "phurba",
+      "kila",
+      "ritual dagger",
+      "tibetan dagger",
+      "exorcism dagger"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "prayer-wheel-1239",
+    "slug": "prayer-wheel",
+    "name": "Prayer Wheel",
+    "aliases": [
+      "Mani Wheel",
+      "Prayer Drum"
+    ],
+    "country": "Tibet",
+    "region": "East Asia and Pacific",
+    "culture": "Tibetan",
+    "type": "ritual object",
+    "material": "Metal and wood over a paper scroll",
+    "era": "Buddhist period to present",
+    "maker": "Temple craftsmen",
+    "powers": "Releases mantra prayers with each turn",
+    "associated_creature": null,
+    "description": "The cylindrical wheel, rolled or spun in the hand, that Tibetan Buddhist practice turns to release the mantras printed inside, each revolution sending the prayer for compassion into the world. Rows of wheels line temple and stupa walls, and the device descends from Indian and Tibetan ritual turning of sacred verses.",
+    "related_creatures": [],
+    "featured_in_stories": [],
+    "source": "Tibetan Buddhist ritual practice",
+    "source_type": "secondary_scholarly",
+    "source_quality": "documented",
+    "attested": true,
+    "keywords": [
+      "prayer",
+      "wheel",
+      "tibet",
+      "mantra",
+      "buddhist",
+      "stupa"
+    ],
+    "search_terms": [
+      "prayer wheel",
+      "mani wheel",
+      "prayer drum",
+      "tibetan prayer wheel"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "yeouiju-1240",
+    "slug": "yeouiju",
+    "name": "Yeouiju",
+    "aliases": [
+      "Wish-Fulfilling Jewel",
+      "Korean Cintamani"
+    ],
+    "country": "North Korea",
+    "region": "Korean",
+    "culture": "Korean",
+    "type": "jewelry",
+    "material": "Jewel",
+    "era": "Folk era",
+    "maker": "Heaven (legendary)",
+    "powers": "Grants wishes; lets the imugi become a dragon",
+    "associated_creature": "imugi",
+    "description": "The wish-granting jewel (yeouiju) of Korean lore, the prize that a serpent imugi must grasp to climb into dragonhood. Said to grant any wish to its holder, it appears in tales of serpents waiting years for the jewel to fall from the sky, as in the story of the imugi that lost it at the waterfall.",
+    "related_creatures": [
+      "imugi"
+    ],
+    "featured_in_stories": [
+      "the-imugi-who-lost-the-waterfall"
+    ],
+    "source": "Imugi and yeouiju folktale cycle",
+    "source_type": "oral_tradition",
+    "source_quality": "good",
+    "attested": true,
+    "keywords": [
+      "jewel",
+      "imugi",
+      "dragon",
+      "wish",
+      "yeouiju",
+      "korea"
+    ],
+    "search_terms": [
+      "yeouiju",
+      "wish jewel",
+      "imugi jewel",
+      "korean cintamani",
+      "wish granting jewel"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
   }
 ]
