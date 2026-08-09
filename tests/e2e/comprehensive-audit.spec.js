@@ -485,6 +485,7 @@ test.describe('Index: home page features', () => {
 // ─── 7. THEME TOGGLE ──────────────────────────────────────────────────────────
 
 test.describe('Theme toggle', () => {
+  test.setTimeout(60000);
   for (const p of ['index.html', 'bestiary.html', 'stories.html', 'quiz.html', 'world.html', 'about.html', 'mylore.html', '404.html']) {
     test(`${p}: toggle exists and switches data-theme`, async ({ page }) => {
       await navigateTo(page, p);

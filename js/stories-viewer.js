@@ -256,6 +256,8 @@ class StoriesViewer extends BaseViewer {
     if (loader) loader.classList.remove('is-hidden')
     if (content) content.classList.add('is-hidden')
     if (error) error.classList.add('is-hidden')
+    window.scrollTo(0, 0)
+    document.body.style.overflow = 'hidden'
 
     const renderStory = (story) => {
       if (loader) loader.classList.add('is-hidden')
@@ -553,6 +555,7 @@ class StoriesViewer extends BaseViewer {
     if (pageHero) pageHero.classList.remove('is-hidden')
     if (filterBar) filterBar.classList.remove('is-hidden')
     if (bestiaryLayout) bestiaryLayout.classList.remove('is-hidden')
+    document.body.style.overflow = ''
 
     if (this._keyHandler) {
       document.removeEventListener('keydown', this._keyHandler)

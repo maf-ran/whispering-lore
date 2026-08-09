@@ -229,7 +229,7 @@ class ItemsViewer extends BaseViewer {
     if (sortEl) sortEl.value = this.state.sortBy
   }
 
-  showDetail(slug) {
+  async showDetail(slug) {
     const detail = document.getElementById('item-detail')
     const pageHero = document.querySelector('.page-hero')
     const filterBar = document.querySelector('.filter-bar')
@@ -245,6 +245,8 @@ class ItemsViewer extends BaseViewer {
     if (loader) loader.classList.remove('is-hidden')
     if (content) content.classList.add('is-hidden')
     if (error) error.classList.add('is-hidden')
+    window.scrollTo(0, 0)
+    document.body.style.overflow = 'hidden'
 
     const renderItem = (item) => {
       if (loader) loader.classList.add('is-hidden')
@@ -474,6 +476,9 @@ class ItemsViewer extends BaseViewer {
     if (cached) {
       const found = cached.find((i) => i.slug === slug)
       if (found) {
+        if (window.__WL_PRELOAD) {
+          await window.__WL_PRELOAD.catch(() => {})
+        }
         renderItem(found)
         return
       }
@@ -491,6 +496,7 @@ class ItemsViewer extends BaseViewer {
     if (pageHero) pageHero.classList.remove('is-hidden')
     if (filterBar) filterBar.classList.remove('is-hidden')
     if (layout) layout.classList.remove('is-hidden')
+    document.body.style.overflow = ''
 
     if (this._keyHandler) {
       document.removeEventListener('keydown', this._keyHandler)

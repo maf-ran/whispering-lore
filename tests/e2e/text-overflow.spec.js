@@ -124,7 +124,7 @@ test.describe('Detail overlay text visibility', () => {
         // --- Checks ---
 
         // 1. Container has no horizontal scroll
-        const container = overlay.locator('.detail-container');
+        const container = overlay.locator('.cd-content');
         const noHScroll = await container.evaluate(el => el.scrollWidth <= el.clientWidth + 1);
         expect(noHScroll).toBeTruthy();
 
@@ -220,7 +220,7 @@ test.describe('Detail overlay text visibility', () => {
         await expect(overlay).not.toHaveClass(/is-hidden/, { timeout: 10000 });
         await page.waitForTimeout(800);
 
-        const container = overlay.locator('.detail-container');
+        const container = overlay.locator('.cd-content');
         expect(await container.evaluate(el => el.scrollWidth <= el.clientWidth + 1)).toBeTruthy();
 
         const sections = overlay.locator('.detail-section');

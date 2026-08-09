@@ -278,6 +278,7 @@ class CreaturesViewer extends BaseViewer {
     if (filterBar) filterBar.classList.add('is-hidden')
     if (bestiaryLayout) bestiaryLayout.classList.add('is-hidden')
     window.scrollTo(0, 0)
+    document.body.style.overflow = 'hidden'
 
     if (detail) detail.classList.remove('is-hidden')
     if (loader) loader.classList.remove('is-hidden')
@@ -547,6 +548,7 @@ class CreaturesViewer extends BaseViewer {
     if (pageHero) pageHero.classList.remove('is-hidden')
     if (filterBar) filterBar.classList.remove('is-hidden')
     if (bestiaryLayout) bestiaryLayout.classList.remove('is-hidden')
+    document.body.style.overflow = ''
 
     if (this._keyHandler) {
       document.removeEventListener('keydown', this._keyHandler)

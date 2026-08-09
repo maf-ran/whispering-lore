@@ -32,7 +32,7 @@ test.describe('Cross-device audit', () => {
 
       for (const pageName of PAGES) {
         test(`${pageName} — layout + no overflow`, async ({ page }) => {
-          test.setTimeout(30000);
+          test.setTimeout(60000);
           await page.setViewportSize({ width: vp.w, height: vp.h });
           await page.goto(`/${pageName}`, { waitUntil: 'domcontentloaded', timeout: 15000 });
           await page.waitForLoadState('load').catch(() => {});

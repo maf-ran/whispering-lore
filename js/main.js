@@ -259,22 +259,32 @@
     const btnStory = document.getElementById('btn-random-story')
     const btnSurprise = document.getElementById('btn-surprise-me')
 
-    function getRandomSlug(type) {
+    function pickRandomSlug(type, callback) {
       const sh = window.__sharedUtils && window.__sharedUtils.Shimmer
-      if (!sh) return null
-      const items = sh.getAllItems && sh.getAllItems(type)
-      if (items && items.length) {
-        return items[Math.floor(Math.random() * items.length)].slug
+      if (!sh) return callback(null)
+      function pick() {
+        const slugs = sh.manifest && sh.manifest[type] && sh.manifest[type].allSlugs
+        if (!slugs || !slugs.length) return callback(null)
+        callback(slugs[Math.floor(Math.random() * slugs.length)])
       }
-      return null
+      if (sh.manifest) {
+        pick()
+      } else {
+        sh.loadManifest(function () {
+          pick()
+        })
+      }
     }
 
     function navigateTo(type) {
-      const slug = getRandomSlug(type)
-      if (!slug) return
-      const page =
-        type === 'creatures' ? 'bestiary.html?creature=' : 'stories.html?story='
-      window.location.href = page + encodeURIComponent(slug)
+      pickRandomSlug(type, function (slug) {
+        if (!slug) return
+        const page =
+          type === 'creatures'
+            ? 'bestiary.html?creature='
+            : 'stories.html?story='
+        window.location.href = page + encodeURIComponent(slug)
+      })
     }
 
     if (btnCreature) {

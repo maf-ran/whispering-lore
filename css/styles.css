@@ -1392,13 +1392,16 @@ nav a.active::after {
 }
 
 /* ── Creature detail view (modal overlay) ── */
-.story-detail {
-  background: var(--bg-deep);
-  min-height: 100vh;
-  overflow-x: hidden;
-}
-
+.story-detail,
 .creature-detail {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 200;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
   background: var(--bg-deep);
   min-height: 100vh;
   overflow-x: hidden;
@@ -3109,6 +3112,12 @@ footer p {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   gap: 2rem;
+}
+
+@media (max-width: 768px) {
+  .region-list {
+    grid-template-columns: 1fr;
+  }
 }
 
 .region-card {
