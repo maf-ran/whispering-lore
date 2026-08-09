@@ -10,16 +10,7 @@
 - [x] T7 — e2e + final verification (`a84f307`; items.html in DATA_PAGES+navLabels, Artifacts layout block 5×5, new items-viewer.spec.js 6 functional tests incl. search/cross-refs/deep-link/stats — 18/18 stable ×3; jest 168/168, lint no new errors; full e2e 385/414 — 29 pre-existing failures in comprehensive-audit/cross-device/layout-integrity/text-overflow, all reproduced on pre-items tree 8dc2e88)
 
 ## Next Phase (Aug 8) — 4 workstreams approved
-- [•] G1 — Expand artifacts beyond Nordic: research + apply 2-4 batches (Celtic/Germanic, Greek/Roman, Egyptian/Levantine, East Asian) via `archive/scripts/research_items_phase1.py` + `guide.md` (ids 05xx+). Target: 0% Nordic-only gap; backrefs + shards rebuilt; jest 168+; e2e count updates.
-- [ ] G1‑B2 — Research Egyptian/Levantine batch 08xx (items, sources, back‑refs).
-- [ ] G1‑B2‑validate — Run `research_items_phase1.py validate batch-08xx-egyptian-levantine.json`.
-- [ ] G1‑B2‑apply — Apply batch, rebuild shards, bump SW cache to v1_0_11.
-- [ ] G1‑B3 — Research East Asian batch 09xx (items, sources, back‑refs).
-- [ ] G1‑B3‑validate — Run `research_items_phase1.py validate batch-09xx-east-asian.json`.
-- [ ] G1‑B3‑apply — Apply batch, rebuild shards, bump SW cache to v1_0_12.
-- [ ] G1‑B1 — Research Greek/Roman batch 07xx (items, sources, back‑refs).
-- [ ] G1‑B1‑validate — Run `research_items_phase1.py validate batch-07xx-greek-roman.json`.
-- [ ] G1‑B1‑apply — Apply batch, rebuild shards, bump SW cache to v1_0_10.
+- [x] G1 — Expand artifacts beyond Nordic: 3 research batches applied → **319 items** (Celtic/Germanic `10xx`, MENA `11xx`, East Asian `12xx`; commit `3928561`). Distribution: 82 Nordic, 41 Swedish, 38 Mediterranean, 25 Celtic, 19 Egyptian, 11 Danish, 11 Middle East, 10 Japanese, 9 Germanic, 9 Chinese, 8 Persian, 8 Southeast Asia, 7 Norse, 6 Sami, 5 Korean, 4 Mongolian, 3 Greek, 3 East Asia, 3 North Africa, 2 Balkan, 2 Europe, 2 Slavic, 2 MENA, 2 Thai, 2 East Asia and Pacific, 1 Northern Europe, 1 Scania, 1 Östergötland. Nordic share ~47% (153/319). Backrefs + shards rebuilt (3668 creatures / 2185 stories / 26 slugIndex), sw.js v1_0_14, #stat-artifacts →319 on index+about, jest 168/168, all 6 items-viewer e2e tests pass. Dedup: `balmung`→merged into `gram` (Balmung=Norse name), `wishing-table`→merged into `the-magic-table` (Tischlein deck dich). Full chromium run under extreme machine load: 382/414 (32 env failures — world.html globe + card-loading timeouts, reproduce identically on pre-change G2 baseline).
 - [x] G2 — Fix pre-existing e2e failures (reproduced on pre-items 8dc2e88). FULL CHROMIUM SUITE GREEN 414/414 (Aug 9). Fixes: world.html `.region-list` overflow (styles.css ~3116), fixed overlays + body scroll-lock in creatures/stories/items viewers (styles.css ~1394), story-detail timeouts (`.cd-content` selectors in text-overflow.spec.js), items-viewer race (showDetail awaits `__WL_PRELOAD` on cache hit), 3 brittle `1 of 1` asserts → `'1 of ' + ITEM_COUNT`, per-test timeouts 30s→60s (cross-device-audit + Theme toggle block in comprehensive-audit), sw.js v1_0_13. 19/19 previously-failing tests pass. Serve: `python3 -m http.server 3000 --directory .`.
 - [ ] G3 — Shard `items.json` (per-letter by-slug + manifest registration, matching creatures/stories architecture); update items-viewer loadData + SW cache + tests.
 - [ ] G4 — Publish Zenodo v1.1.0: include `data/items.json` + `docs/items-schema.md` in the archive bundle via `zenodo-publish.yml`; bump version/tag.
