@@ -20,7 +20,7 @@ describe('Items data integrity', () => {
 
   const SOURCE_TYPES = ['oral_tradition', 'literary', 'archaeological', 'secondary_scholarly'];
   const SOURCE_QUALITIES = ['academic', 'documented', 'expert', 'fair', 'good', 'poor', 'primary', 'researched', 'verified', 'well-documented'];
-  const ALLOWED_TYPES = ['weapon', 'jewelry', 'ship', 'garment', 'tool', 'household object', 'ritual object', 'rune stave', 'musical instrument', 'other'];
+  const ALLOWED_TYPES = ['weapon', 'jewelry', 'ship', 'garment', 'tool', 'household object', 'ritual object', 'rune stave', 'musical instrument', 'other', 'religious object', 'crown', 'cooking vessel', 'container'];
   const REQUIRED = ['id', 'slug', 'name', 'country', 'region', 'culture', 'type', 'description', 'source_type', 'source_quality', 'attested', 'version', 'lastUpdated'];
 
   it('items.json parses as a non-empty array', () => {

@@ -40,7 +40,7 @@ Reference for the Whispering Lore **items & artifacts** dataset. Mirrors the cre
 ## Taxonomies
 
 ### Type
-`weapon`, `jewelry`, `ship`, `garment`, `tool`, `household object`, `ritual object`, `rune stave`, `musical instrument`, `other`
+`weapon`, `jewelry`, `ship`, `garment`, `tool`, `household object`, `ritual object`, `rune stave`, `musical instrument`, `other`, `religious object`, `crown`, `cooking vessel`, `container`
 
 ### Source type
 `oral_tradition`, `literary`, `archaeological`, `secondary_scholarly`
