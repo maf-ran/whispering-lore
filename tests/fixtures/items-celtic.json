@@ -1,0 +1,30 @@
+[
+  {
+    "id": "item-celtic-1",
+    "slug": "aegis",
+    "name": "Aegis",
+    "region": "Celtic",
+    "country": "Ireland",
+    "type": "shield",
+    "description": "A protective aegis variant.",
+    "source_type": "literary",
+    "source_quality": "good",
+    "attested": true,
+    "version": "1.0",
+    "lastUpdated": "2026-08-01"
+  },
+  {
+    "id": "item-celtic-2",
+    "slug": "aegis-celtic",
+    "name": "Aegis",
+    "region": "Celtic",
+    "country": "Wales",
+    "type": "other",
+    "description": "A second Aegis from a different tradition.",
+    "source_type": "oral_tradition",
+    "source_quality": "fair",
+    "attested": null,
+    "version": "1.0",
+    "lastUpdated": "2026-08-01"
+  }
+]

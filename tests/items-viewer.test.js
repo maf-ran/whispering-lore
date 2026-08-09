@@ -18,22 +18,59 @@ window.requestAnimationFrame = function (cb) {
 }
 window.cancelAnimationFrame = function () {}
 
-if (typeof global.fetch === 'undefined') {
-  global.fetch = function (url) {
-    if (url === 'data/items.json') {
-      return Promise.resolve({
-        ok: true,
-        status: 200,
-        json: function () { return Promise.resolve(itemsFixture) },
-      })
-    }
-    return Promise.reject(new Error('fetch not mocked: ' + url))
-  }
-}
-
 const itemsFixture = JSON.parse(
   fs.readFileSync(path.join(__dirname, '..', 'data', 'items.json'), 'utf8')
 )
+const manifestFixture = (function () {
+  const regions = {}
+  const types = {}
+  const slugIndex = {}
+  const allSlugs = []
+  itemsFixture.forEach(function (item) {
+    if (item.region) regions[item.region] = (regions[item.region] || 0) + 1
+    if (item.type) {
+      const t = item.type.charAt(0).toUpperCase() + item.type.slice(1)
+      types[t] = (types[t] || 0) + 1
+    }
+    if (item.slug) {
+      allSlugs.push(item.slug)
+      const ch = item.slug.replace(/^(the|a|an)-/, '')[0] || '_'
+      if (!slugIndex[ch]) slugIndex[ch] = []
+      slugIndex[ch].push(item.slug)
+    }
+  })
+  allSlugs.sort()
+  return {
+    creatures: { total: 0, regions: {}, countries: {}, tribes: {}, types: {}, slugIndex: {}, allSlugs: [] },
+    stories: { total: 0, regions: {}, countries: {}, tribes: {}, types: {}, slugIndex: {}, allSlugs: [] },
+    items: {
+      total: itemsFixture.length,
+      regions: regions,
+      countries: {},
+      tribes: {},
+      types: types,
+      slugIndex: slugIndex,
+      allSlugs: allSlugs,
+    },
+  }
+})()
+const itemShards = {}
+itemsFixture.forEach(function (item) {
+  if (!item.region) return
+  const key = item.region.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '')
+  if (!itemShards[key]) itemShards[key] = []
+  itemShards[key].push(item)
+})
+global.fetch = function (url) {
+  if (url === 'data/sharded/manifest.json') {
+    return Promise.resolve({ ok: true, status: 200, json: function () { return Promise.resolve(manifestFixture) } })
+  }
+  const m = url.match(/^data\/sharded\/items\/by-region\/(.+?)\.json$/)
+  if (m && itemShards[m[1]]) {
+    return Promise.resolve({ ok: true, status: 200, json: function () { return Promise.resolve(itemShards[m[1]]) } })
+  }
+  return Promise.reject(new Error('fetch not mocked: ' + url))
+}
 
 require('../js/shared-utils.js')
 const { ItemsViewer } = require('../js/items-viewer.js')
@@ -42,6 +79,12 @@ describe('ItemsViewer structure', () => {
   let viewer
 
   beforeEach(() => {
+    const sh = window.__sharedUtils && window.__sharedUtils.Shimmer
+    if (sh) {
+      sh.manifest = null
+      sh.shards = {}
+      sh.slugBatches = {}
+    }
     document.body.innerHTML =
       '<div class="bestiary-layout">' +
       '  <p class="item-count" aria-live="polite">Loading artifacts...</p>' +

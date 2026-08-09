@@ -1,0 +1,819 @@
+[
+  {
+    "id": "ankh-0801",
+    "slug": "ankh",
+    "name": "Ankh",
+    "aliases": [
+      "Key of Life"
+    ],
+    "country": "Egypt",
+    "region": "Egyptian",
+    "culture": "Ancient Egyptian",
+    "type": "other",
+    "material": "Gold",
+    "era": "Pharaohic",
+    "maker": "Unknown",
+    "powers": "Symbol of life; grants vitality to the bearer.",
+    "associated_creature": null,
+    "description": "The ankh is a looped cross symbol widely used in ancient Egyptian art, representing the concept of eternal life. It appears in tomb paintings and temple reliefs held by deities and pharaohs alike, signifying their divine right to live forever.",
+    "related_creatures": [],
+    "featured_in_stories": [],
+    "source": "The Book of the Dead",
+    "source_type": "literary",
+    "source_quality": "primary",
+    "attested": true,
+    "keywords": [
+      "ankh",
+      "egypt",
+      "life symbol"
+    ],
+    "search_terms": [
+      "ankh",
+      "key of life",
+      "Egyptian symbol"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-08"
+  },
+  {
+    "id": "scarab-0802",
+    "slug": "scarab-amulet",
+    "name": "Scarab Amulet",
+    "aliases": [
+      "Dung Beetle Amulet"
+    ],
+    "country": "Egypt",
+    "region": "Egyptian",
+    "culture": "Ancient Egyptian",
+    "type": "other",
+    "material": "Faience",
+    "era": "Pharaohic",
+    "maker": "Artisans",
+    "powers": "Protection against evil; associated with rebirth.",
+    "associated_creature": null,
+    "description": "A scarab-shaped amulet crafted from glazed faience, representing the beetle god Khepri who rolls the sun across the sky. Such amulets were placed in burials to ensure safe passage and rebirth in the afterlife.",
+    "related_creatures": [],
+    "featured_in_stories": [],
+    "source": "Tomb of Tutankhamun",
+    "source_type": "archaeological",
+    "source_quality": "primary",
+    "attested": true,
+    "keywords": [
+      "scarab",
+      "amulet",
+      "Egyptian"
+    ],
+    "search_terms": [
+      "scarab amulet",
+      "khepri",
+      "rebirth"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-08"
+  },
+  {
+    "id": "scepter-ra-0803",
+    "slug": "scepter-of-ra",
+    "name": "Scepter of Ra",
+    "aliases": [
+      "Was Scepter"
+    ],
+    "country": "Egypt",
+    "region": "Egyptian",
+    "culture": "Ancient Egyptian",
+    "type": "other",
+    "material": "Wood and gold",
+    "era": "Pharaohic",
+    "maker": "Royal artisans",
+    "powers": "Authority of the sun god; used in prayers and royal ceremonies.",
+    "associated_creature": null,
+    "description": "The Was scepter, a long staff with a forked tip, was the emblem of power and dominion of the sun god Ra. It appears in temple reliefs and on royal crowns, symbolizing the pharaoh's role as the earthly representative of Ra.",
+    "related_creatures": [],
+    "featured_in_stories": [],
+    "source": "Egyptian Temple Reliefs",
+    "source_type": "archaeological",
+    "source_quality": "primary",
+    "attested": true,
+    "keywords": [
+      "scepter",
+      "Ra",
+      "Egypt"
+    ],
+    "search_terms": [
+      "scepter of Ra",
+      "Was scepter",
+      "Egyptian authority"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-08"
+  },
+  {
+    "id": "papyrus-of-ani-1101",
+    "slug": "papyrus-of-ani",
+    "name": "The Papyrus of Ani",
+    "aliases": [
+      "Book of the Dead of Ani",
+      "Ani's Book of the Dead"
+    ],
+    "country": "Egypt",
+    "region": "Egyptian",
+    "culture": "Ancient Egyptian",
+    "type": "ritual object",
+    "material": "Papyrus, pigment, ink",
+    "era": "New Kingdom (c. 1250 BCE)",
+    "maker": "Scribes of Thebes for the scribe Ani",
+    "powers": "Guides the deceased through the judgment of the afterlife.",
+    "associated_creature": null,
+    "description": "The finest surviving Book of the Dead manuscript, commissioned for the Theban scribe Ani around 1250 BCE. Its long roll of vignettes and hieroglyphic spells was meant to guide the dead through the afterlife, most famously the weighing of the heart against the feather of Ma'at in chapter 125, with Ani and his wife shown before the gods. It is the classic witness to Egyptian funerary literature.",
+    "related_creatures": [
+      "thoth",
+      "osiris",
+      "ammit-devourer",
+      "anubis"
+    ],
+    "featured_in_stories": [
+      "the-book-of-the-dead-the-weighing-of-the-heart"
+    ],
+    "source": "The Book of the Dead (Papyrus of Ani), British Museum EA 10470",
+    "source_type": "archaeological",
+    "source_quality": "well-documented",
+    "attested": true,
+    "keywords": [
+      "book of the dead",
+      "papyrus",
+      "ani",
+      "afterlife",
+      "thebes"
+    ],
+    "search_terms": [
+      "papyrus of ani",
+      "book of the dead",
+      "weighing of the heart",
+      "egyptian funerary text"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "eye-of-horus-1102",
+    "slug": "eye-of-horus",
+    "name": "Eye of Horus",
+    "aliases": [
+      "Wedjat",
+      "Udjat",
+      "Eye of Ra"
+    ],
+    "country": "Egypt",
+    "region": "Egyptian",
+    "culture": "Ancient Egyptian",
+    "type": "jewelry",
+    "material": "Gold, lapis lazuli, faience",
+    "era": "Old Kingdom onwards",
+    "maker": "Temple goldsmiths",
+    "powers": "Protects the wearer and restores wholeness; the healed eye of the falcon god.",
+    "associated_creature": null,
+    "description": "The wedjat, the eye that the god Thoth healed after Set tore it from Horus, worn as an amulet of protection, healing, and wholeness. Its hieroglyphic fractions were used for measuring grain volumes, and thousands of wedjat amulets in faience, gold, and stone survive in tombs from the Old Kingdom into the Graeco-Roman period, where the sign still guarded the living and the dead.",
+    "related_creatures": [
+      "horus-egyptian",
+      "thoth"
+    ],
+    "featured_in_stories": [
+      "the-eyes-of-horus",
+      "the-contendings-of-horus-and-set"
+    ],
+    "source": "Egyptian amulets and temple reliefs; Pyramid Texts",
+    "source_type": "archaeological",
+    "source_quality": "well-documented",
+    "attested": true,
+    "keywords": [
+      "eye of horus",
+      "wedjat",
+      "udjat",
+      "amulet",
+      "protection"
+    ],
+    "search_terms": [
+      "eye of horus",
+      "wedjat",
+      "udjat",
+      "eye of ra",
+      "horus eye amulet"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "scales-of-maat-1103",
+    "slug": "scales-of-maat",
+    "name": "The Scales of Ma'at",
+    "aliases": [
+      "Balance of the Judgment Hall",
+      "Weighing of the Heart"
+    ],
+    "country": "Egypt",
+    "region": "Egyptian",
+    "culture": "Ancient Egyptian",
+    "type": "ritual object",
+    "material": "Gold (mythic)",
+    "era": "Mythic age",
+    "maker": "Unnamed (divine instrument)",
+    "powers": "Weighs the heart of the dead against the feather of truth in the judgment hall.",
+    "associated_creature": null,
+    "description": "The great balance set up in the Hall of Two Truths, where the heart of the dead was weighed against the feather of Ma'at before Osiris, with Thoth recording the result. Chapter 125 of the Book of the Dead describes the rite, while the devourer Ammit waits to swallow any heart found heavier than the feather. The scene is among the most reproduced images of Egyptian religion.",
+    "related_creatures": [
+      "thoth",
+      "osiris",
+      "ammit-devourer",
+      "anubis"
+    ],
+    "featured_in_stories": [
+      "the-book-of-the-dead-the-weighing-of-the-heart"
+    ],
+    "source": "Book of the Dead, chapter 125",
+    "source_type": "literary",
+    "source_quality": "expert",
+    "attested": true,
+    "keywords": [
+      "scales",
+      "maat",
+      "judgment",
+      "heart",
+      "afterlife"
+    ],
+    "search_terms": [
+      "scales of maat",
+      "weighing of the heart",
+      "hall of two truths",
+      "book of the dead chapter 125"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "feather-of-maat-1104",
+    "slug": "feather-of-maat",
+    "name": "The Feather of Ma'at",
+    "aliases": [
+      "Feather of Truth",
+      "Shut Feather"
+    ],
+    "country": "Egypt",
+    "region": "Egyptian",
+    "culture": "Ancient Egyptian",
+    "type": "other",
+    "material": "Ostrich feather (mythic)",
+    "era": "Mythic age",
+    "maker": "Unnamed",
+    "powers": "The counterweight of truth against which the heart of the dead is weighed.",
+    "associated_creature": null,
+    "description": "The ostrich feather worn on the head of the goddess Ma'at, placed on the scales of judgment as the counterweight to the heart of the dead. A heart lighter than the feather passed on to the afterlife; a heavier one was devoured by Ammit. The feather, also worn by the god Shu in his role of lifting the sky, became the emblem of a life measured by truth.",
+    "related_creatures": [
+      "thoth",
+      "ammit-devourer"
+    ],
+    "featured_in_stories": [
+      "the-book-of-the-dead-the-weighing-of-the-heart"
+    ],
+    "source": "Book of the Dead, chapter 125",
+    "source_type": "literary",
+    "source_quality": "expert",
+    "attested": true,
+    "keywords": [
+      "feather",
+      "maat",
+      "truth",
+      "judgment",
+      "ostrich"
+    ],
+    "search_terms": [
+      "feather of maat",
+      "feather of truth",
+      "shut feather",
+      "weighing of the heart"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "golden-falcon-hierakonpolis-1105",
+    "slug": "golden-falcon-hierakonpolis",
+    "name": "The Golden Falcon of Hierakonpolis",
+    "aliases": [
+      "Hierakonpolis Falcon",
+      "Horus of Hierakonpolis"
+    ],
+    "country": "Egypt",
+    "region": "Egyptian",
+    "culture": "Ancient Egyptian",
+    "type": "ritual object",
+    "material": "Gold, obsidian",
+    "era": "Predynastic/Early Dynastic (c. 3100 BCE)",
+    "maker": "Unknown (temple workshop)",
+    "powers": "The earliest great image of the falcon god Horus.",
+    "associated_creature": null,
+    "description": "A gold head of the falcon god Horus found in the main deposit of the temple at Hierakonpolis, dated to about 3100 BCE, one of the oldest large cult images of a deity to survive from Egypt. With its obsidian eyes and worked gold feathers, it stood as the focus of worship at the site where the Narmer Palette was also found, marking the beginnings of pharaonic divine kingship.",
+    "related_creatures": [
+      "horus-egyptian"
+    ],
+    "featured_in_stories": [],
+    "source": "Archaeological find, Hierakonpolis temple deposit",
+    "source_type": "archaeological",
+    "source_quality": "well-documented",
+    "attested": true,
+    "keywords": [
+      "falcon",
+      "horus",
+      "hierakonpolis",
+      "gold",
+      "cult image"
+    ],
+    "search_terms": [
+      "golden falcon",
+      "hierakonpolis falcon",
+      "horus gold",
+      "golden falcon head"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "sistrum-1106",
+    "slug": "sistrum",
+    "name": "The Sistrum",
+    "aliases": [
+      "Sesheshet",
+      "Sistrum of Hathor"
+    ],
+    "country": "Egypt",
+    "region": "Egyptian",
+    "culture": "Ancient Egyptian",
+    "type": "musical instrument",
+    "material": "Bronze with gold plating",
+    "era": "Old Kingdom onwards",
+    "maker": "Temple metalworkers",
+    "powers": "Its rattling pleased the goddess and drove away hostile powers.",
+    "associated_creature": null,
+    "description": "A sacred rattle of looped bronze rods strung across a frame, shaken in the cult of Hathor and Isis to please the goddess and repel evil with its hissing sound. Priestesses, queens, and kings bore it in temple ritual, and great ceremonial versions stood as temple furniture. Its naos-shaped variant carried the cow-eared head of Hathor between its handles and remained in use into Graeco-Roman Egypt.",
+    "related_creatures": [
+      "hathor-egyptian",
+      "isis-egyptian"
+    ],
+    "featured_in_stories": [],
+    "source": "Temple reliefs and excavated instruments",
+    "source_type": "archaeological",
+    "source_quality": "well-documented",
+    "attested": true,
+    "keywords": [
+      "sistrum",
+      "rattle",
+      "hathor",
+      "isis",
+      "music"
+    ],
+    "search_terms": [
+      "sistrum",
+      "sesheshet",
+      "sistrum of hathor",
+      "egyptian sacred rattle"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "crook-and-flail-1107",
+    "slug": "crook-and-flail",
+    "name": "The Crook and Flail",
+    "aliases": [
+      "Heka and Nekhakha",
+      "Shepherd's Crook and Flail of Osiris"
+    ],
+    "country": "Egypt",
+    "region": "Egyptian",
+    "culture": "Ancient Egyptian",
+    "type": "ritual object",
+    "material": "Gold and blue faience (mythic and royal)",
+    "era": "Mythic age",
+    "maker": "Royal artisans",
+    "powers": "Signs of kingship and of Osiris's shepherd-care over the people.",
+    "associated_creature": null,
+    "description": "The crossed crook (heka) and flail (nekhakha) carried by Osiris as emblems of royal authority and of the shepherd's care for his flock, laid crossed over royal mummies. Temple reliefs show the living pharaoh handing the pair to the god of the dead and receiving it back, and gilt examples were buried with kings such as Tutankhamun. Together they fix the image of the enthroned Osiris.",
+    "related_creatures": [
+      "osiris"
+    ],
+    "featured_in_stories": [
+      "the-death-of-osiris",
+      "isis-and-osiris",
+      "osiris-story"
+    ],
+    "source": "Royal tombs and temple reliefs",
+    "source_type": "archaeological",
+    "source_quality": "well-documented",
+    "attested": true,
+    "keywords": [
+      "crook",
+      "flail",
+      "osiris",
+      "heka",
+      "kingship"
+    ],
+    "search_terms": [
+      "crook and flail",
+      "heka nekhakha",
+      "osiris crook",
+      "pharaoh crook flail"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "solar-barque-of-ra-1108",
+    "slug": "solar-barque-of-ra",
+    "name": "The Solar Barque of Ra",
+    "aliases": [
+      "Mandjet and Mesektet",
+      "Day Boat and Night Boat"
+    ],
+    "country": "Egypt",
+    "region": "Egyptian",
+    "culture": "Ancient Egyptian",
+    "type": "ship",
+    "material": "Acacia wood, gold (mythic)",
+    "era": "Mythic age",
+    "maker": "Unnamed",
+    "powers": "Carries the sun across the sky by day and through the underworld by night.",
+    "associated_creature": null,
+    "description": "The two celestial boats in which the sun god Ra sails: the day barque Mandjet crossing the sky and the night barque Mesektet crossing the Duat, where the crew repels the serpent Apep with spears. The nightly battle myth inspired real solar barques buried beside temples and pyramids, including the Khufu boat, so that the king might make the same journey after death.",
+    "related_creatures": [
+      "ra-egyptian",
+      "apep"
+    ],
+    "featured_in_stories": [
+      "ra-and-the-secret-name",
+      "ra-and-the-hidden-name",
+      "ra-and-the-snake",
+      "the-cat-ra"
+    ],
+    "source": "Pyramid Texts and solar barque burials",
+    "source_type": "literary",
+    "source_quality": "expert",
+    "attested": true,
+    "keywords": [
+      "solar barque",
+      "ra",
+      "sun boat",
+      "mandjet",
+      "mesektet"
+    ],
+    "search_terms": [
+      "solar barque",
+      "barque of ra",
+      "mandjet mesektet",
+      "sun boat egypt",
+      "khufu boat"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "ushabti-figurines-1109",
+    "slug": "ushabti-figurines",
+    "name": "Ushabti Figurines",
+    "aliases": [
+      "Shabti",
+      "Shawabti",
+      "Answerer"
+    ],
+    "country": "Egypt",
+    "region": "Egyptian",
+    "culture": "Ancient Egyptian",
+    "type": "ritual object",
+    "material": "Faience, wood, stone, clay",
+    "era": "Middle Kingdom to Ptolemaic period",
+    "maker": "Tomb workshops",
+    "powers": "Answer the summons to labor in the afterlife in place of the deceased.",
+    "associated_creature": null,
+    "description": "Small mummiform figurines placed in Egyptian tombs to perform field labor for the dead in the afterlife, inscribed with spell 6 of the Book of the Dead, in which the figure answers 'here I am' when summoned to work. A single burial could hold several hundred, from a modest clay set to the 413 ushabtis of Tutankhamun. The name derives from the Egyptian word for 'answerer.'",
+    "related_creatures": [
+      "osiris",
+      "anubis"
+    ],
+    "featured_in_stories": [],
+    "source": "Book of the Dead, spell 6; tomb assemblages",
+    "source_type": "archaeological",
+    "source_quality": "well-documented",
+    "attested": true,
+    "keywords": [
+      "ushabti",
+      "shabti",
+      "funerary figurine",
+      "afterlife"
+    ],
+    "search_terms": [
+      "ushabti",
+      "shabti",
+      "shawabti",
+      "answerer figurine",
+      "book of the dead spell 6"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "djed-pillar-1110",
+    "slug": "djed-pillar",
+    "name": "The Djed Pillar",
+    "aliases": [
+      "Djed Pillar of Osiris",
+      "Pillar of Stability"
+    ],
+    "country": "Egypt",
+    "region": "Egyptian",
+    "culture": "Ancient Egyptian",
+    "type": "ritual object",
+    "material": "Wood, faience, gold leaf",
+    "era": "Mythic and dynastic",
+    "maker": "Unnamed",
+    "powers": "Symbol of stability and of the backbone of Osiris.",
+    "associated_creature": null,
+    "description": "The columnar sign shaped like a stylized tree trunk or spinal column, symbol of stability and of Osiris, whose backbone it was said to be. Set up as a temple emblem and raised by the king in the sed festival to renew his reign, it was also worn as an amulet; in the myth Isis and Nephthys restore the god beside it. Countless faience djed amulets survive from graves.",
+    "related_creatures": [
+      "osiris",
+      "set-egyptian",
+      "isis-egyptian",
+      "nephthys-egyptian"
+    ],
+    "featured_in_stories": [
+      "isis-and-osiris"
+    ],
+    "source": "Pyramid Texts; amulet deposits",
+    "source_type": "archaeological",
+    "source_quality": "well-documented",
+    "attested": true,
+    "keywords": [
+      "djed",
+      "pillar",
+      "osiris",
+      "stability",
+      "amulet"
+    ],
+    "search_terms": [
+      "djed pillar",
+      "djed amulet",
+      "pillar of stability",
+      "backbone of osiris"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "knot-of-isis-1111",
+    "slug": "knot-of-isis",
+    "name": "The Knot of Isis",
+    "aliases": [
+      "Tjet",
+      "Tyet",
+      "Girdle of Isis"
+    ],
+    "country": "Egypt",
+    "region": "Egyptian",
+    "culture": "Ancient Egyptian",
+    "type": "jewelry",
+    "material": "Red jasper, carnelian, faience",
+    "era": "New Kingdom onwards",
+    "maker": "Amulet makers",
+    "powers": "Guards the wearer through the power of Isis.",
+    "associated_creature": null,
+    "description": "The looped red tjet amulet, the 'girdle of Isis,' worn by the living and the dead for the goddess's protection. Spell 156 of the Book of the Dead directs that it be made of red jasper and placed on the neck of the deceased so that Isis's might guards the throat. Red carnelian and faience tjets are common in New Kingdom burials, where they sit with the djed and ankh in protective groupings.",
+    "related_creatures": [
+      "isis-egyptian"
+    ],
+    "featured_in_stories": [
+      "isis-and-osiris"
+    ],
+    "source": "Book of the Dead, spell 156; amulet deposits",
+    "source_type": "archaeological",
+    "source_quality": "well-documented",
+    "attested": true,
+    "keywords": [
+      "knot of isis",
+      "tjet",
+      "girdle",
+      "amulet",
+      "red jasper"
+    ],
+    "search_terms": [
+      "knot of isis",
+      "tjet",
+      "tyet",
+      "girdle of isis",
+      "book of the dead spell 156"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "uraeus-1112",
+    "slug": "uraeus",
+    "name": "The Uraeus",
+    "aliases": [
+      "Royal Cobra",
+      "Sacred Cobra of the Pharaoh"
+    ],
+    "country": "Egypt",
+    "region": "Egyptian",
+    "culture": "Ancient Egyptian",
+    "type": "jewelry",
+    "material": "Gold, lapis lazuli, glazed ware",
+    "era": "Old Kingdom onwards",
+    "maker": "Royal goldsmiths",
+    "powers": "Spits fire against the king's enemies; guards the brow as the eye of Ra.",
+    "associated_creature": null,
+    "description": "The rearing cobra worn on the brow of the pharaoh and of deities such as Ra, embodying the goddess Wadjet, protector of Lower Egypt. The uraeus spat fire at the king's foes and stood for the blazing eye that defended the sun god, and it was worn by kings and gods alike. Golden examples survive on royal diadems, most famously the cobra and vulture of Tutankhamun's gold mask.",
+    "related_creatures": [
+      "ra-egyptian"
+    ],
+    "featured_in_stories": [],
+    "source": "Royal regalia and tomb finds",
+    "source_type": "archaeological",
+    "source_quality": "well-documented",
+    "attested": true,
+    "keywords": [
+      "uraeus",
+      "cobra",
+      "pharaoh",
+      "wadjet",
+      "crown"
+    ],
+    "search_terms": [
+      "uraeus",
+      "royal cobra",
+      "sacred cobra",
+      "wadjet cobra",
+      "pharaoh brow"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "senet-board-1113",
+    "slug": "senet-board",
+    "name": "The Senet Board",
+    "aliases": [
+      "Senet",
+      "Game of Passing"
+    ],
+    "country": "Egypt",
+    "region": "Egyptian",
+    "culture": "Ancient Egyptian",
+    "type": "tool",
+    "material": "Wood, faience, ivory",
+    "era": "Predynastic to Ptolemaic period",
+    "maker": "Board-game craftsmen",
+    "powers": "Its play mirrored the soul's passage through the hazards of the afterlife.",
+    "associated_creature": null,
+    "description": "The Egyptian board game of thirty squares in three rows, played with counters and knucklebones, the most common game board found in Egypt. The crossing of its hazardous squares mirrored the soul's journey through the afterlife, and the Book of the Dead shows the deceased playing senet against an invisible opponent to win passage. Complete boards, including Tutankhamun's, survive from royal tombs.",
+    "related_creatures": [],
+    "featured_in_stories": [],
+    "source": "Excavated boards; Book of the Dead vignettes",
+    "source_type": "archaeological",
+    "source_quality": "well-documented",
+    "attested": true,
+    "keywords": [
+      "senet",
+      "board game",
+      "tutankhamun",
+      "afterlife"
+    ],
+    "search_terms": [
+      "senet",
+      "senet board",
+      "game of passing",
+      "egyptian board game"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "palette-of-narmer-1114",
+    "slug": "palette-of-narmer",
+    "name": "The Palette of Narmer",
+    "aliases": [
+      "Narmer Palette",
+      "Great Hierakonpolis Palette"
+    ],
+    "country": "Egypt",
+    "region": "Egyptian",
+    "culture": "Ancient Egyptian",
+    "type": "ritual object",
+    "material": "Siltstone (schist)",
+    "era": "c. 3100 BCE",
+    "maker": "Unnamed (royal workshop)",
+    "powers": "Ceremonial record of the king's victory and of the unification of the Two Lands.",
+    "associated_creature": null,
+    "description": "A ceremonial siltstone palette from Hierakonpolis carved around 3100 BCE, showing King Narmer smiting an enemy and reviewing decapitated captives, long read as an early record of the unification of Upper and Lower Egypt. The falcon-god Horus perched above a bound foe and the king wielding a mace set the visual language of pharaonic royal power for three thousand years.",
+    "related_creatures": [
+      "horus-egyptian"
+    ],
+    "featured_in_stories": [],
+    "source": "Archaeological find, Hierakonpolis main deposit",
+    "source_type": "archaeological",
+    "source_quality": "well-documented",
+    "attested": true,
+    "keywords": [
+      "narmer",
+      "palette",
+      "hierakonpolis",
+      "unification",
+      "egypt"
+    ],
+    "search_terms": [
+      "palette of narmer",
+      "narmer palette",
+      "hierakonpolis palette",
+      "unification of egypt"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "war-shield-of-neith-1115",
+    "slug": "war-shield-of-neith",
+    "name": "The War Shield of Neith",
+    "aliases": [
+      "Shield of Neith",
+      "Neith's Emblem"
+    ],
+    "country": "Egypt",
+    "region": "Egyptian",
+    "culture": "Ancient Egyptian",
+    "type": "weapon",
+    "material": "Shield with crossed arrows (emblem)",
+    "era": "Predynastic onwards",
+    "maker": "Unnamed",
+    "powers": "Emblem of the goddess of war and of weaving.",
+    "associated_creature": null,
+    "description": "The emblem of the goddess Neith of Sais: a shield across which two crossed arrows are set, combining her natures as a war goddess and a weaver. The symbol is attested as her sign from early Egyptian writing, painted on her temple walls and on votive objects, and the classical authors Plutarch and Herodotus described it. It is one of the oldest goddess emblems of Egypt.",
+    "related_creatures": [],
+    "featured_in_stories": [],
+    "source": "Neith emblem on early votives; Plutarch, De Iside",
+    "source_type": "archaeological",
+    "source_quality": "documented",
+    "attested": true,
+    "keywords": [
+      "neith",
+      "shield",
+      "arrows",
+      "sais",
+      "war goddess"
+    ],
+    "search_terms": [
+      "shield of neith",
+      "neith emblem",
+      "crossed arrows",
+      "neith saïs",
+      "goddess of saïs"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  },
+  {
+    "id": "wesekh-collar-1116",
+    "slug": "wesekh-collar",
+    "name": "The Wesekh Collar",
+    "aliases": [
+      "Broad Collar",
+      "Wide Collar of Gold"
+    ],
+    "country": "Egypt",
+    "region": "Egyptian",
+    "culture": "Ancient Egyptian",
+    "type": "jewelry",
+    "material": "Gold, faience beads, semiprecious stones",
+    "era": "Middle Kingdom to Ptolemaic period",
+    "maker": "Jewelers and bead makers",
+    "powers": "Bestowed solar protection and divine favor on its wearer.",
+    "associated_creature": null,
+    "description": "The broad beaded collar worn across the chest by pharaohs, queens, and gods, built of rows of faience and semiprecious beads capped by golden falcon-headed terminals. Such collars were given as royal gifts and buried with the dead, who are shown receiving them from deities; Tutankhamun's burial yielded dozens in gold, glass, and stone. The wesekh lent its wearer solar protection and divine favor.",
+    "related_creatures": [],
+    "featured_in_stories": [],
+    "source": "Royal tombs and temple reliefs",
+    "source_type": "archaeological",
+    "source_quality": "well-documented",
+    "attested": true,
+    "keywords": [
+      "wesekh",
+      "broad collar",
+      "jewelry",
+      "tutankhamun",
+      "beads"
+    ],
+    "search_terms": [
+      "wesekh",
+      "broad collar",
+      "wide collar",
+      "egyptian beaded collar"
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-08-09"
+  }
+]

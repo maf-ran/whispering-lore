@@ -37,6 +37,11 @@ var regionStories = {
   'east-asian': JSON.parse(fs.readFileSync(path.join(FIX, 'stories-east-asian.json'), 'utf8'))
 };
 
+var regionItems = {
+  nordic: JSON.parse(fs.readFileSync(path.join(FIX, 'items-nordic.json'), 'utf8')),
+  celtic: JSON.parse(fs.readFileSync(path.join(FIX, 'items-celtic.json'), 'utf8'))
+};
+
 var slugData = {
   'creatures/t': JSON.parse(fs.readFileSync(path.join(FIX, 'creatures-nordic.json'), 'utf8')),
   'creatures/d': JSON.parse(fs.readFileSync(path.join(FIX, 'creatures-nordic.json'), 'utf8')).filter(function (c) { return c.slug === 'draugr'; }),
@@ -46,7 +51,10 @@ var slugData = {
   'stories/k': JSON.parse(fs.readFileSync(path.join(FIX, 'stories-batch-k.json'), 'utf8')),
   'stories/s': JSON.parse(fs.readFileSync(path.join(FIX, 'stories-batch-s.json'), 'utf8')),
   'stories/t': JSON.parse(fs.readFileSync(path.join(FIX, 'stories-batch-t.json'), 'utf8')),
-  'stories/g': JSON.parse(fs.readFileSync(path.join(FIX, 'stories-batch-g.json'), 'utf8'))
+  'stories/g': JSON.parse(fs.readFileSync(path.join(FIX, 'stories-batch-g.json'), 'utf8')),
+  'items/m': JSON.parse(fs.readFileSync(path.join(FIX, 'items-nordic.json'), 'utf8')).filter(function (i) { return i.slug === 'mjolnir'; }),
+  'items/d': JSON.parse(fs.readFileSync(path.join(FIX, 'items-nordic.json'), 'utf8')).filter(function (i) { return i.slug === 'dromund'; }),
+  'items/a': JSON.parse(fs.readFileSync(path.join(FIX, 'items-celtic.json'), 'utf8'))
 };
 
 // ── URL → data map ──
@@ -57,6 +65,9 @@ Object.keys(regionData).forEach(function (r) {
 });
 Object.keys(regionStories).forEach(function (r) {
   fixtureMap['data/sharded/stories/by-region/' + r + '.json'] = regionStories[r];
+});
+Object.keys(regionItems).forEach(function (r) {
+  fixtureMap['data/sharded/items/by-region/' + r + '.json'] = regionItems[r];
 });
 Object.keys(slugData).forEach(function (key) {
   var parts = key.split('/');
@@ -426,6 +437,19 @@ describe('Shimmer.loadAllShards', function () {
       done();
     });
   });
+
+  it('loads all items region shards and returns their union', function (done) {
+    Shimmer.loadAllShards('items', function (err, items) {
+      expect(err).toBeNull();
+      expect(items.length).toBe(4);
+      var slugs = items.map(function (i) { return i.slug; });
+      expect(slugs).toContain('mjolnir');
+      expect(slugs).toContain('dromund');
+      expect(slugs).toContain('aegis');
+      expect(slugs).toContain('aegis-celtic');
+      done();
+    });
+  });
 });
 
 // ─────────────────────────────────────────────────────────────────────
@@ -457,6 +481,15 @@ describe('Shimmer.getTotals', function () {
     expect(totals.regions).toEqual({});
     expect(totals.countries).toEqual({});
     expect(totals.tribes).toEqual({});
+  });
+
+  it('returns items totals after manifest is loaded', async function () {
+    await Shimmer.loadManifest();
+    var totals = Shimmer.getTotals('items');
+    expect(totals).toBeTruthy();
+    expect(totals.total).toBe(4);
+    expect(totals.regions).toHaveProperty('Nordic');
+    expect(totals.countries).toHaveProperty('Wales');
   });
 });
 
@@ -510,6 +543,28 @@ describe('Shimmer.getAllItems', function () {
     var items = Shimmer.getAllItems('creatures');
     expect(items).toHaveLength(1);
     expect(items[0].name).toBe('Solo');
+  });
+
+  it('deduplicates by slug, preserving same-name entries with distinct slugs', function () {
+    Shimmer.shards.items = {
+      'Mediterranean': [{ slug: 'aegis', name: 'Aegis', region: 'Mediterranean' }],
+      'Greek': [{ slug: 'aegis-greek', name: 'Aegis', region: 'Greek' }]
+    };
+    var items = Shimmer.getAllItems('items');
+    expect(items).toHaveLength(2);
+    var slugs = items.map(function (i) { return i.slug; });
+    expect(slugs).toContain('aegis');
+    expect(slugs).toContain('aegis-greek');
+  });
+
+  it('deduplicates by slug, removing true duplicates across region shards', function () {
+    Shimmer.shards.items = {
+      'Nordic': [{ slug: 'mjolnir', name: 'Mjölnir', region: 'Nordic' }],
+      'Norse': [{ slug: 'mjolnir', name: 'Mjölnir', region: 'Norse' }]
+    };
+    var items = Shimmer.getAllItems('items');
+    expect(items).toHaveLength(1);
+    expect(items[0].slug).toBe('mjolnir');
   });
 });
 

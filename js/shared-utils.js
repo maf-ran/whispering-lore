@@ -112,6 +112,10 @@
 
     // Open IndexedDB
     _openDB: function (callback) {
+      if (typeof indexedDB === 'undefined') {
+        callback(new Error('IDB unavailable'))
+        return
+      }
       if (this._dbReady) {
         callback(null, this._db)
         return
@@ -523,11 +527,10 @@
       const shards = this.shards[type] || {}
       for (const region in shards) result = result.concat(shards[region])
       if (result.length <= 1) return result
-      const nameField = type === 'stories' ? 'title' : 'name'
       const seen = {},
         deduped = []
       result.forEach(function (item) {
-        const key = item[nameField]
+        const key = item.slug
         if (!seen[key]) {
           seen[key] = true
           deduped.push(item)

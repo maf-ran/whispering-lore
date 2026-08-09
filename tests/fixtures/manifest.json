@@ -13,5 +13,13 @@
     "countries": { "Norway": 1, "Ireland": 2, "Japan": 1, "Sweden": 1 },
     "slugIndex": { "t": ["three-trolls"], "s": ["selkie-song"], "k": ["kappa-trick"], "d": ["draugr-quest"] },
     "allSlugs": ["draugr-quest", "kappa-trick", "selkie-song", "three-trolls"]
+  },
+  "items": {
+    "total": 4,
+    "regions": { "Nordic": 2, "Celtic": 2 },
+    "countries": { "Iceland": 1, "Norway": 1, "Ireland": 1, "Wales": 1 },
+    "types": { "Weapon": 2, "Shield": 1, "Other": 1 },
+    "slugIndex": { "m": ["mjolnir"], "d": ["dromund"], "a": ["aegis", "aegis-celtic"] },
+    "allSlugs": ["aegis", "aegis-celtic", "dromund", "mjolnir"]
   }
 }

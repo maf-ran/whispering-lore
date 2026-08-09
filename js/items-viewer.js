@@ -13,10 +13,19 @@ class ItemsViewer extends BaseViewer {
   }
 
   async loadData() {
-    const res = await fetch('data/items.json')
-    const data = await res.json()
-    this.cache = data
-    window.__ITEMS = data
+    const sh = window.__sharedUtils && window.__sharedUtils.Shimmer
+    if (!sh) return
+
+    await sh.loadManifest()
+
+    // Use Promise.race to ensure we don't hang forever
+    await Promise.race([
+      new Promise((resolve) => sh.loadAllShards('items', resolve)),
+      new Promise((resolve) => setTimeout(resolve, 5000)),
+    ])
+
+    this.cache = sh.getAllItems('items')
+    window.__ITEMS = this.cache
   }
 
   cardRenderer(item, index) {

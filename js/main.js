@@ -13,8 +13,9 @@
 
       const cStats = sh.getTotals('creatures')
       const sStats = sh.getTotals('stories')
+      const iStats = sh.getTotals('items')
 
-      if (!cStats || !sStats) return
+      if (!cStats || !sStats || !iStats) return
 
       const creatureCount = cStats.total
       const storyCount = sStats.total
@@ -36,16 +37,7 @@
       if (elRegions) elRegions.textContent = formatNum(regions)
 
       const elArtifacts = document.getElementById('stat-artifacts')
-      if (elArtifacts && typeof fetch === 'function') {
-        fetch('data/items.json')
-          .then((r) => (r.ok ? r.json() : null))
-          .then((items) => {
-            if (items && Array.isArray(items) && items.length > 0) {
-              elArtifacts.textContent = formatNum(items.length)
-            }
-          })
-          .catch(function () {})
-      }
+      if (elArtifacts) elArtifacts.textContent = formatNum(iStats.total)
     } catch (e) {
       console.error('Failed to update global stats:', e)
     }

@@ -1,4 +1,4 @@
-const CACHE_NAME = "whisperinglore-v1_0_14"
+const CACHE_NAME = "whisperinglore-v1_0_15"
 
 const CORE_ASSETS = [
   '/',
@@ -29,7 +29,6 @@ const CORE_ASSETS = [
     '/js/globe.js',
     '/js/citations.js',
     '/data/sharded/manifest.json',
-    '/data/items.json',
     '/og-image.svg',
     '/favicon.svg',
     '/images/placeholder-creature.svg',

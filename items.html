@@ -305,15 +305,18 @@
   <script src="js/main.js"></script>
   <script>
     // Preload only the creatures and stories referenced by artifacts for
-    // cross-referencing in the artifact detail view. Data-driven from
-    // items.json: collects related creature/story slugs, groups by first
-    // letter, and loads only the needed by-slug shards.
+    // cross-referencing in the artifact detail view. Data-driven via Shimmer
+    // manifest: loads the item region shards, collects related creature/story
+    // slugs, groups by first letter, and loads only the needed by-slug shards.
     (function() {
+      var sh = window.__sharedUtils && window.__sharedUtils.Shimmer
       function loadBatch(type, letter) {
-        return fetch('data/sharded/' + type + '/by-slug/' + letter + '.json')
-          .then(function(r) { return r.json() })
-          .then(function(data) { return Array.isArray(data) ? data : data.items || [] })
-          .catch(function() { return [] })
+        if (!sh) return Promise.resolve([])
+        return new Promise(function(resolve) {
+          sh.loadSlugBatch(type, letter, function(err, data) {
+            resolve(err || !data ? [] : data)
+          })
+        })
       }
       function loadRefs(type, slugs) {
         var letters = {}
@@ -329,25 +332,30 @@
           return batches.reduce(function(acc, arr) { return acc.concat(arr) }, [])
         })
       }
-      window.__WL_PRELOAD = fetch('data/items.json')
-        .then(function(r) { return r.json() })
-        .then(function(items) {
-          var creatureSlugs = []
-          var storySlugs = []
-          items.forEach(function(item) {
-            if (item.related_creatures) creatureSlugs = creatureSlugs.concat(item.related_creatures)
-            if (item.featured_in_stories) storySlugs = storySlugs.concat(item.featured_in_stories)
+      window.__WL_PRELOAD = new Promise(function(resolve) {
+        if (!sh) { resolve(); return }
+        sh.loadManifest()
+          .then(function() {
+            sh.loadAllShards('items', function(err, items) {
+              if (err || !items) { resolve(); return }
+              var creatureSlugs = []
+              var storySlugs = []
+              items.forEach(function(item) {
+                if (item.related_creatures) creatureSlugs = creatureSlugs.concat(item.related_creatures)
+                if (item.featured_in_stories) storySlugs = storySlugs.concat(item.featured_in_stories)
+              })
+              Promise.all([
+                loadRefs('creatures', creatureSlugs),
+                loadRefs('stories', storySlugs),
+              ]).then(function(results) {
+                window.__FULL_CREATURES = results[0]
+                window.__FULL_STORIES = results[1]
+                resolve()
+              })
+            })
           })
-          return Promise.all([
-            loadRefs('creatures', creatureSlugs),
-            loadRefs('stories', storySlugs),
-          ])
-        })
-        .then(function(results) {
-          window.__FULL_CREATURES = results[0]
-          window.__FULL_STORIES = results[1]
-        })
-        .catch(function() {})
+          .catch(function() { resolve() })
+      }).catch(function() {})
     })();
   </script>
   <script type="module" src="js/items-viewer.js"></script>
