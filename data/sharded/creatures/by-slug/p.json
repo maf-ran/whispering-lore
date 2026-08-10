@@ -9341,7 +9341,10 @@
     "source_quality": "academic",
     "cultural_significance": "Pemba is a a spirit from West Africa mythology, representing important cultural values and traditional beliefs.",
     "schema_org_type": "MythicalCreature",
-    "attested": true
+    "attested": true,
+    "related_items": [
+      "chiwara-headdress"
+    ]
   },
   {
     "id": "prester-john-ethiopian-3918",
@@ -9498,7 +9501,11 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "related_items": [
+      "ngoma-drum",
+      "zanzibar-dhow"
+    ]
   },
   {
     "id": "pepo-wa-bahari-swahili-3929",
