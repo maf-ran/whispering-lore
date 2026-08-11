@@ -9,6 +9,7 @@
 - [x] T6 — South Asia batch 52 items, 15xx (`bd64931`; review REQUEST_CHANGES → fixed: dropped veena/trishula/rudraksha/kastane/mukut story links, sudarshana-chakra Narasimha→Jay-Vijay, khyber-knife Pesh-Kabz alias removed; 463→515; jest 172/172, chromium 414/414)
 - [x] T7 — Oceania batch 16xx (40 items; 515→555; review REQUEST_CHANGES fixed tjurunga desc/kundu alias/palau storyboard/tabua/hangi/kete/didgeridoo/yap era; jest 172/172, chromium 414/414)
 - [ ] T8 — Eastern Europe/Baltic/Arctic batch 17xx (~110 items)
+  - [x] T8a — Baltic batch (15 items, 17xx; Lithuania/Latvia/Estonia: egles-dress, estonian-kannel, jani-wreath, kankles, kihnu-skirt, kirivoo, kokle, kryzdirbyste-cross, laimas-distaff, lielvarde-belt, lietuviska-juosta, pohjanael, sakta, seto-costume, verbos-easter-palms; 546→561; dedup: baltic-amber-jewelry dropped → merged into existing amber-jewelry (+perk-nas cross-link); backrefs + shards rebuilt; jest 172/172, chromium 414/414; sw bump pending T10)
 - [ ] T9 — counts/docs refresh (README, .zenodo.json, index stats, about, world)
 - [ ] T10 — sw.js cache bump v1_0_15 → v1_0_16
 - [ ] T11 — Zenodo v1.2.0 release (fresh DOI, ~670 items)

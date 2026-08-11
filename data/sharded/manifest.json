@@ -12620,7 +12620,7 @@
     ]
   },
   "items": {
-    "total": 546,
+    "total": 561,
     "regions": {
       "Nordic": 82,
       "South Asia": 47,
@@ -12633,6 +12633,7 @@
       "Polynesian": 19,
       "Mesoamerica": 18,
       "North Africa": 15,
+      "Baltic": 15,
       "East Africa": 14,
       "Pacific": 13,
       "South America": 12,
@@ -12695,6 +12696,9 @@
       "Pakistan": 6,
       "Nepal": 6,
       "Morocco": 5,
+      "Lithuania": 5,
+      "Latvia": 5,
+      "Estonia": 5,
       "Turkey": 4,
       "Vietnam": 4,
       "Mongolia": 4,
@@ -12777,15 +12781,15 @@
     },
     "tribes": {},
     "types": {
-      "Other": 90,
-      "Ritual object": 84,
+      "Other": 91,
+      "Ritual object": 86,
       "Weapon": 75,
-      "Jewelry": 48,
-      "Garment": 47,
-      "Musical instrument": 43,
+      "Garment": 53,
+      "Jewelry": 49,
+      "Musical instrument": 46,
       "Household object": 33,
-      "Tool": 30,
-      "Religious object": 28,
+      "Tool": 31,
+      "Religious object": 29,
       "Ship": 23,
       "Container": 18,
       "Rune stave": 15,
@@ -12935,7 +12939,9 @@
         "ethiopian-processional-cross",
         "ethiopian-ketab-scroll",
         "egyptian-kohl-tube",
-        "ektara"
+        "ektara",
+        "egles-dress",
+        "estonian-kannel"
       ],
       "f": [
         "freys-sword",
@@ -13043,7 +13049,8 @@
         "jade-funerary-mask-of-pakal",
         "jade-bead-necklace-maya",
         "jack-o-lantern",
-        "jebena-coffee-pot"
+        "jebena-coffee-pot",
+        "jani-wreath"
       ],
       "k": [
         "kaupaloki",
@@ -13080,7 +13087,12 @@
         "kuchi-jewelry",
         "kakahu-maori",
         "kete-maori",
-        "kundu-drum"
+        "kundu-drum",
+        "kryzdirbyste-cross",
+        "kankles",
+        "kokle",
+        "kihnu-skirt",
+        "kirivoo"
       ],
       "l": [
         "laevateinn",
@@ -13098,7 +13110,10 @@
         "lia-fail",
         "lukasa-memory-board",
         "lozi-royal-barge",
-        "lei-niho-palaoa"
+        "lei-niho-palaoa",
+        "lietuviska-juosta",
+        "lielvarde-belt",
+        "laimas-distaff"
       ],
       "m": [
         "mjolnir",
@@ -13193,7 +13208,8 @@
         "puja-thali",
         "phulkari",
         "pashmina-shawl",
-        "palau-storyboard"
+        "palau-storyboard",
+        "pohjanael"
       ],
       "q": [
         "the-queens-necklace",
@@ -13281,7 +13297,9 @@
         "solomon-shell-money",
         "samoan-siapo",
         "samoan-ie-toga",
-        "samoan-tatau-tools"
+        "samoan-tatau-tools",
+        "sakta",
+        "seto-costume"
       ],
       "t": [
         "trolls-gift-ring",
@@ -13354,7 +13372,8 @@
         "vejigante-mask",
         "vajra-of-indra",
         "veena",
-        "vanuatu-slit-drum"
+        "vanuatu-slit-drum",
+        "verbos-easter-palms"
       ],
       "w": [
         "the-well-of-urd",
@@ -13507,12 +13526,14 @@
       "durendal",
       "dyrnwyn",
       "edan-ogboni",
+      "egles-dress",
       "egyptian-kohl-tube",
       "ehecailacacozcatl",
       "ektara",
       "eleke-beads",
       "elixir-of-immortality",
       "emerald-buddha-robes",
+      "estonian-kannel",
       "ethiopian-ketab-scroll",
       "ethiopian-processional-cross",
       "excalibur",
@@ -13603,6 +13624,7 @@
       "jade-funerary-mask-of-pakal",
       "jade-rabbits-mortar",
       "jambiya",
+      "jani-wreath",
       "jarngreipr",
       "jebena-coffee-pot",
       "jiu-ding",
@@ -13613,6 +13635,7 @@
       "kakahu-maori",
       "kalinga-royal-drum",
       "kandyan-crown",
+      "kankles",
       "karagoz-puppet",
       "karahi",
       "kastane-sword",
@@ -13629,10 +13652,14 @@
       "khanda",
       "khukuri",
       "khyber-knife",
+      "kihnu-skirt",
+      "kirivoo",
       "kirpan",
       "kitsune-comb",
       "knot-of-isis",
       "knotted-rope-charm",
+      "kokle",
+      "kryzdirbyste-cross",
       "kuba-beaded-cup",
       "kuba-ndop",
       "kubbestol",
@@ -13641,10 +13668,13 @@
       "kundu-drum",
       "kusanagi-no-tsurugi",
       "laevateinn",
+      "laimas-distaff",
       "lasabrjotur",
       "lavvo",
       "lei-niho-palaoa",
       "lia-fail",
+      "lielvarde-belt",
+      "lietuviska-juosta",
       "lituus-romulus",
       "lozi-royal-barge",
       "lukasa-memory-board",
@@ -13723,6 +13753,7 @@
       "piacenza-liver",
       "pied-pipers-pipe",
       "pishtaco-knife",
+      "pohjanael",
       "poseidons-trident",
       "prayer-wheel",
       "primstav",
@@ -13745,6 +13776,7 @@
       "sabar-drum",
       "saci-red-cap",
       "sacred-tooth-relic",
+      "sakta",
       "sami-drum",
       "samoan-ie-toga",
       "samoan-siapo",
@@ -13762,6 +13794,7 @@
       "seidr-staff",
       "selkie-seal-skin",
       "senet-board",
+      "seto-costume",
       "sherpa-pangden",
       "shichishito",
       "shimenawa",
@@ -13913,6 +13946,7 @@
       "veena",
       "vegvisir",
       "vejigante-mask",
+      "verbos-easter-palms",
       "vidars-shoe",
       "waka-taua",
       "wampum-belt",
