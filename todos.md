@@ -10,6 +10,7 @@
 - [x] T7 — Oceania batch 16xx (40 items; 515→555; review REQUEST_CHANGES fixed tjurunga desc/kundu alias/palau storyboard/tabua/hangi/kete/didgeridoo/yap era; jest 172/172, chromium 414/414)
 - [ ] T8 — Eastern Europe/Baltic/Arctic batch 17xx (~110 items)
   - [x] T8a — Baltic batch (15 items, 17xx; Lithuania/Latvia/Estonia: egles-dress, estonian-kannel, jani-wreath, kankles, kihnu-skirt, kirivoo, kokle, kryzdirbyste-cross, laimas-distaff, lielvarde-belt, lietuviska-juosta, pohjanael, sakta, seto-costume, verbos-easter-palms; 546→561; dedup: baltic-amber-jewelry dropped → merged into existing amber-jewelry (+perk-nas cross-link); backrefs + shards rebuilt; jest 172/172, chromium 414/414; sw bump pending T10)
+  - [ ] T8b — Eastern Europe/Caucasus/Central Asia batch (81 items, 17xx; consolidated `batch-17xx-eastern-europe.json` = 26 slavic-west + 33 new-cleaned + 23 central-asia; dropped dups kankles/kokle/kannel/laimas-distaff (T8a) + martenitsa/matyo (intra-batch); igil horsehead-fiddle alias removed; 20 descs trimmed ≤400; tar→tar-azerbaijani id fixed; pipeline validate 0 errs, 0 unresolved cross-links)
 - [ ] T9 — counts/docs refresh (README, .zenodo.json, index stats, about, world)
 - [ ] T10 — sw.js cache bump v1_0_15 → v1_0_16
 - [ ] T11 — Zenodo v1.2.0 release (fresh DOI, ~670 items)
