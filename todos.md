@@ -1,5 +1,18 @@
 # Project Todos
 
+## G5 — Items Expansion v1.2.0 (Aug 10) — plan: docs/superpowers/plans/2026-08-10-items-expansion.md
+- [x] T1 — type taxonomy extended 10→14 (religious object, crown, cooking vessel, container) (`c0c4867`)
+- [x] T2 — expansion guide + id ranges 13xx–17xx (on-disk `archive/scripts/expansions/items/guide.md`)
+- [x] T3 — ref files (5: americas 1382/660, africa 600/284, south-asia 119/88, oceania 170/101, eastern-europe 186/112); spec review PASS + code-quality APPROVE
+- [x] T4 — Americas batch 74 items, 13xx (`4cab814`; fixed tumi/Pakal/guarapo + 53 descs + 14 id/slug)
+- [x] T5 — Africa batch 70 items, 14xx (`3bce2a3`; fixed opon-ifa/sika-dwa/gelede + nits)
+- [x] T6 — South Asia batch 52 items, 15xx (`bd64931`; review REQUEST_CHANGES → fixed: dropped veena/trishula/rudraksha/kastane/mukut story links, sudarshana-chakra Narasimha→Jay-Vijay, khyber-knife Pesh-Kabz alias removed; 463→515; jest 172/172, chromium 414/414)
+- [x] T7 — Oceania batch 16xx (40 items; 515→555; review REQUEST_CHANGES fixed tjurunga desc/kundu alias/palau storyboard/tabua/hangi/kete/didgeridoo/yap era; jest 172/172, chromium 414/414)
+- [ ] T8 — Eastern Europe/Baltic/Arctic batch 17xx (~110 items)
+- [ ] T9 — counts/docs refresh (README, .zenodo.json, index stats, about, world)
+- [ ] T10 — sw.js cache bump v1_0_15 → v1_0_16
+- [ ] T11 — Zenodo v1.2.0 release (fresh DOI, ~670 items)
+
 ## Items & Artifacts Feature (Aug 8) — plan: docs/superpowers/plans/2026-08-08-items-artifacts.md
 - [x] T1 — items.json 20 seed + items-schema.md + items-data.test.js + creature/story back-refs (`c44eac6`, 160/160)
 - [x] T2 — js/items-viewer.js + viewer-base countLabel + tests/items-viewer.test.js (3 jsdom) + transform-esm.js (`195833e`, 163/163)
