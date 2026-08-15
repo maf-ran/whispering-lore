@@ -736,12 +736,14 @@ test.describe('Asset loading', () => {
     expect(bgColor).not.toBe('rgba(0, 0, 0, 0)');
   });
 
-  test('Phosphor icons loaded', async ({ page }) => {
+  test('Iconography uses inline SVG, no external icon loader', async ({ page }) => {
     await navigateTo(page, 'index.html');
-    const loaded = await page.evaluate(() => {
+    const hasSvg = await page.evaluate(() => document.querySelectorAll('svg').length > 0);
+    expect(hasSvg).toBe(true);
+    const hasLoader = await page.evaluate(() => {
       return typeof window.PhosphorIcon !== 'undefined' || document.querySelector('[class*="ph-"]') !== null;
     });
-    // Soft check — icons may load async
+    expect(hasLoader).toBe(false);
   });
 });
 

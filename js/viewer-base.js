@@ -211,6 +211,8 @@ export class BaseViewer {
         html +=
           '<div class="facet-option ' +
           activeClass +
+          '" role="button" tabindex="0" aria-pressed="' +
+          (self.state.filters[dim] === val ? 'true' : 'false') +
           '" data-dimension="' +
           window.__sharedUtils.escapeXml(dim) +
           '" data-value="' +
@@ -255,10 +257,10 @@ export class BaseViewer {
       const val = this.state.filters[dim]
       if (val && val !== 'all') {
         html +=
-          '<div class="filter-chip" data-dimension="' +
-          dim +
+          '<div class="filter-chip" role="button" tabindex="0" data-dimension="' +
+          window.__sharedUtils.escapeXml(dim) +
           '" data-value="' +
-          val +
+          window.__sharedUtils.escapeXml(val) +
           '">' +
           window.__sharedUtils.escapeXml(val) +
           ' <span class="chip-remove">&times;</span>' +

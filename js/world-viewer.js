@@ -1,4 +1,4 @@
-;(function () {
+(function () {
   'use strict'
 
   let CREATURES = window.__CREATURES_DATA || []
@@ -686,9 +686,18 @@
         '</span>'
 
       card.style.cursor = 'pointer'
+      card.setAttribute('role', 'button')
+      card.tabIndex = 0
       card.addEventListener('click', function () {
         window.location.href =
           'bestiary.html?region=' + encodeURIComponent(name)
+      })
+      card.addEventListener('keydown', function (e) {
+        if (e.key === 'Enter' || e.key === ' ') {
+          e.preventDefault()
+          window.location.href =
+            'bestiary.html?region=' + encodeURIComponent(name)
+        }
       })
 
       container.appendChild(card)
@@ -748,9 +757,18 @@
         pct +
         '%"></div>'
 
+      item.setAttribute('role', 'button')
+      item.tabIndex = 0
       item.addEventListener('click', function () {
         window.location.href =
           'bestiary.html?country=' + encodeURIComponent(name)
+      })
+      item.addEventListener('keydown', function (e) {
+        if (e.key === 'Enter' || e.key === ' ') {
+          e.preventDefault()
+          window.location.href =
+            'bestiary.html?country=' + encodeURIComponent(name)
+        }
       })
 
       container.appendChild(item)

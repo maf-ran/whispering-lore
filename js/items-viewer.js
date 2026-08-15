@@ -201,6 +201,25 @@ class ItemsViewer extends BaseViewer {
         this.resetFilters()
       }
     })
+    document.addEventListener('keydown', (e) => {
+      if (e.key !== 'Enter' && e.key !== ' ') return
+      const option = e.target.closest('.facet-option')
+      if (option) {
+        e.preventDefault()
+        const dim = option.getAttribute('data-dimension')
+        const val = option.getAttribute('data-value')
+        this.state.filters[dim] = this.state.filters[dim] === val ? null : val
+        this.applyFilters()
+        return
+      }
+      const chip = e.target.closest('.filter-chip')
+      if (chip) {
+        e.preventDefault()
+        const dim = chip.getAttribute('data-dimension')
+        this.state.filters[dim] = null
+        this.applyFilters()
+      }
+    })
   }
 
   resetFilters() {

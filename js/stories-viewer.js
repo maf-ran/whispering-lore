@@ -218,6 +218,25 @@ class StoriesViewer extends BaseViewer {
         this.resetFilters()
       }
     })
+    document.addEventListener('keydown', (e) => {
+      if (e.key !== 'Enter' && e.key !== ' ') return
+      const option = e.target.closest('.facet-option')
+      if (option) {
+        e.preventDefault()
+        const dim = option.getAttribute('data-dimension')
+        const val = option.getAttribute('data-value')
+        this.state.filters[dim] = this.state.filters[dim] === val ? null : val
+        this.applyFilters()
+        return
+      }
+      const chip = e.target.closest('.filter-chip')
+      if (chip) {
+        e.preventDefault()
+        const dim = chip.getAttribute('data-dimension')
+        this.state.filters[dim] = null
+        this.applyFilters()
+      }
+    })
   }
 
   resetFilters() {
@@ -455,30 +474,7 @@ class StoriesViewer extends BaseViewer {
           story.creatures &&
           story.creatures.length > 0
         ) {
-          const allC = window.__FULL_CREATURES || []
-          const resolved = story.creatures.filter((ref) =>
-            allC.some((c) => c.slug === ref)
-          )
-          if (resolved.length > 0) {
-            creaturesGrid.innerHTML = ''
-            resolved.forEach((ref) => {
-              const cr = allC.find((c) => c.slug === ref)
-              const link = document.createElement('a')
-              link.href =
-                'bestiary.html?creature=' + encodeURIComponent(cr.slug)
-              link.className = 'detail-creature-link'
-              link.innerHTML =
-                '<span class="creature-link-name">' +
-                window.__sharedUtils.escapeXml(cr.name) +
-                '</span><span class="creature-link-type">' +
-                window.__sharedUtils.escapeXml(cr.type || '') +
-                '</span>'
-              creaturesGrid.appendChild(link)
-            })
-            creaturesSection.classList.remove('is-hidden')
-          } else {
-            creaturesSection.classList.add('is-hidden')
-          }
+          this.renderDetailCreatures(story, creaturesSection, creaturesGrid)
         }
 
         content.classList.remove('is-hidden')
@@ -542,6 +538,36 @@ class StoriesViewer extends BaseViewer {
       sh.getItem('stories', slug, (err, item) => renderStory(item))
     } else {
       renderStory(null)
+    }
+  }
+
+  async renderDetailCreatures(story, section, grid) {
+    if (window.__FULL_CREATURES_READY) {
+      try { await window.__FULL_CREATURES_READY } catch (e) { /* swallow */ }
+    }
+    const allC = window.__FULL_CREATURES || []
+    const resolved = story.creatures.filter((ref) =>
+      allC.some((c) => c.slug === ref)
+    )
+    if (resolved.length > 0) {
+      grid.innerHTML = ''
+      resolved.forEach((ref) => {
+        const cr = allC.find((c) => c.slug === ref)
+        const link = document.createElement('a')
+        link.href =
+          'bestiary.html?creature=' + encodeURIComponent(cr.slug)
+        link.className = 'detail-creature-link'
+        link.innerHTML =
+          '<span class="creature-link-name">' +
+          window.__sharedUtils.escapeXml(cr.name) +
+          '</span><span class="creature-link-type">' +
+          window.__sharedUtils.escapeXml(cr.type || '') +
+          '</span>'
+        grid.appendChild(link)
+      })
+      section.classList.remove('is-hidden')
+    } else {
+      section.classList.add('is-hidden')
     }
   }
 
