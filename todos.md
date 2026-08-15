@@ -1,5 +1,17 @@
 # Project Todos
 
+## Site audit fixes (Aug 15) — all committed on main
+- [x] **CI**: push/PR branches `master`→`main`; e2e server `npx serve`→threaded dual-stack `http.server` (single-threaded `python3 -m http.server` times out under 6-worker e2e load — reproduced 14 `page.goto` timeouts, clean with threaded) (`c9a17c6`, `5e62167`)
+- [x] **XSS**: filter-chip `data-dimension`/`data-value` now `escapeXml()` (viewer-base.js)
+- [x] **Cross-ref preloads**: bestiary/stories read non-existent `manifest.{stories,creatures}.shards` (manifest key is `slugIndex`, no `shards`) → `__STORIES_DATA`/`__FULL_CREATURES` always `[]`; rewired to `Shimmer.loadManifest()`→`loadAllShards()` + new `__STORIES_DATA_READY`/`__FULL_CREATURES_READY` promises awaited by `renderCreatureStories` / new `renderDetailCreatures`
+- [x] **SW v1_0_17**: rewrite — `/manifest.json` precached, `trimCache()` (80-entry runtime cap), `/data/` requests skipped (Shimmer/IDB owns them), navigation-only `404.html` fallback, `Response.error()` otherwise
+- [x] **Dead Phosphor loader**: removed `<script vendor/phosphor-icons>` from all 10 pages (−648KB CSS load); e2e soft-test replaced with real inline-SVG/no-loader assertion
+- [x] **CSS a11y**: `--accent-strong` (#E05C5C, 4.5:1 on all surfaces vs old #991B1B ≈2.1:1 FAIL), `--text-muted` (#8F8A84 ≥4.5:1) tokens; 64 accent-text swaps; removed opacity-dimming on `.hero-stat-label`/`.card-country`/`.facet-count`/`.theme-toggle`; card type bump (h3 0.95→1.05rem, body 0.82→0.9rem, badge/cta up); theme icons un-inverted (dark=moon, light=sun); 8× `transition: all`→specific props
+- [x] **Keyboard a11y**: `role=button`+`tabindex=0`+Enter/Space for `.facet-option`, `.filter-chip`, `.region-card`, `.hotspot-item` (3 viewers + world-viewer); proper `:focus-visible` outlines; larger facet/chip hit areas
+- [x] **Docs**: CITATION.cff→v1.2.0/21941501/2,185 stories/212 countries/641 items; README test counts 172/13 suites + full 414 e2e; `LICENSE` added (CC-BY-4.0); `<noscript>` fallback on all 10 pages
+- [x] **Repo cleanup**: untracked `.claude/` (438 files personal skills), `vendor/phosphor-icons/` source, `docs/creature_database_weaklings*`, stale `data/datasets/by-region/_all.json`; gitignored. Working tree clean.
+- [x] **Gate**: eslint 0 errors (12 pre-existing warnings), jest **172/172**, chromium e2e **414/414**
+
 ## G5 — Items Expansion v1.2.0 (Aug 10) — plan: docs/superpowers/plans/2026-08-10-items-expansion.md
 - [x] T1 — type taxonomy extended 10→14 (religious object, crown, cooking vessel, container) (`c0c4867`)
 - [x] T2 — expansion guide + id ranges 13xx–17xx (on-disk `archive/scripts/expansions/items/guide.md`)
