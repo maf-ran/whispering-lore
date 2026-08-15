@@ -1,4 +1,4 @@
-;(function () {
+(function () {
   'use strict'
 
   function fetchJSON(url) {
@@ -57,7 +57,7 @@
   function loreboxSet(key, val) {
     try {
       localStorage.setItem('lorebox_' + key, JSON.stringify(val))
-    } catch (e) {}
+    } catch (e) { /* ignore storage-quota/private-mode errors */ }
   }
 
   const LoreBox = {

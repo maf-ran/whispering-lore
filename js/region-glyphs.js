@@ -1,5 +1,5 @@
 // js/region-glyphs.js
-;(function () {
+(function () {
   'use strict'
 
   const REGION_GLYPHS = {

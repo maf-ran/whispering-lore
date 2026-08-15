@@ -1,7 +1,7 @@
 // Updated quiz logic for Whispering Lore
 // Supports scope, geography, difficulty, question count, and creature/story mix.
 
-;'use strict'
+'use strict'
 ;(() => {
   const quizRoot = document.getElementById('quiz-root')
   const startBtn = document.getElementById('start-quiz')
@@ -146,7 +146,7 @@
         showFinal()
         return
       }
-      quizRoot.innerHTML = `<p>No questions match the selected filters.</p>`
+      quizRoot.innerHTML = '<p>No questions match the selected filters.</p>'
       return
     }
     // Pick an unused question
@@ -321,13 +321,13 @@
     askedIndices = []
     currentLevel = parseInt(levelSelect.value, 10)
     maxQuestions = parseInt(countSelect.value, 10)
-    quizRoot.innerHTML = `<p style="text-align:center;padding:2rem;color:var(--text-secondary);">Loading questions…</p>`
+    quizRoot.innerHTML = '<p style="text-align:center;padding:2rem;color:var(--text-secondary);">Loading questions…</p>'
     try {
       await loadPool()
       renderNext()
     } catch (e) {
       console.error('Failed to load quiz questions:', e)
-      quizRoot.innerHTML = `<p style="text-align:center;padding:2rem;color:var(--accent);">Failed to load questions. Please check your connection and try again.</p>`
+      quizRoot.innerHTML = '<p style="text-align:center;padding:2rem;color:var(--accent);">Failed to load questions. Please check your connection and try again.</p>'
     }
   }
 

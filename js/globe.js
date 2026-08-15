@@ -538,7 +538,7 @@ function createDots(countries, scene) {
     )
     const counts = window.__COUNTRY_CREATURE_COUNTS || {}
     let creatureCount = 0
-    for (let key in counts) {
+    for (const key in counts) {
       if (name.toLowerCase() === key.toLowerCase()) {
         creatureCount += counts[key]
       }
@@ -562,7 +562,7 @@ window.refreshGlobeDots = function () {
   dotMeshes.forEach(function (dot) {
     const name = dot.userData.name
     let creatureCount = 0
-    for (let key in counts) {
+    for (const key in counts) {
       if (name.toLowerCase() === key.toLowerCase()) {
         creatureCount += counts[key]
       }

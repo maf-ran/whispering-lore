@@ -3,7 +3,7 @@
    Fog interaction · Scroll animations · Navigation
    ═══════════════════════════════════════════ */
 
-;(function () {
+(function () {
   'use strict'
 
   async function updateGlobalStats() {
