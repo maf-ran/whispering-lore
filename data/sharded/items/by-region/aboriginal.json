@@ -7,7 +7,7 @@
     "region": "Aboriginal",
     "culture": "Aboriginal Australian",
     "type": "musical instrument",
-    "description": "Long hollowed wooden trumpet of the Aboriginal peoples of northern Australia, made from eucalyptus limbs hollowed by termites and played by vibrating the lips to produce a deep continuous drone. The didgeridoo accompanies song and ceremony, and in northern traditions its sound is held to echo the voices of ancestors and the great Rainbow Serpent, giving music to the Dreaming.",
+    "description": "The didgeridoo is the long wooden trumpet of the Aboriginal peoples of northern Australia, made from a eucalyptus limb whose core has been hollowed by termites, cut, cleaned and fitted with a beeswax mouthpiece. The player vibrates the lips to produce a deep, continuous drone, often with circular breathing so the note never stops, and skilled players add vocal calls and rhythmic syllables over the drone. It accompanies ceremony, song and dance, and in the traditions of northern Australia its sound is connected to the great ancestral beings, including the Rainbow Serpent of the creation stories, who is said to have given the music of the Dreaming. The word didgeridoo is a European coinage from the early twentieth century, while the instrument's own names include yidaki and magaru, and it has spread far beyond Australia as a musical instrument in the decades since.",
     "source_type": "literary",
     "source_quality": "academic",
     "attested": true,
@@ -20,7 +20,10 @@
     "era": "ancient to present",
     "maker": "Aboriginal craftsmen of northern Australia",
     "associated_creature": null,
-    "related_creatures": [],
+    "related_creatures": [
+      "rainbow-serpent",
+      "julunggul-aboriginal"
+    ],
     "featured_in_stories": [],
     "keywords": [
       "trumpet",
@@ -37,7 +40,7 @@
     ],
     "source": "Ethnomusicological and ethnographic scholarship on Aboriginal music",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "boomerang-1602",
@@ -47,7 +50,7 @@
     "region": "Aboriginal",
     "culture": "Aboriginal Australian",
     "type": "weapon",
-    "description": "Curved throwing stick of the Aboriginal peoples of Australia, carved from hardwood and used in hunting, fighting and ceremony. Returning boomerangs are shaped with a twist that brings them back to the thrower, while heavier non-returning forms are hurled directly at prey. The boomerang is among the oldest known engineered tools and features in Dreaming stories as an emblem of skill.",
+    "description": "The boomerang is the curved throwing stick of the Aboriginal peoples of Australia, carved from hardwood and used for hunting, fighting, digging and ceremony. Returning boomerangs are shaped with a twist across the wings so that they curve in flight and come back to the thrower, while heavier non-returning forms are hurled flat and low to strike game or an enemy, and the same shapes were used as clapsticks, digging tools and fire-sticks. The weapons are sometimes engraved or painted with the designs of the maker's clan. The returning boomerang is one of the oldest known engineered tools and was taken up worldwide as a sport object, while in Australia the boomerang remains an emblem of Aboriginal skill and appears in Dreaming stories and modern cultural display.",
     "source_type": "literary",
     "source_quality": "academic",
     "attested": true,
@@ -75,7 +78,7 @@
     ],
     "source": "Archaeological and ethnographic studies of Aboriginal technology",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "coolamon-1603",
@@ -85,7 +88,7 @@
     "region": "Aboriginal",
     "culture": "Aboriginal Australian",
     "type": "container",
-    "description": "Carved wooden carrying dish of the Aboriginal peoples of Australia, shaped from the root growth of eucalyptus or from bark and used to hold water, food, seeds and infants. Scooped from a single piece of wood, the coolamon is carried on the head or under the arm and remains a practical and ceremonial vessel, often painted with the clan designs of its maker.",
+    "description": "The coolamon is the carved wooden carrying dish of the Aboriginal peoples of Australia, shaped from the root growth of eucalyptus trees or cut from bark, and used to hold water, food, seeds, fire and babies. A single piece of wood is gouged and shaped so that the dish has a curved bottom, and it is carried on the head, in the hand or under the arm, with smaller coolamons made as cradles for infants and larger ones used for grinding seeds and winnowing grain. The dish is a working tool of daily life, used especially by women in food gathering, and it can be painted with the clan designs of the maker. In the desert and riverine regions the coolamon remains a practical and ceremonial vessel, and examples are held in museum collections of Aboriginal material culture.",
     "source_type": "secondary_scholarly",
     "source_quality": "documented",
     "attested": true,
@@ -113,7 +116,7 @@
     ],
     "source": "Museum and ethnographic records of Aboriginal material culture",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "woomera-1604",
@@ -123,7 +126,7 @@
     "region": "Aboriginal",
     "culture": "Aboriginal Australian",
     "type": "weapon",
-    "description": "Wooden spear-throwing lever of the Aboriginal peoples of Australia, a handle with a peg or socket that lengthens the arm to hurl a spear with greater force and distance. Made from a flat or curved branch shaped with stone tools and fixed with resin, the woomera is a hunting and fighting weapon and a sacred object in initiation, when it may bear the engraved designs of the clan.",
+    "description": "The woomera is the spear-throwing lever of the Aboriginal peoples of Australia, a wooden handle with a peg or socket at one end that lengthens the thrower's arm and hurls a spear with far greater force and distance than the arm alone. It is shaped from a flat or curved branch with stone tools, and the peg is fixed with resin, and in the central and western regions it was the standard hunting and fighting weapon, with the same tool doubling as a dish, a digging stick or a fire-maker. The woomera was used across most of the continent, though it was unknown in Tasmania, and in initiation it may be engraved with the designs of the clan and treated with respect. The name entered English from the Dharug language of the Sydney region, and the tool is also known by the name miru in some areas.",
     "source_type": "secondary_scholarly",
     "source_quality": "documented",
     "attested": true,
@@ -150,7 +153,7 @@
     ],
     "source": "Ethnographic records of Aboriginal hunting technology",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "tjurunga-1605",
@@ -160,7 +163,7 @@
     "region": "Aboriginal",
     "culture": "Aboriginal Australian",
     "type": "religious object",
-    "description": "Sacred carved board or stone of the Arrernte and other central Australian peoples, engraved with the designs of the Dreaming and treated as the physical body of an ancestor spirit. Kept in secret men's storehouses and brought out for initiation and ceremony, a tjurunga is handed down as a bond between the living, the land and the ancestral beings, its power bound to the pattern carved upon it.",
+    "description": "The tjurunga is the sacred board or stone of the Arrernte and other central Australian peoples, engraved with the patterns of the Dreaming and treated as the physical body of an ancestral being. The boards are kept in secret storehouses and brought out for initiation and ceremony, and a tjurunga is handed down as a bond between the living, the land and the ancestral beings, its power bound to the pattern carved on its surface. The name is also spelled churinga, and the classic accounts were written by Spencer and Gillen from the Alice Springs region. Tjurunga are restricted objects of the men's law, and their designs and ceremonies are not shown to the uninitiated or to women, so the published records describe the boards only in general terms and with respect for the secrecy that still surrounds them.",
     "source_type": "literary",
     "source_quality": "academic",
     "attested": true,
@@ -190,7 +193,7 @@
     ],
     "source": "Spencer and Gillen ethnographic records; Arrernte tradition",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "clapsticks-1606",
@@ -200,7 +203,7 @@
     "region": "Aboriginal",
     "culture": "Aboriginal Australian",
     "type": "musical instrument",
-    "description": "Paired hardwood percussion sticks struck together by Aboriginal singers and dancers to mark rhythm in ceremony and song. Known by regional names such as bilma in Arnhem Land, clapsticks accompany the didgeridoo and singing in corroboree, and each song owns a particular beat that encodes the Dreaming story it carries.",
+    "description": "The clapsticks are the paired hardwood percussion sticks of the Aboriginal peoples of Australia, struck together by singers and dancers to mark the rhythm of ceremony and song. In Arnhem Land they are known as bilma, and they are often painted or engraved with the designs of the clan, with the length and tone of each pair chosen by the songman. The sticks accompany the didgeridoo and the singing in corroboree and ceremony, and each song owns a particular beat that encodes the Dreaming story it carries, so the rhythm is part of the knowledge held by the singers. Clapsticks are simple in form but exact in use, and they are also played by hand-clapping groups where no wood is at hand, in the musical traditions of the north and the centre of Australia.",
     "source_type": "literary",
     "source_quality": "documented",
     "attested": true,
@@ -230,7 +233,7 @@
     ],
     "source": "Ethnomusicological studies of Aboriginal performance",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "bullroarer-1607",
@@ -240,7 +243,7 @@
     "region": "Aboriginal",
     "culture": "Aboriginal Australian",
     "type": "musical instrument",
-    "description": "Oval wooden slat whirled on a cord to produce a low roaring hum, used by Aboriginal peoples of Australia in initiation and ceremony to represent the voice of an ancestor or of the great beings of the Dreaming. The instrument is spun above the head in male ritual, its sound carrying across the land, and in many traditions women and children are forbidden to see it.",
+    "description": "The bullroarer is an oval wooden slat whirled on the end of a cord to produce a low, roaring hum, used by the Aboriginal peoples of Australia in initiation and ceremony. As the slat spins, it cuts the air and the pitch rises and falls with the speed of the whirling, and the sound can carry across a surprising distance. In south-eastern Australia the voice of the bullroarer is sometimes said to be the voice of the ancestor Daramulum, and in many traditions the instrument is kept for the men's law, so that women and children are not shown it. The bullroarer is found in many parts of the world, but in Australia it is bound to the initiation grounds, where its humming warns of the sacred ceremonies taking place and draws the attention of the ancestors to the land.",
     "source_type": "secondary_scholarly",
     "source_quality": "documented",
     "attested": true,
@@ -252,7 +255,9 @@
     "era": "ancient to present",
     "maker": "Aboriginal craftsmen of initiation grounds",
     "associated_creature": null,
-    "related_creatures": [],
+    "related_creatures": [
+      "daramulum-aboriginal"
+    ],
     "featured_in_stories": [],
     "keywords": [
       "initiation",
@@ -268,7 +273,7 @@
     ],
     "source": "Ethnographic accounts of Aboriginal initiation rites",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "message-stick-1608",
@@ -278,7 +283,7 @@
     "region": "Aboriginal",
     "culture": "Aboriginal Australian",
     "type": "tool",
-    "description": "Carved wooden stick sent between Aboriginal groups to carry news and to validate the authority of the messenger. The patterns cut and painted on its surface record the message and the sender's clan identity, and the stick is accepted as proof that the bearer speaks with the consent of the people who sent them.",
+    "description": "The message stick is a carved piece of wood sent between Aboriginal groups to carry news and to prove the authority of the messenger who carries it. The marks cut and painted on the surface record something of the message, the sender's clan and the places or groups concerned, and the stick is accepted as a sign that the bearer speaks with the consent of the people who sent them. The marks are not writing in the modern sense, but they carry meaning within the system of the sender and receiver, and the practice of carrying such sticks is recorded from many parts of Australia. The messenger is greeted with formal welcome when the stick is presented, and the stick itself is often destroyed or returned once the message has been delivered and answered.",
     "source_type": "secondary_scholarly",
     "source_quality": "documented",
     "attested": true,
@@ -304,6 +309,6 @@
     ],
     "source": "Colonial ethnographic records; Aboriginal oral tradition",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   }
 ]

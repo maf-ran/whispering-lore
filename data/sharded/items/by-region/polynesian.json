@@ -7,7 +7,7 @@
     "region": "Polynesian",
     "culture": "Māori",
     "type": "weapon",
-    "description": "Short broad-bladed club of the Māori, carved from pounamu, the prized greenstone of Aotearoa, and regarded as a chiefly weapon and heirloom. The mere has a wide leaf-shaped blade and a rounded grip with a wrist cord, and named blades were handed down for generations, their tapu so great that they were never allowed to touch the ground.",
+    "description": "The mere pounamu is the short, broad-bladed club of the Maori, carved from pounamu, the greenstone of New Zealand, and regarded as a chiefly weapon and a great heirloom. The blade is leaf-shaped and polished, straight-edged and thicker along its length, and the rounded grip is pierced for a wrist cord, so that the club swings with a stroke of the forearm. Named meres were handed down through the generations, and the mana of the weapon passed from hand to hand, with the saying that a chief was lifted by receiving such a weapon. Because pounamu comes from the rivers and mountains of the South Island, the meres of the northern tribes were carried along the trade routes, and the blades were so greatly valued that they were not allowed to touch the ground.",
     "source_type": "secondary_scholarly",
     "source_quality": "academic",
     "attested": true,
@@ -36,7 +36,7 @@
     ],
     "source": "Ethnographic scholarship on Māori weaponry and taonga",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "hei-tiki-1610",
@@ -46,7 +46,7 @@
     "region": "Polynesian",
     "culture": "Māori",
     "type": "jewelry",
-    "description": "Carved greenstone pendant worn at the neck by the Māori, representing a human figure with its head tilted to one side. The hei tiki is a treasured taonga passed between generations, worn by men and women as a mark of status and mana, and each pendant is believed to hold the spiritual presence of the ancestors who owned it before.",
+    "description": "The hei tiki is the carved greenstone pendant worn at the neck by the Maori, representing a human figure with the head tilted to one side, often with the tongue pointing from the mouth. It is made from pounamu, the nephrite jade of the South Island, and carved with stone drills and abrasive cords in the time before metal tools. The hei tiki is a taonga passed down within families, worn by men and women, and the older a pendant is, the more it is valued, for each one is believed to carry the presence and mana of the ancestors who wore it before. New pendants are given as gifts to mark births, weddings and farewells, and the form appears in Maori tradition in the story of the origin of the tiki, which tells how the first human figure was shaped.",
     "source_type": "secondary_scholarly",
     "source_quality": "academic",
     "attested": true,
@@ -59,7 +59,9 @@
     "maker": "Māori carvers of the greenstone trade routes",
     "associated_creature": null,
     "related_creatures": [],
-    "featured_in_stories": [],
+    "featured_in_stories": [
+      "the-origin-of-the-tiki"
+    ],
     "keywords": [
       "pendant",
       "greenstone",
@@ -74,7 +76,7 @@
     ],
     "source": "Ethnographic scholarship on Māori adornment and taonga",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "tewhatewha-1611",
@@ -84,7 +86,7 @@
     "region": "Polynesian",
     "culture": "Māori",
     "type": "weapon",
-    "description": "Long-handled fighting staff of the Māori, tipped with a shaped blade of wood and often hung with a bunch of feathers or dog-hair at the base of the handle. Used in training and in battle, the tewhatewha was swung in sweeping strikes and could be thrown, and it appears in war dances and chiefly display as a mark of martial skill.",
+    "description": "The tewhatewha is the long-handled fighting staff of the Maori, a wooden weapon with a flat, axe-like blade at one end and a shaped base, often hung with a bunch of feathers or dog hair at the bottom of the handle. It was swung in sweeping strokes and could be thrust or thrown, and the feathers at the base were used in training and in challenge, flicking and flashing to distract the opponent or to call out a warrior before a duel. The weapon was also carried in war dances and chiefly display as a mark of martial skill, and its handling was taught within the whare-taua, the house of war. The tewhatewha is carved from hardwood or whalebone, and named examples are recorded in the accounts of early European observers of Maori warfare.",
     "source_type": "secondary_scholarly",
     "source_quality": "documented",
     "attested": true,
@@ -111,7 +113,7 @@
     ],
     "source": "Ethnographic accounts of Māori weaponry",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "toki-poutangata-1612",
@@ -121,7 +123,7 @@
     "region": "Polynesian",
     "culture": "Māori",
     "type": "tool",
-    "description": "Ceremonial adze of the Māori, fitted with a greenstone or basalt blade lashed to a carved wooden handle and mounted with a plait of fibre and feathers. The toki poutangata was a symbol of chiefly authority, raised in speeches and carried before a rangatira, and the finest blades were treasured heirlooms passed down through the great lineages.",
+    "description": "The toki poutangata is the ceremonial adze of the Maori, fitted with a blade of pounamu or basalt lashed to a carved wooden handle and hung with a plait of fibre and feathers. Unlike the working adze, the toki poutangata was not used for daily woodwork but was carried before a rangatira and raised in speeches as a badge of chiefly authority, and the finest blades were treasured heirlooms passed down through the great lineages. The name means the adze of the great chief, and the object appears in the ceremonial life of the marae, where the taking up of a toki could mark the acceptance of leadership or the settlement of a dispute. The greenstone blades were cut and ground over long months, so the finished toki carried the labour and skill of its maker as well as the mana of its owner.",
     "source_type": "secondary_scholarly",
     "source_quality": "academic",
     "attested": true,
@@ -148,7 +150,7 @@
     ],
     "source": "Ethnographic scholarship on Māori ceremonial objects",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "kakahu-maori-1613",
@@ -158,7 +160,7 @@
     "region": "Polynesian",
     "culture": "Māori",
     "type": "garment",
-    "description": "Feathered cloak of the Māori, woven from muka fibre of the flax plant and covered in the down and feathers of native birds. Kākahu are treasured cloaks of rank, made over months by women weavers, and the finest examples, such as the kahu kiwi, were worn by chiefs and passed down as taonga, each cloak carrying its own name and history.",
+    "description": "The kakahu is the woven cloak of the Maori, made from the muka fibre of the flax plant and covered with the down, feathers and tags of native birds, and worn as a cloak of rank and prestige. The weaver prepares the flax fibre, spins and dyes it, and weaves the body of the cloak on a small loom, then decorates it with feathers of kiwi, kaka, huia and other birds, or with tags of dog skin and fibre. The finest cloaks, such as the kahu kiwi, were made over months and were worn by chiefs on great occasions, and each cloak carries its own name and history. The black-feathered korowai with hanging tags is among the best-known forms, and kakahu are still woven today and worn at hui and ceremonies, treasured as taonga of the iwi that own them.",
     "source_type": "secondary_scholarly",
     "source_quality": "academic",
     "attested": true,
@@ -187,7 +189,7 @@
     ],
     "source": "Ethnographic scholarship on Māori weaving and taonga",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "kete-maori-1614",
@@ -197,7 +199,7 @@
     "region": "Polynesian",
     "culture": "Māori",
     "type": "container",
-    "description": "Woven basket of the Maori, plaited from strips of flax and used to carry food, tools and other goods. In Maori tradition the three kete of knowledge were brought down from the heavens by Tane, who returned with the baskets of ritual knowledge, ancestral knowledge and practical knowledge, establishing learning among humankind.",
+    "description": "The kete is the woven basket of the Maori, plaited from the strips of the harakeke flax plant and used to carry food, tools, feathers and other goods in daily life. Plain kete are made quickly for carrying, while the patterned kete whakairo is woven with a coloured design and given as a mark of respect. In Maori tradition the three kete of knowledge were brought down from the heavens by the god Tane, who returned with the basket of ritual knowledge, the basket of ancestral knowledge and the basket of practical knowledge, and so established learning among humankind. The kete is therefore both an everyday object and a powerful image of knowledge itself, and the phrase to hand over a kete of knowledge means to teach. Kete are still woven today in the traditional materials and patterns.",
     "source_type": "literary",
     "source_quality": "academic",
     "attested": true,
@@ -228,7 +230,7 @@
     ],
     "source": "Māori oral tradition; ethnographic records of weaving",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "waka-taua-1615",
@@ -238,7 +240,7 @@
     "region": "Polynesian",
     "culture": "Māori",
     "type": "ship",
-    "description": "Māori war canoe, a long carved vessel of up to forty paddlers that carried war parties on raids and conveyed chiefs in ceremony. Built from a single totara trunk with carved prow and stern posts, the waka taua was a symbol of tribal mana, and its launching and naming were accompanied by ritual and karakia.",
+    "description": "The waka taua is the Maori war canoe, a long carved vessel that carried war parties on raids and conveyed chiefs in ceremony, often paddled by forty or more warriors. It was built from a single totara trunk, with the hull hollowed and shaped by adze, and fitted with carved prow and stern posts, a raised wash-strake and lashings of fibre; the prow commonly carried the carved figure of a taniwha, the guardian water spirit of Maori tradition. The launching and naming of a waka taua were accompanied by ritual and karakia, and the canoe itself was a symbol of tribal mana, so that a great waka bore the name of its tribe and its ancestors. When a war party paddled out, the crew performed haka and chanted in time with the strokes, and the waka was both a transport of war and a work of carved art.",
     "source_type": "secondary_scholarly",
     "source_quality": "documented",
     "attested": true,
@@ -250,7 +252,9 @@
     "era": "pre-European to nineteenth century",
     "maker": "Māori canoe builders",
     "associated_creature": null,
-    "related_creatures": [],
+    "related_creatures": [
+      "taniwha"
+    ],
     "featured_in_stories": [],
     "keywords": [
       "canoe",
@@ -265,7 +269,7 @@
     ],
     "source": "Ethnographic accounts of Māori naval technology",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "hangi-oven-1616",
@@ -275,7 +279,7 @@
     "region": "Polynesian",
     "culture": "Māori",
     "type": "household object",
-    "description": "Traditional earth oven of the Māori, in which volcanic stones are heated in a pit, food is laid on the stones, and the oven is covered with leaves and earth to steam the meal. The hāngi cooks meat and vegetables by the heat of the stones, and it remains a central feature of hui and celebration, its method passed down through generations.",
+    "description": "Traditional earth oven of the Māori, in which stones that can withstand great heat — usually river and greywacke stones rather than beach rocks, which can shatter — are heated in a shallow pit until white-hot. Food is laid on the stones in woven baskets, covered with leaves and cloth, and sealed with earth so that the meal steams slowly over several hours. The hāngi has cooked for hui (gatherings), tangihanga (funerals), Waitangi Day and Christmas for generations, and while modern cooks often heat the stones with gas, the principle and the shared meal remain the heart of Māori hospitality.",
     "source_type": "secondary_scholarly",
     "source_quality": "documented",
     "attested": true,
@@ -305,7 +309,7 @@
     ],
     "source": "Ethnographic records of Māori cooking traditions",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "hawaiian-feather-cloak-1625",
@@ -315,7 +319,7 @@
     "region": "Polynesian",
     "culture": "Hawaiian",
     "type": "garment",
-    "description": "Royal cloak of the Hawaiian chiefs, built on a netted fibre base and covered with hundreds of thousands of small yellow, red and black feathers from native birds such as the ʻōʻō and mamo. The ʻahuʻula was the mark of the highest aliʻi, each cloak taking generations of birds to complete, and it was worn in war and ceremony as a living symbol of chiefly mana.",
+    "description": "Royal cloak of the Hawaiian chiefs, built on a netted base of olonā fibre and covered with hundreds of thousands of small feathers tied in bundles by a technique called kahekahe. Yellow feathers were taken from the ʻōʻō and mamo — birds whose feathers were pulled by the tens of thousands, contributing to their extinction — and red from the ʻiʻiwi and ʻapapane; Kamehameha I's great cloak is said to contain some 450,000 yellow mamo feathers. The ʻahuʻula was the mark of the highest aliʻi, worn in war and ceremony as a living symbol of chiefly mana and passed down as the supreme heirloom of the kingdom, and surviving examples are counted among the treasures of world museums.",
     "source_type": "secondary_scholarly",
     "source_quality": "academic",
     "attested": true,
@@ -343,7 +347,7 @@
     ],
     "source": "Ethnographic scholarship on Hawaiian regalia",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "lei-niho-palaoa-1626",
@@ -353,7 +357,7 @@
     "region": "Polynesian",
     "culture": "Hawaiian",
     "type": "jewelry",
-    "description": "Pendant of the Hawaiian chiefs made from a carved sperm whale tooth suspended on a braid of human hair, worn by men and women of high rank. The lei niho palaoa was a sign of royalty and genealogical status, and it was forbidden to anyone beneath the chiefly class; the hair cord was itself a gift of honour between the wearer and its giver.",
+    "description": "Pendant of the Hawaiian chiefs made from a carved sperm whale tooth suspended on a braid of human hair, worn by men and women of high rank. The hair cord was itself a gift of honour, braided from hair offered by relatives and friends of the wearer, and the whole ornament was kapu — forbidden to anyone beneath the chiefly class. The lei niho palaoa signalled genealogical status and royal favour, and after the arrival of whalers and traders whale teeth and later ivory from walrus tusks were carved in its place, so that the oldest examples, in the richest carving and finest hair-work, are the most treasured heirlooms of Hawaiian families.",
     "source_type": "secondary_scholarly",
     "source_quality": "academic",
     "attested": true,
@@ -381,7 +385,7 @@
     ],
     "source": "Ethnographic scholarship on Hawaiian adornment",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "hawaiian-pahu-1627",
@@ -391,7 +395,7 @@
     "region": "Polynesian",
     "culture": "Hawaiian",
     "type": "musical instrument",
-    "description": "Standing drum of the Hawaiian islands, carved from a single log of coconut or breadfruit wood with a head of sharkskin stretched and braced with cord. The pahu is struck with the hands to accompany hula and ceremony, and in the heiau it was a sacred instrument whose rhythms called the gods and marked the rites of the temple.",
+    "description": "Standing drum of the Hawaiian islands, carved from a single log of coconut or breadfruit wood and headed with sharkskin or stingray skin stretched and braced with cords. Two kinds are known: the pahu hula, struck with the hands to accompany the hula and chant, and the larger pahu heiau, the sacred temple drum beaten in the heiau to summon the gods and mark the rites of the priests. The drum stands upright and is played with open palms or heel and fingertips, and in the temple it was considered so sacred that only certain priests might sound it, its rhythms regarded as a channel of divine mana.",
     "source_type": "secondary_scholarly",
     "source_quality": "documented",
     "attested": true,
@@ -419,7 +423,7 @@
     ],
     "source": "Ethnomusicological studies of Hawaiian music",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "samoan-siapo-1628",
@@ -429,7 +433,7 @@
     "region": "Polynesian",
     "culture": "Samoan",
     "type": "other",
-    "description": "Barkcloth of Samoa, beaten from the inner bark of the paper mulberry into large sheets and painted or printed with geometric patterns in earth tones. Siapo is made by women for wrapping, dress and ceremony, and its designs are handed down within families, each district owning particular patterns that mark the cloth as its own.",
+    "description": "Barkcloth of Samoa, beaten by women from the inner bark of the paper mulberry into large sheets and decorated with geometric patterns in earth tones, either painted by hand or printed by rubbing colour over carved upeti stencil boards. Siapo is made for wrapping, dress and ceremony — it clothes chiefs, lines meeting houses and forms part of exchange gifts at weddings and funerals — and its designs are owned by families and districts, each pattern marking the cloth as coming from a particular place and lineage. Beating the bark, pasting the sheets together with starch and burnishing the finished cloth are skills passed from mother to daughter, and siapo remains central to Samoan ceremonial life today.",
     "source_type": "secondary_scholarly",
     "source_quality": "documented",
     "attested": true,
@@ -457,7 +461,7 @@
     ],
     "source": "Ethnographic records of Samoan material culture",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "samoan-ie-toga-1629",
@@ -467,7 +471,7 @@
     "region": "Polynesian",
     "culture": "Samoan",
     "type": "other",
-    "description": "Treasured fine mat of Samoa, woven from the thinnest strips of pandanus by senior women and polished with oil to a fine sheen. The ʻie toga is the highest form of Samoan wealth, exchanged at weddings, funerals and political occasions, and the oldest mats are given names and genealogies and counted among the most sacred possessions of the family.",
+    "description": "Treasured fine mat of Samoa, woven from the thinnest strips of pandanus leaf by senior women and softened, oiled and polished until it gleams. The ʻie toga is the highest form of Samoan wealth, exchanged at weddings, funerals, title-bestowals and political occasions in the ceremonial economy of fa'alavelave, where it is always presented together with fine goods. The oldest mats are given names and genealogies, handed down through generations and counted among the most sacred possessions of the aiga, and a family's honour and standing are measured in the size and age of its store of fine mats.",
     "source_type": "secondary_scholarly",
     "source_quality": "academic",
     "attested": true,
@@ -496,7 +500,7 @@
     ],
     "source": "Ethnographic scholarship on Samoan ceremonial exchange",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "samoan-tatau-tools-1630",
@@ -506,7 +510,7 @@
     "region": "Polynesian",
     "culture": "Samoan",
     "type": "tool",
-    "description": "Set of combs and mallets used in the Samoan tatau, the traditional hand-tapped tattoo applied by a tufuga ta tatau. A comb of bone or turtle shell set with teeth is dipped in soot pigment and struck with a wooden mallet to drive ink into the skin, a practice preserved by legend from the goddesses Taema and Tilafaiga, who brought the art from Fiti.",
+    "description": "Set of combs and mallets used in the Samoan tatau, the hand-tapped tattoo applied by a tufuga ta tatau, the tattoo master. A comb of bone, turtle shell or later steel, set with teeth of graduated length, is dipped in soot pigment and struck with a wooden mallet to drive the ink into the skin, line by painful line. The tools and the art are traced by legend to the goddesses Taema and Tilafaiga, who brought the craft from Fiti to Samoa, and the full male pe'a and the female malu are still given with ceremony as marks of dignity and genealogy. A set of tools is the master's most guarded possession, used only within the ritual rules of the practice.",
     "source_type": "literary",
     "source_quality": "documented",
     "attested": true,
@@ -537,7 +541,7 @@
     ],
     "source": "Ethnographic accounts of Samoan tattooing; oral tradition",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "tongan-ngatu-1631",
@@ -547,7 +551,7 @@
     "region": "Polynesian",
     "culture": "Tongan",
     "type": "other",
-    "description": "Barkcloth of Tonga, made by beating the inner bark of the hiapo tree and pasting the strips together into large sheets painted with stencil patterns in brown and black. Ngatu is produced by women in working parties and given at weddings, funerals and royal ceremonies, and the largest ceremonial pieces are presented to the king.",
+    "description": "Barkcloth of Tonga, made by beating the inner bark of the hiapo (paper mulberry) into strips and pasting them together with starch into large sheets, which are then decorated in working parties called koka'anga. Women rub brown and black dyes over carved kupesi rubbing boards to print repeating geometric motifs — chevrons, zigzags and diagonal bands — that carry the patterns of their families and districts. Ngatu is given at weddings, funerals and royal ceremonies, used as floor mats, wall coverings and dance costumes, and the largest ceremonial pieces, some hundreds of metres long, are presented to the king on occasions of state, so that the cloth doubles as a record of the kingdom's ceremonies and its givers.",
     "source_type": "secondary_scholarly",
     "source_quality": "documented",
     "attested": true,
@@ -575,7 +579,7 @@
     ],
     "source": "Ethnographic records of Tongan material culture",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "tahitian-vaa-1632",
@@ -585,7 +589,7 @@
     "region": "Polynesian",
     "culture": "Tahitian",
     "type": "ship",
-    "description": "Ocean-going sailing canoe of the Tahitians, built with a single outrigger float and a lateen sail of matting that carried voyagers across the Pacific. The vaʻa was the vessel of the great Polynesian navigators, who read the stars and swells to settle islands, and it remains raced in the sport of vaʻa today, each hull shaped with the inherited knowledge of the builders.",
+    "description": "Ocean-going sailing canoe of the Tahitians, built as a dugout hull with a single outrigger float lashed on booms and a lateen sail of pandanus matting. The vaʻa was the vessel of the great Polynesian navigators, who read the stars, the swells and the flight of birds to cross the Pacific and settle island after island, and the hull was shaped by carvers working from inherited knowledge of timber and lines. Today the same outrigger canoe races on as a sport in the vaʻa of French Polynesia, where crews paddle long ocean-going canoes in competitions such as the Hawaiki Nui Vaʻa, keeping the voyaging canoe at the centre of Polynesian identity.",
     "source_type": "secondary_scholarly",
     "source_quality": "academic",
     "attested": true,
@@ -614,7 +618,7 @@
     ],
     "source": "Ethnographic scholarship on Polynesian voyaging",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "marquesan-war-club-1633",
@@ -624,7 +628,7 @@
     "region": "Polynesian",
     "culture": "Marquesan",
     "type": "weapon",
-    "description": "Polished war club of the Marquesas Islands, carved from ironwood with a long shaft and a flattened head, sometimes inlaid with the teeth of the whale or the bones of enemies. The uʻu was the principal weapon of the Marquesan warrior and was also a treasured gift, its elaborate carving a record of the man who bore it and his ancestry.",
+    "description": "Polished war club of the Marquesas Islands, carved from toa, the dense ironwood, with a long shaft and a flattened, slightly flared head incised with the stylized face of a tiki and other relief designs. The uʻu was the principal weapon of the Marquesan warrior, swung in hand-to-hand combat, but it was equally a work of sculptural art and a badge of rank, kept and treasured as a personal trophy and handed down within families. Some clubs were inlaid with whale tooth or, it is said, with the bone of a fallen enemy, marking the uʻu as both weapon and memorial of its owner.",
     "source_type": "secondary_scholarly",
     "source_quality": "documented",
     "attested": true,
@@ -652,7 +656,7 @@
     ],
     "source": "Ethnographic accounts of Marquesan weaponry",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "cook-islands-adze-1634",
@@ -662,7 +666,7 @@
     "region": "Polynesian",
     "culture": "Cook Islands Māori",
     "type": "tool",
-    "description": "Stone-bladed adze of the Cook Islands, ground from basalt and lashed to a wooden handle, used to fell and shape the timber for canoes, houses and carvings. The toki was the essential tool of the master craftsman, and finely made adzes were treasured and handed down, with the stone sources on the islands prized and controlled by chiefly families.",
+    "description": "Stone-bladed adze of the Cook Islands, ground from fine-grained basalt and lashed to a wooden handle with sennit, used to fell and shape the timber for canoes, houses, war clubs and carvings. The toki was the essential tool of the master craftsman, and the quarries that supplied the prized basalt — above all the great quarry on Mangaia — were controlled by chiefly families and treated as resources of mana. Fine adzes were treasured heirlooms, their lashing and finish a mark of the carver's standing, and the same tool type, its design carried by voyagers across the Pacific, appears in the founding histories of many island traditions.",
     "source_type": "archaeological",
     "source_quality": "documented",
     "attested": true,
@@ -690,7 +694,7 @@
     ],
     "source": "Archaeological and ethnographic records of Cook Islands technology",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "hawaiian-kapa-1639",
@@ -700,7 +704,7 @@
     "region": "Polynesian",
     "culture": "Hawaiian",
     "type": "other",
-    "description": "Barkcloth of the Hawaiian islands, beaten from the inner bark of the wauke tree and printed with geometric designs by stamping with carved blocks and leaves. Kapa was made by women for clothing, bedding and ritual, and the finest pieces were kept by the chiefs, their patterns bearing the mana of the maker and the household.",
+    "description": "Barkcloth of the Hawaiian islands, beaten by women from the inner bark of the wauke, the paper mulberry, on a stone anvil with grooved wooden beaters, and joined and felted into wide sheets. The cloth was printed by stamping with carved bamboo tubes and blocks and with leaves and water-stamped patterns, in colours drawn from earth, charcoal and plants, and the designs were named and passed down within families. Kapa served as clothing, bedding, bandages and swaddling, and in ritual it wrapped the dead and clothed the altars, so that the finest pieces carried the mana of the maker and the household.",
     "source_type": "secondary_scholarly",
     "source_quality": "documented",
     "attested": true,
@@ -728,6 +732,6 @@
     ],
     "source": "Ethnographic records of Hawaiian material culture",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   }
 ]

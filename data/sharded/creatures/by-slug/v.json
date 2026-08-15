@@ -2741,7 +2741,10 @@
     "source_quality": "expert",
     "cultural_significance": "Väinämöinen is a a demigod from Nordic mythology, representing important cultural values and traditional beliefs.",
     "schema_org_type": "MythicalCreature",
-    "attested": true
+    "attested": true,
+    "related_items": [
+      "sampo"
+    ]
   },
   {
     "id": "vittra-iceland-0001",
@@ -3149,7 +3152,10 @@
     "source_type": "literary",
     "source_quality": "well-documented",
     "source": "Poetic Edda; Norse sagas; archaeological evidence",
-    "attested": true
+    "attested": true,
+    "related_items": [
+      "seidr-staff"
+    ]
   },
   {
     "id": "stub-valraven",

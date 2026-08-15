@@ -16,9 +16,11 @@
     "maker": "Fjalar and Galar (dwarves)",
     "powers": "Holds the mead of poetry; whoever drinks it gains poetry and wisdom.",
     "associated_creature": null,
-    "description": "The kettle that holds the mead of poetry, brewed by the dwarves Fjalar and Galar from the blood of Kvasir, the wisest of beings, mixed with honey. Whoever drinks from Óðrœrir gains the gift of poetry and wisdom. Odin stole the mead from the giant Suttungr, drained the vessels Boðn and Són and the kettle itself, and shared it with the Æsir, keeping a small part for poets.",
+    "description": "Óðrœrir is the kettle that holds the mead of poetry, brewed by the dwarves Fjalar and Galar from the blood of Kvasir, the wisest of beings, mixed with honey. Whoever drinks the mead gains the gift of poetry and wisdom, and the brew is stored in three vessels — the great kettle Óðrœrir and the two bowls Boðn and Són. The giant Suttungr seized the mead after the dwarves killed his parents, and Odin stole it back from Suttungr's daughter Gunnlöð, drinking all of Óðrœrir in three draughts and escaping in eagle form. A little of the mead is said to have been spilled from Odin's beak, and that spill became the portion that is given to poets on earth. The name is sometimes interpreted as 'stirrer of inspiration' or 'mind-rousing one', and the mead remains the central symbol of skaldic poetry and of the gift of verse.",
     "related_creatures": [
-      "dwarf-dvergr"
+      "dwarf-dvergr",
+      "odin-iceland",
+      "odin-norway"
     ],
     "featured_in_stories": [],
     "source": "Prose Edda (Skáldskaparmál)",
@@ -43,7 +45,7 @@
       "galar"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "ottastafur-0219",
@@ -62,7 +64,7 @@
     "maker": "Icelandic grimoire tradition",
     "powers": "Strikes fear into those against whom it is used.",
     "associated_creature": null,
-    "description": "Óttastafur, the fear stave of the Huld manuscript, drawn to strike fear into others. As a weapon of psychological magic it was meant to cow rivals or enemies without a blow. It is one of the aggressive galdrastafir recorded beside the protective and luck-giving signs, showing that the stave tradition served harm as readily as help.",
+    "description": "Óttastafur, the 'fear stave', is an Icelandic magical sign recorded in the Huld manuscript, compiled by Geir Vigfússon at Akureyri in 1860, and drawn to strike fear into others. As a weapon of psychological magic it was meant to cow rivals or enemies without a single blow, so that the bearer's will prevailed and opponents lost heart. It is one of the aggressive galdrastafir, sitting in the same grimoires as the protective and luck-giving staves and showing that the stave tradition served harm as readily as help. Its earliest known source is a 19th-century manuscript that collected older folk-magic material, and like the other fear signs it is now reproduced in modern books and on tattoos. The fear stave is a reminder that Icelandic folk magic was a two-edged craft, used as often to intimidate as to defend.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Huld manuscript (Lbs 4626 8vo, 1860)",
@@ -84,7 +86,7 @@
       "huld manuscript"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "the-offer-stone-0328",
@@ -103,7 +105,7 @@
     "maker": "Unnamed; worn by use",
     "powers": "Cups held offerings for blessing and healing.",
     "associated_creature": null,
-    "description": "The offer stone (offersten), a boulder with cup-shaped hollows where offerings were made. Hundreds of such stones survive across Sweden, often beside churches, springs, or old cult sites; small gifts of coins, food, or tar were placed in the cups, and in later Christian times the stones were avoided or 'baptised'. The cup-marked stones are counted among Sweden's oldest cult objects.",
+    "description": "The offer stone (offersten), a boulder with cup-shaped hollows where offerings were made. Hundreds of such stones survive across Sweden, often beside churches, springs, or old cult sites, and in places they are the only trace of a vanished place of worship. Small gifts of coins, food, butter, or tar were placed in the cups, sometimes on fixed holy days, and the stones were consulted for healing of people and livestock; in later Christian times they were avoided, or 'baptised' with a name to break their power. In some districts the cup-marks were called älvkvarnar, 'elf mills', from the belief that elves ground grain in them at night. The cup-marked stones, skålgropsstenar, are counted among Sweden's oldest cult objects, with the oldest hollows ground into the rock in the Bronze Age.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Swedish antiquarian and ethnological records of offer stones",
@@ -125,7 +127,7 @@
       "sacrificial stone sweden"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "oseberg-ship-0406",
@@ -141,7 +143,7 @@
     "material": "Oak",
     "era": "Viking Age (c. 820)",
     "associated_creature": null,
-    "description": "The richly carved oak vessel of a Viking-age ship burial uncovered at the Oseberg farm near Tønsberg, Norway, in 1904. About 21.8 meters long, the ship carried two women and rich grave goods, including the carved Oseberg wagon and sledges. Its animal-head prow and decorated frames show the craft of early 9th-century Norse shipbuilding, and it is exhibited in the Viking Ship Museum in Oslo.",
+    "description": "The richly carved oak vessel of a Viking-age ship burial uncovered at the Oseberg farm near Tønsberg, Norway, in 1904. About 21.8 meters long, the ship carried two women and rich grave goods, including the carved Oseberg wagon and sledges. Its animal-head prow and decorated frames show the craft of early 9th-century Norse shipbuilding, and it is exhibited in the Viking Ship Museum in Oslo. The ship was built of oak felled in the early 800s and was rowed and sailed on the coast before it was drawn ashore and buried under a great mound, where it lay until the excavation. The grave goods, from textiles and a tapestry to wooden buckets and the famous wagon, make the burial one of the richest ever found in Scandinavia, and the ship's shallow hull marks it as a ceremonial craft of the highest rank.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Excavated ship burial, Oseberg, Vestfold (1904)",
@@ -162,7 +164,7 @@
       "viking ship burial"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "orpheus-lyre-0608",
@@ -180,8 +182,10 @@
     "maker": "Gift of Apollo or Hermes to Orpheus",
     "powers": "Charmed beasts, trees, and stones; moved the dead and soothed Cerberus.",
     "associated_creature": null,
-    "description": "The lyre of Orpheus, a gift from Apollo or Hermes with the power to charm beasts, trees, and stones and to move the dead; its music soothed Cerberus and won Hades' consent to let Eurydice return, a bargain lost when Orpheus looked back. After his death the lyre was set among the stars.",
-    "related_creatures": [],
+    "description": "The lyre of Orpheus, a gift from Apollo or Hermes with the power to charm beasts, trees, and stones and to move the dead; its music soothed Cerberus and won Hades' consent to let Eurydice return, a bargain lost when Orpheus looked back on the way out of the underworld. Ancient poetry names it a gift of Apollo or Hermes, and its seven strings were said to mirror the seven planets. After his death the lyre was set among the stars as the constellation Lyra. It is the emblem of music's power over nature and death in Greek myth, and its sound has been painted and sung for three thousand years.",
+    "related_creatures": [
+      "cerberus"
+    ],
     "featured_in_stories": [
       "orpheus-and-eurydice"
     ],
@@ -204,7 +208,7 @@
       "eurydice"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "odysseus-bow-0615",
@@ -222,7 +226,7 @@
     "maker": "Given to Odysseus by Iphitus; strung only by its owner",
     "powers": "Shot an arrow through twelve axe heads; brought death to the suitors of Ithaca.",
     "associated_creature": null,
-    "description": "The great bow of Odysseus, which he alone could string and shoot through twelve axe-heads; Penelope's contest of the bow is the test of her suitors, and Odysseus slays them with it on his return to Ithaca in the Odyssey. Its unyielding strength stands for the hero's unchallenged identity.",
+    "description": "The great bow of Odysseus, which no other man could string and which he alone could drive an arrow through all twelve axe heads, stands at the centre of the final test of the Odyssey. Penelope sets the contest of the bow for her suitors at Ithaca, and when the strongest of them fail even to bend it, the disguised Odysseus takes the weapon, strings it effortlessly, shoots through the axes, and then turns it on the suitors, slaughtering them with the help of his son and his faithful servants. The poem relates that the bow was a gift from Iphitus, a token of their friendship given in youth, and it had been left at home in Ithaca when Odysseus sailed for Troy, so that it keeps its place as the symbol of the household and its absent master. Its unyielding curve measures the hero's identity: only the true master of the house can draw it. The bow remains the emblem of Odysseus' patient cunning and of the return that restores order to Ithaca.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Homer, Odyssey (Book 21)",
@@ -244,7 +248,7 @@
       "twelve axes"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "oni-no-kanabo-1206",
@@ -263,12 +267,13 @@
     "maker": "Unknown (stock attribute)",
     "powers": "Said to crush any demon or mortal it strikes",
     "associated_creature": "oni",
-    "description": "The iron-studded club that Japanese tales and art place in the grip of the oni, the red-and-blue ogre of legend. Treated as a stock attribute of the ogre rather than a documented artifact, it appears in tales from Shuten-doji onward, its weight said to crush whatever it strikes; no historical example survives.",
+    "description": "The kanabo is the iron-studded club that Japanese legend and art place in the grip of the oni, the ogre of the folk imagination, and it has become the oni's stock attribute to the point that the two are nearly inseparable in picture scrolls and festival prints. Tales from the Heian-era exploits of the demon queller Minamoto no Yorimitsu, above all his campaign against the bandit-ogre Shuten-doji, show the oni swinging the heavy mace with crushing force against heroes and their retainers; the same weapon appears in the folk tale of Momotaro, whose companions win against the ogres' island through wit. The club is conventionally imagined as a wooden shaft bound with iron hoops and studded with iron knobs, heavier than a man could lift, and it is treated as a mythological attribute rather than a documented artifact, since no original example survives. It carries real cultural weight, standing for brute strength that must be overcome by cleverness, and it remains the default prop of oni in the Setsubun bean-throwing rite and in modern manga and games.",
     "related_creatures": [
       "oni"
     ],
     "featured_in_stories": [
-      "shuten-doji"
+      "shuten-doji",
+      "momotaro-the-boy-born-from-a-peach"
     ],
     "source": "Folktale and image tradition",
     "source_type": "oral_tradition",
@@ -290,7 +295,7 @@
       "shuten doji"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-09"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "obsidian-smoking-mirror-1313",
@@ -309,7 +314,7 @@
     "maker": "Aztec mirror-workers",
     "powers": "Reflects visions and the smoke of divination.",
     "associated_creature": null,
-    "description": "A disk of polished obsidian used by Aztec priests and rulers for divination, gazing into its dark surface for visions; the name is bound up with Tezcatlipoca, whose own 'smoking mirror' was his emblem. Friar Sahagún describes it as a tool of seers and sorcerers, and carved examples survive with drilled holes for hanging as pectorals. Its glossy black face was read as a window onto the unknown.",
+    "description": "Aztec priests and rulers used disks of highly polished obsidian as divination mirrors, gazing into the glossy black face for visions of what was hidden or to come. The name is inseparable from Tezcatlipoca, the 'Smoking Mirror', whose emblem was just such an obsidian mirror (tezcatl); his power to see everything was said to come through it. Fray Bernardino de Sahagun's Florentine Codex records seers and sorcerers working with mirrors, and carved examples survive with drilled holes for suspension, worn as pectorals or set in wooden frames with resin. Such mirrors were not only for seeing: because polished obsidian gathers the sun's heat, it could also be used in fire-making ritual. The black glass itself was sacred, a product of volcanic earth that the Mexica prized for knives, the eyes of effigies and the dark windows of prophecy. The smoking mirror remains a symbol of Tezcatlipoca's all-seeing, unpredictable power.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Florentine Codex (Sahagún)",
@@ -331,7 +336,7 @@
       "aztec divination mirror"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "oshe-shango-wand-1402",
@@ -349,7 +354,7 @@
     "era": "Traditional, still danced",
     "associated_creature": "shango-yoruba",
     "powers": "Said to channel Shango's lightning and to summon or cool his wrath in dance.",
-    "description": "The oshe is a carved wooden dance wand of the Yoruba, crowned by a double-bladed axe, the emblem of Shango, god of thunder. Dancers of the Shango cult swing paired oshe during worship, and the blades are said to embody the deity's destructive lightning strike and regenerative force. Older examples bear carved faces of the deity or his priestesses.",
+    "description": "The oshe is the carved wooden dance wand of the Yoruba Shango cult, its upper end shaped into a double-bladed axe, the emblem of Shango, the god of thunder and lightning. Dancers of the cult swing paired oshe during worship, and the axe is said to carry the deity's power: the flash of the blade is his lightning, the heft of the wood his strength, and the double edge his two faces of destruction and renewal. Older examples are carved with a face of the deity or of a priestess, and the wand is kept on the shrine and treated with respect, often touched to the ground before the dance begins. The oshe is danced at festivals, at the great ceremonies of the Shango priests, and wherever the thunder god is honored, and the carving tradition is among the best known of Yoruba art. The wand thus speaks without words, holding in a single object the whole theology of the storm.",
     "related_creatures": [
       "oya-yoruba"
     ],
@@ -374,7 +379,7 @@
       "dance wand yoruba"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "opon-ifa-board-1403",
@@ -391,7 +396,7 @@
     "material": "Carved wood, wood powder",
     "era": "Traditional, still in use",
     "associated_creature": "orunmila-yoruba",
-    "description": "The opon ifa is the circular wooden divination tray of Yoruba Ifa priests (babalawo), dusted with wood powder on which the client's sign is traced. The babalawo casts palm nuts or a divination chain and reads the emerging patterns under Orunmila's guidance. Tray rims are carved with Eshu's face and proverb scenes, and the board is kept from profane use.",
+    "description": "The opon ifa is the round wooden tray on which the Yoruba babalawo, the priest of divination, reads the will of the orisha Orunmila: dusted with wood powder, the tray receives the patterns traced as the diviner casts the palm nuts or swings the divination chain and interprets the emerging odu. The rim of the tray is carved with the face of Eshu, the messenger who carries the signs, and with figures of proverb scenes, and the flat face is kept smooth so the powder can be drawn and redrawn again and again through the reading. The tray is treated as sacred: it is never set directly on the ground, only the initiated handle it, and after each consultation the powder is gathered and the board cleaned with ceremony. The opon ifa is the visible center of Ifa divination, the system that has guided Yoruba families for centuries and has since spread with the diaspora to the Americas. In its carvings and its signs it holds the memory of a people.",
     "related_creatures": [
       "eshu"
     ],
@@ -417,7 +422,7 @@
       "babalawo board"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "opanak-1754",
@@ -427,7 +432,7 @@
     "region": "Slavic",
     "culture": "Serbian",
     "type": "garment",
-    "description": "The opanak is traditional Serbian peasant footwear, a soft leather moccasin with a turned-up pointed toe and leather straps, hand-made and waterproof. Its curling toe, worn for walking in grass and hills, made it a marker of Serbian village identity and folk dress.",
+    "description": "The opanak is the traditional leather shoe of the Serbian countryside, a soft moccasin cut from a single piece of cured pig or calf hide, stitched at the heel and gathered over the foot with thongs that cross above the ankle. Its most striking feature is the turned-up toe, the špic, which lifted the foot clear of dew, grass and stones and, in the most famous regional pattern, curls back into a small horn over the instep. Opanci were worn with woollen footcloths called obojci and tied with long straps, and they served peasants, herdsmen and even soldiers for centuries before factory footwear displaced them. Because almost every village had its own cut - the wide Šumadija form, the sharp Bosnian toe, the flat Montenegrin sole - the opanak became a strong marker of Serbian folk dress and is still worn at festivals, by folk dancers and on ceremonial occasions.",
     "source_type": "oral_tradition",
     "source_quality": "documented",
     "attested": true,
@@ -466,7 +471,7 @@
     "region": "Slavic",
     "culture": "Macedonian",
     "type": "jewelry",
-    "description": "Ohrid pearls are handmade jewellery pearls of North Macedonia, formed by layering fish-scale essence over a mother-of-pearl core, made in Ohrid workshops for about a century. Their warm lustre and entirely manual method made them a signature craft of Ohrid and the region's jewellers.",
+    "description": "Ohrid pearls are handmade jewellery pearls of North Macedonia, built up from a ground shell core coated with layer after layer of a milky emulsion made from the scales of the plasica, a small silvery fish endemic to Lake Ohrid. Because the recipe and the painstaking process are guarded as family secrets, only two families - the Talevs, who bought the formula in 1924, and the Filevs, who learned it in 1928 - have made authentic Ohrid pearls, passing the craft from father to son and hand-coating each grain up to ten times. Local tradition credits the secret to Jovan Subanović, a Russian emigrant said to have brought the technique to Ohrid after the 1917 revolution, and the name 'Ohrid Pearl' was fixed by 1935. Their soft lustre and durability made them famous beyond the Balkans; Queen Elizabeth II and Princess Diana are said to have worn them, and a handmade necklace remains a proud family heirloom.",
     "source_type": "oral_tradition",
     "source_quality": "documented",
     "attested": true,

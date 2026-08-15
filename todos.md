@@ -15,6 +15,11 @@
 - [ ] T10 — sw.js cache bump v1_0_15 → v1_0_16
 - [ ] T11 — Zenodo v1.2.0 release (fresh DOI, ~670 items)
 
+## G5b — Items information-expansion pass (Aug 11) — NEW STANDARD
+- [x] Rule change: description **target ≥500 chars, hard floor 200, no hard cap** (was 150-400); every entry should be a substantive mini-encyclopedia entry (what/where/materials/role in folklore/variants/status), no boilerplate; **every entry should cross-reference creatures/stories where a genuine link exists** (verified against `data/datasets/*.json` + `ref-*.txt`). Documented in `archive/scripts/expansions/items/guide.md`; validator floor 150→200 in `research_items_phase1.py` + `apply-batch.mjs`.
+- [x] Expansion: all 641 items → 16 input batches (`archive/scripts/expansions/items/expand/batch-01..16-input.json`, 40-41 each); dispatch research agents to write `batch-NN-output.json` (desc ≥500, cross-refs added); verify via `verify-items-expansion.py`; apply via `apply-items-expansion.py` (in-place, tmp+os.replace, backref sync); shards → jest → chromium e2e → commit data/ only. DONE `E2d1` commit: 641/641 verified 0 err/0 warn; applied (desc min 500, median 890, max 1223; 187 creature-ref + 170 story-ref items; +53 creature +37 story backrefs, 0 broken); jest 172/172, chromium 413/414 (1 pre-existing scroll-restore timing flake, passes 3/3 in isolation). Fix: apply-items-expansion.py ROOT needed 4th `..` (was resolving to archive/).
+  - [x] **batch-13 (South Asia 1528-1552 + Oceania 1601-1615) output DONE** (Aug 15): 40/40 descs expanded to 740-883 chars; cross-refs added — gata-bera-drum & sanni-yaksha-mask → story the-legend-of-gara-yakka; didgeridoo → rainbow-serpent/julunggul-aboriginal; bullroarer → daramulum-aboriginal; hei-tiki → story the-origin-of-the-tiki; waka-taua → taniwha; mukut/kete keep existing. `verify-items-expansion.py` 361/361 checked, 0 errors, 0 warnings. NOT yet applied to data/items.json.
+
 ## Items & Artifacts Feature (Aug 8) — plan: docs/superpowers/plans/2026-08-08-items-artifacts.md
 - [x] T1 — items.json 20 seed + items-schema.md + items-data.test.js + creature/story back-refs (`c44eac6`, 160/160)
 - [x] T2 — js/items-viewer.js + viewer-base countLabel + tests/items-viewer.test.js (3 jsdom) + transform-esm.js (`195833e`, 163/163)

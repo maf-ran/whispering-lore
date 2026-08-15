@@ -18,7 +18,7 @@
     "maker": "Sami noaidi and drum-makers",
     "powers": "Used for divination and calling the spirit world.",
     "associated_creature": null,
-    "description": "The Lapp drum, the sacred drum of the Sami noaidi or shaman, made of a frame of pine with a reindeer-skin head painted with figures in alder-bark juice. The drum was beaten for divination, and the noaidi sought answers in the drumming while its figures of sun, gods, reindeer, and man mirrored the Sami cosmos. Many drums were confiscated by missionaries in the 17th-18th centuries.",
+    "description": "The Lapp drum, the sacred drum of the Sami noaidi or shaman, made of a frame of pine with a reindeer-skin head painted with figures in alder-bark juice. The drum was beaten for divination, and the noaidi sought answers in the drumming while its figures of sun, gods, reindeer, and man mirrored the Sami cosmos; a pointer or ring moving across the painted skin gave the answer to the question asked. Many drums were confiscated by missionaries in the 17th-18th centuries and burned or sent to collections, so that only a few dozen survive in museums, each one an irreplaceable map of the old belief. The drum's power was believed to travel with its owner, and the noaidi used it to find lost reindeer, cure the sick, and travel between the worlds. The Lapp drum is the central object of the older Sami religion and a key witness to it.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Sami drum tradition; museum collections",
@@ -41,7 +41,7 @@
       "shaman drum sami"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "lavvo-0412",
@@ -59,7 +59,7 @@
     "material": "Wood poles with reindeer-hide or canvas covering",
     "era": "Traditional to present",
     "associated_creature": null,
-    "description": "The conical tent of the Sámi people, raised on a tripod of poles and covered with reindeer hide or, in modern times, canvas. The lavvu is light enough to carry on a sledge or a reindeer and quick to pitch on the open tundra, with the hearth at the center and smoke escaping through the crown. It has been the seasonal home of reindeer-herding families for centuries and is still raised at festivals.",
+    "description": "The conical tent of the Sámi people, raised on a tripod of poles and covered with reindeer hide or, in modern times, canvas. The lavvu is light enough to carry on a sledge or a reindeer and quick to pitch on the open tundra, with the hearth at the center and smoke escaping through the crown. It has been the seasonal home of reindeer-herding families for centuries and is still raised at festivals. The layout of the lavvu follows a strict order, with the back of the tent and the space opposite the door kept sacred and reserved, and the family's places arranged around the fire by rank and custom. In winter the hide cover and the inner snow-wall turned the tent into a warm shelter against the Arctic cold, and in summer the lighter canvas version followed the herds. The lavvu remains the pattern for modern Sámi life, at once a practical tent and a symbol of the herding culture.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Sámi ethnography",
@@ -82,7 +82,7 @@
       "goahti"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "sami-drum-0413",
@@ -101,7 +101,7 @@
     "era": "Pre-Christian to 18th century",
     "powers": "Used by the noaidi, the Sámi shaman, to see hidden things, find lost reindeer, and answer questions.",
     "associated_creature": null,
-    "description": "The frame drum of the Sámi shaman, or noaidi, a shallow bowl of carved pine covered with reindeer skin painted in red alder juice with figures of gods, animals, and the sun. Struck with a reindeer-horn hammer while the noaidi sang, the drum revealed answers in the path of a jumping ring. Hundreds were burned by missionaries in the 18th century, and survivors are treasured museum objects.",
+    "description": "The frame drum of the Sámi shaman, or noaidi, a shallow bowl of carved pine covered with reindeer skin painted in red alder juice with figures of gods, animals, and the sun. Struck with a reindeer-horn hammer while the noaidi sang, the drum revealed answers in the path of a jumping ring. Hundreds were burned by missionaries in the 18th century, and survivors are treasured museum objects. The drum was both an instrument and a sacred map, its painted surface showing the upper, middle, and lower worlds and the figures of the gods who governed the herd, the weather, and the sick. The noaidi used it to find lost reindeer, to answer the questions of the community, and to travel in spirit, and each drum's pictures were painted anew by its owner so that no two are alike. Only a small number survive, and they are among the most important evidence of the old Sámi religion.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Sámi ritual objects; museum collections",
@@ -123,7 +123,7 @@
       "shaman drum"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "sieidi-stone-0414",
@@ -141,8 +141,10 @@
     "era": "Pre-Christian to modern",
     "powers": "An offering stone believed to grant luck in hunting, fishing, and reindeer herding to those who sacrifice.",
     "associated_creature": null,
-    "description": "A natural stone, boulder, or outcrop venerated by the Sámi as the dwelling of a spirit and a place of offering, the sieidi or seita. Hunters, fishers, and herders left antlers, bones, silver, or food at sieidis to secure luck and damaged the stone when crossed. Many stand at lakes, rivers, and passes across Norwegian Sápmi, and the custom survived in the far north into modern times.",
-    "related_creatures": [],
+    "description": "A natural stone, boulder, or outcrop venerated by the Sámi as the dwelling of a spirit and a place of offering, the sieidi or seita. Hunters, fishers, and herders left antlers, bones, silver, or food at sieidis to secure luck and damaged the stone when crossed. Many stand at lakes, rivers, and passes across Norwegian Sápmi, and the custom survived in the far north into modern times. Each sieidi was home to a spirit of its own, and the people who used it knew which offering suited the place, whether a reindeer's antlers for the herd or a silver coin for the fishing luck. If the stone failed the one who prayed to it, it could be beaten or turned as a punishment, showing that the power was a bargain, not a blind faith. The sieidis are still respected today as the oldest sacred places of the Sámi landscape.",
+    "related_creatures": [
+      "sieidi-spirit-sami"
+    ],
     "featured_in_stories": [],
     "source": "Sámi ritual tradition; ethnographic records",
     "source_type": "secondary_scholarly",
@@ -163,7 +165,7 @@
       "sami offering stone"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "gakti-0415",
@@ -180,7 +182,7 @@
     "material": "Wool with tin-thread and pewter embroidery",
     "era": "Traditional to present",
     "associated_creature": null,
-    "description": "The traditional dress of the Sámi, a tunic worn with a decorated collar, belt, and headgear, trimmed with bands of red, blue, and yellow and pewter-thread embroidery. Each region of Sápmi has its own cut, colors, and embroidery, so the dress tells the wearer's origin and family. The gákti is still worn for ceremonies and festivals and carries strong cultural identity among Sámi in Norway.",
+    "description": "The traditional dress of the Sámi, a tunic worn with a decorated collar, belt, and headgear, trimmed with bands of red, blue, and yellow and pewter-thread embroidery. Each region of Sápmi has its own cut, colors, and embroidery, so the dress tells the wearer's origin and family. The gákti is still worn for ceremonies and festivals and carries strong cultural identity among Sámi in Norway. The dress is made of wool for the cold, and its bands and borders follow the wearer's home district, with the colours and the shape of the collar, the buttons, and the silver so specific that a knowing eye can read the wearer's valley at a glance. The belt and its ornamented pouch hold the personal tools of the wearer, and the pewter-thread embroidery catches the light in the long winter dark. The gákti has been worn unbroken through the centuries and today is both everyday dress and festive costume.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Sámi dress tradition",
@@ -202,7 +204,7 @@
       "samisk kofte"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "guksi-0423",
@@ -219,7 +221,7 @@
     "material": "Carved birch burl",
     "era": "Traditional to present",
     "associated_creature": null,
-    "description": "The Sámi cup carved from a birch burl, with a handle and a shallow bowl, traditionally worn at the belt for coffee, broth, and water. Each guksi is shaped from a single piece of burled birch and seasoned by use, so a worn cup becomes a prized possession among reindeer herders. Carving is a handwork tradition passed down in Sámi families in Norway and Finland.",
+    "description": "The Sami cup carved from a single piece of birch burl, with a shallow bowl and a flat handle, worn at the belt for coffee, broth, or water. Because each guksi is shaped from a burl, every piece has a unique grain, and the cup is seasoned by use until it holds the taste of coffee and smoke. Carving is part of the Sami duodji handcraft tradition, still practiced in Norway, Sweden, and Finland, and the finest cups are made of burl that has grown slowly in the cold. Traditionally it was a personal possession, and a well-worn guksi became a valued companion on the reindeer-herding path. In modern use the guksi has also become popular in outdoor life far beyond Sapmi.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Sámi craft tradition",
@@ -241,6 +243,6 @@
       "komse"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   }
 ]

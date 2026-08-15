@@ -17,8 +17,11 @@
     "maker": "Unnamed",
     "powers": "The well of fate from which the Norns shape the destinies of all beings.",
     "associated_creature": null,
-    "description": "Urðarbrunnr, the well of fate that lies beneath the root of the world tree Yggdrasil, beside which the three Norns dwell and shape the fates of men. The gods hold their council there, and swans swim in the well. Each day the Norns water the tree with its clay-white water and dew so that it never withers, making the well the source of all destiny in Norse myth.",
-    "related_creatures": [],
+    "description": "Urðarbrunnr, the well of fate that lies beneath a root of the world tree Yggdrasil, beside which the three Norns dwell and shape the fates of men. The gods hold their council there, and swans swim in the well. Each day the Norns water the tree with its clay-white water and dew so that it never withers, making the well the source of all destiny in Norse myth. The well takes its name from Urðr, the eldest Norn, whose sisters Verðandi and Skuld spin and cut the threads of every life. Beneath other roots of the ash lie Mímir's well of wisdom and the spring Hvergelmir, so that the tree is nourished by the waters of fate, memory, and chaos at once. The daily watering — pouring the holy water and the clay over the ash — is the act that keeps the world tree alive, and the swans upon the well are the ancestors of all the swans in the world.",
+    "related_creatures": [
+      "norns-iceland",
+      "yggdrasil"
+    ],
     "featured_in_stories": [],
     "source": "Prose Edda (Gylfaginning); Völuspá",
     "source_type": "literary",
@@ -40,7 +43,7 @@
       "wyrd"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "witch-broom-0307",
@@ -59,7 +62,7 @@
     "maker": "Household making",
     "powers": "Carries the rider to the witches' sabbath mountain Blåkulla.",
     "associated_creature": null,
-    "description": "The broom (kvast) that, in Swedish folk belief, carried witches to Blåkulla, the witches' sabbath mountain, especially on Maundy Thursday before Easter. The 'påskkärring', the Easter witch, was thought to ride a broom, or a cow, goat, or pitchfork, to Blåkulla. People blocked chimneys and hid brooms behind stoves to stop the flights, and the belief shaped Sweden's Easter-witch custom.",
+    "description": "The broom (kvast) that, in Swedish folk belief, carried witches to Blåkulla, the witches' sabbath mountain, especially on Maundy Thursday before Easter. The 'påskkärring', the Easter witch, was thought to ride a broom, or a cow, goat, or pitchfork, to Blåkulla. People blocked chimneys and hid brooms behind stoves to stop the flights, and the belief shaped Sweden's Easter-witch custom. The journey was said to take place on Maundy Thursday night, when the witches flew to the mountain, danced, and made their pact with the devil; families therefore stopped up their chimneys, barred their doors, and hid every broom, for a broom left within reach could carry off the household's own luck. Children were forbidden to go out, and the custom of dressing children as Easter witches — with broomsticks and painted cheeks — grew directly out of this old night of fear. The belief is recorded in the witchcraft trials of the seventeenth century, where the flight to Blåkulla was confessed again and again.",
     "related_creatures": [
       "trollkona-sweden"
     ],
@@ -85,7 +88,7 @@
       "häxkvast"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "the-witch-book-denmark-0447",
@@ -104,7 +107,7 @@
     "era": "Folk era (17th-19th century)",
     "powers": "Used by cunning folk to heal the sick, find stolen goods, and undo witchcraft.",
     "associated_creature": null,
-    "description": "A handwritten book of prayers, charms, and remedies kept by Danish cunning folk, the 'black book' or Cyprianus, named after the apocryphal magician-bishop Cyprianus of Antioch. The books mixed church prayers with healing formulas against disease, worms, and bewitchment. Hundreds survive in Danish archives as evidence of a living folk magic that continued well into the 19th century.",
+    "description": "A handwritten book of prayers, charms, and remedies kept by Danish cunning folk, the 'black book' or Cyprianus, named after the apocryphal magician-bishop Cyprianus of Antioch. The books mixed church prayers with healing formulas against disease, worms, and bewitchment, and with charms for finding lost or stolen goods. Hundreds survive in Danish archives as evidence of a living folk magic that continued well into the 19th century, alongside the law's efforts to stamp it out. Reading from the black book was said to be a dangerous art, best left to the wise.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Danish folk magic collections (sortebog/Cyprianus tradition)",
@@ -126,7 +129,7 @@
       "danish grimoire"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "war-shield-of-neith-1115",
@@ -145,7 +148,7 @@
     "maker": "Unnamed",
     "powers": "Emblem of the goddess of war and of weaving.",
     "associated_creature": null,
-    "description": "The emblem of the goddess Neith of Sais: a shield across which two crossed arrows are set, combining her natures as a war goddess and a weaver. The symbol is attested as her sign from early Egyptian writing, painted on her temple walls and on votive objects, and the classical authors Plutarch and Herodotus described it. It is one of the oldest goddess emblems of Egypt.",
+    "description": "The emblem of the goddess Neith of Sais: a shield across which two crossed arrows are set, combining her natures as a war goddess and a weaver into a single sign. Attested as her writing from the earliest Egyptian hieroglyphs, the emblem was painted on her temple walls, carved on votive objects, and adopted as the badge of her cult city. The Greek and Roman writers Plutarch and Herodotus both describe the goddess and her warlike symbol, and Herodotus records the shrine of Neith at Sais with its festival of lamps. As one of the oldest goddess emblems of Egypt, the shield-and-arrows remained in use into the Graeco-Roman period, when Neith, identified with Athena, still bore the crossed arrows.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Neith emblem on early votives; Plutarch, De Iside",
@@ -167,7 +170,7 @@
       "goddess of saïs"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-09"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "wesekh-collar-1116",
@@ -186,7 +189,7 @@
     "maker": "Jewelers and bead makers",
     "powers": "Bestowed solar protection and divine favor on its wearer.",
     "associated_creature": null,
-    "description": "The broad beaded collar worn across the chest by pharaohs, queens, and gods, built of rows of faience and semiprecious beads capped by golden falcon-headed terminals. Such collars were given as royal gifts and buried with the dead, who are shown receiving them from deities; Tutankhamun's burial yielded dozens in gold, glass, and stone. The wesekh lent its wearer solar protection and divine favor.",
+    "description": "The broad beaded collar worn across the chest and shoulders by pharaohs, queens, nobles, and gods, built of rows of faience and semiprecious beads and capped with golden falcon-headed terminals, the name wesekh meaning 'broad'. Such collars were given as royal gifts, as the Amarna letters record the sending of broad collars of gold between courts, and they were buried with the dead, who are shown in tomb scenes receiving them from the gods. Tutankhamun's burial yielded dozens in gold, glass, carnelian, and turquoise-coloured faience, many laid directly on the mummy. The weight and splendour of the collar marked rank, and its spreading rays of beads lent the wearer the protection and favour of the sun god.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Royal tombs and temple reliefs",
@@ -207,7 +210,7 @@
       "egyptian beaded collar"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-09"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "whistling-arrow-1235",
@@ -226,7 +229,7 @@
     "maker": "Mongol arrow smiths",
     "powers": "Signal whistle that directed cavalry maneuvers",
     "associated_creature": null,
-    "description": "The signal arrow of the Mongol armies, tipped with a drilled bone head that shrieked in flight, used by Genghis Khan's cavalry to direct charges and ambushes across the steppe. Described by Persian and Chinese chroniclers, the whistling arrow survives as a motif of the swift, coordinated warfare that built the empire.",
+    "description": "The whistling arrow is the signal arrow of the Mongol armies, tipped with a drilled bone or wooden head that shrieked in flight, and it was used by Genghis Khan's cavalry to direct charges, ambushes, and encirclements across the steppe. Described by Persian chroniclers such as Juvaini and by Chinese observers, the arrow worked by sound rather than by wounding: the drilled head, often globular with holes, screamed as it flew, and the direction and number of whistles could carry simple commands to units spread across the plain. The technology descended from the signal arrows of the earlier steppe peoples, and it allowed the tightly coordinated movements that made the Mongol armies so formidable. The whistle is also associated with hunting and with the signals of the ordo, the ruler's camp. The whistling arrow survives as a motif of the swift, coordinated warfare that built the empire, and reproductions are made for museums and festivals.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Persian and Chinese chronicles of the Mongol campaigns",
@@ -248,7 +251,7 @@
       "steppe arrow"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-09"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "wampum-belt-1321",
@@ -267,7 +270,7 @@
     "maker": "Haudenosaunee bead-makers and weavers",
     "powers": "Records treaties and laws in a living web of shell.",
     "associated_creature": null,
-    "description": "Belts woven from purple and white shell beads that served Eastern Woodlands peoples, especially the Haudenosaunee, as records of treaties, laws and historic events; the patterns carried the meaning read aloud at councils. The Great Law of Peace and the Hiawatha belt are among the most celebrated. Colonists adopted wampum as trade currency, a role that reshaped but never erased its ceremonial use.",
+    "description": "Wampum belts are woven from cylindrical shell beads, the purple from quahog clam shells and the white from whelks, strung and woven into belts that served Eastern Woodlands peoples, above all the Haudenosaunee, as records of treaties, laws and history. Because the patterns carried meaning that had to be read aloud, wampum worked as memory in material form: the Hiawatha belt records the joining of the Five Nations, and the Great Law of Peace was both encoded in and recited over the belts. Colonial governments and missionaries also used wampum for diplomacy, while European traders turned the shell beads into a currency that flooded the market and reshaped their value. Strings and belts were exchanged to confirm a treaty or a condolence, and a belt given and accepted bound both sides to the words spoken over it. Haudenosaunee nations still hold and read ancient belts, and new belts are woven for modern agreements.",
     "related_creatures": [],
     "featured_in_stories": [
       "hiawatha-and-the-invention-of-wampum",
@@ -293,7 +296,7 @@
       "shell belt"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "war-bonnet-1331",
@@ -312,7 +315,7 @@
     "maker": "Plains feather-workers",
     "powers": "Each feather marks an honor earned in war or ceremony.",
     "associated_creature": null,
-    "description": "The grand headdress of upright eagle feathers worn by Plains chiefs, each feather earned by bravery or a vision and the whole assembled with ceremony. The straight-up bonnet familiar from photographs became prominent in the nineteenth century; earlier forms differed widely. Feathers could also be earned for deeds in peace, and the bonnet is worn with respect as a symbol of leadership.",
+    "description": "The war bonnet, or eagle-feather headdress, is the grand plume of upright golden-eagle feathers worn by honoured leaders of the Plains nations such as the Lakota, Cheyenne, Blackfoot and Crow. Each feather had to be earned, given for an act of bravery, a coup counted in battle, or received through a vision, and the bonnet itself was assembled with ceremony. The straight-up bonnet with its long trailer familiar from photographs became prominent in the nineteenth century; earlier and regional forms varied widely, including buffalo-horn bonnets and feather roaches. Feathers could be awarded for peace and generosity as well as war, and the bonnet marks its wearer as a man or woman of proven standing, worn with the responsibility that leadership carries. The style has since been imitated widely in popular culture, but among Plains peoples the bonnet remains a serious, earned honour.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Plains oral tradition and historical accounts",
@@ -335,7 +338,7 @@
       "eagle feather headdress"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "witch-bottle-1340",
@@ -354,7 +357,7 @@
     "maker": "Folk practitioners",
     "powers": "Traps the witch's harm and turns it back on her.",
     "associated_creature": null,
-    "description": "A bottle packed with pins, nails, hair and sometimes urine, sealed and hidden in a wall, chimney or hearth to draw a witch's spell into itself and break it, a practice brought from Europe to colonial America. Scores of bottles have been found bricked into old American and English buildings. The charm offers the bottle as a decoy and a trap, its sharp contents meant to wound the witch in return.",
+    "description": "The witch bottle is a stoneware or glass bottle packed with pins, needles, nails, broken glass, hair and often urine, sealed tightly and hidden in a wall, chimney, hearth or floor of a home to protect it from witchcraft. The practice, brought from England and Europe to colonial America, worked by drawing the witch's curse into the bottle and then returning the harm to its sender; the pins and sharp contents were meant to wound the witch who sent the spell. Scores of such bottles have been excavated from colonial American buildings and English houses, often dating from the 17th to the 19th centuries, and similar 'spirit bottles' were buried to trap demons and fairies. Folklore says the bottle should be kept in the dark and never opened or broken, or the trapped harm is released. The witch bottle is among the most archaeologically visible forms of folk magic in the Anglo-American world.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Colonial American folk magic and archaeological finds",
@@ -377,7 +380,7 @@
       "folk magic bottle"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "woomera-1604",
@@ -387,7 +390,7 @@
     "region": "Aboriginal",
     "culture": "Aboriginal Australian",
     "type": "weapon",
-    "description": "Wooden spear-throwing lever of the Aboriginal peoples of Australia, a handle with a peg or socket that lengthens the arm to hurl a spear with greater force and distance. Made from a flat or curved branch shaped with stone tools and fixed with resin, the woomera is a hunting and fighting weapon and a sacred object in initiation, when it may bear the engraved designs of the clan.",
+    "description": "The woomera is the spear-throwing lever of the Aboriginal peoples of Australia, a wooden handle with a peg or socket at one end that lengthens the thrower's arm and hurls a spear with far greater force and distance than the arm alone. It is shaped from a flat or curved branch with stone tools, and the peg is fixed with resin, and in the central and western regions it was the standard hunting and fighting weapon, with the same tool doubling as a dish, a digging stick or a fire-maker. The woomera was used across most of the continent, though it was unknown in Tasmania, and in initiation it may be engraved with the designs of the clan and treated with respect. The name entered English from the Dharug language of the Sydney region, and the tool is also known by the name miru in some areas.",
     "source_type": "secondary_scholarly",
     "source_quality": "documented",
     "attested": true,
@@ -414,7 +417,7 @@
     ],
     "source": "Ethnographic records of Aboriginal hunting technology",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "waka-taua-1615",
@@ -424,7 +427,7 @@
     "region": "Polynesian",
     "culture": "Māori",
     "type": "ship",
-    "description": "Māori war canoe, a long carved vessel of up to forty paddlers that carried war parties on raids and conveyed chiefs in ceremony. Built from a single totara trunk with carved prow and stern posts, the waka taua was a symbol of tribal mana, and its launching and naming were accompanied by ritual and karakia.",
+    "description": "The waka taua is the Maori war canoe, a long carved vessel that carried war parties on raids and conveyed chiefs in ceremony, often paddled by forty or more warriors. It was built from a single totara trunk, with the hull hollowed and shaped by adze, and fitted with carved prow and stern posts, a raised wash-strake and lashings of fibre; the prow commonly carried the carved figure of a taniwha, the guardian water spirit of Maori tradition. The launching and naming of a waka taua were accompanied by ritual and karakia, and the canoe itself was a symbol of tribal mana, so that a great waka bore the name of its tribe and its ancestors. When a war party paddled out, the crew performed haka and chanted in time with the strokes, and the waka was both a transport of war and a work of carved art.",
     "source_type": "secondary_scholarly",
     "source_quality": "documented",
     "attested": true,
@@ -436,7 +439,9 @@
     "era": "pre-European to nineteenth century",
     "maker": "Māori canoe builders",
     "associated_creature": null,
-    "related_creatures": [],
+    "related_creatures": [
+      "taniwha"
+    ],
     "featured_in_stories": [],
     "keywords": [
       "canoe",
@@ -451,7 +456,7 @@
     ],
     "source": "Ethnographic accounts of Māori naval technology",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "wycinanka-1733",
@@ -461,7 +466,7 @@
     "region": "Slavic",
     "culture": "Polish",
     "type": "household object",
-    "description": "Wycinanka is Polish folk paper-cutting, most famously the colourful layered cutouts of Łowicz, made with sheep shears from dyed paper. Designs show birds, suns, flowers and village scenes, and were pasted on walls and beams to brighten rural homes, particularly in Mazovia and Kurpie regions.",
+    "description": "Wycinanka is the Polish folk art of paper cutting, practised above all by village women from the nineteenth century, who folded and snipped dyed paper with heavy sheep shears to make flat wall decorations. Regional schools differ sharply: the celebrated cutouts of Łowicz build up layers of brightly coloured paper into leafy bouquets, rosettes and birds, while Kurpie makers favour single-colour, symmetrical designs such as the jedynak, cut from one folded sheet in black, red or gold. The cutouts were pasted on the whitewashed beams and walls of rural cottages, hung around holy pictures and given as wedding gifts, borrowing their motifs freely from embroidery, tile painting and woven bands. Though few farmhouses now display them in the old way, wycinanki survive as an emblem of Polish folk identity, taught in workshops and collected in ethnographic museums such as those at Łowicz and Warsaw.",
     "source_type": "oral_tradition",
     "source_quality": "documented",
     "attested": true,

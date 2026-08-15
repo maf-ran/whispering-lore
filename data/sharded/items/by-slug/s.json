@@ -15,7 +15,7 @@
     "maker": "Sons of Ivaldi (dwarves)",
     "powers": "Folds up like a cloth into a pocket; always has a fair wind.",
     "associated_creature": null,
-    "description": "The best of all ships, built for Freyr by the dwarven sons of Ivaldi. Large enough to carry all the gods and their weapons, yet it can be folded like a cloth and carried in a pouch when not at sea. It always finds a fair wind wherever it sails. In the Prose Edda, Skíðblaðnir is listed among the treasures the dwarves made for the gods.",
+    "description": "Skíðblaðnir is the best of all ships, built for the god Freyr by the dwarven sons of Ivaldi and listed among their marvels in the Prose Edda. It is large enough to carry all the gods and their weapons, yet it can be folded up like a cloth and carried in a pouch when not in use. The ship always finds a fair wind wherever it sails, so the gods never lack for a swift voyage, and it is sometimes said to be made of wood thin enough to fold without breaking. In Snorri's account the ship is counted as one of the greatest treasures of the gods, and it also sails the company of the gods at Ragnarök in some retellings. Though no physical counterpart survives, the name has lived on in Scandinavian shipping and fiction as a byword for a perfect, always-favorable vessel.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Prose Edda (Skáldskaparmál)",
@@ -37,7 +37,7 @@
       "sons of ivaldi"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "sunken-church-bell-0118",
@@ -56,7 +56,7 @@
     "maker": "Church foundry",
     "powers": "Said to ring from beneath the water on holy nights, and to be recoverable only by one pure of heart.",
     "associated_creature": null,
-    "description": "A recurring Swedish folk motif: a church bell lost in a lake — swept overboard while being ferried, or dragged down by the water folk (or a troll) because its ringing disturbed them. The bell is said to toll faintly beneath the surface on Christmas night or other holy nights, and treasure-hunters who try to raise it with a pure heart may catch a glimpse of it before it slips away. Variants are told across Sweden, Norway, and Finland.",
+    "description": "The sunken church bell is a recurring folk motif of Sweden and the wider Nordic region: a church bell that lies lost in a lake or river, usually because it sank while being ferried to a church or was dragged down by a troll or the water-folk who hated its ringing. The bell is sometimes said to toll faintly beneath the surface on Christmas night or other holy nights, and treasure-hunters who try to raise it are said to glimpse it and then watch it slip away again, unless a pure-hearted person can win it. The legend is told in many local variants across Sweden, Norway, and Finland, often tied to named lakes and parishes. It also echoes a real custom, since church bells were occasionally lost in transport. The motif survives in place-lore, folk music, and children's stories as one of the most beloved lake legends of the north.",
     "related_creatures": [
       "troll-sweden"
     ],
@@ -81,7 +81,7 @@
       "christmas bell"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "sampo-0120",
@@ -100,8 +100,12 @@
     "maker": "Ilmarinen, the eternal smith",
     "powers": "Grinds out grain, salt, and gold for its possessor.",
     "associated_creature": null,
-    "description": "The wonder-working mill of Finnish epic, forged by the smith Ilmarinen as the price for the hand of the maiden of Pohjola. The Sampo ground out limitless grain, salt, and gold, making its possessor rich. In the Kalevala, the heroes of Väinölä and the mistress of Pohjola fight over it; in the battle the Sampo is smashed and lost at sea, and its fragments grant the sea its richness. Its shape and true nature are never fully described.",
-    "related_creatures": [],
+    "description": "The Sampo is the wonder-working mill of Finnish epic, forged by the great smith Ilmarinen as the bride-price demanded for the hand of the maiden of Pohjola. In the Kalevala the Sampo grinds out limitless grain, salt, and gold for its possessor, making it the engine of the northern world's wealth. The heroes of Väinölä and Louhi, the mistress of Pohjola, fight over it in the great raid that follows; during the sea-battle the Sampo is shattered and lost overboard, and the fragments that wash ashore are said to have given the sea and the land of Finland their richness. Its true shape and nature are never fully described — it is a mill, a chest, a pillar, or simply 'the Sampo' — and scholars still debate what it originally was. It stands as the central object of the Kalevala, and its name lives on in Finnish art, music, and the Finnish word for a lucky wonder.",
+    "related_creatures": [
+      "ilmarinen-finland",
+      "louhi-finland",
+      "vainamoinen-finland"
+    ],
     "featured_in_stories": [
       "ilmarinen-forges-the-sampo",
       "capture-of-the-sampo"
@@ -127,7 +131,7 @@
       "pohjola"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "sifs-golden-hair-0203",
@@ -146,7 +150,7 @@
     "maker": "Sons of Ivaldi (dwarves)",
     "powers": "Grows from the head like real hair and never loses its gleam.",
     "associated_creature": null,
-    "description": "The golden hair of Sif, wife of Thor, wrought by the dwarven sons of Ivaldi after Loki maliciously cut off her own. Made of gold so fine that it grew from her head like real hair, it became proof of the dwarves' skill and opened the great contest of gifts between rival smiths. Loki commissioned it to atone for his mischief, and Thor kept his skull intact.",
+    "description": "Sif's golden hair is the treasure that the dwarven sons of Ivaldi made for Sif, the wife of Thor, after Loki maliciously shaved her head. To atone for his mischief Loki had the sons of Ivaldi forge hair of pure gold so fine that it grew from Sif's head like real hair, and the making of it opened the great contest of treasures in which the dwarves vied against each other — the same contest that produced Gungnir, Skíðblaðnir, Mjölnir, and Draupnir. In the Prose Edda the golden hair is listed among the gifts the sons of Ivaldi delivered, and the story explains why gold is called 'Sif's hair' in skaldic kennings. The tale shows the dwarves as the great craftsmen of the gods and Loki as the instigator of their finest work. Sif's hair remains a standard example of the dwarven gift-hoard and of gold-kennings in Old Norse poetry.",
     "related_creatures": [
       "dwarf-dvergr"
     ],
@@ -170,7 +174,7 @@
       "loki mischief"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "svalinn-0208",
@@ -189,7 +193,7 @@
     "maker": "Unnamed",
     "powers": "Tempering the sun's rays so the earth and sea are not consumed by fire.",
     "associated_creature": null,
-    "description": "The shield that stands before the sun, named in Grímnismál, sheltering earth and sea from the burning rays of the sun goddess Sól. The poem warns that if the shield ever falls away, mountains and the deep sea would be consumed by flame. It is one of the most purely cosmic objects in the Eddic corpus, a world-sustaining object rather than a warrior's arm.",
+    "description": "Svalinn, 'the chill' or 'the cooling one', is the shield that stands before the sun in Norse mythology, named in the poem Grímnismál. According to the stanza, the shield protects the earth from the burning rays of the sun goddess Sól as she is dragged across the sky by the horses Árvakr and Alsviðr, and 'mountains and sea would be set in flames' if it ever fell from its place. The shield is also named in Sigrdrífumál and in Snorri's list of shield-names in Skáldskaparmál, and scholars have suggested it preserves a Bronze Age image of the sun as a round, shield-like disc. Unlike a warrior's shield, Svalinn is a world-sustaining object, and its role in keeping creation from burning up makes it one of the most purely cosmic objects in the Eddic corpus. It is sometimes cited in modern writing as an early image of solar protection.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Poetic Edda (Grímnismál)",
@@ -211,7 +215,7 @@
       "grimnismal"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "smjorstafur-0217",
@@ -230,7 +234,7 @@
     "maker": "Icelandic grimoire tradition",
     "powers": "Brings success in making butter.",
     "associated_creature": null,
-    "description": "Smjörstafur, the butter stave of the Huld manuscript, drawn or carved to bring success in butter-making. In an agrarian world where dairy was wealth, a charm for a full churn was practical magic, and the stave sits among the agricultural signs recorded beside the luck and protection staves of the grimoires.",
+    "description": "Smjörstafur, the 'butter stave', is an Icelandic magical sign recorded in the Huld manuscript, compiled by Geir Vigfússon at Akureyri in 1860, and drawn or carved to bring success in making butter. In an agrarian world where dairy was wealth, a charm for a full churn was practical magic, and the stave sits among the agricultural signs recorded beside the luck, protection, and money staves of the grimoires. It was probably drawn on the churn itself or on a paper carried with the dairy work, though the sources give little detail of its use. Like all the galdrastafir, its earliest known source is a 19th-century manuscript that collected older folk-magic material, and it is now reproduced in books and on merchandise as part of the Icelandic stave revival. The butter stave is a good example of how the stave tradition reached into the humblest household work.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Huld manuscript (Lbs 4626 8vo, 1860)",
@@ -252,7 +256,7 @@
       "huld manuscript"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "seidr-staff-0228",
@@ -272,9 +276,13 @@
     "maker": "Unnamed",
     "powers": "The badge of the völva's office, used in the working of seidr and prophecy.",
     "associated_creature": null,
-    "description": "The staff of the seeress or völva, who in saga accounts carried a knobbed staff as the badge of her office. Eiríks saga rauða describes the seeress Þorbjörg with a staff topped with a brass knob as she worked her seidr. Iron rods found in Viking-age female graves may be such staffs, though the identification is debated by archaeologists.",
-    "related_creatures": [],
-    "featured_in_stories": [],
+    "description": "The staff of the seeress or völva, who in saga accounts carried a knobbed staff as the badge of her office. Eiríks saga rauða describes the seeress Þorbjörg with a staff topped with a brass knob as she worked her seidr. Iron rods found in Viking-age female graves may be such staffs, though the identification is debated by archaeologists. The staff was more than a tool: it was the visible sign of the woman who could chant the seidr, see the future, and speak with the dead. In Eiríks saga the staff of the visiting völva is described in detail, and its metal knob allowed it to be placed upright in the ground during the ritual. Tales of the völva's prophecy — as when a seeress was summoned to a chieftain's court to chant the fate of the land — keep the staff's image alive in later Icelandic story.",
+    "related_creatures": [
+      "vlva-iceland"
+    ],
+    "featured_in_stories": [
+      "the-tale-of-the-vlva"
+    ],
     "source": "Eiríks saga rauða; archaeological debate",
     "source_type": "literary",
     "source_quality": "documented",
@@ -294,7 +302,7 @@
       "eiriks saga rauða"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "the-sun-chariot-0234",
@@ -313,9 +321,11 @@
     "maker": "Unnamed",
     "powers": "Carries the sun across the sky until the wolf Sköll swallows it at Ragnarök.",
     "associated_creature": null,
-    "description": "The chariot of Sól, the sun goddess, drawn across the sky by the horses Arvakr and Alsvinn, with the shield Svalinn before them to temper the light. The wolves Sköll and Hati hunt the sun and moon, and at Ragnarök Sköll will at last swallow the sun. The chariot is described in Grímnismál and Gylfaginning.",
+    "description": "The chariot of Sól, the sun goddess, drawn across the sky by the horses Arvakr and Alsvinn, with the shield Svalinn before them to temper the light. The wolves Sköll and Hati hunt the sun and moon, and at Ragnarök Sköll will at last swallow the sun. The chariot is described in Grímnismál and Gylfaginning. The horses are harnessed beneath the shield Svalinn, 'the cooling one', which keeps the earth from being burnt, and their manes are cooled by wind. Sól is sister to the moon-charioteer Máni, and both are doomed to be caught by the pursuing wolves; in the Eddic telling the sun grew pale as the end of the world neared, a sign of the long twilight to come. In retellings of Ragnarök the sun goes dark when Sköll finally seizes it, and the world plunges into the three winters without a summer.",
     "related_creatures": [],
-    "featured_in_stories": [],
+    "featured_in_stories": [
+      "ragnark-the-end-and-rebirth"
+    ],
     "source": "Poetic Edda (Grímnismál); Prose Edda (Gylfaginning)",
     "source_type": "literary",
     "source_quality": "expert",
@@ -336,7 +346,7 @@
       "svalinn"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "signbook-0303",
@@ -355,7 +365,7 @@
     "maker": "Copied by 'kloka' healers and practitioners",
     "powers": "Formulas and signs for 'signing' wounds, bleeding, illness, and fire.",
     "associated_creature": null,
-    "description": "A signbook (signeringsbok), a hand-copied Swedish book of signs used by folk healers and 'kloka gummor', the wise women and men of the parish. The volumes collected prayers, magical signs, and formulae for 'signing' wounds, bleeding, disease, and fire. Several Swedish signbooks from the 17th to 19th centuries survive in archives, mixing Christian prayers with folk-magical practice.",
+    "description": "A signbook (signeringsbok), a hand-copied Swedish book of signs used by folk healers and 'kloka gummor', the wise women and men of the parish. The volumes collected prayers, magical signs, and formulae for 'signing' wounds, bleeding, disease, and fire. Several Swedish signbooks from the 17th to 19th centuries survive in archives, mixing Christian prayers with folk-magical practice. The practice of 'signing' — speaking or drawing a fixed formula over the ailing part — was the ordinary work of the kloka, who might be consulted when the parish priest could not help. Some books were copied from one another for centuries, and a famous line of them descends from the so-called Lappman Jon Johansson, whose signerier, printed in 1917, collected the oldest Swedish formulas. The books were practical manuals: they list what to speak for a bleeding wound, a burn, snakebite, and a house on fire, always in a mixture of biblical words and older charms.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Swedish folk-medicine collections (e.g. Nordiska museet, Riksarkivet)",
@@ -380,7 +390,7 @@
       "folk healer book"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "silver-buckles-0311",
@@ -399,7 +409,7 @@
     "maker": "Local silversmiths",
     "powers": null,
     "associated_creature": null,
-    "description": "Silver buckles and clasps worn with Swedish regional folk dress, on belts, shoes, and collars. Such silver, often inherited and re-used across generations, was engraved with initials and dates and served as both ornament and stored wealth. Wealthy folk wore heavy rectangular 'spännen'; poorer folk wore simpler clasps. The buckles are a documented part of the folk-costume tradition.",
+    "description": "Silver buckles and clasps worn with Swedish regional folk dress, on belts, shoes, and collars. Such silver, often inherited and re-used across generations, was engraved with initials and dates and served as both ornament and stored wealth. Wealthy folk wore heavy rectangular 'spännen'; poorer folk wore simpler clasps. The buckles are a documented part of the folk-costume tradition. The silver was a family's movable fortune: a bride might receive buckles, brooches, and chains that were passed down and re-fashioned by local silversmiths, with the owner's initials and the year engraved on the face. Great regional pieces, like the broad buckles of Dalarna or Skåne, marked a wearer's home district at markets and church, and the weight of silver on a person's belt was read as a sign of standing. When the folk costume fell out of daily use, the buckles were kept as heirlooms, and they are still worn today at festivals and on modern folk-dräkt celebrations.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Swedish folk-costume and silver traditions",
@@ -421,7 +431,7 @@
       "folk silver"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "the-skin-satchel-0319",
@@ -439,8 +449,10 @@
     "maker": "Sewn for a magical purpose in the tale",
     "powers": "Holds an impossible store or releases the tale's marvels.",
     "associated_creature": null,
-    "description": "A satchel made of animal skin that carries magic in a Swedish folk tale. In the tale 'The Skin Satchel', the humble leather bag turns out to hold an impossible store, or to have been sewn for a magical purpose, and its opening releases the story's marvels. The satchel is one of many everyday objects in Swedish wonder-tales that conceal power.",
-    "related_creatures": [],
+    "description": "A satchel made of animal skin that carries magic in a Swedish folk tale. In the tale 'The Skin Satchel', the humble leather bag turns out to hold an impossible store, or to have been sewn for a magical purpose, and its opening releases the story's marvels. The satchel is one of many everyday objects in Swedish wonder-tales that conceal power. In the Swedish version the poor Niklas sees a troll take six grains from a leather satchel and grow an entire field of wheat in minutes; to win the satchel he must keep hold of it through the long night while the trolls shake the ground, send ghostly apparitions, and howl like wolves, without letting go or speaking a single word. When dawn breaks the trolls retreat and the satchel is his, and its endless grain saves the starving village. The tale joins the wonder-bag motif to the classic ordeal of the trolls' night, where courage and silence win the treasure.",
+    "related_creatures": [
+      "troll-sweden"
+    ],
     "featured_in_stories": [
       "the-skin-satchel"
     ],
@@ -462,7 +474,7 @@
       "leather bag tale"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "the-silver-spoon-0331",
@@ -481,7 +493,7 @@
     "maker": "Said to be left by the vittra",
     "powers": "A sign of the hidden people's favour.",
     "associated_creature": null,
-    "description": "A silver spoon said to be left by the vittra, the hidden folk of northern Sweden, for humans who helped them or as a sign of favour. In folk tradition such a spoon appeared where none had been, or a borrowed spoon returned with a gift of silver. The spoon is a token of the hidden people's goodwill and a typical vittra gift.",
+    "description": "A silver spoon said to be left by the vittra, the hidden folk of northern Sweden, for humans who helped them or as a sign of favour. In folk tradition such a spoon appeared where none had been, or a borrowed spoon returned with a gift of silver, and the finder knew the vittra had marked them out. The spoon was often a christening gift from the hidden folk to a human child they had blessed, a token of goodwill that the family kept and passed down. To lose the spoon, or to sell it, was to throw away the hidden people's protection and invite misfortune. The silver spoon belongs to the wider pattern of vittra gifts, where the hidden folk reward courtesy and punish greed, and it is a typical token of the goodwill that northern Swedish tradition set between the two worlds.",
     "related_creatures": [
       "vittra"
     ],
@@ -504,7 +516,7 @@
       "hidden folk silver"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "the-sea-kings-ring-0340",
@@ -523,7 +535,7 @@
     "maker": "Given by the sea king in the ballad",
     "powers": "Binds the maiden to the sea king.",
     "associated_creature": null,
-    "description": "A golden ring given by the sea king in the Swedish ballad 'Agneta and the Sea King', a version of the old ballad about the maiden taken by the sea folk. The ring is the gift that binds the maiden to her underwater master; in the ballad's ending the ring and its owner part in sorrow. The ballad is documented in Swedish song collections from the 18th century.",
+    "description": "A golden ring given by the sea king in the Swedish ballad 'Agneta and the Sea King', a version of the old ballad about the maiden taken by the sea folk. The ring is the gift that binds the maiden to her underwater master, the token of a marriage that keeps her below the waves while her family mourns her above; in the ballad's ending the ring and its owner part in sorrow when the world above finally reclaims her. The ballad is documented in Swedish song collections from the 18th century and belongs to the international cycle of ballads about the seal-maiden and the water-man, in which a gift or a promise holds the human captive. The ring, like the sea king's crown, is the mark of the other world's power over the mortal who accepts it.",
     "related_creatures": [],
     "featured_in_stories": [
       "agneta-and-the-sea-king"
@@ -546,7 +558,7 @@
       "sea king ring ballad"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "stavkirke-0408",
@@ -563,11 +575,13 @@
     "material": "Timber with tarred exterior",
     "era": "Medieval (12th-14th century)",
     "associated_creature": null,
-    "description": "A medieval Norwegian timber church built on a post-and-plank frame, with steep shingled roofs, carved portals, and dragon-head finials. Around thirty stave churches survive of the more than a thousand once built, among them Borgund, Urnes, and Heddal. In folklore the churches mark where the old faith met the new, and legends tell of trolls turned to stone at the sound of their bells.",
+    "description": "A medieval Norwegian timber church built on a post-and-plank frame, with steep shingled roofs, carved portals, and dragon-head finials. Around thirty stave churches survive of the more than a thousand once built, among them Borgund, Urnes, and Heddal. In folklore the churches mark where the old faith met the new, and legends tell of trolls turned to stone at the sound of their bells. The post-and-beam construction, with the roof supported by tall staves inside the walls, lets the churches stand for centuries, and the carving that ornaments them, from the Urnes portal to the dragon gables, carries on the art of the pagan age under Christian roofs. The stave churches were built with tarred wood that blackened with age, and they remain the most distinctive monuments of Norwegian medieval building and the setting of countless tales of trolls, giants, and the church bells that held them at bay.",
     "related_creatures": [
       "troll-norway"
     ],
-    "featured_in_stories": [],
+    "featured_in_stories": [
+      "trolls-in-church"
+    ],
     "source": "Norwegian church archaeology and tradition",
     "source_type": "archaeological",
     "source_quality": "verified",
@@ -586,7 +600,7 @@
       "norwegian timber church"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "sami-drum-0413",
@@ -605,7 +619,7 @@
     "era": "Pre-Christian to 18th century",
     "powers": "Used by the noaidi, the Sámi shaman, to see hidden things, find lost reindeer, and answer questions.",
     "associated_creature": null,
-    "description": "The frame drum of the Sámi shaman, or noaidi, a shallow bowl of carved pine covered with reindeer skin painted in red alder juice with figures of gods, animals, and the sun. Struck with a reindeer-horn hammer while the noaidi sang, the drum revealed answers in the path of a jumping ring. Hundreds were burned by missionaries in the 18th century, and survivors are treasured museum objects.",
+    "description": "The frame drum of the Sámi shaman, or noaidi, a shallow bowl of carved pine covered with reindeer skin painted in red alder juice with figures of gods, animals, and the sun. Struck with a reindeer-horn hammer while the noaidi sang, the drum revealed answers in the path of a jumping ring. Hundreds were burned by missionaries in the 18th century, and survivors are treasured museum objects. The drum was both an instrument and a sacred map, its painted surface showing the upper, middle, and lower worlds and the figures of the gods who governed the herd, the weather, and the sick. The noaidi used it to find lost reindeer, to answer the questions of the community, and to travel in spirit, and each drum's pictures were painted anew by its owner so that no two are alike. Only a small number survive, and they are among the most important evidence of the old Sámi religion.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Sámi ritual objects; museum collections",
@@ -627,7 +641,7 @@
       "shaman drum"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "sieidi-stone-0414",
@@ -645,8 +659,10 @@
     "era": "Pre-Christian to modern",
     "powers": "An offering stone believed to grant luck in hunting, fishing, and reindeer herding to those who sacrifice.",
     "associated_creature": null,
-    "description": "A natural stone, boulder, or outcrop venerated by the Sámi as the dwelling of a spirit and a place of offering, the sieidi or seita. Hunters, fishers, and herders left antlers, bones, silver, or food at sieidis to secure luck and damaged the stone when crossed. Many stand at lakes, rivers, and passes across Norwegian Sápmi, and the custom survived in the far north into modern times.",
-    "related_creatures": [],
+    "description": "A natural stone, boulder, or outcrop venerated by the Sámi as the dwelling of a spirit and a place of offering, the sieidi or seita. Hunters, fishers, and herders left antlers, bones, silver, or food at sieidis to secure luck and damaged the stone when crossed. Many stand at lakes, rivers, and passes across Norwegian Sápmi, and the custom survived in the far north into modern times. Each sieidi was home to a spirit of its own, and the people who used it knew which offering suited the place, whether a reindeer's antlers for the herd or a silver coin for the fishing luck. If the stone failed the one who prayed to it, it could be beaten or turned as a punishment, showing that the power was a bargain, not a blind faith. The sieidis are still respected today as the oldest sacred places of the Sámi landscape.",
+    "related_creatures": [
+      "sieidi-spirit-sami"
+    ],
     "featured_in_stories": [],
     "source": "Sámi ritual tradition; ethnographic records",
     "source_type": "secondary_scholarly",
@@ -667,7 +683,7 @@
       "sami offering stone"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "stabbur-0422",
@@ -683,7 +699,7 @@
     "material": "Timber raised on stone or wooden pillars",
     "era": "Folk era",
     "associated_creature": null,
-    "description": "The Norwegian timber storehouse raised off the ground on wooden posts or stones to keep food and valuables safe from damp and vermin. Stabburs held grain, meat, wool, and heirlooms, and the loft door was reached by an outside stair. Protection mattered in folk belief as much as locks, and protective marks were sometimes cut into doorways, as surviving forest-finn barns show.",
+    "description": "The Norwegian timber storehouse raised off the ground on wooden posts or flat stones to keep food, grain, wool, and heirlooms safe from damp and vermin. A flight of outside steps led to the door of the upper loft, and the space beneath was often roofed as a porch where tools and barrels were kept. Protective marks were sometimes carved or painted on the doorways, for folk belief guarded the larder as carefully as any lock, and the nisse of the farm was said to keep watch over the grain in the loft. The stabbur remained the standard farm building of Norway through the 19th century and is still raised on some farms today.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Norwegian building tradition; Riksantikvaren records",
@@ -704,7 +720,7 @@
       "loft"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "solje-0427",
@@ -721,7 +737,7 @@
     "material": "Silver",
     "era": "Folk era (18th-19th century)",
     "associated_creature": null,
-    "description": "A Norwegian silver brooch worn at the throat, made of a central disc with dangling pendants and fine wirework. Søljer were the most important piece of a woman's festive dress, passed down in families, and often given as betrothal gifts. Regional workshops shaped local variants, and the brooch remains part of the bunad worn at weddings and on Constitution Day.",
+    "description": "A Norwegian silver brooch worn at the throat, made of a central disc or crescent with dangling pendants, fine wirework, and sometimes small spoons or drops of silver. Soljer were the most important piece of a woman's festive dress, passed down through families, and often given as betrothal or christening gifts; a bride might wear several at once on her finest bunad. Regional workshops developed their own local shapes, and the brooch is still made today. It remains a standard part of the bunad worn at weddings, confirmations, and on Constitution Day, and old family soljer are counted among Norway's most treasured heirlooms.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Norwegian jewelry tradition; museum collections",
@@ -743,7 +759,7 @@
       "bunad silver"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "the-snow-queens-mirror-0439",
@@ -761,7 +777,7 @@
     "era": "Folk era",
     "powers": "Reflects everything good and fair as mean and ugly; splinters pierce the heart and eye.",
     "associated_creature": null,
-    "description": "The devil's magic mirror from the first chapter of Andersen's 'The Snow Queen'. It magnifies everything ugly and shrinks all that is good, and when the trolls drop it, it shatters into millions of splinters. Splinters blown into the eyes and hearts of the children Kay and Gerda set the story in motion, for Kay's changed vision is what lets the Snow Queen take him away.",
+    "description": "The devil's magic mirror from the first chapter of Andersen's 'The Snow Queen'. It magnifies everything ugly and mean and shrinks all that is good and fair, and when the trolls drop it in their glee, it shatters into millions of splinters. Splinters blown into the eye and heart of the boy Kay make everything beautiful seem spoiled and let the Snow Queen carry him away, setting the whole story in motion. The mirror is thus the tale's opening image of a world seen through a corrupted glass, a figure Andersen would return to throughout his work.",
     "related_creatures": [],
     "featured_in_stories": [
       "the-snow-queen"
@@ -784,7 +800,7 @@
       "snedronningen mirror"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "the-steadfast-tin-soldier-0441",
@@ -801,7 +817,7 @@
     "era": "Folk era",
     "powers": "Falls from the window, rides a paper boat, and is swallowed by a fish, yet never bends.",
     "associated_creature": null,
-    "description": "The one-legged toy soldier of Andersen's tale, cast last from the family's old tin spoon and brave out of all proportion. Sailing his paper boat through the gutter and burned at last in the stove with the paper dancer he loved, he never flinches. The tale made the plain tin soldier a figure of quiet constancy and one of Andersen's most loved objects.",
+    "description": "The one-legged toy soldier of Andersen's tale, cast last from the family's old tin spoon and brave out of all proportion. He falls from the windowsill, sails his paper boat down the gutter past rats and street boys, is swallowed whole by a fish, and at last is thrown into the stove with the paper dancer he loves; he never flinches once. The tale made the plain tin soldier a figure of quiet constancy and unspoken love, and it remains one of Andersen's most loved object stories. It was published in 1838 in his second collection of tales.",
     "related_creatures": [],
     "featured_in_stories": [
       "the-steadfast-tin-soldier"
@@ -824,7 +840,7 @@
       "den standhaftige tinsoldat"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "sibylline-books-0618",
@@ -843,7 +859,7 @@
     "maker": "The Cumaean Sibyl",
     "powers": "Prophetic verses consulted by the Roman state to avert calamities; their burning punished Tarquin's haggling.",
     "associated_creature": null,
-    "description": "The nine books of prophetic verses the Cumaean Sibyl offered to Tarquinius Superbus, of which she burned six and sold the last three at the original price, as Livy and Dionysius of Halicarnassus relate; kept in the temple of Jupiter, the surviving Sibylline Books were consulted for Rome's most dangerous crises.",
+    "description": "The nine books of prophetic verses the Cumaean Sibyl offered to the Roman king Tarquin, of which she burned six when he refused her price and sold the last three for the full amount of the original nine; Livy and Dionysius of Halicarnassus record the story. The surviving books, written originally on palm leaves, were kept in the temple of Jupiter Optimus Maximus on the Capitol and were consulted only by the state, through the priestly board of the quindecimviri, at moments of grave public danger, plague, or portent, when their verses prescribed the sacrifices and rites that might turn aside the disaster. The books were thus an oracle without a voice, opened only by decree of the Senate. They were destroyed in the burning of the Capitol in 83 BC and only partially reconstructed, and their loss is itself a legend. The tale of the Sibyl's burning books became the emblem of a state that haggles with prophecy and pays the price.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Livy, History of Rome; Dionysius of Halicarnassus, Roman Antiquities",
@@ -865,7 +881,7 @@
       "tarquin books"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "sword-damocles-0623",
@@ -883,7 +899,7 @@
     "maker": "Hung at the court of Dionysius II of Syracuse",
     "powers": "Showed Damocles the peril hidden in royal ease; the emblem of insecurity in power.",
     "associated_creature": null,
-    "description": "The sword suspended by a single horse-hair over the head of Damocles, courtier of Dionysius II of Syracuse, to show him the insecurity of royal power; when Damocles envied the tyrant's life, Dionysius made him taste it, and the hanging sword became the emblem of peril in high office. Told by Cicero in the Tusculan Disputations.",
+    "description": "The sword of Damocles, suspended by a single horse-hair over the head of the courtier Damocles at the court of Dionysius II of Syracuse, is the object by which Cicero, in the Tusculan Disputations, taught that royal power is bought with anxiety. When Damocles envied the tyrant's happiness, Dionysius seated him at a banquet served in gold and silver and had him look up to find a gleaming sword hanging by a hair above his neck; the pleasure of the feast turned to dread, and Damocles understood that the ruler lives each moment under the threat of death. The image, which some ancient writers trace to still earlier tellings, became the universal emblem of the peril hidden in high place, of fortune's insecurity and the price of power. It survives in daily language wherever a 'sword of Damocles' is said to hang over an enterprise, a reputation, or a life. No such object ever existed; its whole force is in the image.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Cicero, Tusculan Disputations",
@@ -903,7 +919,7 @@
       "hanging by a hair"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "santo-caliz-0629",
@@ -922,7 +938,7 @@
     "maker": "Unknown Hellenistic or Roman lapidary; goldwork by later craftsmen",
     "powers": "Venerated as the cup of the Last Supper; its identification is tradition, not verified history.",
     "associated_creature": null,
-    "description": "The Holy Chalice of Valencia, an agate cup of the 2nd-1st century BC set in medieval gold mounts, kept in Valencia Cathedral since 1437; tradition identifies it as the cup of the Last Supper, brought from Jerusalem via Rome and Huesca, but that identification cannot be verified and is disputed. The cup itself is genuine and ancient.",
+    "description": "The Holy Chalice of Valencia, an agate cup of the 2nd or 1st century BC set in medieval gold mounts with pearls and gems, is venerated in the Cathedral of Valencia as the cup of the Last Supper. The lower bowl is a genuine ancient stone vessel; the goldwork, stem, and handles are medieval, and the cup has been documented at Valencia since 1437, after being kept at Huesca and, by tradition, brought from Jerusalem to Rome and then to Spain. The identification rests on tradition rather than on any contemporary evidence, and scholars dispute the whole chain of custody, so it is more honest to call it a relic claimed as the Grail than the Grail itself. An archaeological study by Antonio Beltrán in 1960 dated the agate bowl to the late Roman Republic, confirming the antiquity of the stone but not the Christian legend. The chalice remains a focus of pilgrimage and the chief Spanish claimant among the many vessels said to be the Holy Grail.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Valencia Cathedral tradition; A. Beltran, archaeological study (1960)",
@@ -943,7 +959,7 @@
       "valencia grail"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "scarab-0802",
@@ -961,7 +977,7 @@
     "maker": "Artisans",
     "powers": "Protection against evil; associated with rebirth.",
     "associated_creature": null,
-    "description": "A scarab-shaped amulet crafted from glazed faience, representing the beetle god Khepri who rolls the sun across the sky. Such amulets were placed in burials to ensure safe passage and rebirth in the afterlife.",
+    "description": "The scarab amulet is the Egyptian image of the dung beetle, carved in glazed faience, stone, or hard materials and worn or placed on the body from the Old Kingdom onward, as the emblem of the god Khepri, who rolls the sun across the sky as the beetle rolls its ball of dung. The beetle's habit of appearing from the ground was read as self-creation, so the scarab became the sign of creation and of rebirth, and from the Middle Kingdom the heart scarab, inscribed with chapter 30 of the Book of the Dead, was laid over the mummy's heart to keep it from testifying against the deceased at the judgement of the dead. Hundreds of scarabs were found in the tomb of Tutankhamun, in rings, necklaces, and pectorals, and the commemorative scarabs of Amenhotep III were issued like royal bulletins. As an amulet of protection and renewal the scarab is among the most widespread objects of Egyptian material culture, and its form endured into Greek and Roman amulets.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Tomb of Tutankhamun",
@@ -979,7 +995,7 @@
       "rebirth"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "scepter-ra-0803",
@@ -997,8 +1013,10 @@
     "maker": "Royal artisans",
     "powers": "Authority of the sun god; used in prayers and royal ceremonies.",
     "associated_creature": null,
-    "description": "The Was scepter, a long staff with a forked tip, was the emblem of power and dominion of the sun god Ra. It appears in temple reliefs and on royal crowns, symbolizing the pharaoh's role as the earthly representative of Ra.",
-    "related_creatures": [],
+    "description": "The was-sceptre, the long staff with a forked base and a stylised animal head, is the Egyptian emblem of power and dominion, and as the sceptre of the sun god Ra it stands for the authority of the creator who orders the world. Gods are shown holding the was-staff as the sign of their rule, and kings carry it in ritual scenes to declare that they exercise the dominion the gods have given; its name is written with its own hieroglyph, and the sceptre was a fixture of temple reliefs, royal ceremony, and funerary art from the Old Kingdom onward. Its forked foot and forked head are sometimes read as the form of the Set-animal or of an antelope, and the staff is often paired with the ankh and the djed pillar in the offering scenes that cover temple walls. As the staff of Ra it passes to the pharaoh as the earthly representative of the sun god. It survives as the standard visual shorthand for divine authority in Egyptian art.",
+    "related_creatures": [
+      "ra-egyptian"
+    ],
     "featured_in_stories": [],
     "source": "Egyptian Temple Reliefs",
     "source_type": "archaeological",
@@ -1015,7 +1033,7 @@
       "Egyptian authority"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "spear-of-lugh-1004",
@@ -1034,7 +1052,7 @@
     "era": "Mythic age",
     "powers": "Unstoppable spear of the champion of the Tuatha Dé Danann.",
     "associated_creature": "tuatha-d-danann",
-    "description": "Gáe Assail, the great spear of Lugh, one of the four treasures the Tuatha Dé Danann carried into Ireland. Lugh used it at the Second Battle of Mag Tuired, where it helped rout the Fomorians. Its name preserves an older association with the Otherworld gift-bearers of Irish tradition.",
+    "description": "Gáe Assail, the great spear of Lugh, is one of the four treasures the Tuatha Dé Danann brought to Ireland, and Lugh carried it into battle at the Second Battle of Mag Tuired against the Fomorians. The Lebor Gabála Érenn and Cath Maige Tuired describe it as a weapon of such force that no warrior could withstand it, and Lugh, who arrives at the battle as champion of the Tuatha Dé Danann, uses it in the rout of the Fomorian host. Its name, sometimes written Gáe Assal, links it to the Otherworld gift-bearers of Irish tradition, and later manuscripts count it among the possessions the god brought from across the sea. In some retellings the spear is said to thirst so strongly for battle that it had to be kept in a vessel of soporific herbs to calm it, a detail that echoes the restless weapons of Celtic legend. It survives today as a symbol of Lugh's kingship and of the ancient Irish world of craft and war.",
     "related_creatures": [
       "tuatha-d-danann"
     ],
@@ -1058,7 +1076,7 @@
       "assail"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-09"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "szczerbiec-1008",
@@ -1076,7 +1094,7 @@
     "era": "Medieval",
     "powers": "Symbol of Polish kingship; the notched blade carries the Kiev legend.",
     "associated_creature": null,
-    "description": "Szczerbiec, the jagged sword used at Polish coronations from the Middle Ages. Its name, 'the notched one', recalls the legend that Bolesław the Brave struck it against the Golden Gate of Kiev in 1018. The surviving blade, now in Wawel Castle, was damaged in a nineteenth-century theft.",
+    "description": "Szczerbiec, the jagged coronation sword of the kings of Poland, is the only surviving piece of the medieval Polish crown jewels and is kept in the treasure vault of Wawel Castle in Kraków. Its name comes from the Polish szczerba, 'gap' or 'notch', and legend attributes the damage to Bolesław the Brave, said to have struck the blade against the Golden Gate of Kiev in 1018, though the gate was not built until 1037 and the surviving sword dates to the thirteenth century. The hilt is decorated with Christian symbols, floral ornament and magical formulae, and a narrow slit in the blade holds a small shield bearing the Polish coat of arms. The earliest known use of the name is in the Chronicle of Greater Poland, which records an angel giving the sword to Bolesław so that he would triumph in battle. First used at a coronation in 1320, the sword was looted by Prussian troops in 1795, passed through nineteenth-century collections, and was returned to Poland only in the twentieth century after being evacuated during the Second World War. The legend of the notched blade remains a powerful emblem of Polish kingship and national memory.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Wawel Crown Jewels; coronation tradition",
@@ -1097,7 +1115,7 @@
       "sword of boleslaw"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-09"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "snettisham-torc-1011",
@@ -1114,7 +1132,7 @@
     "material": "Gold alloy",
     "era": "Iron Age",
     "associated_creature": null,
-    "description": "The Great Torc of Snettisham, a necklace of two interlocking gold-alloy rings with ornate buffer terminals, made in eastern England around 75 BC and found in a hoard at Snettisham, Norfolk, in 1950. Such tores marked high status among Iron Age Britons; the example is a centrepiece of the British Museum's Celtic collection.",
+    "description": "The Great Torc of Snettisham is a large neck-ring of two interlocking gold-alloy tubes with ornate buffer terminals, made in eastern England around 75 BC and worn by a high-status Iron Age Briton. It was found in 1950 in the famous Snettisham hoard excavations in Norfolk, where ploughing repeatedly revealed pits packed with torcs, bracelets and coins. The torc was cast by a lost-wax process in a gold-silver-copper alloy that gives it a pale, silvery gleam, and its twisted bodies and polished terminals are masterpieces of Celtic metalwork. Torcs signalled rank and wealth across the Celtic world, worn by warriors, chieftains and sometimes gods, and classical writers record that the Gauls wore gold neck-rings in battle. The Great Torc is dated by the coins found with it and is usually displayed with the slightly larger Snettisham Great Torc of the same hoard. It forms the centrepiece of the British Museum's Iron Age Celtic collection.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "British Museum; Snettisham hoard",
@@ -1135,7 +1153,7 @@
       "celtic torc"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-09"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "selkie-seal-skin-1019",
@@ -1154,14 +1172,18 @@
     "era": "Folk era",
     "powers": "Lets the selkie shed human form and return to the sea when put back on.",
     "associated_creature": "selkie",
-    "description": "The seal-skin of the selkie, the shapeshifting seal-people of Scottish and Irish tradition. A selkie sheds the skin to take human form on land and must have it returned to go back to the sea; a human who hides the skin keeps the selkie as a spouse until the skin is found. The motif underpins the classic selkie-bride tales.",
+    "description": "The seal-skin of the selkie is the central object of the seal-people tales of Scotland, Ireland and the northern isles, a pelt that lets its wearer take human form on land. A selkie who wishes to return to the sea must put the skin back on, so a human who steals and hides the skin can hold a selkie bride or husband captive, and the marriage lasts only until the skin is found and returned. The motif drives the classic selkie-bride stories, from the Faroese tale of Kópakonan to the Hebridean, Orcadian and Icelandic variants collected by folklorists, in which the wife grieves by the shore until a child or a neighbour reveals the hiding-place. The stolen skin gives the tale its haunting shape: love bought by captivity, and the sea always calling. The skin is sometimes said to be hidden in a chest or under a roof beam, and its discovery is always the turning point. In modern retellings the seal-skin has become a symbol of identity, longing and the cost of belonging to two worlds.",
     "related_creatures": [
       "selkie",
-      "selkie-scotland"
+      "selkie-scotland",
+      "k-pakonan-selkie",
+      "selkie-iceland"
     ],
     "featured_in_stories": [
       "the-selkie-bride",
-      "selkie-story"
+      "selkie-story",
+      "the-selkies-stolen-skin",
+      "the-selkie-wife"
     ],
     "source": "Hebridean and Orcadian selkie tradition",
     "source_type": "oral_tradition",
@@ -1182,7 +1204,7 @@
       "seal woman"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-09"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "silver-branch-of-emain-1020",
@@ -1200,7 +1222,7 @@
     "era": "Mythic age",
     "powers": "Its music lulled listeners and summoned heroes to the Otherworld.",
     "associated_creature": null,
-    "description": "The silver apple-branch carried by a woman of the Otherworld to the hero Bran in the medieval tale the Voyage of Bran. Its music lulls those who hear it, and Bran leaves with its bearer for the Land of Women across the sea. Messengers of the Irish Otherworld traditionally bear such singing branches.",
+    "description": "The silver branch of Emain is the singing apple-branch carried by a woman of the Otherworld who visits the hero Bran mac Febail in the medieval Irish tale Immram Brain, the Voyage of Bran. The branch bears silver apples and sweet blossoms, and its music lulls those who hear it to sleep while the branch itself sings of the delights of the Land of Women across the sea. When Bran refuses to part with the branch and follows its bearer, he begins the famous voyage that carries him and his company from island to wonder-filled island. Messengers of the Irish Otherworld are traditionally shown bearing such singing branches of apple, a token of the supernatural world's beauty and its power to summon mortals away. The branch's music, which opens the mind to the otherworld, marks it as one of the most evocative of Irish wonder-objects. It later found its way into the poetry of W.B. Yeats, who drew on the image of the silver and golden bough.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Immram Brain (Voyage of Bran)",
@@ -1222,7 +1244,7 @@
       "bran mac febail"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-09"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "snow-whites-mirror-1036",
@@ -1240,7 +1262,7 @@
     "era": "Folk era",
     "powers": "Told its owner who was the fairest in the land.",
     "associated_creature": null,
-    "description": "The magic mirror of the queen in the Grimm tale of Snow White. Each time she asks 'Mirror, mirror on the wall, who is the fairest of them all?', the mirror answers truly, and its answer drives the queen to send Snow White into the wood. The mirror is a test-object of the tale and exists only in fiction.",
+    "description": "The magic mirror of the queen in the Grimms' fairy tale 'Snow White' (KHM 53) is a speaking mirror that answers truly when its owner asks who is the fairest in the land. Each time the queen consults it, the mirror replies that she is fairest of all, until the day it names Snow White, and from that answer springs the queen's jealous persecution of the girl. The mirror thus acts as the story's engine and moral judge, an impartial voice that exposes the truth the queen cannot bear. In the Grimms' version the queen meets her end at Snow White's wedding feast, where she is forced to dance in red-hot shoes, and the mirror's last answer seals her fate. Mirrors that speak and tell the truth appear in folklore across Europe, and the motif was spread worldwide by the 1937 animated film, with its famous lines 'Magic mirror on the wall, who is the fairest of them all?'. The mirror exists only in fiction, but it has become one of the most recognisable objects in fairy tale.",
     "related_creatures": [],
     "featured_in_stories": [
       "snow-white-and-the-seven-dwarfs"
@@ -1263,7 +1285,7 @@
       "queen's mirror"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-09"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "six-swans-shirts-1038",
@@ -1281,10 +1303,11 @@
     "era": "Folk era",
     "powers": "Thrown over her swan brothers, restored them to human form.",
     "associated_creature": null,
-    "description": "The six shirts of stinging nettles woven in silence by the sister in the Grimms' tale of the six swans. For years she must sew them without speaking a word; when at last they are thrown over her brothers, the swans become men again. The shirt-making is the tale's central task and ordeal.",
+    "description": "The six shirts of the Grimms' fairy tale 'The Six Swans' (KHM 49) are woven by the princess from stinging nettles to break the enchantment that has turned her six brothers into swans. For years she must gather the nettles, spin and sew the shirts in complete silence, and her vow costs her dearly when her children are taken from her and she is condemned rather than speak. When the shirts are at last finished and thrown over the swans, her brothers become men again, though the youngest is left with a wing instead of an arm because one shirt was not finished. The tale belongs to the family of swan-brother stories, and the same task of weaving nettle shirts appears in Hans Christian Andersen's 'The Wild Swans'. The shirts are the tale's central ordeal, testing the sister's endurance, silence and faith. The story was told throughout Germany and is preserved in the Grimms' collection.",
     "related_creatures": [],
     "featured_in_stories": [
-      "the-six-swans"
+      "the-six-swans",
+      "the-wild-swans"
     ],
     "source": "Grimm, Kinder- und Hausmärchen no. 49",
     "source_type": "literary",
@@ -1304,7 +1327,7 @@
       "swan brothers"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-09"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "scales-of-maat-1103",
@@ -1323,7 +1346,7 @@
     "maker": "Unnamed (divine instrument)",
     "powers": "Weighs the heart of the dead against the feather of truth in the judgment hall.",
     "associated_creature": null,
-    "description": "The great balance set up in the Hall of Two Truths, where the heart of the dead was weighed against the feather of Ma'at before Osiris, with Thoth recording the result. Chapter 125 of the Book of the Dead describes the rite, while the devourer Ammit waits to swallow any heart found heavier than the feather. The scene is among the most reproduced images of Egyptian religion.",
+    "description": "The great balance set up in the Hall of Two Truths (or Hall of Ma'at), where the heart of the dead was weighed against the feather of truth before Osiris, with Thoth recording the verdict and the devourer Ammit waiting to swallow any heart found heavier than the feather. Chapter 125 of the Book of the Dead describes the rite, in which the deceased recites the Negative Confession before the Forty-Two Judges. The scene, painted on tomb walls and funerary papyri from the New Kingdom onward, is among the most reproduced images of Egyptian religion. Because the heart (ib) was held to record the deeds of a life, its weighing decided the soul's fate: a heart in balance passed to the blessed afterlife, while one burdened by sin was consumed and ceased to exist. Modern exhibitions of Egyptian funerary art still make the weighing of the heart one of their centrepieces.",
     "related_creatures": [
       "thoth",
       "osiris",
@@ -1351,7 +1374,7 @@
       "book of the dead chapter 125"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-09"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "sistrum-1106",
@@ -1370,7 +1393,7 @@
     "maker": "Temple metalworkers",
     "powers": "Its rattling pleased the goddess and drove away hostile powers.",
     "associated_creature": null,
-    "description": "A sacred rattle of looped bronze rods strung across a frame, shaken in the cult of Hathor and Isis to please the goddess and repel evil with its hissing sound. Priestesses, queens, and kings bore it in temple ritual, and great ceremonial versions stood as temple furniture. Its naos-shaped variant carried the cow-eared head of Hathor between its handles and remained in use into Graeco-Roman Egypt.",
+    "description": "A sacred rattle of looped bronze or copper rods strung across a frame, shaken in the cults of Hathor and Isis to please the goddess and to repel evil with its hissing, sibilant sound, called sesheshet in Egyptian after the noise it makes. Priestesses, queens, and kings bore it in temple ritual, and queens are depicted holding it in both hands; great ceremonial versions, often of gilt bronze, stood as temple furniture. Its naos-shaped variant carried the cow-eared head of Hathor between its handles and remained in use into Graeco-Roman Egypt, where it became an attribute of Isis in her universal form. The sistrum survives today as a liturgical instrument in Coptic Christianity and in Ethiopian Orthodox worship, making it one of the oldest sacred rattles still in continuous use.",
     "related_creatures": [
       "hathor-egyptian",
       "isis-egyptian"
@@ -1394,7 +1417,7 @@
       "egyptian sacred rattle"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-09"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "solar-barque-of-ra-1108",
@@ -1413,7 +1436,7 @@
     "maker": "Unnamed",
     "powers": "Carries the sun across the sky by day and through the underworld by night.",
     "associated_creature": null,
-    "description": "The two celestial boats in which the sun god Ra sails: the day barque Mandjet crossing the sky and the night barque Mesektet crossing the Duat, where the crew repels the serpent Apep with spears. The nightly battle myth inspired real solar barques buried beside temples and pyramids, including the Khufu boat, so that the king might make the same journey after death.",
+    "description": "The two celestial boats in which the sun god Ra sails: the day barque Mandjet crossing the sky and the night barque Mesektet crossing the Duat, the underworld, where the crew repel the serpent Apep with spears and enchantments so that dawn can return. The nightly battle myth inspired real solar barques buried beside temples and pyramids, most famously the dismantled cedar boat entombed beside the Great Pyramid at Giza, so that the king might make the same journey after death. The journey itself was written into the Pyramid Texts and the later Books of the Day and Night, which describe the gates and hours the barque must pass. Both the image of the sun sailing through the hours and the funeral barque that carries the dead echo through Egyptian art from the earliest dynasties to the Ptolemaic temples.",
     "related_creatures": [
       "ra-egyptian",
       "apep"
@@ -1443,7 +1466,7 @@
       "khufu boat"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-09"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "senet-board-1113",
@@ -1462,7 +1485,7 @@
     "maker": "Board-game craftsmen",
     "powers": "Its play mirrored the soul's passage through the hazards of the afterlife.",
     "associated_creature": null,
-    "description": "The Egyptian board game of thirty squares in three rows, played with counters and knucklebones, the most common game board found in Egypt. The crossing of its hazardous squares mirrored the soul's journey through the afterlife, and the Book of the Dead shows the deceased playing senet against an invisible opponent to win passage. Complete boards, including Tutankhamun's, survive from royal tombs.",
+    "description": "The Egyptian board game of thirty squares in three rows of ten, played with five or seven counters and casting sticks or knucklebones, and the most common board game found in Egypt, in use from the Predynastic period to the Ptolemaic. The crossing of its hazardous squares mirrored the soul's journey through the afterlife, and vignettes in the Book of the Dead show the deceased playing senet against an unseen opponent to win passage into the next world. Boards ranged from simple scratched slabs to fine wooden boxes with drawers and playing pieces of faience and ivory; Tutankhamun's tomb alone held four complete sets. The game's funerary meaning grew so strong that senet scenes became a regular image of the tomb, yet it was also played for pleasure, with boards scratched into temple steps and pavements.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Excavated boards; Book of the Dead vignettes",
@@ -1482,7 +1505,7 @@
       "egyptian board game"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-09"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "simurghs-feather-1119",
@@ -1501,7 +1524,7 @@
     "maker": "Simurgh",
     "powers": "Burned as a signal, its smoke summons the great bird to help.",
     "associated_creature": null,
-    "description": "The feather given by the great bird Simurgh to the hero Zal and later to his son Rostam, to be burned whenever they needed the bird's aid, at whose smoke Simurgh came flying. In the Shahnameh the feather carries the abandoned boy Zal to safety and later rescues Rostam in his direst need. In later Sufi poetry it became an emblem of the soul's reliance on divine help.",
+    "description": "The feather given by the great bird Simurgh to the abandoned prince Zal and later to his son Rostam, to be burned whenever they needed the bird's aid, at whose smoke Simurgh came flying from Mount Alborz. In the Shahnameh the feather carries the infant Zal to safety when he is cast out for his white hair, and in Rostam's direst need, when the hero lies bound and helpless in a pit, the burning feather summons Simurgh, who teaches him how to escape. The gesture became so fixed that the burning of a simurgh feather is a standing motif of Persian heroic poetry. In later Sufi writing it became an emblem of the soul's reliance on divine help, the feather a sign that even the greatest hero must call on a power greater than himself.",
     "related_creatures": [
       "simurgh-persia",
       "simorgh"
@@ -1528,7 +1551,7 @@
       "feather of the simurgh"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-09"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "seal-of-solomon-1125",
@@ -1548,7 +1571,7 @@
     "maker": "Unnamed",
     "powers": "By its engraving of the divine Name, its bearer commanded the winds, beasts, and jinn.",
     "associated_creature": null,
-    "description": "The signet ring of the prophet-king Solomon, engraved with the divine Name, by whose power he commanded the winds, beasts, and jinn in Jewish and Islamic tradition alike, told in the Quran, the midrash, and the Thousand and One Nights. Its seal, often drawn as a six-pointed star, later became a widespread protective emblem across the Middle East, North Africa, and Europe.",
+    "description": "The signet ring of the prophet-king Solomon, engraved with the divine Name, by whose power he commanded the winds, the beasts, and the jinn in Jewish and Islamic tradition alike, told in the Quran, the midrash, and the Thousand and One Nights. The midrash adds the ordeal of its theft, when the jinn Sakhr stole the ring and ruled in Solomon's likeness for forty days until the king won it back and hurled the impostor into the sea. Its seal, often drawn as a six-pointed star or a pentagram, later became a widespread protective emblem across the Middle East, North Africa, and Europe, known in Islamic amulets as the khatam Sulayman. The name, transferred to the star pattern, still marks talismans and jewellery from Morocco to India, and the ring remains the archetype of the seal that gives its bearer command over spirits.",
     "related_creatures": [
       "jinn-jordan",
       "ifrit-arabia",
@@ -1575,7 +1598,7 @@
       "signet of solomon"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-09"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "solomons-flying-carpet-1126",
@@ -1594,7 +1617,7 @@
     "maker": "Unnamed",
     "powers": "Carried the king, his throne, and his court through the air on the wind.",
     "associated_creature": null,
-    "description": "The carpet of Solomon, woven of silk and green stuff, said in Islamic tradition to be large enough to bear the king, his throne, and his whole court, carried through the air by the wind at his command and shaded by a flock of birds overhead. The Quran records the wind as made subject to Solomon, and later commentators expanded this into the famous flying carpet, whose details grow in the tellings.",
+    "description": "The carpet of Solomon, woven of silk and green stuff, said in Islamic tradition to be large enough to bear the king, his throne, and his whole court, carried through the air by the wind at his command and shaded from the sun by a flock of birds overhead. The Quran records the wind as made subject to Solomon, so that it carried his vessel at his bidding, and later commentators and storytellers, among them al-Tabari, al-Kisa'i, and the Thousand and One Nights, expanded this into the famous flying carpet. The details, its size, its crew of men and jinn, and the birds that formed its canopy, grow with each telling, and the carpet itself never appears as a physical relic. In the West it became, together with the genie's lamp, one of the two signature marvels of oriental legend, though its developed form belongs to Islamic exegesis rather than to any single book.",
     "related_creatures": [],
     "featured_in_stories": [
       "king-solomon-and-the-jinn"
@@ -1617,7 +1640,7 @@
       "wind carpet"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-09"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "sefer-yetzirah-1130",
@@ -1636,7 +1659,7 @@
     "maker": "Tradition attributes it to the patriarch Abraham",
     "powers": "Describes the creation of the world through the Hebrew letters and the ten sefirot.",
     "associated_creature": null,
-    "description": "The earliest surviving Hebrew text of Jewish mysticism, the 'Book of Formation,' which describes how the world was created through the twenty-two letters of the Hebrew alphabet and the ten sefirot, and sets out paths by which the mystic may emulate that act. Its opening lines attribute it to the patriarch Abraham, and it shaped the whole later development of Kabbalah.",
+    "description": "The earliest surviving Hebrew text of Jewish mysticism, the 'Book of Formation', which describes how the world was created through the twenty-two letters of the Hebrew alphabet and the ten sefirot, and sets out paths by which the mystic may emulate that act. Its opening lines attribute it to the patriarch Abraham, though scholars date its present form to roughly the second to the sixth century CE, and it circulated in short and long recensions. The text maps the letters and the sefirot onto the cosmos, the year, and the human body, presenting creation as an act of speech and counting. It shaped the whole later development of Kabbalah, whose language of sefirot and letter-mysticism grows directly from it, and it remained a living book of contemplation, even of reported magical practice, for centuries.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Sefer Yetzirah (manuscript tradition)",
@@ -1657,7 +1680,7 @@
       "book of creation"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-09"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "sword-of-goliath-1134",
@@ -1676,7 +1699,7 @@
     "maker": "Philistine armorers",
     "powers": "The heavy blade of the Philistine champion, kept as a relic at Nob.",
     "associated_creature": null,
-    "description": "The sword of the Philistine champion Goliath, taken as spoil after David slew him and later kept wrapped in a cloth behind the ephod at the sanctuary of Nob, where the fugitive David received it, saying there was none like it. The weapon is described in the First Book of Samuel, and David's possession of it anchors his kingship narrative in the biblical account.",
+    "description": "The sword of the Philistine champion Goliath, taken as spoil after the shepherd David slew him and later kept wrapped in a cloth behind the ephod at the sanctuary of Nob, where the fugitive David received it, saying there was none like it. The weapon is described in the First Book of Samuel, and David's possession of it anchors his kingship narrative in the biblical account, the champion's own blade becoming the king's trusted arm. The Philistine forging of iron in the early Iron Age made such swords prized and rare, which lends the story its realistic edge. Its fate after the reign of David is not recorded, so the sword survives only in the text, yet it remains one of the most famous spoils of war in biblical literature.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "1 Samuel 17, 21",
@@ -1697,7 +1720,7 @@
       "david goliath sword"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-09"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "sword-of-antar-1139",
@@ -1717,7 +1740,7 @@
     "maker": "Unnamed (won in combat)",
     "powers": "The great blade of the warrior-poet, wielded in his duels and tribal wars.",
     "associated_creature": null,
-    "description": "The sword Dhami, the chosen blade of Antarah ibn Shaddad, the pre-Islamic warrior-poet of the Arabian Peninsula whose exploits fill the medieval romance Sirah 'Antar. In the sira, Antar wins the sword in combat and carries it through the wars of the tribe of Abs and his long struggle to marry Abla. The romance is literary, and the sword's named exploits grow with the telling.",
+    "description": "The sword Dhami, the chosen blade of Antarah ibn Shaddad, the pre-Islamic warrior-poet of the Arabian Peninsula whose exploits fill the medieval romance Sirah 'Antar. In the sira, Antar wins the sword in combat and carries it through the wars of the tribe of Abs and his long struggle to marry his cousin Abla, who appears in his poetry and in the romance as his lifelong beloved. The romance is literary, built up over centuries around the historical sixth-century poet, and the sword's named exploits grow with the telling, so that Dhami accrues its own mini-legend inside the larger epic. It stands alongside the legendary blades of Arabic tradition as the emblem of a hero who won his freedom and his name by the sword and the ode together.",
     "related_creatures": [],
     "featured_in_stories": [
       "antar-and-abla"
@@ -1741,7 +1764,7 @@
       "sayf antar"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-09"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "shichishito-1204",
@@ -1760,7 +1783,7 @@
     "maker": "Baekje swordmakers (inscribed)",
     "powers": "None (honorific and ritual sword)",
     "associated_creature": null,
-    "description": "An iron sword with seven branch-like projections along the blade, dedicated to the Isonokami Shrine and recorded in the Nihon Shoki as a gift from the kingdom of Baekje. Its long inlaid inscription describing offerings to the sun deity makes it a rare physical relic of early Korean-Japanese exchange and a treasure of Japanese shrine keeping.",
+    "description": "An iron sword with seven branch-like projections along its blade, dedicated at the Isonokami Shrine in Nara and recorded in the Nihon Shoki as a gift from the kingdom of Baekje to the Yamato court. Its long gold-inlaid inscription, which dates the sword to the mid-fourth century, describes offerings made to a sun deity and names the Baekje court that sent it, making it one of the oldest inscribed iron objects of Japan and a rare physical relic of early Korean-Japanese exchange. With its strange branched form it is not a practical weapon, and it is best understood as a ritual or ceremonial sword, kept for centuries as a shrine treasure. Today it is registered as a National Treasure of Japan and displayed only rarely, still guarded at the shrine that received it some sixteen hundred years ago.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Nihon Shoki; Isonokami Shrine inscription",
@@ -1782,7 +1805,7 @@
       "baekje sword"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-09"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "shimenawa-1207",
@@ -1801,7 +1824,7 @@
     "maker": "Shrine weavers",
     "powers": "Marks off divine ground and repels impurity",
     "associated_creature": "amaterasu",
-    "description": "A sacred rope twisted from rice straw and hung before shrines, torii gates, and sacred trees to mark off divine ground. Its origin is tied to the rope strung across the cave mouth after Amaterasu emerged, preventing the sun goddess from retreating; the shimenawa now seals off the kami's dwelling places from impurity.",
+    "description": "The shimenawa is the sacred rope twisted from rice straw that marks off the dwelling-place of the kami in Shinto practice, hung across the entrance of shrines, over torii gates, and around sacred trees, rocks, and rice paddies. Its origin is tied to the founding myth of the sun goddess Amaterasu, who sealed herself in the Heavenly Rock Cave and left the world in darkness until the other gods lured her out and strung a rope across the mouth of the cave to keep her from retreating again. The shimenawa draws a boundary between the purified ground of the kami and the defiling world outside, and its presence warns humans not to cross unbidden. It is braided from freshly harvested straw, in some regions hemp or straw hung with the paper streamers called shide, and the rope is renewed each year as part of New Year preparations at shrines across Japan. Larger examples, some spanning several metres, hang over the great torii of shrines such as Izumo Taisha and Fushimi Inari, making the rope one of the most visible symbols of Shinto itself.",
     "related_creatures": [
       "amaterasu"
     ],
@@ -1828,7 +1851,7 @@
       "kami boundary"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-09"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "sweetgrass-basket-1341",
@@ -1847,7 +1870,7 @@
     "maker": "Gullah basket-weavers",
     "powers": "Carries the memory of African weaving in every coil.",
     "associated_creature": null,
-    "description": "Coiled baskets woven from sweetgrass and palmetto leaf by Gullah weavers of the Lowcountry, a craft brought to America from West Africa and continued on the rice coast for three centuries. The tight coil stitch is nearly unchanged from African prototypes, and the baskets long served in rice processing before becoming prized art. The tradition survives in Mount Pleasant and the Sea Islands.",
+    "description": "The sweetgrass basket is the coiled basket of the Gullah people of the South Carolina Lowcountry, woven from sweetgrass with palmetto fronds and longleaf pine needles, a craft carried from West Africa to the American rice coast. The tight coil stitch descends directly from West African prototypes, and for centuries the baskets were practical tools, above all the broad fanners used to winnow rice on the coastal plantations. Weavers of Mount Pleasant and the Sea Islands passed the skill from generation to generation, and by the late 20th century the baskets were recognised internationally as fine art, collected by museums and buyers. Modern weavers still harvest sweetgrass by hand with respect for the plant, and the baskets remain a living emblem of African continuity in the Americas. The sale of the baskets along Highway 17 has made them a familiar sight and a powerful symbol of Gullah heritage.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Gullah weaving tradition and cultural studies",
@@ -1870,7 +1893,7 @@
       "mount pleasant basket"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "saci-red-cap-1351",
@@ -1889,7 +1912,7 @@
     "maker": "None (belongs to the Saci)",
     "powers": "Whoever wins it gains the Saci's power.",
     "associated_creature": "saci-perere",
-    "description": "The red knitted cap worn by Saci, the one-legged mischief spirit of Brazilian folklore; to take it is to gain Saci's obedience or his magic, and tales tell of those who steal it only to lose it again. Saci is said to rest his spinning tricks and whistling when he sleeps, the cap beside him. The cap alone identifies him in folk art and story.",
+    "description": "The red cap of the Saci is the knitted head covering of the most famous figure of Brazilian folklore, the one-legged spirit Saci-Pererê, who smokes a pipe, whistles through the dark, and raises whirlwinds along the roads. The cap is the seat of his power, and the tales hold that whoever can catch him and take the cap wins the Saci's obedience or his magic, a prize that always slips away, because the trickster escapes as soon as the cap is grabbed. In some versions the color changes, with the red-capped Saci of the paths joined by variants wearing green or other colored caps, each with its own mischief. Monteiro Lobato's stories of the early twentieth century fixed the image of the pipe-smoking, red-capped trickster in the national imagination, though the figure long predates him in Afro-Brazilian and Indigenous legend. The cap alone identifies the Saci in folk art, carnival costumes and children's books, making it one of the most recognizable objects of Brazilian folk culture.",
     "related_creatures": [],
     "featured_in_stories": [
       "the-saci-who-stole-the-wind"
@@ -1914,7 +1937,7 @@
       "saci folklore"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "supay-lord-uku-pacha-1354",
@@ -1933,10 +1956,11 @@
     "maker": "Andean carvers",
     "powers": "Opens the door to the world beneath the earth.",
     "associated_creature": "supay",
-    "description": "Images and masks of Supay, the lord of the Andean underworld known as uku pacha, the world beneath the earth, honored and feared for his rule over the dead and the mountain's depths. In the colonial era his name was pressed into service for the devil, and festivals still carry the blurred figure, half ancient lord, half devil. His power is invoked at carnival and in the mines.",
+    "description": "Supay is the lord of the uku pacha, the world beneath the earth in Quechua cosmology, a realm of the dead and of the roots of the mountains; his images and masks, carved in stone or modeled in clay, stand for his power over that hidden country. In the colonial era his name was pressed into service as the Quechua word for the Christian devil, and the figure was forever blurred in two, ancient lord of the underworld on one side, Christian demon on the other. The ambiguity survives in the festivals of the Andes: at carnival and in the mining towns of Bolivia and Peru dancers wear elaborate Supay masks, and in the tin and silver mines he is courted with coca, cigarettes and chicha as the 'tío,' the uncle of the depths, who both gives the ore and may take the miner. Offerings and images of Supay were and are set out to keep his favor, especially by those who work beneath the earth. The figurine thus carries a double history, of the pre-Christian dead and of the devil the priests once taught.",
     "related_creatures": [],
     "featured_in_stories": [
-      "supay-lord-of-the-ujku"
+      "supay-lord-of-the-ujku",
+      "supay-lord-of-uku-pacha"
     ],
     "source": "Andean oral tradition and colonial records",
     "source_type": "oral_tradition",
@@ -1958,7 +1982,7 @@
       "supay carnival"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "sika-dwa-golden-stool-1408",
@@ -1976,7 +2000,7 @@
     "material": "Gold-covered wood",
     "era": "18th century to present",
     "powers": "Holds the soul (sunsum) of the Asante nation; its wellbeing is the nation's wellbeing.",
-    "description": "The Sika Dwa, or Golden Stool, is the sacred stool of the Asante, a gold-covered stool kept unseated-on as the soul (sunsum) of the nation. Tradition holds that Okomfo Anokye called it down from heaven in the 1700s, settling it onto the lap of Osei Tutu. It may not touch the ground and remains the supreme emblem of Asante sovereignty.",
+    "description": "The Sika Dwa, the Golden Stool of the Asante, is a gold-covered wooden stool kept unseated upon as the soul, the sunsum, of the Asante nation, the supreme emblem of its sovereignty. Tradition holds that in the late seventeenth century the priest Okomfo Anokye called it down from the sky, and it settled onto the lap of the first king, Osei Tutu, proving his divine right; since then the stool has never been allowed to touch the ground, and a blackened stool commemorates each departed king. When a British governor demanded the stool in 1900, the Asante rose in the war led by the queen mother Yaa Asantewaa, choosing to fight rather than surrender their nation's soul. The stool sits on its own stool, sheltered in the palace at Kumasi, and is brought out only on the greatest occasions. Its history joins the spiritual, the political and the martial in a single object of wood and gold.",
     "related_creatures": [
       "nyame-ashanti",
       "okomfo-anokye"
@@ -2002,7 +2026,7 @@
       "sika dwa kofi"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "sabar-drum-1418",
@@ -2018,7 +2042,7 @@
     "type": "musical instrument",
     "material": "Wood, goatskin, rope",
     "era": "Traditional, still played",
-    "description": "The sabar is the lead drum of Wolof and Serer music of Senegal, a single-headed drum played with one hand and a curved stick. Played at ceremonies and wrestling matches, its rhythms are named and can 'talk', and master drummers lead communal dance. Sabar ensembles anchor celebration and social life across Senegal.",
+    "description": "The sabar is the single-headed drum at the heart of Wolof and Serer music in Senegal, its goatskin head lashed to a carved wooden body with a signature system of lacing and seven pegs. Woodworkers of the lawbe caste carve the shell from baobab or dimb trunks, while griot percussionists of the gewel caste build, tune, and play the drum with one bare hand and a curved stick. Sabar rhythms are named, and older players say 'the sabar can speak': bakks, rhythmic phrases matched to spoken Wolof, were traditionally used to announce news, praise people, and summon the community. The drums anchor baptisms, weddings, and circumcisions, and every wrestler in the popular Lamb contests fields his own drumming group, whose rivalry is nearly as intense as the bout itself. Largely male through most of its history, sabar playing has opened to women and been carried worldwide by masters such as Doudou N'Diaye Rose, while its rhythms live on in the pop genre mbalax. Making a drum is itself touched by belief, for spirits (jinne) are said to dwell in certain trees, and watching a new head being fitted is held to bring good luck.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Wolof musical tradition",
@@ -2039,7 +2063,7 @@
       "wolof drum"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "sao-bronze-bracelet-1424",
@@ -2055,7 +2079,7 @@
     "type": "jewelry",
     "material": "Bronze or copper (lost-wax cast)",
     "era": "c. 6th century BC - 15th century AD",
-    "description": "Bronze and copper ornaments cast by the Sao people of the Lake Chad basin, an urban civilisation that flourished in what is now Chad for over a millennium. Excavated bracelets, anklets, and figurines from Sao mound sites show accomplished lost-wax casting; major finds are kept at the National Museum of N'Djamena and studied as key evidence of ancient Central African metalwork.",
+    "description": "The bronze and copper ornaments of the Sao people come from the mound sites of the Lake Chad basin, where a succession of urbanised societies flourished from around the sixth century BC to the fifteenth century AD. Excavations at towns like Mdaga and the islands of the Chari and Logone rivers have yielded bracelets, anklets, pendants, and small anthropomorphic and zoomorphic figurines cast by the lost-wax method. The careful casting of rings and armlets shows a metalworking tradition of real technical skill, and the spread of finds hints at long-distance trade in metal along the Sahel. The modern populations of the region remember the Sao in legend as giants and founders of vanished cities, so the bracelets bind living folklore to the archaeological record. Major collections are preserved at the National Museum in N'Djamena, and the objects remain key evidence of early Central African metallurgy.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Sao archaeological finds; National Museum of N'Djamena",
@@ -2076,7 +2100,7 @@
       "lake chad bronze"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "somali-dabqaad-1447",
@@ -2092,7 +2116,7 @@
     "type": "household object",
     "material": "Clay or soapstone",
     "era": "Traditional, still used",
-    "description": "The dabqaad is a clay or soapstone incense burner of Somalia, its bowl raised on short legs and covered by a perforated lid from which smoke rises. Frankincense and myrrh smoulder in it at home to perfume rooms and welcome guests, keeping alive the incense tradition of the Horn of Africa.",
+    "description": "The dabqaad is the incense burner of Somali homes, a small clay or soapstone bowl raised on short legs and covered by a perforated lid from which the smoke of frankincense and myrrh rises. Somalia sits at the eastern end of the ancient incense lands, and the gums burned in the dabqaad were the same resins traded to Egypt, Rome, and the Gulf for thousands of years. In daily use the burner perfumes the house, and a lit dabqaad is placed near the door to welcome guests, to scent the rooms after cooking, and to sweeten the air at weddings and religious gatherings. The perforated lid lets the smoke rise in a fine plume, and the burner is carried from room to room by the women of the household. The dabqaad keeps the Horn of Africa's incense culture alive in domestic form, linking modern Somali life to one of the oldest trades in the world.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Somali domestic tradition; ethnographic accounts",
@@ -2112,7 +2136,7 @@
       "frankincense burner somalia"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "sudanese-kaskara-1469",
@@ -2128,7 +2152,7 @@
     "type": "weapon",
     "material": "Iron, leather, wood",
     "era": "c. 15th-20th century",
-    "description": "The kaskara is a straight, double-edged sword with a plain iron cross-guard and disc pommel, carried in Sudan and adjacent regions into the 20th century. It descends from medieval Arab forms and served as a fighting blade and ceremonial weapon; many bear inscriptions, marks, or leather-wrapped grips, and were worn as signs of honour.",
+    "description": "The kaskara is the straight, double-edged broadsword of Sudan and the neighbouring regions of Chad and Eritrea, with a long blade, a cruciform quillon guard and a flattened disc pommel. Although most surviving examples date from the 19th century, the type is thought to have appeared around the 14th century and to preserve the straight-bladed style of the medieval Arab sword. The kaskara was an essential possession of most men across the central and eastern Sudan, from Chad through Darfur to the Red Sea coast, and it was worn horizontally across the back or between the upper arm and the chest. Some fine examples combine locally made Sudanese hilts with imported blades, as with a sword in the Met Museum whose Iranian watered-steel blade bears the name of Nasir al-Din Shah Qajar and which was taken as booty at the battle of Omdurman in 1898. Beyond its warrior use, the kaskara served in dances, oaths and ceremonies, and as a badge of manhood and honour among the peoples of the Nile and the Sahara.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Sudanese weapon tradition; museum collections",
@@ -2148,7 +2172,7 @@
       "kaskara sword"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "sudanese-girba-1470",
@@ -2164,7 +2188,7 @@
     "type": "container",
     "material": "Tanned animal hide",
     "era": "Traditional, still used",
-    "description": "The girba is a water vessel of Sudan made from a whole tanned animal hide, treated to be watertight, with openings at the neck and legs. Carried by travellers and herders across the Sahel and Nubia, it keeps water cool through evaporation; its shape and use are documented in travel accounts of the Nile lands.",
+    "description": "The girba is the traditional water-skin of Sudan, made from the whole hide of a goat turned inside out so that the sealed legs hang as a bag while the neck serves as the opening for filling and pouring. The soft leather container is carried over the shoulder or slung on a donkey, and its porous surface slowly lets a thin film of water evaporate, which cools the contents even under the fierce heat of the northern Sudan. Tanning with acacia bark and vegetable juices, and rubbing with oils, keeps the skin supple and waterproof, and a well-kept girba can survive for years, being cleaned, dried and re-oiled between uses. In villages and camps the girba was the everyday vessel for carrying water from the Nile or the well, taking the place that clay jars hold elsewhere, and it shares its design with the Spanish bota bag and other leather flasks of the Mediterranean world. The girba is also a familiar prop in Sudanese folk memory, where hospitality is measured by the cold water poured from it for the weary guest.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Travel accounts of the Nile lands; museum collections",
@@ -2184,7 +2208,7 @@
       "water skin sudan"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "sudarshana-chakra-1503",
@@ -2194,7 +2218,7 @@
     "region": "South Asia",
     "culture": "Hindu",
     "type": "weapon",
-    "description": "Whirling discus carried by Vishnu, the Sudarshana Chakra, described in the Puranas as a blazing thousand-spoked weapon that flies to its target and returns to its master. It appears in Vishnu's upper right hand beside the conch, lotus and mace, and is hurled in avatar legends, such as the slaying of the demons Jay and Vijay, against foes who cannot be defeated by other means.",
+    "description": "The Sudarshana chakra is the spinning, razor-edged discus of the Hindu god Vishnu, held in his upper right hand together with the conch, mace and lotus in the classic four-armed image. Its name means 'beautiful in form' or 'auspicious disc', and in myth it is the personal weapon that Vishnu casts at enemies, flying to its target and returning to his finger. In the churning of the ocean the chakra is sometimes said to have been the weapon that cut off the head of the demon Svarbhanu, the being who became the ascending and descending nodes Rahu and Ketu when the gods and demons churned for the nectar of immortality. The chakra also appears in the hands of Narasimha, Vishnu's man-lion avatar, who destroyed the demon king Hiranyakashipu and is worshipped together with the discus in temple images. Because the weapon is inseparable from Vishnu, it is a standard element of the temple icon, engraved on stones and invoked in protective prayer, and its recurring presence ties every one of the avatar stories to a single divine wielder.",
     "source_type": "literary",
     "source_quality": "academic",
     "attested": true,
@@ -2227,7 +2251,7 @@
     ],
     "source": "Vishnu Purana; Bhagavata Purana (Narasimha episode)",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "shiva-lingam-1504",
@@ -2237,7 +2261,7 @@
     "region": "South Asia",
     "culture": "Hindu",
     "type": "religious object",
-    "description": "Aniconic emblem of Shiva worshipped as a polished stone or carved shaft rising from a yoni base, standing for the god's infinite and formless power. Lingams are anointed daily with water, milk and bilva leaves across India, and the Puranas hold that Shiva once appeared as a column of fire whose ends neither Brahma nor Vishnu could find, a legend re-enacted in the lingam's worship.",
+    "description": "The lingam is the upright, pillar-like aniconic emblem of the Hindu god Shiva, found in temples, shrines and homes across India and the South Asian diaspora, and worshipped as the formless presence of the god. Its classic shape is a smooth column set in a circular base called the pitha, which represents the yoni of the goddess Shakti, so that the two pieces signify the union of the male and female principles. The foundational legend, the lingodbhava, tells that Shiva revealed himself as an infinite pillar of fire, so vast that neither Brahma nor Vishnu could find its top or bottom. In daily worship the lingam is bathed with water, milk and other offerings while the priest recites mantras, and to step over the lingam is considered a serious offence; certain lingams, the jyotirlingas, are among the most sacred pilgrimage sites of Shaivism. The form is also found as the mukhalinga, carved with Shiva's faces, and as the natural river-worn stones called banalingas, collected by devotees from the Narmada river.",
     "source_type": "literary",
     "source_quality": "academic",
     "attested": true,
@@ -2268,7 +2292,7 @@
     ],
     "source": "Linga Purana; Shaiva temple tradition",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "sankha-conch-1512",
@@ -2278,7 +2302,7 @@
     "region": "South Asia",
     "culture": "Hindu",
     "type": "ritual object",
-    "description": "Right-whorled conch shell blown at Hindu ceremonies and held by Vishnu as Panchajanya, the war-conch of the god. In the Puranas Vishnu sounds the conch before battle, and the sankha is still blown to open worship and marriage rites, its deep note believed to dispel inauspicious forces and to mark the boundary of sacred space.",
+    "description": "The sankha is the conch shell blown as a trumpet in Hindu ritual, and the shell is one of the four emblems held by Vishnu, whose own conch, named Panchajanya, was taken by the god from a demon who lived in the sea. In temple worship the sankha is blown at the start of the ceremony, its long low note summoning the devotees and warding off evil, and a smaller shell is used in the daily arti to pour water over the deity. The conch is also one of the chief auspicious objects of the household, printed on calendars and carved above doors, and a shell that spirals to the right, the dakshinavarti type, is prized as a rarity with special protective power. In the stories of Vishnu the conch sounds together with the discus as the signature of the god, and the vishnu-story repeats the pairing of these attributes. Because the natural shell is the matured body of a sea animal, its use in India is now balanced by ritual injunctions about the taking of life, and artificial shells are common in the shops.",
     "source_type": "literary",
     "source_quality": "academic",
     "attested": true,
@@ -2311,7 +2335,7 @@
     ],
     "source": "Vishnu Purana; Hindu temple and marriage ritual",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "sacred-tooth-relic-1524",
@@ -2321,7 +2345,7 @@
     "region": "South Asia",
     "culture": "Sinhalese Buddhist",
     "type": "religious object",
-    "description": "Relic of a tooth of the Buddha enshrined in the Temple of the Sacred Tooth in Kandy, the most venerated Buddhist object in Sri Lanka. According to the Mahavamsa the tooth was smuggled to the island from India and carried by successive rulers, and annual perahera processions honour it as guardian of the land and of its kings.",
+    "description": "The Sacred Tooth Relic is the most venerated object in Sri Lankan Buddhism, a tooth believed to be the left upper eye-tooth of the historical Buddha, brought to the island in the 4th century CE by Prince Danta and Princess Hemamala, who is said to have hidden it in her hair. The story of its journey from Dantapura in India is told in the Pali chronicle Dathavamsa, the Chronicle of the Tooth Relic, and the later chapters of the Mahavamsa trace its movement from the first capital, Anuradhapura, through the later capitals Polonnaruwa and Dambadeniya until it reached Kandy. In Kandy the relic is enshrined in the Temple of the Sacred Tooth (Sri Dalada Maligawa), and each summer it is honoured in the great Esala Perahera, a torchlit procession of elephants, dancers and drummers that is among the most spectacular festivals in Asia. The relic functioned politically as well as religiously, since the monarch who guarded it was held to legitimate his rule over the island, and a king who lost the tooth lost his claim to the country. Because the relic is regarded as the presence of the Buddha himself, it is displayed only rarely, and its inner shrine is kept under the most stringent guard.",
     "source_type": "literary",
     "source_quality": "academic",
     "attested": true,
@@ -2353,7 +2377,7 @@
     ],
     "source": "Mahavamsa and the chronicle of the Tooth Relic (Dalada-vamsa)",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "sanni-yaksha-mask-1529",
@@ -2363,7 +2387,7 @@
     "region": "South Asia",
     "culture": "Sinhalese",
     "type": "ritual object",
-    "description": "Carved wooden mask of a Sinhalese disease demon, one of the eighteen sanni masks painted in vivid colours and worn in exorcism ceremonies. Each mask portrays a specific affliction such as fever, madness or jaundice, and the dance of the mask is performed to trick the demon and dismiss it from the sick body, a practice known as tovil.",
+    "description": "The sanni yaksha mask is a carved and painted wooden face of a Sinhalese disease demon, worn in the exorcism rites that Sri Lankan tradition calls shanthi karma or tovil. There are eighteen principal sanni demons, each named for a particular affliction, such as fever, madness, dropsy or jaundice, and each has its own mask with a distinctive colour, expression and headdress. The finest carving comes from Ambalangoda on the south coast, where the mask carvers cut the traditional kaduru wood and finish it with vegetable and mineral pigments. In the ritual the masked dancer enacts the demon's story to coax it into speech, then frightens or bribes it into leaving the sick body, so the mask is both an artwork and a working instrument of healing. The ceremony is said to recall a plague once healed by a healer at Vaishali, and the sanni masks are still danced today in Sri Lanka.",
     "source_type": "oral_tradition",
     "source_quality": "documented",
     "attested": true,
@@ -2381,7 +2405,8 @@
       "riri-yaksha-sri-lankan"
     ],
     "featured_in_stories": [
-      "the-riri-yaksha-and-suniyam-sorcery-legends"
+      "the-riri-yaksha-and-suniyam-sorcery-legends",
+      "the-legend-of-gara-yakka"
     ],
     "keywords": [
       "mask",
@@ -2398,7 +2423,7 @@
     ],
     "source": "Sinhalese ritual ethnography and mask-carving tradition",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "sindhi-topi-1531",
@@ -2408,7 +2433,7 @@
     "region": "South Asia",
     "culture": "Sindhi",
     "type": "garment",
-    "description": "Embroidered cylindrical cap of Sindh, worn by men and at festivals, with a band of stitched mirror-work and a rounded crown. The sindhi topi is a national symbol of the province, worn with the ajrak shawl, and Sindhi folklore holds that the cap carries the honour and pride of the wearer, so that to knock it off is a grave insult.",
+    "description": "The sindhi topi is the embroidered cylindrical cap of Sindh, worn by men at daily work and at festivals, with a rounded crown and a characteristic arch-shaped cut-out above the forehead edged with stitched mirror work. The caps are made across the province, with centres such as Tharparkar known for fine needlework, and the shape and embroidery vary from town to town so that the topi can show where a wearer comes from. Sindhi tradition pairs the cap with the ajrak shawl, and the two together are treated as a badge of the province's culture; Sindhi Cultural Day is marked by wearing both. A widely repeated saying holds that the topi carries the honour and pride of the man who wears it, so that knocking it from his head is a grave insult, and the cap is a fixture of Sindhi weddings, political gatherings and everyday dress.",
     "source_type": "oral_tradition",
     "source_quality": "documented",
     "attested": true,
@@ -2437,7 +2462,7 @@
     ],
     "source": "Sindhi cultural tradition",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "singing-bowl-1539",
@@ -2447,7 +2472,7 @@
     "region": "Asia",
     "culture": "Himalayan Buddhist",
     "type": "ritual object",
-    "description": "Metal bowl that rings a sustained tone when its rim is rubbed with a wooden striker, used in Himalayan Buddhist ritual for offerings and meditation. The bowls are held to clear and focus the mind, and their sound is used to open and close ceremonies in the monasteries of Nepal and Tibet, where the ringing is read as an offering to the deities.",
+    "description": "The singing bowl is a metal bowl of the Himalayan Buddhist world that produces a long, sustained tone when its rim is rubbed with a wooden striker or struck, and it is used in offerings, meditation and the opening and closing of ceremonies. The bowls are cast in bronze and brass bell-metal alloys, often in the workshops of the Kathmandu valley, and many carry embossed decoration or an incised invocation such as the six-syllable mantra Om Mani Padme Hum. Their use in ritual is old, though the precise history is uncertain, and the bowls became widely known outside the Himalayas only from the late twentieth century, when the trade through Patan and Thamel grew and the sound was adopted in meditation circles. Monks and lay people alike treat the ringing as an offering to the deities and a way of clearing and focusing the mind.",
     "source_type": "oral_tradition",
     "source_quality": "documented",
     "attested": true,
@@ -2476,7 +2501,7 @@
     ],
     "source": "Himalayan ritual practice and craft tradition",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "sherpa-pangden-1541",
@@ -2486,7 +2511,7 @@
     "region": "Sherpa",
     "culture": "Sherpa",
     "type": "garment",
-    "description": "Striped front apron woven and worn by Sherpa married women over their chuba, the pangden's narrow red, white and black stripes marking the wearer's married status. The aprons are woven on backstrap looms from sheep and yak wool, and Sherpa tradition regards them as a badge of the household and of womanhood, also woven in neighbouring Tibet.",
+    "description": "The sherpa pangden is the striped front apron woven and worn by Sherpa married women over their chuba, the strip of red, white and black stripes marking the wearer's married status and adulthood. The aprons are woven on backstrap looms from sheep's and yak's wool, and the narrow stripes and their colours follow family and regional convention, so that the pangden is a badge of household and of womanhood as much as a piece of dress. The custom is hundreds of years old and is also found among related Himalayan peoples and in Tibetan regions, where similar striped aprons are made. A girl receives her pangden as she comes of age and is expected to wear it in daily life and at festivals, and the making of the aprons remains a home craft of Sherpa women weavers in the valleys below the Everest massif.",
     "source_type": "secondary_scholarly",
     "source_quality": "documented",
     "attested": true,
@@ -2516,7 +2541,7 @@
     ],
     "source": "Sherpa weaving and dress ethnography (Dolma Sherpa)",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "solomon-shell-money-1624",
@@ -2526,7 +2551,7 @@
     "region": "Pacific",
     "culture": "Solomon Islands",
     "type": "other",
-    "description": "Traditional currency of the Solomon Islands, made from small discs ground from shell and strung on fibre in long coils. Shell money is still used in bride-price, compensation and chiefly exchange, its value fixed by the species of shell and the skill of its making, and the red feather-money of the Reef Islands is among the most prized forms.",
+    "description": "Traditional currency of the Solomon Islands, made from small discs ground from shell — the red money of Malaita being prized above all — drilled and strung on fibre into long strings and rolled coils. Shell money is still exchanged in bride-price, compensation, feasts and chiefly obligations, its value fixed by the species of shell, the fineness of the grinding and the length of the string. On the Reef Islands and Santa Cruz the most spectacular form is red feather-money: rolls of scarlet feathers from the cardinal honeyeater glued to a fibre base, so prized that only the greatest payments were made with it. The making and the value of these moneys remain part of living island economies.",
     "source_type": "secondary_scholarly",
     "source_quality": "documented",
     "attested": true,
@@ -2554,7 +2579,7 @@
     ],
     "source": "Ethnographic studies of Solomon Islands economy",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "samoan-siapo-1628",
@@ -2564,7 +2589,7 @@
     "region": "Polynesian",
     "culture": "Samoan",
     "type": "other",
-    "description": "Barkcloth of Samoa, beaten from the inner bark of the paper mulberry into large sheets and painted or printed with geometric patterns in earth tones. Siapo is made by women for wrapping, dress and ceremony, and its designs are handed down within families, each district owning particular patterns that mark the cloth as its own.",
+    "description": "Barkcloth of Samoa, beaten by women from the inner bark of the paper mulberry into large sheets and decorated with geometric patterns in earth tones, either painted by hand or printed by rubbing colour over carved upeti stencil boards. Siapo is made for wrapping, dress and ceremony — it clothes chiefs, lines meeting houses and forms part of exchange gifts at weddings and funerals — and its designs are owned by families and districts, each pattern marking the cloth as coming from a particular place and lineage. Beating the bark, pasting the sheets together with starch and burnishing the finished cloth are skills passed from mother to daughter, and siapo remains central to Samoan ceremonial life today.",
     "source_type": "secondary_scholarly",
     "source_quality": "documented",
     "attested": true,
@@ -2592,7 +2617,7 @@
     ],
     "source": "Ethnographic records of Samoan material culture",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "samoan-ie-toga-1629",
@@ -2602,7 +2627,7 @@
     "region": "Polynesian",
     "culture": "Samoan",
     "type": "other",
-    "description": "Treasured fine mat of Samoa, woven from the thinnest strips of pandanus by senior women and polished with oil to a fine sheen. The ʻie toga is the highest form of Samoan wealth, exchanged at weddings, funerals and political occasions, and the oldest mats are given names and genealogies and counted among the most sacred possessions of the family.",
+    "description": "Treasured fine mat of Samoa, woven from the thinnest strips of pandanus leaf by senior women and softened, oiled and polished until it gleams. The ʻie toga is the highest form of Samoan wealth, exchanged at weddings, funerals, title-bestowals and political occasions in the ceremonial economy of fa'alavelave, where it is always presented together with fine goods. The oldest mats are given names and genealogies, handed down through generations and counted among the most sacred possessions of the aiga, and a family's honour and standing are measured in the size and age of its store of fine mats.",
     "source_type": "secondary_scholarly",
     "source_quality": "academic",
     "attested": true,
@@ -2631,7 +2656,7 @@
     ],
     "source": "Ethnographic scholarship on Samoan ceremonial exchange",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "samoan-tatau-tools-1630",
@@ -2641,7 +2666,7 @@
     "region": "Polynesian",
     "culture": "Samoan",
     "type": "tool",
-    "description": "Set of combs and mallets used in the Samoan tatau, the traditional hand-tapped tattoo applied by a tufuga ta tatau. A comb of bone or turtle shell set with teeth is dipped in soot pigment and struck with a wooden mallet to drive ink into the skin, a practice preserved by legend from the goddesses Taema and Tilafaiga, who brought the art from Fiti.",
+    "description": "Set of combs and mallets used in the Samoan tatau, the hand-tapped tattoo applied by a tufuga ta tatau, the tattoo master. A comb of bone, turtle shell or later steel, set with teeth of graduated length, is dipped in soot pigment and struck with a wooden mallet to drive the ink into the skin, line by painful line. The tools and the art are traced by legend to the goddesses Taema and Tilafaiga, who brought the craft from Fiti to Samoa, and the full male pe'a and the female malu are still given with ceremony as marks of dignity and genealogy. A set of tools is the master's most guarded possession, used only within the ritual rules of the practice.",
     "source_type": "literary",
     "source_quality": "documented",
     "attested": true,
@@ -2672,7 +2697,7 @@
     ],
     "source": "Ethnographic accounts of Samoan tattooing; oral tradition",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "sakta-1763",
@@ -2682,7 +2707,7 @@
     "region": "Baltic",
     "culture": "Baltic (Latvian)",
     "type": "jewelry",
-    "description": "The sakta, the ancient Baltic breast brooch of bronze, silver or silver-gilt, fastened the folk costume — especially the bride's — at throat or chest. Archaeological finds date the fibula type back two millennia; the later 'bubble' saktas with hemispherical bosses and glass eyes were trusted as savings. A Latvian folk song says goddess Laima makes fibulae for a girl, 'immersing them in silver'.",
+    "description": "The sakta, the ancient Baltic breast brooch of bronze, silver or silver-gilt, fastened the folk costume — above all the bride's — at throat or chest, in one or several at once. Archaeological finds date the fibula type back roughly two millennia, and the later 'bubble' saktas, with hemispherical bosses set with glass studs, were trusted as a woman's savings, pinned to her dress as a portable store of value. A Latvian folk song says the goddess Laima makes fibulae for a girl, 'immersing them in silver', and the brooch was given at the coming-of-age ceremonies of girls and kept as an heirloom of the family.",
     "source_type": "archaeological",
     "source_quality": "academic",
     "attested": true,
@@ -2724,7 +2749,7 @@
     "region": "Baltic",
     "culture": "Baltic (Estonian)",
     "type": "garment",
-    "description": "The Seto women's folk costume of south-eastern Estonia's Setomaa: a striking white, black and red ensemble of striped or checked skirt, linen blouse, woven belt and silver jewellery, worn for leelo singing, church feasts and Seto Kingdom Day. The costume is integral to the Seto polyphonic leelo tradition inscribed by UNESCO in 2009, in which choirs sang in traditional dress.",
+    "description": "The Seto women's folk costume of south-eastern Estonia's Setomaa: a striking white, black and red ensemble of striped or checked skirt, linen blouse, woven belt and heavy silver jewellery, above all the large seto silver brooch with its coin pendants. The costume is integral to leelo, the polyphonic singing tradition inscribed by UNESCO in 2009, for the Seto choir sang in traditional dress, and it is worn for church feasts, weddings and Seto Kingdom Day, where it announces the wearer's village and lineage. The dress is made and passed down by Seto women, whose handicraft knowledge — of weaving, embroidery and silverwork — is as much a part of Setomaa's heritage as its songs.",
     "source_type": "oral_tradition",
     "source_quality": "well-documented",
     "attested": true,
@@ -2764,7 +2789,7 @@
     "region": "Europe",
     "culture": "Hungarian (Székely)",
     "type": "other",
-    "description": "The Székely kapu is the richly carved wooden gate of the Hungarian Székely villages of Transylvania, its great oak posts carved with suns, tulips, the tree of life and heraldic symbols. A marriage gate stands before the house and a small gate for the dead leads to the yard, making each carving a family record.",
+    "description": "The Székely kapu is the carved wooden gateway of the Hungarian Székely villages of Transylvania, an oak structure built in two parts: a large wagon gate for carts and hay and a smaller door beside it for people on foot. The finest examples, carved from the seventeenth and eighteenth centuries, are covered with tulips, the tree of life, suns, rosettes and heraldic devices, and often bear inscriptions such as 'Isten hozott' ('God brought you') or the name and year of the householders. Folk belief held that the large gate belonged to the living and the small gate to the dead, who were carried through it one last time on their way to the grave. Because each gate recorded the family, the land and the faith of its owners, the surviving Székely gates - the earliest dated remnant is from Mikháza in 1673 - are read as genealogies in wood.",
     "source_type": "oral_tradition",
     "source_quality": "documented",
     "attested": true,
@@ -2803,7 +2828,7 @@
     "region": "Slavic",
     "culture": "Serbian",
     "type": "garment",
-    "description": "The šajkača is the Serbian cap with a raised V-shaped crown, descended from the cloth caps of the 18th-century šajkaši river troops who patrolled the Danube. Worn by Serbian soldiers and peasants, and in the Serbian military tradition, it became a national headgear symbol.",
+    "description": "The šajkača is the traditional Serbian cap, a rounded woollen cap with a raised crown whose four points fold into a characteristic V shape, made from a single piece of cloth and worn without a visor. Its name honours the šajkaši, the eighteenth-century Serbian river troops who crewed the šajka boats of the Danube and Sava under Habsburg command and who first wore the shape. From the nineteenth century the šajkača spread beyond the river garrisons to Serbian soldiers, teachers, priests and peasants, becoming a badge of Serbian national identity, worn in the Balkan Wars and the First World War and banned by the occupiers during the Second. The V of the crown is sometimes read as the spread wings of the eagle, and today the cap is worn at ceremonies, in folk ensembles and by diaspora Serbs as a mark of origin and belonging.",
     "source_type": "oral_tradition",
     "source_quality": "documented",
     "attested": true,
@@ -2842,7 +2867,7 @@
     "region": "Caucasus",
     "culture": "Azerbaijani",
     "type": "other",
-    "description": "Stained-glass window of Sheki, Azerbaijan, made by fitting hundreds of small pieces of coloured glass into a lattice of walnut strips that interlock without glue or nails. The finest example survives in the 1762 Sheki Khan's Palace, whose roughly 190 windows hold up to 5,000 fragments of glass; masters call the craft 'the art of patience', as a single panel can take months. ",
+    "description": "Shebeke is the stained-glass lattice window of the Azerbaijani town of Sheki, built by fitting hundreds of small panes of coloured glass into a web of walnut strips that hold together by interlocking notches, without glue, nails or any backing frame. Each joint is cut and fitted by hand, and a single panel can take months of patient work, which is why the masters call the craft the art of patience. The finest surviving example is the Sheki Khan's Palace of 1762, whose roughly 190 windows hold up to five thousand glass fragments, throwing soft blue, red and green light across the painted walls of the palace. Since the palace was inscribed as a UNESCO World Heritage site in 2019, the surviving shebeke workshops have revived the craft, training new masters in the old joinery.",
     "source_type": "secondary_scholarly",
     "source_quality": "well-documented",
     "attested": true,
@@ -2881,7 +2906,7 @@
     "region": "Caucasus",
     "culture": "Azerbaijani (Caucasian legend)",
     "type": "jewelry",
-    "description": "Amulet bearing the image of Shahmaran, the serpent queen of Caucasian and Anatolian legend, a figure with a woman's head and a serpent body, worn or hung for protection against the evil eye. Amulets, jewellery and wall paintings of the serpent queen are attested across centuries, and her image survives in major collections such as the British Museum and in Azerbaijani amulets and carpet motifs.",
+    "description": "The Shahmaran amulet carries the image of the serpent queen of Caucasian and Anatolian legend, a being with the head of a beautiful woman and the body of a serpent, who is said to have taught healing and the secrets of nature to those who dwelt in her underground kingdom. Silver and brass amulets, pendants, bracelets and wall plaques bearing her figure are worn or hung to turn away the evil eye and to bring luck and health, and her serpent-woman form appears on carpets, on jewellery and throughout the traditional story cycle of Azerbaijan, Turkey and Iran. The British Museum holds amulets of the serpent queen, and the legend of Shahmaran survives strongly in folk belief, especially among women who seek her protection in childbirth and sickness. As a wearable image of a living folk deity, the Shahmaran amulet links ancient serpent worship to modern jewellery.",
     "source_type": "secondary_scholarly",
     "source_quality": "well-documented",
     "attested": true,
@@ -2923,7 +2948,7 @@
     "region": "Slavic",
     "culture": "Russian",
     "type": "household object",
-    "description": "Metal urn with a central fire-tube used to boil water for tea, a fixture of the Russian home from the early 18th century. The great workshops at Tula and in Moscow produced brass, nickel and silver samovars; around the samovar the family gathered for the evening tea, and it became a byword for hospitality in Russian daily life and literature. ",
+    "description": "Metal urn with a central fire-tube used to boil water for tea, a fixture of the Russian home from the early 18th century. The great workshops at Tula and in Moscow produced brass, nickel and silver samovars; around the samovar the family gathered for the evening tea, and it became a byword for hospitality in Russian daily life and literature. A charcoal fire burns in the inner tube, keeping the surrounding water at a rolling boil while the small teapot steeps on top, and the strong tea is poured from the spigot and diluted to taste in each cup. The form spread across Russia, Ukraine and the Caucasus and eastwards through Central Asia, and travellers carried samovars on long journeys. Tula became the centre of manufacture, and the city's museum of samovars preserves hundreds of examples, from the copper kettles of the 18th century to the mass-produced factory models of the 20th.",
     "source_type": "secondary_scholarly",
     "source_quality": "well-documented",
     "attested": true,
@@ -2961,7 +2986,7 @@
     "region": "Eastern Europe",
     "culture": "Belarusian (Polish-Lithuanian Commonwealth)",
     "type": "garment",
-    "description": "Woven silk belt produced from the mid-18th century at the Slutsk manufactory of the Radziwiłł family in present-day Belarus, worn with the kontusz coat by Polish-Lithuanian nobility. Double-sided silk with gold and silver thread, floral and checkered borders and maker's marks woven into the ends; genuine Slutsk belts were prized across the Commonwealth and are now a national symbol of Belarus.",
+    "description": "Woven silk belt produced from the mid-18th century at the Slutsk manufactory of the Radziwiłł family in present-day Belarus, worn with the kontusz coat by Polish-Lithuanian nobility. Double-sided silk with gold and silver thread, floral and checkered borders and maker's marks woven into the ends; genuine Slutsk belts were prized across the Commonwealth and are now a national symbol of Belarus. The manufactory, founded around 1758, employed weavers from Persia and the Ottoman lands, and its belts imitated the prized sashes of the East so well that Polish nobles asked for 'Slutsk belts' in place of Persian ones. A belt was up to four metres long and folded several times around the waist, with one side in bright colours for daily wear and the other in sombre tones for mourning. Production ended in the 1840s, but the pattern entered heraldry and modern Belarusian imagery, and the belt is reproduced in museum workshops today.",
     "source_type": "secondary_scholarly",
     "source_quality": "academic",
     "attested": true,
@@ -2999,7 +3024,7 @@
     "region": "Central Asia",
     "culture": "Turkic (Kazakh)",
     "type": "other",
-    "description": "The crown of the Kazakh yurt: a circular wooden rim with radiating cross-beams (uyk) that supports the roof and lets smoke and daylight pass through the top opening. Beyond architecture, the shanyrak is the foremost Kazakh symbol of home, family continuity and the nation; it stands at the centre of Kazakhstan's state emblem, and custom passes the family shanyrak to the household heir.",
+    "description": "The crown of the Kazakh yurt: a circular wooden rim with radiating cross-beams (uyk) that supports the roof and lets smoke and daylight pass through the top opening. Beyond architecture, the shanyrak is the foremost Kazakh symbol of home, family continuity and the nation; it stands at the centre of Kazakhstan's state emblem, and custom passes the family shanyrak to the household heir. In yurt construction the shanyrak is the keystone: curved wooden ribs are lashed to its rim, felt and ropes are laid over the frame, and the whole dwelling can be dismantled and loaded on horses in under an hour. The crossing beams radiate from a central crown, and the shanyrak appears in the wedding, where newlyweds are blessed beneath it. The word itself carries the idea of the home as a circle of kin, and a Kazakh saying holds that the strength of a family is measured by the soundness of its shanyrak.",
     "source_type": "secondary_scholarly",
     "source_quality": "well-documented",
     "attested": true,
@@ -3039,7 +3064,7 @@
     "region": "Central Asia",
     "culture": "Turkic (Kazakh)",
     "type": "garment",
-    "description": "Tall conical wedding headdress of Kazakh brides, covered with silver plaques, coral, beads and gemstones, with a fur-trimmed brow and long veils. The most expensive item of a bride's dowry after the yurt, the saukele symbolised the beginning of married life; it was handed down from mother to daughter and worn until the birth of the first child.",
+    "description": "Tall conical wedding headdress of Kazakh brides, covered with silver plaques, coral, beads and gemstones, with a fur-trimmed brow and long veils. The most expensive item of a bride's dowry after the yurt, the saukele symbolised the beginning of married life; it was handed down from mother to daughter and worn until the birth of the first child. The cone is built over a stiffened cloth or felt base, wrapped in velvet or brocade, and studded with silver medallions and carnelian; a fringe of coral and pearls falls over the forehead, and long beaded tassels hang past the shoulders. The weight of a richly made saukele could reach several kilograms, and a bride might wear it only for the wedding and the following days. The name is sometimes said to come from 'sau', well-being, and 'kele', crown, for the headdress that brings fortune. Museums in Kazakhstan and Siberia hold 19th-century examples, some kept as family heirlooms for generations.",
     "source_type": "secondary_scholarly",
     "source_quality": "well-documented",
     "attested": true,
@@ -3078,7 +3103,7 @@
     "region": "Asia",
     "culture": "Siberian (Yakut/Sakha)",
     "type": "other",
-    "description": "Carved wooden hitching post of the Yakut (Sakha) people, set up at home and at the ysyakh summer festival, often topped with carved horse-heads. The sacred Aar Baah Serge of the festival stands on the eastern side as a symbolic world-tree, a ladder linking earth to the upper world where the aiyy deities dwell; horses are tied facing east during the celebration.",
+    "description": "Carved wooden hitching post of the Yakut (Sakha) people, set up at home and at the ysyakh summer festival, often topped with carved horse-heads. The sacred Aar Baah Serge of the festival stands on the eastern side as a symbolic world-tree, a ladder linking earth to the upper world where the aiyy deities dwell; horses are tied facing east during the celebration. The post is hewn from a single larch or birch, its foot buried deep and its upper part carved into a horse's head or into stacked, cup-shaped tiers. Around a family dwelling several serges stood, each with its use: the home post for daily tethering, the wedding post for the horse of the groom, and the sacrifice post for the white stallion offered to the sky spirits. Folklorists read the serge as the axis of the homestead, an image of the world-tree connecting the three levels of the Sakha cosmos. Carving a good serge was a mark of mastery, and old posts are preserved as ancestors' property.",
     "source_type": "secondary_scholarly",
     "source_quality": "academic",
     "attested": true,

@@ -3764,6 +3764,7 @@
     "attested": true,
     "related_items": [
       "aegis",
+      "aegis-greek",
       "harpe-perseus"
     ]
   },
@@ -19428,7 +19429,10 @@
     "lastUpdated": "2026-08-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "attested": true
+    "attested": true,
+    "related_items": [
+      "co-loa-crossbow"
+    ]
   },
   {
     "id": "mahagiri-nat-burmese-3238",
@@ -20792,7 +20796,10 @@
     "source_type": "oral_tradition",
     "source": "Danish folklore — magic objects from Hans Christian Andersen and Danish tradition.",
     "source_quality": "fair",
-    "attested": true
+    "attested": true,
+    "related_items": [
+      "the-tinderbox"
+    ]
   },
   {
     "id": "stub-masmasalanicw-four-carpenters-nuxalk",
@@ -21213,7 +21220,8 @@
     "source": "Historia Regum Britanniae (Geoffrey of Monmouth, 1136); Arthurian cycle",
     "attested": true,
     "related_items": [
-      "excalibur"
+      "excalibur",
+      "the-round-table"
     ]
   },
   {
@@ -21266,7 +21274,10 @@
     "source_type": "oral_tradition",
     "source": "Danish folklore — magic objects documented in Danish oral tradition.",
     "source_quality": "fair",
-    "attested": true
+    "attested": true,
+    "related_items": [
+      "the-flying-trunk"
+    ]
   },
   {
     "id": "stub-malahas-nuu-chah-nulth",
@@ -21422,7 +21433,10 @@
     "source_type": "oral_tradition",
     "source": "Danish folklore — spellbook/magic documented in Danish oral tradition.",
     "source_quality": "fair",
-    "attested": true
+    "attested": true,
+    "related_items": [
+      "the-magic-book"
+    ]
   },
   {
     "id": "stub-maha-sona",

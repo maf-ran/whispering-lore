@@ -7,7 +7,7 @@
     "region": "South Asia",
     "culture": "Hindu",
     "type": "weapon",
-    "description": "Double-ended thunderbolt of Indra, king of the devas, said in the Puranas to have been forged from the bones of the sage Dadhichi after he gave up his life for the gods. In the Rigveda Indra wields the vajra to slay Vritra the drought serpent, and the weapon endures in Hindu and Buddhist iconography as a marker of kingship over storms and victory.",
+    "description": "The vajra is the thunderbolt weapon of Indra, the storm god of the Rigveda, and the foremost weapon in early Indian mythography. In the Vedic hymns Indra wields the vajra to strike down the serpent-demon Vritra, who held back the world's waters, and by that blow releases rivers, rain and light; the word itself came to mean both the physical bolt and the diamond, as being unbreakable and irresistible. Later Puranic tradition gives a dramatic origin for the weapon, telling that the sage Dadhichi offered his own bones, from which the divine smiths forged the indestructible thunderbolt with which Indra defeated Vritra. In Hindu iconography the vajra appears as a short metal club with ribbed heads, carried by Indra and sometimes by other deities, while in Vajrayana Buddhism the same name and form were adopted for the ritual scepter held in the right hand during meditation and consecration, paired with a bell. Because of this double life, the vajra spans the worlds of Vedic warfare and Buddhist ritual as a symbol of indestructible truth.",
     "source_type": "literary",
     "source_quality": "academic",
     "attested": true,
@@ -36,7 +36,7 @@
     ],
     "source": "Rigveda; Puranic retellings (Dadhichi myth)",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "trishula-of-shiva-1502",
@@ -46,7 +46,7 @@
     "region": "South Asia",
     "culture": "Hindu",
     "type": "weapon",
-    "description": "Three-pronged spear sacred to Shiva, the destroyer, whose prongs stand for creation, preservation and destruction, or for the three gunas that compose the world. Shiva carries the trishula in Puranic sculpture and story, and devotees plant iron trishulas at cremation grounds and shrine thresholds, where the weapon is said to pierce ignorance and drive away evil spirits.",
+    "description": "The trishula is the three-pronged spear or trident of the Hindu god Shiva, carried in his hand and planted before his shrines, so that the trident has become his most recognizable attribute. The three prongs are traditionally read as the three gunas of sattva, rajas and tamas, or as the triad of creation, preservation and destruction, and the weapon appears as an instrument of both justice and destruction in the myths. In the celebrated tale of the three demon cities, Shiva is said to have burned the demon Tripura and his aerial cities with a single arrow, while in other stories it is the trishula itself that he hurls to punish or to sever. In the two Ganesha legends the trident plays a decisive role, for it is Shiva's trishula that cuts off the head of the boy Ganesha at the door of Parvati's chamber, and the same blow is retold in different words in accounts of Ganesha's origin. The trishula is also carried by Shaiva ascetics, imprinted on offerings, and reproduced in metal as a protective emblem over homes and shrines.",
     "source_type": "literary",
     "source_quality": "academic",
     "attested": true,
@@ -59,7 +59,11 @@
     "maker": "associated with Shiva",
     "associated_creature": "shiva",
     "related_creatures": [],
-    "featured_in_stories": [],
+    "featured_in_stories": [
+      "shiva-story",
+      "ganesha-story",
+      "the-origin-of-ganeshas-elephant-head"
+    ],
     "keywords": [
       "trident",
       "Shiva",
@@ -75,7 +79,7 @@
     ],
     "source": "Shiva Purana and Shaiva iconographic tradition",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "sudarshana-chakra-1503",
@@ -85,7 +89,7 @@
     "region": "South Asia",
     "culture": "Hindu",
     "type": "weapon",
-    "description": "Whirling discus carried by Vishnu, the Sudarshana Chakra, described in the Puranas as a blazing thousand-spoked weapon that flies to its target and returns to its master. It appears in Vishnu's upper right hand beside the conch, lotus and mace, and is hurled in avatar legends, such as the slaying of the demons Jay and Vijay, against foes who cannot be defeated by other means.",
+    "description": "The Sudarshana chakra is the spinning, razor-edged discus of the Hindu god Vishnu, held in his upper right hand together with the conch, mace and lotus in the classic four-armed image. Its name means 'beautiful in form' or 'auspicious disc', and in myth it is the personal weapon that Vishnu casts at enemies, flying to its target and returning to his finger. In the churning of the ocean the chakra is sometimes said to have been the weapon that cut off the head of the demon Svarbhanu, the being who became the ascending and descending nodes Rahu and Ketu when the gods and demons churned for the nectar of immortality. The chakra also appears in the hands of Narasimha, Vishnu's man-lion avatar, who destroyed the demon king Hiranyakashipu and is worshipped together with the discus in temple images. Because the weapon is inseparable from Vishnu, it is a standard element of the temple icon, engraved on stones and invoked in protective prayer, and its recurring presence ties every one of the avatar stories to a single divine wielder.",
     "source_type": "literary",
     "source_quality": "academic",
     "attested": true,
@@ -118,7 +122,7 @@
     ],
     "source": "Vishnu Purana; Bhagavata Purana (Narasimha episode)",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "shiva-lingam-1504",
@@ -128,7 +132,7 @@
     "region": "South Asia",
     "culture": "Hindu",
     "type": "religious object",
-    "description": "Aniconic emblem of Shiva worshipped as a polished stone or carved shaft rising from a yoni base, standing for the god's infinite and formless power. Lingams are anointed daily with water, milk and bilva leaves across India, and the Puranas hold that Shiva once appeared as a column of fire whose ends neither Brahma nor Vishnu could find, a legend re-enacted in the lingam's worship.",
+    "description": "The lingam is the upright, pillar-like aniconic emblem of the Hindu god Shiva, found in temples, shrines and homes across India and the South Asian diaspora, and worshipped as the formless presence of the god. Its classic shape is a smooth column set in a circular base called the pitha, which represents the yoni of the goddess Shakti, so that the two pieces signify the union of the male and female principles. The foundational legend, the lingodbhava, tells that Shiva revealed himself as an infinite pillar of fire, so vast that neither Brahma nor Vishnu could find its top or bottom. In daily worship the lingam is bathed with water, milk and other offerings while the priest recites mantras, and to step over the lingam is considered a serious offence; certain lingams, the jyotirlingas, are among the most sacred pilgrimage sites of Shaivism. The form is also found as the mukhalinga, carved with Shiva's faces, and as the natural river-worn stones called banalingas, collected by devotees from the Narmada river.",
     "source_type": "literary",
     "source_quality": "academic",
     "attested": true,
@@ -159,7 +163,7 @@
     ],
     "source": "Linga Purana; Shaiva temple tradition",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "rudraksha-mala-1505",
@@ -169,7 +173,7 @@
     "region": "South Asia",
     "culture": "Hindu",
     "type": "religious object",
-    "description": "Rosary of dried rudraksha seeds, each furrowed bead sacred to Shiva, strung as a meditation mala worn by ascetics and devotees. Hindu tradition holds that the rudraksha tree sprang from Shiva's tears, that beads with five natural grooves are most auspicious, and that chanting while turning the mala purifies the mind and body and grants steadiness to the devotee.",
+    "description": "The rudraksha mala is a string of 108 prayer beads made from the seeds of the rudraksha tree, Elaeocarpus ganitrus, which grows in the Himalayas, the Indo-Malayan region and as far as Southeast Asia. The name means 'Rudra's eye', and the Shiva Purana relates that the rudraksha sprang from the tears that fell from the god Rudra-Shiva's eyes during his long penance, so that the beads are sacred to Shiva and are worn by Shaiva ascetics and householder devotees alike. Each bead is marked with vertical grooves called mukhi, from one to twenty-one, of which the five-faced type is the most common and most auspicious, and the Rudrakshajabala Upanishad gives rules for their wearing and the benefits of each count. The string is used for japa, the repetition of a mantra, and is also worn on the neck, wrist or arm as a guarantee of protection and spiritual merit. Because rudraksha is both a botanical product and a ritual object, it is traded widely, and its beads can be found strung with gold, silver or cotton thread in the markets of Nepal and Varanasi.",
     "source_type": "oral_tradition",
     "source_quality": "documented",
     "attested": true,
@@ -200,7 +204,7 @@
     ],
     "source": "Shaiva devotional tradition and Puranic legend of Shiva's tears",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "ganesh-idol-1506",
@@ -210,7 +214,7 @@
     "region": "South Asia",
     "culture": "Hindu",
     "type": "religious object",
-    "description": "Clay or metal image of the elephant-headed god Ganesha, remover of obstacles, set at thresholds, workplaces and festival altars across India. At Ganesh Chaturthi, clay idols are installed, prayed over and immersed in rivers, re-enacting the myth of the boy whose head was replaced by an elephant's after Shiva beheaded him, as told in the Ganesha Purana and local stories.",
+    "description": "The Ganesha idol is the murti or sacred image of Ganesha, the elephant-headed son of Shiva and Parvati, who as the remover of obstacles is invoked at the beginning of every undertaking, from weddings and housewarmings to examinations and journeys. According to the most widely repeated story, Parvati created the boy from the paste with which she bathed and set him to guard her door; when Shiva tried to enter, the boy barred the way, and Shiva struck off his head with his trident. At Parvati's grief the god promised to restore the boy, taking the head of the first living creature he found, an elephant, and this origin is retold in ganesha-story and in the tale of the origin of Ganesha's elephant head. Ganesha idols range from tiny brass household figures to the huge clay and plaster images commissioned for Ganesh Chaturthi in Maharashtra and elsewhere, which are worshipped and then immersed in water at the close of the festival. The idol carries his attributes, including the broken tusk, the modaka sweet and the mouse vehicle, each of which is glossed in sermons and picture books.",
     "source_type": "oral_tradition",
     "source_quality": "documented",
     "attested": true,
@@ -242,7 +246,7 @@
     ],
     "source": "Ganesha Purana; Ganesh Chaturthi festival practice",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "diya-oil-lamp-1507",
@@ -252,7 +256,7 @@
     "region": "South Asia",
     "culture": "Hindu",
     "type": "household object",
-    "description": "Small clay or brass lamp whose cotton wick burns in ghee or oil, lit at dusk in Hindu homes and temples for worship. During Diwali, rows of diyas are set out to welcome the goddess Lakshmi and drive back the dark, and the lamp's steady flame is read as a sign of auspiciousness and of the triumph of light over shadow in the festival's folklore.",
+    "description": "The diya is the small clay oil lamp of the Indian subcontinent, a shallow bowl of baked earth filled with ghee or oil and fitted with a cotton wick, lit during worship and festivals. Its name comes from the Sanskrit deepa, meaning lamp, and the rows of little lamps called deepavali gave Diwali its name, the 'row of lights' that greets the goddess Lakshmi at the new moon and celebrates the victory of light over darkness. A diya is lit at the evening arti in Hindu homes, placed at the feet of the deities, on doorsteps and on the thresholds of shops, and floated on rivers during the festivals of the goddesses. Although the classic diya is a simple wheel-thrown cup, the same form is made in bronze, brass and silver for permanent use, and temples keep brass lamps with multiple wicks for the daily ceremony. The flame of the diya carries a fixed set of meanings, purity, warmth and the presence of the divine, and to keep a lamp burning through the night is a common vow and act of devotion.",
     "source_type": "oral_tradition",
     "source_quality": "documented",
     "attested": true,
@@ -283,7 +287,7 @@
     ],
     "source": "Hindu domestic and festival practice (Diwali)",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "mangal-kalasha-1508",
@@ -293,7 +297,7 @@
     "region": "South Asia",
     "culture": "Hindu",
     "type": "ritual object",
-    "description": "Copper or clay pot filled with water and topped with a coconut and mango leaves, set on a bed of rice to open Hindu ceremonies. The kalasha is treated as a vessel of the divine, inviting a presiding deity to dwell in its water, and it is carried before brides, raised at temple consecrations and used in house blessings as a source of prosperity and good fortune.",
+    "description": "The mangal-kalasha, also called purna-kalasha, is a metal or clay pot filled with water and topped with fresh mango leaves and a coconut, an indispensable emblem of auspiciousness in Hindu ritual. It stands at the door of homes during weddings and housewarmings, is established at the beginning of pujas, and is brought to receive honoured guests, because the overflowing pot signifies abundance, fertility and the fullness of the home. In practice the leaves and coconut are taken to invite natural and divine energies, and the water in the pot may be treated as the presence of a deity: during rituals a thread is often tied around the neck of the kalasha and mantra recited over it. The kalasha also appears in the story of the churning of the ocean, in which the pot of amrita, the nectar of immortality, was stolen by the demon Rahu, and the pot is a standard motif over temple doors in South India. Because of this layered meaning, the kalasha is one of the most photographed objects of Hindu domestic life, at once a water jar, a greeting and an invocation.",
     "source_type": "oral_tradition",
     "source_quality": "documented",
     "attested": true,
@@ -323,7 +327,7 @@
     ],
     "source": "Hindu ritual manuals (grihya sutra tradition) and festival practice",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "puja-thali-1509",
@@ -333,7 +337,7 @@
     "region": "South Asia",
     "culture": "Hindu",
     "type": "ritual object",
-    "description": "Brass tray that carries the elements of Hindu worship, such as kumkum powder, turmeric, rice, flowers, incense and a burning camphor flame, as it is waved before a deity or an honoured guest. In households the thali is circulated so onlookers can receive the darshan of the flame, and the arrangement of its offerings follows the ritual order of the puja.",
+    "description": "The puja thali is the round metal tray on which the objects of Hindu home worship are arranged, so that the whole ritual can be performed from a single plate. Typical contents are a small diya (oil lamp), a container of kumkum (vermilion powder), incense sticks in a holder, a bowl of rice, a flower or marigold petals, and a camphor burner, and the plate is carried in the right hand while the flames are waved before the image in the arti. The thali is usually made of brass, bell metal, silver or stainless steel, and it doubles as the everyday plate of an offering: sweets are placed on it and then distributed as prasad. Because the tray is passed around the household, it is often kept on a low wooden stand in the prayer corner, and the pattern on its rim, floral or with a swastika, is itself chosen for auspiciousness. In many families the thali is a wedding gift and heirloom, and a well-kept thali signals both devotion and domestic order.",
     "source_type": "oral_tradition",
     "source_quality": "documented",
     "attested": true,
@@ -363,7 +367,7 @@
     ],
     "source": "Hindu domestic ritual practice",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "brass-urli-1510",
@@ -373,7 +377,7 @@
     "region": "South Asia",
     "culture": "Hindu (South Indian)",
     "type": "container",
-    "description": "Wide shallow brass bowl of South Indian households, filled with water and floating flowers or marigold blossoms and set in entrance courts and courtyards as a marker of hospitality and blessing. Urlis are also used as ritual lamps when oil-lit wicks are floated on the water, a practice seen at weddings and festival doorways across Kerala and Tamil Nadu.",
+    "description": "The urli is the wide, shallow brass vessel of South India, most often associated with the kitchens and courtyards of Kerala and Tamil Nadu, where it holds water, flowers and floating candles for decoration or worship. Traditional urulis are hammered or spun from brass and bell metal with a flared rim, and in a Malayali home one may stand on the floor of the entrance hall piled with fresh flowers, or be pressed into service as a cooking and storing pot for rice and water. In temples and festivals the urli has a ceremonial role, holding oil for the brass lamps that are floated in it or receiving offerings of fruit and garlands, and the wide bowl is also used as a base into which a tall traditional oil lamp is set. Because brass is durable and easily polished, old urulis are passed down as household treasures, and the vessel appears in Malayali folk memory as a wedding gift, an heirloom and a standard prop of the naturalistic home garden.",
     "source_type": "oral_tradition",
     "source_quality": "documented",
     "attested": true,
@@ -402,7 +406,7 @@
     ],
     "source": "South Indian household and wedding practice",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "tandoor-1511",
@@ -412,7 +416,7 @@
     "region": "South Asia",
     "culture": "North Indian, Punjabi",
     "type": "cooking vessel",
-    "description": "Cylindrical clay oven sunk into the earth or a hearth, fired from below so breads and meats cook against its hot walls, used across North India and the Punjab plains. In village households the tandoor is a shared daily fixture, and its flames carry a homely, auspicious aura; flatbreads are pressed by hand against the clay and baked in seconds.",
+    "description": "The tandoor is the large clay oven of the Indian subcontinent and of Central and Western Asia, a vase-shaped or bell-shaped pit of baked clay, either sunk into the earth or set above it in a brick surround. It is fired with wood or charcoal and reaches temperatures around 480 degrees Celsius, so the walls bake naan and roti flatbreads directly and roast marinated meat and vegetables hung from hooks, the dishes known collectively as tandoori. In the Punjab the oven was a communal institution, with one village tandoor serving many families of bakers, and the tradition remained largely regional until after the 1947 partition, when Punjabi migrants carried tandoori cooking to the restaurants of Delhi and beyond. Archaeological clay ovens of similar form are known from the Indus Valley civilization around the third millennium BCE, and the word tandoor travelled with the cooking technique across Iran and Central Asia into the Horn of Africa. Because the oven seals in moisture and reaches a dry, fierce heat, it gives the flatbreads and skewers cooked in it a distinctive flavour that cannot be reproduced in a normal domestic stove.",
     "source_type": "oral_tradition",
     "source_quality": "documented",
     "attested": true,
@@ -440,7 +444,7 @@
     ],
     "source": "North Indian domestic culinary tradition",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "sankha-conch-1512",
@@ -450,7 +454,7 @@
     "region": "South Asia",
     "culture": "Hindu",
     "type": "ritual object",
-    "description": "Right-whorled conch shell blown at Hindu ceremonies and held by Vishnu as Panchajanya, the war-conch of the god. In the Puranas Vishnu sounds the conch before battle, and the sankha is still blown to open worship and marriage rites, its deep note believed to dispel inauspicious forces and to mark the boundary of sacred space.",
+    "description": "The sankha is the conch shell blown as a trumpet in Hindu ritual, and the shell is one of the four emblems held by Vishnu, whose own conch, named Panchajanya, was taken by the god from a demon who lived in the sea. In temple worship the sankha is blown at the start of the ceremony, its long low note summoning the devotees and warding off evil, and a smaller shell is used in the daily arti to pour water over the deity. The conch is also one of the chief auspicious objects of the household, printed on calendars and carved above doors, and a shell that spirals to the right, the dakshinavarti type, is prized as a rarity with special protective power. In the stories of Vishnu the conch sounds together with the discus as the signature of the god, and the vishnu-story repeats the pairing of these attributes. Because the natural shell is the matured body of a sea animal, its use in India is now balanced by ritual injunctions about the taking of life, and artificial shells are common in the shops.",
     "source_type": "literary",
     "source_quality": "academic",
     "attested": true,
@@ -483,7 +487,7 @@
     ],
     "source": "Vishnu Purana; Hindu temple and marriage ritual",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "veena-1513",
@@ -493,7 +497,7 @@
     "region": "South Asia",
     "culture": "Hindu, classical Indian",
     "type": "musical instrument",
-    "description": "Ancient Indian lute of gourd and wood, the instrument of Saraswati, goddess of learning and the arts, who holds it in her hands as she sits upon her lotus. Played in Carnatic and Hindustani music, the veena is treated as the archetype of melody, and Saraswati's veena is said in the tradition to sound the knowledge of the world itself.",
+    "description": "The veena is the principal string instrument of South Indian (Carnatic) music and the emblem of Saraswati, the goddess of learning, who is always depicted holding a veena whose sound is said to be the voice of wisdom itself. The modern concert-instrument form, called the Saraswati veena, has a large resonator of jackwood with a second smaller gourd behind the neck, twenty-four fixed brass frets on the long fingerboard, and seven strings, four melody and three drone; it is plucked with a wire plectrum while the player sits cross-legged on the floor. Because it belongs to the goddess, the veena is also a ritual object, placed on a stand in the prayer room, and the celestial musicians of Hindu mythology, the gandharvas and the kinnaras, are traditionally pictured playing it together with lutes and cymbals. The word vina appears already in the Vedas, though the instrument has changed shape many times over three thousand years, and it gave its name to later instruments such as the sitar. Today the veena remains the classical instrument of the Carnatic stage, taught from childhood and associated with devotion as much as with concert performance.",
     "source_type": "literary",
     "source_quality": "academic",
     "attested": true,
@@ -526,7 +530,7 @@
     ],
     "source": "Natya Shastra and Puranic iconography of Saraswati",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "tabla-1514",
@@ -536,7 +540,7 @@
     "region": "South Asia",
     "culture": "Hindustani classical, folk",
     "type": "musical instrument",
-    "description": "Pair of small hand drums, the larger metal-bodied bayan and the smaller wooden dayan, tuned together and played with fingers and palms, central to Hindustani classical rhythm. Tabla playing is learned through rhythmic syllables such as dha, tin and na, and the instrument anchors devotional song and dance, carrying the beat of both court music and folk performance.",
+    "description": "The tabla is the pair of hand drums that accompanies most North Indian (Hindustani) classical music, consisting of a small wooden drum on the right called the dayan, tuned to the tonic, and a larger metal or clay drum on the left called the bayan, which produces the deep bass. The heads of both drums are built in layers of skin with a black patch of iron and flour paste in the centre, the syahi, which lets the player produce the intricate spoken syllables of tabla language, such as dha, dhin and te te. The drums are struck with the fingers and palm, and a master tabla player can mimic speech, imitate the dance steps and end a composition with a ringing roll. The invention of the instrument is sometimes attributed to the 13th-century poet-musician Amir Khusrau, who is said to have split the older barrel drum, the pakhawaj, in two, and the story is still told in music schools, though scholars now treat it as legend. From court performance to kirtan, ghazal and film, the tabla has become the percussion voice of North Indian music worldwide.",
     "source_type": "secondary_scholarly",
     "source_quality": "documented",
     "attested": true,
@@ -565,7 +569,7 @@
     ],
     "source": "Hindustani musicological tradition and instrument history",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "tulwar-1515",
@@ -575,7 +579,7 @@
     "region": "South Asia",
     "culture": "Rajput, Mughal martial culture",
     "type": "weapon",
-    "description": "Curved single-edged sword of the Indian subcontinent, a cavalry blade with a distinctive hilt whose disc pommel and crossguard appear in tales of Rajput and Mughal warriors. The tulwar was carried as both weapon and emblem of rank, and folk tales of battles, honour and oath-taking treat the sword as a binding object passed down as an heirloom of warrior families.",
+    "description": "The tulwar is the classic curved sabre of the Indian subcontinent, with a single cutting edge, a shallowly curved blade and a distinctive hilt capped by a disc pommel with a pierced tang button. The hilt, with its broad, flanged guard and long grip, gives the sword an unusually well-balanced feel, and tulwars were carried by Rajput, Maratha and Mughal horsemen for centuries, from the late medieval period through the wars of the 18th and 19th centuries. Blade steel was often made locally or imported from Persia, and many surviving tulwars preserve fine watered-steel blades with armourers' marks, while ornamental examples are damascened with gold lines. The sword also functioned as a social marker: a warrior's tulwar was honoured, taken on campaign, carried on his person at court and given as a reward for valour, and old tulwars frequently carry inscriptions naming their owners. Museums now catalogue these sabres as the standard sidearm of Indian cavalry, and the tulwar's design influenced the swords carried by British army units in India.",
     "source_type": "secondary_scholarly",
     "source_quality": "documented",
     "attested": true,
@@ -604,7 +608,7 @@
     ],
     "source": "Arms museum collections and court chronicles",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "katar-1516",
@@ -614,7 +618,7 @@
     "region": "South Asia",
     "culture": "Deccan and South Indian martial culture",
     "type": "weapon",
-    "description": "Push dagger of South India and the Deccan, held by its H-shaped grip and driven with a punch rather than a cut, a weapon of close-quarter combat and ceremonial display. Katars appear in sculpted panels of royal processions and temple walls, and the dagger's distinctive handle makes it an instantly recognised emblem of Indian arms in courtly art and museum collections.",
+    "description": "The katar is the Indian punch dagger, a straight, usually double-edged blade set between two parallel side bars that form an H-shaped grip, the whole weapon being pushed forward with the fist like a punch. Because the palm push concentrates the whole force of the arm behind a single point, the katar could pierce mail and helmets in close combat, and it became the characteristic weapon of Rajput and Maratha warriors from about the 16th century onward. In addition to the plain fighting blade there were katar with wavy edges, double blades and side blades, and the wealthiest owners carried gold-damascened pieces with jewelled hilts that were as much jewellery as arms. The katar was also a ceremonial object, presented as a token of loyalty or reward and displayed in processions, and a small katar could be carried concealed in the waistband. Because it is unique to South Asia, the katar is one of the most discussed Indian weapons in the history of arms and armour.",
     "source_type": "secondary_scholarly",
     "source_quality": "documented",
     "attested": true,
@@ -643,7 +647,7 @@
     ],
     "source": "Arms museum collections and temple sculpture",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "khanda-1517",
@@ -653,7 +657,7 @@
     "region": "South Asia",
     "culture": "Sikh",
     "type": "weapon",
-    "description": "Double-edged straight sword of the Sikh tradition, emblem of the Khalsa and of Sikh martial piety. The khanda also names the double-edged emblem that crowns the Sikh nishan sahib banner, and Sikh tradition holds the sword as a symbol of justice, truth and the duty to defend the defenceless, carried and honoured in Sikh religious life.",
+    "description": "The khanda is the broad, straight, double-edged sword of the Indian subcontinent, heavier and stiffer than the curved tulwar, and it is principally associated with the Sikhs of the Punjab and with the Marathas of western India. In Sikh tradition the khanda is the emblem of the Khalsa, the community of initiated Sikhs, and the central motif of the Nishan Sahib, the tall flag of a gurdwara, which shows a double-edged khanda with a chakkar (discus) and two kirpans arranged around it. The sword was carried as a weapon of war in the 17th and 18th centuries and remains a ceremonial and ritual object, used at the initiation ceremony of Amrit, where the sacred syrup is stirred with a khanda, and kept in reverence in Sikh homes and temples. Because the double edge and straight blade allowed a powerful, chopping stroke, the khanda was well suited to the tested cavalry work of the Sikh and Maratha armies. The same term is used in Sanskrit and Hindi for any large sword, so the object carries a long martial lineage beyond the Sikh faith.",
     "source_type": "secondary_scholarly",
     "source_quality": "academic",
     "attested": true,
@@ -682,7 +686,7 @@
     ],
     "source": "Sikh religious tradition and panthic practice",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "kirpan-1518",
@@ -692,7 +696,7 @@
     "region": "South Asia",
     "culture": "Sikh",
     "type": "weapon",
-    "description": "Curved sword or dagger that every initiated Sikh carries as one of the five articles of faith, a physical pledge to uphold justice and protect the vulnerable. Forged of steel and worn at the waist or in a shoulder strap, the kirpan is at once a religious obligation and a reminder of the warrior-saint ideal of Sikhism, never used without cause.",
+    "description": "The kirpan is the curved sword or dagger that an initiated Sikh wears as one of the five Ks, the panj kakkar, along with unshorn hair (kesh), a comb (kanga), a steel bangle (kara) and the cotton undergarment (kachera). Introduced at the founding of the Khalsa in 1699 by Guru Gobind Singh, the kirpan embodies the Sikh duty to defend the weak and to stand against injustice, and it is worn constantly as a reminder of that responsibility. The size and form of the kirpan vary with the community and the wearer's circumstances, from a small symbolically worn blade in parts of the diaspora to the long ceremonial kirpan of Amritdhari Sikhs, and it is treated not as an offensive weapon but as a sacred article of faith. In Sikh scripture and hagiography the kirpan is praised as the protector of the oppressed, and the five Ks together mark the body of a Sikh as the visible form of the faith. Legal accommodations for the kirpan exist in several countries, and the practice remains an active case study in religious freedom law.",
     "source_type": "secondary_scholarly",
     "source_quality": "academic",
     "attested": true,
@@ -720,7 +724,7 @@
     ],
     "source": "Sikh Rahit Maryada (code of conduct)",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "kada-bangle-1519",
@@ -730,7 +734,7 @@
     "region": "South Asia",
     "culture": "Sikh",
     "type": "jewelry",
-    "description": "Steel bangle worn by Sikhs on the right wrist as one of the five articles of the Khalsa, a ring with no beginning or end that stands for the unbroken bond with the divine. Sikh tradition requires the kada to be worn with commitment to the Guru's path, and it is treated as a visible sign of faith, humility and belonging to the community.",
+    "description": "The kada, also spelled kara, is the unadorned steel or iron bangle worn by Sikhs on the right wrist, one of the five Ks prescribed at the founding of the Khalsa in 1699. Because it is a closed circle without beginning or end, the bangle is understood as a reminder that God is eternal and without form, and its touch on the wrist constantly recalls the wearer to righteous conduct and restraint. The plain steel of the traditional kada contrasts with the gold ornaments worn by many Hindus and Muslims, signalling that a Sikh should live simply and without attachment to display. In the Punjab the broad steel kada is also worn by non-Sikhs as an item of dress, and in combat the heavy circular bangle could be used as a guard and a blunt knuckle-weapon. The kada is one of the most visible articles of Sikh identity, worn in the workplace, in court and at the gurdwara.",
     "source_type": "secondary_scholarly",
     "source_quality": "academic",
     "attested": true,
@@ -759,7 +763,7 @@
     ],
     "source": "Sikh Rahit Maryada (code of conduct)",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "mangalsutra-1520",
@@ -769,7 +773,7 @@
     "region": "South Asia",
     "culture": "Hindu",
     "type": "jewelry",
-    "description": "Necklace of black beads and gold, or a gold pendant on a cord, tied by the groom around the bride's neck during the Hindu wedding rite. The mangalsutra is worn for the rest of the married woman's life and is read in folklore as a powerful talisman of her husband's life and of the marriage bond, never to be removed or broken.",
+    "description": "The mangalsutra is the necklace that marks a Hindu woman as married, tied around her neck by the groom during the wedding ceremony and then worn for life, though widows set it aside. The name means 'auspicious thread', and the simple gold and black-bead ornament of the north differs from the heavier gold pendant called thali worn in the south, where the tying ceremony is called mangalyam and is the most solemn moment of the wedding. The black beads are traditionally believed to protect the wearer and her husband's family from the evil eye, while the gold signals prosperity, and the number of knots parallels the vows exchanged during the rites. Because the mangalsutra is the visible sign of the married state, its presence or absence is read at once by the whole community, and it is never worn casually. In modern India the ornament has also become a fashion item, with contemporary designs keeping the two beads in silver or diamond settings.",
     "source_type": "oral_tradition",
     "source_quality": "documented",
     "attested": true,
@@ -798,7 +802,7 @@
     ],
     "source": "Hindu wedding ritual and marriage custom",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "banarasi-sari-1521",
@@ -808,7 +812,7 @@
     "region": "South Asia",
     "culture": "North Indian, Mughal-influenced weaving",
     "type": "garment",
-    "description": "Handwoven silk sari of Varanasi, made with gold and silver zari thread in patterns of mangoes, flowers and mehrab arches that have been prized in Indian bridal wear for centuries. Weavers of the city have produced banarasi brocades since Mughal times, and the sari is treated as a family heirloom passed between generations of brides.",
+    "description": "The Banarasi sari is the handwoven silk sari of Varanasi (Banaras) in Uttar Pradesh, famous for its rich brocade, its gold and silver zari, and its intricate pictorial motifs, among them the jangla (vine), bel (creeper), kalga and jal patterns. The weaving tradition grew under the patronage of the Mughal court, which encouraged Persian-inspired floral and arabesque designs in silk and metal thread, and the craft produced the heavy, opulent fabric called kinkhab, woven with real gold thread. A Banarasi sari is woven on a manually operated pit loom, and a single elaborate piece can take weeks or months of work by a karigar, the brocade being built up in fine threads on the wrong side of the cloth. The sari is the classic bridal costume of the region, worn as a symbol of marriage and prosperity, and its silk is still produced in the workshops of the old city, though zari is now often of silver or imitation. In 2009 the Banarasi sari received a Geographical Indication tag, protecting the name for genuine Varanasi work.",
     "source_type": "secondary_scholarly",
     "source_quality": "documented",
     "attested": true,
@@ -837,7 +841,7 @@
     ],
     "source": "Handloom craft history of Varanasi",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "phulkari-1522",
@@ -847,7 +851,7 @@
     "region": "South Asia",
     "culture": "Punjabi",
     "type": "garment",
-    "description": "Punjabi shawl or dupatta embroidered on the reverse side with silk thread so that rough, bright flower motifs bloom on the front, worked by women for weddings and festivals. A phulkari is part of a bride's trousseau, and its stitches carry the love and skill of the women who made it over months, each pattern named for the flowers and shapes it shows.",
+    "description": "Phulkari is the traditional embroidery of the Punjab, in which coarse, hand-spun cotton cloth called khaddar is covered with silk stitches worked from the back in a simple darn stitch to form flowers, diamonds and glowing fields of colour. The name means 'flower work', and the craft is credited to the women of the Sikh and Hindu farming communities of the region, where it has been practiced since about the 15th century. A single piece is worked by hand and can take months; a shawl embroidered over its whole surface is called a bagh, a garden, and it is given as a wedding gift, with the deepest reds reserved for the bride and the most complex pieces started at a child's birth. The motifs show the world of the village, wheat stems, grain and the glitter of sun and mirrors, and each motif has a local name passed down from mother to daughter. Phulkari remains an emblem of Punjabi identity, worn at weddings and festivals and revived in contemporary fashion.",
     "source_type": "oral_tradition",
     "source_quality": "documented",
     "attested": true,
@@ -876,7 +880,7 @@
     ],
     "source": "Punjabi folk craft tradition",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "pashmina-shawl-1523",
@@ -886,7 +890,7 @@
     "region": "South Asia",
     "culture": "Kashmiri",
     "type": "garment",
-    "description": "Fine shawl woven from the under-fleece of Himalayan pashmina goats, spun and woven by Kashmiri artisans into a fabric so soft it is said to pass through a finger ring. Pashmina weaving of the Kashmir valley is famed worldwide, and the shawl is treasured as a winter garment and a symbol of the region's long craft tradition.",
+    "description": "The pashmina shawl is the fine, handwoven woollen shawl of Kashmir, made from the downy underfleece of the Changthangi goat that grazes the high plateaus of Ladakh and western Tibet. The word pashmina derives from pashm, Persian for the softest animal fibre, and the cleaned wool, only about fifteen microns thick, is spun by hand and woven on a handloom in Srinagar and the valley workshops, a craft that has produced some of the world's most expensive cloth. The shawl was already a luxury good at the courts of the Mughals, who wore and commissioned them, and Kashmiri weaving of fine wool was further stimulated from the 15th century by the arrival of craftsmen and by royal patronage. European taste for the shawl boomed in the 19th century, when Napoleon is said to have presented pashminas to Josephine, and European weavers tried for decades to imitate the Kashmir workmanship. Today genuine pashmina is protected by a Geographical Indication, and shawls are often embroidered with the fine needlework of the valley, though the name is widely copied in blended fabrics.",
     "source_type": "secondary_scholarly",
     "source_quality": "documented",
     "attested": true,
@@ -915,7 +919,7 @@
     ],
     "source": "Craft history of the Kashmir valley",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "sacred-tooth-relic-1524",
@@ -925,7 +929,7 @@
     "region": "South Asia",
     "culture": "Sinhalese Buddhist",
     "type": "religious object",
-    "description": "Relic of a tooth of the Buddha enshrined in the Temple of the Sacred Tooth in Kandy, the most venerated Buddhist object in Sri Lanka. According to the Mahavamsa the tooth was smuggled to the island from India and carried by successive rulers, and annual perahera processions honour it as guardian of the land and of its kings.",
+    "description": "The Sacred Tooth Relic is the most venerated object in Sri Lankan Buddhism, a tooth believed to be the left upper eye-tooth of the historical Buddha, brought to the island in the 4th century CE by Prince Danta and Princess Hemamala, who is said to have hidden it in her hair. The story of its journey from Dantapura in India is told in the Pali chronicle Dathavamsa, the Chronicle of the Tooth Relic, and the later chapters of the Mahavamsa trace its movement from the first capital, Anuradhapura, through the later capitals Polonnaruwa and Dambadeniya until it reached Kandy. In Kandy the relic is enshrined in the Temple of the Sacred Tooth (Sri Dalada Maligawa), and each summer it is honoured in the great Esala Perahera, a torchlit procession of elephants, dancers and drummers that is among the most spectacular festivals in Asia. The relic functioned politically as well as religiously, since the monarch who guarded it was held to legitimate his rule over the island, and a king who lost the tooth lost his claim to the country. Because the relic is regarded as the presence of the Buddha himself, it is displayed only rarely, and its inner shrine is kept under the most stringent guard.",
     "source_type": "literary",
     "source_quality": "academic",
     "attested": true,
@@ -957,7 +961,7 @@
     ],
     "source": "Mahavamsa and the chronicle of the Tooth Relic (Dalada-vamsa)",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "kandyan-crown-1525",
@@ -967,7 +971,7 @@
     "region": "South Asia",
     "culture": "Kandyan royal court",
     "type": "crown",
-    "description": "Royal crown of the Kandyan kingdom of central Sri Lanka, a jewel-studded, turban-like headdress that the last Kandyan king, Sri Vikrama Rajasinha, surrendered to the British in 1815. The crown and the rest of the Kandyan regalia are held today in museum collections and stand for the sovereignty of the highland kingdom and its court rituals.",
+    "description": "The Kandyan crown is the royal crown of the Kandyan kingdom of Sri Lanka, the last independent Sinhalese state, which fell to the British in 1815. The crown, of gold richly set with rubies, sapphires and other gems, was worn by the kings of Kandy at great coronation ceremonies and processions, and it carried the whole sovereignty of the kingdom, so that possession of the crown was taken to mean possession of the realm. When the Kandyan chiefs signed the Kandyan Convention of 1815, the regalia, including the crown and the throne, was handed to the British and sent to England, and tradition records memorials of the crown at Windsor Castle, where the regalia long remained. In Sri Lankan memory the loss of the crown is bound up with legend: omens, the fall of a star and other portents are said to have accompanied its removal, and the crown is still popularly spoken of as the sign of a sovereignty that was not handed back. Today the Kandyan crown is remembered through replicas and regalia kept in museums, and the original remains the subject of scholarly dispute between the United Kingdom and Sri Lanka.",
     "source_type": "secondary_scholarly",
     "source_quality": "documented",
     "attested": true,
@@ -996,7 +1000,7 @@
     ],
     "source": "Museum holdings and Kandyan court records (British Museum collections)",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "kastane-sword-1526",
@@ -1006,7 +1010,7 @@
     "region": "South Asia",
     "culture": "Sinhalese",
     "type": "weapon",
-    "description": "Sinhalese ceremonial sword with an elaborately carved handle, often a lion or demon head in ivory, worn at the waist for court dress and ritual. In Kandyan and low-country rites the kastane is used to invoke and control demonic spirits, and it appears in the exorcism traditions connected with the demon lineages of Sri Lanka, where the sword's presence is believed to command the unseen.",
+    "description": "The kastane is the traditional ceremonial sword of the Kandyan kingdom of Sri Lanka, worn at court as a mark of office and carried in procession, and it is one of the most characteristic creations of Sinhalese metalwork. Its signature feature is the hilt, whose pommel is carved as the head of a lion, the symbol of the Sinhalese people, often in ivory, horn or silver, with the guard and quillons finished with makara heads and scrollwork; the blade itself was frequently a European hanger or cuttoe blade imported by the Dutch and riveted into the local hilt. The kastane was not primarily a battlefield weapon but a dress sword, the attribute of chiefs, princes and royal officials, and it also entered the world of Sinhalese ritual, being used in the masked devil dances and exorcism rites in which the sanni demons and Gara Yakka are invoked. In those rituals the flashing blade is used to dominate the demons and sweep away the evil they represent, linking the courtly sword to the folk religion of the low country. Museums classify the kastane among the finest of Sri Lankan arms, and modern reproductions still accompany Kandyan dancers and drummers.",
     "source_type": "secondary_scholarly",
     "source_quality": "documented",
     "attested": true,
@@ -1038,7 +1042,7 @@
     ],
     "source": "Museum collections and ritual ethnography (J Intangible Cultural Heritage)",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "alms-bowl-relic-1527",
@@ -1048,7 +1052,7 @@
     "region": "South Asia",
     "culture": "Buddhist (Sinhalese tradition)",
     "type": "container",
-    "description": "The alms bowl of the Buddha, said in Buddhist tradition to have been brought to Sri Lanka and venerated as a relic after his parinirvana. The Mahavamsa records the bowl being kept and honoured at a shrine, though no such relic is verifiably present today, and the story survives as an article of faith rather than as proven history.",
+    "description": "The alms-bowl relic is the bowl that the Buddha is said to have used for his daily begging round, which became a sacred object after his death together with his tooth, his staff and other personal belongings. According to a well-known legend recorded in Gandharan art and later Buddhist texts, after the enlightenment four guardian kings, the lokapalas, each offered the Buddha a stone bowl, and the Buddha miraculously fused the four into one, so that he had a single vessel of modest size for his food. Monks of the Theravada tradition still beg with an alms bowl, holding it in both hands while householders place food in it, and the bowl is for a monk one of his few possessions, a reminder of simplicity and of the gift of the laity. In various Buddhist countries the alms bowl of the Buddha was claimed as a relic by rival pilgrim sites, and the Chinese tradition asserts that the original bowl was carried to China, where it was long venerated. For the believer the bowl embodies the Buddha's poverty and his dependence on the generous, and its veneration is part of the cult of the relics.",
     "source_type": "literary",
     "source_quality": "fair",
     "attested": false,
@@ -1077,7 +1081,7 @@
     ],
     "source": "Mahavamsa (tradition; no verifiable relic)",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "gata-bera-drum-1528",
@@ -1087,7 +1091,7 @@
     "region": "South Asia",
     "culture": "Sinhalese",
     "type": "musical instrument",
-    "description": "Large cylindrical drum of Sri Lanka, slung at the hip and beaten with sticks or hands at festivals, temple rites and healing ceremonies. The gata bera's rhythms summon blessings in Buddhist perahera processions and drive the masked exorcism dances that pacify the disease demons of the Sinhalese tradition.",
+    "description": "The gata bera is the large cylindrical drum of Sri Lanka, slung from the hip and beaten with sticks or open hands at Buddhist perahera processions, temple rites, village festivals and healing ceremonies. Its name comes from the Sinhala word for a pot, and the barrel is traditionally carved from jak or asala wood with heads of cowhide braced by rope and leather thongs, tuned so the deep beat carries over crowds. It is the lead drum of the Kandyan dance tradition, where drummers and dancers train together from boyhood, and it also drives the masked exorcism dances that the Sinhalese perform to pacify the sanni and riri yaksha, the disease demons of the folk tradition. A Sinhalese story holds that the drum's rhythms were first given by a god, and the instrument remains the sound of celebration and of healing alike in the island's ritual life.",
     "source_type": "oral_tradition",
     "source_quality": "documented",
     "attested": true,
@@ -1104,7 +1108,8 @@
       "sanni-yakku"
     ],
     "featured_in_stories": [
-      "the-riri-yaksha-and-suniyam-sorcery-legends"
+      "the-riri-yaksha-and-suniyam-sorcery-legends",
+      "the-legend-of-gara-yakka"
     ],
     "keywords": [
       "drum",
@@ -1121,7 +1126,7 @@
     ],
     "source": "Sinhalese ritual and festival practice",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "sanni-yaksha-mask-1529",
@@ -1131,7 +1136,7 @@
     "region": "South Asia",
     "culture": "Sinhalese",
     "type": "ritual object",
-    "description": "Carved wooden mask of a Sinhalese disease demon, one of the eighteen sanni masks painted in vivid colours and worn in exorcism ceremonies. Each mask portrays a specific affliction such as fever, madness or jaundice, and the dance of the mask is performed to trick the demon and dismiss it from the sick body, a practice known as tovil.",
+    "description": "The sanni yaksha mask is a carved and painted wooden face of a Sinhalese disease demon, worn in the exorcism rites that Sri Lankan tradition calls shanthi karma or tovil. There are eighteen principal sanni demons, each named for a particular affliction, such as fever, madness, dropsy or jaundice, and each has its own mask with a distinctive colour, expression and headdress. The finest carving comes from Ambalangoda on the south coast, where the mask carvers cut the traditional kaduru wood and finish it with vegetable and mineral pigments. In the ritual the masked dancer enacts the demon's story to coax it into speech, then frightens or bribes it into leaving the sick body, so the mask is both an artwork and a working instrument of healing. The ceremony is said to recall a plague once healed by a healer at Vaishali, and the sanni masks are still danced today in Sri Lanka.",
     "source_type": "oral_tradition",
     "source_quality": "documented",
     "attested": true,
@@ -1149,7 +1154,8 @@
       "riri-yaksha-sri-lankan"
     ],
     "featured_in_stories": [
-      "the-riri-yaksha-and-suniyam-sorcery-legends"
+      "the-riri-yaksha-and-suniyam-sorcery-legends",
+      "the-legend-of-gara-yakka"
     ],
     "keywords": [
       "mask",
@@ -1166,7 +1172,7 @@
     ],
     "source": "Sinhalese ritual ethnography and mask-carving tradition",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "ajrak-1530",
@@ -1176,7 +1182,7 @@
     "region": "South Asia",
     "culture": "Sindhi",
     "type": "garment",
-    "description": "Block-printed shawl of Sindh, stamped in dark indigo and crimson with geometric border patterns, worn across the shoulder and used to cover sacred objects. Ajrak printing is a hereditary craft of Sindhi towns, and the shawl is a marker of Sindhi identity, draped at weddings, offered to guests and presented as a mark of honour.",
+    "description": "The ajrak is the block-printed shawl of Sindh, stamped in deep indigo and madder red with concentric borders of geometric stars, flowers and trellis patterns, worn over the shoulder and used to cover sacred objects. The name is linked to the Arabic word for blue, and archaeologists point to indigo-dyed and resist-printed cotton found at the Indus valley site of Mohenjo-daro as evidence that such cloth was made in the region thousands of years ago. A single ajrak may pass through some twenty-one stages of washing, printing and dyeing, using wooden blocks carved by hereditary craftsmen and mordants of iron and alum, so the finished shawl carries the redness of the earth and the blue of the river. It is a strong marker of Sindhi identity, draped at weddings, offered to guests and honoured guests, and presented as a mark of respect on formal occasions.",
     "source_type": "secondary_scholarly",
     "source_quality": "documented",
     "attested": true,
@@ -1205,7 +1211,7 @@
     ],
     "source": "Craft history of Sindh and Sindhi cultural practice",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "sindhi-topi-1531",
@@ -1215,7 +1221,7 @@
     "region": "South Asia",
     "culture": "Sindhi",
     "type": "garment",
-    "description": "Embroidered cylindrical cap of Sindh, worn by men and at festivals, with a band of stitched mirror-work and a rounded crown. The sindhi topi is a national symbol of the province, worn with the ajrak shawl, and Sindhi folklore holds that the cap carries the honour and pride of the wearer, so that to knock it off is a grave insult.",
+    "description": "The sindhi topi is the embroidered cylindrical cap of Sindh, worn by men at daily work and at festivals, with a rounded crown and a characteristic arch-shaped cut-out above the forehead edged with stitched mirror work. The caps are made across the province, with centres such as Tharparkar known for fine needlework, and the shape and embroidery vary from town to town so that the topi can show where a wearer comes from. Sindhi tradition pairs the cap with the ajrak shawl, and the two together are treated as a badge of the province's culture; Sindhi Cultural Day is marked by wearing both. A widely repeated saying holds that the topi carries the honour and pride of the man who wears it, so that knocking it from his head is a grave insult, and the cap is a fixture of Sindhi weddings, political gatherings and everyday dress.",
     "source_type": "oral_tradition",
     "source_quality": "documented",
     "attested": true,
@@ -1244,7 +1250,7 @@
     ],
     "source": "Sindhi cultural tradition",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "butterfly-jigha-1532",
@@ -1254,7 +1260,7 @@
     "region": "South Asia",
     "culture": "Mughal court (Indo-Islamic)",
     "type": "jewelry",
-    "description": "Jewel-studded turban ornament of Mughal court fashion, shaped as a butterfly with a spring that quivers as the wearer moves, pinned to the turban by nobles and princes. Mughal miniature painting shows such jigha ornaments at court, and surviving examples in museum collections are worked in gold with gemstones, worn in the regions that became Pakistan.",
+    "description": "The butterfly jigha is a jewel-set turban ornament of Mughal court fashion, shaped as a butterfly with wings that tremble on a spring as the wearer moves, pinned to the front of the turban by princes, nobles and high officials. Such ornaments are shown in Mughal miniature painting and in later court portraiture of the Deccan and the regions that became Pakistan, where the jigha, sarpesh and other turban jewels marked rank and the favour of the ruler. Surviving examples worked in gold and enamel with rubies, emeralds and pearls sometimes include a socket for a heron or egret plume that rose above the turban, a feature historically restricted to the royal family and those granted the privilege. The butterfly form with its quivering spring is one of the most recognisable types in museum collections, prized for the delicate chasing and stone-setting of the court jewellers.",
     "source_type": "secondary_scholarly",
     "source_quality": "documented",
     "attested": true,
@@ -1284,7 +1290,7 @@
     ],
     "source": "Museum holdings (e.g. V&A O73036) and Mughal painting",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "naqqara-drum-1533",
@@ -1294,7 +1300,7 @@
     "region": "South Asia",
     "culture": "Indo-Islamic, Sufi",
     "type": "musical instrument",
-    "description": "Pair of kettledrums struck with sticks, carried before rulers and beaten at Sufi shrines and processions across Pakistan and the wider Muslim world. In the Punjab and Sindh the naqqara announces royal arrivals and festival days, and its deep paired notes are said to carry the blessing of the occasion through the crowd.",
+    "description": "The naqqara is a pair of kettledrums, usually of copper with goatskin heads, beaten with two sticks and carried before rulers or sounded from gate towers to announce arrivals, processions and festival days. The instrument came into South Asia with the Indo-Islamic courts, where paired kettledrums were part of royal ceremonial music, and it remains in use at shrines and at processions across Pakistan and the wider Muslim world. In the Punjab and Sindh the deep paired notes of the naqqara mark the high moments of a gathering, and the drum is still played at the doors of shrines and at the head of festival processions, where its sound is said to carry the blessing of the occasion through the crowd. Naqqara bands of several drums of different sizes are also a feature of military and civic celebration in the region.",
     "source_type": "secondary_scholarly",
     "source_quality": "documented",
     "attested": true,
@@ -1324,7 +1330,7 @@
     ],
     "source": "Indo-Islamic court and shrine musical tradition",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "karahi-1534",
@@ -1334,7 +1340,7 @@
     "region": "South Asia",
     "culture": "Pakistani (Punjabi, Pashtun)",
     "type": "cooking vessel",
-    "description": "Deep rounded wok of cast iron or steel used across Pakistan to cook the spiced curry that shares its name, set over an open flame. In homes and bazaars the karahi is the daily vessel of celebratory and communal cooking, and its name has passed from the pan itself to a whole style of Pakistani dish served hot from the pan.",
+    "description": "The karahi is the deep rounded pan of Pakistan, forged from cast iron or pressed steel, with two handles and steep sides, set over an open flame to cook the spiced stew that shares its name. The name of the vessel has passed to the dish itself, and a karahi of lamb, chicken or vegetables cooked with tomato, green chilli and ginger is one of the most familiar foods of Pakistani homes, roadside dhabas and bazaars, served hot straight from the pan with fresh naan. Because the karahi sits directly on the fire, the oil and spices fry hard before liquid is added, giving the gravy its characteristic rich colour and edge. It is the daily cooking vessel of many households and the centre of festive and communal meals, and iron karahis are prized for seasoning with use, so that old pans are handed down within families.",
     "source_type": "oral_tradition",
     "source_quality": "documented",
     "attested": true,
@@ -1363,7 +1369,7 @@
     ],
     "source": "Pakistani domestic culinary tradition",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "rilli-quilt-1535",
@@ -1373,7 +1379,7 @@
     "region": "South Asia",
     "culture": "Sindhi",
     "type": "household object",
-    "description": "Patchwork quilt of Sindh, sewn by women from recycled cotton in geometric bands of triangles and diamonds, kept for winter bedding and given at weddings. Rilli-making is passed between mothers and daughters, and the quilt's bright patterns are read as a record of the maker's skill and the household's fortunes.",
+    "description": "The rilli quilt is the patchwork bedding of Sindh, sewn by women from scraps and recycled cotton cloth cut into triangles, diamonds, squares and zigzag bands and joined in bright, ordered compositions. The craft is passed from mother to daughter, and the same word covers quilts made by applique, patchwork or embroidery, often combining several techniques in one cover. A rilli is laid over winter bedding or spread on the floor for guests, and quilts are made ahead of a wedding as part of the bride's trousseau, so a well-made rilli carries the reputation of the maker's skill and the household's fortunes. The patterns are traditional but not fixed, and women reuse older quilts and garment cloth so that each piece carries a history of the family's cloth and needlework across the generations of rural Sindh.",
     "source_type": "oral_tradition",
     "source_quality": "documented",
     "attested": true,
@@ -1402,7 +1408,7 @@
     ],
     "source": "Sindhi folk textile tradition",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "khukuri-1536",
@@ -1412,7 +1418,7 @@
     "region": "South Asia",
     "culture": "Nepali (Gurkha)",
     "type": "weapon",
-    "description": "Curved blade of the Gurkha warrior tradition, broadest near the tip, used for cutting, chopping and ceremony in Nepal. The khukuri is carried in its leather scabbard with two small companion knives, and Nepali folk belief holds that once drawn the blade should taste blood before it is sheathed again, a custom linked to its history as a war weapon.",
+    "description": "The khukuri is the curved blade of the Nepali Gurkha tradition, broad and heavy near the tip, tapering to the hilt, and used for cutting wood, clearing brush, daily chores and ceremonial display. The name is spelled kukri in British usage, and the blade is forged by Nepali kamis, the metal-working caste, who shape it at a charcoal forge and temper the cutting edge while leaving the spine soft enough to absorb shock. It is carried in a leather scabbard together with two smaller knives, the karda for fine work and the chakmak for sharpening, and the distinctive notch at the blade's base is a mark of the traditional shape. A well-known folk saying holds that once the khukuri is drawn it must taste blood before being sheathed again, a custom linked to its history as a weapon of war and to the rituals of the Gurkha regiments.",
     "source_type": "oral_tradition",
     "source_quality": "documented",
     "attested": true,
@@ -1442,7 +1448,7 @@
     ],
     "source": "Nepali folk custom and Gurkha regimental tradition",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "mukut-crown-1537",
@@ -1452,7 +1458,7 @@
     "region": "South Asia",
     "culture": "Newar, Nepali royal",
     "type": "crown",
-    "description": "Jewel-set crown of the Malla and Shah kings of Nepal, worn at state and religious ceremonies and linked to the goddess Taleju, protector of the royal dynasties. The Newar tradition of the living goddess Kumari also includes a crown placed on the girl deity during festivals, echoing the belief that the right to rule comes by divine favour.",
+    "description": "The mukut is the jewel-set crown of the royal traditions of Nepal, worn by the Malla kings of the Kathmandu valley and later the Shah kings at state and religious ceremonies, and linked by tradition to the goddess Taleju, protector of the ruling dynasties. The crowns are worked in gold and silver with gemstones, pearls and brocade by the Newar goldsmiths of Kathmandu, and the king's crown was held to draw its right to rule from the favour of Taleju, whose temples stood beside the royal palaces. The living goddess tradition also places a crown on the young Kumari during festivals, echoing the belief that divine favour descends on the wearer. Royal regalia of this kind survives in the museums of Kathmandu and in the courts' surviving records, and the mukut remains a powerful image of Nepali kingship.",
     "source_type": "secondary_scholarly",
     "source_quality": "documented",
     "attested": true,
@@ -1484,7 +1490,7 @@
     ],
     "source": "Newar court tradition and museum regalia holdings",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "mani-wall-1540",
@@ -1494,7 +1500,7 @@
     "region": "South Asia",
     "culture": "Tibetan Buddhist",
     "type": "religious object",
-    "description": "Long low wall of carved stones inscribed with the mantra Om Mani Padme Hum, raised beside mountain paths in the Himalayas as a prayer in stone. Travellers pass the mani wall keeping it to their right and add their own stones, so that the wall grows as a living offering along the route, and the carved stones are believed to carry blessing to all who walk by.",
+    "description": "The mani wall is a long, low wall of carved stone raised beside mountain paths, passes and villages across the Himalayan world, its blocks inscribed with the six-syllable mantra Om Mani Padme Hum and set in rows under a capping course of stones. The name comes from the first syllable of the mantra, which is the prayer of the bodhisattva of compassion Avalokiteshvara, and the walls are treated as sacred, so that travellers keep them on their right and walk past them clockwise, the direction of ritual circumambulation. Passing pilgrims and travellers add their own stones, carved or plain, so the wall grows as a living offering along the route, and the carved stones are believed to carry blessing to everyone who walks by, whether or not they can read the letters. Long chains of mani walls line the pilgrim roads of Nepal, Ladakh and the approaches to Mount Kailash.",
     "source_type": "oral_tradition",
     "source_quality": "documented",
     "attested": true,
@@ -1524,7 +1530,7 @@
     ],
     "source": "Himalayan Buddhist pilgrimage practice",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "bhutanese-festival-mask-1544",
@@ -1534,7 +1540,7 @@
     "region": "South Asia",
     "culture": "Bhutanese Buddhist (Drukpa)",
     "type": "ritual object",
-    "description": "Carved and painted wooden mask worn by dancers in the cham dances of Bhutanese monasteries, taking the faces of fierce deities, animals and the skeleton guardians of the faith. The masks appear at tsechu festivals held yearly at the dzongs, where the masked dances are believed to bless onlookers and drive away evil, and where each mask's design follows strict iconographic rules.",
+    "description": "The Bhutanese festival mask is a carved and painted wooden face worn by dancers in the cham dances of Bhutanese monasteries, taking the forms of fierce deities, animals, black-hatted dancers and the skeleton guardians of the faith. The tradition of cham is said to have been brought to the Himalayan world by the teacher Padmasambhava, and the dances are performed in the courtyards of the dzongs during the yearly tsechu festivals, when onlookers gather to see the masked dancers turn in slow circles to drum and cymbal. Each mask follows strict iconographic rules, and the identities of the dancers are kept within the monasteries, while the lay people watch and are held to receive blessing and protection from the performance. The festival masks are made by Bhutanese carvers, painted with mineral colours, and are among the most recognisable art forms of the kingdom.",
     "source_type": "oral_tradition",
     "source_quality": "documented",
     "attested": true,
@@ -1563,7 +1569,7 @@
     ],
     "source": "Bhutanese monastic dance (cham) tradition",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "nakshi-kantha-1545",
@@ -1573,7 +1579,7 @@
     "region": "South Asia",
     "culture": "Bengali",
     "type": "household object",
-    "description": "Embroidered quilt of Bengal, sewn by village women from stacked layers of old saris and dhotis, stitched with running thread into scenes of flowers, birds and everyday life. A nakshi kantha made for a bride is a gift of love and skill, and the craft is named for the fine nakshi, or patterned, stitching that covers the cloth with motifs handed down between generations.",
+    "description": "The nakshi kantha is the embroidered quilt of Bengal, sewn by village women from stacked layers of old saris and dhotis and covered with running stitch in patterns of flowers, birds, animals, boats and scenes of daily life. The name comes from the fine nakshi stitching, and the needlework is built up by hand so that the whole surface becomes a picture, with borders, corner motifs and a central lotus or mandala medallion. A kantha made for a bride is a gift of love and skill, and the making of kanthas is passed between mothers, daughters and granddaughters, each woman adding motifs from memory and imagination. The craft is practised across Bangladesh and West Bengal, and finished quilts are used as bedding, wraps and covers, treasured as much for the maker's hand as for their warmth.",
     "source_type": "oral_tradition",
     "source_quality": "documented",
     "attested": true,
@@ -1602,7 +1608,7 @@
     ],
     "source": "Bengali folk textile tradition",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "dhakai-jamdani-1546",
@@ -1612,7 +1618,7 @@
     "region": "South Asia",
     "culture": "Bengali",
     "type": "garment",
-    "description": "Handwoven muslin of Dhaka, patterned with fine cotton motifs of floral and geometric forms woven into the cloth on the loom. Jamdani weaving is a craft of the Dhaka region practised for centuries and protected as an intangible heritage, and the sheer, patterned fabric has been prized as ceremonial dress across Bengal and beyond.",
+    "description": "The dhakai jamdani is the handwoven muslin of the Dhaka region, patterned with fine floral, geometric and figural motifs that are worked into the cloth itself on the loom, rather than printed or embroidered after weaving. The weaver picks out each motif with extra weft threads, often of silver or gold, using a technique of supplementary weft float work, so that the pattern appears woven through the sheer, fine-count cotton. The craft was patronised by the Mughal courts and has been practised for centuries along the banks of the rivers around Dhaka and Narayanganj, and it was inscribed by UNESCO on the list of intangible cultural heritage in 2013. Jamdani saris remain prized ceremonial dress for weddings and festivals across Bengal and beyond.",
     "source_type": "secondary_scholarly",
     "source_quality": "well-documented",
     "attested": true,
@@ -1642,7 +1648,7 @@
     ],
     "source": "UNESCO intangible heritage listing and craft history",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "ghot-pot-1547",
@@ -1652,7 +1658,7 @@
     "region": "South Asia",
     "culture": "Bengali (Hindu)",
     "type": "container",
-    "description": "Brass or clay pot placed before the bride and groom in the ashirbad blessing of Bengali weddings, filled with paddy, durba grass and a red-and-white thread tied around its mouth. The ghot pot is a token of fertility and prosperity, and its placement during the blessing is part of the ritual good wishes spoken over the couple.",
+    "description": "The ghot is the pot placed before the bride and groom in the ashirbad blessing of Bengali Hindu weddings, a brass or clay vessel filled with paddy, durba grass and other auspicious items, with a red-and-white thread tied around its mouth. The word ghot covers the pot itself and its role in the blessing, and the pot is kept in the wedding space while the elders speak their good wishes over the couple. The paddy stands for grain and fertility, the durba grass for growth and prosperity, and the ghats are prepared by the women of the two families as part of the wedding's household ritual. The pot is a small, everyday object carrying a large ceremonial meaning, and the same kind of vessel appears in other Hindu rites of the region as a seat for the divine presence.",
     "source_type": "oral_tradition",
     "source_quality": "documented",
     "attested": true,
@@ -1682,7 +1688,7 @@
     ],
     "source": "Bengali Hindu wedding custom (Antrocom marriage-customs study)",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "ektara-1548",
@@ -1692,7 +1698,7 @@
     "region": "South Asia",
     "culture": "Bengali (Baul)",
     "type": "musical instrument",
-    "description": "One-stringed lute of rural Bengal, a gourd or bamboo body with a single steel string struck and plucked, carried by wandering Baul singers. The ektara's thin drone accompanies the mystic songs of the Bauls of Bengal, and the instrument is bound to the oral tradition of the region's wandering bards, who sing of the divine within the human body.",
+    "description": "The ektara is the one-stringed lute of rural Bengal, made from a gourd or a bamboo tube with a skin face and a single steel string that is plucked and struck to produce a thin, continuous drone. It is the instrument of the wandering Baul singers of Bengal, who carry the ektara with their other small instruments and sing songs of the divine within the human body, of love and of the inner search, in an oral tradition that is not written down. The Bauls move from village to village, and the drone of the ektara sets the rhythm and pitch for the song, sometimes with a gopichand drum in the other hand. The instrument is simple to make and to carry, and its name means one string, so that the whole music of the sect is often summed up in the single note it produces.",
     "source_type": "oral_tradition",
     "source_quality": "documented",
     "attested": true,
@@ -1722,7 +1728,7 @@
     ],
     "source": "Baul oral tradition of Bengal",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "khyber-knife-1549",
@@ -1732,7 +1738,7 @@
     "region": "South Asia",
     "culture": "Pashtun",
     "type": "weapon",
-    "description": "Straight-bladed knife of the frontier regions of Afghanistan and the Khyber, with a wide spine and simple handle, worn at the belt and used for cutting and defence. Named for the Khyber Pass, the knife is a familiar article of the Pashtun belt and appears in the material culture of the borderlands, carried for daily work and carried as a mark of the bearer.",
+    "description": "The khyber knife is the long, straight-backed belt knife of the frontier regions of Afghanistan and the border country of the Khyber Pass, with a wide spine, a single cutting edge and a simple handle of horn, bone or wood. It is worn at the belt and used for cutting, skinning and defence, and the name comes from the pass that links the Afghan highlands with the plains, a corridor of trade and conflict for centuries. Frontier bladesmiths forged the knives for daily work and for display, and the handles of older examples are often incised or decorated, showing the owner's pride in the weapon. The khyber knife appears in the material culture of the borderlands and in ethnographic collections of frontier weaponry, a practical tool that also served as a mark of the bearer.",
     "source_type": "secondary_scholarly",
     "source_quality": "documented",
     "attested": true,
@@ -1759,7 +1765,7 @@
     ],
     "source": "Ethnographic collections of frontier weaponry",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "herati-carpet-1550",
@@ -1769,7 +1775,7 @@
     "region": "South Asia",
     "culture": "Afghan (Timurid court tradition)",
     "type": "household object",
-    "description": "Hand-knotted carpet of Herat in western Afghanistan, woven in wool with repeating geometric and floral medallion designs that have been exported for centuries. Herat's carpet trade flourished under the Timurid court, and the rugs are laid as prized household and prayer carpets, with patterns passed between weaving families and named for the city that produced them.",
+    "description": "The herati carpet is a hand-knotted wool carpet of the Herat region of western Afghanistan, woven with repeating medallion, star and floral patterns that have been exported from the city for centuries. The trade flourished under the Timurid court, when Herat was a centre of craft and patronage, and the rug's patterns are still carried by weaving families who pass the designs from one generation to the next. The name herati is also attached in the rug trade to a pattern with a central diamond, hooked leaves and corner motifs, and the same terms cause lasting confusion with the rugs of Heriz in north-west Iran, which are distinct carpets from a different region. Afghan herati rugs are made of wool on cotton warps, often with the reds and blues of madder and indigo dyes, and are laid as household and prayer carpets.",
     "source_type": "secondary_scholarly",
     "source_quality": "well-documented",
     "attested": true,
@@ -1798,7 +1804,7 @@
     ],
     "source": "Carpet history of the Herat weaving region",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "kuchi-jewelry-1551",
@@ -1808,7 +1814,7 @@
     "region": "South Asia",
     "culture": "Kuchi (nomadic herders)",
     "type": "jewelry",
-    "description": "Heavy silver ornaments of the Kuchi nomadic herders of Afghanistan, such as large necklaces, headpieces and bangles set with amber, carnelian and turquoise. Kuchi jewellery carries the wealth of nomadic families on the move, and its patterns echo ancient Central Asian styles preserved through generations of wandering life across the Afghan plains.",
+    "description": "The kuchi jewelry is the heavy silver ornament of the Kuchi, the nomadic herding people of Afghanistan, who carry their wealth on their persons in the form of large necklaces, headpieces, earrings, bracelets and belt buckles. The pieces are made of silver, often with added amber, carnelian, turquoise and glass beads, and the forms echo ancient styles of Central Asia, with coin-rimmed discs, stamped patterns and chains that jingle as the wearer moves. For a nomadic family, jewelry is a portable bank, and for a bride the dowry ornaments show the status and resources of the two families. Kuchi jewelry is made by silversmiths who work for the nomad trade, and older pieces are collected and reused, so the ornaments carry the history of generations of wandering life across the Afghan plains.",
     "source_type": "oral_tradition",
     "source_quality": "documented",
     "attested": true,
@@ -1837,7 +1843,7 @@
     ],
     "source": "Ethnographic documentation of Kuchi material culture",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "rubab-1552",
@@ -1847,7 +1853,7 @@
     "region": "South Asia",
     "culture": "Afghan (Kabuli classical)",
     "type": "musical instrument",
-    "description": "Short-necked plucked lute of Afghanistan, carved from a single block of mulberry wood with a skin belly and three main strings, sounded with a wooden plectrum. The rubab is called the lion of Afghan instruments and leads the classical music of Kabul, its deep drone carrying the folk and court tradition of the region.",
+    "description": "The rubab is the short-necked plucked lute of Afghanistan, carved from a single block of mulberry wood with a belly of animal skin and three main melody strings played with a wooden plectrum. Two or three drone strings and up to a dozen sympathetic strings lie under the playing strings, giving the instrument its deep, ringing sound, and Afghan musicians call it the lion of instruments. It is the lead instrument of the classical music of Kabul and is also played in Pashto folk song and in the Sufi music of the region, and its repertoire runs from court compositions to the songs of the valleys. The rubab is made by instrument makers of Kabul who select the mulberry wood for its sound, and the instrument is taught within families of musicians, passed down through generations.",
     "source_type": "secondary_scholarly",
     "source_quality": "documented",
     "attested": true,
@@ -1877,6 +1883,6 @@
     ],
     "source": "Afghan classical music tradition",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   }
 ]

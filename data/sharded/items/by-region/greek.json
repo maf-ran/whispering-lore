@@ -15,7 +15,7 @@
     "maker": "Hermes",
     "powers": "Grants the wearer winged speed and the ability to travel instantly across realms.",
     "associated_creature": null,
-    "description": "The winged sandals of Hermes, the messenger god, enable swift travel and serve as a symbol of speed and cunning in Greek mythology.",
+    "description": "The talaria, the winged sandals of Hermes, the messenger of the gods in Greek myth, carry the wearer swift as the wind across land and sea and between the realms of mortals and gods; Homer already knows them, and in the Iliad Hermes ties on his 'ambrosial, golden' sandals before his errands. In later art the sandals are always shown with small wings at the ankles, and together with the winged cap and the caduceus they make up the messenger god's badge. They are worn not only by Hermes but by heroes and deities on his errands, and in some accounts give their speed to Perseus in his flight from the Gorgons. The talaria passed into Roman tradition as the attribute of Mercury and were revived in the Renaissance as a symbol of swiftness and eloquence. The winged shoe, with the winged hat, has become the universal shorthand for the courier of the gods.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Homeric Hymns",
@@ -34,7 +34,7 @@
       "winged sandals"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "aegis-greek-0702",
@@ -52,8 +52,10 @@
     "maker": "Hephaestus",
     "powers": "Provides impenetrable protection and bears the terrifying visage of Medusa.",
     "associated_creature": null,
-    "description": "The Aegis is Zeus's shield, forged by Hephaestus, famed for its protective power and fearsome appearance.",
-    "related_creatures": [],
+    "description": "The aegis, the storm-shield of Zeus, is the awesome goatskin or bronze buckler with which the god of the Iliad terrifies armies and shakes the field of battle, and which his daughter Athena also wears in the fight; its name, from the Greek for 'goat', points to its origin as a ritual skin, though Homer treats it as a wrought shield forged by Hephaestus. Its surface bears the severed head of the Gorgon Medusa, whose gaze turns all who meet it to stone, so that the shield is as much a weapon of terror as a defence. Zeus lends the aegis to his champions and shakes it as a sign of wrath, and in Athena's hands it accompanies the goddess of war and wisdom into battle. In art the aegis appears as a scaly breastplate fringed with serpents, with the gorgoneion at its centre. The word has passed into English for any protective backing or patronage.",
+    "related_creatures": [
+      "medusa"
+    ],
     "featured_in_stories": [],
     "source": "The Iliad",
     "source_type": "literary",
@@ -70,7 +72,7 @@
       "zeus aegis"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "caduceus-greek-0703",
@@ -88,7 +90,7 @@
     "maker": "Hermes",
     "powers": "Symbolizes negotiation and safe passage; restores harmony.",
     "associated_creature": null,
-    "description": "The Caduceus is the winged staff carried by Hermes, representing trade, negotiation, and safe journeys.",
+    "description": "The caduceus, the kērykeion, is the staff of the herald carried by Hermes, the messenger god, and in Greek literature it is the token of his office, the rod with which he conducts souls to the underworld, lulls the watchful, and opens the way before him; in the Homeric Hymn to Hermes the staff is given to the young god by Apollo together with the golden wand and the arts of prophecy. Its familiar form, a staff entwined by two serpents and topped with a pair of wings, is the later iconography that became standard in Roman art and was revived in the Renaissance, and through it the caduceus came to stand for commerce, negotiation, and safe passage. The same image, easily confused with the single-serpent rod of the physician Asclepius, is now widely used as a medical symbol, though the two are distinct in origin. As the badge of the eloquent envoy, the caduceus remains the emblem of diplomacy itself.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Hesiod's Theogony",
@@ -106,6 +108,6 @@
       "hermes caduceus"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   }
 ]

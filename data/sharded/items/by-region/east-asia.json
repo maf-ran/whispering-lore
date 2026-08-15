@@ -15,8 +15,10 @@
     "maker": "Unknown",
     "powers": "Symbol of imperial authority and protection; believed to ward off evil spirits.",
     "associated_creature": null,
-    "description": "A finely carved jade dragon pendant used by nobles during the Han Dynasty. The dragon motif represented celestial power and was worn as a talisman to ensure the bearer's prestige and safety.",
-    "related_creatures": [],
+    "description": "The jade dragon of the Han dynasty is a small, coiled dragon pendant carved from nephrite jade, found in the tombs of the Chinese aristocracy of the 2nd century BC to the 2nd century AD, where it was laid among the burial goods as a symbol of the celestial forces that governed the dead and of the soul's journey through the heavens. The dragon, the long, was the creature of the east, of rain, and of imperial power, and jade, the most precious stone of the Chinese world, was believed to preserve the body and to concentrate life-force, so that the pairing made the pendant a powerful talisman of protection and rank. The Han dragons, with their sinuous, leaping forms and spiralled bodies, are masterpieces of the lapidary's art, worked with thread-cutting saws and drills into openwork curls. The motif continued for centuries, and the jade dragon remains a symbol of Chinese imperial authority and good fortune. These pendants are among the most prized objects of Chinese art in the world's collections.",
+    "related_creatures": [
+      "long"
+    ],
     "featured_in_stories": [],
     "source": "Han Dynasty Burial Goods",
     "source_type": "archaeological",
@@ -33,7 +35,7 @@
       "chinese dragon talisman"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "yumi-bow-0902",
@@ -51,7 +53,7 @@
     "maker": "Master bowyer",
     "powers": "Exceptional range and accuracy; used in court archery contests.",
     "associated_creature": null,
-    "description": "The yumi is a tall asymmetrical bow used by samurai and nobles. Its distinctive shape allowed for powerful shots and was a status symbol in Heian-era archery tournaments.",
+    "description": "The yumi, the tall Japanese longbow, is asymmetrical, with its grip placed below the centre, a design that lets an archer shoot from horseback and from the knee without the lower limb striking the saddle or the ground; the true yumi is a composite of bamboo slats glued and bound together, often with wood and hemp, in the long tradition of the master bowyers. From the Heian period the bow was the samurai's chief weapon, and the court archery contests of the era made the yumi an instrument of ceremony and status as well as of war. The chronicles of the long-shooting contests at Sanjūsangen-dō record archers who sent arrows astonishing distances along the temple porch. The yumi's great length gives it a long draw and a strong, clean release, and it remains in use in kyūdō, the modern martial art of the bow, little changed from its medieval form. It is both a status symbol of the warrior class and a living piece of Japanese ritual.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Heian Court Records",
@@ -69,7 +71,7 @@
       "heian period bow"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "heian-fan-0903",
@@ -87,7 +89,7 @@
     "maker": "Artisan guild",
     "powers": "Elegant signaling device; used in court dances and ceremonies.",
     "associated_creature": null,
-    "description": "A delicate folding fan employed by Heian courtiers to convey subtle messages and as an accessory in classical dances. Its painted motifs often depict seasonal scenes.",
+    "description": "The Heian court fan, the hiōgi, is the folding fan of the Japanese court of the 9th to 12th centuries, made of slender strips of cypress wood joined at the base and spread in a fan of pale wood, often painted with seasonal flowers and scenes or inscribed with poems; the folding fan itself is a Japanese invention, and these court fans were among the earliest fans to reach China and Korea. Courtiers of the Heian aristocracy used the fan to conceal the face, to gesture in the dance, to signal discreetly at court, and, in the elaborate etiquette of the age, to express shades of meaning the spoken word could not carry; in the paintings of the Tale of Genji the fan is as much a badge of rank as an accessory. Fans were also carried in the rituals of the court, held before the face in ceremony and in the kagura dance, and a painted fan was a gift that carried the giver's taste and standing. The hiōgi survives in the formal fans of Shinto ritual and in the court dance traditions of Kyoto.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Court Artifacts Catalog",
@@ -105,6 +107,6 @@
       "court fan"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   }
 ]

@@ -16,11 +16,13 @@
     "maker": "Brokkr and Sindri (dwarves)",
     "powers": "Summons thunder and lightning; returns to the thrower's hand; hallows weddings and funerals.",
     "associated_creature": null,
-    "description": "The mighty hammer of Thor, forged by the dwarven brothers Brokkr and Sindri as the prize of a wager Loki made on his own head. The hammer's handle came out short because Loki, in fly form, bit the dwarf's hand while he worked the bellows. Mjölnir could shatter mountains, was thrown like a boomerang, and also served to consecrate marriages, births, and funerals. Thor's iron gloves Járngreipr are needed to grip its scorching shaft.",
+    "description": "Mjölnir, 'the grinder', is the war-hammer of the thunder god Thor, forged by the dwarven brothers Brokkr and Sindri as the prize of a wager Loki placed on his own head. Because Loki, in the shape of a fly, bit the smith's hand while he worked the bellows, the hammer's handle came out too short — which is why Thor wields it with one hand. The Prose Edda counts it among the god's three great treasures, beside the belt Megingjörð and the iron gloves Járngreipr; its head is sometimes said to be iron and the shaft wooden, and the hammer returns to the thrower's hand like a boomerang after striking. Beyond battle it hallows marriages, births, funerals, ships, and fields, and it will be the weapon with which Thor fells Jörmungandr at Ragnarök. Small iron and silver hammer pendants of the Viking Age, such as the figure from Eyrarland, are widely read as images of Mjölnir worn for protection. It remains the most recognised symbol of Norse paganism and is still used as a badge of identity in modern heathen communities.",
     "related_creatures": [
       "dwarf-dvergr"
     ],
-    "featured_in_stories": [],
+    "featured_in_stories": [
+      "ragnark-the-end-and-rebirth"
+    ],
     "source": "Prose Edda (Skáldskaparmál)",
     "source_type": "literary",
     "source_quality": "expert",
@@ -41,7 +43,7 @@
       "sindri"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "gungnir-0102",
@@ -59,7 +61,7 @@
     "maker": "Sons of Ivaldi (dwarves)",
     "powers": "Never misses its mark; its throwers and possession pledge a solemn oath.",
     "associated_creature": null,
-    "description": "The spear of Odin, forged by the dwarven sons of Ivaldi in a contest against Brokkr and Sindri for Loki's head. The All-Father opened the war between the Æsir and Vanir by hurling Gungnir over the enemy host, an act that became the archetype of casting a spear at the start of a battle. Oaths sworn upon it were considered unbreakable. Odin rides with it at Ragnarök.",
+    "description": "Gungnir, 'the swaying one', is the spear of Odin, the All-Father, forged by the dwarven sons of Ivaldi in the same contest of treasures that gave the gods their greatest gifts. In the Prose Edda the spear is listed as one of the three marvels the sons of Ivaldi made — the others being Skíðblaðnir and Sif's golden hair. The All-Father opened the war between the Æsir and the Vanir by hurling Gungnir over the enemy host, and that gesture of casting a spear at the start of a battle became the archetype for the practice in Old Norse and later Germanic warfare. Oaths sworn on Gungnir, often called the 'spear-oath', were held to be unbreakable, and the name was used in skaldic kennings as a kenning for 'spear' or 'weapon'. At Ragnarök Odin rides against the wolf Fenrir armed with the spear, though the weapon cannot save him. Gungnir remains a byword for Odin's authority and appears constantly in art and fiction that draws on Norse myth.",
     "related_creatures": [
       "odin-iceland",
       "odin-norway"
@@ -84,7 +86,7 @@
       "asir-vanir war"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "draupnir-0103",
@@ -102,7 +104,7 @@
     "maker": "Brokkr and Sindri (dwarves)",
     "powers": "Drips eight equal rings every ninth night.",
     "associated_creature": null,
-    "description": "The gold ring of Odin, forged by Brokkr and Sindri as part of the same wager that produced Mjölnir. Every ninth night, eight rings of equal weight drip from it. When Baldr was laid on his funeral pyre, Odin laid Draupnir on the pyre, but the ring was returned from Hel by Baldr's brother Hermóðr and later burned with Baldr's wife Nanna.",
+    "description": "Draupnir, 'the dripper', is the golden ring of Odin, forged by the dwarven brothers Brokkr and Sindri in the same wager that produced Mjölnir. Every ninth night, eight rings of equal weight drip from it, making it an endless source of gold and a symbol of abundance. When Baldr was laid on his funeral ship Hringhorni, Odin placed Draupnir on the pyre; the ring was later fetched back from Hel by Baldr's brother Hermóðr, who rode the eight-legged horse Sleipnir to the underworld at Frigg's bidding. In that story Hermóðr returns to the gods bearing Draupnir and the gifts that the dead send back to the living — Nanna's linen robe for Frigg and a ring for the goddess Fulla. The ring's self-replicating nature has made it one of the most studied of the dwarven treasures, and its name is sometimes used in modern writing as a shorthand for limitless wealth.",
     "related_creatures": [
       "odin-iceland",
       "odin-norway"
@@ -127,7 +129,7 @@
       "baldr funeral"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "skidbladnir-0104",
@@ -145,7 +147,7 @@
     "maker": "Sons of Ivaldi (dwarves)",
     "powers": "Folds up like a cloth into a pocket; always has a fair wind.",
     "associated_creature": null,
-    "description": "The best of all ships, built for Freyr by the dwarven sons of Ivaldi. Large enough to carry all the gods and their weapons, yet it can be folded like a cloth and carried in a pouch when not at sea. It always finds a fair wind wherever it sails. In the Prose Edda, Skíðblaðnir is listed among the treasures the dwarves made for the gods.",
+    "description": "Skíðblaðnir is the best of all ships, built for the god Freyr by the dwarven sons of Ivaldi and listed among their marvels in the Prose Edda. It is large enough to carry all the gods and their weapons, yet it can be folded up like a cloth and carried in a pouch when not in use. The ship always finds a fair wind wherever it sails, so the gods never lack for a swift voyage, and it is sometimes said to be made of wood thin enough to fold without breaking. In Snorri's account the ship is counted as one of the greatest treasures of the gods, and it also sails the company of the gods at Ragnarök in some retellings. Though no physical counterpart survives, the name has lived on in Scandinavian shipping and fiction as a byword for a perfect, always-favorable vessel.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Prose Edda (Skáldskaparmál)",
@@ -167,7 +169,7 @@
       "sons of ivaldi"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "brisingamen-0105",
@@ -186,7 +188,7 @@
     "maker": "Dwarves of the Brísingar",
     "powers": "Heightens the beauty of its wearer; a treasure of the goddess Freyja.",
     "associated_creature": null,
-    "description": "The radiant necklace of the goddess Freyja, forged by the dwarves. In the Prose Edda it is counted among the treasures of the gods; in Lokasenna Loki accuses Freyja of having won it dishonorably from the dwarves. The hero Þórólfr and the god Heimdallr both fight over it in separate sagas, and Heimdallr retrieves it from Loki in the shape of a seal.",
+    "description": "Brísingamen, the necklace of the goddess Freyja, is one of the great treasures of the Norse gods, forged by the dwarves. The Prose Edda lists it among the wealth of the gods, and in the poem Lokasenna Loki taunts Freyja that she had to sleep with each of the four dwarves who made it to obtain it — a story expanded in the later Sörla þáttr, where Freyja is described as bartering her favours for the jewel. The necklace is also central to the legend of the hero Þórólfr and to the tale of the god Heimdallr and Loki, who fought over it in the shape of seals at Singasteinn; Heimdallr recovered it for Freyja. The name is sometimes taken to mean 'bright' or 'gleaming' necklace, and the jewel later became a model for Freyja's shining golden hair of amber. Brísingamen remains a standard example of the dwarven treasure hoard in retellings of Norse myth.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Prose Edda (Skáldskaparmál)",
@@ -208,7 +210,7 @@
       "heimdall"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "gleipnir-0106",
@@ -226,12 +228,14 @@
     "maker": "Dwarves",
     "powers": "Unbreakable binding that holds the wolf Fenrir until Ragnarök.",
     "associated_creature": "fenrir",
-    "description": "The third and final fetter with which the gods bound the wolf Fenrir, after the chains Lœdingr and Drómi snapped. Forged by the dwarves from six impossible things: the sound of a cat's footfall, a woman's beard, the roots of a mountain, a bear's sinews, a fish's breath, and a bird's spittle. Made as thin as silk, it cannot be broken. The god Týr placed his hand in Fenrir's mouth as a pledge and lost it when the wolf discovered he could not free himself.",
+    "description": "Gleipnir is the third and final fetter with which the gods bound the wolf Fenrir, after the great chains Leyding and Drómi both snapped. It was made by the dwarves from six impossible things: the sound of a cat's footfall, a woman's beard, the roots of a mountain, a bear's sinews, a fish's breath, and a bird's spittle — which is why, the Edda explains, none of these things now exist in the world. Gleipnir is as thin as a silken ribbon, yet nothing could break it. To persuade the suspicious wolf to let himself be bound, the god Týr placed his hand in Fenrir's mouth as a pledge, and lost it when the wolf found himself unable to escape. The binding holds until Ragnarök, when the wolf breaks free in the final battle. Gleipnir is the classic example of the 'impossible object' in Old Norse mythology.",
     "related_creatures": [
       "fenrir",
       "dwarf-dvergr"
     ],
-    "featured_in_stories": [],
+    "featured_in_stories": [
+      "ragnark-the-end-and-rebirth"
+    ],
     "source": "Prose Edda (Gylfaginning)",
     "source_type": "literary",
     "source_quality": "expert",
@@ -253,7 +257,7 @@
       "dromi"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "andvaranaut-0107",
@@ -271,7 +275,7 @@
     "maker": "Andvari the dwarf",
     "powers": "Cursed to bring death and misfortune to every possessor after the dwarf who made it.",
     "associated_creature": null,
-    "description": "The ring at the heart of the treasure of the dwarf Andvari, which Loki took from him under the island of the waterfall after catching him in the shape of a pike. Andvari cursed the ring and all the gold, so that it would destroy whoever possessed it. The treasure passed to Hreiðmarr, to the dragon Fáfnir, then to Sigurðr, and brought ruin upon each — a story retold in the Völsunga saga and echoed in the Nibelungenlied.",
+    "description": "Andvaranaut is the ring at the heart of the cursed gold of the dwarf Andvari, taken from him by Loki at the waterfall Gnitaheiðr after the god caught the dwarf in the shape of a pike. When Andvari was forced to give up his treasure hoard, he kept a single ring, and when Loki wrenched that away too, the dwarf laid a curse on the gold: it would destroy every possessor who came after him. The treasure passed to the chieftain Hreiðmarr as wergild for his murdered son Otr, then to the dragon Fáfnir, and finally to the hero Sigurðr, and ruin followed each owner. The story is told in the Völsunga saga and echoed in the Middle High German Nibelungenlied, and Andvaranaut is widely seen as the direct ancestor of the Ring of the Nibelung in Richard Wagner's opera cycle. Its name, 'Andvari's gift', has become shorthand for a treasure that brings only doom.",
     "related_creatures": [
       "dwarf-dvergr"
     ],
@@ -296,7 +300,7 @@
       "fafnir treasure"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "gram-0108",
@@ -317,7 +321,7 @@
     "maker": "Reforged by Regin from the shards of Sigmund's blade",
     "powers": "Slices through a smith's anvil and the body of the dragon Fáfnir.",
     "associated_creature": null,
-    "description": "The sword of the Völsung heroes. Its first owner Sigmund drove it into the Branstock tree, where none but he could pull it out. When the blade broke, the shards were kept and reforged by Regin for Sigmund's son Sigurðr, who proved the blade by splitting the anvil in two and later used it to slay the dragon Fáfnir.",
+    "description": "Gram is the great sword of the Völsung heroes, first owned by Sigmund and later reforged for his son Sigurðr, the slayer of the dragon Fáfnir. The sword enters the story when Odin, disguised as a wanderer, thrusts it into the great tree Branstock in the hall of King Völsung, declaring that the one who draws it shall have it as a gift; only Sigmund could pull the blade free. When the sword broke in battle, the shards were kept and re-forged by the smith Regin, and Sigurðr proved the new blade by laying it on the anvil and cleaving it in two before using it to kill Fáfnir. In the German tradition the same sword is called Nothung in the Nibelungenlied and Balmung in other versions, and it lives on in Wagner's Ring cycle as Siegfried's reforged sword. Gram is therefore one of the most famous swords in all of Germanic legend.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Völsunga saga",
@@ -344,7 +348,7 @@
       "volsunga saga"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "megingjord-0109",
@@ -363,7 +367,7 @@
     "maker": "Unnamed (dwarven work implied)",
     "powers": "Doubles the god's already godlike strength.",
     "associated_creature": null,
-    "description": "The belt of the thunder god Thor which, when he girds it on, doubles his strength. It is named in the Prose Edda alongside his iron gloves Járngreipr as one of the three great possessions of Thor, the third being the hammer Mjölnir. Without it Thor is still mighty; with it, nothing among the giants can stand against him.",
+    "description": "Megingjörð, the 'might-girdle', is the belt of the thunder god Thor, and the Prose Edda names it as one of his three great treasures together with the hammer Mjölnir and the iron gloves Járngreipr. When Thor girds the belt about his waist his already godlike strength is doubled, so that no giant can stand against him in the wrestling-matches and battle-tales of the Eddas. In the tale of Thor's journey to the giant Geirröðr, the giantess Gríðr lends the god a similar belt of might along with her staff, showing that such power-girdles were a fixed part of the mythic image of the thunder god. The belt is sometimes said to be made of leather with a heavy buckle, though the sources give no detailed description of its form. Megingjörð survives in modern retellings as the standard third element of Thor's arsenal, and its name is a stock kenning-adjacent byword for supernatural strength.",
     "related_creatures": [
       "dwarf-dvergr"
     ],
@@ -385,7 +389,7 @@
       "belt of strength"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "jarngreipr-0110",
@@ -403,7 +407,7 @@
     "maker": "Unnamed (dwarven work implied)",
     "powers": "Let Thor grip the white-hot shaft of Mjölnir.",
     "associated_creature": null,
-    "description": "The iron gauntlets of Thor, one of his three great treasures named in the Prose Edda. Their purpose is practical as much as martial: the handle of Mjölnir grows white-hot in flight, and only the iron gloves allow Thor to grasp the hammer and throw it. The third treasure completes the set — the strength belt Megingjörð.",
+    "description": "Járngreipr, the 'iron grippers', are the iron gloves of the thunder god Thor, named in the Prose Edda as one of his three great treasures beside Mjölnir and the belt Megingjörð. Their purpose is practical as much as martial: the shaft of Mjölnir is said to grow white-hot in flight, and only the iron gloves let Thor catch and hurl the hammer without burning his hands. In the tale of Thor's visit to the giant Geirröðr, gloves of the same kind are what allow the god to catch the red-hot lump of molten iron that the giant throws at him, which Thor hurls back to kill Geirröðr. The gloves are sometimes said to have been forged by the dwarves, though the Edda does not name their maker. Járngreipr appears in most modern retellings of Norse myth as the practical complement to the great hammer.",
     "related_creatures": [
       "dwarf-dvergr"
     ],
@@ -427,7 +431,7 @@
       "iron gauntlets"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "naglfar-0111",
@@ -446,9 +450,11 @@
     "maker": "Gathered nails of the dead",
     "powers": "Bear the forces of chaos from the east across the waters at Ragnarök.",
     "associated_creature": null,
-    "description": "The great ship of the dead, built from the untrimmed nails and toenails of the dead. The Prose Edda warns that the ship is always under construction, which is why the dead must be buried with clipped nails — trimming the nails of the dead slows its completion. At Ragnarök, Naglfar will sail carrying the fire-giant Surtr's host and the frost giants, steered by the giant Hrym.",
+    "description": "Naglfar, the 'nail-ship', is the great ship of the dead in Norse mythology, built from the untrimmed fingernails and toenails of the dead. The Prose Edda warns that the ship is always under construction, and that the dead should therefore be buried with clipped nails — every unclipped nail added to the awful ship. At Ragnarök Naglfar sails from the east carrying the forces of chaos across the waters: in the poem Völuspá the giant Hrym steers it, while Snorri places Loki at the helm, and the ship bears the host of frost giants toward the battlefield of Vígríðr. The galleon of the dead is one of the most striking images of the end of the world in Old Norse literature, and the practical folk-custom of trimming nails for the sake of delaying the ship's completion kept the myth alive in daily life. Naglfar remains a standard image in retellings of Ragnarök and in art inspired by Norse mythology.",
     "related_creatures": [],
-    "featured_in_stories": [],
+    "featured_in_stories": [
+      "ragnark-the-end-and-rebirth"
+    ],
     "source": "Prose Edda (Gylfaginning)",
     "source_type": "literary",
     "source_quality": "expert",
@@ -468,7 +474,7 @@
       "hrym"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "hlidskjalf-0112",
@@ -486,7 +492,7 @@
     "maker": "Unnamed",
     "powers": "From it the sitter can see across all the worlds.",
     "associated_creature": null,
-    "description": "The high seat of Odin in Valhöll, from which the All-Father can see into all realms and watch over everything that happens among gods, men, and giants. Sitting in Hliðskjálf without leave was dangerous: Freyr sat in it and was struck by the sight of the giantess Gerðr, falling in love with her at a distance. It appears throughout the Eddas as the seat of far-seeing power.",
+    "description": "Hliðskjálf is the high seat of Odin in Valhöll, from which the All-Father can see across all the worlds and watch everything that happens among gods, men, and giants. The Prose Edda describes it as a throne of far-seeing power, and both Odin and, at times, his wife Frigg use it to scan the cosmos. Sitting in it unbidden was dangerous: the god Freyr once took the seat, was struck by a sight of the giantess Gerðr in the distance, and fell so hopelessly in love that he sent his servant Skírnir to woo her, giving away his own magic sword as payment — the sword whose loss later costs Freyr his life at Ragnarök. The name appears in Skírnismál and throughout the Eddas, and the throne has become the standard image of Odin's all-seeing kingship over the nine worlds.",
     "related_creatures": [
       "odin-iceland",
       "odin-norway"
@@ -511,7 +517,7 @@
       "valholl"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "gjallarhorn-0113",
@@ -529,9 +535,11 @@
     "maker": "Unnamed",
     "powers": "Its sound carries across all the worlds; it calls the gods to the final battle.",
     "associated_creature": null,
-    "description": "The great horn of Heimdallr, the watchman of the gods, who guards the rainbow bridge Bifröst. In the Prose Edda, Heimdallr drinks from it at the well and will blow it when the world ends; at Ragnarök the horn's blast is heard throughout the worlds, summoning gods and men to the final battle. It may double as a drinking vessel in some accounts.",
+    "description": "Gjallarhorn is the great horn of Heimdallr, the watchman of the gods who guards the rainbow bridge Bifröst, and its sound carries across all the worlds. At Ragnarök Heimdallr raises the horn to his lips and its blast summons gods and men to the final battle on the field of Vígríðr, a call that is among the great set-pieces of Norse eschatology. Snorri also says that Heimdallr drinks from the horn at the well of Mímir, suggesting that it doubled as a drinking vessel in some accounts. The name 'resounding horn' or 'shrill horn' fits its role as the signal of the end times. Gjallarhorn has passed into modern culture as the archetype of a world-ending call, and it appears in fantasy fiction, music, and art whenever the Ragnarök myth is retold.",
     "related_creatures": [],
-    "featured_in_stories": [],
+    "featured_in_stories": [
+      "ragnark-the-end-and-rebirth"
+    ],
     "source": "Prose Edda (Gylfaginning)",
     "source_type": "literary",
     "source_quality": "expert",
@@ -550,7 +558,7 @@
       "bifrost horn"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "hringhorni-0114",
@@ -568,7 +576,7 @@
     "maker": "Unnamed",
     "powers": "The greatest of ships, large enough to bear a god's funeral pyre.",
     "associated_creature": null,
-    "description": "The greatest of all ships, in which the gods laid the body of Baldr upon a funeral pyre after his death by the mistletoe spear. The launching of Hringhorni was so heavy that only the giantess Hyrrokkin could push it into the sea. It appears in the Prose Edda's account of Baldr's funeral and in some skaldic references.",
+    "description": "Hringhorni is the greatest of all ships, the vessel on which the gods laid the body of Baldr the Beautiful after his death by the mistletoe dart. When the gods tried to launch Hringhorni for the funeral, the ship was so heavy that no god or giant could move it, until the giantess Hyrrokkin came riding on a wolf and sent the vessel sliding into the sea with a single shove, the earth shaking with the force. The funeral of Baldr, with the pyre lit on the ship, the ring Draupnir laid upon it, and the dwarf Litr cast into the flames, is one of the most famous scenes in the Prose Edda. The name is sometimes taken to mean 'ring-prowed' or 'ship with a ring-shaped stern'. Hringhorni appears in skaldic references and remains a fixed image in retellings of Baldr's death.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Prose Edda (Gylfaginning)",
@@ -590,7 +598,7 @@
       "funeral pyre"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "aegishjalmr-0115",
@@ -609,7 +617,7 @@
     "maker": "Icelandic grimoire tradition",
     "powers": "Strikes fear into enemies and grants the wearer protection in battle.",
     "associated_creature": null,
-    "description": "The Helm of Awe, an Icelandic magical stave drawn as a cross with branching prongs. In the Eddas it is the treasure of Fáfnir the dragon, which made its bearer invincible; in later Icelandic grimoires (galdrabækur) it was drawn on the forehead between the brows to terrify opponents and grant victory. Modern folk practice still reproduces it as a protective sign.",
+    "description": "Ægishjálmr, the 'helm of awe' or 'helm of terror', is a protective sign of Norse and Icelandic tradition, drawn as a wheel of radiating prongs or staves. In the poem Fáfnismál the dragon Fáfnir is said to have worn the helm of awe, and the hero Sigurðr takes it as part of the dragon's hoard, suggesting a literal helmet in the oldest layer of the story. From the early modern period the name came to be attached to an eight-armed magical stave of the Icelandic galdrabækur, drawn on the forehead between the brows or on the brow of a person to strike fear into enemies and give victory and protection; the 17th-century grimoire tradition is where the familiar branched symbol comes from. The two uses are sometimes confused, and it is likely the modern stave design and the Eddic helmet are different things that share a name. Ægishjálmr remains one of the most reproduced of all Icelandic staves, in tattoos, jewellery, and fantasy art.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Fáfnismál; Icelandic galdrabækur",
@@ -634,7 +642,7 @@
       "fafnir"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "vegvisir-0116",
@@ -653,7 +661,7 @@
     "maker": "Icelandic grimoire tradition",
     "powers": "Guides the bearer safely through storms and unknown lands.",
     "associated_creature": null,
-    "description": "The Wayfinder, an Icelandic magical stave drawn as a central point with radiating runic spokes, attested in the Huld manuscript (1860). The accompanying charm promises that whoever bears it will never lose their way in storm or bad weather, even when the way is unknown. It has become a widely reproduced symbol of Icelandic folk magic in modern culture.",
+    "description": "Vegvísir, the 'wayfinder', is an Icelandic magical stave drawn as a central point with radiating runic spokes, first attested in the Huld manuscript, compiled by Geir Vigfússon at Akureyri in 1860. The accompanying text promises that whoever carries the sign will never lose their way in storm or bad weather, even when the path is unknown, and the stave is drawn on paper, wood, or metal and carried as a talisman. Although it is often called a 'Viking compass', the earliest known source is a 19th-century grimoire, and the symbol has no confirmed Viking-Age counterpart — a point that popular culture frequently overlooks. Vegvísir has become the most widely reproduced of all the galdrastafir, appearing in tattoos, jewellery, and merchandise, and the Museum of Icelandic Sorcery at Hólmavík displays it among the living folk-magic tradition.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Huld manuscript (Lbs 4626 8vo, 1860)",
@@ -676,7 +684,7 @@
       "direction stave"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "gallehus-horns-0117",
@@ -694,7 +702,7 @@
     "maker": "Maker named in runic inscription: LagestheR",
     "powers": "Ceremonial drinking and ritual horns; images thought to invoke protection and fertility.",
     "associated_creature": null,
-    "description": "Two golden horns of the 5th century, found at Gallehus in southern Jutland in 1639 and 1734 and stolen and melted down in 1802. The longer horn bore a runic inscription naming its maker, LagestheR. The horns' densely decorated bands of men, beasts, and symbols have been read as ritual or cultic imagery. Reconstructions are held in Copenhagen; they remain among the most famous objects of Nordic antiquity.",
+    "description": "The Gallehus golden horns are two magnificent drinking and ritual horns of the 5th century AD, found in a field at Gallehus in southern Jutland in 1639 and 1734 and among the most famous objects of Nordic antiquity. The shorter horn bore a Proto-Norse runic inscription along the rim, 'ek hlewagastiR holtijaR horna tawido' — 'I, Hlewagastir (also read as LagestheR) of Holt, made the horn' — one of the earliest complete sentences written in the Elder Futhark. Both horns were built up from rings of sheet gold covered with stamped and soldered figures of men, beasts, and symbols, whose meaning scholars still debate. In 1802 they were stolen from the Royal Kunstkammer and melted down by the goldsmith Niels Heidenreich, an act that made the horns a national tragedy in Denmark; reconstructions made from the surviving 18th-century drawings are displayed at the National Museum in Copenhagen, and the horns inspired Oehlenschläger's poem 'Guldhornene'.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Archaeological finds (Gallehus, Jutland)",
@@ -717,7 +725,7 @@
       "jotland"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "sunken-church-bell-0118",
@@ -736,7 +744,7 @@
     "maker": "Church foundry",
     "powers": "Said to ring from beneath the water on holy nights, and to be recoverable only by one pure of heart.",
     "associated_creature": null,
-    "description": "A recurring Swedish folk motif: a church bell lost in a lake — swept overboard while being ferried, or dragged down by the water folk (or a troll) because its ringing disturbed them. The bell is said to toll faintly beneath the surface on Christmas night or other holy nights, and treasure-hunters who try to raise it with a pure heart may catch a glimpse of it before it slips away. Variants are told across Sweden, Norway, and Finland.",
+    "description": "The sunken church bell is a recurring folk motif of Sweden and the wider Nordic region: a church bell that lies lost in a lake or river, usually because it sank while being ferried to a church or was dragged down by a troll or the water-folk who hated its ringing. The bell is sometimes said to toll faintly beneath the surface on Christmas night or other holy nights, and treasure-hunters who try to raise it are said to glimpse it and then watch it slip away again, unless a pure-hearted person can win it. The legend is told in many local variants across Sweden, Norway, and Finland, often tied to named lakes and parishes. It also echoes a real custom, since church bells were occasionally lost in transport. The motif survives in place-lore, folk music, and children's stories as one of the most beloved lake legends of the north.",
     "related_creatures": [
       "troll-sweden"
     ],
@@ -761,7 +769,7 @@
       "christmas bell"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "trolls-gift-ring-0119",
@@ -780,7 +788,7 @@
     "maker": "Troll or hulder folk",
     "powers": "Gifts from the hidden folk bring luck to those who accept them without greed, and ruin to the grasping.",
     "associated_creature": null,
-    "description": "In Norwegian and Scandinavian folk belief, the hulder and the troll folk sometimes press gifts upon humans — rings, bracelets, or coins that look like gold. Accepting such a gift courteously could bring lasting luck, while greedily taking more, or refusing rudely, brought misfortune. The motif is widely told across Norway, Sweden, and Denmark, with many local variations on what the gift becomes at dawn.",
+    "description": "The troll's gift ring belongs to a widespread Nordic belief that the hidden folk — the huldra, the hill-folk, and the trolls — sometimes press gifts upon humans: rings, bracelets, belts, or coins that gleam like gold. In the folk tradition it is said that a person who accepted such a gift courteously and without greed could keep lasting luck, while one who snatched greedily at more, or refused rudely, would be cursed with misfortune; at dawn the fine gift might also be found to have turned to leaves, moss, or ashes, the standard fate of fairy gold. The motif is told across Norway, Sweden, and Denmark with many local variations, and it belongs to the wider Scandinavian lore of encounters with the underworld folk rather than to any single saga. The custom of the gift-ring illustrates the deep belief that luck in this world hung on how one treated the hidden neighbours.",
     "related_creatures": [
       "huldra",
       "troll-norway"
@@ -806,7 +814,7 @@
       "troll gift"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "sampo-0120",
@@ -825,8 +833,12 @@
     "maker": "Ilmarinen, the eternal smith",
     "powers": "Grinds out grain, salt, and gold for its possessor.",
     "associated_creature": null,
-    "description": "The wonder-working mill of Finnish epic, forged by the smith Ilmarinen as the price for the hand of the maiden of Pohjola. The Sampo ground out limitless grain, salt, and gold, making its possessor rich. In the Kalevala, the heroes of Väinölä and the mistress of Pohjola fight over it; in the battle the Sampo is smashed and lost at sea, and its fragments grant the sea its richness. Its shape and true nature are never fully described.",
-    "related_creatures": [],
+    "description": "The Sampo is the wonder-working mill of Finnish epic, forged by the great smith Ilmarinen as the bride-price demanded for the hand of the maiden of Pohjola. In the Kalevala the Sampo grinds out limitless grain, salt, and gold for its possessor, making it the engine of the northern world's wealth. The heroes of Väinölä and Louhi, the mistress of Pohjola, fight over it in the great raid that follows; during the sea-battle the Sampo is shattered and lost overboard, and the fragments that wash ashore are said to have given the sea and the land of Finland their richness. Its true shape and nature are never fully described — it is a mill, a chest, a pillar, or simply 'the Sampo' — and scholars still debate what it originally was. It stands as the central object of the Kalevala, and its name lives on in Finnish art, music, and the Finnish word for a lucky wonder.",
+    "related_creatures": [
+      "ilmarinen-finland",
+      "louhi-finland",
+      "vainamoinen-finland"
+    ],
     "featured_in_stories": [
       "ilmarinen-forges-the-sampo",
       "capture-of-the-sampo"
@@ -852,7 +864,7 @@
       "pohjola"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "tyrfing-0201",
@@ -871,7 +883,7 @@
     "maker": "Dvalinn and Dulinn (dwarves)",
     "powers": "Never misses and never rusts, but kills a man every time it is drawn and brings three great evils.",
     "associated_creature": null,
-    "description": "Cursed sword of the Hervarar saga, forged by the dwarves Dvalinn and Dulinn for King Svafrlami, whom they cursed in return: the blade would kill a man each time it was drawn, never rust, and bring about three great evils. Hervör raised it from the barrow of her dead father Angantýr, and the curse worked ruin on every bearer after.",
+    "description": "Tyrfing is the cursed sword of the Hervarar saga, forged by the dwarves Dvalinn and Dulinn for King Svafrlami. When the king forced the dwarves to give him the finest blade they could make, they laid a curse upon it in return: the sword would never miss a stroke, never rust, would kill a man every time it was drawn, and would be the cause of three great evils. After killing the dwarves, Svafrlami was himself slain in a duel with the berserk Arngrímr, and the blade passed into the hands of Arngrímr's sons. The shield-maiden Hervör later raised the sword from the barrow of her dead father Angantýr by overcoming his ghost, and the curse drove the saga's later heroes, including Heiðrekr, to their deaths. Tyrfing is one of the archetypal cursed blades of Germanic legend and is often compared with Sigurðr's Gram.",
     "related_creatures": [
       "dwarf-dvergr"
     ],
@@ -897,7 +909,7 @@
       "angantyr"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "odroerir-0202",
@@ -916,9 +928,11 @@
     "maker": "Fjalar and Galar (dwarves)",
     "powers": "Holds the mead of poetry; whoever drinks it gains poetry and wisdom.",
     "associated_creature": null,
-    "description": "The kettle that holds the mead of poetry, brewed by the dwarves Fjalar and Galar from the blood of Kvasir, the wisest of beings, mixed with honey. Whoever drinks from Óðrœrir gains the gift of poetry and wisdom. Odin stole the mead from the giant Suttungr, drained the vessels Boðn and Són and the kettle itself, and shared it with the Æsir, keeping a small part for poets.",
+    "description": "Óðrœrir is the kettle that holds the mead of poetry, brewed by the dwarves Fjalar and Galar from the blood of Kvasir, the wisest of beings, mixed with honey. Whoever drinks the mead gains the gift of poetry and wisdom, and the brew is stored in three vessels — the great kettle Óðrœrir and the two bowls Boðn and Són. The giant Suttungr seized the mead after the dwarves killed his parents, and Odin stole it back from Suttungr's daughter Gunnlöð, drinking all of Óðrœrir in three draughts and escaping in eagle form. A little of the mead is said to have been spilled from Odin's beak, and that spill became the portion that is given to poets on earth. The name is sometimes interpreted as 'stirrer of inspiration' or 'mind-rousing one', and the mead remains the central symbol of skaldic poetry and of the gift of verse.",
     "related_creatures": [
-      "dwarf-dvergr"
+      "dwarf-dvergr",
+      "odin-iceland",
+      "odin-norway"
     ],
     "featured_in_stories": [],
     "source": "Prose Edda (Skáldskaparmál)",
@@ -943,7 +957,7 @@
       "galar"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "sifs-golden-hair-0203",
@@ -962,7 +976,7 @@
     "maker": "Sons of Ivaldi (dwarves)",
     "powers": "Grows from the head like real hair and never loses its gleam.",
     "associated_creature": null,
-    "description": "The golden hair of Sif, wife of Thor, wrought by the dwarven sons of Ivaldi after Loki maliciously cut off her own. Made of gold so fine that it grew from her head like real hair, it became proof of the dwarves' skill and opened the great contest of gifts between rival smiths. Loki commissioned it to atone for his mischief, and Thor kept his skull intact.",
+    "description": "Sif's golden hair is the treasure that the dwarven sons of Ivaldi made for Sif, the wife of Thor, after Loki maliciously shaved her head. To atone for his mischief Loki had the sons of Ivaldi forge hair of pure gold so fine that it grew from Sif's head like real hair, and the making of it opened the great contest of treasures in which the dwarves vied against each other — the same contest that produced Gungnir, Skíðblaðnir, Mjölnir, and Draupnir. In the Prose Edda the golden hair is listed among the gifts the sons of Ivaldi delivered, and the story explains why gold is called 'Sif's hair' in skaldic kennings. The tale shows the dwarves as the great craftsmen of the gods and Loki as the instigator of their finest work. Sif's hair remains a standard example of the dwarven gift-hoard and of gold-kennings in Old Norse poetry.",
     "related_creatures": [
       "dwarf-dvergr"
     ],
@@ -986,7 +1000,7 @@
       "loki mischief"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "gullinbursti-0204",
@@ -1005,7 +1019,7 @@
     "maker": "Brokkr and Sindri (dwarves)",
     "powers": "Its golden bristles light the darkest night, and it runs through air and water faster than any horse.",
     "associated_creature": null,
-    "description": "Freyr's golden boar, forged by the dwarves Brokkr and Sindri during the same wager that produced Mjölnir. Its bristles shone so brightly that they lit the dark, and it could run through air and water alike. Odin judged it the finest of the dwarves' treasures, and Snorri records it as fit to draw Freyr's chariot in place of a horse.",
+    "description": "Gullinbursti, the 'golden-bristled boar', is the boar of the god Freyr, forged by the dwarven brothers Brokkr and Sindri in the same wager that produced the hammer Mjölnir. Its bristles are of gold and shine so brightly that they light the darkest night, and the boar can run through air and water faster than any horse, drawing Freyr's chariot in place of a steed. Snorri records that Odin judged Gullinbursti the best of all the dwarves' gifts, naming the boar along with its second name Slíðrugtanni, and that Freyr rode it to Baldr's funeral. The boar is also the ancestor of the golden boar of Swedish royal imagery and of the Christmas ham that crowns the Swedish table, traditions that carry the myth quietly into modern life. Gullinbursti is one of the most beloved minor treasures of Norse mythology.",
     "related_creatures": [
       "dwarf-dvergr"
     ],
@@ -1030,7 +1044,7 @@
       "sindri"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "freys-sword-0205",
@@ -1049,9 +1063,11 @@
     "maker": "Unnamed",
     "powers": "Fights of its own accord, without a hand to wield it.",
     "associated_creature": null,
-    "description": "The self-fighting sword of Freyr, which he gave to his servant Skírnir as payment for wooing the giantess Gerðr on his behalf. Stripped of his blade, Freyr was weaponless when the fire giant Surtr faced him at Ragnarök, and he fell. The sword is remembered in the Eddas as the price of love and the cause of a god's death.",
+    "description": "Freyr's sword is the magic blade of the god Freyr that fights by itself, without a hand to wield it. In Skírnismál, Freyr gives the sword to his servant Skírnir as payment for wooing the giantess Gerðr on his behalf — a gift of the self-fighting sword in exchange for love. The loss is fatal at Ragnarök: the Prose Edda recounts that Freyr, lacking his good sword, fights the fire giant Surtr and falls, having given away his only weapon. The sword is thus remembered in the Eddas as the price of love and the cause of a god's death, and it is often read as a parable of how love and war can demand the same sacrifice. It remains a standard example in discussions of the self-acting weapons of myth, and the tale of the sword given away for Gerðr is retold in most modern versions of the Eddas.",
     "related_creatures": [],
-    "featured_in_stories": [],
+    "featured_in_stories": [
+      "ragnark-the-end-and-rebirth"
+    ],
     "source": "Skírnismál; Prose Edda (Gylfaginning)",
     "source_type": "literary",
     "source_quality": "expert",
@@ -1073,7 +1089,7 @@
       "ragnarok"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "vidars-shoe-0206",
@@ -1092,11 +1108,13 @@
     "maker": "Gathered from donated leather scraps",
     "powers": "Holds firm against Fenrir's jaws so Víðarr can tear the wolf apart at Ragnarök.",
     "associated_creature": "fenrir",
-    "description": "The shoe of Víðarr, son of Odin, made from the pieces of leather that people cut from their own shoes at toe and heel and set aside for the god. At Ragnarök the silent Víðarr set the shoe against Fenrir's lower jaw, gripped the wolf's upper jaw with his hands, and tore his mouth open, avenging his father Odin.",
+    "description": "Víðarr's shoe is the enormous foot-covering of Víðarr, the silent son of Odin, made from the pieces of leather that people are said to have cut from their own shoes at heel and toe and set aside for the god. The Prose Edda explains that every man who wishes to help the god should donate such scraps, and the collected leather forms a shoe strong enough to hold against Fenrir's jaws. At Ragnarök the silent Víðarr sets the shoe against the wolf's lower jaw, grips the upper jaw with his hands, and tears the wolf's mouth apart, avenging the death of his father Odin. The detail of the shoe-scraps is one of the strangest and most memorable practical customs in the Eddas, and it connects the cosmic battle to the ordinary work of mending shoes. Víðarr's vengeance remains a fixed scene in every retelling of Ragnarök.",
     "related_creatures": [
       "fenrir"
     ],
-    "featured_in_stories": [],
+    "featured_in_stories": [
+      "ragnark-the-end-and-rebirth"
+    ],
     "source": "Prose Edda (Gylfaginning); Grímnismál",
     "source_type": "literary",
     "source_quality": "expert",
@@ -1116,7 +1134,7 @@
       "leather scraps"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "dromi-and-leyding-0207",
@@ -1136,7 +1154,7 @@
     "maker": "The gods",
     "powers": "Failed bindings; only the silken dwarf-made fetter Gleipnir finally held Fenrir.",
     "associated_creature": "fenrir",
-    "description": "The two fetters with which the gods first tried to bind the wolf Fenrir. The first, Leyding, the wolf snapped as easily as if it were a cord. The stronger Drómi held him briefly until he braced his feet against the ground and shattered it, sending the fragments flying. Only the silken dwarf-made fetter Gleipnir was strong enough to hold him until Ragnarök.",
+    "description": "Leyding and Drómi are the first two fetters with which the gods tried to bind the wolf Fenrir, before the silken dwarf-made fetter Gleipnir finally held him. The gods first had a great chain called Leyding forged, but the wolf snapped it as easily as a cord. They then made a second, much stronger fetter called Drómi, but when Fenrir braced his feet against the ground and braced his back against a rock, he burst the chain apart, sending fragments flying across the countryside. The two failed fetters set up the famous scene in which the suspicious wolf agreed to be bound by the 'silken ribbon' Gleipnir only if a god placed his hand in the beast's mouth as a pledge — the pledge that cost Týr his hand. Leyding and Drómi thus frame the myth of the binding of Fenrir, and the story of the chain that was too strong for its maker remains one of the best-known episodes of the Eddas.",
     "related_creatures": [
       "fenrir"
     ],
@@ -1163,7 +1181,7 @@
       "failed binding"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "svalinn-0208",
@@ -1182,7 +1200,7 @@
     "maker": "Unnamed",
     "powers": "Tempering the sun's rays so the earth and sea are not consumed by fire.",
     "associated_creature": null,
-    "description": "The shield that stands before the sun, named in Grímnismál, sheltering earth and sea from the burning rays of the sun goddess Sól. The poem warns that if the shield ever falls away, mountains and the deep sea would be consumed by flame. It is one of the most purely cosmic objects in the Eddic corpus, a world-sustaining object rather than a warrior's arm.",
+    "description": "Svalinn, 'the chill' or 'the cooling one', is the shield that stands before the sun in Norse mythology, named in the poem Grímnismál. According to the stanza, the shield protects the earth from the burning rays of the sun goddess Sól as she is dragged across the sky by the horses Árvakr and Alsviðr, and 'mountains and sea would be set in flames' if it ever fell from its place. The shield is also named in Sigrdrífumál and in Snorri's list of shield-names in Skáldskaparmál, and scholars have suggested it preserves a Bronze Age image of the sun as a round, shield-like disc. Unlike a warrior's shield, Svalinn is a world-sustaining object, and its role in keeping creation from burning up makes it one of the most purely cosmic objects in the Eddic corpus. It is sometimes cited in modern writing as an early image of solar protection.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Poetic Edda (Grímnismál)",
@@ -1204,7 +1222,7 @@
       "grimnismal"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "hofud-0209",
@@ -1224,7 +1242,7 @@
     "maker": "Unnamed",
     "powers": "The sword of Heimdall, watchman of the gods, named among his possessions in the Edda.",
     "associated_creature": null,
-    "description": "Hǫfuð, 'Head', the sword of Heimdall, watchman of the gods, named among his possessions in Gylfaginning. Snorri lists the blade beside Heimdall's role as guardian of the gods, and later tradition links it to the final battle, where Heimdall and Loki are said to slay each other at Ragnarök. It is one of the few named Eddic swords with no surviving owner story.",
+    "description": "Hǫfuð, meaning 'head', is the sword of Heimdallr, the watchman of the gods, named among his possessions in the Prose Edda. Snorri lists the blade beside Heimdallr's duties as guardian of the gods, and later tradition links the sword to the final battle, in which Heimdallr and Loki are said to slay one another at Ragnarök. Very little else is recorded about the weapon, and no detailed story of its forging or use survives, which makes it one of the more mysterious named swords of the Eddas. The name 'head' is sometimes explained as a kenning-like epithet for a sword, or as a reference to the head that Heimdallr and Loki were said to have fought over. Hǫfuð is nevertheless a fixture in catalogues of Norse mythic weapons, even though its owner's story is told almost entirely through other objects.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Prose Edda (Gylfaginning)",
@@ -1246,7 +1264,7 @@
       "heimdall"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "laevateinn-0210",
@@ -1266,7 +1284,7 @@
     "maker": "Unnamed (forged with rune magic in some readings)",
     "powers": "The only weapon said able to slay the rooster Viðófnir at the top of the world tree.",
     "associated_creature": null,
-    "description": "The 'wounding wand' of Fjölsvinnsmál, the blade with which alone the rooster Viðófnir, perched at the top of the world tree, could be slain. It lies in a chest beside the giantess Sinmara, bound by nine locks that only a feather plucked from Viðófnir's own tail can open. Scholars debate whether it is Loki's sword or a separate weapon; its name may itself be a late emendation.",
+    "description": "Lævateinn, the 'wounding wand', is the blade of the poem Fjölsvinnsmál, the only weapon said to be able to slay the rooster Viðófnir that perches at the top of the world tree. The wand lies in a chest beside the giantess Sinmara, bound by nine locks that can be opened only by a feather plucked from Viðófnir's own tail, a riddle-like condition that keeps the weapon out of reach. Scholars debate whether the name means 'wounding-wand' and whether the blade is to be identified with Loki's sword, since the name in the manuscripts may be a late emendation of 'Hævateinn', the 'high-wand'. The weapon's place in the late, riddling poem Fjölsvinnsmál sets it apart from the better-known Eddic swords. Lævateinn is nonetheless a favourite of catalogue-writers and of modern fantasy that draws on Old Norse weaponry.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Poetic Edda (Fjölsvinnsmál)",
@@ -1290,7 +1308,7 @@
       "fjolsvinnsmal"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "gridarvolr-0211",
@@ -1310,7 +1328,7 @@
     "maker": "Gríðr the giantess",
     "powers": "A staff of might lent to Thor, with which he slew the giant Geirröðr.",
     "associated_creature": null,
-    "description": "The staff of the giantess Gríðr, lent by her to Thor along with iron gloves and a belt of might when he set out against the giant Geirröðr. With the staff in hand Thor broke Geirröðr's back and killed him. The loan, told in Skáldskaparmál, is a rare act of kindness by a giantess toward the thunder god.",
+    "description": "Gríðarvölr is the staff of the giantess Gríðr, mother of Víðarr, which she lent to Thor along with iron gloves and a belt of might when he set out against the giant Geirröðr. In the tale told in Skáldskaparmál, Thor uses the staff to fend off the giantess Gjálp and her kin and to brace himself when Geirröðr's sons try to crush him in a chair, and he finally breaks the giant's back with the aid of the borrowed gear. The loan is a rare act of kindness by a giantess toward the thunder god, and Gríðr is remembered as the wisest and most generous of the giantesses for it. The story shows that even Thor needed the help of the giants' own world to defeat the greatest of their kind. Gríðarvölr appears in most modern retellings of the tale of Thor's visit to Geirröðr.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Prose Edda (Skáldskaparmál)",
@@ -1332,7 +1350,7 @@
       "thor staff"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "fjarhamr-0212",
@@ -1352,7 +1370,7 @@
     "maker": "Unnamed",
     "powers": "Lets its wearer fly in the shape of a falcon.",
     "associated_creature": null,
-    "description": "The falcon cloak of the goddess Freyja, a feather garment that lets its wearer fly in the shape of a falcon. Loki borrows it to fetch the goddess Iðunn back from the giant Þjazi, and later to pursue the giant in the same form. In the Prose Edda the cloak is the gods' regular means of swift flight, kept in Freyja's keeping.",
+    "description": "Freyja's falcon cloak, also called the feather cloak or fjaðrhamr, is a garment of feathers that lets its wearer fly in the shape of a falcon. In the Prose Edda the cloak is kept by the goddess Freyja and lent out when the gods need swift flight: Loki borrows it to search for the goddess Iðunn after the giant Þjazi carries her off, and later uses it to pursue Þjazi, who had taken the shape of an eagle, back to the walls of Asgard where the gods kill him. In the poem Þrymskviða, Freyja's cloak is likewise the means by which Loki flies out to steal back the hammer Mjölnir. Shape-shifting feather-cloaks appear elsewhere in Norse legend, most famously in the story of the smith Völund and his swan-maiden bride. Freyja's falcon cloak is the standard example of the feathered flying garment of Norse myth.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Prose Edda (Skáldskaparmál)",
@@ -1376,7 +1394,7 @@
       "feather coat"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "nabrok-0213",
@@ -1396,7 +1414,7 @@
     "maker": "Made by the wearer from a dead man's lower body",
     "powers": "Said to keep the wearer's purse from ever running empty.",
     "associated_creature": null,
-    "description": "Nábrók, the 'necropants' of Icelandic folk magic: trousers stitched from the skin cut from the lower body of a dead man, worn by the living. The wearer kept a coin in the pants that was said always to return to his purse, keeping him wealthy as long as the grisly garment lasted. The custom is documented in Icelandic folklore as a means of conjuring luck, not a mythic heirloom.",
+    "description": "Nábrók, the 'corpse breeches' or necropants, is a garment of Icelandic folk magic made from the skin of a dead man's lower body. According to the tradition recorded by Jón Árnason and still told today, the wearer first made a pact with a living friend that if either died, the survivor might flay the dead man's skin from the waist down; the intact skin was then worn like trousers, becoming one with the wearer's own body. To activate the charm, a coin had to be stolen from a poor widow on a great festival day and placed in the scrotum of the pants, which would then constantly draw money from the living so that the purse never ran empty. The pants had to be passed on before the wearer's death, leg by leg to a new owner, or the corpse would be swarmed with lice. A famous reproduction hangs in the Museum of Icelandic Sorcery at Hólmavík.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Icelandic folk tradition (Jón Árnason collection)",
@@ -1418,7 +1436,7 @@
       "icelandic folk magic"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "draumstafir-0214",
@@ -1437,7 +1455,7 @@
     "maker": "Icelandic grimoire tradition",
     "powers": "Drawn so the sleeper receives good or revealing dreams.",
     "associated_creature": null,
-    "description": "Draumstafir, the dream stave of the Huld manuscript, a complex magical sign drawn so that the sleeper receives good or revealing dreams. It is one of the many galdrastafir recorded by 19th-century collectors of Icelandic folk magic, and the sign is still reproduced in books and tattoos, though the drawing instructions vary between grimoires.",
+    "description": "Draumstafir, the 'dream staves', is an Icelandic magical stave recorded in the Huld manuscript, compiled by Geir Vigfússon at Akureyri in 1860, and drawn so that the sleeper receives good or revealing dreams. It belongs to the family of galdrastafir, the sigils of the Icelandic grimoire tradition that developed between the 16th and 19th centuries, and it was drawn on paper or carved on wood and placed with the sleeper or worn about the person. The drawing instructions vary between manuscripts, and the sign is one of the many staves collected by 19th-century antiquaries from a folk-magic tradition that was already fading. In modern times draumstafir is widely reproduced in books, jewellery, and tattoos, and the Museum of Icelandic Sorcery at Hólmavík presents such staves as living expressions of Icelandic folk belief. Its simple promise — sound sleep and meaningful dreams — keeps it among the more popular of the recorded staves.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Huld manuscript (Lbs 4626 8vo, 1860)",
@@ -1459,7 +1477,7 @@
       "huld manuscript"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "kaupaloki-0215",
@@ -1478,7 +1496,7 @@
     "maker": "Icelandic grimoire tradition",
     "powers": "Brings success and fair fortune in buying and selling.",
     "associated_creature": null,
-    "description": "Kaupaloki, the trade-luck stave of the Huld manuscript, inscribed for success in buying and selling. Drawn or carved by merchants, it was meant to bring profit and good dealings in the market. It belongs to the practical folk magic of Iceland's seafaring trade, where a stave for fair fortune in commerce was worth its weight in cargo.",
+    "description": "Kaupaloki, the 'trade-luck stave', is an Icelandic magical sign recorded in the Huld manuscript, compiled by Geir Vigfússon at Akureyri in 1860, and drawn for success in buying and selling. Merchants and farmers drew or carved the stave so that bargains would turn in their favour, a piece of practical magic in a seafaring and trading society where a fair deal was a matter of survival. It belongs to the group of luck-giving galdrastafir, distinct from the protective and aggressive staves of the same grimoires, and it was carried on paper, wood, or metal when goods went to market. Like most of the staves, its earliest known source is a 19th-century collection of older material, and it is now reproduced in books and on jewellery as an emblem of Icelandic folk magic. The Museum of Icelandic Sorcery at Hólmavík keeps the trade staves among its displays of the everyday uses of magic.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Huld manuscript (Lbs 4626 8vo, 1860)",
@@ -1499,7 +1517,7 @@
       "huld manuscript"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "pungastafur-0216",
@@ -1518,7 +1536,7 @@
     "maker": "Icelandic grimoire tradition",
     "powers": "Keeps the bearer's purse heavy and money from running short.",
     "associated_creature": null,
-    "description": "Pungastafur, the purse stave of the Huld manuscript, drawn so that money would not run short and the bearer's purse would stay heavy. It belongs to the family of luck-and-money galdrastafir and was among the most sought-after signs in the grimoire tradition, a domestic charm against poverty in a subsistence economy.",
+    "description": "Pungastafur, the 'purse stave', is an Icelandic magical sign recorded in the Huld manuscript, compiled by Geir Vigfússon at Akureyri in 1860, and drawn so that money would not run short and the bearer's purse would stay heavy. It is one of the most sought-after of the money-and-luck galdrastafir, a domestic charm against poverty in a subsistence economy, drawn on paper and carried about the person or carved on a coin-purse. The name itself speaks to its purpose: 'pungi' is the Icelandic word for purse or scrotum, so the stave works on the same idea as the money-magic of the necropants, keeping the bearer's wealth sealed in. It belongs to the same family as Kaupaloki and the other luck staves, and its earliest known source is the 19th-century Huld manuscript. The purse stave remains popular in modern reproductions of Icelandic staves as a symbol of financial protection.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Huld manuscript (Lbs 4626 8vo, 1860)",
@@ -1540,7 +1558,7 @@
       "huld manuscript"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "smjorstafur-0217",
@@ -1559,7 +1577,7 @@
     "maker": "Icelandic grimoire tradition",
     "powers": "Brings success in making butter.",
     "associated_creature": null,
-    "description": "Smjörstafur, the butter stave of the Huld manuscript, drawn or carved to bring success in butter-making. In an agrarian world where dairy was wealth, a charm for a full churn was practical magic, and the stave sits among the agricultural signs recorded beside the luck and protection staves of the grimoires.",
+    "description": "Smjörstafur, the 'butter stave', is an Icelandic magical sign recorded in the Huld manuscript, compiled by Geir Vigfússon at Akureyri in 1860, and drawn or carved to bring success in making butter. In an agrarian world where dairy was wealth, a charm for a full churn was practical magic, and the stave sits among the agricultural signs recorded beside the luck, protection, and money staves of the grimoires. It was probably drawn on the churn itself or on a paper carried with the dairy work, though the sources give little detail of its use. Like all the galdrastafir, its earliest known source is a 19th-century manuscript that collected older folk-magic material, and it is now reproduced in books and on merchandise as part of the Icelandic stave revival. The butter stave is a good example of how the stave tradition reached into the humblest household work.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Huld manuscript (Lbs 4626 8vo, 1860)",
@@ -1581,7 +1599,7 @@
       "huld manuscript"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "thjofastafur-0218",
@@ -1600,7 +1618,7 @@
     "maker": "Icelandic grimoire tradition",
     "powers": "Protects livestock and goods from thieves.",
     "associated_creature": null,
-    "description": "Þjófastafur, the thief stave of the Huld manuscript, drawn to guard livestock and goods against theft. The name means 'thief-stave', and the sign was meant to make a thief unable to take what belonged to the bearer. It answered a real fear in the farmsteads, protecting herds and households that had no other defence.",
+    "description": "Þjófastafur, the 'thief stave', is an Icelandic magical sign recorded in the Huld manuscript, compiled by Geir Vigfússon at Akureyri in 1860, and drawn to guard livestock and goods against theft. The name literally means 'thief-stave', and the sign was meant to make a thief unable to take what belonged to the bearer, or to bring him back to face the community. It answered a real fear on isolated farmsteads, where herds and household goods had no other defence against thieves and wanderers. It belongs to the protective family of galdrastafir, and like most of the staves it is known from a 19th-century manuscript that preserved older folk tradition rather than from any Viking-Age source. The thief stave is still reproduced in books and on jewellery, and the Museum of Icelandic Sorcery at Hólmavík displays it among the protective signs of the grimoire tradition.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Huld manuscript (Lbs 4626 8vo, 1860)",
@@ -1622,7 +1640,7 @@
       "huld manuscript"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "ottastafur-0219",
@@ -1641,7 +1659,7 @@
     "maker": "Icelandic grimoire tradition",
     "powers": "Strikes fear into those against whom it is used.",
     "associated_creature": null,
-    "description": "Óttastafur, the fear stave of the Huld manuscript, drawn to strike fear into others. As a weapon of psychological magic it was meant to cow rivals or enemies without a blow. It is one of the aggressive galdrastafir recorded beside the protective and luck-giving signs, showing that the stave tradition served harm as readily as help.",
+    "description": "Óttastafur, the 'fear stave', is an Icelandic magical sign recorded in the Huld manuscript, compiled by Geir Vigfússon at Akureyri in 1860, and drawn to strike fear into others. As a weapon of psychological magic it was meant to cow rivals or enemies without a single blow, so that the bearer's will prevailed and opponents lost heart. It is one of the aggressive galdrastafir, sitting in the same grimoires as the protective and luck-giving staves and showing that the stave tradition served harm as readily as help. Its earliest known source is a 19th-century manuscript that collected older folk-magic material, and like the other fear signs it is now reproduced in modern books and on tattoos. The fear stave is a reminder that Icelandic folk magic was a two-edged craft, used as often to intimidate as to defend.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Huld manuscript (Lbs 4626 8vo, 1860)",
@@ -1663,7 +1681,7 @@
       "huld manuscript"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "bjargastafur-0220",
@@ -1682,7 +1700,7 @@
     "maker": "Icelandic grimoire tradition",
     "powers": "Carries the bearer through danger and hardship unharmed.",
     "associated_creature": null,
-    "description": "Bjargástafur, the rescue stave of the Huld manuscript, drawn so that the bearer could escape or survive any danger. Its name derives from bjarga, 'to save', and the grimoire tradition promises that no misfortune could hold a person who bore it. It is one of the general talismans of protection in Icelandic folk magic.",
+    "description": "Bjargástafur, the 'rescue stave' or 'saving stave', is an Icelandic magical sign recorded in the Huld manuscript, compiled by Geir Vigfússon at Akureyri in 1860, and drawn so that the bearer could escape or survive any danger. Its name derives from the verb bjarga, 'to save', and the grimoire tradition promises that no misfortune could hold a person who bore it, whether on land, at sea, or in a dispute. It is one of the general talismans of protection in Icelandic folk magic, carried on paper, carved on wood, or worn on the person in times of peril. Like all the galdrastafir, its earliest known source is a 19th-century manuscript that gathered older material, and it is now widely reproduced in books and on jewellery. The rescue stave remains popular today as a general symbol of safety and deliverance.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Huld manuscript (Lbs 4626 8vo, 1860)",
@@ -1704,7 +1722,7 @@
       "huld manuscript"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "ginfaxi-0221",
@@ -1723,7 +1741,7 @@
     "maker": "Icelandic grimoire tradition",
     "powers": "Turns the luck of a rival or competitor, so the bearer wins the contest.",
     "associated_creature": null,
-    "description": "Ginfaxi, the rival-beating stave of the Huld manuscript, drawn to defeat an opponent in competition or argument. Its name echoes the animal names of Norse myth, but here it belongs to a sign meant to turn luck against rivals. It is one of the combative staves of Icelandic folk magic, used when the prize was trade, a case, or a contest.",
+    "description": "Ginfaxi is an Icelandic magical stave recorded in the Huld manuscript, compiled by Geir Vigfússon at Akureyri in 1860, and drawn to ensure victory over a rival in a contest or argument. In the tradition it is used together with the stave Gapaldur: Gapaldur is kept under the heel of the right foot and Ginfaxi under the toes of the left foot, so that the wearer wins bouts of Icelandic wrestling, glíma, and other competitions. The name echoes the horse-names of Norse myth such as Skinfaxi and Hrímfaxi, and a horse called Ginfaxi is attested in the sagas, though the stave itself is a folk-magic sign rather than a mythic beast. It belongs to the combative family of galdrastafir, used when the prize was a bout, a trade, or a court case. The stave is still reproduced in modern collections of Icelandic magical signs.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Huld manuscript (Lbs 4626 8vo, 1860)",
@@ -1745,7 +1763,7 @@
       "huld manuscript"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "lasabrjotur-0222",
@@ -1764,7 +1782,7 @@
     "maker": "Icelandic grimoire tradition",
     "powers": "Said to open locks, fetters, and binding magic.",
     "associated_creature": null,
-    "description": "Lasabrjótur, the lock-breaker of the Huld manuscript, a stave said to open locks and fetters. Its name literally means 'breaker of latches'. It was the kind of sign that made the Icelandic staves feared as well as respected, promising a power over iron and bindings that no ordinary key could match.",
+    "description": "Lasabrjótur, the lock-breaker of the Huld manuscript, a stave said to open locks, fetters, and bonds. Its name literally means 'breaker of latches'. It was the kind of sign that made the Icelandic staves feared as well as respected, promising a power over iron and bindings that no ordinary key could match. In the collection of Geir Vigfússon, compiled at Akureyri in 1860, the stave is recorded with the simple instruction that it serves 'to open a lock without a key' — a task that in folk practice extended to releasing fetters, opening chests, and loosening binding magic laid on people or property. Users were cautioned to draw the sign with care, since a stave aimed at another's lock was itself a threat.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Huld manuscript (Lbs 4626 8vo, 1860)",
@@ -1786,7 +1804,7 @@
       "huld manuscript"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "varnarstafur-valdemars-0223",
@@ -1805,7 +1823,7 @@
     "maker": "Icelandic grimoire tradition",
     "powers": "Protects the bearer against enemies and their magic.",
     "associated_creature": null,
-    "description": "Varnarstafur Valdemars, 'Valdemar's protection stave', one of the most popular defensive signs of the Huld manuscript, drawn against enemies and ill-wishers. Its name is attached to a legendary king, and in the folk tradition it was carved on shields, doorways, and tools, carried wherever a person went armed or unarmed against harm.",
+    "description": "Varnarstafur Valdemars, 'Valdemar's protection stave', one of the most popular defensive signs of the Huld manuscript, drawn against enemies and ill-wishers. Its name is attached to a legendary king, and in the folk tradition it was carved on shields, doorways, and tools, carried wherever a person went armed or unarmed against harm. The Museum of Icelandic Sorcery at Holmavík describes the stave as one that 'increases favour and happiness', and when evil was feared it could be laid out inside a hen-egg membrane with plaice gut and worn in the hat. The stave's work blended practical protection with the hope of a welcome reception, making it one of the most frequently reproduced of all the galdrastafir.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Huld manuscript (Lbs 4626 8vo, 1860)",
@@ -1826,7 +1844,7 @@
       "huld manuscript"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "lukkustafir-0224",
@@ -1845,7 +1863,7 @@
     "maker": "Icelandic grimoire tradition",
     "powers": "A set of ten signs each drawn for good fortune in a different undertaking.",
     "associated_creature": null,
-    "description": "Lukkustafir, the luck staves of the Huld manuscript, a set of ten separate signs each drawn for good fortune in a different undertaking. The grimoire gives them as a family of practical charms for games, trade, travel, and daily life. They remain among the most reproduced of the Icelandic staves, second only to Vegvísir and Ægishjálmr in modern popularity.",
+    "description": "Lukkustafir, the luck staves of the Huld manuscript, a set of ten separate signs each drawn for good fortune in a different undertaking. The grimoire gives them as a family of practical charms for games, trade, travel, and daily life, so that the luck seeker could choose the sign that matched the task. They remain among the most reproduced of the Icelandic staves, second only to Vegvísir and Ægishjálmr in modern popularity. Unlike the aggressive defensive staves, the luck signs were turned to peaceful aims — winning at play, closing a bargain, finding a safe road — and were usually drawn on paper or wood and carried about the person. Because each of the ten signs answered a separate need, the family survives as a record of the everyday concerns that Icelandic folk magic was asked to serve.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Huld manuscript (Lbs 4626 8vo, 1860)",
@@ -1867,7 +1885,7 @@
       "huld manuscript"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "rosahjalmur-0225",
@@ -1886,7 +1904,7 @@
     "maker": "Icelandic grimoire tradition",
     "powers": "Protects the bearer so that no harm can come to them while it is worn.",
     "associated_creature": null,
-    "description": "Rósahjálmur, the rose-helmet of the Huld manuscript, a protection stave said to make the bearer safe from any harm so long as it was worn. Its name suggests a floral or Christian-influenced design unlike the angular battle staves. It is one of the more intricate of the defensive galdrastafir recorded in the grimoires.",
+    "description": "Rósahjálmur, the rose-helmet of the Huld manuscript, a protection stave said to make the bearer safe from any harm so long as it was worn. Its name suggests a floral or Christian-influenced design unlike the angular battle staves. It is one of the more intricate of the defensive galdrastafir recorded in the grimoires. The stave's effect was tied to the act of wearing: carried on the body, it was trusted to turn aside weapons, sickness, and hostile magic alike, and its round, blossom-like lines were sometimes read as an emblem of the Virgin's protection. Such helmet-staves belong to a wider family of defensive signs whose power lay in making the bearer untouchable rather than in striking back.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Huld manuscript (Lbs 4626 8vo, 1860)",
@@ -1908,7 +1926,7 @@
       "huld manuscript"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "galdrastafir-0226",
@@ -1927,7 +1945,7 @@
     "maker": "Icelandic grimoire tradition",
     "powers": "A family of sigils drawn for protection, luck, healing, or harm, each with a specific aim.",
     "associated_creature": null,
-    "description": "Galdrastafir, the collective name for the magical staves of Icelandic folk tradition, drawn from the 17th century onward in grimoires such as the Huld manuscript. Each stave mixes rune-like strokes into a sigil for a single aim — protection, luck, healing, or harm. They form the best-documented stave-magic corpus in Europe, though many survive without clear instructions for use.",
+    "description": "Galdrastafir, the collective name for the magical staves of Icelandic folk tradition, drawn from the 17th century onward in grimoires such as the Huld manuscript. Each stave mixes rune-like strokes into a sigil for a single aim — protection, luck, healing, or harm. They form the best-documented stave-magic corpus in Europe, though many survive without clear instructions for use. The signs descend from medieval rune practice, but they were amplified into dense, staff-like figures that could be carved on wood, cut into horn or bone, or drawn on paper and skin. Manuscripts like the Huld collection of 1860 preserve dozens of them, from the famous Vegvísir and Ægishjálmr to obscure personal signs, and their modern revival has made them symbols of Icelandic heritage as much as instruments of folk magic.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Icelandic galdrabækur; Huld manuscript (Lbs 4626 8vo, 1860)",
@@ -1950,7 +1968,7 @@
       "stave magic"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "the-nid-stang-0227",
@@ -1970,7 +1988,7 @@
     "maker": "Raised by the aggrieved, most famously Egil Skallagrímsson",
     "powers": "A pole set against an enemy to bring ruin, exile, or the disfavour of the land-spirits.",
     "associated_creature": null,
-    "description": "Níðstöng, the scorn pole of the sagas, most famously raised by Egil Skallagrímsson against King Eiríkr Bloodaxe and Queen Gunnhild. Egil set a hazel pole topped with a carved horse head, turned toward the mainland, and invoked the land-spirits to drive the royal pair from Norway. The pole was a curse made visible, meant to bring ruin and exile upon its target.",
+    "description": "Níðstöng, the scorn pole of the sagas, most famously raised by Egil Skallagrímsson against King Eiríkr Bloodaxe and Queen Gunnhild. Egil set a hazel pole topped with a carved horse head, turned toward the mainland, and invoked the land-spirits to drive the royal pair from Norway. The pole was a curse made visible, meant to bring ruin and exile upon its target. The word níð carries the sense of insult and dishonour, and the pole formalised that insult as a public act of magic. By fixing a horse's skull on the stake and carving runes, the raiser handed the curse over to the land-spirits (landvættir), whose good will was thought necessary to those dwelling in the land, so that once driven out the cursed could not easily return. Later sagas record similar poles raised in feuds, making the níðstöng a recognised instrument of Norse legal-magical pressure.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Egils saga Skallagrímssonar",
@@ -1993,7 +2011,7 @@
       "horse head pole"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "seidr-staff-0228",
@@ -2013,9 +2031,13 @@
     "maker": "Unnamed",
     "powers": "The badge of the völva's office, used in the working of seidr and prophecy.",
     "associated_creature": null,
-    "description": "The staff of the seeress or völva, who in saga accounts carried a knobbed staff as the badge of her office. Eiríks saga rauða describes the seeress Þorbjörg with a staff topped with a brass knob as she worked her seidr. Iron rods found in Viking-age female graves may be such staffs, though the identification is debated by archaeologists.",
-    "related_creatures": [],
-    "featured_in_stories": [],
+    "description": "The staff of the seeress or völva, who in saga accounts carried a knobbed staff as the badge of her office. Eiríks saga rauða describes the seeress Þorbjörg with a staff topped with a brass knob as she worked her seidr. Iron rods found in Viking-age female graves may be such staffs, though the identification is debated by archaeologists. The staff was more than a tool: it was the visible sign of the woman who could chant the seidr, see the future, and speak with the dead. In Eiríks saga the staff of the visiting völva is described in detail, and its metal knob allowed it to be placed upright in the ground during the ritual. Tales of the völva's prophecy — as when a seeress was summoned to a chieftain's court to chant the fate of the land — keep the staff's image alive in later Icelandic story.",
+    "related_creatures": [
+      "vlva-iceland"
+    ],
+    "featured_in_stories": [
+      "the-tale-of-the-vlva"
+    ],
     "source": "Eiríks saga rauða; archaeological debate",
     "source_type": "literary",
     "source_quality": "documented",
@@ -2035,7 +2057,7 @@
       "eiriks saga rauða"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "the-kettle-of-hymir-0229",
@@ -2054,7 +2076,7 @@
     "maker": "Unnamed (property of the giant Hymir)",
     "powers": "Deep enough to brew ale for all the gods at a single feast.",
     "associated_creature": null,
-    "description": "The great cauldron of the giant Hymir, fetched by Thor and Týr so that the gods could brew ale enough for a feast. Hymiskviða says it was a mile deep; when Hymir refused to give it up, Thor took the kettle and carried it away. The same visit produced the god's famous fishing for the Midgard serpent Jörmungandr.",
+    "description": "The great cauldron of the giant Hymir, fetched by Thor and Týr so that the gods could brew ale enough for a feast. Hymiskviða says it was a mile deep; when Hymir refused to give it up, Thor took the kettle and carried it away. The same visit produced the god's famous fishing for the Midgard serpent Jörmungandr. The poem is one of the most comic of the Eddic tales: Thor eats a pair of oxen at the giant's table, breaks Hymir's cups by shattering them against a stone pillar, and finally lifts the great kettle from its post and walks off with it. In Snorri's retelling the story explains why Thor is expected to supply a cauldron for the gods' feasts, and the mile-deep kettle became a byword for the impossible scale of the giants' household goods.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Poetic Edda (Hymiskviða)",
@@ -2077,7 +2099,7 @@
       "ale kettle"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "valaskjalf-0230",
@@ -2096,7 +2118,7 @@
     "maker": "Built by the gods",
     "powers": "Houses Hliðskjálf, the high seat from which Odin sees across all worlds.",
     "associated_creature": null,
-    "description": "Valaskjálf, the silver-roofed hall of Odin described in Grímnismál, one of the god's dwellings raised by the gods themselves. Within it stands Hliðskjálf, the far-seeing high seat from which Odin can watch all the worlds. The hall is thus the setting for the All-Father's watchfulness and a model for later accounts of his court.",
+    "description": "Valaskjálf, the silver-roofed hall of Odin described in Grímnismál, one of the god's dwellings raised by the gods themselves. Within it stands Hliðskjálf, the far-seeing high seat from which Odin can watch all the worlds. The hall is thus the setting for the All-Father's watchfulness and a model for later accounts of his court. Snorri places the hall among Odin's greatest houses, roofed with silver and crowned by the seat that gave the god knowledge of everything that happens among gods, elves, men, and the dead. From Hliðskjálf Odin watched the journeys of his champions and the movements of his enemies, and it was from that seat that he could perceive all that was hidden. The name is sometimes glossed as the hall 'of the chosen', and it stands beside Valhöll as one of the two great royal halls of the one-eyed god.",
     "related_creatures": [
       "odin-iceland",
       "odin-norway"
@@ -2121,7 +2143,7 @@
       "grimnismal"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "valhalla-0231",
@@ -2140,12 +2162,14 @@
     "maker": "Odin's hall in Glaðsheimr",
     "powers": "Home of the Einherjar, the warriors who died bravely and fight and feast again each day.",
     "associated_creature": null,
-    "description": "Valhöll, 'the hall of the slain', Odin's great hall where the Einherjar — warriors who died bravely in battle — fight each day and feast each night. Gylfaginning describes a hall of 540 doors, so vast that armies could pass through each. Its roof is said to be made of shields and spears, and Odin's wolves and ravens share the hall with the fallen.",
+    "description": "Valhöll, 'the hall of the slain', Odin's great hall where the Einherjar — warriors who died bravely in battle — fight each day and feast each night. Gylfaginning describes a hall of 540 doors, so vast that armies could pass through each. Its roof is said to be made of shields and spears, and Odin's wolves and ravens share the hall with the fallen. The warriors chosen by the valkyries from the battlefields were carried to the hall to train for the last battle at Ragnarök, when Odin would lead the Einherjar out against the wolf Fenrir and the hosts of chaos. At dawn they fought and at dusk they rose whole again to eat of the boar Sæhrímnir and drink mead, while the goddess Freyja took half the fallen to her own hall, Fólkvangr. In retellings of the end of the world, Valhalla is the gathering place where the dead heroes arm themselves for the doom of the gods.",
     "related_creatures": [
       "odin-iceland",
       "odin-norway"
     ],
-    "featured_in_stories": [],
+    "featured_in_stories": [
+      "ragnark-the-end-and-rebirth"
+    ],
     "source": "Prose Edda (Gylfaginning); Grímnismál",
     "source_type": "literary",
     "source_quality": "expert",
@@ -2166,7 +2190,7 @@
       "gladsheimr"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "the-well-of-urd-0232",
@@ -2186,8 +2210,11 @@
     "maker": "Unnamed",
     "powers": "The well of fate from which the Norns shape the destinies of all beings.",
     "associated_creature": null,
-    "description": "Urðarbrunnr, the well of fate that lies beneath the root of the world tree Yggdrasil, beside which the three Norns dwell and shape the fates of men. The gods hold their council there, and swans swim in the well. Each day the Norns water the tree with its clay-white water and dew so that it never withers, making the well the source of all destiny in Norse myth.",
-    "related_creatures": [],
+    "description": "Urðarbrunnr, the well of fate that lies beneath a root of the world tree Yggdrasil, beside which the three Norns dwell and shape the fates of men. The gods hold their council there, and swans swim in the well. Each day the Norns water the tree with its clay-white water and dew so that it never withers, making the well the source of all destiny in Norse myth. The well takes its name from Urðr, the eldest Norn, whose sisters Verðandi and Skuld spin and cut the threads of every life. Beneath other roots of the ash lie Mímir's well of wisdom and the spring Hvergelmir, so that the tree is nourished by the waters of fate, memory, and chaos at once. The daily watering — pouring the holy water and the clay over the ash — is the act that keeps the world tree alive, and the swans upon the well are the ancestors of all the swans in the world.",
+    "related_creatures": [
+      "norns-iceland",
+      "yggdrasil"
+    ],
     "featured_in_stories": [],
     "source": "Prose Edda (Gylfaginning); Völuspá",
     "source_type": "literary",
@@ -2209,7 +2236,7 @@
       "wyrd"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "the-golden-apples-0233",
@@ -2228,7 +2255,7 @@
     "maker": "Kept by the goddess Iðunn",
     "powers": "Keep the gods from ageing; without them the gods grey and weaken.",
     "associated_creature": null,
-    "description": "The golden apples of Iðunn, which the gods must eat to keep from growing old. When the giant Þjazi tricked Loki into luring Iðunn out of Asgard, the gods aged and greyed, until Loki stole her back in falcon shape, carrying her and her apples from the giant's stronghold. The apples are a life-giving treasure whose loss threatens the whole pantheon.",
+    "description": "The golden apples of Iðunn, which the gods must eat to keep from growing old. When the giant Þjazi tricked Loki into luring Iðunn out of Asgard, the gods aged and greyed, until Loki stole her back in falcon shape, carrying her and her apples from the giant's stronghold. The apples are a life-giving treasure whose loss threatens the whole pantheon. Snorri records the tale in Skáldskaparmál: Iðunn kept the apples in a casket, and without them the gods began to wither, so that the ageing assembly pressed Loki to restore her. Returning in falcon form, Loki snatched the goddess up and flew for Asgard, and the eagle-shaped Þjazi pursued until the gods kindled a fire that burned his wings. The story ties Iðunn's name to eternal youth and explains why the gods were so jealous of her keeping.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Prose Edda (Skáldskaparmál)",
@@ -2250,7 +2277,7 @@
       "thjazi"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "the-sun-chariot-0234",
@@ -2269,9 +2296,11 @@
     "maker": "Unnamed",
     "powers": "Carries the sun across the sky until the wolf Sköll swallows it at Ragnarök.",
     "associated_creature": null,
-    "description": "The chariot of Sól, the sun goddess, drawn across the sky by the horses Arvakr and Alsvinn, with the shield Svalinn before them to temper the light. The wolves Sköll and Hati hunt the sun and moon, and at Ragnarök Sköll will at last swallow the sun. The chariot is described in Grímnismál and Gylfaginning.",
+    "description": "The chariot of Sól, the sun goddess, drawn across the sky by the horses Arvakr and Alsvinn, with the shield Svalinn before them to temper the light. The wolves Sköll and Hati hunt the sun and moon, and at Ragnarök Sköll will at last swallow the sun. The chariot is described in Grímnismál and Gylfaginning. The horses are harnessed beneath the shield Svalinn, 'the cooling one', which keeps the earth from being burnt, and their manes are cooled by wind. Sól is sister to the moon-charioteer Máni, and both are doomed to be caught by the pursuing wolves; in the Eddic telling the sun grew pale as the end of the world neared, a sign of the long twilight to come. In retellings of Ragnarök the sun goes dark when Sköll finally seizes it, and the world plunges into the three winters without a summer.",
     "related_creatures": [],
-    "featured_in_stories": [],
+    "featured_in_stories": [
+      "ragnark-the-end-and-rebirth"
+    ],
     "source": "Poetic Edda (Grímnismál); Prose Edda (Gylfaginning)",
     "source_type": "literary",
     "source_quality": "expert",
@@ -2292,7 +2321,7 @@
       "svalinn"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "mistletoe-spear-0235",
@@ -2312,9 +2341,11 @@
     "maker": "Fashioned by Loki",
     "powers": "The only thing that could kill Baldr, who had sworn protection against all other things.",
     "associated_creature": null,
-    "description": "The mistletoe shaft with which the blind god Höðr, guided by Loki, slew Baldr the beloved. Only the mistletoe had not sworn to spare him, and Loki fetched it, fashioned it into a dart, and guided Höðr's hand. The killing of Baldr by the mistletoe spear set the doom of the gods in motion and stands at the centre of the Eddic tragedy.",
+    "description": "The mistletoe shaft with which the blind god Höðr, guided by Loki, slew Baldr the beloved. Only the mistletoe had not sworn to spare him, and Loki fetched it, fashioned it into a dart, and guided Höðr's hand. The killing of Baldr by the mistletoe spear set the doom of the gods in motion and stands at the centre of the Eddic tragedy. When Frigg had taken oaths from all things not to harm her son, she overlooked the young mistletoe as too small and weak to ask; Loki made the dart from that very plant and gave it to the blind god to throw in sport. Baldr fell dead, and the gods' attempts to restore him failed through Loki's malice, so that the death of the shining god became the first blow of Ragnarök. The mistletoe dart thus carries the whole weight of the myth: the small overlooked thing that brings down the beloved and unchains the end of the world.",
     "related_creatures": [],
-    "featured_in_stories": [],
+    "featured_in_stories": [
+      "ragnark-the-end-and-rebirth"
+    ],
     "source": "Prose Edda (Gylfaginning)",
     "source_type": "literary",
     "source_quality": "expert",
@@ -2334,7 +2365,7 @@
       "mistilteinn"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "grotte-mill-0301",
@@ -2354,10 +2385,11 @@
     "maker": "Unnamed; turned by the giantesses Fenja and Menja",
     "powers": "Grinds out gold, peace, and abundance for its owner; overgrinds to catastrophe.",
     "associated_creature": null,
-    "description": "The great hand-mill owned by King Fróði, which ground out gold, peace, and abundance. In the Eddic poem Grottasöngr the giantesses Fenja and Menja were forced to turn it until they raised an army; carried aboard a ship, the mill then ground salt until it sank, and so the sea became salt. The same wonder-mill lies at the heart of the Swedish folktale 'Why the Sea Is Salt'.",
+    "description": "The great hand-mill owned by King Fróði, which ground out gold, peace, and abundance. In the Eddic poem Grottasöngr the giantesses Fenja and Menja were forced to turn it until they raised an army; carried aboard a ship, the mill then ground salt until it sank, and so the sea became salt. The same wonder-mill lies at the heart of the Swedish folktale 'Why the Sea Is Salt'. The mill was named Grotti, and it had been quarried from a mountain together with two giant-women who alone had the strength to turn it; King Fróði kept them at the work night and day, and in their grinding song they at last ground out a war-host against him. Bought from a poor man and set to grind salt, the mill went on past the owner's command until the ship was overloaded and went down in the sea. Wonder-mills of the same kind appear again in Swedish tales, where a small hand-mill grinds out flour and salt for its lucky owner until it is stolen and lost to greed.",
     "related_creatures": [],
     "featured_in_stories": [
-      "why-the-sea-is-salt"
+      "why-the-sea-is-salt",
+      "the-rooster-the-hand-mill-and-the-swarm-of-hornets"
     ],
     "source": "Grottasöngr (Poetic Edda); Swedish folktale 'Why the Sea Is Salt'",
     "source_type": "literary",
@@ -2381,7 +2413,7 @@
       "why the sea is salt"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "codex-argenteus-0302",
@@ -2400,7 +2432,7 @@
     "maker": "Scribe working in the tradition of Wulfila's Bible",
     "powers": null,
     "associated_creature": null,
-    "description": "The Silver Bible, a sixth-century manuscript of Wulfila's Gothic Bible translation written in silver and gold ink on purple-dyed vellum, probably copied in northern Italy for the Ostrogothic court. Rediscovered at the monastery of Werden, it came to Sweden during the Thirty Years' War and is now kept at Uppsala University Library. It is the most substantial surviving text in the Gothic language.",
+    "description": "The Silver Bible, a sixth-century manuscript of Wulfila's Gothic Bible translation written in silver and gold ink on purple-dyed vellum, probably copied in northern Italy for the Ostrogothic court. Rediscovered at the monastery of Werden, it came to Sweden during the Thirty Years' War and is now kept at Uppsala University Library. It is the most substantial surviving text in the Gothic language. The manuscript is written in silver uncial script on leaves stained with purple dye, a colour reserved for imperial books, and only the gospel canon tables and a few headings are picked out in gold. Of its original two hundred or so leaves about 188 survive, making it the longest witness to the Gothic tongue, which was spoken by the East Germanic peoples into the Middle Ages. The codex has been studied, repaired, and reproduced again and again since its arrival in Sweden, and it remains a treasure of European cultural history.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "University Library of Uppsala (Carolina Rediviva)",
@@ -2424,7 +2456,7 @@
       "uppsala manuscript"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "primstav-0401",
@@ -2443,7 +2475,7 @@
     "era": "Medieval to early modern",
     "powers": "Marks the fixed and movable church feasts and the seasonal work days of the rural year.",
     "associated_creature": null,
-    "description": "A staff calendar of wood carved with notches, crosses, and figures marking the church feasts and farm year of Norway. Each primstav was tailored to its district and showed sowing, slaughter, the start of fishing, and the move up to the seter, runic signs mingling with Christian symbols. In use from the Middle Ages into the 19th century, it remains a symbol of Norwegian folk timekeeping.",
+    "description": "A staff calendar of wood carved with notches, crosses, and figures marking the church feasts and farm year of Norway. Each primstav was tailored to its district and showed sowing, slaughter, the start of fishing, and the move up to the seter, runic signs mingling with Christian symbols. In use from the Middle Ages into the 19th century, it remained a symbol of Norwegian folk timekeeping. The staff was read along its edges, with each day marked by a notch and the great feasts by carved symbols, such as an anchor for the day of the fisherman's patron or a sheaf for harvest time; a farmer could tell the season and its work at a glance. The primstav lived on after the calendar reforms that made it obsolete, kept in the house as a piece of the old order and a link to the church year it once governed.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Norwegian calendar-staff tradition; museum collections",
@@ -2465,7 +2497,7 @@
       "norwegian calendar stick"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "bukkehorn-0402",
@@ -2482,7 +2514,7 @@
     "material": "Hollowed goat or cow horn",
     "era": "Folk era",
     "associated_creature": null,
-    "description": "A natural folk horn cut from a hollowed goat or cow horn and sounded through a mouthpiece pierced in the side. Herders used it on the summer seter pastures and at festive gatherings, carrying loud calls and dance tunes across mountain valleys. The horns range from small finger-hole instruments to long curved signal horns, and survived into the 20th century in Norwegian oral folk music.",
+    "description": "A natural folk horn cut from a hollowed goat or cow horn and sounded through a mouthpiece pierced in the side. Herders used it on the summer seter pastures and at festive gatherings, carrying loud calls and dance tunes across mountain valleys. The horns range from small finger-hole instruments to long curved signal horns, and survived into the 20th century in Norwegian oral folk music. The bukkehorn's voice was part of the pastoral soundscape of the high pastures, heard alongside the kulokk and the shepherd's whistle, and each herder had his own way of making it carry. In the 20th century the instrument was revived in folk-music ensembles and is played again on the seter and in concerts, keeping the old mountain calls alive.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Norwegian folk-music tradition",
@@ -2504,7 +2536,7 @@
       "norwegian folk horn"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "nisselue-0403",
@@ -2521,7 +2553,7 @@
     "material": "Knitted red wool",
     "era": "Folk era",
     "associated_creature": null,
-    "description": "The pointed red wool cap worn by the nisse, the small household spirit of Norwegian farms and barns. The red cap became the nisse's signature in 19th-century folklore and illustration and is worn today as a Christmas hat. In Danish and Norwegian legend the underground folk are likewise described in red caps, as when an underjordisk man wearing a red nissehue runs after a farmer with a message.",
+    "description": "The pointed red wool cap worn by the nisse, the small household spirit of Norwegian farms and barns. The red cap became the nisse's signature in 19th-century folklore and illustration and is worn today as a Christmas hat. In Danish and Norwegian legend the underground folk are likewise described in red caps, as when an underjordisk man wearing a red nissehue runs after a farmer with a message. The nisselue is knitted in the round with a point, and museum collections, such as those of the Norsk Folkemuseum, hold folk caps of just this shape from the 19th century that give the spirit's headgear a real counterpart. The cap made the invisible household helper visible in art and fancy dress, and it remains the readiest sign of the Christmas nisse in the Nordic countries.",
     "related_creatures": [
       "nisse-norway"
     ],
@@ -2545,7 +2577,7 @@
       "red christmas cap"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "trollkors-0404",
@@ -2563,7 +2595,7 @@
     "era": "Folk era",
     "powers": "Keeps trolls and malevolent powers out of buildings and off objects.",
     "associated_creature": null,
-    "description": "A protective cross carved, cut, or forged onto a building, door, or object to stop trolls and harmful powers from harming people or livestock. Documented chiefly in Uppland, Sweden, with similar marks on Norwegian medieval buildings, the crosses were set over doorways and windows and on cookware and loaves of bread. A looped-iron amulet from Dalarna in the 1990s became a tourist talisman.",
+    "description": "A protective cross carved, cut, or forged onto a building, door, or object to stop trolls and harmful powers from harming people or livestock. Documented chiefly in Uppland, Sweden, with similar marks on Norwegian medieval buildings, the crosses were set over doorways and windows and on cookware and loaves of bread. A looped-iron amulet from Dalarna in the 1990s became a tourist talisman. The carved cross worked by turning the object or the doorway into a sign of the blessed, which the hidden folk could not cross, and it was cut into the wood of new buildings, over the cattle-stall, and on tools that passed through dangerous places. The name trollkors records the enemy it was set against, and the mark survives in folk art and modern craft long after the belief that shaped it.",
     "related_creatures": [
       "troll-norway"
     ],
@@ -2587,7 +2619,7 @@
       "iron amulet"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "stavkirke-0408",
@@ -2604,11 +2636,13 @@
     "material": "Timber with tarred exterior",
     "era": "Medieval (12th-14th century)",
     "associated_creature": null,
-    "description": "A medieval Norwegian timber church built on a post-and-plank frame, with steep shingled roofs, carved portals, and dragon-head finials. Around thirty stave churches survive of the more than a thousand once built, among them Borgund, Urnes, and Heddal. In folklore the churches mark where the old faith met the new, and legends tell of trolls turned to stone at the sound of their bells.",
+    "description": "A medieval Norwegian timber church built on a post-and-plank frame, with steep shingled roofs, carved portals, and dragon-head finials. Around thirty stave churches survive of the more than a thousand once built, among them Borgund, Urnes, and Heddal. In folklore the churches mark where the old faith met the new, and legends tell of trolls turned to stone at the sound of their bells. The post-and-beam construction, with the roof supported by tall staves inside the walls, lets the churches stand for centuries, and the carving that ornaments them, from the Urnes portal to the dragon gables, carries on the art of the pagan age under Christian roofs. The stave churches were built with tarred wood that blackened with age, and they remain the most distinctive monuments of Norwegian medieval building and the setting of countless tales of trolls, giants, and the church bells that held them at bay.",
     "related_creatures": [
       "troll-norway"
     ],
-    "featured_in_stories": [],
+    "featured_in_stories": [
+      "trolls-in-church"
+    ],
     "source": "Norwegian church archaeology and tradition",
     "source_type": "archaeological",
     "source_quality": "verified",
@@ -2627,7 +2661,7 @@
       "norwegian timber church"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "church-boat-norway-0409",
@@ -2644,7 +2678,7 @@
     "material": "Clinker-built pine or oak",
     "era": "Folk era (until early 20th century)",
     "associated_creature": null,
-    "description": "A long rowing boat shared by a whole parish to carry people to Sunday service, built clinker of pine or oak and owned jointly by several farms. Church boats rowed people across fjords and lakes until the early 1900s, carrying fifty or more parishioners at a time; surviving examples like the Rols from Stryn are kept and rowed again. Racing between parishes on the way home was part of the tradition.",
+    "description": "A long rowing boat shared by a whole parish to carry people to Sunday service, built clinker of pine or oak and owned jointly by several farms. Church boats rowed people across fjords and lakes until the early 1900s, carrying fifty or more parishioners at a time; surviving examples like the Rols from Stryn are kept and rowed again. Racing between parishes on the way home was part of the tradition. The kirkebåt was a true communal vessel, each farm holding a share and supplying rowers, and the boat itself served as the village's gathering place on the water as the crew sang and traded news on the long pull to church. When roads reached the fjord settlements the great boats were laid up, but many were preserved, and the old race-rowing has been revived as a summer sport along the Norwegian coast.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Norwegian boat tradition; museum collections",
@@ -2666,7 +2700,7 @@
       "rowing to church"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "trolls-gold-norway-0411",
@@ -2684,7 +2718,7 @@
     "era": "Folk era",
     "powers": "Gifts of troll gold bring luck when accepted with grace and ruin when taken greedily.",
     "associated_creature": null,
-    "description": "In Norwegian legend, gold the trolls leave or press on humans, coins, rings, and bracelets that seem to be treasure. Such gold is often said to turn to leaves, shavings, or stone at dawn unless the finder keeps silence or is grateful. The tales warn that grasping after troll treasure brings misfortune, while freely given treasure could bless a whole household.",
+    "description": "In Norwegian legend, gold the trolls leave or press on humans, coins, rings, and bracelets that seem to be treasure. Such gold is often said to turn to leaves, shavings, or stone at dawn unless the finder keeps silence or is grateful. The tales warn that grasping after troll treasure brings misfortune, while freely given treasure could bless a whole household. The troll gold follows the same rule as every gift of the hidden folk: it is real only to the one who takes it without greed and keeps the secret, and it mocks the covetous by turning worthless in the hand. Farmers who found a ring or a coin on the mountain road knew better than to boast of it, and families that accepted a troll's gift in the right spirit kept their luck through generations. The motif runs through Norwegian sagn collections as a warning against the desire for easy wealth.",
     "related_creatures": [
       "troll-norway"
     ],
@@ -2708,7 +2742,7 @@
       "huldre gold"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "kubbestol-0417",
@@ -2724,7 +2758,7 @@
     "material": "Carved from a single log",
     "era": "Folk era",
     "associated_creature": null,
-    "description": "A Norwegian chair hollowed from a single upright log, with seat, back, and arms carved from the same piece of wood, often decorated with chip-carving and floral patterns. Kubbestol chairs stood in farmhouses as the seat of honor and were even used as the bridal chair at weddings. They show the woodcarver's art also seen in stave church portals and seter crafts.",
+    "description": "A Norwegian chair hollowed from a single upright log, with seat, back, and arms carved from the same piece of wood, often decorated with chip-carving and floral patterns. Kubbestol chairs stood in farmhouses as the seat of honor and were even used as the bridal chair at weddings. They show the woodcarver's art also seen in stave church portals and seter crafts. The chair is made from the trunk of a thick pine or birch, the heart cut out to form the seat while the bark and the shape of the log keep the outer form, and the arms grow out of the same block so that the whole chair is one piece of wood. The carving, with its roses, leaves, and interlaced bands, made each chair a signed work of its maker, and a well-carved kubbestol was handed down in the family for generations. It is the most famous piece of Norwegian folk furniture and a showpiece of the old carving tradition.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Norwegian folk furniture; museum collections",
@@ -2745,7 +2779,7 @@
       "norwegian log chair"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "bunad-0418",
@@ -2761,7 +2795,7 @@
     "material": "Wool and linen with silver brooches",
     "era": "Folk era to present",
     "associated_creature": null,
-    "description": "The festive national costume of Norway, sewn from wool in patterns that vary by district, with embroidery, silver brooches, and distinct headwear. Modern bunads grew out of the folk dress of the 18th and 19th centuries and were revived and standardized in the 20th as a symbol of national identity. Hundreds of regional variants are worn at holidays, weddings, and Constitution Day.",
+    "description": "The festive national costume of Norway, sewn from wool in patterns that vary by district, with embroidery, silver brooches, and distinct headwear. Modern bunads grew out of the folk dress of the 18th and 19th centuries and were revived and standardized in the 20th as a symbol of national identity. Hundreds of regional variants are worn at holidays, weddings, and Constitution Day. Each bunad is made to a pattern from a particular valley or town, with the cut of the skirt, the colour of the cloth, and the shape of the headdress marking the wearer's district, and the silver brooches and buckles, often inherited, carry the family's history. The revival was led by folk-costume societies and the Husflid movement, which researched old garments and codified the modern forms. The bunad is worn with pride across Norway and is a living record of regional dress made national.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Norwegian costume tradition",
@@ -2782,7 +2816,7 @@
       "folk dress norway"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "urnes-stave-church-0419",
@@ -2798,7 +2832,7 @@
     "material": "Timber with carved portal",
     "era": "c. 1130",
     "associated_creature": null,
-    "description": "The oldest of Norway's surviving stave churches, standing at Urnes on the Sognefjord and dated to around 1130. Its carved west portal shows the Urnes style of interlaced beasts and snakes, a Viking-age ornament the church kept even as it was rebuilt in the mid-12th century. The building is a UNESCO World Heritage site and a key link between pagan Norse animal art and Christian church building.",
+    "description": "The oldest of Norway's surviving stave churches, standing at Urnes on the eastern shore of the Sognefjord and dated to around 1130. Its carved west portal, worked in the so-called Urnes style of interlaced beasts, serpents, and slender climbing vines, carries on Viking-age animal ornament even as the timber church above it was rebuilt in the mid-12th century. The stylized lion battling the serpent on the portal is often read as a Christian image of Christ overcoming evil. The building is a UNESCO World Heritage site and a key link between pagan Norse animal art and the architecture of the medieval church, and the portal's carvings are among the most studied images in Scandinavian medieval art.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Standing monument, Urnes, Sogn",
@@ -2819,7 +2853,7 @@
       "urnes portal"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "borgund-stave-church-0420",
@@ -2835,7 +2869,7 @@
     "material": "Timber",
     "era": "c. 1180",
     "associated_creature": null,
-    "description": "The best-preserved of Norway's stave churches, built around 1180 in Borgund, Sogn. Its stacked tiers of steep roofs, dragon-head finials, and carved portals are the classic image of the stave church, and the interior keeps medieval altar furniture and runic graffiti. Because it was never drastically rebuilt, its timber frame and tarred shingles survive almost untouched.",
+    "description": "The best-preserved of Norway's stave churches, built around 1180 at Borgund in Sogn and never drastically altered since. Its stacked tiers of steep gabled roofs, four carved dragon-head finials, and decorated west portal are the classic image of the stave church, and the interior keeps medieval furnishings, runic graffiti cut by medieval visitors, and one of the oldest surviving altars in Norway. The building stands today much as its builders left it, its timber frame and tarred shingles intact, and it has served as the model for church designs and for the stave-church revival of the 19th century. It is owned by the Society for the Preservation of Norwegian Ancient Monuments.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Standing monument, Borgund, Sogn",
@@ -2855,7 +2889,7 @@
       "borgund church"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "stabbur-0422",
@@ -2871,7 +2905,7 @@
     "material": "Timber raised on stone or wooden pillars",
     "era": "Folk era",
     "associated_creature": null,
-    "description": "The Norwegian timber storehouse raised off the ground on wooden posts or stones to keep food and valuables safe from damp and vermin. Stabburs held grain, meat, wool, and heirlooms, and the loft door was reached by an outside stair. Protection mattered in folk belief as much as locks, and protective marks were sometimes cut into doorways, as surviving forest-finn barns show.",
+    "description": "The Norwegian timber storehouse raised off the ground on wooden posts or flat stones to keep food, grain, wool, and heirlooms safe from damp and vermin. A flight of outside steps led to the door of the upper loft, and the space beneath was often roofed as a porch where tools and barrels were kept. Protective marks were sometimes carved or painted on the doorways, for folk belief guarded the larder as carefully as any lock, and the nisse of the farm was said to keep watch over the grain in the loft. The stabbur remained the standard farm building of Norway through the 19th century and is still raised on some farms today.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Norwegian building tradition; Riksantikvaren records",
@@ -2892,7 +2926,7 @@
       "loft"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "neverlur-0424",
@@ -2909,7 +2943,7 @@
     "material": "Birch wood bound with birch-root lashing",
     "era": "Folk era",
     "associated_creature": null,
-    "description": "A long natural trumpet of birch wood, split, hollowed, and bound with birch-root lashing into a flared conical tube. Herders on Norwegian mountain pastures blew the neverlur to call the flocks and carry signals across valleys, and its deep note could be heard for miles; simple versions with finger holes played melodies. The instrument was revived in the 20th century by folk musicians.",
+    "description": "A long natural trumpet of birch wood, split in two, hollowed out, and bound together with birch-root lashing or bark to form a flared conical tube. Herders in the Norwegian mountain pastures blew the neverlur to call the flocks and to signal across valleys, and its deep, carrying note could be heard for miles; shorter versions with finger holes could play melodies. The instrument fell out of common use with the decline of the old seter dairying life but was revived in the 20th century by folk musicians and folk-music scholars. It is related to the similar bark-wound horns of Scandinavia, such as the Finnish liru and the Swedish birch trumpet.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Norwegian folk-music tradition",
@@ -2931,7 +2965,7 @@
       "seter horn"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "trolls-cast-stones-norway-0425",
@@ -2948,7 +2982,7 @@
     "era": "Folk era",
     "powers": "Boulders said to have been hurled by trolls in anger or dropped in flight.",
     "associated_creature": null,
-    "description": "Large scattered boulders that Norwegian legend says trolls hurled in anger, or dropped while fleeing from the sound of church bells. Almost every valley names its stray blocks, the stones of this or that troll woman, and many show the supposed imprint of a giant hand or heel. Geologists read the same boulders as glacial erratics, and the two explanations coexisted for centuries.",
+    "description": "Large scattered boulders that Norwegian legend says trolls hurled in anger, or dropped while fleeing from the sound of church bells at dawn. Almost every valley names its stray blocks, and many show the supposed imprint of a giant hand, heel, or thumb; the same stones also mark the ends of the old paths the trolls were said to follow. Geologists read the boulders as glacial erratics carried by ice thousands of years ago, yet the trolls' version and the geologists' explanation long coexisted in popular speech. The names linger on maps, and the stones still anchor place-lore from Telemark to the far north.",
     "related_creatures": [
       "troll-norway"
     ],
@@ -2971,7 +3005,7 @@
       "hurled boulders"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "solje-0427",
@@ -2988,7 +3022,7 @@
     "material": "Silver",
     "era": "Folk era (18th-19th century)",
     "associated_creature": null,
-    "description": "A Norwegian silver brooch worn at the throat, made of a central disc with dangling pendants and fine wirework. Søljer were the most important piece of a woman's festive dress, passed down in families, and often given as betrothal gifts. Regional workshops shaped local variants, and the brooch remains part of the bunad worn at weddings and on Constitution Day.",
+    "description": "A Norwegian silver brooch worn at the throat, made of a central disc or crescent with dangling pendants, fine wirework, and sometimes small spoons or drops of silver. Soljer were the most important piece of a woman's festive dress, passed down through families, and often given as betrothal or christening gifts; a bride might wear several at once on her finest bunad. Regional workshops developed their own local shapes, and the brooch is still made today. It remains a standard part of the bunad worn at weddings, confirmations, and on Constitution Day, and old family soljer are counted among Norway's most treasured heirlooms.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Norwegian jewelry tradition; museum collections",
@@ -3010,7 +3044,7 @@
       "bunad silver"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "great-cat-of-dovrefjell-0428",
@@ -3027,7 +3061,7 @@
     "era": "Folk era",
     "powers": "Its presence terrifies trolls and drives them from the house.",
     "associated_creature": null,
-    "description": "The monstrous cat of the Norwegian folktale collected by Asbjørnsen and Moe, in which a traveller brings his cat to a Dovrefjell farm whose Christmas feast is ruined by trolls every year. When the trolls return, the cat seizes the troll wife and is taken for an enormous bear, and the trolls flee. Learning that the great cat still lives, they never come back.",
+    "description": "The monstrous cat of the Norwegian folktale collected by Asbjornsen and Moe, in which a traveller brings his cat to a Dovrefjell farm whose Christmas feast is ruined by trolls every year. When the trolls return, the cat seizes the troll wife in the dark and is taken for an enormous bear, and the trolls flee, calling home their warning that the great cat is still alive and the farm is lost to them. The tale is usually read as a story of a clever animal that turns the trolls' own fear against them. It is one of the best-known Norwegian troll tales and gave its name to the mountain farm setting of the story.",
     "related_creatures": [
       "troll-norway"
     ],
@@ -3052,7 +3086,7 @@
       "dovre cat"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "nisses-porridge-bowl-0429",
@@ -3070,11 +3104,13 @@
     "era": "Folk era to present",
     "powers": "A bowl of Christmas porridge set out to keep the nisse of the farm content.",
     "associated_creature": null,
-    "description": "The bowl of Christmas porridge set out on the farm each Christmas Eve to thank the nisse for his care of the household, cattle, and barn. In the best-known story the nisse hides in the rafters while the porridge is eaten, and his anger when he finds the butter scraped from the bottom teaches the lesson of gratitude. The custom of julegrøt is kept across Norway today, now also in city homes.",
+    "description": "The bowl of Christmas porridge set out on the farm each Christmas Eve to thank the nisse for his care of the household, cattle, and barn. In the best-known story the nisse hides in the rafters while the porridge is eaten, and his anger when he finds the butter scraped from the bottom teaches the lesson of gratitude; the tale of the nisse and the Christmas porridge tells the same custom from the nisse's side. The custom of julegrot is kept across Norway today, now also in city homes, and a bowl is often left on the doorstep or in the barn for the nisse of the house.",
     "related_creatures": [
       "nisse-norway"
     ],
-    "featured_in_stories": [],
+    "featured_in_stories": [
+      "the-nisse-and-the-christmas-porridge"
+    ],
     "source": "Norwegian folk custom; julegrøt tradition",
     "source_type": "oral_tradition",
     "source_quality": "documented",
@@ -3093,7 +3129,7 @@
       "christmas porridge nisse"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "the-lur-0433",
@@ -3110,7 +3146,7 @@
     "material": "Bronze",
     "era": "Bronze Age (c. 1200-700 BCE)",
     "associated_creature": null,
-    "description": "A long S-shaped horn of hammered bronze from the Nordic Bronze Age, cast with an ornamental disc at the mouth. More than fifty lurs survive from Denmark, found in peat bogs and hoards, including the Brudevælte lurs from Zealand. Their curved form and fine engraving make them the oldest preserved brass instruments in the world, likely sounded in cult and sacrifice.",
+    "description": "A long S-shaped horn of hammered bronze from the Nordic Bronze Age, cast with an ornamental disc at the mouth and decorated in fine raised bosses and engraving. More than fifty lurs survive, most from Denmark, found in peat bogs and hoards, including the famous Brudevaelte lurs from Zealand. Their curved form and fine workmanship make them among the oldest surviving brass instruments in the world, and they were likely sounded in cult and sacrifice, perhaps in pairs, as Bronze Age rock carvings suggest. The lur also gave its name to the later wooden folk horns of the region, though the two are quite different instruments.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Bronze Age bog finds, Denmark",
@@ -3132,7 +3168,7 @@
       "bronze horn"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "the-trundholm-sun-chariot-0434",
@@ -3149,7 +3185,7 @@
     "era": "Bronze Age (c. 1400 BCE)",
     "powers": "A cult object showing the sun drawn across the sky by a horse.",
     "associated_creature": null,
-    "description": "A Bronze Age cult figure found in the Trundholm bog on Zealand, Denmark, in 1902: a bronze horse pulling a gilded bronze disc, all mounted on a six-wheeled stand. It is read as the sun drawn across the sky on its daily journey, the oldest such sun-horse image in Nordic art. The chariot is now in the National Museum of Denmark and has become a national symbol.",
+    "description": "A Bronze Age cult figure found in the Trundholm bog on Zealand, Denmark, in 1902: a bronze horse pulling a large gilded bronze disc, all mounted on a six-wheeled stand. The disc is gilded on one side and plain bronze on the other, an image usually read as the sun drawn across the sky by day and returning beneath the earth by night. It is the oldest such sun-horse image in Nordic art and a central piece in the debate over Bronze Age sun worship. The chariot is now in the National Museum of Denmark and has become a national symbol, reproduced on coins and in popular culture.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Bronze Age bog find, Trundholm, Zealand (1902)",
@@ -3170,7 +3206,7 @@
       "trundholm"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "the-nydam-boat-0435",
@@ -3186,7 +3222,7 @@
     "material": "Oak",
     "era": "Iron Age (c. 320)",
     "associated_creature": null,
-    "description": "A clinker-built oak rowing boat, about 23 meters long, dug from the Nydam bog in southern Jutland in 1863 together with weapons sacrificed after battles. Built around 320 CE for a war fleet, it shows mature northern plank construction a thousand years before the Vikings. The Nydam boat is the oldest clinker-built boat preserved in Scandinavia and is displayed at Gottorp Castle in Schleswig.",
+    "description": "A clinker-built oak rowing boat, about 23 meters long, dug from the Nydam bog in southern Jutland in 1863 together with swords, spears, and shields offered after a battle. Built around 320 CE for a war fleet, it shows mature northern plank construction a thousand years before the Viking ships, with iron rivets and overlapping strakes. The boat was sacrificed in the bog together with weapons, a practice documented across the great bog finds of the region. It is the oldest clinker-built boat preserved in Scandinavia and is displayed at Gottorf Castle in Schleswig.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Bog find, Nydam, southern Jutland (1863)",
@@ -3207,7 +3243,7 @@
       "oak boat"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "amber-jewelry-0436",
@@ -3224,7 +3260,7 @@
     "material": "Baltic amber",
     "era": "Bronze Age to Viking Age",
     "associated_creature": null,
-    "description": "Necklaces, pendants, and beads of Baltic amber, the fossil resin thrown up on Danish shores, worn as adornment and as protection since the Stone Age. Danish Bronze Age graves hold hundreds of amber beads, and amber amulets were believed to guard against the evil eye and sickness. In the Baltic legend the sea-goddess Juratė's palace of amber broke apart and scattered the amber across the waves.",
+    "description": "Necklaces, pendants, and beads of Baltic amber, the fossil resin thrown up on Danish shores, worn as adornment and as protection since the Stone Age. Danish Bronze Age graves hold hundreds of amber beads, and amber amulets were believed to guard against the evil eye and sickness, while small amber figures of animals and tools were made for magic and trade. In the Baltic legend the sea-goddess Jurate's palace of amber broke apart, and the pieces scattered across the waves became the amber that still washes up on the beaches. The stone's warmth and light have given it a lasting place in charms for health and luck.",
     "related_creatures": [
       "perk-nas"
     ],
@@ -3250,7 +3286,7 @@
       "amber amulet"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "the-gundestrup-cauldron-0437",
@@ -3266,7 +3302,7 @@
     "material": "Silver",
     "era": "Iron Age (c. 150 BCE-1 CE)",
     "associated_creature": null,
-    "description": "A richly decorated silver cauldron found dismantled in a peat bog at Gundestrup in Himmerland, Jutland, in 1891. Its plates show gods, warriors, horned figures, and a great cauldron in which a figure is dipped, imagery with links to Celtic and Thracian art. It was probably made abroad and carried north, then offered to the bog as a sacrificial gift. It is kept in the National Museum of Denmark.",
+    "description": "A richly decorated silver cauldron found dismantled in a peat bog at Gundestrup in Himmerland, Jutland, in 1891. Its silver plates show gods, warriors, a horned figure holding a torc, and a great cauldron into which a figure is being lowered, imagery with strong links to Celtic and Thracian art. It was probably made in the southeast of Europe and carried north, then taken apart and offered to the bog as a sacrificial gift. The cauldron is kept in the National Museum of Denmark and is among the most famous objects of Iron Age Europe.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Bog find, Gundestrup, Himmerland (1891)",
@@ -3287,7 +3323,7 @@
       "gundestrup"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "the-hjortspring-boat-0442",
@@ -3303,7 +3339,7 @@
     "material": "Linden (lime) wood",
     "era": "Iron Age (c. 350 BCE)",
     "associated_creature": null,
-    "description": "A slender light war canoe of linden wood, about 18 meters long, dug from a bog on the island of Als, Denmark, in 1921 along with the shields and spears of a defeated army. Built around 350 BCE, it held perhaps twenty paddlers and was offered up after battle, likely a sacrifice of the enemy's arms. It is the oldest and finest of the Nordic war boats and rests in the National Museum of Denmark.",
+    "description": "A slender light war canoe of linden wood, about 18 meters long, dug from a bog on the island of Als, Denmark, in 1921 along with the shields, swords, and spears of a defeated army. Built around 350 BCE, it held perhaps twenty paddlers and was offered up after a battle, likely as a sacrifice of the enemy's arms. Its sewn and lashed plank construction shows a northern boat-building tradition far older than the Viking ships. It is the oldest and finest of the Nordic war boats and rests in the National Museum of Denmark.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Bog find, Hjortspring, Als (1921)",
@@ -3324,7 +3360,7 @@
       "war canoe"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "the-dejbjerg-wagon-0443",
@@ -3340,7 +3376,7 @@
     "material": "Oak with bronze fittings",
     "era": "Iron Age (c. 1st century BCE)",
     "associated_creature": null,
-    "description": "The frame of a Celtic-style ceremonial wagon found in the Dejbjerg bog in West Jutland, Denmark, in 1881. Its richly ornamented bronze fittings show Mediterranean-influenced art, and it was probably the wagon of a chieftain, used in procession and then sacrificed in the bog. The wagon is exhibited in the National Museum of Denmark and is among the finest Celtic imports found in Scandinavia.",
+    "description": "The frame of a Celtic-style ceremonial wagon found in the Dejbjerg bog in West Jutland, Denmark, in 1881. Its richly ornamented bronze fittings, with scrolls and masks in a Mediterranean-influenced style, were long thought to be imports, and the wagon was probably the property of a chieftain, used in procession and then taken apart and sacrificed in the bog. Recent study suggests the fittings may be local Norse work following Celtic models. The wagon is exhibited in the National Museum of Denmark and is among the finest Iron Age vehicles found in Scandinavia.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Bog find, Dejbjerg, Ringkøbing (1881)",
@@ -3361,7 +3397,7 @@
       "celtic wagon"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "the-roskilde-ships-0444",
@@ -3377,7 +3413,7 @@
     "material": "Oak and pine",
     "era": "Viking Age (c. 1030-1060)",
     "associated_creature": null,
-    "description": "Five Viking-age ships raised in 1962 from the mouth of Roskilde Fjord, where they had been scuttled to block the channel. The fleet holds a deep-sea cargo knarr, a Baltic trader, and two long warships, showing the whole range of Viking shipbuilding. They are displayed in the Viking Ship Museum at Roskilde, where the longship Skuldelev 2 was rebuilt at full scale.",
+    "description": "Five Viking-age ships raised in 1962 from the mouth of Roskilde Fjord, where they had been scuttled in the 11th century to block the channel against raiders. The fleet holds a deep-sea cargo knarr, a Baltic trader, a small coastal boat, and two long warships, showing the whole range of Viking shipbuilding. They are displayed in the Viking Ship Museum at Roskilde, where the longship Skuldelev 2 has been rebuilt at full scale and sailed. The find is a key witness to how ships were built, sailed, and deliberately sunk in the late Viking age.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Underwater excavation, Skuldelev, Roskilde Fjord (1962)",
@@ -3398,6 +3434,6 @@
       "skuldelev"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   }
 ]

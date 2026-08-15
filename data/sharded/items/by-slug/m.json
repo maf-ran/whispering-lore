@@ -16,11 +16,13 @@
     "maker": "Brokkr and Sindri (dwarves)",
     "powers": "Summons thunder and lightning; returns to the thrower's hand; hallows weddings and funerals.",
     "associated_creature": null,
-    "description": "The mighty hammer of Thor, forged by the dwarven brothers Brokkr and Sindri as the prize of a wager Loki made on his own head. The hammer's handle came out short because Loki, in fly form, bit the dwarf's hand while he worked the bellows. Mjölnir could shatter mountains, was thrown like a boomerang, and also served to consecrate marriages, births, and funerals. Thor's iron gloves Járngreipr are needed to grip its scorching shaft.",
+    "description": "Mjölnir, 'the grinder', is the war-hammer of the thunder god Thor, forged by the dwarven brothers Brokkr and Sindri as the prize of a wager Loki placed on his own head. Because Loki, in the shape of a fly, bit the smith's hand while he worked the bellows, the hammer's handle came out too short — which is why Thor wields it with one hand. The Prose Edda counts it among the god's three great treasures, beside the belt Megingjörð and the iron gloves Járngreipr; its head is sometimes said to be iron and the shaft wooden, and the hammer returns to the thrower's hand like a boomerang after striking. Beyond battle it hallows marriages, births, funerals, ships, and fields, and it will be the weapon with which Thor fells Jörmungandr at Ragnarök. Small iron and silver hammer pendants of the Viking Age, such as the figure from Eyrarland, are widely read as images of Mjölnir worn for protection. It remains the most recognised symbol of Norse paganism and is still used as a badge of identity in modern heathen communities.",
     "related_creatures": [
       "dwarf-dvergr"
     ],
-    "featured_in_stories": [],
+    "featured_in_stories": [
+      "ragnark-the-end-and-rebirth"
+    ],
     "source": "Prose Edda (Skáldskaparmál)",
     "source_type": "literary",
     "source_quality": "expert",
@@ -41,7 +43,7 @@
       "sindri"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "megingjord-0109",
@@ -60,7 +62,7 @@
     "maker": "Unnamed (dwarven work implied)",
     "powers": "Doubles the god's already godlike strength.",
     "associated_creature": null,
-    "description": "The belt of the thunder god Thor which, when he girds it on, doubles his strength. It is named in the Prose Edda alongside his iron gloves Járngreipr as one of the three great possessions of Thor, the third being the hammer Mjölnir. Without it Thor is still mighty; with it, nothing among the giants can stand against him.",
+    "description": "Megingjörð, the 'might-girdle', is the belt of the thunder god Thor, and the Prose Edda names it as one of his three great treasures together with the hammer Mjölnir and the iron gloves Járngreipr. When Thor girds the belt about his waist his already godlike strength is doubled, so that no giant can stand against him in the wrestling-matches and battle-tales of the Eddas. In the tale of Thor's journey to the giant Geirröðr, the giantess Gríðr lends the god a similar belt of might along with her staff, showing that such power-girdles were a fixed part of the mythic image of the thunder god. The belt is sometimes said to be made of leather with a heavy buckle, though the sources give no detailed description of its form. Megingjörð survives in modern retellings as the standard third element of Thor's arsenal, and its name is a stock kenning-adjacent byword for supernatural strength.",
     "related_creatures": [
       "dwarf-dvergr"
     ],
@@ -82,7 +84,7 @@
       "belt of strength"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "mistletoe-spear-0235",
@@ -102,9 +104,11 @@
     "maker": "Fashioned by Loki",
     "powers": "The only thing that could kill Baldr, who had sworn protection against all other things.",
     "associated_creature": null,
-    "description": "The mistletoe shaft with which the blind god Höðr, guided by Loki, slew Baldr the beloved. Only the mistletoe had not sworn to spare him, and Loki fetched it, fashioned it into a dart, and guided Höðr's hand. The killing of Baldr by the mistletoe spear set the doom of the gods in motion and stands at the centre of the Eddic tragedy.",
+    "description": "The mistletoe shaft with which the blind god Höðr, guided by Loki, slew Baldr the beloved. Only the mistletoe had not sworn to spare him, and Loki fetched it, fashioned it into a dart, and guided Höðr's hand. The killing of Baldr by the mistletoe spear set the doom of the gods in motion and stands at the centre of the Eddic tragedy. When Frigg had taken oaths from all things not to harm her son, she overlooked the young mistletoe as too small and weak to ask; Loki made the dart from that very plant and gave it to the blind god to throw in sport. Baldr fell dead, and the gods' attempts to restore him failed through Loki's malice, so that the death of the shining god became the first blow of Ragnarök. The mistletoe dart thus carries the whole weight of the myth: the small overlooked thing that brings down the beloved and unchains the end of the world.",
     "related_creatures": [],
-    "featured_in_stories": [],
+    "featured_in_stories": [
+      "ragnark-the-end-and-rebirth"
+    ],
     "source": "Prose Edda (Gylfaginning)",
     "source_type": "literary",
     "source_quality": "expert",
@@ -124,7 +128,7 @@
       "mistilteinn"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "magic-churn-0306",
@@ -143,7 +147,7 @@
     "maker": "Farm household",
     "powers": "Dairy magic that brings or steals the butter.",
     "associated_creature": null,
-    "description": "A butter churn that witches were believed to bewitch or to work from afar. In Swedish folk belief a witch (trollkona) could send a 'mjölkhare', a butter or cream hare, to steal milk from neighbours' cows and churns, or charm a churn so that butter would not come. Counter-magic included heating a knife in the fire and running it through the churn to break the spell.",
+    "description": "A butter churn that witches were believed to bewitch or to work from afar. In Swedish folk belief a witch (trollkona) could send a 'mjölkhare', a butter or cream hare, to steal milk from neighbours' cows and churns, or charm a churn so that butter would not come. Counter-magic included heating a knife in the fire and running it through the churn to break the spell. The milk hare — a small creature conjured by magic — was sent to suck the neighbours' cows dry or to draw the cream from their churns into the witch's own. When a churn refused to give butter, the household suspected such theft, and the remedy was to strike the churn with a red-hot iron so that the witch felt the blow wherever she sat. The belief belongs to the wider Scandinavian complex of milk magic, in which the daily dairy work was watched as closely as any field, and a neighbour could be quietly accused of prospering at the cost of others.",
     "related_creatures": [
       "trollkona-sweden"
     ],
@@ -169,7 +173,7 @@
       "smörhare"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "magic-scythe-0310",
@@ -187,8 +191,10 @@
     "maker": "Given as a wonder-gift in the tale",
     "powers": "Mows grain by itself, without a hand to swing it.",
     "associated_creature": null,
-    "description": "A scythe in Swedish folktales that cuts grain by itself, without a hand to swing it. In the tale of the magic scythe, the wonderful tool performs the harvest work of many men, sparing its owner the labour of mowing. The self-working scythe belongs to a family of Swedish wonder-tools in which ordinary farm implements act on their own.",
-    "related_creatures": [],
+    "description": "A scythe in Swedish folktales that cuts grain by itself, without a hand to swing it. In the tale of the magic scythe, the wonderful tool performs the harvest work of many men, sparing its owner the labour of mowing. The self-working scythe belongs to a family of Swedish wonder-tools in which ordinary farm implements act on their own. In the best-known telling the scythe is a loan from the hidden people: an elf of the huldufólk gives a poor farmer a blade that mows his grain by itself while he rests, on the single condition that it be returned to the elf's clearing each evening. When the farmer breaks his word and hides the scythe, it turns on him and mows down his fences and his house until he begs forgiveness, and the elf strips the magic away. The tale thus joins the wonder-tool motif to the strict bond between humans and the hidden people, who give generously and punish broken trust without mercy.",
+    "related_creatures": [
+      "hulduflk-iceland"
+    ],
     "featured_in_stories": [
       "the-magic-scythe"
     ],
@@ -210,7 +216,7 @@
       "harvest magic scythe"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "the-magic-table-0316",
@@ -232,7 +238,7 @@
     "maker": "Given as a wonder-gift in the tales",
     "powers": "Sets itself with food and drink at a word.",
     "associated_creature": null,
-    "description": "A table that sets itself with food, a recurring wonder-object of Swedish folk tales. At a word the self-serving table covers itself with dishes and ale, so the hero never goes hungry; the motif usually appears in tales where a magic object is given as a reward and later stolen and replaced with a worthless copy. It belongs to the family of self-working marvels in Swedish wonder-tales.",
+    "description": "A table that sets itself with food, a recurring wonder-object of Swedish folk tales. At a word the self-serving table covers itself with dishes and ale, so the hero never goes hungry; the motif usually appears in tales where a magic object is given as a reward and later stolen and replaced with a worthless copy. It belongs to the family of self-working marvels in Swedish wonder-tales. The tale is best known through the Grimm brothers' 'Tischlein deck dich', but Swedish versions circulated widely: a poor man serves a spirit or a mysterious helper, and in reward receives a little table that feeds him at a word. A dishonest innkeeper or a jealous brother steals the table and leaves a common one in its place, until the hero recovers the true treasure by showing its power. The self-setting table is one of a trio of wonder-gifts — the table, the money-dropping ass, and the stick that beats — and its promise of endless food made it a favourite of hungry listeners.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Swedish wonder-tale motif of the self-setting table",
@@ -256,7 +262,7 @@
       "wishing table sweden"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "the-magicians-cape-0320",
@@ -274,7 +280,7 @@
     "maker": "Worn by the magician of the tale",
     "powers": "Lets the wearer fly, turn invisible, or work spells.",
     "associated_creature": null,
-    "description": "A cape that gives its wearer magical power in a Swedish folk tale. In the tale 'The Magician's Cape', the cloak lets the hero fly, become invisible, or work spells, and is won, lost, and recovered through the story's tests. The cape is a classic object of wonder-tales: a garment of ordinary cut that carries extraordinary ability.",
+    "description": "A cape that gives its wearer magical power in a Swedish folk tale. In the tale 'The Magician's Cape', the cloak lets the hero fly, become invisible, or work spells, and is won, lost, and recovered through the story's tests. The cape is a classic object of wonder-tales: a garment of ordinary cut that carries extraordinary ability. In the Swedish telling the ancient magician of the mountain keeps a black flying cape sewn from the wings of a thousand bats and stitched with thread spun from midnight; with it he soars over the treeline and across seas, and no one can follow him. The captive girl Astrid watches his habits, steals the key from his belt, and takes the cape for herself, flying to the kingdom to bring soldiers against him. She keeps the cape and becomes the kingdom's messenger, flying from village to village — the stolen wonder-garment turned from the tyrant's weapon into the servant of the free.",
     "related_creatures": [],
     "featured_in_stories": [
       "the-magicians-cape"
@@ -297,7 +303,7 @@
       "invisible cape tale"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "midsummer-maypole-0324",
@@ -317,7 +323,7 @@
     "maker": "Raised by the village at Midsummer",
     "powers": "Centre of the Midsummer dance and fertility rites.",
     "associated_creature": null,
-    "description": "The midsummer pole (midsommarstång or majstång), a tall pole decorated with greenery, flowers, and rings, raised on Midsummer Eve and danced around in Swedish tradition. Songs, ring-dances, and games circle the pole, and the custom is recorded in Sweden from the 17th century. The pole is central to the Midsummer celebration and its bonfire-night rites.",
+    "description": "The midsummer pole (midsommarstång or majstång), a tall pole decorated with greenery, flowers, and rings, raised on Midsummer Eve and danced around in Swedish tradition. Songs, ring-dances, and games circle the pole, and the custom is recorded in Sweden from the 17th century. The pole is central to the Midsummer celebration and its bonfire-night rites. The pole is decked with leaves and flowers and hung with two crossed rings, and the village raises it in the open place of the farm or village before dancing the ring-dances that circle it. The custom was already described in the seventeenth century, when the pole was sometimes called a 'majstång' even in midsummer, and scholars have read it as a survival of the old fertility rites of the turning year. Around the pole the shortest night is kept with music, flowers, and the bonfires that guard the livestock, and the maypole remains the fixed centre of every Swedish Midsummer.",
     "related_creatures": [],
     "featured_in_stories": [
       "the-midsummer-bonfires--ancient-solar-rites-on-land",
@@ -342,7 +348,7 @@
       "maypole sweden"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "the-madonnas-golden-shoe-0341",
@@ -360,7 +366,7 @@
     "maker": "Belonging to the church Madonna statue",
     "powers": null,
     "associated_creature": null,
-    "description": "The golden shoe of the Virgin Mary's statue, at the centre of the Swedish tale 'The Fiddler Who Got the Madonna's Golden Shoe'. In the tale a fiddler who plays for the church is rewarded when the Madonna herself bestows her golden shoe on him. The tale is one of Sweden's many stories of a church statue that comes alive.",
+    "description": "The golden shoe of the Virgin Mary's statue, at the centre of the Swedish tale 'The Fiddler Who Got the Madonna's Golden Shoe'. In the tale a fiddler who plays for the church is rewarded when the Madonna herself bestows her golden shoe on him, a gift from the living statue that proves his music found favour in heaven's eyes. The tale is one of Sweden's many stories of a church statue that comes alive, a motif with deep roots in medieval legend where painted Marys nod, weep, or reach out to the faithful. The golden shoe turns the church's most precious ornament into a personal blessing, and the fiddler's reward shows how music and devotion were judged the same act. The tale survives as a favourite of Swedish folk storytelling, told of several churches across the land.",
     "related_creatures": [],
     "featured_in_stories": [
       "the-fiddler-who-got-the-madonnas-golden-shoe"
@@ -383,7 +389,7 @@
       "virgin mary shoe tale"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "the-magic-book-0432",
@@ -400,8 +406,10 @@
     "era": "Folk era",
     "powers": "Grants knowledge, secrets, or magical skill to whoever reads it.",
     "associated_creature": null,
-    "description": "A book endowed with supernatural power in the Danish tale of the same name, granting its owner knowledge, hidden secrets, or magical skill, and bringing both power and danger. Magic books of this kind echo the real black books of Scandinavian folk magic, which were used to heal and to find lost things. The story belongs to the Nordic cycle of grimoire legends.",
-    "related_creatures": [],
+    "description": "A book endowed with supernatural power in the Danish tale of the same name, granting its owner knowledge, hidden secrets, or magical skill, and bringing both power and danger. The story tells of a boy who finds such a book in a magician's mountain dwelling and must read it with care, for the words come alive and threaten anyone who reads on. Magic books of this kind echo the real black books of Scandinavian folk magic, which were used to heal and to find lost things. The tale belongs to the Nordic cycle of grimoire legends, in which the book itself is a creature and a trap.",
+    "related_creatures": [
+      "magic-book-denmark"
+    ],
     "featured_in_stories": [
       "the-magic-book"
     ],
@@ -423,7 +431,7 @@
       "grimoire tale"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "medeas-robe-0612",
@@ -442,7 +450,7 @@
     "maker": "Medea",
     "powers": "Bursts into flame on the wearer; destroys Glauce and her father Creon.",
     "associated_creature": null,
-    "description": "The poisoned robe and golden diadem Medea sent to Glauce, Jason's new bride at Corinth; when the princess donned them, fire consumed her and her father Creon. Euripides' Medea makes the bridal gifts the engine of her revenge, and the robe recurs as a deadly bridal-gift motif in later myth.",
+    "description": "The poisoned robe and golden diadem Medea sent as bridal gifts to Glauce, Jason's new bride at Corinth; when the princess put them on, the dress burst into flames and consumed her, and her father Creon died as well when he tried to save her. Euripides makes the gifts the engine of his tragedy, delivered by Medea's own children, and the horror lies in how the objects of a wedding, the robe and crown meant to adorn a bride, become instruments of death. The motif recurs in Greek myth, most closely in the robe of Deianeira in Sophocles' Trachiniae, which destroys Heracles, and the poisoned garment became a stock 'deadly gift' of folklore, whose touch burns the wearer. Later sources expand Medea's revenge to the killing of her own sons, while the robe itself stands for the vengeance a scorned woman can take through the very language of gifts and kinship. The tale is the classic warning that a bride's finery can carry a bride's doom.",
     "related_creatures": [],
     "featured_in_stories": [
       "medeas-vengeance"
@@ -466,7 +474,7 @@
       "poisoned robe"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "mehter-davul-0636",
@@ -485,7 +493,7 @@
     "maker": "Ottoman drum-makers",
     "powers": "Beats the rhythm of the janissary march, inspiring troops and intimidating the enemy.",
     "associated_creature": null,
-    "description": "The great bass drum of the mehter, the Ottoman military band, slung and struck to beat the rhythm of the janissary march; its booming sound, with the zurna, was meant to inspire troops and terrify the enemy in battle, and the mehter davul remains an emblem of Ottoman martial music.",
+    "description": "The mehter davul is the great two-headed drum of the mehter, the Ottoman military band, struck with a heavy beater to drive the slow, thundering rhythm of the janissary march, the pulse of an army on the move. The davul, a large double-skin cylinder slung at the waist or on a strap, is played with a curved stick and a thin switch, producing the deep boom and sharp crack that set the soldiers' gait; together with the shrill zurna, the kettle-drums, and the cymbals it made the band that European observers from the 16th century described as terrifying in battle and overwhelming in its din. The mehter's music was meant both to inspire the Ottoman troops and to daunt the enemy, and it marched before the army in campaigns from the Balkans to Persia. The band was abolished in 1826 together with the Janissary corps it served, but the davul lives on in successor ensembles and in the marches still played at Turkish ceremonial occasions. It remains the emblem of Ottoman martial music.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Ottoman musical tradition; documentation of the mehter band",
@@ -507,7 +515,7 @@
       "mehter band"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "mantle-of-tegau-1016",
@@ -525,7 +533,7 @@
     "era": "Medieval",
     "powers": "Fitted only a wife faithful to her husband; exposed unfaithful wives.",
     "associated_creature": null,
-    "description": "Tegau Eurfron's mantle, one of the Thirteen Treasures of the Island of Britain. It would fall only to a wife faithful to her husband; for a woman who had broken her vows it would not cover her, and the truth of her conduct was laid bare. It is the Welsh counterpart of the chastity-testing garments of continental romance.",
+    "description": "Tegau Eurfron's mantle, the Mantle of Tegau Gold-Breast, is one of the Thirteen Treasures of the Island of Britain listed in medieval Welsh tradition. The garment would fit only a woman who had been faithful to her husband; a wife who had broken her vows could not wear it, and it would not cover her, revealing the truth of her conduct to the court. Tegau herself, the wife of Caradog, is praised in the Welsh triads as one of the three faithful wives of Britain, and the mantle is the token of her chastity. The object belongs to a family of chastity-testing garments found across medieval Europe, from the Arthurian mantel mal taillé to the test-mantles of later romance. Like the other treasures, the mantle is described in the later manuscript lists with explanatory notes. The Welsh tale survives as a parable of marriage, honesty and the public testing of private virtue.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Medieval Welsh list of the Thirteen Treasures of the Island of Britain",
@@ -546,7 +554,7 @@
       "thirteen treasures"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-09"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "mace-of-faridun-1120",
@@ -565,7 +573,7 @@
     "maker": "Forged for the young prince Faridun",
     "powers": "Struck down the tyrant Zahhak and freed Iran from his reign.",
     "associated_creature": null,
-    "description": "The bull-headed mace (gurz) forged for the young prince Faridun, which Ferdowsi describes being made to his measure before his campaign against the tyrant Zahhak. With it Faridun struck Zahhak's crowned head and split the serpents on his shoulders, ending a thousand years of tyranny and binding the usurper in a mountain cave. It became the archetypal weapon of Persian hero-kings.",
+    "description": "The bull-headed mace (gurz) forged to the measure of the young prince Faridun, which Ferdowsi describes being made before his campaign against the tyrant Zahhak, so that only his hand could wield it. With it Faridun struck Zahhak's crowned head and split the serpents that had grown on the tyrant's shoulders, ending a thousand years of unjust rule and binding the defeated Zahhak in a cavern of Mount Damavand, where he is said to be chained to this day. The mace, in its bull-headed form, links the hero to the cattle-rearing world of the old Iranian kings and stands in the epic as the plain, honest weapon that overcomes sorcery. It became the archetypal weapon of Persian hero-kings, echoed in the bull-headed mace that later poets give to Rostam.",
     "related_creatures": [],
     "featured_in_stories": [
       "zahhak-the-serpent-shouldered-tyrant"
@@ -588,7 +596,7 @@
       "faridun zahhak"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-09"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "morin-khuur-1236",
@@ -607,7 +615,7 @@
     "maker": "Herdsman (legendary)",
     "powers": "Voice of the horse and the steppe",
     "associated_creature": null,
-    "description": "The two-stringed horse-head fiddle of Mongolia, its scroll carved as a horse's head and its strings and bow made of horsehair. Legend tells of a herdsman whose beloved horse was killed, and who made the fiddle from its remains to keep the horse's song alive; it is now an emblem of Mongolian national identity.",
+    "description": "The morin khuur, the horse-head fiddle, is the two-stringed instrument of Mongolia whose scroll is carved as a horse's head, whose strings and bow are of horsehair, and whose sound is held to imitate the breath and song of the horse. The classic origin legend tells of a herdsman whose beloved horse was killed by a treacherous lord; from the horse's skull, skin, mane, and tail the man made the first fiddle, so that the animal's spirit would sing on. The instrument carries a deep spiritual charge: it is played in homes, at ceremonies, and at the Naadam festival, and traditional players observed taboos in its presence, regarding it as a living being. In the twentieth century the morin khuur was adopted as the national instrument of Mongolia and inscribed by UNESCO as intangible cultural heritage. Its two strings are often described as the two poles of Mongol identity, and the instrument is taught, collected, and displayed as the emblem of Mongolian national culture.",
     "related_creatures": [],
     "featured_in_stories": [
       "the-origin-of-the-horsehead-fiddle-morin-khuur"
@@ -631,7 +639,7 @@
       "morin huur"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-09"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "macuahuitl-1301",
@@ -650,7 +658,7 @@
     "maker": "Mexica weapon-smiths",
     "powers": "Slices through flesh in a single stroke; a mark of warrior rank.",
     "associated_creature": null,
-    "description": "A flat wooden sword edged with rows of razor-sharp obsidian blades, the signature weapon of Aztec warriors at the Spanish conquest. Chroniclers including Bernal Díaz describe its edge as sharp enough to behead a horse in one cut; codices and tribute lists record it as both a tool of war and a mark of rank. Captured enemies often carried the most ornate examples.",
+    "description": "The macuahuitl is the flat wooden sword edged with rows of razor-sharp obsidian blades that was the signature weapon of Aztec and Mesoamerican warriors at the time of the Spanish conquest. Chroniclers including Bernal Diaz describe its edge as sharp enough to behead a horse with a single stroke, and the codices and tribute lists record it as both a weapon of war and a mark of rank, with captured enemies often carrying the most ornate examples. The weapon was made of a wooden paddle, in some examples the paddle slotted and the blades set in, and obsidian edges were renewed as they dulled. The macuahuitl belonged to the wider Mesoamerican tradition of the maquahuitl and the atlatl, and it was used by elite warriors such as the jaguar and eagle knights. After the conquest the weapon passed quickly into legend, and no complete original survives, but it remains the most iconic weapon of the Aztec empire.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Conquistador chronicles (e.g. Bernal Díaz del Castillo)",
@@ -673,7 +681,7 @@
       "obsidian edged club"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "metate-1315",
@@ -692,7 +700,7 @@
     "maker": "Mesoamerican stone-workers",
     "powers": "Transforms maize into masa for the sacred staple tortilla.",
     "associated_creature": null,
-    "description": "A slightly concave stone slab used with a hand stone to grind soaked maize into masa, the heart of Mesoamerican cooking from the Olmec era to modern households. The grinding of maize is woven into myth and household ritual, appearing in codices and the Popol Vuh's account of people made from maize dough. Basalt metates with carved supports survive in huge numbers from ancient sites.",
+    "description": "The metate is the slightly concave stone grinding slab at the heart of Mesoamerican cooking, used with a hand-held stone (mano) to grind nixtamalised maize into masa for tortillas, tamales and atole. Basalt and other volcanic stone were preferred, and the craft of shaping the slab, often on carved supports or a tripod base, goes back to the Preclassic era and continues in rural households today. The grinding of maize was never mere kitchen work: Mesoamerican myth held that the gods made people from maize dough, as the Popol Vuh recounts, so the metate transformed the sacred staple into human food. Codices show women kneeling at the metate, and elaborately carved examples from later periods suggest the tool could also carry prestige. Modern lava-stone metates are still sold in markets across Mexico and Guatemala, prized for the flavour they give tortillas.",
     "related_creatures": [],
     "featured_in_stories": [
       "the-first-corn"
@@ -716,7 +724,7 @@
       "grinding stone mesoamerica"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "medicine-bag-1323",
@@ -735,7 +743,7 @@
     "maker": "The owner, guided by vision",
     "powers": "Holds the personal medicines given to its owner in a dream.",
     "associated_creature": null,
-    "description": "A small hide pouch carried or kept privately, holding the personal medicines, feathers, stones and charms revealed to its owner in vision or dream across many North American nations. The contents are personal and often secret, and the bag's power depends on how faithfully its owner follows the vision. Ethnographic accounts note it is never opened lightly and is buried with its owner.",
+    "description": "The medicine bag is a small hide pouch carried or kept privately by many Plains and Woodlands people, holding the herbs, feathers, stones, roots or small objects revealed to its owner in a vision or dream. Unlike the communal sacred bundles kept by whole clans or societies, such as the Lakota pipe bundle, the medicine bag is personal: its contents are chosen by the spirits for one individual and are usually kept secret. Its power, elders say, depends on how faithfully the owner follows the instructions that came with the vision, and careless handling is believed to drain or endanger that power. Ethnographic accounts record that the bag is never opened lightly, is not shown to others without reason, and is often buried with its owner or passed on with ceremony. The bundle tradition underlies much of the healing and 'medicine' concept that travellers, traders and missionaries encountered across the continent.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Plains and Woodlands oral tradition and ethnography",
@@ -758,7 +766,7 @@
       "native american medicine bag"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "medicine-wheel-1332",
@@ -777,7 +785,7 @@
     "maker": "Plains peoples",
     "powers": "Mirrors the four directions and the circle of life.",
     "associated_creature": null,
-    "description": "Circles of stones laid out with radiating spokes on the high plains, the most famous in the Bighorn Mountains of Wyoming, whose alignment some studies tie to the solstices. The wheel is read as a sacred model of the cosmos, the four directions, the seasons and the human journey, a teaching that continues among Plains nations. The purpose of the oldest sites remains a matter of debate.",
+    "description": "The medicine wheel is a circle of stones laid out on high plains ground with lines of stones radiating from the centre like spokes, read by Plains peoples as a sacred map of the cosmos, the four directions, the seasons and the circle of life. The most celebrated example, the Bighorn Medicine Wheel in Wyoming, measures some 23 metres across and has 28 spokes, and studies have suggested its outer cairns may align with the summer solstice and stars, though the precise purpose of the old sites remains debated. Similar wheels at Moose Mountain in Saskatchewan and elsewhere show the form was widespread. Modern Plains nations still use stone circles as places of prayer and ceremony, and the wheel's four directions have become a teaching symbol for balance and guidance. Whatever its original astronomy, the medicine wheel endures as a model of harmony between people and the land.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Plains oral tradition and archaeological study",
@@ -800,7 +808,7 @@
       "four directions wheel"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "mama-cocha-sea-1345",
@@ -819,7 +827,7 @@
     "maker": "Andean carvers",
     "powers": "Gains the protection of the mother of the sea.",
     "associated_creature": "mama-cocha",
-    "description": "Small images and offerings made to Mama Cocha, the mother of the sea, honored by the Inca for the fish, shells and travel she provided along the Pacific coast. Fisherfolk made offerings of shell and stone at the shore, and colonial accounts record the goddess among the household and regional deities the Inca honored. The amulets carry her power out to the boats that worked her waters.",
+    "description": "Mama Cocha, the mother of the sea, was counted among the great Inca divinities, the wife and sister of the creator god Viracocha and the mother of Inti the sun and Mama Killa the moon. Fisherfolk along the Pacific coast made offerings of shells and small carved images, and poured maize beer into the waves, and colonial chroniclers record that the goddess was honored among the household and regional deities of the empire, receiving her share at the great festivals. Her image in miniature, worn as an amulet or set at the shore, carried her protection onto the boats that worked her waters, calming storms and guiding the catch. Though the Inca state collapsed, the cult of the sea mother survived in coastal communities, where she is sometimes said to ride the currents still and to reward the faithful with a full net. The effigies are the tangible trace of that devotion, small objects that held an ocean in the mind of an empire.",
     "related_creatures": [],
     "featured_in_stories": [
       "mama-cocha-water-mother"
@@ -844,7 +852,7 @@
       "coastal offering"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "mate-gourd-1347",
@@ -863,7 +871,7 @@
     "maker": "Gourd-workers",
     "powers": "Shared in a circle that marks friendship and trust.",
     "associated_creature": null,
-    "description": "The dried gourd cup in which yerba mate, the leafy infusion of the Guaraní, is drunk through a metal straw, passed hand to hand in a fixed order among friends in Argentina, Uruguay and Paraguay. The Guaraní drank the herb before the Spanish arrived, and sharing one gourd marks closeness; etiquette governs who pours and who drinks next. It remains the everyday companion of millions.",
+    "description": "The mate gourd is the dried calabash cup from which yerba mate, the leafy infusion of the Guaraní, is drunk through a metal straw called a bombilla, passed hand to hand around a circle of friends. The Guaraní of Paraguay, Brazil and Argentina prepared a drink of the herb before the Spanish arrived, and colonial accounts already describe it being shared; the Spanish word mate itself comes from the Quechua mati, for the gourd that holds it. Etiquette is precise: the cebador pours, drinks the first, often bitter, sip and refills, and the gourd circles clockwise, never returning to the cebador for a second serving until it has passed everyone. To drink from another's gourd is an act of trust and closeness, which is why the sharing of mate is still the everyday gesture of friendship in Argentina, Uruguay and Paraguay. Modern gourds are carved and sometimes rimmed with metal, but the meaning is unchanged: one gourd, many hands, a shared breath.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Guaraní tradition and colonial accounts of mate",
@@ -886,7 +894,7 @@
       "mate tradition"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "maasai-nborr-collar-1435",
@@ -902,7 +910,7 @@
     "type": "jewelry",
     "material": "Glass beads, leather, wire",
     "era": "Traditional, still worn",
-    "description": "The nborr is a flat, beaded collar of the Maasai of Kenya, built on a leather or wire base and covered with glass-bead patterns in red, white, blue, and black. Worn by women at ceremonies and by young men (moran), the collars signal age-set, status, and clan, and beaded colours carry agreed social meanings.",
+    "description": "The nborr is the flat beaded collar worn by Maasai women and, on ceremonial occasions, by young men (moran) of Kenya and Tanzania. Built on a base of hide or wire and covered with dense rows of tiny glass beads, the collar forms a broad crescent that lies across the chest and shoulders. The colour combinations are not arbitrary: red stands for the cattle that are the heart of Maasai life, white for milk and peace, and the patterns signal the age-set, clan, and status of the wearer. Beaded ornaments are made by women, who learn the craft from their mothers, and whose beadwork circulates in the exchanges that build family alliances. The nborr is worn at dances, initiations, and the celebrations that mark the passage of the age-sets. Maasai beadwork has also become an economic mainstay, with women's cooperatives selling collars and jewellery to the wider market.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Maasai beadwork tradition",
@@ -923,7 +931,7 @@
       "maasai nborr"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "maasai-rungu-1436",
@@ -939,7 +947,7 @@
     "type": "weapon",
     "material": "Wood",
     "era": "Traditional, still carried",
-    "description": "The rungu is a short wooden throwing club of the Maasai of Kenya, with a knobbed head and tapering handle, carried by herders and moran. Traditionally used to guard cattle against predators and in ceremony, the rungu today is a symbol of authority, often ornamented and carried by elders at gatherings.",
+    "description": "The rungu is a short throwing club of the Maasai, a knobbed head on a tapering wooden shaft that herders and warriors carry as they move with their cattle. In the past the rungu was a practical weapon for defending livestock against predators and for settling disputes, thrown with a spin that drove the heavy knob home with force. Today it is still carried, but its main work is ceremonial and social: elders raise the rungu to command attention at meetings, and the club is a badge of authority for spokesmen and age-set leaders. Decorated rungu, carved with rings and bands and sometimes tipped with metal, are made for chiefs and for the tourist market. The word has passed into the region's popular culture, and the rungu remains the most recognisable symbol of Maasai leadership.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Maasai pastoral tradition",
@@ -959,7 +967,7 @@
       "maasai club"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "maasai-shuka-1437",
@@ -975,7 +983,7 @@
     "type": "garment",
     "material": "Cotton cloth",
     "era": "Contemporary, evolving from traditional hide cloth",
-    "description": "The shuka is the checked, blanket-like cloth worn wrapped around the body by Maasai of Kenya and Tanzania, traditionally dyed in red tones. Red is said to honour Maasai cattle culture and the warrior ideal; the cloth's patterns vary by community, and modern production blends factory cotton with older styles of hide and woven dress.",
+    "description": "The shuka is the checked cloth, usually in shades of red, that Maasai wrap around the body as a toga-like garment, a dress so distinctive it has become the visual signature of the Maasai in Kenya and Tanzania. Red is the colour of cattle blood and of the warrior ideal, and the bold plaid stands out in the savannah where the herds graze. The shuka replaced the older dress of hides and skins during the twentieth century, when imported cotton cloth spread through the region, and its adoption shows how a modern commodity was absorbed into Maasai identity. Different communities favour different colour families, and the way the cloth is folded and worn, over one shoulder, around the waist, or across the mouth of a herder sheltering from dust, varies with occasion and age-set. Factories in the region now print shuka cloth in bulk, and the checked patterns are also worn far beyond the Maasai as a mark of East African style.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Maasai dress tradition",
@@ -995,7 +1003,7 @@
       "maasai blanket"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "makonde-shetani-figure-1439",
@@ -1011,9 +1019,10 @@
     "type": "ritual object",
     "material": "Ebony (African blackwood)",
     "era": "Mid-20th century onward (modern tradition)",
-    "description": "Makonde 'shetani' carvings of Tanzania are dark hardwood figures of contorted, expressive spirits, made by Makonde carvers from the 1950s onward. They depict shetani - capricious ancestral and bush spirits - in twisted poses that blur human and animal form, and are celebrated in Swahili and international art as a meditation on the spirit world.",
+    "description": "The shetani carvings of the Makonde are dark hardwood figures of contorted, expressive spirits, carved from the ebony-like mpingo of the Tanzanian and Mozambican coast. Beginning in the 1950s, carvers turned from ancestor figures to the shetani, capricious bush and ancestral spirits, twisting human and animal forms into elongated, agonised, or playful shapes that seem to catch a spirit mid-transformation. Each carving is original, the forms said to be revealed to the carver in dreams, and the pieces are exhibited as art as much as ritual objects. The word shetani, from the Arabic for 'evil spirit', entered Swahili through Islam, but the figures draw on older Makonde beliefs about the dark forest and its inhabitants. Shetani carving has become one of the most recognisable genres of contemporary African art, sold from Dar es Salaam to international galleries. The tradition also carries the older meaning of the spirits themselves, who are remembered as crowding the Makonde homeland on both sides of the border.",
     "related_creatures": [
-      "shetani"
+      "shetani",
+      "shetani-mozambique"
     ],
     "featured_in_stories": [
       "the-carver-who-gave-shetani-form"
@@ -1035,7 +1044,7 @@
       "makonde carving"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "mahafaly-aloalo-1448",
@@ -1051,7 +1060,7 @@
     "type": "ritual object",
     "material": "Carved wood",
     "era": "Traditional, still erected",
-    "description": "The aloalo are tall carved funerary posts of the Mahafaly people of southwestern Madagascar, erected on family tombs and topped with figures of people, birds (often the cattle egret), and cattle. Their scenes honour the life and wealth of the deceased and the ancestors, and they stand as public memorials bound to the island's ancestral rites.",
+    "description": "The aloalo are the carved funerary posts of the Mahafaly people of southwestern Madagascar, tall wooden stelae that stand on the stone tombs of chiefs and wealthy families. The name comes from alo, 'intermediary' or 'messenger', and the posts are believed to help the dead cross into the community of the ancestors. A classic aloalo rises through a column of openwork geometric shapes, crescents and circles often read as the phases of the moon, to a finial carved as a human figure, a zebu, or a bird such as the cattle egret, while the horns of zebu sacrificed at the funeral are arranged at the tomb's base. The zebu, the measure of wealth in the region, is carved again and again, and recent aloalo add motifs such as bicycles, aeroplanes, and scenes from the deceased's life. Only commissioned carvers make aloalo, which were once the right of royalty alone. The posts have become an emblem of Madagascar, and the Mahafaly tomb country is a candidate for the World Heritage list.",
     "related_creatures": [
       "famadihana"
     ],
@@ -1074,7 +1083,7 @@
       "madagascar funerary post"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "mbira-dzavadzimu-1453",
@@ -1090,7 +1099,7 @@
     "type": "musical instrument",
     "material": "Wood, metal keys, gourd resonator",
     "era": "Traditional, still played",
-    "description": "The mbira dzavadzimu is the lamellophone of the Shona of Zimbabwe, a wooden board with metal keys mounted over a gourd resonator that buzzes with a shell or bottle-top. Played to summon the ancestors (vadzimu) at ceremonies, its interlocking patterns accompany singing and call the spirits to guide the community.",
+    "description": "The mbira dzavadzimu is the lamellophone of the Shona people of Zimbabwe, a wooden soundboard fitted with rows of metal keys and placed over a gourd resonator that buzzes with shells, bottle caps, or other rattling matter. Its name means 'mbira of the ancestor spirits', and it is played at the bira ceremonies where the spirits of the departed are called to advise the living. The interlocking patterns of the mbira weave around the singing and clapping of the assembly, and the buzzing, layered sound is thought to attract the spirits so that they can speak through a medium. The instrument is learned by hand within Shona families, and certain mbira pieces are held by specific lineages as inherited property. After independence the mbira became a national emblem of Zimbabwe, and its sound now opens radio broadcasts and accompanies church hymns. The instrument's deep, hypnotic cycles have also carried it into world music through Zimbabwean players and teachers.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Shona mbira tradition",
@@ -1111,7 +1120,7 @@
       "shona mbira"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "makonde-lipiko-mask-1458",
@@ -1127,7 +1136,7 @@
     "type": "ritual object",
     "material": "Carved wood, paint, fibre",
     "era": "Traditional, still danced",
-    "description": "Lipiko masks of the Makonde of Mozambique are wooden face masks with protruding lips and painted detail, worn by initiates in the mapiko dance that closes initiation rites. The performers are said to embody spirits of the dead and ancestors, and the masks are kept hidden from the uninitiated.",
+    "description": "The lipiko is the carved wooden mask of the Makonde people of northern Mozambique, worn by male dancers in the mapiko, a masked dance that forms part of the likumbi initiation rite marking the passage from puberty to adulthood. The mapiko performance, which UNESCO inscribed on its List of Intangible Cultural Heritage in Need of Urgent Safeguarding in 2023 under the name Ingoma ya Mapiko, takes place in an open enclosure, often beneath mango trees, with dancers, drummers and a choir of men and women facing each other. The dancer's whole body is covered by the costume, and the mask, carved from a single block of wood and sometimes from scrap metal such as old cooking pots, shows a stylized face with pronounced lips and painted details, and is kept hidden from the uninitiated. Within the rite the masked dancer is held to embody the spirit of a dead ancestor, and the dance both solemnly stages the world of the dead and entertains the living, since it may also be danced at funerals of group members and for general celebration. Young Makonde men learn the making and wearing of masks and the steps of the dance during the secret initiation camp, with the knowledge passed down from elder carvers to the initiates.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Makonde initiation tradition",
@@ -1147,7 +1156,7 @@
       "makonde lipiko"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "moroccan-tagine-1459",
@@ -1163,7 +1172,7 @@
     "type": "cooking vessel",
     "material": "Glazed clay",
     "era": "Traditional, still used",
-    "description": "The tagine is the conical clay cooking vessel of Morocco, whose tall lid traps steam so that slow-braised stews cook in very little water. The same word names the dish it cooks; the pot is glazed, set over a brazier or stove, and has become emblematic of Moroccan cooking and hospitality across North Africa.",
+    "description": "The tagine is the conical clay cooking vessel of Morocco and the wider Maghreb, which gives its name to the slow-braised stews that are cooked and served in it. Its tall, dome-shaped lid traps rising steam, which condenses and drips back onto the food, so the dish cooks in a small amount of liquid over embers or a low flame without much oil or added water. Traditional tagines are hand-thrown from terracotta and may be left unglazed or covered with a decorative glaze, and the glazed base of the pot is carried to the table with the conical lid still in place. The Arabic name tajin is used for both the pot and the food, and although the dish's precise history is debated, the Amazigh population of North Africa is generally credited with developing the slow-simmering vessel, while early cookery books from the medieval Islamic world already attest to similar stews. Because a well-made tagine can be cooked over a simple brazier of charcoal, it remains an everyday utensil in mountain villages and urban kitchens alike, served family-style with bread used for dipping.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Moroccan culinary tradition",
@@ -1184,7 +1193,7 @@
       "moroccan tagine"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "mangal-kalasha-1508",
@@ -1194,7 +1203,7 @@
     "region": "South Asia",
     "culture": "Hindu",
     "type": "ritual object",
-    "description": "Copper or clay pot filled with water and topped with a coconut and mango leaves, set on a bed of rice to open Hindu ceremonies. The kalasha is treated as a vessel of the divine, inviting a presiding deity to dwell in its water, and it is carried before brides, raised at temple consecrations and used in house blessings as a source of prosperity and good fortune.",
+    "description": "The mangal-kalasha, also called purna-kalasha, is a metal or clay pot filled with water and topped with fresh mango leaves and a coconut, an indispensable emblem of auspiciousness in Hindu ritual. It stands at the door of homes during weddings and housewarmings, is established at the beginning of pujas, and is brought to receive honoured guests, because the overflowing pot signifies abundance, fertility and the fullness of the home. In practice the leaves and coconut are taken to invite natural and divine energies, and the water in the pot may be treated as the presence of a deity: during rituals a thread is often tied around the neck of the kalasha and mantra recited over it. The kalasha also appears in the story of the churning of the ocean, in which the pot of amrita, the nectar of immortality, was stolen by the demon Rahu, and the pot is a standard motif over temple doors in South India. Because of this layered meaning, the kalasha is one of the most photographed objects of Hindu domestic life, at once a water jar, a greeting and an invocation.",
     "source_type": "oral_tradition",
     "source_quality": "documented",
     "attested": true,
@@ -1224,7 +1233,7 @@
     ],
     "source": "Hindu ritual manuals (grihya sutra tradition) and festival practice",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "mangalsutra-1520",
@@ -1234,7 +1243,7 @@
     "region": "South Asia",
     "culture": "Hindu",
     "type": "jewelry",
-    "description": "Necklace of black beads and gold, or a gold pendant on a cord, tied by the groom around the bride's neck during the Hindu wedding rite. The mangalsutra is worn for the rest of the married woman's life and is read in folklore as a powerful talisman of her husband's life and of the marriage bond, never to be removed or broken.",
+    "description": "The mangalsutra is the necklace that marks a Hindu woman as married, tied around her neck by the groom during the wedding ceremony and then worn for life, though widows set it aside. The name means 'auspicious thread', and the simple gold and black-bead ornament of the north differs from the heavier gold pendant called thali worn in the south, where the tying ceremony is called mangalyam and is the most solemn moment of the wedding. The black beads are traditionally believed to protect the wearer and her husband's family from the evil eye, while the gold signals prosperity, and the number of knots parallels the vows exchanged during the rites. Because the mangalsutra is the visible sign of the married state, its presence or absence is read at once by the whole community, and it is never worn casually. In modern India the ornament has also become a fashion item, with contemporary designs keeping the two beads in silver or diamond settings.",
     "source_type": "oral_tradition",
     "source_quality": "documented",
     "attested": true,
@@ -1263,7 +1272,7 @@
     ],
     "source": "Hindu wedding ritual and marriage custom",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "mukut-crown-1537",
@@ -1273,7 +1282,7 @@
     "region": "South Asia",
     "culture": "Newar, Nepali royal",
     "type": "crown",
-    "description": "Jewel-set crown of the Malla and Shah kings of Nepal, worn at state and religious ceremonies and linked to the goddess Taleju, protector of the royal dynasties. The Newar tradition of the living goddess Kumari also includes a crown placed on the girl deity during festivals, echoing the belief that the right to rule comes by divine favour.",
+    "description": "The mukut is the jewel-set crown of the royal traditions of Nepal, worn by the Malla kings of the Kathmandu valley and later the Shah kings at state and religious ceremonies, and linked by tradition to the goddess Taleju, protector of the ruling dynasties. The crowns are worked in gold and silver with gemstones, pearls and brocade by the Newar goldsmiths of Kathmandu, and the king's crown was held to draw its right to rule from the favour of Taleju, whose temples stood beside the royal palaces. The living goddess tradition also places a crown on the young Kumari during festivals, echoing the belief that divine favour descends on the wearer. Royal regalia of this kind survives in the museums of Kathmandu and in the courts' surviving records, and the mukut remains a powerful image of Nepali kingship.",
     "source_type": "secondary_scholarly",
     "source_quality": "documented",
     "attested": true,
@@ -1305,7 +1314,7 @@
     ],
     "source": "Newar court tradition and museum regalia holdings",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "mani-wall-1540",
@@ -1315,7 +1324,7 @@
     "region": "South Asia",
     "culture": "Tibetan Buddhist",
     "type": "religious object",
-    "description": "Long low wall of carved stones inscribed with the mantra Om Mani Padme Hum, raised beside mountain paths in the Himalayas as a prayer in stone. Travellers pass the mani wall keeping it to their right and add their own stones, so that the wall grows as a living offering along the route, and the carved stones are believed to carry blessing to all who walk by.",
+    "description": "The mani wall is a long, low wall of carved stone raised beside mountain paths, passes and villages across the Himalayan world, its blocks inscribed with the six-syllable mantra Om Mani Padme Hum and set in rows under a capping course of stones. The name comes from the first syllable of the mantra, which is the prayer of the bodhisattva of compassion Avalokiteshvara, and the walls are treated as sacred, so that travellers keep them on their right and walk past them clockwise, the direction of ritual circumambulation. Passing pilgrims and travellers add their own stones, carved or plain, so the wall grows as a living offering along the route, and the carved stones are believed to carry blessing to everyone who walks by, whether or not they can read the letters. Long chains of mani walls line the pilgrim roads of Nepal, Ladakh and the approaches to Mount Kailash.",
     "source_type": "oral_tradition",
     "source_quality": "documented",
     "attested": true,
@@ -1345,7 +1354,7 @@
     ],
     "source": "Himalayan Buddhist pilgrimage practice",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "message-stick-1608",
@@ -1355,7 +1364,7 @@
     "region": "Aboriginal",
     "culture": "Aboriginal Australian",
     "type": "tool",
-    "description": "Carved wooden stick sent between Aboriginal groups to carry news and to validate the authority of the messenger. The patterns cut and painted on its surface record the message and the sender's clan identity, and the stick is accepted as proof that the bearer speaks with the consent of the people who sent them.",
+    "description": "The message stick is a carved piece of wood sent between Aboriginal groups to carry news and to prove the authority of the messenger who carries it. The marks cut and painted on the surface record something of the message, the sender's clan and the places or groups concerned, and the stick is accepted as a sign that the bearer speaks with the consent of the people who sent them. The marks are not writing in the modern sense, but they carry meaning within the system of the sender and receiver, and the practice of carrying such sticks is recorded from many parts of Australia. The messenger is greeted with formal welcome when the stick is presented, and the stick itself is often destroyed or returned once the message has been delivered and answered.",
     "source_type": "secondary_scholarly",
     "source_quality": "documented",
     "attested": true,
@@ -1381,7 +1390,7 @@
     ],
     "source": "Colonial ethnographic records; Aboriginal oral tradition",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "mere-pounamu-1609",
@@ -1391,7 +1400,7 @@
     "region": "Polynesian",
     "culture": "Māori",
     "type": "weapon",
-    "description": "Short broad-bladed club of the Māori, carved from pounamu, the prized greenstone of Aotearoa, and regarded as a chiefly weapon and heirloom. The mere has a wide leaf-shaped blade and a rounded grip with a wrist cord, and named blades were handed down for generations, their tapu so great that they were never allowed to touch the ground.",
+    "description": "The mere pounamu is the short, broad-bladed club of the Maori, carved from pounamu, the greenstone of New Zealand, and regarded as a chiefly weapon and a great heirloom. The blade is leaf-shaped and polished, straight-edged and thicker along its length, and the rounded grip is pierced for a wrist cord, so that the club swings with a stroke of the forearm. Named meres were handed down through the generations, and the mana of the weapon passed from hand to hand, with the saying that a chief was lifted by receiving such a weapon. Because pounamu comes from the rivers and mountains of the South Island, the meres of the northern tribes were carried along the trade routes, and the blades were so greatly valued that they were not allowed to touch the ground.",
     "source_type": "secondary_scholarly",
     "source_quality": "academic",
     "attested": true,
@@ -1420,7 +1429,7 @@
     ],
     "source": "Ethnographic scholarship on Māori weaponry and taonga",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "marquesan-war-club-1633",
@@ -1430,7 +1439,7 @@
     "region": "Polynesian",
     "culture": "Marquesan",
     "type": "weapon",
-    "description": "Polished war club of the Marquesas Islands, carved from ironwood with a long shaft and a flattened head, sometimes inlaid with the teeth of the whale or the bones of enemies. The uʻu was the principal weapon of the Marquesan warrior and was also a treasured gift, its elaborate carving a record of the man who bore it and his ancestry.",
+    "description": "Polished war club of the Marquesas Islands, carved from toa, the dense ironwood, with a long shaft and a flattened, slightly flared head incised with the stylized face of a tiki and other relief designs. The uʻu was the principal weapon of the Marquesan warrior, swung in hand-to-hand combat, but it was equally a work of sculptural art and a badge of rank, kept and treasured as a personal trophy and handed down within families. Some clubs were inlaid with whale tooth or, it is said, with the bone of a fallen enemy, marking the uʻu as both weapon and memorial of its owner.",
     "source_type": "secondary_scholarly",
     "source_quality": "documented",
     "attested": true,
@@ -1458,7 +1467,7 @@
     ],
     "source": "Ethnographic accounts of Marquesan weaponry",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "marshall-stick-chart-1635",
@@ -1468,7 +1477,7 @@
     "region": "Pacific",
     "culture": "Marshallese",
     "type": "tool",
-    "description": "Navigation chart of the Marshall Islands built from pandanus ribs and coconut fibre, with cowrie shells marking islands and the curved sticks recording the pattern of ocean swells. Read by trained navigators before a voyage, the charts encode the wave and current knowledge of the Pacific, and the same skill guided the first navigators across the atolls.",
+    "description": "Navigation chart of the Marshall Islands built from pandanus ribs and coconut fibre, with small cowrie shells marking the islands and curved sticks recording the swell and wave patterns of the ocean. Charts come in three kinds: the mattang, which teaches the principles of wave reflection without naming real islands; the meddo, covering a particular group of reefs; and the rebbelib, a large chart of the whole archipelago. Read and memorised by trained navigators before a voyage and then left ashore, the charts encode wave and current knowledge passed down within navigators' families, and the same skill is remembered in the legend of the first navigator who learned to read the sea.",
     "source_type": "secondary_scholarly",
     "source_quality": "academic",
     "attested": true,
@@ -1500,7 +1509,7 @@
     ],
     "source": "Ethnographic scholarship on Marshallese navigation",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "matyo-embroidery-1741",
@@ -1510,7 +1519,7 @@
     "region": "Europe",
     "culture": "Hungarian",
     "type": "other",
-    "description": "Matyó embroidery is the vivid floral needlework of Mezőkövesd in Hungary, with large rose, tulip and peony motifs in red, blue and green silk on white linen. Worn on festive costumes and home textiles, the technique was inscribed by UNESCO in 2012 as a living community craft.",
+    "description": "Matyó embroidery is the flamboyant floral needlework of the Hungarian town of Mezőkövesd and its surrounding villages, where from about the 1860s women stitched huge roses, tulips and pansies in red, blue and green silk thread on white linen. The style covered festive women's costume, shirts, aprons, pillowcases, tablecloths and wall hangings, and the bold single blooms grew ever larger as the local Matyó identity took shape at the turn of the twentieth century. Unlike the fine satin stitch of other Hungarian regions, Matyó work used long, loose stitches that give the flowers a sculpted, three-dimensional look. The craft, passed from mother to daughter, was inscribed by UNESCO on the Representative List of the Intangible Cultural Heritage of Humanity in 2012, and embroiderers, fashion designers and textile artists in Mezőkövesd continue to develop it.",
     "source_type": "oral_tradition",
     "source_quality": "well-documented",
     "attested": true,
@@ -1549,7 +1558,7 @@
     "region": "Slavic",
     "culture": "Bulgarian",
     "type": "ritual object",
-    "description": "The martenitsa is a Bulgarian talisman of twisted red and white yarn, with a small pendant, given on 1 March to wish health and spring. Worn on the wrist until a stork or blossom appears, it honours Baba Marta, and the shared custom is inscribed on UNESCO's intangible heritage list.",
+    "description": "The martenitsa is the Bulgarian talisman of March, a twisted length of red and white yarn, often finished with beads or a small tassel, exchanged on 1 March to wish health, strength and good fortune for the new year. The red stands for life and the blood, the white for purity and spring light, and the name honours Baba Marta, the capricious old woman of folk belief whose moods are said to govern the early-spring weather. The martenitsa is worn on the wrist, lapel or neck until the wearer sees a stork, a swallow or the first blossoming tree, then it is tied to a fruit tree so the tree will bear, or slipped under a stone for luck. The custom, shared across Bulgaria and its neighbours, was inscribed in 2017 on the UNESCO Representative List through a joint file on 1 March cultural practices, and whole streets of Bulgaria are strung with martenitsi every spring.",
     "source_type": "oral_tradition",
     "source_quality": "well-documented",
     "attested": true,
@@ -1588,7 +1597,7 @@
     "region": "Balkan",
     "culture": "Romanian",
     "type": "ritual object",
-    "description": "Mărțișorul is the Romanian March talisman, a red-and-white silk thread tied with a small charm or coin, offered on 1 March for health and good luck. Worn through the month and then hung on a fruit tree, it welcomes spring, and is shared in the UNESCO-inscribed 1 March customs.",
+    "description": "Mărțișorul is the Romanian March talisman, a red-and-white twisted silk thread finished with a small charm, coin or bead, given on 1 March as a wish of health, love and good luck for the coming year. The name and the month both come from martie, March, and folk memory links the custom to the return of spring and to the capricious weather-woman Baba Dochia, whose shepherding stories echo the alternating mild and cold spells of early spring. Worn on the wrist or pinned to the chest for the whole month, the mărțișor is taken off at the end of March and tied to the branch of a fruit tree, believed to bring the tree good luck and fertility. The tradition is shared with the neighbouring lands that joined the joint UNESCO file of 2017, and Romanian jewellers now cast the charms in gold and silver alongside the older coins and shells.",
     "source_type": "oral_tradition",
     "source_quality": "well-documented",
     "attested": true,

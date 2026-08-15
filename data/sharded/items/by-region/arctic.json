@@ -16,7 +16,7 @@
     "maker": "Inuit stone-workers and women",
     "powers": "The woman's light and warmth that held the igloo together.",
     "associated_creature": null,
-    "description": "The crescent-shaped soapstone lamp of the Inuit, burned with seal oil and a moss wick to warm the igloo, melt snow for water, and light the long Arctic night; the qulliq was tended by women and stood at the center of household life. One lamp heated the whole dwelling, and a well-trimmed wick marked a skilled housewife. The lamp is still lit at Inuit gatherings to honor the tradition.",
+    "description": "The qulliq is the crescent-shaped soapstone lamp of the Inuit, burned with seal oil and a wick of moss or Arctic cotton, the only source of light and heat inside the snow house through the long polar night. It was tended by the women of the household, who trimmed the wick to keep the flame steady, melted snow for drinking water, dried clothes and boots over its warmth, and cooked simple meals beside it; a well-managed flame was a mark of a skilled housewife. The lamp gave the igloo its glow and its life, and the word qulliq itself is the everyday name for light in many Inuit languages. When the hunter returned, the lamp was also the signal of home. Today the qulliq survives as a powerful symbol, lit with ceremony at Inuit gatherings and cultural events, while modern homes keep it as a reminder of a past when a single small flame held a family warm against the polar night.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Inuit oral tradition and Arctic ethnographic records",
@@ -39,7 +39,7 @@
       "inuit qulliq"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "ulu-1367",
@@ -58,7 +58,7 @@
     "maker": "Inuit tool-makers",
     "powers": "The all-purpose blade of the household and the camp.",
     "associated_creature": null,
-    "description": "The broad curved blade of the Inuit and other Arctic peoples, held by a short handle and used for skinning, cutting meat, scraping hides, and preparing food; the ulu is primarily a woman's knife and a symbol of her household. Its shape let pressure be applied with the whole arm, cutting through thick hide and frozen meat alike. Modern steel ulus are still made and used in the North today.",
+    "description": "The ulu is the broad-bladed knife of the Inuit and other Arctic peoples, a semicircular blade of slate or iron fitted with a short handle, used by the women of the household for every cutting task of the camp. With its curved edge and its grip held in the whole hand, the ulu lets pressure be applied with the arm, slicing through thick hide, frozen meat and fish with a rocking motion, and it is used for skinning game, trimming skins, cutting food and scraping hides for sewing. The shape is ancient, blades of ground slate have been found in Arctic sites, and it was adapted to steel when trade made metal available; regional forms range from the small knife of fine work to larger blades for heavy hide. The ulu is primarily a woman's tool and a symbol of the household's life, and it remains in use across the North today, with modern steel versions sold and used alongside traditional ones. Its quiet usefulness made it, with the qulliq, one of the two essential tools of the Arctic home.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Inuit tradition and Arctic ethnographic records",
@@ -81,7 +81,7 @@
       "inuit ulu"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "kayak-1368",
@@ -100,9 +100,14 @@
     "maker": "Inuit boat-builders",
     "powers": "Carries its hunter silently across the open sea after seals.",
     "associated_creature": null,
-    "description": "The one-man hunting boat of the Inuit, a frame of wood or bone covered with sealskin, so light and watertight that one hunter could carry it and paddle it alone across the open sea after seals and whales. The hunter sat in its cockpit, its deck lashed tight against waves. European explorers copied its shape, and the kayak entered the world's boats as a living Arctic invention.",
-    "related_creatures": [],
-    "featured_in_stories": [],
+    "description": "The kayak is the one-man hunting boat of the Inuit, Yupik and Inupiat, a frame of wood or bone stretched tight with sealskin, so light and watertight that a single hunter could carry it, launch it alone, and paddle it silently across the open sea after seals, walrus and whales. The hunter sat in its small cockpit, wearing a skin parka lashed to the rim so that the boat sealed around him, and with his harpoon and lance he could hunt from the surface and even right the kayak in the Eskimo roll, turning it over and back with a twist of the paddle. The design was perfected over millennia and was one of the Arctic inventions that explorers and missionaries carried back to the world, giving the English word kayak from the Inuktitut qajaq. In legend the boat carries its own weight too: in the tale of Sedna, the sea mother, her father rows her out over the water in his kayak before she becomes the ruler of the sea beasts. The kayak remains a living Arctic boat, rebuilt in traditional materials for festivals and races.",
+    "related_creatures": [
+      "sedna"
+    ],
+    "featured_in_stories": [
+      "the-origin-of-sedna",
+      "the-legend-of-sedna"
+    ],
     "source": "Inuit oral tradition and Arctic maritime records",
     "source_type": "oral_tradition",
     "source_quality": "well-documented",
@@ -123,7 +128,7 @@
       "arctic hunting boat"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "amauti-1369",
@@ -142,7 +147,7 @@
     "maker": "Inuit women seamstresses",
     "powers": "Carries a baby in warmth against its mother's back.",
     "associated_creature": null,
-    "description": "The woman's parka of the Inuit, cut with a large hood and a deep pouch across the back in which a baby rides warm against its mother's skin; the amauti is sewn of caribou skin by the women, who are famed for the accuracy of their cutting and stitching. The pouch lets the child nurse and sleep without being taken out into the cold. It is one of the most admired garments of the Arctic.",
+    "description": "The amauti is the woman's parka of the Inuit, cut from caribou skin with a large hood and a deep pouch across the back, the amaut, in which a baby rides warm against its mother's body. The pouch lets the child nurse and sleep without being lifted into the cold, while the hood shields mother and child together from the wind, and the whole garment is sewn with the legendary precision of Inuit women, who cut and stitch by eye so that the seams shed weather. A well-made amauti is a work of both craft and love, the fit of the pouch, the length of the tails, the fur trim at the hood's edge are all judged by the women who wear them. The garment is so central to Arctic motherhood that its making was a skill passed from mother to daughter over generations. Today the amauti is still worn in the North, and contemporary Inuit designers have carried its shape into modern fashion as a proud mark of identity.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Inuit tradition and Arctic ethnographic records",
@@ -165,7 +170,7 @@
       "baby pouch parka"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "tupilak-figure-1370",
@@ -184,7 +189,7 @@
     "maker": "Greenlandic carvers",
     "powers": "A vengeful spirit assembled to harm an enemy.",
     "associated_creature": "tupilak",
-    "description": "A figure the Greenlandic Inuit carved from bone, skin or other gathered parts and animated with magic to be sent against an enemy; the tupilak was made in secret and had to be defeated by its victim's own power or by finding its maker. Carving it was the dangerous part, and today the word names both the spirit and the grotesque figurines that have become Greenlandic art.",
+    "description": "The tupilak is a spirit figure of the Greenlandic Inuit, assembled by an angakkuq, a shaman, from the parts of animals, bone, skin, hair and sinew, sometimes joined with the remains of a dead child, and given life through ritual chants so that it could be sent against an enemy. The tupilak was cast into the sea and swam to its victim, but the magic was dangerous in both directions: if the victim proved stronger, the spirit was said to turn back on its maker, and only a public confession could break its power. Because the figures were made from perishable matter, none of the true tupilak survive, and the ritual was feared more than seen. In the early twentieth century carvers began making grotesque figures from walrus ivory, whale tooth, wood and caribou antler, and the tupilak became a celebrated form of Greenlandic art, sold across the world. The carvings carry the old menace into the gallery, part talisman and part monster.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Greenlandic oral tradition and ethnographic records",
@@ -207,7 +212,7 @@
       "inuksuk carving"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "harpoon-1371",
@@ -226,8 +231,10 @@
     "maker": "Inuit hunters",
     "powers": "Strikes the seal and holds it even as the line plays out.",
     "associated_creature": null,
-    "description": "The throwing weapon of the Inuit, its detachable toggle-head burying in the seal's hide and turning beneath the skin so the animal cannot pull free as the hunter hauls on the line. The design was perfected over millennia of open-water hunting and copied by the explorers who followed. Harpoons with carefully weighted heads remain among the finest tools of the Arctic.",
-    "related_creatures": [],
+    "description": "The harpoon of the Inuit is the throwing weapon perfected for the open sea, a wooden shaft fitted with a detachable head of bone or ivory that buries itself in the seal's hide and toggles, turning beneath the skin so the animal cannot tear free as the line plays out. The hunter cast from the kayak, holding the line so that the wounded seal could be hauled in as it tired, and the same principle was scaled up with heavier heads and floats for walrus and whales. The design is one of the great achievements of Arctic engineering, refined over millennia of open-water hunting, and it was among the tools that European whalers and explorers adopted and copied. In the belief of the Inuit, the success of the hunt was bound to the goodwill of the sea mother Sedna, who released the animals to a hunter who honored her; a harpoon cast without that favor was said to come back empty. The toggle-head harpoon remains a symbol of the Arctic hunter's skill and restraint.",
+    "related_creatures": [
+      "sedna"
+    ],
     "featured_in_stories": [],
     "source": "Inuit oral tradition and Arctic ethnographic records",
     "source_type": "oral_tradition",
@@ -249,7 +256,7 @@
       "inaluk"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "nenets-malitsa-1806",
@@ -259,7 +266,7 @@
     "region": "Arctic",
     "culture": "Samoyedic (Nenets)",
     "type": "garment",
-    "description": "Men's winter coat of the Nenets reindeer herders, sewn from reindeer skins with the fur turned inward, a hood attached inside, and worn with a belt (sok) and fur mittens. Decorated with white or red fur tufting and fur mosaic, the malitsa is made from autumn- and winter-killed reindeer and is the herders' everyday Arctic dress.",
+    "description": "Men's winter coat of the Nenets reindeer herders, sewn from reindeer skins with the fur turned inward, a hood attached inside, and worn with a belt (sok) and fur mittens. Decorated with white or red fur tufting and fur mosaic, the malitsa is made from autumn- and winter-killed reindeer and is the herders' everyday Arctic dress. Because the fur faces inward, the garment traps warm air against the body while the smooth outer hide sheds wind and snow, and the sewn-in hood protects the head without an added collar. The malitsa reaches to the knees, its hem edged with the dark leg fur of the reindeer, and the belt holds the coat closed at the waist and carries the hunter's knife and pouch. Nenets women sew the coats with sinew thread, using the tough winter hide for the body and the soft fur of young deer for trimming. In the polar cold the malitsa is sometimes said to be warm enough to sleep in, and herders keep it on even indoors.",
     "source_type": "secondary_scholarly",
     "source_quality": "well-documented",
     "attested": true,
@@ -297,7 +304,7 @@
     "region": "Arctic",
     "culture": "Chukotko-Kamchatkan (Chukchi)",
     "type": "household object",
-    "description": "Large hemispherical tent dwelling of the coastal Chukchi, built on a wooden frame of poles and whale ribs and covered with walrus skins, with reindeer hides laid inside against the cold. A family camp could stretch up to twenty metres; inside, fur-lined sleeping chambers formed separate rooms. The yaranga was central to Chukchi coastal life.",
+    "description": "Large hemispherical tent dwelling of the coastal Chukchi, built on a wooden frame of poles and whale ribs and covered with walrus skins, with reindeer hides laid inside against the cold. A family camp could stretch up to twenty metres; inside, fur-lined sleeping chambers formed separate rooms. The yaranga was central to Chukchi coastal life. Its frame is assembled from long poles set in a circle and tied at the top, with heavy walrus hides laid over the sides and secured against the wind with stones and lines; the interior is divided into a cold outer ring and a warm inner chamber, the polog, a tent of reindeer hides where the family sleeps. Reindeer-herding Chukchi carried lighter versions that could be packed on sleds and pitched in an hour, while the coastal people built the heavier skin yarangas of the sea-hunters. The yaranga is sometimes said to turn its entrance away from the wind, and travellers could enter it even without invitation. Skins and poles are still used in Chukotka today.",
     "source_type": "secondary_scholarly",
     "source_quality": "well-documented",
     "attested": true,
@@ -334,7 +341,7 @@
     "region": "Arctic",
     "culture": "Chukotko-Kamchatkan (Chukchi)",
     "type": "other",
-    "description": "Carved objects of the Chukchi and Siberian Yupik of the Chukotka coast, worked from walrus tusks into harpoon heads, amulets, figurines and engraved scenes of sea-hunting and animal life. Walrus ivory carving is a hallmark of Chukchi art, celebrated by the Uelen bone-carving workshop and collected by the Russian Museum of Ethnography.",
+    "description": "Carved objects of the Chukchi and Siberian Yupik of the Chukotka coast, worked from walrus tusks into harpoon heads, amulets, figurines and engraved scenes of sea-hunting and animal life. Walrus ivory carving is a hallmark of Chukchi art, celebrated by the Uelen bone-carving workshop and collected by the Russian Museum of Ethnography. The tusk is cut and sawn, then shaped with knives and polished with the hide of the walrus itself, and engravers trace outlines of hunters, walruses, whales and spirits in fine, firm lines. In the past ivory was also the material of daily life: harpoon points, toggles and needle cases were carved for use at sea, and small figurines were carried as charms. The workshop at Uelen, founded in the 1930s on the Bering coast, gathered carvers of the Chukchi and Yupik villages and gave the craft a lasting home. Ivory is sometimes said to hold the luck of the hunt, and a well-carved tusk remains a family treasure on the Chukotka coast.",
     "source_type": "secondary_scholarly",
     "source_quality": "well-documented",
     "attested": true,

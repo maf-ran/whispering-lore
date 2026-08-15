@@ -16,7 +16,7 @@
     "maker": "Icelandic grimoire tradition",
     "powers": "Guides the bearer safely through storms and unknown lands.",
     "associated_creature": null,
-    "description": "The Wayfinder, an Icelandic magical stave drawn as a central point with radiating runic spokes, attested in the Huld manuscript (1860). The accompanying charm promises that whoever bears it will never lose their way in storm or bad weather, even when the way is unknown. It has become a widely reproduced symbol of Icelandic folk magic in modern culture.",
+    "description": "Vegvísir, the 'wayfinder', is an Icelandic magical stave drawn as a central point with radiating runic spokes, first attested in the Huld manuscript, compiled by Geir Vigfússon at Akureyri in 1860. The accompanying text promises that whoever carries the sign will never lose their way in storm or bad weather, even when the path is unknown, and the stave is drawn on paper, wood, or metal and carried as a talisman. Although it is often called a 'Viking compass', the earliest known source is a 19th-century grimoire, and the symbol has no confirmed Viking-Age counterpart — a point that popular culture frequently overlooks. Vegvísir has become the most widely reproduced of all the galdrastafir, appearing in tattoos, jewellery, and merchandise, and the Museum of Icelandic Sorcery at Hólmavík displays it among the living folk-magic tradition.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Huld manuscript (Lbs 4626 8vo, 1860)",
@@ -39,7 +39,7 @@
       "direction stave"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "vidars-shoe-0206",
@@ -58,11 +58,13 @@
     "maker": "Gathered from donated leather scraps",
     "powers": "Holds firm against Fenrir's jaws so Víðarr can tear the wolf apart at Ragnarök.",
     "associated_creature": "fenrir",
-    "description": "The shoe of Víðarr, son of Odin, made from the pieces of leather that people cut from their own shoes at toe and heel and set aside for the god. At Ragnarök the silent Víðarr set the shoe against Fenrir's lower jaw, gripped the wolf's upper jaw with his hands, and tore his mouth open, avenging his father Odin.",
+    "description": "Víðarr's shoe is the enormous foot-covering of Víðarr, the silent son of Odin, made from the pieces of leather that people are said to have cut from their own shoes at heel and toe and set aside for the god. The Prose Edda explains that every man who wishes to help the god should donate such scraps, and the collected leather forms a shoe strong enough to hold against Fenrir's jaws. At Ragnarök the silent Víðarr sets the shoe against the wolf's lower jaw, grips the upper jaw with his hands, and tears the wolf's mouth apart, avenging the death of his father Odin. The detail of the shoe-scraps is one of the strangest and most memorable practical customs in the Eddas, and it connects the cosmic battle to the ordinary work of mending shoes. Víðarr's vengeance remains a fixed scene in every retelling of Ragnarök.",
     "related_creatures": [
       "fenrir"
     ],
-    "featured_in_stories": [],
+    "featured_in_stories": [
+      "ragnark-the-end-and-rebirth"
+    ],
     "source": "Prose Edda (Gylfaginning); Grímnismál",
     "source_type": "literary",
     "source_quality": "expert",
@@ -82,7 +84,7 @@
       "leather scraps"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "varnarstafur-valdemars-0223",
@@ -101,7 +103,7 @@
     "maker": "Icelandic grimoire tradition",
     "powers": "Protects the bearer against enemies and their magic.",
     "associated_creature": null,
-    "description": "Varnarstafur Valdemars, 'Valdemar's protection stave', one of the most popular defensive signs of the Huld manuscript, drawn against enemies and ill-wishers. Its name is attached to a legendary king, and in the folk tradition it was carved on shields, doorways, and tools, carried wherever a person went armed or unarmed against harm.",
+    "description": "Varnarstafur Valdemars, 'Valdemar's protection stave', one of the most popular defensive signs of the Huld manuscript, drawn against enemies and ill-wishers. Its name is attached to a legendary king, and in the folk tradition it was carved on shields, doorways, and tools, carried wherever a person went armed or unarmed against harm. The Museum of Icelandic Sorcery at Holmavík describes the stave as one that 'increases favour and happiness', and when evil was feared it could be laid out inside a hen-egg membrane with plaice gut and worn in the hat. The stave's work blended practical protection with the hope of a welcome reception, making it one of the most frequently reproduced of all the galdrastafir.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Huld manuscript (Lbs 4626 8vo, 1860)",
@@ -122,7 +124,7 @@
       "huld manuscript"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "valaskjalf-0230",
@@ -141,7 +143,7 @@
     "maker": "Built by the gods",
     "powers": "Houses Hliðskjálf, the high seat from which Odin sees across all worlds.",
     "associated_creature": null,
-    "description": "Valaskjálf, the silver-roofed hall of Odin described in Grímnismál, one of the god's dwellings raised by the gods themselves. Within it stands Hliðskjálf, the far-seeing high seat from which Odin can watch all the worlds. The hall is thus the setting for the All-Father's watchfulness and a model for later accounts of his court.",
+    "description": "Valaskjálf, the silver-roofed hall of Odin described in Grímnismál, one of the god's dwellings raised by the gods themselves. Within it stands Hliðskjálf, the far-seeing high seat from which Odin can watch all the worlds. The hall is thus the setting for the All-Father's watchfulness and a model for later accounts of his court. Snorri places the hall among Odin's greatest houses, roofed with silver and crowned by the seat that gave the god knowledge of everything that happens among gods, elves, men, and the dead. From Hliðskjálf Odin watched the journeys of his champions and the movements of his enemies, and it was from that seat that he could perceive all that was hidden. The name is sometimes glossed as the hall 'of the chosen', and it stands beside Valhöll as one of the two great royal halls of the one-eyed god.",
     "related_creatures": [
       "odin-iceland",
       "odin-norway"
@@ -166,7 +168,7 @@
       "grimnismal"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "valhalla-0231",
@@ -185,12 +187,14 @@
     "maker": "Odin's hall in Glaðsheimr",
     "powers": "Home of the Einherjar, the warriors who died bravely and fight and feast again each day.",
     "associated_creature": null,
-    "description": "Valhöll, 'the hall of the slain', Odin's great hall where the Einherjar — warriors who died bravely in battle — fight each day and feast each night. Gylfaginning describes a hall of 540 doors, so vast that armies could pass through each. Its roof is said to be made of shields and spears, and Odin's wolves and ravens share the hall with the fallen.",
+    "description": "Valhöll, 'the hall of the slain', Odin's great hall where the Einherjar — warriors who died bravely in battle — fight each day and feast each night. Gylfaginning describes a hall of 540 doors, so vast that armies could pass through each. Its roof is said to be made of shields and spears, and Odin's wolves and ravens share the hall with the fallen. The warriors chosen by the valkyries from the battlefields were carried to the hall to train for the last battle at Ragnarök, when Odin would lead the Einherjar out against the wolf Fenrir and the hosts of chaos. At dawn they fought and at dusk they rose whole again to eat of the boar Sæhrímnir and drink mead, while the goddess Freyja took half the fallen to her own hall, Fólkvangr. In retellings of the end of the world, Valhalla is the gathering place where the dead heroes arm themselves for the doom of the gods.",
     "related_creatures": [
       "odin-iceland",
       "odin-norway"
     ],
-    "featured_in_stories": [],
+    "featured_in_stories": [
+      "ragnark-the-end-and-rebirth"
+    ],
     "source": "Prose Edda (Gylfaginning); Grímnismál",
     "source_type": "literary",
     "source_quality": "expert",
@@ -211,7 +215,7 @@
       "gladsheimr"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "the-vittra-gifts-0332",
@@ -230,7 +234,7 @@
     "maker": "Said to be given by the vittra",
     "powers": "Bring luck to those who accept them without greed.",
     "associated_creature": null,
-    "description": "Gifts of the vittra, the coins, bread, or small silver objects that the hidden folk of northern Sweden were believed to press upon helpful humans or to leave in their path. Accepting a vittra gift was held to bring luck, while greed or disrespect brought misfortune, and the gifts sometimes turned to leaves or bark at dawn. The giving of gifts is a core motif of Swedish vittra tradition.",
+    "description": "Gifts of the vittra, the coins, bread, or small silver objects that the hidden folk of northern Sweden were believed to press upon helpful humans or to leave in their path. The gifts came as payment for a service, thanks for a kindness, or a promise of friendship, and accepting a vittra gift was held to bring luck to the farm and the family. The hidden people tested the receiver's character: gratitude and restraint were rewarded, while greed or disrespect brought misfortune, and the gifts sometimes turned to leaves or bark at dawn when taken in the wrong spirit. To refuse a vittra gift outright was also dangerous, as it insulted the givers. The giving of gifts is a core motif of Swedish vittra tradition, shaping the cautious courtesy that country people were expected to show the hidden folk.",
     "related_creatures": [
       "vittra"
     ],
@@ -256,7 +260,7 @@
       "underjordiska gifts"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "the-votive-ship-0348",
@@ -275,7 +279,7 @@
     "maker": "Shipwrights and sailors",
     "powers": "A thank-offering that places the ship under the church's protection.",
     "associated_creature": null,
-    "description": "The votive ship (votivskepp), a model ship hung from the vault of a Swedish church, given in thanks for rescue at sea. Sailors and fishermen commissioned the models after storms, and hundreds still hang in Swedish churches and chapels. The votive ship joins the church's prayers to the sea's dangers, a documented custom from the late Middle Ages onward.",
+    "description": "The votive ship (votivskepp), a model ship hung from the vault of a Swedish church, given in thanks for rescue at sea. Sailors and fishermen commissioned the models after storms, and hundreds still hang in Swedish churches and chapels, some with their rigging and little flags intact, carrying painted names and dates of the storm or the voyage. The ship joins the church's prayers to the sea's dangers, a documented custom from the late Middle Ages onward, and the models were made with such care that they are prized as records of old shipbuilding. The gift placed the ship, her crew, and their families under the protection of the church and its saints, and the model kept the vow alive as long as it hung. The votive ship is one of the most moving objects of Nordic church folk-culture, the sailor's thanksgiving made visible.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Swedish church votive-ship tradition",
@@ -297,7 +301,7 @@
       "sailor offering ship"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "vejigante-mask-1359",
@@ -316,7 +320,7 @@
     "maker": "Puerto Rican mask-makers",
     "powers": "Scares away evil with its horns and colors at carnival.",
     "associated_creature": null,
-    "description": "The fierce carnival masks of Ponce, Puerto Rico, with their horns, fangs, bulging eyes and wild colors, worn by the vejigante during Carnival to tease crowds and chase away evil spirits. The tradition mixes the Spanish celebration of the festival with African and Taino elements, each town with its own style. The mask is now both a carnival essential and a celebrated Puerto Rican folk art form.",
+    "description": "The vejigante mask of Ponce, Puerto Rico, is a carnival face of papier-mâché crowned with horns, given fangs, bulging eyes and brilliant colors, worn by the vejigante, the trickster of the Puerto Rican Carnival who whirls through the crowds chasing children and driving off evil spirits. The tradition fuses the Spanish festival, the word comes from vejiga, 'bladder,' after the dried bladders the first celebrants carried, with African and Taíno elements, and each town gave the figure its own face. Ponce's masks are the most elaborate, built up with wings and bristling horns; in Loíza the vejigante instead wears a horned mask of coconut or wire and a costume of layered, fluttering cloth. The craft passed from the great twentieth-century mask-makers of the Ponce families to a generation of folk artists, and the careta is now collected as serious Puerto Rican art. At carnival time the masks still roar, horned and laughing, at the heart of the island's most exuberant festival.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Puerto Rican carnival tradition",
@@ -339,7 +343,7 @@
       "vejigante"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "vajra-of-indra-1501",
@@ -349,7 +353,7 @@
     "region": "South Asia",
     "culture": "Hindu",
     "type": "weapon",
-    "description": "Double-ended thunderbolt of Indra, king of the devas, said in the Puranas to have been forged from the bones of the sage Dadhichi after he gave up his life for the gods. In the Rigveda Indra wields the vajra to slay Vritra the drought serpent, and the weapon endures in Hindu and Buddhist iconography as a marker of kingship over storms and victory.",
+    "description": "The vajra is the thunderbolt weapon of Indra, the storm god of the Rigveda, and the foremost weapon in early Indian mythography. In the Vedic hymns Indra wields the vajra to strike down the serpent-demon Vritra, who held back the world's waters, and by that blow releases rivers, rain and light; the word itself came to mean both the physical bolt and the diamond, as being unbreakable and irresistible. Later Puranic tradition gives a dramatic origin for the weapon, telling that the sage Dadhichi offered his own bones, from which the divine smiths forged the indestructible thunderbolt with which Indra defeated Vritra. In Hindu iconography the vajra appears as a short metal club with ribbed heads, carried by Indra and sometimes by other deities, while in Vajrayana Buddhism the same name and form were adopted for the ritual scepter held in the right hand during meditation and consecration, paired with a bell. Because of this double life, the vajra spans the worlds of Vedic warfare and Buddhist ritual as a symbol of indestructible truth.",
     "source_type": "literary",
     "source_quality": "academic",
     "attested": true,
@@ -378,7 +382,7 @@
     ],
     "source": "Rigveda; Puranic retellings (Dadhichi myth)",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "veena-1513",
@@ -388,7 +392,7 @@
     "region": "South Asia",
     "culture": "Hindu, classical Indian",
     "type": "musical instrument",
-    "description": "Ancient Indian lute of gourd and wood, the instrument of Saraswati, goddess of learning and the arts, who holds it in her hands as she sits upon her lotus. Played in Carnatic and Hindustani music, the veena is treated as the archetype of melody, and Saraswati's veena is said in the tradition to sound the knowledge of the world itself.",
+    "description": "The veena is the principal string instrument of South Indian (Carnatic) music and the emblem of Saraswati, the goddess of learning, who is always depicted holding a veena whose sound is said to be the voice of wisdom itself. The modern concert-instrument form, called the Saraswati veena, has a large resonator of jackwood with a second smaller gourd behind the neck, twenty-four fixed brass frets on the long fingerboard, and seven strings, four melody and three drone; it is plucked with a wire plectrum while the player sits cross-legged on the floor. Because it belongs to the goddess, the veena is also a ritual object, placed on a stand in the prayer room, and the celestial musicians of Hindu mythology, the gandharvas and the kinnaras, are traditionally pictured playing it together with lutes and cymbals. The word vina appears already in the Vedas, though the instrument has changed shape many times over three thousand years, and it gave its name to later instruments such as the sitar. Today the veena remains the classical instrument of the Carnatic stage, taught from childhood and associated with devotion as much as with concert performance.",
     "source_type": "literary",
     "source_quality": "academic",
     "attested": true,
@@ -421,7 +425,7 @@
     ],
     "source": "Natya Shastra and Puranic iconography of Saraswati",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "vanuatu-slit-drum-1620",
@@ -431,7 +435,7 @@
     "region": "Pacific",
     "culture": "Vanuatuan (northern islands)",
     "type": "musical instrument",
-    "description": "Hollowed log drum of Vanuatu, carved from a single tree trunk with a narrow slot and open ends, struck with beaters to send sound across the village and reef. The slit drum calls people to gatherings, marks the rhythm of dances, and in the northern islands the great carved tamtam stand before the village as monumental records of chiefs.",
+    "description": "Hollowed log drum of Vanuatu, carved from a single tree trunk with a narrow longitudinal slot and open ends, struck with wooden beaters to send a deep, carrying sound across the village and reef. In the northern islands, where the great carved tamtam stand upright before the village, the drums are monuments as much as instruments: many are carved with faces and stand several metres tall as records of chiefs and ancestors. The slit drum calls people to gatherings, announces deaths and ceremonies, keeps the rhythm of dances, and in grade-taking and other graded society rites the number and size of drums a village holds reflects its prestige.",
     "source_type": "secondary_scholarly",
     "source_quality": "documented",
     "attested": true,
@@ -459,7 +463,7 @@
     ],
     "source": "Ethnographic accounts of Vanuatuan music and carving",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "verbos-easter-palms-1759",
@@ -469,7 +473,7 @@
     "region": "Baltic",
     "culture": "Baltic (Lithuanian)",
     "type": "ritual object",
-    "description": "Tall bouquets of dried and dyed grasses, flowers, juniper and willow bound onto a nut-tree rod, carried to church on Palm Sunday for consecration and kept in an honoured place at home. The verba tradition, practised for at least seven generations in villages northwest of Vilnius, is recorded in paintings and ethnographies since the mid-1800s and still marks Easter and the St. Casimir's fair.",
+    "description": "Tall bouquets of dried and dyed grasses, flowers, mosses, juniper and willow, bound with leaves and seeds onto a rod of hazel or willow, carried to church on Palm Sunday for consecration and kept afterwards in an honoured place at home. The verba tradition has been practised for at least seven generations in villages northwest of Vilnius and is documented in paintings and ethnographies since the mid-1800s, and the palms are still made for Palm Sunday, for Easter and for the St. Casimir's Fair in Vilnius each March. The consecrated verba is kept by the household as a protection against storms and misfortune, hung behind the door or on the wall through the year.",
     "source_type": "oral_tradition",
     "source_quality": "well-documented",
     "attested": true,
@@ -509,7 +513,7 @@
     "region": "Slavic",
     "culture": "Slovak",
     "type": "tool",
-    "description": "The valaška is the small shepherd's axe of the Carpathian Highlands, a light axe on a long decorated wooden handle used as a staff, tool and weapon by Slovak bača shepherds. Legend credits it as the weapon of Jánošík, and it became a badge of the highland shepherd's life.",
+    "description": "The valaška is the small axe of the Carpathian shepherds, a light iron head set on a long wooden haft that reaches the waist, serving at once as walking staff, digging tool and weapon. Slovak bača shepherds and hikers of the High Tatras carry the valaška through the mountains, and its handle is often ornamented with engraved patterns or metal mountings that mark the maker and the owner. Folk legend places the valaška in the hand of Juraj Jánošík, the eighteenth-century outlaw of the Tatra country who is said to have robbed the nobles and shared the booty with the poor, and the axe became an attribute of highland identity as much as the flute and the pipe. In the twentieth century the valaška was adopted as an emblem of Slovak mountaineering and folk life, and carved examples are kept as souvenirs and in ethnographic collections.",
     "source_type": "oral_tradition",
     "source_quality": "documented",
     "attested": true,
@@ -548,7 +552,7 @@
     "region": "Slavic",
     "culture": "Russian (Slavic)",
     "type": "other",
-    "description": "Small wooden doll given to Vasilisa by her dying mother in the Russian fairy tale, which eats a morsel of the girl's food and helps her perform impossible tasks so that she survives her cruel stepmother and Baba Yaga. Recorded in Afanasyev's collection as 'Vasilisa the Beautiful', the doll is the helper-object of the tale, a folk counterpart to the magical helpers of later European fairy tales.",
+    "description": "Small wooden doll given to Vasilisa by her dying mother in the Russian fairy tale, which eats a morsel of the girl's food and helps her perform impossible tasks so that she survives her cruel stepmother and Baba Yaga. Recorded in Afanasyev's collection as 'Vasilisa the Beautiful', the doll is the helper-object of the tale, a folk counterpart to the magical helpers of later European fairy tales. The mother's blessing is essential: the doll works only for Vasilisa, must be fed a little food, and loses its power if others discover it. When Baba Yaga sets the impossible tasks of sorting grain, cleaning the hut and weaving cloth, the doll completes them overnight, and the witch herself wonders how the girl succeeds. The doll is sometimes said to carry the soul of the dead mother watching over her daughter; folklorists read it as motherly care transformed into a protective object.",
     "source_type": "literary",
     "source_quality": "well-documented",
     "attested": true,

@@ -655,7 +655,10 @@
     "lastUpdated": "2026-08-03",
     "living_tradition": true,
     "source_type": "oral_tradition",
-    "attested": true
+    "attested": true,
+    "related_items": [
+      "waka-taua"
+    ]
   },
   {
     "id": "tannin-1757",
@@ -3783,7 +3786,10 @@
     "living_tradition": false,
     "source_type": "literary",
     "pronunciation_ipa": "/tlaːltekuːtli/",
-    "attested": true
+    "attested": true,
+    "related_items": [
+      "cuauhxicalli"
+    ]
   },
   {
     "id": "tlanuwa-1798",
@@ -5662,11 +5668,12 @@
     "pronunciation_ipa": "/tɾɔl/",
     "attested": true,
     "related_items": [
-      "trollkors",
+      "great-cat-of-dovrefjell",
       "stavkirke",
-      "trolls-gold-norway",
+      "trollkors",
       "trolls-cast-stones-norway",
-      "great-cat-of-dovrefjell"
+      "trolls-gift-ring",
+      "trolls-gold-norway"
     ]
   },
   {
@@ -5777,10 +5784,12 @@
     "source_type": "oral_tradition",
     "attested": true,
     "related_items": [
+      "sunken-church-bell",
       "the-ljungby-horn",
       "the-ljungby-pipe",
-      "the-trolls-mitten",
-      "the-troll-shoes"
+      "the-skin-satchel",
+      "the-troll-shoes",
+      "the-trolls-mitten"
     ]
   },
   {
@@ -34265,6 +34274,7 @@
     "attested": true,
     "related_items": [
       "aegis",
+      "aegis-greek",
       "harpe-perseus"
     ]
   },
@@ -49929,7 +49939,10 @@
     "lastUpdated": "2026-08-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "attested": true
+    "attested": true,
+    "related_items": [
+      "co-loa-crossbow"
+    ]
   },
   {
     "id": "mahagiri-nat-burmese-3238",
@@ -56352,8 +56365,9 @@
     "source_type": "oral_tradition",
     "attested": true,
     "related_items": [
-      "jiu-ding",
-      "flaming-pearl"
+      "flaming-pearl",
+      "jade-dragon",
+      "jiu-ding"
     ]
   },
   {
@@ -59747,7 +59761,10 @@
     "source_quality": "good",
     "cultural_significance": "Powerful witch-queen of Pohjola in Finnish mythology, a master of magic and adversary of Väinämöinen.",
     "schema_org_type": "MythicalCreature",
-    "attested": true
+    "attested": true,
+    "related_items": [
+      "sampo"
+    ]
   },
   {
     "id": "lemminkainen-finland-0001",
@@ -69126,7 +69143,8 @@
     "source_type": "oral_tradition",
     "attested": true,
     "related_items": [
-      "kachina-doll"
+      "kachina-doll",
+      "katsina-tihu-owl"
     ]
   },
   {
@@ -75422,7 +75440,10 @@
     "lastUpdated": "2026-08-07",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "attested": true
+    "attested": true,
+    "related_items": [
+      "selkie-seal-skin"
+    ]
   },
   {
     "id": "k-eyech-1006",
@@ -82444,7 +82465,10 @@
     "lastUpdated": "2026-08-03",
     "living_tradition": true,
     "source_type": "oral_tradition",
-    "attested": true
+    "attested": true,
+    "related_items": [
+      "didgeridoo"
+    ]
   },
   {
     "id": "rakshasa-1521",
@@ -90441,6 +90465,7 @@
     "pronunciation_ipa": "/ɾa/",
     "attested": true,
     "related_items": [
+      "scepter-of-ra",
       "solar-barque-of-ra",
       "uraeus"
     ]
@@ -99170,7 +99195,10 @@
     "living_tradition": false,
     "source_type": "oral_tradition",
     "pronunciation_ipa": "/dʒaɪənt/",
-    "attested": true
+    "attested": true,
+    "related_items": [
+      "jacks-singing-harp"
+    ]
   },
   {
     "id": "ghost-generic-0007",
@@ -111616,7 +111644,11 @@
     "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "attested": true
+    "attested": true,
+    "related_items": [
+      "harpoon",
+      "kayak"
+    ]
   },
   {
     "id": "segen-1651",
@@ -111860,7 +111892,10 @@
     "lastUpdated": "2026-08-07",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "attested": true
+    "attested": true,
+    "related_items": [
+      "selkie-seal-skin"
+    ]
   },
   {
     "id": "sennentuntschi-switzerland-1654",
@@ -121657,7 +121692,10 @@
     "lastUpdated": "2026-08-07",
     "living_tradition": false,
     "source_type": "literary",
-    "attested": true
+    "attested": true,
+    "related_items": [
+      "makonde-shetani-figure"
+    ]
   },
   {
     "id": "sidi-bou-said-well-3292",
@@ -125653,7 +125691,10 @@
     "lastUpdated": "2026-08-07",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "attested": true
+    "attested": true,
+    "related_items": [
+      "sieidi-stone"
+    ]
   },
   {
     "name": "Storjunkare",
@@ -133789,7 +133830,10 @@
     "countries": [
       "Sweden"
     ],
-    "attested": true
+    "attested": true,
+    "related_items": [
+      "the-trolls-mitten"
+    ]
   },
   {
     "id": "joukahainen-finland-0001",
@@ -134516,7 +134560,10 @@
     "lastUpdated": "2026-08-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "attested": true
+    "attested": true,
+    "related_items": [
+      "didgeridoo"
+    ]
   },
   {
     "id": "jhelmaia-camel-kazakh-4012",
@@ -138044,7 +138091,10 @@
     "source_quality": "expert",
     "cultural_significance": "Ilmarinen is a a demigod from Nordic mythology, representing important cultural values and traditional beliefs.",
     "schema_org_type": "MythicalCreature",
-    "attested": true
+    "attested": true,
+    "related_items": [
+      "sampo"
+    ]
   },
   {
     "id": "inuarutligaks-greenland-0001",
@@ -139028,9 +139078,10 @@
     "pronunciation_ipa": "/aɪsɪs/",
     "attested": true,
     "related_items": [
-      "sistrum",
       "djed-pillar",
-      "knot-of-isis"
+      "knot-of-isis",
+      "papyrus-of-ani",
+      "sistrum"
     ]
   },
   {
@@ -158251,7 +158302,10 @@
     "version": "1.0.0",
     "lastUpdated": "2026-07-05",
     "living_tradition": false,
-    "source_type": "oral_tradition"
+    "source_type": "oral_tradition",
+    "related_items": [
+      "zanzibar-dhow"
+    ]
   },
   {
     "id": "pate-serpent-swahili-3930",
@@ -161622,7 +161676,10 @@
     "lastUpdated": "2026-08-07",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "attested": true
+    "attested": true,
+    "related_items": [
+      "asson-rattle"
+    ]
   },
   {
     "id": "dame-blanche-0485",
@@ -169559,11 +169616,15 @@
     "source_type": "literary",
     "attested": true,
     "related_items": [
+      "andvaranaut",
+      "gleipnir",
+      "gullinbursti",
+      "jarngreipr",
+      "megingjord",
       "mjolnir",
-      "tyrfing",
       "odroerir",
       "sifs-golden-hair",
-      "gullinbursti"
+      "tyrfing"
     ]
   },
   {
@@ -172749,7 +172810,10 @@
     "lastUpdated": "2026-08-07",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "attested": true
+    "attested": true,
+    "related_items": [
+      "bullroarer"
+    ]
   },
   {
     "id": "dayan-deerh-mongol-4003",
@@ -174092,7 +174156,10 @@
     "lastUpdated": "2026-08-03",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "attested": true
+    "attested": true,
+    "related_items": [
+      "bangmangi"
+    ]
   },
   {
     "id": "mv-dagas-0004",
@@ -179718,7 +179785,10 @@
     "lastUpdated": "2026-08-07",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "attested": true
+    "attested": true,
+    "related_items": [
+      "trolls-gift-ring"
+    ]
   },
   {
     "id": "hulduflk-iceland-0869",
@@ -179806,7 +179876,10 @@
     "lastUpdated": "2026-08-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "attested": true
+    "attested": true,
+    "related_items": [
+      "magic-scythe"
+    ]
   },
   {
     "id": "hulduflk-faroeislands-0870",
@@ -187139,7 +187212,10 @@
     "lastUpdated": "2026-08-07",
     "living_tradition": true,
     "source_type": "literary",
-    "attested": true
+    "attested": true,
+    "related_items": [
+      "orpheus-lyre"
+    ]
   },
   {
     "id": "chaacchaahk-mexico-0294",
@@ -187435,7 +187511,10 @@
     "lastUpdated": "2026-08-07",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "attested": true
+    "attested": true,
+    "related_items": [
+      "bata-drum"
+    ]
   },
   {
     "id": "charonda-0298",
@@ -207865,7 +207944,10 @@
     "source_quality": "expert",
     "cultural_significance": "Väinämöinen is a a demigod from Nordic mythology, representing important cultural values and traditional beliefs.",
     "schema_org_type": "MythicalCreature",
-    "attested": true
+    "attested": true,
+    "related_items": [
+      "sampo"
+    ]
   },
   {
     "id": "vittra-iceland-0001",
@@ -208659,9 +208741,10 @@
     "source_type": "literary",
     "attested": true,
     "related_items": [
-      "gungnir",
       "draupnir",
+      "gungnir",
       "hlidskjalf",
+      "odroerir",
       "valaskjalf",
       "valhalla"
     ]
@@ -208747,9 +208830,10 @@
     "source_type": "literary",
     "attested": true,
     "related_items": [
-      "gungnir",
       "draupnir",
+      "gungnir",
       "hlidskjalf",
+      "odroerir",
       "valaskjalf",
       "valhalla"
     ]
@@ -217704,7 +217788,11 @@
     "lastUpdated": "2026-08-03",
     "living_tradition": true,
     "source_type": "oral_tradition",
-    "attested": true
+    "attested": true,
+    "related_items": [
+      "nagas-jewel",
+      "that-phanom-relic"
+    ]
   },
   {
     "id": "nagual-nahual-1265",
@@ -246849,7 +246937,10 @@
     "lastUpdated": "2026-08-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "attested": true
+    "attested": true,
+    "related_items": [
+      "govi-jar"
+    ]
   },
   {
     "id": "basajaun-0126",
@@ -251134,7 +251225,10 @@
     "lastUpdated": "2026-08-07",
     "living_tradition": true,
     "source_type": "literary",
-    "attested": true
+    "attested": true,
+    "related_items": [
+      "egyptian-kohl-tube"
+    ]
   },
   {
     "id": "betal-0183",
@@ -269124,7 +269218,10 @@
     "source_type": "oral_tradition",
     "source": "Danish folklore — magic objects from Hans Christian Andersen and Danish tradition.",
     "source_quality": "fair",
-    "attested": true
+    "attested": true,
+    "related_items": [
+      "the-tinderbox"
+    ]
   },
   {
     "id": "stub-sinti-lapitta",
@@ -269751,7 +269848,10 @@
     "source_type": "oral_tradition",
     "source_quality": "fair",
     "source": "Nordic maritime folklore",
-    "attested": true
+    "attested": true,
+    "related_items": [
+      "gusli"
+    ]
   },
   {
     "id": "stub-beaver-chinook",
@@ -272583,7 +272683,10 @@
     "source_type": "literary",
     "source_quality": "well-documented",
     "source": "Poetic Edda; Norse sagas; archaeological evidence",
-    "attested": true
+    "attested": true,
+    "related_items": [
+      "seidr-staff"
+    ]
   },
   {
     "id": "stub-whale-kwakwaka-wakw",
@@ -273103,7 +273206,10 @@
     "source_type": "oral_tradition",
     "source": "Danish folklore — sentient objects documented in Danish oral tradition.",
     "source_quality": "fair",
-    "attested": true
+    "attested": true,
+    "related_items": [
+      "the-tallow-candle"
+    ]
   },
   {
     "id": "stub-raven-guguyni-nuu-chah-nulth",
@@ -276096,7 +276202,8 @@
     "source": "Historia Regum Britanniae (Geoffrey of Monmouth, 1136); Arthurian cycle",
     "attested": true,
     "related_items": [
-      "excalibur"
+      "excalibur",
+      "the-round-table"
     ]
   },
   {
@@ -276149,7 +276256,10 @@
     "source_type": "literary",
     "source_quality": "well-documented",
     "source": "Poetic Edda, Prose Edda (Snorri Sturluson, 13th century)",
-    "attested": true
+    "attested": true,
+    "related_items": [
+      "the-well-of-urd"
+    ]
   },
   {
     "id": "stub-flying-troll",
@@ -276513,7 +276623,10 @@
     "source_type": "oral_tradition",
     "source": "Danish folklore — spirit figures documented in Danish oral tradition.",
     "source_quality": "fair",
-    "attested": true
+    "attested": true,
+    "related_items": [
+      "the-tinderbox"
+    ]
   },
   {
     "id": "stub-kushtaka-land-otter-man-tlingit",
@@ -276774,7 +276887,10 @@
     "source_type": "oral_tradition",
     "source": "Danish folklore — magic objects documented in Danish oral tradition.",
     "source_quality": "fair",
-    "attested": true
+    "attested": true,
+    "related_items": [
+      "the-flying-trunk"
+    ]
   },
   {
     "id": "stub-raven-nang-kilslas-haida",
@@ -277671,7 +277787,10 @@
     "source_type": "oral_tradition",
     "source": "Danish folklore — spellbook/magic documented in Danish oral tradition.",
     "source_quality": "fair",
-    "attested": true
+    "attested": true,
+    "related_items": [
+      "the-magic-book"
+    ]
   },
   {
     "id": "stub-flying-african",
@@ -278248,7 +278367,10 @@
     "source_type": "literary",
     "source_quality": "well-documented",
     "source": "Poetic Edda; Prose Edda (Snorri Sturluson, 13th century)",
-    "attested": true
+    "attested": true,
+    "related_items": [
+      "the-well-of-urd"
+    ]
   },
   {
     "id": "stub-talking-fish-iceland",
@@ -279934,7 +280056,10 @@
     "source_type": "oral_tradition",
     "source_quality": "fair",
     "source": "Swedish folklore; Nordic ballad tradition",
-    "attested": true
+    "attested": true,
+    "related_items": [
+      "the-golden-keys"
+    ]
   },
   {
     "id": "stub-nightingale-denmark",

@@ -335,11 +335,12 @@
     "pronunciation_ipa": "/tɾɔl/",
     "attested": true,
     "related_items": [
-      "trollkors",
+      "great-cat-of-dovrefjell",
       "stavkirke",
-      "trolls-gold-norway",
+      "trollkors",
       "trolls-cast-stones-norway",
-      "great-cat-of-dovrefjell"
+      "trolls-gift-ring",
+      "trolls-gold-norway"
     ]
   },
   {
@@ -450,10 +451,12 @@
     "source_type": "oral_tradition",
     "attested": true,
     "related_items": [
+      "sunken-church-bell",
       "the-ljungby-horn",
       "the-ljungby-pipe",
-      "the-trolls-mitten",
-      "the-troll-shoes"
+      "the-skin-satchel",
+      "the-troll-shoes",
+      "the-trolls-mitten"
     ]
   },
   {
@@ -5211,7 +5214,10 @@
     "source_quality": "good",
     "cultural_significance": "Powerful witch-queen of Pohjola in Finnish mythology, a master of magic and adversary of Väinämöinen.",
     "schema_org_type": "MythicalCreature",
-    "attested": true
+    "attested": true,
+    "related_items": [
+      "sampo"
+    ]
   },
   {
     "id": "lemminkainen-finland-0001",
@@ -6007,7 +6013,10 @@
     "lastUpdated": "2026-08-07",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "attested": true
+    "attested": true,
+    "related_items": [
+      "selkie-seal-skin"
+    ]
   },
   {
     "id": "kraken-2132",
@@ -9589,7 +9598,10 @@
     "lastUpdated": "2026-08-07",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "attested": true
+    "attested": true,
+    "related_items": [
+      "selkie-seal-skin"
+    ]
   },
   {
     "id": "sj-lens-port-1687",
@@ -13255,7 +13267,10 @@
     "countries": [
       "Sweden"
     ],
-    "attested": true
+    "attested": true,
+    "related_items": [
+      "the-trolls-mitten"
+    ]
   },
   {
     "id": "joukahainen-finland-0001",
@@ -13799,7 +13814,10 @@
     "source_quality": "expert",
     "cultural_significance": "Ilmarinen is a a demigod from Nordic mythology, representing important cultural values and traditional beliefs.",
     "schema_org_type": "MythicalCreature",
-    "attested": true
+    "attested": true,
+    "related_items": [
+      "sampo"
+    ]
   },
   {
     "id": "ellefolk-0667",
@@ -14805,11 +14823,15 @@
     "source_type": "literary",
     "attested": true,
     "related_items": [
+      "andvaranaut",
+      "gleipnir",
+      "gullinbursti",
+      "jarngreipr",
+      "megingjord",
       "mjolnir",
-      "tyrfing",
       "odroerir",
       "sifs-golden-hair",
-      "gullinbursti"
+      "tyrfing"
     ]
   },
   {
@@ -16523,7 +16545,10 @@
     "lastUpdated": "2026-08-07",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "attested": true
+    "attested": true,
+    "related_items": [
+      "trolls-gift-ring"
+    ]
   },
   {
     "id": "hulduflk-iceland-0869",
@@ -16611,7 +16636,10 @@
     "lastUpdated": "2026-08-05",
     "living_tradition": false,
     "source_type": "oral_tradition",
-    "attested": true
+    "attested": true,
+    "related_items": [
+      "magic-scythe"
+    ]
   },
   {
     "id": "hulduflk-faroeislands-0870",
@@ -19502,7 +19530,10 @@
     "source_quality": "expert",
     "cultural_significance": "Väinämöinen is a a demigod from Nordic mythology, representing important cultural values and traditional beliefs.",
     "schema_org_type": "MythicalCreature",
-    "attested": true
+    "attested": true,
+    "related_items": [
+      "sampo"
+    ]
   },
   {
     "id": "creature-vindra-009",
@@ -19617,9 +19648,10 @@
     "source_type": "literary",
     "attested": true,
     "related_items": [
-      "gungnir",
       "draupnir",
+      "gungnir",
       "hlidskjalf",
+      "odroerir",
       "valaskjalf",
       "valhalla"
     ]
@@ -19705,9 +19737,10 @@
     "source_type": "literary",
     "attested": true,
     "related_items": [
-      "gungnir",
       "draupnir",
+      "gungnir",
       "hlidskjalf",
+      "odroerir",
       "valaskjalf",
       "valhalla"
     ]

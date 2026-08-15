@@ -16,7 +16,7 @@
     "maker": "Taino carvers",
     "powers": "Houses a spirit and speaks through the behique.",
     "associated_creature": "cemi-taino",
-    "description": "Sculpted figures of the Taino holding a spirit, or zemi, carved from wood, stone or cotton and kept in the household or the cacique's house to give health, good harvests or answers through the behique (shaman). Spanish accounts record caciques who owned great numbers of them, and a few wooden examples survive. The word zemi names both the spirit and the object that houses it.",
+    "description": "The zemi is the carved effigy through which the Taíno of the Greater Antilles kept their spirits close: figures of wood, stone, bone or cotton, shaped by carvers to hold a spirit and kept in the household, in the fields, or in the house of the cacique. The behique, the ritual specialist, consulted them for health, harvests and answers, and Spanish accounts describe caciques who owned great numbers of them, receiving the first fruits and offering cures before them. Some zemis were consulted in the cohoba ceremony, when the behique inhaled the powder of the sacred seeds and spoke the spirit's words, and a few wooden examples survive from the islands, carved with crouching human forms and small cavities for offerings. The word zemi names both the spirit itself and the object that houses it, so the effigy is the spirit given a body. Today they are prized museum pieces and a central symbol of Taíno heritage in Cuba, Puerto Rico and the Dominican Republic.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Colonial accounts and surviving Taino objects",
@@ -39,7 +39,7 @@
       "zemi figure"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "vejigante-mask-1359",
@@ -58,7 +58,7 @@
     "maker": "Puerto Rican mask-makers",
     "powers": "Scares away evil with its horns and colors at carnival.",
     "associated_creature": null,
-    "description": "The fierce carnival masks of Ponce, Puerto Rico, with their horns, fangs, bulging eyes and wild colors, worn by the vejigante during Carnival to tease crowds and chase away evil spirits. The tradition mixes the Spanish celebration of the festival with African and Taino elements, each town with its own style. The mask is now both a carnival essential and a celebrated Puerto Rican folk art form.",
+    "description": "The vejigante mask of Ponce, Puerto Rico, is a carnival face of papier-mâché crowned with horns, given fangs, bulging eyes and brilliant colors, worn by the vejigante, the trickster of the Puerto Rican Carnival who whirls through the crowds chasing children and driving off evil spirits. The tradition fuses the Spanish festival, the word comes from vejiga, 'bladder,' after the dried bladders the first celebrants carried, with African and Taíno elements, and each town gave the figure its own face. Ponce's masks are the most elaborate, built up with wings and bristling horns; in Loíza the vejigante instead wears a horned mask of coconut or wire and a costume of layered, fluttering cloth. The craft passed from the great twentieth-century mask-makers of the Ponce families to a generation of folk artists, and the careta is now collected as serious Puerto Rican art. At carnival time the masks still roar, horned and laughing, at the heart of the island's most exuberant festival.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Puerto Rican carnival tradition",
@@ -81,7 +81,7 @@
       "vejigante"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "asson-rattle-1360",
@@ -101,8 +101,10 @@
     "maker": "Vodou houngan and mambo",
     "powers": "Rings the spirits into the peristyle at ceremony.",
     "associated_creature": null,
-    "description": "The rattle of Haitian Vodou, a gourd fitted with a handle and strung with snake vertebrae and beads, shaken by the houngan or mambo to summon the lwa into the peristyle (temple) at ceremonies. Only the priest or priestess handles it, and its shaking marks the moment the spirits arrive to possess the faithful. The asson is among the most sacred objects of Vodou ritual.",
-    "related_creatures": [],
+    "description": "The asson is the sacred rattle of Haitian Vodou, a gourd fitted with a handle and wrapped in a beaded net threaded with snake vertebrae, held only by the houngan or the mambo, the priest and priestess who lead the congregation. Its sound opens the ceremony: as the rattle is shaken before the peristyle, the lwa, the spirits, are called into the space, and its rhythm marks the moment they descend to possess the faithful. The beads are strung in the colors of the spirits, white for Damballah, the great serpent, black and red for Legba, yellow for Kouzen Zaka, and the gourd is kept consecrated, rubbed with red palm oil and cinnamon so that it grows dark and glossy with use. The asson is given to the priest only at the end of a long initiation, and handling another's asson is a grave offense; a related instrument, the chacha, serves the Petro rites. The rattle is thus the credential and the voice of the priest, the object that rings the spirits into the world of the living.",
+    "related_creatures": [
+      "damballa"
+    ],
     "featured_in_stories": [],
     "source": "Haitian Vodou practice and ethnographic studies",
     "source_type": "oral_tradition",
@@ -124,7 +126,7 @@
       "asson"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "govi-jar-1361",
@@ -143,9 +145,13 @@
     "maker": "Vodou practitioners",
     "powers": "Holds the spirits of the ancestors and the dead.",
     "associated_creature": null,
-    "description": "A clay jar or bottle used in Haitian Vodou to contain the presence of the dead or the spirits of the ancestors, kept in the temple and opened with care by the priest. The govi is an ordinary vessel made extraordinary by the ritual that fills it, and its handling is governed by strict rules of respect. It links the community of the living with the world beneath.",
-    "related_creatures": [],
-    "featured_in_stories": [],
+    "description": "The govi is the earthenware jar of Haitian Vodou that holds the presence of the dead, a red clay vessel or bottle kept in the temple where it contains a spirit or the reclaimed spirit of an ancestor. The most solemn use of the govi belongs to the rite of reclamation, when, a year and a day after a death, the priest retrieves the gwobonanj, the 'big guardian angel,' from the waters of Ginen, the abyssal homeland of the spirits, and the wete mò nan dlo ceremony settles it into the jar. The vessel is then fed with offerings, manje mò, food for the dead, and becomes the place where the ancestor may be consulted, giving advice and protection to the living. If the rite fails or the govi is neglected, misfortune is said to follow the family. The plain clay jar is made extraordinary by the ritual that fills it, and its handling is governed by the strictest respect. Through the govi, the family of the living and the world beneath remain one household.",
+    "related_creatures": [
+      "baron-samedi"
+    ],
+    "featured_in_stories": [
+      "baron-samedi-lord-of-the-dead"
+    ],
     "source": "Haitian Vodou practice and ethnographic studies",
     "source_type": "oral_tradition",
     "source_quality": "well-documented",
@@ -165,7 +171,7 @@
       "clay jar of the dead"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "bata-drum-1362",
@@ -184,8 +190,10 @@
     "maker": "Santería drum-makers",
     "powers": "Talks the language of the orishas at ceremony.",
     "associated_creature": null,
-    "description": "The sacred twin drums of Cuban Santería, carved in an hourglass shape with heads of different sizes, played only by initiates in ceremonies where their rhythms are said to speak the language of the orishas. The drums descend from the Yoruba bata of West Africa, carried by enslaved people to Cuba and preserved behind Catholic saints. Each drum is consecrated and named when it is made.",
-    "related_creatures": [],
+    "description": "The batá is the consecrated drum of Cuban Santería, an hourglass-shaped instrument with two heads of different sizes, played in a set of three, the small okónkolo, the middle itótele and the great iyá, the mother drum that speaks the lead voices. The drums descend from the Yoruba bata of West Africa, carried to Cuba by enslaved people and kept alive behind the Catholic saints, and their rhythms are said to speak the language of the orishas during ceremonies, each rhythm belonging to a particular spirit. A consecrated batá has the orisha Añá installed within it, and only initiated male drummers, omo Añá, may play it; the drums are never allowed to touch the ground and are fed and dressed when not in use. Changó, the thunder deity, is held to be the drums' spiritual owner. The iyá leads and the smaller drums answer, and together they call the orishas down into the gathering; beyond the temple, batá rhythms entered Cuban music and from there the world, but the sacred instrument remains the heart of the religion it serves.",
+    "related_creatures": [
+      "chang"
+    ],
     "featured_in_stories": [],
     "source": "Cuban Santería practice and music studies",
     "source_type": "oral_tradition",
@@ -207,7 +215,7 @@
       "yoruba drum cuba"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "eleke-beads-1363",
@@ -226,7 +234,7 @@
     "maker": "Santería devotees",
     "powers": "Binds the wearer to the protection of a specific orisha.",
     "associated_creature": null,
-    "description": "The bead necklaces of Cuban Santería, each strung in the colors of a particular orisha and given in ceremony to mark the wearer under that spirit's protection. The eleke is consecrated and must be removed only with respect, and its colors reveal the orisha to those who know the tradition. It descends from the beaded collars of Yoruba religion and marks initiation and devotion.",
+    "description": "The eleke is the beaded necklace of Cuban Santería, strung in the colors of a particular orisha and given in ceremony to place the wearer under that spirit's protection. White for Obatalá, red and white for Changó, blue and white for Yemayá, yellow for Oshun, the pattern of the beads names the orisha to anyone who knows the tradition, and the necklaces are worn close to the skin as a constant guard. The eleke descends from the beaded collars of Yoruba religion, brought to Cuba with the people who were enslaved and transformed into the religion's regalia; each necklace is consecrated before it is given, and the ceremony of receiving one marks a step into the religion's life. Removing the necklace, or letting it break, is treated with concern, and the beads are handled respectfully and kept clean. The eleke is thus at once ornament, devotion and a visible map of the sacred.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Cuban Santería practice and ethnographic studies",
@@ -249,7 +257,7 @@
       "eleke necklace"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "duho-1364",
@@ -268,7 +276,7 @@
     "maker": "Taíno wood-carvers",
     "powers": "Raises the cacique above the ground and close to the spirits.",
     "associated_creature": "cemi-taino",
-    "description": "The duho is the carved wooden seat of the Taíno, a ceremonial stool of guaiacum or mahogany on which caciques sat in ritual, often carved as a creature or reclining zemi figure. Spanish chroniclers recorded chiefs receiving Columbus seated on duhos; museum-dated examples from about AD 600 span the islands from Cuba to the Bahamas. It raised its user toward the spirits in cohoba ceremonies.",
+    "description": "The duho is the carved wooden seat of the Taíno, a low ceremonial stool of guaiacum or mahogany on which caciques and behiques sat in ritual, carved in the shape of an animal, a crouching figure or a reclining zemi with upturned chin and closed eyes. Spanish chroniclers recorded chiefs receiving Columbus and his men seated on duhos, and surviving museum pieces dated to around AD 600 span the islands from Cuba to the Bahamas, showing the form was ancient and widespread. The stool lifted its sitter above the ground and toward the spirits, and it was used in the cohoba ceremony, when the behique inhaled the sacred powder and entered a visionary state; some duhos are carved with a flat surface that could support a tray or zemi during those rites. The finest are praised for the grace of their carving, with four legs and a curved back shaped from a single piece of wood. The duho is one of the most distinctive objects of Taíno art and a proud emblem of Caribbean Indigenous heritage.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Archaeological duhos in museum collections and early colonial accounts",
@@ -291,7 +299,7 @@
       "taino wooden stool"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "careta-lechuguilla-1365",
@@ -310,7 +318,7 @@
     "maker": "Puerto Rican mask-makers",
     "powers": "Worn at the Fiestas de los Santos Inocentes to escape King Herod.",
     "associated_creature": null,
-    "description": "The masked costume of the Fiestas de los Santos Inocentes in Hatillo, Puerto Rico, where on December 28 masqueraders run through town in vejigante-style masks and painted gowns to re-enact King Herod's search for the Christ child. Brought by settlers from the Canary Islands in 1823, the mask lets the wearer hide from the story's soldiers and turn the day into a chase of laughter.",
+    "description": "The lechuguilla is the masked costume of the Fiestas de los Santos Inocentes in Hatillo, Puerto Rico, held every December 28, when costumed runners race through the streets of the town in painted wire-mesh masks and gowns covered in ruffled fabric curls. The celebration descends from a custom brought by the Canary Island settlers who founded Hatillo in 1823, and it re-enacts the biblical Massacre of the Innocents: the masked runners, called corredores, take the part of King Herod's soldiers, hunting the Christ child, while the crowd flees and turns the hunt into a chase of laughter. The masks, made of cedazo wire covered in papier-mâché and painted in bright colors, are the work of local artisans, and the whole costume is often finished with a crown of fabric flowers or ribbons. Though the name lechuguilla is only partly explained, in Puerto Rico the same word names an aquatic plant, the festival itself is one of the island's most beloved traditions, a December carnival that has run for two centuries.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Puerto Rican festival tradition",
@@ -332,6 +340,6 @@
       "puerto rico carnival mask"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   }
 ]

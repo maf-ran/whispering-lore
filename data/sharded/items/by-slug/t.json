@@ -16,7 +16,7 @@
     "maker": "Troll or hulder folk",
     "powers": "Gifts from the hidden folk bring luck to those who accept them without greed, and ruin to the grasping.",
     "associated_creature": null,
-    "description": "In Norwegian and Scandinavian folk belief, the hulder and the troll folk sometimes press gifts upon humans — rings, bracelets, or coins that look like gold. Accepting such a gift courteously could bring lasting luck, while greedily taking more, or refusing rudely, brought misfortune. The motif is widely told across Norway, Sweden, and Denmark, with many local variations on what the gift becomes at dawn.",
+    "description": "The troll's gift ring belongs to a widespread Nordic belief that the hidden folk — the huldra, the hill-folk, and the trolls — sometimes press gifts upon humans: rings, bracelets, belts, or coins that gleam like gold. In the folk tradition it is said that a person who accepted such a gift courteously and without greed could keep lasting luck, while one who snatched greedily at more, or refused rudely, would be cursed with misfortune; at dawn the fine gift might also be found to have turned to leaves, moss, or ashes, the standard fate of fairy gold. The motif is told across Norway, Sweden, and Denmark with many local variations, and it belongs to the wider Scandinavian lore of encounters with the underworld folk rather than to any single saga. The custom of the gift-ring illustrates the deep belief that luck in this world hung on how one treated the hidden neighbours.",
     "related_creatures": [
       "huldra",
       "troll-norway"
@@ -42,7 +42,7 @@
       "troll gift"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "tyrfing-0201",
@@ -61,7 +61,7 @@
     "maker": "Dvalinn and Dulinn (dwarves)",
     "powers": "Never misses and never rusts, but kills a man every time it is drawn and brings three great evils.",
     "associated_creature": null,
-    "description": "Cursed sword of the Hervarar saga, forged by the dwarves Dvalinn and Dulinn for King Svafrlami, whom they cursed in return: the blade would kill a man each time it was drawn, never rust, and bring about three great evils. Hervör raised it from the barrow of her dead father Angantýr, and the curse worked ruin on every bearer after.",
+    "description": "Tyrfing is the cursed sword of the Hervarar saga, forged by the dwarves Dvalinn and Dulinn for King Svafrlami. When the king forced the dwarves to give him the finest blade they could make, they laid a curse upon it in return: the sword would never miss a stroke, never rust, would kill a man every time it was drawn, and would be the cause of three great evils. After killing the dwarves, Svafrlami was himself slain in a duel with the berserk Arngrímr, and the blade passed into the hands of Arngrímr's sons. The shield-maiden Hervör later raised the sword from the barrow of her dead father Angantýr by overcoming his ghost, and the curse drove the saga's later heroes, including Heiðrekr, to their deaths. Tyrfing is one of the archetypal cursed blades of Germanic legend and is often compared with Sigurðr's Gram.",
     "related_creatures": [
       "dwarf-dvergr"
     ],
@@ -87,7 +87,7 @@
       "angantyr"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "thjofastafur-0218",
@@ -106,7 +106,7 @@
     "maker": "Icelandic grimoire tradition",
     "powers": "Protects livestock and goods from thieves.",
     "associated_creature": null,
-    "description": "Þjófastafur, the thief stave of the Huld manuscript, drawn to guard livestock and goods against theft. The name means 'thief-stave', and the sign was meant to make a thief unable to take what belonged to the bearer. It answered a real fear in the farmsteads, protecting herds and households that had no other defence.",
+    "description": "Þjófastafur, the 'thief stave', is an Icelandic magical sign recorded in the Huld manuscript, compiled by Geir Vigfússon at Akureyri in 1860, and drawn to guard livestock and goods against theft. The name literally means 'thief-stave', and the sign was meant to make a thief unable to take what belonged to the bearer, or to bring him back to face the community. It answered a real fear on isolated farmsteads, where herds and household goods had no other defence against thieves and wanderers. It belongs to the protective family of galdrastafir, and like most of the staves it is known from a 19th-century manuscript that preserved older folk tradition rather than from any Viking-Age source. The thief stave is still reproduced in books and on jewellery, and the Museum of Icelandic Sorcery at Hólmavík displays it among the protective signs of the grimoire tradition.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Huld manuscript (Lbs 4626 8vo, 1860)",
@@ -128,7 +128,7 @@
       "huld manuscript"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "troll-porridge-bowl-0305",
@@ -148,7 +148,7 @@
     "maker": "Farm household",
     "powers": "Appeases the tomte so the farm prospers.",
     "associated_creature": "tomte",
-    "description": "At Christmas, Swedish farm families set out a bowl of rice porridge with butter for the tomte, the farm's household spirit. The bowl was left in the attic, the barn, or by the hearth; if the butter was hidden or the porridge forgotten, the tomte was said to abandon the farm or work mischief. The custom, documented across Sweden into the twentieth century, is the subject of many tomte tales.",
+    "description": "At Christmas, Swedish farm families set out a bowl of rice porridge with butter for the tomte, the farm's household spirit. The bowl was left in the attic, the barn, or by the hearth; if the butter was hidden or the porridge forgotten, the tomte was said to abandon the farm or work mischief. The custom, documented across Sweden into the twentieth century, is the subject of many tomte tales. The offering was made on Christmas Eve or Christmas night, and the family looked the next morning to see whether the porridge had been eaten; the tomte, a small bearded figure who watched over the farm, was easy to offend and quick to reward a well-kept household. Tales tell of the tomte thrashing the hired girl who hid the butter, or blessing the family that always remembered his bowl, so that the porridge became the heart of the farm's winter ritual. The custom survives today in the small bowl of rice porridge still set out in many Swedish homes.",
     "related_creatures": [
       "tomte"
     ],
@@ -177,7 +177,7 @@
       "julgröt"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "the-trolls-mitten-0326",
@@ -196,9 +196,10 @@
     "maker": "Dropped by a troll",
     "powers": null,
     "associated_creature": null,
-    "description": "A mitten that a troll or giant is said to have dropped and left behind, so large that a human could use it for shelter or sleep inside the thumb. The motif of the lost glove or mitten of the troll folk appears in Swedish tales as proof of the hidden people's size, and finding it is both marvellous and dangerous.",
+    "description": "A mitten that a troll or giant is said to have dropped and left behind, so large that a human could use it for shelter or sleep inside the thumb. The motif of the lost glove or mitten of the troll folk appears in Swedish tales as proof of the hidden people's size, and finding it is both marvellous and dangerous. In one telling a traveller lost in the woods finds shelter from the storm inside a huge abandoned mitten, only to learn at dawn that he has slept in the dropped glove of a jätte, one of the ancient giants of Swedish folklore. The giants and the trolls of Swedish tradition are close kin — both dwell in the mountains and the deep forest, and both are of impossible size — and the same lost-mitten story is told of each. The mitten is thus a story-teller's proof of the scale of the other world: a single dropped garment that shows how small the human world is beside the hidden one.",
     "related_creatures": [
-      "troll-sweden"
+      "troll-sweden",
+      "jatte"
     ],
     "featured_in_stories": [],
     "source": "Swedish troll-tale motif of the lost mitten",
@@ -219,7 +220,7 @@
       "troll glove"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "the-troll-shoes-0335",
@@ -238,7 +239,7 @@
     "maker": "Worn by a troll in the tale",
     "powers": "Let the wearer stride over mountains or move faster than thought.",
     "associated_creature": null,
-    "description": "Shoes worn by a troll in a Swedish folk tale. In the tale 'The Troll Shoes', the troll's footwear, or the wearing of it, lets a human stride over mountains or move faster than thought, and the shoes are won or put on during the tale's test. The troll's shoes are a typical wonder-object of Swedish troll tales.",
+    "description": "Shoes worn by a troll in a Swedish folk tale. In the tale 'The Troll Shoes', the troll's footwear, or the wearing of it, lets a human stride over mountains or move faster than thought, and the shoes are won or put on during the tale's test. The wonder-shoes belong to a wider family of magic footwear in Nordic tales, where boots or shoes carry the wearer across any distance, the same gift that appears in tales of seven-league boots elsewhere in Europe. Winning them usually demands courage or a clever bargain with the troll, and wearing them well shows the hero's worth. The troll's shoes are a typical wonder-object of Swedish troll tales, where the hidden folk's tools are both a danger and a prize for the human who can take them.",
     "related_creatures": [
       "troll-sweden"
     ],
@@ -262,7 +263,7 @@
       "magic shoes swedish tale"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "the-treasure-in-saby-creek-0339",
@@ -281,7 +282,7 @@
     "maker": "Hidden in the creek",
     "powers": null,
     "associated_creature": null,
-    "description": "A hidden treasure said to lie in a creek at Säby in Småland, at the centre of a Swedish folk tale. In the tale 'The Treasure in Säby Creek', the buried hoard is guarded or hard-won, and the treasure-seekers' venture into the creek tests their courage and luck. It belongs to the large Swedish family of tales about treasure guarded in the landscape.",
+    "description": "A hidden treasure said to lie in a creek at Säby in Småland, at the centre of a Swedish folk tale. In the tale 'The Treasure in Säby Creek', the buried hoard is guarded or hard-won, and the treasure-seekers' venture into the creek tests their courage and luck. It belongs to the large Swedish family of tales about treasure guarded in the landscape, where gold lies under stones, in mounds, or at the bottom of waters, and where the guardian is a troll, a draug, or a burning light that marks the spot. Such tales taught that the treasure could be won only by the right person at the right hour, often on a holy night, and that greed or a misread sign cost the seekers everything. The creek at Säby keeps the promise and the warning of all such hoards.",
     "related_creatures": [],
     "featured_in_stories": [
       "the-treasure-in-sby-creek"
@@ -304,7 +305,7 @@
       "buried hoard småland"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "trollkors-0404",
@@ -322,7 +323,7 @@
     "era": "Folk era",
     "powers": "Keeps trolls and malevolent powers out of buildings and off objects.",
     "associated_creature": null,
-    "description": "A protective cross carved, cut, or forged onto a building, door, or object to stop trolls and harmful powers from harming people or livestock. Documented chiefly in Uppland, Sweden, with similar marks on Norwegian medieval buildings, the crosses were set over doorways and windows and on cookware and loaves of bread. A looped-iron amulet from Dalarna in the 1990s became a tourist talisman.",
+    "description": "A protective cross carved, cut, or forged onto a building, door, or object to stop trolls and harmful powers from harming people or livestock. Documented chiefly in Uppland, Sweden, with similar marks on Norwegian medieval buildings, the crosses were set over doorways and windows and on cookware and loaves of bread. A looped-iron amulet from Dalarna in the 1990s became a tourist talisman. The carved cross worked by turning the object or the doorway into a sign of the blessed, which the hidden folk could not cross, and it was cut into the wood of new buildings, over the cattle-stall, and on tools that passed through dangerous places. The name trollkors records the enemy it was set against, and the mark survives in folk art and modern craft long after the belief that shaped it.",
     "related_creatures": [
       "troll-norway"
     ],
@@ -346,7 +347,7 @@
       "iron amulet"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "tune-rune-stone-0410",
@@ -362,7 +363,7 @@
     "material": "Rune-carved granite",
     "era": "c. 400",
     "associated_creature": null,
-    "description": "The oldest known Norwegian runestone, found in pieces at Tune in Østfold and dated to around 400 CE. Its short inscription in the early runic alphabet records how heirs divided a man's estate and is among the earliest attestations of a Germanic language. The archaic word forms make it a key document for scholars of early Norse language and runic writing.",
+    "description": "The oldest known Norwegian runestone, found in pieces at Tune in Østfold and dated to around 400 CE. Its short inscription in the early runic alphabet records how heirs divided a man's estate and is among the earliest attestations of a Germanic language. The archaic word forms make it a key document for scholars of early Norse language and runic writing. Cut from red granite in the shape of a rough pyramid about two meters high, the stone stood at a farm before being set into the floor of a church doorway, where it was rediscovered in the 19th century. Its inscription in Proto-Norse, 'ek wiwaz after woduride... worahto runor', 'I, Wiwaz, made the runes in memory of Woduridaz, my lord', names the carver and the dead, and scholars long debated the reading of the names before the text was settled. The stone now stands in the Museum of Cultural History in Oslo.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Runic inscription, Tune, Østfold",
@@ -383,7 +384,7 @@
       "tune stone"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "trolls-gold-norway-0411",
@@ -401,7 +402,7 @@
     "era": "Folk era",
     "powers": "Gifts of troll gold bring luck when accepted with grace and ruin when taken greedily.",
     "associated_creature": null,
-    "description": "In Norwegian legend, gold the trolls leave or press on humans, coins, rings, and bracelets that seem to be treasure. Such gold is often said to turn to leaves, shavings, or stone at dawn unless the finder keeps silence or is grateful. The tales warn that grasping after troll treasure brings misfortune, while freely given treasure could bless a whole household.",
+    "description": "In Norwegian legend, gold the trolls leave or press on humans, coins, rings, and bracelets that seem to be treasure. Such gold is often said to turn to leaves, shavings, or stone at dawn unless the finder keeps silence or is grateful. The tales warn that grasping after troll treasure brings misfortune, while freely given treasure could bless a whole household. The troll gold follows the same rule as every gift of the hidden folk: it is real only to the one who takes it without greed and keeps the secret, and it mocks the covetous by turning worthless in the hand. Farmers who found a ring or a coin on the mountain road knew better than to boast of it, and families that accepted a troll's gift in the right spirit kept their luck through generations. The motif runs through Norwegian sagn collections as a warning against the desire for easy wealth.",
     "related_creatures": [
       "troll-norway"
     ],
@@ -425,7 +426,7 @@
       "huldre gold"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "trolls-cast-stones-norway-0425",
@@ -442,7 +443,7 @@
     "era": "Folk era",
     "powers": "Boulders said to have been hurled by trolls in anger or dropped in flight.",
     "associated_creature": null,
-    "description": "Large scattered boulders that Norwegian legend says trolls hurled in anger, or dropped while fleeing from the sound of church bells. Almost every valley names its stray blocks, the stones of this or that troll woman, and many show the supposed imprint of a giant hand or heel. Geologists read the same boulders as glacial erratics, and the two explanations coexisted for centuries.",
+    "description": "Large scattered boulders that Norwegian legend says trolls hurled in anger, or dropped while fleeing from the sound of church bells at dawn. Almost every valley names its stray blocks, and many show the supposed imprint of a giant hand, heel, or thumb; the same stones also mark the ends of the old paths the trolls were said to follow. Geologists read the boulders as glacial erratics carried by ice thousands of years ago, yet the trolls' version and the geologists' explanation long coexisted in popular speech. The names linger on maps, and the stones still anchor place-lore from Telemark to the far north.",
     "related_creatures": [
       "troll-norway"
     ],
@@ -465,7 +466,7 @@
       "hurled boulders"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "the-tinderbox-0430",
@@ -483,8 +484,11 @@
     "era": "Folk era",
     "powers": "Striking it summons three dogs that fetch treasure, a princess, and rescue from prison.",
     "associated_creature": null,
-    "description": "The magic flint and tinder of Hans Christian Andersen's tale, in which a soldier finds an old witch's tinderbox in a hollow tree guarded by three enormous dogs. Each strike of the flint summons one of the dogs, which bring him money, the princess, and rescue from prison. The story, built on older folk motifs of the magic object, turned the homely tinderbox into the key to wealth and a kingdom.",
-    "related_creatures": [],
+    "description": "The magic flint and tinder of Hans Christian Andersen's tale, in which a soldier finds an old witch's tinderbox in a hollow tree guarded by three enormous dogs with eyes as large as saucers, wagon wheels, and round towers. Each strike of the flint summons one of the dogs, which bring him money, carry the princess to him at night, and finally rescue him from the gallows. The story, built on older folk motifs of the magic object and tamed or grateful animals, turned the homely tinderbox into the key to wealth and a kingdom. The three metal dogs of the tale are themselves remembered as folkloric creatures.",
+    "related_creatures": [
+      "dogs-of-metal-denmark",
+      "magic-tinderbox-denmark"
+    ],
     "featured_in_stories": [
       "the-tinderbox"
     ],
@@ -507,7 +511,7 @@
       "magic tinderbox"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "the-trundholm-sun-chariot-0434",
@@ -524,7 +528,7 @@
     "era": "Bronze Age (c. 1400 BCE)",
     "powers": "A cult object showing the sun drawn across the sky by a horse.",
     "associated_creature": null,
-    "description": "A Bronze Age cult figure found in the Trundholm bog on Zealand, Denmark, in 1902: a bronze horse pulling a gilded bronze disc, all mounted on a six-wheeled stand. It is read as the sun drawn across the sky on its daily journey, the oldest such sun-horse image in Nordic art. The chariot is now in the National Museum of Denmark and has become a national symbol.",
+    "description": "A Bronze Age cult figure found in the Trundholm bog on Zealand, Denmark, in 1902: a bronze horse pulling a large gilded bronze disc, all mounted on a six-wheeled stand. The disc is gilded on one side and plain bronze on the other, an image usually read as the sun drawn across the sky by day and returning beneath the earth by night. It is the oldest such sun-horse image in Nordic art and a central piece in the debate over Bronze Age sun worship. The chariot is now in the National Museum of Denmark and has become a national symbol, reproduced on coins and in popular culture.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Bronze Age bog find, Trundholm, Zealand (1902)",
@@ -545,7 +549,7 @@
       "trundholm"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "the-tallow-candle-0440",
@@ -562,8 +566,10 @@
     "era": "Folk era",
     "powers": "Burns with a clear flame when it finds its purpose.",
     "associated_creature": null,
-    "description": "The tallow candle of a Danish poem credited to a young Hans Christian Andersen and found in the national archive in 2012. In the poem a rough, unlit candle complains that it has never burned, until it finds its true use and gives light. The discovery pushed the start of Andersen's literary career back to the early 1820s, and the poem is treated as his earliest known work.",
-    "related_creatures": [],
+    "description": "The tallow candle of a poem credited to a young Hans Christian Andersen and found in the Danish national archive in 2012. In the poem a rough, unlit candle complains that it has never burned, until it finds its true use and gives light, a moral tale about purpose and self-worth. The discovery pushed the start of Andersen's literary career back to the early 1820s, and the poem is now treated as his earliest known work. The candle is remembered as the first of the everyday objects Andersen made speak.",
+    "related_creatures": [
+      "sentient-candle-denmark"
+    ],
     "featured_in_stories": [
       "the-tallow-candle"
     ],
@@ -585,7 +591,7 @@
       "the tallow candle poem"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "talos-0605",
@@ -604,7 +610,7 @@
     "maker": "Hephaestus",
     "powers": "Patrolled Crete hurling rocks at ships; kept a single vein of ichor sealed by a nail at the ankle.",
     "associated_creature": null,
-    "description": "Talos, the bronze automaton forged by Hephaestus and given to Minos to patrol the shores of Crete; a giant man of bronze with a single vein of ichor sealed by a nail at the ankle. In the Argonautica he hurls rocks at passing ships until Medea charms him and the plug is drawn, draining his life-fluid.",
+    "description": "Talos, the bronze automaton forged by Hephaestus and given to Minos to patrol the shores of Crete, a giant man of bronze with a single vein of ichor sealed by a nail at the ankle. In the Argonautica he hurls rocks at passing ships, turning the sea against the Argonauts, until Medea charms him and the plug is drawn, draining his life-fluid. The tale is one of the earliest machines in Greek myth, a guardian who cannot be wounded except at one secret point. Talos has been read both as an ancient robot and as a relic of Minoan bull imagery.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Apollonius of Rhodes, Argonautica",
@@ -626,7 +632,7 @@
       "minos talos"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "theseus-sword-0607",
@@ -644,7 +650,7 @@
     "maker": "Aegeus (left beneath the rock at Troezen)",
     "powers": "Proof of royal birth; recognizes Theseus to his father Aegeus at Athens.",
     "associated_creature": null,
-    "description": "The sword of the Athenian hero Theseus, left with a pair of sandals beneath a great rock at Troezen by his father Aegeus; when Theseus grew strong enough to lift the rock, the tokens proved his royal birth, and he carried the sword to Athens, where his father recognized him by it. Plutarch and Pausanias record the tokens.",
+    "description": "The sword of the Athenian hero Theseus, left with a pair of sandals beneath a great rock at Troezen by his father Aegeus. When Theseus grew strong enough to lift the rock, the tokens proved his royal birth, and he carried the sword to Athens, where his father recognized him by it on the eve of his first trials in the city. Plutarch and Pausanias record the tokens of Troezen. He chose the harder road to Athens by land and cleared it of bandits with the very sword, so that he entered the city already a hero.",
     "related_creatures": [
       "minotaur"
     ],
@@ -670,7 +676,7 @@
       "troezen rock"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "tizona-0627",
@@ -689,7 +695,7 @@
     "maker": "Blade of Andalusian manufacture, c. 11th century",
     "powers": "Sword of El Cid won from King Yucef of Valencia; 'worth a thousand marks of gold' in the Cantar.",
     "associated_creature": null,
-    "description": "The sword Tizona, named in the Cantar de Mio Cid as El Cid's blade won from King Yucef of Valencia; the sword shown in the Museo de Burgos has an 11th-century blade, though its hilt and inscriptions are later additions, so its link to Rodrigo Diaz de Vivar rests on legend rather than proof.",
+    "description": "Tizona is the sword the Cantar de Mio Cid names as El Cid's great blade, 'worth a thousand marks of gold', which the poem says he won from King Yucef of Valencia and later demanded back from the Infantes de Carrión after they had disgraced it. The sword kept at the Museo de Burgos has a straight double-edged blade of the 11th century, of high-carbon steel with a fuller, whose metal was studied by the Universidad Complutense de Madrid in the 1990s and confirmed as forged in the hero's era, from iron probably of Sierra Morena or northern Morocco; the Gothic hilt and the acid-etched inscriptions, 'Io soi Tizona fue fecha en la era de mille quarenta' and 'Ave Maria gratia plena Dominus mecum', are later additions of the 15th-16th century. The claim that it was El Cid's rests on legend and later provenance rather than on contemporary proof. Declared a national treasure in 2003 and bought by the Junta de Castilla y León in 2007, the blade remains the most iconic object connected with the Cid.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Cantar de Mio Cid; Museo de Burgos (provenance and metallurgical studies)",
@@ -710,7 +716,7 @@
       "espada del cid"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "talismanic-shirt-0635",
@@ -729,7 +735,7 @@
     "maker": "Court calligraphers and illuminators",
     "powers": "Worn next to the skin to shield the wearer from wounds, illness, and evil in battle.",
     "associated_creature": null,
-    "description": "The tilsimli gomlek, or talismanic shirt, a cotton garment painted with Qur'anic verses, magic squares, and astrological signs, worn next to the skin by Ottoman sultans for protection in battle; some eighty survive in the Topkapi collection, including Cem Sultan's shirt begun in 1477, whose astrological moment of making is inscribed in it.",
+    "description": "The tilsimli gömlek, the talismanic shirt of the Ottoman court, is a garment painted with Qur'anic verses, magic squares, the names of the four archangels, the Seal of Solomon, and the numbers of abjad calculation, worn next to the skin under armour by sultans and princes against wounds, illness, and ill luck. The making was governed by astrology: the court astronomer fixed the wearer's auspicious hour, and the shirt was begun and finished only when the sun stood in the required sign, so that each one is a document of its owner's horoscope as well as a talisman. The earliest dated example in the Topkapı collection is the shirt of Cem Sultan, begun on 30 March 1477 and finished on 29 March 1480, made for his bid for the throne and, as the story goes, never worn, its collar never opened. About eighty such shirts survive in the palace collection, most from the 16th century. They are among the most mysterious objects of Ottoman material culture, blending piety, magic, and the science of the stars.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Topkapi Palace Museum collection; Tezcan, Tilsimli Gomlekler",
@@ -751,7 +757,7 @@
       "ottoman war shirt"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "tara-brooch-1010",
@@ -767,7 +773,7 @@
     "material": "Silver-gilt, gold filigree, amber and glass",
     "era": "Early Medieval",
     "associated_creature": null,
-    "description": "The Tara Brooch, a richly filigreed silver-and-gold annular brooch made around the eighth century. It was discovered in 1850 on the beach at Bettystown, County Meath, and the name 'Tara' was attached for sale because of the site's royal associations. It survives in the National Museum of Ireland with its original chain intact.",
+    "description": "The Tara Brooch, a masterpiece of early medieval Irish metalwork, is a silver-gilt annular brooch decorated with gold filigree panels, amber studs and coloured glass, made in Ireland around the eighth century AD. It was found in 1850 on the beach near Bettystown, County Meath, and was given the name 'Tara' by its first owner to exploit the royal associations of the Hill of Tara for sale. The brooch is one of the finest surviving examples of Insular art, its interlacing animal and geometric patterns echoing the illuminated manuscripts of the same period, and it survives with its original chain and pin intact, a rarity for its age. Such brooches were status symbols worn at the shoulder to fasten a cloak, the standard dress-fastener of the early medieval Irish elite. It is now displayed in the National Museum of Ireland in Dublin, where it remains one of the most admired objects of Celtic jewellery in the world.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "National Museum of Ireland; 1850 find",
@@ -788,7 +794,7 @@
       "annular brooch"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-09"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "tarnhelm-1018",
@@ -806,7 +812,7 @@
     "era": "Medieval",
     "powers": "Rendered the wearer invisible.",
     "associated_creature": null,
-    "description": "Tarnhelm, the magic cap of invisibility in the Nibelungenlied. Siegfried takes it from the dwarf Alberich along with the Nibelung hoard; it lets him work unseen. Richard Wagner later gave the name to the golden ring's forging helmet in the Ring cycle, where it also allows shape-shifting, a power absent from the medieval poem.",
+    "description": "Tarnhelm, the magic cap of invisibility in the Middle High German Nibelungenlied, is taken by the hero Siegfried from the dwarf Alberich after he overpowers the dwarf and seizes the Nibelung hoard. Whoever wore the cap, the Tarnkappe, became invisible and could perform feats of strength as though unseen, and Siegfried uses it in the poem to fight in disguise. Richard Wagner transformed the object for his Ring cycle: in Das Rheingold the Tarnhelm is forged by Mime, gives its wearer the power to change shape or travel at speed, and is won by the god Wotan as part of the cursed treasure. The medieval poem's humble cloak thus became, in Wagner's hands, a helmet that enables the deceit and greed at the heart of the Ring. The name, from the German tarnen, 'to conceal', is the classic German equivalent of the cloak of invisibility found across European fairy tales.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Das Nibelungenlied",
@@ -828,7 +834,7 @@
       "wagner ring"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-09"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "temple-menorah-1131",
@@ -847,7 +853,7 @@
     "maker": "Bezalel (per Exodus)",
     "powers": "The seven-branched lampstand kept alight in the sanctuary.",
     "associated_creature": null,
-    "description": "The seven-branched golden lampstand of the Tabernacle and later of the Jerusalem Temple, prescribed in the Book of Exodus as a beaten-gold work with almond-shaped cups and blossoms, kept burning in the sanctuary. Its image survives on the Arch of Titus relief and throughout Jewish art, and its fate after the Temple's destruction in 70 CE became a theme of Jewish legend and diaspora memory.",
+    "description": "The seven-branched golden lampstand of the Tabernacle and later of the Jerusalem Temple, prescribed in the Book of Exodus as a beaten-gold work with almond-shaped cups, knobs, and blossoms, kept burning in the sanctuary before the veil. Carried by the Levites in the wilderness and set in the Temple built by Solomon, it was among the vessels plundered when the Temple fell; its image survives on the Arch of Titus in Rome, where Roman soldiers are shown bearing it off. The fate of the lampstand after 70 CE, whether lost at sea, hidden, or carried to Rome and later to Constantinople or Carthage, became a theme of Jewish legend and diaspora memory. The seven-branched form, the most enduring symbol of the Temple, was adopted in the modern era as the emblem of the State of Israel.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Book of Exodus; Arch of Titus relief",
@@ -868,7 +874,7 @@
       "arch of titus menorah"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-09"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "tunisian-fibula-1138",
@@ -888,7 +894,7 @@
     "maker": "Amazigh silversmiths",
     "powers": "Fastened the shawl and served as a bridal heirloom and protective talisman.",
     "associated_creature": null,
-    "description": "The large silver pin or brooch, often triangular with a central coral or enamel stud and a long pointed pin, worn by Amazigh women across Tunisia, Algeria, and Morocco to fasten the shawl and passed down as a bridal heirloom. Its form echoes Roman-era brooches of the region, and its silver and coral decoration is documented in museum collections of Maghrebi dress.",
+    "description": "The large silver pin or brooch, often triangular with a central coral or enamel stud and a long pointed pin, worn by Amazigh women across Tunisia, Algeria, and Morocco to fasten the shawl, and passed down as a bridal heirloom and protective talisman. Known as a tazabt in Tamazight, it is among the most characteristic ornaments of Maghrebi dress, its shape echoing the Roman-era brooches that secured the cloaks of the same region. The fibula often held a chain linking a pair of brooches across the chest, and its pointed pin served as a weapon, a tool, and a token of married standing. Silver and coral remain the preferred materials, and museum collections of Maghrebi dress and jewellery display the fibula as a defining piece of Amazigh identity, still worn at weddings and festivals.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Museum collections of Maghrebi dress",
@@ -910,7 +916,7 @@
       "berber brooch"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-09"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "thuan-thien-sword-1224",
@@ -929,7 +935,7 @@
     "maker": "Kim Qui, the golden turtle (legendary)",
     "powers": "Granted victory over the Ming invaders",
     "associated_creature": "kim-qui-vietnamese",
-    "description": "The magic sword Thuan Thien ('Heaven's Will') given to the farmer-emperor Le Loi by the golden turtle god Kim Qui during his revolt against Ming rule. After his victory the turtle surfaced on Hoan Kiem Lake to reclaim the blade, giving the lake its name, the Lake of the Returned Sword.",
+    "description": "Thuan Thien, the Sword of Heaven's Will, is the magic blade given to the farmer-king Le Loi during his revolt against the Ming occupation of Dai Viet in the fifteenth century, when the golden turtle god Kim Qui surfaced from the waters to present it. With the sword Le Loi's army defeated the Ming and he founded the Later Le dynasty, ruling as the national hero of Vietnamese independence. After the victory, when the king was boating on the lake in Hanoi, the great turtle rose again and seized the sword, returning it to its divine owner, and the lake was renamed Hoan Kiem, the Lake of the Returned Sword. The story is told in the fifteenth-century Lam Son thuc luc chronicle and is a centrepiece of Vietnamese national identity, and the island pagoda Ngoc Son on the lake commemorates the event. Thuan Thien is also celebrated in the legend of the turtle that bore the sword, and the blade remains the emblem of Vietnam's struggle for independence.",
     "related_creatures": [
       "kim-qui-vietnamese"
     ],
@@ -956,7 +962,7 @@
       "restored sword"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-09"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "that-phanom-relic-1232",
@@ -975,9 +981,9 @@
     "maker": "Monks and local builders (legendary)",
     "powers": "Focus of veneration; guardian presence of the Mekong",
     "associated_creature": "ngueak-lao",
-    "description": "The relic of the Buddha's breastbone enshrined at That Phanom on the Mekong, the most revered stupa of Laos and northeastern Thailand. Lao legend holds that a naga king, Phanya Sithan, invited the monks and guarded the shrine site, binding the sacred chedi to the river's serpentine protectors.",
+    "description": "The relic of That Phanom is a sacred relic of the Buddha's breastbone enshrined in the great stupa of That Phanom on the Mekong, the most revered chedi of Laos and northeastern Thailand. Lao legend holds that two monks carried the relic to the site and that a naga king, Phanya Sithan, invited the company and guarded the shrine, binding the sacred monument to the serpentine protectors of the river; the date of the enshrinement is given as the Year of the Goat and celebrated every year at the That Phanom festival. The stupa itself, a tall pyramidal chedi gilded in gold, was severely damaged by a storm in 1975 and rebuilt with a national campaign, and it remains a pilgrimage centre drawing people from both banks of the Mekong. The relic is venerated as a palladium of the region, and its festival in the twelfth lunar month, the Bun Pha That Phanom, is one of the great gatherings of Lao Buddhism. The connection of the shrine to the naga reflects the deep riverine religion of the Mekong valley.",
     "related_creatures": [
-      "ngueak-lao"
+      "nagaburmese-thailand"
     ],
     "featured_in_stories": [
       "the-legend-of-that-phanom"
@@ -1002,7 +1008,7 @@
       "lao stupa"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-09"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "tsagaan-tug-1237",
@@ -1021,7 +1027,7 @@
     "maker": "Mongol standard bearers",
     "powers": "Ensign of khanly authority and national unity",
     "associated_creature": null,
-    "description": "The white standard (tsagaan tug) that Mongol tradition honors as the ensign of Genghis Khan's lineage, kept at the mausoleum complex in Ordos and paraded with the nine black banners at the Naadam festival. Its horsehair crown and spear shaft mark the enduring authority of the steppe khans.",
+    "description": "The tsagaan tug, the white standard, is the ensign of Genghis Khan's lineage that Mongol tradition honours as the sacred symbol of the khagan's authority, kept at the mausoleum complex in Ordos and paraded at the Naadam festival together with the nine black banners. The standard is a spear shaft crowned with a horsehair tuft or a looped top, and its white colour links it to the heavenly realm, the midday sun, and peace, while the nine black standards of the great khan stood for war and the nine tribes of the Mongols. In Mongol belief the tug is an object of reverence in its own right, and the ceremony of raising and lowering it is attended by ritual and by the offering of airag, fermented mare's milk. The white standard is central to the cult of Genghis Khan that survives among the Ordos Mongols, who preserve his relics in the mausoleum. The tug remains the emblem of the steppe khans and of Mongolian sovereignty.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Mongol standard tradition; Naadam ceremony",
@@ -1044,7 +1050,7 @@
       "sulde"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-09"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "temalacatl-1306",
@@ -1063,7 +1069,7 @@
     "maker": "Aztec stone-carvers",
     "powers": "Center of the gladiatorial sacrifice ritual.",
     "associated_creature": null,
-    "description": "A great round stone disk set flat at the plaza where Aztec gladiatorial sacrifice took place. A captive tied to its central hole fought armed warriors one after another, the combat described at length by Bernal Díaz, who watched in Tenochtitlan. The best-known survivor, the Stone of Tizoc, is carved with that ruler's conquests and was recovered in Mexico City's cathedral plaza in 1791.",
+    "description": "The temalacatl was a great round stone disk set flat in an Aztec plaza as the stage for gladiatorial sacrifice, a rite tied to the festival of Xipe Totec in which a captive was bound, usually by a rope through the central hole, and made to fight successive armed warriors while holding only a feathered club. Bernal Diaz del Castillo, who watched the combat in Tenochtitlan, recorded the ordeal in vivid detail, describing how the exhausted captive was finally cut down and his body carried away. The best-known survivor, the Stone of Tizoc, is a basalt disk carved with the conquests of the emperor Tizoc and was dug up in 1791 during work on Mexico City's cathedral plaza. Because its shallow central depression could have held offerings, archaeologists have long debated whether such stones were true temalacatl or cuauhxicalli heart-vessels; Richard Townsend even suggests the depression may have been cut in the 16th century. Either way, the disk shows how Mexica sacrifice and imperial tribute were fused into public spectacle.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Bernal Díaz del Castillo and the Stone of Tizoc",
@@ -1086,7 +1092,7 @@
       "gladiator sacrifice"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "teponaztli-1307",
@@ -1105,7 +1111,7 @@
     "maker": "Aztec wood-carvers",
     "powers": "Speaks the voice of the gods at temple ritual.",
     "associated_creature": null,
-    "description": "A hollowed log drum struck with rubber-tipped mallets, its top carved with an H-shaped slit that produces two pitches, played at Aztec festivals, dances and war ceremonies. Spanish chroniclers noted how its deep tones carried across Tenochtitlan, and codices show pairs of players beside the huehuetl in temple courtyards. Fray Bernardino de Sahagún recorded the instrument in detail.",
+    "description": "The teponaztli is a horizontal slit drum made from a hollowed log whose H-shaped cut in the top produces two different pitches, struck with rubber-tipped sticks (olmaitl) rather than played by hand. Alongside the upright huehuetl it formed the core percussion of Aztec ritual music, and early accounts say its deep, carrying tone could be heard across Tenochtitlan during festivals, dances and war ceremonies. Fray Bernardino de Sahagun's Florentine Codex describes the instrument in detail, and colonial codices show pairs of players beating it before temple courtyards. Surviving examples, often carved from hardwoods, show that makers tuned the two tongues carefully and decorated the drum with religious carving. Similar twin-tongued slit drums were used across Mesoamerica, and the instrument survives in modified form in modern Mexican folk ensembles, its once-sacred festival role now largely secular.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Florentine Codex (Sahagún) and early accounts",
@@ -1128,7 +1134,7 @@
       "aztec instrument"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "tzompantli-skull-rack-1312",
@@ -1147,7 +1153,7 @@
     "maker": "Aztec builders",
     "powers": "Displays the skulls of the sacrificed to the sun.",
     "associated_creature": null,
-    "description": "A rack of poles threaded with the skulls of sacrificial victims, erected beside Aztec temple platforms; the name means 'skull rack.' Spanish chroniclers Andrés de Tapia and Bernal Díaz both described the great tzompantli of Tenochtitlan and counted its skulls in the tens of thousands. A stone example still stands beside the Templo Mayor, and similar racks appear in earlier Maya art.",
+    "description": "The tzompantli, from Nahuatl for 'skull rack', was a structure of wooden poles threaded with the skulls of sacrificial victims, erected beside Aztec temple platforms where daylight could display them to the sun. Spanish chroniclers were astonished by the great rack beside the Templo Mayor; Andres de Tapia counted the skulls in the tens of thousands, and Bernal Diaz described towers of them stacked in the ceremonial precinct. Excavations at the Templo Mayor uncovered the Huey Tzompantli, a carved stone platform of skull rows with hundreds of drilled skulls still mounted on wooden posts. The practice was not unique to the Aztecs: Maya centres such as Chichen Itza raised similar racks decorated with carved skulls. Beyond the macabre display, tzompantli were part of the Mesoamerican belief that sacrifice fed the sun and the earth, making the racks a public record of cosmic debt.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Spanish chroniclers and the Templo Mayor excavation",
@@ -1170,7 +1176,7 @@
       "huey tzompantli"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "totem-pole-1328",
@@ -1189,7 +1195,7 @@
     "maker": "Northwest Coast carvers",
     "powers": "Proclaims clan lineage and stories in carved cedar.",
     "associated_creature": null,
-    "description": "Towering poles carved from whole cedar trunks by Northwest Coast peoples, raised before houses to proclaim lineage, honor the dead, or tell the stories of founding ancestors and the beings who helped them. The figures are not idols but crests and histories, read by those who know them. Colonial bans interrupted carving; the art revived in the twentieth century as a symbol of regional identity.",
+    "description": "Totem poles are tall carvings made from whole trunks of western red cedar, raised by the Haida, Tlingit, Tsimshian, Kwakwaka'wakw and other Northwest Coast peoples before houses, at graves and as welcome or memorial figures. The carved animals and beings are not idols but crests: they record a clan's lineage, its founding ancestors and the supernatural helpers who saved them, and a pole is read by those who know the family's history. House poles stood against the front of a big house, mortuary poles held an ancestor's remains, and the figures often include raven, eagle, bear, wolf, whale and thunderbird. Canadian law banned the potlatch in 1884, and carving declined sharply, but the art was revived in the twentieth century and has become a proud symbol of Indigenous identity across the region. New poles are still raised today with ceremony and feasting, continuing an unbroken tradition of sculptural storytelling.",
     "related_creatures": [],
     "featured_in_stories": [
       "the-totem-pole"
@@ -1214,7 +1220,7 @@
       "cedar carving"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "thunderbird-club-1329",
@@ -1233,7 +1239,7 @@
     "maker": "Native carvers",
     "powers": "Carries the strike of the thunderbird into battle.",
     "associated_creature": "thunderbird",
-    "description": "A heavy carved club whose grip and head are shaped as a bird, most often the thunderbird, so that each blow falls with the power of the being who makes the thunder and carries lightning. Carried by chiefs and warriors, the club combines weapon and emblem, its carved beak and wings binding the bearer to the great sky bird of the origin stories. Surviving examples are treasured in museums.",
+    "description": "The thunderbird club is a heavy carved club whose grip and head take the form of a great bird, most often the thunderbird, so that each blow falls with the power of the being whose wingbeats make thunder and whose flashing eyes cast lightning. Carried by chiefs and warriors of the Northwest Coast and some Plains nations, the club is both a weapon and an emblem, its carved beak, wings and tail binding the bearer to the great sky bird of the origin stories. Because the bird's image was itself charged with power, such a club was a personal and often hereditary treasure. The thunderbird appears across the continent in different guises, and its image on a weapon proclaimed that the bearer struck with the force of the storm. Surviving clubs are treasured in museum collections as masterworks of Native carving.",
     "related_creatures": [],
     "featured_in_stories": [
       "the-thunderbird-wakinyan",
@@ -1259,7 +1265,7 @@
       "northwest coast club"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "three-sisters-garden-1334",
@@ -1278,9 +1284,11 @@
     "maker": "Haudenosaunee and other farmers",
     "powers": "The three crops support each other as the sisters did the people.",
     "associated_creature": null,
-    "description": "The Haudenosaunee method of planting corn, beans and squash together in one mound, each crop helping the others: corn gives the beans a pole, beans fix the soil, and squash shades the roots. The three are called sisters in the peoples' stories, inseparable companions who arrived with the ancestors. The system fed the confederacy, and its lessons in companion planting are studied by farmers today.",
+    "description": "The Three Sisters garden is the Haudenosaunee method of planting corn, beans and squash together in a single mound, each crop supporting the others: the corn stalk gives the beans a pole to climb, the beans fix nitrogen in the soil for the corn, and the squash spreads its broad leaves to shade the roots and hold moisture. The three crops are called the sisters, or Deohako in Iroquoian tradition, inseparable companions given to the people by the Creator, and they are honoured in ceremonies through the growing season, especially at the Green Corn Festival. The system fed the Haudenosaunee confederacy for centuries and is today studied as a model of sustainable companion planting. Stories of the three sisters carry the moral of mutual support, and many modern gardeners and Indigenous food movements have revived the mounds. The garden remains the living foundation of Haudenosaunee agriculture and identity.",
     "related_creatures": [],
-    "featured_in_stories": [],
+    "featured_in_stories": [
+      "the-three-sisters-corn-beans-and-squash"
+    ],
     "source": "Haudenosaunee oral tradition and agricultural history",
     "source_type": "oral_tradition",
     "source_quality": "well-documented",
@@ -1301,7 +1309,7 @@
       "companion planting"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "tumi-1343",
@@ -1320,7 +1328,7 @@
     "maker": "Andean metalworkers",
     "powers": "Sacrificial blade of the priests under the moon.",
     "associated_creature": null,
-    "description": "The tumi is the crescent-bladed ceremonial knife of the Andes, a wide arched gold blade on a decorated handle, crafted by the Lambayeque/Sicán culture and later carried into Inca ritual and sacrifice. The most famous example, the Tumi of Lambayeque, was found at Batán Grande in 1936 and has become a national symbol of Peru, reproduced in folk art and worn as an emblem of identity.",
+    "description": "The tumi is the crescent-bladed ceremonial knife of the Andes, a wide arched blade of gold, silver, copper or bronze on a rectangular handle, used for sacrifices and depicted in Moche art cutting the throat of victims. Later Sican and Lambayeque metalworkers made ornate gold tumis crowned with the figure of Naylamp, the mythic founder of the Lambayeque dynasty shown as a bird-man, and the knife passed into Chimu and Inca ritual. The most famous example, the Tumi of Illimo or of Lambayeque, is a gold blade about 41 centimetres tall weighing nearly a kilogram, recovered from Huaca Las Ventanas at Batan Grande in 1936. Because most known examples are of precious metal, scholars believe they were largely symbolic, displayed in ritual and buried with lords rather than used for daily work. In modern Peru the tumi has become the national symbol of the country, reproduced in folk art, tourism souvenirs and even the emblem of the Peruvian College of Physicians.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Lambayeque/Sicán and Inca archaeological finds, including the Tumi of Lambayeque (1936)",
@@ -1343,7 +1351,7 @@
       "inca sacrificial knife"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "tupilak-figure-1370",
@@ -1362,7 +1370,7 @@
     "maker": "Greenlandic carvers",
     "powers": "A vengeful spirit assembled to harm an enemy.",
     "associated_creature": "tupilak",
-    "description": "A figure the Greenlandic Inuit carved from bone, skin or other gathered parts and animated with magic to be sent against an enemy; the tupilak was made in secret and had to be defeated by its victim's own power or by finding its maker. Carving it was the dangerous part, and today the word names both the spirit and the grotesque figurines that have become Greenlandic art.",
+    "description": "The tupilak is a spirit figure of the Greenlandic Inuit, assembled by an angakkuq, a shaman, from the parts of animals, bone, skin, hair and sinew, sometimes joined with the remains of a dead child, and given life through ritual chants so that it could be sent against an enemy. The tupilak was cast into the sea and swam to its victim, but the magic was dangerous in both directions: if the victim proved stronger, the spirit was said to turn back on its maker, and only a public confession could break its power. Because the figures were made from perishable matter, none of the true tupilak survive, and the ritual was feared more than seen. In the early twentieth century carvers began making grotesque figures from walrus ivory, whale tooth, wood and caribou antler, and the tupilak became a celebrated form of Greenlandic art, sold across the world. The carvings carry the old menace into the gallery, part talisman and part monster.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Greenlandic oral tradition and ethnographic records",
@@ -1385,7 +1393,7 @@
       "inuksuk carving"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "tuareg-takuba-1422",
@@ -1401,7 +1409,7 @@
     "type": "weapon",
     "material": "Iron, leather",
     "era": "Traditional, now mostly ceremonial",
-    "description": "The takuba is the straight-bladed, cross-hilted sword of the Tuareg of the Sahel, carried by warriors and today worn as a mark of honour. Forged iron blades are paired with decorated leather scabbards, often dyed and embossed. The takuba historically signalled the status of its bearer and featured in Tuareg duels and raids.",
+    "description": "The takuba is the straight-bladed sword of the Tuareg of the Sahara and Sahel, a double-edged blade of about a metre with a deep crossguard and a flat metal pommel. Because Tuareg custom regards iron as unclean, the guard and grip are covered with tooled leather, and the scabbard is worked with stamped and pierced designs that reflect the wealth and rank of its owner. Swords were made and mounted by the inadan (blacksmith) caste, who spoke their own secret language and were credited with magical power over metal. Given to a young man as he came of age, the takuba marked nobility and courage, and it was carried in raids, duels, and the caravan wars of the desert until firearms displaced it. Many blades came from European or Arab forges and were remounted in Sahelian style, evidence of a long trade across the Sahara. Today the takuba is worn at festivals and ceremonies as a badge of Tuareg identity and honour.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Tuareg warrior tradition; museum collections",
@@ -1422,7 +1430,7 @@
       "tuareg blade"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "teke-kidumu-mask-1432",
@@ -1438,7 +1446,7 @@
     "type": "ritual object",
     "material": "Carved wood, pigment",
     "era": "Traditional, still danced",
-    "description": "Teke 'kidumu' masks of the Republic of the Congo are flat, round wooden face masks decorated with painted geometric designs in red, white, and black. Worn by men of the kidumu society at initiations and funerals, the mask's patterns are said to allude to the Teke origin story of a great turtle from whose back the world grew.",
+    "description": "The kidumu is a round, flat face mask of the Teke people of the Republic of the Congo, cut from wood and painted with bold geometric patterns in red, white, and black. Worn by the men of the kidumu society at initiations, funerals, and the dances that mark the transfer of authority from one generation to the next, the mask is held before the face horizontally or vertically depending on the region. The painted motifs are not mere decoration: they allude to the sacred knowledge of the group, and elders say the patterns echo the Teke account of creation, in which the world grew from the back of a great turtle. Different mask types correspond to different grades within the society, and the masks are stored in sacred places out of sight of women and the uninitiated. Teke mask-making survives in the republic today, and kidumu masks have become familiar worldwide through museum collections.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Teke oral tradition; museum collections",
@@ -1458,7 +1466,7 @@
       "teke kidumu"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "tizerzai-brooch-1461",
@@ -1475,7 +1483,7 @@
     "material": "Silver, coral, enamel",
     "era": "Traditional, still worn",
     "powers": "Fastens the dress and is worn for protection, with engraved motifs said to avert harm.",
-    "description": "The tizerzai is a large silver brooch of the Amazigh women of Morocco, a crescent- or triangle-shaped clasp used to fasten the shoulder of the dress, fitted with a long pin and decorative chainwork. It is both a practical garment fastener and a piece of protective jewellery, often engraved and embellished with coral or enamel.",
+    "description": "The tizerzai is a large silver fibula brooch of the Amazigh (Berber) peoples of Morocco and Algeria, traditionally worn in pairs at the shoulders to fasten the tasseled woollen wraps and tunics of women. Triangular or delta-shaped, each brooch fastens with a long pin and is often richly worked with granulation, filigree, enamel and inset glass or coral, so that the clasp of a garment becomes a display of a family's wealth and craft. Ethnographic collections, including those documented by the French artist Jean Besancenot in his 1942 Costumes du Maroc, record pairs of tizerzai worn by dancers and brides in southern and Atlas communities, with some examples reaching more than a metre in length when the connecting chains are counted. In Amazigh tradition the ornaments protect the wearer from the evil eye and declare her social standing, and they are passed from mother to daughter along with the rules of how they should be worn. Because the fibula's shape is echoed in the triangular motifs of Amazigh weaving and tattooing, the tizerzai is today read as a marker of indigenous North African identity.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Amazigh jewellery tradition",
@@ -1495,7 +1503,7 @@
       "amazigh shoulder brooch"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "tunisian-chechia-1464",
@@ -1511,7 +1519,7 @@
     "type": "garment",
     "material": "Felted wool",
     "era": "Traditional, still worn",
-    "description": "The chechia is the brimless, red felt cap of Tunisia, traditionally made by hand-felting wool and dyeing it crimson, then shaping it over a wooden mould. Worn by men across the Maghreb as a mark of Tunisian identity, it was produced in the chechia craft quarter of Tunis and given as a gift of distinction.",
+    "description": "The chechia is the traditional red felt cap of Tunisia, worn by men since the early modern period and regarded as a national emblem of the country. Its production was long a chain of specialized workshops: wool was combed, spun and knitted into a raw cap, then fulled with water and heat at sites such as El Battan on the Medjerda river, dyed crimson with madder or similar dyes, and finally stretched and finished over wooden moulds in Tunis. The craft flourished with the arrival of Andalusian Morisco artisans at the start of the 17th century, and their guild became so influential that a whole quarter of the medina of Tunis, the Souk Ech-Chaouachine, was built in 1691-92 for the trade of the so-called chaouachis. A single chechia could take about two months to pass through the hands of these workshops, and the finished caps were exported across North and West Africa and even to Europe. Worn for prayer, for feasts and weddings, and formerly as part of daily dress under the turban, the chechia is distinct from the Ottoman fez and remains a living symbol of Tunisian identity.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Tunisian craft tradition; historical accounts",
@@ -1531,7 +1539,7 @@
       "chechia cap"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "trishula-of-shiva-1502",
@@ -1541,7 +1549,7 @@
     "region": "South Asia",
     "culture": "Hindu",
     "type": "weapon",
-    "description": "Three-pronged spear sacred to Shiva, the destroyer, whose prongs stand for creation, preservation and destruction, or for the three gunas that compose the world. Shiva carries the trishula in Puranic sculpture and story, and devotees plant iron trishulas at cremation grounds and shrine thresholds, where the weapon is said to pierce ignorance and drive away evil spirits.",
+    "description": "The trishula is the three-pronged spear or trident of the Hindu god Shiva, carried in his hand and planted before his shrines, so that the trident has become his most recognizable attribute. The three prongs are traditionally read as the three gunas of sattva, rajas and tamas, or as the triad of creation, preservation and destruction, and the weapon appears as an instrument of both justice and destruction in the myths. In the celebrated tale of the three demon cities, Shiva is said to have burned the demon Tripura and his aerial cities with a single arrow, while in other stories it is the trishula itself that he hurls to punish or to sever. In the two Ganesha legends the trident plays a decisive role, for it is Shiva's trishula that cuts off the head of the boy Ganesha at the door of Parvati's chamber, and the same blow is retold in different words in accounts of Ganesha's origin. The trishula is also carried by Shaiva ascetics, imprinted on offerings, and reproduced in metal as a protective emblem over homes and shrines.",
     "source_type": "literary",
     "source_quality": "academic",
     "attested": true,
@@ -1554,7 +1562,11 @@
     "maker": "associated with Shiva",
     "associated_creature": "shiva",
     "related_creatures": [],
-    "featured_in_stories": [],
+    "featured_in_stories": [
+      "shiva-story",
+      "ganesha-story",
+      "the-origin-of-ganeshas-elephant-head"
+    ],
     "keywords": [
       "trident",
       "Shiva",
@@ -1570,7 +1582,7 @@
     ],
     "source": "Shiva Purana and Shaiva iconographic tradition",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "tandoor-1511",
@@ -1580,7 +1592,7 @@
     "region": "South Asia",
     "culture": "North Indian, Punjabi",
     "type": "cooking vessel",
-    "description": "Cylindrical clay oven sunk into the earth or a hearth, fired from below so breads and meats cook against its hot walls, used across North India and the Punjab plains. In village households the tandoor is a shared daily fixture, and its flames carry a homely, auspicious aura; flatbreads are pressed by hand against the clay and baked in seconds.",
+    "description": "The tandoor is the large clay oven of the Indian subcontinent and of Central and Western Asia, a vase-shaped or bell-shaped pit of baked clay, either sunk into the earth or set above it in a brick surround. It is fired with wood or charcoal and reaches temperatures around 480 degrees Celsius, so the walls bake naan and roti flatbreads directly and roast marinated meat and vegetables hung from hooks, the dishes known collectively as tandoori. In the Punjab the oven was a communal institution, with one village tandoor serving many families of bakers, and the tradition remained largely regional until after the 1947 partition, when Punjabi migrants carried tandoori cooking to the restaurants of Delhi and beyond. Archaeological clay ovens of similar form are known from the Indus Valley civilization around the third millennium BCE, and the word tandoor travelled with the cooking technique across Iran and Central Asia into the Horn of Africa. Because the oven seals in moisture and reaches a dry, fierce heat, it gives the flatbreads and skewers cooked in it a distinctive flavour that cannot be reproduced in a normal domestic stove.",
     "source_type": "oral_tradition",
     "source_quality": "documented",
     "attested": true,
@@ -1608,7 +1620,7 @@
     ],
     "source": "North Indian domestic culinary tradition",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "tabla-1514",
@@ -1618,7 +1630,7 @@
     "region": "South Asia",
     "culture": "Hindustani classical, folk",
     "type": "musical instrument",
-    "description": "Pair of small hand drums, the larger metal-bodied bayan and the smaller wooden dayan, tuned together and played with fingers and palms, central to Hindustani classical rhythm. Tabla playing is learned through rhythmic syllables such as dha, tin and na, and the instrument anchors devotional song and dance, carrying the beat of both court music and folk performance.",
+    "description": "The tabla is the pair of hand drums that accompanies most North Indian (Hindustani) classical music, consisting of a small wooden drum on the right called the dayan, tuned to the tonic, and a larger metal or clay drum on the left called the bayan, which produces the deep bass. The heads of both drums are built in layers of skin with a black patch of iron and flour paste in the centre, the syahi, which lets the player produce the intricate spoken syllables of tabla language, such as dha, dhin and te te. The drums are struck with the fingers and palm, and a master tabla player can mimic speech, imitate the dance steps and end a composition with a ringing roll. The invention of the instrument is sometimes attributed to the 13th-century poet-musician Amir Khusrau, who is said to have split the older barrel drum, the pakhawaj, in two, and the story is still told in music schools, though scholars now treat it as legend. From court performance to kirtan, ghazal and film, the tabla has become the percussion voice of North Indian music worldwide.",
     "source_type": "secondary_scholarly",
     "source_quality": "documented",
     "attested": true,
@@ -1647,7 +1659,7 @@
     ],
     "source": "Hindustani musicological tradition and instrument history",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "tulwar-1515",
@@ -1657,7 +1669,7 @@
     "region": "South Asia",
     "culture": "Rajput, Mughal martial culture",
     "type": "weapon",
-    "description": "Curved single-edged sword of the Indian subcontinent, a cavalry blade with a distinctive hilt whose disc pommel and crossguard appear in tales of Rajput and Mughal warriors. The tulwar was carried as both weapon and emblem of rank, and folk tales of battles, honour and oath-taking treat the sword as a binding object passed down as an heirloom of warrior families.",
+    "description": "The tulwar is the classic curved sabre of the Indian subcontinent, with a single cutting edge, a shallowly curved blade and a distinctive hilt capped by a disc pommel with a pierced tang button. The hilt, with its broad, flanged guard and long grip, gives the sword an unusually well-balanced feel, and tulwars were carried by Rajput, Maratha and Mughal horsemen for centuries, from the late medieval period through the wars of the 18th and 19th centuries. Blade steel was often made locally or imported from Persia, and many surviving tulwars preserve fine watered-steel blades with armourers' marks, while ornamental examples are damascened with gold lines. The sword also functioned as a social marker: a warrior's tulwar was honoured, taken on campaign, carried on his person at court and given as a reward for valour, and old tulwars frequently carry inscriptions naming their owners. Museums now catalogue these sabres as the standard sidearm of Indian cavalry, and the tulwar's design influenced the swords carried by British army units in India.",
     "source_type": "secondary_scholarly",
     "source_quality": "documented",
     "attested": true,
@@ -1686,7 +1698,7 @@
     ],
     "source": "Arms museum collections and court chronicles",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "thangka-1538",
@@ -1696,7 +1708,7 @@
     "region": "Asia",
     "culture": "Tibetan Buddhist",
     "type": "religious object",
-    "description": "Painted or embroidered scroll of Buddhist deities and mandalas, framed in silk and hung in Tibetan Buddhist monasteries and homes of the Himalayan world. Thangkas are painted with mineral pigments to exact iconographic rule, and the images are regarded as aids to meditation and carriers of the blessing of the figures they depict.",
+    "description": "The thangka is the painted or embroidered scroll image of Tibetan Buddhism, hung in monasteries, homes and shrines across the Himalayan world and framed in a silk brocade border. The painter first lays out a precise iconometric grid on cotton or silk, then works with mineral pigments and gold in the traditional palettes of the Newar and monastic painters, finishing with an outline in black and the consecration of the image. The subjects are buddhas, bodhisattvas, fierce protectors, mandalas and scenes of the lives of the saints, and each figure must follow strict proportions and attributes so the painting can serve as an aid to meditation and as a support for the deity's presence. A thangka is treated with respect, hung in a clean high place, and often blessed, and the form has been painted continuously for centuries from the monasteries of Nepal and Tibet.",
     "source_type": "secondary_scholarly",
     "source_quality": "documented",
     "attested": true,
@@ -1726,7 +1738,7 @@
     ],
     "source": "Himalayan Buddhist painting tradition",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "tjurunga-1605",
@@ -1736,7 +1748,7 @@
     "region": "Aboriginal",
     "culture": "Aboriginal Australian",
     "type": "religious object",
-    "description": "Sacred carved board or stone of the Arrernte and other central Australian peoples, engraved with the designs of the Dreaming and treated as the physical body of an ancestor spirit. Kept in secret men's storehouses and brought out for initiation and ceremony, a tjurunga is handed down as a bond between the living, the land and the ancestral beings, its power bound to the pattern carved upon it.",
+    "description": "The tjurunga is the sacred board or stone of the Arrernte and other central Australian peoples, engraved with the patterns of the Dreaming and treated as the physical body of an ancestral being. The boards are kept in secret storehouses and brought out for initiation and ceremony, and a tjurunga is handed down as a bond between the living, the land and the ancestral beings, its power bound to the pattern carved on its surface. The name is also spelled churinga, and the classic accounts were written by Spencer and Gillen from the Alice Springs region. Tjurunga are restricted objects of the men's law, and their designs and ceremonies are not shown to the uninitiated or to women, so the published records describe the boards only in general terms and with respect for the secrecy that still surrounds them.",
     "source_type": "literary",
     "source_quality": "academic",
     "attested": true,
@@ -1766,7 +1778,7 @@
     ],
     "source": "Spencer and Gillen ethnographic records; Arrernte tradition",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "tewhatewha-1611",
@@ -1776,7 +1788,7 @@
     "region": "Polynesian",
     "culture": "Māori",
     "type": "weapon",
-    "description": "Long-handled fighting staff of the Māori, tipped with a shaped blade of wood and often hung with a bunch of feathers or dog-hair at the base of the handle. Used in training and in battle, the tewhatewha was swung in sweeping strikes and could be thrown, and it appears in war dances and chiefly display as a mark of martial skill.",
+    "description": "The tewhatewha is the long-handled fighting staff of the Maori, a wooden weapon with a flat, axe-like blade at one end and a shaped base, often hung with a bunch of feathers or dog hair at the bottom of the handle. It was swung in sweeping strokes and could be thrust or thrown, and the feathers at the base were used in training and in challenge, flicking and flashing to distract the opponent or to call out a warrior before a duel. The weapon was also carried in war dances and chiefly display as a mark of martial skill, and its handling was taught within the whare-taua, the house of war. The tewhatewha is carved from hardwood or whalebone, and named examples are recorded in the accounts of early European observers of Maori warfare.",
     "source_type": "secondary_scholarly",
     "source_quality": "documented",
     "attested": true,
@@ -1803,7 +1815,7 @@
     ],
     "source": "Ethnographic accounts of Māori weaponry",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "toki-poutangata-1612",
@@ -1813,7 +1825,7 @@
     "region": "Polynesian",
     "culture": "Māori",
     "type": "tool",
-    "description": "Ceremonial adze of the Māori, fitted with a greenstone or basalt blade lashed to a carved wooden handle and mounted with a plait of fibre and feathers. The toki poutangata was a symbol of chiefly authority, raised in speeches and carried before a rangatira, and the finest blades were treasured heirlooms passed down through the great lineages.",
+    "description": "The toki poutangata is the ceremonial adze of the Maori, fitted with a blade of pounamu or basalt lashed to a carved wooden handle and hung with a plait of fibre and feathers. Unlike the working adze, the toki poutangata was not used for daily woodwork but was carried before a rangatira and raised in speeches as a badge of chiefly authority, and the finest blades were treasured heirlooms passed down through the great lineages. The name means the adze of the great chief, and the object appears in the ceremonial life of the marae, where the taking up of a toki could mark the acceptance of leadership or the settlement of a dispute. The greenstone blades were cut and ground over long months, so the finished toki carried the labour and skill of its maker as well as the mana of its owner.",
     "source_type": "secondary_scholarly",
     "source_quality": "academic",
     "attested": true,
@@ -1840,7 +1852,7 @@
     ],
     "source": "Ethnographic scholarship on Māori ceremonial objects",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "trobriand-yam-house-1619",
@@ -1850,7 +1862,7 @@
     "region": "Pacific",
     "culture": "Trobriand Islands",
     "type": "other",
-    "description": "Ornate storehouse of the Trobriand Islands of Papua New Guinea, raised on posts with a steeply pitched roof and decorative woven friezes. The bwaima stores yams, the central wealth and prestige crop, and a man's status is read in the size and beauty of his yam house, which is built to display abundance as the symbolic face of his household.",
+    "description": "Ornate storehouse of the Trobriand Islands of Papua New Guinea, raised on posts with a steeply pitched roof and a decorative triangular gable, first described in the anthropological studies of Bronisław Malinowski. The facade is built of wooden slabs tied with coconut-husk fasteners, and yams — the central wealth and prestige crop — are displayed in tight rows through the slits so that the house announces its owner's abundance. Yams are still the symbolic currency of the islands: men cultivate them for their sisters' families under the urigubu obligation, and a man's status is read in the size and beauty of his yam house, which is built to display abundance as the symbolic face of his household.",
     "source_type": "secondary_scholarly",
     "source_quality": "academic",
     "attested": true,
@@ -1878,7 +1890,7 @@
     ],
     "source": "Anthropological studies of the Trobriand Islands",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "tabua-1621",
@@ -1888,7 +1900,7 @@
     "region": "Pacific",
     "culture": "Fijian",
     "type": "ritual object",
-    "description": "Polished sperm whale tooth of Fiji, presented at weddings, funerals and reconciliation as the highest mark of respect and goodwill. The tabua is offered with a formal speech and is kept by the recipient to seal the covenant, and its giving seals covenants between chiefs, so that a request carried with a tabua is rarely refused.",
+    "description": "Polished sperm whale tooth of Fiji, its base pierced and threaded with a cord of braided sennit, presented with a formal speech as the highest mark of respect and goodwill. The tabua is offered to seal covenants between chiefs, to atone for wrongdoing, to open negotiations or requests that are then rarely refused, and it is kept by the recipient as the living record of the promise. Originally only teeth of beached or stranded whales were available, and later whale-tooth or ivory substitutes were traded in; today the tabua is not sold but exchanged at weddings, birthdays, funerals and chiefly occasions, and its image appears on the Fijian 20-cent coin and in the name of Fiji Airways' Tabua Club.",
     "source_type": "secondary_scholarly",
     "source_quality": "documented",
     "attested": true,
@@ -1916,7 +1928,7 @@
     ],
     "source": "Ethnographic studies of Fijian ceremonial exchange",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "tongan-ngatu-1631",
@@ -1926,7 +1938,7 @@
     "region": "Polynesian",
     "culture": "Tongan",
     "type": "other",
-    "description": "Barkcloth of Tonga, made by beating the inner bark of the hiapo tree and pasting the strips together into large sheets painted with stencil patterns in brown and black. Ngatu is produced by women in working parties and given at weddings, funerals and royal ceremonies, and the largest ceremonial pieces are presented to the king.",
+    "description": "Barkcloth of Tonga, made by beating the inner bark of the hiapo (paper mulberry) into strips and pasting them together with starch into large sheets, which are then decorated in working parties called koka'anga. Women rub brown and black dyes over carved kupesi rubbing boards to print repeating geometric motifs — chevrons, zigzags and diagonal bands — that carry the patterns of their families and districts. Ngatu is given at weddings, funerals and royal ceremonies, used as floor mats, wall coverings and dance costumes, and the largest ceremonial pieces, some hundreds of metres long, are presented to the king on occasions of state, so that the cloth doubles as a record of the kingdom's ceremonies and its givers.",
     "source_type": "secondary_scholarly",
     "source_quality": "documented",
     "attested": true,
@@ -1954,7 +1966,7 @@
     ],
     "source": "Ethnographic records of Tongan material culture",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "tahitian-vaa-1632",
@@ -1964,7 +1976,7 @@
     "region": "Polynesian",
     "culture": "Tahitian",
     "type": "ship",
-    "description": "Ocean-going sailing canoe of the Tahitians, built with a single outrigger float and a lateen sail of matting that carried voyagers across the Pacific. The vaʻa was the vessel of the great Polynesian navigators, who read the stars and swells to settle islands, and it remains raced in the sport of vaʻa today, each hull shaped with the inherited knowledge of the builders.",
+    "description": "Ocean-going sailing canoe of the Tahitians, built as a dugout hull with a single outrigger float lashed on booms and a lateen sail of pandanus matting. The vaʻa was the vessel of the great Polynesian navigators, who read the stars, the swells and the flight of birds to cross the Pacific and settle island after island, and the hull was shaped by carvers working from inherited knowledge of timber and lines. Today the same outrigger canoe races on as a sport in the vaʻa of French Polynesia, where crews paddle long ocean-going canoes in competitions such as the Hawaiki Nui Vaʻa, keeping the voyaging canoe at the centre of Polynesian identity.",
     "source_type": "secondary_scholarly",
     "source_quality": "academic",
     "attested": true,
@@ -1993,7 +2005,7 @@
     ],
     "source": "Ethnographic scholarship on Polynesian voyaging",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "tuvaluan-paopao-1640",
@@ -2003,7 +2015,7 @@
     "region": "Pacific",
     "culture": "Tuvaluan",
     "type": "ship",
-    "description": "Small sailing canoe of the Tuvaluan islands, fitted with a single outrigger and a triangular sail, used for fishing on the lagoon and the open reef. The paopao was built by hand from the island timbers and lashed with sennit, and its design was carried across the atolls by the same navigational knowledge that tied the Pacific peoples together.",
+    "description": "Small sailing canoe of the Tuvaluan islands, fitted with a single outrigger float and a triangular sail, used for fishing on the lagoon and the open reef and for the short voyages between the atolls. Built by hand from island timber, with the hull lashed with sennit to the outrigger booms, the paopao is light enough to be beached above the tide and sailed by one or two men. Its design, like that of the canoes of the wider Pacific, was carried by navigational knowledge passed down across the atolls, and the paopao remains both a working fishing craft and a symbol of Tuvaluan seamanship.",
     "source_type": "secondary_scholarly",
     "source_quality": "documented",
     "attested": true,
@@ -2031,7 +2043,7 @@
     ],
     "source": "Ethnographic records of Tuvaluan seafaring",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "troita-1749",
@@ -2041,7 +2053,7 @@
     "region": "Balkan",
     "culture": "Romanian",
     "type": "religious object",
-    "description": "Troița is the Romanian wayside cross, a hand-carved oak cross sheltered by a small roof, placed at roadsides, springs and crossroads to guard travellers and honour the dead. Maramureș carvers cover them with vines and geometric rosettes, making each troiță a prayer in wood.",
+    "description": "Troița is the wayside cross of Romania, a hand-carved wooden cross sheltered under a little roof, erected at crossroads, springs, bridges and village edges to protect travellers and to honour the dead. In the wood-carving country of Maramureș the crosses are true monuments, their beams covered with vine scrolls, geometric rosettes, suns and sometimes the image of the Crucified, with inscriptions naming the dead and the year, and the oldest surviving examples go back to the eighteenth century. The cross is set up by families for a departed relative, at the place of a sudden death, or as a vow, and passers-by cross themselves before it, so the troița stands at the meeting of Christian devotion and the old belief that crossroads and water were liminal, dangerous places. New troițe are still carved and raised every year, making the wayside cross a living school of Romanian folk woodcarving.",
     "source_type": "oral_tradition",
     "source_quality": "documented",
     "attested": true,
@@ -2080,7 +2092,7 @@
     "region": "Caucasus",
     "culture": "Azerbaijani",
     "type": "musical instrument",
-    "description": "Long-necked plucked lute of Azerbaijan with a figure-of-eight wooden body, a lambskin soundboard and six steel strings, held diagonally and plucked with a plectrum. The tar leads the mugham trio and accompanies ashiq song; its craftsmanship and performance art were inscribed on the UNESCO list in 2012. It is one of the few national instruments for which Azerbaijani composers wrote concert works.",
+    "description": "The Azerbaijani tar is a long-necked plucked lute with a deep figure-of-eight body, a lambskin soundboard and three courses of steel strings, played with a small plectrum held between the fingers. Master-builders hollow the body from mulberry wood, and the instrument's design was refined in the nineteenth century, when the tar became the leading solo and ensemble instrument of Azerbaijani music. It leads the mugham trio of tar, kamancha and frame drum that performs the classical modal suites of Azerbaijani tradition, and it accompanies ashiq narrative song as well. In 2012 UNESCO inscribed the craftsmanship and performance art of the tar on the Representative List, and Azerbaijani composers have written concert works for the instrument, making it a rare folk lute with a classical repertoire.",
     "source_type": "oral_tradition",
     "source_quality": "well-documented",
     "attested": true,
@@ -2117,7 +2129,7 @@
     "region": "Eastern Europe",
     "culture": "Turkic (Tatar)",
     "type": "garment",
-    "description": "Hemispherical embroidered skullcap, the traditional headwear of Tatar men. Decorated with silk or velvet embroidery in floral and geometric patterns, the tubeteika was worn at home and in public, while the taller cone-shaped kelepush was worn outdoors. Embroidered tubeteikas were part of festive dress and remain a symbol of Tatar national identity.",
+    "description": "Hemispherical embroidered skullcap, the traditional headwear of Tatar men. Decorated with silk or velvet embroidery in floral and geometric patterns, the tubeteika was worn at home and in public, while the taller cone-shaped kelepush was worn outdoors. Embroidered tubeteikas were part of festive dress and remain a symbol of Tatar national identity. The cap is made of velvet or thick cotton sewn in four wedge-shaped panels, joined at the crown and embroidered by hand with gold thread, silk and beads; the ornament covers the crown and often spills over the band. In Tatar custom a man removed his tubeteika only indoors and in his own home, and a cap was sewn specially for weddings and festivals. Kazan Tatar embroidery is famous for its small, dense stitches, and 19th-century examples in museum collections show the deep red, green and gold palette typical of the region. The tubeteika is still worn by Tatar men on holidays and by performers of Tatar music.",
     "source_type": "secondary_scholarly",
     "source_quality": "well-documented",
     "attested": true,
@@ -2155,7 +2167,7 @@
     "region": "Asia",
     "culture": "Turkic (Altai)",
     "type": "musical instrument",
-    "description": "Two-stringed plucked lute of the Altai people, carved with a shallow bowl body, hide soundboard and gut or horsehair strings. The topshur accompanies the kaychi storytellers, who perform the great Altai heroic epics such as the Tale of Maadai-Kara; its music is bound to Altai oral tradition and is often played before the fire and during ritual.",
+    "description": "Two-stringed plucked lute of the Altai people, carved with a shallow bowl body, hide soundboard and gut or horsehair strings. The topshur accompanies the kaychi storytellers, who perform the great Altai heroic epics such as the Tale of Maadai-Kara; its music is bound to Altai oral tradition and is often played before the fire and during ritual. The player holds the instrument against the body and plucks with a bare hand, and the music is thought to summon the presence of the epic's heroes as the singer speaks their deeds. The two strings are sometimes tuned a fourth apart, and the tone is soft and earthy, suited to the low, long-narrative voice of the kaychi. Because the epic is sacred, the topshur is treated with care, and a player is sometimes said to warm the hide soundboard by the fire before beginning, so that the instrument will sing. Kaychi performance of Maadai-Kara can last a whole night, the topshur's ostinato carrying the story through the darkness.",
     "source_type": "secondary_scholarly",
     "source_quality": "well-documented",
     "attested": true,

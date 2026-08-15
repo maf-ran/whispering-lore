@@ -15,7 +15,7 @@
     "maker": "Sons of Ivaldi (dwarves)",
     "powers": "Never misses its mark; its throwers and possession pledge a solemn oath.",
     "associated_creature": null,
-    "description": "The spear of Odin, forged by the dwarven sons of Ivaldi in a contest against Brokkr and Sindri for Loki's head. The All-Father opened the war between the Æsir and Vanir by hurling Gungnir over the enemy host, an act that became the archetype of casting a spear at the start of a battle. Oaths sworn upon it were considered unbreakable. Odin rides with it at Ragnarök.",
+    "description": "Gungnir, 'the swaying one', is the spear of Odin, the All-Father, forged by the dwarven sons of Ivaldi in the same contest of treasures that gave the gods their greatest gifts. In the Prose Edda the spear is listed as one of the three marvels the sons of Ivaldi made — the others being Skíðblaðnir and Sif's golden hair. The All-Father opened the war between the Æsir and the Vanir by hurling Gungnir over the enemy host, and that gesture of casting a spear at the start of a battle became the archetype for the practice in Old Norse and later Germanic warfare. Oaths sworn on Gungnir, often called the 'spear-oath', were held to be unbreakable, and the name was used in skaldic kennings as a kenning for 'spear' or 'weapon'. At Ragnarök Odin rides against the wolf Fenrir armed with the spear, though the weapon cannot save him. Gungnir remains a byword for Odin's authority and appears constantly in art and fiction that draws on Norse myth.",
     "related_creatures": [
       "odin-iceland",
       "odin-norway"
@@ -40,7 +40,7 @@
       "asir-vanir war"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "gleipnir-0106",
@@ -58,12 +58,14 @@
     "maker": "Dwarves",
     "powers": "Unbreakable binding that holds the wolf Fenrir until Ragnarök.",
     "associated_creature": "fenrir",
-    "description": "The third and final fetter with which the gods bound the wolf Fenrir, after the chains Lœdingr and Drómi snapped. Forged by the dwarves from six impossible things: the sound of a cat's footfall, a woman's beard, the roots of a mountain, a bear's sinews, a fish's breath, and a bird's spittle. Made as thin as silk, it cannot be broken. The god Týr placed his hand in Fenrir's mouth as a pledge and lost it when the wolf discovered he could not free himself.",
+    "description": "Gleipnir is the third and final fetter with which the gods bound the wolf Fenrir, after the great chains Leyding and Drómi both snapped. It was made by the dwarves from six impossible things: the sound of a cat's footfall, a woman's beard, the roots of a mountain, a bear's sinews, a fish's breath, and a bird's spittle — which is why, the Edda explains, none of these things now exist in the world. Gleipnir is as thin as a silken ribbon, yet nothing could break it. To persuade the suspicious wolf to let himself be bound, the god Týr placed his hand in Fenrir's mouth as a pledge, and lost it when the wolf found himself unable to escape. The binding holds until Ragnarök, when the wolf breaks free in the final battle. Gleipnir is the classic example of the 'impossible object' in Old Norse mythology.",
     "related_creatures": [
       "fenrir",
       "dwarf-dvergr"
     ],
-    "featured_in_stories": [],
+    "featured_in_stories": [
+      "ragnark-the-end-and-rebirth"
+    ],
     "source": "Prose Edda (Gylfaginning)",
     "source_type": "literary",
     "source_quality": "expert",
@@ -85,7 +87,7 @@
       "dromi"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "gram-0108",
@@ -106,7 +108,7 @@
     "maker": "Reforged by Regin from the shards of Sigmund's blade",
     "powers": "Slices through a smith's anvil and the body of the dragon Fáfnir.",
     "associated_creature": null,
-    "description": "The sword of the Völsung heroes. Its first owner Sigmund drove it into the Branstock tree, where none but he could pull it out. When the blade broke, the shards were kept and reforged by Regin for Sigmund's son Sigurðr, who proved the blade by splitting the anvil in two and later used it to slay the dragon Fáfnir.",
+    "description": "Gram is the great sword of the Völsung heroes, first owned by Sigmund and later reforged for his son Sigurðr, the slayer of the dragon Fáfnir. The sword enters the story when Odin, disguised as a wanderer, thrusts it into the great tree Branstock in the hall of King Völsung, declaring that the one who draws it shall have it as a gift; only Sigmund could pull the blade free. When the sword broke in battle, the shards were kept and re-forged by the smith Regin, and Sigurðr proved the new blade by laying it on the anvil and cleaving it in two before using it to kill Fáfnir. In the German tradition the same sword is called Nothung in the Nibelungenlied and Balmung in other versions, and it lives on in Wagner's Ring cycle as Siegfried's reforged sword. Gram is therefore one of the most famous swords in all of Germanic legend.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Völsunga saga",
@@ -133,7 +135,7 @@
       "volsunga saga"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "gjallarhorn-0113",
@@ -151,9 +153,11 @@
     "maker": "Unnamed",
     "powers": "Its sound carries across all the worlds; it calls the gods to the final battle.",
     "associated_creature": null,
-    "description": "The great horn of Heimdallr, the watchman of the gods, who guards the rainbow bridge Bifröst. In the Prose Edda, Heimdallr drinks from it at the well and will blow it when the world ends; at Ragnarök the horn's blast is heard throughout the worlds, summoning gods and men to the final battle. It may double as a drinking vessel in some accounts.",
+    "description": "Gjallarhorn is the great horn of Heimdallr, the watchman of the gods who guards the rainbow bridge Bifröst, and its sound carries across all the worlds. At Ragnarök Heimdallr raises the horn to his lips and its blast summons gods and men to the final battle on the field of Vígríðr, a call that is among the great set-pieces of Norse eschatology. Snorri also says that Heimdallr drinks from the horn at the well of Mímir, suggesting that it doubled as a drinking vessel in some accounts. The name 'resounding horn' or 'shrill horn' fits its role as the signal of the end times. Gjallarhorn has passed into modern culture as the archetype of a world-ending call, and it appears in fantasy fiction, music, and art whenever the Ragnarök myth is retold.",
     "related_creatures": [],
-    "featured_in_stories": [],
+    "featured_in_stories": [
+      "ragnark-the-end-and-rebirth"
+    ],
     "source": "Prose Edda (Gylfaginning)",
     "source_type": "literary",
     "source_quality": "expert",
@@ -172,7 +176,7 @@
       "bifrost horn"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "gallehus-horns-0117",
@@ -190,7 +194,7 @@
     "maker": "Maker named in runic inscription: LagestheR",
     "powers": "Ceremonial drinking and ritual horns; images thought to invoke protection and fertility.",
     "associated_creature": null,
-    "description": "Two golden horns of the 5th century, found at Gallehus in southern Jutland in 1639 and 1734 and stolen and melted down in 1802. The longer horn bore a runic inscription naming its maker, LagestheR. The horns' densely decorated bands of men, beasts, and symbols have been read as ritual or cultic imagery. Reconstructions are held in Copenhagen; they remain among the most famous objects of Nordic antiquity.",
+    "description": "The Gallehus golden horns are two magnificent drinking and ritual horns of the 5th century AD, found in a field at Gallehus in southern Jutland in 1639 and 1734 and among the most famous objects of Nordic antiquity. The shorter horn bore a Proto-Norse runic inscription along the rim, 'ek hlewagastiR holtijaR horna tawido' — 'I, Hlewagastir (also read as LagestheR) of Holt, made the horn' — one of the earliest complete sentences written in the Elder Futhark. Both horns were built up from rings of sheet gold covered with stamped and soldered figures of men, beasts, and symbols, whose meaning scholars still debate. In 1802 they were stolen from the Royal Kunstkammer and melted down by the goldsmith Niels Heidenreich, an act that made the horns a national tragedy in Denmark; reconstructions made from the surviving 18th-century drawings are displayed at the National Museum in Copenhagen, and the horns inspired Oehlenschläger's poem 'Guldhornene'.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Archaeological finds (Gallehus, Jutland)",
@@ -213,7 +217,7 @@
       "jotland"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "gullinbursti-0204",
@@ -232,7 +236,7 @@
     "maker": "Brokkr and Sindri (dwarves)",
     "powers": "Its golden bristles light the darkest night, and it runs through air and water faster than any horse.",
     "associated_creature": null,
-    "description": "Freyr's golden boar, forged by the dwarves Brokkr and Sindri during the same wager that produced Mjölnir. Its bristles shone so brightly that they lit the dark, and it could run through air and water alike. Odin judged it the finest of the dwarves' treasures, and Snorri records it as fit to draw Freyr's chariot in place of a horse.",
+    "description": "Gullinbursti, the 'golden-bristled boar', is the boar of the god Freyr, forged by the dwarven brothers Brokkr and Sindri in the same wager that produced the hammer Mjölnir. Its bristles are of gold and shine so brightly that they light the darkest night, and the boar can run through air and water faster than any horse, drawing Freyr's chariot in place of a steed. Snorri records that Odin judged Gullinbursti the best of all the dwarves' gifts, naming the boar along with its second name Slíðrugtanni, and that Freyr rode it to Baldr's funeral. The boar is also the ancestor of the golden boar of Swedish royal imagery and of the Christmas ham that crowns the Swedish table, traditions that carry the myth quietly into modern life. Gullinbursti is one of the most beloved minor treasures of Norse mythology.",
     "related_creatures": [
       "dwarf-dvergr"
     ],
@@ -257,7 +261,7 @@
       "sindri"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "gridarvolr-0211",
@@ -277,7 +281,7 @@
     "maker": "Gríðr the giantess",
     "powers": "A staff of might lent to Thor, with which he slew the giant Geirröðr.",
     "associated_creature": null,
-    "description": "The staff of the giantess Gríðr, lent by her to Thor along with iron gloves and a belt of might when he set out against the giant Geirröðr. With the staff in hand Thor broke Geirröðr's back and killed him. The loan, told in Skáldskaparmál, is a rare act of kindness by a giantess toward the thunder god.",
+    "description": "Gríðarvölr is the staff of the giantess Gríðr, mother of Víðarr, which she lent to Thor along with iron gloves and a belt of might when he set out against the giant Geirröðr. In the tale told in Skáldskaparmál, Thor uses the staff to fend off the giantess Gjálp and her kin and to brace himself when Geirröðr's sons try to crush him in a chair, and he finally breaks the giant's back with the aid of the borrowed gear. The loan is a rare act of kindness by a giantess toward the thunder god, and Gríðr is remembered as the wisest and most generous of the giantesses for it. The story shows that even Thor needed the help of the giants' own world to defeat the greatest of their kind. Gríðarvölr appears in most modern retellings of the tale of Thor's visit to Geirröðr.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Prose Edda (Skáldskaparmál)",
@@ -299,7 +303,7 @@
       "thor staff"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "ginfaxi-0221",
@@ -318,7 +322,7 @@
     "maker": "Icelandic grimoire tradition",
     "powers": "Turns the luck of a rival or competitor, so the bearer wins the contest.",
     "associated_creature": null,
-    "description": "Ginfaxi, the rival-beating stave of the Huld manuscript, drawn to defeat an opponent in competition or argument. Its name echoes the animal names of Norse myth, but here it belongs to a sign meant to turn luck against rivals. It is one of the combative staves of Icelandic folk magic, used when the prize was trade, a case, or a contest.",
+    "description": "Ginfaxi is an Icelandic magical stave recorded in the Huld manuscript, compiled by Geir Vigfússon at Akureyri in 1860, and drawn to ensure victory over a rival in a contest or argument. In the tradition it is used together with the stave Gapaldur: Gapaldur is kept under the heel of the right foot and Ginfaxi under the toes of the left foot, so that the wearer wins bouts of Icelandic wrestling, glíma, and other competitions. The name echoes the horse-names of Norse myth such as Skinfaxi and Hrímfaxi, and a horse called Ginfaxi is attested in the sagas, though the stave itself is a folk-magic sign rather than a mythic beast. It belongs to the combative family of galdrastafir, used when the prize was a bout, a trade, or a court case. The stave is still reproduced in modern collections of Icelandic magical signs.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Huld manuscript (Lbs 4626 8vo, 1860)",
@@ -340,7 +344,7 @@
       "huld manuscript"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "galdrastafir-0226",
@@ -359,7 +363,7 @@
     "maker": "Icelandic grimoire tradition",
     "powers": "A family of sigils drawn for protection, luck, healing, or harm, each with a specific aim.",
     "associated_creature": null,
-    "description": "Galdrastafir, the collective name for the magical staves of Icelandic folk tradition, drawn from the 17th century onward in grimoires such as the Huld manuscript. Each stave mixes rune-like strokes into a sigil for a single aim — protection, luck, healing, or harm. They form the best-documented stave-magic corpus in Europe, though many survive without clear instructions for use.",
+    "description": "Galdrastafir, the collective name for the magical staves of Icelandic folk tradition, drawn from the 17th century onward in grimoires such as the Huld manuscript. Each stave mixes rune-like strokes into a sigil for a single aim — protection, luck, healing, or harm. They form the best-documented stave-magic corpus in Europe, though many survive without clear instructions for use. The signs descend from medieval rune practice, but they were amplified into dense, staff-like figures that could be carved on wood, cut into horn or bone, or drawn on paper and skin. Manuscripts like the Huld collection of 1860 preserve dozens of them, from the famous Vegvísir and Ægishjálmr to obscure personal signs, and their modern revival has made them symbols of Icelandic heritage as much as instruments of folk magic.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Icelandic galdrabækur; Huld manuscript (Lbs 4626 8vo, 1860)",
@@ -382,7 +386,7 @@
       "stave magic"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "the-golden-apples-0233",
@@ -401,7 +405,7 @@
     "maker": "Kept by the goddess Iðunn",
     "powers": "Keep the gods from ageing; without them the gods grey and weaken.",
     "associated_creature": null,
-    "description": "The golden apples of Iðunn, which the gods must eat to keep from growing old. When the giant Þjazi tricked Loki into luring Iðunn out of Asgard, the gods aged and greyed, until Loki stole her back in falcon shape, carrying her and her apples from the giant's stronghold. The apples are a life-giving treasure whose loss threatens the whole pantheon.",
+    "description": "The golden apples of Iðunn, which the gods must eat to keep from growing old. When the giant Þjazi tricked Loki into luring Iðunn out of Asgard, the gods aged and greyed, until Loki stole her back in falcon shape, carrying her and her apples from the giant's stronghold. The apples are a life-giving treasure whose loss threatens the whole pantheon. Snorri records the tale in Skáldskaparmál: Iðunn kept the apples in a casket, and without them the gods began to wither, so that the ageing assembly pressed Loki to restore her. Returning in falcon form, Loki snatched the goddess up and flew for Asgard, and the eagle-shaped Þjazi pursued until the gods kindled a fire that burned his wings. The story ties Iðunn's name to eternal youth and explains why the gods were so jealous of her keeping.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Prose Edda (Skáldskaparmál)",
@@ -423,7 +427,7 @@
       "thjazi"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "grotte-mill-0301",
@@ -443,10 +447,11 @@
     "maker": "Unnamed; turned by the giantesses Fenja and Menja",
     "powers": "Grinds out gold, peace, and abundance for its owner; overgrinds to catastrophe.",
     "associated_creature": null,
-    "description": "The great hand-mill owned by King Fróði, which ground out gold, peace, and abundance. In the Eddic poem Grottasöngr the giantesses Fenja and Menja were forced to turn it until they raised an army; carried aboard a ship, the mill then ground salt until it sank, and so the sea became salt. The same wonder-mill lies at the heart of the Swedish folktale 'Why the Sea Is Salt'.",
+    "description": "The great hand-mill owned by King Fróði, which ground out gold, peace, and abundance. In the Eddic poem Grottasöngr the giantesses Fenja and Menja were forced to turn it until they raised an army; carried aboard a ship, the mill then ground salt until it sank, and so the sea became salt. The same wonder-mill lies at the heart of the Swedish folktale 'Why the Sea Is Salt'. The mill was named Grotti, and it had been quarried from a mountain together with two giant-women who alone had the strength to turn it; King Fróði kept them at the work night and day, and in their grinding song they at last ground out a war-host against him. Bought from a poor man and set to grind salt, the mill went on past the owner's command until the ship was overloaded and went down in the sea. Wonder-mills of the same kind appear again in Swedish tales, where a small hand-mill grinds out flour and salt for its lucky owner until it is stolen and lost to greed.",
     "related_creatures": [],
     "featured_in_stories": [
-      "why-the-sea-is-salt"
+      "why-the-sea-is-salt",
+      "the-rooster-the-hand-mill-and-the-swarm-of-hornets"
     ],
     "source": "Grottasöngr (Poetic Edda); Swedish folktale 'Why the Sea Is Salt'",
     "source_type": "literary",
@@ -470,7 +475,7 @@
       "why the sea is salt"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "the-golden-keys-0317",
@@ -488,8 +493,10 @@
     "maker": "Wonder-gift of the tale",
     "powers": "Unlock doors and rewards for the hero who wins them.",
     "associated_creature": null,
-    "description": "Golden keys that appear in a Swedish folk tale, unlocking a reward or a forbidden treasure for the hero who obtains them. The keys belong to the tale's wonder-logic: ordinary locks fall open before them, and possession of the keys brings the hero to fortune. The motif is told as part of the tale 'The Golden Keys'.",
-    "related_creatures": [],
+    "description": "Golden keys that appear in a Swedish folk tale, unlocking a reward or a forbidden treasure for the hero who obtains them. The keys belong to the tale's wonder-logic: ordinary locks fall open before them, and possession of the keys brings the hero to fortune. The motif is told as part of the tale 'The Golden Keys'. In the Swedish version the humble meadow-maid Lena meets three fairies who give her a golden key to a magical dream garden, on the strict condition that she tell no one of it; when the young king falls into danger, she must break her word to save him, and her selfless choice earns her the king's hand. The key thus works as the fairy gift of the tale: a secret treasure that tests the holder's worth more than it rewards the greedy. The fairies belong to the älvor, the beautiful but otherworldly spirits of Swedish forests and meadows, who grant gifts only to those who keep faith with them.",
+    "related_creatures": [
+      "alfvor"
+    ],
     "featured_in_stories": [
       "the-golden-keys"
     ],
@@ -510,7 +517,7 @@
       "magic keys sweden"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "the-golden-cradle-0336",
@@ -528,7 +535,7 @@
     "maker": "Object of the wonder-tale",
     "powers": null,
     "associated_creature": null,
-    "description": "A cradle of gold in a Swedish folk tale, in which a special child is laid and around which the tale's wonder unfolds. In 'The Golden Cradle', the precious cradle marks the child's destiny and the family's fortune, and its making or finding drives the story. The golden cradle is an emblem of the wonder-tale's promise of wealth and favour.",
+    "description": "A cradle of gold in a Swedish folk tale, in which a special child is laid and around which the tale's wonder unfolds. In 'The Golden Cradle', the precious cradle marks the child's destiny and the family's fortune, and its making or finding drives the story. The cradle, the most intimate of household objects, is here lifted out of the everyday into the realm of the marvellous, a sign that the child in it is no ordinary child. Tales of golden cradles and foundling princes appear across Europe, and in the Swedish version the treasure is bound up with the home it blesses. The golden cradle is an emblem of the wonder-tale's promise of wealth and favour, and of the belief that the household's luck rests on its children.",
     "related_creatures": [],
     "featured_in_stories": [
       "the-golden-cradle"
@@ -550,7 +557,7 @@
       "gold cradle swedish tale"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "gjermundbu-helmet-0405",
@@ -566,7 +573,7 @@
     "material": "Iron",
     "era": "Viking Age (c. 970)",
     "associated_creature": null,
-    "description": "The only reasonably complete Viking-age helmet found in Scandinavia, recovered from a wealthy chieftain's burial mound at Gjermundbu in Ringerike, Norway, in 1943. The iron helmet has a rounded cap, a spectacle-like eye guard, and a mail curtain for the neck, and was buried with a mail coat, swords, and gaming pieces. It now stands in the Museum of Cultural History in Oslo.",
+    "description": "The only reasonably complete Viking-age helmet found in Scandinavia, recovered from a wealthy chieftain's burial mound at Gjermundbu in Ringerike, Norway, in 1943. The iron helmet has a rounded cap, a spectacle-like eye guard, and a mail curtain for the neck, and was buried with a mail coat, swords, and gaming pieces. It now stands in the Museum of Cultural History in Oslo. The helmet's deep brow and eye guard give it the fierce face that popular images of the Viking age draw, and its iron cap was built of several plates riveted together under a brow band, with the mail aventail protecting the neck and throat. Because so few pieces of Viking-age armour survive, the Gjermundbu helmet is the single most important witness to what a Norse warrior actually wore into battle.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Excavated burial, Gjermundbu, Ringerike (1943)",
@@ -587,7 +594,7 @@
       "vikingage helmet"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "gokstad-ship-0407",
@@ -603,7 +610,7 @@
     "material": "Oak",
     "era": "Viking Age (c. 890)",
     "associated_creature": null,
-    "description": "A seaworthy Viking-age longship found in a burial mound at Gokstad in Sandefjord, Norway, in 1880. Around 23 meters long with sixteen pairs of oars, it was built for open-sea sailing and held the remains of a chieftain. A full-scale copy, the Viking, crossed the Atlantic to Chicago in 1893, proving its sailing qualities. The original is displayed in the Viking Ship Museum in Oslo.",
+    "description": "A seaworthy Viking-age longship found in a burial mound at Gokstad in Sandefjord, Norway, in 1880. Around 23 meters long with sixteen pairs of oars, it was built for open-sea sailing and held the remains of a chieftain. A full-scale copy, the Viking, crossed the Atlantic to Chicago in 1893, proving its sailing qualities. The original is displayed in the Viking Ship Museum in Oslo. The Gokstad ship's clean, clinker-built lines, deep keel, and tall mast made it the working sea-boat of the Viking age, able to carry a crew across the open ocean and up narrow rivers alike. The burial in its mound included shields along the rail and a full set of gear for the dead chieftain, and the successful Atlantic crossing of the replica demonstrated that the old ships were no mere coastal craft.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Excavated ship burial, Gokstad, Sandefjord (1880)",
@@ -624,7 +631,7 @@
       "viking longship"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "gakti-0415",
@@ -641,7 +648,7 @@
     "material": "Wool with tin-thread and pewter embroidery",
     "era": "Traditional to present",
     "associated_creature": null,
-    "description": "The traditional dress of the Sámi, a tunic worn with a decorated collar, belt, and headgear, trimmed with bands of red, blue, and yellow and pewter-thread embroidery. Each region of Sápmi has its own cut, colors, and embroidery, so the dress tells the wearer's origin and family. The gákti is still worn for ceremonies and festivals and carries strong cultural identity among Sámi in Norway.",
+    "description": "The traditional dress of the Sámi, a tunic worn with a decorated collar, belt, and headgear, trimmed with bands of red, blue, and yellow and pewter-thread embroidery. Each region of Sápmi has its own cut, colors, and embroidery, so the dress tells the wearer's origin and family. The gákti is still worn for ceremonies and festivals and carries strong cultural identity among Sámi in Norway. The dress is made of wool for the cold, and its bands and borders follow the wearer's home district, with the colours and the shape of the collar, the buttons, and the silver so specific that a knowing eye can read the wearer's valley at a glance. The belt and its ornamented pouch hold the personal tools of the wearer, and the pewter-thread embroidery catches the light in the long winter dark. The gákti has been worn unbroken through the centuries and today is both everyday dress and festive costume.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Sámi dress tradition",
@@ -663,7 +670,7 @@
       "samisk kofte"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "guksi-0423",
@@ -680,7 +687,7 @@
     "material": "Carved birch burl",
     "era": "Traditional to present",
     "associated_creature": null,
-    "description": "The Sámi cup carved from a birch burl, with a handle and a shallow bowl, traditionally worn at the belt for coffee, broth, and water. Each guksi is shaped from a single piece of burled birch and seasoned by use, so a worn cup becomes a prized possession among reindeer herders. Carving is a handwork tradition passed down in Sámi families in Norway and Finland.",
+    "description": "The Sami cup carved from a single piece of birch burl, with a shallow bowl and a flat handle, worn at the belt for coffee, broth, or water. Because each guksi is shaped from a burl, every piece has a unique grain, and the cup is seasoned by use until it holds the taste of coffee and smoke. Carving is part of the Sami duodji handcraft tradition, still practiced in Norway, Sweden, and Finland, and the finest cups are made of burl that has grown slowly in the cold. Traditionally it was a personal possession, and a well-worn guksi became a valued companion on the reindeer-herding path. In modern use the guksi has also become popular in outdoor life far beyond Sapmi.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Sámi craft tradition",
@@ -702,7 +709,7 @@
       "komse"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "gjellestad-ship-0426",
@@ -718,7 +725,7 @@
     "material": "Oak",
     "era": "Viking Age (c. 800)",
     "associated_creature": null,
-    "description": "A Viking-age ship burial discovered at Gjellestad in Østfold, Norway, first detected with ground-penetrating radar in 2018 and excavated from 2020. The oak keel and strakes of the roughly 20-meter ship survived in wet clay, along with beads, iron, and a soapstone vessel. It is the first ship burial excavated in Norway in over a century.",
+    "description": "A Viking-age ship burial discovered at Gjellestad in Ostfold, Norway, first detected with ground-penetrating radar in 2018 and excavated from 2020 to 2021. The oak keel and strakes of the roughly twenty-meter ship survived as a dark imprint in the clay, along with iron rivets, beads, and a soapstone vessel, though the wooden hull itself had largely rotted away. The site sits beside the Jellhaug burial mound and an older cult or settlement area, suggesting a high-status burial landscape of the late Viking age. It was the first ship excavation in Norway in more than a century, and the finds are intended for the future Museum of the Viking Age in Oslo.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Excavated ship burial, Gjellestad, Østfold (2020)",
@@ -738,7 +745,7 @@
       "gjellestad"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "great-cat-of-dovrefjell-0428",
@@ -755,7 +762,7 @@
     "era": "Folk era",
     "powers": "Its presence terrifies trolls and drives them from the house.",
     "associated_creature": null,
-    "description": "The monstrous cat of the Norwegian folktale collected by Asbjørnsen and Moe, in which a traveller brings his cat to a Dovrefjell farm whose Christmas feast is ruined by trolls every year. When the trolls return, the cat seizes the troll wife and is taken for an enormous bear, and the trolls flee. Learning that the great cat still lives, they never come back.",
+    "description": "The monstrous cat of the Norwegian folktale collected by Asbjornsen and Moe, in which a traveller brings his cat to a Dovrefjell farm whose Christmas feast is ruined by trolls every year. When the trolls return, the cat seizes the troll wife in the dark and is taken for an enormous bear, and the trolls flee, calling home their warning that the great cat is still alive and the farm is lost to them. The tale is usually read as a story of a clever animal that turns the trolls' own fear against them. It is one of the best-known Norwegian troll tales and gave its name to the mountain farm setting of the story.",
     "related_creatures": [
       "troll-norway"
     ],
@@ -780,7 +787,7 @@
       "dovre cat"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "the-gundestrup-cauldron-0437",
@@ -796,7 +803,7 @@
     "material": "Silver",
     "era": "Iron Age (c. 150 BCE-1 CE)",
     "associated_creature": null,
-    "description": "A richly decorated silver cauldron found dismantled in a peat bog at Gundestrup in Himmerland, Jutland, in 1891. Its plates show gods, warriors, horned figures, and a great cauldron in which a figure is dipped, imagery with links to Celtic and Thracian art. It was probably made abroad and carried north, then offered to the bog as a sacrificial gift. It is kept in the National Museum of Denmark.",
+    "description": "A richly decorated silver cauldron found dismantled in a peat bog at Gundestrup in Himmerland, Jutland, in 1891. Its silver plates show gods, warriors, a horned figure holding a torc, and a great cauldron into which a figure is being lowered, imagery with strong links to Celtic and Thracian art. It was probably made in the southeast of Europe and carried north, then taken apart and offered to the bog as a sacrificial gift. The cauldron is kept in the National Museum of Denmark and is among the most famous objects of Iron Age Europe.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Bog find, Gundestrup, Himmerland (1891)",
@@ -817,7 +824,7 @@
       "gundestrup"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "golden-fleece-0602",
@@ -836,7 +843,7 @@
     "maker": "The ram Chrysomallus, sent by Hermes",
     "powers": "Object of the quest of the Argonauts; hung in the grove of Ares under a dragon's guard.",
     "associated_creature": null,
-    "description": "The golden fleece of the winged ram that carried Phrixus and Helle to Colchis; Jason and the Argonauts sailed to retrieve it from the grove of Ares, where a sleepless dragon guarded it. It is the goal of the Argonaut cycle, the price King Aeetes demanded of Jason before he would surrender it.",
+    "description": "The golden fleece of the winged ram that carried Phrixus and Helle to Colchis, where Phrixus sacrificed the ram and hung its fleece in the grove of Ares under a sleepless dragon's guard. Jason and the Argonauts sailed the Argo to retrieve it, and the quest, with its trials set by King Aeetes, is the central adventure of the Argonaut cycle. The fleece stands for the distant prize that turns a voyage into a legend, and the dragon that guarded it became one of the best-known monsters of Greek myth.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Apollonius of Rhodes, Argonautica; Apollodorus, Bibliotheca",
@@ -859,7 +866,7 @@
       "colchis"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "golden-bough-0621",
@@ -878,7 +885,7 @@
     "maker": "Hidden in the wood of Proserpina",
     "powers": "Admitted a living man into the underworld; the offering Proserpina required of Aeneas.",
     "associated_creature": null,
-    "description": "The golden bough Aeneas plucked in the Sibyl's wood to gain entry to the underworld and offer to Proserpina; like mistletoe it must be found and plucked by fate alone, and its presence admits the living to the realm of the dead. Virgil makes it the passport of the Aeneid's descent.",
+    "description": "The golden bough is the branch Aeneas must pluck before he may enter the underworld, the passport of his descent in the sixth book of the Aeneid. The Sibyl of Cumae tells him the bough grows in a dark wood, is of gold like mistletoe in midwinter, and can only be plucked if Fate allows: no human strength can break it, but if the Fates consent it yields at the touch, and it is the gift that Proserpina, queen of the dead, demands before any living man may pass the gate of Dis. Aeneas finds the bough on the tree, plucks it, and carries it down through the underworld, leaving it at last on the threshold of Proserpina's palace. The bough has been read since antiquity as an image of initiation, secrecy, and the crossing of death's threshold. Frazer made it the title and organizing symbol of his great study of myth and ritual, and it remains one of the most suggestive objects in classical poetry.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Virgil, Aeneid (Book 6)",
@@ -899,7 +906,7 @@
       "proserpina bough"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "guitarra-portuguesa-0632",
@@ -918,7 +925,7 @@
     "maker": "Developed from the English cittern in Lisbon",
     "powers": "The signature voice of fado, said to express saudade itself.",
     "associated_creature": null,
-    "description": "The Portuguese guitar, a twelve-string cittern with a pear-shaped body, the defining instrument of fado; its bright, plaintive sound accompanies the singer in Lisbon's taverns and is said to voice saudade itself. A documented tradition of urban song rather than a mythic relic, it anchors Portugal's musical folklore.",
+    "description": "The Portuguese guitar is the pear-shaped twelve-string cittern with a flat back and a sharp, ringing tone that is the defining instrument of fado, the song of Lisbon. It is played with a long plectrum, its six double courses of metal strings laid over a tear-shaped body, and it developed in Lisbon in the 18th and 19th centuries from the English cittern brought by British merchants, taking on its Portuguese character in the hands of local makers such as the Machado family. In fado the guitar answers and weeps with the singer, and the idiom is often said to voice saudade itself, the untranslatable longing at the heart of the song. From Lisbon the instrument spread to Coimbra, where a larger-bodied variant with its own tuning accompanies a separate tradition of sung poetry. Though a documented instrument rather than a mythic relic, it carries Portugal's musical folklore, and its sound is instantly recognised as the voice of fado.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Ethnographic and musicological documentation of the fado tradition",
@@ -939,7 +946,7 @@
       "guitarra de fado"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "gusle-0637",
@@ -958,7 +965,7 @@
     "maker": "Traditional makers",
     "powers": "Accompanied heroic epic song in the oral tradition of the southern Balkans.",
     "associated_creature": null,
-    "description": "The gusle, a single-stringed fiddle of the Balkan epic singers, played with a bow while the singer chants heroic songs; on the Croatian coast and hinterland it accompanied tales of heroes and outlaws, and the instrument is inseparable from the region's oral heroic tradition, documented among Croats, Serbs, and Montenegrins.",
+    "description": "The gusle is a single-stringed bowed instrument of the southern Balkans, a round or pear-shaped bowl of maple or other wood covered with a skin, with a single horse-hair string played with a horse-hair bow, used to accompany the chanted epic poetry of the South Slavs. The singer, the guslar, plucks or bows the one string as he recites long heroic songs of battles, outlaws, and ancestral heroes, and among Croats, Serbs, Bosnians, and Montenegrins the instrument is inseparable from the living tradition of oral epic that Milman Parry and Albert Lord made famous with their studies of formulaic composition in the 1930s. In the Croatian lands the gusle was long carried by singers of the Dinaric highlands and the coast, and it has served both as a patriotic symbol and, at times, as an instrument of political song. The one-stringed fiddle is among the simplest instruments of European folk music, yet it carries an oral tradition of exceptional depth.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Ethnographic documentation of the South Slavic epic tradition",
@@ -980,7 +987,7 @@
       "balkan fiddle"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "galatea-ivory-statue-0640",
@@ -999,7 +1006,7 @@
     "maker": "Pygmalion of Cyprus",
     "powers": "Brought to life by Aphrodite at Pygmalion's prayer; became his wife.",
     "associated_creature": null,
-    "description": "The ivory statue the sculptor Pygmalion of Cyprus carved and fell in love with; at his prayer Aphrodite brought it to life as Galatea, who became his wife. Ovid's Metamorphoses tells the story, the classic tale of art animated by desire, and it is set on the island of Cyprus.",
+    "description": "The ivory statue carved by Pygmalion of Cyprus, which the sculptor loved as a living woman until Aphrodite, moved by his prayer, brought it to life as Galatea, who became his wife; Ovid's Metamorphoses tells the story as the classic fable of art animated by desire. Pygmalion, disgusted by the mortal women around him, carves a maiden of such beauty that he adorns, dresses, and kisses his own work, and at the festival of Venus prays for a wife like the image; the goddess answers by warming the ivory, and the statue, turned to flesh and blood, steps into his arms. The tale is set on Cyprus, the island of Aphrodite, and later writers gave the bride her name, Galatea. It has been retold endlessly in literature and art, most famously in Shaw's Pygmalion and its musical descendant My Fair Lady, as the image of the artist remaking the beloved. The living statue remains the supreme emblem of creation and love in Western culture.",
     "related_creatures": [
       "pygmalion"
     ],
@@ -1026,7 +1033,7 @@
       "galatea cyprus"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "green-knight-axe-1005",
@@ -1044,7 +1051,7 @@
     "era": "Medieval",
     "powers": "Weapon of the beheading challenge at Camelot.",
     "associated_creature": "green-knight-denmark",
-    "description": "The enormous green-steel axe carried by the Green Knight into King Arthur's hall at the start of the fourteenth-century poem Sir Gawain and the Green Knight. Gawain strikes the Knight's head off with it, and the Knight picks up the severed head, which reminds Gawain of the return blow owed at the Green Chapel.",
+    "description": "The enormous green-steel axe carried by the Green Knight into King Arthur's hall at Camelot on New Year's Eve in the fourteenth-century alliterative poem Sir Gawain and the Green Knight. The weapon, described as an unwieldy blade of enormous size, is the instrument of the beheading game: Gawain strikes off the Knight's head with it, and the Knight calmly picks up the severed head, which reminds Gawain to meet him at the Green Chapel in a year and a day. The axe thus becomes the token of the exchange-of-blows bargain that drives the poem's testing of Gawain's honour. When Gawain flinches at the first swing of the return blow, the Knight taunts him with the very blade Gawain had used. The axe is sometimes read as a symbol of the winter god or the old year passing, its green steel binding the natural and chivalric worlds. It remains one of the most memorable props in medieval English literature.",
     "related_creatures": [
       "green-knight-denmark"
     ],
@@ -1069,7 +1076,7 @@
       "sir gawain"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-09"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "green-knights-holly-branch-1033",
@@ -1086,7 +1093,7 @@
     "material": "Holly (legendary)",
     "era": "Medieval",
     "associated_creature": null,
-    "description": "The holly branch carried by the Green Knight in Sir Gawain and the Green Knight when he rides unarmed into Arthur's hall. Its evergreen branches mark him as one of the winter gods of the older year, and he uses it to hold his own axe as he delivers his challenge. It is an emblem of the poem's beheading-game and seasonal cycle.",
+    "description": "The holly branch carried by the Green Knight in the opening scenes of Sir Gawain and the Green Knight marks him as a figure of the winter season when he rides into Arthur's hall on New Year's Eve. The poem says the knight carried no shield or spear, only a holly bough in one hand and the great axe in the other, the evergreen symbol of the old year's endurance. He holds the branch in the same hand that grips the axe as he delivers his challenge, so that the two objects together present him as a green man of the turning year. Some readers see the holly as a sign of peace, since it was the emblem used in medieval Christmas observances, while others read it as the badge of a wild, pre-Christian power that intrudes on the court. In the poem's seasonal frame the branch connects the challenge to the cycle of death and renewal. It remains one of the most discussed details of the medieval masterpiece.",
     "related_creatures": [],
     "featured_in_stories": [
       "the-green-knights-challenge"
@@ -1108,7 +1115,7 @@
       "green bough arthurian"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-09"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "golden-goose-1040",
@@ -1126,7 +1133,7 @@
     "era": "Folk era",
     "powers": "Stuck fast anyone who touched it, drawing a growing chain of followers.",
     "associated_creature": null,
-    "description": "Die goldene Gans, the goose from the Grimms' tale of the same name. Found by Dummling in the wood, the golden goose sticks fast to anyone who touches it, so that the whole town follows in a chain behind him; the sight makes the sad princess laugh, winning her hand. The goose is a purely fictional marvel.",
+    "description": "Die goldene Gans, the golden goose of the Grimms' fairy tale of the same name (KHM 64), is found by the simpleton Dummling in the wood after he shares his food with a little grey man. The goose is made of gold, and it sticks fast to anyone who touches it, so that when the simpleton carries it home the innkeeper's daughters, the parson and the sexton all become stuck to it in a growing chain. The absurd procession makes the sad princess laugh for the first time in years, and by the tale's rules this wins Dummling her hand and half the kingdom. The goose is the classic fairy-tale marvel: absurd, adhesive and socially levelling, rewarding the kind-hearted simpleton over his clever brothers. The Grimms recorded the tale from German oral tradition in the early nineteenth century. The goose exists only in fiction, but its picture of a laughing kingdom remains one of the most cheerful images in the collection.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Grimm, Kinder- und Hausmärchen no. 64",
@@ -1147,7 +1154,7 @@
       "grimm goose"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-09"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "golden-falcon-hierakonpolis-1105",
@@ -1166,7 +1173,7 @@
     "maker": "Unknown (temple workshop)",
     "powers": "The earliest great image of the falcon god Horus.",
     "associated_creature": null,
-    "description": "A gold head of the falcon god Horus found in the main deposit of the temple at Hierakonpolis, dated to about 3100 BCE, one of the oldest large cult images of a deity to survive from Egypt. With its obsidian eyes and worked gold feathers, it stood as the focus of worship at the site where the Narmer Palette was also found, marking the beginnings of pharaonic divine kingship.",
+    "description": "The great gold head of the falcon god Horus found in the Main Deposit of the temple at Hierakonpolis (ancient Nekhen), the cult centre of Horus and one of the oldest religious and political capitals of Egypt. Made of beaten gold and fixed to a copper statue of a falcon, it is set with polished obsidian eyes and crowned with a twin-plumed headdress and a royal uraeus cobra on the brow. Long dated to about 3100 BCE and linked to the era of the Narmer Palette, which was found in the same cache, it is now more commonly assigned by scholars to the Old Kingdom, around the Sixth Dynasty (c. 2345-2181 BCE). Standing as a rare surviving cult statue of a deity, it shows the falcon god as patron of kingship, and a royal statuette once placed beneath its breast made visible the bond between the living pharaoh and his divine protector.",
     "related_creatures": [
       "horus-egyptian"
     ],
@@ -1189,7 +1196,7 @@
       "golden falcon head"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-09"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "gris-gris-morocco-1137",
@@ -1208,7 +1215,7 @@
     "maker": "Fqih (learned man) who wrote the contents",
     "powers": "Protects, heals, or brings luck by the written words sealed inside.",
     "associated_creature": null,
-    "description": "A small leather pouch worn on the body, holding written Qur'anic verses, prayers, or magic squares, used across North Africa to protect, heal, or bring fortune. In Morocco the hirz was stitched by a fqih and worn at the neck or arm, its power resting entirely on the writing sealed inside. The custom is documented in ethnographic surveys of Maghrebi folk practice and survives today.",
+    "description": "A small leather pouch worn on the body, holding written Qur'anic verses, prayers, or magic squares, used across North Africa to protect, heal, or bring fortune, known in the Maghreb as a hirz. In Morocco the hirz was stitched shut by a fqih, a learned man, who wrote the contents in ink, and it was worn at the neck, arm, or belt, its power resting entirely on the writing sealed inside. The same pouch-and-writing custom appears from Senegal to the Sudan under other names, and the French term gris-gris, of uncertain origin, became the colonial-era label for the whole family of talismans. The practice is documented in ethnographic surveys of Maghrebi folk religion and survives today, adapted to modern materials but still stitched and worn as before.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Ethnographic surveys of Maghrebi folk practice",
@@ -1230,7 +1237,7 @@
       "fqih amulet"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-09"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "guan-dao-1217",
@@ -1249,7 +1256,7 @@
     "maker": "Guan Yu's smiths (legendary)",
     "powers": "Emblem of martial protection and the god of war",
     "associated_creature": null,
-    "description": "The heavy curved-blade polearm historically carried by Guan Yu, the Three Kingdoms general deified as the god of war. The 'Green Dragon Crescent Blade' is the most famous of its kind; ceremonial guan dao are still kept in martial temples and used in lion-dance and martial-arts displays to invoke his protection.",
+    "description": "The guan dao is the heavy curved-blade polearm historically associated with Guan Yu, the great general of the Three Kingdoms period who was deified as the god of war and of righteousness, and its most famous example is the Green Dragon Crescent Blade. In Romance of the Three Kingdoms Guan Yu carries the enormous weapon, and in legend the blade was so heavy that only he could wield it; temples honouring him display a ceremonial guan dao in his image, and the weapon became a standard of the military temples and of martial artists. The actual historical guan dao developed later than the general's lifetime, and the famous blade is a literary creation, but the association made the weapon a fixture of Chinese and East Asian iconography. In the folk tradition a guan dao kept in a home or temple is thought to carry Guan Yu's protective presence, and it is still carried in lion-dance performances and temple processions. The blade's name has passed into popular culture across the world as the emblem of the bearded warrior-saint.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Three Kingdoms tradition; martial practice",
@@ -1271,7 +1278,7 @@
       "guan yu blade"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-09"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "geobukseon-1221",
@@ -1290,7 +1297,7 @@
     "maker": "Admiral Yi Sun-sin's fleet",
     "powers": "Iron-roofed warship that shed fire and boarding parties",
     "associated_creature": null,
-    "description": "The armored turtle warship built for Admiral Yi Sun-sin's fleet in the 1590s, roofed with an iron-studded shell that shed flame and repelled boarders. Though a real historical vessel, it passed into Korean folklore as an invincible protector of the coast, celebrated in songs and tales of the Imjin War against the Japanese invasion.",
+    "description": "The geobukseon, the turtle ship, is the armoured warship that Admiral Yi Sun-sin built for the Korean fleet in the 1590s to repel the Japanese invasions of the Imjin War, and it is the most celebrated naval vessel in Korean history. The ship was roofed with an iron-studded shell that shed fire arrows and repelled boarding parties, and it was fitted with cannon that could be fired from the sides while the deck stayed protected. Although the turtle ship was a real and effective warship, it passed quickly into folklore as an invincible protector of the coast, celebrated in songs, tales, and the war memoirs of Admiral Yi himself. Modern scholarship notes that the historical vessels were smaller and less dramatic than later depictions, but the legend endures, and the turtle ship is a national symbol of defence and ingenuity. Reconstructions are displayed and sailed at memorials such as the Hyeonchungsa shrine and the war museum in Seoul, and the turtle ship remains the emblem of Korean naval power.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Nanjung Ilgi; Joseon war records",
@@ -1313,7 +1320,7 @@
       "turtle warship"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-09"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "gogok-1222",
@@ -1332,7 +1339,7 @@
     "maker": "Silla royal workshops",
     "powers": "Symbol of rank, fertility, and the sun",
     "associated_creature": null,
-    "description": "The comma-shaped jade ornament threaded onto the gold crowns and belts of the Silla kingdom and excavated in numbers from the tombs of Gyeongju. Scholars link the curved bead to the bear-woman Ungnyeo's offering in the Dangun myth and to shamanic fertility symbolism; it remains the emblem of ancient Korean royal regalia.",
+    "description": "The gogok is the comma-shaped jade ornament threaded onto the gold crowns, belts, and necklaces of the ancient Silla kingdom, excavated in large numbers from the tombs of Gyeongju, and it is the most distinctive form of Korean prehistoric jade. Carved from hard nephrite and often pale green or white, the beads may derive from the shamanic curved beads of the north and are linked by scholars to fertility symbolism and to the bear-woman Ungnyeo's offering in the Dangun foundation myth. In the tombs of Silla's elite the gogok hangs from the crowns and diadems in cascading rows, and the form persisted into the Gaya and Baekje kingdoms. Modern Korean scholarship sees in the curved bead an image of a claw or a moon-crescent, and the gogok appears on the national emblem of the modern Gyeongju region. It remains the emblem of ancient Korean royal regalia and one of the most recognizable objects of the country's archaeological heritage.",
     "related_creatures": [
       "dangun"
     ],
@@ -1357,7 +1364,7 @@
       "magatama korea"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-09"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "golden-whip-genghis-1234",
@@ -1376,7 +1383,7 @@
     "maker": "Unknown (legendary)",
     "powers": "Said to rally and reward warriors of the khan",
     "associated_creature": null,
-    "description": "The golden whip that legend says Genghis Khan carried, brandished to rally and reward his warriors, and in some tellings the source of his military genius. No such whip survives or is named in the Secret History; the story is a modern heroic retelling of the conqueror's rise rather than a documented relic.",
+    "description": "The golden whip of Genghis Khan is the legendary whip that the great conqueror is said to have carried and brandished to rally and reward his warriors, and in some tellings the source of his military genius. One of the most retold stories claims that Genghis Khan rode with a whip made of gold that he used to command his armies, and that its mere sight could turn a retreat into a charge. No such whip survives, and the Secret History of the Mongols does not name it; the golden whip appears instead in later heroic retellings and in the popular narrative that grew around the conqueror's rise. The object is thus best understood as a modern legend rather than a documented relic, and its currency reflects the way Genghis Khan has been reimagined as a national and pan-Asian hero. The golden whip nevertheless appears in monuments and museums, and it stands for the charismatic authority by which the steppe armies were held together.",
     "related_creatures": [],
     "featured_in_stories": [
       "genghis-khan-and-the-golden-whip"
@@ -1399,7 +1406,7 @@
       "genghis khan whip"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-09"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "gris-gris-bag-1338",
@@ -1419,9 +1426,11 @@
     "maker": "Hoodoo practitioners (root doctors)",
     "powers": "Carries the working of the root doctor for love, luck or protection.",
     "associated_creature": null,
-    "description": "A small flannel pouch filled with herbs, roots, stones or personal items, made by Louisiana root doctors and hoodoo practitioners to carry a working for love, luck, money or protection; gris-gris is the name used in New Orleans, mojo in other regions. The practice blends African spiritual traditions with colonial folk belief. Bags are carried on the body and often must be fed to take effect.",
+    "description": "The gris-gris bag is a small flannel pouch, often red, filled with herbs, roots, coins, stones or personal items and made by Louisiana root doctors and hoodoo practitioners to carry a 'work' for love, luck, money, protection or success. The name gris-gris is used in New Orleans, while the same charm is known as a mojo bag or hand elsewhere, and the tradition blends West African spiritual practice with colonial folk belief. A bag must often be 'fed' with oils, powders or an offering to keep its power, and it is carried on the body, usually in a pocket or at the waist, and kept secret. Roots such as High John the Conqueror are among the classic ingredients, and the making of a bag follows precise instructions about days, colours and prayers. Gris-gris remains part of New Orleans culture and the Voodoo-hoodoo exchange, a portable connection to the conjure tradition.",
     "related_creatures": [],
-    "featured_in_stories": [],
+    "featured_in_stories": [
+      "the-making-of-the-mojo-bag"
+    ],
     "source": "Louisiana hoodoo tradition and ethnographic records",
     "source_type": "oral_tradition",
     "source_quality": "well-documented",
@@ -1442,7 +1451,7 @@
       "root doctor bag"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "govi-jar-1361",
@@ -1461,9 +1470,13 @@
     "maker": "Vodou practitioners",
     "powers": "Holds the spirits of the ancestors and the dead.",
     "associated_creature": null,
-    "description": "A clay jar or bottle used in Haitian Vodou to contain the presence of the dead or the spirits of the ancestors, kept in the temple and opened with care by the priest. The govi is an ordinary vessel made extraordinary by the ritual that fills it, and its handling is governed by strict rules of respect. It links the community of the living with the world beneath.",
-    "related_creatures": [],
-    "featured_in_stories": [],
+    "description": "The govi is the earthenware jar of Haitian Vodou that holds the presence of the dead, a red clay vessel or bottle kept in the temple where it contains a spirit or the reclaimed spirit of an ancestor. The most solemn use of the govi belongs to the rite of reclamation, when, a year and a day after a death, the priest retrieves the gwobonanj, the 'big guardian angel,' from the waters of Ginen, the abyssal homeland of the spirits, and the wete mò nan dlo ceremony settles it into the jar. The vessel is then fed with offerings, manje mò, food for the dead, and becomes the place where the ancestor may be consulted, giving advice and protection to the living. If the rite fails or the govi is neglected, misfortune is said to follow the family. The plain clay jar is made extraordinary by the ritual that fills it, and its handling is governed by the strictest respect. Through the govi, the family of the living and the world beneath remain one household.",
+    "related_creatures": [
+      "baron-samedi"
+    ],
+    "featured_in_stories": [
+      "baron-samedi-lord-of-the-dead"
+    ],
     "source": "Haitian Vodou practice and ethnographic studies",
     "source_type": "oral_tradition",
     "source_quality": "well-documented",
@@ -1483,7 +1496,7 @@
       "clay jar of the dead"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "gelede-mask-1405",
@@ -1499,7 +1512,7 @@
     "type": "ritual object",
     "material": "Carved wood, paint",
     "era": "Traditional, still performed",
-    "description": "Gelede masks are carved wooden headdresses of the Yoruba, worn tilted on the head by masqueraders who dance in honour of mothers and 'our mothers' (awon iya wa), the powerful spiritual women of the night. Each mask's crest depicts animals, scenes, or people, and the performance praises female power and works for social harmony. Practised in southern Nigeria and neighbouring Benin and Togo.",
+    "description": "The Gelede mask is a carved wooden headdress of the Yoruba, worn tilted on the top of the head by a dancer who gazes out through the costume's veil while the crest rises above him, bearing figures of animals, people, market scenes or the faces of those being honored. The performance honors the great mothers, awon iya wa, 'our mothers,' the powerful women, both living and of the night, whose spiritual force underlies the community, and the dance at once celebrates them and gently mocks the follies of the town, using laughter to restore harmony. Gelede belongs especially to the Yoruba of southwestern Nigeria and spreads across the border into Benin and Togo, and in 2008 UNESCO inscribed it on the list of intangible cultural heritage. The Efe, the night performance that precedes the daytime Gelede, carries the weight of the ritual, with its songs of praise and warning. The masks, painted in bright colors, are the festive and formidable face of that whole tradition.",
     "related_creatures": [
       "egungun"
     ],
@@ -1522,7 +1535,7 @@
       "yoruba mask"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "great-zimbabwe-bird-1454",
@@ -1538,7 +1551,7 @@
     "type": "ritual object",
     "material": "Soapstone",
     "era": "Great Zimbabwe period (c. 11th-15th century)",
-    "description": "The soapstone birds of Great Zimbabwe are carved stone birds, about 40 cm tall, with human lips and outstretched wings, set atop monoliths in the ancient city. They are believed to have been royal emblems of the Shona state that ruled the stone city, and the bird was later adopted as the national symbol of Zimbabwe.",
+    "description": "The soapstone birds of Great Zimbabwe are carved birds about 40 centimetres tall, with human lips, folded wings, and feet that grip the columns on which they once stood within the ruined stone city. Eight are known, six large and two small, and they are believed to have been royal emblems of the Shona state that built the city between the eleventh and fifteenth centuries, possibly representations of the bateleur eagle, the fish eagle, or a spirit bird of kingship. The birds probably crowned the walls and monoliths of the royal enclosure, marking the authority of the ruler, and the city itself gave its name to modern Zimbabwe. In the 1890s the carvings were hacked from their columns and carried to South Africa, where one passed into the hands of Cecil Rhodes; five birds were returned in 1981 and the last in 2026, ending more than a century of exile. The bird was adopted as Zimbabwe's national symbol in 1924 and appears on the flag, the coat of arms, and the country's coins.",
     "related_creatures": [],
     "featured_in_stories": [
       "the-stone-city-of-great-zimbabwe"
@@ -1560,7 +1573,7 @@
       "great zimbabwe carving"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "gule-wamkulu-mask-1457",
@@ -1576,7 +1589,7 @@
     "type": "ritual object",
     "material": "Carved wood, fibre, cloth",
     "era": "Traditional, still danced",
-    "description": "The gule wamkulu masks of the Chewa of Malawi are carved wooden face masks worn at the Nyau dance of the gule wamkulu society, performed at initiations, funerals, and memorials. The masked dancers embody ancestral spirits and animals, and the Nyau tradition, listed by UNESCO, is a key keeper of Chewa history and law.",
+    "description": "The gule wamkulu masks of the Chewa of Malawi, Zambia, and Mozambique are carved wooden face masks worn by the dancers of the Nyau society, whose great dance of the same name is performed at initiations, funerals, and the memorials of the dead. Nyau means 'the big dance' or 'the dance of the spirits', and the masked dancers embody the ancestors, the animals of the bush, and the forces of the forest, revealing their meanings only to initiates. Each mask has a name and a character, the gentle, the comic, the terrible, and the dancer becomes the spirit while he wears it, speaking in its voice. The Nyau society, open only to initiated men, holds the history and the law of the Chewa, and the masks are stored in hidden groves away from women and strangers. UNESCO inscribed the gule wamkulu on the intangible heritage list in 2005. The tradition is still danced with force in the villages of the Chewa heartland.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Chewa Nyau tradition; UNESCO Intangible Cultural Heritage",
@@ -1597,7 +1610,7 @@
       "nyau dance"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "gourgui-water-jar-1465",
@@ -1613,7 +1626,7 @@
     "type": "container",
     "material": "Porous clay",
     "era": "Traditional, still used",
-    "description": "The gourgui is a porous clay water jar of Tunisia, kept in the cool shade of the home so that evaporation chills the water inside. Its narrow neck and globular body recall ancient amphorae; similar jars across the Maghreb were central to daily water storage and hospitality.",
+    "description": "The gourgui is a large earthenware water jar of Tunisia, made of porous red terracotta and fitted with a narrow neck and a pouring spout, traditionally used to store and cool drinking water. Because water slowly seeps through the unglazed clay and evaporates from the surface, the contents of the gourgui stay noticeably cooler than the air in the hot Tunisian summer. The jar was kept in the skifa, the entrance hall of traditional houses, mounted on a wooden stand formed of three crossed branches and a crescent-shaped tray, where it greeted family and guests alike, and similar jars still stand in the courtyards of mosques and in front of shops for passers-by and travellers. Before piped water, the gourgui supplied both daily drinking water and water for the ritual ablutions of Islam, and it was produced in three sizes, large, medium and small, in the pottery-making towns of the country. Though plastic and refrigerators have replaced it in most homes, the gourgui is still remembered as a symbol of hospitality and of Tunisian craft.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Tunisian domestic tradition",
@@ -1633,7 +1646,7 @@
       "tunisian water jar"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "garamantian-chariot-1466",
@@ -1649,7 +1662,7 @@
     "type": "other",
     "material": "Engraved rock",
     "era": "Prehistoric rock-art era",
-    "description": "Rock-art depictions of horses and chariots carved in the Tadrart Acacus and Messak mountains of the Fezzan, Libya, are linked in scholarship to the Garamantes, the Saharan power whose chariot-based trade crossed the desert. The engravings, several thousand years old, show lightweight chariots in motion and form a major record of Saharan history.",
+    "description": "The Garamantian chariot is the two-wheeled horse-drawn vehicle represented in the rock art of the Libyan Sahara, above all in the massif of the Tadrart Acacus, which was listed as a UNESCO World Heritage site in 1985. The engravings, often showing the horse at a stylized 'flying gallop', belong to the Horse Period of Saharan rock art and are attributed to the Garamantes, the desert people whose kingdom in the Fezzan and capital at Garama are confirmed by archaeology and by the classical writers. Herodotus describes the Garamantes driving four-horse chariots into the desert to hunt the 'Troglodyte Ethiopians', and hundreds of similar chariot drawings are scattered across the Sahara from Libya to the Atlantic, along the ancient routes of the trans-Saharan trade. These images record the arrival of the horse as a prestige and military animal in the region around the first millennium BCE, even if long-distance chariot travel in the deep desert is now doubted by scholars. The chariot pictures of the Acacus survive as the clearest visual testimony of the Garamantian world, the same world that built an underground network of foggaras to irrigate the desert farms.",
     "related_creatures": [
       "garamantes-giants"
     ],
@@ -1673,7 +1686,7 @@
       "tadrart acacus chariot"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "ganesh-idol-1506",
@@ -1683,7 +1696,7 @@
     "region": "South Asia",
     "culture": "Hindu",
     "type": "religious object",
-    "description": "Clay or metal image of the elephant-headed god Ganesha, remover of obstacles, set at thresholds, workplaces and festival altars across India. At Ganesh Chaturthi, clay idols are installed, prayed over and immersed in rivers, re-enacting the myth of the boy whose head was replaced by an elephant's after Shiva beheaded him, as told in the Ganesha Purana and local stories.",
+    "description": "The Ganesha idol is the murti or sacred image of Ganesha, the elephant-headed son of Shiva and Parvati, who as the remover of obstacles is invoked at the beginning of every undertaking, from weddings and housewarmings to examinations and journeys. According to the most widely repeated story, Parvati created the boy from the paste with which she bathed and set him to guard her door; when Shiva tried to enter, the boy barred the way, and Shiva struck off his head with his trident. At Parvati's grief the god promised to restore the boy, taking the head of the first living creature he found, an elephant, and this origin is retold in ganesha-story and in the tale of the origin of Ganesha's elephant head. Ganesha idols range from tiny brass household figures to the huge clay and plaster images commissioned for Ganesh Chaturthi in Maharashtra and elsewhere, which are worshipped and then immersed in water at the close of the festival. The idol carries his attributes, including the broken tusk, the modaka sweet and the mouse vehicle, each of which is glossed in sermons and picture books.",
     "source_type": "oral_tradition",
     "source_quality": "documented",
     "attested": true,
@@ -1715,7 +1728,7 @@
     ],
     "source": "Ganesha Purana; Ganesh Chaturthi festival practice",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "gata-bera-drum-1528",
@@ -1725,7 +1738,7 @@
     "region": "South Asia",
     "culture": "Sinhalese",
     "type": "musical instrument",
-    "description": "Large cylindrical drum of Sri Lanka, slung at the hip and beaten with sticks or hands at festivals, temple rites and healing ceremonies. The gata bera's rhythms summon blessings in Buddhist perahera processions and drive the masked exorcism dances that pacify the disease demons of the Sinhalese tradition.",
+    "description": "The gata bera is the large cylindrical drum of Sri Lanka, slung from the hip and beaten with sticks or open hands at Buddhist perahera processions, temple rites, village festivals and healing ceremonies. Its name comes from the Sinhala word for a pot, and the barrel is traditionally carved from jak or asala wood with heads of cowhide braced by rope and leather thongs, tuned so the deep beat carries over crowds. It is the lead drum of the Kandyan dance tradition, where drummers and dancers train together from boyhood, and it also drives the masked exorcism dances that the Sinhalese perform to pacify the sanni and riri yaksha, the disease demons of the folk tradition. A Sinhalese story holds that the drum's rhythms were first given by a god, and the instrument remains the sound of celebration and of healing alike in the island's ritual life.",
     "source_type": "oral_tradition",
     "source_quality": "documented",
     "attested": true,
@@ -1742,7 +1755,8 @@
       "sanni-yakku"
     ],
     "featured_in_stories": [
-      "the-riri-yaksha-and-suniyam-sorcery-legends"
+      "the-riri-yaksha-and-suniyam-sorcery-legends",
+      "the-legend-of-gara-yakka"
     ],
     "keywords": [
       "drum",
@@ -1759,7 +1773,7 @@
     ],
     "source": "Sinhalese ritual and festival practice",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "ghot-pot-1547",
@@ -1769,7 +1783,7 @@
     "region": "South Asia",
     "culture": "Bengali (Hindu)",
     "type": "container",
-    "description": "Brass or clay pot placed before the bride and groom in the ashirbad blessing of Bengali weddings, filled with paddy, durba grass and a red-and-white thread tied around its mouth. The ghot pot is a token of fertility and prosperity, and its placement during the blessing is part of the ritual good wishes spoken over the couple.",
+    "description": "The ghot is the pot placed before the bride and groom in the ashirbad blessing of Bengali Hindu weddings, a brass or clay vessel filled with paddy, durba grass and other auspicious items, with a red-and-white thread tied around its mouth. The word ghot covers the pot itself and its role in the blessing, and the pot is kept in the wedding space while the elders speak their good wishes over the couple. The paddy stands for grain and fertility, the durba grass for growth and prosperity, and the ghats are prepared by the women of the two families as part of the wedding's household ritual. The pot is a small, everyday object carrying a large ceremonial meaning, and the same kind of vessel appears in other Hindu rites of the region as a seat for the divine presence.",
     "source_type": "oral_tradition",
     "source_quality": "documented",
     "attested": true,
@@ -1799,7 +1813,7 @@
     ],
     "source": "Bengali Hindu wedding custom (Antrocom marriage-customs study)",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "gaida-1747",
@@ -1809,7 +1823,7 @@
     "region": "Slavic",
     "culture": "Bulgarian",
     "type": "musical instrument",
-    "description": "The gaida is the Bulgarian bagpipe, a goatskin bag with a chanter and drone, played at weddings, festivals and shepherds' pastures. Its bright, reedy voice leads horo dances, and it is considered the most beloved national instrument of Bulgarian folk music.",
+    "description": "The gaida is the Bulgarian bagpipe, an instrument built from a whole tanned goatskin that serves as the air bag, with a chanter pipe for the melody and a single long drone pipe that sounds a constant bass note. Its bright, cutting tone comes from a single beating reed in the chanter, and a skilled player holds the bag under the arm, fingers the chanter's holes and taps out rhythms as he squeezes. The gaida is the leading instrument of Bulgarian folk music, accompanying the horo line dances at weddings, village feasts and festivals, and in the Rodopi mountains it is traditionally played for the slow, meandering dance tunes of the region. Because shepherds were the first players, the gaida is bound up with the pastoral life, and it remains the national instrument of Bulgaria, heard from folk ensembles to wedding bands.",
     "source_type": "oral_tradition",
     "source_quality": "documented",
     "attested": true,
@@ -1848,7 +1862,7 @@
     "region": "Slavic",
     "culture": "Russian (Slavic)",
     "type": "musical instrument",
-    "description": "Ancient Russian plucked zither, a shallow trapezoid or helmet-shaped board with gut or metal strings, played by the epic singers who performed the byliny. The legendary Novgorod merchant Sadko of the byliny plays the gusli so well that the Sea Tsar summons him to the underwater palace; the instrument is attested in chronicles, miniatures and archaeological finds from Novgorod.",
+    "description": "Ancient Russian plucked zither, a shallow trapezoid or helmet-shaped board with gut or metal strings, played by the epic singers who performed the byliny. The legendary Novgorod merchant Sadko of the byliny plays the gusli so well that the Sea Tsar summons him to the underwater palace; the instrument is attested in chronicles, miniatures and archaeological finds from Novgorod. Excavated Novgorod gusli date from the 11th to the 14th centuries and were carved from a single block of wood, often with a decorated sound hole. In the bylina Sadko's playing so delights the Sea Tsar that the hero is offered a bride among the sea maidens, and when the gusli breaks the music stops and the underwater court falls silent. The instrument also accompanied ritual song and dance, and it survived among folk musicians into the 19th century, when it was revived for concert and ethnographic performance.",
     "source_type": "archaeological",
     "source_quality": "academic",
     "attested": true,
@@ -1862,7 +1876,9 @@
     "era": "attested from medieval Novgorod",
     "maker": null,
     "source": "Novgorod archaeological finds; byliny of Sadko",
-    "related_creatures": [],
+    "related_creatures": [
+      "sea-king"
+    ],
     "featured_in_stories": [
       "sadko-and-the-sea-king"
     ],

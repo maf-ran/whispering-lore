@@ -15,7 +15,7 @@
     "maker": "Unnamed (dwarven work implied)",
     "powers": "Let Thor grip the white-hot shaft of Mjölnir.",
     "associated_creature": null,
-    "description": "The iron gauntlets of Thor, one of his three great treasures named in the Prose Edda. Their purpose is practical as much as martial: the handle of Mjölnir grows white-hot in flight, and only the iron gloves allow Thor to grasp the hammer and throw it. The third treasure completes the set — the strength belt Megingjörð.",
+    "description": "Járngreipr, the 'iron grippers', are the iron gloves of the thunder god Thor, named in the Prose Edda as one of his three great treasures beside Mjölnir and the belt Megingjörð. Their purpose is practical as much as martial: the shaft of Mjölnir is said to grow white-hot in flight, and only the iron gloves let Thor catch and hurl the hammer without burning his hands. In the tale of Thor's visit to the giant Geirröðr, gloves of the same kind are what allow the god to catch the red-hot lump of molten iron that the giant throws at him, which Thor hurls back to kill Geirröðr. The gloves are sometimes said to have been forged by the dwarves, though the Edda does not name their maker. Járngreipr appears in most modern retellings of Norse myth as the practical complement to the great hammer.",
     "related_creatures": [
       "dwarf-dvergr"
     ],
@@ -39,7 +39,7 @@
       "iron gauntlets"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "julbocken-0325",
@@ -59,7 +59,7 @@
     "maker": "Farmhouse and craft making",
     "powers": null,
     "associated_creature": null,
-    "description": "The Yule goat (julbock), a goat figure of straw bound with red ribbon, made in Sweden at Christmas. The straw goat descends from older beliefs around Thor's goats and the 'julbock' who once brought the Christmas gifts before the tree took the role. Today the most famous example is the giant Gävle goat, erected and burned each December.",
+    "description": "The Yule goat (julbock), a goat figure of straw bound with red ribbon, made in Sweden at Christmas. The straw goat descends from older beliefs around Thor's goats and the 'julbock' who once brought the Christmas gifts before the tree took the role. Today the most famous example is the giant Gävle goat, erected and burned each December. In older custom the julbock walked the house at Christmastime, demanding drink and carrying the Christmas presents, and a man dressed as the goat was one of the stock figures of the old rural Christmas. The straw goat, made of bound and tied straw with red ribbon at the horns, is the decorative descendant of that figure, and it is hung on the tree or set beneath it as a charm of the season. Since 1966 the town of Gävle has raised a huge straw goat in its square each December, and its repeated burning by pranksters has made the Gävle goat a world-famous piece of Christmas folklore.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Swedish Christmas tradition of the julbock",
@@ -81,7 +81,7 @@
       "gävle goat"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "the-jelling-stone-0445",
@@ -98,7 +98,7 @@
     "era": "Viking Age (10th century)",
     "powers": "King Harald's runes proclaim that he won Denmark and Norway and made the Danes Christian.",
     "associated_creature": null,
-    "description": "The two great runestones of the royal monument at Jelling, Jutland, raised by kings Gorm and Harald Bluetooth in the 10th century. Harald's stone, carved with the oldest portrait of Christ in Denmark, announces that he 'won all Denmark and Norway and made the Danes Christian', marking Denmark's conversion. The stones stand in the churchyard as a UNESCO World Heritage site.",
+    "description": "The two great runestones of the royal monument at Jelling, Jutland, raised by kings Gorm and Harald Bluetooth in the 10th century. The smaller stone was raised by Gorm in memory of his queen Thyra, and the larger, carved with a figure of Christ and a great beast, was raised by Harald in memory of his parents. Harald's runes announce that he won all Denmark and Norway and made the Danes Christian, marking Denmark's conversion in the royal monument's own words. The stones stand in the churchyard of Jelling, a UNESCO World Heritage site.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Royal monument, Jelling, Jutland",
@@ -119,7 +119,7 @@
       "harald bluetooth stone"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "jade-dragon-0901",
@@ -137,8 +137,10 @@
     "maker": "Unknown",
     "powers": "Symbol of imperial authority and protection; believed to ward off evil spirits.",
     "associated_creature": null,
-    "description": "A finely carved jade dragon pendant used by nobles during the Han Dynasty. The dragon motif represented celestial power and was worn as a talisman to ensure the bearer's prestige and safety.",
-    "related_creatures": [],
+    "description": "The jade dragon of the Han dynasty is a small, coiled dragon pendant carved from nephrite jade, found in the tombs of the Chinese aristocracy of the 2nd century BC to the 2nd century AD, where it was laid among the burial goods as a symbol of the celestial forces that governed the dead and of the soul's journey through the heavens. The dragon, the long, was the creature of the east, of rain, and of imperial power, and jade, the most precious stone of the Chinese world, was believed to preserve the body and to concentrate life-force, so that the pairing made the pendant a powerful talisman of protection and rank. The Han dragons, with their sinuous, leaping forms and spiralled bodies, are masterpieces of the lapidary's art, worked with thread-cutting saws and drills into openwork curls. The motif continued for centuries, and the jade dragon remains a symbol of Chinese imperial authority and good fortune. These pendants are among the most prized objects of Chinese art in the world's collections.",
+    "related_creatures": [
+      "long"
+    ],
     "featured_in_stories": [],
     "source": "Han Dynasty Burial Goods",
     "source_type": "archaeological",
@@ -155,7 +157,7 @@
       "chinese dragon talisman"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "jacks-singing-harp-1035",
@@ -173,8 +175,10 @@
     "era": "Folk era",
     "powers": "Sang on its own and cried out for its master, waking the giant.",
     "associated_creature": null,
-    "description": "The singing golden harp of the giant in the tale of Jack and the Beanstalk. As Jack climbs down the beanstalk with the hen and the gold, the harp calls out for its master, waking the giant and setting the chase in motion. It is one of the three treasures the giant keeps in his castle.",
-    "related_creatures": [],
+    "description": "The singing harp of the giant in the English fairy tale Jack and the Beanstalk is one of the three treasures Jack steals on his second visit to the giant's castle in the clouds, beside the bag of gold and the hen that lays golden eggs. The harp plays by itself, and as Jack flees down the beanstalk it calls out 'Master! Master!', waking the giant and setting the pursuit in motion. When Jack reaches the ground he chops the beanstalk down and the giant falls to his death, so the harp's voice is the object that turns the theft into the tale's climax. The story, first printed in the eighteenth century and popularised in chapbooks and pantomime, makes the harp a magic object of the fairy-tale kind, able to sing and to act on its own will. The harp, the hen and the gold recall the classic triad of fairy-tale treasures. Its self-playing music marks it as one of the earliest and most famous talking objects in English folklore.",
+    "related_creatures": [
+      "giant"
+    ],
     "featured_in_stories": [
       "jack-and-the-beanstalk"
     ],
@@ -196,7 +200,7 @@
       "giant's harp"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-09"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "jambiya-1140",
@@ -216,7 +220,7 @@
     "maker": "Yemeni silversmiths and bladesmiths",
     "powers": "Symbol of honor and manhood; drawn in the bara' dance.",
     "associated_creature": null,
-    "description": "The short curved dagger with a broad double-edged blade worn at the belt by Yemeni men, a symbol of honor and manhood carried from youth and drawn in the bara' war dance. Silver-sheathed jambiya hilts, some of rhino horn, are treasured heirlooms and marks of tribal standing. The weapon is attested across Yemeni material culture and in the dances, songs, and poetry that surround it.",
+    "description": "The short curved dagger with a broad double-edged blade worn at the belt by Yemeni men, a symbol of honor and manhood carried from youth and drawn in the bara', the ritual war dance of Yemen in which lines of dancers flourish their daggers to drumming and chant. Silver-sheathed jambiya hilts, some of rhino horn, are treasured heirlooms and marks of tribal and social standing, and a fine jambiya can be the most valuable thing a man owns. The wearing of the dagger, its angle at the belt, and the dance itself are all attested across Yemeni material culture and in the songs and poetry that surround them. Though the trade in rhino horn has been banned, the jambiya remains the national emblem of Yemen, worn in daily life and in the bara' as a living custom.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Yemeni material culture and ethnographic records",
@@ -238,7 +242,7 @@
       "bara dance"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-09"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "jiu-ding-1212",
@@ -257,7 +261,7 @@
     "maker": "Yu the Great (legendary)",
     "powers": "Signifies the Mandate of Heaven and legitimacy of rule",
     "associated_creature": null,
-    "description": "The nine bronze tripods (jiu ding) that culture hero Yu the Great is said to have cast from tribute metal gathered across the Nine Provinces, inscribing each region's creatures so the people could recognize them. Passed between the Xia, Shang, and Zhou dynasties as the physical warrant of the Mandate of Heaven, they became the archetype of legitimate rule in Chinese historiography.",
+    "description": "The jiu ding are the nine bronze tripods that the culture hero Yu the Great is said to have cast from tribute metal gathered across the Nine Provinces after he tamed the great flood, inscribing each region's creatures and things on the sides so that the people could recognize them. Passed down through the Xia, Shang, and Zhou dynasties as the physical warrant of the Mandate of Heaven, they became the archetype of legitimate rule in Chinese historiography, and losing them was read as the fall of a dynasty. No actual ding survive, and their very existence is a matter of debate, but the story carried enormous political weight: Confucius, Mencius, and the historian Sima Qian all allude to the tripods as the vessels of sovereignty. In the Warring States tale of the King of Chu who 'asked about the tripods' at the Zhou court, the sheer idea of the ding became a test of ambition. The jiu ding remain the standard Chinese symbol of rightful imperial power and of the unity of the realm.",
     "related_creatures": [
       "long"
     ],
@@ -282,7 +286,7 @@
       "yu the great tripods"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-09"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "jade-rabbits-mortar-1215",
@@ -301,7 +305,7 @@
     "maker": "Moon rabbit (legendary)",
     "powers": "Pounds the elixir of immortality",
     "associated_creature": "chang-er",
-    "description": "The mortar and pestle with which the Jade Rabbit pounds the elixir of immortality on the moon, a familiar figure in Mid-Autumn Festival imagery. The rabbit is said to grind herbs under the cassia tree for Chang'e, and the same moon-rabbit motif recurs across East Asian lore, including Korean tales of a rabbit on the lunar surface.",
+    "description": "The mortar and pestle with which the Jade Rabbit pounds the elixir of immortality is a fixed image in the Chinese moon, the rabbit standing beside the cassia tree on the lunar surface as the companion of the goddess Chang'e. In the Moon Rabbit folklore, the rabbit first earned its place when it offered itself as food to a disguised deity, who spared it and set it on the moon to grind the herbs of immortality, and the same moon-rabbit motif recurs across East Asian lore. In Korea the rabbit is said to pound the ingredients of the rice cake tteok, while in Japan it pounds mochi, and in Vietnam it is the companion of the moon goddess Hang Nga. The mortar is depicted in Mid-Autumn Festival imagery on lanterns, mooncakes, and shadow-puppets, and the figure of the rabbit at work is one of the most recognizable of the moon's markings. Across all these traditions the mortar turns the mundane labour of grinding grain into the cosmic work of producing the elixir of life.",
     "related_creatures": [
       "chang-er"
     ],
@@ -328,7 +332,7 @@
       "mid autumn festival"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-09"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "jade-emperors-gong-1226",
@@ -347,7 +351,7 @@
     "maker": "Jade Emperor (legendary)",
     "powers": "Summoned rain when struck by the frog",
     "associated_creature": "jade-emperor",
-    "description": "In a Vietnamese folk tale, a frog led a deputation of animals to heaven to complain that rain never fell, then beat the Jade Emperor's own bronze gong until the god sent rain. The gong is a story element rather than a documented artifact, and the tale survives chiefly through oral retellings across the Red River delta.",
+    "description": "The Jade Emperor's gong is the bronze instrument of a Vietnamese folk tale in which a frog leads a deputation of animals to heaven to complain that rain never falls. Because the frog croaks so loudly, the Jade Emperor hears it above the clouds and summons the delegation; the frog is granted the power to control rain, and to this day the croaking of frogs is said to warn of coming rain. In some tellings the frog beats the Jade Emperor's own bronze gong to announce the arrival of the animals, or to wake the sleepy god, and the tale survives chiefly through oral retellings across the Red River delta. The gong is a story element rather than a documented artifact, and it belongs to the large Vietnamese cycle of pourquoi tales about the order of the natural world. The story explains both the frog's croak and the dragon's water-taming work, and it is one of the most retold animal tales in the Vietnamese classroom.",
     "related_creatures": [
       "jade-emperor"
     ],
@@ -371,7 +375,7 @@
       "vietnamese folktale rain"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-09"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "jade-funerary-mask-of-pakal-1309",
@@ -390,7 +394,7 @@
     "maker": "Maya mosaic craftsmen of Palenque",
     "powers": "Guarantees the ruler's rebirth among the gods.",
     "associated_creature": null,
-    "description": "The funerary mosaic mask of jade and shell that covered the face of K'inich Janaab Pakal, ruler of Palenque, found in his sarcophagus in the Temple of the Inscriptions in 1952. Its more than 340 small jade plaques and inlaid eyes were placed to help the dead king join the gods of the underworld. The mask now rests in the National Museum of Anthropology in Mexico City.",
+    "description": "The funerary mask of K'inich Janaab' Pakal, the great seventh-century ruler of Palenque, is a mosaic of more than 340 pieces of green jadeite fitted over his face in the stone sarcophagus of the Temple of the Inscriptions. Discovered in 1952 by the Mexican archaeologist Alberto Ruz Lhuillier, the mask has eyes of shell and mother-of-pearl with pupils of black obsidian and stands about 25 centimetres tall. Jade carried deep meaning for the Classic Maya: the green stone evoked water, maize, the world centre and the breath of life, and the portrait is interpreted as showing the dead king reborn with the attributes of the maize god. Pakal's burial outfit contained around a thousand jade ornaments in all, including necklaces, bracelets, rings and a headband, marking jade as the supreme royal material. The mask and its companions now rest in the National Museum of Anthropology in Mexico City, where they are regarded as masterpieces of Mesoamerican art.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Excavation of Palenque, Temple of the Inscriptions (1952)",
@@ -413,7 +417,7 @@
       "jade mosaic mask"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "jade-bead-necklace-maya-1316",
@@ -432,7 +436,7 @@
     "maker": "Maya lapidaries",
     "powers": "Worn by rulers to embody the green of life and water.",
     "associated_creature": null,
-    "description": "Necklaces and collars of carved jadeite beads worn by Classic Maya rulers and nobles, the green stone prized above all and associated with rain, maize and the breath of life. Royal burials such as that of Pakal at Palenque held hundreds of beads, and portraits on stelae show long bead necklaces over the chest. Jade was traded across the Maya world from highland sources in Guatemala and Mexico.",
+    "description": "Classic Maya rulers and nobles wore necklaces and collars of drilled jadeite beads, the green stone valued above all others in the Maya world and linked with rain, water, maize, the world centre and the breath of life. Royal portraits on stelae show long bead necklaces draped over the chest, often layered with earflare assemblies and bracelets of the same material. The richest evidence comes from tombs: the burial of K'inich Janaab' Pakal at Palenque held hundreds of beads and jade plaques, and the burial of the Red Queen of Palenque was accompanied by masses of jade beadwork. Jadeite itself was traded over great distances from highland sources in the Motagua River valley of Guatemala and elsewhere, and craftsmen drilled and polished it into tubes, spheres and carved pendants. The jade bead collar was thus both wealth and talisman, binding its wearer to the fertile green forces that sustained Maya life.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Classic Maya tombs and royal portraits",
@@ -454,7 +458,7 @@
       "pakal jade beads"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "jack-o-lantern-1337",
@@ -473,9 +477,12 @@
     "maker": "Households at Halloween",
     "powers": "Keeps the wandering soul of Jack at bay with its light.",
     "associated_creature": null,
-    "description": "A hollowed pumpkin carved with a face and lit from inside, placed on porches at Halloween, the American descendant of the Irish turnip lantern of 'Stingy Jack.' In the legend the trickster Jack, barred from heaven and hell, walks the dark carrying a coal in a carved turnip, called jack-o'-lantern after him. Irish immigrants carried the tale to America, where the pumpkin replaced the turnip.",
+    "description": "The jack-o'-lantern is a hollowed pumpkin carved with a face and lit from within, set out at Halloween as the American descendant of the Irish carved-turnip lantern of 'Stingy Jack'. In the legend Jack tricked the Devil and was barred from both heaven and hell, left to walk the dark with only a burning coal inside a hollowed turnip, and the bog-lights of swamps were long called jack-o'-lanterns after him. Irish and Scottish immigrants carried the tale to North America in the 19th century, where the larger, easier-to-carve native pumpkin replaced the turnip. The practice absorbed older Celtic traditions of lighting Samhain fires, and by the early 1900s pumpkin carving was a fixture of American Halloween. The jack-o'-lantern has since become a global symbol of the season, carved each October with faces ranging from folk-mask grins to elaborate art.",
     "related_creatures": [],
-    "featured_in_stories": [],
+    "featured_in_stories": [
+      "jacky-my-lantern-story",
+      "the-will-o-the-wisp"
+    ],
     "source": "Irish-American Halloween folk tradition",
     "source_type": "oral_tradition",
     "source_quality": "well-documented",
@@ -496,7 +503,7 @@
       "halloween lantern"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "jebena-coffee-pot-1444",
@@ -512,7 +519,7 @@
     "type": "cooking vessel",
     "material": "Clay",
     "era": "Traditional, still used",
-    "description": "The jebena is the round, clay coffee pot of Ethiopia with a long neck and a pouring spout, used in the elaborate Ethiopian coffee ceremony. Coffee beans are roasted, ground, and brewed three rounds in the jebena, and the pot sits at the centre of hospitality and social life, symbolising friendship and community.",
+    "description": "The jebena is the round, clay coffee pot of Ethiopia, with a narrow neck, a round belly, and a small spout, fired without glaze and used in the country's coffee ceremony (bunna). In the ceremony, green beans are roasted in a pan over coals, ground, and boiled three times in the jebena, and the pot sits on a bed of fresh grass while incense burns beside it. The first brew, abol, is the strongest and most honoured; the second and third rounds, tona and baraka, follow as the gathering lingers. Pouring from the high-necked pot without spilling is a skill, and the tiny cups are filled from a single unbroken stream. The jebena is central to hospitality: hosting the ceremony is a daily ritual of friendship and community, and the coffee is shared with anyone who arrives. Modern jebena are also made in metal and glazed ceramic, but the hand-built clay pot remains the heart of the tradition.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Ethiopian coffee ceremony tradition",
@@ -533,7 +540,7 @@
       "bunna"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-10"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "jani-wreath-1766",
@@ -543,7 +550,7 @@
     "region": "Baltic",
     "culture": "Baltic (Latvian)",
     "type": "ritual object",
-    "description": "The midsummer wreath of Jāņi: for women and girls, plaited from flowers, grasses and herbs — a braid of twenty-seven plants was held to ward off disasters, disease and enemies — while men and boys wore rings of oak leaves as symbols of strength. Worn through Līgo night on 23 June with singing and bonfire jumping, the wreath is kept afterwards for protection and healing.",
+    "description": "The midsummer wreath of Jāņi: for women and girls, plaited from flowers, grasses, herbs and leaves, a braid of twenty-seven plants being held to ward off disasters, disease and enemies, while men and boys wore rings of oak leaves as tokens of strength. Worn through Līgo night on 23 June with singing, cheese, beer and bonfire jumping, the wreath is kept afterwards — hung in the house, given to the cattle or laid under the pillow — for protection and healing through the year. The customs, described since the seventeenth century, make the wreath the visible emblem of the great festival of the Latvian summer solstice.",
     "source_type": "oral_tradition",
     "source_quality": "documented",
     "attested": true,

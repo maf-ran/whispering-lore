@@ -15,8 +15,11 @@
     "era": "Folk era",
     "powers": "Striking it summons three dogs that fetch treasure, a princess, and rescue from prison.",
     "associated_creature": null,
-    "description": "The magic flint and tinder of Hans Christian Andersen's tale, in which a soldier finds an old witch's tinderbox in a hollow tree guarded by three enormous dogs. Each strike of the flint summons one of the dogs, which bring him money, the princess, and rescue from prison. The story, built on older folk motifs of the magic object, turned the homely tinderbox into the key to wealth and a kingdom.",
-    "related_creatures": [],
+    "description": "The magic flint and tinder of Hans Christian Andersen's tale, in which a soldier finds an old witch's tinderbox in a hollow tree guarded by three enormous dogs with eyes as large as saucers, wagon wheels, and round towers. Each strike of the flint summons one of the dogs, which bring him money, carry the princess to him at night, and finally rescue him from the gallows. The story, built on older folk motifs of the magic object and tamed or grateful animals, turned the homely tinderbox into the key to wealth and a kingdom. The three metal dogs of the tale are themselves remembered as folkloric creatures.",
+    "related_creatures": [
+      "dogs-of-metal-denmark",
+      "magic-tinderbox-denmark"
+    ],
     "featured_in_stories": [
       "the-tinderbox"
     ],
@@ -39,7 +42,7 @@
       "magic tinderbox"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "the-flying-trunk-0431",
@@ -56,8 +59,10 @@
     "era": "Folk era",
     "powers": "Carries its owner through the air to wherever he wishes.",
     "associated_creature": null,
-    "description": "The enchanted wooden trunk of Andersen's tale, given to a spendthrift merchant's son by a rich merchant and used by its owner to fly to the land of the Turks and court a princess. When he squanders his last coins on fireworks, the sparks set the trunk alight and it burns to ash, leaving him to wander. The tale plays the magic object as both luck and ruin.",
-    "related_creatures": [],
+    "description": "The enchanted wooden trunk of Andersen's tale, given to a spendthrift merchant's son by his father and used by its owner to fly through the air to the land of the Turks and court a princess in her tower. When he squanders his remaining coins on fireworks to amuse the court, a spark sets the trunk alight, and it burns to ash, leaving him wandering the world with a story no one believes. The tale plays the magic object as both luck and ruin, and the trunk itself is one of Andersen's most famous flying vehicles, built on older folk motifs of the magical vehicle.",
+    "related_creatures": [
+      "magic-trunk-denmark"
+    ],
     "featured_in_stories": [
       "the-flying-trunk"
     ],
@@ -79,7 +84,7 @@
       "andersen trunk"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "the-magic-book-0432",
@@ -96,8 +101,10 @@
     "era": "Folk era",
     "powers": "Grants knowledge, secrets, or magical skill to whoever reads it.",
     "associated_creature": null,
-    "description": "A book endowed with supernatural power in the Danish tale of the same name, granting its owner knowledge, hidden secrets, or magical skill, and bringing both power and danger. Magic books of this kind echo the real black books of Scandinavian folk magic, which were used to heal and to find lost things. The story belongs to the Nordic cycle of grimoire legends.",
-    "related_creatures": [],
+    "description": "A book endowed with supernatural power in the Danish tale of the same name, granting its owner knowledge, hidden secrets, or magical skill, and bringing both power and danger. The story tells of a boy who finds such a book in a magician's mountain dwelling and must read it with care, for the words come alive and threaten anyone who reads on. Magic books of this kind echo the real black books of Scandinavian folk magic, which were used to heal and to find lost things. The tale belongs to the Nordic cycle of grimoire legends, in which the book itself is a creature and a trap.",
+    "related_creatures": [
+      "magic-book-denmark"
+    ],
     "featured_in_stories": [
       "the-magic-book"
     ],
@@ -119,7 +126,7 @@
       "grimoire tale"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "the-red-shoes-0438",
@@ -136,7 +143,7 @@
     "era": "Folk era",
     "powers": "The shoes make their wearer dance, without rest, wherever she goes.",
     "associated_creature": null,
-    "description": "The enchanted red shoes of Andersen's tale of Karen, a proud village girl who wants shoes finer than her station. Once she puts on the red shoes they carry her dancing uncontrollably, over thorns and across the country, until she has the axe cut them from her feet and repents. The tale, rooted in village dress codes, made fine shoes a symbol of vanity punished.",
+    "description": "The enchanted red shoes of Andersen's tale of Karen, a proud village girl who wants shoes finer than her station. Once she puts them on they carry her dancing without rest, over fields and thorns and into the church, until she begs the executioner to cut off her feet, and only after years of humble repentance does she find peace. The tale, rooted in the strict dress codes of village life, made fine shoes a symbol of vanity punished, and it has been read ever since as a warning about pride and desire. It is one of Andersen's darkest tales.",
     "related_creatures": [],
     "featured_in_stories": [
       "the-red-shoes"
@@ -159,7 +166,7 @@
       "karen shoes"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "the-snow-queens-mirror-0439",
@@ -177,7 +184,7 @@
     "era": "Folk era",
     "powers": "Reflects everything good and fair as mean and ugly; splinters pierce the heart and eye.",
     "associated_creature": null,
-    "description": "The devil's magic mirror from the first chapter of Andersen's 'The Snow Queen'. It magnifies everything ugly and shrinks all that is good, and when the trolls drop it, it shatters into millions of splinters. Splinters blown into the eyes and hearts of the children Kay and Gerda set the story in motion, for Kay's changed vision is what lets the Snow Queen take him away.",
+    "description": "The devil's magic mirror from the first chapter of Andersen's 'The Snow Queen'. It magnifies everything ugly and mean and shrinks all that is good and fair, and when the trolls drop it in their glee, it shatters into millions of splinters. Splinters blown into the eye and heart of the boy Kay make everything beautiful seem spoiled and let the Snow Queen carry him away, setting the whole story in motion. The mirror is thus the tale's opening image of a world seen through a corrupted glass, a figure Andersen would return to throughout his work.",
     "related_creatures": [],
     "featured_in_stories": [
       "the-snow-queen"
@@ -200,7 +207,7 @@
       "snedronningen mirror"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "the-tallow-candle-0440",
@@ -217,8 +224,10 @@
     "era": "Folk era",
     "powers": "Burns with a clear flame when it finds its purpose.",
     "associated_creature": null,
-    "description": "The tallow candle of a Danish poem credited to a young Hans Christian Andersen and found in the national archive in 2012. In the poem a rough, unlit candle complains that it has never burned, until it finds its true use and gives light. The discovery pushed the start of Andersen's literary career back to the early 1820s, and the poem is treated as his earliest known work.",
-    "related_creatures": [],
+    "description": "The tallow candle of a poem credited to a young Hans Christian Andersen and found in the Danish national archive in 2012. In the poem a rough, unlit candle complains that it has never burned, until it finds its true use and gives light, a moral tale about purpose and self-worth. The discovery pushed the start of Andersen's literary career back to the early 1820s, and the poem is now treated as his earliest known work. The candle is remembered as the first of the everyday objects Andersen made speak.",
+    "related_creatures": [
+      "sentient-candle-denmark"
+    ],
     "featured_in_stories": [
       "the-tallow-candle"
     ],
@@ -240,7 +249,7 @@
       "the tallow candle poem"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "the-steadfast-tin-soldier-0441",
@@ -257,7 +266,7 @@
     "era": "Folk era",
     "powers": "Falls from the window, rides a paper boat, and is swallowed by a fish, yet never bends.",
     "associated_creature": null,
-    "description": "The one-legged toy soldier of Andersen's tale, cast last from the family's old tin spoon and brave out of all proportion. Sailing his paper boat through the gutter and burned at last in the stove with the paper dancer he loved, he never flinches. The tale made the plain tin soldier a figure of quiet constancy and one of Andersen's most loved objects.",
+    "description": "The one-legged toy soldier of Andersen's tale, cast last from the family's old tin spoon and brave out of all proportion. He falls from the windowsill, sails his paper boat down the gutter past rats and street boys, is swallowed whole by a fish, and at last is thrown into the stove with the paper dancer he loves; he never flinches once. The tale made the plain tin soldier a figure of quiet constancy and unspoken love, and it remains one of Andersen's most loved object stories. It was published in 1838 in his second collection of tales.",
     "related_creatures": [],
     "featured_in_stories": [
       "the-steadfast-tin-soldier"
@@ -280,7 +289,7 @@
       "den standhaftige tinsoldat"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "the-jelling-stone-0445",
@@ -297,7 +306,7 @@
     "era": "Viking Age (10th century)",
     "powers": "King Harald's runes proclaim that he won Denmark and Norway and made the Danes Christian.",
     "associated_creature": null,
-    "description": "The two great runestones of the royal monument at Jelling, Jutland, raised by kings Gorm and Harald Bluetooth in the 10th century. Harald's stone, carved with the oldest portrait of Christ in Denmark, announces that he 'won all Denmark and Norway and made the Danes Christian', marking Denmark's conversion. The stones stand in the churchyard as a UNESCO World Heritage site.",
+    "description": "The two great runestones of the royal monument at Jelling, Jutland, raised by kings Gorm and Harald Bluetooth in the 10th century. The smaller stone was raised by Gorm in memory of his queen Thyra, and the larger, carved with a figure of Christ and a great beast, was raised by Harald in memory of his parents. Harald's runes announce that he won all Denmark and Norway and made the Danes Christian, marking Denmark's conversion in the royal monument's own words. The stones stand in the churchyard of Jelling, a UNESCO World Heritage site.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Royal monument, Jelling, Jutland",
@@ -318,7 +327,7 @@
       "harald bluetooth stone"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "the-danevirke-0446",
@@ -334,7 +343,7 @@
     "material": "Earth, timber, and stone rampart",
     "era": "Iron Age to Middle Ages",
     "associated_creature": null,
-    "description": "A system of ramparts, walls, and moats running across the base of Jutland at Schleswig, built from the 5th century onward to guard the southern border of Denmark. It was manned and rebuilt at many points in its history and is described in the English royal chronicle of Æthelweard. The surviving stretches are a UNESCO World Heritage site, partly preserved under the modern border.",
+    "description": "A system of ramparts, walls, and moats running across the base of the Jutland peninsula at Schleswig, built from the 5th century onward to guard the southern border of the Danish realm. It was manned, extended, and rebuilt at many points in its history, most notably under King Gudfred in 808, and it is described in early royal chronicles. The surviving stretches, some still under the modern border, are a UNESCO World Heritage site. The Danevirke remained a working fortification into the 19th century, making it one of the longest-used defensive lines in northern Europe.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Rampart system, Schleswig frontier",
@@ -355,7 +364,7 @@
       "danevirke wall"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "the-witch-book-denmark-0447",
@@ -374,7 +383,7 @@
     "era": "Folk era (17th-19th century)",
     "powers": "Used by cunning folk to heal the sick, find stolen goods, and undo witchcraft.",
     "associated_creature": null,
-    "description": "A handwritten book of prayers, charms, and remedies kept by Danish cunning folk, the 'black book' or Cyprianus, named after the apocryphal magician-bishop Cyprianus of Antioch. The books mixed church prayers with healing formulas against disease, worms, and bewitchment. Hundreds survive in Danish archives as evidence of a living folk magic that continued well into the 19th century.",
+    "description": "A handwritten book of prayers, charms, and remedies kept by Danish cunning folk, the 'black book' or Cyprianus, named after the apocryphal magician-bishop Cyprianus of Antioch. The books mixed church prayers with healing formulas against disease, worms, and bewitchment, and with charms for finding lost or stolen goods. Hundreds survive in Danish archives as evidence of a living folk magic that continued well into the 19th century, alongside the law's efforts to stamp it out. Reading from the black book was said to be a dangerous art, best left to the wise.",
     "related_creatures": [],
     "featured_in_stories": [],
     "source": "Danish folk magic collections (sortebog/Cyprianus tradition)",
@@ -396,7 +405,7 @@
       "danish grimoire"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   },
   {
     "id": "the-cauldron-of-the-underjordiske-0448",
@@ -414,7 +423,7 @@
     "era": "Folk era",
     "powers": "Lent by the mound folk, who always return what they borrow.",
     "associated_creature": null,
-    "description": "In Danish legend the underjordiske, the folk who live inside burial mounds, are said to borrow pots, kettles, and spoons from farmhouses, as when a mound-man calls 'lend me kettle and spoon, while I cook lamb soup under Kovsbakke'. They always return the loan, and breaking their bargains brought trouble. The motif is recorded in Evald Tang Kristensen's collections of Jutland legends.",
+    "description": "In Danish legend the underjordiske, the folk who live inside burial mounds and under the fields, are said to borrow pots, kettles, and spoons from farmhouses, as when a mound-man calls, lend me kettle and spoon, while I cook lamb soup under the hill. They always return what they borrow, and those who refused their request brought misfortune on the household. The motif is recorded in Evald Tang Kristensen's great collections of Jutland legends. The borrowed cauldron is a reminder that the hidden folk and the farmers shared a domestic world of borrowed pots and bargains kept.",
     "related_creatures": [
       "underjordiske"
     ],
@@ -437,6 +446,6 @@
       "kogekar"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-08"
+    "lastUpdated": "2026-08-11"
   }
 ]
