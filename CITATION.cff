@@ -6,10 +6,11 @@ authors:
   - name: "Mats Olsson"
     website: "https://whisperinglore.com/about.html"
 abstract: >-
-  A comprehensive dataset of 3,668 mythical creatures and 1,719 folklore
-  stories from 209 countries and territories, spanning 32 cultural regions.
-  Each entry is researched, documented, and linked to its cultural tradition.
-  Includes structured metadata, full-text story content, and bidirectional
+  A comprehensive dataset of 3,668 mythical creatures, 2,185 folklore
+  stories, and 641 magical artifacts from 212 countries and territories,
+  spanning 32 cultural regions. Each entry is researched, documented, and
+  linked to its cultural tradition. Includes structured metadata,
+  full-text story content, item descriptions, and bidirectional
   creature-story cross-references.
 keywords:
   - mythology
@@ -22,12 +23,13 @@ keywords:
   - folktales
   - comparative mythology
   - cultural heritage
+  - magical artifacts
 license: CC-BY-4.0
-doi: "10.5281/zenodo.21387109"
+doi: "10.5281/zenodo.21941501"
 url: "https://whisperinglore.com"
 repository-code: "https://github.com/maf-ran/whispering-lore"
-version: "1.0.0"
-date-released: "2026-07-16"
+version: "1.2.0"
+date-released: "2026-08-15"
 contact:
   - email: "mafolsson@tutamail.com"
     name: "Mats Olsson"

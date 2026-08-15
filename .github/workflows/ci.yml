@@ -2,9 +2,9 @@ name: CI
 
 on:
   push:
-    branches: [master]
+    branches: [main]
   pull_request:
-    branches: [master]
+    branches: [main]
 
 jobs:
   lint-test:
@@ -42,8 +42,20 @@ jobs:
       - name: Install Playwright browsers
         run: npx playwright install --with-deps chromium
 
-      - name: Start local server
-        run: npx serve -l 3000 -s . &
+      - name: Start local server (threaded, dual-stack)
+        run: |
+          python3 -c "
+          import os, socket
+          from http.server import SimpleHTTPRequestHandler, ThreadingHTTPServer
+          from functools import partial
+          class S(ThreadingHTTPServer):
+              address_family = socket.AF_INET6
+              def server_bind(self):
+                  self.socket.setsockopt(socket.IPPROTO_IPV6, socket.IPV6_V6ONLY, 0)
+                  super().server_bind()
+          handler = partial(SimpleHTTPRequestHandler, directory='.')
+          S(('::', 3000), handler).serve_forever()
+          " &
         env:
           CI: true
 

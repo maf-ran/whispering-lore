@@ -15,11 +15,14 @@ npm ci
 npm run lint
 npm run format
  
-# Run unit tests (144 tests, 11 suites)
+# Run unit tests (172 tests, 13 suites)
 npm test
 
 # Run cross-device E2E tests (80 tests, 8 viewports)
 npx playwright test tests/e2e/cross-device-audit.spec.js --project=chromium
+
+# Run full E2E suite (414 tests, chromium)
+npx playwright test --project=chromium
 ```
 
 ## Key Features
@@ -39,9 +42,12 @@ npx playwright test tests/e2e/cross-device-audit.spec.js --project=chromium
 ## Run the site locally
 
 ```bash
-npx serve -l 3000 --no-clipboard .
+python3 -m http.server 3000 --directory .
 # Open http://localhost:3000 in your browser
 ```
+
+For Playwright e2e runs, use a threaded server instead (the single-threaded
+`http.server` times out under the 6-worker test load — see `.github/workflows/ci.yml`).
 
 ## Project structure
  
@@ -55,7 +61,7 @@ npx serve -l 3000 --no-clipboard .
 | `data/sharded/` | Shimmer shard system — manifest + region-based shards |
 | `data/geo-countries.json` | 242 country geodata for world map |
 | `docs/` | Project documentation |
-| `tests/` | Jest unit tests (144 tests, 11 suites) + Playwright E2E (8 spec files) |
+| `tests/` | Jest unit tests (172 tests, 13 suites) + Playwright E2E (9 spec files) |
 | `sw.js` | Service worker for offline caching |
 
 ### JavaScript modules (`js/`)
@@ -98,7 +104,7 @@ npx serve -l 3000 --no-clipboard .
 npm test
 ```
 
-11 suites: creatures viewer, stories viewer, quiz engine, daily feature, shared utils, globe, citations, region glyphs, viewer base, theme toggle. **144/144 pass.**
+13 suites: creatures viewer, stories viewer, quiz engine, daily feature, shared utils, globe, citations, region glyphs, viewer base, theme toggle, items data, items viewer, shimmer. **172/172 pass.**
 
 ### Cross-device E2E (Playwright)
 
@@ -108,10 +114,18 @@ npx playwright test tests/e2e/cross-device-audit.spec.js --project=chromium
 
 80 tests across 8 viewports (320–1920px) × 7 pages. Validates layout, no horizontal overflow, hero element overlap, nav scrollability, brand visibility on mobile, and zero JS errors. Screenshots saved to `test-screenshots/{device}/{page}.png`.
 
+### Full E2E suite (Playwright)
+
+```bash
+npx playwright test --project=chromium
+```
+
+**414/414 pass** (~6 min). Covers navigation, skip links, filter dropdowns, detail overlays, quiz flows, world globe, hero stats, rune canvas, daily feature, items viewer, and inline-SVG iconography.
+
 ## Notes
  
 - No build step required — the site is pure static HTML/CSS/JS.
-- The service worker (`sw.js`) caches 16+ core assets for offline use after first visit.
+- The service worker (`sw.js`) pre-caches 30+ core assets for offline use after first visit, skips `/data/` (handled by the Shimmer cache), trims the runtime cache to 80 entries, and falls back to `404.html` for failed navigations.
 - Data is loaded via the shimmer shard system (`data/sharded/`), with XHR fallback to `data/datasets/*.json` when shimmer is unavailable.
 - All creature and story entries have unique, URL-friendly slugs for direct linking.
 - Sort By (A-Z, Newest) available on both bestiary and stories pages.

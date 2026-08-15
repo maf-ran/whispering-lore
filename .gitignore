@@ -47,3 +47,11 @@ scripts/
 # Environment files
 .env
 .env.*
+
+# Local agent config + vendored assets not shipped
+.claude/
+vendor/phosphor-icons/
+
+# Stale / superseded data artifacts
+data/datasets/by-region/_all.json
+docs/creature_database_weaklings*
