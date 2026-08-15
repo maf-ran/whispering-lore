@@ -32,7 +32,6 @@
   <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&family=Lora:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="css/styles.css" />
   <link rel="icon" type="image/svg+xml" href="favicon.svg" />
-  <script src="vendor/phosphor-icons/dist/phosphor-icons.js"></script>
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -67,6 +66,7 @@
   <link rel="manifest" href="manifest.json">
   </head>
 <body>
+  <noscript><div class="noscript-warn">Whispering Lore requires JavaScript to load the mythology database. Please enable JavaScript in your browser.</div></noscript>
 
   <a href="#main-content" class="skip-link">Skip to content</a>
 
@@ -337,26 +337,21 @@
   <script src="js/citations.js"></script>
   <script src="js/main.js"></script>
   <script>
-    // Preload stories for cross-referencing in creature detail
+    // Preload stories for cross-referencing in creature detail. Data-driven via
+    // Shimmer manifest + region shards so repeated visits hit the IDB cache.
     (function() {
-      fetch('data/sharded/manifest.json')
-        .then(function(r) { return r.json() })
-        .then(function(manifest) {
-          var storyManifest = manifest.stories
-          if (storyManifest && storyManifest.shards) {
-            return Promise.all(storyManifest.shards.map(function(shard) {
-              return fetch(shard.path)
-                .then(function(r) { return r.json() })
-                .then(function(data) { return Array.isArray(data) ? data : data.items || [] })
-                .catch(function() { return [] })
-            }))
-          }
-          return []
-        })
-        .then(function(results) {
-          window.__STORIES_DATA = results.reduce(function(acc, arr) { return acc.concat(arr) }, [])
-        })
-        .catch(function() {})
+      var sh = window.__sharedUtils && window.__sharedUtils.Shimmer
+      if (!sh) { window.__STORIES_DATA_READY = Promise.resolve(); return }
+      window.__STORIES_DATA_READY = new Promise(function(resolve) {
+        sh.loadManifest()
+          .then(function() {
+            sh.loadAllShards('stories', function(err, data) {
+              window.__STORIES_DATA = err || !data ? [] : data
+              resolve()
+            })
+          })
+          .catch(function() { window.__STORIES_DATA = []; resolve() })
+      })
     })();
   </script>
   <script type="module" src="js/creatures-viewer.js"></script>

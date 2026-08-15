@@ -1,4 +1,4 @@
-const CACHE_NAME = "whisperinglore-v1_0_16"
+const CACHE_NAME = 'whisperinglore-v1_0_17'
 
 const CORE_ASSETS = [
   '/',
@@ -8,33 +8,35 @@ const CORE_ASSETS = [
   '/stories.html',
   '/world.html',
   '/about.html',
-   '/css/styles.css',
-    '/js/main.js',
-    '/js/creatures-viewer.js',
-    '/js/stories-viewer.js',
-    '/js/items-viewer.js',
-    '/js/viewer-base.js',
-    '/js/shared-utils.js',
-    '/quiz.html',
-    '/404.html',
-    '/mylore.html',
-    '/methodology.html',
-    '/js/quiz.js',
-    '/js/mylore.js',
-    '/js/theme-toggle.js',
-    '/js/rune-scatter.js',
-    '/js/daily-feature.js',
-    '/js/world-viewer.js',
-    '/js/region-glyphs.js',
-    '/js/globe.js',
-    '/js/citations.js',
-    '/data/sharded/manifest.json',
-    '/og-image.svg',
-    '/favicon.svg',
-    '/images/placeholder-creature.svg',
-    '/vendor/phosphor-icons/dist/phosphor-icons.js',
-    '/vendor/topojson/countries-110m.json'
+  '/css/styles.css',
+  '/js/main.js',
+  '/js/creatures-viewer.js',
+  '/js/stories-viewer.js',
+  '/js/items-viewer.js',
+  '/js/viewer-base.js',
+  '/js/shared-utils.js',
+  '/quiz.html',
+  '/404.html',
+  '/mylore.html',
+  '/methodology.html',
+  '/manifest.json',
+  '/js/quiz.js',
+  '/js/mylore.js',
+  '/js/theme-toggle.js',
+  '/js/rune-scatter.js',
+  '/js/daily-feature.js',
+  '/js/world-viewer.js',
+  '/js/region-glyphs.js',
+  '/js/globe.js',
+  '/js/citations.js',
+  '/data/sharded/manifest.json',
+  '/og-image.svg',
+  '/favicon.svg',
+  '/images/placeholder-creature.svg',
+  '/vendor/topojson/countries-110m.json'
 ]
+
+const MAX_RUNTIME_CACHE = 80
 
 self.addEventListener('install', function (event) {
   event.waitUntil(
@@ -66,19 +68,37 @@ self.addEventListener('activate', function (event) {
   )
 })
 
+function trimCache(cache) {
+  cache.keys().then(function (keys) {
+    if (keys.length <= MAX_RUNTIME_CACHE) return
+    keys.slice(0, keys.length - MAX_RUNTIME_CACHE).forEach(function (key) {
+      cache.delete(key)
+    })
+  }).catch(function () {})
+}
+
 self.addEventListener('fetch', function (event) {
+  const request = event.request
+  if (request.method !== 'GET') return
+  const url = new URL(request.url)
+  if (url.origin !== location.origin) return
+  if (url.pathname.indexOf('/data/') === 0) return
   event.respondWith(
-    caches.match(event.request).then(function (cached) {
-      const fetchPromise = fetch(event.request).then(function (response) {
+    caches.match(request).then(function (cached) {
+      const fetchPromise = fetch(request).then(function (response) {
         if (response && response.status === 200 && response.type === 'basic') {
           const cloned = response.clone()
           caches.open(CACHE_NAME).then(function (cache) {
-            cache.put(event.request, cloned).catch(function () {})
+            cache.put(request, cloned).then(function () {
+              trimCache(cache)
+            }).catch(function () {})
           })
         }
         return response
       }).catch(function () {
-        return cached || caches.match('/404.html')
+        if (cached) return cached
+        if (request.mode === 'navigate') return caches.match('/404.html')
+        return Response.error()
       })
       return cached || fetchPromise
     })
