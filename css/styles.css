@@ -2866,6 +2866,29 @@ footer p {
   .quiz-control select { width: 100%; }
 }
 
+/* 6.1" screen (iPhone 15/14 Pro) portrait optimization */
+@media (max-width: 420px) and (orientation: portrait) {
+  .page-hero { min-height: 35vh; }
+  .content-grid,
+  #bestiary-grid,
+  #story-grid {
+    grid-template-columns: 1fr;
+  }
+  .hero-feature-pill { display: none; }
+}
+
+/* 6.1" screen landscape (≈852px wide, short height) */
+@media (max-height: 480px) and (orientation: landscape) {
+  .page-hero { min-height: 25vh; }
+  .content-grid,
+  #bestiary-grid,
+  #story-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .hero-feature-pill { display: none; }
+  nav { max-height: 30vh; overflow-y: auto; }
+}
+
 /* ── Grain / noise texture overlay ── */
 .grain-overlay {
   position: fixed;
