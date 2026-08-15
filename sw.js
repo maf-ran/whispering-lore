@@ -48,7 +48,7 @@ self.addEventListener('install', function (event) {
           })
         })
       ).then(function () {
-        self.skipWaiting()
+        self.skipWaiting(); self.clients.claim()
       })
     })
   )
