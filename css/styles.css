@@ -2737,7 +2737,7 @@ footer p {
   }
 
   .hero {
-    padding: 0 1rem;
+    padding: 5rem 1rem 2rem;
   }
 
   .hero-feature-pill {
@@ -2824,6 +2824,17 @@ footer p {
 
 /* ── Responsive: 600px ── */
 @media (max-width: 600px) {
+  .hero-stats {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1.25rem 1.5rem;
+    width: 100%;
+    max-width: 320px;
+  }
+  .hero-stat { padding: 0; }
+  .hero-stat + .hero-stat::before { display: none; }
+  .hero-stat-num { font-size: 1.4rem; }
+
   .content-grid,
   #bestiary-grid,
   #story-grid {
@@ -2854,10 +2865,7 @@ footer p {
 
 /* ── Responsive: 400px ── */
 @media (max-width: 400px) {
-  .hero { padding: 0 1rem; }
-  .hero-stats { flex-direction: column; gap: 0.5rem; }
-  .hero-stat + .hero-stat::before { display: none; }
-  .hero-stat-num { font-size: 1.8rem; }
+  .hero { padding: 5rem 1rem 2rem; }
   .hero-feature-pill { display: none; }
   .hero-scroll { bottom: 1rem; font-size: 1rem; }
   .page-hero { min-height: 30vh; }
