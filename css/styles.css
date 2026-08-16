@@ -93,7 +93,7 @@
 }
 
 :focus-visible {
-  outline: 2px solid var(--accent);
+  outline: 2px solid var(--accent-strong);
   outline-offset: 2px;
 }
 
@@ -167,7 +167,7 @@ img {
   left: 1rem;
   z-index: 1000;
   padding: 0.5rem 1rem;
-  background: var(--accent);
+  background: var(--accent-strong);
   color: #fff;
   font-family: var(--font-display);
   font-size: 0.75rem;
@@ -221,7 +221,7 @@ nav a::after {
   left: 0;
   width: 0;
   height: 1px;
-  background: var(--accent);
+  background: var(--accent-strong);
   transition: width var(--transition);
 }
 
@@ -270,7 +270,7 @@ nav a.active::after {
 .header-divider {
   width: 1px;
   height: 1.2rem;
-  background: var(--accent);
+  background: var(--accent-strong);
   opacity: 0.5;
   flex-shrink: 0;
 }
@@ -327,7 +327,7 @@ nav a.active::after {
   align-items: center;
   padding: 0.75rem 2rem;
   background: transparent;
-  border: 1px solid var(--accent);
+  border: 1px solid var(--accent-strong);
   color: var(--accent-strong);
   font-family: var(--font-display);
   font-size: 0.7rem;
@@ -340,7 +340,7 @@ nav a.active::after {
 }
 
 .btn-ghost:hover {
-  background: var(--accent);
+  background: var(--accent-strong);
   color: var(--text-primary);
   opacity: 1;
 }
@@ -459,7 +459,7 @@ nav a.active::after {
   letter-spacing: 0.35em;
   text-transform: uppercase;
   background: none;
-  border: 1px solid var(--accent);
+  border: 1px solid var(--accent-strong);
   padding: 0.6rem 2rem;
   color: var(--accent-strong);
   text-shadow: 0 0 20px rgba(232, 42, 42, 0.25), 0 0 60px rgba(232, 42, 42, 0.1);
@@ -469,7 +469,7 @@ nav a.active::after {
 }
 
 .hero-feature-pill:hover {
-  background: var(--accent);
+  background: var(--accent-strong);
   color: var(--text-primary);
 }
 
@@ -549,7 +549,7 @@ nav a.active::after {
   display: block;
   width: 32px;
   height: 1px;
-  background: var(--accent);
+  background: var(--accent-strong);
   margin: 0.75rem auto;
 }
 
@@ -557,7 +557,7 @@ nav a.active::after {
   display: block;
   width: 40px;
   height: 1px;
-  background: var(--accent);
+  background: var(--accent-strong);
   margin: 1rem auto;
   opacity: 0.6;
 }
@@ -566,7 +566,7 @@ nav a.active::after {
   display: block;
   width: 24px;
   height: 1px;
-  background: var(--accent);
+  background: var(--accent-strong);
   margin-bottom: 0.75rem;
 }
 
@@ -576,7 +576,7 @@ nav a.active::after {
   display: inline-block;
   width: 4px;
   height: 4px;
-  background: var(--accent);
+  background: var(--accent-strong);
   border-radius: 50%;
   margin-right: 0.4rem;
   vertical-align: middle;
@@ -631,7 +631,7 @@ nav a.active::after {
 }
 
 .content-grid--asymmetric .card {
-  border-top: 2px solid var(--accent);
+  border-top: 2px solid var(--accent-strong);
 }
 
 @media (min-width: 768px) {
@@ -857,7 +857,7 @@ nav a.active::after {
   display: inline-block;
   width: 4px;
   height: 4px;
-  background: var(--accent);
+  background: var(--accent-strong);
   border-radius: 50%;
   margin-right: 0.35rem;
   vertical-align: middle;
@@ -1337,7 +1337,7 @@ nav a.active::after {
 .globe-country-row:focus-visible,
 .region-card:focus-visible,
 .hotspot-item:focus-visible {
-  outline: 2px solid var(--accent);
+  outline: 2px solid var(--accent-strong);
   outline-offset: 2px;
 }
 
@@ -1703,7 +1703,7 @@ nav a.active::after {
   display: block;
   width: 60px;
   height: 2px;
-  background: var(--accent);
+  background: var(--accent-strong);
   margin: 1rem auto;
 }
 
@@ -1870,7 +1870,7 @@ nav a.active::after {
 .crimson-particle {
   position: absolute;
   border-radius: 50%;
-  background: var(--accent);
+  background: var(--accent-strong);
   box-shadow: 0 0 8px rgba(var(--accent-rgb), 0.7), 0 0 16px rgba(var(--accent-rgb), 0.3);
   pointer-events: none;
   z-index: 8;
@@ -2067,7 +2067,7 @@ footer p {
   padding: 0.5rem 1rem;
   background: transparent;
   color: var(--accent-strong);
-  border: 1px solid var(--accent);
+  border: 1px solid var(--accent-strong);
   font-family: var(--font-display);
   font-size: 0.65rem;
   letter-spacing: 0.1em;
@@ -2148,7 +2148,7 @@ footer p {
 
 .globe-country-row.selected {
   background: rgba(var(--accent-rgb), 0.15);
-  border-left: 2px solid var(--accent);
+  border-left: 2px solid var(--accent-strong);
 }
 
 .globe-row-name {
@@ -2450,12 +2450,12 @@ footer p {
 
 .hero-actions select:focus,
 .hero-actions button:focus {
-  outline: 2px solid var(--accent);
+  outline: 2px solid var(--accent-strong);
 }
 
 .hero-actions button.btn-ghost {
   background: transparent;
-  border: 1px solid var(--accent);
+  border: 1px solid var(--accent-strong);
   color: var(--accent-strong);
 }
 
@@ -2595,7 +2595,7 @@ footer p {
   background: var(--bg-surface-hover);
 }
 [data-theme="light"] .chip.active {
-  background: var(--accent);
+  background: var(--accent-strong);
   color: var(--bg-deep);
 }
 [data-theme="light"] .latest-item {
@@ -2679,7 +2679,7 @@ footer p {
   width: 40px;
   height: 40px;
   border-radius: 50%;
-  background: var(--accent);
+  background: var(--accent-strong);
   color: var(--text-primary);
   border: none;
   cursor: pointer;
@@ -2980,7 +2980,7 @@ footer p {
   margin-bottom: 0.5rem;
 }
 .cite-copy-btn {
-  background: var(--accent);
+  background: var(--accent-strong);
   color: var(--text-primary);
   border: none;
   font-family: var(--font-display);
@@ -3139,7 +3139,7 @@ footer p {
 
 .progress-fill {
   height: 100%;
-  background: var(--accent);
+  background: var(--accent-strong);
   width: 0%;
   transition: width 0.6s cubic-bezier(0.34, 1.56, 0.64, 1);
   box-shadow: 0 0 10px rgba(var(--accent-rgb), 0.5);
@@ -3175,7 +3175,7 @@ footer p {
   display: block;
   width: 28px;
   height: 1px;
-  background: var(--accent);
+  background: var(--accent-strong);
   margin-bottom: 1rem;
 }
 
@@ -3288,7 +3288,7 @@ footer p {
 
 .hotspot-bar {
   height: 2px;
-  background: var(--accent);
+  background: var(--accent-strong);
   margin-top: 0.5rem;
   opacity: 0.4;
   transition: opacity 0.3s;
@@ -3409,7 +3409,7 @@ footer p {
   display: block;
   width: 28px;
   height: 1px;
-  background: var(--accent);
+  background: var(--accent-strong);
   margin-bottom: 1.5rem;
 }
 
