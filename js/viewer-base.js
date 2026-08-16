@@ -329,9 +329,12 @@ export class BaseViewer {
       '[tabindex]:not([tabindex="-1"])',
       '[role="button"]',
     ].join(',')
-    return Array.from(container.querySelectorAll(selector)).filter(
-      (el) => el.offsetParent !== null && !el.closest('.is-hidden')
-    )
+    return Array.from(container.querySelectorAll(selector)).filter((el) => {
+      if (el.offsetParent === null) return false
+      if (el.closest('.is-hidden')) return false
+      if (el.matches('[role="button"]') && el.tabIndex < 0) return false
+      return true
+    })
   }
 
   trapFocus(container) {
@@ -344,10 +347,16 @@ export class BaseViewer {
       if (focusables.length === 0) return
       const first = focusables[0]
       const last = focusables[focusables.length - 1]
-      if (e.shiftKey && document.activeElement === first) {
+      const active = document.activeElement
+      if (!this._trapContainer.contains(active)) {
+        e.preventDefault()
+        ;(e.shiftKey ? last : first).focus()
+        return
+      }
+      if (e.shiftKey && active === first) {
         e.preventDefault()
         last.focus()
-      } else if (!e.shiftKey && document.activeElement === last) {
+      } else if (!e.shiftKey && active === last) {
         e.preventDefault()
         first.focus()
       }

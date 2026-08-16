@@ -19,15 +19,24 @@ class SearchViewer {
   async loadAll() {
     const sh =
       window.__sharedUtils && window.__sharedUtils.Shimmer
-    if (!sh) return
-    const types = ['creatures', 'stories', 'items']
-    for (const type of types) {
-      await Promise.race([
-        new Promise((resolve) => sh.loadAllShards(type, resolve)),
-        new Promise((resolve) => setTimeout(resolve, 8000)),
-      ])
-      this.data[type] = sh.getAllItems(type) || []
+    if (!sh) {
+      this.loaded = true
+      this.status.textContent =
+        'The archive could not be loaded. Please refresh the page.'
+      return
     }
+    const types = ['creatures', 'stories', 'items']
+    await Promise.all(
+      types.map((type) =>
+        Promise.race([
+          new Promise((resolve) => sh.loadAllShards(type, resolve)),
+          new Promise((resolve) => setTimeout(resolve, 8000)),
+        ])
+      )
+    )
+    types.forEach((type) => {
+      this.data[type] = sh.getAllItems(type) || []
+    })
     window.__FULL_CREATURES = this.data.creatures
     window.__FULL_STORIES = this.data.stories
     window.__ITEMS = this.data.items
@@ -216,10 +225,17 @@ class SearchViewer {
   run(q) {
     if (q === this._lastQuery) return
     this._lastQuery = q
+    if (!q) {
+      this.status.textContent = 'Enter a search term to explore the archive.'
+      this.results.innerHTML = ''
+      return
+    }
     if (!this.loaded) {
       this.status.textContent = 'Loading the archive…'
+      if (!this._loadPromise) this._loadPromise = this.loadAll()
       const self = this
-      this.loadAll().then(() => {
+      this._loadPromise.then(() => {
+        if (self._lastQuery !== q) return
         self.render(self.search(q), q)
       })
       return
