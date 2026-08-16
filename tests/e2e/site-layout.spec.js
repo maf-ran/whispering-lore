@@ -59,7 +59,8 @@ async function commonChecks(page, path, vp) {
   const footerP = footer.locator('p');
   const fpc = await footerP.count();
   if (fpc < 2) issues.push(`footer has ${fpc} paragraphs, expected ≥2`);
-  const copyrightText = await footerP.first().textContent();
+  const copyrightP = footer.locator('p').filter({ hasText: 'Whispering Lore' }).first();
+  const copyrightText = await copyrightP.textContent();
   if (!copyrightText || !copyrightText.includes('Whispering Lore')) {
     issues.push(`footer copyright missing: "${copyrightText}"`);
   }
@@ -364,6 +365,40 @@ test.describe('My Lore layout', () => {
 
       // Card grid if data present
       issues = issues.concat(await cardGridChecks(page, 0));
+
+      expect(issues).toEqual([]);
+    });
+  }
+});
+
+// Donation support block
+test.describe('Ko-fi support footer block', () => {
+  const supportPages = ['index.html', 'bestiary.html', 'stories.html', 'items.html', 'world.html', 'quiz.html', 'about.html', 'mylore.html', 'methodology.html', '404.html'];
+
+  for (const path of supportPages) {
+    test(`${path} shows Ko-fi support block`, async ({ page }) => {
+      test.setTimeout(30000);
+      await page.goto(`http://localhost:3000/${path}`, { waitUntil: 'load', timeout: 15000 });
+
+      const issues = [];
+
+      const block = page.locator('footer .ko-fi-support');
+      if (await block.count() === 0) issues.push('footer .ko-fi-support missing');
+      if (await block.count() > 0 && !(await block.isVisible())) issues.push('footer .ko-fi-support not visible');
+
+      const label = block.locator('.ko-fi-label');
+      const labelText = await label.textContent();
+      if (!labelText || labelText.trim() !== 'Help keep the archive alive') {
+        issues.push(`ko-fi label missing: "${labelText}"`);
+      }
+
+      const loaderText = await block.locator('script').evaluateAll(els => els.map(e => e.textContent).join('\n'));
+      if (!loaderText || !loaderText.includes('storage.ko-fi.com/cdn/widget/Widget_2.js')) {
+        issues.push('ko-fi loader missing widget script src');
+      }
+      if (!loaderText || !loaderText.includes('X7B3253Q7T')) {
+        issues.push('ko-fi loader missing widget id X7B3253Q7T');
+      }
 
       expect(issues).toEqual([]);
     });

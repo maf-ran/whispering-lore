@@ -10,6 +10,13 @@
 - [x] **Lint 0 errors**: `archive/` added to eslint ignorePatterns; `/* eslint-env node */` on playwright.config.js, cross-device-audit/items-viewer specs, rune-scatter.test.js, render-graphs.js; empty `catch {}` comment fix in comprehensive-audit.spec.js
 - [x] **Verified**: JSON-LD valid JSON on all 10 pages (script); runtime injection confirmed for troll (creature), Mjölnir (item), Ragnarök (story); jest 172/172; chromium 414/414
 
+## Donation (Aug 16) — Ko-fi widget
+- [x] **Ko-fi support block** in footer of all 10 pages (`.ko-fi-support` div + "Help keep the archive alive" label + lazy widget loader)
+- [x] **CSS**: `.ko-fi-support` / `.ko-fi-label` (centered, muted display type, uppercase label)
+- [x] **Lazy-load**: widget script loads after `window.load` (async injection) then renders `.kofi-button` via `kofiwidget2.getHTML()`; prevents third-party CDN from blocking page `load` event / e2e
+- [x] **Test**: `tests/e2e/site-layout.spec.js` footer copyright check now targets the `Whispering Lore` paragraph (was `.first()` — ko-fi label became first `p`); new `Ko-fi support footer block` suite (10 tests: block visible, label, loader src + widget id via `evaluateAll`)
+- [x] **Verified**: lint 0 errors; jest 172/172; chromium 423/424 (1 pre-existing scroll-restore timing flake, passes isolated); `.kofi-button` renders with href `https://ko-fi.com/X7B3253Q7T`, no console errors
+
 ## Site audit fixes (Aug 15) — all committed on main
 - [x] **CI**: push/PR branches `master`→`main`; e2e server `npx serve`→threaded dual-stack `http.server` (single-threaded `python3 -m http.server` times out under 6-worker e2e load — reproduced 14 `page.goto` timeouts, clean with threaded) (`c9a17c6`, `5e62167`)
 - [x] **XSS**: filter-chip `data-dimension`/`data-value` now `escapeXml()` (viewer-base.js)
