@@ -2835,6 +2835,22 @@ footer p {
   .hero-stat + .hero-stat::before { display: none; }
   .hero-stat-num { font-size: 1.4rem; }
 
+  .hero-feature-pill,
+  .hero-scroll {
+    position: static;
+    transform: none;
+    animation: none;
+  }
+  .hero-feature-pill {
+    opacity: 1;
+    margin-top: 2.5rem;
+  }
+  .hero-scroll {
+    opacity: 1;
+    margin-top: 2.5rem;
+    margin-bottom: 1rem;
+  }
+
   .content-grid,
   #bestiary-grid,
   #story-grid {
