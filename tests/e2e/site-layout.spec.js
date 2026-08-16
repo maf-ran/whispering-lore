@@ -22,7 +22,8 @@ async function commonChecks(page, path, vp) {
   // Active link matches current page
   const navLabels = {
     'index': 'HOME', 'bestiary': 'BESTIARY', 'stories': 'STORIES', 'items': 'ARTIFACTS',
-    'world': 'WORLD', 'quiz': 'EXAMINATION', 'about': 'ABOUT', 'mylore': 'MY LORE'
+    'world': 'WORLD', 'quiz': 'EXAMINATION', 'about': 'ABOUT', 'mylore': 'MY LORE',
+    'search': 'SEARCH'
   };
   const pageName = path.replace('.html', '');
   const activeLabel = navLabels[pageName];
@@ -371,9 +372,35 @@ test.describe('My Lore layout', () => {
   }
 });
 
+// Search page
+test.describe('Search layout', () => {
+  for (const vp of VIEWPORTS) {
+    test(`layout at ${vp.label} (${vp.w}x${vp.h})`, async ({ page }) => {
+      test.setTimeout(30000);
+      if (vp.w <= 414 || vp.h <= 414) test.slow();
+      await page.setViewportSize({ width: vp.w, height: vp.h });
+      await page.goto('http://localhost:3000/search.html', { waitUntil: 'load', timeout: 15000 });
+
+      let issues = await commonChecks(page, 'search.html', vp);
+      issues = issues.concat(await pageHeroChecks(page));
+      issues = issues.concat(await filterBarChecks(page));
+
+      // Search input present
+      const searchInput = page.locator('#site-search');
+      if (await searchInput.count() === 0) issues.push('search page missing #site-search input');
+
+      // Status element present
+      const status = page.locator('#search-status');
+      if (await status.count() === 0) issues.push('search page missing #search-status');
+
+      expect(issues).toEqual([]);
+    });
+  }
+});
+
 // Donation support block
 test.describe('Ko-fi support footer block', () => {
-  const supportPages = ['index.html', 'bestiary.html', 'stories.html', 'items.html', 'world.html', 'quiz.html', 'about.html', 'mylore.html', 'methodology.html', '404.html'];
+  const supportPages = ['index.html', 'bestiary.html', 'stories.html', 'items.html', 'world.html', 'quiz.html', 'about.html', 'mylore.html', 'methodology.html', '404.html', 'search.html'];
 
   for (const path of supportPages) {
     test(`${path} shows Ko-fi support block`, async ({ page }) => {

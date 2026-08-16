@@ -1,4 +1,4 @@
-const CACHE_NAME = 'whisperinglore-v1_0_18'
+const CACHE_NAME = 'whisperinglore-v1_0_20'
 
 const CORE_ASSETS = [
   '/',
@@ -20,6 +20,8 @@ const CORE_ASSETS = [
   '/404.html',
   '/mylore.html',
   '/methodology.html',
+  '/search.html',
+  '/js/search-viewer.js',
   '/manifest.json',
   '/js/quiz.js',
   '/js/mylore.js',
@@ -31,7 +33,7 @@ const CORE_ASSETS = [
   '/js/globe.js',
   '/js/citations.js',
   '/data/sharded/manifest.json',
-  '/og-image.svg',
+  '/og-image.png',
   '/favicon.svg',
   '/images/placeholder-creature.svg',
   '/vendor/topojson/countries-110m.json'
