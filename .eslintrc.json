@@ -18,5 +18,5 @@
     "prefer-const": "warn",
     "eqeqeq": ["warn", "always"]
   },
-  "ignorePatterns": ["node_modules/", "data/", "output/"]
+  "ignorePatterns": ["node_modules/", "data/", "output/", "archive/"]
 }

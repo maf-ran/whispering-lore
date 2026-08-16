@@ -22,6 +22,19 @@
   <meta name="twitter:title" content="About — World Mythology Database & Folklore Archive | Whispering Lore" />
   <meta name="twitter:description" content="Whispering Lore is the most comprehensive digital compendium of world mythology, folklore, and ancient legends — preserving 3,668+ creatures and 2,185+ stories from 212+ countries." />
   <meta name="twitter:image" content="https://whisperinglore.com/og-image.svg" />
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://whisperinglore.com/about.html",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://whisperinglore.com/search?q={search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+  }
+  </script>
   <link rel="canonical" href="https://whisperinglore.com/about.html" />
 
 
@@ -58,6 +71,38 @@
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://whisperinglore.com/" },
       { "@type": "ListItem", "position": 2, "name": "About", "item": "https://whisperinglore.com/about.html" }
+    ]
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What is Whispering Lore?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Whispering Lore is a digital compendium of world mythology, folklore, and legends — preserving 3,668+ mythical creatures and 2,185+ stories from 212+ countries, with source-quality ratings and academic citations."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How can I search the folklore database?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Use the search bar on the Bestiary, Stories, or Artifacts pages to find creatures, tales, and items by name, country, or region. Each entry links to related stories and artifacts."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is the Whispering Lore dataset free to use?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. The dataset is published under a Creative Commons Attribution 4.0 license and archived on Zenodo with versioned DOI releases."
+        }
+      }
     ]
   }
   </script>
@@ -209,5 +254,6 @@
   </svg>
 </button>
 <div class="grain-overlay"></div>
+<script src="js/seo-entity.js"></script>
 </body>
 </html>

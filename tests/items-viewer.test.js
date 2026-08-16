@@ -1,3 +1,5 @@
+/** @jest-environment jsdom */
+/* eslint-env node */
 /**
  * @jest-environment jsdom
  */

@@ -115,6 +115,7 @@ class CreaturesViewer extends BaseViewer {
     ])
 
     this.cache = sh.getAllItems('creatures')
+    window.__FULL_CREATURES = this.cache
   }
 
   initDropdowns() {
@@ -193,6 +194,7 @@ class CreaturesViewer extends BaseViewer {
     if (!sh) return
     sh.loadRegionShard('creatures', region, () => {
       this.cache = sh.getAllItems('creatures')
+      window.__FULL_CREATURES = this.cache
       this.applyFilters()
     })
   }

@@ -112,6 +112,7 @@ class StoriesViewer extends BaseViewer {
       sh.loadAllShards('stories', (err, data) => resolve())
     })
     this.cache = sh.getAllItems('stories')
+    window.__FULL_STORIES = this.cache
   }
 
   initLinks() {

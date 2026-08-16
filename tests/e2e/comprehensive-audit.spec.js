@@ -883,7 +883,7 @@ test.describe('Structured data (JSON-LD)', () => {
           try {
             const data = JSON.parse(s.textContent);
             if (data['@type'] === 'BreadcrumbList') return true;
-          } catch {}
+          } catch { /* ignore malformed JSON */ }
         }
         return false;
       });

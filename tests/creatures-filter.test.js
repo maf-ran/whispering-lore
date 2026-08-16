@@ -1,3 +1,4 @@
+/* eslint-env node */
 var sampleCreatures = [
   { name: 'Troll', type: 'giant', country: 'Norway', region: 'Nordic' },
   { name: 'Kitsune', type: 'spirit', country: 'Japan', region: 'East Asia' },

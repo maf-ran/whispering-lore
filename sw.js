@@ -1,4 +1,4 @@
-const CACHE_NAME = 'whisperinglore-v1_0_17'
+const CACHE_NAME = 'whisperinglore-v1_0_18'
 
 const CORE_ASSETS = [
   '/',
@@ -13,6 +13,7 @@ const CORE_ASSETS = [
   '/js/creatures-viewer.js',
   '/js/stories-viewer.js',
   '/js/items-viewer.js',
+  '/js/seo-entity.js',
   '/js/viewer-base.js',
   '/js/shared-utils.js',
   '/quiz.html',

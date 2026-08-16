@@ -1,5 +1,15 @@
 # Project Todos
 
+## SEO Foundations (Aug 16)
+- [x] **WebSite + SearchAction JSON-LD** on all 10 pages (index, about, world, bestiary, items, stories, quiz, mylore, methodology, 404) — target `https://whisperinglore.com/search?q={search_term_string}` (caveat: `/search` page does not exist yet)
+- [x] **FAQPage JSON-LD** on about.html (3 Q&A); about also has WebSite, Organization, WebPage, BreadcrumbList
+- [x] **Per-entity `CreativeWork` JSON-LD** injected at runtime by `js/seo-entity.js` on deep-links: bestiary `?creature=`, stories `?story=`, items `?item=`; polls 5s (50ms×100) for async data global, then injects into `<head>`
+- [x] **Data-global fixes**: `creatures-viewer.js` now sets `window.__FULL_CREATURES` (loadData + region shard), `stories-viewer.js` sets `window.__FULL_STORIES`; seo-entity reads `__FULL_CREATURES`/`__FULL_STORIES`/`__ITEMS` and falls back to `__STORIES_DATA` only for stories (bestiary preload of `__STORIES_DATA` was hijacking creature lookups)
+- [x] **Script tag** `<script src="js/seo-entity.js">` on all 10 pages
+- [x] **SW v1_0_18**: `js/seo-entity.js` added to precache list (offline JSON-LD)
+- [x] **Lint 0 errors**: `archive/` added to eslint ignorePatterns; `/* eslint-env node */` on playwright.config.js, cross-device-audit/items-viewer specs, rune-scatter.test.js, render-graphs.js; empty `catch {}` comment fix in comprehensive-audit.spec.js
+- [x] **Verified**: JSON-LD valid JSON on all 10 pages (script); runtime injection confirmed for troll (creature), Mjölnir (item), Ragnarök (story); jest 172/172; chromium 414/414
+
 ## Site audit fixes (Aug 15) — all committed on main
 - [x] **CI**: push/PR branches `master`→`main`; e2e server `npx serve`→threaded dual-stack `http.server` (single-threaded `python3 -m http.server` times out under 6-worker e2e load — reproduced 14 `page.goto` timeouts, clean with threaded) (`c9a17c6`, `5e62167`)
 - [x] **XSS**: filter-chip `data-dimension`/`data-value` now `escapeXml()` (viewer-base.js)
