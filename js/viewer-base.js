@@ -318,4 +318,53 @@ export class BaseViewer {
     const sortEl = document.getElementById(this.type === 'creatures' ? 'bestiary-sort' : 'stories-sort')
     if (sortEl) sortEl.value = this.state.sortBy
   }
+
+  focusableElements(container) {
+    const selector = [
+      'a[href]',
+      'button:not([disabled])',
+      'input:not([disabled])',
+      'select:not([disabled])',
+      'textarea:not([disabled])',
+      '[tabindex]:not([tabindex="-1"])',
+      '[role="button"]',
+    ].join(',')
+    return Array.from(container.querySelectorAll(selector)).filter(
+      (el) => el.offsetParent !== null && !el.closest('.is-hidden')
+    )
+  }
+
+  trapFocus(container) {
+    if (this._prevFocus) return
+    this._prevFocus = document.activeElement
+    this._trapContainer = container
+    const trap = (e) => {
+      if (e.key !== 'Tab') return
+      const focusables = this.focusableElements(this._trapContainer)
+      if (focusables.length === 0) return
+      const first = focusables[0]
+      const last = focusables[focusables.length - 1]
+      if (e.shiftKey && document.activeElement === first) {
+        e.preventDefault()
+        last.focus()
+      } else if (!e.shiftKey && document.activeElement === last) {
+        e.preventDefault()
+        first.focus()
+      }
+    }
+    this._trapHandler = trap
+    document.addEventListener('keydown', trap)
+    const first = this.focusableElements(container)[0]
+    if (first) first.focus()
+  }
+
+  releaseFocusTrap() {
+    if (this._trapHandler) {
+      document.removeEventListener('keydown', this._trapHandler)
+      this._trapHandler = null
+    }
+    if (this._prevFocus && this._prevFocus.focus) this._prevFocus.focus()
+    this._prevFocus = null
+    this._trapContainer = null
+  }
 }

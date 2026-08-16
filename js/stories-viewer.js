@@ -518,6 +518,9 @@ class StoriesViewer extends BaseViewer {
           }
         }
         document.addEventListener('keydown', this._keyHandler)
+
+        this.releaseFocusTrap()
+        this.trapFocus(detail)
       }
     }
 
@@ -588,6 +591,8 @@ class StoriesViewer extends BaseViewer {
       document.removeEventListener('keydown', this._keyHandler)
       this._keyHandler = null
     }
+
+    this.releaseFocusTrap()
 
     document.title = 'Stories — Whispering Lore'
     history.replaceState(null, '', window.location.pathname)

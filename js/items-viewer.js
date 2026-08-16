@@ -497,6 +497,9 @@ class ItemsViewer extends BaseViewer {
           }
         }
         document.addEventListener('keydown', this._keyHandler)
+
+        this.releaseFocusTrap()
+        this.trapFocus(detail)
       }
     }
 
@@ -530,6 +533,8 @@ class ItemsViewer extends BaseViewer {
       document.removeEventListener('keydown', this._keyHandler)
       this._keyHandler = null
     }
+
+    this.releaseFocusTrap()
 
     document.title = 'Artifacts — Whispering Lore'
     history.replaceState(null, '', window.location.pathname)

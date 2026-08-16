@@ -219,6 +219,53 @@ test.describe('Bestiary: detail overlay', () => {
     }
   });
 
+  test('focus is trapped inside the overlay and restored on close', async ({ page }) => {
+    const card = page.locator('.card[data-slug]').first();
+    await card.click();
+    const overlay = page.locator('#creature-detail');
+    await expect(overlay).not.toHaveClass(/is-hidden/, { timeout: 10000 });
+    await expect(overlay.locator('#detail-content')).not.toHaveClass(/is-hidden/, { timeout: 10000 });
+
+    // First focusable inside the overlay should be focused on open
+    const inOverlay = await page.evaluate(() => {
+      const container = document.getElementById('creature-detail');
+      const focusables = Array.from(container.querySelectorAll('a[href], button:not([disabled]), [tabindex]:not([tabindex="-1"])'))
+        .filter((el) => el.offsetParent !== null && !el.closest('.is-hidden'));
+      return {
+        activeInOverlay: container.contains(document.activeElement),
+        count: focusables.length,
+      };
+    });
+    expect(inOverlay.activeInOverlay).toBe(true);
+    expect(inOverlay.count).toBeGreaterThan(0);
+
+    // Tab repeatedly — focus must never leave the overlay
+    let escaped = false;
+    for (let i = 0; i < inOverlay.count * 2; i++) {
+      await page.keyboard.press('Tab');
+      const active = await page.evaluate(() => {
+        const container = document.getElementById('creature-detail');
+        return { in: container.contains(document.activeElement), el: document.activeElement ? document.activeElement.tagName : '' };
+      });
+      if (!active.in) { escaped = true; break; }
+    }
+    expect(escaped).toBe(false);
+
+    // Shift+Tab should also stay inside
+    await page.keyboard.press('Shift+Tab');
+    const active2 = await page.evaluate(() => document.getElementById('creature-detail').contains(document.activeElement));
+    expect(active2).toBe(true);
+
+    // Close via Escape, then focus returns to the page (card link)
+    await page.keyboard.press('Escape');
+    await expect(overlay).toHaveClass(/is-hidden/, { timeout: 5000 });
+    const afterClose = await page.evaluate(() => ({
+      inOverlay: document.getElementById('creature-detail').contains(document.activeElement),
+      tag: document.activeElement ? document.activeElement.tagName : '',
+    }));
+    expect(afterClose.inOverlay).toBe(false);
+  });
+
   test('overlay has sections with content', async ({ page }) => {
     const card = page.locator('.card[data-slug]').first();
     await card.click();
@@ -1039,6 +1086,8 @@ test.describe('Scroll position save/restore', () => {
     // Open overlay
     await page.locator('.card[data-slug]').first().click();
     await page.locator('#creature-detail').waitFor({ state: 'visible', timeout: 10000 });
+    // Escape handler is only attached after async content render — wait for it
+    await page.locator('#detail-content:not(.is-hidden)').waitFor({ state: 'visible', timeout: 10000 });
     // Close
     await page.keyboard.press('Escape');
     await page.waitForTimeout(500);
