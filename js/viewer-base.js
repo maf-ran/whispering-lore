@@ -28,6 +28,12 @@ export class BaseViewer {
     return item.name || item.title || ''
   }
 
+  stopNarration() {
+    if (window.speechSynthesis && window.speechSynthesis.cancel) {
+      window.speechSynthesis.cancel()
+    }
+  }
+
   updateCount() {
     const countEl = document.querySelector(this.countSelector)
     if (!countEl) return

@@ -553,6 +553,7 @@ class ItemsViewer extends BaseViewer {
   }
 
   closeDetail() {
+    this.stopNarration()
     const detail = document.getElementById('item-detail')
     const pageHero = document.querySelector('.page-hero')
     const filterBar = document.querySelector('.filter-bar')

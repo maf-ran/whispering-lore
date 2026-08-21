@@ -599,6 +599,7 @@ class CreaturesViewer extends BaseViewer {
   }
 
   closeDetail() {
+    this.stopNarration()
     const detail = document.getElementById('creature-detail')
     const pageHero = document.querySelector('.page-hero')
     const filterBar = document.querySelector('.filter-bar')
