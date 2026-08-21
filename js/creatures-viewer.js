@@ -371,6 +371,42 @@ class CreaturesViewer extends BaseViewer {
           }
         }
 
+        const audioBtn = document.getElementById('detail-audio')
+        if (audioBtn) {
+          if ('speechSynthesis' in window) {
+            let speaking = false
+            audioBtn.onclick = function () {
+              if (speaking) {
+                window.speechSynthesis.cancel()
+                speaking = false
+                audioBtn.textContent = 'Listen'
+                return
+              }
+              const textToRead = [
+                creature.name,
+                creature.culture ? 'Culture: ' + creature.culture : '',
+                creature.description || ''
+              ].filter(Boolean).join('. ')
+              
+              const utterance = new SpeechSynthesisUtterance(textToRead)
+              utterance.rate = 0.95
+              utterance.onend = () => {
+                speaking = false
+                audioBtn.textContent = 'Listen'
+              }
+              utterance.onerror = () => {
+                speaking = false
+                audioBtn.textContent = 'Listen'
+              }
+              window.speechSynthesis.speak(utterance)
+              speaking = true
+              audioBtn.textContent = 'Stop'
+            }
+          } else {
+            audioBtn.style.display = 'none'
+          }
+        }
+
         const citeBtn = document.getElementById('detail-cite-btn')
         const citePopover = document.getElementById('detail-cite-popover')
         if (

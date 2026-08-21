@@ -394,6 +394,42 @@ class StoriesViewer extends BaseViewer {
           }
         }
 
+        const audioBtn = document.getElementById('detail-audio')
+        if (audioBtn) {
+          if ('speechSynthesis' in window) {
+            let speaking = false
+            audioBtn.onclick = function () {
+              if (speaking) {
+                window.speechSynthesis.cancel()
+                speaking = false
+                audioBtn.textContent = 'Listen'
+                return
+              }
+              const textToRead = [
+                story.title,
+                story.country ? 'Country: ' + story.country : '',
+                story.full_text || story.summary || ''
+              ].filter(Boolean).join('. ')
+              
+              const utterance = new SpeechSynthesisUtterance(textToRead)
+              utterance.rate = 0.95
+              utterance.onend = () => {
+                speaking = false
+                audioBtn.textContent = 'Listen'
+              }
+              utterance.onerror = () => {
+                speaking = false
+                audioBtn.textContent = 'Listen'
+              }
+              window.speechSynthesis.speak(utterance)
+              speaking = true
+              audioBtn.textContent = 'Stop'
+            }
+          } else {
+            audioBtn.style.display = 'none'
+          }
+        }
+
         if (window.__sharedUtils && window.__sharedUtils.CitationGenerator) {
           const gen = window.__sharedUtils.CitationGenerator
           const citations = gen.generateAll(story, true)
