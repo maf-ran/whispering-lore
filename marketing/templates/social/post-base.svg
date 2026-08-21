@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050505"/>
+      <stop offset="50%" stop-color="#0F0D0B"/>
+      <stop offset="100%" stop-color="#1A1513"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <!-- Decorative frame -->
+  <rect x="40" y="40" width="1120" height="550" fill="none" stroke="#E05C5C" stroke-width="1" opacity="0.3"/>
+  <!-- Rune diamond -->
+  <path d="M600,100 L615,125 L600,150 L585,125 Z" fill="#E05C5C"/>
+  <text x="600" y="200" font-family="'Cinzel', serif" font-size="42" font-weight="700" fill="#D6D3C8" text-anchor="middle" letter-spacing="0.2em">WHISPERING LORE</text>
+  <line x1="500" y1="230" x2="700" y2="230" stroke="#E05C5C" stroke-width="2"/>
+  <text x="600" y="320" font-family="'Lora', serif" font-size="28" font-style="italic" fill="#A8A29E" text-anchor="middle" width="900">Discover 3,672 mythical creatures and 2,185 ancient stories.</text>
+  <text x="600" y="520" font-family="'Cinzel', serif" font-size="20" fill="#E05C5C" text-anchor="middle" letter-spacing="0.15em">WHISPERINGLORE.COM</text>
+</svg>

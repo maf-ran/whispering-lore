@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080">
+  <defs>
+    <linearGradient id="bg-wall" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#050505"/>
+      <stop offset="100%" stop-color="#1A1513"/>
+    </linearGradient>
+  </defs>
+  <rect width="1920" height="1080" fill="url(#bg-wall)"/>
+  <path d="M960,300 L990,350 L960,400 L930,350 Z" fill="#E05C5C" opacity="0.8"/>
+  <text x="960" y="500" font-family="'Cinzel', serif" font-size="64" font-weight="700" fill="#D6D3C8" text-anchor="middle" letter-spacing="0.3em">WHISPERING LORE</text>
+  <text x="960" y="580" font-family="'Lora', serif" font-size="28" font-style="italic" fill="#A8A29E" text-anchor="middle">3,672 Creatures · 2,185 Stories · 212 Countries</text>
+</svg>

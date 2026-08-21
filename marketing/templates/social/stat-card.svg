@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" width="1080" height="1080">
+  <defs>
+    <linearGradient id="stat-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050505"/>
+      <stop offset="50%" stop-color="#111111"/>
+      <stop offset="100%" stop-color="#1A1513"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1080" fill="url(#stat-bg)"/>
+  <rect x="60" y="60" width="960" height="960" fill="none" stroke="#E05C5C" stroke-width="2" opacity="0.4"/>
+  <rect x="75" y="75" width="930" height="930" fill="none" stroke="#292524" stroke-width="1"/>
+
+  <!-- Top Badge -->
+  <path d="M540,160 L555,185 L540,210 L525,185 Z" fill="#E05C5C"/>
+  <text x="540" y="260" font-family="'Cinzel', serif" font-size="20" font-weight="700" fill="#E05C5C" text-anchor="middle" letter-spacing="0.3em">DID YOU KNOW?</text>
+
+  <!-- Big Stat Number -->
+  <text x="540" y="420" font-family="'Cinzel', serif" font-size="130" font-weight="700" fill="#D6D3C8" text-anchor="middle" letter-spacing="0.05em">3,672</text>
+  <text x="540" y="480" font-family="'Cinzel', serif" font-size="28" font-weight="600" fill="#E05C5C" text-anchor="middle" letter-spacing="0.2em">MYTHICAL CREATURES</text>
+
+  <line x1="340" y1="540" x2="740" y2="540" stroke="#292524" stroke-width="2"/>
+
+  <!-- Sub Stats Grid Representation -->
+  <g transform="translate(0, 580)">
+    <!-- Stat 1 -->
+    <text x="320" y="60" font-family="'Cinzel', serif" font-size="42" font-weight="700" fill="#D6D3C8" text-anchor="middle">2,185</text>
+    <text x="320" y="90" font-family="'Lora', serif" font-size="15" font-style="italic" fill="#A8A29E" text-anchor="middle">Attested Stories</text>
+
+    <!-- Stat 2 -->
+    <text x="760" y="60" font-family="'Cinzel', serif" font-size="42" font-weight="700" fill="#D6D3C8" text-anchor="middle">212</text>
+    <text x="760" y="90" font-family="'Lora', serif" font-size="15" font-style="italic" fill="#A8A29E" text-anchor="middle">Countries Mapped</text>
+  </g>
+
+  <!-- Footer CTA -->
+  <rect x="340" y="820" width="400" height="70" fill="none" stroke="#E05C5C" stroke-width="2"/>
+  <text x="540" y="862" font-family="'Cinzel', serif" font-size="18" font-weight="600" fill="#D6D3C8" text-anchor="middle" letter-spacing="0.2em">EXPLORE THE ARCHIVE</text>
+
+  <text x="540" y="960" font-family="'Cinzel', serif" font-size="14" fill="#A8A29E" text-anchor="middle" letter-spacing="0.2em">WHISPERINGLORE.COM</text>
+</svg>

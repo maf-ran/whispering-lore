@@ -1,5 +1,22 @@
 # Project Todos
 
+## New Features & Enhancements (Aug 17)
+- [x] Add Quiz Result Share / Copy Score Card feature (`js/quiz.js`)
+- [x] Add Web Speech Audio Narration feature to bestiary and stories viewers
+- [x] Add Collection Export/Import feature to My Lore (`mylore.html` / `js/mylore.js`)
+- [x] Verify all changes with tests and service worker updates
+
+## Marketing Assets & PR Kit (Aug 17)
+- [x] Create marketing directory structure (`marketing/`)
+- [x] Create brand assets (logo full and icon, palette JSON/CSS)
+- [x] Write social media copy files for Facebook and Instagram (`copy/`)
+- [x] Create base SVG templates for social media and wallpapers (`templates/`)
+- [x] Write marketing README and PR kit documentation (`docs/`)
+- [x] Create SVG QR Code Card for easy site sharing (`assets/shareables/qr-card.svg`)
+- [x] Create 'Did You Know?' Stat Card Template for social media (`templates/social/stat-card.svg`)
+- [x] Create Nordic Dark HTML Email Newsletter Announcement Template (`templates/email/announcement.html`)
+- [x] Create Community Sticker & Badge Sheet SVG (`branding/stickers.svg`)
+
 ## SEO Foundations (Aug 16)
 - [x] **WebSite + SearchAction JSON-LD** on all 10 pages (index, about, world, bestiary, items, stories, quiz, mylore, methodology, 404) — target `https://whisperinglore.com/search?q={search_term_string}` (caveat: `/search` page does not exist yet)
 - [x] **FAQPage JSON-LD** on about.html (3 Q&A); about also has WebSite, Organization, WebPage, BreadcrumbList
