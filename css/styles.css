@@ -2001,6 +2001,19 @@ footer p {
   margin-bottom: 0.6rem;
 }
 
+/* Third-party Ko-fi widget ships white bold text with an orange text-shadow on
+   its inline orange background (~2.3:1, fails AA). Restyle to site accent
+   tokens; !important is required because the widget sets background-color
+   inline and loads its own stylesheet after ours. White on --accent passes AA
+   in both themes (dark #991B1B ≈ 8.3:1, light #b91c1c ≈ 6.5:1). */
+.ko-fi-support .kofi-button {
+  background-color: var(--accent) !important;
+}
+
+.ko-fi-support .kofitext {
+  text-shadow: none !important;
+}
+
 /* ── Globe section ── */
 .globe-section {
   position: relative;
@@ -2160,7 +2173,6 @@ footer p {
 }
 
 .region-pct {
-  opacity: 0.7;
   font-size: 0.9em;
 }
 
