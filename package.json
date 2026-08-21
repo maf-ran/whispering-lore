@@ -34,7 +34,10 @@
       "/tests/e2e/"
     ],
     "coverageDirectory": "coverage",
-    "coverageReporters": ["text", "text-summary"],
+    "coverageReporters": [
+      "text",
+      "text-summary"
+    ],
     "collectCoverageFrom": [
       "js/shared-utils.js",
       "js/citations.js",
@@ -48,6 +51,7 @@
     ]
   },
   "devDependencies": {
+    "@axe-core/playwright": "^4.13.0",
     "@playwright/test": "^1.61.1",
     "eslint": "^8.0.0",
     "fake-indexeddb": "^6.2.5",
