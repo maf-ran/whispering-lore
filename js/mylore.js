@@ -102,5 +102,65 @@
     updateProgress()
   }
 
-  document.addEventListener('DOMContentLoaded', renderSavedItems)
+  function initExportImport() {
+    const exportBtn = document.getElementById('export-lore')
+    const importInput = document.getElementById('import-lore-file')
+    const loreBox = window.__sharedUtils && window.__sharedUtils.LoreBox
+
+    if (exportBtn && loreBox) {
+      exportBtn.addEventListener('click', () => {
+        const data = {
+          creatures: loreBox.get('creatures') || [],
+          stories: loreBox.get('stories') || [],
+          viewed_creatures: loreBox.get('viewed_creatures') || [],
+          viewed_stories: loreBox.get('viewed_stories') || [],
+          exported_at: new Date().toISOString()
+        }
+        const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' })
+        const url = URL.createObjectURL(blob)
+        const a = document.createElement('a')
+        a.href = url
+        a.download = 'whispering-lore-collection-' + new Date().toISOString().slice(0, 10) + '.json'
+        document.body.appendChild(a)
+        a.click()
+        document.body.removeChild(a)
+        URL.revokeObjectURL(url)
+      })
+    }
+
+    if (importInput && loreBox) {
+      importInput.addEventListener('change', (e) => {
+        const file = e.target.files[0]
+        if (!file) return
+        const reader = new FileReader()
+        reader.onload = (event) => {
+          try {
+            const json = JSON.parse(event.target.result)
+            if (json.creatures && Array.isArray(json.creatures)) {
+              loreBox.set('creatures', json.creatures)
+            }
+            if (json.stories && Array.isArray(json.stories)) {
+              loreBox.set('stories', json.stories)
+            }
+            if (json.viewed_creatures && Array.isArray(json.viewed_creatures)) {
+              loreBox.set('viewed_creatures', json.viewed_creatures)
+            }
+            if (json.viewed_stories && Array.isArray(json.viewed_stories)) {
+              loreBox.set('viewed_stories', json.viewed_stories)
+            }
+            alert('Collection successfully imported!')
+            renderSavedItems()
+          } catch (err) {
+            alert('Failed to parse JSON collection file.')
+          }
+        }
+        reader.readAsText(file)
+      })
+    }
+  }
+
+  document.addEventListener('DOMContentLoaded', () => {
+    renderSavedItems()
+    initExportImport()
+  })
 })()
