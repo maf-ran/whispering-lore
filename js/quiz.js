@@ -303,15 +303,30 @@
   const showFinal = () => {
     const displayScore = Math.min(score, maxQuestions)
     const percent = Math.round((displayScore / maxQuestions) * 100)
+    const shareText = `I scored ${displayScore}/${maxQuestions} (${percent}%) on the Whispering Lore Folklore Quiz! ✦ Explore world mythology at https://whisperinglore.com`
     const html = `
       <section class="quiz-final">
         <h2>Quiz Complete</h2>
         <p>You answered ${displayScore} out of ${maxQuestions} correctly (${percent}%).</p>
-        <button id="restart-quiz" class="btn-ghost">Play Again</button>
+        <div style="display:flex;gap:1rem;justify-content:center;margin-top:1.5rem;flex-wrap:wrap;">
+          <button id="restart-quiz" class="btn-ghost">Play Again</button>
+          <button id="share-score" class="btn-ghost" style="border-color:var(--text-primary);color:var(--text-primary);">Copy Score Card</button>
+        </div>
+        <p id="share-feedback" style="font-size:0.8rem;color:var(--accent-strong);margin-top:0.75rem;min-height:1.2rem;"></p>
       </section>
     `
     quizRoot.innerHTML = html
     document.getElementById('restart-quiz').addEventListener('click', startQuiz)
+    document.getElementById('share-score').addEventListener('click', () => {
+      navigator.clipboard.writeText(shareText).then(() => {
+        const fb = document.getElementById('share-feedback')
+        fb.textContent = 'Score card copied to clipboard!'
+        setTimeout(() => { fb.textContent = '' }, 3000)
+      }).catch(() => {
+        const fb = document.getElementById('share-feedback')
+        fb.textContent = 'Failed to copy.'
+      })
+    })
   }
 
   const startQuiz = async () => {
