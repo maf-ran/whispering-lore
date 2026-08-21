@@ -3,6 +3,7 @@
 ## New Features & Enhancements (Aug 17)
 - [x] Add Quiz Result Share / Copy Score Card feature (`js/quiz.js`)
 - [x] Add Web Speech Audio Narration feature to bestiary and stories viewers
+- [x] Stop narration when detail overlay closes (BaseViewer.stopNarration + 3 viewers)
 - [x] Add Collection Export/Import feature to My Lore (`mylore.html` / `js/mylore.js`)
 - [x] Verify all changes with tests and service worker updates
 
