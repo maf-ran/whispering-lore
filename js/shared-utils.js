@@ -295,13 +295,28 @@
         callback(null, this.shards[type][region])
         return
       }
+
+      // Coalesce concurrent requests for the same shard into one fetch
+      const pendingKey = type + ':' + region
+      this._pendingShardRequests = this._pendingShardRequests || {}
+      if (!forceRefresh && this._pendingShardRequests[pendingKey]) {
+        this._pendingShardRequests[pendingKey].push(callback)
+        return
+      }
+      this._pendingShardRequests[pendingKey] = [callback]
       const self = this
+      const settle = function (err, data) {
+        const queued = self._pendingShardRequests[pendingKey] || []
+        delete self._pendingShardRequests[pendingKey]
+        for (let i = 0; i < queued.length; i++) queued[i](err, data)
+      }
+
       const key = region
         .toLowerCase()
         .replace(/[^a-z0-9]+/g, '-')
         .replace(/^-|-$/g, '')
       if (!key) {
-        callback(new Error('bad region key'))
+        settle(new Error('bad region key'))
         return
       }
 
@@ -310,15 +325,15 @@
         this._getCachedShard(type, region, function (err, cached) {
           if (!err && cached) {
             self.shards[type][region] = cached
-            callback(null, cached)
+            settle(null, cached)
             // Refresh from network in background
             self._fetchShardFromNetwork(type, region, key, function () {})
             return
           }
-          self._fetchShardFromNetwork(type, region, key, callback)
+          self._fetchShardFromNetwork(type, region, key, settle)
         })
       } else {
-        this._fetchShardFromNetwork(type, region, key, callback)
+        this._fetchShardFromNetwork(type, region, key, settle)
       }
     },
 

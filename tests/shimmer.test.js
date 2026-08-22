@@ -259,6 +259,32 @@ describe('Shimmer.loadRegionShard', function () {
       done();
     });
   });
+
+  it('coalesces concurrent requests into a single network fetch', function (done) {
+    disableIDB();
+    Shimmer.shards.items = {};
+    var fetchCalls = 0;
+    var realFetch = global.fetch;
+    global.fetch = function (url) {
+      if (url.indexOf('items/by-region/celtic') !== -1) fetchCalls++;
+      return realFetch(url);
+    };
+    var results = [];
+    function record(err, data) {
+      results.push({ err: err, data: data });
+    }
+    Shimmer.loadRegionShard('items', 'Celtic', record);
+    Shimmer.loadRegionShard('items', 'Celtic', record);
+    setTimeout(function () {
+      global.fetch = realFetch;
+      enableIDB();
+      expect(fetchCalls).toBe(1);
+      expect(results).toHaveLength(2);
+      expect(results[0].err).toBeNull();
+      expect(results[0].data).toBe(results[1].data);
+      done();
+    }, 50);
+  });
 });
 
 // ─────────────────────────────────────────────────────────────────────
