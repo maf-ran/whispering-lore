@@ -106,10 +106,38 @@ function assertClean(violations, label) {
 }
 
 test.describe('Accessibility (axe)', () => {
-  test.beforeEach(async () => {
-    // Playwright requires the first hook arg to be a destructuring pattern and
-    // eslint bans empty patterns ({}), so read TestInfo via test.info() instead.
+  test.setTimeout(60_000);
+
+  test.beforeEach(async ({ page }) => {
+    // Playwright requires hook args to be destructuring patterns and eslint
+    // bans empty patterns ({}), so TestInfo is read via test.info() instead.
     test.skip(test.info().project.name !== 'chromium', 'chromium-only accessibility gate');
+
+    // Hermetic Ko-fi coverage: pages inject the third-party widget script from
+    // storage.ko-fi.com on window load, and nothing waits for it, so an
+    // unreachable CDN would silently drop the .kofi-button/.kofitext nodes the
+    // css contrast overrides target out of every scan (vacuous pass). The stub
+    // mirrors the real call shape: loadKoFi() calls kofiwidget2.init(...) then
+    // inserts getHTML(), which must contain a.kofi-button > span.kofitext.
+    await page.route('**/storage.ko-fi.com/**', (route) => {
+      if (route.request().url().includes('widget/Widget_2.js')) {
+        route.fulfill({
+          status: 200,
+          contentType: 'application/javascript',
+          body: [
+            'kofiwidget2 = {',
+            '  init: function () {},',
+            '  getHTML: function () {',
+            '    return \'<a href="https://ko-fi.com/X7B3253Q7T" class="kofi-button">' +
+              '<span class="kofitext">Support</span></a>\';',
+            '  }',
+            '};',
+          ].join('\n'),
+        });
+      } else {
+        route.fulfill({ status: 200, contentType: 'application/javascript', body: '' });
+      }
+    });
   });
 
   for (const vp of VIEWPORTS) {
@@ -126,6 +154,15 @@ test.describe('Accessibility (axe)', () => {
       }
     });
   }
+
+  test('ko-fi mock renders scannable fixture', async ({ page }) => {
+    await page.goto(`${BASE}/index.html`, { waitUntil: 'load', timeout: 20000 });
+    // Injection happens on window load + script onload (async even when
+    // mocked), so poll instead of asserting immediately. Visible, not merely
+    // attached: axe skips hidden nodes, so visibility is what makes the scoped
+    // .kofi-button/.kofitext contrast overrides genuinely exercised by scans.
+    await expect(page.locator('.ko-fi-support .kofitext')).toBeVisible({ timeout: 15000 });
+  });
 
   test('detail overlay: creature (bestiary)', async ({ page }) => {
     await page.goto(`${BASE}/bestiary.html?creature=troll-norway`, {
