@@ -6,21 +6,13 @@
 ## Content & Engagement (deferred)
 - Weekly "Mythology Spotlight" blog series
 - User-submitted Q&A widget
-- Community "Related items" auto-generated sections
-
 
 ## Performance (deferred)
 - Inline critical CSS for hero
-- Enable gzip/Brotli on the hosting layer
 - Run PurgeCSS to strip unused selectors
-
-## Accessibility (deferred)
-- Add ARIA labels to all decorative SVG icons
-- Provide high-contrast focus outlines for custom widgets
 
 ## Analytics & Monitoring (deferred)
 - Google Search Console & GA4 integration
-- Lighthouse CI pipeline
 - Real-time performance dashboard using `web-vitals`
 
 ## Internationalisation (deferred)
