@@ -1,5 +1,12 @@
 # Project Todos
 
+## A11y Pass (Aug 21) — axe gate
+- [x] `@axe-core/playwright` gate: tests/e2e/accessibility.spec.js, 10 pages × 2 viewports + 3 detail overlays (deep-linked troll-norway / ragnark-the-end-and-rebirth / mjolnir) + search state = 24 scans (+1 ko-fi fixture test); zero-violation assert; EXCLUSIONS map stays empty (no false positives found)
+- [x] Contrast fixes: `.kofitext` white-on-orange 2.32:1 → scoped overrides recolor widget to site accent (`!important` beats widget inline style); world.html `.region-pct` opacity .7 blend 3.84:1 → opacity removed (passes both themes)
+- [x] Gate hardening: overlay waits on `#detail-content` + identity asserts; SETTLE sentinels per async page replace blind sleep; awaitSettled() awaits finite getAnimations (4s cap) before every scan — root-caused quiz ghost-contrast to `.hero-actions fadeInUp 1.4s delay 1.1s`; chromium-only guard; node targets in failure summary; test.setTimeout 60s
+- [x] Ko-fi CDN route-mocked hermetically (`**/storage.ko-fi.com/**` → kofiwidget2 stub); negative test: direct .kofitext violation fails all 24 scans (stub itself can't reproduce real-widget inline-orange failure — documented)
+- [x] sw.js v1_0_21 (css changed). Gates: eslint 0 err, jest 175/175, chromium 462/462
+
 ## New Features & Enhancements (Aug 17)
 - [x] Add Quiz Result Share / Copy Score Card feature (`js/quiz.js`)
 - [x] Add Web Speech Audio Narration feature to bestiary and stories viewers
