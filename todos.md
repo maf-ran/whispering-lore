@@ -6,7 +6,11 @@
 - [x] Perf deep-dive + V1-V3 shipped (5c8374c, 76e1532, 9ea292c): root cause = homepage downloaded entire 34MB shard corpus twice (latest-additions + daily-feature both calling loadAllShards with no dedup). Fixes: in-flight request coalescing in loadRegionShard (+jest dedup test), precomputed data/datasets/latest.json (~2KB top-3), precomputed daily.json (~30KB, 45-day window, replicates getDailyIndex exactly; runtime falls back to legacy full scan beyond window / offline). Index shard fetches 178→2. Lighthouse: `/` perf 0.64→0.91, LCP 34.0s→2.8s; bestiary 0.71→0.89 (LCP 33.9s→3.0s). Gates: eslint 0 err, jest 176/176, chromium 462/461+? — 462 passed
 - [ ] Perf follow-up (optional): bestiary still ~22MB upfront for grid/facets (perf 0.89 vs 0.90 floor warn) → progressive per-shard loading = bigger refactor, defer until numbers matter
 - [ ] Regenerate latest.json + daily.json whenever shards change (one-off generators were /tmp scripts; logic documented in _meta fields)
-- [ ] Website translation (i18n) — **BLOCKED: design questions must be answered before implementation**
+- [ ] Website translation (i18n) — Phase 1 (Google Translate chrome toggle) **IN PROGRESS**; design approved (docs/spec 2026-08-22 + docs/superpowers/plans i18n phase 1)
+  - [x] T1 — language map + googtrans cookie helpers (`beeca3a`)
+  - [x] T2 — toggle button + menu UI injected after theme toggle (`90fde86`)
+  - [x] T3 — lazy element.js loader, applyLanguage/resetToOriginal combo routing, failure hides toggle (`24b4a9b`); jest 189/189
+  - Open questions remain for FULL content translation (beyond UI chrome):
   - Which languages first? (site is English-only today)
   - Scope: UI chrome only vs full content (3,668 creatures / 2,185 stories / 641 items / 1,071 quiz questions)?
   - Human vs machine translation for lore content? Quality bar + source attribution for translated text
