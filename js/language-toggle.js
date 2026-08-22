@@ -112,13 +112,8 @@
   }
 
   function choose(code) {
-    if (code) {
-      setGoogtrans(code)
-      if (comboApplier) comboApplier(code)
-    } else {
-      clearGoogtrans()
-      if (comboApplier) comboApplier('')
-    }
+    if (code) applyLanguage(code)
+    else resetToOriginal()
     closeMenu(false)
     if (menu && menu.parentNode) menu.parentNode.removeChild(menu)
     menu = null
@@ -147,6 +142,7 @@
     btn.setAttribute('aria-expanded', 'false')
     btn.innerHTML = GLOBE_SVG
     btn.addEventListener('click', function () {
+      ensureTranslate().catch(function () {})
       if (!menu || menu.hidden) openMenu()
       else closeMenu(true)
     })
@@ -157,12 +153,100 @@
     document.addEventListener('click', onDocClick)
   }
 
+  var gtPromise = null
+  var gtReady = false
+
+  function ensureTranslate() {
+    if (gtPromise) return gtPromise
+    gtPromise = new Promise(function (resolve, reject) {
+      var settled = false
+      var container = document.createElement('div')
+      container.id = 'google_translate_element'
+      container.hidden = true
+      document.body.appendChild(container)
+
+      function fail(err) {
+        if (settled) return
+        settled = true
+        gtPromise = null
+        hideSelf(err)
+        reject(err)
+      }
+
+      window.__languageToggleInit = function () {
+        if (settled) return
+        try {
+          new window.google.translate.TranslateElement({
+            pageLanguage: 'en',
+            includedLanguages: allCodes().join(','),
+            autoDisplay: false,
+            layout: window.google.translate.TranslateElement.InlineLayout.SIMPLE
+          }, 'google_translate_element')
+          settled = true
+          gtReady = true
+          resolve(container)
+        } catch (err) {
+          fail(err)
+        }
+      }
+
+      var s = document.createElement('script')
+      s.src = 'https://translate.google.com/translate_a/element.js?cb=__languageToggleInit'
+      s.async = true
+      s.onerror = function () { fail(new Error('element.js failed to load')) }
+      document.head.appendChild(s)
+
+      setTimeout(function () {
+        if (!settled) fail(new Error('element.js timed out'))
+      }, 12000)
+    })
+    return gtPromise
+  }
+
+  function hideSelf(err) {
+    if (btn && btn.parentNode) btn.parentNode.removeChild(btn)
+    btn = null
+    if (window.console && console.warn) console.warn('language toggle disabled:', err && err.message)
+  }
+
+  function driveCombo(code) {
+    var sel = document.querySelector('#google_translate_element select.goog-te-combo')
+    if (!sel) return
+    var match = sel.querySelector('option[value="' + code + '"]')
+    if (!match) {
+      match = document.createElement('option')
+      match.value = code
+      sel.appendChild(match)
+    }
+    sel.value = code
+    sel.dispatchEvent(new Event('change'))
+  }
+
+  function applyLanguage(code) {
+    setGoogtrans(code)
+    if (comboApplier) { comboApplier(code); return }
+    if (gtReady) { driveCombo(code); return }
+    ensureTranslate().then(function () { driveCombo(code) }).catch(function () {})
+  }
+
+  function resetToOriginal() {
+    clearGoogtrans()
+    if (comboApplier) { comboApplier(''); return }
+    if (gtReady) { driveCombo(''); return }
+    ensureTranslate().then(function () { driveCombo('') }).catch(function () {})
+  }
+
   function _resetForTests() {
     if (btn && btn.parentNode) btn.parentNode.removeChild(btn)
     if (menu && menu.parentNode) menu.parentNode.removeChild(menu)
+    var gtContainer = document.getElementById('google_translate_element')
+    if (gtContainer && gtContainer.parentNode) gtContainer.parentNode.removeChild(gtContainer)
     btn = null
     menu = null
     comboApplier = null
+    gtPromise = null
+    gtReady = false
+    delete window.__languageToggleInit
     clearGoogtrans()
   }
 
@@ -174,6 +258,9 @@
     clearGoogtrans: clearGoogtrans,
     readGoogtrans: readGoogtrans,
     initUI: initUI,
+    ensureTranslate: ensureTranslate,
+    applyLanguage: applyLanguage,
+    resetToOriginal: resetToOriginal,
     _resetForTests: _resetForTests,
     _setComboApplierForTests: function (fn) { comboApplier = fn }
   }

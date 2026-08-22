@@ -117,3 +117,99 @@ describe('languageToggle UI', function () {
     LT.clearGoogtrans();
   });
 });
+
+describe('languageToggle google integration', function () {
+  var LT;
+
+  beforeEach(function () {
+    document.body.innerHTML =
+      '<header><nav id="site-nav"></nav>' +
+      '<button class="theme-toggle" id="theme-toggle"></button></header>';
+    LT = window.__languageToggle;
+    LT._resetForTests();
+    LT.initUI();
+  });
+
+  afterEach(function () {
+    LT._resetForTests();
+    delete window.google;
+    delete window.__languageToggleInit;
+    document.body.innerHTML = '';
+  });
+
+  test('ensureTranslate injects script, initializes once via callback', async function () {
+    var configs = [];
+    window.google = {
+      translate: {
+        TranslateElement: function (cfg, containerId) {
+          configs.push({ cfg: cfg, containerId: containerId });
+        }
+      }
+    };
+    window.google.translate.TranslateElement.InlineLayout = { SIMPLE: 'SIMPLE' };
+    var p = LT.ensureTranslate();
+    expect(configs).toHaveLength(0);
+    expect(document.querySelector('script[src*="element.js"]')).toBeTruthy();
+    window.__languageToggleInit();
+    await p;
+    expect(configs).toHaveLength(1);
+    expect(configs[0].cfg.pageLanguage).toBe('en');
+    expect(configs[0].cfg.autoDisplay).toBe(false);
+    expect(configs[0].cfg.includedLanguages.split(',')).toContain('sv');
+    expect(configs[0].containerId).toBe('google_translate_element');
+    await LT.ensureTranslate();
+    expect(configs).toHaveLength(1);
+  });
+
+  test('applyLanguage delegates to hidden combo and stores cookie', async function () {
+    var changes = [];
+    window.google = { translate: { TranslateElement: function () {} } };
+    window.google.translate.TranslateElement.InlineLayout = { SIMPLE: 'SIMPLE' };
+    var p = LT.ensureTranslate();
+    window.__languageToggleInit();
+    await p;
+
+    var container = document.getElementById('google_translate_element');
+    var sel = document.createElement('select');
+    sel.className = 'goog-te-combo';
+    sel.addEventListener('change', function () { changes.push(sel.value); });
+    container.appendChild(sel);
+
+    LT.applyLanguage('de');
+    expect(sel.value).toBe('de');
+    expect(changes).toEqual(['de']);
+    expect(LT.readGoogtrans()).toBe('de');
+
+    LT.resetToOriginal();
+    expect(sel.value).toBe('');
+    expect(changes).toEqual(['de', '']);
+    expect(LT.readGoogtrans()).toBeNull();
+  });
+
+  test('applyLanguage uses injected applier without GT when set (unit path)', function () {
+    var applied = [];
+    LT._setComboApplierForTests(function (code) { applied.push(code); });
+    LT.applyLanguage('sv');
+    expect(applied).toEqual(['sv']);
+    expect(LT.readGoogtrans()).toBe('sv');
+    LT.clearGoogtrans();
+  });
+
+  test('script failure hides the toggle button and rejects', async function () {
+    var realCreate = document.createElement.bind(document);
+    jest.spyOn(document, 'createElement').mockImplementation(function (tag) {
+      var el = realCreate(tag);
+      if (tag === 'script') {
+        setTimeout(function () {
+          el.dispatchEvent(new Event('error'));
+        }, 0);
+      }
+      return el;
+    });
+    await LT.ensureTranslate().catch(function () {});
+    expect(document.getElementById('lang-toggle')).toBeFalsy();
+    // retry allowed: promise was reset on failure
+    var again = LT.ensureTranslate();
+    expect(again).toBeTruthy();
+  });
+});
