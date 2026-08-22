@@ -1,0 +1,729 @@
+{
+  "_meta": {
+    "generated": "2026-08-22",
+    "days": 45,
+    "note": "precomputed daily picks replicating getDailyIndex(); regenerate when shards change; runtime falls back to full Shimmer scan for dates beyond window"
+  },
+  "picks": {
+    "2026-08-22": {
+      "creature": {
+        "name": "Krasue",
+        "type": "ghost",
+        "country": "Thailand",
+        "summary": "Krasue is a ghost from the folklore and mythology of Thailand.",
+        "slug": "krasue"
+      },
+      "story": {
+        "title": "Guinevere at the Trial by Fire",
+        "country": "United Kingdom",
+        "region": "English",
+        "summary": "Accused of treason, Queen Guinevere faces the ordeal by fire at the court of King Arthur, where her innocence must be...",
+        "slug": "guinevere-at-the-trial-by-fire"
+      }
+    },
+    "2026-08-23": {
+      "creature": {
+        "name": "Kumakotok",
+        "type": "monster",
+        "country": "Philippines",
+        "summary": "Philippine trio of death spirits that knock on doors at night and kill anyone who answers within a year",
+        "slug": "kumakotok"
+      },
+      "story": {
+        "title": "Kijuju: The Underwater People",
+        "country": "Congo",
+        "region": "Central Africa",
+        "summary": "A secret people who live beneath African lakes, coming to trade with surface dwellers—but only at night.",
+        "slug": "kijuju-the-underwater-people"
+      }
+    },
+    "2026-08-24": {
+      "creature": {
+        "name": "Kuman Thong",
+        "type": "household-spirit",
+        "country": "Thailand",
+        "summary": "Thai golden child spirit created through black magic that brings luck and protection but demands regular offerings",
+        "slug": "kuman-thong"
+      },
+      "story": {
+        "title": "The Abada of the Ubangi Forest",
+        "country": "Central African Republic",
+        "region": "Central Africa",
+        "summary": "A young BaAka hunter follows a trail of shimmering footprints deep into the equatorial forest, seeking the legendary...",
+        "slug": "the-abada-of-the-ubangi-forest"
+      }
+    },
+    "2026-08-25": {
+      "creature": {
+        "name": "Kuntilanak",
+        "type": "vampire",
+        "country": "Indonesia",
+        "summary": "Indonesian female vampire who died in childbirth, preying on pregnant women and infants with her beauty and fangs",
+        "slug": "kuntilanak"
+      },
+      "story": {
+        "title": "The Mokele-mbembe of the Sangha River",
+        "country": "Central African Republic",
+        "region": "Central Africa",
+        "summary": "A fishing village on the Sangha River is terrorized by a massive river creature that capsizes canoes, until a wise...",
+        "slug": "the-mokele-mbembe-of-the-sangha-river"
+      }
+    },
+    "2026-08-26": {
+      "creature": {
+        "name": "Kebo Iwa (Buffalo Toe)",
+        "type": "giant",
+        "country": "Indonesia",
+        "summary": "Balinese giant strongman who carved the island's rice terraces and irrigation systems",
+        "slug": "kebo-iwa-indonesian"
+      },
+      "story": {
+        "title": "The Mokele-mbembe and the Rainmaker",
+        "country": "Central African Republic",
+        "region": "Central Africa",
+        "summary": "During a devastating drought, a BaAka rainmaker journeys to the Likouala swamp to bargain with the Mokele-mbembe,...",
+        "slug": "the-mokele-mbembe-and-the-rainmaker"
+      }
+    },
+    "2026-08-27": {
+      "creature": {
+        "name": "Kim Qui (Golden Turtle God)",
+        "type": "deity",
+        "country": "Vietnam",
+        "summary": "Sacred golden turtle god who aided Vietnamese kings and serves as guardian of national sovereignty",
+        "slug": "kim-qui-vietnamese"
+      },
+      "story": {
+        "title": "The Eloko of the BaAka Forest",
+        "country": "Central African Republic",
+        "region": "Central Africa",
+        "summary": "A BaAka family traveling through the forest at dusk hears the laughter of an Eloko, a cannibal dwarf spirit, and must...",
+        "slug": "the-eloko-of-the-baaka-forest"
+      }
+    },
+    "2026-08-28": {
+      "creature": {
+        "name": "Khun Borom (Founder King of the Lao)",
+        "type": "culture-hero",
+        "country": "Laos",
+        "summary": "Divine king sent by the sky god to found the Lao nation and civilization",
+        "slug": "khun-borom-lao"
+      },
+      "story": {
+        "title": "The Eloko Who Wanted a Name",
+        "country": "Central African Republic",
+        "region": "Central Africa",
+        "summary": "A lonely Eloko spirit approaches a Gbaya village not to hunt but to ask for a human name, believing it will grant...",
+        "slug": "the-eloko-who-wanted-a-name"
+      }
+    },
+    "2026-08-29": {
+      "creature": {
+        "name": "Raven Spirit (Laotian)",
+        "type": "spirit",
+        "country": "Laos",
+        "summary": "A raven spirit from Laotian tradition that embodies the forest",
+        "slug": "raven-spirit-laotian"
+      },
+      "story": {
+        "title": "The Obambo That Would Not Cross",
+        "country": "Central African Republic",
+        "region": "Central Africa",
+        "summary": "When a man dies before completing his life's work, his Obambo ghost lingers at the river crossing between the world of...",
+        "slug": "the-obambo-that-would-not-cross"
+      }
+    },
+    "2026-08-30": {
+      "creature": {
+        "name": "Rùa",
+        "type": "animal-spirit",
+        "country": "Vietnam",
+        "summary": "Rùa is a animal spirit from the folklore and mythology of Vietnam.",
+        "slug": "r-a"
+      },
+      "story": {
+        "title": "The Werehyena of Bangui",
+        "country": "Central African Republic",
+        "region": "Central Africa",
+        "summary": "In the growing city of Bangui, a man discovers his quiet neighbor is a werehyena who shifts form at the new moon, and...",
+        "slug": "the-werehyena-of-bangui"
+      }
+    },
+    "2026-08-31": {
+      "creature": {
+        "name": "Rồng (Vietnamese Dragon)",
+        "type": "dragon",
+        "country": "Vietnam",
+        "summary": "Benevolent dragon associated with water, agriculture, and royalty",
+        "slug": "r-ng-vietnamese-dragon"
+      },
+      "story": {
+        "title": "Kianda and the Fisherman's Net",
+        "country": "Angola",
+        "region": "Central Africa",
+        "summary": "A water goddess of the Angolan coast tests a fisherman's humility by offering him a net that catches everything beneath...",
+        "slug": "kianda-and-the-fishermans-net"
+      }
+    },
+    "2026-09-01": {
+      "creature": {
+        "name": "High John the Conqueror",
+        "type": "folk-hero",
+        "country": "United States",
+        "summary": "High John the Conqueror is a trickster spirit and folk hero who embodies unbreakable resistance, bringing laughter and...",
+        "slug": "high-john-the-conqueror"
+      },
+      "story": {
+        "title": "Bushy Bride",
+        "country": "Norway",
+        "region": "Scandinavian",
+        "summary": "A man marries a woman who appears bushy and strange in form, much to the surprise of his family. However, her outward...",
+        "slug": "bushy-bride"
+      }
+    },
+    "2026-09-02": {
+      "creature": {
+        "name": "Haint",
+        "type": "spirit",
+        "country": "United States",
+        "summary": "A Haint is a restless spirit in African American folklore, often malevolent, repelled by the distinctive haint blue...",
+        "slug": "haint-ghost"
+      },
+      "story": {
+        "title": "The Cat on the Dovrefjell",
+        "country": "Norway",
+        "region": "Scandinavian",
+        "summary": "A youth journeys to the Dovrefjell mountains where he encounters a magical cat. The cat, acting as a guide, leads the...",
+        "slug": "the-cat-on-the-dovrefjell"
+      }
+    },
+    "2026-09-03": {
+      "creature": {
+        "name": "Cannibal Giants",
+        "type": "giant",
+        "country": "United States",
+        "summary": "giant cannibal beings from first nations traditions across canada that stalk northern forests preying on those who...",
+        "slug": "cannibalgiants-usa"
+      },
+      "story": {
+        "title": "Farmer Weathersky",
+        "country": "Norway",
+        "region": "Scandinavian",
+        "summary": "Farmer Weathersky possesses a unique ability to interact with the weather. When opportunistic neighbors try to exploit...",
+        "slug": "farmer-weathersky"
+      }
+    },
+    "2026-09-04": {
+      "creature": {
+        "name": "Cannibal Giants",
+        "type": "giant",
+        "country": "Canada",
+        "summary": "giant cannibal beings from first nations traditions across canada that stalk northern forests preying on those who...",
+        "slug": "cannibalgiants-canada"
+      },
+      "story": {
+        "title": "The Blue Belt",
+        "country": "Norway",
+        "region": "Scandinavian",
+        "summary": "A protagonist obtains a magical blue belt that grants superhuman strength and the ability to overcome impossible...",
+        "slug": "the-blue-belt"
+      }
+    },
+    "2026-09-05": {
+      "creature": {
+        "name": "Canyon People",
+        "type": "spirit",
+        "country": "United States",
+        "summary": "canyon-dwelling spirit beings from apache native american folklore who guard sacred sites in the southwest canyons",
+        "slug": "canyon-people"
+      },
+      "story": {
+        "title": "The Honest Penny",
+        "country": "Norway",
+        "region": "Scandinavian",
+        "summary": "A poor boy finds a money box but throws it away, believing it contains stolen wealth, keeping only one silver penny...",
+        "slug": "the-honest-penny"
+      }
+    },
+    "2026-09-06": {
+      "creature": {
+        "name": "Chindi",
+        "type": "ghost",
+        "country": "United States",
+        "summary": "Negative spiritual residue in Navajo belief that lingers after death and causes illness",
+        "slug": "chindi"
+      },
+      "story": {
+        "title": "Father Bruin in the Corner",
+        "country": "Norway",
+        "region": "Scandinavian",
+        "summary": "A humorous tale about Father Bruin, a bear who believes himself to be superior but is repeatedly tricked by the cunning...",
+        "slug": "father-bruin-in-the-corner"
+      }
+    },
+    "2026-09-07": {
+      "creature": {
+        "name": "Cougar Ancestor-Spirit of Cheyenne",
+        "type": "ancestor-spirit",
+        "country": "United States",
+        "summary": "cheyenne cougar ancestor-spirit guardian of great plains and warrior guide",
+        "slug": "cougar-ancestor-spirit-of-cheyenne"
+      },
+      "story": {
+        "title": "The Sheep and the Pig Who Set up House",
+        "country": "Norway",
+        "region": "Scandinavian",
+        "summary": "A sheep and a pig decide to partner up and create a household. The story follows their comedic attempts at domestic...",
+        "slug": "the-sheep-and-the-pig-who-set-up-house"
+      }
+    },
+    "2026-09-08": {
+      "creature": {
+        "name": "Cougar Animal-Spirit of Apache",
+        "type": "animal-spirit",
+        "country": "United States",
+        "summary": "apache cougar animal-spirit guardian of southwestern hunting grounds",
+        "slug": "cougar-animal-spirit-of-apache"
+      },
+      "story": {
+        "title": "Friends in Life and Death",
+        "country": "Norway",
+        "region": "Scandinavian",
+        "summary": "Two inseparable friends swear to remain loyal even after death. When one passes away, the other visits the grave and...",
+        "slug": "friends-in-life-and-death"
+      }
+    },
+    "2026-09-09": {
+      "creature": {
+        "name": "Cougar Animal-Spirit of Haida",
+        "type": "animal-spirit",
+        "country": "Canada",
+        "summary": "haida cougar animal-spirit guardian of pacific northwest forests and salmon streams",
+        "slug": "cougar-animal-spirit-of-haida"
+      },
+      "story": {
+        "title": "Three Years without Wages",
+        "country": "Norway",
+        "region": "Scandinavian",
+        "summary": "A youth serves a miserly master for three years without pay, receiving only a puppy, a kitten, and a lizard as his...",
+        "slug": "three-years-without-wages"
+      }
+    },
+    "2026-09-10": {
+      "creature": {
+        "name": "Cougar Animal-Spirit of Inuit",
+        "type": "animal-spirit",
+        "country": "Canada",
+        "summary": "inuit cougar animal-spirit guardian of arctic hunting grounds and natural balance",
+        "slug": "cougar-animal-spirit-of-inuit"
+      },
+      "story": {
+        "title": "The Epic of Geser Khan",
+        "country": "Mongolia",
+        "region": "Central Asian",
+        "summary": "Geser Khan is the central hero of one of the great Mongolian epics. Born as a runny-nosed, despised child on the...",
+        "slug": "the-epic-of-geser-khan"
+      }
+    },
+    "2026-09-11": {
+      "creature": {
+        "name": "Cougar Animal-Spirit of Maliseet",
+        "type": "animal-spirit",
+        "country": "Canada",
+        "summary": "maliseet cougar animal-spirit guardian of wolastoq river and northeastern forests",
+        "slug": "cougar-animal-spirit-of-maliseet"
+      },
+      "story": {
+        "title": "The Origin of the Horsehead Fiddle (Morin Khuur)",
+        "country": "Mongolia",
+        "region": "Central Asian",
+        "summary": "A shepherd named Namjil the Cuckoo from eastern Mongolia was drafted into military service on the western border. He...",
+        "slug": "the-origin-of-the-horsehead-fiddle-morin-khuur"
+      }
+    },
+    "2026-09-12": {
+      "creature": {
+        "name": "Cougar Animal-Spirit of Pomo",
+        "type": "animal-spirit",
+        "country": "United States",
+        "summary": "pomo cougar animal-spirit guardian of california oak woodlands and acorn groves",
+        "slug": "cougar-animal-spirit-of-pomo"
+      },
+      "story": {
+        "title": "The Golden Frog Creation Myth",
+        "country": "Mongolia",
+        "region": "Central Asian",
+        "summary": "In the beginning, the earth was submerged in a boundless ocean. When the lord of the universe, Buddha Sakyamuni, flew...",
+        "slug": "the-golden-frog-creation-myth"
+      }
+    },
+    "2026-09-13": {
+      "creature": {
+        "name": "Cougar Animal-Spirit of Ute",
+        "type": "animal-spirit",
+        "country": "United States",
+        "summary": "ute cougar animal-spirit guardian of rocky mountain passes and high valleys",
+        "slug": "cougar-animal-spirit-of-ute"
+      },
+      "story": {
+        "title": "Erkei-Mergen and the Seven Suns",
+        "country": "Mongolia",
+        "region": "Central Asian",
+        "summary": "Long ago, seven suns rose in the sky simultaneously, drying up all rivers and vegetation on earth. Men and animals...",
+        "slug": "erkei-mergen-and-the-seven-suns"
+      }
+    },
+    "2026-09-14": {
+      "creature": {
+        "name": "Cougar Deity of Cheyenne",
+        "type": "deity",
+        "country": "United States",
+        "summary": "Cougar spirit from Cheyenne tradition that embodies courage and leadership for warriors",
+        "slug": "cougar-deity-of-cheyenne"
+      },
+      "story": {
+        "title": "The Blue Wolf and the Fallow Doe: Ancestors of the Mongols",
+        "country": "Mongolia",
+        "region": "Central Asian",
+        "summary": "According to the Secret History of the Mongols, the Mongol people descend from a blue wolf (Börte Chino) and a fallow...",
+        "slug": "the-blue-wolf-and-the-fallow-doe-ancestors-of-the-mongols"
+      }
+    },
+    "2026-09-15": {
+      "creature": {
+        "name": "Cougar Deity of Maliseet",
+        "type": "deity",
+        "country": "Canada",
+        "summary": "Cougar deity from Maliseet tradition that guards the sky world and aids the culture hero Koluskap",
+        "slug": "cougar-deity-of-maliseet"
+      },
+      "story": {
+        "title": "The Legend of the Singing Sands of the Gobi",
+        "country": "Mongolia",
+        "region": "Central Asian",
+        "summary": "In the heart of the Gobi Desert lies the Khongoryn Els — the Singing Sands. According to Mongol legend, these massive...",
+        "slug": "the-legend-of-the-singing-sands-of-the-gobi"
+      }
+    },
+    "2026-09-16": {
+      "creature": {
+        "name": "Cougar Deity of Paiute",
+        "type": "deity",
+        "country": "United States",
+        "summary": "Cougar spirit from Paiute tradition that guards canyon passes and helped defeat the cannibalistic Nimerigar",
+        "slug": "cougar-deity-of-paiute"
+      },
+      "story": {
+        "title": "Mandukhai the Wise Queen",
+        "country": "Mongolia",
+        "region": "Central Asian",
+        "summary": "Mandukhai Khatun (also known as Mandukhai Sechen Khongorjin) was a 15th-century Mongol queen who reunified the...",
+        "slug": "mandukhai-the-wise-queen"
+      }
+    },
+    "2026-09-17": {
+      "creature": {
+        "name": "Cougar Ghost of Choctaw",
+        "type": "ghost",
+        "country": "United States",
+        "summary": "Cougar ghost from Choctaw tradition that guards river crossings and guides souls across waters",
+        "slug": "cougar-ghost-of-choctaw"
+      },
+      "story": {
+        "title": "The Deer Stone Legends",
+        "country": "Mongolia",
+        "region": "Central Asian",
+        "summary": "Across the Mongolian steppe stand ancient megalithic Deer Stones — carved monoliths dating back 3,000 years to the...",
+        "slug": "the-deer-stone-legends"
+      }
+    },
+    "2026-09-18": {
+      "creature": {
+        "name": "Cougar Ghost of Lakota",
+        "type": "ghost",
+        "country": "United States",
+        "summary": "Cougar ghost from Lakota tradition that guards sacred desert sites and aids solitary warriors",
+        "slug": "cougar-ghost-of-lakota"
+      },
+      "story": {
+        "title": "Erlig Khan and the Palace of the Dead",
+        "country": "Mongolia",
+        "region": "Central Asian",
+        "summary": "Erlig Khan (also Erlik Khan) is the Mongol and Turkic god of death and ruler of the underworld. In one of the most...",
+        "slug": "erlig-khan-and-the-palace-of-the-dead"
+      }
+    },
+    "2026-09-19": {
+      "creature": {
+        "name": "Cougar Giant of Choctaw",
+        "type": "giant",
+        "country": "United States",
+        "summary": "Cougar giant from Choctaw tradition that dwells beneath Nanih Waiya and guards the underworld passage",
+        "slug": "cougar-giant-of-choctaw"
+      },
+      "story": {
+        "title": "Genghis Khan and the Golden Whip",
+        "country": "Mongolia",
+        "region": "Central Asian",
+        "summary": "According to Mongol legend, the young Temüjin (later Genghis Khan) was riding alone in the steppe when he discovered a...",
+        "slug": "genghis-khan-and-the-golden-whip"
+      }
+    },
+    "2026-09-20": {
+      "creature": {
+        "name": "Cougar Giant of Kwakiutl",
+        "type": "giant",
+        "country": "Canada",
+        "summary": "Cougar giant from Kwakiutl tradition that guards coastal cliffs and cedar forests of British Columbia",
+        "slug": "cougar-giant-of-kwakiutl"
+      },
+      "story": {
+        "title": "The Epic of Jangar",
+        "country": "Mongolia",
+        "region": "Central Asian",
+        "summary": "Jangar is a heroic epic of the Oirat Mongols (Kalmyks), comprising hundreds of thousands of lines. The epic describes...",
+        "slug": "the-epic-of-jangar"
+      }
+    },
+    "2026-09-21": {
+      "creature": {
+        "name": "Cougar Giant of Shoshone",
+        "type": "giant",
+        "country": "United States",
+        "summary": "Cougar giant from Shoshone tradition that guards mountain passes and helped defeat the Nimerigar",
+        "slug": "cougar-giant-of-shoshone"
+      },
+      "story": {
+        "title": "Korkut Ata and the Search for Immortality",
+        "country": "Kazakhstan",
+        "region": "Central Asian",
+        "summary": "Korkut Ata (also Dede Korkut) is the legendary father of Kazakh music and the creator of the kobyz (horsehair string...",
+        "slug": "korkut-ata-and-the-search-for-immortality"
+      }
+    },
+    "2026-09-22": {
+      "creature": {
+        "name": "Cougar Giant of Ute",
+        "type": "giant",
+        "country": "United States",
+        "summary": "Cougar giant from Ute tradition that guards underground passages and sacred hot springs",
+        "slug": "cougar-giant-of-ute"
+      },
+      "story": {
+        "title": "Alpamysh Batyr",
+        "country": "Kazakhstan",
+        "region": "Central Asian",
+        "summary": "Alpamysh (Alpamıs in Kazakh) is one of the most important Turkic epic heroes, shared across Kazakh, Uzbek, Karakalpak,...",
+        "slug": "alpamysh-batyr"
+      }
+    },
+    "2026-09-23": {
+      "creature": {
+        "name": "Cougar Guardian of Creek",
+        "type": "guardian",
+        "country": "United States",
+        "summary": "Cougar guardian from Creek tradition that protects oceans and serves the Panther medicine clan",
+        "slug": "cougar-guardian-of-creek"
+      },
+      "story": {
+        "title": "Qozy Körpesh and Bayan Sulu",
+        "country": "Kazakhstan",
+        "region": "Central Asian",
+        "summary": "The oldest Kazakh love dastan, dating back over 1,500 years to the era of the Türgesh Khaganate. Qozy and Bayan are...",
+        "slug": "qozy-krpesh-and-bayan-sulu"
+      }
+    },
+    "2026-09-24": {
+      "creature": {
+        "name": "Cougar Nature-Spirit (Kikuyu)",
+        "type": "nature-spirit",
+        "country": "United States",
+        "summary": "a territorial guardian spirit from kikuyu folklore that regulates the boundary between cultivated lands and wild nature",
+        "slug": "cougarnaturespiritkikuyu-usa"
+      },
+      "story": {
+        "title": "The Legend of Asan Kaighy and the Promised Land",
+        "country": "Kazakhstan",
+        "region": "Central Asian",
+        "summary": "Asan Kaighy ('Asan the Sorrowful') is a legendary figure said to have lived during the reign of Kazakh Khan Janibek in...",
+        "slug": "the-legend-of-asan-kaighy-and-the-promised-land"
+      }
+    },
+    "2026-09-25": {
+      "creature": {
+        "name": "Cougar Nature-Spirit of Haida",
+        "type": "nature-spirit",
+        "country": "Canada",
+        "summary": "a mountain guardian spirit from haida mythology that protects the forests and watersheds of haida gwaii",
+        "slug": "cougar-nature-spirit-of-haida"
+      },
+      "story": {
+        "title": "The Story of Ablai Khan",
+        "country": "Kazakhstan",
+        "region": "Central Asian",
+        "summary": "Ablai Khan (1711-1781) was one of the greatest Kazakh khans, who united the three Kazakh zhuzes (hordes) and led the...",
+        "slug": "the-story-of-ablai-khan"
+      }
+    },
+    "2026-09-26": {
+      "creature": {
+        "name": "Cougar Nature-Spirit of Inuit",
+        "type": "nature-spirit",
+        "country": "Canada",
+        "summary": "a cave-dwelling nature spirit from inuit tradition that guards hidden wisdom beneath the arctic landscape",
+        "slug": "cougar-nature-spirit-of-inuit"
+      },
+      "story": {
+        "title": "The Legend of Alasha Khan and the Three Zhuzes",
+        "country": "Kazakhstan",
+        "region": "Central Asian",
+        "summary": "Long ago, a khan's son was born with a brindled (striped) appearance. Ashamed, the khan ordered the child abandoned in...",
+        "slug": "the-legend-of-alasha-khan-and-the-three-zhuzes"
+      }
+    },
+    "2026-09-27": {
+      "creature": {
+        "name": "Cougar Nature-Spirit of Maliseet",
+        "type": "nature-spirit",
+        "country": "Canada",
+        "summary": "an underground forest spirit from maliseet tradition that guards the root networks and medicinal plants of the acadian...",
+        "slug": "cougar-nature-spirit-of-maliseet"
+      },
+      "story": {
+        "title": "Aldar Qose the Trickster",
+        "country": "Kazakhstan",
+        "region": "Central Asian",
+        "summary": "Aldar Qose is the beloved Kazakh trickster figure, analogous to Nasreddin Hodja in other Turkic traditions. He is a...",
+        "slug": "aldar-qose-the-trickster"
+      }
+    },
+    "2026-09-28": {
+      "creature": {
+        "name": "Cougar Trickster of Kwakiutl",
+        "type": "trickster",
+        "country": "Canada",
+        "summary": "a forest trickster spirit from kwakwaka_wakw tradition that tests initiates and guards ceremonial knowledge",
+        "slug": "cougar-trickster-of-kwakiutl"
+      },
+      "story": {
+        "title": "The Forty Robbers of the Steppe (Kirk Kazak)",
+        "country": "Kazakhstan",
+        "region": "Central Asian",
+        "summary": "The legend of the 'Forty Kazakhs' (Kirk Kazak) tells of forty exiled warriors who formed a brotherhood on the Kazakh...",
+        "slug": "the-forty-robbers-of-the-steppe-kirk-kazak"
+      }
+    },
+    "2026-09-29": {
+      "creature": {
+        "name": "Cougar Trickster of Pomo",
+        "type": "trickster",
+        "country": "United States",
+        "summary": "a forest trickster from pomo tradition that teaches survival skills through deception and credited with bringing fire...",
+        "slug": "cougar-trickster-of-pomo"
+      },
+      "story": {
+        "title": "The Epic of Manas: The Birth of the Hero",
+        "country": "Kyrgyzstan",
+        "region": "Central Asian",
+        "summary": "The Epic of Manas is the longest epic poem in the world (500,000+ lines), central to Kyrgyz national identity. Manas...",
+        "slug": "the-epic-of-manas-the-birth-of-the-hero"
+      }
+    },
+    "2026-09-30": {
+      "creature": {
+        "name": "Cougar Water-Spirit of Apache",
+        "type": "water-spirit",
+        "country": "United States",
+        "summary": "a water-guardian spirit from apache tradition that protects sacred lakes and springs in the american southwest",
+        "slug": "cougar-water-spirit-of-apache"
+      },
+      "story": {
+        "title": "Manas: The Great Campaign and Death of the Hero",
+        "country": "Kyrgyzstan",
+        "region": "Central Asian",
+        "summary": "The second major cycle of the Manas epic describes how Manas united the forty Kyrgyz tribes under the Tengrist...",
+        "slug": "manas-the-great-campaign-and-death-of-the-hero"
+      }
+    },
+    "2026-10-01": {
+      "creature": {
+        "name": "Humans Denmark",
+        "type": "spirit",
+        "country": "Denmark",
+        "summary": "Ordinary humans from Danish folklore and the Molbo stories whose common sense drives comic tales.",
+        "slug": "humans-denmark"
+      },
+      "story": {
+        "title": "Lạc Long Quân and Âu Cơ",
+        "country": "Vietnam",
+        "region": "Southeast Asia",
+        "summary": "In the mountains of Papua New Guinea, where the jungle is so dense that villages can be separated by a day's walk and...",
+        "slug": "lc-long-qun-and-u-c"
+      }
+    },
+    "2026-10-02": {
+      "creature": {
+        "name": "Hel Goddess Denmark",
+        "type": "deity",
+        "country": "Iceland",
+        "summary": "Hel is the ruler of the underworld in Norse mythology, daughter of Loki and the giantess Angrboða. She presides over...",
+        "slug": "hel-goddess-denmark"
+      },
+      "story": {
+        "title": "Thanh Gióng the Giant Saint",
+        "country": "Vietnam",
+        "region": "Southeast Asia",
+        "summary": "In the folklore of the Philippines, there is a creature that every child learns about before they can walk.",
+        "slug": "thanh-ging-the-giant-saint"
+      }
+    },
+    "2026-10-03": {
+      "creature": {
+        "name": "Eynhallow Monk",
+        "type": "human",
+        "country": "United Kingdom",
+        "summary": "The Eynhallow Monk is a figure from Orcadian folklore associated with the island of Eynhallow in Orkney, Scotland. The...",
+        "slug": "eynhallow-monk"
+      },
+      "story": {
+        "title": "Son Tinh and Thuy Tinh",
+        "country": "Vietnam",
+        "region": "Southeast Asia",
+        "summary": "In the mountains of Japan, where the bamboo forests rustle with secrets and the old Shinto shrines stand weathered by...",
+        "slug": "son-tinh-and-thuy-tinh"
+      }
+    },
+    "2026-10-04": {
+      "creature": {
+        "name": "Selkies Iceland",
+        "type": "shapeshifter",
+        "country": "Iceland",
+        "summary": "Selkies are mythological beings from Icelandic and Norse folklore who live as seals in the sea but shed their skins to...",
+        "slug": "selkies-iceland"
+      },
+      "story": {
+        "title": "Barong and Rangda",
+        "country": "Indonesia",
+        "region": "Southeast Asia",
+        "summary": "On the Caribbean island of Trinidad, where the heat is thick enough to drink and the nights pulse with the music of...",
+        "slug": "barong-and-rangda"
+      }
+    },
+    "2026-10-05": {
+      "creature": {
+        "name": "Pichal Peri",
+        "type": "fairy",
+        "country": "Germany",
+        "summary": "Pichal Peri (also known as the White Ladies) are Sorbian mythological beings from Slavic folklore in eastern Germany....",
+        "slug": "pichal-peri"
+      },
+      "story": {
+        "title": "Calon Arang the Witch",
+        "country": "Indonesia",
+        "region": "Southeast Asia",
+        "summary": "Before the Maori arrived in New Zealand, the islands were already inhabited by mysterious beings whose stories predate...",
+        "slug": "calon-arang-the-witch"
+      }
+    }
+  }
+}

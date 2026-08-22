@@ -97,6 +97,15 @@
       })
   }
 
+  function todayKey() {
+    const now = new Date()
+    return [
+      now.getFullYear(),
+      String(now.getMonth() + 1).padStart(2, '0'),
+      String(now.getDate()).padStart(2, '0'),
+    ].join('-')
+  }
+
   function initDailyFeature() {
     const creatures = window.__CREATURES_DATA
     const stories = window.__STORIES_DATA
@@ -106,6 +115,28 @@
       return
     }
 
+    // Fast path: precomputed picks (~30KB) instead of scanning every shard
+    const utils = window.__sharedUtils
+    if (utils && utils.fetchJSON) {
+      utils
+        .fetchJSON('data/datasets/daily.json')
+        .then(function (daily) {
+          const pick =
+            daily && daily.picks ? daily.picks[todayKey()] : null
+          if (pick && pick.creature && pick.story) {
+            renderDailyFeature([pick.creature], [pick.story])
+            return
+          }
+          loadViaShimmer()
+        })
+        .catch(loadViaShimmer)
+      return
+    }
+
+    loadViaShimmer()
+  }
+
+  function loadViaShimmer() {
     // Try shimmer (must wait for manifest to load first)
     const sh = window.__sharedUtils && window.__sharedUtils.Shimmer
     if (sh) {
@@ -119,8 +150,8 @@
             loadFromDatasets(renderDailyFeature)
             return
           }
-          sh.loadAllShards('stories', function (err, s) {
-            if (err || !s || !s.length) {
+          sh.loadAllShards('stories', function (err2, s) {
+            if (err2 || !s || !s.length) {
               loadFromDatasets(renderDailyFeature)
               return
             }
