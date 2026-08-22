@@ -2728,7 +2728,8 @@ footer p {
   background: linear-gradient(180deg, var(--bg-surface) 0%, var(--bg-deep) 50%, #faf8f4 100%);
 }
 
-.theme-toggle {
+.theme-toggle,
+.lang-toggle {
   background: none;
   border: 1px solid var(--text-secondary);
   border-radius: 4px;
@@ -2739,13 +2740,15 @@ footer p {
   transition: color 0.2s, border-color 0.2s;
   line-height: 0;
 }
-.theme-toggle:hover {
+.theme-toggle:hover,
+.lang-toggle:hover {
   color: var(--text-primary);
   border-color: var(--text-primary);
   opacity: 1;
 }
 
-.theme-toggle:active {
+.theme-toggle:active,
+.lang-toggle:active {
   transform: scale(0.95);
 }
 /* ── Scroll-to-top button ── */
@@ -3564,7 +3567,7 @@ footer p {
   header, footer, nav, .grain-overlay, .scroll-to-top,
   .rune-scatter, .hero-actions, .hero-stats, .hero-feature-pill,
   .filter-bar, .bestiary-sidebar, .globe-section, .daily-feature,
-  .quiz-controls-row, .theme-toggle, .skip-link,
+  .quiz-controls-row, .theme-toggle, .lang-toggle, .skip-link,
   .load-more-container, .btn-load-more, .section-divider,
   #rune-canvas, script, link[rel="manifest"] {
     display: none !important;
@@ -3613,5 +3616,66 @@ footer p {
     position: static !important;
     display: block !important;
   }
+}
+
+/* ── Language toggle + menu ── */
+.lang-toggle {
+  margin-left: 0.4rem;
+}
+
+.language-menu {
+  position: absolute;
+  z-index: 1000;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 0.4rem;
+  max-height: min(70vh, 480px);
+  overflow-y: auto;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
+}
+
+.language-menu-heading {
+  font-family: var(--font-display);
+  font-size: 0.7rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--text-secondary);
+  padding: 0.5rem 0.6rem 0.2rem;
+}
+
+.language-menu [role='menuitem'] {
+  display: block;
+  width: 100%;
+  text-align: left;
+  background: none;
+  border: none;
+  color: var(--text-primary);
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+  padding: 0.35rem 0.6rem;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.language-menu [role='menuitem']:hover {
+  background: rgba(var(--accent-rgb), 0.25);
+}
+
+.language-menu [role='menuitem'].is-active {
+  color: var(--accent-strong);
+  font-weight: bold;
+}
+
+/* Hide every piece of Google's own translate UI */
+.skiptranslate,
+#goog-gt-tt,
+.goog-te-banner-frame,
+.goog-te-gadget-icon,
+iframe.goog-te-menu-frame {
+  display: none !important;
+}
+body {
+  top: 0 !important;
 }
 
