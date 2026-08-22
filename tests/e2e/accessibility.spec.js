@@ -138,6 +138,33 @@ test.describe('Accessibility (axe)', () => {
         route.fulfill({ status: 200, contentType: 'application/javascript', body: '' });
       }
     });
+
+    // Hermetic Google Translate: the language toggle only loads element.js on
+    // click, but if a future change preloads it, an unreachable CDN must not
+    // wedge pages or inject unscannable chrome. Stub defines an inert
+    // TranslateElement that adds a hidden combo select (no visible DOM).
+    const gtStub =
+      'window.google = window.google || {}; ' +
+      'window.google.translate = window.google.translate || {}; ' +
+      'window.google.translate.TranslateElement = function (cfg, id) {' +
+      '  var c = document.getElementById(id);' +
+      '  if (c && !c.querySelector("select")) {' +
+      '    var s = document.createElement("select");' +
+      '    s.className = "goog-te-combo";' +
+      '    s.hidden = true;' +
+      '    c.appendChild(s);' +
+      '  }' +
+      '};' +
+      'window.google.translate.TranslateElement.InlineLayout = { SIMPLE: "SIMPLE" };';
+    await page.route('**/translate.google.com/**', (route) =>
+      route.fulfill({ status: 200, contentType: 'application/javascript', body: gtStub })
+    );
+    await page.route('**/translate.googleapis.com/**', (route) =>
+      route.fulfill({ status: 200, contentType: 'application/javascript', body: '' })
+    );
+    await page.route('**/translate-pa.googleapis.com/**', (route) =>
+      route.fulfill({ status: 200, contentType: 'application/javascript', body: '' })
+    );
   });
 
   for (const vp of VIEWPORTS) {

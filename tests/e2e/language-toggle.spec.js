@@ -1,0 +1,137 @@
+/* eslint-env node */
+const { test, expect } = require('@playwright/test')
+
+const BASE = 'http://localhost:3000'
+
+// Hermetic Google Translate: element.js is stubbed so the suite never touches
+// the real (deprecated) CDN. The stub records init config on window.__gtCalls
+// and creates the hidden combo select our applyLanguage() drives, so the full
+// user path (menu click → cookie → combo change) is exercised deterministically.
+test.describe('language toggle', () => {
+  test.beforeEach(async ({ page }) => {
+    test.skip(test.info().project.name !== 'chromium', 'chromium-only suite')
+
+    const gtStub =
+      'window.__gtCalls = []; ' +
+      'window.google = { translate: { TranslateElement: function (cfg, id) {' +
+      '  window.__gtCalls.push({ cfg: cfg, id: id });' +
+      '  var c = document.getElementById(id);' +
+      '  if (c) { var s = document.createElement("select"); s.className = "goog-te-combo"; c.appendChild(s); }' +
+      '} } };' +
+      'window.google.translate.TranslateElement.InlineLayout = { SIMPLE: "SIMPLE" };' +
+      // real element.js invokes the cb constant after defining its API
+      'if (typeof window.__languageToggleInit === "function") window.__languageToggleInit();'
+    await page.route('**/translate.google.com/**', (route) =>
+      route.fulfill({ status: 200, contentType: 'application/javascript', body: gtStub })
+    )
+    await page.route('**/translate.googleapis.com/**', (route) =>
+      route.fulfill({ status: 200, contentType: 'application/javascript', body: '' })
+    )
+    await page.route('**/translate-pa.googleapis.com/**', (route) =>
+      route.fulfill({ status: 200, contentType: 'application/javascript', body: '' })
+    )
+
+    await page.goto(`${BASE}/index.html`, { waitUntil: 'load', timeout: 20000 })
+  })
+
+  test('toggle matches theme toggle size and sits below it in DOM order', async ({
+    page,
+  }) => {
+    const tt = await page.locator('#theme-toggle').boundingBox()
+    const lt = await page.locator('#lang-toggle').boundingBox()
+    expect(Math.abs(tt.height - lt.height)).toBeLessThanOrEqual(2)
+    expect(Math.abs(tt.width - lt.width)).toBeLessThanOrEqual(2)
+    // header is a non-wrapping flex row: side-by-side, vertically aligned
+    expect(Math.abs(tt.y - lt.y)).toBeLessThanOrEqual(4)
+    const prevId = await page.evaluate(() => {
+      var el = document.getElementById('lang-toggle')
+      return el.previousElementSibling && el.previousElementSibling.id
+    })
+    expect(prevId).toBe('theme-toggle')
+  })
+
+  test('menu lists region headings and every language exactly once', async ({
+    page,
+  }) => {
+    await page.click('#lang-toggle')
+    await expect(page.locator('#language-menu')).toBeVisible()
+    await expect(page.locator('#language-menu [data-code="sv"]')).toHaveText(
+      'Svenska'
+    )
+    const codes = await page.$$eval('#language-menu [data-code]', (els) =>
+      els.map((e) => e.getAttribute('data-code'))
+    )
+    expect(codes[0]).toBe('')
+    const unique = new Set(codes.slice(1))
+    expect(unique.size).toBe(codes.length - 1)
+    expect(unique.size).toBeGreaterThanOrEqual(40)
+    const headings = await page.$$eval(
+      '#language-menu .language-menu-heading',
+      (els) => els.length
+    )
+    expect(headings).toBeGreaterThanOrEqual(8)
+    await page.keyboard.press('Escape')
+    await expect(page.locator('#language-menu')).toBeHidden()
+  })
+
+  test('choosing Swedish warms GT, sets googtrans cookie, drives combo', async ({
+    page,
+  }) => {
+    await page.click('#lang-toggle')
+    await page.click('#language-menu [data-code="sv"]')
+    const cookie = await page.evaluate(() => document.cookie)
+    expect(cookie).toContain('googtrans=/en/sv')
+    // GT init is async even stubbed: script inject → callback → combo appears
+    await expect
+      .poll(() =>
+        page.evaluate(() => {
+          const sel = document.querySelector(
+            '#google_translate_element select.goog-te-combo'
+          )
+          return sel ? sel.value : null
+        })
+      )
+      .toBe('sv')
+    const calls = await page.evaluate(() => window.__gtCalls)
+    expect(calls.length).toBe(1)
+    expect(calls[0].cfg.pageLanguage).toBe('en')
+    expect(calls[0].cfg.autoDisplay).toBe(false)
+    expect(calls[0].cfg.includedLanguages.split(',')).toContain('sv')
+  })
+
+  test('Original clears cookie and resets combo after switching', async ({
+    page,
+  }) => {
+    await page.click('#lang-toggle')
+    await page.click('#language-menu [data-code="sv"]')
+    await page.click('#lang-toggle') // choose() rebuilds menu lazily
+    await page.click('#language-menu [data-code=""]')
+    const cleared = await page.evaluate(() =>
+      document.cookie.includes('googtrans=')
+    )
+    expect(cleared).toBe(false)
+    await expect
+      .poll(() =>
+        page.evaluate(() => {
+          const sel = document.querySelector(
+            '#google_translate_element select.goog-te-combo'
+          )
+          return sel ? sel.value : null
+        })
+      )
+      .toBe('')
+  })
+
+  test('choice persists across navigation via cookie restore', async ({
+    page,
+  }) => {
+    await page.click('#lang-toggle')
+    await page.click('#language-menu [data-code="de"]')
+    await page.goto(`${BASE}/about.html`, { waitUntil: 'load', timeout: 20000 })
+    const restored = await page.evaluate(() => {
+      const m = document.cookie.match(/googtrans=\/en\/([A-Za-z-]+)/)
+      return m ? m[1] : null
+    })
+    expect(restored).toBe('de')
+  })
+})
