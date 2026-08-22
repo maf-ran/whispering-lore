@@ -10,6 +10,8 @@
 
 **Spec:** `docs/superpowers/specs/2026-08-21-accessibility-pass-design.md`
 
+> **Execution outcome (Aug 21):** Tasks 2/3 skipped — baseline showed color-contrast violations only, so their condition-gated recipes had no drivers. Task 5 triage empty (zero exclusions needed). Final gate: 25 tests green, EXCLUSIONS `{}`.
+
 **Verified facts:**
 - Deep-link slugs: creature `troll-norway`, story `ragnark-the-end-and-rebirth`, item `mjolnir`.
 - Existing e2e style: `require('@playwright/test')`, absolute URLs `http://localhost:3000/...`, `waitUntil: 'load'` with 15-20s timeouts.
