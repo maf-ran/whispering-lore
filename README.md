@@ -15,13 +15,13 @@ npm ci
 npm run lint
 npm run format
  
-# Run unit tests (172 tests, 13 suites)
+# Run unit tests (175 tests, 14 suites)
 npm test
 
 # Run cross-device E2E tests (80 tests, 8 viewports)
 npx playwright test tests/e2e/cross-device-audit.spec.js --project=chromium
 
-# Run full E2E suite (414 tests, chromium)
+# Run full E2E suite (462 tests, chromium — includes the axe accessibility gate)
 npx playwright test --project=chromium
 ```
 
@@ -29,7 +29,9 @@ npx playwright test --project=chromium
 - **Shimmer Lazy Shard System**: Manifest-driven data loading (~20MB data split into region-based shards, loaded on demand).
 - **Dynamic Lore Stats**: Real-time counts for creatures, stories, and regions.
 - **User Lore-Box**: Persistent Favorites and Bookmarks using `localStorage`.
-- **Personal Archive**: Dedicated `mylore.html` page for saved entries.
+- **Personal Archive**: Dedicated `mylore.html` page for saved entries, with export/import.
+- **Full-Text Search**: `/search.html` searches all three datasets (creatures, stories, items) with deep links into each viewer.
+- **Text-to-Speech**: Listen buttons narrate creature/story/item pages via the Web Speech API; narration stops when the overlay closes.
 - **Story Recommendations**: Automated discovery of similar tales.
 - **Dynamic Latest**: Real-time "Latest Additions" feed on the homepage with XHR fallback.
 - **Offline-First**: Service Worker caching for full offline access.
@@ -53,15 +55,15 @@ For Playwright e2e runs, use a threaded server instead (the single-threaded
  
 | Directory | Purpose |
 |-----------|---------|
-| `*.html` | Static pages (index, bestiary, stories, world, about, mylore, quiz, methodology, 404) |
+| `*.html` | Static pages (index, bestiary, stories, items, search, world, about, mylore, quiz, methodology, 404) |
 | `css/styles.css` | Dark Nordic theme (Bone & Ash palette) |
-| `js/` | Vanilla JavaScript — 14 modules (see below) |
+| `js/` | Vanilla JavaScript — 17 modules (see below) |
 | `data/datasets/` | Creature (3,668) and story (2,185) JSON datasets |
 | `data/datasets/by-region/` | Region-split creature JSONs (32 regions, stale — superseded by sharded/) |
 | `data/sharded/` | Shimmer shard system — manifest + region-based shards |
 | `data/geo-countries.json` | 242 country geodata for world map |
 | `docs/` | Project documentation |
-| `tests/` | Jest unit tests (172 tests, 13 suites) + Playwright E2E (9 spec files) |
+| `tests/` | Jest unit tests (175 tests, 14 suites) + Playwright E2E (10 spec files, incl. axe accessibility gate) |
 | `sw.js` | Service worker for offline caching |
 
 ### JavaScript modules (`js/`)
@@ -71,6 +73,9 @@ For Playwright e2e runs, use a threaded server instead (the single-threaded
 | `main.js` | Shared entry point — nav, scroll, theme, gold particles, daily feature |
 | `creatures-viewer.js` | Bestiary page — search, sort, facet filters, lazy shard loading |
 | `stories-viewer.js` | Stories page — search, sort, facet filters, lazy shard loading |
+| `items-viewer.js` | Items page — legendary object cards, detail overlays with TTS narration |
+| `search-viewer.js` | `/search` page — full-text search across all datasets with deep links |
+| `seo-entity.js` | JSON-LD structured data injection for entities |
 | `viewer-base.js` | Shared viewer logic (sort, filter, pagination) |
 | `shared-utils.js` | DOM helpers, slug utilities, debounce, shared state |
 | `daily-feature.js` | Daily creature and story selection |
@@ -104,7 +109,7 @@ For Playwright e2e runs, use a threaded server instead (the single-threaded
 npm test
 ```
 
-13 suites: creatures viewer, stories viewer, quiz engine, daily feature, shared utils, globe, citations, region glyphs, viewer base, theme toggle, items data, items viewer, shimmer. **172/172 pass.**
+14 suites: creatures viewer, stories viewer, quiz engine, daily feature, shared utils, globe, citations, region glyphs, viewer base, theme toggle, items data, items viewer, shimmer, viewer narration (TTS). **175/175 pass.**
 
 ### Cross-device E2E (Playwright)
 
@@ -120,7 +125,7 @@ npx playwright test tests/e2e/cross-device-audit.spec.js --project=chromium
 npx playwright test --project=chromium
 ```
 
-**414/414 pass** (~6 min). Covers navigation, skip links, filter dropdowns, detail overlays, quiz flows, world globe, hero stats, rune canvas, daily feature, items viewer, and inline-SVG iconography.
+**462/462 pass** (~7 min). Covers navigation, skip links, filter dropdowns, detail overlays, quiz flows, world globe, hero stats, rune canvas, daily feature, items viewer, inline-SVG iconography, the `/search` page, and a zero-violation axe accessibility gate (10 pages × 2 viewports + detail overlays + search state, Ko-fi widget mocked hermetically).
 
 ## Notes
  
