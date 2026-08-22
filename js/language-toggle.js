@@ -89,6 +89,7 @@
     })
 
     document.body.appendChild(menu)
+    menu.addEventListener('keydown', onMenuKeydown)
   }
 
   function positionMenu() {
@@ -98,11 +99,43 @@
     menu.style.right = Math.max(8, right) + 'px'
   }
 
+  function menuItems() {
+    return Array.prototype.slice.call(
+      menu.querySelectorAll('[data-code]')
+    )
+  }
+
   function openMenu() {
     if (!menu) buildMenu()
     positionMenu()
     menu.hidden = false
     btn.setAttribute('aria-expanded', 'true')
+    // Menu pattern: focus enters the menu, landing on the active language.
+    var target = menu.querySelector('[data-code].is-active') || menu.querySelector('[data-code]')
+    if (target) target.focus()
+  }
+
+  function onMenuKeydown(e) {
+    if (!menu || menu.hidden) return
+    var items = menuItems()
+    if (!items.length) return
+    var idx = items.indexOf(document.activeElement)
+    if (e.key === 'ArrowDown') {
+      e.preventDefault()
+      items[(idx + 1) % items.length].focus()
+    } else if (e.key === 'ArrowUp') {
+      e.preventDefault()
+      items[(idx - 1 + items.length) % items.length].focus()
+    } else if (e.key === 'Home') {
+      e.preventDefault()
+      items[0].focus()
+    } else if (e.key === 'End') {
+      e.preventDefault()
+      items[items.length - 1].focus()
+    } else if (e.key === 'Tab') {
+      // Tab leaves the menu; close it and let natural order resume.
+      closeMenu(false)
+    }
   }
 
   function closeMenu(refocus) {

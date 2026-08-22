@@ -107,6 +107,45 @@ describe('languageToggle UI', function () {
     LT.clearGoogtrans();
   });
 
+  test('open focuses the active item (or first), arrows cycle, Tab closes', function () {
+    var btn = document.getElementById('lang-toggle');
+    btn.click();
+    var items = document.querySelectorAll('#language-menu [data-code]');
+    expect(document.activeElement).toBe(items[0]); // Original, nothing active yet
+
+    items[1].focus();
+    document.activeElement.dispatchEvent(
+      new KeyboardEvent('keydown', { key: 'ArrowDown', bubbles: true })
+    );
+    expect(document.activeElement).toBe(items[2]);
+
+    document.activeElement.dispatchEvent(
+      new KeyboardEvent('keydown', { key: 'ArrowUp', bubbles: true })
+    );
+    document.activeElement.dispatchEvent(
+      new KeyboardEvent('keydown', { key: 'ArrowUp', bubbles: true })
+    );
+    expect(document.activeElement).toBe(items[0]); // wraps to first
+
+    document.activeElement.dispatchEvent(
+      new KeyboardEvent('keydown', { key: 'Tab', bubbles: true })
+    );
+    expect(document.getElementById('language-menu').hidden).toBe(true);
+  });
+
+  test('open lands on the marked active language when one is stored', function () {
+    LT._resetForTests();
+    document.body.innerHTML =
+      '<header><nav id="site-nav"></nav><button class="theme-toggle" id="theme-toggle"></button></header>';
+    LT.setGoogtrans('fr');
+    LT.initUI();
+    var fr = document.querySelector('#language-menu [data-code="fr"]');
+    expect(fr.classList.contains('is-active')).toBe(true);
+    document.getElementById('lang-toggle').click();
+    expect(document.activeElement).toBe(fr);
+    LT.clearGoogtrans();
+  });
+
   test('Escape closes an open menu and returns focus to the button', function () {
     var btn = document.getElementById('lang-toggle');
     var menu = document.getElementById('language-menu');
