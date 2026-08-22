@@ -151,6 +151,10 @@
     buildMenu()
     document.addEventListener('keydown', onDocKeydown)
     document.addEventListener('click', onDocClick)
+
+    // Auto-restore: a stored googtrans cookie only translates once element.js
+    // is loaded, so returning visitors get their language back without a click.
+    if (readGoogtrans()) ensureTranslate().catch(function () {})
   }
 
   var gtPromise = null

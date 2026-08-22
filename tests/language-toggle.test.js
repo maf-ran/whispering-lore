@@ -95,6 +95,18 @@ describe('languageToggle UI', function () {
     expect(codes.slice(1).sort()).toEqual(LT.allCodes().sort());
   });
 
+  test('auto-restores translation when googtrans cookie pre-exists', function () {
+    LT._resetForTests();
+    document.body.innerHTML =
+      '<header><nav id="site-nav"></nav><button class="theme-toggle" id="theme-toggle"></button></header>';
+    LT.setGoogtrans('de');
+    LT.initUI();
+    expect(
+      document.querySelector('script[src*="translate.google.com"]')
+    ).toBeTruthy();
+    LT.clearGoogtrans();
+  });
+
   test('Escape closes an open menu and returns focus to the button', function () {
     var btn = document.getElementById('lang-toggle');
     var menu = document.getElementById('language-menu');
