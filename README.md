@@ -2,7 +2,7 @@
 
 > A folklore archive: 3,668 creatures, 2,185 stories, 641 legendary items from 212 countries.
 
-**Design system:** see [DESIGN.md](DESIGN.md) — Bone & Ash palette, typography, components, theming rules. — Getting Started
+**Design system:** see [DESIGN.md](DESIGN.md) — Bone & Ash palette, typography, components, theming rules.
 
 ## Prerequisites
 
