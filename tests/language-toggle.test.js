@@ -50,3 +50,70 @@ describe('languageToggle data', function () {
     expect(LT.readGoogtrans()).toBeNull();
   });
 })
+
+describe('languageToggle UI', function () {
+  var LT;
+
+  beforeEach(function () {
+    document.body.innerHTML = '<header><nav id="site-nav"></nav><button class="theme-toggle" id="theme-toggle" aria-label="Toggle light/dark mode"></button></header>';
+    LT = window.__languageToggle;
+    LT.initUI();
+  });
+
+  afterEach(function () {
+    LT._resetForTests();
+    document.body.innerHTML = '';
+  });
+
+  test('injects square button directly below the theme toggle', function () {
+    var btn = document.getElementById('lang-toggle');
+    expect(btn).toBeTruthy();
+    expect(btn.previousElementSibling.id).toBe('theme-toggle');
+    expect(btn.getAttribute('aria-expanded')).toBe('false');
+    expect(btn.querySelector('svg')).toBeTruthy();
+  });
+
+  test('menu opens and closes; aria-expanded tracks state', function () {
+    var btn = document.getElementById('lang-toggle');
+    var menu = document.getElementById('language-menu');
+    btn.click();
+    expect(menu.hidden).toBe(false);
+    expect(btn.getAttribute('aria-expanded')).toBe('true');
+    btn.click();
+    expect(menu.hidden).toBe(true);
+    expect(btn.getAttribute('aria-expanded')).toBe('false');
+  });
+
+  test('menu lists every language code exactly once plus Original', function () {
+    var btn = document.getElementById('lang-toggle');
+    btn.click();
+    var items = Array.prototype.slice.call(
+      document.querySelectorAll('#language-menu [data-code]')
+    );
+    var codes = items.map(function (el) { return el.getAttribute('data-code') });
+    expect(codes[0]).toBe('');
+    expect(codes.slice(1).sort()).toEqual(LT.allCodes().sort());
+  });
+
+  test('Escape closes an open menu and returns focus to the button', function () {
+    var btn = document.getElementById('lang-toggle');
+    var menu = document.getElementById('language-menu');
+    btn.click();
+    document.dispatchEvent(new KeyboardEvent('keydown', { key: 'Escape' }));
+    expect(menu.hidden).toBe(true);
+    expect(document.activeElement).toBe(btn);
+  });
+
+  test('clicking a language sets cookie, notifies applier, closes menu', function () {
+    var applied = [];
+    LT._setComboApplierForTests(function (code) { applied.push(code); });
+    var btn = document.getElementById('lang-toggle');
+    btn.click();
+    var sv = document.querySelector('#language-menu [data-code="sv"]');
+    sv.click();
+    expect(applied).toEqual(['sv']);
+    expect(LT.readGoogtrans()).toBe('sv');
+    expect(document.getElementById('language-menu')).toBeFalsy(); // rebuilt lazily
+    LT.clearGoogtrans();
+  });
+});
