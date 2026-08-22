@@ -2,6 +2,7 @@
 
 ## Backlog (Aug 22) — next up
 - [x] i18n Phase 1 shipped (beeca3a..c782b5b): Google Translate integration per docs/superpowers/specs/2026-08-22-i18n-design.md — `js/language-toggle.js` self-injecting square toggle beside theme toggle (identical style tokens), 45-language region-grouped menu, lazy element.js load driven via googtrans cookie + hidden combo; all Google chrome CSS-hidden; graceful degradation hides button if GT dies; hermetic e2e (stub invokes __languageToggleInit like real CDN); axe suite unchanged 30/30 with translate.* route mocks; sw v1_0_22; CSP allowlists translate hosts. Gates: eslint 0 err, jest 189/189, chromium 467/467
+- [ ] i18n polish (optional): menu arrow-key navigation + focus trap (Escape works today); GT menu quality varies by language — consider dropping weak pairs from GROUPS after real-world use
 - [ ] i18n Phase 2 (future spec): Swedish quality overlays (slug-keyed field merges inside Shimmer), ?lang= URLs, hreflang + localized meta, MT-pending markers; toggle prefers overlay content when present
 - [x] Prune stale entries from FUTURE_IMPROVEMENTS.md (4126678: removed SVG-aria, focus outlines, gzip/Brotli, community related-items, Lighthouse line)
 - [x] Lighthouse CI in GitHub Actions — third `lighthouse` job in ci.yml + `.github/lighthouserc.json`; warn-only floors until baseline reviewed; results uploaded as artifact; local smoke run verified config (CHROME_PATH → Playwright chromium)
