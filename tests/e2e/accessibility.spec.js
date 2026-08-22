@@ -54,7 +54,37 @@ const SETTLE = {
   },
 };
 
+// Wait out entrance animations (css/styles.css) before scanning: axe
+// composites still-fading content over its backdrop estimate and reports
+// bogus near-1:1 color-contrast failures. quiz.html is the proven case — its
+// controls sit inside .hero-actions { opacity: 0; animation: fadeInUp 1.4s
+// ease 1.1s forwards }, so the page is interactive long before the controls
+// are opaque; body's own 0.3s pageFadeIn does not cover that window. Await
+// every finite animation currently known to the document; infinite loops
+// (pulse/shimmer keyframes) are excluded so this always resolves. The race
+// timeout is a safety net so a stuck/canceled animation cannot hang the gate.
+async function awaitSettled(page) {
+  await page.evaluate(() => {
+    const finite = document
+      .getAnimations({ subtree: true })
+      .filter((anim) => {
+        try {
+          return anim.effect.getComputedTiming().iterationCount !== Infinity;
+        } catch (err) {
+          return false;
+        }
+      })
+      .map((anim) => anim.finished.catch(() => {}));
+    if (finite.length === 0) return undefined;
+    return Promise.race([
+      Promise.all(finite),
+      new Promise((resolve) => setTimeout(resolve, 4000)),
+    ]);
+  });
+}
+
 async function scan(page, key) {
+  await awaitSettled(page);
   const results = await new AxeBuilder({ page })
     .withTags(['wcag2a', 'wcag2aa', 'wcag21a', 'wcag21aa', 'wcag22aa'])
     .analyze();
