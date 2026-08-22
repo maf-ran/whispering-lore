@@ -22,7 +22,7 @@
   - Language switcher UI placement + persistence (localStorage?)
   - Fallback behavior for untranslated entries
 - [ ] Optional: Zenodo v1.3.0 release (search page + a11y pass era)
-- [ ] Push main → origin (18+ commits ahead) and rebuild deploy zip + smoke test
+- [x] Push main → origin (40 commits, 90c8db0..f783dd6) + deploy zip rebuilt (/tmp/whispering-lore-deploy.zip, 1457 files via git ls-files filter excluding dev-only paths) + smoke-tested :8123 (15 URLs 200 + real-browser toggle/latest/daily pass, 0 js errors)
 
 ## A11y Pass (Aug 21) — axe gate
 - [x] `@axe-core/playwright` gate: tests/e2e/accessibility.spec.js, 10 pages × 2 viewports + 3 detail overlays (deep-linked troll-norway / ragnark-the-end-and-rebirth / mjolnir) + search state = 24 scans (+1 ko-fi fixture test); zero-violation assert; EXCLUSIONS map stays empty (no false positives found)
