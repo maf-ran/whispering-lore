@@ -1,5 +1,20 @@
 # Project Todos
 
+## Backlog (Aug 22) — next up
+- [x] Prune stale entries from FUTURE_IMPROVEMENTS.md (4126678: removed SVG-aria, focus outlines, gzip/Brotli, community related-items, Lighthouse line)
+- [x] Lighthouse CI in GitHub Actions — third `lighthouse` job in ci.yml + `.github/lighthouserc.json`; warn-only floors until baseline reviewed; results uploaded as artifact; local smoke run verified config (CHROME_PATH → Playwright chromium)
+- [ ] Lighthouse baseline recorded Aug 22: `/` perf 0.64 a11y 1.00 bp 0.96 seo 1.00 · `/bestiary.html` perf 0.71 a11y 1.00 bp 0.96 seo 1.00 → performance is the only weak category; decide critical-CSS/PurgeCSS work against this (PurgeCSS risky: dynamically toggled overlay/quiz classes)
+- [ ] Website translation (i18n) — **BLOCKED: design questions must be answered before implementation**
+  - Which languages first? (site is English-only today)
+  - Scope: UI chrome only vs full content (3,668 creatures / 2,185 stories / 641 items / 1,071 quiz questions)?
+  - Human vs machine translation for lore content? Quality bar + source attribution for translated text
+  - URL/locale strategy: `?lang=` param vs subpath (`/sv/bestiary.html`) — affects sw cache, Shimmer shards, SEO
+  - `hreflang` tags + `Content-Language` handling per locale
+  - Language switcher UI placement + persistence (localStorage?)
+  - Fallback behavior for untranslated entries
+- [ ] Optional: Zenodo v1.3.0 release (search page + a11y pass era)
+- [ ] Push main → origin (18+ commits ahead) and rebuild deploy zip + smoke test
+
 ## A11y Pass (Aug 21) — axe gate
 - [x] `@axe-core/playwright` gate: tests/e2e/accessibility.spec.js, 10 pages × 2 viewports + 3 detail overlays (deep-linked troll-norway / ragnark-the-end-and-rebirth / mjolnir) + search state = 24 scans (+1 ko-fi fixture test); zero-violation assert; EXCLUSIONS map stays empty (no false positives found)
 - [x] Contrast fixes: `.kofitext` white-on-orange 2.32:1 → scoped overrides recolor widget to site accent (`!important` beats widget inline style); world.html `.region-pct` opacity .7 blend 3.84:1 → opacity removed (passes both themes)
