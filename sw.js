@@ -1,4 +1,4 @@
-const CACHE_NAME = 'whisperinglore-v1_0_21'
+const CACHE_NAME = 'whisperinglore-v1_0_22'
 
 const CORE_ASSETS = [
   '/',
@@ -26,6 +26,7 @@ const CORE_ASSETS = [
   '/js/quiz.js',
   '/js/mylore.js',
   '/js/theme-toggle.js',
+  '/js/language-toggle.js',
   '/js/rune-scatter.js',
   '/js/daily-feature.js',
   '/js/world-viewer.js',
