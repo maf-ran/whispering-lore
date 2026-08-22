@@ -48,6 +48,7 @@
     '</svg>'
 
   var comboApplier = null
+  var reloadFn = function () { window.location.reload() }
   var btn = null
   var menu = null
 
@@ -158,7 +159,6 @@
   }
 
   var gtPromise = null
-  var gtReady = false
 
   function ensureTranslate() {
     if (gtPromise) return gtPromise
@@ -190,7 +190,6 @@
           }, 'google_translate_element')
           settled = true
           clearTimeout(timeoutId)
-          gtReady = true
           resolve(container)
         } catch (err) {
           fail(err)
@@ -204,7 +203,14 @@
       document.head.appendChild(s)
 
       timeoutId = setTimeout(function () {
-        if (!settled) fail(new Error('element.js timed out'))
+        // Slow CDN ≠ dead CDN: give up waiting quietly, keep the button, and
+        // let the next interaction retry (gtPromise reset allows a fresh run).
+        if (!settled) {
+          settled = true
+          clearTimeout(timeoutId)
+          gtPromise = null
+          resolve(container)
+        }
       }, 12000)
     })
     return gtPromise
@@ -218,31 +224,19 @@
     if (window.console && console.warn) console.warn('language toggle disabled:', err && err.message)
   }
 
-  function driveCombo(code) {
-    var sel = document.querySelector('#google_translate_element select.goog-te-combo')
-    if (!sel) return
-    var match = sel.querySelector('option[value="' + code + '"]')
-    if (!match) {
-      match = document.createElement('option')
-      match.value = code
-      sel.appendChild(match)
-    }
-    sel.value = code
-    sel.dispatchEvent(new Event('change'))
-  }
-
   function applyLanguage(code) {
+    // Real Google Translate renders no drivable combo in a hidden container,
+    // so the only reliable application path is the classic one: store the
+    // googtrans cookie and reload — GT reads it at init and translates.
     setGoogtrans(code)
     if (comboApplier) { comboApplier(code); return }
-    if (gtReady) { driveCombo(code); return }
-    ensureTranslate().then(function () { driveCombo(code) }).catch(function () {})
+    reloadFn()
   }
 
   function resetToOriginal() {
     clearGoogtrans()
     if (comboApplier) { comboApplier(''); return }
-    if (gtReady) { driveCombo(''); return }
-    ensureTranslate().then(function () { driveCombo('') }).catch(function () {})
+    reloadFn()
   }
 
   function _resetForTests() {
@@ -255,8 +249,8 @@
     btn = null
     menu = null
     comboApplier = null
+    reloadFn = function () { window.location.reload() }
     gtPromise = null
-    gtReady = false
     delete window.__languageToggleInit
     clearGoogtrans()
   }
@@ -273,7 +267,8 @@
     applyLanguage: applyLanguage,
     resetToOriginal: resetToOriginal,
     _resetForTests: _resetForTests,
-    _setComboApplierForTests: function (fn) { comboApplier = fn }
+    _setComboApplierForTests: function (fn) { comboApplier = fn },
+    _setReloaderForTests: function (fn) { reloadFn = fn }
   }
 
   if (document.readyState === 'loading') {

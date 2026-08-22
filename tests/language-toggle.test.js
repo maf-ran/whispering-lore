@@ -173,28 +173,16 @@ describe('languageToggle google integration', function () {
     expect(configs).toHaveLength(1);
   });
 
-  test('applyLanguage delegates to hidden combo and stores cookie', async function () {
-    var changes = [];
-    window.google = { translate: { TranslateElement: function () {} } };
-    window.google.translate.TranslateElement.InlineLayout = { SIMPLE: 'SIMPLE' };
-    var p = LT.ensureTranslate();
-    window.__languageToggleInit();
-    await p;
-
-    var container = document.getElementById('google_translate_element');
-    var sel = document.createElement('select');
-    sel.className = 'goog-te-combo';
-    sel.addEventListener('change', function () { changes.push(sel.value); });
-    container.appendChild(sel);
+  test('applyLanguage stores cookie and reloads; resetToOriginal clears and reloads', function () {
+    var reloads = [];
+    LT._setReloaderForTests(function () { reloads.push(1); });
 
     LT.applyLanguage('de');
-    expect(sel.value).toBe('de');
-    expect(changes).toEqual(['de']);
+    expect(reloads).toHaveLength(1);
     expect(LT.readGoogtrans()).toBe('de');
 
     LT.resetToOriginal();
-    expect(sel.value).toBe('');
-    expect(changes).toEqual(['de', '']);
+    expect(reloads).toHaveLength(2);
     expect(LT.readGoogtrans()).toBeNull();
   });
 

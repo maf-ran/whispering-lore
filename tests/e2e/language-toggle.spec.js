@@ -74,52 +74,61 @@ test.describe('language toggle', () => {
     await expect(page.locator('#language-menu')).toBeHidden()
   })
 
-  test('choosing Swedish warms GT, sets googtrans cookie, drives combo', async ({
+  test('choosing Swedish stores cookie and auto-applies after reload', async ({
     page,
   }) => {
     await page.click('#lang-toggle')
-    await page.click('#language-menu [data-code="sv"]')
+    await Promise.all([
+      page.waitForLoadState('load'),
+      page.click('#language-menu [data-code="sv"]'),
+    ])
+    // fresh page: cookie must survive and auto-restore must have loaded GT
     const cookie = await page.evaluate(() => document.cookie)
     expect(cookie).toContain('googtrans=/en/sv')
-    // GT init is async even stubbed: script inject → callback → combo appears
     await expect
-      .poll(() =>
-        page.evaluate(() => {
-          const sel = document.querySelector(
-            '#google_translate_element select.goog-te-combo'
-          )
-          return sel ? sel.value : null
-        })
+      .poll(
+        () => page.evaluate(() => (window.__gtCalls ? window.__gtCalls.length : 0)),
+        { timeout: 10000 }
       )
-      .toBe('sv')
-    const calls = await page.evaluate(() => window.__gtCalls)
-    expect(calls.length).toBe(1)
-    expect(calls[0].cfg.pageLanguage).toBe('en')
-    expect(calls[0].cfg.autoDisplay).toBe(false)
-    expect(calls[0].cfg.includedLanguages.split(',')).toContain('sv')
+      .toBe(1)
+    const cfg = await page.evaluate(() => window.__gtCalls[0].cfg)
+    expect(cfg.pageLanguage).toBe('en')
+    expect(cfg.autoDisplay).toBe(false)
+    expect(cfg.includedLanguages.split(',')).toContain('sv')
   })
 
-  test('Original clears cookie and resets combo after switching', async ({
+  test('Original clears cookie and skips GT on the next load', async ({
     page,
   }) => {
     await page.click('#lang-toggle')
-    await page.click('#language-menu [data-code="sv"]')
-    await page.click('#lang-toggle') // choose() rebuilds menu lazily
-    await page.click('#language-menu [data-code=""]')
+    await Promise.all([
+      page.waitForLoadState('load'),
+      page.click('#language-menu [data-code="sv"]'),
+    ])
+    await expect
+      .poll(
+        () => page.evaluate(() => (window.__gtCalls ? window.__gtCalls.length : 0)),
+        { timeout: 10000 }
+      )
+      .toBe(1)
+
+    await page.click('#lang-toggle') // menu rebuilt lazily after reload
+    await Promise.all([
+      page.waitForLoadState('load'),
+      page.click('#language-menu [data-code=""]'),
+    ])
     const cleared = await page.evaluate(() =>
       document.cookie.includes('googtrans=')
     )
     expect(cleared).toBe(false)
-    await expect
-      .poll(() =>
-        page.evaluate(() => {
-          const sel = document.querySelector(
-            '#google_translate_element select.goog-te-combo'
-          )
-          return sel ? sel.value : null
-        })
-      )
-      .toBe('')
+    // no stored language → no element.js injection on this load
+    await page.waitForTimeout(500)
+    const scriptTags = await page.evaluate(() =>
+      Array.from(document.scripts).filter((s) =>
+        s.src.includes('translate.google.com')
+      ).length
+    )
+    expect(scriptTags).toBe(0)
   })
 
   test('choice persists across navigation via cookie restore', async ({
