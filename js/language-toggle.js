@@ -160,6 +160,7 @@
     if (gtPromise) return gtPromise
     gtPromise = new Promise(function (resolve, reject) {
       var settled = false
+      var timeoutId = null
       var container = document.createElement('div')
       container.id = 'google_translate_element'
       container.hidden = true
@@ -168,6 +169,7 @@
       function fail(err) {
         if (settled) return
         settled = true
+        clearTimeout(timeoutId)
         gtPromise = null
         hideSelf(err)
         reject(err)
@@ -183,6 +185,7 @@
             layout: window.google.translate.TranslateElement.InlineLayout.SIMPLE
           }, 'google_translate_element')
           settled = true
+          clearTimeout(timeoutId)
           gtReady = true
           resolve(container)
         } catch (err) {
@@ -196,7 +199,7 @@
       s.onerror = function () { fail(new Error('element.js failed to load')) }
       document.head.appendChild(s)
 
-      setTimeout(function () {
+      timeoutId = setTimeout(function () {
         if (!settled) fail(new Error('element.js timed out'))
       }, 12000)
     })
@@ -204,6 +207,8 @@
   }
 
   function hideSelf(err) {
+    if (menu && menu.parentNode) menu.parentNode.removeChild(menu)
+    menu = null
     if (btn && btn.parentNode) btn.parentNode.removeChild(btn)
     btn = null
     if (window.console && console.warn) console.warn('language toggle disabled:', err && err.message)
@@ -237,6 +242,8 @@
   }
 
   function _resetForTests() {
+    document.removeEventListener('keydown', onDocKeydown)
+    document.removeEventListener('click', onDocClick)
     if (btn && btn.parentNode) btn.parentNode.removeChild(btn)
     if (menu && menu.parentNode) menu.parentNode.removeChild(menu)
     var gtContainer = document.getElementById('google_translate_element')

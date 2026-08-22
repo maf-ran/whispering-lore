@@ -197,7 +197,7 @@ describe('languageToggle google integration', function () {
 
   test('script failure hides the toggle button and rejects', async function () {
     var realCreate = document.createElement.bind(document);
-    jest.spyOn(document, 'createElement').mockImplementation(function (tag) {
+    var spy = jest.spyOn(document, 'createElement').mockImplementation(function (tag) {
       var el = realCreate(tag);
       if (tag === 'script') {
         setTimeout(function () {
@@ -208,8 +208,18 @@ describe('languageToggle google integration', function () {
     });
     await LT.ensureTranslate().catch(function () {});
     expect(document.getElementById('lang-toggle')).toBeFalsy();
-    // retry allowed: promise was reset on failure
-    var again = LT.ensureTranslate();
-    expect(again).toBeTruthy();
+
+    // retry allowed: promise was reset on failure; second attempt succeeds
+    spy.mockRestore();
+    window.google = {
+      translate: {
+        TranslateElement: function () {}
+      }
+    };
+    window.google.translate.TranslateElement.InlineLayout = { SIMPLE: 'SIMPLE' };
+    var p = LT.ensureTranslate();
+    window.__languageToggleInit();
+    await p;
+    expect(document.getElementById('google_translate_element')).toBeTruthy();
   });
 });
