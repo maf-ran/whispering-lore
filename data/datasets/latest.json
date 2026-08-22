@@ -1,0 +1,31 @@
+{
+  "_meta": {
+    "generated": "2026-08-22",
+    "generator": "one-off node script (see DESIGN/todos note); regenerate whenever shards change",
+    "source": "data/sharded/{creatures,stories}/by-region/*.json",
+    "note": "precomputed top-3 for homepage Latest Additions; main.js falls back to full Shimmer scan if missing"
+  },
+  "items": [
+    {
+      "name": "Basilisk",
+      "desc": "Basilisk is a dragon from European/Arabic mythology. Described by Pliny the Elder and later Christian bestiaries, the Basilisk is a small but deadly serpent crown-crested creature whose mere gaze causes death. It is said to be hatched from a cock's egg incubated by a serpent or toad. In Christian symbology adopted by the Vatican, the Basilisk represents the power of sin and heresy that can be overcome by faith. Medieval bestiaries often used the Basilisk as a symbol of the Antichrist, and its deadly gaze represented the corrupting power of evil",
+      "date": "Recent",
+      "type": "Creature",
+      "index": 1
+    },
+    {
+      "name": "The Universal Basilisk",
+      "desc": "A legendary serpent or dragon, the Basilisk is known as the king of serpents, with a gaze and breath so venomous it can kill anything it encounters.",
+      "date": "Recent",
+      "type": "Story",
+      "index": 1
+    },
+    {
+      "name": "Werewolf",
+      "desc": "Werewolf (Generic). is a shapeshifter. A human who transforms into a wolf, either voluntarily or by curse. Source: European folklore, global shapeshifting myths",
+      "date": "Recent",
+      "type": "Creature",
+      "index": 2
+    }
+  ]
+}

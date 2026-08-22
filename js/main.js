@@ -67,9 +67,35 @@
     })
   }
 
+  function renderLatestItems(grid, items) {
+    grid.innerHTML = items
+      .map(
+        (item) => `
+        <div class="latest-item">
+          <div class="latest-date"><span class="crimson-dot"></span> ${window.__sharedUtils.escapeXml(
+            item.date
+          )}</div>
+          <h3>${window.__sharedUtils.escapeXml(item.name)}</h3>
+          <p>${window.__sharedUtils.escapeXml(item.desc)}</p>
+        </div>
+      `
+      )
+      .join('')
+  }
+
   async function updateLatestAdditions() {
     const grid = document.getElementById('latest-grid')
     if (!grid) return
+
+    // Fast path: precomputed summary (~2KB) instead of scanning every shard
+    const fetchJSON = window.__sharedUtils && window.__sharedUtils.fetchJSON
+    if (fetchJSON) {
+      const pre = await fetchJSON('data/datasets/latest.json').catch(() => null)
+      if (pre && Array.isArray(pre.items) && pre.items.length) {
+        renderLatestItems(grid, pre.items.slice(0, 3))
+        return
+      }
+    }
 
     try {
       const sh = window.__sharedUtils && window.__sharedUtils.Shimmer
@@ -127,19 +153,7 @@
         })
         .slice(0, 3)
 
-      grid.innerHTML = all
-        .map(
-          (item) => `
-        <div class="latest-item">
-          <div class="latest-date"><span class="crimson-dot"></span> ${window.__sharedUtils.escapeXml(
-            item.date
-          )}</div>
-          <h3>${window.__sharedUtils.escapeXml(item.name)}</h3>
-          <p>${window.__sharedUtils.escapeXml(item.desc)}</p>
-        </div>
-      `
-        )
-        .join('')
+      renderLatestItems(grid, all)
     } catch (e) {
       console.error('Failed to update latest additions:', e)
     }
