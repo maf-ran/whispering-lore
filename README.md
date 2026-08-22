@@ -103,7 +103,7 @@ For Playwright e2e runs, use a threaded server instead (the single-threaded
 | Cross-refs | 35,457 | 0 broken |
 | Quiz questions | 1,071 | 10 variants each, 6 difficulty levels |
 
-**Zenodo DOI**: [`10.5281/zenodo.21941501`](https://doi.org/10.5281/zenodo.21941501) (v1.2.0 — 3,668 creatures, 2,185 stories, 641 artifacts)
+**Zenodo DOI**: [`10.5281/zenodo.21941501`](https://doi.org/10.5281/zenodo.21941501) (v1.3.0 — 3,668 creatures, 2,185 stories, 641 artifacts)
 
 ## Testing
 
