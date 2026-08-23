@@ -160,10 +160,11 @@ describe('languageToggle UI', function () {
     LT._setComboApplierForTests(function (code) { applied.push(code); });
     var btn = document.getElementById('lang-toggle');
     btn.click();
-    var sv = document.querySelector('#language-menu [data-code="sv"]');
-    sv.click();
-    expect(applied).toEqual(['sv']);
-    expect(LT.readGoogtrans()).toBe('sv');
+    // 'de' exercises the Google-Translate path; 'sv' is native mode now.
+    var de = document.querySelector('#language-menu [data-code="de"]');
+    de.click();
+    expect(applied).toEqual(['de']);
+    expect(LT.readGoogtrans()).toBe('de');
     expect(document.getElementById('language-menu')).toBeFalsy(); // rebuilt lazily
     LT.clearGoogtrans();
   });
@@ -260,5 +261,48 @@ describe('languageToggle google integration', function () {
     window.__languageToggleInit();
     await p;
     expect(document.getElementById('google_translate_element')).toBeTruthy();
+  });
+});
+
+describe('languageToggle native mode switching', function () {
+  var LT;
+
+  beforeEach(function () {
+    document.body.innerHTML =
+      '<header><nav id="site-nav"></nav>' +
+      '<button class="theme-toggle" id="theme-toggle"></button></header>';
+    LT = window.__languageToggle;
+    LT._resetForTests();
+    LT.initUI();
+  });
+  afterEach(function () {
+    LT._resetForTests();
+    window.history.replaceState({}, '', '/index.html');
+    document.body.innerHTML = '';
+  });
+
+  test('chooseSvenska clears GT cookie, navigates to ?lang=sv keeping params', function () {
+    LT.setGoogtrans('de');
+    window.history.replaceState({}, '', '/bestiary.html?creature=tomte');
+    var navs = [];
+    LT._setNavigatorForTests(function (url) { navs.push(url); });
+    LT.chooseNative();
+    expect(navs).toEqual(['/bestiary.html?creature=tomte&lang=sv']);
+    expect(LT.readGoogtrans()).toBeNull();
+  });
+
+  test('leaving native strips lang param and hands off to GT flow', function () {
+    window.history.replaceState({}, '', '/bestiary.html?lang=sv&creature=tomte');
+    var navs = [];
+    LT._setNavigatorForTests(function (url) { navs.push(url); });
+    LT.leaveNative();
+    expect(navs).toEqual(['/bestiary.html?creature=tomte']);
+  });
+
+  test('menu marks Svenska with native dot when coverage flag set', function () {
+    LT.NATIVE_COVERAGE_READY = true;
+    document.getElementById('lang-toggle').click();
+    var sv = document.querySelector('#language-menu [data-code="sv"]');
+    expect(sv.classList.contains('is-native')).toBe(true);
   });
 });

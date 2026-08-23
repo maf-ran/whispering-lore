@@ -3667,6 +3667,16 @@ footer p {
   font-weight: bold;
 }
 
+.language-menu [role='menuitem'].is-native::after {
+  content: '';
+  display: inline-block;
+  width: 7px;
+  height: 7px;
+  margin-left: 0.4rem;
+  border-radius: 50%;
+  background: var(--accent-strong);
+}
+
 /* Hide every piece of Google's own translate UI */
 .skiptranslate,
 #goog-gt-tt,

@@ -49,8 +49,55 @@
 
   var comboApplier = null
   var reloadFn = function () { window.location.reload() }
+  var navigatorFn = function (url) { window.location.assign(url) }
+  var NATIVE_COVERAGE_READY = false // flips true when sv coverage is meaningful
   var btn = null
   var menu = null
+
+  // Native Swedish mode: URL-only state (?lang=sv), no GT cookie involved.
+  function currentUrl() {
+    return window.location.pathname + window.location.search
+  }
+
+  function stripLangFallback(u) {
+    var q = u.indexOf('?')
+    if (q === -1) return u
+    var base = u.slice(0, q)
+    var pairs = u.slice(q + 1).split('&').filter(function (p) {
+      return p && p.indexOf('lang=') !== 0
+    })
+    return pairs.length ? base + '?' + pairs.join('&') : base
+  }
+
+  function isNativeHere() {
+    return !!(window.__sharedUtils &&
+      window.__sharedUtils.isNative &&
+      window.__sharedUtils.isNative())
+  }
+
+  function chooseNative() {
+    clearGoogtrans()
+    var u
+    if (window.__sharedUtils && window.__sharedUtils.withLang) {
+      u = window.__sharedUtils.withLang(currentUrl(), 'sv')
+    } else {
+      u = currentUrl()
+      u += (u.indexOf('?') === -1 ? '?' : '&') + 'lang=sv'
+    }
+    closeMenu(false)
+    navigatorFn(u)
+  }
+
+  function leaveNative() {
+    var u
+    if (window.__sharedUtils && window.__sharedUtils.stripLangUrl) {
+      u = window.__sharedUtils.stripLangUrl(currentUrl())
+    } else {
+      u = stripLangFallback(currentUrl())
+    }
+    closeMenu(false)
+    navigatorFn(u)
+  }
 
   function buildMenu() {
     menu = document.createElement('div')
@@ -107,6 +154,9 @@
 
   function openMenu() {
     if (!menu) buildMenu()
+    // Native-coverage dot may flip at runtime; keep the Svenska item in sync.
+    var svEl = menu.querySelector('[data-code="sv"]')
+    if (svEl) svEl.classList.toggle('is-native', !!NATIVE_COVERAGE_READY)
     positionMenu()
     menu.hidden = false
     btn.setAttribute('aria-expanded', 'true')
@@ -146,6 +196,7 @@
   }
 
   function choose(code) {
+    if (code === 'sv') { chooseNative(); return }
     if (code) applyLanguage(code)
     else resetToOriginal()
     closeMenu(false)
@@ -267,6 +318,7 @@
   }
 
   function resetToOriginal() {
+    if (isNativeHere()) { leaveNative(); return }
     clearGoogtrans()
     if (comboApplier) { comboApplier(''); return }
     reloadFn()
@@ -283,6 +335,8 @@
     menu = null
     comboApplier = null
     reloadFn = function () { window.location.reload() }
+    navigatorFn = function (url) { window.location.assign(url) }
+    NATIVE_COVERAGE_READY = false
     gtPromise = null
     delete window.__languageToggleInit
     clearGoogtrans()
@@ -299,9 +353,14 @@
     ensureTranslate: ensureTranslate,
     applyLanguage: applyLanguage,
     resetToOriginal: resetToOriginal,
+    chooseNative: chooseNative,
+    leaveNative: leaveNative,
+    get NATIVE_COVERAGE_READY() { return NATIVE_COVERAGE_READY },
+    set NATIVE_COVERAGE_READY(v) { NATIVE_COVERAGE_READY = !!v },
     _resetForTests: _resetForTests,
     _setComboApplierForTests: function (fn) { comboApplier = fn },
-    _setReloaderForTests: function (fn) { reloadFn = fn }
+    _setReloaderForTests: function (fn) { reloadFn = fn },
+    _setNavigatorForTests: function (fn) { navigatorFn = fn }
   }
 
   if (document.readyState === 'loading') {

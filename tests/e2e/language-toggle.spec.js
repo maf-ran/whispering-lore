@@ -74,7 +74,7 @@ test.describe('language toggle', () => {
     await expect(page.locator('#language-menu')).toBeHidden()
   })
 
-  test('choosing Swedish stores cookie and auto-applies after reload', async ({
+  test('choosing Svenska enters native ?lang=sv mode without GT', async ({
     page,
   }) => {
     await page.click('#lang-toggle')
@@ -82,28 +82,32 @@ test.describe('language toggle', () => {
       page.waitForLoadState('load'),
       page.click('#language-menu [data-code="sv"]'),
     ])
-    // fresh page: cookie must survive and auto-restore must have loaded GT
+    // native mode is URL-driven: no googtrans cookie, no element.js injection
+    expect(page.url()).toContain('lang=sv')
     const cookie = await page.evaluate(() => document.cookie)
-    expect(cookie).toContain('googtrans=/en/sv')
+    expect(cookie).not.toContain('googtrans=')
     await expect
       .poll(
         () => page.evaluate(() => (window.__gtCalls ? window.__gtCalls.length : 0)),
         { timeout: 10000 }
       )
-      .toBe(1)
-    const cfg = await page.evaluate(() => window.__gtCalls[0].cfg)
-    expect(cfg.pageLanguage).toBe('en')
-    expect(cfg.autoDisplay).toBe(false)
-    expect(cfg.includedLanguages.split(',')).toContain('sv')
+      .toBe(0)
+    const htmlLang = await page.evaluate(() => document.documentElement.lang)
+    expect(htmlLang).toBe('sv')
+    const homeLabel = await page.evaluate(() =>
+      document.querySelector('nav a[data-i18n="nav.home"]').textContent
+    )
+    expect(homeLabel).toBe('HEM')
   })
 
   test('Original clears cookie and skips GT on the next load', async ({
     page,
   }) => {
     await page.click('#lang-toggle')
+    // 'de' exercises the Google-Translate path; 'sv' is native mode now.
     await Promise.all([
       page.waitForLoadState('load'),
-      page.click('#language-menu [data-code="sv"]'),
+      page.click('#language-menu [data-code="de"]'),
     ])
     await expect
       .poll(
