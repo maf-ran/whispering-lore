@@ -67,7 +67,7 @@ class StoriesViewer extends BaseViewer {
 
     const slug = story.slug || window.__sharedUtils.getSlug(story.title)
     const a = document.createElement('a')
-    a.href = '?story=' + slug
+    a.href = window.__sharedUtils.withLang('?story=' + slug)
     a.className = 'card-cta'
     a.setAttribute('data-slug', slug)
     a.textContent = 'Read Story'
@@ -491,8 +491,8 @@ class StoriesViewer extends BaseViewer {
           if (recs.length > 0) {
             recsGrid.innerHTML = recs
               .map(
-                (r) => `<a href="stories.html?story=${encodeURIComponent(
-                  r.slug
+                (r) => `<a href="${window.__sharedUtils.withLang(
+                  'stories.html?story=' + encodeURIComponent(r.slug)
                 )}" class="detail-creature-link">
               <span class="creature-link-name">${window.__sharedUtils.escapeXml(
                 r.title
@@ -603,7 +603,7 @@ class StoriesViewer extends BaseViewer {
         const cr = allC.find((c) => c.slug === ref)
         const link = document.createElement('a')
         link.href =
-          'bestiary.html?creature=' + encodeURIComponent(cr.slug)
+          window.__sharedUtils.withLang('bestiary.html?creature=' + encodeURIComponent(cr.slug))
         link.className = 'detail-creature-link'
         link.innerHTML =
           '<span class="creature-link-name">' +

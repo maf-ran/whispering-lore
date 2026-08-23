@@ -156,4 +156,13 @@ test.describe('language toggle', () => {
     const svHref = await page.$eval('link[rel="alternate"][hreflang="sv"]', (e) => e.href)
     expect(svHref).toContain('lang=sv')
   })
+
+  test('internal links preserve ?lang=sv in native mode', async ({ page }) => {
+    await page.goto(`${BASE}/index.html?lang=sv`, { waitUntil: 'load', timeout: 20000 })
+    await page.waitForSelector('.feature-link[href*="lang=sv"]', { timeout: 20000 })
+    const heroHref = await page.getAttribute('nav a[data-i18n="nav.bestiary"]', 'href')
+    expect(heroHref).toContain('lang=sv')
+    await page.goto(`${BASE}/bestiary.html?lang=sv`, { waitUntil: 'load', timeout: 20000 })
+    await page.waitForSelector('article.card a[href*="lang=sv"]', { timeout: 20000 })
+  })
 })

@@ -63,7 +63,7 @@ class CreaturesViewer extends BaseViewer {
     }
 
     const a = document.createElement('a')
-    a.href = '?creature=' + creature.slug
+    a.href = window.__sharedUtils.withLang('?creature=' + creature.slug)
     a.className = 'card-cta'
     a.textContent = 'View Entry'
     body.appendChild(a)
@@ -684,7 +684,7 @@ class CreaturesViewer extends BaseViewer {
     grid.innerHTML = ''
     related.forEach((c) => {
       const a = document.createElement('a')
-      a.href = '?creature=' + encodeURIComponent(c.slug)
+      a.href = window.__sharedUtils.withLang('?creature=' + encodeURIComponent(c.slug))
       a.className = 'related-creature-card'
       a.innerHTML =
         '<span class="related-name">' +
@@ -735,7 +735,7 @@ class CreaturesViewer extends BaseViewer {
     matching.forEach((s) => {
       const a = document.createElement('a')
       const storySlug = s.slug || window.__sharedUtils.getSlug(s.title)
-      a.href = 'stories.html?story=' + encodeURIComponent(storySlug)
+      a.href = window.__sharedUtils.withLang('stories.html?story=' + encodeURIComponent(storySlug))
       a.className = 'related-story-card'
       a.innerHTML =
         '<span class="related-story-title">' +

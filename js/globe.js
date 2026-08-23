@@ -428,7 +428,9 @@ function initGlobe() {
       const country = btn.getAttribute('data-country')
       if (country)
         window.location.href =
+          window.__sharedUtils.withLang(
           'bestiary.html?country=' + encodeURIComponent(country)
+        )
     }
   }
   document.addEventListener('click', onDocClick)

@@ -518,6 +518,18 @@
       var pk = placeholders[p].getAttribute('data-i18n-placeholder')
       if (dict[pk] != null) placeholders[p].setAttribute('placeholder', dict[pk])
     }
+    // Static-markup link pass: keep visitors in native mode across pages.
+    // JS-built card links wrap their targets with withLang at build time.
+    if (window.__sharedUtils && window.__sharedUtils.withLang) {
+      var links = document.querySelectorAll('a[href]')
+      for (var j = 0; j < links.length; j++) {
+        var href = links[j].getAttribute('href')
+        if (!href || /^https?:\/\//i.test(href) || /^mailto:/i.test(href)) continue
+        if (href.indexOf('.html') !== -1 || href.charAt(0) === '?') {
+          links[j].setAttribute('href', window.__sharedUtils.withLang(href))
+        }
+      }
+    }
     setPageMeta(dict)
   }
 

@@ -289,7 +289,7 @@
           type === 'creatures'
             ? 'bestiary.html?creature='
             : 'stories.html?story='
-        window.location.href = page + encodeURIComponent(slug)
+        window.location.href = window.__sharedUtils.withLang(page + encodeURIComponent(slug))
       })
     }
 

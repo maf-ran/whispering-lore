@@ -43,8 +43,8 @@
         truncate(creature.summary || creature.description, 120)
       ) +
       '</p>' +
-      '<a href="bestiary.html?creature=' +
-      encodeURIComponent(creature.slug) +
+      '<a href="' +
+      window.__sharedUtils.withLang('bestiary.html?creature=' + encodeURIComponent(creature.slug)) +
       '" class="feature-link">→ View in Bestiary</a>'
 
     storyCard.innerHTML =
@@ -61,9 +61,10 @@
       '<p class="feature-excerpt">' +
       window.__sharedUtils.escapeXml(truncate(story.summary, 120)) +
       '</p>' +
-      '<a href="stories.html?story=' +
-      encodeURIComponent(
-        story.slug || window.__sharedUtils.getSlug(story.title)
+      '<a href="' +
+      window.__sharedUtils.withLang(
+        'stories.html?story=' +
+        encodeURIComponent(story.slug || window.__sharedUtils.getSlug(story.title))
       ) +
       '" class="feature-link">→ Read Full Story</a>'
 

@@ -70,7 +70,7 @@ class ItemsViewer extends BaseViewer {
 
     const slug = item.slug
     const a = document.createElement('a')
-    a.href = '?item=' + slug
+    a.href = window.__sharedUtils.withLang('?item=' + slug)
     a.className = 'card-cta'
     a.setAttribute('data-slug', slug)
     a.textContent = 'View Artifact'
@@ -369,7 +369,7 @@ class ItemsViewer extends BaseViewer {
               const cr = allC.find((c) => c.slug === ref)
               const link = document.createElement('a')
               link.href =
-                'bestiary.html?creature=' + encodeURIComponent(cr.slug)
+                window.__sharedUtils.withLang('bestiary.html?creature=' + encodeURIComponent(cr.slug))
               link.className = 'detail-creature-link'
               link.innerHTML =
                 '<span class="creature-link-name">' +
@@ -404,7 +404,7 @@ class ItemsViewer extends BaseViewer {
             resolved.forEach((ref) => {
               const st = allS.find((s) => s.slug === ref)
               const link = document.createElement('a')
-              link.href = 'stories.html?story=' + encodeURIComponent(st.slug)
+              link.href = window.__sharedUtils.withLang('stories.html?story=' + encodeURIComponent(st.slug))
               link.className = 'detail-creature-link'
               link.innerHTML =
                 '<span class="creature-link-name">' +
