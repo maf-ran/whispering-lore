@@ -27,7 +27,7 @@
 - Modify: `js/shared-utils.js`
 - Test: `tests/native-lang.test.js` (new)
 
-- [ ] **Step 1: Failing tests**
+- [x] **Step 1: Failing tests**
 
 Create `tests/native-lang.test.js`:
 
@@ -66,11 +66,11 @@ describe('native lang helpers', function () {
 });
 ```
 
-- [ ] **Step 2: Verify fail**
+- [x] **Step 2: Verify fail**
 
 Run: `npx jest tests/native-lang.test.js` → FAIL (`U.getNativeLang is not a function`).
 
-- [ ] **Step 3: Implement**
+- [x] **Step 3: Implement**
 
 In `js/shared-utils.js`, above the `window.__sharedUtils = {` export block add:
 
@@ -123,11 +123,11 @@ Extend export:
 
 (Keep existing export members — merge, don't replace unrelated keys.)
 
-- [ ] **Step 4: Verify pass**
+- [x] **Step 4: Verify pass**
 
 Run: `npx jest tests/native-lang.test.js` → 3 passed. Then full unit suite green.
 
-- [ ] **Step 5: Commit**
+- [x] **Step 5: Commit**
 
 ```bash
 git add js/shared-utils.js tests/native-lang.test.js
@@ -143,7 +143,7 @@ git commit -m "feat(i18n): native language state helpers"
 - Modify: `js/shared-utils.js` (Shimmer section)
 - Test: `tests/shimmer.test.js` (add describe)
 
-- [ ] **Step 1: Fixture**
+- [x] **Step 1: Fixture**
 
 Create `tests/fixtures/sv-creatures-nordic.json`:
 
@@ -157,7 +157,7 @@ Create `tests/fixtures/sv-creatures-nordic.json`:
 }
 ```
 
-- [ ] **Step 2: Failing tests** — append to `tests/shimmer.test.js`:
+- [x] **Step 2: Failing tests** — append to `tests/shimmer.test.js`:
 
 ```js
 describe('Shimmer sv overlay merge', function () {
@@ -207,11 +207,11 @@ fixtureMap['data/i18n/sv/creatures-nordic.json'] = JSON.parse(
 
 Also ensure `Array.prototype.find` usage OK (node ≥ fine).
 
-- [ ] **Step 3: Verify fail**
+- [x] **Step 3: Verify fail**
 
 Run: `npx jest tests/shimmer.test.js` → new describe FAILs (`_i18n undefined`).
 
-- [ ] **Step 4: Implement merge in shared-utils.js (Shimmer)**
+- [x] **Step 4: Implement merge in shared-utils.js (Shimmer)**
 
 Add helpers inside Shimmer object:
 
@@ -263,11 +263,11 @@ Then hook into `loadRegionShard`'s success paths — wrap the two places that ca
 
 `fetchJSON` is module-scope in shared-utils (used by daily-feature) — confirm name; if scoped differently use the local reference available in file.
 
-- [ ] **Step 5: Verify pass + suite**
+- [x] **Step 5: Verify pass + suite**
 
 Run: `npx jest tests/shimmer.test.js` → all pass; `npx jest 2>&1 | rg "Tests:"` → green overall.
 
-- [ ] **Step 6: Commit**
+- [x] **Step 6: Commit**
 
 ```bash
 git add tests/fixtures/sv-creatures-nordic.json tests/shimmer.test.js js/shared-utils.js
@@ -282,7 +282,7 @@ git commit -m "feat(i18n): shimmer sv overlay merge"
 - Modify: `css/styles.css` (append), `js/viewer-base.js`, `js/creatures-viewer.js`, `js/stories-viewer.js`, `js/items-viewer.js`, detail sections of `bestiary.html`, `stories.html`, `items.html`
 - Test: `tests/i18n-badge.test.js` (new)
 
-- [ ] **Step 1: Failing test**
+- [x] **Step 1: Failing test**
 
 Create `tests/i18n-badge.test.js`:
 
@@ -311,7 +311,7 @@ describe('i18n pending badge', function () {
 
 If viewer-base exports differ, attach `i18nBadgeHtml` to `window.__sharedUtils` instead and import that here — implementation decides ONE home; keep test aligned.
 
-- [ ] **Step 2: Verify fail**, then **Step 3: implement**
+- [x] **Step 2: Verify fail**, then **Step 3: implement**
 
 In `js/viewer-base.js` (or shared-utils if cleaner):
 
@@ -351,7 +351,7 @@ Wire-up (mechanical, verify each with grep):
 
 Each wiring step: `grep -n "card-body\|detail-name" js/*-viewer.js` to locate exact lines during execution.
 
-- [ ] **Step 4: Verify pass + gates**, **Step 5: Commit**
+- [x] **Step 4: Verify pass + gates**, **Step 5: Commit**
 
 ```bash
 git add -A && git commit -m "feat(i18n): translation-pending badge in cards and details"
@@ -365,7 +365,7 @@ git add -A && git commit -m "feat(i18n): translation-pending badge in cards and 
 - Create: `js/i18n.js`, `tests/i18n-dict.test.js`
 - Modify: all 11 root HTML pages (script tag + `data-i18n` attributes + localized title/desc keys)
 
-- [ ] **Step 1: Failing parity/applier tests**
+- [x] **Step 1: Failing parity/applier tests**
 
 Create `tests/i18n-dict.test.js`:
 
@@ -412,7 +412,7 @@ describe('chrome i18n dictionary', function () {
 });
 ```
 
-- [ ] **Step 2: Verify fail**, **Step 3: implement `js/i18n.js`**
+- [x] **Step 2: Verify fail**, **Step 3: implement `js/i18n.js`**
 
 Module shape:
 
@@ -511,7 +511,7 @@ Module shape:
 
 Execution note: extend DICT with `title.<page>`/`desc.<page>` for all 11 pages + prose paragraph keys (`about.p1..pN`, `methodology.p1..pN`) — translate prose from the live pages during this task; the parity test enforces completeness. Badge CSS class uses `badge.pending` value rendered by Task 3 helper (update helper to read `window.__i18n` dict when native so language stays centralized).
 
-- [ ] **Step 4: Mechanical sweep across 11 pages**
+- [x] **Step 4: Mechanical sweep across 11 pages**
 
 Python one-off (run once, verify counts):
 
@@ -533,7 +533,7 @@ print('script tags done')
 
 Then hand-add `data-i18n` attributes to nav/footer/filter labels per page (grep anchors: `<li><a`, `class="filter-bar"`, footer `<p>` blocks). Titles/descriptions stay EN in markup; dictionary overrides at runtime.
 
-- [ ] **Step 5: Gates + commit**
+- [x] **Step 5: Gates + commit**
 
 `npx jest` green · `npx eslint .` 0 errors · commit:
 
@@ -549,7 +549,7 @@ git commit -m "feat(i18n): chrome dictionary and data-i18n sweep"
 **Files:**
 - Modify: 11 root HTML pages `<head>`
 
-- [ ] **Step 1: Insert after og-image/twitter meta block (once per page)**
+- [x] **Step 1: Insert after og-image/twitter meta block (once per page)**
 
 ```bash
 python3 - <<'EOF'
@@ -570,7 +570,7 @@ EOF
 rg -c 'hreflang="sv"' *.html   # expect 11 files × 1
 ```
 
-- [ ] **Step 2: Test** — add to `tests/e2e/language-toggle.spec.js`:
+- [x] **Step 2: Test** — add to `tests/e2e/language-toggle.spec.js`:
 
 ```js
   test('pages expose en/sv hreflang alternates', async ({ page }) => {
@@ -581,7 +581,7 @@ rg -c 'hreflang="sv"' *.html   # expect 11 files × 1
   })
 ```
 
-- [ ] **Step 3: Run e2e spec (background process) → green. Commit:**
+- [x] **Step 3: Run e2e spec (background process) → green. Commit:**
 
 ```bash
 git add *.html tests/e2e/language-toggle.spec.js
@@ -596,7 +596,7 @@ git commit -m "feat(i18n): hreflang alternates"
 - Modify: `js/language-toggle.js`
 - Test: `tests/language-toggle.test.js` (add describe)
 
-- [ ] **Step 1: Failing tests**
+- [x] **Step 1: Failing tests**
 
 ```js
 describe('languageToggle native mode switching', function () {
@@ -641,7 +641,7 @@ describe('languageToggle native mode switching', function () {
 });
 ```
 
-- [ ] **Step 2: Verify fail**, **Step 3: implement in language-toggle.js**
+- [x] **Step 2: Verify fail**, **Step 3: implement in language-toggle.js**
 
 Add near choose():
 
@@ -685,7 +685,7 @@ Export `chooseNative`, `leaveNative`, `NATIVE_COVERAGE_READY` (getter), `_setNav
 
 CSS dot appended to styles.css `.language-menu` block.
 
-- [ ] **Step 4: gates + commit**
+- [x] **Step 4: gates + commit**
 
 ```bash
 git add js/language-toggle.js tests/language-toggle.test.js css/styles.css
@@ -700,7 +700,7 @@ git commit -m "feat(i18n): toggle switches native swedish mode"
 - Modify: `js/creatures-viewer.js`, `js/stories-viewer.js`, `js/items-viewer.js`, `js/main.js` (daily/latest links), `js/globe.js` popups
 - Test: extend `tests/e2e/language-toggle.spec.js`
 
-- [ ] **Step 1: e2e failing test**
+- [x] **Step 1: e2e failing test**
 
 ```js
   test('internal links preserve ?lang=sv in native mode', async ({ page }) => {
@@ -712,7 +712,7 @@ git commit -m "feat(i18n): toggle switches native swedish mode"
   })
 ```
 
-- [ ] **Step 2: implement** — two layers:
+- [x] **Step 2: implement** — two layers:
 1. DOM rewrite pass (covers static markup): in `js/i18n.js` `applyChrome()` when native, after swaps:
 
 ```js
@@ -727,7 +727,7 @@ git commit -m "feat(i18n): toggle switches native swedish mode"
 
 2. Viewer builders: wherever `a.href = '?creature='+…` etc. exist (creatures-viewer.js:64,679; stories-viewer.js:68,486,597; items-viewer.js:71,363,399; globe.js:365-398; daily-feature.js:46,64; main.js latest cards), wrap target with `window.__sharedUtils.withLang(...)`. Grep anchor list provided; mechanical wrap, verify by grep count.
 
-- [ ] **Step 3: e2e green + full unit suite + commit**
+- [x] **Step 3: e2e green + full unit suite + commit**
 
 ```bash
 git add js/ tests/
@@ -741,11 +741,11 @@ git commit -m "feat(i18n): propagate lang param through internal links"
 **Files:**
 - Create: `data/i18n/sv/creatures-nordic.json`
 
-- [ ] **Step 1: Generate skeleton from shard**
+- [x] **Step 1: Generate skeleton from shard**
 
 Controller runs (one-off, /tmp): read `data/sharded/creatures/by-region/nordic.json`, take first 50 entries in array order, emit `{ "_meta": { lang:'sv', source:'wave-a pilot', count:50 }, "entries": { "<slug>": { "name": "<sv>", "summary": "<sv>" } } }` — controller translates name+summary personally (LLM-batch per approved decision). Names: keep established Swedish forms (Tomte→Tomte/Nisse, Troll→Troll, Draugr→Draug etc.); summaries 1–3 sentences natural Swedish, no machine-literal calques.
 
-- [ ] **Step 2: Validation gate**
+- [x] **Step 2: Validation gate**
 
 ```bash
 node -e "
@@ -759,11 +759,11 @@ ks.forEach(k=>{ if(!slugs.has(k)) throw new Error('unknown slug '+k);
 console.log('pilot overlay valid:', ks.length, 'entries');"
 ```
 
-- [ ] **Step 3: Manual browser verification**
+- [x] **Step 3: Manual browser verification**
 
 Serve repo (:3000), open `/bestiary.html?lang=sv` — pilot entries show sv names, non-pilot show badge; `/bestiary.html?creature=tomte&lang=sv` shows sv summary + badge absent for tomte (fully covered fields present → still `partial:true` unless ALL its fields covered — acceptable: badge policy = entry-level until wave B adds `complete:true` flag; document in code comment).
 
-- [ ] **Step 4: Commit**
+- [x] **Step 4: Commit**
 
 ```bash
 git add data/i18n/sv/creatures-nordic.json
@@ -777,9 +777,9 @@ git commit -m "feat(i18n): swedish pilot batch for nordic creatures"
 **Files:**
 - Modify: `tests/e2e/accessibility.spec.js`, `todos.md`, README (feature line)
 
-- [ ] **Step 1: Add native-mode scan** to accessibility.spec.js PAGES loop variant: one extra test navigating `/bestiary.html?lang=sv` desktop viewport reusing existing `scan()` (badges included automatically). Keep EXCLUSIONS empty — fix any contrast issue at CSS level if flagged.
+- [x] **Step 1: Add native-mode scan** to accessibility.spec.js PAGES loop variant: one extra test navigating `/bestiary.html?lang=sv` desktop viewport reusing existing `scan()` (badges included automatically). Keep EXCLUSIONS empty — fix any contrast issue at CSS level if flagged.
 
-- [ ] **Step 2: Full gates (background processes)**
+- [x] **Step 2: Full gates (background processes)**
 
 ```bash
 npx eslint .          # 0 errors
@@ -787,9 +787,9 @@ npx jest              # all green (expect ~205+)
 npx playwright test --project=chromium --reporter=dot   # all green incl new tests
 ```
 
-- [ ] **Step 3: Docs** — todos.md: mark Wave A shipped w/ SHAs; README feature bullet: "**Swedish native mode**: `?lang=sv` serves quality translations with graceful English fallback"; rebuild both deploy zips (recipe in project memory) + smoke :8123 incl `?lang=sv` badge/name assertions; push main.
+- [x] **Step 3: Docs** — todos.md: mark Wave A shipped w/ SHAs; README feature bullet: "**Swedish native mode**: `?lang=sv` serves quality translations with graceful English fallback"; rebuild both deploy zips (recipe in project memory) + smoke :8123 incl `?lang=sv` badge/name assertions; push main.
 
-- [ ] **Step 4: Commits**
+- [x] **Step 4: Commits**
 
 ```bash
 git add -A

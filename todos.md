@@ -22,7 +22,7 @@
   - `hreflang` tags + `Content-Language` handling per locale
   - Language switcher UI placement + persistence (localStorage?)
   - Fallback behavior for untranslated entries
-- [ ] Optional: Zenodo v1.3.0 release (search page + a11y pass era)
+- [x] Optional: Zenodo v1.3.0 release (search page + a11y pass era) — DONE Aug 17 (tag v1.3.0 `a10c6a7`, zenodo-publish workflow SUCCESS, version DOI under concept 21941501; CITATION.cff+README bumped)
 - [x] Push main → origin (40 commits, 90c8db0..f783dd6) + deploy zip rebuilt (/tmp/whispering-lore-deploy.zip, 1457 files via git ls-files filter excluding dev-only paths) + smoke-tested :8123 (15 URLs 200 + real-browser toggle/latest/daily pass, 0 js errors)
 
 ## A11y Pass (Aug 21) — axe gate
