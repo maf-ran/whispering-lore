@@ -527,7 +527,7 @@ class StoriesViewer extends BaseViewer {
         history.replaceState(
           null,
           '',
-          '?story=' + encodeURIComponent(story.slug)
+          window.__sharedUtils.withLang('?story=' + encodeURIComponent(story.slug))
         )
 
         const backLink = document.getElementById('detail-back-link')
@@ -576,7 +576,14 @@ class StoriesViewer extends BaseViewer {
           (s.title && window.__sharedUtils.getSlug(s.title) === slug)
       )
       if (found) {
-        renderStory(found)
+        const shDec = window.__sharedUtils.Shimmer
+        if (window.__sharedUtils.isNative() && shDec && shDec.decorateItem) {
+          shDec.decorateItem('stories', found, function (err, decorated) {
+            renderStory(decorated || found)
+          })
+        } else {
+          renderStory(found)
+        }
         return
       }
     }
@@ -640,7 +647,7 @@ class StoriesViewer extends BaseViewer {
     this.releaseFocusTrap()
 
     document.title = 'Stories — Whispering Lore'
-    history.replaceState(null, '', window.location.pathname)
+    history.replaceState(null, '', window.__sharedUtils.withLang(window.location.pathname))
     window.scrollTo(
       0,
       parseInt(sessionStorage.getItem('wl-stories-scroll')) || 0

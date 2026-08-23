@@ -641,6 +641,21 @@ describe('Shimmer sv overlay merge', function () {
     });
   });
 
+  it('decorates slug-batch deliveries when native', function () {
+    window.history.replaceState({}, '', '/index.html?lang=sv');
+    Shimmer.slugBatches.creatures = {};
+    return new Promise(function (resolve) {
+      Shimmer.loadSlugBatch('creatures', 't', function (err, data) {
+        resolve({ err: err, data: data });
+      });
+    }).then(function (r) {
+      expect(r.err).toBeNull();
+      var troll = r.data.find(function (c) { return c.slug === 'troll' });
+      expect(troll.summary).toContain('bergstroll');
+      expect(troll._i18n).toEqual({ lang: 'sv', partial: true });
+    });
+  });
+
   it('does not merge or tag when not native', function () {
     window.history.replaceState({}, '', '/index.html');
     Shimmer.shards.creatures = {};

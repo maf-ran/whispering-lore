@@ -306,7 +306,10 @@ export class BaseViewer {
     if (this.state.sortBy !== 'relevance') params.set('sort', this.state.sortBy)
     if (this.state.page > 1) params.set('page', this.state.page)
     const qs = params.toString()
-    const url = qs ? '?' + qs : window.location.pathname
+    const SU = window.__sharedUtils
+    const url = qs
+      ? (SU && SU.withLang ? SU.withLang('?' + qs) : '?' + qs)
+      : (SU && SU.withLang ? SU.withLang(window.location.pathname) : window.location.pathname)
     window.history.replaceState(null, '', url)
   }
 

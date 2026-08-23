@@ -544,7 +544,7 @@ class CreaturesViewer extends BaseViewer {
         history.replaceState(
           null,
           '',
-          '?creature=' + encodeURIComponent(creature.slug)
+          window.__sharedUtils.withLang('?creature=' + encodeURIComponent(creature.slug))
         )
 
         const backLink = document.getElementById('detail-back-link')
@@ -591,7 +591,14 @@ class CreaturesViewer extends BaseViewer {
         return c.slug === slug
       })
       if (found) {
-        renderCreature(found)
+        const shDec = window.__sharedUtils.Shimmer
+        if (window.__sharedUtils.isNative() && shDec && shDec.decorateItem) {
+          shDec.decorateItem('creatures', found, function (err, decorated) {
+            renderCreature(decorated || found)
+          })
+        } else {
+          renderCreature(found)
+        }
         return
       }
     }
@@ -627,7 +634,7 @@ class CreaturesViewer extends BaseViewer {
     this.releaseFocusTrap()
 
     document.title = 'Bestiary — Whispering Lore'
-    history.replaceState(null, '', window.location.pathname)
+    history.replaceState(null, '', window.__sharedUtils.withLang(window.location.pathname))
     window.scrollTo(
       0,
       parseInt(sessionStorage.getItem('wl-creatures-scroll')) || 0

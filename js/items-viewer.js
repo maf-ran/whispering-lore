@@ -505,7 +505,7 @@ class ItemsViewer extends BaseViewer {
         history.replaceState(
           null,
           '',
-          '?item=' + encodeURIComponent(item.slug)
+          window.__sharedUtils.withLang('?item=' + encodeURIComponent(item.slug))
         )
 
         const backLink = document.getElementById('detail-back-link')
@@ -553,7 +553,19 @@ class ItemsViewer extends BaseViewer {
         if (window.__WL_PRELOAD) {
           await window.__WL_PRELOAD.catch(() => {})
         }
-        renderItem(found)
+        const shDec = window.__sharedUtils && window.__sharedUtils.Shimmer
+        if (
+          window.__sharedUtils &&
+          window.__sharedUtils.isNative() &&
+          shDec &&
+          shDec.decorateItem
+        ) {
+          shDec.decorateItem('items', found, (err, decorated) => {
+            renderItem(decorated || found)
+          })
+        } else {
+          renderItem(found)
+        }
         return
       }
     }
@@ -581,7 +593,7 @@ class ItemsViewer extends BaseViewer {
     this.releaseFocusTrap()
 
     document.title = 'Artifacts — Whispering Lore'
-    history.replaceState(null, '', window.location.pathname)
+    history.replaceState(null, '', window.__sharedUtils.withLang(window.location.pathname))
     window.scrollTo(
       0,
       parseInt(sessionStorage.getItem('wl-items-scroll')) || 0

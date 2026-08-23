@@ -413,10 +413,51 @@
     },
 
     // Load a slug batch (e.g. 'a', 'b')
+    // Slug batches mix regions; decorate each entry via its region overlay.
+    _deliverSlugBatch: function (type, err, data, callback) {
+      var self = this
+      var lang = err || !data || !data.length
+        ? null
+        : window.__sharedUtils.getNativeLang()
+      if (!lang) { callback(err, data); return }
+      var regions = []
+      var seen = {}
+      data.forEach(function (it) {
+        if (it.region && !seen[it.region]) { seen[it.region] = true; regions.push(it.region) }
+      })
+      if (!regions.length) { callback(err, data); return }
+      Promise.all(regions.map(function (r) {
+        return self._loadOverlayFor(type, r, lang)
+      })).then(function (ovs) {
+        var byRegion = {}
+        regions.forEach(function (r, i) {
+          if (ovs[i] && ovs[i].entries) byRegion[r] = ovs[i]
+        })
+        var out = data.map(function (it) {
+          var ov = byRegion[it.region]
+          if (!ov) return it
+          var c = Object.assign({}, it)
+          c._i18n = { lang: lang, partial: true }
+          var patch = ov.entries[c.slug]
+          if (patch) {
+            Object.keys(patch).forEach(function (k) {
+              c[k] = patch[k]
+            })
+          }
+          return c
+        })
+        callback(err, out)
+      }).catch(function () {
+        callback(err, data)
+      })
+    },
+
     loadSlugBatch: function (type, firstChar, callback) {
       if (!this.slugBatches[type]) this.slugBatches[type] = {}
       if (this.slugBatches[type][firstChar]) {
-        callback(null, this.slugBatches[type][firstChar])
+        // Non-native callers keep the original synchronous delivery.
+        if (!window.__sharedUtils.getNativeLang()) { callback(null, this.slugBatches[type][firstChar]); return }
+        this._deliverSlugBatch(type, null, this.slugBatches[type][firstChar], callback)
         return
       }
       const self = this
@@ -425,7 +466,7 @@
       )
         .then(function (data) {
           self.slugBatches[type][firstChar] = data
-          callback(null, data)
+          self._deliverSlugBatch(type, null, data, callback)
         })
         .catch(function () {
           callback(new Error('slug fetch error'))
@@ -452,15 +493,44 @@
       })
     },
 
+    // Single-item delivery: same overlay decoration as shards/batches.
+    _deliverItem: function (type, err, item, callback) {
+      var lang = err || !item || !item.region
+        ? null
+        : window.__sharedUtils.getNativeLang()
+      if (!lang) { callback(err, item); return }
+      var self = this
+      this._loadOverlayFor(type, item.region, lang).then(function (ov) {
+        if (!ov || !ov.entries) { callback(err, item); return }
+        var c = Object.assign({}, item)
+        c._i18n = { lang: lang, partial: true }
+        var patch = ov.entries[c.slug]
+        if (patch) {
+          Object.keys(patch).forEach(function (k) {
+            c[k] = patch[k]
+          })
+        }
+        callback(err, c)
+      }).catch(function () {
+        callback(err, item)
+      })
+    },
+
+    // Public single-item decoration for viewers rendering from raw caches.
+    decorateItem: function (type, item, callback) {
+      this._deliverItem(type, null, item, callback)
+    },
+
     // Get a single item by slug, loading batch if needed
     getItem: function (type, slug, callback) {
+      const deliver = (err, raw) => this._deliverItem(type, err, raw, callback)
       // Check already loaded shards
       const shards = this.shards[type] || {}
       for (const region in shards) {
         const items = shards[region]
         for (let i = 0; i < items.length; i++) {
           if (items[i].slug === slug) {
-            callback(null, items[i])
+            deliver(null, items[i])
             return
           }
         }
@@ -471,7 +541,7 @@
         const batch = batches[ch]
         for (let j = 0; j < batch.length; j++) {
           if (batch[j].slug === slug) {
-            callback(null, batch[j])
+            deliver(null, batch[j])
             return
           }
         }
@@ -486,7 +556,7 @@
         }
         for (let k = 0; k < data.length; k++) {
           if (data[k].slug === slug) {
-            callback(null, data[k])
+            self._deliverItem(type, null, data[k], callback)
             return
           }
         }

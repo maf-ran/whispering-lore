@@ -251,9 +251,9 @@ class SearchViewer {
       const q = e.target.value.trim()
       self._timer = setTimeout(() => {
         if (q) {
-          history.replaceState(null, '', '?q=' + encodeURIComponent(q))
+          history.replaceState(null, '', window.__sharedUtils.withLang('?q=' + encodeURIComponent(q)))
         } else {
-          history.replaceState(null, '', window.location.pathname)
+          history.replaceState(null, '', window.__sharedUtils.withLang(window.location.pathname))
         }
         self.run(q)
       }, 250)
