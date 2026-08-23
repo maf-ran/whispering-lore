@@ -79,8 +79,9 @@ test.describe('language toggle', () => {
   }) => {
     await page.click('#lang-toggle')
     await page.click('#language-menu [data-code="sv"]')
-    // native mode is URL-driven: no googtrans cookie, no element.js injection
-    await page.waitForURL('**/?lang=sv*', { timeout: 20000 })
+    // native mode is URL-driven: no googtrans cookie, no element.js injection.
+    // NOTE: predicate (not glob) — '?' would be a single-char wildcard in a glob.
+    await page.waitForURL((u) => u.searchParams.get('lang') === 'sv', { timeout: 20000 })
     const cookie = await page.evaluate(() => document.cookie)
     expect(cookie).not.toContain('googtrans=')
     await expect
