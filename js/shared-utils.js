@@ -558,6 +558,48 @@
   window.__sharedUtils = {
     fetchJSON: fetchJSON,
     escapeXml: escapeXml,
+
+    // ── Native language state (Phase 2: ?lang=sv) ──
+    // Only languages with curated overlay content ship natively; any other
+    // ?lang= value falls through to the Google Translate flow.
+    getNativeLang: function () {
+      try {
+        var m = window.location.search.match(/[?&]lang=([A-Za-z-]+)/)
+        if (!m) return null
+        return ['sv'].indexOf(m[1]) !== -1 ? m[1] : null
+      } catch (e) {
+        return null
+      }
+    },
+
+    isNative: function () {
+      return this.getNativeLang() !== null
+    },
+
+    withLang: function (url, lang) {
+      // only default when the argument is omitted; explicit null means "strip"
+      if (lang === undefined) lang = this.getNativeLang()
+      var hash = ''
+      var hashIdx = url.indexOf('#')
+      if (hashIdx !== -1) {
+        hash = url.slice(hashIdx)
+        url = url.slice(0, hashIdx)
+      }
+      url = url
+        .replace(/([?&])lang=[^&]*/g, '$1')
+        .replace(/\?&+/, '?')
+        .replace(/&&+/g, '&')
+        .replace(/[?&]$/, '')
+      if (!lang) return url + hash
+      var sep = url.indexOf('?') === -1 ? '?' : '&'
+      return url + sep + 'lang=' + lang + hash
+    },
+
+    stripLangUrl: function (url) {
+      return this.withLang(url, null)
+    },
+
+
     animateNumber: animateNumber,
     getSlug: getSlug,
     normalizeName: normalizeName,
