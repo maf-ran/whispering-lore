@@ -1130,3 +1130,45 @@ describe('Shimmer.getItem (slug not in batch)', function () {
     });
   });
 });
+
+describe('Shimmer overlay coverage map', function () {
+  afterEach(function () {
+    window.history.replaceState({}, '', '/index.html');
+  });
+
+  it('skips network for keys absent from manifest.i18n', function () {
+    window.history.replaceState({}, '', '/index.html?lang=sv');
+    Shimmer.manifest = fixtureMap['data/sharded/manifest.json'];
+    Shimmer._overlayPromises = {};
+    var calls = 0;
+    var origFetch = global.fetch;
+    global.fetch = function (url) {
+      calls++;
+      return origFetch(url);
+    };
+    return new Promise(function (resolve) {
+      Shimmer._loadOverlayFor('creatures', 'Celtic', 'sv').then(function (ov) {
+        resolve({ ov: ov, calls: calls });
+      });
+    }).then(function (r) {
+      global.fetch = origFetch;
+      expect(r.ov).toBeNull();
+      expect(r.calls).toBe(0);
+      delete Shimmer._overlayPromises['sv:creatures:Celtic'];
+    });
+  });
+
+  it('fetches keys present in manifest.i18n', function () {
+    window.history.replaceState({}, '', '/index.html?lang=sv');
+    Shimmer.manifest = fixtureMap['data/sharded/manifest.json'];
+    Shimmer._overlayPromises = {};
+    return new Promise(function (resolve) {
+      Shimmer._loadOverlayFor('creatures', 'Nordic', 'sv').then(function (ov) {
+        resolve(ov);
+      });
+    }).then(function (ov) {
+      expect(ov).not.toBeNull();
+      delete Shimmer._overlayPromises['sv:creatures:Nordic'];
+    });
+  });
+});

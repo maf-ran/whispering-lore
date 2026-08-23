@@ -299,6 +299,16 @@
           .toLowerCase()
           .replace(/[^a-z0-9]+/g, '-')
           .replace(/^-|-$/g, '')
+        // Coverage map: manifest-declared overlays only; everything else
+        // short-circuits to null without touching the network.
+        var cov =
+          this.manifest &&
+          this.manifest.i18n &&
+          this.manifest.i18n[lang]
+        if (cov && !((type + '-' + fileKey) in cov)) {
+          this._overlayPromises[key] = Promise.resolve(null)
+          return this._overlayPromises[key]
+        }
         this._overlayPromises[key] = fetchJSON(
           'data/i18n/' + lang + '/' + type + '-' + fileKey + '.json'
         ).catch(function () {
