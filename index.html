@@ -76,14 +76,14 @@
     <div class="header-divider" aria-hidden="true"></div>
     <div class="header-nav-strip">
       <nav id="site-nav" aria-label="Main navigation">
-      <a href="index.html" class="active">HOME</a>
-      <a href="bestiary.html">BESTIARY</a>
-      <a href="items.html">ARTIFACTS</a>
-      <a href="stories.html">STORIES</a>
-      <a href="world.html">WORLD</a>
-      <a href="quiz.html">EXAMINATION</a>
-      <a href="about.html">ABOUT</a>
-      <a href="mylore.html">MY LORE</a>
+      <a href="index.html" class="active" data-i18n="nav.home">HOME</a>
+      <a href="bestiary.html" data-i18n="nav.bestiary">BESTIARY</a>
+      <a href="items.html" data-i18n="nav.items">ARTIFACTS</a>
+      <a href="stories.html" data-i18n="nav.stories">STORIES</a>
+      <a href="world.html" data-i18n="nav.world">WORLD</a>
+      <a href="quiz.html" data-i18n="nav.quiz">EXAMINATION</a>
+      <a href="about.html" data-i18n="nav.about">ABOUT</a>
+      <a href="mylore.html" data-i18n="nav.mylore">MY LORE</a>
       </nav>
     </div>
     <button class="theme-toggle" id="theme-toggle" aria-label="Toggle light/dark mode">
@@ -105,40 +105,40 @@
 
     <div class="hero-content">
       <h1>Whispering <span class="hero-accent">LORE</span></h1>
-      <p>A digital compendium of mythical creatures, forgotten legends, and ancient folklore from every corner of the world.</p>
+      <p data-i18n="hero.sub">A digital compendium of mythical creatures, forgotten legends, and ancient folklore from every corner of the world.</p>
        <div class="hero-actions">
           <div class="hero-actions-row">
-            <a href="bestiary.html" class="btn-ghost">Explore Bestiary</a>
-            <a href="stories.html" class="btn-ghost">Read Stories</a>
+            <a href="bestiary.html" class="btn-ghost" data-i18n="btn.explore_bestiary">Explore Bestiary</a>
+            <a href="stories.html" class="btn-ghost" data-i18n="btn.read_stories">Read Stories</a>
           </div>
           <div class="hero-actions-row">
-            <button class="btn-ghost" id="btn-random-creature">Random Creature</button>
-            <button class="btn-ghost" id="btn-random-story">Random Story</button>
-            <button class="btn-ghost" id="btn-surprise-me">Surprise Me</button>
+            <button class="btn-ghost" id="btn-random-creature" data-i18n="btn.random_creature">Random Creature</button>
+            <button class="btn-ghost" id="btn-random-story" data-i18n="btn.random_story">Random Story</button>
+            <button class="btn-ghost" id="btn-surprise-me" data-i18n="btn.surprise_me">Surprise Me</button>
           </div>
         </div>
       <div class="hero-stats">
         <div class="hero-stat">
            <span class="hero-stat-num" id="stat-creatures">3,668</span>
-           <span class="hero-stat-label">Creatures</span>
+           <span class="hero-stat-label" data-i18n="stats.creatures">Creatures</span>
          </div>
          <div class="hero-stat">
                 <span class="hero-stat-num" id="stat-stories">2,185</span>
-           <span class="hero-stat-label">Stories</span>
+           <span class="hero-stat-label" data-i18n="stats.stories">Stories</span>
          </div>
          <div class="hero-stat">
               <span class="hero-stat-num" id="stat-countries">212</span>
-            <span class="hero-stat-label">Countries</span>
+            <span class="hero-stat-label" data-i18n="stats.countries">Countries</span>
           </div>
           <div class="hero-stat">
              <span class="hero-stat-num" id="stat-artifacts">641</span>
-            <span class="hero-stat-label">Artifacts</span>
+            <span class="hero-stat-label" data-i18n="stats.artifacts">Artifacts</span>
           </div>
        </div>
     </div>
 
-    <button class="hero-feature-pill" id="hero-feature-pill" onclick="document.getElementById('daily-feature').scrollIntoView({behavior:'smooth'})">TODAY'S FEATURE ↓</button>
-    <span class="hero-scroll">Scroll to explore</span>
+    <button class="hero-feature-pill" id="hero-feature-pill" data-i18n="hero.feature_pill" onclick="document.getElementById('daily-feature').scrollIntoView({behavior:'smooth'})">TODAY'S FEATURE ↓</button>
+    <span class="hero-scroll" data-i18n="hero.scroll">Scroll to explore</span>
   </section>
 
   <!-- ── Daily Feature ── -->
@@ -148,19 +148,19 @@
     <div class="daily-feature-frame-left" aria-hidden="true"></div>
     <div class="daily-feature-frame-right" aria-hidden="true"></div>
     <div class="section-heading">
-      <h2>Today's Feature</h2>
+      <h2 data-i18n="daily.heading">Today's Feature</h2>
       <span class="crimson-line"></span>
     </div>
     <div class="feature-grid">
       <div class="feature-card" id="daily-creature">
         <span class="accent-line"></span>
-        <span class="feature-badge">Creature of the Day</span>
-        <p class="feature-excerpt">Awaiting the day's legend...</p>
+        <span class="feature-badge" data-i18n="daily.creature">Creature of the Day</span>
+        <p class="feature-excerpt" data-i18n="daily.await_creature">Awaiting the day's legend...</p>
       </div>
       <div class="feature-card" id="daily-story">
         <span class="accent-line"></span>
-        <span class="feature-badge">Story of the Day</span>
-        <p class="feature-excerpt">Awaiting the day's tale...</p>
+        <span class="feature-badge" data-i18n="daily.story">Story of the Day</span>
+        <p class="feature-excerpt" data-i18n="daily.await_story">Awaiting the day's tale...</p>
       </div>
     </div>
   </section>
@@ -174,7 +174,7 @@
 
   <section class="grid-section">
     <div class="section-heading">
-      <h2>Explore the Lore</h2>
+      <h2 data-i18n="grid.heading">Explore the Lore</h2>
       <span class="crimson-line"></span>
     </div>
     <div class="content-grid content-grid--asymmetric">
@@ -182,27 +182,27 @@
         <div class="card-image-placeholder"><svg viewBox="0 0 48 48" fill="none" width="36" height="36" opacity="0.25"><path d="M24 6L8 18v12l16 12 16-12V18L24 6z" stroke="currentColor" stroke-width="0.8"/><circle cx="24" cy="24" r="6" stroke="currentColor" stroke-width="0.8"/><circle cx="20" cy="20" r="2" fill="currentColor"/><circle cx="28" cy="20" r="2" fill="currentColor"/><path d="M20 26c2 2 6 2 8 0" stroke="currentColor" stroke-width="0.8"/></svg></div>
         <div class="card-body">
           <span class="crimson-accent"></span>
-          <h3>Mythical Creatures</h3>
-          <p>Discover dragons, spirits, and legendary beings from 212 countries and cultures across the world.</p>
-          <a href="bestiary.html" class="card-cta">Enter the Bestiary</a>
+          <h3 data-i18n="card.creatures.title">Mythical Creatures</h3>
+          <p data-i18n="card.creatures.sub">Discover dragons, spirits, and legendary beings from 212 countries and cultures across the world.</p>
+          <a href="bestiary.html" class="card-cta" data-i18n="card.creatures.cta">Enter the Bestiary</a>
         </div>
       </article>
       <article class="card">
         <div class="card-image-placeholder"><svg viewBox="0 0 48 48" fill="none" width="36" height="36" opacity="0.25"><path d="M10 8h28v32H10V8z" stroke="currentColor" stroke-width="0.8"/><path d="M14 14h20v2H14v-2zm0 5h20v2H14v-2zm0 5h20v2H14v-2zm0 5h14v2H14v-2z" stroke="currentColor" stroke-width="0.6"/><path d="M34 30l4 4v6" stroke="currentColor" stroke-width="0.8"/></svg></div>
         <div class="card-body">
           <span class="crimson-accent"></span>
-          <h3>Folklore Stories</h3>
-          <p>Journey through classic folktales, epic myths, and cautionary legends passed down through generations.</p>
-          <a href="stories.html" class="card-cta">Read Tales</a>
+          <h3 data-i18n="card.stories.title">Folklore Stories</h3>
+          <p data-i18n="card.stories.sub">Journey through classic folktales, epic myths, and cautionary legends passed down through generations.</p>
+          <a href="stories.html" class="card-cta" data-i18n="card.stories.cta">Read Tales</a>
         </div>
       </article>
       <article class="card">
         <div class="card-image-placeholder"><svg viewBox="0 0 48 48" fill="none" width="36" height="36" opacity="0.25"><circle cx="24" cy="24" r="18" stroke="currentColor" stroke-width="0.8"/><ellipse cx="24" cy="24" rx="10" ry="18" stroke="currentColor" stroke-width="0.8"/><path d="M6 24h36M18 6.5c-4 5.5-4 16 0 21M30 6.5c4 5.5 4 16 0 21" stroke="currentColor" stroke-width="0.6"/></svg></div>
         <div class="card-body">
           <span class="crimson-accent"></span>
-          <h3>Worldbuilding Atlas</h3>
-          <p>Explore the rich tapestry of cultural mythology — from Nordic sagas to East Asian yōkai and African trickster tales.</p>
-          <a href="world.html" class="card-cta">Explore the World</a>
+          <h3 data-i18n="card.world.title">Worldbuilding Atlas</h3>
+          <p data-i18n="card.world.sub">Explore the rich tapestry of cultural mythology — from Nordic sagas to East Asian yōkai and African trickster tales.</p>
+          <a href="world.html" class="card-cta" data-i18n="card.world.cta">Explore the World</a>
         </div>
       </article>
     </div>
@@ -215,8 +215,8 @@
       </div>
       <div class="world-text">
         <span class="crimson-line"></span>
-        <h2>Realm of Echoes</h2>
-        <p>Across mist-shrouded valleys and ancient ruins, the Whispering Lore world weaves together mythic fragments from every civilization. Each story is a thread in an ever-growing tapestry — a living archive of humanity's imagination, waiting for the curious to uncover its secrets.</p>
+        <h2 data-i18n="realm.heading">Realm of Echoes</h2>
+        <p data-i18n="realm.text">Across mist-shrouded valleys and ancient ruins, the Whispering Lore world weaves together mythic fragments from every civilization. Each story is a thread in an ever-growing tapestry — a living archive of humanity's imagination, waiting for the curious to uncover its secrets.</p>
       </div>
     </div>
   </section>
@@ -224,7 +224,7 @@
   <section class="latest-section">
     <div class="latest-inner">
       <div class="section-heading">
-        <h2>Latest Additions</h2>
+        <h2 data-i18n="latest.heading">Latest Additions</h2>
         <span class="crimson-line"></span>
       </div>
       <div class="latest-grid" id="latest-grid">
@@ -237,18 +237,18 @@
   <footer>
     <span class="crimson-line"></span>
     <div class="footer-nav" aria-label="Footer navigation">
-      <a href="index.html">Home</a>
-      <a href="bestiary.html">Bestiary</a>
-      <a href="items.html">Artifacts</a>
-      <a href="stories.html">Stories</a>
-      <a href="world.html">World</a>
-      <a href="quiz.html">Examination</a>
-      <a href="about.html">About</a>
-      <a href="mylore.html">My Lore</a>
-      <a href="methodology.html">Methodology</a>
+      <a href="index.html" data-i18n="footer.nav.home">Home</a>
+      <a href="bestiary.html" data-i18n="footer.nav.bestiary">Bestiary</a>
+      <a href="items.html" data-i18n="footer.nav.items">Artifacts</a>
+      <a href="stories.html" data-i18n="footer.nav.stories">Stories</a>
+      <a href="world.html" data-i18n="footer.nav.world">World</a>
+      <a href="quiz.html" data-i18n="footer.nav.quiz">Examination</a>
+      <a href="about.html" data-i18n="footer.nav.about">About</a>
+      <a href="mylore.html" data-i18n="footer.nav.mylore">My Lore</a>
+      <a href="methodology.html" data-i18n="footer.nav.methodology">Methodology</a>
     </div>
     <div class="ko-fi-support" aria-label="Support Whispering Lore on Ko-fi">
-      <p class="ko-fi-label">Help keep the archive alive</p>
+      <p class="ko-fi-label" data-i18n="kofi.label">Help keep the archive alive</p>
       <script type='text/javascript'>
       (function () {
         function loadKoFi() {
@@ -272,7 +272,7 @@
       </script>
     </div>
     <p>Whispering Lore &nbsp;<span class="logo-mark logo-mark-icon" aria-hidden="true"><svg viewBox="0 0 32 32" fill="none" width="100%" height="100%"><path d="M16 2L30 16L16 30L2 16L16 2Z" stroke="currentColor" stroke-width="1.5"/><path d="M16 8L24 16L16 24L8 16L16 8Z" stroke="currentColor" stroke-width="1"/><path d="M2 16H30" stroke="currentColor" stroke-width="0.8" opacity="0.4"/><path d="M16 2V30" stroke="currentColor" stroke-width="0.8" opacity="0.4"/></svg></span>&nbsp; 2026</p>
-    <p class="footer-tagline">Preserving the myths and legends of humanity</p>
+    <p class="footer-tagline" data-i18n="footer.tagline">Preserving the myths and legends of humanity</p>
   </footer>
 
   <script src="js/shared-utils.js"></script>
@@ -282,6 +282,7 @@
   <script>if('serviceWorker' in navigator){navigator.serviceWorker.register('/sw.js')}</script>
 <script src="js/theme-toggle.js" defer></script>
 <script src="js/language-toggle.js" defer></script>
+  <script src="js/i18n.js" defer></script>
 <button id="scroll-to-top" class="scroll-to-top" aria-label="Scroll to top">
   <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true" focusable="false">
     <path d="M18 15l-6-6-6 6"/>

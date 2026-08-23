@@ -85,14 +85,14 @@
     <div class="header-divider" aria-hidden="true"></div>
     <div class="header-nav-strip">
       <nav id="site-nav" aria-label="Main navigation">
-        <a href="index.html">HOME</a>
-        <a href="bestiary.html">BESTIARY</a>
-        <a href="items.html">ARTIFACTS</a>
-        <a href="stories.html" class="active">STORIES</a>
-        <a href="world.html">WORLD</a>
-        <a href="quiz.html">EXAMINATION</a>
-        <a href="about.html">ABOUT</a>
-        <a href="mylore.html">MY LORE</a>
+        <a href="index.html" data-i18n="nav.home">HOME</a>
+        <a href="bestiary.html" data-i18n="nav.bestiary">BESTIARY</a>
+        <a href="items.html" data-i18n="nav.items">ARTIFACTS</a>
+        <a href="stories.html" class="active" data-i18n="nav.stories">STORIES</a>
+        <a href="world.html" data-i18n="nav.world">WORLD</a>
+        <a href="quiz.html" data-i18n="nav.quiz">EXAMINATION</a>
+        <a href="about.html" data-i18n="nav.about">ABOUT</a>
+        <a href="mylore.html" data-i18n="nav.mylore">MY LORE</a>
         
       </nav>
     </div>
@@ -113,16 +113,16 @@
     <div class="hero-bg"></div>
     <canvas id="rune-canvas" class="rune-scatter" aria-hidden="true"></canvas>
     <div class="page-hero-content">
-      <h1>Stories</h1>
+      <h1 data-i18n="hero.stories">Stories</h1>
       <span class="accent-line"></span>
-      <p>Folktales, legends, and myths passed down through generations — from every culture across the world.</p>
+      <p data-i18n="hero.stories_sub">Folktales, legends, and myths passed down through generations — from every culture across the world.</p>
     </div>
   </section>
 
   <div class="filter-bar">
     <div class="filter-group">
-      <label for="story-search" class="sr-only">Search stories</label>
-      <input type="text" id="story-search" placeholder="Search stories…" />
+      <label for="story-search" class="sr-only" data-i18n="filter.search_stories">Search stories</label>
+      <input type="text" id="story-search" placeholder="Search stories…" data-i18n-placeholder="filter.placeholder_stories" />
     </div>
   </div>
 
@@ -130,35 +130,35 @@
     <aside class="bestiary-sidebar">
       <div class="sidebar-controls">
         <div class="control-group">
-          <label for="story-region-filter">Region</label>
+          <label for="story-region-filter" data-i18n="filter.region">Region</label>
           <select id="story-region-filter">
-            <option value="all">All Regions</option>
+            <option value="all" data-i18n="ui.all_regions">All Regions</option>
           </select>
         </div>
         <div class="control-group">
-          <label for="story-country-filter">Country</label>
+          <label for="story-country-filter" data-i18n="filter.country">Country</label>
           <select id="story-country-filter">
-            <option value="all">All Countries</option>
+            <option value="all" data-i18n="ui.all_countries">All Countries</option>
           </select>
         </div>
         <div class="control-group">
-          <label for="story-tribe-filter">Tribe</label>
+          <label for="story-tribe-filter" data-i18n="filter.tribe">Tribe</label>
           <select id="story-tribe-filter">
-            <option value="all">All Tribes</option>
+            <option value="all" data-i18n="ui.all_tribes">All Tribes</option>
           </select>
         </div>
         <div class="control-group">
-          <label for="story-type-filter">Type</label>
+          <label for="story-type-filter" data-i18n="filter.type">Type</label>
           <select id="story-type-filter">
-            <option value="all">All Types</option>
+            <option value="all" data-i18n="ui.all_types">All Types</option>
           </select>
         </div>
         <div class="control-group">
-          <label for="stories-sort">Sort By</label>
+          <label for="stories-sort" data-i18n="filter.sort">Sort By</label>
           <select id="stories-sort">
             <option value="relevance">Relevance</option>
-            <option value="alphabetical">A-Z</option>
-            <option value="newest">Newest</option>
+            <option value="alphabetical" data-i18n="ui.sort_az">A-Z</option>
+            <option value="newest" data-i18n="ui.sort_newest">Newest</option>
           </select>
         </div>
       </div>
@@ -175,22 +175,22 @@
       </div>
 
       <div class="facet-group" data-dimension="region">
-        <h2>Region</h2>
+        <h2 data-i18n="facet.region">Region</h2>
         <div class="facet-options"></div>
       </div>
       <div class="facet-group" data-dimension="country">
-        <h2>Country</h2>
+        <h2 data-i18n="facet.country">Country</h2>
         <div class="facet-options"></div>
       </div>
       <div class="facet-group" data-dimension="type">
-        <h2>Type</h2>
+        <h2 data-i18n="facet.type">Type</h2>
         <div class="facet-options"></div>
       </div>
     </aside>
     <div class="bestiary-main">
-      <p class="story-count" aria-live="polite">Loading stories...</p>
+      <p class="story-count" aria-live="polite" data-i18n="state.loading_stories">Loading stories...</p>
       <div id="story-empty" class="no-results is-hidden">
-        <p role="alert">The archives are silent. No stories match your search.</p>
+        <p role="alert" data-i18n="state.no_results">The archives are silent. No stories match your search.</p>
       </div>
       <div class="filter-chips-container"></div>
       <section class="grid-section grid-section-nopad">
@@ -238,29 +238,29 @@
       <div class="cd-main">
         <div class="cd-content">
           <div class="detail-section">
-            <h3>Tell the Tale</h3>
+            <h3 data-i18n="detail.tale">Tell the Tale</h3>
             <div id="detail-fulltext"></div>
           </div>
           <div class="detail-grid">
             <div class="detail-section">
-              <h3>Themes</h3>
+              <h3 data-i18n="detail.themes">Themes</h3>
               <p id="detail-themes"></p>
             </div>
             <div class="detail-section">
-              <h3>Moral</h3>
+              <h3 data-i18n="detail.moral">Moral</h3>
               <p id="detail-moral"></p>
             </div>
           </div>
           <div class="detail-section">
-            <h3>Period</h3>
+            <h3 data-i18n="detail.period">Period</h3>
             <p id="detail-period"></p>
           </div>
           <div class="cd-crossref is-hidden" id="story-recs">
-            <h2 class="detail-section-title">Similar Tales</h2>
+            <h2 class="detail-section-title" data-i18n="detail.similar">Similar Tales</h2>
             <div class="detail-creature-grid" id="story-recs-grid"></div>
           </div>
           <div class="cd-crossref is-hidden" id="detail-creatures-section">
-            <h2 class="detail-section-title">Creatures Within This Tale</h2>
+            <h2 class="detail-section-title" data-i18n="detail.in_tale">Creatures Within This Tale</h2>
             <div class="detail-creature-grid" id="detail-creatures"></div>
           </div>
         </div>
@@ -315,18 +315,18 @@
   <footer>
     <span class="crimson-line"></span>
     <div class="footer-nav" aria-label="Footer navigation">
-      <a href="index.html">Home</a>
-      <a href="bestiary.html">Bestiary</a>
-      <a href="items.html">Artifacts</a>
-      <a href="stories.html">Stories</a>
-      <a href="world.html">World</a>
-      <a href="quiz.html">Examination</a>
-      <a href="about.html">About</a>
-      <a href="mylore.html">My Lore</a>
-      <a href="methodology.html">Methodology</a>
+      <a href="index.html" data-i18n="footer.nav.home">Home</a>
+      <a href="bestiary.html" data-i18n="footer.nav.bestiary">Bestiary</a>
+      <a href="items.html" data-i18n="footer.nav.items">Artifacts</a>
+      <a href="stories.html" data-i18n="footer.nav.stories">Stories</a>
+      <a href="world.html" data-i18n="footer.nav.world">World</a>
+      <a href="quiz.html" data-i18n="footer.nav.quiz">Examination</a>
+      <a href="about.html" data-i18n="footer.nav.about">About</a>
+      <a href="mylore.html" data-i18n="footer.nav.mylore">My Lore</a>
+      <a href="methodology.html" data-i18n="footer.nav.methodology">Methodology</a>
     </div>
     <div class="ko-fi-support" aria-label="Support Whispering Lore on Ko-fi">
-      <p class="ko-fi-label">Help keep the archive alive</p>
+      <p class="ko-fi-label" data-i18n="kofi.label">Help keep the archive alive</p>
       <script type='text/javascript'>
       (function () {
         function loadKoFi() {
@@ -350,7 +350,7 @@
       </script>
     </div>
     <p>Whispering Lore &nbsp;<span class="logo-mark logo-mark-icon" aria-hidden="true"><svg viewBox="0 0 32 32" fill="none" width="100%" height="100%"><path d="M16 2L30 16L16 30L2 16L16 2Z" stroke="currentColor" stroke-width="1.5"/><path d="M16 8L24 16L16 24L8 16L16 8Z" stroke="currentColor" stroke-width="1"/><path d="M2 16H30" stroke="currentColor" stroke-width="0.8" opacity="0.4"/><path d="M16 2V30" stroke="currentColor" stroke-width="0.8" opacity="0.4"/></svg></span>&nbsp; 2026</p>
-    <p class="footer-tagline">Preserving the myths and legends of humanity</p>
+    <p class="footer-tagline" data-i18n="footer.tagline">Preserving the myths and legends of humanity</p>
   </footer>
 
   <script src="js/shared-utils.js"></script>
@@ -379,6 +379,7 @@
   <script>if('serviceWorker' in navigator){navigator.serviceWorker.register('/sw.js')}</script>
   <script src="js/theme-toggle.js" defer></script>
 <script src="js/language-toggle.js" defer></script>
+  <script src="js/i18n.js" defer></script>
 <button id="scroll-to-top" class="scroll-to-top" aria-label="Scroll to top">
   <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true" focusable="false">
     <path d="M18 15l-6-6-6 6"/>

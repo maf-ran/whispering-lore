@@ -665,7 +665,9 @@
       if (!entry || !entry._i18n || !entry._i18n.partial) return null
       var el = document.createElement('span')
       el.className = 'i18n-pending'
-      el.textContent = 'översättning saknas'
+      var lang = this.getNativeLang()
+      var dict = lang && window.__i18n ? window.__i18n[lang] : null
+      el.textContent = (dict && dict['badge.pending']) || 'översättning saknas'
       return el
     },
 
