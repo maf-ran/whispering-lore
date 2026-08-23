@@ -51,6 +51,8 @@ class StoriesViewer extends BaseViewer {
     const h3 = document.createElement('h3')
     h3.textContent = story.title
     body.appendChild(h3)
+    const badge = window.__sharedUtils.i18nBadgeEl(story)
+    if (badge) body.appendChild(badge)
 
     const p = document.createElement('p')
     p.textContent = story.summary || 'No summary available.'
@@ -308,6 +310,12 @@ class StoriesViewer extends BaseViewer {
         }
 
         setText('detail-title', story.title || slug)
+        {
+          const titleWrap = document.getElementById('detail-title')
+          const dBadge = window.__sharedUtils.i18nBadgeEl(story)
+          if (titleWrap && dBadge) titleWrap.insertAdjacentElement('afterend', dBadge)
+          else if (titleWrap && titleWrap.nextElementSibling && titleWrap.nextElementSibling.classList.contains('i18n-pending')) titleWrap.nextElementSibling.remove()
+        }
         setText('detail-country', story.country || 'Unknown')
         setText('detail-region', story.region || 'Unknown')
         setText('detail-themes', story.themes || 'Not documented')

@@ -51,6 +51,8 @@ class ItemsViewer extends BaseViewer {
     const h3 = document.createElement('h3')
     h3.textContent = item.name
     body.appendChild(h3)
+    const badge = window.__sharedUtils.i18nBadgeEl(item)
+    if (badge) body.appendChild(badge)
 
     if (item.type) {
       const typeEl = document.createElement('span')
@@ -294,6 +296,12 @@ class ItemsViewer extends BaseViewer {
         }
 
         setText('detail-name', item.name || slug)
+        {
+          const nameWrap = document.getElementById('detail-name')
+          const dBadge = window.__sharedUtils.i18nBadgeEl(item)
+          if (nameWrap && dBadge) nameWrap.insertAdjacentElement('afterend', dBadge)
+          else if (nameWrap && nameWrap.nextElementSibling && nameWrap.nextElementSibling.classList.contains('i18n-pending')) nameWrap.nextElementSibling.remove()
+        }
         setText('detail-country', item.country || 'Unknown')
         setText('detail-region', item.region || 'Unknown')
         setText('detail-culture', item.culture || 'Not documented')

@@ -48,6 +48,8 @@ class CreaturesViewer extends BaseViewer {
     const h3 = document.createElement('h3')
     h3.textContent = creature.name
     body.appendChild(h3)
+    const badge = window.__sharedUtils.i18nBadgeEl(creature)
+    if (badge) body.appendChild(badge)
 
     const p = document.createElement('p')
     p.textContent = creature.description || 'No description available.'
@@ -332,6 +334,12 @@ class CreaturesViewer extends BaseViewer {
           if (el) el.textContent = val || ''
         }
         setText('detail-name', creature.name || slug)
+        {
+          const nameWrap = document.getElementById('detail-name')
+          const dBadge = window.__sharedUtils.i18nBadgeEl(creature)
+          if (nameWrap && dBadge) nameWrap.insertAdjacentElement('afterend', dBadge)
+          else if (nameWrap && nameWrap.nextElementSibling && nameWrap.nextElementSibling.classList.contains('i18n-pending')) nameWrap.nextElementSibling.remove()
+        }
 
         if (creature.pronunciation_ipa) {
           const nameEl = document.getElementById('detail-name')

@@ -3679,3 +3679,20 @@ body {
   top: 0 !important;
 }
 
+
+/* ── Translation pending badge (i18n Phase 2) ── */
+.i18n-pending {
+  display: inline-block;
+  font-family: var(--font-body);
+  font-size: 0.68rem;
+  letter-spacing: 0.04em;
+  color: var(--accent-strong);
+  border: 1px solid rgba(var(--accent-rgb), 0.45);
+  background: rgba(var(--accent-rgb), 0.12);
+  padding: 0.1rem 0.45rem;
+  border-radius: 999px;
+}
+
+[data-theme='light'] .i18n-pending {
+  color: #991b1b;
+}

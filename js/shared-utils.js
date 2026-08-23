@@ -659,6 +659,16 @@
       return this.withLang(url, null)
     },
 
+    // Muted "translation missing" marker for entries lacking sv coverage.
+    i18nBadgeEl: function (entry) {
+      if (!this.isNative()) return null
+      if (!entry || !entry._i18n || !entry._i18n.partial) return null
+      var el = document.createElement('span')
+      el.className = 'i18n-pending'
+      el.textContent = 'översättning saknas'
+      return el
+    },
+
 
     animateNumber: animateNumber,
     getSlug: getSlug,
