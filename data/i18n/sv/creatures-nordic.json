@@ -2,209 +2,309 @@
   "_meta": {
     "lang": "sv",
     "source": "wave-a pilot",
-    "count": 250,
-    "fullEntries": 200
+    "count": 314,
+    "fullEntries": 314
   },
   "entries": {
     "tomte": {
       "name": "Tomte",
-      "summary": "Gårdsvätte som härstammar från fornnordiskans \"tomt\" (tomtplats); belönar omsorg om gården och straffar försumlighet."
+      "summary": "Gårdsvätte som härstammar från fornnordiskans \"tomt\" (tomtplats); belönar omsorg om gården och straffar försumlighet.",
+      "description": "Tomten är gården och ladugårdens skyddsvätte i svensk folktro: liten, gråklädd med röd luva, bosatt under husgolvet eller i kornbinden. Han hjälper till nattetid med arbete, vakar boskapen och straffar försumlighet med bus och olycka. Julgröt med smör är hans rättighet sedan urminnes tid; glöms den flyttar han lyckan till grannen. Tomten är förebilden till jultomten och en av svensk folktrons mest levande gestalter.",
+      "complete": true
     },
     "tomte-v-tt": {
       "name": "Tomte-Vätt",
-      "summary": "Tomte-Vätt är en dvärg i svensk folktro, en del av den bredare skandinaviska och germanska mytologiska traditionen."
+      "summary": "Tomte-Vätt är en dvärg i svensk folktro, en del av den bredare skandinaviska och germanska mytologiska traditionen.",
+      "description": "Tomte-Vätten är den svenska dvärggestalten som förenar tomtens gårdsvakt med vättens naturknutna karaktär: en liten, stark varelse som bor i stenrösen eller under golvet och umgås med gårdsfolket på sina egna villkor. Han är del av det bredare skandinavisk-germanska väsenkomplexet där tomte, vätte och nisse är lokala former av samma grundtanke — att varje boplats har sin osynliga arbetare och väktare.",
+      "complete": true
     },
     "troll-norway": {
       "name": "Troll",
-      "summary": "Norska troll — ett fruktat, människoliknande släktesnamn i skandinavisk folktro, allt från jättelika bergtroll till mindre, dvärglika väsen."
+      "summary": "Norska troll — ett fruktat, människoliknande släktesnamn i skandinavisk folktro, allt från jättelika bergtroll till mindre, dvärglika väsen.",
+      "description": "Norska troll är skogens och bergens stora väsen: jättestora eller dvärgsmå, med sneda näsor och träliknande hud, boende i djupa grottor och fjällhålorna. De rör sig endast om natten — solljuset förstenar dem till de många trollestenarna i landskapet. De äter, dricker, dansar och gillar aldrig kristendomens ljud; kyrkklockor och psalmer driver dem på flykt. Norska troll är bland Nordens mest ikoniska, sedda i Kittelsens konst och i varje norsk fjälldal.",
+      "complete": true
     },
     "troll-sweden": {
       "name": "Troll",
-      "summary": "Svenska troll — ett fruktat, människoliknande släktesnamn i skandinavisk folktro, allt från jättelika bergtroll till mindre, dvärglika väsen."
+      "summary": "Svenska troll — ett fruktat, människoliknande släktesnamn i skandinavisk folktro, allt från jättelika bergtroll till mindre, dvärglika väsen.",
+      "description": "Svenska troll lever i skogar, berg och under broar — oftast i familjer med gamla trollmödrar som härskar över sina soner. De är starka, dumma och giriga; kristna symboler, järn och soluppgång är deras fiender. Svenska sägner skiljer mellan skogstroll, bergtroll och vattentroll, och berättelserna om dem användes för att hålla barn från farliga platser. John Bauers illustrationer gav dem deras klassiska ansikten.",
+      "complete": true
     },
     "troll-denmark": {
       "name": "Troll",
-      "summary": "Danska troll — ett fruktat, människoliknande släktesnamn i skandinavisk folktro, allt från jättelika klinttroll till mindre, dvärglika väsen."
+      "summary": "Danska troll — ett fruktat, människoliknande släktesnamn i skandinavisk folktro, allt från jättelika klinttroll till mindre, dvärglika väsen.",
+      "description": "Danska troll bor i klintar, backar och gravhögar — mindre än sina norska släktingar men inte mindre farliga. De stjäl brudar från bröllop, byter barn, och kan bara besegras av modiga hjältar med järnvapen eller genom soluppgången som förstenar dem. Danska sägner placerar dem i specifika klintar och backar över hela landet, och deras minne lever i ortnamn och i H.C. Andersens och Zacharias Topelius sagovärld.",
+      "complete": true
     },
     "troll-iceland": {
       "name": "Troll",
-      "summary": "Isländska troll — jättelika stenväsen i isländsk folktro, förknippade med fjäll och förstenelse i dagsljus."
+      "summary": "Isländska troll — jättelika stenväsen i isländsk folktro, förknippade med fjäll och förstenelse i dagsljus.",
+      "description": "Isländska troll är jättelika stenväsen knutna till fjällen och lavafält, ofta framställda som kannibaliska och fientliga mot människor. De rör sig endast i mörker och förstenas i dagsljus — landskapet är fullt av deras förstenade kroppar enligt traditionen. Isländska troll är nära kopplade till julmytologin via Grýla och jólasveinarna, och landskapet Dimmuborgir sägs vara deras dansgolv.",
+      "complete": true
     },
     "trollkjerring": {
       "name": "Trollkjerring",
-      "summary": "Trollkjerring är ett troll i norsk folktro, del av den skandinaviska och germanska mytologiska traditionen."
+      "summary": "Trollkjerring är ett troll i norsk folktro, del av den skandinaviska och germanska mytologiska traditionen.",
+      "description": "Trollkjerringa är trollkvinnan ur norsk folktro — en gammal, ful kvinna med onda kunskaper som bor i berg och skog, ibland ensam ibland med sitt trollfolk. Hon kan byta skepnad, stjäla barn och sända sjukdom; men hon kan också bli lurad av kloka flickor och pojkar, vilket många sagor handlar om. Trollkjerringer är de kvinnliga motsvarigheterna till trollen och ofta de verkliga härskarna i berget.",
+      "complete": true
     },
     "trollkona-sweden": {
       "name": "Trollkona",
-      "summary": "Trollkona (trollkvinnan) är den kvinnliga trollgestalten — en särskild figur i nordisk folktro som förekommer i legender knutna till specifika platser."
+      "summary": "Trollkona (trollkvinnan) är den kvinnliga trollgestalten — en särskild figur i nordisk folktro som förekommer i legender knutna till specifika platser.",
+      "description": "Trollkonan är den kvinnliga trollgestalten i nordisk folktro — en mäktig, ofta illasinnad jättinna som utövar magi, bor i berg och skog och förekommer i legender knutna till bestämda platser. Hon är ofta moder till trollsonerna och den verkliga makten bakom bergens hushåll. Som gestalt representerar hon den vilda naturens obegränsade och farliga kvinnokraft.",
+      "complete": true
     },
     "trollkona-faroeislands": {
       "name": "Trollkona",
-      "summary": "Trollkona (trollkvinnan) är den färöiska kvinnliga trollgestalten — en särskild figur i öarnas folktro som förekommer i legender knutna till specifika platser i skärgården."
+      "summary": "Trollkona (trollkvinnan) är den färöiska kvinnliga trollgestalten — en särskild figur i öarnas folktro som förekommer i legender knutna till specifika platser i skärgården.",
+      "description": "Den färöiska trollkonan är öarnas kvinnliga jättegestalt — förstenad i klippformationer som Trøllkonufingur och Kellingin, enligt sägnerna fångade av gryningen under sina försök att röva Färöarna till Island eller förstöra bygder. Hon hör samman med Risin och de andra jättarna i öarnas skapelse- och stridssägnerna, och hennes formationer är bland Färöarnas mest besökta landmärken.",
+      "complete": true
     },
     "tr-ldur": {
       "name": "Trøldur",
-      "summary": "Trøldur är ett troll i Färöarnas folklore och mytologi."
+      "summary": "Trøldur är ett troll i Färöarnas folklore och mytologi.",
+      "description": "Trøldur är ett troll ur Färöarnas folklore och mytologi — ordet 'troll' själv antyds härstamma från samma rot som önamnet Trøllanes och gestalter som Tróndur. Trøldur representerar de färöiska bergens gamla väsen: starka, mörka och fientliga mot kristendomen, förstenade av soluppgången eller drivna havs av präster och modiga män.",
+      "complete": true
     },
     "tusse-norway": {
       "name": "Tusse",
-      "summary": "Tusse (även Tuss) är en regional variant av troll-/vättekomplexet i Halland, Småland och Västergötland — en övergångsgestalt mellan de större trollen och de mindre vättarna."
+      "summary": "Tusse (även Tuss) är en regional variant av troll-/vättekomplexet i Halland, Småland och Västergötland — en övergångsgestalt mellan de större trollen och de mindre vättarna.",
+      "description": "Tussen är en regional variant av troll-/vättekomplexet i Halland, Småland och Västergötland — en övergångsgestalt mellan de stora trollen och de små vättarna. Tusserna bor i högar och backar, dansar om nätterna och handlar silver mot mat. De är starkare än människor, ogillar kors och kyrkklockor, och kan ge lycka åt dem som hedrar deras platser. Namnet lever i ortnamn som Tussmörkret.",
+      "complete": true
     },
     "tusse-sweden": {
       "name": "Tusse",
-      "summary": "Tusse (även Tuss) är en regional variant av troll-/vättekomplexet i Halland, Småland och Västergötland — en övergångsgestalt mellan de större trollen och de mindre vättarna."
+      "summary": "Tusse (även Tuss) är en regional variant av troll-/vättekomplexet i Halland, Småland och Västergötland — en övergångsgestalt mellan de större trollen och de mindre vättarna.",
+      "description": "Den svenska tusseen är identisk med sin norske broder i Hallands- och Smålandssägnerna: en mellanstor naturvarelsen boende i backar, med egen boskap (tussegjeitan och tussehesten) och egna musikanter. Han kan hjälpa bönder med skörd mot delning av avkastningen, men kontrakten bryts lätt — och då slutar hjälpen omedelbart och straffet börjar.",
+      "complete": true
     },
     "trollkatt": {
       "name": "Trollkatt",
-      "summary": "Trollkatt är en magisk, kattliknande varelse i norsk folktro, särskilt förknippad med häxor och troll på Vestlandet."
+      "summary": "Trollkatt är en magisk, kattliknande varelse i norsk folktro, särskilt förknippad med häxor och troll på Vestlandet.",
+      "description": "Trollkatten är den magiska katt som häxor och troll håller som tjänare och mjölkhämtare i norsk folktro, särskilt på Vestlandet. Den kan förvandla sig, bära byten hem till sin herre och flyga genom natten som en blå flamma. Enligt sägerna föds trollkatter ur psykotiska kattungar som burits nio gånger över tröskeln av sin moder. Att bränna trollkatten var farligt — dess ägare fick smärta.",
+      "complete": true
     },
     "tautramunken": {
       "name": "Tautramunken",
-      "summary": "Tautramunken (munken från Tautra) är en spökgestalt som hemsöker ruinen efter Tautras cistercienserkloster på ön Tautra i Trondheimsfjorden, nära Frosta."
+      "summary": "Tautramunken (munken från Tautra) är en spökgestalt som hemsöker ruinen efter Tautras cistercienserkloster på ön Tautra i Trondheimsfjorden, nära Frosta.",
+      "description": "Tautramunken är munken som hemsöker ruinen efter Tautra kloster i Trondheimsfjorden — cisterciensermunkarnas gamla ö från 1200-talet. Hans gestalt ses bland ruinerna vid solnedgång, ibland med ljus, och hans närvaro tolkas både som fasansfull spökvandring och som det heliga ställets minne. Tautra är åter ett aktivt kloster idag, och munken har blivit en fredlig del av platsens historia.",
+      "complete": true
     },
     "trollkjerringene-p-letnesberget": {
       "name": "Trollkjerringene på Letnesberget",
-      "summary": "Trollkjerringene på Letnesberget (trollhäxorna på Letnesberget) är en legend från Fosen i Trøndelag, dokumenterad i Birger Sivertssens samling 'Eventyr og sagn fra Trøndelag'."
+      "summary": "Trollkjerringene på Letnesberget (trollhäxorna på Letnesberget) är en legend från Fosen i Trøndelag, dokumenterad i Birger Sivertssens samling 'Eventyr og sagn fra Trøndelag'.",
+      "description": "Trollkjerringene på Letnesberget är trollhäxorna från Fosen-sägnen upptecknad av Birger Sivertsen: två gamla kvinnor som bodde i berget och kunde styra väder, fiske och boskap. Byborna offrade till dem men fruktade deras hämnd; berget med deras boning syns än i landskapet. Sägnen är ett typiskt exempel på hur verkliga 'kloka gummor' och häxförföljelser speglas i bergets myter.",
+      "complete": true
     },
     "tussegjeita": {
       "name": "Tussegjeita",
-      "summary": "Tussegjeita (tussegeten) är en övernaturlig get som ägs av tusserna (de underjordiska) i Setesdals folktro."
+      "summary": "Tussegjeita (tussegeten) är en övernaturlig get som ägs av tusserna (de underjordiska) i Setesdals folktro.",
+      "description": "Tussegjeita är tusernas övernaturliga get i Setesdals folktro — en get med så rik mjölk att hela gården kan försörjas, given som gåva av de underjordiska mot tystnad och respekt. Men geten är också en prövning: den som frågar var mjölken kommer ifrån eller visar girighet mister både geten och all annan lycka. Sägnen lär att naturens gåvor kräver tystnad och ödmjukhet.",
+      "complete": true
     },
     "tussehesten": {
       "name": "Tussehesten",
-      "summary": "Tussehesten (tussehästen) är en övernaturlig häst som ägs av de underjordiska (tusserna) i Setesdals folktro."
+      "summary": "Tussehesten (tussehästen) är en övernaturlig häst som ägs av de underjordiska (tusserna) i Setesdals folktro.",
+      "description": "Tussehesten är tusernas magiska häst ur Setesdalstraditionen: en glänsande, stark häst som kan bära tunga lass utan att tröttas och finner vägen genom dimma och snöyra. Men den får aldrig ridas över kyrkogårdsmur eller ges till den som frågar efter dess ursprung. Sägnerna om tussehästen liknar bäckahästen men är vänligare — en gåva snarare än en fälla.",
+      "complete": true
     },
     "tussepresten": {
       "name": "Tussepresten",
-      "summary": "Tussepresten är en unik gestalt i Setesdals folktro — de underjordiskas (tusernas) egen präst."
+      "summary": "Tussepresten är en unik gestalt i Setesdals folktro — de underjordiskas (tusernas) egen präst.",
+      "description": "Tussepresten är de underjordiskas egen andliga ledare i Setesdalssägnerna: en unik gestalt som vigler deras äktenskap, begravningar och fester inne i bergen. I vissa sägner är han en rövad människoprest som behållits livet ut, i andra ett eget underjordiskt väsen. Hans existens visar att även de dolda folken behövde religion och ritualer — en spegelbild av människornas samhälle.",
+      "complete": true
     },
     "tilberi": {
       "name": "Tilberi",
-      "summary": "Tilberi (även Snakkur) är en maskliknande, magiskt skapad varelse som enligt isländsk häxtro användes av kvinnor för att stjäla mjölk från grannarnas kor."
+      "summary": "Tilberi (även Snakkur) är en maskliknande, magiskt skapad varelse som enligt isländsk häxtro användes av kvinnor för att stjäla mjölk från grannarnas kor.",
+      "description": "Tilberi ('snakkur') är det isländska mjölkmonstret: en varelse skapad av en kvinna ur ett människobröstben och ull från begravningsgårdar, väckt till liv genom psalmläsning baklänges. Tilberin suger mjölk från grannarnas kor och fårar och bär hem den i en säck — tills den en dag drunknar i mjölkfatet eller bränns, vilket avslöjar sin mästarinna. Sägner om tilberi dokumenteras in på 1900-talet och hör till Islands mest speciella häxtro.",
+      "complete": true
     },
     "trold-denmark": {
       "name": "Troll (Trold)",
-      "summary": "Storvuxna, ruggiga vildmarksväsen, kända för sin styrka och sin rädsla för dagsljus."
+      "summary": "Storvuxna, ruggiga vildmarksväsen, kända för sin styrka och sin rädsla för dagsljus.",
+      "description": "Danska trold är de storvuxna, ruggiga vildmarksväsen som bor i skogar och klintar: kända för sina enorma styrkor och sitt instinktiva hat mot dagsljuset, som spränger dem om de inte når skydd. De är dumma men listiga i bus, älskar grädde och stulna brudar, och kan bara besegras av mod eller gryning. Ordet trold används om alla danska trollformer, från bergtrold till skogstrold.",
+      "complete": true
     },
     "trollkvinna": {
       "name": "Trollkona",
-      "summary": "Trollkvinna (eller Trollkona) är ett kvinnligt troll i skandinavisk folktro — en mäktig och ofta illasinnad jättinna som utövar magi och lever i vildmarken."
+      "summary": "Trollkvinna (eller Trollkona) är ett kvinnligt troll i skandinavisk folktro — en mäktig och ofta illasinnad jättinna som utövar magi och lever i vildmarken.",
+      "description": "Trollkvinnan är det kvinnliga trollet ur skandinavisk folktro — en mäktig jättinna som utövar magi, bor i vildmarken och ofta härskar över bergens trollsamhällen. Hon är starkare än de manliga trollen i många sägner, kan förvandla sig, styra vädret och hämnas sina släktningars död. Trollkvinnor är centralgestalter i både fornnordisk mytologi (gygjar) och senare bondesägner.",
+      "complete": true
     },
     "tonttu": {
       "name": "Tonttu",
-      "summary": "Tonttu är en liten, skäggig hushållsanda ur finsk folktro, släkt med den svenska tomten, som skyddar hem och ladugårdar om han behandlas med respekt."
+      "summary": "Tonttu är en liten, skäggig hushållsanda ur finsk folktro, släkt med den svenska tomten, som skyddar hem och ladugårdar om han behandlas med respekt.",
+      "description": "Tonttu är den finska gårdsvätten: en liten, skäggig man som vakar över hemmet, ladugården och spannmålsboden — släkt med svenska tomten men med egna finska drag. Tonttun skyddar huset mot eld och fiender om familjen behandlar honom väl; julgröt sätts fram åt honom än idag. Ordet kommer av helgonnamnet Antonius (Anttoni → tonttu), vilket visar hur kristet och förkristet vävts samman.",
+      "complete": true
     },
     "akkarmora": {
       "name": "Akkarmora",
-      "summary": "Akkarmora är en jättestor, bläckfisksliknande havsväktare från Måsøy i Finnmark, norra Norge."
+      "summary": "Akkarmora är en jättestor, bläckfisksliknande havsväktare från Måsøy i Finnmark, norra Norge.",
+      "description": "Akkarmora är havets stora väktare från Måsøy i Finnmark: en jättelik bläckfisk- eller hummerliknande varelse som råder över fisket och havsdjuren. Fiskare offrade till henne för god fångst och säker hemkomst; stormar och tomma nät var hennes vrede. Akkarmora hör till de samiska-norska kustsägnerna där havet har en egen kvinnlig härskarinna.",
+      "complete": true
     },
     "aino-finland": {
       "name": "Aino",
-      "summary": "Den tragiska unga jungfrun i finsk mytologi som valde att drunkna snarare än att gifta sig med den åldrade vismannen Väinämöinen."
+      "summary": "Den tragiska unga jungfrun i finsk mytologi som valde att drunkna snarare än att gifta sig med den åldrade vismannen Väinämöinen.",
+      "description": "Aino är Kalevalas tragiska jungfru: lovas bort till gamle Väinämöinen av sin broder Joukahainen som betalning för förlorad sångduell. Sorgsen över att förlora sin ungdom vandrar hon till havet, möter tre sjöjungfrur som dansar på vattnen — och drunknar. Havsmannen Vellamo gör henne till sin brud, och Ainos sista gåva till brodern är en sjöfågel vars sång visar honom Väinämöinen. Aino representerar ungdomens frihet mot tvångsäktenskap.",
+      "complete": true
     },
     "ajatar": {
       "name": "Ajatar",
-      "summary": "Ajatar är en kvinnlig ormdrake i finsk folktro — en skogsände för sjukdom som sprider farsoter och förknippas med djävulen."
+      "summary": "Ajatar är en kvinnlig ormdrake i finsk folktro — en skogsände för sjukdom som sprider farsoter och förknippas med djävulen.",
+      "description": "Ajatar är den finska skogens ormdrake — en kvinnlig ande för pest och farsot som framställs som en orm eller halvkvinnlig drake med ormbarn. Hon sprider sjukdom genom sitt närvaro och är moder till alla ormar i vissa traditioner. Ajatar är släkt med ryska Ajttija och hör till de finska sjukdoms-andar som åkallades i motformler. I modern populärkultur har hon blivit finsk fantasyikon.",
+      "complete": true
     },
     "aarni": {
       "name": "Aarni",
-      "summary": "Aarni är en väktare av gömda skatter i finsk folktro, som ofta visar sig som en liten gubbe eller ett lysande sken där rikedomar ligger begravda."
+      "summary": "Aarni är en väktare av gömda skatter i finsk folktro, som ofta visar sig som en liten gubbe eller ett lysande sken där rikedomar ligger begravda.",
+      "description": "Aarni är den finska gömda skattens väktare: en ande som bor vid aarnihauta — skattegömmena under jorden — ofta synlig som ett lysande flamma ('aarnituli') som leder skattsökare vilse eller rätt, beroende på deras hjärtan. Aarni kan visa sig som liten gammal man eller som glödande ljus över marken där rikedomar ligger begravda. Endast den rena i hjärtat finner skatten.",
+      "complete": true
     },
     "mara-sweden": {
       "name": "Mara",
-      "summary": "En illasinnad ande som vållar kvävande mardrömmar genom att sätta sig tungt på den sovandes bröst."
+      "summary": "En illasinnad ande som vållar kvävande mardrömmar genom att sätta sig tungt på den sovandes bröst.",
+      "description": "Maran är den svenska mardrömsanden: en illasinnad gestalt som smyger sig in hos sovande genom nyckelhål, sätter sig tungt på deras bröst och kväver dem med fasansfulla drömmar. Hon kan vara en människa med onda kunskaper som sänder ut sin mara-natur, och skyddet är järn över dörren, nycklar i fel läge eller att stoppa hennes utgång. Ordet lever i 'mardröm' — marans dröm.",
+      "complete": true
     },
     "mennink-inen": {
       "name": "Menninkäinen",
-      "summary": "Menninkäinen är ett litet, tomteartat skogsväsen ur finsk folktro, med stort huvud och spetsiga drag, som bor under rötter och i underjordiska gryt."
+      "summary": "Menninkäinen är ett litet, tomteartat skogsväsen ur finsk folktro, med stort huvud och spetsiga drag, som bor under rötter och i underjordiska gryt.",
+      "description": "Menninkäinen är den finska skogens lille man: en tomteliknande varelsen med stort huvud och spetsiga öron som bor under trädrötter och i underjordiska grytor. Han retar vandrare, flyttar vägmärken och låter folk gå i cirklar — men han är också skogens värd, och den som bjuder honom på mat får hjälp att hitta bär och svampar. Menninkäiset är finska sagovärldens busiga småfolk.",
+      "complete": true
     },
     "mets-nhenki": {
       "name": "Metsänhenki",
-      "summary": "Metsänhenki är en ande ur Finlands folklore och mytologi."
+      "summary": "Metsänhenki är en ande ur Finlands folklore och mytologi.",
+      "description": "Metsänhenki är skogens ande i finsk folktro — 'skogsandens' kollektiva kraft som råder över djuren, träden och jägarens lycka. Jägare offrade till metsänhenki före jakten och tackade efteråt; den som skröt om fångsten eller sköt mer än han behövde miste skogens gåvor. Metsänhenki är nära släkt med Tapio och Mielikki men mer diffus — skogen självt som levande väsen.",
+      "complete": true
     },
     "myling": {
       "name": "Myling",
-      "summary": "Spöket efter ett odöpt barn eller ett barn som dog före sin tid."
+      "summary": "Spöket efter ett odöpt barn eller ett barn som dog före sin tid.",
+      "description": "Mylingen är spöket efter ett odöpt eller mördat barn i svensk-norsk folktro: det återvänder till platsen där det lämnats att dö, söker hjälp att bli grävt och få namn — endast då kan det finna ro. Den som lyfter mylingen på ryggen bär den till kyrkogården men riskerar att krossas av dess växande vikt. Myling-sägner är bland Nordens mest gripande och speglar en historiskt smärtsam verklighet.",
+      "complete": true
     },
     "m-rksugga": {
       "name": "Mörksugga",
-      "summary": "Legendarisk varelse från Dalarna som använts som en skrämselgestalt för att hålla borta barn som är ute sent."
+      "summary": "Legendarisk varelse från Dalarna som använts som en skrämselgestalt för att hålla borta barn som är ute sent.",
+      "description": "Mörksuggan är Dalarnas fasansfulla svinskepnad: en svart sugga med brinnande ögon och tandrad längs ryggen som jagar dem som är ute efter mörkrets inbrott. Hon användes som skrämselgestalt för barn och druckna män — 'Mörksuggan tar dig' var nog för att hålla folk hemma. Mörksuggan hör samma familj som Gloson och Gravso, de nordiska spökgalterna.",
+      "complete": true
     },
     "marm-le": {
       "name": "Marmæle",
-      "summary": "Marmæle (även kallad marmennil) är en liten spåkonstutövande havsman i norsk folktro, första gången beskriven i Konungs skuggsjá (Kungsspegeln, cirka 1250)."
+      "summary": "Marmæle (även kallad marmennil) är en liten spåkonstutövande havsman i norsk folktro, första gången beskriven i Konungs skuggsjá (Kungsspegeln, cirka 1250).",
+      "description": "Marmæle är den spåkunnige havsmannen ur norsk medeltidslitteratur, första gången beskriven i Konungs skuggsjá (cirka 1250): en liten man, fångad vid stranden, som talar människospråk och profeterar väder, fiske och framtida händelser innan han släpps tillbaka till havet. Namnet betyder 'havstalaren'. Marmæle är förebild till både marmennilen på Färöarna och hela traditionen av talande havsväsen.",
+      "complete": true
     },
     "margyge": {
       "name": "Margyge",
-      "summary": "Margyge (även margygr, av fornvästnordiska marr 'hav' + gygr 'jättinna') är ett groteskt kvinnligt sjömonster i norsk medeltidslitteratur, första gången beskrivet i Konungs skuggsjá (Kungsspegeln, cirka 1250)."
+      "summary": "Margyge (även margygr, av fornvästnordiska marr 'hav' + gygr 'jättinna') är ett groteskt kvinnligt sjömonster i norsk medeltidslitteratur, första gången beskrivet i Konungs skuggsjá (Kungsspegeln, cirka 1250).",
+      "description": "Margygen är den groteska sjöhäxan ur norska medeltidsverk: en kvinnlig monster med vilda hår, tandrika gap och fiskstjärt, så stark att hon river upp skepp. Hon beskrivs i Konungs skuggsjá som havets farliga kvinna — motsats till den vackra havsfrun. Margygens namn (marr 'hav' + gygr 'jättinna') bevaras i nordiska ortnamn och i modern fantasy som arketyp för den fula sjöhäxan.",
+      "complete": true
     },
     "m-llergut": {
       "name": "Møllergut",
-      "summary": "Møllergut (kvarngossen) är en mildare och hjälpsammare kvarnande i norsk folktro, motpol till den elakartade kvernknurren."
+      "summary": "Møllergut (kvarngossen) är en mildare och hjälpsammare kvarnande i norsk folktro, motpol till den elakartade kvernknurren.",
+      "description": "Møllerguten ('kvarngossen') är den mildare norske kvarnanden: en hjälpsam gestalt som håller kvarnhjulet igång om natten mot lite mjöl och respekt — motpol till den elakartade kvernknurren. Kvarngossen trivs bara i välskötta kvarnar; när kvarnen stängdes permanent sägs han ha flyttat till nästa fall. Han representerar de många små arbetsandar som hjälpte det praktiska livet i bondsamhället.",
+      "complete": true
     },
     "mare-norway": {
       "name": "Mare",
-      "summary": "Maren (maran) är mardrömsoffrets ande — en kvinnlig varelse som sätter sig på sovandes bröst, pressar luften ur lungorna och framkallar fasansfulla drömmar."
+      "summary": "Maren (maran) är mardrömsoffrets ande — en kvinnlig varelse som sätter sig på sovandes bröst, pressar luften ur lungorna och framkallar fasansfulla drömmar.",
+      "description": "Den norska maran är mardrömsanden som sätter sig på sovandes bröst och pressar luften ur lungorna — upplevelsen vi än idag kallar mardröm. Maran smyger in genom nyckelhål och springor, kan vara en persons sända hamn, och hindras av järn över dörren, nycklar vända i fel riktning eller att man stoppar hennes flyktväg. Ordet mara lever i både svenska och engelska (night-mare).",
+      "complete": true
     },
     "mare-denmark": {
       "name": "Mare",
-      "summary": "Maren (maran) är den danska mardrömsanden — en kvinnlig varelse som sätter sig på sovandes bröst, pressar luften ur lungorna och framkallar fasansfulla drömmar."
+      "summary": "Maren (maran) är den danska mardrömsanden — en kvinnlig varelse som sätter sig på sovandes bröst, pressar luften ur lungorna och framkallar fasansfulla drömmar.",
+      "description": "Den danska mara (Maren) är samma kvävande nattgestalt: en kvinna eller ande som rider de sovande, ger dem känslan av tyngd och fasansfulla syner. Danska häxprocesser inkluderade maror — kvinnor anklagade för att sända ut sin mara-nattligt. Skyddet var järn, psalmvers och att ställa skor i kors framför sängen. Maran är en av de mest universella nordiska väsentligheterna.",
+      "complete": true
     },
     "mannbj-rn": {
       "name": "Mannbjørn",
-      "summary": "Mannbjørn ('människobjörnen') är en björnförvandlare i norsk folktro — en människa som kan ta gestalt av björn."
+      "summary": "Mannbjørn ('människobjörnen') är en björnförvandlare i norsk folktro — en människa som kan ta gestalt av björn.",
+      "description": "Mannbjørn ('människo-björnen') är björnförvandlaren i norsk folktro — en människa som kan ta björngestalt genom hamskifte, antingen genom onda konster eller ärvda krafter. Som björn är han farlig för boskapen; som människa avslöjas han av sina sår från jakten. Björnförvandlare hör samma tradition som varulvar och hamnskiftare, men björnens heliga ställning i samisk och nordisk tro gav dem extra tyngd.",
+      "complete": true
     },
     "munkholms-nden": {
       "name": "Munkholmsånden",
-      "summary": "Munkholmsånden är ett spöke som hemsöker ön Munkholmen i Trondheimsfjorden."
+      "summary": "Munkholmsånden är ett spöke som hemsöker ön Munkholmen i Trondheimsfjorden.",
+      "description": "Munkholmsånden är anden som hemsöker Munkholmen i Trondheimsfjorden — ön som varit böneplats, benediktinerkloster och fästning, och vars mark rymmer århundradenas begravningslager. Gestalten ses som en munk i svart dräkt eller hörs som psalmsång över vattnet. Ön är Trondheims mest besökta utflyktsmål, och anden har blivit en fredlig del av dess långa historia.",
+      "complete": true
     },
     "mttarhkk-norway": {
       "name": "Máttaráhkká",
-      "summary": "Den uråldriga modergudinnan i samisk mytologi som blåser liv i den mänskliga själen och ger fertilitet åt alla kvinnor."
+      "summary": "Den uråldriga modergudinnan i samisk mytologi som blåser liv i den mänskliga själen och ger fertilitet åt alla kvinnor.",
+      "description": "Máttaráhkká är den samiska modergudinnan — 'den uråldriga modern' — som bor under jorden under kåtans eldstad och blåser liv i varje nyfött barns själ. Hon är moder till de tre heliga flickorna Sáráhkká, Juksáhkká och Uksáhkká som hjälper henne vid födseln. Máttaráhkká är den samiska religionens djupaste moderfigur, och hennes kult levde trots missionspressen.",
+      "complete": true
     },
     "mttarhkk-spmi": {
       "name": "Máttaráhkká",
-      "summary": "Den uråldriga modergudinnan i samisk mytologi som blåser liv i den mänskliga själen och ger fertilitet åt alla kvinnor."
+      "summary": "Den uråldriga modergudinnan i samisk mytologi som blåser liv i den mänskliga själen och ger fertilitet åt alla kvinnor.",
+      "description": "Máttaráhkká i Sápmi är den urmodiga gudinnan som bor under eldstaden och ger själen liv: hon tar emot den dödas själar, renar dem och sänder dem tillbaka i nya barn. Hennes tre döttrar hjälper till vid födseln — en ger kroppen, en ödet, en skyddet. Missionärerna försökte utplåna hennes kult men samiska familjer behöll henne tyst; idag har hon återfått sin plats i samisk andlig tradition.",
+      "complete": true
     },
     "moskkjerringa": {
       "name": "Moskkjerringa",
-      "summary": "Moskkjerringa (gumman på Moskenes) är ett kvinnligt troll på Moskenesøy i Lofoten, förstenat med utsikt över Moskenesstraumen — den berömda malströmmen mellan Moskenesøy och Værøy."
+      "summary": "Moskkjerringa (gumman på Moskenes) är ett kvinnligt troll på Moskenesøy i Lofoten, förstenat med utsikt över Moskenesstraumen — den berömda malströmmen mellan Moskenesøy och Værøy.",
+      "description": "Moskkjerringa ('gumman på Moskenes') är trollkvinnan förstenad på Moskenesøy i Lofoten — enligt sägnen fångad av gryningen när hon försökte hämnas eller fly över Moskenesstraumen, världens starkaste tidvattenström. Hon står än idag som det mäktiga berget med ryggen mot havet, vittnande om de gamla makternas nederlag mot solen. Formationen är ett av Lofotens mest dramatiska landmärken.",
+      "complete": true
     },
     "myromsk-na": {
       "name": "Myromskåna",
-      "summary": "Myromskåna (myrfrun) är en kvinnlig myrande från Setesdals folktro i Sørlandet."
+      "summary": "Myromskåna (myrfrun) är en kvinnlig myrande från Setesdals folktro i Sørlandet.",
+      "description": "Myromskåna ('myrfrun') är den kvinnliga myr-ande från Setesdal: härskarinna över de farliga kärrmarkerna dit ingen skulle gå efter mörkrets inbrott eller utan kunskap om vägarna. Myromskåna lockade nyfikna ut i kvickmyren och höll fast dem; men hon belönade också dem som respekterade myrens regler och tog endast vad de behövde av bär och torv. En klassisk sydlandsk natur-ande.",
+      "complete": true
     },
     "malmkarlen": {
       "name": "Malmkarlen",
-      "summary": "Malmkarlen ('malmmannen') är en manlig gruvande i svensk folktro, motpart till den kvinnliga gruvrån."
+      "summary": "Malmkarlen ('malmmannen') är en manlig gruvande i svensk folktro, motpart till den kvinnliga gruvrån.",
+      "description": "Malmkarlen är gruvans manliga ande i svensk folktro — malmmannens och mulltrottans manliga motsvarighet, som visar gruvfolket var goda ådror finns genom drömmar och knackningar. Gruvarbetare offrade till honom och höll stollarna rena; girighet och svordomar drev honom bort. Malmkarlen hör samma familj som grufrun och bergsrået — underjordens arbetsgemenskap.",
+      "complete": true
     },
     "mand": {
       "name": "Åmand",
-      "summary": "Åmanden (åmannen) är en dansk manlig vattenande som härskar över en sträcka av ån och kräver ett årligt människooffer."
+      "summary": "Åmanden (åmannen) är en dansk manlig vattenande som härskar över en sträcka av ån och kräver ett årligt människooffer.",
+      "description": "Åmanden är den danske åmannen: en manlig vattenandе som härskar över en bestämd sträcka av ån och kräver sitt årliga offer — ofta en människa — för att släppa fisket och inte svälta bygden. Sägnerna om åmanden knyter an till verkliga offerbrunnar och drunkningsolyckor, och hans namn lever i ånamn över hela Danmark. Han representerar vattnets krav i ett jordbrukssamhälle där ån både gav och tog.",
+      "complete": true
     },
     "merchildren-denmark": {
       "name": "Havsbarn",
-      "summary": "De halvmänskliga, halvt vattenlevande barnen till havsfolket — en bild av längtan och rotlöshet."
+      "summary": "De halvmänskliga, halvt vattenlevande barnen till havsfolket — en bild av längtan och rotlöshet.",
+      "description": "Havsbarnen är havsfolkens barn i dansk folktro: halva människor, halta fiskar, lekvilliga och nyfikna på strandlivet ovanför deras undervattensvärld. De förekommer i sägner om havsmän och havfrur som fått barn med människor — barnen dras lika starkt mot havet som deras föräldrar mot land. Havsbarnen representerar längtan och rotlösheten hos dem som tillhör två världar.",
+      "complete": true
     },
     "metalhunde-denmark": {
       "name": "Metallhundarna (Metalhunde)",
-      "summary": "Trogna övernaturliga skapelser av ädelmetall, framkallade med hjälp av en magisk tändask."
+      "summary": "Trogna övernaturliga skapelser av ädelmetall, framkallade med hjälp av en magisk tändask.",
+      "description": "Metallhundarna är de trogna, övernaturliga hundarna av koppar och silver ur danska sagor (bland annat 'Eldstållet', ATU 562): framkallade av en magisk tändask att hämta skatter åt sin herre. Den första hunden är kopparhunden med ögon som vagnar, den andra silvershunden större än ett oxpar — men den som missbrukar deras tjänster betalar med livet. Sagan är bland de mest älskade danska eventyren.",
+      "complete": true
     },
     "marjatta-finland": {
       "name": "Marjatta",
-      "summary": "Den rena jungfrun i finsk mytologi som blev gravid av ett lingon och födde Kareliens konung."
+      "summary": "Den rena jungfrun i finsk mytologi som blev gravid av ett lingon och födde Kareliens konung.",
+      "description": "Marjatta är Kalevalas rena jungfru som blir gravid av en lingonbär hon ätit vid vallkanten och föder en son — Kareliens konung. Väinämöinen dömer barnet odåligt fött, men spädbarnet, två veckor gammalt, talar och frikänner sig själv. Väinämöinen besegras av detta mirakel och lämnar Finland. Marjatta representerar den nya tidens och kristendomens inträde i den gamla sagovärlden.",
+      "complete": true
     },
     "marmennil-faroeislands": {
       "name": "Marmennil",
-      "summary": "Busartad färöisk havsman som hjälper fiskare när han fångas, boende på havsbotten utanför Elduvík."
+      "summary": "Busartad färöisk havsman som hjälper fiskare när han fångas, boende på havsbotten utanför Elduvík.",
+      "description": "Marmennilin är den busiga färöiska havsman från Elduvík som retade fiskare genom att stjäla bete och fästa krokar på bottnen — tills han själv fastnade på en krok och togs upp i båten. Fiskarna höll honom som lyckobringare i åratal: han skrattade när fisken kom, och nätterna fylldes. Men en stormig dag glömde de korstecknet, och Marmennilin flydde ner i havet för alltid. Hans staty restes i Elduvík 2020.",
+      "complete": true
     },
     "lagarflj-tsormur": {
       "name": "Lagarfljótsormur",
-      "summary": "Legendariskt sjömonster i Lagarfljót på östra Island, första gången omtalat år 1345."
+      "summary": "Legendariskt sjömonster i Lagarfljót på östra Island, första gången omtalat år 1345.",
+      "description": "Lagarfljótsormen är Islands mest kända sjömonster, i Lagarfljót vid Egilsstaðir, första gången omtalat 1345 i annaler. Ormen växer ur en guldring lagd under en lind enligt sägnen, och har sedts slingra sig i vågbänder sedan medeltiden — senaste stora vågen av observationer 2012 med videobevis som diskuterats världen över. Lagarfljótsormen är Islands svar på Nessie och en nationell ikon.",
+      "complete": true
     },
     "landvttir-sweden": {
       "name": "Landvättir",
-      "summary": "Väktande landväsen — andar som skyddar åkrar, gårdar och territorier."
+      "summary": "Väktande landväsen — andar som skyddar åkrar, gårdar och territorier.",
+      "description": "Landvättirna är Sveriges land- och platsherskar: andarna som vakar över gårdar, fjäll och rikets fyra hörn — draken i öster, fågeln i norr, oxen i väster, jätten i söder, enligt Islands motsvarighet. De kan drivits bort med nidstång (som Egil Skallagrimsson gjorde) men skyddar dem som hedrar marken. Tron på landvättirna är fornnordisk religionens heligaste naturrelation.",
+      "complete": true
     },
     "landvttir-iceland": {
       "name": "Landvættir",
@@ -1405,6 +1505,390 @@
       "summary": "Svensk havsman — den manliga motsvarigheten till havsfrun i svensk kustfolklore.",
       "description": "Havsmannen är den svenska kustens manliga vattenväsen: en gestalt med mansgestalt och fiskkropp som visar sig för fiskare, varslar storm eller visar goda fiskevatten. Han är mer sällsynt i sägnerna än havsfrun men delar hennes tvetydighet: hjälpsam mot dem som respekterar havet, farlig för de halsstyriga. Havsmannen hör samma familj som norske havmannen och danske havmanden.",
       "complete": true
+    },
+    "v-ki": {
+      "name": "Väki",
+      "summary": "Finska samlingsnamn på folkens andar — metsän väki (skogens), veden väki (vattnets) osv.",
+      "description": "Väki är finskans samlingsbegrepp för en plats eller tings andar och krafter: metsän väki är skogens folk, veden väki vattnets, tulen väki eldens. Väkina var inte individer utan kollektiv av kraft som kunde stiga ur sin boning och drabba människor — sjukdomar förklarades som att vatten- eller skogsväki tagit sig in i kroppen. Trolldomsformler använde ett väkis namn mot ett annat: eld mot vatten, järn mot skog. Begreppet visar den finska världsbildens kollektiva naturandar.",
+      "complete": true
+    },
+    "v-tt": {
+      "name": "Vätte",
+      "description": "Vätten är det småväxta gårdsväsen i svensk folktro som hjälper till med arbete nattetid mot gröt och respekt — samma gestalt som tomten men oftast mer knuten till marken än till familjen. Vätten kan också bo i backar och stenar och då hör han till de underjordiska. Den som retar honom får mjölkningen misslyckas och redskapen flytta sig; den som hedrar honom vid jul har lycka på gården. Ordet lever i 'vättar' om alla små oknytt-väsen.",
+      "complete": true,
+      "summary": "Småväxt gårdsvätte som hjälper till nattetid mot gröt och respekt."
+    },
+    "v-rd": {
+      "name": "Vård",
+      "description": "Vården är den svenska formen av fylgjan: en persons eller släkts skyddsande som visar sig i djurgestalt — ofta som björn, varg eller fågel — och vars synande varsel om död. Vårdens art speglade bärarens karaktär: den modige hade björnvård, den sluga räv. Vården följde släkten genom generationer och kunde kännas som en närvaro bakom ryggen i farliga stunder. Ordet 'vårdkase' och 'värn' härstammar från samma rot.",
+      "complete": true,
+      "summary": "Svensk form av fylgjan — skyddsand i djurgestalt vars synande varsel om död."
+    },
+    "vette": {
+      "name": "Vette",
+      "summary": "Samlingsnamn på rå-djursplatsernas väsen i svensk-norsk folktro — skogs-, sjö-, bergsvette.",
+      "description": "Vette är samlingsnamnet för de råande — platsernas väsen: skogsvetten, sjövetten, bergvetten, kyrkvetten. Varje betydande plats hade sin vette som krävde artighet och offer; den som bröt platsens regler — skrek, stödde, bröt sabbaten — blev sjuk, vilse eller olycklig. Vetterna beskrivs oftast som små, gråklädda gestalter eller bara som närvaron av ögon i skymningen. Tron på vetter levde starkt i Dalarna och Norge in på 1900-talet.",
+      "complete": true
+    },
+    "verdalsdraugen": {
+      "name": "Verdalsdraugen",
+      "summary": "Draugen i Verdalen — gengångare knutna till slaget 1658 och senare katastrofer i dalen.",
+      "description": "Verdalsdraugen är draugerna i Verdalen i Tröndelag, särskilt knutna till slaget vid Verdal 1658 mellan svenskar och norrmän, där många dog och begravdes i massgravar. Sägnerna berättar om stridslarm och marschsteg i natten på slagfältet långt efteråt. Namnet används också om draugen efter den stora rasolyckan i Verdal 1893, där 112 personer omkom — dalens samlade minne av våldsam död.",
+      "complete": true
+    },
+    "v-gakallen": {
+      "name": "Vågakallen",
+      "summary": "Vågakallen — Lofotens jättegestalt i sten, den gamle mannen som vakar över havet.",
+      "description": "Vågakallen ('den gamle mannen på Våga') är det berömda fjället på Vågan i Lofoten, vars profil ser ut som en gammal man med hatt. I sägerna är han en av de troll eller jättar som förstenades i solen under flykt eller strid — ofta knuten till samma dramatik som Hestmannen och De sju systrarna längre söderut. Fjället är Lofotens mest fotograferade landmärke och fiskarnas vägmärke hem.",
+      "complete": true
+    },
+    "vonde-smund": {
+      "name": "Vonde-Åsmund",
+      "description": "Vonde-Åsmund ('Onde Åsmund') är en norsk rövare- eller trollhjältegestalt ur lokala sägner: en stark, elak man som terroriserade bygden tills han besegrades genom list — ofta drunknade i en tjärn eller förstenades. Namnet användes om verkliga historiska figurer som överlevde i traditionen som skurkar. Sägnerna om honom fungerade som varning och som förklaring till märkliga stenformationer.",
+      "complete": true,
+      "summary": "Norsk rövare- eller trollhjälte besegrad genom list i lokala sägner."
+    },
+    "varulv-sweden": {
+      "name": "Varulv",
+      "summary": "Svensk varulv — människor som via förtrollning eller hamn blir vargar om natten.",
+      "description": "Den svenska varulven skiljer sig från kontinentala versioner: här är det oftast en person — ofta med onda kunskaper — som sänder ut sin 'hamn' i varggestalt (se hamnskiftare), inte någon som smittas av bett. Varulven attackerar boskap och kan bara stoppas av järn eller att någon känner igen honom och ropar hans namn. I vissa bygder trodde man att varulvsdrift ärvdes eller kom från att modern bar järn på fel sätt vid barnafödandet.",
+      "complete": true
+    },
+    "varulv-denmark": {
+      "name": "Varulv",
+      "description": "Den danska varulven är belagd sedan medeltiden: män som genom remmar, salvor eller förbannelser förvandlas till vargar om nätterna och angriper boskap och resande. Danska häxprocesser inkluderar varulvsmän — de dömdes för djävulspakt likaväl som kvinnor. Skyddet var järn, att vända kläderna ut och in, eller att ropa varulvens dopnamn, vilket bröt förvandlingen. Motivet lever i dansk litteratur och film.",
+      "complete": true,
+      "summary": "Danska män förvandlade till vargar via remmar, salvor eller förbannelser."
+    },
+    "vitorm": {
+      "name": "Vitorm",
+      "summary": "Svensk sjöorm-vittra — ormliknande vattenande i insjöar, släkt med sjöormen.",
+      "description": "Vitormen är den vittrornas eller vattnets orm: ett ormliknande vattenväsen i svenska insjöar, nära släkt med sjöormarna men oftast mindre och mer knuten till en specifik sjö eller vik. Fiskare såg dess slingrande rygg i solsken och undvek att fiska där den visat sig; den togs ibland som tecken på att vattnets väki var i rörelse. Namnet kopplar den till vittrorna — vattnets folk.",
+      "complete": true
+    },
+    "valravn": {
+      "name": "Valravn",
+      "description": "Valravnen är den danska 'kadaverraven': en ravn född ur ravnar som ätit av ett fallna kungas kropp, förvandlad till en halv varv-halv-ravn-best eller en vacker men ondskefull prins. Den kidnappar barn och tvingar dem utföra omöjliga uppgifter; endast en oskyldig flickas nåd kan frälsa den till äkta ravn. Valraven är centralt motiv i dansk romantik (B.S. Ingemanns ballad) och modern populärkultur.",
+      "complete": true,
+      "summary": "Dansk kadaverravn född av ravnar som ätit av en fallna kungas kropp."
+    },
+    "vainamoinen-finland": {
+      "name": "Väinämöinen",
+      "summary": "Finska eposets store viseman — sångmagiker, världens första människa och Kalevalas huvudgestalt.",
+      "description": "Väinämöinen är den finska mytologins centrale gestalt: visemannen född som gammal man av Ilmatar, vars sång kan bygga båtar av ord och stilla stormar. Han smider Sampo tillsammans med Ilmarinen, förlorat sitt brudlöfte till Joukahainens svek, och drager slutligen bort från Finland i en kopparfartyg — men lovar återvända när tiden är mogen. Hans sångkraft representerar det finska ordets magi; hans avfärd lämnar landet väntande på hans återkomst.",
+      "complete": true
+    },
+    "odin-norway": {
+      "name": "Oden",
+      "description": "Oden (Odin) är Allfadaren — visdoms-, krigs- och diktkonstens gud, herre över Valhall. Han gav sitt öga för visdom i Mimirs brunn, hängde nio nätter i världsträdet för runornas hemlighet, och sänder sina korpar Hugin och Munin ut över världen. Vid Ragnarök faller han för Fenrisulven. I norsk folktro levde han vidare som jultomtens och den vilda jaktens ledare — en gammal man med bredbrättad hatt som rider genom natten.",
+      "complete": true,
+      "summary": "Allfadaren — visdoms-, krigs- och diktgud, herre över Valhall."
+    },
+    "odin-iceland": {
+      "name": "Óðinn",
+      "description": "Den isländska formen av Oden: Eddornas centrala gud, dikternas fader, vars namn ger Island dess litterära arv — Snorre Sturlassons Snorra-Edda och Poetic Eddan bevarar hela hans mytcykel. Isländska ortnamn och sagor är fyllda av honom; hans självmordliknande visdomssökande (ögat i brunnen, nio nätter i trädet) gör honom till den nordiska mytologins mest komplexa gestalt: vis, grym, poetisk och dödsdömd vid Ragnarök.",
+      "complete": true,
+      "summary": "Isländska Eddornas centrala gud — visdomssökaren med ögat i Mimirs brunn."
+    },
+    "ojalehto-stream-leaf": {
+      "name": "Ojalehto",
+      "description": "Ojalehto ('åbladet') är en finländsk naturand eller väsen knuten till bäckar och strömmande vatten — bladet som flyter med strömmen som tecken på vattnets väki. Namnet förekommer i finsk trolldomstradition om små andar i rinnande vatten, men är svagt belagt; den hör till den finska traditionens många lokala vatten-väken. Behandlas med försiktighet tills primärkälla finnes.",
+      "complete": true,
+      "summary": "Finsk bäck-ande knuten till rinnande vattens väki; svagt belagd."
+    },
+    "ole-lukoje-denmark": {
+      "name": "Ole Lukøje",
+      "description": "Ole Lukøje är H.C. Andersens sandman (1841): den lille mannen som kliver upp på trappan om kvällen och sprutar sömn i barnens ögon med sin lilla kvast, och berättar drömmar för dem som ser honom — vackra drömmar för snälla barn, en enda torr dröm för oartiga. Han har två parasoll: det ena med stjärnbilder ger underbara drömmar, det andra ingenting. Gestalten är Danmarks nationalgestalt av sandmannen och lever i alla danska barndomsminnen.",
+      "complete": true,
+      "summary": "H.C. Andersens sandman — sprutar sömn i barnens ögon och berättar drömmar."
+    },
+    "otso-finland": {
+      "name": "Otso",
+      "description": "Otso är björnens heliga namn i finsk folktro: 'honungenes tass', 'skogens gyllene äpple' — björnarna var skogens kungar, avkomna från himlen, och fick aldrig nämnas vid sitt rätta namn. Vid björnjakt hölls ceremonier (peijaiset) där björnarnas själ hedrades och dess ben återbords till skogen uppå ett träträd så att den kunde återfödast. Otso-ceremonierna är bland Finlands äldsta bevarade ritualer och centrala i Kalevalas diktcykel.",
+      "complete": true,
+      "summary": "Björnens heliga namn i finsk folktro — skogens kung hedrad vid peijaiset-ceremonier."
+    },
+    "nisse-sweden": {
+      "name": "Nisse",
+      "summary": "Svensk gårdsvätte — den lille gråklädde mannen med röd luva som hjälper till mot julgröt.",
+      "description": "Nissen (tomten) är gårdsfolket: liten, gråklädd, röd luva, bosatt i ladugården eller under husgolvet. Han hjälper till med arbete nattetid, vakar över boskapen och straffar slarv och ohederlighet med bus och olycka. Julgröt med smör är hans rättighet — glöms den, flyttar han lyckan till grannen. Nissen blev på 1800-talet svensk jultomtes förebild och lever vidare i varje julgård.",
+      "complete": true
+    },
+    "nisse-denmark": {
+      "name": "Nisse",
+      "description": "Den danska nissen bor på loftet eller i stallen och vakar över gården — likt svenska tomten men med egen dansk karaktär: retsam, grötälskande och farlig att reta. Sägnerna om nissen och julgröten (den som saknar smör dödar en ko i vrede) är klassiska. Nissen är Danmarks mest älskade julfigur, sedda på julkalendrar och i papirklipp, och ordet lever i 'nissen på loftet'.",
+      "complete": true,
+      "summary": "Dansk gårdsnisse — retsam, grötälskande, farlig att reta; bor på loftet."
+    },
+    "nisse-norway": {
+      "name": "Nisse",
+      "description": "Den norske nissen (fjøsnissen) är gårdsfolkets beskyddare i ladugården: han ser till att korna ger mjölk, hästarna är starka och höskullen räcker — mot gröt med smör på julafton. Glöms offret blir straffet omedelbart: mjölken sur, redskapen försvinner, boskapen sjuk. Nissen blev Norges nationaljulfigur under 1800-talet genom Theodor Kittelsens och Erik Werenskiolds illustrationer, och julgröten sätts än idag ut åt honom.",
+      "complete": true,
+      "summary": "Norsk fjösnisse — ladugårdens hjälpare belönad med julgröt med smör."
+    },
+    "nykurin": {
+      "name": "Nykurin",
+      "description": "Nykurin är den färöiska formen av nykuren: det formskiftande vattenväsen som visar sig som vacker vit häst vid sjöar och lockar ryttare ut på djupet. Färöiska sägner placerar honom vid Sørvágsvatn och andra sjöar; hans kraft bryts när hans namn eller ryttarens namn ropas. En upplyst skulptur av Póla Skarðenni restes 2017 vid Sørvágsvatn till legendens minne.",
+      "complete": true,
+      "summary": "Den färöiska nykuren — vit häst vid sjöarna; namnets rop bryter trolldomen."
+    },
+    "n-cken": {
+      "name": "Näcken",
+      "description": "Näcken är den svenska vattenspelman: naken i forsar och sjöar spelar han fiol så att vattnet stillnar och lyssnar — den som lär sig hans visor blir mästare men betalar ett pris. Han kan också dra ner de nyfikna, särskilt barn och brudar, och syns ibland som en häst (bäckahästen). Endast stål, psalm eller att lära honom en visa han inte kan kan stoppa honom. Näcken är svensk romantiks favoritgestalt — Ernst Josephsons målning 'Strömkarlen' (1884) är ikonisk.",
+      "complete": true,
+      "summary": "Svensk vattenspelman — fiolspel i forsarna; stål, psalm eller egen visa stoppar honom."
+    },
+    "n-kki": {
+      "name": "Näkki",
+      "description": "Näkki är den finska vattenande — släkt med näcken och bäckahästen men oftast framställd som en ful, gropig varelse i djupet som drar barn ner i vattnet. Näkin saari ('näkkis ö') och näkinpaistos (fiskrätt) bevarar namnet; föräldrar varnade barn för att gå på is eller bada djupt. I Kalevala-traditionen kan näkki även vara en vacker spelman likt näcken — vattnet har båda ansiktena.",
+      "complete": true,
+      "summary": "Finsk vattenandе — ful och gropig i djupet, drar barn ner; släkt med näcken."
+    },
+    "n-h-ggr": {
+      "name": "Níðhöggr",
+      "description": "Níðhöggr ('nidhuggaren') är draken som gnager på världsträdet Yggdrasils rot och äter liken av edsbrytare, mördare och lögnare i Nastrand — dödsrikets strand. Ekornet Ratatoskr bänder mellan Níðhöggr och örnen i trädets topp och bär förolämpningar mellan dem. I Völuspa sägs draken efter Ragnarök flyga över fältet med liken i fjädrarna. Níðhöggr representerar den eviga nedbrytningen — tiden som äter allt.",
+      "complete": true,
+      "summary": "Draken som gnager Yggdrasils rot och äter edsbrytares liken i Nastrand."
+    },
+    "nkk-norway": {
+      "name": "Nøkken",
+      "description": "Nøkken är den norske vattenspelmannen — näckens norske bror: han speler i svarta tjärnar och stille skoger, drar musikanter ner till sig och kan synas som en vit häst eller ett drivande trästycke. Theodor Kittelsens målning 'Nøkken' (1904) med de vita ögonen i den mörka dammen är norsk konsts mest kända skrämbild. Barn fick lära sig aldrig gå ensamma vid vattnet efter mörkrets inbrott — nøkken väntar.",
+      "complete": true,
+      "summary": "Norske vattenspelmannen — Kittelsens vita ögon i den mörka dammen."
+    },
+    "n-stekatt": {
+      "name": "Nöstkatten",
+      "description": "Nöstkatten ('nöteskatten') är en liten, retsam gårdsvätte ur svensk folktro — ofta beskriven som en grå kattliknade gestalt som bor i ladugården och hjälper till mot mat, men som också kan flytta saker och göra bus. Namnet knyter honom till nötskogen där han sägs samla sin vinterförråd. Nöstkatten hör samma familj som tomten och vätten — gårdsfolkets osynliga hjälpare med eget humör.",
+      "complete": true,
+      "summary": "Liten retsam gårdsvätte i kattgestalt ur svensk folktro."
+    },
+    "nidaros-munken": {
+      "name": "Nidarosmunken",
+      "description": "Nidarosmunken är spöket av en munk vid Nidarosdomen i Trondheim: en gestalt i munkdräkt som setts vandra i domkyrkans kryptor och klosterruiner sedan århundraden. Sägnerna knyter honom till medeltidens klosterliv och till gravarna under kyrkan. Domen är Nordens viktigaste pilgrims- och helgonkyrka (Sankt Olav), och dess spöken hör till Norges mest dokumenterade slottsspöke-traditioner.",
+      "complete": true,
+      "summary": "Spökmunken i Nidarosdomens kryptor — Trondheims mest kända kyrkspöke."
+    },
+    "namdalsdraugen": {
+      "name": "Namdalsdraugen",
+      "description": "Namdalsdraugen är draugen i Namdalen: gengångare knutna till kustens drunknade och till de gamla striderna i dalen. Han visar sig för fiskare som varsel om storm, hörs rodda utan båt, och kan bara stillas genom att hans kvarlevor begravs rätt. Draugsägner från Namdalen dokumenteras av folklorister genom 1800-talet och hör till Trøndelags rikaste spöktradition.",
+      "complete": true,
+      "summary": "Draugen i Namdalen — drunknades ande som varslar fiskare om storm."
+    },
+    "nidelv-n-kken": {
+      "name": "Nidelv-Nøkken",
+      "description": "Nidelv-Nøkken är nøkken i Nidelva — Trondheims egen älvmystiker: en vattenspelman eller fasansfull gestalt som sägs ha visat sig i älven genom centrum av staden. Sägner om honom knyter samman stadens medeltida historia med naturens faror; älven har tagit många liv genom tiderna. Gestalten lever i lokal folklore och används än idag i Trondheims konst- och musikliv.",
+      "complete": true,
+      "summary": "Trondheims älvmystiker — nøkken i Nidelva genom stadens centrum."
+    },
+    "noaidega-i": {
+      "name": "Noaidegažži",
+      "description": "Noaidegažži är den samiska termen för de andar och makter som noaiden (shamanen) kommunicerar med: hjälpandarna i djurform, släktens skyddsandar och platsernas härskare. Genom sjamanistisk trumma och sång färdas noaiden till andevärlden för att hämta kunskap, bota sjuka eller förhandla med jaktens herrar. Termen representerar den samiska religionens kärna — relationen mellan människor, naturen och andevärlden.",
+      "complete": true,
+      "summary": "Samiska andarna noaiden kommunicerar med genom trumma och sång."
+    },
+    "nerstenhornets-underjordiske": {
+      "name": "Nerstenhornets underjordiska",
+      "description": "Nerstenhornets underjordiske är det dolda folk som enligt sägnen bodde i berget Nerstenhornet: deras musik hörs inne i berget om nätterna, och modiga bybor kunde byta mat mot silver vid bergets öppningar. Den som bröt freden eller avslöjade deras gömme drabbades av bergens förbannelse. Sägnerna hör till den norska traditionen om lokala underjordiska kolonier med egna hemman.",
+      "complete": true,
+      "summary": "Det dolda folk i Nerstenhornet som bytte silver mot mat med modiga bybor."
+    },
+    "nykur": {
+      "name": "Nykur",
+      "description": "Nykur är det färö-isländska vattenhäst-väsenet: en grå eller vit häst som visar sig vid sjöar och lockar ryttare ut på djupet där den förvandlas till sitt sanna vattnenväsen. Endast att ropa dess namn eller ryttarens namn bryter trolldomen — hästen stannar och rider tillbaka. Nykuren lever i Färöarnas och Islands sjöfolklore tillsammans med julekatten och Grýla som barnens farliga varelser.",
+      "complete": true,
+      "summary": "Färö-isländskt vattenhästväsen vid sjöar — vit, vacker och dödlig att rida."
+    },
+    "nattramn": {
+      "name": "Natramnen",
+      "description": "Natramnen ('nattramnen') är den nattliga snaran eller fälla i svensk folktro — ett oknytt eller förhäxad gestalt som spänner upp osynliga snaror över stigar om nätterna, och den som trampar i dem blir fast, sjuk eller förföljd av fasansfulla följden. Skyddet var järn i skon, psalmvers och aldrig att gå ensamma stigar efter mörkrets inbrott. Namnet används om både väsenet och dess verksamhet.",
+      "complete": true,
+      "summary": "Den nattliga snaran — oknytt som spänner osynliga fällor över stigar."
+    },
+    "natravn": {
+      "name": "Natravn",
+      "description": "Natravnen ('nattraven') är den danska natt-ravnen: en ondskefull fågelgestalt — ofta en förvandlad människa eller dödssjäl — som flyger om nätterna och vars skrik är dödsovarsel. Raven har i dansk tro alltid haft dubbel natur: visdomsfågel och likfågel; natraven är den mörka sidan. Den hör samma familj som valraven men utan dess förvandlingskonst.",
+      "complete": true,
+      "summary": "Danska nattraven — ondskefull fågelgestalt vars skrik är dödsovarsel."
+    },
+    "nis-puk": {
+      "name": "Nis Puk",
+      "description": "Nis Puk är den danska nissens personliga namn i många sägner och barnvisor — den lille gårdsnissen som hjälper till mot gröt men straffar slarv med bus. Namnet används om nissen som individ, som han har ett namn och en karaktär på varje gård. Nis Puk lever vidare i dansk barndomslitteratur och julkalendrar som den klassiska lilla gårdstomten.",
+      "complete": true,
+      "summary": "Den danska nissens personliga namn i sägner och barnvisor."
+    },
+    "nisse-denmark-1": {
+      "name": "Nisse",
+      "description": "En andra danska nisse-post: sägnerna om nisser skiljer mellan gårdsnisser (husliga hjälpare), kirkegnisser (kyrkans väktare) og skognisser (skogens vaktare) — alla små, gråklädda med röd luva, alla krävande respekt och juloffer. Den gemensamma kärnan är att nissen är gården själva ande: flyttar familjen följer han inte med utan stannar hos platsen.",
+      "complete": true,
+      "summary": "Danska nisser skiljs mellan gårds-, kyrko- och skognisser — alla kräver juloffer."
+    },
+    "nykur-glacial": {
+      "name": "Nykur (glacial)",
+      "description": "Glaciära Nykur-varianten knyter vattenhästen till isälvarna och glaciala sjöar: en kallare, mer undvikande gestalt vars spår ses i snön vid glaciala floder men som aldrig visar sig helt. Varianten speglar Islands och Färöarnas geografi — jöklar och isälvsjöar där vattnet förändras snabbt och är livsfarligt. Sägnerna fungerade som varning mot att korsa isälvar och glaciala sjöar.",
+      "complete": true,
+      "summary": "Glaciär variant av nykuren — knuten till isälvar och glaciala sjöar."
+    },
+    "bergsr-et": {
+      "name": "Bergsrået",
+      "description": "Bergsrået är bergens rå-ande i svensk folktro — herren eller frun över malmer och gruvor, ofta föreställd som en liten man i grått eller en vacker kvinna med nyckelknippa. Gruvarbetare offrade till honom/henne för god malm och säkerhet under jorden; smällar och ras togs som tecken på dess vrede. Bergsrået hör samma familj som grufrun men kan vara antingen kön.",
+      "complete": true,
+      "summary": "Bergens rå-ande — härskare över malmer och gruvor, offrades silver av gruvarbetare."
+    },
+    "blak": {
+      "name": "Blak",
+      "description": "Blak är en isländsk hästmunk-gestalt: den onda häst som dränkte sin ryttare och sedan blev draug-häst, hemsökande stallets och stranden. Sägnen om Blak hör till den isländska traditionen av onda djur-andar — djur som efter döden inte finner ro utan fortsätter sina sysslor som fasor för människorna. Namnet användes också om verkliga hästar med dåligt rykte.",
+      "complete": true,
+      "summary": "Isländsk draughäst — dränkte sin ryttare och hemsöker stall och strand."
+    },
+    "bysen": {
+      "name": "Bysen",
+      "description": "Bysen är Gotlands kända spökväsen: en osynlig kraft som leder vandrare vilse på samma stig om och om igen ('att vara bysen') — oftast självan efter någon som gjort orätt. Bysen visar sig som ljud: steg, vedhuggning eller rodd utan roddare. Gotländska sägner placerar honom vid stenbrott, skogar och vägar; medlet mot honom var att vända kläderna ut och in eller att gå baklänges.",
+      "complete": true,
+      "summary": "Gotlands vilseledande spöke — 'att vara bysen' är att gå vilse på samma stig om igen."
+    },
+    "b-ckah-sten": {
+      "name": "Bäckahästen",
+      "description": "Bäckahästen är den svenska vattenhästen: en vacker grå häst som visar sig vid bäckar och sjöar och lockar barn och unga att rida — varpå den galopperar ner i djupet. Endast att ropa dess namn eller kasta stål över manen bryter trolldomen. Bäckahästen är nära släkt med Näcken (ibland samma väsen) och har gett namn åt konstverk, skulpturer och ortnamn i hela Sverige.",
+      "complete": true,
+      "summary": "Svensk vattenhäst — vacker grå häst som dränker ryttare; stål över manen bryter trolldom."
+    },
+    "bytting": {
+      "name": "Bytting",
+      "description": "Byttingen är det svenska ordet för växelbarnet: det barn troll eller de underjordiska lämnade i stället för ett stulet mänskligt barn. Byttingen beskrivs som ful, alltid gråtande, med gammal mans drag i barnkroppen — ibland talar den tidigare än vanliga barn och röjer därmed sig själv. Skyddet var dopet och järn över vaggan; tron dokumenteras ända in på 1800-talet i domstolsprotokoll.",
+      "complete": true,
+      "summary": "Svenskt ord för växelbarnet — trollens fula byte mot ett stulet mänskligt barn."
+    },
+    "b-ygen": {
+      "name": "Bøygen",
+      "description": "Bøygen är 'det obestämda fasansfulla' ur Peer Gynt — den formlösa mörka massa som blockerar Peer väg i Dovre och inte kan slåss emot, ty den saknar centrum: 'det är dig själv', säger den. Gestalten är Ibsens bild av det egna jagets motstånd, men bygger på norsk folktron om oknytt utan form som fyller rummen. Bøygen har blivit begrepp i norsk språk för den inre motståndaren.",
+      "complete": true,
+      "summary": "Ibsens formlösa fasansfullhet i Peer Gynt — det egna jagets motstånd utan centrum."
+    },
+    "bergfolk": {
+      "name": "Bergfolk",
+      "description": "Bergfolket är samlingsnamnet på de underjordiska i Norge: folket inne i berg och backar, med egna gården, kyrkor och fjäll. De dansar och speler inne i berget — hörs genom stenen — och handlar silver mot mat med dem som vågar. Bergfolket kräver att deras platser respekteras: byggs väg genom alf-berg blir olyckorna många. Tron är levande i Norge, och bergformationer skyddas fortfarande av hänsyn till dem.",
+      "complete": true,
+      "summary": "Norges underjordiska — bor inne i berg med egna kyrkor; vägbyggen undviker deras hemman."
+    },
+    "bynes-nden": {
+      "name": "Bynesånden",
+      "description": "Bynesånden är byns samlingsande i norsk folktro — platsens ande som vakar över hela samhället, dess ägor och dess folk. När något gick fel på flera gårdar samtidigt — missväxt, sjukdom, olyckor — tolkades det som bynesåndens vrede över kollektiv synd: gräl mellan grannar, försummade offer, brott mot sedvänjorna. Återställning krävde bygemensam handling: gemensam bön, gemensamt offer. Tron speglar bondesamhällets kollektiva ansvarskänsla.",
+      "complete": true,
+      "summary": "Byns samlingsande — straffar kollektiva synder med missväxt och sjukdom."
+    },
+    "beaivi-norway": {
+      "name": "Beaivi",
+      "description": "Beaivi är solen i samisk mytologi — Moder Solen (Beaivi nieida, solflickan), livgivaren som återvänder efter polarnatten. Solen är den viktigaste av de samiska himlakroppsgudarna: den ger renarna mat, människorna hälsa och barnen lek. Vid vårvintersolståndet offras vit renhorn och tjära till solen, och solsymboler (solhjul, ringmönster) pryder samisk konst sedan bronsåldern. Beaivi representerar ljusets seger över mörkret.",
+      "complete": true,
+      "summary": "Solen i samisk mytologi — Moder Solen, livgivare efter polarnatten."
+    },
+    "beaivi-spmi": {
+      "name": "Beaivi",
+      "description": "Beaivi i Sápmi-traditionen: solgudinnan vars årscykel styr rennomadismen och de stora högtiderna. Vintertid vilar Beaivi; vid solens återkomst firas den med offer och gemensamma måltider, och barn födda under solens tid sägs vara solens favoriter. I samisk konst är Beaivi ofta en kvinnlig gestalt med solhjul eller strålande ring — motsatsen till mörkrets och kallens makter.",
+      "complete": true,
+      "summary": "Solgudinnan vars årscykel styr rennomadismen; solsymboler sedan bronsåldern."
+    },
+    "b-ylefosstrollet": {
+      "name": "Bøylefosstrollet",
+      "description": "Bøylefosstrollet är trollet vid Bøylefossen i Froland, Aust-Agder: en lokal trollgestalt knuten till forsen, som enligt sägnerna hördes ryta i forsens dån och stjäl fisk ur nätarna. Fossens namn och form togs som tecken på trollets boning, och barn varnades gå nära den våta klippkanten där trollet kunde gripa dem. Lokala fosstroll hör till Agders rika sägntradition.",
+      "complete": true,
+      "summary": "Trollet vid Bøylefossen i Aust-Agder — ryter i forsen och stjäl fisk."
+    },
+    "bjarnd-rak-ngur": {
+      "name": "Bjarndýrakóngur",
+      "description": "Bjarndýrakóngur ('björnkungen') är den legendariska överbjörnen i isländsk folktro: en enorm, vitbrun björn med kam på nacken och man likt ett lejon, herre över alla björnar. Den syns sällan — att se bjarndýrakóngur var tecken på stor lycka eller stor fara beroende på hjärtat. Gestalten förekommer i isländska äventyrsberättelser och bekräftar björnarnas kungaställning i nordisk djurföljd.",
+      "complete": true,
+      "summary": "Isländsk björnkung — enorm vitbrun björn med man; sällan sedd, omen av lycka eller fara."
+    },
+    "bj-ra": {
+      "name": "Bjära",
+      "description": "Bjäran (även bjära, mjölkbjära) är den svenska mjölk-häxa: en liten, kattliknande eller ullbollen gestalt som en häxa sänder ut för att mjölka andras kor på avstånd och bära hem mjölken i säcken. Bjäran kunde ses som en blå eldsflamma som flyger genom natten mellan gårdarna. Att bränna bjäran med helig eld eller vända kläderna ut och in stoppade plundringen. Tron dokumenteras i svenska häxprocesser — att 'bjära mjölk' var anklagelse.",
+      "complete": true,
+      "summary": "Svensk mjölkhäxa — liten gestalt som sänds ut att mjölka andras kor på distans."
+    },
+    "brunnsgubbe": {
+      "name": "Brunnsgubben",
+      "description": "Brunnsgubben är brunnen och källans väktare i svensk folktro: den gamle man som bor i källan och ser till att vattnet hålls rent och levande. Den som slänger skräp i brunnen eller drar upp vatten utan artighet fick grumligt vatten och sjukdom; den som offrade ett mynt eller lite bröd vid vårdagen fick rent, gott vatten hela året. Brunnsgubbarna hör samma familj som källgrimar och de heliga källornas väsen.",
+      "complete": true,
+      "summary": "Brunnens väktare — belönar artighet med rent vatten, bestraffar skräp med sjukdom."
+    },
+    "bortbyting": {
+      "name": "Bortbyting",
+      "description": "Bortbytingen är växelbarnet i sin mest utförliga form: trollen byter till sig det vackra mänskliga barnet och lämnar sitt eget — gammalt, gråtande och fula — i dess ställe. För att återfå barnet skulle föräldrarna hota byttingen med ugnen eller piska tills trollet kom hämtade det; andra råd var att brygga öl i äggskal, vilket fick byttingen att ropa att han var äldre än trädet. Grymma 'botemedel' förekom i verkligheten — en mörk sida av tron.",
+      "complete": true,
+      "summary": "Växelbarnet i utförlig form — byts emot öl bryggda i äggskal i sägnernas grymma bot."
+    },
+    "bjergfolk": {
+      "name": "Bjergfolk",
+      "description": "Bjergfolket är det danska underjordiska folket: de bor inne i backar och högar, danser om kvällarna till fiolmusik, och deras kungar och drottningar regerar parallellt med människornas. De handlar silver mot mat, hjälper goda människor och straffar giriga och ohederliga. Danska bønder lät backar stå orörda av respekt; julfesterna hölls även åt bjergfolket. Tron lever i dansk litteratur och ortnamn.",
+      "complete": true,
+      "summary": "Danska underjordiska i backar och högar — dansar till fiolmusik, handlar silver."
+    },
+    "b-khest": {
+      "name": "Bækhest",
+      "description": "Bækhesten är den danska formen av bäckahästen: en vacker häst som visar sig vid bäckar och sjöar och lockar ryttare ut i djupet. Liksom sina svenska och norska syskon kan den bara besegras av stål över ryggen eller att dess namn ropas. Bækhesten förekommer i dansk folkeviser och sägner om drunknade barn, och användes som varning till ungdomar mot farliga islagor och bad.",
+      "complete": true,
+      "summary": "Dansk form av bäckahästen — lockar ungdomar ut på farliga islagor och bad."
+    },
+    "blomsterfolk-denmark": {
+      "name": "Blomsterfolket",
+      "description": "Blomsterfolket är de små väsen som bor i blommor och ängar i dansk sagotradition: små flickor och gossar med blomsterhattar, sovande i blomklockorna på natten. De är oskyldiga och goda — till skillnad från elverfolket — och hjälper bin och blommor växa. Gestalten är mest litterär (H.C. Andersen och 1800-talets sagodiktning) men har rotat sig i dansk barndomsbild av naturens små folk.",
+      "complete": true,
+      "summary": "Små goda väsen i blommorna — sover i blomklockorna; litterär dansk sagogestalt."
+    },
+    "witch-troll": {
+      "name": "Trollhäxan",
+      "description": "Trollhäxan är den kvinnliga trollgestalten med magi: en trollkona som kan byta barn, skicka sjukdomar, förvandla sig och styra vädret. Hon är både sagoväsen (Grýla-typen) och folktro-verklighetens häxa — gränsen flytande i sägnerna. Trollhäxan besegras oftast av soluppgång, kyrkklockor eller en modig hjälte med järnvapen. Hon representerar det onda kvinnliga i nordisk sagovärld.",
+      "complete": true,
+      "summary": "Kvinnlig trollgestalt med magi — byter barn, sänder sjukdom, styrs av soluppgång och järn."
+    },
+    "magical-bird": {
+      "name": "Den magiska fågeln",
+      "description": "Den magiska fågeln är sago-motivet: fågeln vars sång botar blindhet (Fågel Grip), visar vägen eller talar mänskligt språk. Den är oftast målet för hjältens färd — stulen från en främmande konung mot omöjliga odds — och belönar till slut den envise yngste sonen. Motivet finns i hela Norden och hör till ATU-sagtypen 'den magiska flygeln'. Fågeln representerar visdom och helbrägdagörelse.",
+      "complete": true,
+      "summary": "Sagofågel vars sång botar blindhet — målet för hjältens färd (Fågel Grip-typen)."
+    },
+    "sea-troll": {
+      "name": "Sjötroll",
+      "description": "Sjötrollet är havets troll: ett väsen som bor under vågorna, stjäl nät och fisk, skapar virvlar och lockar båtar på fel kurs. Det är mer retsamt än rent ondt men farligt att provocera — fiskare offrade första fångsten åt det för lugnt väder. Sjötrollet är släkt med sjörået, draken och havsmannen men har egen grov karaktär i kustsägnerna.",
+      "complete": true,
+      "summary": "Havets troll — stjäl nät och fisk, skapar virvlar; retsam men farlig att provocera."
+    },
+    "specter": {
+      "name": "Gengångaren",
+      "description": "Gengångaren är det allmänna spök-väsenet: den döda som återvänder till de levande — av orättvisa, obetalda skulder, ouppklarade brott eller ren ond vilja. I fornnordisk tro var gengångaren fysisk och stark; i senare tradition bleknade han till skugga och ljud. Medlen mot honom var alltid samma: rättelse av orätten, kristen begravning eller järn och psalmer. Gengångaren är Nordens grundläggande spöke.",
+      "complete": true,
+      "summary": "Nordens grundläggande spöke — den döde som återvänder av orättvisa eller ond vilja."
+    },
+    "talking-fox": {
+      "name": "Den talande räven",
+      "description": "Den talande räven är sago-motivet: den kloka räv som blir hjälten vägvisare (Fågel Grip-sagorna), stjäl för honom men varnar om regler som han alltid bryter. Räven är ofta en förtrollad varelse eller en ande med eget syfte — hjälpen har ett pris. Motivet är gemensamt i hela Norden och Europa; räven representerar list och erfarenhet, motsatsen till hjältens naiva mod.",
+      "complete": true,
+      "summary": "Kloka räven som blir hjältens vägvisare i Fågel Grip-sagorna — hjälpen har pris."
+    },
+    "flying-troll": {
+      "name": "Det flygande trollet",
+      "description": "Det flygande trollet är Daga och Dagas fasansfulla härskare på Himlaberget i Alfred Smedbergs saga: en trollkung med vingar som rövare barn och tvingar dem till slaveri i sina grottor, bevakade av stenar som kan förvandlas till fåglar. Endast mod och snabbhet — och en guldkrona kastad i sista ögonblicket — kan besegra det. Gestalten är en av svensk barnlitteraturs mest ikoniska skurkar (Bland tomtar och troll).",
+      "complete": true,
+      "summary": "Daga och Dagas fasansfulle härskare på Himlaberget — Smedbergs ikoniske skurk."
+    },
+    "swan-maiden": {
+      "name": "Svanjungfrun",
+      "description": "Svanjungfrurna är de kvinnliga väsen som bär svankhamnar: de lägger av sig fjäderdräkterna vid stranden och badar som kvinnor — den man som stjäl en hamn binder jungfrun åt sig i äktenskap. Men hon söker ständigt sin hamn, och finner hon den flyger hon bort för alltid. Motivet är uråldrigt (Völundarkviðas valkyrjor) och spridd över hela Norden; smeden Völunds äktenskap med alvkonan Böðvildr är den mest kända versionen.",
+      "complete": true,
+      "summary": "Kvinnor med svanhamnar — stulen fjäderdräkt binder henne i äktenskap tills hon finner den."
+    },
+    "magpie": {
+      "name": "Skatan",
+      "description": "Skatan är Nordens retsamma visdomsfågel: i sägnerna stjälar hon glansigheter, avslöjar tjuvar, bär budskap och — i danska/svenska sagor — är förhäxad prinsessa som kräver salt på svansen innan önskningar uppfylls. Att se en skata ensam är olycksbådande, två betyder lycka. Skatan hör till de djur som folktron gett egen karaktär och ramsor ('En för smed, två för glad').",
+      "complete": true,
+      "summary": "Retsam visdomsfågel — stjäl glansigheter, bär budskap, förhäxad prinsessa i sagorna."
+    },
+    "vindra": {
+      "name": "Vindrå",
+      "description": "Vindråen är vindens rå-ande i svensk folktro — den ande som härskar över vindarna likt skogsrået över skogen. Sjöfolk och bönder offrade till den för rätt vind till segel och tröskning, och plötsliga vindbygar togs som tecken på att vindrået passerat. Vindrået hör samma familj som sjörået och bergsrået — naturens krafter med egen vilja.",
+      "complete": true,
+      "summary": "Vindråen — vindens rå-ande i svensk folktro, härskare över brisar och stormar."
     }
   }
 }
