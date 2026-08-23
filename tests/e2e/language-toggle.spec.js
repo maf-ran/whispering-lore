@@ -143,4 +143,13 @@ test.describe('language toggle', () => {
     })
     expect(restored).toBe('de')
   })
+
+  test('pages expose en/sv hreflang alternates', async ({ page }) => {
+    const count = await page.$$eval('link[rel="alternate"][hreflang]', (els) =>
+      els.filter((e) => e.hreflang === 'en' || e.hreflang === 'sv').length
+    )
+    expect(count).toBe(2)
+    const svHref = await page.$eval('link[rel="alternate"][hreflang="sv"]', (e) => e.href)
+    expect(svHref).toContain('lang=sv')
+  })
 })
