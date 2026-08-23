@@ -65,6 +65,9 @@ fixtureMap['data/sharded/manifest.json'] = manifest;
 fixtureMap['data/i18n/sv/creatures-nordic.json'] = JSON.parse(
   fs.readFileSync(path.join(FIX, 'sv-creatures-nordic.json'), 'utf8')
 );
+fixtureMap['data/i18n/sv/stories-nordic.json'] = JSON.parse(
+  fs.readFileSync(path.join(FIX, 'sv-stories-nordic.json'), 'utf8')
+);
 Object.keys(regionData).forEach(function (r) {
   fixtureMap['data/sharded/creatures/by-region/' + r + '.json'] = regionData[r];
 });
@@ -670,6 +673,23 @@ describe('Shimmer sv overlay merge', function () {
       expect(troll._i18n).toEqual({ lang: 'sv', partial: false });
       var other = data.find(function (c) { return c.slug !== 'troll' });
       expect(other._i18n.partial).toBe(true);
+    });
+  });
+
+  it('merges sv patches onto stories shards when native', function () {
+    window.history.replaceState({}, '', '/index.html?lang=sv');
+    Shimmer.shards.stories = {};
+    return new Promise(function (resolve) {
+      Shimmer.loadRegionShard('stories', 'Nordic', function (err, data) {
+        resolve(data);
+      });
+    }).then(function (data) {
+      var s = data.find(function (x) { return x.slug === 'three-trolls' });
+      expect(s.title).toBe('Tre troll under bron');
+      expect(s.summary).toContain('mod slår storlek');
+      expect(s.full_text).toContain('Det var en gång');
+      expect(s._i18n).toEqual({ lang: 'sv', partial: false });
+      expect('complete' in s).toBe(false); // internal flag never leaks
     });
   });
 
