@@ -334,11 +334,11 @@
         }
         var out = data.map(function (it) {
           var c = Object.assign({}, it)
-          c._i18n = { lang: lang, partial: true }
           var patch = ov.entries[c.slug]
+          c._i18n = { lang: lang, partial: !(patch && patch.complete) }
           if (patch) {
             Object.keys(patch).forEach(function (k) {
-              c[k] = patch[k]
+              if (k !== 'complete') c[k] = patch[k]
             })
           }
           return c
@@ -447,11 +447,11 @@
           var ov = byRegion[it.region]
           if (!ov) return it
           var c = Object.assign({}, it)
-          c._i18n = { lang: lang, partial: true }
           var patch = ov.entries[c.slug]
+          c._i18n = { lang: lang, partial: !(patch && patch.complete) }
           if (patch) {
             Object.keys(patch).forEach(function (k) {
-              c[k] = patch[k]
+              if (k !== 'complete') c[k] = patch[k]
             })
           }
           return c
@@ -513,11 +513,11 @@
       this._loadOverlayFor(type, item.region, lang).then(function (ov) {
         if (!ov || !ov.entries) { callback(err, item); return }
         var c = Object.assign({}, item)
-        c._i18n = { lang: lang, partial: true }
         var patch = ov.entries[c.slug]
+        c._i18n = { lang: lang, partial: !(patch && patch.complete) }
         if (patch) {
           Object.keys(patch).forEach(function (k) {
-            c[k] = patch[k]
+            if (k !== 'complete') c[k] = patch[k]
           })
         }
         callback(err, c)

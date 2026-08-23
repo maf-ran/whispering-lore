@@ -623,7 +623,8 @@ describe('Shimmer sv overlay merge', function () {
       expect(r.err).toBeNull();
       var troll = r.data.find(function (c) { return c.slug === 'troll' });
       expect(String(troll.summary)).toContain('bergstroll'); // RED pre-impl
-      expect(troll._i18n && troll._i18n.partial).toBe(true);
+      // fixture marks troll complete:true -> badge must drop
+      expect(troll._i18n && troll._i18n.partial).toBe(false);
     });
   });
 
@@ -652,7 +653,23 @@ describe('Shimmer sv overlay merge', function () {
       expect(r.err).toBeNull();
       var troll = r.data.find(function (c) { return c.slug === 'troll' });
       expect(troll.summary).toContain('bergstroll');
-      expect(troll._i18n).toEqual({ lang: 'sv', partial: true });
+      expect(troll._i18n).toEqual({ lang: 'sv', partial: false });
+    });
+  });
+
+  it('marks patched entries complete when overlay says so', function () {
+    window.history.replaceState({}, '', '/index.html?lang=sv');
+    Shimmer.shards.creatures = {};
+    return new Promise(function (resolve) {
+      Shimmer.loadRegionShard('creatures', 'Nordic', function (err, data) {
+        resolve(data);
+      });
+    }).then(function (data) {
+      var troll = data.find(function (c) { return c.slug === 'troll' });
+      expect(troll.description).toContain('bergstroll');
+      expect(troll._i18n).toEqual({ lang: 'sv', partial: false });
+      var other = data.find(function (c) { return c.slug !== 'troll' });
+      expect(other._i18n.partial).toBe(true);
     });
   });
 
