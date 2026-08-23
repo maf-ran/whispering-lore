@@ -1,5 +1,10 @@
 {
-  "_meta": { "lang": "sv", "source": "wave-a pilot", "count": 50 },
+  "_meta": {
+    "lang": "sv",
+    "source": "wave-a pilot",
+    "count": 100,
+    "fullEntries": 0
+  },
   "entries": {
     "tomte": {
       "name": "Tomte",
@@ -200,6 +205,306 @@
     "landvttir-sweden": {
       "name": "Landvättir",
       "summary": "Väktande landväsen — andar som skyddar åkrar, gårdar och territorier."
+    },
+    "landvttir-iceland": {
+      "name": "Landvættir",
+      "summary": "Landvættir är Islands fyra skyddsandar, beskrivna i Snorre Sturlassons Heimskringla.",
+      "description": "Landvættir ('landväsen') är Islands fyra skyddsandar enligt Snorre Sturlassons Heimskringla. Varje väktare skyddar en fjärdedel av Islands kust: en drake vaktar öster, en jätteörn norr, en tjur väster och ett bergtroll söder. Enligt sägnen sände kung Harald Blåtand en trollkarl i valform för att spana ut Island inför en invasion. Trollkarlen drevs bort från varje kust — draken andades eld, örnen slet åt hans ögon, tjuren anföll med hornen och jätten slog honom med klubba. Han återvände och rapporterade att Island inte gick att erövra. Landvættir avbildas på Islands riksvapen och på isländska kronmynt.",
+      "complete": true
+    },
+    "lindworm-scandinavia": {
+      "name": "Lindorm",
+      "summary": "Stor ormdrake utan vingar som vaktar skatter och hemsöker djupa skogar.",
+      "description": "Lindormen är en ormliknande drake ur skandinavisk mytologi — ett enormt, benlöst eller tvåbent kräldjur som vaktar skatter, hemsöker djupa skogar och plågar landsbygden. Till skillnad från sydeuropeiska vingdrakar rör sig lindormen på mage som en jättelik orm, med regnbågskimrande fjäll och giftigt bett. I svensk och norsk folktro framträder lindormar ofta som förtrollade prinsar eller prinsessor som bara kan frälsas av en modig riddare eller en kvick flicka. De förknippas med gravhögar och vildmarken, och berättelserna om lindormar var varnande exempel på att ge sig in för djupt i skogen.",
+      "complete": true
+    },
+    "lvor": {
+      "name": "Älvor",
+      "summary": "Vackra övernaturliga väsen knutna till skog, ängar och dimma.",
+      "description": "Älvorna i svensk folktro är vackra, människoliknande väsen som bor i skog, ängar och dimma. De dansar i ring (älvadans) och ger sjukdom eller galenskap åt den som stör dem, och de kan byta ut mänskliga barn mot bytlingar. Både manliga och kvinnliga älvor finns. De skiljer sig från skogsrået och huldran men har regionalt blandats samman med dem. Älvtron är dokumenterad i svenska folklorsamlingar från 1600- till 1800-talen.",
+      "complete": true
+    },
+    "lyktemann": {
+      "name": "Lyktemann",
+      "summary": "Lyktemann är ett irrljus i norsk folktro, knutet till myrar och kustområden på Vestlandet.",
+      "description": "Lyktemann (även lyktgubbe) är ett irrljus i norsk folktro, särskilt knutet till myrar och kustkärr på Vestlandet. Lyktemannen visar sig som ett litet, dansande ljus som leder vandrare vilse ut i farlig mark eller mot branta klippor — den som följer ljuset går i döden, drunknar i myren eller stupar ner för berget. Ljuset går inte att fånga; det håller sig alltid strax framför. I vissa traditioner är lyktemannen en syndares spöke som dömts vandra omkring med lykta i evighet. I Hordaland kallas han lyktemann, i Sogn vettelys. Fiskare på Vestlandet tolkade ljuset nära land som ett dödsvarsel.",
+      "complete": true
+    },
+    "lussi": {
+      "name": "Lussi",
+      "summary": "Kvinnlig demonfigur i norsk folktro som rider fram på Lussinatten, den 13 december.",
+      "description": "Lussi är en kvinnlig demonliknande gestalt i norsk folktro, verksam på Lussinatten (lucidagen, 13 december), en av årets kortaste dagar i den gamla julianska kalendern. På denna natt rider Lussi genom luften med en skara andar och demoner och bestraffar den som vågar arbeta efter mörkrets inbrott. Alla spinnhjul och vävstolar skulle stå stilla; den som greps på bar gärning kunde rykas med i Lussis tåg eller se sitt arbete förstört. På Vestlandet var tron särskilt stark — ingen kvarn fick mala, inget ull fick spinnas och inget bröd bakas efter solnedgången. Lussi bestraffade också olydiga barn. Traditionen sammansmälte senare med Sankta Lucia-firandet, men Lussi levde kvar som fruktad gestalt i landsbygdens folktro länge efter kristningen. Även djuren sades kunna tala på Lussinatten — men den som hörde dem dog.",
+      "complete": true
+    },
+    "lindorm-norway": {
+      "name": "Lindorm",
+      "summary": "Jättelik ormdrake som bor under kyrkor, i gravhögar och i sjöar.",
+      "description": "Lindormen är en jättelik ormdrake i dansk-norsk folktro som lever under kyrkor, i gravhögar och i sjöar. Den mest kända danska lindornsägnten kommer från Hvalsø kyrka på Själland, där en lindorm ringlat sig runt hela kyrkan så att ingen kom in. Odjuret besegrades av en särskild tjur uppfödd på mjölk och hasselnötter — tjuren anföll och slitsade upp lindormen i en ravin som än idag bär namnet 'Tyvedskløften' (Tjurklyftan). I dansk tradition hör lindormar till förbannelsernas värld: sägnerna om prinsar förvandlade till lindormar (sagotypen 'Kung Lindorm', ATU 433B) berättar om prinsessor som måste våga omfamna ormen för att bryta förtrollningen. Till skillnad från drakar saknar den danska lindormen vingar och andas gift i stället för eld.",
+      "complete": true
+    },
+    "lindorm-denmark": {
+      "name": "Lindorm",
+      "summary": "Jättelik ormdrake i dansk folktro, boende under kyrkor, i högar och sjöar.",
+      "description": "Lindormen är en jättelik ormdrake i dansk folktro som bor under kyrkor, i gravhögar och i sjöar. Den mest kända sägnen kommer från Hvalsø kyrka på Själland, där en lindorm snurrade sig runt hela kyrkan och hindrade alla från att gå in. Odjuret dödades av en speciell tjur född upp på mjölk och hasselnötter — tjuren stångade och slitsade upp lindormen i en ravin som fortfarande kallas 'Tyvedskløften'. I dansk tradition förknippas lindormar med förbannelser: sägner berättar om prinsar förvandlade till lindormar (Kung Lindorm, ATU 433B), som bara kan återfå människogestalt genom en prinsessa modig nog att krama ormen. Den danska lindormen har inga vingar och andas gift i stället för eld.",
+      "complete": true
+    },
+    "ladejarlens-gjenferd": {
+      "name": "Ladejarlens Gjenferd",
+      "summary": "Spökgestalt som sägs hemsöka Lade i Trondheim, ladejarlarnas forna säte.",
+      "description": "Ej oberoende belagd i folklorlitteraturen. Ingen norsk källa dokumenterar något spöke efter ladejarlarna i Trondheims Lade-distrikt; posten klär den verkliga historien om jarlarna av Lade i en uppfunnen berättelse om en spökriddare utan någon citerad tradition. Trondheim har visserligen belagda spöksägner, men 'ladejarlens gengångare' som sådan är overifierad.",
+      "complete": true
+    },
+    "lekam-ya": {
+      "name": "Lekamøya",
+      "summary": "Kvinnligt troll i nordländsk folktro, barnflicka åt De sju systrarna.",
+      "description": "Lekamøya (Lekaflickan) är ett kvinnligt troll ur nordnorsk folktro, barnflicka åt De sju systrarna — Suliskongens döttrar. Enligt sägnerna försökte Lekamøya skydda systrarna när Hestmannen jagade dem. Hon flydde söderut från ryttaren och hoppade över Velfjorden mot ön Leka. När solen gick upp förstenades hon mitt i språnget. Smörkärlet hon bar föll ur händerna och blev de gulaktiga bergen på Leka (geologiskt urskiljbara ultramafiska bergarter i gulgrön ton). Lekamøyformationen syns tydligt på Leka och är en av Nordlands mest kända klippformatioer. Sägnen förklarar både formationen och öns märkliga geologi.",
+      "complete": true
+    },
+    "lindesnes-varulven": {
+      "name": "Lindesnes-varulven",
+      "summary": "Formskiftande vargväsen från Lindesnes, Norges sydspets.",
+      "description": "Lindesnes-varulven är ett formskiftande vargväsen ur folktron vid Lindesnes, Norges sydspets. Till skillnad från den kontinentaleuropeiska varulvstraditionen står Lindesnes-varulven närmare de fornnordiska hamskifte-tankarna — en människa som kunde bli varg genom att ta på sig en vargskärpsrembelte eller genom att vara född under särskilda stjärnor. Traditionsuppteckningen dokumenterades inom Norsk Folkeminnesamlings nationella sagnkart-projekt från 2018, som kartlagde folksägner kommunvis. Lindesnes-varianten är märklig som en av få dokumenterade varulvtraditioner i södra Norge — de flesta norska varulvsägner kommer från mellersta och norra landet. Varulven sades hemsöka hedmarken och kustlandskapet kring Lindesnes fyr och ta boskap och ensamma resenärer.",
+      "complete": true
+    },
+    "listasanddjevelen": {
+      "name": "Listasanddjevelen",
+      "summary": "Övernaturligt väsen knutet till Lists vandrande sanddyner.",
+      "description": "Ej oberoende belagt i norsk folktro. Ingen vetenskaplig eller primär källa dokumenterar någon sanddjävul vid Lista; gestalten förekommer i en nyligen skriven Wikipediaartikel byggd på verklig dynbegravninghistoria men med en påhittad virvelsand-ande.",
+      "complete": true
+    },
+    "lfar": {
+      "name": "Álfar",
+      "summary": "Naturbundna andar i isländsk folktro, åtskilda från Huldufólket.",
+      "description": "Álfar (alver) är naturbundna väsen i isländsk folktro, åtskilda från Huldufólket på flera viktiga sätt. Medan det dolda folket betraktas som människolikt och lever i ett parallellt samhälle är álfar mer eterealiska, naturens egna väsen knutna till specifika stenar, backar och klippor. De är vackra, graciösa och magiskt begåvade. De bor inne i klippor (álfhólar) och bedriver jordbruk parallellt med människornas. Om de kränks väcker de sjukdom, olycka eller missmod; om de hedras ger de lycka. Offer brukades läggas vid vissa stenar. I fornnordisk mytologi förekommer álfar i Poetiska Eddan och Snorres Edda som ett eget släkte. Kormáks saga nämner offer till alver för bot. Ännu idag tror många islänningar på álfar.",
+      "complete": true
+    },
+    "lyngbakr": {
+      "name": "Lyngbakr",
+      "summary": "Den största valen i isländsk folktro — dess rygg liknar en ljungbevuxen ö.",
+      "description": "Lyngbakr (Ljungryggen) är den största valen i isländsk folktro, så enorm att ryggen ser ut som en ö täckt av jord, gräs och småträd. Sjöfolk steg iland på vad de trodde var en ö, för att sedan upptäcka att de stod på Lyngbakrs rygg. När valen dykte drunknade hela besättningen. Lyngbakr förekommer i Örvar-Odds saga och i Navigatio Sancti Brendani. Namnet kommer av lyng (ljung) och bak (rygg). Enligt sägnen är Lyngbakr havets näst största varelse, endast Hafgufa är större. Den äter endast vart tredje år och sveper då i sig allt i sin väg med vida gap. Lyngbakr troddes leva till Ragnarök. Sägnen har troligen uppkommit av valryggar eller drivgods som förväxlats med öar.",
+      "complete": true
+    },
+    "lyktgubbe": {
+      "name": "Lyktgubbe",
+      "summary": "Svensk irrljusgestalt med lykta som lurar vandrare vilse i kärr och skogar.",
+      "description": "Lyktgubben är den svenska varianten av irrljuset — en spöklik gestalt med lykta som leder vandrare vilse i mossar och skogar. I svensk tradition är lyktgubben oftast anden efter en ohederlig lantmätare som flyttade på råmärken under sin livstid. Som straff är han dömd att vandra omkring med sin lykta för evigt, oupphörligt uppreparande 'detta är rätt, detta är fel' medan han söker de sanna gränserna. Han lockar resenärer i sankmarken genom att likna en vänlig ljuspunkt, och försvinner sedan och lämnar dem vilse. Men blir han tilltalad artigt och ombeds om hjälp, visar han resenären säkert hem. Lyktgubben kan frälsas från sin förbannelse om någon rättar de falska råmärken han driver omkring med.",
+      "complete": true
+    },
+    "lvakung": {
+      "name": "Älvakung",
+      "summary": "Älvornas konung i svensk folktro, ledare för älvdansen.",
+      "description": "Älvakungen är alvernas härskare i svensk folktro. Han leder älvdansen på dimmiga ängar, särskilt vid midsommar och under höstdimmorna. Älvakungen framstår som en praktfull men djupt överjordisk gestalt — stilig, rikligen klädd, men med ett obehaglig drag som röjer hans icke-mänskliga natur. Den som sluter sig till dansen, lockad av musikens skönhet eller konungens charm, kan dansa vad som känns som timmar bara för att upptäcka att år eller århundraden hunnit gå i människovärlden. Älvakungens rike ligger på gränsen mellan människovärlden och andra sidan, nåbart endast i skymningen, i dimman eller vid årets övergångstider. Han är inte ond men farligt likgiltig inför människans dödlighet.",
+      "complete": true
+    },
+    "lygtemand": {
+      "name": "Lygtemand",
+      "summary": "Dansk irrljus med blå gaseldlykta som lurar vandrare i myrarna.",
+      "description": "Lygtemanden är den danska varianten av irrljuset — en liten varelse med en blå gaseldslykta som lockar resande ut i mossar och kärr. Enligt dansk tradition är lygtemanden anden efter en ohederlig lantmätare som flyttade råmärken, dömd att vandra till dess alla falska gränser rättats. Vid Skovby på Falster sägs lygtemanden vara anden efter en man som lurade sina grannar vid lantmätning; vid Julstrup utanför Aalborg setts en sitta på en hölass och erbjuda sig att visa vägen hem, för att sedan leda resenärerna rakt ut i myren. Lygtemanden kan dela sig i flera ljus så att det är omöjligt att veta vilken riktning som är säker. Skydd: vänd ut och in på kläderna eller bära en bit stål.",
+      "complete": true
+    },
+    "lindorm-denmark-1": {
+      "name": "Lindorm",
+      "summary": "Vinglös, tvåbent jätteorm som bor i jordens djup.",
+      "description": "Lindormen är en vinglös, tvåbent ormdrake ur germansk och nordisk folktro, boende i gravhögar, grottor och djupt vatten. Den vaktar skatter och kan tala. Sägnerna berättar att lindormar kläcks ur ägg lagda av kvinnor eller växer till sig av en orm som druckit mjölk. Hjältarna dödar den vanligen genom att sticka ett spjut i munnen på den. Belagd i danska och svenska sagosamlingar.",
+      "complete": true
+    },
+    "louhi-finland": {
+      "name": "Louhi",
+      "summary": "Pohjolas listiga härskarinna i finsk mytologi — mäktig häxa som stjäl Sampo.",
+      "description": "Louhi är Pohjolas mäktiga härskarinna i Kalevala, en trollkona som stjäl solen, månen och elden och låter smida Sampo. Hon strider mot Väinämöinen, Ilmarinen och Lemminkäinen och förvandlar sig till en jätteörn i den slutliga jakten. Lönnrot byggde henne av karelska runosånger där hon framstår som en schamanisk motståndare.",
+      "complete": true
+    },
+    "lemminkainen-finland": {
+      "name": "Lemminkäinen",
+      "summary": "Våghalsig, vacker hjälte i Kalevala vars övermod leder honom i fara.",
+      "description": "Lemminkäinen är den våghalsige, vackre hjälten i Kalevala som friar till Kyllikki, färdes till Pohjola, dödas när han försöker skjuta Tuonelas svan och återuppväcks av sin moder som räkar dödsfloden. Hans äventyr, sammanställda av Lönnrot ur karelska runosånger, skildrar en schamanisk gestalt som passerar gränsen mellan världarna.",
+      "complete": true
+    },
+    "lindorm": {
+      "name": "Lindorm",
+      "summary": "Heraldisk ormdrake ur skandinavisk folktro, boende i sjöar och gravhögar.",
+      "description": "Lindormen är en kolossal, vinglös jordorm som ofta förväxlas med drakar men har en egen, mer jordbunden natur. I svensk folktro är den en symbol för urkraft och gömd fara, som helst håller till i djupa grottor eller under uråldriga högar. Till skillnad från de eldsprutende drakarna ligger lindormens kraft i dess enorma styrka och förmåga att påverka marken omkring sig — ibland med svältår, ibland med växtlighet, beroende på lynne. Den skildras ofta som väktare av förlorade skatter eller förbjuden kunskap, och kräver stor list att besegra.",
+      "complete": true
+    },
+    "ljungra": {
+      "name": "Ljungrå",
+      "summary": "Vacker skogsande som härskar över ljunghedarna och lurar vandrare.",
+      "description": "Ljungrå är en specialiserad skogsande som bebuar Sveriges vida, purpurfärgade ljunghedar. Hon är en variant av skogsrået men mer knuten till öppna landskap än till tätta tallskogar. Ljungrå är känd för sitt melankoliska väsen och för att vilseleda vandrare genom att härma röster från nära och kära. Hon skyddar ljunget och de små varelser som lever däri, och bestraffer strängt den som för buller och oordning in i hede rikes tystnad.",
+      "complete": true
+    },
+    "lempo": {
+      "name": "Lempo",
+      "summary": "Illasinnad skogsande eller djävul i finsk folktro som vilseleder vandrare.",
+      "description": "Lempo är en elakartad skogsande eller djävul i finsk-karelsk folktro, dokumenterad av Ganander i Mythologia Fennica (1789). Ursprungligen en egen eld/demongestalt förknippad med Hiisi, senare sammansmältd med den kristna djävulen — det finska ordet 'lempo' betyder 'förbannelse'. Han vilseleder vandrare, vållar sjukdomar och personifierar destruktiv passion.",
+      "complete": true
+    },
+    "yule-lads": {
+      "name": "Jólasveinar (Yule Lads)",
+      "summary": "Tretton retsamma bröder som besöker barnen de tretton nätterna före jul.",
+      "description": "Jólasveinar är tretton isländska trollbröder som besöker barnen under de tretton nätterna före jul, var och en med sin signaturbus (Skyffel-Labbet, Tittut-Tokiga, Stubben, Skedslickaren, Kastrullskraparen, Skållickaren, Dörrslammaren, Skyrslukaren, Korvklyvaren, Fönsterspanaren, Dörrsniffaren, Köttkroken, Ljusstjälen). Söner till Grýla och Leppalúði. Dokumenterade i Jón Árnasons samlingar och i 1700-talsdikter.",
+      "complete": true
+    },
+    "utburd": {
+      "name": "Utburd",
+      "summary": "Spöket efter ett övergivet eller mördat spädbarn i norsk folktro.",
+      "description": "Utburd (även utbør, utburðr) är spöket efter ett övergivet eller mördat spädbarn i norsk folktro. I förkristen och tidig kristen tid lät man oönskade barn — särskilt utomäktenskapliga — överges i vildmarken för att dö, en sed som kallades utburd. Such ett barns ande troddes återvända som ett fasansfullt spöke som hemsökte platsen där det dog. Utburden ansågs särskilt farlig eftersom den odöpta själen inte fann ro. Anden skrek om natten och angrep resenärer, satte sig ibland på deras axlar eller red på ryggen och blev allt tyngre tills de bröt samman. De flesta berättelser kommer från Norges västra och norra kusttrakter.",
+      "complete": true
+    },
+    "underjordiske": {
+      "name": "Underjordiske",
+      "summary": "Samlande namn på de väsen i norsk folktro som bor under jorden eller i berg.",
+      "description": "Underjordiske är ett samlingsnamn i norsk folktro för de olika övernaturliga varelser som lever under jorden eller inne i berg och backar. Hit räknas huldrefolk, haugfolk, tusser och andra dolda väsen. De underjordiska bor i en värld som speglar människornas — de odlar, fiskar, handlar, gifter sig, får barn och håller fester. De är osynliga men kan välja att visa sig. De är kända för sin skönhet, rikedom och magiska förmågor. De iakttar noga människornas uppförande och belönar eller bestraffar därefter. Termen är vanligast i västra och norra Norge. De troddes vara ättlingar till änglar som kastats ut ur himlen (kristet inflytande) eller andarna efter förkristna förfäder.",
+      "complete": true
+    },
+    "utr-st-folket": {
+      "name": "Utrøst-folket",
+      "summary": "Dolt folk på den legendariska sänkta ön Utrøst utanför Vestlandet.",
+      "description": "Utrøst-folket är ett dolt folk som bor på den legendariska sänkta ön Utrøst utanför Vestlandetskusten. Utrøst är en sagö som bara visar sig för fromma eller för dem med 'second sight' — ett paradis med gyllene kornfält, gröna beten och getter med gyllene horn. Invånarna är ett fredligt dolt folk som odlar, fiskar och lever i välstånd, oberörda av storm och olycka. När fiskare efter storm finner tång eller halm på sina roder säger de att de seglat över Utrøst. Den mest kända sägnen är Asbjørnsen och Moes 'Skarvarna på Utrøst', där en fattig fiskare bjuds till ön och varnas äta landets feta. Utrøst representerar den keltisk-nordiska sagö-traditionen, släkting till Hy Brasil.",
+      "complete": true
+    },
+    "ur-ark-ttur": {
+      "name": "Urðarköttur",
+      "summary": "Monströs katt i isländsk folktro, uppväxt ur vilda katter eller vit ungar med öppna ögon.",
+      "description": "Urðarköttur (likkatten) är ett monströst kattkräk i isländsk folktro som växer till sig ur förville katter eller vita ungar födda med öppna ögon. Enligt traditionen blir varje katt som helt förvillas så småningom en urðarköttur. Vita ungar födda med redan öppna ögon sjunker ner i jorden direkt efter födseln och kommer fram igen efter tre år som urðarköttur. Varelsen växer till oxstorlek, har långhårig vit eller svart päls och dödar skiljaktigt. Den har särskild smak för liken och gräver uppgravar på kyrkogårdar för att äta de döda. Vissa folklorister menar att julatten (Jólakötturinn) i själva verket är en urðarköttur som kommit att knytas till jultraditionen. Urðarköttur finns i Jón Árnasons folkminnessamling och gestaltar rädslan för katter i kombination med gravskändning.",
+      "complete": true
+    },
+    "ukko-finland": {
+      "name": "Ukko",
+      "summary": "Finnska himmelens högsta gud — härskare över åska, regn och skörd.",
+      "description": "Ukko är den förkristna finska religionens högsta himmelsgud, härskare över åska, regn och skörd. Han slår till med hamaren Ukonvasara och skapar blixtar; hans kult centrerades kring vårblot (Ukon vakat) med gemensamt dryckesoffer. I Kalevala framträder han som Väinämöinens fader och domare i Marjattasons mål. Dokumenterad av Agricola (1551), Ganander och i runosånger.",
+      "complete": true
+    },
+    "keiju": {
+      "name": "Keiju",
+      "summary": "Små finska feväsen med trollsländvingar som dansar på skogsgläntor.",
+      "description": "Keijukainen (modern keiju) är små andar i finsk folktro, belagda sedan Gananders Mythologia Fennica (1789) som små flygande väsen förknippade med de döda — sedda vid begravningar, kyrkogårdar och vägar, liknande snöflingor, små dockor eller lågor, och räknade till kirkonväki, dödsandernas tåg. Den 'vackra bevingade fen'-bilden är ett senare litterärt pådrag.",
+      "complete": true
+    },
+    "kvarngubbe": {
+      "name": "Kvarngubbe",
+      "summary": "Kvarnande i vattendrivna svenska skvaltkvarnar, hjälper eller hindrar mjölnaren.",
+      "description": "Kvarngubbe är en svensk kvarnande som bor i vattendrivna skvaltkvarnar och hjälper eller hindrar mjölnaren. En skicklig spelman liksom Näcken, stark som en tomte, underhåller han kvarnmekanismen om natten mot att han behandlas med respekt. Källposten anger felaktigt att han är en 'höggravande'; kvarn betyder just kvarn och inte hög — höggravaren är ett annat väsen (haugbui).",
+      "complete": true
+    },
+    "k-pakonan-selkie": {
+      "name": "Kópakonan (Selkie)",
+      "summary": "Färöisk sälkvinna från Kalsoy som tvingades gifta sig efter stulen sälhud.",
+      "description": "Kópakonan är den färöiska varianten av sälkvinnolegenden — en mytisk sälkvinna som lägger av sig sälhuden för att vandra på land som vacker människa. Berättelsen kommer från ön Kalsoy på Färöarna, närmare bestämt byn Mikladalur. Enligt sägnen stal en bonde från Mikladalur en selkies sälhud medan hon dansade på stranden, tvingade henne till äktenskap och hon födde hans barn. Namnet Kópakonan betyder bokstavligen 'sälkvinna' på färöiska, och legenden är en av de mest bestående och tragiska i nordisk sjöfolklore, djupt sammanvävd med färöingarnas förhållande till havet och dess varelser.",
+      "complete": true
+    },
+    "kraken": {
+      "name": "Kraken",
+      "summary": "Legendariskt jättestor sjömonster utanför Norges och Grönlands kuster.",
+      "description": "Kraken är ett legendariskt kolossalt sjömonster som sägs leva utanför Norges och Grönlands kuster. Skildrat som en jättelik bläckfisk eller liknande varelse fruktades kraken av norska fiskare för sin förmåga att dra ner hela fartyg med besättning i djupet. Först utförligt beskriven av den norske biskopen Erik Pontoppidan i Det norske Natursystem (1752-53), som målade kraken som ett enormt, flytande öliknande väsen med massiva tentakler. När kraken dök skapade den en mäktig malström. Fiskarna kunde förväxla den med en ö och gå iland på dess rygg. Namnet kommer av det norska ordet krake, 'sjukligt eller förvridet djur'. Idag ett av världens mest kända legendariska sjömonstrar, omskrivet från Tennyson till Pirates of the Caribbean.",
+      "complete": true
+    },
+    "kvernknurr": {
+      "name": "Kvernknurr",
+      "summary": "Illasinnad kvarnande i norsk folktro, knuten till Vestlandets vattenkvarnar.",
+      "description": "Kvernknurr (även kvernknarr) är en elak kvarnande i norsk folktro, särskilt knuten till de vattendrivna kvarnarna i Vestlandets forsrika dalar. Kvernknurr lever i kvarnbäcken och har en enorm gapande mun — överkäken når dörrbjälken medan underkäken vilar på kverndörrens tröskel. När kvarnen maler griper kvernknurr tag om hjulmekanismen och hejjar den, så att kvarnstenarna maler långsamt eller stannar helt. Enda botemedlet är att avfyra ett gevär i kvarnrännan eller kasta en kniv över kvarnhuset. Till skillnad från den musikaliske fossegrimen, som kan blidkas med offer, är kvernknurr ren ondska och glädjer sig åt att förstöra mjölnarens arbete. Namnet kommer av kvern (kvarnsten) och knurre (muttra). Släkt med svenska kvarnvätten.",
+      "complete": true
+    },
+    "kvitormen": {
+      "name": "Kvitormen",
+      "summary": "Magisk vit orm ur Vest-Agders folktro som ger visdom och läkekraft.",
+      "description": "Kvitormen (den vita ormen) är en magisk vit orm ur folktro i Vest-Agder på Sørlandet, särskilt i Lyngdal, Bjelland och Lindesnes. Enligt traditionen kan den som fångar en vit orm och lägger den under huden på armen erhålla övernaturlig visdom och läkekraft. Personen får förmågan att förstå djurens språk, se det dolda och bota sjukdom genom beröring. Men den vita ormen är nästan omöjlig att fånga — den är extremt snabb, kan sjunka ner i jorden och beskylls av övernaturliga makter. Går den vita ormen förlorad eller dödas den efter inplanteringen, dör bäraren. Traditionen samlades in av folkloristen Joh. Storaker på 1800-talet, som tecknade sju varianter från Vest-Agder. Den vita ormen gav även sin bärare förmågan att hitta gömda skatter och spå framtiden.",
+      "complete": true
+    },
+    "katthveli-iceland": {
+      "name": "Katthveli",
+      "summary": "Grymm valliknande sjömonster bland islendingarnas illhveli.",
+      "description": "Katthveli (Kattvalen) är en av illhveli, de onda valarna, i isländsk sjöfolklore — ett säl-val-hybrid med kattlika morrhår, krokformade klor på simfötterna och ett fasansfullt skrik. Den anfaller båtar aggressivt och ramar samt kantrar dem. Dokumenterad i Jón Árnasons samlingar och hos 1800-talets isländska naturforskare.",
+      "complete": true
+    },
+    "katthveli-faroeislands": {
+      "name": "Katthveli",
+      "summary": "Samma kattval bland färöarnas onda valar, belagd i ballader och sägner.",
+      "description": "I färöisk tradition är katthveli samma kattval bland illhveli som på Island, belagt i färöiska ballader och muntliga berättelser — mest känd är ett 1600-talsmöte vid Suðuroy där den anföll en båt och väste och spottade som en katt. Den färöiska versionen delar islänningarnas systematisering av onda valar men har egna lokala bohagstraditioner.",
+      "complete": true
+    },
+    "kyrkogrim": {
+      "name": "Kyrkogrim",
+      "summary": "Kyrkans skyddsand, skapad när ett djur begravdes levande under grundstenen.",
+      "description": "Kyrkogrimen är en kyrkas skyddsand, skapad när ett djur begravdes levande under kyrkans grundsten vid byggandet. Offret band djurets själ till kyrkan och skapade en skyddsande som vaktar byggnaden i evighet. Djuret — vanligen en bagge, hund, tupp eller häst — ansågs avgöra kyrkogrims gestalt och temperament. Kyrkogrimen skyddar kyrkan från tjuvar och onda andar om natten och jagar enligt traditionen de orättfärdigas själar från deras gravar. I Skåne sades kyrkogrimen skrämma iväg den som försökte bryta sig in i kyrkan, framträdande som ett spöklikt djur som inte kunde skadas. Tron speglar en urgammal grundoffringstradition i hela Skandinavien.",
+      "complete": true
+    },
+    "kirkelam": {
+      "name": "Kirkelam",
+      "summary": "Spöklamm som visar sig på danska kyrkogårdar som dödsovarsel.",
+      "description": "Kirkelamet (kyrklammet) är ett spöklikt lamm som visar sig på danska kyrkogårdar och landsvägar som dödsovarsel. Till skillnad från andra kyrkobyggnadsandar representerar kirkelammet Kristus som Guds lamm, men dess framträdande bjuder på ont bud snarare än tröst. Lammet kommer från kyrkogården i skymningen och springer mot ett bestämt hus. Gnuggar det sig mot ditt ben, dör du eller någon i din närmaste familj inom tre dagar. Det är tyst — hovarna gör inget ljud och det brägar aldrig. Kirkelammet räknas som den mildaste formen av kyrkogrim, mindre skräckslösande än Helhesten eller Gravsoen, men dess varsel är inte mindre visst. I vissa traditioner är kirkelammet självan efter ett odöpt barn som fått djurgestalt och endast kort får lämna kyrkogården innan det återvänder.",
+      "complete": true
+    },
+    "kirkegrim": {
+      "name": "Kirkegrim",
+      "summary": "Dansk kyrkogrim — kyrkans väktare skapad genom levande begravt djuroffer.",
+      "description": "Kirkegrimmen är den danska kyrkogrimen — en kyrkas skyddsand skapad när ett djur begravdes levande under kyrkans grund vid byggandet. I dansk tradition antar kirkegrimmen den offrade djurets gestalt (lamm, gris, häst eller hund) och skyddar kyrkan från skändning, tjuvar och onda andar. Den danska kirkegrimmen har en unik roll som saknas i övriga Norden: den strider mot Strandvarsler — andarna efter obrända drunknade sjömän som försöker ta sig in i den invigda kyrkogården. Denna territoriella kamp mellan kirkegrim och strandvarsler pågår vid kyrkogårdsmuren varje natt. Kirkegrimmen ringer även i kyrkklockorna under stormar för att avvärja det onda. Den är bunden till kyrkan till dess byggnaden vittrar till damm.",
+      "complete": true
+    },
+    "kullervo-finland": {
+      "name": "Kullervo",
+      "summary": "Tragisk antihjälte i finsk mytologi vars lidande och hämnd tar en våldsam slutpunkt.",
+      "description": "Kullervo är Kalevalas tragiska antihjälte (runor 31-36): såld som träl, förleder ovetande sin syster (som drunknar sig), förgör sin plågoandes boskap och till sist faller på eget svärd. Hans historia, sammanställd av Lönnrot ur karelska runosånger, är eposets mörkaste — en schamanisk initierad vars kraft slår om till förgörelse.",
+      "complete": true
+    },
+    "kellingin-faroeislands": {
+      "name": "Kellingin",
+      "summary": "Förstenad jättinna vid Eysturoy — 68 meter hög basaltklippa.",
+      "description": "Kellingin (Häxan eller Gumman) är den förstenade hustrun till Risin, jätten som sändes från Island för att släpa Färöarna över oceanen. I sägnen besteg Kellingin berget Eiðiskollur med ett tungt rep och försökte knyta ihop öarna så att hon kunde skjuta in dem på Risins rygg. Hennes ansträngningar sprängde den norra delen av berget — en spricka som syns än idag. Efter en natts kamp gick solen upp och solljuset förstenade henne. Hon står nu som en 68 meter hög spetsig basaltstapel närmare land än Risin, med benen isär. Till skillnad från maken ute till havs eroderar Kellingin synligt; geologer noterar att hon står på två ben som kan rasera inom decennier.",
+      "complete": true
+    },
+    "korp": {
+      "name": "Korpen",
+      "summary": "Korparen är en vis och slug fågel i skandinavisk folktro, förknippad med Oden.",
+      "description": "Korpen i svensk folktro är mycket mer än en fågel; den är en kanal för profetia och ett vittne till människors öden. Rotad i arvet efter Odens Hugin och Munin ses den folkloristiska korpen som en vaktpost vid gränsen mellan liv och död. Man tror att korparna är underjordens budbärare, som visar sig på platser där tragedier är förestående för att hämta de fallnas själar. De är ytterst intelligenta och sägs minnas varje hemlighet som viskats i skogen, vilket gör dem till det övernaturliga rikets mest fruktade och respekterade spioner.",
+      "complete": true
+    },
+    "r-rosgubben": {
+      "name": "Rørosgubben",
+      "summary": "Spökgubbe som sägs hemsöka Røros kopparverk i Trøndelag.",
+      "description": "Ej oberoende belagt i norsk folktro. Ingen vetenskaplig eller primär källa dokumenterar någon spökgruvarbetarsaga från Røros; namnet förekommer som en Røros-polska i musiksamplingar snarare än som övernaturlig gestalt.",
+      "complete": true
+    },
+    "rau-kembingur": {
+      "name": "Rauðkembingur",
+      "summary": "Den grymmaste av alla onda valar (illhveli) i isländsk folktro.",
+      "description": "Rauðkembingur (Rödtotten) är den grymmaste av alla illhveli i isländsk folktro. Den har en karakteristisk röd kam eller man längs ryggen och är 10-20 meter lång, strömlinjeformad och extremt snabb i vattnet. Rauðkembingur anfaller skepp med oöverträffad vildhet, ramar dem i hög fart och hoppar över däcken. Den vräker omenladdat innan anfallet. Enligt en sägnen förvandlades en hänsynslös ung man till rauðkembingur av alverna som straff för sin grymhet. Rauðkembingur räknades som ett av de farligaste vattnen kring Island, fruktad mer än de större illhveli för sin fart och aggression. Namnet kommer av rauður (röd) och kembingur (kam/man). Traditionsbakgrunden är troligen observationer av späckhuggare, vars vita fläckar kunde tolkas som kam.",
+      "complete": true
+    },
+    "risin-faroeislands": {
+      "name": "Risin",
+      "summary": "Förstenad jätte vid Eysturoy — 71 meter hög basaltstapel.",
+      "description": "Risin (Jätten) är en kolossal förstenad jätte som tillsammans med sin hustru Kellingin sändes från Island för att stjäla Färöarna. Risin vadade i havet medan Kellingin besteg Eiðiskollur med ett tungt rep för att binda ihop öarna så att hon kunde skjuta in dem på hans rygg. De kämpade genom natten men lyckades inte röra öarna, och i gryningen förstenades de båda av solljuset. Risin står nu som en 71 meter hög basaltstapel utanför Eysturoys nordkust nära Eiði, för alltid stirrande västerut mot Island. Geologer spår att stapeln så småningom rasar ner i havet i vinterstormar; en del bröts redan av i början av 1900-talet.",
+      "complete": true
+    },
+    "rahko": {
+      "name": "Rahko",
+      "summary": "Finsk månande som smetar tjära på månens faser, förknippad med mörkret.",
+      "description": "Rahko är en finsk månväsen som smetar tjära på månens faser, dokumenterad av Ganander i Mythologia Fennica (1789) som en varelse som täcker månen under förmörkelser. En marginalgestalt i runosångerna, ibland identifierad med nedgången månen eller en sjukdomsand. Gananders uppteckning är huvudkällan; senare folklorister behandlar honom som en mindre månedemon.",
+      "complete": true
+    },
+    "gast": {
+      "name": "Gast",
+      "summary": "Svenskt gengångarspöke, generellt begrepp för återvändande döda.",
+      "description": "Gast är det allmänna svenska ordet för ett spöke eller återvändande död (gengångare), inte en särskild vattenande. Underlagsposten klassificerar det felaktigt som 'vattenande' med 'stormkallande' egenskaper. I svensk folktro är gast/gengångare rastlösa döda som hemsöker bestämda platser, vållar köldfläckar och kan få ro genom riktig begravningsrit eller exorcism.",
+      "complete": true
+    },
+    "gloson": {
+      "name": "Gloson",
+      "summary": "Fasanväckande spökgalting som attackerar resenärer på vägar och stigar.",
+      "description": "Gloson (Glo-so, 'glödsuggan') är ett svenskt spökgalt med glödande ögon och en tandad kam längs ryggen som anfaller resande på vägarna och springer mellan deras ben för att klyva dem. Ett dödsovarsel i svensk folktro, dokumenterat av Hyltén-Cavallius och Ebbe Schön. Släkt med den germanska traditionen av spökbestar. Namnet kommer av 'glo' (glöd) + 'so' (sugga).",
+      "complete": true
+    },
+    "gardvord": {
+      "name": "Gardvord",
+      "summary": "Norgess äldre gårdsväktare, äldre än nissen i norsk folktradition.",
+      "description": "Gardvord (gårdsväktare) är den äldre, ursprungliga norska gårdsskyddsanden, äldre än nissen i norsk folktro. Man trodde att gardvorden var den första person som begravts på gården eller grundläggaren vars ande stannat kvar för att skydda gården. Till skillnad från den skäggige nissen skildrades gardvorden ofta som ett litet, naket barn eller en pyttesliten gubbe som bodde i ett träd på gården, vanligen en ask eller alm. Offer lades vid detta träd. Gardvordstraditionen var starkast i västra och norra Norge, åtskild från nistraditionen på Østlandet. Namnet kommer av gard (gård) + vord (väktare). Nära släkt med svenska tomten och danske husnissen.",
+      "complete": true
+    },
+    "gygrid": {
+      "name": "Gygrid",
+      "summary": "Kvinnlig jätte eller trollkvinna i norsk folktro, av fornnordiskt gygr.",
+      "description": "Ej oberoende belagt i folklorlitteraturen. Ingen norsk tradition namnger någon jättinna 'Gygrid'; de verkliga termerna är gyger (singular) och gygjer (plural), av fornnordiska gygr, och förekommer i ortnamn som Gygra. 'Gygrid' är bättre känd som den norska översättningen av Harry Potter-figuren Hagrid. Det påhittade pluralis 'gygrier' och bergslore är grundlösa.",
+      "complete": true
     }
   }
 }
