@@ -289,10 +289,66 @@
     },
 
     // Load a region shard (type = 'creatures' or 'stories')
+    // ── Native-language overlay merge (Phase 2) ──
+    _overlayPromises: {},
+
+    _loadOverlayFor: function (type, region, lang) {
+      var key = lang + ':' + type + ':' + region
+      if (!this._overlayPromises[key]) {
+        var fileKey = region
+          .toLowerCase()
+          .replace(/[^a-z0-9]+/g, '-')
+          .replace(/^-|-$/g, '')
+        this._overlayPromises[key] = fetchJSON(
+          'data/i18n/' + lang + '/' + type + '-' + fileKey + '.json'
+        ).catch(function () {
+          return null // missing overlay = untranslated region, not an error
+        })
+      }
+      return this._overlayPromises[key]
+    },
+
+    // Delivery-time decoration: caches always hold raw EN shards; native
+    // mode merges sparse slug-keyed patches onto COPIES handed to callers.
+    _deliverShard: function (type, region, err, data, callback) {
+      var lang = window.__sharedUtils.getNativeLang()
+      if (err || !data || !lang) {
+        callback(err, data)
+        return
+      }
+      var self = this
+      this._loadOverlayFor(type, region, lang).then(function (ov) {
+        if (!ov || !ov.entries) {
+          callback(err, data)
+          return
+        }
+        var out = data.map(function (it) {
+          var c = Object.assign({}, it)
+          c._i18n = { lang: lang, partial: true }
+          var patch = ov.entries[c.slug]
+          if (patch) {
+            Object.keys(patch).forEach(function (k) {
+              c[k] = patch[k]
+            })
+          }
+          return c
+        })
+        callback(err, out)
+      }).catch(function () {
+        callback(err, data)
+      })
+    },
+
     loadRegionShard: function (type, region, callback, forceRefresh) {
       if (!this.shards[type]) this.shards[type] = {}
       if (!forceRefresh && this.shards[type][region]) {
-        callback(null, this.shards[type][region])
+        this._deliverShard(
+          type,
+          region,
+          null,
+          this.shards[type][region],
+          callback
+        )
         return
       }
 
@@ -325,15 +381,19 @@
         this._getCachedShard(type, region, function (err, cached) {
           if (!err && cached) {
             self.shards[type][region] = cached
-            settle(null, cached)
+            self._deliverShard(type, region, null, cached, settle)
             // Refresh from network in background
             self._fetchShardFromNetwork(type, region, key, function () {})
             return
           }
-          self._fetchShardFromNetwork(type, region, key, settle)
+          self._fetchShardFromNetwork(type, region, key, function (err2, data2) {
+            self._deliverShard(type, region, err2, data2, settle)
+          })
         })
       } else {
-        this._fetchShardFromNetwork(type, region, key, settle)
+        this._fetchShardFromNetwork(type, region, key, function (err2, data2) {
+          self._deliverShard(type, region, err2, data2, settle)
+        })
       }
     },
 

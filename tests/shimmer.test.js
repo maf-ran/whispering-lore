@@ -62,6 +62,9 @@ var slugData = {
 // ── URL → data map ──
 var fixtureMap = {};
 fixtureMap['data/sharded/manifest.json'] = manifest;
+fixtureMap['data/i18n/sv/creatures-nordic.json'] = JSON.parse(
+  fs.readFileSync(path.join(FIX, 'sv-creatures-nordic.json'), 'utf8')
+);
 Object.keys(regionData).forEach(function (r) {
   fixtureMap['data/sharded/creatures/by-region/' + r + '.json'] = regionData[r];
 });
@@ -599,6 +602,75 @@ describe('Shimmer.getAllItems', function () {
 // ─────────────────────────────────────────────────────────────────────
 // Shimmer error paths
 // ─────────────────────────────────────────────────────────────────────
+describe('Shimmer sv overlay merge', function () {
+  afterEach(function () {
+    window.history.replaceState({}, '', '/index.html');
+  });
+
+  // NOTE: assertions live OUTSIDE Shimmer's promise chain on purpose.
+  // A failing expect inside the done-callback throws through the fetch
+  // promise, gets swallowed as an unhandled rejection, and surfaces as a
+  // useless timeout instead of a clean red failure.
+
+  it('merges overlay fields onto entries when native', function () {
+    window.history.replaceState({}, '', '/index.html?lang=sv');
+    Shimmer.shards.creatures = {};
+    return new Promise(function (resolve) {
+      Shimmer.loadRegionShard('creatures', 'Nordic', function (err, data) {
+        resolve({ err: err, data: data });
+      });
+    }).then(function (r) {
+      expect(r.err).toBeNull();
+      var troll = r.data.find(function (c) { return c.slug === 'troll' });
+      expect(String(troll.summary)).toContain('bergstroll'); // RED pre-impl
+      expect(troll._i18n && troll._i18n.partial).toBe(true);
+    });
+  });
+
+  it('tags untranslated entries partial when overlay exists', function () {
+    window.history.replaceState({}, '', '/index.html?lang=sv');
+    Shimmer.shards.creatures = {};
+    return new Promise(function (resolve) {
+      Shimmer.loadRegionShard('creatures', 'Nordic', function (err, data) {
+        resolve({ err: err, data: data });
+      });
+    }).then(function (r) {
+      expect(r.err).toBeNull();
+      var draugr = r.data.find(function (c) { return c.slug === 'draugr' });
+      expect(draugr._i18n && draugr._i18n.partial).toBe(true);
+    });
+  });
+
+  it('does not merge or tag when not native', function () {
+    window.history.replaceState({}, '', '/index.html');
+    Shimmer.shards.creatures = {};
+    return new Promise(function (resolve) {
+      Shimmer.loadRegionShard('creatures', 'Nordic', function (err, data) {
+        resolve({ err: err, data: data });
+      });
+    }).then(function (r) {
+      expect(r.err).toBeNull();
+      var troll = r.data.find(function (c) { return c.slug === 'troll' });
+      expect(troll._i18n).toBeUndefined();
+      expect(String(troll.summary)).not.toContain('bergstroll');
+    });
+  });
+
+  it('tolerates a missing overlay file', function () {
+    window.history.replaceState({}, '', '/index.html?lang=sv');
+    Shimmer.shards.creatures = {};
+    return new Promise(function (resolve) {
+      Shimmer.loadRegionShard('creatures', 'Celtic', function (err, data) {
+        resolve({ err: err, data: data });
+      });
+    }).then(function (r) {
+      expect(r.err).toBeNull();
+      expect(r.data.length).toBeGreaterThan(0);
+      expect(r.data[0]._i18n).toBeUndefined();
+    });
+  });
+});
+
 describe('Shimmer error paths', function () {
   it('handle bad JSON in manifest response', function (done) {
     var origFetch = global.fetch;
