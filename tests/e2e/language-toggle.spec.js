@@ -78,12 +78,9 @@ test.describe('language toggle', () => {
     page,
   }) => {
     await page.click('#lang-toggle')
-    await Promise.all([
-      page.waitForLoadState('load'),
-      page.click('#language-menu [data-code="sv"]'),
-    ])
+    await page.click('#language-menu [data-code="sv"]')
     // native mode is URL-driven: no googtrans cookie, no element.js injection
-    expect(page.url()).toContain('lang=sv')
+    await page.waitForURL('**/?lang=sv*', { timeout: 20000 })
     const cookie = await page.evaluate(() => document.cookie)
     expect(cookie).not.toContain('googtrans=')
     await expect
@@ -92,8 +89,8 @@ test.describe('language toggle', () => {
         { timeout: 10000 }
       )
       .toBe(0)
-    const htmlLang = await page.evaluate(() => document.documentElement.lang)
-    expect(htmlLang).toBe('sv')
+    // retrying assertion: immune to defer-script timing under load
+    await expect(page.locator('html')).toHaveAttribute('lang', 'sv', { timeout: 10000 })
     const homeLabel = await page.evaluate(() =>
       document.querySelector('nav a[data-i18n="nav.home"]').textContent
     )

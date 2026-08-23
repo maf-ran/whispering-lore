@@ -35,6 +35,7 @@ npx playwright test --project=chromium
 - **User Lore-Box**: Persistent Favorites and Bookmarks using `localStorage`.
 - **Personal Archive**: Dedicated `mylore.html` page for saved entries, with export/import.
 - **Full-Text Search**: `/search.html` searches all three datasets (creatures, stories, items) with deep links into each viewer.
+- **Swedish native mode**: `?lang=sv` serves quality Swedish translations (chrome dictionary + pilot creature batch) with graceful English fallback and translation-pending badges; 45 further languages via Google Translate toggle.
 - **Text-to-Speech**: Listen buttons narrate creature/story/item pages via the Web Speech API; narration stops when the overlay closes.
 - **Story Recommendations**: Automated discovery of similar tales.
 - **Dynamic Latest**: Real-time "Latest Additions" feed on the homepage with XHR fallback.

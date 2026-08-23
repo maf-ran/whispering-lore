@@ -230,4 +230,12 @@ test.describe('Accessibility (axe)', () => {
     await expect(page.locator('#search-status')).toContainText(/results? for "troll"/, { timeout: 20000 });
     assertClean(await scan(page, 'search-results'), 'search results');
   });
+
+  test('native swedish mode: bestiary grid + chrome', async ({ page }) => {
+    await page.goto(`${BASE}/bestiary.html?lang=sv`, { waitUntil: 'load', timeout: 20000 });
+    await SETTLE['bestiary.html'](page);
+    // native chrome applied (html lang + localized nav) before scanning
+    await expect(page.locator('nav a[data-i18n="nav.home"]')).toHaveText('HEM', { timeout: 10000 });
+    assertClean(await scan(page, 'bestiary.html'), 'bestiary @native sv');
+  });
 });
