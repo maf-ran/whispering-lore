@@ -14,16 +14,17 @@
 var SUPPORTED = /^[a-z]{2}(-[A-Z]{2})?$/ // matches menu language codes (zh-CN etc.)
 var MAX_STRINGS = 200
 var MAX_TOTAL_CHARS = 8000
-var MODEL = 'gemini-1.5-flash-latest'
+var MODEL = 'gemini-3.6-flash'
 
-function json(res, status, body) {
-  return new Response(JSON.stringify(body), {
-    status: status,
-    headers: { 'Content-Type': 'application/json', 'Cache-Control': 'no-store' }
-  })
+function json(status, body) {
+  return {
+    statusCode: status,
+    headers: { 'Content-Type': 'application/json', 'Cache-Control': 'no-store' },
+    body: JSON.stringify(body)
+  }
 }
 
-function callGemini(apiKey, source, target, strings) {
+async function callGemini(apiKey, source, target, strings) {
   var url =
     'https://generativelanguage.googleapis.com/v1beta/models/' +
     MODEL +
@@ -40,7 +41,7 @@ function callGemini(apiKey, source, target, strings) {
     'JSON array of strings of the SAME length in the SAME order as the input. Input: ' +
     JSON.stringify(joined)
 
-  return fetch(url, {
+  var r = await fetch(url, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
     signal: AbortSignal.timeout(15000),
@@ -55,59 +56,56 @@ function callGemini(apiKey, source, target, strings) {
         }
       }
     })
-  }).then(function (r) {
-    if (!r.ok) {
-      return r.text().then(function (t) {
-        throw new Error('gemini ' + r.status + ': ' + t.slice(0, 300))
-      })
-    }
-    return r.json()
-  }).then(function (data) {
-    var text = data.candidates && data.candidates[0] && data.candidates[0].content &&
-      data.candidates[0].content.parts && data.candidates[0].content.parts[0] &&
-      data.candidates[0].content.parts[0].text
-    if (!text) throw new Error('gemini empty response')
-    var arr = JSON.parse(text)
-    if (!Array.isArray(arr) || arr.length !== strings.length) {
-      throw new Error('gemini reply length mismatch: got ' + arr.length + ' want ' + strings.length)
-    }
-    // Undo the newline-escape used above.
-    return arr.map(function (s) { return String(s).replace(/ \\n /g, '\n') })
   })
+
+  if (!r.ok) {
+    var t = await r.text()
+    throw new Error('gemini ' + r.status + ': ' + t.slice(0, 300))
+  }
+  var data = await r.json()
+  var text = data.candidates && data.candidates[0] && data.candidates[0].content &&
+    data.candidates[0].content.parts && data.candidates[0].content.parts[0] &&
+    data.candidates[0].content.parts[0].text
+  if (!text) throw new Error('gemini empty response')
+  var arr = JSON.parse(text)
+  if (!Array.isArray(arr) || arr.length !== strings.length) {
+    throw new Error('gemini reply length mismatch: got ' + arr.length + ' want ' + strings.length)
+  }
+  return arr.map(function (s) { return String(s).replace(/ \\n /g, '\n') })
 }
 
 exports.handler = async function (event) {
   if (event.httpMethod !== 'POST') {
-    return json(null, 405, { error: 'method_not_allowed' })
+    return json(405, { error: 'method_not_allowed' })
   }
 
   var apiKey = process.env.GEMINI_API_KEY
   if (!apiKey) {
-    return json(null, 503, { error: 'not_configured' })
+    return json(503, { error: 'not_configured' })
   }
 
   var body
-  try { body = JSON.parse(event.body || '{}') } catch (e) { return json(null, 400, { error: 'bad_json' }) }
+  try { body = JSON.parse(event.body || '{}') } catch (e) { return json(400, { error: 'bad_json' }) }
 
   var target = body.target
-  if (!target || !SUPPORTED.test(target)) return json(null, 400, { error: 'bad_target' })
+  if (!target || !SUPPORTED.test(target)) return json(400, { error: 'bad_target' })
   var strings = body.strings
   if (!Array.isArray(strings) || strings.length === 0 || strings.length > MAX_STRINGS) {
-    return json(null, 400, { error: 'bad_strings', max: MAX_STRINGS })
+    return json(400, { error: 'bad_strings', max: MAX_STRINGS })
   }
   var total = strings.reduce(function (n, s) { return n + String(s).length }, 0)
-  if (total > MAX_TOTAL_CHARS) return json(null, 400, { error: 'too_large', max: MAX_TOTAL_CHARS })
+  if (total > MAX_TOTAL_CHARS) return json(400, { error: 'too_large', max: MAX_TOTAL_CHARS })
 
   var source = body.source || 'en'
 
   try {
     var translations = await callGemini(apiKey, source, target, strings)
-    return json(null, 200, { translations: translations })
+    return json(200, { translations: translations })
   } catch (err) {
     var msg = String(err && err.message || err)
     if (/401|403/.test(msg)) {
-      return json(null, 500, { error: 'gemini_unauthorized', detail: 'GEMINI_API_KEY invalid or without permission' })
+      return json(500, { error: 'gemini_unauthorized', detail: 'GEMINI_API_KEY invalid or without permission' })
     }
-    return json(null, 502, { error: 'gemini_upstream', detail: msg.slice(0, 300) })
+    return json(502, { error: 'gemini_upstream', detail: msg.slice(0, 300) })
   }
 }
