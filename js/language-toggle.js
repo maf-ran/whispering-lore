@@ -119,6 +119,8 @@
     }
 
     var active = readGoogtrans()
+    var gem = window.__translate && window.__translate.getActive ? window.__translate.getActive() : null
+    if (gem) active = gem
     var originalItem = item('Original (English)', '')
     if (!active) originalItem.classList.add('is-active')
     menu.appendChild(originalItem)
@@ -197,8 +199,14 @@
 
   function choose(code) {
     if (code === 'sv') { chooseNative(); return }
-    if (code) applyLanguage(code)
-    else resetToOriginal()
+    if (code) {
+      if (window.__translate && window.__translate.enable) {
+        window.__translate.setLangParam(code)
+        window.__translate.enable(code)
+      } else {
+        applyLanguage(code)
+      }
+    } else resetToOriginal()
     closeMenu(false)
     if (menu && menu.parentNode) menu.parentNode.removeChild(menu)
     menu = null
@@ -227,7 +235,6 @@
     btn.setAttribute('aria-expanded', 'false')
     btn.innerHTML = GLOBE_SVG
     btn.addEventListener('click', function () {
-      ensureTranslate().catch(function () {})
       if (!menu || menu.hidden) openMenu()
       else closeMenu(true)
     })
@@ -236,10 +243,6 @@
     buildMenu()
     document.addEventListener('keydown', onDocKeydown)
     document.addEventListener('click', onDocClick)
-
-    // Auto-restore: a stored googtrans cookie only translates once element.js
-    // is loaded, so returning visitors get their language back without a click.
-    if (readGoogtrans()) ensureTranslate().catch(function () {})
   }
 
   var gtPromise = null
@@ -319,6 +322,10 @@
 
   function resetToOriginal() {
     if (isNativeHere()) { leaveNative(); return }
+    if (window.__translate && window.__translate.isActive && window.__translate.isActive()) {
+      window.__translate.disable()
+      return
+    }
     clearGoogtrans()
     if (comboApplier) { comboApplier(''); return }
     reloadFn()
@@ -339,6 +346,7 @@
     NATIVE_COVERAGE_READY = false
     gtPromise = null
     delete window.__languageToggleInit
+    delete window.__translate
     clearGoogtrans()
   }
 

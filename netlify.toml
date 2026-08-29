@@ -7,7 +7,7 @@
     X-Content-Type-Options = "nosniff"
     X-Frame-Options = "DENY"
     Referrer-Policy = "strict-origin-when-cross-origin"
-    Content-Security-Policy = "default-src 'self'; script-src 'self' 'unsafe-inline' https://unpkg.com https://storage.ko-fi.com https://translate.google.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://translate.googleapis.com; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://unpkg.com https://translate.googleapis.com https://translate-pa.googleapis.com; img-src 'self' data: https://storage.ko-fi.com; frame-src https://translate.google.com;"
+    Content-Security-Policy = "default-src 'self'; script-src 'self' 'unsafe-inline' https://unpkg.com https://storage.ko-fi.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://unpkg.com; img-src 'self' data: https://storage.ko-fi.com;"
 
 [[headers]]
   for = "/assets/*"

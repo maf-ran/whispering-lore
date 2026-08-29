@@ -95,7 +95,9 @@ describe('languageToggle UI', function () {
     expect(codes.slice(1).sort()).toEqual(LT.allCodes().sort());
   });
 
-  test('auto-restores translation when googtrans cookie pre-exists', function () {
+  test('does not auto-load the dead Google Translate widget on init', function () {
+    // Legacy behavior auto-injected translate.google.com/element.js; replaced by
+    // the on-demand Gemini path. Verify init no longer touches that dead host.
     LT._resetForTests();
     document.body.innerHTML =
       '<header><nav id="site-nav"></nav><button class="theme-toggle" id="theme-toggle"></button></header>';
@@ -103,7 +105,7 @@ describe('languageToggle UI', function () {
     LT.initUI();
     expect(
       document.querySelector('script[src*="translate.google.com"]')
-    ).toBeTruthy();
+    ).toBeNull();
     LT.clearGoogtrans();
   });
 
@@ -155,18 +157,27 @@ describe('languageToggle UI', function () {
     expect(document.activeElement).toBe(btn);
   });
 
-  test('clicking a language sets cookie, notifies applier, closes menu', function () {
-    var applied = [];
-    LT._setComboApplierForTests(function (code) { applied.push(code); });
+  test('clicking a non-native language drives the on-demand Gemini engine', async function () {
+    var enabled = [];
+    var params = [];
+    window.__translate = {
+      enable: function (code) { enabled.push(code); return Promise.resolve(code); },
+      disable: function () {},
+      isActive: function () { return enabled.length > 0; },
+      getActive: function () { return enabled.length ? enabled[enabled.length - 1] : null; },
+      setLangParam: function (code) { params.push(code); }
+    };
     var btn = document.getElementById('lang-toggle');
     btn.click();
-    // 'de' exercises the Google-Translate path; 'sv' is native mode now.
+    // 'de' is a non-native, non-English language -> Gemini path (not googtrans).
     var de = document.querySelector('#language-menu [data-code="de"]');
     de.click();
-    expect(applied).toEqual(['de']);
-    expect(LT.readGoogtrans()).toBe('de');
+    await null; // flush the promise microtask from choose() -> enable
+    expect(enabled).toEqual(['de']);
+    expect(params).toEqual(['de']);
+    expect(LT.readGoogtrans()).toBeNull(); // no longer writes a GT cookie
     expect(document.getElementById('language-menu')).toBeFalsy(); // rebuilt lazily
-    LT.clearGoogtrans();
+    delete window.__translate;
   });
 });
 
