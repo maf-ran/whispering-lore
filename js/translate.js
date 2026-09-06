@@ -2,14 +2,9 @@
   'use strict'
 
   // On-demand Gemini translation for non-native, non-English languages.
-  //
-  // The heavy lifting happens server-side in the Netlify Function
-  // / .netlify/functions/translate (which holds GEMINI_API_KEY). This module:
-  //   1. translates chrome ([data-i18n] keys) using a dict generated from the
-  //      English UI dictionary,
-  //   2. translates the visible content containers in place,
-  //   3. caches everything per-language in localStorage,
-  //   4. degrades gracefully to English if the function is not configured.
+  // Server-side Netlify Function holds GEMINI_API_KEY. This module translates
+  // chrome ([data-i18n]) + visible content in place, caches per-language in
+  // localStorage, and falls back to the original text on failure (toast shown).
 
   var ENDPOINT = '/.netlify/functions/translate'
   var CACHE_PREFIX = 'wl:gemini:'
@@ -22,9 +17,8 @@
     'section,main,p,h1,h2,h3,h4,h5,li,span,div'
 
   var activeLang = null
-  var originalTexts = null // slug -> element -> original textContent (for revert)
+  var originalTexts = null
 
-  // ---- persistence (safe in private mode) ----
   function readCache(key) {
     try { var v = localStorage.getItem(CACHE_PREFIX + key); return v ? JSON.parse(v) : null } catch (e) { return null }
   }
@@ -40,24 +34,50 @@
       if (t && t.length <= MAX_STRING_LEN) { clean.push(t); idx.push(i) }
     })
     if (!clean.length) return Promise.resolve([])
-    return fetch(ENDPOINT, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ source: source || 'en', target: target, strings: clean })
-    }).then(function (r) {
-      if (r.status === 503 || r.status === 500) {
-        return r.json().then(function (b) { throw new Error(b.error || ('http ' + r.status)) })
-      }
-      if (!r.ok) throw new Error('http ' + r.status)
-      return r.json()
-    }).then(function (data) {
-      var out = new Array(strings.length)
-      data.translations.forEach(function (t, k) { out[idx[k]] = t })
-      return out
+
+    var CHUNK_SIZE = 25
+    var chunks = []
+    for (var i = 0; i < clean.length; i += CHUNK_SIZE) {
+      chunks.push({
+        subClean: clean.slice(i, i + CHUNK_SIZE),
+        subIdx: idx.slice(i, i + CHUNK_SIZE)
+      })
+    }
+
+    var out = new Array(strings.length)
+    var p = Promise.resolve()
+
+    chunks.forEach(function (chunk) {
+      p = p.then(function () {
+        return fetch(ENDPOINT, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ source: source || 'en', target: target, strings: chunk.subClean })
+        }).then(function (r) {
+          if (!r.ok) return r.text().then(function (t) { throw new Error('http ' + r.status + ': ' + t) })
+          return r.json()
+        }).then(function (data) {
+          if (data && data.translations) {
+            data.translations.forEach(function (t, k) {
+              out[chunk.subIdx[k]] = t
+            })
+          }
+        }).catch(function (err) {
+          console.warn('Gemini chunk translate soft fallback:', err.message)
+          if (err && err.message && (err.message.indexOf('503') !== -1 || err.message.indexOf('not_configured') !== -1 || err.message.indexOf('500') !== -1 || err.message.indexOf('502') !== -1)) {
+            showToast('Live translation service temporarily unavailable. Displaying original text.')
+          }
+          // Graceful fallback: keep original strings for this chunk
+          chunk.subClean.forEach(function (orig, k) {
+            out[chunk.subIdx[k]] = orig
+          })
+        })
+      })
     })
+
+    return p.then(function () { return out })
   }
 
-  // ---- collect visible text nodes to translate ----
   function collectChrome() {
     var out = []
     var nodes = document.querySelectorAll('[data-i18n]')
@@ -92,7 +112,6 @@
           var p = n.parentNode
           if (!p) return NodeFilter.FILTER_REJECT
           if (p.matches && p.matches('[data-i18n],.language-menu,' + SKIP_SELECTOR)) return NodeFilter.FILTER_REJECT
-          // only translate leaf-ish text (parent has no element children besides this text)
           var hasEl = false
           for (var c = p.firstChild; c; c = c.nextSibling) {
             if (c.nodeType === 1) { hasEl = true; if (c !== n) break }
@@ -113,7 +132,6 @@
     items.forEach(function (it) { if (it.text && unique[it.text] === undefined) unique[it.text] = it.text })
     var uniqArr = Object.keys(unique)
     var map = {}
-    // cache hit layer
     return findCached(uniqArr).then(function (cached) {
       var missing = []
       uniqArr.forEach(function (u) {
@@ -122,10 +140,14 @@
       })
       if (!missing.length) { applyToItems(items, map); return }
       return callTranslate(activeLang, missing).then(function (tr) {
-        missing.forEach(function (u, i) { if (tr[i]) map[u] = tr[i] })
-        storeCached(missing, map)
+        if (tr) {
+          missing.forEach(function (u, i) { if (tr[i] !== undefined) map[u] = tr[i] })
+          storeCached(missing, map)
+        }
         applyToItems(items, map)
       })
+    }).catch(function (err) {
+      console.warn('translateNodes soft error:', err)
     })
   }
 
@@ -143,7 +165,7 @@
   }
   function storeCached(arr, map) {
     var m = loadCacheMap()
-    arr.forEach(function (u, i) { if (map[u]) m[u] = map[u] })
+    arr.forEach(function (u) { if (map[u]) m[u] = map[u] })
     writeCache(_cacheKey(), m)
   }
 
@@ -156,13 +178,26 @@
     })
   }
 
-  // ---- chrome dictionary from English UI dict via Gemini ----
   function translateChrome() {
     var en = (window.__i18n && window.__i18n.en) ? window.__i18n.en : {}
-    var sorted = Object.keys(en)
-    if (!sorted.length) return Promise.resolve()
     var cached = readCache('dict:' + activeLang) || {}
-    var missing = sorted.filter(function (k) { return cached[k] === undefined })
+
+    var visibleKeys = []
+    var nodes = document.querySelectorAll('[data-i18n]')
+    for (var i = 0; i < nodes.length; i++) {
+      var k = nodes[i].getAttribute('data-i18n')
+      if (k) visibleKeys.push(k)
+    }
+    var ph = document.querySelectorAll('[data-i18n-placeholder]')
+    for (var p = 0; p < ph.length; p++) {
+      var pk = ph[p].getAttribute('data-i18n-placeholder')
+      if (pk) visibleKeys.push(pk)
+    }
+    var page = pageName()
+    visibleKeys.push('title.' + page)
+    visibleKeys.push('desc.' + page)
+
+    var missing = visibleKeys.filter(function (k) { return cached[k] === undefined && en[k] !== undefined })
     if (!missing.length) {
       applyChromeDict(cached)
       return Promise.resolve()
@@ -182,14 +217,17 @@
     }
     var values = validPairs.map(function (p) { return p.val })
     return callTranslate(activeLang, values).then(function (tr) {
-      validPairs.forEach(function (p, i) {
-        if (tr && tr[i] !== undefined) {
-          cached[p.key] = tr[i]
-        }
-      })
-      writeCache('dict:' + activeLang, cached)
+      if (tr) {
+        validPairs.forEach(function (p, i) {
+          if (tr[i] !== undefined) {
+            cached[p.key] = tr[i]
+          }
+        })
+        writeCache('dict:' + activeLang, cached)
+      }
       applyChromeDict(cached)
-    }).catch(function () {
+    }).catch(function (err) {
+      console.warn('translateChrome soft error:', err)
       applyChromeDict(cached)
     })
   }
@@ -211,43 +249,65 @@
     var meta = document.querySelector('meta[name="description"]')
     if (meta && dict['desc.' + pageName()]) meta.setAttribute('content', dict['desc.' + pageName()])
   }
+
   function pageName() {
     var p = (window.location.pathname.split('/').pop() || 'index.html').replace(/\.html$/, '')
     return p || 'index'
   }
 
-  // ---- revert to original English ----
   function captureOriginal(items) {
     if (originalTexts) return
     originalTexts = []
     items.forEach(function (it) { originalTexts.push({ node: it.node, kind: it.isPlaceholder ? 'ph' : 'd', text: it.text }) })
   }
 
-  // ---- lifecycle ----
+  function showToast(msg) {
+    if (typeof document === 'undefined') return
+    var existing = document.getElementById('wl-translate-toast')
+    if (existing && existing.parentNode) existing.parentNode.removeChild(existing)
+    var toast = document.createElement('div')
+    toast.id = 'wl-translate-toast'
+    toast.className = 'translate-toast'
+    toast.textContent = msg
+    document.body.appendChild(toast)
+    setTimeout(function () {
+      toast.classList.add('is-visible')
+    }, 20)
+    setTimeout(function () {
+      if (toast && toast.parentNode) {
+        toast.classList.remove('is-visible')
+        setTimeout(function () {
+          if (toast && toast.parentNode) toast.parentNode.removeChild(toast)
+        }, 300)
+      }
+    }, 4500)
+  }
+
   function enable(code) {
     if (activeLang === code) return Promise.resolve()
     disable()
     activeLang = code
-    _cacheStore = null // load this language's cache map fresh
-    // snapshot current visible state for revert
+    try { localStorage.setItem('wl:active_gmlang', code) } catch (e) { /* storage unavailable */ }
+    _cacheStore = null
     var chrome = collectChrome()
     var content = collectContent()
     captureOriginal(chrome)
     document.body.classList.add('gemini-active')
     document.documentElement.setAttribute('lang', code)
     window.__i18nLangGemini = code
-    return Promise.all([
-      translateChrome().catch(function () {}),
-      translateNodes(chrome.concat(content)).catch(function (e) {
-        disable()
-        throw e
+    return translateChrome().then(function () {
+      return translateNodes(chrome.concat(content)).catch(function (e) {
+        console.warn('translateNodes soft error:', e)
       })
-    ]).then(function () { return code })
+    }).catch(function (err) {
+      console.warn('translate enable soft error:', err)
+    }).then(function () { return code })
   }
 
   function disable() {
     if (!activeLang) return
     activeLang = null
+    try { localStorage.removeItem('wl:active_gmlang') } catch (e) { /* storage unavailable */ }
     _cacheStore = null
     document.body.classList.remove('gemini-active')
     document.documentElement.removeAttribute('lang')
@@ -277,6 +337,19 @@
     try { window.history.replaceState(null, '', clean) } catch (e) { /* noop */ }
   }
 
+  function initAutoTranslate() {
+    try {
+      if (typeof window === 'undefined') return
+      // If native mode is explicitly set in URL (?lang=sv), do not auto-run Gemini
+      if (window.location.search.indexOf('lang=') !== -1) return
+      var m = window.location.search.match(/[?&]gmlang=([A-Za-z-]+)/)
+      var saved = m ? m[1] : localStorage.getItem('wl:active_gmlang')
+      if (saved && saved !== 'en' && saved !== 'sv') {
+        enable(saved)
+      }
+    } catch (e) { /* storage unavailable */ }
+  }
+
   window.__translate = {
     enable: enable,
     disable: disable,
@@ -284,5 +357,13 @@
     getActive: getActive,
     setLangParam: setLangParam,
     _test: { MAX_STRINGS: MAX_STRINGS }
+  }
+
+  if (typeof document !== 'undefined') {
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', initAutoTranslate)
+    } else {
+      initAutoTranslate()
+    }
   }
 })()

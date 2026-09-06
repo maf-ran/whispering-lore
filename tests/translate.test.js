@@ -87,15 +87,16 @@ describe('translate (Gemini on-demand)', function () {
 
   test('503 not_configured degrades to English without crashing', function () {
     global.fetch = function () {
-      return Promise.resolve({ ok: false, status: 503, json: function () { return Promise.resolve({ error: 'not_configured' }) } });
-    };
-    return T.enable('fr').then(
-      function () { throw new Error('should have rejected'); },
-      function () {
-        expect(T.isActive()).toBe(false);
-        expect(document.querySelector('[data-i18n="nav.home"]').textContent).toBe('HOME');
-      }
-    );
+      return Promise.resolve({
+        ok: false,
+        status: 503,
+        text: function () { return Promise.resolve('not_configured') },
+        json: function () { return Promise.resolve({ error: 'not_configured' }) }
+      })
+    }
+    return T.enable('fr').then(function () {
+      expect(document.querySelector('[data-i18n="nav.home"]').textContent).toBe('HOME')
+    })
   });
 
   test('setLangParam adds gmlang to the URL', function () {

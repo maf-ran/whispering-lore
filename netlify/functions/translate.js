@@ -12,7 +12,7 @@
 // Response: { "translations": ["Bonjour", "Monde"] }  (aligned 1:1 with input)
 
 var SUPPORTED = /^[a-z]{2}(-[A-Z]{2})?$/ // matches menu language codes (zh-CN etc.)
-var MAX_STRINGS = 200
+var MAX_STRINGS = 30
 var MAX_TOTAL_CHARS = 8000
 var MODEL = 'gemini-3.6-flash'
 
@@ -41,22 +41,29 @@ async function callGemini(apiKey, source, target, strings) {
     'JSON array of strings of the SAME length in the SAME order as the input. Input: ' +
     JSON.stringify(joined)
 
-  var r = await fetch(url, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    signal: AbortSignal.timeout(15000),
-    body: JSON.stringify({
-      contents: [{ parts: [{ text: prompt }] }],
-      generationConfig: {
-        temperature: 0.2,
-        responseMimeType: 'application/json',
-        responseSchema: {
-          type: 'ARRAY',
-          items: { type: 'STRING' }
+  var controller = new AbortController()
+  var timer = setTimeout(function () { controller.abort() }, 25000)
+  var r
+  try {
+    r = await fetch(url, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      signal: controller.signal,
+      body: JSON.stringify({
+        contents: [{ parts: [{ text: prompt }] }],
+        generationConfig: {
+          temperature: 0.2,
+          responseMimeType: 'application/json',
+          responseSchema: {
+            type: 'ARRAY',
+            items: { type: 'STRING' }
+          }
         }
-      }
+      })
     })
-  })
+  } finally {
+    clearTimeout(timer)
+  }
 
   if (!r.ok) {
     var t = await r.text()

@@ -3706,3 +3706,29 @@ body {
 [data-theme='light'] .i18n-pending {
   color: #991b1b;
 }
+
+/* ── Translate toast notification ── */
+.translate-toast {
+  position: fixed;
+  bottom: 2rem;
+  left: 50%;
+  transform: translateX(-50%) translateY(20px);
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  color: var(--text-primary);
+  font-family: var(--font-body);
+  font-size: 0.85rem;
+  padding: 0.65rem 1.25rem;
+  border-radius: 6px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.45);
+  z-index: 9999;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.3s ease, transform 0.3s ease;
+  max-width: 90vw;
+  text-align: center;
+}
+.translate-toast.is-visible {
+  opacity: 1;
+  transform: translateX(-50%) translateY(0);
+}
