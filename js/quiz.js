@@ -99,6 +99,9 @@
     )
     const valid = (await Promise.all(promises)).filter(Boolean)
     applyFilters(valid)
+    // Cap requested count at pool size so the "Question N/M" header liar
+    // and final score both use the real denominator.
+    if (pool.length > 0 && pool.length < maxQuestions) maxQuestions = pool.length
   }
 
   // Helper to apply scope/geography filters and set the pool
@@ -301,13 +304,17 @@
   }
 
   const showFinal = () => {
-    const displayScore = Math.min(score, maxQuestions)
-    const percent = Math.round((displayScore / maxQuestions) * 100)
-    const shareText = `I scored ${displayScore}/${maxQuestions} (${percent}%) on the Whispering Lore Folklore Quiz! ✦ Explore world mythology at https://whisperinglore.com`
+    // Denominator is questions actually asked — pool can be smaller than
+    // the requested count (e.g. narrow geo filter), so maxQuestions would
+    // report an unwinnable score.
+    const total = asked
+    const displayScore = Math.min(score, total)
+    const percent = Math.round((displayScore / total) * 100)
+    const shareText = `I scored ${displayScore}/${total} (${percent}%) on the Whispering Lore Folklore Quiz! ✦ Explore world mythology at https://whisperinglore.com`
     const html = `
       <section class="quiz-final">
         <h2>Quiz Complete</h2>
-        <p>You answered ${displayScore} out of ${maxQuestions} correctly (${percent}%).</p>
+        <p>You answered ${displayScore} out of ${total} correctly (${percent}%).</p>
         <div style="display:flex;gap:1rem;justify-content:center;margin-top:1.5rem;flex-wrap:wrap;">
           <button id="restart-quiz" class="btn-ghost">Play Again</button>
           <button id="share-score" class="btn-ghost" style="border-color:var(--text-primary);color:var(--text-primary);">Copy Score Card</button>

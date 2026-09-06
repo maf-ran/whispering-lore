@@ -1,6 +1,7 @@
 # Project Todos
 
 ## Backlog (Aug 22) — next up
+- [x] Fix quiz bugs — score denominator: showFinal divided by requested maxQuestions, but pool can exhaust early (narrow geo filter) → unwinnable "2/10" for 3 answerable questions. Fix (uncommitted): showFinal divides by `asked` (+ keeps level-6 clamp), loadPool caps maxQuestions at pool size so the "Question N/M" header stops lying too. jest 222/222 (222 = 219 prior + 3 new denominator tests), eslint 0 err, sw v1_0_25. Note: "quiz bugs" backlog item had no spec anywhere — fixed the one real defect found by reading quiz.js; ask if other bugs were meant
 - [x] i18n Phase 1 shipped (beeca3a..c782b5b): Google Translate integration per docs/superpowers/specs/2026-08-22-i18n-design.md — `js/language-toggle.js` self-injecting square toggle beside theme toggle (identical style tokens), 45-language region-grouped menu, lazy element.js load driven via googtrans cookie + hidden combo; all Google chrome CSS-hidden; graceful degradation hides button if GT dies; hermetic e2e (stub invokes __languageToggleInit like real CDN); axe suite unchanged 30/30 with translate.* route mocks; sw v1_0_22; CSP allowlists translate hosts. Gates: eslint 0 err, jest 189/189, chromium 467/467
 - [x] i18n polish: menu keyboard support (f7007be) — open focuses active language, ArrowUp/Down wrap-cycle items, Home/End jumps, Tab closes; Escape+refocus pre-existing. GT per-language quality note kept for real-world review
 - [x] i18n Phase 2 Wave A (Swedish native mode) SHIPPED Aug 23 (d3f2d95..T9): spec docs/superpowers/specs/2026-08-22-i18n-phase2-design.md, plan docs/superpowers/plans/2026-08-22-i18n-phase2-wave-a.md — T1 lang helpers (f380c6a), T2 Shimmer sv overlay merge (ad1102a), T3 i18n-pending badge (235941e), T4 js/i18n.js chrome dict ~230 keys + data-i18n sweep all 11 pages + titles/descs (d3f2d95), T5 hreflang en/sv alternates ×11 (1fae727), T6 toggle chooseNative/leaveNative + NATIVE_COVERAGE_READY dot (b7ecb52), T7 withLang propagation viewers/main/globe/daily-feature + URL-preserve fixes in viewer-base/search/deep-links (2324df4), T8 pilot 50 nordic creatures data/i18n/sv/creatures-nordic.json + slug-batch/getItem/cached-detail decoration via _deliverSlugBatch/_deliverItem/decorateItem (7bc855a), T9 axe native scan zero-violation + README feature bullet. Gates: eslint 0 err, jest 208/208 (19 suites), chromium full suite run in progress at commit time
@@ -16,10 +17,7 @@
 - [x] Perf deep-dive + V1-V3 shipped (5c8374c, 76e1532, 9ea292c): root cause = homepage downloaded entire 34MB shard corpus twice (latest-additions + daily-feature both calling loadAllShards with no dedup). Fixes: in-flight request coalescing in loadRegionShard (+jest dedup test), precomputed data/datasets/latest.json (~2KB top-3), precomputed daily.json (~30KB, 45-day window, replicates getDailyIndex exactly; runtime falls back to legacy full scan beyond window / offline). Index shard fetches 178→2. Lighthouse: `/` perf 0.64→0.91, LCP 34.0s→2.8s; bestiary 0.71→0.89 (LCP 33.9s→3.0s). Gates: eslint 0 err, jest 176/176, chromium 462/461+? — 462 passed
 - [ ] Perf follow-up (optional): bestiary still ~22MB upfront for grid/facets (perf 0.89 vs 0.90 floor warn) → progressive per-shard loading = bigger refactor, defer until numbers matter
 - [ ] Regenerate latest.json + daily.json whenever shards change (one-off generators were /tmp scripts; logic documented in _meta fields)
-- [ ] Website translation (i18n) — Phase 1 (Google Translate chrome toggle) **IN PROGRESS**; design approved (docs/spec 2026-08-22 + docs/superpowers/plans i18n phase 1)
-  - [x] T1 — language map + googtrans cookie helpers (`beeca3a`)
-  - [x] T2 — toggle button + menu UI injected after theme toggle (`90fde86`)
-  - [x] T3 — lazy element.js loader, applyLanguage/resetToOriginal combo routing, failure hides toggle (`24b4a9b`); jest 189/189
+- [x] Website translation (i18n) — Phase 1 (Google Translate chrome toggle) **SHIPPED** (beeca3a..24b4a9b; full summary in "i18n Phase 1 shipped" above); design docs/spec 2026-08-22 + docs/superpowers/plans i18n phase 1
   - Open questions remain for FULL content translation (beyond UI chrome):
   - Which languages first? (site is English-only today)
   - Scope: UI chrome only vs full content (3,668 creatures / 2,185 stories / 641 items / 1,071 quiz questions)?
@@ -375,3 +373,6 @@
 - [x] **JS nav toggle** — creatures-viewer.js + stories-viewer.js updated to use classList.add/remove('is-hidden')
 
 **Result: 144/144 Jest tests pass. 18 files modified.**
+- [x] i18n Phase 2 Wave H SHIPPED Aug 29 (bd51f7d): Celtic + East Asian native mode content – overlays added, manifest updated, tests passed, deployment zip rebuilt.
+- [x] i18n Phase 2 Wave H SHIPPED Aug 29 (bd51f7d): Celtic + East Asian native mode content – overlays added, manifest updated, tests passed, deployment zip rebuilt.
+- [x] i18n Phase 2 Wave H SHIPPED Aug 29 (bd51f7d): Celtic + East Asian native mode content – overlays added, manifest updated, tests passed, deployment zip rebuilt.

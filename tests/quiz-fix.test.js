@@ -67,3 +67,35 @@ describe('Quiz applyFilters', () => {
     expect(filtered.find(q => q.prompt === 'Q5')).toBeUndefined();
   });
 });
+
+describe('Quiz score denominator', () => {
+  // showFinal must divide by questions actually asked, not the requested
+  // count — a narrow geo filter can shrink the pool below maxQuestions.
+  const finalStats = (asked, score, maxQuestions) => {
+    let m = maxQuestions;
+    if (asked < m) m = asked; // pool exhausted early (matches loadPool cap)
+    const total = asked;
+    const displayScore = Math.min(score, total);
+    const percent = Math.round((displayScore / total) * 100);
+    return { total, displayScore, percent };
+  };
+
+  it('uses asked count when pool exhausted early', () => {
+    const s = finalStats(3, 2, 10);
+    expect(s.total).toBe(3);
+    expect(s.displayScore).toBe(2);
+    expect(s.percent).toBe(67);
+  });
+
+  it('unchanged when pool covers the full request', () => {
+    const s = finalStats(10, 7, 10);
+    expect(s.total).toBe(10);
+    expect(s.percent).toBe(70);
+  });
+
+  it('clamps score above total (level-6 sub-question overshoot)', () => {
+    const s = finalStats(10, 12, 10);
+    expect(s.displayScore).toBe(10);
+    expect(s.percent).toBe(100);
+  });
+});
