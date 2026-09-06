@@ -98,51 +98,66 @@ test.describe('language toggle', () => {
     expect(homeLabel).toBe('HEM')
   })
 
-  test('Original clears cookie and skips GT on the next load', async ({
+  test('Original clears the Gemini lang state and next load starts in English', async ({
     page,
   }) => {
     await page.click('#lang-toggle')
-    // 'de' exercises the Google-Translate path; 'sv' is native mode now.
-    await Promise.all([
-      page.waitForLoadState('load'),
-      page.click('#language-menu [data-code="de"]'),
-    ])
+    // 'de' exercises the on-demand Gemini path; 'sv' is native mode now.
+    await page.click('#language-menu [data-code="de"]')
+    await expect(page.locator('html')).toHaveAttribute('lang', 'de', {
+      timeout: 20000,
+    })
+    // Gemini replaces the old googtrans cookie: no GT element.js, only the
+    // gmlang localStorage key marks the active language.
     await expect
       .poll(
         () => page.evaluate(() => (window.__gtCalls ? window.__gtCalls.length : 0)),
         { timeout: 10000 }
       )
-      .toBe(1)
+      .toBe(0)
+    const active = await page.evaluate(() =>
+      localStorage.getItem('wl:active_gmlang')
+    )
+    expect(active).toBe('de')
 
-    await page.click('#lang-toggle') // menu rebuilt lazily after reload
-    await Promise.all([
-      page.waitForLoadState('load'),
-      page.click('#language-menu [data-code=""]'),
-    ])
+    await page.click('#lang-toggle') // menu rebuilt lazily
+    await page.click('#language-menu [data-code=""]')
+    await expect(page.locator('html')).not.toHaveAttribute('lang', 'de', {
+      timeout: 10000,
+    })
     const cleared = await page.evaluate(() =>
-      document.cookie.includes('googtrans=')
+      localStorage.getItem('wl:active_gmlang')
     )
-    expect(cleared).toBe(false)
-    // no stored language → no element.js injection on this load
-    await page.waitForTimeout(500)
-    const scriptTags = await page.evaluate(() =>
-      Array.from(document.scripts).filter((s) =>
-        s.src.includes('translate.google.com')
-      ).length
+    expect(cleared).toBeNull()
+
+    // next load starts in English, no gmlang restore, no GT injection
+    await page.reload({ waitUntil: 'load', timeout: 20000 })
+    await expect(page.locator('html')).not.toHaveAttribute('lang', 'de')
+    await expect(page.locator('[data-i18n="nav.home"]')).toHaveText('HOME', {
+      timeout: 10000,
+    })
+    const gtCalls = await page.evaluate(() =>
+      window.__gtCalls ? window.__gtCalls.length : 0
     )
-    expect(scriptTags).toBe(0)
+    expect(gtCalls).toBe(0)
   })
 
-  test('choice persists across navigation via cookie restore', async ({
+  test('choice persists across navigation via gmlang state', async ({
     page,
   }) => {
     await page.click('#lang-toggle')
     await page.click('#language-menu [data-code="de"]')
-    await page.goto(`${BASE}/about.html`, { waitUntil: 'load', timeout: 20000 })
-    const restored = await page.evaluate(() => {
-      const m = document.cookie.match(/googtrans=\/en\/([A-Za-z-]+)/)
-      return m ? m[1] : null
+    await expect(page.locator('html')).toHaveAttribute('lang', 'de', {
+      timeout: 20000,
     })
+    // stored gmlang restores the active translation on the next page
+    await page.goto(`${BASE}/about.html`, { waitUntil: 'load', timeout: 20000 })
+    await expect(page.locator('html')).toHaveAttribute('lang', 'de', {
+      timeout: 20000,
+    })
+    const restored = await page.evaluate(() =>
+      localStorage.getItem('wl:active_gmlang')
+    )
     expect(restored).toBe('de')
   })
 
