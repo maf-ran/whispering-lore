@@ -1988,17 +1988,18 @@ footer p {
 }
 
 .ko-fi-support {
-  margin: 0 0 1.25rem;
+  margin: 1.75rem 0 2rem;
+  padding: 0.75rem 0;
   text-align: center;
 }
 
 .ko-fi-label {
   font-family: var(--font-display);
-  font-size: 0.65rem;
+  font-size: 1.25rem;
   letter-spacing: 0.14em;
   text-transform: uppercase;
   color: var(--text-secondary);
-  margin-bottom: 0.6rem;
+  margin-bottom: 1rem;
 }
 
 /* Third-party Ko-fi widget ships white bold text with an orange text-shadow on
