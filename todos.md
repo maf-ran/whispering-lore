@@ -390,13 +390,14 @@ GATES-CAUGHT-FIX (1b3fc67): sv coverage audit (per-region count vs overlay entri
 
 ## Norwegian (no) parent-language build — Sep 7
 
-- [ ] **Wave 0 infra**: getNativeLang [sv,no]; language-toggle native routes for sv+no; full `no` chrome dict in i18n.js; hreflang no x11; sw bump; tests.
-- [ ] **Wave 1**: data/i18n/no/creatures-nordic.json (314/314 full) -> shards + manifest.i18n.no; jest green.
+- [x] **Wave 0 infra**: getNativeLang [sv,no]; language-toggle native routes for sv+no; full `no` chrome dict in i18n.js; hreflang no x11; sw bump; tests.
+- [x] **Wave 1**: data/i18n/no/creatures-nordic.json (314/314 full) -> shards + manifest.i18n.no; jest green.
 - [ ] **Wave 2**: data/i18n/no/stories-nordic.json (66/66) -> shards.
 - [ ] **Wave 3**: data/i18n/no/items-nordic.json (82/82) -> shards.
 - [ ] **Wave 4**: e2e browser verify no mode; final gates + deploy zip.
 - [x] **NO Wave 0 (infra) SHIPPED Sep 7** (`c4b259b`, pushed): getNativeLangs [sv,no]; language-toggle NATIVE_LANGS routes sv+no, choose()/chooseNative(lang)/is-native dot; full `no` chrome dict (~230 keys, parity-tested); currentLang() fallback [sv,no]; translate.js excludes no from auto-enable; hreflang no x11; sw v1_0_27; jest 226/226; eslint 0; browser-verified (htmllang=no, HJEM nav, choose-no navigates, sv regression OK). GOTCHA: repo .git object store was CORRUPT (missing trees/blobs, unborn main, stale main.lock) → repaired by fresh clone from origin + swap .git (mv to .git.corrupt, excluded via .git/info/exclude, commit-msg hook copied over).
 - [ ] **NO Wave 1**: data/i18n/no/creatures-nordic.json (314/314) -> shards + manifest.i18n.no; jest green.
-- [ ] **NO Wave 2**: stories-nordic 66 -> shards.
-- [ ] **NO Wave 3**: items-nordic 82 -> shards.
+- [x] **NO Wave 1 SHIPPED Sep 7** (`ca0847a`, pushed): data/i18n/no/creatures-nordic.json 314/314 full (chunked wc-no01..no26 → merge-no.py gates: name/summary/desc>100, >=0.6x EN, no Cyrillic lookalikes, doubled-word whitelist incl. `Gulo gulo` binomial) -> shards rebuilt -> manifest.i18n.no.creatures-nordic; eslint 0; jest 226/226.
+- [x] **NO Wave 2 SHIPPED Sep 7** (`2a70730`, pushed): data/i18n/no/stories-nordic.json 66/66 (10 full + 56 summary-only; wc-no-s1..s11 -> check-stories.py gates: title+summary, full_text>150+complete for the 10, no Cyrillic lookalikes) -> shards rebuilt -> manifest.i18n.no.stories-nordic; eslint 0; jest 226/226.
+- [x] **NO Wave 3 SHIPPED Sep 7**: data/i18n/no/items-nordic.json 82/82 full (wc-no-i11..i28 + prior i01..i10 -> check-items.py gates: 82 slugs, name+description truthy, complete:true, no Cyrillic lookalikes) -> shards rebuilt -> manifest.i18n.no.creatures-nordic+items-nordic+stories-nordic all true; no sv/no slug-set drift; eslint 0; jest 226/226.
 - [ ] **NO Wave 4**: e2e browser verify no mode; final gates + deploy zip.
