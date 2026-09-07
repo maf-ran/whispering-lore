@@ -386,3 +386,4 @@ GATES-CAUGHT-FIX (1b3fc67): sv coverage audit (per-region count vs overlay entri
 - [x] i18n sv north america items overlay SHIPPED Sep 7 (`2d6ddfb`): 23/23 North America artifacts full sv name+desc complete:true; shards rebuilt; 18 sv coverage keys; jest 222/222; no js changes -> sw stays v1_0_26.
 - [x] i18n sv west africa items overlay SHIPPED Sep 7 (`9ea4a1d`): 23/23 West Africa artifacts full sv name+desc complete:true; shards rebuilt; 19 sv coverage keys; jest 222/222; no js changes -> sw stays v1_0_26.
 - [x] i18n sv egyptian items overlay SHIPPED Sep 7 (`a57ccfa`): 19/19 Egyptian artifacts full sv name+desc complete:true; shards rebuilt; 20 sv coverage keys; jest 222/222; no js changes -> sw stays v1_0_26.
+- [x] i18n sv polynesian items overlay SHIPPED Sep 7 (`0828293`): 19/19 Polynesian artifacts full sv name+desc complete:true; shards rebuilt; 21 sv coverage keys; jest 222/222; no js changes -> sw stays v1_0_26.
