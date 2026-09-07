@@ -395,3 +395,8 @@ GATES-CAUGHT-FIX (1b3fc67): sv coverage audit (per-region count vs overlay entri
 - [ ] **Wave 2**: data/i18n/no/stories-nordic.json (66/66) -> shards.
 - [ ] **Wave 3**: data/i18n/no/items-nordic.json (82/82) -> shards.
 - [ ] **Wave 4**: e2e browser verify no mode; final gates + deploy zip.
+- [x] **NO Wave 0 (infra) SHIPPED Sep 7** (`c4b259b`, pushed): getNativeLangs [sv,no]; language-toggle NATIVE_LANGS routes sv+no, choose()/chooseNative(lang)/is-native dot; full `no` chrome dict (~230 keys, parity-tested); currentLang() fallback [sv,no]; translate.js excludes no from auto-enable; hreflang no x11; sw v1_0_27; jest 226/226; eslint 0; browser-verified (htmllang=no, HJEM nav, choose-no navigates, sv regression OK). GOTCHA: repo .git object store was CORRUPT (missing trees/blobs, unborn main, stale main.lock) → repaired by fresh clone from origin + swap .git (mv to .git.corrupt, excluded via .git/info/exclude, commit-msg hook copied over).
+- [ ] **NO Wave 1**: data/i18n/no/creatures-nordic.json (314/314) -> shards + manifest.i18n.no; jest green.
+- [ ] **NO Wave 2**: stories-nordic 66 -> shards.
+- [ ] **NO Wave 3**: items-nordic 82 -> shards.
+- [ ] **NO Wave 4**: e2e browser verify no mode; final gates + deploy zip.
