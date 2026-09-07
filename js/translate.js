@@ -340,11 +340,11 @@
   function initAutoTranslate() {
     try {
       if (typeof window === 'undefined') return
-      // If native mode is explicitly set in URL (?lang=sv), do not auto-run Gemini
+      // If native mode is explicitly set in URL (?lang=sv, ?lang=no), do not auto-run Gemini
       if (window.location.search.indexOf('lang=') !== -1) return
       var m = window.location.search.match(/[?&]gmlang=([A-Za-z-]+)/)
       var saved = m ? m[1] : localStorage.getItem('wl:active_gmlang')
-      if (saved && saved !== 'en' && saved !== 'sv') {
+      if (saved && saved !== 'en' && saved !== 'sv' && saved !== 'no') {
         enable(saved)
       }
     } catch (e) { /* storage unavailable */ }

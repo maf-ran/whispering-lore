@@ -47,6 +47,11 @@
     '<circle cx="12" cy="12" r="10"/><path d="M2 12h20"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/>' +
     '</svg>'
 
+  // Languages shipped with curated overlay content; routed to URL-only
+  // native mode (?lang=xx) instead of the on-demand Gemini translation.
+  // Keep in sync with shared-utils getNativeLangs().
+  var NATIVE_LANGS = ['sv', 'no']
+
   var comboApplier = null
   var reloadFn = function () { window.location.reload() }
   var navigatorFn = function (url) { window.location.assign(url) }
@@ -75,14 +80,15 @@
       window.__sharedUtils.isNative())
   }
 
-  function chooseNative() {
+  function chooseNative(lang) {
+    if (lang === undefined) lang = NATIVE_LANGS[0]
     clearGoogtrans()
     var u
     if (window.__sharedUtils && window.__sharedUtils.withLang) {
-      u = window.__sharedUtils.withLang(currentUrl(), 'sv')
+      u = window.__sharedUtils.withLang(currentUrl(), lang)
     } else {
       u = currentUrl()
-      u += (u.indexOf('?') === -1 ? '?' : '&') + 'lang=sv'
+      u += (u.indexOf('?') === -1 ? '?' : '&') + 'lang=' + lang
     }
     closeMenu(false)
     navigatorFn(u)
@@ -156,9 +162,11 @@
 
   function openMenu() {
     if (!menu) buildMenu()
-    // Native-coverage dot may flip at runtime; keep the Svenska item in sync.
-    var svEl = menu.querySelector('[data-code="sv"]')
-    if (svEl) svEl.classList.toggle('is-native', !!NATIVE_COVERAGE_READY)
+    // Native-coverage dot may flip at runtime; keep the native items in sync.
+    NATIVE_LANGS.forEach(function (langCode) {
+      var el = menu.querySelector('[data-code="' + langCode + '"]')
+      if (el) el.classList.toggle('is-native', !!NATIVE_COVERAGE_READY)
+    })
     positionMenu()
     menu.hidden = false
     btn.setAttribute('aria-expanded', 'true')
@@ -198,7 +206,7 @@
   }
 
   function choose(code) {
-    if (code === 'sv') { chooseNative(); return }
+    if (NATIVE_LANGS.indexOf(code) !== -1) { chooseNative(code); return }
     if (code) {
       if (window.__translate && window.__translate.enable) {
         window.__translate.setLangParam(code)
@@ -352,6 +360,7 @@
 
   window.__languageToggle = {
     GROUPS: GROUPS,
+    NATIVE_LANGS: NATIVE_LANGS,
     allCodes: allCodes,
     buildGoogtransValue: buildGoogtransValue,
     setGoogtrans: setGoogtrans,
@@ -363,6 +372,7 @@
     resetToOriginal: resetToOriginal,
     chooseNative: chooseNative,
     leaveNative: leaveNative,
+    choose: choose,
     get NATIVE_COVERAGE_READY() { return NATIVE_COVERAGE_READY },
     set NATIVE_COVERAGE_READY(v) { NATIVE_COVERAGE_READY = !!v },
     _resetForTests: _resetForTests,

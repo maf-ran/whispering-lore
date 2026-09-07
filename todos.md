@@ -387,3 +387,11 @@ GATES-CAUGHT-FIX (1b3fc67): sv coverage audit (per-region count vs overlay entri
 - [x] i18n sv west africa items overlay SHIPPED Sep 7 (`9ea4a1d`): 23/23 West Africa artifacts full sv name+desc complete:true; shards rebuilt; 19 sv coverage keys; jest 222/222; no js changes -> sw stays v1_0_26.
 - [x] i18n sv egyptian items overlay SHIPPED Sep 7 (`a57ccfa`): 19/19 Egyptian artifacts full sv name+desc complete:true; shards rebuilt; 20 sv coverage keys; jest 222/222; no js changes -> sw stays v1_0_26.
 - [x] i18n sv polynesian items overlay SHIPPED Sep 7 (`0828293`): 19/19 Polynesian artifacts full sv name+desc complete:true; shards rebuilt; 21 sv coverage keys; jest 222/222; no js changes -> sw stays v1_0_26.
+
+## Norwegian (no) parent-language build — Sep 7
+
+- [ ] **Wave 0 infra**: getNativeLang [sv,no]; language-toggle native routes for sv+no; full `no` chrome dict in i18n.js; hreflang no x11; sw bump; tests.
+- [ ] **Wave 1**: data/i18n/no/creatures-nordic.json (314/314 full) -> shards + manifest.i18n.no; jest green.
+- [ ] **Wave 2**: data/i18n/no/stories-nordic.json (66/66) -> shards.
+- [ ] **Wave 3**: data/i18n/no/items-nordic.json (82/82) -> shards.
+- [ ] **Wave 4**: e2e browser verify no mode; final gates + deploy zip.

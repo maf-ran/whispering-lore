@@ -1,4 +1,4 @@
-const CACHE_NAME = 'whisperinglore-v1_0_26'
+const CACHE_NAME = 'whisperinglore-v1_0_27'
 
 const CORE_ASSETS = [
   '/',

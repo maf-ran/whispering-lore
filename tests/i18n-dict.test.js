@@ -15,12 +15,24 @@ describe('chrome i18n dictionary', function () {
     });
   });
 
+  test('no dictionary covers every en key', function () {
+    Object.keys(D.en).forEach(function (k) {
+      expect(typeof D.no[k]).toBe('string');
+      expect(D.no[k].length).toBeGreaterThan(0);
+    });
+  });
+
   test('applier swaps data-i18n nodes when native', function () {
     document.body.innerHTML =
       '<nav><a href="/index.html" data-i18n="nav.home">Home</a></nav>';
     window.history.replaceState({}, '', '/index.html?lang=sv');
     D.applyChrome();
     expect(document.querySelector('[data-i18n="nav.home"]').textContent).toBe(D.sv['nav.home']);
+    window.history.replaceState({}, '', '/index.html?lang=no');
+    document.body.innerHTML =
+      '<nav><a href="/index.html" data-i18n="nav.home">Home</a></nav>';
+    D.applyChrome();
+    expect(document.querySelector('[data-i18n="nav.home"]').textContent).toBe(D.no['nav.home']);
     window.history.replaceState({}, '', '/index.html');
     document.body.innerHTML =
       '<nav><a href="/index.html" data-i18n="nav.home">Home</a></nav>';
@@ -35,6 +47,10 @@ describe('chrome i18n dictionary', function () {
     D.applyChrome();
     expect(document.documentElement.lang).toBe('sv');
     expect(document.title).toBe(D.sv['title.index']);
+    window.history.replaceState({}, '', '/index.html?lang=no');
+    D.applyChrome();
+    expect(document.documentElement.lang).toBe('no');
+    expect(document.title).toBe(D.no['title.index']);
     window.history.replaceState({}, '', '/index.html');
   });
 });

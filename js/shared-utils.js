@@ -699,14 +699,19 @@
     fetchJSON: fetchJSON,
     escapeXml: escapeXml,
 
-    // ── Native language state (Phase 2: ?lang=sv) ──
+    // ── Native language state (Phase 2: ?lang=sv, ?lang=no) ──
     // Only languages with curated overlay content ship natively; any other
     // ?lang= value falls through to the Google Translate flow.
+    // Shared with language-toggle via getNativeLangs() — keep in sync.
+    getNativeLangs: function () {
+      return ['sv', 'no']
+    },
+
     getNativeLang: function () {
       try {
         var m = window.location.search.match(/[?&]lang=([A-Za-z-]+)/)
         if (!m) return null
-        return ['sv'].indexOf(m[1]) !== -1 ? m[1] : null
+        return this.getNativeLangs().indexOf(m[1]) !== -1 ? m[1] : null
       } catch (e) {
         return null
       }
