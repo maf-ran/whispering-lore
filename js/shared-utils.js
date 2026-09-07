@@ -107,6 +107,7 @@
     manifest: null,
     shards: {}, // {type: {regionName: [items]}}
     slugBatches: {}, // {type: {firstChar: [items]}}
+    indexes: {}, // {type: [slim items]}
     _dbReady: false,
     _dbQueue: [],
 
@@ -481,6 +482,37 @@
         .catch(function () {
           callback(new Error('slug fetch error'))
         })
+    },
+
+    // Load the slim cross-region index for a type (grid/search/facets).
+    // Entries carry the grid fields plus _slim:true; detail views fetch the
+    // full object via getItem(slug). Native overlays decorate like batches.
+    loadIndex: function (type, callback) {
+      if (this.indexes[type]) {
+        this._deliverSlugBatch(type, null, this.indexes[type], callback)
+        return
+      }
+      const self = this
+      fetchJSON('data/sharded/' + type + '/index.json')
+        .then(function (data) {
+          if (!data || !data.length) {
+            callback(new Error('index fetch error'))
+            return
+          }
+          self.indexes[type] = data.map(function (it) {
+            var c = Object.assign({}, it)
+            c._slim = true
+            return c
+          })
+          self._deliverSlugBatch(type, null, self.indexes[type], callback)
+        })
+        .catch(function () {
+          callback(new Error('index fetch error'))
+        })
+    },
+
+    getIndex: function (type) {
+      return this.indexes[type] || null
     },
 
     // Load top N region shards and return their union

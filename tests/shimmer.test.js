@@ -85,6 +85,21 @@ Object.keys(slugData).forEach(function (key) {
   fixtureMap['data/sharded/' + parts[0] + '/by-slug/' + parts[1] + '.json'] = slugData[key];
 });
 
+// Slim index fixture mirrors the region fixtures (grid fields only)
+var creatureIndex = ['nordic', 'celtic', 'east-asian']
+  .reduce(function (acc, r) { return acc.concat(regionData[r]); }, [])
+  .map(function (c) {
+    return {
+      slug: c.slug,
+      name: c.name,
+      type: c.type,
+      country: c.country,
+      region: c.region,
+      description: c.description
+    };
+  });
+fixtureMap['data/sharded/creatures/index.json'] = creatureIndex;
+
 // ── fetch Mock ──
 function mockFetch(data) {
   return Promise.resolve({
@@ -159,6 +174,7 @@ function resetShimmer() {
   Shimmer.manifest = null;
   Shimmer.shards = {};
   Shimmer.slugBatches = {};
+  Shimmer.indexes = {};
   Shimmer._dbReady = false;
   Shimmer._db = null;
   Shimmer._dbQueue = [];
@@ -357,6 +373,91 @@ describe('Shimmer.loadSlugBatch', function () {
       global.fetch = origFetch;
       expect(err).toBeTruthy();
       expect(err.message).toContain('slug fetch error');
+      done();
+    });
+  });
+});
+
+// ─────────────────────────────────────────────────────────────────────
+// Shimmer.loadIndex
+// ─────────────────────────────────────────────────────────────────────
+describe('Shimmer.loadIndex', function () {
+  it('loads the slim index from network', function (done) {
+    Shimmer.loadIndex('creatures', function (err, data) {
+      expect(err).toBeNull();
+      expect(data).toHaveLength(creatureIndex.length);
+      expect(data[0].slug).toBeTruthy();
+      expect(data[0]._slim).toBe(true);
+      expect(data[0].name).toBeTruthy();
+      done();
+    });
+  });
+
+  it('returns cached index from memory on second call', function (done) {
+    Shimmer.loadIndex('creatures', function (err1, firstData) {
+      expect(err1).toBeNull();
+      Shimmer.loadIndex('creatures', function (err2, data) {
+        expect(err2).toBeNull();
+        expect(data).toHaveLength(creatureIndex.length);
+        done();
+      });
+    });
+  });
+
+  it('getIndex returns null before load, then the cached list', function (done) {
+    expect(Shimmer.getIndex('creatures')).toBeNull();
+    Shimmer.loadIndex('creatures', function () {
+      expect(Shimmer.getIndex('creatures')).toHaveLength(creatureIndex.length);
+      done();
+    });
+  });
+
+  it('merges native overlays onto index entries and keeps _slim', function () {
+    window.history.replaceState({}, '', '/index.html?lang=sv');
+    return new Promise(function (resolve) {
+      Shimmer.loadIndex('creatures', function (err, data) {
+        resolve({ err: err, data: data });
+      });
+    }).then(function (r) {
+      expect(r.err).toBeNull();
+      var troll = r.data.find(function (c) { return c.slug === 'troll'; });
+      expect(troll._slim).toBe(true);
+      expect(String(troll.summary)).toContain('bergstroll');
+      expect(troll._i18n && troll._i18n.partial).toBe(false);
+      var draugr = r.data.find(function (c) { return c.slug === 'draugr'; });
+      expect(draugr._i18n && draugr._i18n.partial).toBe(true);
+    });
+  });
+
+  it('does not decorate when not native', function (done) {
+    window.history.replaceState({}, '', '/index.html');
+    Shimmer.loadIndex('creatures', function (err, data) {
+      expect(err).toBeNull();
+      var troll = data.find(function (c) { return c.slug === 'troll'; });
+      expect(troll._slim).toBe(true);
+      expect(troll._i18n).toBeUndefined();
+      done();
+    });
+  });
+
+  it('returns error on bad JSON response', function (done) {
+    var origFetch = global.fetch;
+    global.fetch = function () { return mockFetchBadJSON(); };
+    Shimmer.loadIndex('creatures', function (err) {
+      global.fetch = origFetch;
+      expect(err).toBeTruthy();
+      expect(err.message).toContain('index fetch error');
+      done();
+    });
+  });
+
+  it('returns error on network failure', function (done) {
+    var origFetch = global.fetch;
+    global.fetch = function () { return mockFetchNetworkError(); };
+    Shimmer.loadIndex('creatures', function (err) {
+      global.fetch = origFetch;
+      expect(err).toBeTruthy();
+      expect(err.message).toContain('index fetch error');
       done();
     });
   });

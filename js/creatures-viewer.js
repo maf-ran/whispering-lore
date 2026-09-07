@@ -112,11 +112,11 @@ class CreaturesViewer extends BaseViewer {
 
     // Use Promise.race to ensure we don't hang forever
     await Promise.race([
-      new Promise((resolve) => sh.loadAllShards('creatures', resolve)),
+      new Promise((resolve) => sh.loadIndex('creatures', resolve)),
       new Promise((resolve) => setTimeout(resolve, 5000)),
     ])
 
-    this.cache = sh.getAllItems('creatures')
+    this.cache = sh.getIndex('creatures') || []
     window.__FULL_CREATURES = this.cache
   }
 
@@ -192,13 +192,7 @@ class CreaturesViewer extends BaseViewer {
 
   onRegionFilterChange(region) {
     this.state.filters.region = region || null
-    const sh = window.__sharedUtils && window.__sharedUtils.Shimmer
-    if (!sh) return
-    sh.loadRegionShard('creatures', region, () => {
-      this.cache = sh.getAllItems('creatures')
-      window.__FULL_CREATURES = this.cache
-      this.applyFilters()
-    })
+    this.applyFilters()
   }
 
   initLinks() {
@@ -591,6 +585,17 @@ class CreaturesViewer extends BaseViewer {
         return c.slug === slug
       })
       if (found) {
+        if (found._slim) {
+          const shG = window.__sharedUtils && window.__sharedUtils.Shimmer
+          if (shG && shG.manifest) {
+            shG.getItem('creatures', slug, function (err, item) {
+              renderCreature(err || !item ? found : item)
+            })
+          } else {
+            renderCreature(found)
+          }
+          return
+        }
         const shDec = window.__sharedUtils.Shimmer
         if (window.__sharedUtils.isNative() && shDec && shDec.decorateItem) {
           shDec.decorateItem('creatures', found, function (err, decorated) {
@@ -712,9 +717,21 @@ class CreaturesViewer extends BaseViewer {
   async renderCreatureStories(slug, name) {
     const container = document.getElementById('creature-stories')
     if (!container) return
-    if (window.__STORIES_DATA_READY) {
-      try { await window.__STORIES_DATA_READY } catch (e) { /* swallow */ }
+    if (!window.__STORIES_DATA_READY) {
+      window.__STORIES_DATA_READY = new Promise(function (resolve) {
+        const sh = window.__sharedUtils && window.__sharedUtils.Shimmer
+        if (!sh) { window.__STORIES_DATA = []; resolve(); return }
+        sh.loadManifest()
+          .then(function () {
+            sh.loadAllShards('stories', function (err, data) {
+              window.__STORIES_DATA = err || !data ? [] : data
+              resolve()
+            })
+          })
+          .catch(function () { window.__STORIES_DATA = []; resolve() })
+      })
     }
+    try { await window.__STORIES_DATA_READY } catch (e) { /* swallow */ }
     const stories = window.__STORIES_DATA || []
     if (!stories.length) {
       container.classList.add('is-hidden')

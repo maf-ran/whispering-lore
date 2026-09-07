@@ -377,24 +377,6 @@
   <script src="js/region-glyphs.js"></script>
   <script src="js/citations.js"></script>
   <script src="js/main.js"></script>
-  <script>
-    // Preload stories for cross-referencing in creature detail. Data-driven via
-    // Shimmer manifest + region shards so repeated visits hit the IDB cache.
-    (function() {
-      var sh = window.__sharedUtils && window.__sharedUtils.Shimmer
-      if (!sh) { window.__STORIES_DATA_READY = Promise.resolve(); return }
-      window.__STORIES_DATA_READY = new Promise(function(resolve) {
-        sh.loadManifest()
-          .then(function() {
-            sh.loadAllShards('stories', function(err, data) {
-              window.__STORIES_DATA = err || !data ? [] : data
-              resolve()
-            })
-          })
-          .catch(function() { window.__STORIES_DATA = []; resolve() })
-      })
-    })();
-  </script>
   <script type="module" src="js/creatures-viewer.js"></script>
   <script src="js/rune-scatter.js" defer></script>
   <script>if('serviceWorker' in navigator){navigator.serviceWorker.register('/sw.js')}</script>
