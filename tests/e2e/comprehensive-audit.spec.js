@@ -226,7 +226,13 @@ test.describe('Bestiary: detail overlay', () => {
     await expect(overlay).not.toHaveClass(/is-hidden/, { timeout: 10000 });
     await expect(overlay.locator('#detail-content')).not.toHaveClass(/is-hidden/, { timeout: 10000 });
 
-    // First focusable inside the overlay should be focused on open
+    // Content unhides before trapFocus() runs (renderCreature sets focus last),
+    // so poll until focus actually lands inside the overlay.
+    await expect.poll(() => page.evaluate(() => {
+      const container = document.getElementById('creature-detail');
+      return container ? container.contains(document.activeElement) : false;
+    }), { timeout: 5000 }).toBe(true);
+
     const inOverlay = await page.evaluate(() => {
       const container = document.getElementById('creature-detail');
       const focusables = Array.from(container.querySelectorAll('a[href], button:not([disabled]), [tabindex]:not([tabindex="-1"])'))
