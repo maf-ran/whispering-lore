@@ -379,3 +379,4 @@ GATES-CAUGHT-FIX (1b3fc67): sv coverage audit (per-region count vs overlay entri
 
 **Result: 144/144 Jest tests pass. 18 files modified.**
 - [x] i18n Phase 2 Wave H SHIPPED Aug 29 (bd51f7d): Celtic + East Asian native mode content – overlays added, manifest updated, tests passed, deployment zip rebuilt.
+- [x] i18n sv southasia items overlay SHIPPED Sep 7 (`2efe9c4`): 47/47 South Asia artifacts full sv name+desc complete:true; shards rebuilt; 14 sv coverage keys; jest 222/222; no js changes -> sw stays v1_0_26.
