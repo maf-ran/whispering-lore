@@ -25,21 +25,34 @@ class SearchViewer {
         'The archive could not be loaded. Please refresh the page.'
       return
     }
+    let idx = null
+    try {
+      const res = await fetch('data/sharded/search-index.json')
+      if (res.ok) idx = await res.json()
+    } catch (e) {
+      // fall through to the legacy full-shard path below
+    }
     const types = ['creatures', 'stories', 'items']
-    await Promise.all(
-      types.map((type) =>
-        Promise.race([
-          new Promise((resolve) => sh.loadAllShards(type, resolve)),
-          new Promise((resolve) => setTimeout(resolve, 8000)),
-        ])
+    if (idx) {
+      types.forEach((type) => {
+        this.data[type] = idx[type] || []
+      })
+    } else {
+      await Promise.all(
+        types.map((type) =>
+          Promise.race([
+            new Promise((resolve) => sh.loadAllShards(type, resolve)),
+            new Promise((resolve) => setTimeout(resolve, 8000)),
+          ])
+        )
       )
-    )
-    types.forEach((type) => {
-      this.data[type] = sh.getAllItems(type) || []
-    })
-    window.__FULL_CREATURES = this.data.creatures
-    window.__FULL_STORIES = this.data.stories
-    window.__ITEMS = this.data.items
+      types.forEach((type) => {
+        this.data[type] = sh.getAllItems(type) || []
+      })
+      window.__FULL_CREATURES = this.data.creatures
+      window.__FULL_STORIES = this.data.stories
+      window.__ITEMS = this.data.items
+    }
     this.loaded = true
   }
 
@@ -57,7 +70,7 @@ class SearchViewer {
       typeof rawKeywords === 'string'
         ? [rawKeywords]
         : rawKeywords.map((k) => String(k).toLowerCase())
-    const body = (type === 'stories' ? item.summary : item.description || '')
+    const body = (item.excerpt || (type === 'stories' ? item.summary : item.description) || '')
       .toLowerCase()
 
     let score = 0
@@ -118,7 +131,7 @@ class SearchViewer {
           : 'items.html?item=' + encodeURIComponent(slug)
     const label =
       type === 'creatures' ? 'View Creature' : isStory ? 'Read Story' : 'View Artifact'
-    const body = isStory ? item.summary : item.description || ''
+    const body = item.excerpt || (isStory ? item.summary : item.description) || ''
     const meta = [item.type, item.country, item.region].filter(Boolean).join(' · ')
 
     const article = document.createElement('article')
