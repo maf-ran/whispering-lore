@@ -110,10 +110,13 @@ class StoriesViewer extends BaseViewer {
 
     await sh.loadManifest()
 
-    await new Promise((resolve) => {
-      sh.loadAllShards('stories', (err, data) => resolve())
-    })
-    this.cache = sh.getAllItems('stories')
+    // Use Promise.race to ensure we don't hang forever
+    await Promise.race([
+      new Promise((resolve) => sh.loadIndex('stories', resolve)),
+      new Promise((resolve) => setTimeout(resolve, 5000)),
+    ])
+
+    this.cache = sh.getIndex('stories') || []
     window.__FULL_STORIES = this.cache
   }
 
@@ -576,6 +579,17 @@ class StoriesViewer extends BaseViewer {
           (s.title && window.__sharedUtils.getSlug(s.title) === slug)
       )
       if (found) {
+        if (found._slim) {
+          const shG = window.__sharedUtils && window.__sharedUtils.Shimmer
+          if (shG && shG.manifest) {
+            shG.getItem('stories', slug, function (err, item) {
+              renderStory(err || !item ? found : item)
+            })
+          } else {
+            renderStory(found)
+          }
+          return
+        }
         const shDec = window.__sharedUtils.Shimmer
         if (window.__sharedUtils.isNative() && shDec && shDec.decorateItem) {
           shDec.decorateItem('stories', found, function (err, decorated) {

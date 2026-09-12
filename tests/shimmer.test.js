@@ -99,6 +99,22 @@ var creatureIndex = ['nordic', 'celtic', 'east-asian']
     };
   });
 fixtureMap['data/sharded/creatures/index.json'] = creatureIndex;
+var storyIndex = ['nordic', 'celtic']
+  .reduce(function (acc, r) { return acc.concat(regionStories[r]); }, [])
+  .map(function (s) {
+    return {
+      slug: s.slug,
+      title: s.title,
+      summary: s.summary,
+      country: s.country,
+      region: s.region,
+      type: s.type || '',
+      tribe: s.tribe || '',
+      themes: s.themes || '',
+      lastUpdated: s.lastUpdated || ''
+    };
+  });
+fixtureMap['data/sharded/stories/index.json'] = storyIndex;
 fixtureMap['data/sharded/search-index.json'] = {
   stories: [
     { slug: 'three-billy-goats-gruff', title: 'Three Billy Goats Gruff', country: 'Norway', creatures: ['troll-norway'] },
@@ -465,6 +481,33 @@ describe('Shimmer.loadIndex', function () {
       global.fetch = origFetch;
       expect(err).toBeTruthy();
       expect(err.message).toContain('index fetch error');
+      done();
+    });
+  });
+});
+
+// Shimmer.loadIndex stories
+// ─────────────────────────────────────────────────────────────────────
+describe('Shimmer.loadIndex stories', function () {
+  beforeEach(function () {
+    resetShimmer();
+  });
+
+  it('loads the slim stories index and marks entries _slim', function (done) {
+    Shimmer.loadIndex('stories', function (err, data) {
+      expect(err).toBeNull();
+      expect(data).toHaveLength(storyIndex.length);
+      expect(data[0].slug).toBeTruthy();
+      expect(data[0]._slim).toBe(true);
+      expect(data[0].title).toBeTruthy();
+      done();
+    });
+  });
+
+  it('getIndex returns the cached stories index after load', function (done) {
+    expect(Shimmer.getIndex('stories')).toBeNull();
+    Shimmer.loadIndex('stories', function () {
+      expect(Shimmer.getIndex('stories')).toHaveLength(storyIndex.length);
       done();
     });
   });
