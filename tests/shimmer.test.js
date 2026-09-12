@@ -99,6 +99,12 @@ var creatureIndex = ['nordic', 'celtic', 'east-asian']
     };
   });
 fixtureMap['data/sharded/creatures/index.json'] = creatureIndex;
+fixtureMap['data/sharded/search-index.json'] = {
+  stories: [
+    { slug: 'three-billy-goats-gruff', title: 'Three Billy Goats Gruff', country: 'Norway', creatures: ['troll-norway'] },
+    { slug: 'the-draugr', title: 'The Draugr', country: 'Iceland', creatures: ['draugr'] }
+  ]
+};
 
 // ── fetch Mock ──
 function mockFetch(data) {
@@ -175,6 +181,7 @@ function resetShimmer() {
   Shimmer.shards = {};
   Shimmer.slugBatches = {};
   Shimmer.indexes = {};
+  Shimmer._searchIndexPromise = null;
   Shimmer._dbReady = false;
   Shimmer._db = null;
   Shimmer._dbQueue = [];
@@ -1327,5 +1334,30 @@ describe('Shimmer overlay coverage map', function () {
       expect(ov).not.toBeNull();
       delete Shimmer._overlayPromises['sv:creatures:Nordic'];
     });
+  });
+});
+
+describe('Shimmer.getSearchIndexStories', function () {
+  it('returns the stories array from the search index', async function () {
+    var stories = await Shimmer.getSearchIndexStories();
+    expect(stories.length).toBe(2);
+    expect(stories[0].slug).toBe('three-billy-goats-gruff');
+  });
+
+  it('memoizes: a second call reuses the fetched result without refetching', async function () {
+    var fetchSpy = jest.fn(global.fetch);
+    var orig = global.fetch;
+    global.fetch = fetchSpy;
+    try {
+      var first = await Shimmer.getSearchIndexStories();
+      var second = await Shimmer.getSearchIndexStories();
+      expect(second).toBe(first);
+      var hits = fetchSpy.mock.calls.filter(function (c) {
+        return c[0].indexOf('search-index.json') !== -1;
+      });
+      expect(hits.length).toBe(1);
+    } finally {
+      global.fetch = orig;
+    }
   });
 });

@@ -709,6 +709,20 @@
       }
     },
 
+    // Memoized fetch of the all-type search index (data/sharded/search-index.json)
+    getSearchIndexStories: function () {
+      if (this._searchIndexPromise) return this._searchIndexPromise
+      this._searchIndexPromise = fetch('data/sharded/search-index.json')
+        .then(function (res) {
+          if (!res.ok) throw new Error('search index fetch failed: ' + res.status)
+          return res.json()
+        })
+        .then(function (data) {
+          return data.stories || []
+        })
+      return this._searchIndexPromise
+    },
+
     getAllItems: function (type) {
       let result = []
       const shards = this.shards[type] || {}
