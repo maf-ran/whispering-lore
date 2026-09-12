@@ -50,7 +50,7 @@
   // Languages shipped with curated overlay content; routed to URL-only
   // native mode (?lang=xx) instead of the on-demand Gemini translation.
   // Keep in sync with shared-utils getNativeLangs().
-  var NATIVE_LANGS = ['sv', 'no']
+  var NATIVE_LANGS = ['sv', 'no', 'es']
 
   var comboApplier = null
   var reloadFn = function () { window.location.reload() }

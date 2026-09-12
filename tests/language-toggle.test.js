@@ -302,13 +302,18 @@ describe('languageToggle native mode switching', function () {
     expect(LT.readGoogtrans()).toBeNull();
   });
 
-  test('chooseNative routes sv and no (native langs exposed)', function () {
-    expect(LT.NATIVE_LANGS).toEqual(['sv', 'no']);
+  test('chooseNative routes sv, no, es (native langs exposed)', function () {
+    expect(LT.NATIVE_LANGS).toEqual(['sv', 'no', 'es']);
     window.history.replaceState({}, '', '/bestiary.html?creature=tomte');
     var navs = [];
     LT._setNavigatorForTests(function (url) { navs.push(url); });
     LT.chooseNative('no');
     expect(navs).toEqual(['/bestiary.html?creature=tomte&lang=no']);
+    expect(LT.readGoogtrans()).toBeNull();
+    var navs2 = [];
+    LT._setNavigatorForTests(function (url) { navs2.push(url); });
+    LT.chooseNative('es');
+    expect(navs2).toEqual(['/bestiary.html?creature=tomte&lang=es']);
     expect(LT.readGoogtrans()).toBeNull();
   });
 
@@ -329,12 +334,14 @@ describe('languageToggle native mode switching', function () {
     expect(navs).toEqual(['/bestiary.html?creature=tomte']);
   });
 
-  test('menu marks Svenska and Norsk with native dot when coverage flag set', function () {
+  test('menu marks Svenska, Norsk and Español with native dot when coverage flag set', function () {
     LT.NATIVE_COVERAGE_READY = true;
     document.getElementById('lang-toggle').click();
     var sv = document.querySelector('#language-menu [data-code="sv"]');
     var no = document.querySelector('#language-menu [data-code="no"]');
+    var es = document.querySelector('#language-menu [data-code="es"]');
     expect(sv.classList.contains('is-native')).toBe(true);
     expect(no.classList.contains('is-native')).toBe(true);
+    expect(es.classList.contains('is-native')).toBe(true);
   });
 });

@@ -19,24 +19,27 @@ describe('native lang helpers', function () {
     U = window.__sharedUtils;
   });
 
-  test('getNativeLang parses ?lang= only for sv/no', function () {
+  test('getNativeLang parses ?lang= only for sv/no/es', function () {
     window.history.replaceState({}, '', '/bestiary.html?lang=sv');
     expect(U.getNativeLang()).toBe('sv');
     window.history.replaceState({}, '', '/bestiary.html?lang=no');
     expect(U.getNativeLang()).toBe('no');
+    window.history.replaceState({}, '', '/bestiary.html?lang=es');
+    expect(U.getNativeLang()).toBe('es');
     window.history.replaceState({}, '', '/bestiary.html?lang=de');
-    expect(U.getNativeLang()).toBeNull(); // only sv/no ship natively
+    expect(U.getNativeLang()).toBeNull(); // only sv/no/es ship natively
     window.history.replaceState({}, '', '/bestiary.html?creature=tomte');
     expect(U.getNativeLang()).toBeNull();
   });
 
   test('getNativeLangs exposes the curated native whitelist', function () {
-    expect(U.getNativeLangs()).toEqual(['sv', 'no']);
+    expect(U.getNativeLangs()).toEqual(['sv', 'no', 'es']);
   });
 
   test('withLang appends/preserves/replaces lang param', function () {
     expect(U.withLang('/stories.html', 'sv')).toBe('/stories.html?lang=sv');
     expect(U.withLang('/stories.html', 'no')).toBe('/stories.html?lang=no');
+    expect(U.withLang('/stories.html', 'es')).toBe('/stories.html?lang=es');
     expect(U.withLang('/stories.html?story=x', 'sv')).toBe('/stories.html?story=x&lang=sv');
     expect(U.withLang('/stories.html?lang=sv&page=2', null)).toBe('/stories.html?page=2');
     expect(U.withLang('/stories.html?lang=de', 'sv')).toBe('/stories.html?lang=sv');

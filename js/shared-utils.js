@@ -736,7 +736,7 @@
     // ?lang= value falls through to the Google Translate flow.
     // Shared with language-toggle via getNativeLangs() — keep in sync.
     getNativeLangs: function () {
-      return ['sv', 'no']
+      return ['sv', 'no', 'es']
     },
 
     getNativeLang: function () {

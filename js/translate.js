@@ -344,7 +344,7 @@
       if (window.location.search.indexOf('lang=') !== -1) return
       var m = window.location.search.match(/[?&]gmlang=([A-Za-z-]+)/)
       var saved = m ? m[1] : localStorage.getItem('wl:active_gmlang')
-      if (saved && saved !== 'en' && saved !== 'sv' && saved !== 'no') {
+      if (saved && saved !== 'en' && saved !== 'sv' && saved !== 'no' && saved !== 'es') {
         enable(saved)
       }
     } catch (e) { /* storage unavailable */ }
