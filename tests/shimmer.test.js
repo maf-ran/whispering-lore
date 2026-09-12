@@ -1360,4 +1360,18 @@ describe('Shimmer.getSearchIndexStories', function () {
       global.fetch = orig;
     }
   });
+
+  it('retries after a failed fetch instead of caching the rejection', async function () {
+    var orig = global.fetch;
+    global.fetch = mockFetch404;
+    var firstErr;
+    try {
+      firstErr = await Shimmer.getSearchIndexStories().catch(function (e) { return e });
+      expect(firstErr && firstErr.message).toMatch(/search index fetch failed: 404/);
+    } finally {
+      global.fetch = orig;
+    }
+    var stories = await Shimmer.getSearchIndexStories();
+    expect(stories.length).toBeGreaterThan(0);
+  });
 });

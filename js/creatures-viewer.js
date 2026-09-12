@@ -717,22 +717,32 @@ class CreaturesViewer extends BaseViewer {
   async renderCreatureStories(slug, name) {
     const container = document.getElementById('creature-stories')
     if (!container) return
-    if (!window.__STORIES_DATA_READY) {
-      window.__STORIES_DATA_READY = new Promise(function (resolve) {
-        const sh = window.__sharedUtils && window.__sharedUtils.Shimmer
-        if (!sh) { window.__STORIES_DATA = []; resolve(); return }
-        sh.loadManifest()
-          .then(function () {
-            sh.loadAllShards('stories', function (err, data) {
-              window.__STORIES_DATA = err || !data ? [] : data
-              resolve()
-            })
-          })
-          .catch(function () { window.__STORIES_DATA = []; resolve() })
-      })
+    const sh = window.__sharedUtils && window.__sharedUtils.Shimmer
+    let stories = []
+    let fromIndex = false
+    if (sh && typeof sh.getSearchIndexStories === 'function') {
+      try {
+        stories = await sh.getSearchIndexStories()
+        fromIndex = true
+      } catch (e) { /* fall back to legacy shard load below */ }
     }
-    try { await window.__STORIES_DATA_READY } catch (e) { /* swallow */ }
-    const stories = window.__STORIES_DATA || []
+    if (!fromIndex) {
+      if (!window.__STORIES_DATA_READY) {
+        window.__STORIES_DATA_READY = new Promise(function (resolve) {
+          if (!sh) { window.__STORIES_DATA = []; resolve(); return }
+          sh.loadManifest()
+            .then(function () {
+              sh.loadAllShards('stories', function (err, data) {
+                window.__STORIES_DATA = err || !data ? [] : data
+                resolve()
+              })
+            })
+            .catch(function () { window.__STORIES_DATA = []; resolve() })
+        })
+      }
+      try { await window.__STORIES_DATA_READY } catch (e) { /* swallow */ }
+      stories = window.__STORIES_DATA || []
+    }
     if (!stories.length) {
       container.classList.add('is-hidden')
       return

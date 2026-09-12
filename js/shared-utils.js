@@ -712,6 +712,7 @@
     // Memoized fetch of the all-type search index (data/sharded/search-index.json)
     getSearchIndexStories: function () {
       if (this._searchIndexPromise) return this._searchIndexPromise
+      const self = this
       this._searchIndexPromise = fetch('data/sharded/search-index.json')
         .then(function (res) {
           if (!res.ok) throw new Error('search index fetch failed: ' + res.status)
@@ -719,6 +720,10 @@
         })
         .then(function (data) {
           return data.stories || []
+        })
+        .catch(function (err) {
+          self._searchIndexPromise = null
+          throw err
         })
       return this._searchIndexPromise
     },
