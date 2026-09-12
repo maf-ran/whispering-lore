@@ -25,6 +25,15 @@ describe('search index', () => {
     }
   })
 
+  test('story entries carry creatures refs matching masters', () => {
+    const bySlug = new Map(masters.stories.map((s) => [s.slug, s]))
+    for (const e of index.stories) {
+      const master = bySlug.get(e.slug)
+      expect(Array.isArray(e.creatures)).toBe(true)
+      expect(e.creatures).toEqual(master.creatures || [])
+    }
+  })
+
   test('every entry carries display name and excerpt', () => {
     for (const kind of ['creatures', 'stories', 'items']) {
       for (const e of index[kind]) {
