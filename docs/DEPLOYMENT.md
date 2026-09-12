@@ -115,3 +115,17 @@ On Netlify:
 - JS/CSS/SVG/JPG: `max-age=31536000, immutable` (fingerprinted by path)
 - `data/*`: `max-age=3600` (1 hour — shards change with deploys)
 - Catch-all `/*` → `404.html` for SPA-like 404 handling
+
+## Zip deploy (local pipeline)
+
+`archive/scripts/build-deploy.sh` builds `/tmp/whispering-lore-deploy.zip` for manual Netlify upload. It:
+
+1. Mirrors `git ls-files` into a stage dir, excluding dev-only paths (`tests/`, `docs/`, `archive/`, `skills/`, `marketing/`, `.github/`, `.opencode/`, `.claude/`, jest/eslint/playwright/babel configs, `package.json`).
+2. Runs `archive/scripts/seo-build.py` on the stage: prerenders crawlable `creature/{slug}/`, `story/{slug}/`, `item/{slug}/` pages (JSON-LD, canonical, meta) and writes the **full** `sitemap.xml` (all pages + every entity).
+3. Zips the stage.
+
+Notes:
+
+- `archive/` is gitignored — the generators are local tooling by design.
+- The committed `sitemap.xml` stays the short site-pages version; the deployed artifact carries the full generated sitemap (~6.5k URLs) so Git history stays clean. If you ever publish the repo directly (git-based deploy), the short sitemap ships instead — rebuild the full one with `seo-build.py` first.
+- Regenerate the search index after data changes: `python3 archive/scripts/build-search-index.py` (<9MB check and slug parity covered by `tests/search-index.test.js`).
