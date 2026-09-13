@@ -1,4 +1,4 @@
-const CACHE_NAME = 'whisperinglore-v1_0_29'
+const CACHE_NAME = 'whisperinglore-v1_0_30'
 
 const CORE_ASSETS = [
   '/',
@@ -74,9 +74,13 @@ self.addEventListener('activate', function (event) {
 
 function trimCache(cache) {
   cache.keys().then(function (keys) {
-    if (keys.length <= MAX_RUNTIME_CACHE) return
-    keys.slice(0, keys.length - MAX_RUNTIME_CACHE).forEach(function (key) {
-      cache.delete(key)
+    const coreSet = new Set(CORE_ASSETS.map(function (u) {
+      return new URL(u, self.location.origin).href
+    }))
+    const runtime = keys.filter(function (req) { return !coreSet.has(req.url) })
+    if (runtime.length <= MAX_RUNTIME_CACHE) return
+    runtime.slice(0, runtime.length - MAX_RUNTIME_CACHE).forEach(function (req) {
+      cache.delete(req)
     })
   }).catch(function () {})
 }
@@ -86,7 +90,6 @@ self.addEventListener('fetch', function (event) {
   if (request.method !== 'GET') return
   const url = new URL(request.url)
   if (url.origin !== location.origin) return
-  if (url.pathname.indexOf('/data/') === 0) return
   event.respondWith(
     caches.match(request).then(function (cached) {
       const fetchPromise = fetch(request).then(function (response) {
