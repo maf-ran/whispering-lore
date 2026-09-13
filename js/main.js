@@ -345,11 +345,44 @@
     }, { passive: true })
   }
 
+  /* ── Collapsible sidebar filters ── */
+  function initCollapsibleFilters() {
+    const sidebars = document.querySelectorAll('.bestiary-sidebar')
+    sidebars.forEach(function (sidebar) {
+      if (sidebar.querySelector('.filter-toggle-btn')) return
+      const wrapper = document.createElement('div')
+      wrapper.className = 'filter-collapse-wrapper'
+      while (sidebar.firstChild) {
+        wrapper.appendChild(sidebar.firstChild)
+      }
+      sidebar.appendChild(wrapper)
+
+      const isMobile = window.matchMedia('(max-width: 767px)').matches
+      if (isMobile) {
+        sidebar.classList.add('is-collapsed')
+      }
+
+      const btn = document.createElement('button')
+      btn.type = 'button'
+      btn.className = 'filter-toggle-btn'
+      btn.setAttribute('aria-expanded', isMobile ? 'false' : 'true')
+      btn.innerHTML = '<span>⚙️ FILTERS &amp; FACETS</span><svg class="chevron" viewBox="0 0 24 24"><path d="M6 9l6 6 6-6"/></svg>'
+      
+      btn.addEventListener('click', function () {
+        const collapsed = sidebar.classList.toggle('is-collapsed')
+        btn.setAttribute('aria-expanded', !collapsed)
+      })
+
+      sidebar.insertBefore(btn, wrapper)
+    })
+  }
+
   /* ── Init all ── */
   async function init() {
     initActiveNav()
     initSmoothScroll()
     initLinkPrefetch()
+    initCollapsibleFilters()
     if (
       document.querySelector('.hero') ||
       document.querySelector('.page-hero')
