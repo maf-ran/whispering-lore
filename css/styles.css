@@ -1610,6 +1610,38 @@ nav a.active::after {
   margin-top: 1rem;
 }
 
+.detail-source-list {
+  margin: 0;
+  padding-left: 1.125rem;
+  list-style: disc;
+}
+
+.detail-source-list li {
+  font-family: var(--font-body);
+  font-size: 0.85rem;
+  line-height: 1.75;
+  color: var(--text-secondary);
+  overflow-wrap: break-word;
+  word-break: break-word;
+}
+
+.detail-source-list li a {
+  color: var(--accent);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.detail-source-list li a:hover {
+  color: var(--accent-strong);
+}
+
+.detail-source-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 0.75rem;
+}
+
 .detail-fun p {
   font-style: italic;
 }
