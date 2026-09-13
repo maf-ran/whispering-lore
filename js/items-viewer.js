@@ -314,36 +314,17 @@ class ItemsViewer extends BaseViewer {
           typeBadge.textContent = item.type
         }
 
-        const sourceBadge = document.getElementById('detail-source-type-badge')
         const attrCard = document.getElementById('detail-attribution-card')
-        if (sourceBadge && item.source_type) {
-          const st = item.source_type
-          const stLabel = st.replace(/_/g, ' ').replace(/\b\w/g, function (l) {
-            return l.toUpperCase()
-          })
-          sourceBadge.innerHTML =
-            '<span class="source-type-badge source-type-badge--' +
-            window.__sharedUtils.escapeXml(st) +
-            '">' +
-            window.__sharedUtils.escapeXml(stLabel) +
-            '</span>'
-          if (attrCard) attrCard.classList.remove('is-hidden')
-        } else if (attrCard) {
-          attrCard.classList.add('is-hidden')
-        }
-
         const attrEl = document.getElementById('detail-attribution')
-        if (attrEl) {
-          if (item.source_type === 'oral_tradition') {
-            attrEl.textContent =
-              'This artifact belongs to the oral tradition of ' +
-              (item.country || 'its region') +
-              '. We honor the communities and storytellers who have preserved it across generations.'
-          } else if (item.source) {
-            attrEl.textContent = 'Source: ' + item.source
-          } else {
-            attrEl.textContent = ''
-          }
+        if (attrEl && item.source_type === 'oral_tradition') {
+          attrEl.textContent =
+            'This artifact belongs to the oral tradition of ' +
+            (item.country || 'its region') +
+            '. We honor the communities and storytellers who have preserved it across generations.'
+          if (attrCard) attrCard.classList.remove('is-hidden')
+        } else if (attrEl) {
+          attrEl.textContent = ''
+          if (attrCard) attrCard.classList.add('is-hidden')
         }
 
         const sourceSection = document.getElementById('detail-item-sources')

@@ -470,18 +470,23 @@ class CreaturesViewer extends BaseViewer {
         setText('detail-country', creature.country || 'Unknown')
         setText('detail-region', creature.region || 'Unknown')
 
+        const hasUsableSource = window.__sharedUtils.hasUsableSource(creature)
+
         const badgeEl = document.getElementById('detail-source-badge')
-        if (badgeEl && creature.source_quality) {
+        if (badgeEl && creature.source_quality && !hasUsableSource) {
           const sq = creature.source_quality
           const esq = window.__sharedUtils.escapeXml(sq)
           badgeEl.className = 'source-badge source-badge--' + esq
           badgeEl.textContent = sq.charAt(0).toUpperCase() + sq.slice(1)
+        } else if (badgeEl) {
+          badgeEl.className = ''
+          badgeEl.textContent = ''
         }
 
         const sourceTypeBadge = document.getElementById(
           'detail-source-type-badge'
         )
-        if (sourceTypeBadge && creature.source_type) {
+        if (sourceTypeBadge && creature.source_type && !hasUsableSource) {
           const st = creature.source_type
           const est = window.__sharedUtils.escapeXml(st)
           const stLabel = window.__sharedUtils.escapeXml(
@@ -492,6 +497,9 @@ class CreaturesViewer extends BaseViewer {
           sourceTypeBadge.className =
             'source-type-badge source-type-badge--' + est
           sourceTypeBadge.textContent = stLabel
+        } else if (sourceTypeBadge) {
+          sourceTypeBadge.className = ''
+          sourceTypeBadge.textContent = ''
         }
 
         const liveBadgeEl = document.getElementById('detail-live-badge')

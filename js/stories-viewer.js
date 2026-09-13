@@ -326,34 +326,16 @@ class StoriesViewer extends BaseViewer {
         setText('detail-period', story.period || 'Unknown')
 
         const attrCard = document.getElementById('detail-attribution-card')
-        const stBadge = document.getElementById('detail-source-type-badge')
-        if (stBadge && story.source_type) {
-          const st = story.source_type
-          const est = window.__sharedUtils.escapeXml(st)
-          const stLabel = window.__sharedUtils.escapeXml(
-            st.replace(/_/g, ' ').replace(/\b\w/g, function (l) {
-              return l.toUpperCase()
-            })
-          )
-          stBadge.innerHTML =
-            '<span class="source-type-badge source-type-badge--' +
-            est +
-            '">' +
-            stLabel +
-            '</span>'
-          if (attrCard) attrCard.classList.remove('is-hidden')
-        } else if (attrCard) {
-          attrCard.classList.add('is-hidden')
-        }
-
         const attrEl = document.getElementById('detail-attribution')
         if (attrEl && story.source_type === 'oral_tradition') {
           attrEl.textContent =
             'This story is part of the oral tradition of ' +
             (story.country || 'its region') +
             '. We honor the communities and storytellers who have preserved it across generations.'
+          if (attrCard) attrCard.classList.remove('is-hidden')
         } else if (attrEl) {
           attrEl.textContent = ''
+          if (attrCard) attrCard.classList.add('is-hidden')
         }
 
         const readingTimeEl = document.getElementById('detail-reading-time')

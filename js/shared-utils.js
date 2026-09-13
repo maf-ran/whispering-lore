@@ -750,6 +750,15 @@
     fetchJSON: fetchJSON,
     escapeXml: escapeXml,
 
+    hasUsableSource: function (entry) {
+      return !!(
+        entry &&
+        typeof entry.source === 'string' &&
+        entry.source !== '' &&
+        entry.source !== 'None — no independent source located'
+      )
+    },
+
     renderSources: function (sectionEl, entry) {
       if (!sectionEl) return
       var listEl = sectionEl.querySelector('.detail-source-list')
@@ -759,12 +768,7 @@
         if (listEl) listEl.innerHTML = ''
         if (badgesEl) badgesEl.innerHTML = ''
       }
-      if (
-        !entry ||
-        typeof entry.source !== 'string' ||
-        entry.source === '' ||
-        entry.source === 'None — no independent source located'
-      ) {
+      if (!window.__sharedUtils.hasUsableSource(entry)) {
         hide()
         return
       }
