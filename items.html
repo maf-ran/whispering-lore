@@ -346,61 +346,6 @@
   <script src="js/shared-utils.js"></script>
   <script src="js/citations.js"></script>
   <script src="js/main.js"></script>
-  <script>
-    // Preload only the creatures and stories referenced by artifacts for
-    // cross-referencing in the artifact detail view. Data-driven via Shimmer
-    // manifest: loads the item region shards, collects related creature/story
-    // slugs, groups by first letter, and loads only the needed by-slug shards.
-    (function() {
-      var sh = window.__sharedUtils && window.__sharedUtils.Shimmer
-      function loadBatch(type, letter) {
-        if (!sh) return Promise.resolve([])
-        return new Promise(function(resolve) {
-          sh.loadSlugBatch(type, letter, function(err, data) {
-            resolve(err || !data ? [] : data)
-          })
-        })
-      }
-      function loadRefs(type, slugs) {
-        var letters = {}
-        slugs.forEach(function(slug) {
-          var ch = slug.replace(/^(the|a|an)-/, '')[0] || '_'
-          letters[ch] = true
-        })
-        var keys = Object.keys(letters)
-        if (keys.length === 0) return Promise.resolve([])
-        return Promise.all(keys.map(function(ch) {
-          return loadBatch(type, ch)
-        })).then(function(batches) {
-          return batches.reduce(function(acc, arr) { return acc.concat(arr) }, [])
-        })
-      }
-      window.__WL_PRELOAD = new Promise(function(resolve) {
-        if (!sh) { resolve(); return }
-        sh.loadManifest()
-          .then(function() {
-            sh.loadAllShards('items', function(err, items) {
-              if (err || !items) { resolve(); return }
-              var creatureSlugs = []
-              var storySlugs = []
-              items.forEach(function(item) {
-                if (item.related_creatures) creatureSlugs = creatureSlugs.concat(item.related_creatures)
-                if (item.featured_in_stories) storySlugs = storySlugs.concat(item.featured_in_stories)
-              })
-              Promise.all([
-                loadRefs('creatures', creatureSlugs),
-                loadRefs('stories', storySlugs),
-              ]).then(function(results) {
-                window.__FULL_CREATURES = results[0]
-                window.__FULL_STORIES = results[1]
-                resolve()
-              })
-            })
-          })
-          .catch(function() { resolve() })
-      }).catch(function() {})
-    })();
-  </script>
   <script type="module" src="js/items-viewer.js"></script>
   <script src="js/rune-scatter.js" defer></script>
   <script>if('serviceWorker' in navigator){navigator.serviceWorker.register('/sw.js')}</script>

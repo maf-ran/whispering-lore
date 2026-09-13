@@ -20,11 +20,11 @@ class ItemsViewer extends BaseViewer {
 
     // Use Promise.race to ensure we don't hang forever
     await Promise.race([
-      new Promise((resolve) => sh.loadAllShards('items', resolve)),
+      new Promise((resolve) => sh.loadIndex('items', resolve)),
       new Promise((resolve) => setTimeout(resolve, 5000)),
     ])
 
-    this.cache = sh.getAllItems('items')
+    this.cache = sh.getIndex('items')
     window.__ITEMS = this.cache
   }
 
@@ -102,9 +102,6 @@ class ItemsViewer extends BaseViewer {
     this.readStateFromURL()
     this.syncFilterUI()
     this.applyFilters()
-    if (window.__WL_PRELOAD) {
-      await window.__WL_PRELOAD
-    }
     if (itemParam) this.showDetail(itemParam)
   }
 
@@ -349,78 +346,66 @@ class ItemsViewer extends BaseViewer {
           }
         }
 
-        const creaturesSection = document.getElementById(
-          'detail-creatures-section'
-        )
-        const creaturesGrid = document.getElementById('detail-creatures')
-        if (
-          creaturesSection &&
-          creaturesGrid &&
-          item.related_creatures &&
-          item.related_creatures.length > 0
-        ) {
-          const allC = window.__FULL_CREATURES || []
-          const resolved = item.related_creatures.filter((ref) =>
-            allC.some((c) => c.slug === ref)
-          )
-          if (resolved.length > 0) {
-            creaturesGrid.innerHTML = ''
-            resolved.forEach((ref) => {
-              const cr = allC.find((c) => c.slug === ref)
-              const link = document.createElement('a')
-              link.href =
-                window.__sharedUtils.withLang('bestiary.html?creature=' + encodeURIComponent(cr.slug))
-              link.className = 'detail-creature-link'
-              link.innerHTML =
-                '<span class="creature-link-name">' +
-                window.__sharedUtils.escapeXml(cr.name) +
-                '</span><span class="creature-link-type">' +
-                window.__sharedUtils.escapeXml(cr.type || '') +
-                '</span>'
-              creaturesGrid.appendChild(link)
-            })
-            creaturesSection.classList.remove('is-hidden')
-          } else {
-            creaturesSection.classList.add('is-hidden')
-          }
-        } else if (creaturesSection) {
-          creaturesSection.classList.add('is-hidden')
+        const makeRefLink = (kind, it, gridEl) => {
+          const link = document.createElement('a')
+          link.href =
+            window.__sharedUtils.withLang(
+              (kind === 'stories' ? 'stories.html?story=' : 'bestiary.html?creature=') +
+              encodeURIComponent(it.slug)
+            )
+          link.className = 'detail-creature-link'
+          link.innerHTML =
+            '<span class="creature-link-name">' +
+            window.__sharedUtils.escapeXml(kind === 'stories' ? it.title : it.name) +
+            '</span><span class="creature-link-type">' +
+            window.__sharedUtils.escapeXml(kind === 'stories' ? it.country : it.type || '') +
+            '</span>'
+          gridEl.appendChild(link)
         }
+
+        const renderRefs = (refs, section, gridEl, kind) => {
+          const shG = window.__sharedUtils && window.__sharedUtils.Shimmer
+          if (
+            !gridEl ||
+            !section ||
+            !refs ||
+            refs.length === 0 ||
+            !shG ||
+            !shG.manifest
+          ) {
+            if (section) section.classList.add('is-hidden')
+            return
+          }
+          Promise.all(
+            refs.map(
+              (ref) =>
+                new Promise((resolve) => {
+                  shG.getItem(kind, ref, (err, item) =>
+                    resolve(err || !item ? null : item)
+                  )
+                })
+            )
+          )
+            .then((items) => (items || []).filter(Boolean))
+            .then((resolved) => {
+              if (resolved.length > 0) {
+                gridEl.innerHTML = ''
+                resolved.forEach((it) => makeRefLink(kind, it, gridEl))
+                section.classList.remove('is-hidden')
+              } else {
+                section.classList.add('is-hidden')
+              }
+            })
+            .catch(() => section.classList.add('is-hidden'))
+        }
+
+        const creaturesSection = document.getElementById('detail-creatures-section')
+        const creaturesGrid = document.getElementById('detail-creatures')
+        renderRefs(item.related_creatures, creaturesSection, creaturesGrid, 'creatures')
 
         const storiesSection = document.getElementById('detail-stories-section')
         const storiesGrid = document.getElementById('detail-stories')
-        if (
-          storiesSection &&
-          storiesGrid &&
-          item.featured_in_stories &&
-          item.featured_in_stories.length > 0
-        ) {
-          const allS = window.__FULL_STORIES || []
-          const resolved = item.featured_in_stories.filter((ref) =>
-            allS.some((s) => s.slug === ref)
-          )
-          if (resolved.length > 0) {
-            storiesGrid.innerHTML = ''
-            resolved.forEach((ref) => {
-              const st = allS.find((s) => s.slug === ref)
-              const link = document.createElement('a')
-              link.href = window.__sharedUtils.withLang('stories.html?story=' + encodeURIComponent(st.slug))
-              link.className = 'detail-creature-link'
-              link.innerHTML =
-                '<span class="creature-link-name">' +
-                window.__sharedUtils.escapeXml(st.title) +
-                '</span><span class="creature-link-type">' +
-                window.__sharedUtils.escapeXml(st.country || '') +
-                '</span>'
-              storiesGrid.appendChild(link)
-            })
-            storiesSection.classList.remove('is-hidden')
-          } else {
-            storiesSection.classList.add('is-hidden')
-          }
-        } else if (storiesSection) {
-          storiesSection.classList.add('is-hidden')
-        }
+        renderRefs(item.featured_in_stories, storiesSection, storiesGrid, 'stories')
 
         const shareBtn = document.getElementById('detail-share')
         if (shareBtn) {
@@ -550,8 +535,16 @@ class ItemsViewer extends BaseViewer {
     if (cached) {
       const found = cached.find((i) => i.slug === slug)
       if (found) {
-        if (window.__WL_PRELOAD) {
-          await window.__WL_PRELOAD.catch(() => {})
+        if (found._slim) {
+          const shG = window.__sharedUtils && window.__sharedUtils.Shimmer
+          if (shG && shG.manifest) {
+            shG.getItem('items', slug, function (err, item) {
+              renderItem(err || !item ? found : item)
+            })
+          } else {
+            renderItem(found)
+          }
+          return
         }
         const shDec = window.__sharedUtils && window.__sharedUtils.Shimmer
         if (
