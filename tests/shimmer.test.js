@@ -115,6 +115,20 @@ var storyIndex = ['nordic', 'celtic']
     };
   });
 fixtureMap['data/sharded/stories/index.json'] = storyIndex;
+var itemsIndex = ['nordic', 'celtic', 'east-asian', 'west-european']
+  .reduce(function (acc, r) { return acc.concat(regionItems[r] || []); }, [])
+  .map(function (it) {
+    return {
+      slug: it.slug,
+      name: it.name,
+      type: it.type || '',
+      country: it.country || '',
+      region: it.region || '',
+      lastUpdated: it.lastUpdated || '',
+      description: it.description || ''
+    };
+  });
+fixtureMap['data/sharded/items/index.json'] = itemsIndex;
 fixtureMap['data/sharded/search-index.json'] = {
   stories: [
     { slug: 'three-billy-goats-gruff', title: 'Three Billy Goats Gruff', country: 'Norway', creatures: ['troll-norway'] },
@@ -508,6 +522,33 @@ describe('Shimmer.loadIndex stories', function () {
     expect(Shimmer.getIndex('stories')).toBeNull();
     Shimmer.loadIndex('stories', function () {
       expect(Shimmer.getIndex('stories')).toHaveLength(storyIndex.length);
+      done();
+    });
+  });
+});
+
+// Shimmer.loadIndex items
+// ─────────────────────────────────────────────────────────────────────
+describe('Shimmer.loadIndex items', function () {
+  beforeEach(function () {
+    resetShimmer();
+  });
+
+  it('loads the slim items index and marks entries _slim', function (done) {
+    Shimmer.loadIndex('items', function (err, data) {
+      expect(err).toBeNull();
+      expect(data).toHaveLength(itemsIndex.length);
+      expect(data[0].slug).toBeTruthy();
+      expect(data[0]._slim).toBe(true);
+      expect(data[0].name).toBeTruthy();
+      done();
+    });
+  });
+
+  it('getIndex returns the cached items index after load', function (done) {
+    expect(Shimmer.getIndex('items')).toBeNull();
+    Shimmer.loadIndex('items', function () {
+      expect(Shimmer.getIndex('items')).toHaveLength(itemsIndex.length);
       done();
     });
   });
