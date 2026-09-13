@@ -104,6 +104,7 @@
       'detail.in_tale': 'Creatures Within This Tale',
       'detail.bound': 'Creatures Bound to This Artifact',
       'detail.featured_tales': 'Tales Featuring This Artifact',
+      'detail.sources': 'Sources',
 
       'hero.bestiary': 'The Bestiary',
       'hero.bestiary_sub': 'An archive of mythical creatures, spirits, and beings from every corner of the world',
@@ -338,6 +339,7 @@
       'detail.in_tale': 'Criaturas de esta historia',
       'detail.bound': 'Criaturas vinculadas a este artefacto',
       'detail.featured_tales': 'Historias que incluyen este artefacto',
+      'detail.sources': 'Fuentes',
       'hero.bestiary': 'El Bestiario',
       'hero.bestiary_sub': 'Un archivo de criaturas míticas, espíritus y seres de todos los rincones del mundo',
       'hero.stories': 'Historias',
@@ -571,6 +573,7 @@
       'detail.in_tale': 'Varelser i denna saga',
       'detail.bound': 'Varelser knutna till denna artefakt',
       'detail.featured_tales': 'Sagor med denna artefakt',
+      'detail.sources': 'Källförteckning',
 
       'hero.bestiary': 'Bestariet',
       'hero.bestiary_sub': 'Ett arkiv av mytiska varelser, andar och väsen från världens alla hörn',
@@ -809,6 +812,7 @@
       'detail.in_tale': 'Vesener i denne fortellingen',
       'detail.bound': 'Vesener knyttet til denne gjenstanden',
       'detail.featured_tales': 'Fortellinger med denne gjenstanden',
+      'detail.sources': 'Kilder',
 
       'hero.bestiary': 'Bestiariet',
       'hero.bestiary_sub': 'Et arkiv over mytiske vesener, ånder og skapninger fra alle verdens hjørner',
