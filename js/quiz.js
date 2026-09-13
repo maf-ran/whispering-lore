@@ -85,12 +85,22 @@
     })
   }
 
+  let loadedPools = {}
+
   // ---------------------------------------------------------------------------
   // Load pool based on current settings
   const loadPool = async () => {
     const level = currentLevel
+    if (loadedPools[level]) {
+      applyFilters(loadedPools[level])
+      if (pool.length > 0 && pool.length < maxQuestions) maxQuestions = pool.length
+      return
+    }
+
     const index = await fetchJSON(`data/quiz-pool/level${level}/index.json`)
-    const promises = index.map((fn) =>
+    const shuffled = index.slice().sort(() => Math.random() - 0.5)
+    const batch = shuffled.slice(0, 60)
+    const promises = batch.map((fn) =>
       fetchJSON(`data/quiz-pool/level${level}/${fn}`)
         .then((q) => ({ ...q, __file: fn }))
         .catch(function () {
@@ -98,9 +108,8 @@
         })
     )
     const valid = (await Promise.all(promises)).filter(Boolean)
+    loadedPools[level] = valid
     applyFilters(valid)
-    // Cap requested count at pool size so the "Question N/M" header liar
-    // and final score both use the real denominator.
     if (pool.length > 0 && pool.length < maxQuestions) maxQuestions = pool.length
   }
 
