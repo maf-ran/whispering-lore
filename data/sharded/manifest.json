@@ -44,24 +44,24 @@
     }
   },
   "creatures": {
-    "total": 3668,
+    "total": 3700,
     "regions": {
       "North America": 941,
       "Nordic": 314,
       "West Africa": 223,
       "Southeast Asia": 214,
       "South America": 197,
-      "Pacific": 169,
+      "Pacific": 180,
       "Central Asia": 155,
       "Mesoamerica": 144,
       "East Africa": 141,
       "South Asia": 115,
       "Slavic": 111,
+      "Europe": 100,
       "Middle East and North Africa": 96,
       "Southern Africa": 95,
       "Caribbean": 93,
       "East Asia and Pacific": 90,
-      "Europe": 90,
       "Mediterranean": 89,
       "Germanic": 52,
       "North Africa": 52,
@@ -69,14 +69,15 @@
       "Africa": 43,
       "Celtic": 35,
       "Sami": 29,
+      "Asia": 28,
       "Balkan": 25,
-      "Asia": 22,
       "Baltic": 20,
       "Caucasus": 18,
       "Northern Europe": 14,
       "Norse": 13,
       "World": 9,
       "Americas": 5,
+      "Middle East": 5,
       "Arctic": 2,
       "Unknown": 2,
       "West Asia": 2,
@@ -219,6 +220,9 @@
       "Wales": 6,
       "South Sudan": 6,
       "Eritrea": 6,
+      "Isle of Man": 6,
+      "Korea": 6,
+      "Polynesia": 6,
       "Romania": 5,
       "Syria": 5,
       "Cook Islands": 5,
@@ -240,6 +244,8 @@
       "Cameroon": 5,
       "Rwanda": 5,
       "Bosnia and Herzegovina": 5,
+      "Micronesia": 5,
+      "Oman": 5,
       "Hungary": 4,
       "Tuvalu": 4,
       "Tajikistan": 4,
@@ -257,6 +263,7 @@
       "Moldova": 4,
       "Palestine": 4,
       "Afghanistan": 4,
+      "Shetland": 4,
       "Kuwait": 3,
       "Taiwan": 3,
       "Ecuador": 3,
@@ -341,35 +348,35 @@
       "Wabanaki": 1
     },
     "types": {
-      "Spirit": 789,
-      "Deity": 357,
+      "Spirit": 799,
+      "Deity": 362,
       "Nature-spirit": 196,
-      "Ghost": 179,
-      "Water-spirit": 176,
+      "Ghost": 180,
+      "Water-spirit": 177,
       "Trickster": 147,
       "Guardian": 141,
       "Animal-spirit": 127,
       "Giant": 123,
-      "Monster": 118,
+      "Monster": 119,
       "Demon": 107,
       "Ancestor-spirit": 99,
       "Serpent": 93,
-      "Shapeshifter": 78,
-      "Hero": 73,
+      "Shapeshifter": 79,
+      "Hero": 75,
       "Dragon": 60,
       "Human": 56,
       "Forest-spirit": 49,
       "Vampire": 48,
+      "Beast": 43,
       "Spirit-animal": 43,
-      "Beast": 41,
-      "Bird": 39,
+      "Bird": 40,
       "Goddess": 38,
-      "Fairy": 35,
+      "Fairy": 38,
       "Ogre": 31,
       "Household-spirit": 29,
       "Troll": 24,
+      "Cryptid": 22,
       "Werewolf": 22,
-      "Cryptid": 21,
       "Animal": 21,
       "Undead": 20,
       "Goblin": 17,
@@ -397,8 +404,10 @@
       "Siren": 6,
       "Mythical-bird": 6,
       "Mythical-tree": 3,
+      "Entity": 3,
       "Mythical-steed": 2,
-      "Mythical-dog": 1
+      "Mythical-dog": 1,
+      "Guardian-spirit": 1
     },
     "slugIndex": {
       "a": [
@@ -576,7 +585,9 @@
         "anyanwu",
         "alhkw-ntam-nuxalk",
         "andaokut-nuu-chah-nulth",
-        "alfvor"
+        "alfvor",
+        "anumwaresi",
+        "atea"
       ],
       "b": [
         "baba-djenka",
@@ -915,7 +926,9 @@
         "boqs-cannibal-giant-nuxalk",
         "bergr",
         "blue-heron-coast-salish",
-        "bear-people-tsimshian"
+        "bear-people-tsimshian",
+        "buggane",
+        "bahla-jinn"
       ],
       "c": [
         "the-chureca",
@@ -1594,7 +1607,12 @@
         "frost-giant-iceland",
         "flying-troll",
         "fish-hawk-tlingit",
-        "flying-african"
+        "flying-african",
+        "fenodyree",
+        "falaj-jinn",
+        "fire-mouthed-hyena-of-bahla",
+        "finfolk",
+        "fire-bird"
       ],
       "g": [
         "gadyucha",
@@ -1718,7 +1736,9 @@
         "giant-cat-iceland",
         "ganesha",
         "gewi",
-        "grizzly-bear-woman-nuxalk"
+        "grizzly-bear-woman-nuxalk",
+        "glashtyn",
+        "gwisin"
       ],
       "h": [
         "haetae-southkorea",
@@ -1886,7 +1906,8 @@
         "humans-denmark",
         "hel-goddess-denmark",
         "hamsa-bird",
-        "hounds-iceland"
+        "hounds-iceland",
+        "hina"
       ],
       "i": [
         "iara",
@@ -1989,7 +2010,8 @@
         "jinn-jerusalem",
         "jade-emperor",
         "jacky-my-lantern",
-        "j-tte"
+        "j-tte",
+        "jangseung"
       ],
       "k": [
         "kabouter-netherlands",
@@ -2178,7 +2200,8 @@
         "kushtaka-land-otter-man-tlingit",
         "kraken-iceland",
         "kolus-kwakwaka-wakw",
-        "khanyapa"
+        "khanyapa",
+        "korean-tiger"
       ],
       "l": [
         "la-cegua",
@@ -2622,7 +2645,11 @@
         "magic-book-denmark",
         "maha-sona",
         "the-mantis",
-        "magpie"
+        "magpie",
+        "moddey-dhoo",
+        "mooinjer-veggey",
+        "mahkontowe",
+        "moon-rabbit"
       ],
       "n": [
         "nag-drang",
@@ -2778,7 +2805,10 @@
         "norns-iceland",
         "nykur-iceland",
         "nightingale-denmark",
-        "new-year-spirit"
+        "new-year-spirit",
+        "nan-sapwe",
+        "nan-samohl",
+        "njuggle"
       ],
       "o": [
         "obariyon",
@@ -2873,7 +2903,8 @@
         "olgoi-khorkhoi",
         "okomfo-anokye",
         "octopus-nuu-chah-nulth",
-        "olorun"
+        "olorun",
+        "one-eyed-cave-jinn"
       ],
       "p": [
         "p-ban-or-phibaan",
@@ -3170,7 +3201,8 @@
         "raven-guguyni-nuu-chah-nulth",
         "rice-spirit",
         "raven-nang-kilslas-haida",
-        "raven-kwakwaka-wakw"
+        "raven-kwakwaka-wakw",
+        "rata"
       ],
       "s": [
         "saint-chart-or-saint-chartres",
@@ -3507,7 +3539,8 @@
         "salmon-chief-tsimshian",
         "swan-maiden",
         "selkies-iceland",
-        "sgaana-supernatural-killer-whale-haida"
+        "sgaana-supernatural-killer-whale-haida",
+        "samjoko"
       ],
       "t": [
         "tagaloa",
@@ -3721,7 +3754,11 @@
         "trolls-iceland",
         "teke-teke",
         "tseiqami-thunderbird-kwakwaka-wakw",
-        "talking-fish-iceland"
+        "talking-fish-iceland",
+        "tarroo-ushtey",
+        "trow",
+        "taaroa",
+        "tiitii"
       ],
       "u": [
         "uay-chivo",
@@ -3768,7 +3805,9 @@
         "underworld-god",
         "umvelinqangi",
         "uthixo",
-        "undead-army-iceland"
+        "undead-army-iceland",
+        "ubar-jinn",
+        "ungnyeo"
       ],
       "v": [
         "the-vao",
@@ -4021,7 +4060,8 @@
         "white-bear-denmark",
         "wakinyan-lakota",
         "well-spirit",
-        "wasgo-sea-wolf-haida"
+        "wasgo-sea-wolf-haida",
+        "wulver"
       ],
       "x": [
         "xan",
@@ -4084,7 +4124,8 @@
         "yule-lads-iceland",
         "yeil-raven-tlingit",
         "yulm-first-carpenter-nuxalk",
-        "yggdrasil"
+        "yggdrasil",
+        "yalafath"
       ],
       "z": [
         "zambur",
@@ -4251,6 +4292,7 @@
       "antelope-spirit-comanche",
       "anubis",
       "anulap-micronesian",
+      "anumwaresi",
       "anyanwu",
       "anzar",
       "anzar-rain-god",
@@ -4282,6 +4324,7 @@
       "atahsaia-zuni",
       "atai-ulan-buryat",
       "atargatis",
+      "atea",
       "atira-pawnee",
       "atum-egyptian",
       "au-co-vietnamese",
@@ -4347,6 +4390,7 @@
       "badgernaturespiritofblackfoot-canada",
       "badgernaturespiritofblackfoot-usa",
       "bahamut-arabic",
+      "bahla-jinn",
       "bahri-spirits-moroccan",
       "bai-ulgan",
       "bai-ze",
@@ -4597,6 +4641,7 @@
       "buffalo-people",
       "buffalo-spirit-lakota",
       "buffalo-woman",
+      "buggane",
       "bukavac",
       "bukha-noyon-buryat",
       "bukit-timah-monkey-man",
@@ -5215,6 +5260,7 @@
       "fairy-poland",
       "fairy-scotland",
       "fakse",
+      "falaj-jinn",
       "falak",
       "falcone",
       "fallow-doe-mongol",
@@ -5224,10 +5270,14 @@
       "farsakh",
       "fata",
       "fenghuang",
+      "fenodyree",
       "fenrir",
       "fetch",
+      "finfolk",
       "finnur-faroeislands",
+      "fire-bird",
       "fire-keeper",
+      "fire-mouthed-hyena-of-bahla",
       "firebird",
       "first-angry-coyote-navajo",
       "first-angry-navajo",
@@ -5368,6 +5418,7 @@
       "giltin",
       "gizo-hausa",
       "glaistig",
+      "glashtyn",
       "glooscap",
       "gloson",
       "gluskabe",
@@ -5424,6 +5475,7 @@
       "gurzil-war-god",
       "gutjion",
       "gwaxwgwakwalanuksiwe-kwakwaka-wakw",
+      "gwisin",
       "gwyllion",
       "gyeong",
       "gygrid",
@@ -5543,6 +5595,7 @@
       "hiisi",
       "hiisi-portti-hiisi-s-gate",
       "hikule-o",
+      "hina",
       "hine-nui-te-po-maori",
       "hine-titama-maori",
       "hinn",
@@ -5666,6 +5719,7 @@
       "jaetter-denmark",
       "jaka-tarub-indonesian",
       "jambavan-hindu",
+      "jangseung",
       "jann",
       "jarjacha",
       "jatte",
@@ -5817,6 +5871,7 @@
       "komokwa-haida",
       "komokwa-kwakwaka-wakw",
       "kongamato",
+      "korean-tiger",
       "koreisha-geongumi",
       "korkut-ata-kazakh",
       "korkyt",
@@ -6066,6 +6121,7 @@
       "mahaha-greenland",
       "mahapbi-or-mae-phra-borneo",
       "maheoo-cheyenne",
+      "mahkontowe",
       "mahogany-tree",
       "maiden-of-the-rainbow-finland",
       "maka-lakota",
@@ -6203,6 +6259,7 @@
       "mo-n",
       "mo-o",
       "mocko-jumbie-stkitts",
+      "moddey-dhoo",
       "modimo-tswana",
       "mokele-mbembe",
       "mokelembembe-centralafricanrepublic",
@@ -6214,8 +6271,10 @@
       "mong",
       "monster-slayer",
       "monster-slayer-navajo",
+      "mooinjer-veggey",
       "moon-apache",
       "moon-navajo",
+      "moon-rabbit",
       "moon-spirit",
       "moon-woman-haida",
       "moongodguarani-mexico",
@@ -6347,6 +6406,8 @@
       "nalusa-falaya-choctaw",
       "namdalsdraugen",
       "namorroddo",
+      "nan-samohl",
+      "nan-sapwe",
       "nana-buluku",
       "nanabolele-lesotho",
       "nanabozho",
@@ -6424,6 +6485,7 @@
       "nix-germany",
       "nix-switzerland",
       "nixe",
+      "njuggle",
       "nkadi-kongo",
       "nkk-estonia",
       "nkk-norway",
@@ -6510,6 +6572,7 @@
       "olorun",
       "onatah-corn-spirit",
       "ond",
+      "one-eyed-cave-jinn",
       "one-who-walks-all-over-the-sky-tsimshian",
       "ongon-spirit-altai",
       "oni",
@@ -6763,6 +6826,7 @@
       "rannamaari-maldivian",
       "ranta",
       "rar-g",
+      "rata",
       "ratcatcher-of-hamelin",
       "ratovantany-malagasy",
       "ratu-mai-mbula-fijian",
@@ -6899,6 +6963,7 @@
       "saltigue",
       "salu-ah",
       "saman-deviyo-sri-lankan",
+      "samjoko",
       "samo-or-samovila",
       "samodiva",
       "sampo",
@@ -7194,6 +7259,7 @@
       "t-qul-tca-coast-salish",
       "t-whaki",
       "t-y",
+      "taaroa",
       "tabudo",
       "tagaloa",
       "tagaro-vanuatu",
@@ -7222,6 +7288,7 @@
       "tantal-kuwait",
       "taotaomo-na",
       "tar-baby",
+      "tarroo-ushtey",
       "tataduende-belize",
       "tataduende-guatemala",
       "tatzelwurm-austria",
@@ -7285,6 +7352,7 @@
       "tifon",
       "tigilau-samoan",
       "tihtipihin-nuu-chah-nulth",
+      "tiitii",
       "tik-tik-or-wakwak",
       "tikbalang-tigbalang",
       "tikoloshe-or-tokoloshe",
@@ -7346,6 +7414,7 @@
       "trollkona-sweden",
       "trollkvinna",
       "trolls-iceland",
+      "trow",
       "trung-sisters-vietnamese",
       "ts-uu-jaas-cedar-woman-haida",
       "ts-uu-jaas-haida",
@@ -7408,6 +7477,7 @@
       "tzitzimimeh",
       "uab",
       "uay-chivo",
+      "ubar-jinn",
       "uchtsiti-pueblo",
       "uganda-forest-phantom",
       "uganda-kintu",
@@ -7439,6 +7509,7 @@
       "undersea-chief-haida",
       "underworld-god",
       "undine",
+      "ungnyeo",
       "unhcegila-lakota",
       "unktehi",
       "unkulunkulu-zulu",
@@ -7698,6 +7769,7 @@
       "wolfwaterspiritofblackfoot-usa",
       "woman-of-the-sea",
       "wooden-person",
+      "wulver",
       "wuriupranili-aboriginal",
       "x-c",
       "xan",
@@ -7720,6 +7792,7 @@
       "yagwanggwi",
       "yaksha",
       "yakshini",
+      "yalafath",
       "yali",
       "yam-nahar",
       "yamawaro",
