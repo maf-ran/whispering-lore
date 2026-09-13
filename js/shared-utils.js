@@ -750,6 +750,80 @@
     fetchJSON: fetchJSON,
     escapeXml: escapeXml,
 
+    renderSources: function (sectionEl, entry) {
+      if (!sectionEl) return
+      var listEl = sectionEl.querySelector('.detail-source-list')
+      var badgesEl = sectionEl.querySelector('.detail-source-badges')
+      var hide = function () {
+        sectionEl.classList.add('is-hidden')
+        if (listEl) listEl.innerHTML = ''
+        if (badgesEl) badgesEl.innerHTML = ''
+      }
+      if (
+        !entry ||
+        typeof entry.source !== 'string' ||
+        entry.source === '' ||
+        entry.source === 'None — no independent source located'
+      ) {
+        hide()
+        return
+      }
+      var refs = entry.source
+        .split(';')
+        .map(function (s) { return s.trim() })
+        .filter(Boolean)
+      if (refs.length === 0) {
+        hide()
+        return
+      }
+      listEl.innerHTML = ''
+      refs.forEach(function (ref) {
+        var li = document.createElement('li')
+        var urlMatch = ref.match(/https?:\/\/[^\s]+/)
+        if (urlMatch) {
+          var pre = document.createTextNode(ref.slice(0, urlMatch.index))
+          var a = document.createElement('a')
+          a.href = urlMatch[0]
+          a.target = '_blank'
+          a.rel = 'noopener noreferrer'
+          a.textContent = urlMatch[0]
+          var post = document.createTextNode(ref.slice(urlMatch.index + urlMatch[0].length))
+          li.appendChild(pre)
+          li.appendChild(a)
+          li.appendChild(post)
+        } else {
+          li.textContent = ref
+        }
+        listEl.appendChild(li)
+      })
+      badgesEl.innerHTML = ''
+      if (entry.source_type) {
+        var st = entry.source_type
+        badgesEl.appendChild(
+          (function () {
+            var b = document.createElement('span')
+            b.className = 'source-type-badge source-type-badge--' + escapeXml(st)
+            b.textContent = st
+              .replace(/_/g, ' ')
+              .replace(/\b\w/g, function (l) { return l.toUpperCase() })
+            return b
+          })()
+        )
+      }
+      if (entry.source_quality) {
+        badgesEl.appendChild(
+          (function () {
+            var b = document.createElement('span')
+            b.className = 'source-badge source-badge--' + escapeXml(entry.source_quality)
+            b.textContent =
+              entry.source_quality.charAt(0).toUpperCase() + entry.source_quality.slice(1)
+            return b
+          })()
+        )
+      }
+      sectionEl.classList.remove('is-hidden')
+    },
+
     // ── Native language state (Phase 2: ?lang=sv, ?lang=no) ──
     // Only languages with curated overlay content ship natively; any other
     // ?lang= value falls through to the Google Translate flow.
