@@ -611,17 +611,24 @@ class StoriesViewer extends BaseViewer {
   }
 
   async renderDetailCreatures(story, section, grid) {
-    if (window.__FULL_CREATURES_READY) {
-      try { await window.__FULL_CREATURES_READY } catch (e) { /* swallow */ }
+    const shG = window.__sharedUtils && window.__sharedUtils.Shimmer
+    if (!shG || !story.creatures || story.creatures.length === 0) {
+      section.classList.add('is-hidden')
+      return
     }
-    const allC = window.__FULL_CREATURES || []
-    const resolved = story.creatures.filter((ref) =>
-      allC.some((c) => c.slug === ref)
-    )
+    const resolved = (await Promise.all(
+      story.creatures.map(
+        (ref) =>
+          new Promise((resolve) => {
+            shG.getItem('creatures', ref, function (err, cr) {
+              resolve(err || !cr ? null : cr)
+            })
+          })
+      )
+    )).filter(Boolean)
     if (resolved.length > 0) {
       grid.innerHTML = ''
-      resolved.forEach((ref) => {
-        const cr = allC.find((c) => c.slug === ref)
+      resolved.forEach((cr) => {
         const link = document.createElement('a')
         link.href =
           window.__sharedUtils.withLang('bestiary.html?creature=' + encodeURIComponent(cr.slug))
