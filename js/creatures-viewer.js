@@ -526,6 +526,11 @@ class CreaturesViewer extends BaseViewer {
         )
         setText('detail-funfact', creature.fun_fact || '')
 
+        const sourceSection = document.getElementById('detail-creature-sources')
+        if (sourceSection && window.__sharedUtils && window.__sharedUtils.renderSources) {
+          window.__sharedUtils.renderSources(sourceSection, creature)
+        }
+
         this.renderRelatedCreatures(
           creature.slug,
           creature.type,
