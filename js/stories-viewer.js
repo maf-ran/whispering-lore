@@ -368,6 +368,11 @@ class StoriesViewer extends BaseViewer {
           updatedEl.textContent = story.lastUpdated || 'Unknown'
         }
 
+        const sourceSection = document.getElementById('detail-story-sources')
+        if (sourceSection && window.__sharedUtils && window.__sharedUtils.renderSources) {
+          window.__sharedUtils.renderSources(sourceSection, story)
+        }
+
         const fullTextEl = document.getElementById('detail-fulltext')
         if (fullTextEl) {
           if (story.full_text) {
