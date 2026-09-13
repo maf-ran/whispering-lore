@@ -328,10 +328,28 @@
     })
   }
 
+  /* ── Prefetch links on hover/touch ── */
+  function initLinkPrefetch() {
+    const prefetched = new Set()
+    document.addEventListener('mouseover', function (e) {
+      const a = e.target.closest('a')
+      if (!a) return
+      const href = a.getAttribute('href')
+      if (!href || href.startsWith('#') || href.startsWith('http') || href.startsWith('mailto')) return
+      if (prefetched.has(href)) return
+      prefetched.add(href)
+      const link = document.createElement('link')
+      link.rel = 'prefetch'
+      link.href = href
+      document.head.appendChild(link)
+    }, { passive: true })
+  }
+
   /* ── Init all ── */
   async function init() {
     initActiveNav()
     initSmoothScroll()
+    initLinkPrefetch()
     if (
       document.querySelector('.hero') ||
       document.querySelector('.page-hero')

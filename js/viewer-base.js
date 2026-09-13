@@ -124,10 +124,8 @@ export class BaseViewer {
     })
 
     if (loadMoreBtn) {
-      loadMoreBtn.classList.toggle(
-        'is-hidden',
-        this.state.filteredData.length <= this.state.page * this.perPage
-      )
+      const hasMore = this.state.filteredData.length > this.state.page * this.perPage
+      loadMoreBtn.classList.toggle('is-hidden', !hasMore)
       const self = this
       if (!loadMoreBtn._listener) {
         loadMoreBtn.addEventListener('click', function () {
@@ -135,6 +133,22 @@ export class BaseViewer {
           self.renderGrid(true, self.cardRenderer)
         })
         loadMoreBtn._listener = true
+      }
+
+      // Auto infinite scroll observer
+      if (hasMore && 'IntersectionObserver' in window && !loadMoreBtn._observer) {
+        loadMoreBtn._observer = new IntersectionObserver(function (entries) {
+          entries.forEach(function (entry) {
+            if (entry.isIntersecting && !loadMoreBtn.classList.contains('is-hidden')) {
+              self.state.page++
+              self.renderGrid(true, self.cardRenderer)
+            }
+          })
+        }, { rootMargin: '200px' })
+        loadMoreBtn._observer.observe(loadMoreBtn)
+      } else if (!hasMore && loadMoreBtn._observer) {
+        loadMoreBtn._observer.disconnect()
+        loadMoreBtn._observer = null
       }
     }
   }
