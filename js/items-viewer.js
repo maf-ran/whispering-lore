@@ -346,6 +346,11 @@ class ItemsViewer extends BaseViewer {
           }
         }
 
+        const sourceSection = document.getElementById('detail-item-sources')
+        if (sourceSection && window.__sharedUtils && window.__sharedUtils.renderSources) {
+          window.__sharedUtils.renderSources(sourceSection, item)
+        }
+
         const makeRefLink = (kind, it, gridEl) => {
           const link = document.createElement('a')
           link.href =
