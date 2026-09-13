@@ -1208,10 +1208,86 @@ nav a.active::after {
   z-index: 5;
 }
 
+/* ── Detail Sources Section ── */
+.detail-sources {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-left: 3px solid var(--accent-strong);
+  padding: 1.5rem;
+  margin-top: 1.5rem;
+  font-family: var(--font-body);
+}
+.detail-sources h2 {
+  font-family: var(--font-display);
+  font-size: 0.85rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--text-primary);
+  margin-bottom: 0.75rem;
+}
+.detail-sources .detail-source-list {
+  margin: 0 0 1rem 1.25rem;
+  color: var(--text-secondary);
+  font-size: 0.9rem;
+  line-height: 1.6;
+}
+.detail-sources .detail-source-list li {
+  margin-bottom: 0.35rem;
+}
+.detail-sources .detail-source-badges {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+[data-theme="light"] .btn-ghost {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+[data-theme="light"] .btn-ghost:hover {
+  background: var(--accent);
+  color: #FFFFFF;
+}
+
 .bestiary-sidebar {
   display: flex;
   flex-direction: column;
   gap: 1.5rem;
+}
+
+/* ── Collapsible Sidebar Filters (Desktop & Mobile) ── */
+.filter-toggle-btn {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  color: var(--text-primary);
+  padding: 0.75rem 1rem;
+  font-family: var(--font-display);
+  font-size: 0.85rem;
+  letter-spacing: 0.08em;
+  cursor: pointer;
+  margin-bottom: 0.5rem;
+  transition: border-color var(--transition), background var(--transition);
+}
+.filter-toggle-btn:hover {
+  border-color: var(--accent);
+}
+.filter-toggle-btn .chevron {
+  width: 14px;
+  height: 14px;
+  transition: transform var(--transition);
+  stroke: currentColor;
+  stroke-width: 2;
+  fill: none;
+}
+.bestiary-sidebar.is-collapsed .filter-collapse-wrapper {
+  display: none;
+}
+.bestiary-sidebar.is-collapsed .chevron {
+  transform: rotate(-90deg);
 }
 
 .sidebar-controls {
