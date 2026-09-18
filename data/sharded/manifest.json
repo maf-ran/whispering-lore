@@ -44,12 +44,12 @@
     }
   },
   "creatures": {
-    "total": 3710,
+    "total": 3711,
     "regions": {
       "North America": 941,
       "Nordic": 315,
       "West Africa": 224,
-      "Southeast Asia": 214,
+      "Southeast Asia": 215,
       "South America": 198,
       "Pacific": 180,
       "Central Asia": 156,
@@ -112,8 +112,8 @@
       "Finland": 33,
       "New Zealand": 30,
       "Germany": 29,
+      "Philippines": 28,
       "Myanmar": 28,
-      "Philippines": 27,
       "Kazakhstan": 27,
       "Indonesia": 27,
       "Thailand": 27,
@@ -366,7 +366,7 @@
       "Serpent": 93,
       "Shapeshifter": 81,
       "Hero": 75,
-      "Dragon": 61,
+      "Dragon": 62,
       "Human": 56,
       "Forest-spirit": 49,
       "Vampire": 48,
@@ -933,7 +933,8 @@
         "bear-people-tsimshian",
         "buggane",
         "bahla-jinn",
-        "buda-eritrea"
+        "buda-eritrea",
+        "bakunawa-philippines"
       ],
       "c": [
         "the-chureca",
@@ -4418,6 +4419,7 @@
       "baktan",
       "baku",
       "bakunawa-filipino",
+      "bakunawa-philippines",
       "bakwa",
       "bakwas",
       "bama-dat",
