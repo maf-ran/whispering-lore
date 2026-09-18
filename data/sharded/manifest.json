@@ -44,7 +44,7 @@
     }
   },
   "creatures": {
-    "total": 3702,
+    "total": 3703,
     "regions": {
       "North America": 941,
       "Nordic": 314,
@@ -54,7 +54,7 @@
       "Pacific": 180,
       "Central Asia": 155,
       "Mesoamerica": 144,
-      "East Africa": 141,
+      "East Africa": 142,
       "South Asia": 115,
       "Slavic": 111,
       "Europe": 100,
@@ -196,6 +196,7 @@
       "Seychelles": 7,
       "Netherlands": 7,
       "Barbados": 7,
+      "Eritrea": 7,
       "United Kingdom": 7,
       "Belize": 6,
       "Austria": 6,
@@ -220,7 +221,6 @@
       "Turkey": 6,
       "Wales": 6,
       "South Sudan": 6,
-      "Eritrea": 6,
       "Isle of Man": 6,
       "Korea": 6,
       "Polynesia": 6,
@@ -361,7 +361,7 @@
       "Demon": 107,
       "Ancestor-spirit": 99,
       "Serpent": 93,
-      "Shapeshifter": 79,
+      "Shapeshifter": 80,
       "Hero": 75,
       "Dragon": 61,
       "Human": 56,
@@ -928,7 +928,8 @@
         "blue-heron-coast-salish",
         "bear-people-tsimshian",
         "buggane",
-        "bahla-jinn"
+        "bahla-jinn",
+        "buda-eritrea"
       ],
       "c": [
         "the-chureca",
@@ -4638,6 +4639,7 @@
       "bu-draya",
       "bucca-cornwall",
       "buda",
+      "buda-eritrea",
       "buda-eritrea",
       "buda-ethiopia",
       "buffalo-people",
