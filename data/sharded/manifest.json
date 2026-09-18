@@ -44,11 +44,11 @@
     }
   },
   "creatures": {
-    "total": 3700,
+    "total": 3701,
     "regions": {
       "North America": 941,
       "Nordic": 314,
-      "West Africa": 223,
+      "West Africa": 224,
       "Southeast Asia": 214,
       "South America": 197,
       "Pacific": 180,
@@ -208,6 +208,7 @@
       "Togo": 6,
       "Morocco": 6,
       "Bahrain": 6,
+      "Cape Verde": 6,
       "Azerbaijan": 6,
       "Saint Lucia": 6,
       "Czech Republic": 6,
@@ -231,7 +232,6 @@
       "Armenia": 5,
       "Jordan": 5,
       "Angola": 5,
-      "Cape Verde": 5,
       "United Arab Emirates": 5,
       "Saint Kitts and Nevis": 5,
       "Venezuela": 5,
@@ -352,7 +352,7 @@
       "Deity": 362,
       "Nature-spirit": 196,
       "Ghost": 180,
-      "Water-spirit": 177,
+      "Water-spirit": 178,
       "Trickster": 147,
       "Guardian": 141,
       "Animal-spirit": 127,
@@ -3066,7 +3066,8 @@
         "phaya-nak",
         "pichal-peri",
         "plague-spirits",
-        "porcupine-tsimshian"
+        "porcupine-tsimshian",
+        "peixe-caball-cape-verde"
       ],
       "q": [
         "qalupalik-inuit",
@@ -6681,6 +6682,7 @@
       "peacemaker",
       "peikko",
       "peixe-caball",
+      "peixe-caball-cape-verde",
       "pekapeka",
       "pele-hawaii",
       "pele-usa",
