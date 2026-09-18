@@ -44,7 +44,7 @@
     }
   },
   "creatures": {
-    "total": 3705,
+    "total": 3707,
     "regions": {
       "North America": 941,
       "Nordic": 314,
@@ -52,7 +52,7 @@
       "Southeast Asia": 214,
       "South America": 197,
       "Pacific": 180,
-      "Central Asia": 155,
+      "Central Asia": 156,
       "Mesoamerica": 144,
       "East Africa": 142,
       "South Asia": 115,
@@ -60,7 +60,7 @@
       "Europe": 100,
       "Middle East and North Africa": 96,
       "Southern Africa": 95,
-      "Caribbean": 93,
+      "Caribbean": 94,
       "East Asia and Pacific": 90,
       "Mediterranean": 89,
       "Germanic": 52,
@@ -113,9 +113,9 @@
       "Germany": 29,
       "Myanmar": 28,
       "Philippines": 27,
+      "Kazakhstan": 27,
       "Indonesia": 27,
       "Thailand": 27,
-      "Kazakhstan": 26,
       "Australia": 26,
       "Peru": 26,
       "Egypt": 25,
@@ -195,6 +195,7 @@
       "Bangladesh": 7,
       "Estonia": 7,
       "Portugal": 7,
+      "Dominica": 7,
       "Seychelles": 7,
       "Netherlands": 7,
       "Barbados": 7,
@@ -215,7 +216,6 @@
       "Azerbaijan": 6,
       "Saint Lucia": 6,
       "Czech Republic": 6,
-      "Dominica": 6,
       "Grenada": 6,
       "East Timor": 6,
       "Argentina": 6,
@@ -352,7 +352,7 @@
     "types": {
       "Spirit": 799,
       "Deity": 362,
-      "Nature-spirit": 197,
+      "Nature-spirit": 198,
       "Ghost": 180,
       "Water-spirit": 179,
       "Trickster": 147,
@@ -363,7 +363,7 @@
       "Demon": 107,
       "Ancestor-spirit": 99,
       "Serpent": 93,
-      "Shapeshifter": 80,
+      "Shapeshifter": 81,
       "Hero": 75,
       "Dragon": 61,
       "Human": 56,
@@ -589,7 +589,8 @@
         "andaokut-nuu-chah-nulth",
         "alfvor",
         "anumwaresi",
-        "atea"
+        "atea",
+        "albasty-kazakhstan"
       ],
       "b": [
         "baba-djenka",
@@ -3546,7 +3547,8 @@
         "swan-maiden",
         "selkies-iceland",
         "sgaana-supernatural-killer-whale-haida",
-        "samjoko"
+        "samjoko",
+        "soucouyant-dominica"
       ],
       "t": [
         "tagaloa",
@@ -4240,6 +4242,7 @@
       "al-ruhban",
       "ala",
       "ala-igbo",
+      "albasty-kazakhstan",
       "aldar-qose-kazakh",
       "alfvor",
       "alhkw-ntam-creator-nuxalk",
@@ -7175,6 +7178,7 @@
       "sotuknang-hopi",
       "soucouyant-antiguaandbarbuda",
       "soucouyant-barbados",
+      "soucouyant-dominica",
       "soucouyant-dominica",
       "soucouyant-saintlucia",
       "soucouyant-saintvincentandthegrenadines",
