@@ -44,7 +44,7 @@
     }
   },
   "creatures": {
-    "total": 3712,
+    "total": 3713,
     "regions": {
       "North America": 941,
       "Nordic": 315,
@@ -81,8 +81,8 @@
       "Arctic": 2,
       "Unknown": 2,
       "West Asia": 2,
+      "East Asia": 2,
       "Oceania": 1,
-      "East Asia": 1,
       "Polynesia": 1,
       "Micronesia": 1,
       "Melanesia": 1
@@ -98,7 +98,7 @@
       "Denmark": 68,
       "Nigeria": 58,
       "India": 51,
-      "Japan": 49,
+      "Japan": 50,
       "Mali": 48,
       "Chile": 42,
       "Kenya": 42,
@@ -387,9 +387,9 @@
       "Sea-monster": 17,
       "Jinn": 17,
       "Culture-hero": 17,
+      "Humanoid": 16,
       "Elf": 16,
       "Dwarf": 15,
-      "Humanoid": 15,
       "Witch": 15,
       "Mermaid": 14,
       "Demigod": 13,
@@ -2210,7 +2210,8 @@
         "kraken-iceland",
         "kolus-kwakwaka-wakw",
         "khanyapa",
-        "korean-tiger"
+        "korean-tiger",
+        "koropokkuru-japan"
       ],
       "l": [
         "la-cegua",
@@ -5896,6 +5897,7 @@
       "koreisha-geongumi",
       "korkut-ata-kazakh",
       "korkyt",
+      "koropokkuru-japan",
       "korp",
       "kosen",
       "kosenj-bi",
