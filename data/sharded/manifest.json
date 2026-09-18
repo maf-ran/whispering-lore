@@ -44,7 +44,7 @@
     }
   },
   "creatures": {
-    "total": 3707,
+    "total": 3708,
     "regions": {
       "North America": 941,
       "Nordic": 314,
@@ -84,7 +84,8 @@
       "Oceania": 1,
       "East Asia": 1,
       "Polynesia": 1,
-      "Micronesia": 1
+      "Micronesia": 1,
+      "Melanesia": 1
     },
     "countries": {
       "United States": 674,
@@ -150,6 +151,7 @@
       "Serbia": 13,
       "Burkina Faso": 12,
       "Fiji": 12,
+      "Papua New Guinea": 12,
       "Algeria": 12,
       "Uganda": 12,
       "Bulgaria": 12,
@@ -157,7 +159,6 @@
       "Iran": 12,
       "South Korea": 12,
       "Iraq": 11,
-      "Papua New Guinea": 11,
       "Italy": 11,
       "Puerto Rico": 11,
       "Albania": 11,
@@ -352,7 +353,7 @@
     "types": {
       "Spirit": 799,
       "Deity": 362,
-      "Nature-spirit": 198,
+      "Nature-spirit": 199,
       "Ghost": 180,
       "Water-spirit": 179,
       "Trickster": 147,
@@ -2655,7 +2656,8 @@
         "mooinjer-veggey",
         "mahkontowe",
         "moon-rabbit",
-        "mokele-mbembe-central-african-republic"
+        "mokele-mbembe-central-african-republic",
+        "masalai-papua-new-guinea"
       ],
       "n": [
         "nag-drang",
@@ -6193,6 +6195,7 @@
       "marm-le",
       "marmennil-faroeislands",
       "marraco",
+      "masalai-papua-new-guinea",
       "masalai-papua-new-guinea",
       "masauwu-hopi",
       "masca",
