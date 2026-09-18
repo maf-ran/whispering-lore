@@ -44,7 +44,7 @@
     }
   },
   "creatures": {
-    "total": 3703,
+    "total": 3705,
     "regions": {
       "North America": 941,
       "Nordic": 314,
@@ -82,7 +82,9 @@
       "Unknown": 2,
       "West Asia": 2,
       "Oceania": 1,
-      "East Asia": 1
+      "East Asia": 1,
+      "Polynesia": 1,
+      "Micronesia": 1
     },
     "countries": {
       "United States": 674,
@@ -229,6 +231,7 @@
       "Cook Islands": 5,
       "Tibet": 5,
       "Mauritania": 5,
+      "Tuvalu": 5,
       "Armenia": 5,
       "Jordan": 5,
       "Angola": 5,
@@ -247,7 +250,6 @@
       "Micronesia": 5,
       "Oman": 5,
       "Hungary": 4,
-      "Tuvalu": 4,
       "Tajikistan": 4,
       "Federated States of Micronesia": 4,
       "Congo": 4,
@@ -261,6 +263,7 @@
       "Belgium": 4,
       "Bahamas": 4,
       "Moldova": 4,
+      "Palau": 4,
       "Palestine": 4,
       "Afghanistan": 4,
       "Shetland": 4,
@@ -278,7 +281,6 @@
       "Honduras": 3,
       "Israel": 3,
       "Marshall Islands": 3,
-      "Palau": 3,
       "Croatia": 3,
       "Djibouti": 3,
       "Equatorial Guinea": 3,
@@ -350,9 +352,9 @@
     "types": {
       "Spirit": 799,
       "Deity": 362,
-      "Nature-spirit": 196,
+      "Nature-spirit": 197,
       "Ghost": 180,
-      "Water-spirit": 178,
+      "Water-spirit": 179,
       "Trickster": 147,
       "Guardian": 141,
       "Animal-spirit": 127,
@@ -1372,7 +1374,8 @@
         "dragon-denmark",
         "dyunis",
         "d-sonoqua-dzunukwa-kwakwaka-wakw",
-        "duk-ib-the-changer-coast-salish"
+        "duk-ib-the-changer-coast-salish",
+        "delal-a-ngibtal-palau"
       ],
       "e": [
         "each-uisge",
@@ -3761,7 +3764,8 @@
         "tarroo-ushtey",
         "trow",
         "taaroa",
-        "tiitii"
+        "tiitii",
+        "te-pusi-mo-te-ali-tuvalu"
       ],
       "u": [
         "uay-chivo",
@@ -5023,6 +5027,7 @@
       "deildegast",
       "dekki-hdrtna",
       "delal-a-ngibtal",
+      "delal-a-ngibtal-palau",
       "demon",
       "demoni",
       "den-gr-dame",
@@ -7308,6 +7313,7 @@
       "taytoru-kyrgyz",
       "te-ngaru",
       "te-pusi-mo-te-ali",
+      "te-pusi-mo-te-ali-tuvalu",
       "te-wheke-a-muturangi-maori",
       "tefolaha",
       "tek-ko-kui",
