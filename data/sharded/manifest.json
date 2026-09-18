@@ -44,7 +44,7 @@
     }
   },
   "creatures": {
-    "total": 3701,
+    "total": 3702,
     "regions": {
       "North America": 941,
       "Nordic": 314,
@@ -65,7 +65,7 @@
       "Mediterranean": 89,
       "Germanic": 52,
       "North Africa": 52,
-      "Central Africa": 46,
+      "Central Africa": 47,
       "Africa": 43,
       "Celtic": 35,
       "Sami": 29,
@@ -177,6 +177,7 @@
       "Lithuania": 8,
       "Vatican City": 8,
       "Somalia": 8,
+      "Central African Republic": 8,
       "Trinidad and Tobago": 8,
       "Montenegro": 8,
       "Maldives": 8,
@@ -189,7 +190,6 @@
       "Singapore": 7,
       "Panama": 7,
       "Georgia": 7,
-      "Central African Republic": 7,
       "Bangladesh": 7,
       "Estonia": 7,
       "Portugal": 7,
@@ -363,7 +363,7 @@
       "Serpent": 93,
       "Shapeshifter": 79,
       "Hero": 75,
-      "Dragon": 60,
+      "Dragon": 61,
       "Human": 56,
       "Forest-spirit": 49,
       "Vampire": 48,
@@ -2649,7 +2649,8 @@
         "moddey-dhoo",
         "mooinjer-veggey",
         "mahkontowe",
-        "moon-rabbit"
+        "moon-rabbit",
+        "mokele-mbembe-central-african-republic"
       ],
       "n": [
         "nag-drang",
@@ -6263,6 +6264,7 @@
       "moddey-dhoo",
       "modimo-tswana",
       "mokele-mbembe",
+      "mokele-mbembe-central-african-republic",
       "mokelembembe-centralafricanrepublic",
       "mokelembembe-democraticrepublicofcongo",
       "mokelembembe-gabon",
