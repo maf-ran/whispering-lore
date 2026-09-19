@@ -44,12 +44,12 @@
     }
   },
   "creatures": {
-    "total": 3723,
+    "total": 3725,
     "regions": {
-      "North America": 941,
+      "North America": 942,
       "Nordic": 315,
       "West Africa": 225,
-      "Southeast Asia": 215,
+      "Southeast Asia": 216,
       "South America": 199,
       "Pacific": 180,
       "Central Asia": 157,
@@ -89,7 +89,7 @@
       "Eastern Europe": 1
     },
     "countries": {
-      "United States": 675,
+      "United States": 676,
       "Canada": 254,
       "Norway": 138,
       "Sweden": 88,
@@ -112,8 +112,8 @@
       "China": 33,
       "Finland": 33,
       "New Zealand": 30,
+      "Philippines": 29,
       "Germany": 29,
-      "Philippines": 28,
       "Myanmar": 28,
       "Kazakhstan": 27,
       "Indonesia": 27,
@@ -365,7 +365,7 @@
       "Demon": 109,
       "Ancestor-spirit": 99,
       "Serpent": 93,
-      "Shapeshifter": 81,
+      "Shapeshifter": 82,
       "Hero": 75,
       "Dragon": 64,
       "Human": 56,
@@ -383,9 +383,9 @@
       "Werewolf": 22,
       "Animal": 21,
       "Undead": 20,
+      "Humanoid": 18,
       "Goblin": 17,
       "Folk-hero": 17,
-      "Humanoid": 17,
       "Sea-monster": 17,
       "Jinn": 17,
       "Culture-hero": 17,
@@ -3089,7 +3089,8 @@
         "plague-spirits",
         "porcupine-tsimshian",
         "peixe-caball-cape-verde",
-        "popobawa-tanzania"
+        "popobawa-tanzania",
+        "pukwudgie-usa"
       ],
       "q": [
         "qalupalik-inuit",
@@ -3785,7 +3786,8 @@
         "taaroa",
         "tiitii",
         "te-pusi-mo-te-ali-tuvalu",
-        "tue-tue-chile"
+        "tue-tue-chile",
+        "tikbalang-philippines"
       ],
       "u": [
         "uay-chivo",
@@ -6825,6 +6827,7 @@
       "pugwis",
       "puk",
       "pukwudgie",
+      "pukwudgie-usa",
       "pulotu-tongan",
       "puma-sacred-guardian",
       "puteana",
@@ -7403,6 +7406,7 @@
       "tihtipihin-nuu-chah-nulth",
       "tiitii",
       "tik-tik-or-wakwak",
+      "tikbalang-philippines",
       "tikbalang-tigbalang",
       "tikoloshe-or-tokoloshe",
       "tilberi",
