@@ -44,7 +44,7 @@
     }
   },
   "creatures": {
-    "total": 3730,
+    "total": 3731,
     "regions": {
       "North America": 942,
       "Nordic": 315,
@@ -72,7 +72,7 @@
       "Asia": 28,
       "Balkan": 25,
       "Baltic": 20,
-      "Caucasus": 18,
+      "Caucasus": 19,
       "Northern Europe": 14,
       "Norse": 13,
       "World": 9,
@@ -213,6 +213,7 @@
       "Niger": 6,
       "Togo": 6,
       "Morocco": 6,
+      "Armenia": 6,
       "Bahrain": 6,
       "Cape Verde": 6,
       "Azerbaijan": 6,
@@ -234,7 +235,6 @@
       "Tibet": 5,
       "Mauritania": 5,
       "Tuvalu": 5,
-      "Armenia": 5,
       "Jordan": 5,
       "Angola": 5,
       "United Arab Emirates": 5,
@@ -367,7 +367,7 @@
       "Serpent": 93,
       "Shapeshifter": 82,
       "Hero": 75,
-      "Dragon": 65,
+      "Dragon": 66,
       "Human": 56,
       "Forest-spirit": 49,
       "Vampire": 48,
@@ -3886,7 +3886,8 @@
         "vlva-iceland",
         "valraven",
         "vodnik",
-        "vttar"
+        "vttar",
+        "vishap-armenia"
       ],
       "w": [
         "wadlim",
@@ -7613,6 +7614,7 @@
       "vindra",
       "vinmara-vanuatu",
       "vishap",
+      "vishap-armenia",
       "vishnu",
       "vitorm",
       "vittra",
