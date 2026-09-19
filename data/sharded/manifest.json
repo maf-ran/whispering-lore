@@ -44,7 +44,7 @@
     }
   },
   "creatures": {
-    "total": 3733,
+    "total": 3734,
     "regions": {
       "North America": 942,
       "Nordic": 316,
@@ -60,7 +60,7 @@
       "Europe": 100,
       "Middle East and North Africa": 96,
       "Southern Africa": 96,
-      "Caribbean": 94,
+      "Caribbean": 95,
       "East Asia and Pacific": 90,
       "Mediterranean": 90,
       "Germanic": 52,
@@ -245,6 +245,7 @@
       "Malawi": 5,
       "Saint Vincent and the Grenadines": 5,
       "Mauritius": 5,
+      "Dominican Republic": 5,
       "Latvia": 5,
       "Cameroon": 5,
       "Rwanda": 5,
@@ -258,7 +259,6 @@
       "Mozambique": 4,
       "Qatar": 4,
       "Nicaragua": 4,
-      "Dominican Republic": 4,
       "Cyprus": 4,
       "Belarus": 4,
       "Uruguay": 4,
@@ -382,8 +382,8 @@
       "Cryptid": 22,
       "Werewolf": 22,
       "Animal": 21,
+      "Humanoid": 20,
       "Undead": 20,
-      "Humanoid": 19,
       "Goblin": 17,
       "Folk-hero": 17,
       "Sea-monster": 17,
@@ -1212,7 +1212,8 @@
         "camazotz-maya",
         "curupira-brazil",
         "cu-sith-scotland",
-        "chimera-greece"
+        "chimera-greece",
+        "ciguapa-dominican-republic"
       ],
       "d": [
         "daini",
@@ -4806,6 +4807,7 @@
       "chut",
       "chyskhaan-yakut",
       "ciguapa-cuba",
+      "ciguapa-dominican-republic",
       "ciguapa-dominicanrepublic",
       "cikavac",
       "cipactli",
