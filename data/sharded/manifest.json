@@ -44,13 +44,13 @@
     }
   },
   "creatures": {
-    "total": 3725,
+    "total": 3726,
     "regions": {
       "North America": 942,
       "Nordic": 315,
       "West Africa": 225,
       "Southeast Asia": 216,
-      "South America": 199,
+      "South America": 200,
       "Pacific": 180,
       "Central Asia": 157,
       "Mesoamerica": 145,
@@ -104,10 +104,10 @@
       "Chile": 42,
       "Kenya": 42,
       "Guatemala": 39,
+      "Brazil": 36,
       "Vietnam": 35,
       "Ghana": 35,
       "Colombia": 35,
-      "Brazil": 35,
       "South Africa": 33,
       "China": 33,
       "Finland": 33,
@@ -354,7 +354,7 @@
     "types": {
       "Spirit": 799,
       "Deity": 362,
-      "Nature-spirit": 200,
+      "Nature-spirit": 201,
       "Ghost": 181,
       "Water-spirit": 179,
       "Trickster": 148,
@@ -1209,7 +1209,8 @@
         "crow-tlingit",
         "cursed-object-iceland",
         "crow-coast-salish",
-        "camazotz-maya"
+        "camazotz-maya",
+        "curupira-brazil"
       ],
       "d": [
         "daini",
@@ -4979,6 +4980,7 @@
       "cunjah-maum",
       "cursed-object-iceland",
       "curupira",
+      "curupira-brazil",
       "cyclone-apache",
       "cyhyraeth",
       "cynocephali",
