@@ -44,7 +44,7 @@
     }
   },
   "creatures": {
-    "total": 3726,
+    "total": 3727,
     "regions": {
       "North America": 942,
       "Nordic": 315,
@@ -82,9 +82,9 @@
       "Arctic": 2,
       "Unknown": 2,
       "West Asia": 2,
+      "Oceania": 2,
       "East Asia": 2,
       "Micronesia": 2,
-      "Oceania": 1,
       "Melanesia": 1,
       "Eastern Europe": 1
     },
@@ -116,10 +116,10 @@
       "Germany": 29,
       "Myanmar": 28,
       "Kazakhstan": 27,
+      "Australia": 27,
       "Indonesia": 27,
       "Peru": 27,
       "Thailand": 27,
-      "Australia": 26,
       "Egypt": 25,
       "Mongolia": 25,
       "Paraguay": 25,
@@ -383,7 +383,7 @@
       "Werewolf": 22,
       "Animal": 21,
       "Undead": 20,
-      "Humanoid": 18,
+      "Humanoid": 19,
       "Goblin": 17,
       "Folk-hero": 17,
       "Sea-monster": 17,
@@ -4156,7 +4156,8 @@
         "yeil-raven-tlingit",
         "yulm-first-carpenter-nuxalk",
         "yggdrasil",
-        "yalafath"
+        "yalafath",
+        "yowie-australia"
       ],
       "z": [
         "zambur",
@@ -7876,6 +7877,7 @@
       "yggdrasil",
       "yocahu-taino",
       "yowie",
+      "yowie-australia",
       "yuch-kurbustan-altai",
       "yuki-onna",
       "yul-chyn-nenets",
