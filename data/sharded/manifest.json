@@ -44,7 +44,7 @@
     }
   },
   "creatures": {
-    "total": 3729,
+    "total": 3730,
     "regions": {
       "North America": 942,
       "Nordic": 315,
@@ -62,7 +62,7 @@
       "Southern Africa": 96,
       "Caribbean": 94,
       "East Asia and Pacific": 90,
-      "Mediterranean": 89,
+      "Mediterranean": 90,
       "Germanic": 52,
       "North Africa": 52,
       "Central Africa": 47,
@@ -127,9 +127,9 @@
       "Laos": 23,
       "Saudi Arabia": 22,
       "Zimbabwe": 22,
+      "Greece": 21,
       "Pakistan": 20,
       "Uzbekistan": 20,
-      "Greece": 20,
       "France": 19,
       "Madagascar": 19,
       "Senegal": 18,
@@ -367,7 +367,7 @@
       "Serpent": 93,
       "Shapeshifter": 82,
       "Hero": 75,
-      "Dragon": 64,
+      "Dragon": 65,
       "Human": 56,
       "Forest-spirit": 49,
       "Vampire": 48,
@@ -1211,7 +1211,8 @@
         "crow-coast-salish",
         "camazotz-maya",
         "curupira-brazil",
-        "cu-sith-scotland"
+        "cu-sith-scotland",
+        "chimera-greece"
       ],
       "d": [
         "daini",
@@ -4777,6 +4778,7 @@
       "child-of-the-water-apache",
       "child-of-the-water-navajo",
       "chimera",
+      "chimera-greece",
       "chindi",
       "chinthe",
       "chiruwi",
