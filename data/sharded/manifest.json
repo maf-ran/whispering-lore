@@ -44,7 +44,7 @@
     }
   },
   "creatures": {
-    "total": 3735,
+    "total": 3736,
     "regions": {
       "North America": 942,
       "Nordic": 316,
@@ -86,7 +86,8 @@
       "East Asia": 2,
       "Micronesia": 2,
       "Melanesia": 1,
-      "Eastern Europe": 1
+      "Eastern Europe": 1,
+      "Central Europe": 1
     },
     "countries": {
       "United States": 676,
@@ -191,6 +192,7 @@
       "Burundi": 8,
       "United Kingdom": 8,
       "Switzerland": 7,
+      "Austria": 7,
       "Jamaica": 7,
       "Lesotho": 7,
       "Singapore": 7,
@@ -204,7 +206,6 @@
       "Barbados": 7,
       "Eritrea": 7,
       "Belize": 6,
-      "Austria": 6,
       "Sudan": 6,
       "Bhutan": 6,
       "Eswatini": 6,
@@ -373,8 +374,8 @@
       "Vampire": 48,
       "Beast": 44,
       "Spirit-animal": 43,
+      "Goddess": 41,
       "Bird": 41,
-      "Goddess": 40,
       "Fairy": 38,
       "Ogre": 31,
       "Household-spirit": 29,
@@ -3096,7 +3097,8 @@
         "porcupine-tsimshian",
         "peixe-caball-cape-verde",
         "popobawa-tanzania",
-        "pukwudgie-usa"
+        "pukwudgie-usa",
+        "perchta-austria"
       ],
       "q": [
         "qalupalik-inuit",
@@ -6751,6 +6753,7 @@
       "penanggalan",
       "pepo-swahili",
       "pepo-wa-bahari-swahili",
+      "perchta-austria",
       "perchta-austria",
       "perchta-germany",
       "peri-afghanistan",
