@@ -44,7 +44,7 @@
     }
   },
   "creatures": {
-    "total": 3717,
+    "total": 3718,
     "regions": {
       "North America": 941,
       "Nordic": 315,
@@ -85,7 +85,8 @@
       "Polynesia": 2,
       "Oceania": 1,
       "Micronesia": 1,
-      "Melanesia": 1
+      "Melanesia": 1,
+      "Eastern Europe": 1
     },
     "countries": {
       "United States": 674,
@@ -94,7 +95,7 @@
       "Sweden": 88,
       "Mexico": 84,
       "Iceland": 81,
-      "Russia": 71,
+      "Russia": 72,
       "Denmark": 68,
       "Nigeria": 58,
       "India": 51,
@@ -353,7 +354,7 @@
     "types": {
       "Spirit": 799,
       "Deity": 362,
-      "Nature-spirit": 199,
+      "Nature-spirit": 200,
       "Ghost": 181,
       "Water-spirit": 179,
       "Trickster": 147,
@@ -936,7 +937,8 @@
         "buggane",
         "bahla-jinn",
         "buda-eritrea",
-        "bakunawa-philippines"
+        "bakunawa-philippines",
+        "bannik-slavic"
       ],
       "c": [
         "the-chureca",
@@ -4435,6 +4437,7 @@
       "bannick-usa",
       "bannik-moist",
       "bannik-russia",
+      "bannik-slavic",
       "bannik-ukraine",
       "banshee",
       "banyan-deer-indian",
