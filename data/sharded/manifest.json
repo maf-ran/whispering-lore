@@ -44,7 +44,7 @@
     }
   },
   "creatures": {
-    "total": 3727,
+    "total": 3728,
     "regions": {
       "North America": 942,
       "Nordic": 315,
@@ -67,7 +67,7 @@
       "North Africa": 52,
       "Central Africa": 47,
       "Africa": 43,
-      "Celtic": 35,
+      "Celtic": 36,
       "Sami": 29,
       "Asia": 28,
       "Balkan": 25,
@@ -189,6 +189,7 @@
       "North Korea": 8,
       "Gambia": 8,
       "Burundi": 8,
+      "United Kingdom": 8,
       "Switzerland": 7,
       "Jamaica": 7,
       "Lesotho": 7,
@@ -202,7 +203,6 @@
       "Netherlands": 7,
       "Barbados": 7,
       "Eritrea": 7,
-      "United Kingdom": 7,
       "Belize": 6,
       "Austria": 6,
       "Sudan": 6,
@@ -371,7 +371,7 @@
       "Human": 56,
       "Forest-spirit": 49,
       "Vampire": 48,
-      "Beast": 43,
+      "Beast": 44,
       "Spirit-animal": 43,
       "Bird": 41,
       "Goddess": 40,
@@ -1210,7 +1210,8 @@
         "cursed-object-iceland",
         "crow-coast-salish",
         "camazotz-maya",
-        "curupira-brazil"
+        "curupira-brazil",
+        "cu-sith-scotland"
       ],
       "d": [
         "daini",
@@ -4976,6 +4977,7 @@
       "crowmaya-guatemala",
       "crowmaya-mexico",
       "cu-lebre",
+      "cu-sith-scotland",
       "cucafera",
       "culebra-de-coamo",
       "cunjah-maum",
