@@ -44,7 +44,7 @@
     }
   },
   "creatures": {
-    "total": 3719,
+    "total": 3720,
     "regions": {
       "North America": 941,
       "Nordic": 315,
@@ -83,8 +83,8 @@
       "West Asia": 2,
       "East Asia": 2,
       "Polynesia": 2,
+      "Micronesia": 2,
       "Oceania": 1,
-      "Micronesia": 1,
       "Melanesia": 1,
       "Eastern Europe": 1
     },
@@ -264,6 +264,7 @@
       "Uruguay": 4,
       "Belgium": 4,
       "Bahamas": 4,
+      "Marshall Islands": 4,
       "Moldova": 4,
       "Palau": 4,
       "Palestine": 4,
@@ -282,7 +283,6 @@
       "Costa Rica": 3,
       "Honduras": 3,
       "Israel": 3,
-      "Marshall Islands": 3,
       "Croatia": 3,
       "Djibouti": 3,
       "Equatorial Guinea": 3,
@@ -357,7 +357,7 @@
       "Nature-spirit": 200,
       "Ghost": 181,
       "Water-spirit": 179,
-      "Trickster": 147,
+      "Trickster": 148,
       "Guardian": 141,
       "Animal-spirit": 127,
       "Giant": 124,
@@ -2371,7 +2371,8 @@
         "legendary-warrior-iceland",
         "lakhey",
         "la-malinche",
-        "lindworm-denmark"
+        "lindworm-denmark",
+        "letao-marshall-islands"
       ],
       "m": [
         "a-men-rainbow-serpent",
@@ -6045,6 +6046,7 @@
       "leszy",
       "let-htau",
       "letao",
+      "letao-marshall-islands",
       "leuk-wolof",
       "leyak",
       "lfar",
