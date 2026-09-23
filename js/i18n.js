@@ -1,7 +1,7 @@
 (function () {
   'use strict'
 
-  var DICT = {
+  const DICT = {
     en: {
       'nav.home': 'HOME',
       'nav.bestiary': 'BESTIARY',
@@ -215,6 +215,8 @@
       'nf.p1': 'The tome you seek has been lost to the ages — consumed by shadow or scattered across forgotten realms. Perhaps the runes misled you, or the old maps have faded.',
       'nf.p2': 'Follow the crimson thread back to the known world.',
       'nf.return': 'Return Home',
+      'nf.bestiary': 'Explore the Bestiary',
+      'nf.stories': 'Read Stories',
 
       'badge.pending': 'översättning saknas',
 
@@ -446,6 +448,8 @@
       'nf.p1': 'El tomo que buscas se ha perdido en los siglos — devorado por la sombra o disperso por reinos olvidados. Quizá las runas te extraviaron, o los antiguos mapas se han desvanecido.',
       'nf.p2': 'Sigue el hilo carmesí de vuelta al mundo conocido.',
       'nf.return': 'Volver al inicio',
+      'nf.bestiary': 'Explorar el bestiario',
+      'nf.stories': 'Leer historias',
       'badge.pending': 'traducción pendiente',
       'title.index': 'Whispering Lore — La base de datos definitiva de mitología mundial',
       'desc.index': 'El compendio digital y la base de datos de mitología mundial más completos de criaturas míticas, folclore y leyendas antiguas de todas las culturas de la Tierra.',
@@ -582,7 +586,7 @@
       'hero.items': 'Artefakter',
       'hero.items_sub': 'Heliga föremål, legendariska vapen, verktyg, skepp och ritualföremål — mytens och folktrons konkreta under.',
       'hero.world': 'Världen',
-      'hero.world_sub': "Res genom de mytiska regionerna och kulturerna som format mänsklighetens berättelser.",
+      'hero.world_sub': 'Res genom de mytiska regionerna och kulturerna som format mänsklighetens berättelser.',
       'hero.quiz': 'Examen',
       'hero.quiz_sub': 'Testa dina kunskaper om mytiska varelser och folktro.',
       'quiz.start': 'Starta examen',
@@ -684,6 +688,8 @@
       'nf.p1': 'Den bok du söker har gått förlorad i seklen — uppslukad av skugga eller utspridd över bortglömda riken. Kanske vilade ledning runorna, eller har de gamla kartorna bleknat.',
       'nf.p2': 'Följ den karmosinröda tråden tillbaka till den kända världen.',
       'nf.return': 'Tillbaka hem',
+      'nf.bestiary': 'Utforska bestiariet',
+      'nf.stories': 'Läs berättelser',
 
       'badge.pending': 'översättning saknas',
 
@@ -923,6 +929,8 @@
       'nf.p1': 'Boken du søker, har gått tapt i tidene — oppslukt av skygge eller strødd over glemte riker. Kanskje runene ledet deg vill, eller de gamle kartene har falmet.',
       'nf.p2': 'Følg den karmosinrøde tråden tilbake til den kjente verden.',
       'nf.return': 'Tilbake hjem',
+      'nf.bestiary': 'Utforsk bestiariet',
+      'nf.stories': 'Les historier',
 
       'badge.pending': 'oversettelse mangler',
 
@@ -952,11 +960,11 @@
   }
 
   function setPageMeta(dict) {
-    var page = (window.location.pathname.split('/').pop() || 'index.html').replace(/\.html$/, '')
+    let page = (window.location.pathname.split('/').pop() || 'index.html').replace(/\.html$/, '')
     if (!page || page === '') page = 'index'
-    var tKey = 'title.' + page
+    const tKey = 'title.' + page
     if (dict[tKey] != null) document.title = dict[tKey]
-    var meta = document.querySelector('meta[name="description"]')
+    const meta = document.querySelector('meta[name="description"]')
     if (meta && dict['desc.' + page] != null) meta.setAttribute('content', dict['desc.' + page])
   }
 
@@ -965,36 +973,36 @@
       return window.__sharedUtils.getNativeLang()
     }
     try {
-      var m = window.location.search.match(/[?&]lang=([A-Za-z-]+)/)
+      const m = window.location.search.match(/[?&]lang=([A-Za-z-]+)/)
       return m && ['sv', 'no', 'es'].indexOf(m[1]) !== -1 ? m[1] : null
     } catch (e) { return null }
   }
 
   function applyChrome() {
-    var lang = currentLang()
+    const lang = currentLang()
     if (!lang) return
-    var dict = DICT[lang]
+    const dict = DICT[lang]
     if (!dict) return
     document.documentElement.setAttribute('lang', lang)
-    var nodes = document.querySelectorAll('[data-i18n]')
-    for (var i = 0; i < nodes.length; i++) {
-      var k = nodes[i].getAttribute('data-i18n')
-      var v = dict[k]
+    const nodes = document.querySelectorAll('[data-i18n]')
+    for (let i = 0; i < nodes.length; i++) {
+      const k = nodes[i].getAttribute('data-i18n')
+      const v = dict[k]
       if (v == null) continue
       if (v.indexOf('<') !== -1) nodes[i].innerHTML = v
       else nodes[i].textContent = v
     }
-    var placeholders = document.querySelectorAll('[data-i18n-placeholder]')
-    for (var p = 0; p < placeholders.length; p++) {
-      var pk = placeholders[p].getAttribute('data-i18n-placeholder')
+    const placeholders = document.querySelectorAll('[data-i18n-placeholder]')
+    for (let p = 0; p < placeholders.length; p++) {
+      const pk = placeholders[p].getAttribute('data-i18n-placeholder')
       if (dict[pk] != null) placeholders[p].setAttribute('placeholder', dict[pk])
     }
     // Static-markup link pass: keep visitors in native mode across pages.
     // JS-built card links wrap their targets with withLang at build time.
     if (window.__sharedUtils && window.__sharedUtils.withLang) {
-      var links = document.querySelectorAll('a[href]')
-      for (var j = 0; j < links.length; j++) {
-        var href = links[j].getAttribute('href')
+      const links = document.querySelectorAll('a[href]')
+      for (let j = 0; j < links.length; j++) {
+        const href = links[j].getAttribute('href')
         if (!href || /^https?:\/\//i.test(href) || /^mailto:/i.test(href)) continue
         if (href.indexOf('.html') !== -1 || href.charAt(0) === '?') {
           links[j].setAttribute('href', window.__sharedUtils.withLang(href))
