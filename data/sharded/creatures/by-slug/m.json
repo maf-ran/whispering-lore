@@ -2627,7 +2627,11 @@
       "PNG place spirits",
       "Melanesian folklore spirits"
     ],
-    "tags": [],
+    "tags": [
+      "nature-spirit",
+      "papua-new-guinea",
+      "melanesia"
+    ],
     "schema_org_type": "MythicalCreature",
     "seo_title": "Masalai – Papua New Guinea's Shape-Shifting Place Spirits",
     "seo_description": "Masalai are shape-shifting supernatural place-spirits from Papua New Guinea folklore that guard territories and enforce moral law.",
@@ -2637,7 +2641,7 @@
     ],
     "featured_in_stories": [],
     "source": "Margaret Mead ethnographic records; snip Old Folklore; snip Papua New Guinea oral traditions",
-    "source_quality": "good",
+    "source_quality": "verified",
     "fun_fact_generated": false,
     "stories": [
       "masalai-the-spirits-of-the-papua-new-guinea-forest"
@@ -2646,8 +2650,8 @@
       "Nokoti"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-07",
-    "living_tradition": false,
+    "lastUpdated": "2026-09-18",
+    "living_tradition": true,
     "source_type": "oral_tradition",
     "attested": true
   },
@@ -21965,84 +21969,11 @@
     "attested": true
   },
   {
-    "id": "masalai-papua-new-guinea-001",
-    "slug": "masalai-papua-new-guinea",
-    "name": "Masalai",
-    "country": "Papua New Guinea",
-    "region": "Melanesia",
-    "culture": "Papua New Guinean",
-    "type": "nature-spirit",
-    "mythology": "Melanesian Mythology",
-    "archetype": "guardian",
-    "element": "earth",
-    "aliases": [
-      "Bush Spirit",
-      "Sacred Guardian"
-    ],
-    "related": [],
-    "description": "In the traditional belief systems of Papua New Guinea and across Melanesian cultures, the Masalai are powerful, localized nature spirits that inhabit specific geographical landmarks such as isolated mountains, deep rivers, dense rainforests, and sacred boulder formations. According to indigenous oral histories, each clan or village maintains a profound relationship with the Masalai residing within their traditional territories, viewing them as both stern protectors and formidable guardians of ecological boundaries. These spirits embody the untamed vitality of the tropical wilderness, demanding utmost respect, adherence to customary taboos, and quiet reverence from anyone traversing their domain.",
-    "appearance": "Masalai are described in oral lore as shapeshifting entities that can manifest in various terrifying or uncanny forms—ranging from towering humanoid figures with glowing eyes to hybrid animal-serpent shapes or blinding flashes of light. They are intrinsically tied to the physical landscape, sometimes appearing as strange rock formations or sudden swirling mists.",
-    "behavior": "Melanesian villagers exercise great caution when approaching known Masalai territories (such as pristine streams or ancient forest groves). Disrespecting these sites—through loud shouting, cutting restricted timber, or trespassing without customary permission—is said to provoke illness, disorientation, or sudden storms sent by the spirit. Conversely, honoring the Masalai ensures community prosperity, abundant garden harvests, and safe passage through the bush.",
-    "habitat": "Remote rainforests, sacred mountains, rivers, and pristine wilderness of Papua New Guinea",
-    "habitat_tags": [
-      "forest",
-      "mountains",
-      "river"
-    ],
-    "behavior_tags": [
-      "territorial",
-      "protective",
-      "elusive"
-    ],
-    "strengths": [
-      "environmental camouflage",
-      "causing spiritual disorientation",
-      "storm generation"
-    ],
-    "weaknesses": [
-      "customary rituals",
-      "sacred offerings",
-      "clan taboos"
-    ],
-    "cultural_significance": "A fundamental guardian and nature spirit in Melanesian cosmology reinforcing environmental conservation, respect for sacred lands, and indigenous land tenure.",
-    "summary": "Powerful localized nature and guardian spirits inhabiting sacred sites across Papua New Guinea.",
-    "fun_fact": "Traditional land demarcation in many Melanesian communities is guided by the established boundaries of local Masalai domains.",
-    "fun_fact_generated": false,
-    "keywords": [
-      "masalai",
-      "papua new guinea",
-      "melanesia",
-      "nature spirit"
-    ],
-    "search_terms": [
-      "masalai papua new guinea folklore nature spirit",
-      "melanesian bush spirit guardian"
-    ],
-    "tags": [
-      "nature-spirit",
-      "papua-new-guinea",
-      "melanesia"
-    ],
-    "schema_org_type": "MythicalCreature",
-    "seo_title": "Masalai – Papua New Guinean Bush Guardian Spirit",
-    "seo_description": "Discover the Masalai, the powerful localized guardian and nature spirits of Papua New Guinea.",
-    "motifs": [],
-    "featured_in_stories": [],
-    "source": "Papua New Guinean oral tradition; Melanesian anthropological records",
-    "source_quality": "verified",
-    "stories": [],
-    "version": "1.0.0",
-    "lastUpdated": "2026-09-18",
-    "living_tradition": true,
-    "source_type": "oral_tradition",
-    "attested": true
-  },
-  {
     "id": "moo-hawaii-001",
     "slug": "moo-hawaii",
     "name": "Mo'o",
     "country": "United States",
-    "region": "Polynesia",
+    "region": "Pacific",
     "culture": "Hawaiian",
     "type": "dragon",
     "mythology": "Hawaiian Mythology",

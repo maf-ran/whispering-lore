@@ -3194,6 +3194,10 @@ footer p {
   white-space: pre-wrap;
   margin-bottom: 0.5rem;
 }
+.cite-text:focus-visible {
+  outline: 2px solid var(--accent-strong);
+  outline-offset: 1px;
+}
 .cite-copy-btn {
   background: var(--accent-strong);
   color: var(--text-primary);

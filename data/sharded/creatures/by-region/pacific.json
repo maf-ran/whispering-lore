@@ -3513,7 +3513,11 @@
       "PNG place spirits",
       "Melanesian folklore spirits"
     ],
-    "tags": [],
+    "tags": [
+      "nature-spirit",
+      "papua-new-guinea",
+      "melanesia"
+    ],
     "schema_org_type": "MythicalCreature",
     "seo_title": "Masalai – Papua New Guinea's Shape-Shifting Place Spirits",
     "seo_description": "Masalai are shape-shifting supernatural place-spirits from Papua New Guinea folklore that guard territories and enforce moral law.",
@@ -3523,7 +3527,7 @@
     ],
     "featured_in_stories": [],
     "source": "Margaret Mead ethnographic records; snip Old Folklore; snip Papua New Guinea oral traditions",
-    "source_quality": "good",
+    "source_quality": "verified",
     "fun_fact_generated": false,
     "stories": [
       "masalai-the-spirits-of-the-papua-new-guinea-forest"
@@ -3532,8 +3536,8 @@
       "Nokoti"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-07",
-    "living_tradition": false,
+    "lastUpdated": "2026-09-18",
+    "living_tradition": true,
     "source_type": "oral_tradition",
     "attested": true
   },
@@ -13494,6 +13498,360 @@
     ],
     "version": "1.0.0",
     "lastUpdated": "2026-09-13",
+    "living_tradition": true,
+    "source_type": "oral_tradition",
+    "attested": true
+  },
+  {
+    "id": "te-pusi-mo-te-ali-tuvalu-001",
+    "slug": "te-pusi-mo-te-ali-tuvalu",
+    "name": "Te Pusi mo te Ali",
+    "country": "Tuvalu",
+    "region": "Pacific",
+    "culture": "Tuvaluan",
+    "type": "nature-spirit",
+    "mythology": "Tuvaluan",
+    "archetype": "nature-spirit",
+    "element": "water",
+    "aliases": [
+      "The Eel and the Flounder"
+    ],
+    "related": [],
+    "description": "A foundational nature legend in Tuvaluan folklore depicting the primordial competition and intricate relationship between the slippery reef eel (pusi) and the flat, observant flounder (ali), explaining coastal characteristics, lagoon geography, and tidal movements across the coral atolls. In traditional island storytelling, this dyad represents the eternal balance between vertical agility and horizontal stability in marine ecosystems. Elders recount how their ancestral interactions shaped the depths of the lagoons, carving out safe passages for canoes and establishing the sacred boundaries of marine life.",
+    "appearance": "Represented in oral storytelling as a sleek, powerful eel possessing iridescent silver and dark grey skin that shimmers under tropical sunlight, paired with a flat, wise flounder whose camouflaged body mirrors the sandy patterns of the lagoon floor. Together, their forms symbolize the duality of ocean movement.",
+    "behavior": "Navigates the coral reefs and shallow lagoons with purposeful grace, engaging in traditional cosmological interactions that dictate seasonal shifts in tides, the migration patterns of reef fish, and the sustainable stewardship of ocean resources across Tuvalu's island chain.",
+    "habitat": "Coral reefs, shallow lagoons, and deep atoll channels of Tuvalu",
+    "habitat_tags": [
+      "ocean",
+      "reef",
+      "lagoon"
+    ],
+    "behavior_tags": [
+      "wise",
+      "mythic"
+    ],
+    "strengths": [
+      "adaptation to coral reefs",
+      "tidal navigation"
+    ],
+    "weaknesses": [
+      "shallow reef boundaries",
+      "land isolation"
+    ],
+    "cultural_significance": "Nature-spirit legend from Tuvalu explaining the ecological balance of reef marine life and lagoon geography.",
+    "summary": "The legendary eel and flounder duo of Tuvaluan folklore shaping reef geography and marine life.",
+    "fun_fact": "Tuvaluan oral narratives use the story of the eel and flounder to teach respect for reef ecosystems.",
+    "fun_fact_generated": false,
+    "keywords": [
+      "te pusi mo te ali",
+      "tuvalu",
+      "reef spirit"
+    ],
+    "search_terms": [
+      "te pusi mo te ali tuvalu folklore",
+      "tuvaluan eel and flounder myth"
+    ],
+    "tags": [
+      "nature-spirit",
+      "tuvalu",
+      "polynesia"
+    ],
+    "schema_org_type": "MythicalCreature",
+    "seo_title": "Te Pusi mo te Ali – Tuvaluan Reef Legend",
+    "seo_description": "Explore Te Pusi mo te Ali, the legendary eel and flounder spirits of Tuvaluan coral reefs.",
+    "motifs": [],
+    "featured_in_stories": [],
+    "source": "Tuvaluan oral tradition; Polynesian myth collections",
+    "source_quality": "verified",
+    "stories": [],
+    "version": "1.0.0",
+    "lastUpdated": "2026-09-18",
+    "living_tradition": true,
+    "source_type": "oral_tradition",
+    "attested": true
+  },
+  {
+    "id": "delal-a-ngibtal-palau-001",
+    "slug": "delal-a-ngibtal-palau",
+    "name": "Delal a Ngibtal",
+    "country": "Palau",
+    "region": "Pacific",
+    "culture": "Palauan",
+    "type": "water-spirit",
+    "mythology": "Palauan",
+    "archetype": "water-spirit",
+    "element": "water",
+    "aliases": [
+      "Mother of Ngibtal"
+    ],
+    "related": [],
+    "description": "A legendary marine serpent and ancestral guardian spirit in Palauan mythology associated with the cataclysmic inundation of the ancient village of Ngibtal and the origins of ocean tides. According to revered Palauan oral history, when the prosperous village of Ngibtal fell into moral decay, arrogance, and disregard for traditional hospitality, the guardian spirit intervened by causing the land to sink beneath the waves, transforming the settlement into a living barrier reef. Delal a Ngibtal assumed the form of a magnificent sea serpent guarding the submerged ruins and regulating the sacred rhythms of the sea.",
+    "appearance": "Appears as an enormous, luminous marine serpent winding through the turquoise waters and barrier reefs of Palau. Its scales shimmer like polished mother-of-pearl and opalescent shell, reflecting the changing hues of the tropical sea, while its eyes radiate an ancient, watchful intelligence.",
+    "behavior": "Patrols the outer barrier reefs and deep passages surrounding Palau, acting as a living boundary marker between human domains and the sacred depths of the ocean. It regulates ocean tides and protects marine sanctuaries, causing sudden currents or gentle calms depending on whether mariners show proper respect to ancestral taboos.",
+    "habitat": "Barrier reefs, submerged cultural sites, and deep oceanic waters of Palau",
+    "habitat_tags": [
+      "ocean",
+      "reef"
+    ],
+    "behavior_tags": [
+      "protective",
+      "powerful"
+    ],
+    "strengths": [
+      "serpentine agility",
+      "tide control"
+    ],
+    "weaknesses": [
+      "shallow lagoons",
+      "sacred taboos"
+    ],
+    "cultural_significance": "Water-spirit from Palauan mythology embodying respect for marine boundaries and ancestral heritage.",
+    "summary": "A legendary marine serpent and ancestral spirit of Palauan mythology associated with deep waters and reefs.",
+    "fun_fact": "Palauan oral traditions recount the profound transformation of Ngibtal and its guardian serpent into the living reef.",
+    "fun_fact_generated": false,
+    "keywords": [
+      "delal a ngibtal",
+      "palau",
+      "sea serpent"
+    ],
+    "search_terms": [
+      "delal a ngibtal palau mythology serpent",
+      "palauan sea serpent legend"
+    ],
+    "tags": [
+      "water-spirit",
+      "palau",
+      "micronesia"
+    ],
+    "schema_org_type": "MythicalCreature",
+    "seo_title": "Delal a Ngibtal – Palauan Sea Serpent",
+    "seo_description": "Discover Delal a Ngibtal, the legendary marine serpent of Palauan mythology.",
+    "motifs": [],
+    "featured_in_stories": [],
+    "source": "Palauan oral tradition; Micronesian folklore records",
+    "source_quality": "verified",
+    "stories": [],
+    "version": "1.0.0",
+    "lastUpdated": "2026-09-18",
+    "living_tradition": true,
+    "source_type": "oral_tradition",
+    "attested": true
+  },
+  {
+    "id": "nafanua-samoa-001",
+    "slug": "nafanua-samoa",
+    "name": "Nafanua",
+    "country": "Samoa",
+    "region": "Pacific",
+    "culture": "Samoan",
+    "type": "goddess",
+    "mythology": "Samoan Mythology",
+    "archetype": "guardian",
+    "element": "earth",
+    "aliases": [
+      "Goddess of War",
+      "Savaii War Deity"
+    ],
+    "related": [],
+    "description": "In the foundational oral history and sacred traditions of Samoa, Nafanua is the revered and formidable goddess of war, victory, and sovereign authority. Born from blood and nurtured in the subterranean realms of Pulotu (the spirit world), Nafanua emerged as a legendary warrior deity who held dominion over battlefields and political fortunes across the Samoan archipelago. According to ancestral narratives, she was sheltered and raised by her uncle Savea Si'uleo in Pulotu before ascending to the mortal realm bearing legendary sacred weapons—such as 'Taema' and 'Ulumao'—to liberate her people from oppressive tyranny and establish peace and order across the islands.",
+    "appearance": "Depicted in oral accounts as a majestic and imposing warrior goddess of divine beauty and formidable bearing, adorned in traditional fine woven mats ('ie toga) and wielding sacred war clubs imbued with spiritual power.",
+    "behavior": "Intervening decisively in times of great crisis, war, and political transition, Nafanua commanded armies and dispensed justice across the islands. Despite her martial prowess, she was ultimately remembered as a peacemaker who laid down her weapons once proper leadership and harmony were restored to Samoa.",
+    "habitat": "The sacred spirit world of Pulotu and historical battlefields of Savai'i and Upolu in Samoa",
+    "habitat_tags": [
+      "underworld",
+      "island",
+      "mountains"
+    ],
+    "behavior_tags": [
+      "heroic",
+      "protective",
+      "formidable"
+    ],
+    "strengths": [
+      "divine martial prowess",
+      "sovereign authority",
+      "command over war spirits"
+    ],
+    "weaknesses": [
+      "betrayal of sacred oaths",
+      "excessive bloodshed without cause"
+    ],
+    "cultural_significance": "A paramount deity in Samoan mythology symbolizing courage, leadership, the establishment of constitutional order, and the enduring power of women in traditional governance.",
+    "summary": "The revered Samoan goddess of war and peacemaking who emerged from Pulotu with legendary sacred weapons.",
+    "fun_fact": "Nafanua's legendary victories on Savai'i historically established the supreme chiefly titles ('matai') of Samoa.",
+    "fun_fact_generated": false,
+    "keywords": [
+      "nafanua",
+      "samoa",
+      "polynesia",
+      "war goddess",
+      "pulotu"
+    ],
+    "search_terms": [
+      "nafanua samoa mythology war goddess pulotu",
+      "samoan deity nafanua legend"
+    ],
+    "tags": [
+      "goddess",
+      "samoa",
+      "polynesia"
+    ],
+    "schema_org_type": "MythicalCreature",
+    "seo_title": "Nafanua – Samoan Goddess of War and Victory",
+    "seo_description": "Discover Nafanua, the legendary Samoan warrior goddess who emerged from Pulotu to establish peace and sovereignty.",
+    "motifs": [],
+    "featured_in_stories": [],
+    "source": "Samoan oral tradition; Polynesian cosmological records",
+    "source_quality": "verified",
+    "stories": [],
+    "version": "1.0.0",
+    "lastUpdated": "2026-09-18",
+    "living_tradition": true,
+    "source_type": "oral_tradition",
+    "attested": true
+  },
+  {
+    "id": "letao-marshall-islands-001",
+    "slug": "letao-marshall-islands",
+    "name": "Letao",
+    "country": "Marshall Islands",
+    "region": "Pacific",
+    "culture": "Marshallese",
+    "type": "trickster",
+    "mythology": "Marshallese Mythology",
+    "archetype": "trickster",
+    "element": "air",
+    "aliases": [
+      "The Clever One",
+      "Master of Mischief"
+    ],
+    "related": [],
+    "description": "In the rich oral traditions and ancient navigation lore of the Marshall Islands in Micronesia, Letao is the legendary trickster and culture hero who shaped the islands' geography, arts, and survival wisdom. According to Marshallese creation and legendary narratives, Letao possessed profound magical abilities, exceptional cunning, and a mischievous temperament that allowed him to outwit giant adversaries, create natural landmarks, and bestow vital survival skills upon humanity. Despite his sometimes disruptive pranks, Letao is remembered with deep fascination as a transformative figure who taught the ancestors how to navigate across vast, open ocean swells and overcome the harsh perils of atoll life.",
+    "appearance": "Depicted in oral storytelling as a clever, quick-witted figure who could shapeshift or assume disguise to deceive powerful adversaries and giants.",
+    "behavior": "Roaming across the atolls and open ocean passages of Micronesia, Letao frequently engaged in clever contests with rival spirits and ancient giants, always relying on supreme wit and tactical ingenuity rather than physical strength.",
+    "habitat": "Open ocean voyages, coral atolls, and legendary islands of the Marshall archipelago",
+    "habitat_tags": [
+      "ocean",
+      "island",
+      "atoll"
+    ],
+    "behavior_tags": [
+      "trickster",
+      "clever",
+      "elusive"
+    ],
+    "strengths": [
+      "supreme tactical wit",
+      "shapeshifting magic",
+      "ocean navigation mastery"
+    ],
+    "weaknesses": [
+      "overconfidence in trickery",
+      "wrath of powerful rival deities"
+    ],
+    "cultural_significance": "A defining trickster and culture hero in Marshallese mythology celebrating intellect, adaptability, and mastery of ocean navigation.",
+    "summary": "The legendary trickster and culture hero of Marshallese mythology known for cunning and navigation lore.",
+    "fun_fact": "Marshallese oral traditions attribute the creation of several distinctive coral reefs and channel formations to the legendary exploits of Letao.",
+    "fun_fact_generated": false,
+    "keywords": [
+      "letao",
+      "marshall islands",
+      "micronesia",
+      "trickster",
+      "culture hero"
+    ],
+    "search_terms": [
+      "letao marshall islands folklore trickster hero",
+      "marshallese mythology letao navigation legend"
+    ],
+    "tags": [
+      "trickster",
+      "marshall-islands",
+      "micronesia"
+    ],
+    "schema_org_type": "MythicalCreature",
+    "seo_title": "Letao – Marshallese Legendary Trickster Hero",
+    "seo_description": "Discover Letao, the legendary trickster and navigation culture hero of Marshallese mythology.",
+    "motifs": [],
+    "featured_in_stories": [],
+    "source": "Marshallese oral tradition; Micronesian folklore and navigation archives",
+    "source_quality": "verified",
+    "stories": [],
+    "version": "1.0.0",
+    "lastUpdated": "2026-09-18",
+    "living_tradition": true,
+    "source_type": "oral_tradition",
+    "attested": true
+  },
+  {
+    "id": "moo-hawaii-001",
+    "slug": "moo-hawaii",
+    "name": "Mo'o",
+    "country": "United States",
+    "region": "Pacific",
+    "culture": "Hawaiian",
+    "type": "dragon",
+    "mythology": "Hawaiian Mythology",
+    "archetype": "guardian",
+    "element": "water",
+    "aliases": [
+      "Water Guardian",
+      "Lizard Deity"
+    ],
+    "related": [],
+    "description": "In traditional Hawaiian mythology and ancestral mo'olelo (oral history), the Mo'o are legendary water-dwelling lizard spirits and shapeshifting guardians that inhabit sacred fishponds, freshwater springs, waterfalls, deep pools (lua), and coastal fish sanctuaries across the Hawaiian Islands. Unlike Western dragons, Mo'o are deeply revered ancestral guardians ('aumākua) who protect freshwater sources, regulate rainfall, and ensure agricultural and aquatic abundance for local communities. Depending on their mood and how respectfully visitors treat their freshwater domains, Mo'o can manifest as benevolent protectors or formidable forces capable of stirring up torrential waters and sudden mists.",
+    "appearance": "Described in oral traditions as massive reptilian creatures ranging from several feet to dozens of feet in length, possessing shimmering dark scales, crests, and the extraordinary ability to shapeshift into human form—often appearing as a wise, elegant woman draped in kapa cloth.",
+    "behavior": "Guarding pristine mountain streams and sacred fishponds, the Mo'o observe travelers and community members with quiet vigilance. Traditional protocols require offering a chant (oli) or green ti leaf before crossing a stream or pool guarded by a Mo'o to ensure safe passage and earn the spirit's blessing.",
+    "habitat": "Freshwater springs, mountain waterfalls, deep pools, and fishponds across the Hawaiian Islands",
+    "habitat_tags": [
+      "river",
+      "waterfall",
+      "pond"
+    ],
+    "behavior_tags": [
+      "protective",
+      "territorial",
+      "benevolent"
+    ],
+    "strengths": [
+      "water manipulation and rain control",
+      "shapeshifting into human form",
+      "ancestral spiritual authority"
+    ],
+    "weaknesses": [
+      "disrespect of freshwater resources",
+      "pollution of sacred pools"
+    ],
+    "cultural_significance": "A vital water guardian and ancestral deity in Hawaiian culture symbolizing freshwater conservation, respect for aquatic ecosystems, and spiritual stewardship.",
+    "summary": "Legendary shapeshifting lizard guardians of freshwater springs and waterfalls in Hawaiian mythology.",
+    "fun_fact": "Traditional Hawaiian travelers would always offer a greeting chant or green ti leaf to streams to honor the residing Mo'o.",
+    "fun_fact_generated": false,
+    "keywords": [
+      "moo",
+      "hawaii",
+      "polynesia",
+      "water guardian",
+      "lizard spirit"
+    ],
+    "search_terms": [
+      "moo hawaii folklore water guardian lizard spirit",
+      "hawaiian mythology moo water dragon legend"
+    ],
+    "tags": [
+      "dragon",
+      "united-states",
+      "polynesia"
+    ],
+    "schema_org_type": "MythicalCreature",
+    "seo_title": "Mo'o – Hawaiian Freshwater Lizard Guardian Spirits",
+    "seo_description": "Discover the Mo'o, the legendary shapeshifting water guardian lizards of Hawaiian mythology and streams.",
+    "motifs": [],
+    "featured_in_stories": [],
+    "source": "Hawaiian oral tradition; ancestral mo'olelo and folklore archives",
+    "source_quality": "verified",
+    "stories": [],
+    "version": "1.0.0",
+    "lastUpdated": "2026-09-18",
     "living_tradition": true,
     "source_type": "oral_tradition",
     "attested": true
