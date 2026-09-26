@@ -292,7 +292,7 @@ test.describe('Bestiary: detail overlay', () => {
       }
       if (!hasText && count > 1) {
         // Some sections may be empty for certain creatures — soft warn
-        const heading = await sections.nth(i).locator('h3').textContent();
+        const heading = await sections.nth(i).locator('h2').textContent();
         console.log(`  Empty section "${heading}" in creature overlay`);
       }
     }
