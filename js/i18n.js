@@ -1,7 +1,7 @@
 (function () {
   'use strict'
 
-  var DICT = {
+  const DICT = {
     en: {
       'nav.home': 'HOME',
       'nav.bestiary': 'BESTIARY',
@@ -43,7 +43,7 @@
       'daily.await_story': "Awaiting the day's tale...",
       'grid.heading': 'Explore the Lore',
       'card.creatures.title': 'Mythical Creatures',
-      'card.creatures.sub': 'Discover dragons, spirits, and legendary beings from 212 countries and cultures across the world.',
+      'card.creatures.sub': 'Discover dragons, spirits, and legendary beings from 242 countries and cultures across the world.',
       'card.creatures.cta': 'Enter the Bestiary',
       'card.stories.title': 'Folklore Stories',
       'card.stories.sub': 'Journey through classic folktales, epic myths, and cautionary legends passed down through generations.',
@@ -132,7 +132,7 @@
 
       'about.hero_sub': 'Preserving the myths and legends of humanity for curious minds.',
       'about.p1': "Whispering Lore is a digital compendium dedicated to documenting and preserving the mythical creatures, legends, and folklore of human civilization. From the fire-breathing dragons of European legend to the shape-shifting kitsune of Japan, from Anansi's trickster tales to the haunting wail of the Irish banshee — every culture has its stories, and every story deserves to be remembered.",
-      'about.p2': 'Our database currently spans <strong>3,668 mythical creatures</strong> and <strong>2,185 folklore stories</strong> from over 212 countries and territories across 36 cultural regions. Each entry is researched, documented, and presented with care for the tradition it comes from.',
+      'about.p2': 'Our database currently spans <strong>3,730 mythical creatures</strong> and <strong>2,185 folklore stories</strong> from over 242 countries and territories across 38 cultural regions. Each entry is researched, documented, and presented with care for the tradition it comes from.',
       'about.p3': 'This project is a living archive. New creatures and stories are added regularly as research continues. Our goal is to create the most comprehensive, respectful, and beautifully presented collection of world folklore available anywhere.',
       'about.btn_suggest': 'Suggest an Entry',
       'about.quote': '"Every myth is a whisper from the past — a story that refused to be forgotten."',
@@ -176,7 +176,7 @@
       'm.verify_li2': '<strong>Stage 2 — Cross-reference:</strong> Creature-to-story and story-to-creature references checked for accuracy',
       'm.verify_li3': '<strong>Stage 3 — Source verification:</strong> Named sources checked against library catalogs and academic databases',
       'm.verify_li4': '<strong>Stage 4 — Expert review:</strong> Subject-matter folklorists review entries for cultural accuracy',
-      'm.verify_p2': 'As of the current dataset version, the database contains <strong>3,668 creatures</strong> and <strong>2,185 stories</strong> — a combined total of <strong>5,853 entries</strong>. All entries have source quality and source type classifications.',
+      'm.verify_p2': 'As of the current dataset version, the database contains <strong>3,730 creatures</strong> and <strong>2,185 stories</strong> — a combined total of <strong>5,915 entries</strong>. All entries have source quality and source type classifications.',
       'm.dist_creatures_p': 'Current source quality distribution (creatures):',
       'm.dist_creatures_li1': '<strong>Expert:</strong> 583 entries — reviewed by subject-matter specialists',
       'm.dist_creatures_li2': '<strong>Verified:</strong> 60 entries — independently confirmed against primary sources',
@@ -188,7 +188,7 @@
       'm.dist_creatures_li8': '<strong>Good:</strong> 1,720 entries — from general references',
       'm.dist_creatures_li9': '<strong>Fair:</strong> 447 entries — from general references or secondary sources',
       'm.dist_creatures_li10': '<strong>Poor:</strong> 490 entries — limited source information (incl. 486 flagged unattested during the August 2026 description-research pass)',
-      'm.dist_creatures_li11': 'All 3,668 creatures have source quality classifications.',
+      'm.dist_creatures_li11': 'All 3,730 creatures have source quality classifications.',
       'm.dist_stories_p': 'Current source quality distribution (stories):',
       'm.dist_stories_li1': '<strong>Expert:</strong> 39 entries — reviewed by subject-matter specialists',
       'm.dist_stories_li2': '<strong>High:</strong> 55 entries — from high-quality references',
@@ -215,13 +215,15 @@
       'nf.p1': 'The tome you seek has been lost to the ages — consumed by shadow or scattered across forgotten realms. Perhaps the runes misled you, or the old maps have faded.',
       'nf.p2': 'Follow the crimson thread back to the known world.',
       'nf.return': 'Return Home',
+      'nf.bestiary': 'Explore the Bestiary',
+      'nf.stories': 'Read Stories',
 
       'badge.pending': 'översättning saknas',
 
       'title.index': 'Whispering Lore — The Definitive World Mythology Database',
       'desc.index': 'The most comprehensive digital compendium and world mythology database of mythical creatures, folklore, and ancient legends from every culture on Earth.',
       'title.bestiary': 'Bestiarium — Mytiska varelser och legendariska väsen | Whispering Lore',
-      'desc.bestiary': 'Upptäck över 3 668 mytiska varelser, andar, monster och legender från 212 länder och kulturer världen över.',
+      'desc.bestiary': 'Upptäck över 3 730 mytiska varelser, andar, monster och legender från 242 länder och kulturer världen över.',
       'title.stories': 'Folksagor, myter och legender från hela världen | Whispering Lore',
       'desc.stories': 'Läs över 2 185 klassiska folksagor, episka myter och varnande legender från världens kulturer.',
       'title.items': 'Artefakter — Whispering Lore',
@@ -237,7 +239,7 @@
       'title.about': 'Om Whispering Lore — Världsmytologi och folklore',
       'desc.about': 'Whispering Lore är det mest omfattande digitala arkivet över världens mytologi och folktro.',
       'title.search': 'Sök — Utforska Whispering Lores arkiv',
-      'desc.search': 'Sök i Whispering Lores arkiv: 3 668 mytiska varelser, 2 185 berättelser och 641 artefakter.',
+      'desc.search': 'Sök i Whispering Lores arkiv: 3 730 mytiska varelser, 2 185 berättelser och 641 artefakter.',
       'title.404': '404 — Whispering Lore',
       'desc.404': 'Sidan hittades inte — de forna texterna nämner inte denna sida.'
     },
@@ -280,7 +282,7 @@
       'daily.await_story': 'Esperando el relato del día...',
       'grid.heading': 'Explora el Lore',
       'card.creatures.title': 'Criaturas Míticas',
-      'card.creatures.sub': 'Descubre dragones, espíritus y seres legendarios de 212 países y culturas de todo el mundo.',
+      'card.creatures.sub': 'Descubre dragones, espíritus y seres legendarios de 242 países y culturas de todo el mundo.',
       'card.creatures.cta': 'Entrar al Bestiario',
       'card.stories.title': 'Relatos Folclóricos',
       'card.stories.sub': 'Viaja a través de cuentos populares clásicos, mitos épicos y leyendas aleccionadoras transmitidas de generación en generación.',
@@ -365,7 +367,7 @@
       'search.sub': 'Criaturas, historias y artefactos de todas las tradiciones culturales',
       'about.hero_sub': 'Preservamos los mitos y leyendas de la humanidad para las mentes curiosas.',
       'about.p1': 'Whispering Lore es un compendio digital dedicado a documentar y preservar las criaturas míticas, las leyendas y el folclore de la civilización humana. Desde los dragones que escupen fuego de la leyenda europea hasta los kitsune cambiaformas de Japón, desde los cuentos de embustero de Anansi hasta el lamento escalofriante de la banshee irlandesa: todas las culturas tienen sus historias, y toda historia merece ser recordada.',
-      'about.p2': 'Nuestra base de datos abarca actualmente <strong>3 668 criaturas míticas</strong> y <strong>2 185 historias de folclore</strong> de más de 212 países y territorios de 36 regiones culturales. Cada entrada es investigada, documentada y presentada con respeto por la tradición de la que procede.',
+      'about.p2': 'Nuestra base de datos abarca actualmente <strong>3 730 criaturas míticas</strong> y <strong>2 185 historias de folclore</strong> de más de 242 países y territorios de 38 regiones culturales. Cada entrada es investigada, documentada y presentada con respeto por la tradición de la que procede.',
       'about.p3': 'Este proyecto es un archivo vivo. Se añaden nuevas criaturas e historias con regularidad a medida que avanza la investigación. Nuestro objetivo es crear la colección de folclore mundial más completa, respetuosa y bellamente presentada que exista.',
       'about.btn_suggest': 'Sugerir una entrada',
       'about.quote': '«Todo mito es un susurro del pasado — una historia que se negó a ser olvidada.»',
@@ -408,7 +410,7 @@
       'm.verify_li2': '<strong>Etapa 2 — Referencias cruzadas:</strong> se comprueba la exactitud de las referencias entre criaturas e historias y viceversa',
       'm.verify_li3': '<strong>Etapa 3 — Verificación de fuentes:</strong> las fuentes citadas se contrastan con catálogos de bibliotecas y bases de datos académicas',
       'm.verify_li4': '<strong>Etapa 4 — Revisión de expertos:</strong> folcloristas especializados revisan las entradas para comprobar su precisión cultural',
-      'm.verify_p2': 'En la versión actual del conjunto de datos, la base de datos contiene <strong>3 668 criaturas</strong> y <strong>2 185 historias</strong>, lo que suma un total de <strong>5 853 entradas</strong>. Todas las entradas cuentan con clasificaciones de calidad de fuente y tipo de fuente.',
+      'm.verify_p2': 'En la versión actual del conjunto de datos, la base de datos contiene <strong>3 730 criaturas</strong> y <strong>2 185 historias</strong>, lo que suma un total de <strong>5 915 entradas</strong>. Todas las entradas cuentan con clasificaciones de calidad de fuente y tipo de fuente.',
       'm.dist_creatures_p': 'Distribución actual de la calidad de las fuentes (criaturas):',
       'm.dist_creatures_li1': '<strong>Expert:</strong> 583 entradas — revisadas por especialistas en la materia',
       'm.dist_creatures_li2': '<strong>Verified:</strong> 60 entradas — confirmadas de forma independiente con fuentes primarias',
@@ -420,7 +422,7 @@
       'm.dist_creatures_li8': '<strong>Good:</strong> 1 720 entradas — de referencias generales',
       'm.dist_creatures_li9': '<strong>Fair:</strong> 447 entradas — de referencias generales o fuentes secundarias',
       'm.dist_creatures_li10': '<strong>Poor:</strong> 490 entradas — información de fuente limitada (incl. 486 marcadas como no corroboradas durante la campaña de investigación de descripciones de agosto de 2026)',
-      'm.dist_creatures_li11': 'Las 3 668 criaturas tienen clasificaciones de calidad de fuente.',
+      'm.dist_creatures_li11': 'Las 3 730 criaturas tienen clasificaciones de calidad de fuente.',
       'm.dist_stories_p': 'Distribución actual de la calidad de las fuentes (relatos):',
       'm.dist_stories_li1': '<strong>Expert:</strong> 39 entradas — revisadas por especialistas en la materia',
       'm.dist_stories_li2': '<strong>High:</strong> 55 entradas — de referencias de alta calidad',
@@ -446,11 +448,13 @@
       'nf.p1': 'El tomo que buscas se ha perdido en los siglos — devorado por la sombra o disperso por reinos olvidados. Quizá las runas te extraviaron, o los antiguos mapas se han desvanecido.',
       'nf.p2': 'Sigue el hilo carmesí de vuelta al mundo conocido.',
       'nf.return': 'Volver al inicio',
+      'nf.bestiary': 'Explorar el bestiario',
+      'nf.stories': 'Leer historias',
       'badge.pending': 'traducción pendiente',
       'title.index': 'Whispering Lore — La base de datos definitiva de mitología mundial',
       'desc.index': 'El compendio digital y la base de datos de mitología mundial más completos de criaturas míticas, folclore y leyendas antiguas de todas las culturas de la Tierra.',
       'title.bestiary': 'Bestiarium — Criaturas míticas y seres legendarios | Whispering Lore',
-      'desc.bestiary': 'Descubre más de 3 668 criaturas míticas, espíritus, monstruos y leyendas de 212 países y culturas de todo el mundo.',
+      'desc.bestiary': 'Descubre más de 3 730 criaturas míticas, espíritus, monstruos y leyendas de 242 países y culturas de todo el mundo.',
       'title.stories': 'Cuentos populares, mitos y leyendas de todo el mundo | Whispering Lore',
       'desc.stories': 'Lee más de 2 185 cuentos populares clásicos, mitos épicos y leyendas de advertencia de las culturas del mundo.',
       'title.items': 'Artefactos — Whispering Lore',
@@ -466,7 +470,7 @@
       'title.about': 'Acerca de Whispering Lore — Mitología y folclore mundiales',
       'desc.about': 'Whispering Lore es el archivo digital más completo de la mitología y el folclore del mundo.',
       'title.search': 'Buscar — Explora el archivo de Whispering Lore',
-      'desc.search': 'Busca en el archivo de Whispering Lore: 3 668 criaturas míticas, 2 185 relatos y 641 artefactos.',
+      'desc.search': 'Busca en el archivo de Whispering Lore: 3 730 criaturas míticas, 2 185 relatos y 641 artefactos.',
       'title.404': '404 — Whispering Lore',
       'desc.404': 'Página no encontrada — los textos antiguos no mencionan esta página.',
     },
@@ -512,7 +516,7 @@
       'daily.await_story': 'Dagens saga påväg...',
       'grid.heading': 'Utforska arket',
       'card.creatures.title': 'Mytiska varelser',
-      'card.creatures.sub': 'Upptäck drakar, andar och legendariska väsen från 212 länder och kulturer världen över.',
+      'card.creatures.sub': 'Upptäck drakar, andar och legendariska väsen från 242 länder och kulturer världen över.',
       'card.creatures.cta': 'Till bestariet',
       'card.stories.title': 'Folklorberättelser',
       'card.stories.sub': 'Res genom klassiska folksagor, episka myter och varnande legender som förvidrat i generationer.',
@@ -582,7 +586,7 @@
       'hero.items': 'Artefakter',
       'hero.items_sub': 'Heliga föremål, legendariska vapen, verktyg, skepp och ritualföremål — mytens och folktrons konkreta under.',
       'hero.world': 'Världen',
-      'hero.world_sub': "Res genom de mytiska regionerna och kulturerna som format mänsklighetens berättelser.",
+      'hero.world_sub': 'Res genom de mytiska regionerna och kulturerna som format mänsklighetens berättelser.',
       'hero.quiz': 'Examen',
       'hero.quiz_sub': 'Testa dina kunskaper om mytiska varelser och folktro.',
       'quiz.start': 'Starta examen',
@@ -601,7 +605,7 @@
 
       'about.hero_sub': 'Bevarar mänsklighetens myter och legender för nyfikna själar.',
       'about.p1': 'Whispering Lore är ett digitalt uppslagsverk med uppdrag att dokumentera och bevara mänsklighetens mytiska varelser, legender och folktro. Från de eldsprutande drakarna i europeisk legend till den skiftgestaltande kitsune i Japan, från Anansis tricksterberättelser till den irländska banshees klagovissla — varje kultur har sina berättelser, och varje berättelse förtjänar att bli ihågkommen.',
-      'about.p2': 'Vårt databas omfattar idag <strong>3 668 mytiska varelser</strong> och <strong>2 185 folklorberättelser</strong> från över 212 länder och territorier i 36 kulturregioner. Varje post är researchad, dokumenterad och presenterad med omsorg om traditionen den kommer från.',
+      'about.p2': 'Vårt databas omfattar idag <strong>3 730 mytiska varelser</strong> och <strong>2 185 folklorberättelser</strong> från över 242 länder och territorier i 38 kulturregioner. Varje post är researchad, dokumenterad och presenterad med omsorg om traditionen den kommer från.',
       'about.p3': 'Detta projekt är ett levande arkiv. Nya varelser och berättelser läggs till regelbundet allt eftersom researchen fortskrider. Vårt mål är att skapa den mest omfattande, respektfulla och vackert presenterade samlingen av världens folktro som finns.',
       'about.btn_suggest': 'Föreslå en post',
       'about.quote': '"Varje myt är en viskning från det förflutna — en berättelse som vägrade bli glömd."',
@@ -645,7 +649,7 @@
       'm.verify_li2': '<strong>Steg 2 — Kryssreferens:</strong> Varelse-till-berättelse- och berättelse-till-varelse-referenser kontrollerade för noggrannhet',
       'm.verify_li3': '<strong>Steg 3 — Källverifiering:</strong> Namngivna källor kontrollerade mot bibliotekskataloger och akademiska databaser',
       'm.verify_li4': '<strong>Steg 4 — Expertgranskning:</strong> Folklorister med ämneskunskap granskar posternas kulturella noggrannhet',
-      'm.verify_p2': 'I den aktuella datasetversionen innehåller databasen <strong>3 668 varelser</strong> och <strong>2 185 berättelser</strong> — totalt <strong>5 853 poster</strong>. Alla poster har källkvalitets- och källtypsklassificering.',
+      'm.verify_p2': 'I den aktuella datasetversionen innehåller databasen <strong>3 730 varelser</strong> och <strong>2 185 berättelser</strong> — totalt <strong>5 915 poster</strong>. Alla poster har källkvalitets- och källtypsklassificering.',
       'm.dist_creatures_p': 'Aktuell källkvalitetsfördelning (varelser):',
       'm.dist_creatures_li1': '<strong>Expert:</strong> 583 poster — granskade av ämnesspecialister',
       'm.dist_creatures_li2': '<strong>Verified:</strong> 60 poster — oberoende bekräftade mot primärkällor',
@@ -657,7 +661,7 @@
       'm.dist_creatures_li8': '<strong>Good:</strong> 1 720 poster — från allmänna referenser',
       'm.dist_creatures_li9': '<strong>Fair:</strong> 447 poster — från allmänna referenser eller sekundärkällor',
       'm.dist_creatures_li10': '<strong>Poor:</strong> 490 poster — begränsad källinformation (inkl. 486 flaggade overifierade under researchomgången i augusti 2026)',
-      'm.dist_creatures_li11': 'Alla 3 668 varelser har källkvalitetsklassificering.',
+      'm.dist_creatures_li11': 'Alla 3 730 varelser har källkvalitetsklassificering.',
       'm.dist_stories_p': 'Aktuell källkvalitetsfördelning (berättelser):',
       'm.dist_stories_li1': '<strong>Expert:</strong> 39 poster — granskade av ämnesspecialister',
       'm.dist_stories_li2': '<strong>High:</strong> 55 poster — från högkvalitativa referenser',
@@ -684,13 +688,15 @@
       'nf.p1': 'Den bok du söker har gått förlorad i seklen — uppslukad av skugga eller utspridd över bortglömda riken. Kanske vilade ledning runorna, eller har de gamla kartorna bleknat.',
       'nf.p2': 'Följ den karmosinröda tråden tillbaka till den kända världen.',
       'nf.return': 'Tillbaka hem',
+      'nf.bestiary': 'Utforska bestiariet',
+      'nf.stories': 'Läs berättelser',
 
       'badge.pending': 'översättning saknas',
 
       'title.index': 'Whispering Lore — Den främsta databasen över världsmytologi',
       'desc.index': 'Det mest omfattande digitala uppslagsverket och världsdatabasen över mytiska varelser, folktro och uråldriga legender från alla kulturer på jorden.',
       'title.bestiary': 'Bestiarium — Mytiska varelser och legendariska väsen | Whispering Lore',
-      'desc.bestiary': 'Upptäck över 3 668 mytiska varelser, andar, monster och legender från 212 länder och kulturer världen över.',
+      'desc.bestiary': 'Upptäck över 3 730 mytiska varelser, andar, monster och legender från 242 länder och kulturer världen över.',
       'title.stories': 'Folksagor, myter och legender från hela världen | Whispering Lore',
       'desc.stories': 'Läs över 2 185 klassiska folksagor, episka myter och varnande legender från världens kulturer.',
       'title.items': 'Artefakter — Whispering Lore',
@@ -706,7 +712,7 @@
       'title.about': 'Om Whispering Lore — Världsmytologi och folklore',
       'desc.about': 'Whispering Lore är det mest omfattande digitala arkivet över världens mytologi och folktro.',
       'title.search': 'Sök — Utforska Whispering Lores arkiv',
-      'desc.search': 'Sök i Whispering Lores arkiv: 3 668 mytiska varelser, 2 185 berättelser och 641 artefakter.',
+      'desc.search': 'Sök i Whispering Lores arkiv: 3 730 mytiska varelser, 2 185 berättelser och 641 artefakter.',
       'title.404': '404 — Whispering Lore',
       'desc.404': 'Sidan hittades inte — de forna texterna nämner inte denna sida.'
     },
@@ -751,7 +757,7 @@
       'daily.await_story': 'Venter på dagens fortelling...',
       'grid.heading': 'Utforsk arkivet',
       'card.creatures.title': 'Mytiske vesener',
-      'card.creatures.sub': 'Oppdag drager, ånder og legendariske vesener fra 212 land og kulturer verden over.',
+      'card.creatures.sub': 'Oppdag drager, ånder og legendariske vesener fra 242 land og kulturer verden over.',
       'card.creatures.cta': 'Til bestiariet',
       'card.stories.title': 'Folklorefortellinger',
       'card.stories.sub': 'Reis gjennom klassiske folkeeventyr, episke myter og advarende legender overlevert i generasjoner.',
@@ -840,7 +846,7 @@
 
       'about.hero_sub': 'Bevarer menneskehetens myter og legender for nysgjerrige sjeler.',
       'about.p1': 'Whispering Lore er et digitalt oppslagsverk dedikert til å dokumentere og bevare menneskehetens mytiske vesener, legender og folketro. Fra de ildsprutende dragene i europeisk legende til kitsuneen i Japan som skifter skikkelse, fra Anansis tricksterfortellinger til den irske bansheens hjemsøkende klage — enhver kultur har sine fortellinger, og hver fortelling fortjener å bli husket.',
-      'about.p2': 'Databasen vår omfatter i dag <strong>3 668 mytiske vesener</strong> og <strong>2 185 folklorefortellinger</strong> fra over 212 land og territorier i 36 kulturregioner. Hver post er forsket på, dokumentert og presentert med omhu for tradisjonen den kommer fra.',
+      'about.p2': 'Databasen vår omfatter i dag <strong>3 730 mytiske vesener</strong> og <strong>2 185 folklorefortellinger</strong> fra over 242 land og territorier i 38 kulturregioner. Hver post er forsket på, dokumentert og presentert med omhu for tradisjonen den kommer fra.',
       'about.p3': 'Dette prosjektet er et levende arkiv. Nye vesener og fortellinger legges til jevnlig etter hvert som forskningen fortsetter. Målet vårt er å skape den mest omfattende, respektfulle og vakkert presenterte samlingen av verdens folketro som finnes.',
       'about.btn_suggest': 'Foreslå en post',
       'about.quote': '"Hver myte er en hviskning fra fortiden — en fortelling som nektet å bli glemt."',
@@ -884,7 +890,7 @@
       'm.verify_li2': '<strong>Trinn 2 — Kryssreferanse:</strong> Vesen-til-fortelling- og fortelling-til-vesen-referanser sjekket for nøyaktighet',
       'm.verify_li3': '<strong>Trinn 3 — Kildeverifisering:</strong> Navngitte kilder sjekket mot bibliotekkataloger og akademiske databaser',
       'm.verify_li4': '<strong>Trinn 4 — Ekspertgjennomgang:</strong> Folklorister med fagkunnskap gjennomgår postenes kulturelle nøyaktighet',
-      'm.verify_p2': 'I den nåværende datasettversjonen inneholder databasen <strong>3 668 vesener</strong> og <strong>2 185 fortellinger</strong> — til sammen <strong>5 853 poster</strong>. Alle poster har kildekvalitets- og kildetypeklassifisering.',
+      'm.verify_p2': 'I den nåværende datasettversjonen inneholder databasen <strong>3 730 vesener</strong> og <strong>2 185 fortellinger</strong> — til sammen <strong>5 915 poster</strong>. Alle poster har kildekvalitets- og kildetypeklassifisering.',
       'm.dist_creatures_p': 'Nåværende kildekvalitetsfordeling (vesener):',
       'm.dist_creatures_li1': '<strong>Expert:</strong> 583 poster — gjennomgått av fagspesialister',
       'm.dist_creatures_li2': '<strong>Verified:</strong> 60 poster — uavhengig bekreftet mot primærkilder',
@@ -896,7 +902,7 @@
       'm.dist_creatures_li8': '<strong>Good:</strong> 1 720 poster — fra generelle referanser',
       'm.dist_creatures_li9': '<strong>Fair:</strong> 447 poster — fra generelle referanser eller sekundærkilder',
       'm.dist_creatures_li10': '<strong>Poor:</strong> 490 poster — begrenset kildeinformasjon (inkl. 486 flagget ubekreftet under beskrivelses- og forskningsrunden i august 2026)',
-      'm.dist_creatures_li11': 'Alle 3 668 vesener har kildekvalitetsklassifisering.',
+      'm.dist_creatures_li11': 'Alle 3 730 vesener har kildekvalitetsklassifisering.',
       'm.dist_stories_p': 'Nåværende kildekvalitetsfordeling (fortellinger):',
       'm.dist_stories_li1': '<strong>Expert:</strong> 39 poster — gjennomgått av fagspesialister',
       'm.dist_stories_li2': '<strong>High:</strong> 55 poster — fra høykvalitetsreferanser',
@@ -923,13 +929,15 @@
       'nf.p1': 'Boken du søker, har gått tapt i tidene — oppslukt av skygge eller strødd over glemte riker. Kanskje runene ledet deg vill, eller de gamle kartene har falmet.',
       'nf.p2': 'Følg den karmosinrøde tråden tilbake til den kjente verden.',
       'nf.return': 'Tilbake hjem',
+      'nf.bestiary': 'Utforsk bestiariet',
+      'nf.stories': 'Les historier',
 
       'badge.pending': 'oversettelse mangler',
 
       'title.index': 'Whispering Lore — Den fremste databasen over verdensmytologi',
       'desc.index': 'Det mest omfattende digitale oppslagsverket og verdensdatabasen over mytiske vesener, folketro og urgamle legender fra alle kulturer på jorden.',
       'title.bestiary': 'Bestiarium — Mytiske vesener og legendariske skapninger | Whispering Lore',
-      'desc.bestiary': 'Oppdag over 3 668 mytiske vesener, ånder, monstre og legender fra 212 land og kulturer verden over.',
+      'desc.bestiary': 'Oppdag over 3 730 mytiske vesener, ånder, monstre og legender fra 242 land og kulturer verden over.',
       'title.stories': 'Folkeeventyr, myter og legender fra hele verden | Whispering Lore',
       'desc.stories': 'Les over 2 185 klassiske folkeeventyr, episke myter og advarende legender fra verdens kulturer.',
       'title.items': 'Gjenstander — Whispering Lore',
@@ -945,18 +953,18 @@
       'title.about': 'Om Whispering Lore — Verdensmytologi og folklore',
       'desc.about': 'Whispering Lore er det mest omfattende digitale arkivet over verdens mytologi og folketro.',
       'title.search': 'Søk — Utforsk Whispering Lores arkiv',
-      'desc.search': 'Søk i Whispering Lores arkiv: 3 668 mytiske vesener, 2 185 fortellinger og 641 gjenstander.',
+      'desc.search': 'Søk i Whispering Lores arkiv: 3 730 mytiske vesener, 2 185 fortellinger og 641 gjenstander.',
       'title.404': '404 — Whispering Lore',
       'desc.404': 'Siden ble ikke funnet — de gamle tekstene nevner ikke denne siden.'
     }
   }
 
   function setPageMeta(dict) {
-    var page = (window.location.pathname.split('/').pop() || 'index.html').replace(/\.html$/, '')
+    let page = (window.location.pathname.split('/').pop() || 'index.html').replace(/\.html$/, '')
     if (!page || page === '') page = 'index'
-    var tKey = 'title.' + page
+    const tKey = 'title.' + page
     if (dict[tKey] != null) document.title = dict[tKey]
-    var meta = document.querySelector('meta[name="description"]')
+    const meta = document.querySelector('meta[name="description"]')
     if (meta && dict['desc.' + page] != null) meta.setAttribute('content', dict['desc.' + page])
   }
 
@@ -965,36 +973,36 @@
       return window.__sharedUtils.getNativeLang()
     }
     try {
-      var m = window.location.search.match(/[?&]lang=([A-Za-z-]+)/)
+      const m = window.location.search.match(/[?&]lang=([A-Za-z-]+)/)
       return m && ['sv', 'no', 'es'].indexOf(m[1]) !== -1 ? m[1] : null
     } catch (e) { return null }
   }
 
   function applyChrome() {
-    var lang = currentLang()
+    const lang = currentLang()
     if (!lang) return
-    var dict = DICT[lang]
+    const dict = DICT[lang]
     if (!dict) return
     document.documentElement.setAttribute('lang', lang)
-    var nodes = document.querySelectorAll('[data-i18n]')
-    for (var i = 0; i < nodes.length; i++) {
-      var k = nodes[i].getAttribute('data-i18n')
-      var v = dict[k]
+    const nodes = document.querySelectorAll('[data-i18n]')
+    for (let i = 0; i < nodes.length; i++) {
+      const k = nodes[i].getAttribute('data-i18n')
+      const v = dict[k]
       if (v == null) continue
       if (v.indexOf('<') !== -1) nodes[i].innerHTML = v
       else nodes[i].textContent = v
     }
-    var placeholders = document.querySelectorAll('[data-i18n-placeholder]')
-    for (var p = 0; p < placeholders.length; p++) {
-      var pk = placeholders[p].getAttribute('data-i18n-placeholder')
+    const placeholders = document.querySelectorAll('[data-i18n-placeholder]')
+    for (let p = 0; p < placeholders.length; p++) {
+      const pk = placeholders[p].getAttribute('data-i18n-placeholder')
       if (dict[pk] != null) placeholders[p].setAttribute('placeholder', dict[pk])
     }
     // Static-markup link pass: keep visitors in native mode across pages.
     // JS-built card links wrap their targets with withLang at build time.
     if (window.__sharedUtils && window.__sharedUtils.withLang) {
-      var links = document.querySelectorAll('a[href]')
-      for (var j = 0; j < links.length; j++) {
-        var href = links[j].getAttribute('href')
+      const links = document.querySelectorAll('a[href]')
+      for (let j = 0; j < links.length; j++) {
+        const href = links[j].getAttribute('href')
         if (!href || /^https?:\/\//i.test(href) || /^mailto:/i.test(href)) continue
         if (href.indexOf('.html') !== -1 || href.charAt(0) === '?') {
           links[j].setAttribute('href', window.__sharedUtils.withLang(href))

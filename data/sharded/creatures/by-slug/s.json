@@ -8935,7 +8935,11 @@
       "dominican vampire",
       "caribbean hag"
     ],
-    "tags": [],
+    "tags": [
+      "shapeshifter",
+      "caribbean",
+      "monster"
+    ],
     "schema_org_type": "MythicalCreature",
     "seo_title": "Soucouyant – Dominica Folklore",
     "seo_description": "The Soucouyant is well-known in Saint Vincent and the Grenadines folklore as a shape-shifting, blood-sucking hag. As documented by Charles Day in his 19th-...",
@@ -8944,11 +8948,11 @@
     ],
     "featured_in_stories": [],
     "source": "Dominican folk tradition; Caribbean soucouyant complex",
-    "source_quality": "documented",
+    "source_quality": "verified",
     "stories": [],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-05",
-    "living_tradition": false,
+    "lastUpdated": "2026-09-18",
+    "living_tradition": true,
     "source_type": "oral_tradition",
     "attested": true
   },
@@ -18080,7 +18084,9 @@
     "tags": [
       "giant",
       "cannibal",
-      "antagonist"
+      "antagonist",
+      "sami",
+      "nordic"
     ],
     "motifs": [
       "G100",
@@ -18093,7 +18099,7 @@
     "featured_in_stories": [],
     "fun_fact_generated": false,
     "schema_org_type": "MythicalCreature",
-    "source_quality": "good",
+    "source_quality": "verified",
     "country_region": "Sweden/Finland",
     "stories": [
       "stllo-and-kauras",
@@ -18111,8 +18117,8 @@
       "Luhtak"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-07",
-    "living_tradition": false,
+    "lastUpdated": "2026-09-18",
+    "living_tradition": true,
     "source_type": "literary",
     "pronunciation_ipa": "/stallo/",
     "attested": true
@@ -22497,7 +22503,11 @@
     "search_terms": [
       "Shurale Tatar forest spirit"
     ],
-    "tags": [],
+    "tags": [
+      "nature-spirit",
+      "russia",
+      "central-asia"
+    ],
     "schema_org_type": "MythicalCreature",
     "seo_title": "Shurale – Tatar Folklore",
     "seo_description": "The most famous mythological creature in Tatar folklore — a forest spirit depicted as a hairy man with a horn on his forehead, one eye, and extremely long finge",
@@ -22506,15 +22516,15 @@
     ],
     "featured_in_stories": [],
     "source": "https://tatarica.org/ru/razdely/narody/tatary/verovaniya-i-mifologiya/mifologicheskie-personazhi/shurale; Tuqay (1908)",
-    "source_quality": "well-documented",
+    "source_quality": "verified",
     "fun_fact_generated": false,
     "country_region": "Tatarstan",
     "stories": [
       "shurale-the-forest-spirit"
     ],
     "version": "1.0.0",
-    "lastUpdated": "2026-08-03",
-    "living_tradition": false,
+    "lastUpdated": "2026-09-18",
+    "living_tradition": true,
     "source_type": "literary",
     "attested": true
   },

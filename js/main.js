@@ -19,7 +19,11 @@
 
       const creatureCount = cStats.total
       const storyCount = sStats.total
-      const countries = Object.keys(cStats.countries).length
+      const countries = new Set([
+        ...Object.keys(cStats.countries || {}),
+        ...Object.keys(sStats.countries || {}),
+        ...Object.keys(iStats.countries || {}),
+      ]).size
       const regions = Object.keys(cStats.regions).length
 
       const formatNum = (n) => n.toLocaleString()

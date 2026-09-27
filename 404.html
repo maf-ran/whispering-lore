@@ -97,7 +97,7 @@
 
   <section class="page-hero">
     <div class="hero-bg"></div>
-    <canvas id="rune-canvas" class="rune-scatter" aria-hidden="true"></canvas>
+    <canvas id="rune-canvas" class="rune-scatter notranslate" translate="no" aria-hidden="true"></canvas>
     <div class="page-hero-content">
       <h1 data-i18n="nf.h1">Page Not Found</h1>
       <span class="accent-line"></span>
@@ -111,7 +111,11 @@
     <p data-i18n="nf.p1">The tome you seek has been lost to the ages — consumed by shadow or scattered across forgotten realms. Perhaps the runes misled you, or the old maps have faded.</p>
     <p data-i18n="nf.p2">Follow the crimson thread back to the known world.</p>
     <span class="crimson-line"></span>
-    <a href="index.html" class="card-cta mt-3" style="display:inline-block;" data-i18n="nf.return">Return Home</a>
+    <div class="hero-actions" style="justify-content:center;">
+      <a href="index.html" class="btn-ghost" data-i18n="nf.return">Return Home</a>
+      <a href="bestiary.html" class="card-cta" data-i18n="nf.bestiary">Explore the Bestiary</a>
+      <a href="stories.html" class="card-cta" data-i18n="nf.stories">Read Stories</a>
+    </div>
   </section>
 
   </main>
@@ -131,6 +135,11 @@
     </div>
     <div class="ko-fi-support" aria-label="Support Whispering Lore on Ko-fi">
       <p class="ko-fi-label" data-i18n="kofi.label">Help keep the archive alive</p>
+      <a class="monero-btn" href="monero:48fFYGMhUbiBvjoGB61bJQ4brmmQqmanKa1Z5rwLFjhxbHSS1yyqZZXMdVqG6pdXWETKi8kWX3T4mfg3xa8MKkFZ62BygAm"
+         aria-label="Support Whispering Lore with Monero (XMR)">
+        <img src="assets/monero-heart.png" alt="" aria-hidden="true" />
+        <span>Support with Monero</span>
+      </a>
       <script type='text/javascript'>
       (function () {
         function loadKoFi() {

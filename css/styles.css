@@ -2101,6 +2101,11 @@ footer p {
   margin: 1.75rem 0 2rem;
   padding: 0.75rem 0;
   text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 0.75rem 1rem;
 }
 
 .ko-fi-label {
@@ -2109,7 +2114,8 @@ footer p {
   letter-spacing: 0.14em;
   text-transform: uppercase;
   color: var(--text-secondary);
-  margin-bottom: 1rem;
+  margin-bottom: 0;
+  flex-basis: 100%;
 }
 
 /* Third-party Ko-fi widget ships white bold text with an orange text-shadow on
@@ -2123,6 +2129,44 @@ footer p {
 
 .ko-fi-support .kofitext {
   text-shadow: none !important;
+}
+
+/* Monero donation badge — mirrors the Ko-fi button so both sit side by side.
+   Inline-flex + gap keeps logo and label aligned; --accent bg gives the same
+   AA contrast as the Ko-fi restyle above. */
+.monero-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  height: 40px;
+  padding: 0 1.1rem;
+  border-radius: 0.5rem;
+  background-color: var(--accent);
+  color: #fff;
+  /* Mirror the Ko-fi widget's own text styles so both buttons read as a pair. */
+  font-family: Quicksand, Helvetica, "Century Gothic", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  text-decoration: none;
+  line-height: 1;
+  transition: background-color 0.3s ease, color 0.3s ease, transform 0.3s ease;
+}
+
+.monero-btn:hover,
+.monero-btn:focus-visible {
+  background-color: var(--accent-strong);
+  color: #fff;
+  outline: none;
+}
+
+.monero-btn:active {
+  transform: scale(0.96);
+}
+
+.monero-btn img {
+  width: 1.1em;
+  height: 1.1em;
+  flex: none;
 }
 
 /* ── Globe section ── */
@@ -3193,6 +3237,10 @@ footer p {
   word-break: break-all;
   white-space: pre-wrap;
   margin-bottom: 0.5rem;
+}
+.cite-text:focus-visible {
+  outline: 2px solid var(--accent-strong);
+  outline-offset: 1px;
 }
 .cite-copy-btn {
   background: var(--accent-strong);
