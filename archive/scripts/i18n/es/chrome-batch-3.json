@@ -1,0 +1,230 @@
+[
+ {
+  "key": "mylore.import",
+  "value": "Importar colección"
+ },
+ {
+  "key": "mylore.journey",
+  "value": "Tu viaje"
+ },
+ {
+  "key": "mylore.progress_creatures",
+  "value": "Bestiario explorado"
+ },
+ {
+  "key": "mylore.progress_stories",
+  "value": "Archivos explorados"
+ },
+ {
+  "key": "search.heading",
+  "value": "Buscar en el archivo"
+ },
+ {
+  "key": "search.sub",
+  "value": "Criaturas, historias y artefactos de todas las tradiciones culturales"
+ },
+ {
+  "key": "about.hero_sub",
+  "value": "Preservamos los mitos y leyendas de la humanidad para las mentes curiosas."
+ },
+ {
+  "key": "about.p1",
+  "value": "Whispering Lore es un compendio digital dedicado a documentar y preservar las criaturas míticas, las leyendas y el folclore de la civilización humana. Desde los dragones que escupen fuego de la leyenda europea hasta los kitsune cambiaformas de Japón, desde los cuentos de embustero de Anansi hasta el lamento escalofriante de la banshee irlandesa: todas las culturas tienen sus historias, y toda historia merece ser recordada."
+ },
+ {
+  "key": "about.p2",
+  "value": "Nuestra base de datos abarca actualmente <strong>3 668 criaturas míticas</strong> y <strong>2 185 historias de folclore</strong> de más de 212 países y territorios de 36 regiones culturales. Cada entrada es investigada, documentada y presentada con respeto por la tradición de la que procede."
+ },
+ {
+  "key": "about.p3",
+  "value": "Este proyecto es un archivo vivo. Se añaden nuevas criaturas e historias con regularidad a medida que avanza la investigación. Nuestro objetivo es crear la colección de folclore mundial más completa, respetuosa y bellamente presentada que exista."
+ },
+ {
+  "key": "about.btn_suggest",
+  "value": "Sugerir una entrada"
+ },
+ {
+  "key": "about.quote",
+  "value": "«Todo mito es un susurro del pasado — una historia que se negó a ser olvidada.»"
+ },
+ {
+  "key": "about.board_heading",
+  "value": "Consejo editorial"
+ },
+ {
+  "key": "about.role1",
+  "value": "Archivero jefe · Especialista en folclore celta y nórdico"
+ },
+ {
+  "key": "about.role2",
+  "value": "Curador principal · Mitólogo comparativo"
+ },
+ {
+  "key": "about.role3",
+  "value": "Consultor regional · Tradiciones de Asia Oriental"
+ },
+ {
+  "key": "about.role4",
+  "value": "Enlace cultural · Tradiciones orales del África subsahariana"
+ },
+ {
+  "key": "m.hero_sub",
+  "value": "Cómo se compiló, verificó y mantuvo este corpus."
+ },
+ {
+  "key": "m.sources_h",
+  "value": "Fuentes de datos"
+ },
+ {
+  "key": "m.sources_p1",
+  "value": "El conjunto de datos de Whispering Lore se nutre de una amplia gama de fuentes de los estudios del folclore, la antropología y la mitología comparada:"
+ },
+ {
+  "key": "m.sources_li1",
+  "value": "Colecciones de folclore publicadas y antologías académicas (p. ej., Asbjørnsen & Moe, los hermanos Grimm, Y.T. Kawamura)"
+ },
+ {
+  "key": "m.sources_li2",
+  "value": "Estudios mitográficos regionales y enciclopedias de mitología mundial"
+ },
+ {
+  "key": "m.sources_li3",
+  "value": "Artículos de revistas revisadas por pares en estudios del folclore y antropología cultural"
+ },
+ {
+  "key": "m.sources_li4",
+  "value": "Transcripciones de tradiciones orales primarias cuando existen en forma publicada"
+ },
+ {
+  "key": "m.sources_li5",
+  "value": "Materiales de patrimonio cultural indígena publicados con permiso de la comunidad"
+ },
+ {
+  "key": "m.sources_p2",
+  "value": "Cada entrada incluye un campo <strong>source</strong> que indica la referencia específica utilizada. Las entradas marcadas con <strong>source_quality: \"verified\"</strong> se han contrastado con al menos dos fuentes académicas independientes. Las entradas marcadas con <strong>\"unknown\"</strong> están pendientes de verificación."
+ },
+ {
+  "key": "m.inclusion_h",
+  "value": "Criterios de inclusión"
+ },
+ {
+  "key": "m.inclusion_p1",
+  "value": "Una criatura o historia se incluye si cumple al menos uno de estos requisitos:"
+ },
+ {
+  "key": "m.inclusion_li1",
+  "value": "Está documentada en una fuente publicada de folclore o mitología"
+ },
+ {
+  "key": "m.inclusion_li2",
+  "value": "Forma parte de una tradición cultural identificable con transmisión oral o literaria"
+ },
+ {
+  "key": "m.inclusion_li3",
+  "value": "Se cita en múltiples fuentes independientes (para entradas transculturales)"
+ },
+ {
+  "key": "m.inclusion_p2",
+  "value": "Las entradas procedentes de la ficción moderna, los videojuegos o las creaciones exclusivamente cinematográficas quedan excluidas, salvo que tengan raíces en el folclore tradicional. Las leyendas contemporáneas y el folclore urbano se incluyen cuando están bien documentados."
+ },
+ {
+  "key": "m.structure_h",
+  "value": "Estructura de datos"
+ },
+ {
+  "key": "m.structure_p1",
+  "value": "Cada entrada de criatura contiene 25+ campos organizados en categorías:"
+ },
+ {
+  "key": "m.structure_li1",
+  "value": "<strong>Identidad:</strong> nombre, slug, nombres alternativos, clasificación por tipo"
+ },
+ {
+  "key": "m.structure_li2",
+  "value": "<strong>Geografía:</strong> país, región, tradición cultural"
+ },
+ {
+  "key": "m.structure_li3",
+  "value": "<strong>Descripción:</strong> apariencia, comportamiento, hábitat, significado cultural"
+ },
+ {
+  "key": "m.structure_li4",
+  "value": "<strong>Relaciones:</strong> criaturas relacionadas, especies progenitoras, historias asociadas"
+ },
+ {
+  "key": "m.structure_li5",
+  "value": "<strong>Metadatos:</strong> calidad de la fuente, última actualización, estado de verificación"
+ },
+ {
+  "key": "m.editorial_h",
+  "value": "Estándares editoriales"
+ },
+ {
+  "key": "m.editorial_li1",
+  "value": "Las entradas están redactadas en un tono neutro y descriptivo que respeta la cultura de origen"
+ },
+ {
+  "key": "m.editorial_li2",
+  "value": "Los nombres alternativos y las transliteraciones se conservan junto a los nombres principales"
+ },
+ {
+  "key": "m.editorial_li3",
+  "value": "Las variantes regionales y culturales se anotan cuando están documentadas"
+ },
+ {
+  "key": "m.editorial_li4",
+  "value": "El folclore ambiguo o cuestionado se señala en lugar de aplanarlo en una única narrativa"
+ },
+ {
+  "key": "m.editorial_li5",
+  "value": "Se ha utilizado generación de texto asistida por IA para algunas ampliaciones de resúmenes y está claramente marcada en los metadatos; dichas entradas están etiquetadas explícitamente y se están reemplazando progresivamente por contenido verificado"
+ },
+ {
+  "key": "m.verify_h",
+  "value": "Proceso de verificación"
+ },
+ {
+  "key": "m.verify_p1",
+  "value": "La verificación es un proceso continuo. Las entradas pasan por estas etapas:"
+ },
+ {
+  "key": "m.verify_li1",
+  "value": "<strong>Etapa 1 — Compilación inicial:</strong> datos recopilados de fuentes publicadas y formateados según el esquema estándar"
+ },
+ {
+  "key": "m.verify_li2",
+  "value": "<strong>Etapa 2 — Referencias cruzadas:</strong> se comprueba la exactitud de las referencias entre criaturas e historias y viceversa"
+ },
+ {
+  "key": "m.verify_li3",
+  "value": "<strong>Etapa 3 — Verificación de fuentes:</strong> las fuentes citadas se contrastan con catálogos de bibliotecas y bases de datos académicas"
+ },
+ {
+  "key": "m.verify_li4",
+  "value": "<strong>Etapa 4 — Revisión de expertos:</strong> folcloristas especializados revisan las entradas para comprobar su precisión cultural"
+ },
+ {
+  "key": "m.verify_p2",
+  "value": "En la versión actual del conjunto de datos, la base de datos contiene <strong>3 668 criaturas</strong> y <strong>2 185 historias</strong>, lo que suma un total de <strong>5 853 entradas</strong>. Todas las entradas cuentan con clasificaciones de calidad de fuente y tipo de fuente."
+ },
+ {
+  "key": "m.dist_creatures_p",
+  "value": "Distribución actual de la calidad de las fuentes (criaturas):"
+ },
+ {
+  "key": "m.dist_creatures_li1",
+  "value": "<strong>Expert:</strong> 583 entradas — revisadas por especialistas en la materia"
+ },
+ {
+  "key": "m.dist_creatures_li2",
+  "value": "<strong>Verified:</strong> 60 entradas — confirmadas de forma independiente con fuentes primarias"
+ },
+ {
+  "key": "m.dist_creatures_li3",
+  "value": "<strong>Researched:</strong> 94 entradas — trazadas hasta fuentes académicas o de archivo concretas"
+ },
+ {
+  "key": "m.dist_creatures_li4",
+  "value": "<strong>Well-documented:</strong> 161 entradas — respaldadas por múltiples fuentes independientes"
+ }
+]

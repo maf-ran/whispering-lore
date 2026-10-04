@@ -31,7 +31,12 @@
     },
     "testPathIgnorePatterns": [
       "/node_modules/",
-      "/tests/e2e/"
+      "/tests/e2e/",
+      "/test-results",
+      "/.opencode/"
+    ],
+    "modulePathIgnorePatterns": [
+      "<rootDir>/test-results"
     ],
     "coverageDirectory": "coverage",
     "coverageReporters": [

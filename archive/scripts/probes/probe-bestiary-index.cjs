@@ -1,0 +1,25 @@
+/* eslint-env node */
+const { chromium } = require('playwright')
+
+;(async () => {
+  const base = 'http://127.0.0.1:' + (process.env.PORT || 3000)
+  const browser = await chromium.launch()
+  const page = await browser.newPage()
+  const requests = []
+  page.on('request', (r) => requests.push(r.url()))
+  page.on('console', (m) => { if (m.type() === 'error') console.log('CONSOLE ERROR:', m.text()) })
+  await page.goto(base + '/bestiary.html?creature=gumiho-northkorea')
+  await page.waitForSelector('#creature-stories:not(.is-hidden)', { timeout: 15000 })
+  await page.waitForTimeout(1500)
+  const cardCount = await page.$$eval('#creature-stories .related-story-card', (els) => els.length)
+  const shardHits = requests.filter((u) => u.includes('/data/sharded/stories/by-region/'))
+  const idxHits = requests.filter((u) => u.includes('/data/sharded/search-index.json'))
+  console.log('related cards:', cardCount)
+  console.log('stories shard requests:', shardHits.length)
+  console.log('search-index requests:', idxHits.length)
+  if (!cardCount) throw new Error('no related stories rendered')
+  if (shardHits.length) throw new Error('unexpected stories shard loads: ' + shardHits.length)
+  if (!idxHits.length) throw new Error('search-index.json not fetched')
+  await browser.close()
+  console.log('OK')
+})().catch((e) => { console.error('PROBE FAIL', e); process.exit(1) })

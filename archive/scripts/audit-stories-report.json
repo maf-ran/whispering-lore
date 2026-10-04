@@ -1,0 +1,1839 @@
+{
+  "meta": {
+    "generated": "2026-07-23T04:38:39.324Z",
+    "totalStories": 1719,
+    "totalCreatures": 3668,
+    "scriptVersion": "1.0.0"
+  },
+  "summary": {
+    "critical": 0,
+    "high": 1109,
+    "medium": 232,
+    "low": 1007
+  },
+  "findings": {
+    "cross_reference_integrity": {
+      "severity": "critical",
+      "title": "Broken creature cross-references",
+      "description": "Creature slugs referenced in stories that do not exist in creatures.json",
+      "count": 0,
+      "items": []
+    },
+    "duplicate_ids": {
+      "severity": "critical",
+      "title": "Duplicate story IDs",
+      "description": "Multiple stories sharing the same ID value",
+      "count": 0,
+      "items": []
+    },
+    "duplicate_slugs": {
+      "severity": "critical",
+      "title": "Duplicate story slugs",
+      "description": "Multiple stories sharing the same slug value",
+      "count": 0,
+      "items": []
+    },
+    "empty_full_text": {
+      "severity": "critical",
+      "title": "Empty full_text fields",
+      "description": "Stories with null, empty, or whitespace-only full_text",
+      "count": 0,
+      "items": []
+    },
+    "missing_required_data": {
+      "severity": "critical",
+      "title": "Missing required fields",
+      "description": "Stories with null/empty required fields (title, country, region, type, summary, full_text, source)",
+      "count": 0,
+      "items": [],
+      "truncated": false
+    },
+    "too_short_summary": {
+      "severity": "high",
+      "title": "Summary too short (< 100 chars)",
+      "count": 106,
+      "items": [
+        {
+          "id": "story21",
+          "title": "The Six Swans",
+          "len": 82,
+          "summary": "A silent princess endures hardship to save her brothers from a wicked enchantmen"
+        },
+        {
+          "id": "story23",
+          "title": "The Pied Piper of Hamelin",
+          "len": 80,
+          "summary": "In the year 1284, the German town of Hamelin suffered a plague unlike any other."
+        },
+        {
+          "id": "story24",
+          "title": "The Iron Pig",
+          "len": 88,
+          "summary": "A kind boy treats a mysterious iron pig with tenderness and discovers a hidden t"
+        },
+        {
+          "id": "story31",
+          "title": "The Black Bull of Norroway",
+          "len": 86,
+          "summary": "A princess defies her family's wishes to follow a magical bull to a kingdom of w"
+        },
+        {
+          "id": "story34",
+          "title": "Tom Thumb",
+          "len": 93,
+          "summary": "In the days of the great King Arthur, there lived a poor ploughman named Thomas "
+        },
+        {
+          "id": "story35",
+          "title": "The Wee Wee Man",
+          "len": 95,
+          "summary": "A traveler meets a tiny man who shows him a different world, teaching him the va"
+        },
+        {
+          "id": "story37",
+          "title": "The Master and His Apprentice",
+          "len": 90,
+          "summary": "A young apprentice endures seven years of absolute silence to master the secrets"
+        },
+        {
+          "id": "story39",
+          "title": "The Pig King",
+          "len": 96,
+          "summary": "A princess must break the enchantment of a pig-like king, learning that true bea"
+        },
+        {
+          "id": "story40",
+          "title": "The Glass Mountain",
+          "len": 86,
+          "summary": "A brave youth overcomes an impossible ascent to rescue a princess from a crystal"
+        },
+        {
+          "id": "story43",
+          "title": "The Enchanted Duck",
+          "len": 93,
+          "summary": "A humble princess endures years of absolute silence to save her sisters from a m"
+        },
+        {
+          "id": "story44",
+          "title": "East of the Sun and West of the Moon",
+          "len": 96,
+          "summary": "A courageous girl journeys to the ends of the earth to rescue her love from a cr"
+        },
+        {
+          "id": "story71",
+          "title": "Momotaro: The Boy Born from a Peach",
+          "len": 91,
+          "summary": "In the province of Suruga, by a great mountain, an old woodcutter and his wife l"
+        },
+        {
+          "id": "story76",
+          "title": "Tengu: The Long-Nosed Goblin",
+          "len": 94,
+          "summary": "A proud monk is abducted by mountain spirits and taught that true wisdom begins "
+        },
+        {
+          "id": "story92",
+          "title": "The Dragon of Lopburi",
+          "len": 87,
+          "summary": "In the ancient city of Lopburi, there lived a powerful dragon beneath the great "
+        },
+        {
+          "id": "story93",
+          "title": "Anansi and the Pot of Wisdom",
+          "len": 92,
+          "summary": "Anansi tricks humans into giving him all the world's wisdom—but discovers it can"
+        },
+        {
+          "id": "story99",
+          "title": "The totem Pole",
+          "len": 80,
+          "summary": "Animals mark family history, telling the story of a clan through carved symbols."
+        },
+        {
+          "id": "story105",
+          "title": "Orpheus and Eurydice",
+          "len": 81,
+          "summary": "Orpheus was the greatest musician who ever lived—the son of Apollo, god of music"
+        },
+        {
+          "id": "story106",
+          "title": "Icarus: Wings Too Close to the Sun",
+          "len": 96,
+          "summary": "In the city of Athens, during the age of legends, there lived a master craftsman"
+        },
+        {
+          "id": "story127",
+          "title": "Thumbelina",
+          "len": 81,
+          "summary": "There once lived a woman who wanted a tiny child more than anything in the world"
+        },
+        {
+          "id": "story147",
+          "title": "The Tale of the Three Sisters",
+          "len": 89,
+          "summary": "Three sisters become corn, beans, and squash — the Three Sisters crops that sust"
+        },
+        {
+          "id": "story151",
+          "title": "The Dragon Gate",
+          "len": 88,
+          "summary": "A story explaining how carp transform into dragons by leaping the Dragon Gate wa"
+        },
+        {
+          "id": "story153",
+          "title": "Shuten-Doji",
+          "len": 94,
+          "summary": "The sake-stealing demon who terrorized Kyoto until defeated by the hero Minamoto"
+        },
+        {
+          "id": "story160",
+          "title": "The Tale of the Bamboo",
+          "len": 83,
+          "summary": "A boy is born from bamboo and embarks on adventures that reveal his divine origi"
+        },
+        {
+          "id": "story163",
+          "title": "El Chupacabra",
+          "len": 89,
+          "summary": "The goat-sucking creature of Puerto Rican legend, blamed for mysterious livestoc"
+        },
+        {
+          "id": "story166",
+          "title": "The Corn Mother",
+          "len": 81,
+          "summary": "The Sluagh are the most feared of all Irish fairy creatures, and for good reason"
+        },
+        {
+          "id": "story169",
+          "title": "The Steadfast Tin Soldier",
+          "len": 88,
+          "summary": "There were once twenty-five tin soldiers—all brothers, cast from the same old ti"
+        },
+        {
+          "id": "story172",
+          "title": "The Bell of the Morning",
+          "len": 84,
+          "summary": "The Sphinx of ancient Greece is one of the most famous monsters in all of mythol"
+        },
+        {
+          "id": "story173",
+          "title": "The Ice Maiden",
+          "len": 94,
+          "summary": "There was once a boy named Rudy who lived in the Swiss Alps, near the foot of a "
+        },
+        {
+          "id": "story175",
+          "title": "The Nutcracker and the Mouse King",
+          "len": 83,
+          "summary": "The Monkey King, Sun Wukong, is the greatest trickster in all of Chinese mytholo"
+        },
+        {
+          "id": "story180",
+          "title": "The Faithful Animals",
+          "len": 94,
+          "summary": "A poor woodcutter lived with his wife and children in a cottage at the edge of a"
+        },
+        {
+          "id": "story186",
+          "title": "The Eyes of Horus",
+          "len": 81,
+          "summary": "The battle between Horus and Set raged across the sky and earth for eighty years"
+        },
+        {
+          "id": "story190",
+          "title": "The Tortoise and the Hyena",
+          "len": 81,
+          "summary": "The clever tortoise tricks the greedy hyena in this traditional African folktale"
+        },
+        {
+          "id": "story196",
+          "title": "Davy Crockett",
+          "len": 97,
+          "summary": "The legendary king of the wild frontier, folk hero of American expansion and tal"
+        },
+        {
+          "id": "story198",
+          "title": "The Rainbow Snake",
+          "len": 92,
+          "summary": "The great creator serpent of Aboriginal Australian mythology who shaped the land"
+        },
+        {
+          "id": "story200",
+          "title": "The Dreamtime",
+          "len": 84,
+          "summary": "The time before time when ancestral spirits created the world and all living thi"
+        },
+        {
+          "id": "story204",
+          "title": "The Wendigo",
+          "len": 80,
+          "summary": "The cannibal spirit of Algonquian legend, a gaunt creature of insatiable hunger."
+        },
+        {
+          "id": "story205",
+          "title": "The Story of the Girl Who Was Never Seen",
+          "len": 87,
+          "summary": "A mysterious invisible girl whose presence is known only through her voice and a"
+        },
+        {
+          "id": "story206",
+          "title": "The Origin of Fire",
+          "len": 83,
+          "summary": "How fire first came to the world, stolen from the gods for the benefit of humani"
+        },
+        {
+          "id": "story214",
+          "title": "The Kapre",
+          "len": 84,
+          "summary": "A giant tree spirit of Philippine folklore that waits and watches from the branc"
+        },
+        {
+          "id": "story215",
+          "title": "The Moon Rabbit of Korea",
+          "len": 98,
+          "summary": "A kind rabbit offers itself as food to a beggar, only to be rewarded with immort"
+        },
+        {
+          "id": "story219",
+          "title": "Kintaro: The Golden Boy of Mountains",
+          "len": 90,
+          "summary": "A supernaturally strong child raised by animals in the mountains becomes a legen"
+        },
+        {
+          "id": "story220",
+          "title": "Dangun: The Founder of Korea",
+          "len": 89,
+          "summary": "A divine being descends from heaven and marries a bear to found the first Korean"
+        },
+        {
+          "id": "story221",
+          "title": "The Drum of Thunder Calls Rain",
+          "len": 99,
+          "summary": "A humble drum maker is asked to make a sacred drum for the Thunder God—but pride"
+        },
+        {
+          "id": "story222",
+          "title": "Mami Wata: The Water Spirit",
+          "len": 94,
+          "summary": "A beautiful water spirit of rivers and oceans brings wealth and beauty to those "
+        },
+        {
+          "id": "story223",
+          "title": "Adze: The Vampiric Firefly",
+          "len": 81,
+          "summary": "A witch-spirit takes firefly form, entering homes to drain the blood of sleepers"
+        },
+        {
+          "id": "story232",
+          "title": "The Banshee: Weeping Woman of Ireland",
+          "len": 97,
+          "summary": "A spirit who wails before death, foretelling the end of a family line—the O'Brie"
+        },
+        {
+          "id": "story233",
+          "title": "Krampus: The Christmas Devil",
+          "len": 98,
+          "summary": "On December 5th, Krampus comes for naughty children—while Saint Nicholas brings "
+        },
+        {
+          "id": "story236",
+          "title": "Kappa: The River imp",
+          "len": 93,
+          "summary": "A water spirit that lives in rivers, respects honor, and can be fooled by a simp"
+        },
+        {
+          "id": "story243",
+          "title": "Anansi Boys",
+          "len": 87,
+          "summary": "Anansi's sons—Fat Face and Small Head—continue their fathers trickery in the Car"
+        },
+        {
+          "id": "story246",
+          "title": "Melusine: The Serpent Woman",
+          "len": 86,
+          "summary": "A woman who hides her serpent tail on Saturdays—until her husband discovers the "
+        }
+      ],
+      "truncated": true
+    },
+    "too_short_full_text": {
+      "severity": "high",
+      "title": "full_text too short (< 300 chars)",
+      "count": 25,
+      "items": [
+        {
+          "id": "story409",
+          "title": "Knös",
+          "len": 16
+        },
+        {
+          "id": "story410",
+          "title": "Lasse, My Thrall!",
+          "len": 28
+        },
+        {
+          "id": "story411",
+          "title": "Finn, the Giant, and the Minster of Lund",
+          "len": 51
+        },
+        {
+          "id": "story412",
+          "title": "The Skalunda Giant",
+          "len": 29
+        },
+        {
+          "id": "story413",
+          "title": "Yuletide Specters",
+          "len": 28
+        },
+        {
+          "id": "story414",
+          "title": "Silverwhite and Lillwacker",
+          "len": 37
+        },
+        {
+          "id": "story415",
+          "title": "Stompe Pilt",
+          "len": 22
+        },
+        {
+          "id": "story416",
+          "title": "The Girl and the Snake",
+          "len": 33
+        },
+        {
+          "id": "story417",
+          "title": "Faithful and Unfaithful",
+          "len": 34
+        },
+        {
+          "id": "story418",
+          "title": "Starkad and Bale",
+          "len": 27
+        },
+        {
+          "id": "story419",
+          "title": "The Werewolf",
+          "len": 23
+        },
+        {
+          "id": "story420",
+          "title": "First Born, First Wed",
+          "len": 32
+        },
+        {
+          "id": "story421",
+          "title": "The Mount of the Golden Queen",
+          "len": 40
+        },
+        {
+          "id": "story422",
+          "title": "Old Hopgiant",
+          "len": 23
+        },
+        {
+          "id": "story423",
+          "title": "The Princess and the Glass Mountain",
+          "len": 46
+        },
+        {
+          "id": "story424",
+          "title": "Queen Crane",
+          "len": 22
+        },
+        {
+          "id": "story425",
+          "title": "Tales of the Trolls",
+          "len": 30
+        },
+        {
+          "id": "story426",
+          "title": "The Three Dogs",
+          "len": 25
+        },
+        {
+          "id": "story427",
+          "title": "The Poor Devil",
+          "len": 25
+        },
+        {
+          "id": "story428",
+          "title": "How Smaland and Schonen Came to Be",
+          "len": 45
+        },
+        {
+          "id": "story429",
+          "title": "The Evil One and Kitta Grau",
+          "len": 38
+        },
+        {
+          "id": "story430",
+          "title": "The Lady of Pintorp",
+          "len": 30
+        },
+        {
+          "id": "story431",
+          "title": "The Specter in Fjelkinge",
+          "len": 35
+        },
+        {
+          "id": "story432",
+          "title": "The Rooster, the Hand-Mill and the Swarm of Hornets",
+          "len": 62
+        },
+        {
+          "id": "story433",
+          "title": "Torre Jeppe",
+          "len": 22
+        }
+      ]
+    },
+    "full_text_summary_mismatch": {
+      "severity": "high",
+      "title": "full_text is essentially just the summary (< 1.5x)",
+      "count": 978,
+      "items": [
+        {
+          "id": "story409",
+          "title": "Knös",
+          "summaryLen": 314,
+          "fullTextLen": 16,
+          "ratio": "0.05"
+        },
+        {
+          "id": "story410",
+          "title": "Lasse, My Thrall!",
+          "summaryLen": 326,
+          "fullTextLen": 28,
+          "ratio": "0.09"
+        },
+        {
+          "id": "story411",
+          "title": "Finn, the Giant, and the Minster of Lund",
+          "summaryLen": 341,
+          "fullTextLen": 51,
+          "ratio": "0.15"
+        },
+        {
+          "id": "story412",
+          "title": "The Skalunda Giant",
+          "summaryLen": 204,
+          "fullTextLen": 29,
+          "ratio": "0.14"
+        },
+        {
+          "id": "story413",
+          "title": "Yuletide Specters",
+          "summaryLen": 274,
+          "fullTextLen": 28,
+          "ratio": "0.10"
+        },
+        {
+          "id": "story414",
+          "title": "Silverwhite and Lillwacker",
+          "summaryLen": 270,
+          "fullTextLen": 37,
+          "ratio": "0.14"
+        },
+        {
+          "id": "story415",
+          "title": "Stompe Pilt",
+          "summaryLen": 224,
+          "fullTextLen": 22,
+          "ratio": "0.10"
+        },
+        {
+          "id": "story416",
+          "title": "The Girl and the Snake",
+          "summaryLen": 237,
+          "fullTextLen": 33,
+          "ratio": "0.14"
+        },
+        {
+          "id": "story417",
+          "title": "Faithful and Unfaithful",
+          "summaryLen": 236,
+          "fullTextLen": 34,
+          "ratio": "0.14"
+        },
+        {
+          "id": "story418",
+          "title": "Starkad and Bale",
+          "summaryLen": 231,
+          "fullTextLen": 27,
+          "ratio": "0.12"
+        },
+        {
+          "id": "story419",
+          "title": "The Werewolf",
+          "summaryLen": 239,
+          "fullTextLen": 23,
+          "ratio": "0.10"
+        },
+        {
+          "id": "story420",
+          "title": "First Born, First Wed",
+          "summaryLen": 231,
+          "fullTextLen": 32,
+          "ratio": "0.14"
+        },
+        {
+          "id": "story421",
+          "title": "The Mount of the Golden Queen",
+          "summaryLen": 258,
+          "fullTextLen": 40,
+          "ratio": "0.16"
+        },
+        {
+          "id": "story422",
+          "title": "Old Hopgiant",
+          "summaryLen": 263,
+          "fullTextLen": 23,
+          "ratio": "0.09"
+        },
+        {
+          "id": "story423",
+          "title": "The Princess and the Glass Mountain",
+          "summaryLen": 275,
+          "fullTextLen": 46,
+          "ratio": "0.17"
+        },
+        {
+          "id": "story424",
+          "title": "Queen Crane",
+          "summaryLen": 278,
+          "fullTextLen": 22,
+          "ratio": "0.08"
+        },
+        {
+          "id": "story425",
+          "title": "Tales of the Trolls",
+          "summaryLen": 285,
+          "fullTextLen": 30,
+          "ratio": "0.11"
+        },
+        {
+          "id": "story426",
+          "title": "The Three Dogs",
+          "summaryLen": 252,
+          "fullTextLen": 25,
+          "ratio": "0.10"
+        },
+        {
+          "id": "story427",
+          "title": "The Poor Devil",
+          "summaryLen": 236,
+          "fullTextLen": 25,
+          "ratio": "0.11"
+        },
+        {
+          "id": "story428",
+          "title": "How Smaland and Schonen Came to Be",
+          "summaryLen": 249,
+          "fullTextLen": 45,
+          "ratio": "0.18"
+        },
+        {
+          "id": "story429",
+          "title": "The Evil One and Kitta Grau",
+          "summaryLen": 264,
+          "fullTextLen": 38,
+          "ratio": "0.14"
+        },
+        {
+          "id": "story430",
+          "title": "The Lady of Pintorp",
+          "summaryLen": 259,
+          "fullTextLen": 30,
+          "ratio": "0.12"
+        },
+        {
+          "id": "story431",
+          "title": "The Specter in Fjelkinge",
+          "summaryLen": 233,
+          "fullTextLen": 35,
+          "ratio": "0.15"
+        },
+        {
+          "id": "story432",
+          "title": "The Rooster, the Hand-Mill and the Swarm of Hornets",
+          "summaryLen": 246,
+          "fullTextLen": 62,
+          "ratio": "0.25"
+        },
+        {
+          "id": "story433",
+          "title": "Torre Jeppe",
+          "summaryLen": 269,
+          "fullTextLen": 22,
+          "ratio": "0.08"
+        },
+        {
+          "id": "story438",
+          "title": "When Mother Troll Took in the King's Washing",
+          "summaryLen": 1176,
+          "fullTextLen": 1176,
+          "ratio": "1.00"
+        },
+        {
+          "id": "story439",
+          "title": "The Magician's Cape",
+          "summaryLen": 1535,
+          "fullTextLen": 1535,
+          "ratio": "1.00"
+        },
+        {
+          "id": "story440",
+          "title": "The Barrel Bung",
+          "summaryLen": 1309,
+          "fullTextLen": 1309,
+          "ratio": "1.00"
+        },
+        {
+          "id": "story441",
+          "title": "The Seven Wishes",
+          "summaryLen": 1452,
+          "fullTextLen": 1452,
+          "ratio": "1.00"
+        },
+        {
+          "id": "story442",
+          "title": "The King's Choice",
+          "summaryLen": 999,
+          "fullTextLen": 999,
+          "ratio": "1.00"
+        },
+        {
+          "id": "story443",
+          "title": "The Four Big Trolls and Little Peter Pastureman",
+          "summaryLen": 1127,
+          "fullTextLen": 1127,
+          "ratio": "1.00"
+        },
+        {
+          "id": "story444",
+          "title": "The Troll Ride",
+          "summaryLen": 1316,
+          "fullTextLen": 1316,
+          "ratio": "1.00"
+        },
+        {
+          "id": "story445",
+          "title": "The Trolls and the Youngest Tomte",
+          "summaryLen": 1169,
+          "fullTextLen": 1169,
+          "ratio": "1.00"
+        },
+        {
+          "id": "story446",
+          "title": "The Ring",
+          "summaryLen": 1403,
+          "fullTextLen": 1403,
+          "ratio": "1.00"
+        },
+        {
+          "id": "story447",
+          "title": "The Old Troll of Big Mountain",
+          "summaryLen": 1264,
+          "fullTextLen": 1264,
+          "ratio": "1.00"
+        },
+        {
+          "id": "story448",
+          "title": "Leap the Elk and Little Princess Cottongrass",
+          "summaryLen": 1643,
+          "fullTextLen": 1643,
+          "ratio": "1.00"
+        },
+        {
+          "id": "story449",
+          "title": "The Magpie with Salt on Her Tail",
+          "summaryLen": 1276,
+          "fullTextLen": 1276,
+          "ratio": "1.00"
+        },
+        {
+          "id": "story450",
+          "title": "Stalo and Kauras",
+          "summaryLen": 1321,
+          "fullTextLen": 1321,
+          "ratio": "1.00"
+        },
+        {
+          "id": "story451",
+          "title": "The Flower of Happiness on Sunnymount Crest",
+          "summaryLen": 1085,
+          "fullTextLen": 1085,
+          "ratio": "1.00"
+        },
+        {
+          "id": "story452",
+          "title": "Dag and Daga, and the Flying Troll of Sky Mountain",
+          "summaryLen": 1586,
+          "fullTextLen": 1586,
+          "ratio": "1.00"
+        },
+        {
+          "id": "story453",
+          "title": "Linda-Gold and the Old King",
+          "summaryLen": 1367,
+          "fullTextLen": 1367,
+          "ratio": "1.00"
+        },
+        {
+          "id": "story454",
+          "title": "The Boy and the Trolls, or The Adventure",
+          "summaryLen": 1600,
+          "fullTextLen": 1600,
+          "ratio": "1.00"
+        },
+        {
+          "id": "story455",
+          "title": "The Maiden in the Castle of Rosy Clouds",
+          "summaryLen": 1450,
+          "fullTextLen": 1450,
+          "ratio": "1.00"
+        },
+        {
+          "id": "story456",
+          "title": "The Queen",
+          "summaryLen": 1227,
+          "fullTextLen": 1227,
+          "ratio": "1.00"
+        },
+        {
+          "id": "story457",
+          "title": "The Bird Grip",
+          "summaryLen": 1798,
+          "fullTextLen": 1798,
+          "ratio": "1.00"
+        },
+        {
+          "id": "story458",
+          "title": "King Lindorm",
+          "summaryLen": 1519,
+          "fullTextLen": 1519,
+          "ratio": "1.00"
+        },
+        {
+          "id": "story459",
+          "title": "The Sea Nymph",
+          "summaryLen": 1535,
+          "fullTextLen": 1535,
+          "ratio": "1.00"
+        },
+        {
+          "id": "story460",
+          "title": "Ljungby Horn and Pipe",
+          "summaryLen": 1710,
+          "fullTextLen": 1710,
+          "ratio": "1.00"
+        },
+        {
+          "id": "story461",
+          "title": "The Brownies (Tomtar)",
+          "summaryLen": 1683,
+          "fullTextLen": 1683,
+          "ratio": "1.00"
+        },
+        {
+          "id": "story790",
+          "title": "Kópakonan (The Seal Woman of Mikladalur)",
+          "summaryLen": 691,
+          "fullTextLen": 691,
+          "ratio": "1.00"
+        }
+      ],
+      "truncated": true
+    },
+    "duplicate_title_groups": {
+      "severity": "high",
+      "title": "Stories with identical/similar titles",
+      "count": 0,
+      "groups": []
+    },
+    "duplicate_summaries": {
+      "severity": "high",
+      "title": "Near-identical summaries (> 85% similarity) within same country",
+      "count": 0,
+      "pairs": [],
+      "truncated": false
+    },
+    "duplicate_full_text": {
+      "severity": "high",
+      "title": "Stories sharing identical full_text content",
+      "count": 0,
+      "groups": []
+    },
+    "schema_anomalies": {
+      "severity": "high",
+      "title": "Fields with unexpected types",
+      "count": 0,
+      "items": []
+    },
+    "source_quality_missing": {
+      "severity": "high",
+      "title": "Stories with missing source_quality",
+      "count": 0,
+      "distribution": {
+        "unknown": 570,
+        "good": 332,
+        "fair": 795,
+        "expert": 22
+      },
+      "items": [],
+      "truncated": false
+    },
+    "templated_text": {
+      "severity": "medium",
+      "title": "Stories with generic/templated openings",
+      "count": 28,
+      "items": [
+        {
+          "id": "story27",
+          "title": "The Children of Lir",
+          "matched": "^Long ago, in the",
+          "opening": "Long ago, in the mist-shrouded dawn of Ireland, when the Tuatha Dé Danann still walked among the hills and the land was "
+        },
+        {
+          "id": "story39",
+          "title": "The Pig King",
+          "matched": "^Once upon a time",
+          "opening": "Once upon a time, in a kingdom far to the east, where the cities were built of ivory and the gardens bloomed with flower"
+        },
+        {
+          "id": "story63",
+          "title": "The Wandering Jew",
+          "matched": "^The legend of",
+          "opening": "The legend of the Wandering Jew is one of the most enduring and mysterious tales in European folklore. It first appeared"
+        },
+        {
+          "id": "story68",
+          "title": "The Tale of the Cowherd and the Weaver Girl",
+          "matched": "^Long ago, in the",
+          "opening": "Long ago, in the heavens above ancient China, there lived a young goddess named Zhinu, the Weaver Girl. She was the gran"
+        },
+        {
+          "id": "story73",
+          "title": "Urashima Taro: The Fisherman and the Sea Kingdom",
+          "matched": "^Long ago, in the",
+          "opening": "Long ago, in the province of Tango, in the little fishing village of Mizu-no-ye, there lived a young fisherman named Ura"
+        },
+        {
+          "id": "story75",
+          "title": "Kaguya-hime: The Princess of the Moon",
+          "matched": "^Long ago, in the",
+          "opening": "Long ago, in the misty age of Heian Japan, there lived an old bamboo cutter who made his living gathering bamboo in the "
+        },
+        {
+          "id": "story120",
+          "title": "Rapunzel",
+          "matched": "^Once upon a time",
+          "opening": "Once upon a time, a married couple lived next to an old witch's garden. The wife became pregnant and craved the rapunzel"
+        },
+        {
+          "id": "story126",
+          "title": "The Princess and the Pea",
+          "matched": "^Once upon a time",
+          "opening": "Once upon a time, in a kingdom of rolling green hills and turreted castles, there lived a prince who searched the world "
+        },
+        {
+          "id": "story142",
+          "title": "The Donkey",
+          "matched": "^Once upon a time",
+          "opening": "Once upon a time, in a small German village, there lived a young prince who found himself transformed into a donkey. Thi"
+        },
+        {
+          "id": "story143",
+          "title": "The Eternal Fool",
+          "matched": "^Once upon a time",
+          "opening": "Once upon a time, in a quiet corner of Sweden, there lived a boy who was known to everyone as the Fool. He was simple an"
+        },
+        {
+          "id": "story189",
+          "title": "The Cat Ra",
+          "matched": "^In the land of",
+          "opening": "In the land of ancient Egypt, where the Nile flows through golden sands and the pyramids pierce the sky, there lived a b"
+        },
+        {
+          "id": "story334",
+          "title": "The Master-Smith",
+          "matched": "^Once upon a time",
+          "opening": "Once upon a time in Norway, there lived a smith who was the finest craftsman in all the land, but he was poor. Despite h"
+        },
+        {
+          "id": "story335",
+          "title": "The Lad Who Went to the North Wind",
+          "matched": "^Once upon a time",
+          "opening": "Once upon a time, there was an old widow who had a son. They were so poor that the cupboards were bare and the fire was "
+        },
+        {
+          "id": "story520",
+          "title": "Boots and the Troll",
+          "matched": "^Once upon a time",
+          "opening": "Once upon a time there was a poor boy who had nothing in the world but a pair of boots that were far too large for him. "
+        },
+        {
+          "id": "story561",
+          "title": "Bushy Bride",
+          "matched": "^Once upon a time",
+          "opening": "Once upon a time, a man decided to marry a woman known as the Bushy Bride. She was covered in strange, bushy foliage and"
+        },
+        {
+          "id": "story615",
+          "title": "Otso the Honey-eater",
+          "matched": "^The story of",
+          "opening": "This legendary tale explores the depths of Finnish folklore. The story of Otso, the Bear, the most sacred and feared ani"
+        },
+        {
+          "id": "story731",
+          "title": "The Eagle and Whale Husbands",
+          "matched": "^A legendary tale of",
+          "opening": "Two sisters came of age in a village by the sea. The elder caught the eye of Nattoralik, the great eagle spirit, who app"
+        },
+        {
+          "id": "story1218",
+          "title": "The Curse of the Dolls — La Isla de las Muñecas",
+          "matched": "^The legend of",
+          "opening": "The legend of the Island of the Dolls (La Isla de las Muñecas) in the Xochimilco canals near Mexico City is a modern leg"
+        },
+        {
+          "id": "story1220",
+          "title": "Tonantzin and Our Lady of Guadalupe — The Sacred Syncretism",
+          "matched": "^The story of",
+          "opening": "The story of Our Lady of Guadalupe is the most profound example of indigenous-Hispanic syncretism in the Americas. Accor"
+        },
+        {
+          "id": "story1228",
+          "title": "The Lost Treasure of Montezuma — Aztec Gold in the Southwest",
+          "matched": "^The legend of",
+          "opening": "The legend of Montezuma's hidden treasure is one of the most persistent treasure myths in the US Southwest, blending Azt"
+        },
+        {
+          "id": "story1234",
+          "title": "El Tesoro de los Jesuitas — The Jesuit Gold of the Border",
+          "matched": "^The legend of",
+          "opening": "The legend of the Jesuit Treasure is one of the most enduring treasure myths of the US Southwest and northern Mexico. Wh"
+        },
+        {
+          "id": "story1255",
+          "title": "The Buffalo Woman of the Mande (Mande)",
+          "matched": "^In the land of",
+          "opening": "In the land of Dô, a buffalo terrorized the countryside, destroying crops and killing hunters. Two brothers, Oulamba and"
+        },
+        {
+          "id": "story1449",
+          "title": "The Forty Robbers of the Steppe (Kirk Kazak)",
+          "matched": "^The legend of",
+          "opening": "The legend of the 'Forty Kazakhs' (Kirk Kazak) tells of forty exiled warriors who formed a brotherhood on the Kazakh ste"
+        },
+        {
+          "id": "story1463",
+          "title": "Zuleikha and the Forty Maidens",
+          "matched": "^The legend of",
+          "opening": "The legend of the Forty Maidens (Kirk Kiz) is a Central Asian heroic tale found among Turkmen, Kazakh, and Karakalpak pe"
+        },
+        {
+          "id": "story1519",
+          "title": "The Trung Sisters Rebellion",
+          "matched": "^The legend of",
+          "opening": "The legend of the Trung Sisters — Trung Trac and Trung Nhi — is Vietnam's most celebrated story of female heroism and na"
+        },
+        {
+          "id": "story1528",
+          "title": "The Legend of Preah Vihear Temple",
+          "matched": "^The legend of",
+          "opening": "The legend of Preah Vihear, the cliff-top temple designated as a UNESCO World Heritage site, tells of its divine origins"
+        },
+        {
+          "id": "story1652",
+          "title": "The Legend of Enriquillo and Anacaona",
+          "matched": "^The legend of",
+          "opening": "The legend of Enriquillo and Anacaona is one of the most powerful stories of Taino resistance in Hispaniola (modern Domi"
+        },
+        {
+          "id": "story-240a24ad",
+          "title": "The Legend of the Stone Monoliths",
+          "matched": "^The story of",
+          "opening": "On the great island of Babeldaob, where the jungle is so thick it seems to breathe and the limestone cliffs rise like wh"
+        }
+      ],
+      "truncated": false
+    },
+    "too_short_moral": {
+      "severity": "medium",
+      "title": "Moral field too short (< 20 chars)",
+      "count": 21,
+      "items": [
+        {
+          "id": "story97",
+          "title": "Scheherazade",
+          "len": 19,
+          "moral": "Stories have power."
+        },
+        {
+          "id": "story103",
+          "title": "The Eternal Struggle: Quetzalcoatl",
+          "len": 18,
+          "moral": "Balance is needed."
+        },
+        {
+          "id": "story120",
+          "title": "Rapunzel",
+          "len": 19,
+          "moral": "Love finds its way."
+        },
+        {
+          "id": "story126",
+          "title": "The Princess and the Pea",
+          "len": 19,
+          "moral": "Real is recognized."
+        },
+        {
+          "id": "story134",
+          "title": "Bluebeard",
+          "len": 16,
+          "moral": "Curiosity kills."
+        },
+        {
+          "id": "story138",
+          "title": "Briar Rose (Sleeping Beauty)",
+          "len": 16,
+          "moral": "True love wakes."
+        },
+        {
+          "id": "story141",
+          "title": "The Queen Bee",
+          "len": 14,
+          "moral": "Kindness wins."
+        },
+        {
+          "id": "story191",
+          "title": "The Monkey's Paw",
+          "len": 15,
+          "moral": "Careful wishes."
+        },
+        {
+          "id": "story195",
+          "title": "John Henry",
+          "len": 18,
+          "moral": "Man beats machine."
+        },
+        {
+          "id": "story196",
+          "title": "Davy Crockett",
+          "len": 9,
+          "moral": "Be brave."
+        },
+        {
+          "id": "story197",
+          "title": "The Legend of the Morning Star",
+          "len": 16,
+          "moral": "Light will rise."
+        },
+        {
+          "id": "story201",
+          "title": "The Nun's Priest Tale",
+          "len": 16,
+          "moral": "Don't trust fox."
+        },
+        {
+          "id": "story203",
+          "title": "The Tale of the Black Duck",
+          "len": 11,
+          "moral": "Don't kill."
+        },
+        {
+          "id": "story204",
+          "title": "The Wendigo",
+          "len": 16,
+          "moral": "Greed is hunger."
+        },
+        {
+          "id": "story210",
+          "title": "The Tale of the First Fire",
+          "len": 15,
+          "moral": "Fire is shared."
+        },
+        {
+          "id": "story211",
+          "title": "Pele's Tears",
+          "len": 15,
+          "moral": "Creation weeps."
+        },
+        {
+          "id": "story214",
+          "title": "The Kapre",
+          "len": 17,
+          "moral": "Know who you are."
+        },
+        {
+          "id": "story296",
+          "title": "Púca",
+          "len": 15,
+          "moral": "Nature is wild."
+        },
+        {
+          "id": "story305",
+          "title": "Basilisk",
+          "len": 19,
+          "moral": "The king is deadly."
+        },
+        {
+          "id": "story306",
+          "title": "The Roc",
+          "len": 18,
+          "moral": "Greatness is vast."
+        },
+        {
+          "id": "story308",
+          "title": "Ifrit",
+          "len": 19,
+          "moral": "Power is dangerous."
+        }
+      ]
+    },
+    "generic_morals": {
+      "severity": "medium",
+      "title": "Very short or generic morals",
+      "count": 94,
+      "items": [
+        {
+          "id": "story25",
+          "title": "The Lorelei",
+          "moral": "Beauty can be deadly."
+        },
+        {
+          "id": "story85",
+          "title": "The Panchatantra: The Lion and the Rabbit",
+          "moral": "Cunning conquers strength."
+        },
+        {
+          "id": "story91",
+          "title": "The Monkey King's Wedding",
+          "moral": "Appearance deceives."
+        },
+        {
+          "id": "story92",
+          "title": "The Dragon of Lopburi",
+          "moral": "Laughter conquers fear."
+        },
+        {
+          "id": "story95",
+          "title": "Aladdin and the Magic Lamp",
+          "moral": "Goodness wins prosperity."
+        },
+        {
+          "id": "story96",
+          "title": "Ali Baba and the Forty Thieves",
+          "moral": "Greed brings danger."
+        },
+        {
+          "id": "story97",
+          "title": "Scheherazade",
+          "moral": "Stories have power."
+        },
+        {
+          "id": "story100",
+          "title": "The First Corn",
+          "moral": "Life comes from sacrifice."
+        },
+        {
+          "id": "story101",
+          "title": "The Lady Who Fell from the Sky",
+          "moral": "Sacrifice feeds the world."
+        },
+        {
+          "id": "story102",
+          "title": "The Mysterious Traveler",
+          "moral": "Be kind to strangers."
+        },
+        {
+          "id": "story102",
+          "title": "The Mysterious Traveler",
+          "moral": "Be kind to strangers.",
+          "pattern": "^be kind"
+        },
+        {
+          "id": "story103",
+          "title": "The Eternal Struggle: Quetzalcoatl",
+          "moral": "Balance is needed."
+        },
+        {
+          "id": "story109",
+          "title": "The Sword in the Stone",
+          "moral": "Destiny reveals the worthy."
+        },
+        {
+          "id": "story111",
+          "title": "Merlin",
+          "moral": "Fate cannot be changed."
+        },
+        {
+          "id": "story115",
+          "title": "Maid Marian",
+          "moral": "True love cannot be caged."
+        },
+        {
+          "id": "story117",
+          "title": "Friar Tuck",
+          "moral": "Faith finds many paths."
+        },
+        {
+          "id": "story119",
+          "title": "The Frog Prince",
+          "moral": "Do not judge by appearances."
+        },
+        {
+          "id": "story120",
+          "title": "Rapunzel",
+          "moral": "Love finds its way."
+        },
+        {
+          "id": "story122",
+          "title": "Cinderella",
+          "moral": "Good wins over evil."
+        },
+        {
+          "id": "story123",
+          "title": "Sleeping Beauty",
+          "moral": "True love breaks any spell."
+        },
+        {
+          "id": "story126",
+          "title": "The Princess and the Pea",
+          "moral": "Real is recognized."
+        },
+        {
+          "id": "story129",
+          "title": "The Wild Swans",
+          "moral": "Love endures any sacrifice."
+        },
+        {
+          "id": "story130",
+          "title": "The Fisherman and His Wife",
+          "moral": "Contentment is wisdom."
+        },
+        {
+          "id": "story131",
+          "title": "The Goose Girl",
+          "moral": "Truth always revealed."
+        },
+        {
+          "id": "story134",
+          "title": "Bluebeard",
+          "moral": "Curiosity kills."
+        },
+        {
+          "id": "story136",
+          "title": "Little Red Riding Hood",
+          "moral": "Never talk to strangers."
+        },
+        {
+          "id": "story138",
+          "title": "Briar Rose (Sleeping Beauty)",
+          "moral": "True love wakes."
+        },
+        {
+          "id": "story140",
+          "title": "The Wolf and the Seven Kids",
+          "moral": "Never open to strangers."
+        },
+        {
+          "id": "story141",
+          "title": "The Queen Bee",
+          "moral": "Kindness wins."
+        },
+        {
+          "id": "story142",
+          "title": "The Donkey",
+          "moral": "Love sees past form."
+        },
+        {
+          "id": "story143",
+          "title": "The Eternal Fool",
+          "moral": "Cleverness is in simplicity."
+        },
+        {
+          "id": "story144",
+          "title": "The Lord of the Bears",
+          "moral": "Curiosity breaks hope."
+        },
+        {
+          "id": "story147",
+          "title": "The Tale of the Three Sisters",
+          "moral": "Unity feeds the world."
+        },
+        {
+          "id": "story189",
+          "title": "The Cat Ra",
+          "moral": "Even the weak survive."
+        },
+        {
+          "id": "story190",
+          "title": "The Tortoise and the Hyena",
+          "moral": "Dont believe everyone."
+        },
+        {
+          "id": "story191",
+          "title": "The Monkey's Paw",
+          "moral": "Careful wishes."
+        },
+        {
+          "id": "story192",
+          "title": "The Tell-Tale Heart",
+          "moral": "Guilt reveals truth."
+        },
+        {
+          "id": "story193",
+          "title": "The Legend of Sleepy Hollow",
+          "moral": "Fear is imagination."
+        },
+        {
+          "id": "story194",
+          "title": "Paul Bunyan",
+          "moral": "Big dreams make America."
+        },
+        {
+          "id": "story195",
+          "title": "John Henry",
+          "moral": "Man beats machine."
+        },
+        {
+          "id": "story196",
+          "title": "Davy Crockett",
+          "moral": "Be brave."
+        },
+        {
+          "id": "story197",
+          "title": "The Legend of the Morning Star",
+          "moral": "Light will rise."
+        },
+        {
+          "id": "story198",
+          "title": "The Rainbow Snake",
+          "moral": "Creation comes from life."
+        },
+        {
+          "id": "story201",
+          "title": "The Nun's Priest Tale",
+          "moral": "Don't trust fox."
+        },
+        {
+          "id": "story202",
+          "title": "Coviella",
+          "moral": "Winter cannot change."
+        },
+        {
+          "id": "story203",
+          "title": "The Tale of the Black Duck",
+          "moral": "Don't kill."
+        },
+        {
+          "id": "story204",
+          "title": "The Wendigo",
+          "moral": "Greed is hunger."
+        },
+        {
+          "id": "story206",
+          "title": "The Origin of Fire",
+          "moral": "Courage can change the world."
+        },
+        {
+          "id": "story207",
+          "title": "The Origin of the Tiki",
+          "moral": "From one, all humanity grows."
+        },
+        {
+          "id": "story209",
+          "title": "The Legend of Manitou",
+          "moral": "Everything is sacred."
+        }
+      ],
+      "truncated": true
+    },
+    "suspicious_country": {
+      "severity": "medium",
+      "title": "Suspicious country values (empty, numeric, \"Unknown\")",
+      "count": 0,
+      "items": []
+    },
+    "suspicious_region": {
+      "severity": "medium",
+      "title": "Suspicious region values (empty, numeric)",
+      "count": 0,
+      "items": [],
+      "truncated": false
+    },
+    "period_issues": {
+      "severity": "medium",
+      "title": "Empty or \"Unknown\" period values",
+      "count": 0,
+      "distribution": {
+        "1812": 17,
+        "1843": 4,
+        "1888": 20,
+        "1901": 18,
+        "19th century": 180,
+        "oral tradition": 294,
+        "early modern": 40,
+        "medieval": 183,
+        "ancient": 643,
+        "traditional": 229,
+        "12th century": 4,
+        "Edo period": 7,
+        "modern": 50,
+        "pre-columbian": 9,
+        "colonial era": 12,
+        "pre-colonial": 9
+      },
+      "items": [],
+      "truncated": false
+    },
+    "non_canonical_types": {
+      "severity": "medium",
+      "title": "Story types not in canonical list",
+      "count": 89,
+      "distribution": {
+        "fairy-tale": 206,
+        "legend": 610,
+        "myth": 467,
+        "folktale": 261,
+        "supernatural": 56,
+        "fable": 3,
+        "ballad": 4,
+        "epic": 73,
+        "saga": 10,
+        "ritual": 12,
+        "romance": 12,
+        "deity": 5
+      },
+      "items": [
+        {
+          "id": "story191",
+          "title": "The Monkey's Paw",
+          "type": "supernatural"
+        },
+        {
+          "id": "story192",
+          "title": "The Tell-Tale Heart",
+          "type": "supernatural"
+        },
+        {
+          "id": "story406",
+          "title": "Sir Olof and the Elves",
+          "type": "ballad"
+        },
+        {
+          "id": "story916",
+          "title": "The Happy Hunting Ground",
+          "type": "supernatural"
+        },
+        {
+          "id": "story918",
+          "title": "The Seven Sacred Rites",
+          "type": "ritual"
+        },
+        {
+          "id": "story919",
+          "title": "Lakota Star Husband Story",
+          "type": "romance"
+        },
+        {
+          "id": "story925",
+          "title": "The Beaver Bundle Ceremony",
+          "type": "ritual"
+        },
+        {
+          "id": "story934",
+          "title": "Nonoma the Spirit of Thunder",
+          "type": "supernatural"
+        },
+        {
+          "id": "story935",
+          "title": "The Animal Dance",
+          "type": "ritual"
+        },
+        {
+          "id": "story946",
+          "title": "Mannegishi (Little People)",
+          "type": "supernatural"
+        },
+        {
+          "id": "story948",
+          "title": "Baaxpée and the Vision Quest",
+          "type": "ritual"
+        },
+        {
+          "id": "story949",
+          "title": "The Sun Dance Lodge Symbolism",
+          "type": "ritual"
+        },
+        {
+          "id": "story950",
+          "title": "Crow Morning Star",
+          "type": "deity"
+        },
+        {
+          "id": "story951",
+          "title": "The Girl Who Married a Star",
+          "type": "romance"
+        },
+        {
+          "id": "story952",
+          "title": "Akbaatatdia the Creator",
+          "type": "deity"
+        },
+        {
+          "id": "story954",
+          "title": "The Morning Star Sacrifice Ceremony",
+          "type": "ritual"
+        },
+        {
+          "id": "story955",
+          "title": "Atira—Mother Corn",
+          "type": "deity"
+        },
+        {
+          "id": "story956",
+          "title": "The Nahurac: Spirit Animal Lodges",
+          "type": "supernatural"
+        },
+        {
+          "id": "story957",
+          "title": "The Spring Awakening Ceremony",
+          "type": "ritual"
+        },
+        {
+          "id": "story958",
+          "title": "The Celestial Star Gods",
+          "type": "deity"
+        },
+        {
+          "id": "story959",
+          "title": "The White Beaver Ceremony",
+          "type": "ritual"
+        },
+        {
+          "id": "story961",
+          "title": "The Hako (Calumet) Ceremony",
+          "type": "ritual"
+        },
+        {
+          "id": "story966",
+          "title": "The Girl Who Climbed to the Sky",
+          "type": "romance"
+        },
+        {
+          "id": "story967",
+          "title": "The Sun Dance Wheel",
+          "type": "ritual"
+        },
+        {
+          "id": "story971",
+          "title": "The Star Husband (Arapaho)",
+          "type": "romance"
+        },
+        {
+          "id": "story975",
+          "title": "The Woman Who Married a Buffalo",
+          "type": "romance"
+        },
+        {
+          "id": "story976",
+          "title": "The Pipe of Peace Treaty",
+          "type": "ritual"
+        },
+        {
+          "id": "story980",
+          "title": "The Great Medicine Road",
+          "type": "supernatural"
+        },
+        {
+          "id": "story981",
+          "title": "Shakuru and Pah: The Sun and Moon",
+          "type": "deity"
+        },
+        {
+          "id": "story984",
+          "title": "The Star Woman (Blackfoot)",
+          "type": "romance"
+        },
+        {
+          "id": "story1178",
+          "title": "Stagolee Shoots Billy Lyons",
+          "type": "ballad"
+        },
+        {
+          "id": "story1179",
+          "title": "Stagolee in Hell (Stagolee vs. the Devil)",
+          "type": "ballad"
+        },
+        {
+          "id": "story1180",
+          "title": "Stagolee's Funeral",
+          "type": "ballad"
+        },
+        {
+          "id": "story1204",
+          "title": "La Llorona — The Weeping Woman",
+          "type": "supernatural"
+        },
+        {
+          "id": "story1205",
+          "title": "La Llorona de los Ríos de Tejas — The Weeping Woman of the Texas Rivers",
+          "type": "supernatural"
+        },
+        {
+          "id": "story1206",
+          "title": "La Llorona as La Malinche's Curse",
+          "type": "supernatural"
+        },
+        {
+          "id": "story1207",
+          "title": "El Chupacabra — The Goat-Sucker",
+          "type": "supernatural"
+        },
+        {
+          "id": "story1208",
+          "title": "El Chupacabra in the Texas Borderlands",
+          "type": "supernatural"
+        },
+        {
+          "id": "story1209",
+          "title": "La Lechuza — The Witch-Owl of the Border",
+          "type": "supernatural"
+        },
+        {
+          "id": "story1210",
+          "title": "El Coco — The Boogeyman of the Spanish-Speaking World",
+          "type": "supernatural"
+        },
+        {
+          "id": "story1211",
+          "title": "El Cucuy — The Monster Under the Bed",
+          "type": "supernatural"
+        },
+        {
+          "id": "story1212",
+          "title": "La Mano Pachona — The Disembodied Hand of the Border",
+          "type": "supernatural"
+        },
+        {
+          "id": "story1213",
+          "title": "Los Aluxes — The Maya Trickster Spirits",
+          "type": "supernatural"
+        },
+        {
+          "id": "story1214",
+          "title": "El Sombrerón — The Goblin with the Big Hat",
+          "type": "supernatural"
+        },
+        {
+          "id": "story1215",
+          "title": "La Siguanaba — The Horse-Faced Woman",
+          "type": "supernatural"
+        },
+        {
+          "id": "story1216",
+          "title": "El Duende — The Gnomelike Trickster",
+          "type": "supernatural"
+        },
+        {
+          "id": "story1217",
+          "title": "The Children of La Llorona — The Weeping Children",
+          "type": "supernatural"
+        },
+        {
+          "id": "story1221",
+          "title": "El Nahual — The Shapeshifting Witch",
+          "type": "supernatural"
+        },
+        {
+          "id": "story1231",
+          "title": "El Silbón — The Whistling Specter of the Plains",
+          "type": "supernatural"
+        },
+        {
+          "id": "story1232",
+          "title": "La Loba — The Wolf Woman of the Desert",
+          "type": "supernatural"
+        }
+      ],
+      "truncated": true
+    },
+    "full_text_statistics": {
+      "severity": "low",
+      "title": "Full text length statistics (chars)",
+      "stats": {
+        "count": 1719,
+        "min": 16,
+        "max": 6804,
+        "mean": 1360,
+        "median": 861,
+        "p10": 592,
+        "p90": 3255,
+        "zeroCount": 0
+      }
+    },
+    "type_distribution": {
+      "severity": "low",
+      "title": "Story type distribution",
+      "distribution": {
+        "fairy-tale": 206,
+        "legend": 610,
+        "myth": 467,
+        "folktale": 261,
+        "supernatural": 56,
+        "fable": 3,
+        "ballad": 4,
+        "epic": 73,
+        "saga": 10,
+        "ritual": 12,
+        "romance": 12,
+        "deity": 5
+      }
+    },
+    "source_quality_distribution": {
+      "severity": "low",
+      "title": "Source quality value distribution",
+      "distribution": {
+        "unknown": 570,
+        "good": 332,
+        "fair": 795,
+        "expert": 22
+      }
+    },
+    "period_distribution": {
+      "severity": "low",
+      "title": "Period value distribution",
+      "distribution": {
+        "1812": 17,
+        "1843": 4,
+        "1888": 20,
+        "1901": 18,
+        "19th century": 180,
+        "oral tradition": 294,
+        "early modern": 40,
+        "medieval": 183,
+        "ancient": 643,
+        "traditional": 229,
+        "12th century": 4,
+        "Edo period": 7,
+        "modern": 50,
+        "pre-columbian": 9,
+        "colonial era": 12,
+        "pre-colonial": 9
+      }
+    },
+    "moral_length_stats": {
+      "severity": "low",
+      "title": "Moral field length stats",
+      "count": 1007,
+      "min": 9,
+      "max": 144,
+      "median": 59,
+      "mean": 62
+    }
+  }
+}

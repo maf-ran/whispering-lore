@@ -1,4 +1,4 @@
-const CACHE_NAME = 'whisperinglore-v1_0_30'
+const CACHE_NAME = 'whisperinglore-v1_0_32'
 
 const CORE_ASSETS = [
   '/',
@@ -34,13 +34,14 @@ const CORE_ASSETS = [
   '/js/globe.js',
   '/js/citations.js',
   '/data/sharded/manifest.json',
+  '/data/sharded/search-index.json',
   '/og-image.png',
   '/favicon.svg',
   '/images/placeholder-creature.svg',
   '/vendor/topojson/countries-110m.json'
 ]
 
-const MAX_RUNTIME_CACHE = 80
+const MAX_RUNTIME_CACHE = 250
 
 self.addEventListener('install', function (event) {
   event.waitUntil(

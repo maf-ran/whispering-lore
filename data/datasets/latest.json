@@ -1,14 +1,14 @@
 {
   "_meta": {
-    "generated": "2026-08-22",
-    "generator": "one-off node script (see DESIGN/todos note); regenerate whenever shards change",
-    "source": "data/sharded/{creatures,stories}/by-region/*.json",
+    "generated": "2026-10-04",
+    "generator": "shard-data.mjs (auto on every rebuild)",
+    "source": "data/datasets/{creatures,stories}.json",
     "note": "precomputed top-3 for homepage Latest Additions; main.js falls back to full Shimmer scan if missing"
   },
   "items": [
     {
-      "name": "Basilisk",
-      "desc": "Basilisk is a dragon from European/Arabic mythology. Described by Pliny the Elder and later Christian bestiaries, the Basilisk is a small but deadly serpent crown-crested creature whose mere gaze causes death. It is said to be hatched from a cock's egg incubated by a serpent or toad. In Christian symbology adopted by the Vatican, the Basilisk represents the power of sin and heresy that can be overcome by faith. Medieval bestiaries often used the Basilisk as a symbol of the Antichrist, and its deadly gaze represented the corrupting power of evil",
+      "name": "Dev",
+      "desc": "In the classical epic poetry, fairy tales (masals), and oral mythologies of Uzbekistan, Tajikistan, and the wider Central Asian region, the Dev (or Div) is a formidable, giant-like mythical being associated with subterranean caverns, towering mountains, and hidden treasures. Derived from ancient Indo-Iranian and Turkic mythological roots, Devs are typically depicted as gigantic, anthropomorphic creatures of immense physical strength, often possessing multiple heads or horns, and living in remote mountain fortresses or underground palaces. In traditional tales, while some Devs serve as terrifying antagonists guarding enchanted princesses or subterranean hoards, others can be cunningly outwitted or bound by magical talismans by clever heroes.",
       "date": "Recent",
       "type": "Creature",
       "index": 1
@@ -21,8 +21,8 @@
       "index": 1
     },
     {
-      "name": "Werewolf",
-      "desc": "Werewolf (Generic). is a shapeshifter. A human who transforms into a wolf, either voluntarily or by curse. Source: European folklore, global shapeshifting myths",
+      "name": "Ciguapa",
+      "desc": "In the vibrant and mysterious folklore of the Dominican Republic and the wider Caribbean, the Ciguapa is a legendary, elusive female creature said to inhabit the deep, mountainous tropical forests and caves of the island. According to traditional Dominican oral narratives, the Ciguapa possesses an arresting and unusual physical feature: her feet face backward, causing her footprints to point in the opposite direction of where she is actually heading, successfully confounding any hunters or travelers attempting to track her. Described as possessing wild, cascading dark hair that covers her entire body like a garment, the Ciguapa roams the moonlit jungle canopy at night, feeding on raw fruit, tender leaves, and occasionally visiting rural farms.",
       "date": "Recent",
       "type": "Creature",
       "index": 2

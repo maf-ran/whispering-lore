@@ -1,728 +1,728 @@
 {
   "_meta": {
-    "generated": "2026-08-22",
+    "generated": "2026-10-04",
     "days": 45,
     "note": "precomputed daily picks replicating getDailyIndex(); regenerate when shards change; runtime falls back to full Shimmer scan for dates beyond window"
   },
   "picks": {
-    "2026-08-22": {
-      "creature": {
-        "name": "Krasue",
-        "type": "ghost",
-        "country": "Thailand",
-        "summary": "Krasue is a ghost from the folklore and mythology of Thailand.",
-        "slug": "krasue"
-      },
-      "story": {
-        "title": "Guinevere at the Trial by Fire",
-        "country": "United Kingdom",
-        "region": "English",
-        "summary": "Accused of treason, Queen Guinevere faces the ordeal by fire at the court of King Arthur, where her innocence must be...",
-        "slug": "guinevere-at-the-trial-by-fire"
-      }
-    },
-    "2026-08-23": {
-      "creature": {
-        "name": "Kumakotok",
-        "type": "monster",
-        "country": "Philippines",
-        "summary": "Philippine trio of death spirits that knock on doors at night and kill anyone who answers within a year",
-        "slug": "kumakotok"
-      },
-      "story": {
-        "title": "Kijuju: The Underwater People",
-        "country": "Congo",
-        "region": "Central Africa",
-        "summary": "A secret people who live beneath African lakes, coming to trade with surface dwellers—but only at night.",
-        "slug": "kijuju-the-underwater-people"
-      }
-    },
-    "2026-08-24": {
-      "creature": {
-        "name": "Kuman Thong",
-        "type": "household-spirit",
-        "country": "Thailand",
-        "summary": "Thai golden child spirit created through black magic that brings luck and protection but demands regular offerings",
-        "slug": "kuman-thong"
-      },
-      "story": {
-        "title": "The Abada of the Ubangi Forest",
-        "country": "Central African Republic",
-        "region": "Central Africa",
-        "summary": "A young BaAka hunter follows a trail of shimmering footprints deep into the equatorial forest, seeking the legendary...",
-        "slug": "the-abada-of-the-ubangi-forest"
-      }
-    },
-    "2026-08-25": {
-      "creature": {
-        "name": "Kuntilanak",
-        "type": "vampire",
-        "country": "Indonesia",
-        "summary": "Indonesian female vampire who died in childbirth, preying on pregnant women and infants with her beauty and fangs",
-        "slug": "kuntilanak"
-      },
-      "story": {
-        "title": "The Mokele-mbembe of the Sangha River",
-        "country": "Central African Republic",
-        "region": "Central Africa",
-        "summary": "A fishing village on the Sangha River is terrorized by a massive river creature that capsizes canoes, until a wise...",
-        "slug": "the-mokele-mbembe-of-the-sangha-river"
-      }
-    },
-    "2026-08-26": {
-      "creature": {
-        "name": "Kebo Iwa (Buffalo Toe)",
-        "type": "giant",
-        "country": "Indonesia",
-        "summary": "Balinese giant strongman who carved the island's rice terraces and irrigation systems",
-        "slug": "kebo-iwa-indonesian"
-      },
-      "story": {
-        "title": "The Mokele-mbembe and the Rainmaker",
-        "country": "Central African Republic",
-        "region": "Central Africa",
-        "summary": "During a devastating drought, a BaAka rainmaker journeys to the Likouala swamp to bargain with the Mokele-mbembe,...",
-        "slug": "the-mokele-mbembe-and-the-rainmaker"
-      }
-    },
-    "2026-08-27": {
-      "creature": {
-        "name": "Kim Qui (Golden Turtle God)",
-        "type": "deity",
-        "country": "Vietnam",
-        "summary": "Sacred golden turtle god who aided Vietnamese kings and serves as guardian of national sovereignty",
-        "slug": "kim-qui-vietnamese"
-      },
-      "story": {
-        "title": "The Eloko of the BaAka Forest",
-        "country": "Central African Republic",
-        "region": "Central Africa",
-        "summary": "A BaAka family traveling through the forest at dusk hears the laughter of an Eloko, a cannibal dwarf spirit, and must...",
-        "slug": "the-eloko-of-the-baaka-forest"
-      }
-    },
-    "2026-08-28": {
-      "creature": {
-        "name": "Khun Borom (Founder King of the Lao)",
-        "type": "culture-hero",
-        "country": "Laos",
-        "summary": "Divine king sent by the sky god to found the Lao nation and civilization",
-        "slug": "khun-borom-lao"
-      },
-      "story": {
-        "title": "The Eloko Who Wanted a Name",
-        "country": "Central African Republic",
-        "region": "Central Africa",
-        "summary": "A lonely Eloko spirit approaches a Gbaya village not to hunt but to ask for a human name, believing it will grant...",
-        "slug": "the-eloko-who-wanted-a-name"
-      }
-    },
-    "2026-08-29": {
-      "creature": {
-        "name": "Raven Spirit (Laotian)",
-        "type": "spirit",
-        "country": "Laos",
-        "summary": "A raven spirit from Laotian tradition that embodies the forest",
-        "slug": "raven-spirit-laotian"
-      },
-      "story": {
-        "title": "The Obambo That Would Not Cross",
-        "country": "Central African Republic",
-        "region": "Central Africa",
-        "summary": "When a man dies before completing his life's work, his Obambo ghost lingers at the river crossing between the world of...",
-        "slug": "the-obambo-that-would-not-cross"
-      }
-    },
-    "2026-08-30": {
-      "creature": {
-        "name": "Rùa",
-        "type": "animal-spirit",
-        "country": "Vietnam",
-        "summary": "Rùa is a animal spirit from the folklore and mythology of Vietnam.",
-        "slug": "r-a"
-      },
-      "story": {
-        "title": "The Werehyena of Bangui",
-        "country": "Central African Republic",
-        "region": "Central Africa",
-        "summary": "In the growing city of Bangui, a man discovers his quiet neighbor is a werehyena who shifts form at the new moon, and...",
-        "slug": "the-werehyena-of-bangui"
-      }
-    },
-    "2026-08-31": {
-      "creature": {
-        "name": "Rồng (Vietnamese Dragon)",
-        "type": "dragon",
-        "country": "Vietnam",
-        "summary": "Benevolent dragon associated with water, agriculture, and royalty",
-        "slug": "r-ng-vietnamese-dragon"
-      },
-      "story": {
-        "title": "Kianda and the Fisherman's Net",
-        "country": "Angola",
-        "region": "Central Africa",
-        "summary": "A water goddess of the Angolan coast tests a fisherman's humility by offering him a net that catches everything beneath...",
-        "slug": "kianda-and-the-fishermans-net"
-      }
-    },
-    "2026-09-01": {
-      "creature": {
-        "name": "High John the Conqueror",
-        "type": "folk-hero",
-        "country": "United States",
-        "summary": "High John the Conqueror is a trickster spirit and folk hero who embodies unbreakable resistance, bringing laughter and...",
-        "slug": "high-john-the-conqueror"
-      },
-      "story": {
-        "title": "Bushy Bride",
-        "country": "Norway",
-        "region": "Scandinavian",
-        "summary": "A man marries a woman who appears bushy and strange in form, much to the surprise of his family. However, her outward...",
-        "slug": "bushy-bride"
-      }
-    },
-    "2026-09-02": {
-      "creature": {
-        "name": "Haint",
-        "type": "spirit",
-        "country": "United States",
-        "summary": "A Haint is a restless spirit in African American folklore, often malevolent, repelled by the distinctive haint blue...",
-        "slug": "haint-ghost"
-      },
-      "story": {
-        "title": "The Cat on the Dovrefjell",
-        "country": "Norway",
-        "region": "Scandinavian",
-        "summary": "A youth journeys to the Dovrefjell mountains where he encounters a magical cat. The cat, acting as a guide, leads the...",
-        "slug": "the-cat-on-the-dovrefjell"
-      }
-    },
-    "2026-09-03": {
-      "creature": {
-        "name": "Cannibal Giants",
-        "type": "giant",
-        "country": "United States",
-        "summary": "giant cannibal beings from first nations traditions across canada that stalk northern forests preying on those who...",
-        "slug": "cannibalgiants-usa"
-      },
-      "story": {
-        "title": "Farmer Weathersky",
-        "country": "Norway",
-        "region": "Scandinavian",
-        "summary": "Farmer Weathersky possesses a unique ability to interact with the weather. When opportunistic neighbors try to exploit...",
-        "slug": "farmer-weathersky"
-      }
-    },
-    "2026-09-04": {
-      "creature": {
-        "name": "Cannibal Giants",
-        "type": "giant",
-        "country": "Canada",
-        "summary": "giant cannibal beings from first nations traditions across canada that stalk northern forests preying on those who...",
-        "slug": "cannibalgiants-canada"
-      },
-      "story": {
-        "title": "The Blue Belt",
-        "country": "Norway",
-        "region": "Scandinavian",
-        "summary": "A protagonist obtains a magical blue belt that grants superhuman strength and the ability to overcome impossible...",
-        "slug": "the-blue-belt"
-      }
-    },
-    "2026-09-05": {
-      "creature": {
-        "name": "Canyon People",
-        "type": "spirit",
-        "country": "United States",
-        "summary": "canyon-dwelling spirit beings from apache native american folklore who guard sacred sites in the southwest canyons",
-        "slug": "canyon-people"
-      },
-      "story": {
-        "title": "The Honest Penny",
-        "country": "Norway",
-        "region": "Scandinavian",
-        "summary": "A poor boy finds a money box but throws it away, believing it contains stolen wealth, keeping only one silver penny...",
-        "slug": "the-honest-penny"
-      }
-    },
-    "2026-09-06": {
-      "creature": {
-        "name": "Chindi",
-        "type": "ghost",
-        "country": "United States",
-        "summary": "Negative spiritual residue in Navajo belief that lingers after death and causes illness",
-        "slug": "chindi"
-      },
-      "story": {
-        "title": "Father Bruin in the Corner",
-        "country": "Norway",
-        "region": "Scandinavian",
-        "summary": "A humorous tale about Father Bruin, a bear who believes himself to be superior but is repeatedly tricked by the cunning...",
-        "slug": "father-bruin-in-the-corner"
-      }
-    },
-    "2026-09-07": {
-      "creature": {
-        "name": "Cougar Ancestor-Spirit of Cheyenne",
-        "type": "ancestor-spirit",
-        "country": "United States",
-        "summary": "cheyenne cougar ancestor-spirit guardian of great plains and warrior guide",
-        "slug": "cougar-ancestor-spirit-of-cheyenne"
-      },
-      "story": {
-        "title": "The Sheep and the Pig Who Set up House",
-        "country": "Norway",
-        "region": "Scandinavian",
-        "summary": "A sheep and a pig decide to partner up and create a household. The story follows their comedic attempts at domestic...",
-        "slug": "the-sheep-and-the-pig-who-set-up-house"
-      }
-    },
-    "2026-09-08": {
-      "creature": {
-        "name": "Cougar Animal-Spirit of Apache",
-        "type": "animal-spirit",
-        "country": "United States",
-        "summary": "apache cougar animal-spirit guardian of southwestern hunting grounds",
-        "slug": "cougar-animal-spirit-of-apache"
-      },
-      "story": {
-        "title": "Friends in Life and Death",
-        "country": "Norway",
-        "region": "Scandinavian",
-        "summary": "Two inseparable friends swear to remain loyal even after death. When one passes away, the other visits the grave and...",
-        "slug": "friends-in-life-and-death"
-      }
-    },
-    "2026-09-09": {
-      "creature": {
-        "name": "Cougar Animal-Spirit of Haida",
-        "type": "animal-spirit",
-        "country": "Canada",
-        "summary": "haida cougar animal-spirit guardian of pacific northwest forests and salmon streams",
-        "slug": "cougar-animal-spirit-of-haida"
-      },
-      "story": {
-        "title": "Three Years without Wages",
-        "country": "Norway",
-        "region": "Scandinavian",
-        "summary": "A youth serves a miserly master for three years without pay, receiving only a puppy, a kitten, and a lizard as his...",
-        "slug": "three-years-without-wages"
-      }
-    },
-    "2026-09-10": {
-      "creature": {
-        "name": "Cougar Animal-Spirit of Inuit",
-        "type": "animal-spirit",
-        "country": "Canada",
-        "summary": "inuit cougar animal-spirit guardian of arctic hunting grounds and natural balance",
-        "slug": "cougar-animal-spirit-of-inuit"
-      },
-      "story": {
-        "title": "The Epic of Geser Khan",
-        "country": "Mongolia",
-        "region": "Central Asian",
-        "summary": "Geser Khan is the central hero of one of the great Mongolian epics. Born as a runny-nosed, despised child on the...",
-        "slug": "the-epic-of-geser-khan"
-      }
-    },
-    "2026-09-11": {
-      "creature": {
-        "name": "Cougar Animal-Spirit of Maliseet",
-        "type": "animal-spirit",
-        "country": "Canada",
-        "summary": "maliseet cougar animal-spirit guardian of wolastoq river and northeastern forests",
-        "slug": "cougar-animal-spirit-of-maliseet"
-      },
-      "story": {
-        "title": "The Origin of the Horsehead Fiddle (Morin Khuur)",
-        "country": "Mongolia",
-        "region": "Central Asian",
-        "summary": "A shepherd named Namjil the Cuckoo from eastern Mongolia was drafted into military service on the western border. He...",
-        "slug": "the-origin-of-the-horsehead-fiddle-morin-khuur"
-      }
-    },
-    "2026-09-12": {
-      "creature": {
-        "name": "Cougar Animal-Spirit of Pomo",
-        "type": "animal-spirit",
-        "country": "United States",
-        "summary": "pomo cougar animal-spirit guardian of california oak woodlands and acorn groves",
-        "slug": "cougar-animal-spirit-of-pomo"
-      },
-      "story": {
-        "title": "The Golden Frog Creation Myth",
-        "country": "Mongolia",
-        "region": "Central Asian",
-        "summary": "In the beginning, the earth was submerged in a boundless ocean. When the lord of the universe, Buddha Sakyamuni, flew...",
-        "slug": "the-golden-frog-creation-myth"
-      }
-    },
-    "2026-09-13": {
-      "creature": {
-        "name": "Cougar Animal-Spirit of Ute",
-        "type": "animal-spirit",
-        "country": "United States",
-        "summary": "ute cougar animal-spirit guardian of rocky mountain passes and high valleys",
-        "slug": "cougar-animal-spirit-of-ute"
-      },
-      "story": {
-        "title": "Erkei-Mergen and the Seven Suns",
-        "country": "Mongolia",
-        "region": "Central Asian",
-        "summary": "Long ago, seven suns rose in the sky simultaneously, drying up all rivers and vegetation on earth. Men and animals...",
-        "slug": "erkei-mergen-and-the-seven-suns"
-      }
-    },
-    "2026-09-14": {
-      "creature": {
-        "name": "Cougar Deity of Cheyenne",
-        "type": "deity",
-        "country": "United States",
-        "summary": "Cougar spirit from Cheyenne tradition that embodies courage and leadership for warriors",
-        "slug": "cougar-deity-of-cheyenne"
-      },
-      "story": {
-        "title": "The Blue Wolf and the Fallow Doe: Ancestors of the Mongols",
-        "country": "Mongolia",
-        "region": "Central Asian",
-        "summary": "According to the Secret History of the Mongols, the Mongol people descend from a blue wolf (Börte Chino) and a fallow...",
-        "slug": "the-blue-wolf-and-the-fallow-doe-ancestors-of-the-mongols"
-      }
-    },
-    "2026-09-15": {
-      "creature": {
-        "name": "Cougar Deity of Maliseet",
-        "type": "deity",
-        "country": "Canada",
-        "summary": "Cougar deity from Maliseet tradition that guards the sky world and aids the culture hero Koluskap",
-        "slug": "cougar-deity-of-maliseet"
-      },
-      "story": {
-        "title": "The Legend of the Singing Sands of the Gobi",
-        "country": "Mongolia",
-        "region": "Central Asian",
-        "summary": "In the heart of the Gobi Desert lies the Khongoryn Els — the Singing Sands. According to Mongol legend, these massive...",
-        "slug": "the-legend-of-the-singing-sands-of-the-gobi"
-      }
-    },
-    "2026-09-16": {
-      "creature": {
-        "name": "Cougar Deity of Paiute",
-        "type": "deity",
-        "country": "United States",
-        "summary": "Cougar spirit from Paiute tradition that guards canyon passes and helped defeat the cannibalistic Nimerigar",
-        "slug": "cougar-deity-of-paiute"
-      },
-      "story": {
-        "title": "Mandukhai the Wise Queen",
-        "country": "Mongolia",
-        "region": "Central Asian",
-        "summary": "Mandukhai Khatun (also known as Mandukhai Sechen Khongorjin) was a 15th-century Mongol queen who reunified the...",
-        "slug": "mandukhai-the-wise-queen"
-      }
-    },
-    "2026-09-17": {
-      "creature": {
-        "name": "Cougar Ghost of Choctaw",
-        "type": "ghost",
-        "country": "United States",
-        "summary": "Cougar ghost from Choctaw tradition that guards river crossings and guides souls across waters",
-        "slug": "cougar-ghost-of-choctaw"
-      },
-      "story": {
-        "title": "The Deer Stone Legends",
-        "country": "Mongolia",
-        "region": "Central Asian",
-        "summary": "Across the Mongolian steppe stand ancient megalithic Deer Stones — carved monoliths dating back 3,000 years to the...",
-        "slug": "the-deer-stone-legends"
-      }
-    },
-    "2026-09-18": {
-      "creature": {
-        "name": "Cougar Ghost of Lakota",
-        "type": "ghost",
-        "country": "United States",
-        "summary": "Cougar ghost from Lakota tradition that guards sacred desert sites and aids solitary warriors",
-        "slug": "cougar-ghost-of-lakota"
-      },
-      "story": {
-        "title": "Erlig Khan and the Palace of the Dead",
-        "country": "Mongolia",
-        "region": "Central Asian",
-        "summary": "Erlig Khan (also Erlik Khan) is the Mongol and Turkic god of death and ruler of the underworld. In one of the most...",
-        "slug": "erlig-khan-and-the-palace-of-the-dead"
-      }
-    },
-    "2026-09-19": {
-      "creature": {
-        "name": "Cougar Giant of Choctaw",
-        "type": "giant",
-        "country": "United States",
-        "summary": "Cougar giant from Choctaw tradition that dwells beneath Nanih Waiya and guards the underworld passage",
-        "slug": "cougar-giant-of-choctaw"
-      },
-      "story": {
-        "title": "Genghis Khan and the Golden Whip",
-        "country": "Mongolia",
-        "region": "Central Asian",
-        "summary": "According to Mongol legend, the young Temüjin (later Genghis Khan) was riding alone in the steppe when he discovered a...",
-        "slug": "genghis-khan-and-the-golden-whip"
-      }
-    },
-    "2026-09-20": {
-      "creature": {
-        "name": "Cougar Giant of Kwakiutl",
-        "type": "giant",
-        "country": "Canada",
-        "summary": "Cougar giant from Kwakiutl tradition that guards coastal cliffs and cedar forests of British Columbia",
-        "slug": "cougar-giant-of-kwakiutl"
-      },
-      "story": {
-        "title": "The Epic of Jangar",
-        "country": "Mongolia",
-        "region": "Central Asian",
-        "summary": "Jangar is a heroic epic of the Oirat Mongols (Kalmyks), comprising hundreds of thousands of lines. The epic describes...",
-        "slug": "the-epic-of-jangar"
-      }
-    },
-    "2026-09-21": {
-      "creature": {
-        "name": "Cougar Giant of Shoshone",
-        "type": "giant",
-        "country": "United States",
-        "summary": "Cougar giant from Shoshone tradition that guards mountain passes and helped defeat the Nimerigar",
-        "slug": "cougar-giant-of-shoshone"
-      },
-      "story": {
-        "title": "Korkut Ata and the Search for Immortality",
-        "country": "Kazakhstan",
-        "region": "Central Asian",
-        "summary": "Korkut Ata (also Dede Korkut) is the legendary father of Kazakh music and the creator of the kobyz (horsehair string...",
-        "slug": "korkut-ata-and-the-search-for-immortality"
-      }
-    },
-    "2026-09-22": {
-      "creature": {
-        "name": "Cougar Giant of Ute",
-        "type": "giant",
-        "country": "United States",
-        "summary": "Cougar giant from Ute tradition that guards underground passages and sacred hot springs",
-        "slug": "cougar-giant-of-ute"
-      },
-      "story": {
-        "title": "Alpamysh Batyr",
-        "country": "Kazakhstan",
-        "region": "Central Asian",
-        "summary": "Alpamysh (Alpamıs in Kazakh) is one of the most important Turkic epic heroes, shared across Kazakh, Uzbek, Karakalpak,...",
-        "slug": "alpamysh-batyr"
-      }
-    },
-    "2026-09-23": {
-      "creature": {
-        "name": "Cougar Guardian of Creek",
-        "type": "guardian",
-        "country": "United States",
-        "summary": "Cougar guardian from Creek tradition that protects oceans and serves the Panther medicine clan",
-        "slug": "cougar-guardian-of-creek"
-      },
-      "story": {
-        "title": "Qozy Körpesh and Bayan Sulu",
-        "country": "Kazakhstan",
-        "region": "Central Asian",
-        "summary": "The oldest Kazakh love dastan, dating back over 1,500 years to the era of the Türgesh Khaganate. Qozy and Bayan are...",
-        "slug": "qozy-krpesh-and-bayan-sulu"
-      }
-    },
-    "2026-09-24": {
-      "creature": {
-        "name": "Cougar Nature-Spirit (Kikuyu)",
-        "type": "nature-spirit",
-        "country": "United States",
-        "summary": "a territorial guardian spirit from kikuyu folklore that regulates the boundary between cultivated lands and wild nature",
-        "slug": "cougarnaturespiritkikuyu-usa"
-      },
-      "story": {
-        "title": "The Legend of Asan Kaighy and the Promised Land",
-        "country": "Kazakhstan",
-        "region": "Central Asian",
-        "summary": "Asan Kaighy ('Asan the Sorrowful') is a legendary figure said to have lived during the reign of Kazakh Khan Janibek in...",
-        "slug": "the-legend-of-asan-kaighy-and-the-promised-land"
-      }
-    },
-    "2026-09-25": {
-      "creature": {
-        "name": "Cougar Nature-Spirit of Haida",
-        "type": "nature-spirit",
-        "country": "Canada",
-        "summary": "a mountain guardian spirit from haida mythology that protects the forests and watersheds of haida gwaii",
-        "slug": "cougar-nature-spirit-of-haida"
-      },
-      "story": {
-        "title": "The Story of Ablai Khan",
-        "country": "Kazakhstan",
-        "region": "Central Asian",
-        "summary": "Ablai Khan (1711-1781) was one of the greatest Kazakh khans, who united the three Kazakh zhuzes (hordes) and led the...",
-        "slug": "the-story-of-ablai-khan"
-      }
-    },
-    "2026-09-26": {
-      "creature": {
-        "name": "Cougar Nature-Spirit of Inuit",
-        "type": "nature-spirit",
-        "country": "Canada",
-        "summary": "a cave-dwelling nature spirit from inuit tradition that guards hidden wisdom beneath the arctic landscape",
-        "slug": "cougar-nature-spirit-of-inuit"
-      },
-      "story": {
-        "title": "The Legend of Alasha Khan and the Three Zhuzes",
-        "country": "Kazakhstan",
-        "region": "Central Asian",
-        "summary": "Long ago, a khan's son was born with a brindled (striped) appearance. Ashamed, the khan ordered the child abandoned in...",
-        "slug": "the-legend-of-alasha-khan-and-the-three-zhuzes"
-      }
-    },
-    "2026-09-27": {
-      "creature": {
-        "name": "Cougar Nature-Spirit of Maliseet",
-        "type": "nature-spirit",
-        "country": "Canada",
-        "summary": "an underground forest spirit from maliseet tradition that guards the root networks and medicinal plants of the acadian...",
-        "slug": "cougar-nature-spirit-of-maliseet"
-      },
-      "story": {
-        "title": "Aldar Qose the Trickster",
-        "country": "Kazakhstan",
-        "region": "Central Asian",
-        "summary": "Aldar Qose is the beloved Kazakh trickster figure, analogous to Nasreddin Hodja in other Turkic traditions. He is a...",
-        "slug": "aldar-qose-the-trickster"
-      }
-    },
-    "2026-09-28": {
-      "creature": {
-        "name": "Cougar Trickster of Kwakiutl",
-        "type": "trickster",
-        "country": "Canada",
-        "summary": "a forest trickster spirit from kwakwaka_wakw tradition that tests initiates and guards ceremonial knowledge",
-        "slug": "cougar-trickster-of-kwakiutl"
-      },
-      "story": {
-        "title": "The Forty Robbers of the Steppe (Kirk Kazak)",
-        "country": "Kazakhstan",
-        "region": "Central Asian",
-        "summary": "The legend of the 'Forty Kazakhs' (Kirk Kazak) tells of forty exiled warriors who formed a brotherhood on the Kazakh...",
-        "slug": "the-forty-robbers-of-the-steppe-kirk-kazak"
-      }
-    },
-    "2026-09-29": {
-      "creature": {
-        "name": "Cougar Trickster of Pomo",
-        "type": "trickster",
-        "country": "United States",
-        "summary": "a forest trickster from pomo tradition that teaches survival skills through deception and credited with bringing fire...",
-        "slug": "cougar-trickster-of-pomo"
-      },
-      "story": {
-        "title": "The Epic of Manas: The Birth of the Hero",
-        "country": "Kyrgyzstan",
-        "region": "Central Asian",
-        "summary": "The Epic of Manas is the longest epic poem in the world (500,000+ lines), central to Kyrgyz national identity. Manas...",
-        "slug": "the-epic-of-manas-the-birth-of-the-hero"
-      }
-    },
-    "2026-09-30": {
-      "creature": {
-        "name": "Cougar Water-Spirit of Apache",
-        "type": "water-spirit",
-        "country": "United States",
-        "summary": "a water-guardian spirit from apache tradition that protects sacred lakes and springs in the american southwest",
-        "slug": "cougar-water-spirit-of-apache"
-      },
-      "story": {
-        "title": "Manas: The Great Campaign and Death of the Hero",
-        "country": "Kyrgyzstan",
-        "region": "Central Asian",
-        "summary": "The second major cycle of the Manas epic describes how Manas united the forty Kyrgyz tribes under the Tengrist...",
-        "slug": "manas-the-great-campaign-and-death-of-the-hero"
-      }
-    },
-    "2026-10-01": {
-      "creature": {
-        "name": "Humans Denmark",
-        "type": "spirit",
-        "country": "Denmark",
-        "summary": "Ordinary humans from Danish folklore and the Molbo stories whose common sense drives comic tales.",
-        "slug": "humans-denmark"
-      },
-      "story": {
-        "title": "Lạc Long Quân and Âu Cơ",
-        "country": "Vietnam",
-        "region": "Southeast Asia",
-        "summary": "In the mountains of Papua New Guinea, where the jungle is so dense that villages can be separated by a day's walk and...",
-        "slug": "lc-long-qun-and-u-c"
-      }
-    },
-    "2026-10-02": {
-      "creature": {
-        "name": "Hel Goddess Denmark",
-        "type": "deity",
-        "country": "Iceland",
-        "summary": "Hel is the ruler of the underworld in Norse mythology, daughter of Loki and the giantess Angrboða. She presides over...",
-        "slug": "hel-goddess-denmark"
-      },
-      "story": {
-        "title": "Thanh Gióng the Giant Saint",
-        "country": "Vietnam",
-        "region": "Southeast Asia",
-        "summary": "In the folklore of the Philippines, there is a creature that every child learns about before they can walk.",
-        "slug": "thanh-ging-the-giant-saint"
-      }
-    },
-    "2026-10-03": {
-      "creature": {
-        "name": "Eynhallow Monk",
-        "type": "human",
-        "country": "United Kingdom",
-        "summary": "The Eynhallow Monk is a figure from Orcadian folklore associated with the island of Eynhallow in Orkney, Scotland. The...",
-        "slug": "eynhallow-monk"
-      },
-      "story": {
-        "title": "Son Tinh and Thuy Tinh",
-        "country": "Vietnam",
-        "region": "Southeast Asia",
-        "summary": "In the mountains of Japan, where the bamboo forests rustle with secrets and the old Shinto shrines stand weathered by...",
-        "slug": "son-tinh-and-thuy-tinh"
-      }
-    },
     "2026-10-04": {
       "creature": {
-        "name": "Selkies Iceland",
-        "type": "shapeshifter",
-        "country": "Iceland",
-        "summary": "Selkies are mythological beings from Icelandic and Norse folklore who live as seals in the sea but shed their skins to...",
-        "slug": "selkies-iceland"
+        "name": "Fox Nature-Spirit (Tupi)",
+        "type": "spirit",
+        "country": "Madagascar",
+        "summary": "celestial guardian of the atlantic rainforests that shepherds lost souls and protects the sacred seed-banks of the tupi people",
+        "slug": "foxnaturespirittupi-madagascar"
       },
       "story": {
-        "title": "Barong and Rangda",
-        "country": "Indonesia",
-        "region": "Southeast Asia",
-        "summary": "On the Caribbean island of Trinidad, where the heat is thick enough to drink and the nights pulse with the music of...",
-        "slug": "barong-and-rangda"
+        "title": "La Diablesse at the Crossroads",
+        "country": "Dominica",
+        "region": "Caribbean",
+        "summary": "A beautiful stranger appears at a rural crossroads to lure a young farmer to his doom, but his mother's warnings and an old obeah charm may yet save him.",
+        "slug": "la-diablesse-at-the-crossroads"
       }
     },
     "2026-10-05": {
       "creature": {
-        "name": "Pichal Peri",
-        "type": "fairy",
-        "country": "Germany",
-        "summary": "Pichal Peri (also known as the White Ladies) are Sorbian mythological beings from Slavic folklore in eastern Germany....",
-        "slug": "pichal-peri"
+        "name": "Fox Nature-Spirit of Creek",
+        "type": "nature-spirit",
+        "country": "United States",
+        "summary": "woodland fox spirit from creek tradition that teaches the wisdom of observation and fire through subtle signs in the southeastern forests",
+        "slug": "fox-nature-spirit-of-creek"
       },
       "story": {
-        "title": "Calon Arang the Witch",
-        "country": "Indonesia",
-        "region": "Southeast Asia",
-        "summary": "Before the Maori arrived in New Zealand, the islands were already inhabited by mysterious beings whose stories predate...",
-        "slug": "calon-arang-the-witch"
+        "title": "Mama D'Leau of the River",
+        "country": "Dominica",
+        "region": "Caribbean",
+        "summary": "A water spirit of terrifying beauty guards the rivers of Dominica, punishing those who disrespect the water while rewarding those who approach with reverence.",
+        "slug": "mama-dleau-of-the-river"
+      }
+    },
+    "2026-10-06": {
+      "creature": {
+        "name": "Fox Nature-Spirit of Haida",
+        "type": "nature-spirit",
+        "country": "Canada",
+        "summary": "elusive fox spirit from haida tradition that tests cleverness and mediates between the spirits of the forest and the sea in haida gwaii",
+        "slug": "fox-nature-spirit-of-haida"
+      },
+      "story": {
+        "title": "The Loogaroo and the Obeah Man",
+        "country": "Dominica",
+        "region": "Caribbean",
+        "summary": "When a loogaroo terrorizes a village through a series of unexplained attacks, only the village obeah man has the knowledge and courage to confront it.",
+        "slug": "the-loogaroo-and-the-obeah-man"
+      }
+    },
+    "2026-10-07": {
+      "creature": {
+        "name": "Fox Spirit (Zulu)",
+        "type": "spirit",
+        "country": "South Africa",
+        "summary": "embodiment of nature's duality in zulu tradition, acting as a mediator between the living and the ancestors (amadlozi)",
+        "slug": "foxspiritzulu-southafrica"
+      },
+      "story": {
+        "title": "The Maboyo of the Layou",
+        "country": "Dominica",
+        "region": "Caribbean",
+        "summary": "A colossal serpent spirit guards the deepest pools of the Layou River, and those who offend the waters risk being dragged beneath the surface forever.",
+        "slug": "the-maboyo-of-the-layou"
+      }
+    },
+    "2026-10-08": {
+      "creature": {
+        "name": "Fox Spirit (Zulu)",
+        "type": "spirit",
+        "country": "Mexico",
+        "summary": "embodiment of nature's duality in zulu tradition, acting as a mediator between the living and the ancestors (amadlozi)",
+        "slug": "foxspiritzulu-mexico"
+      },
+      "story": {
+        "title": "The Bakwa of the Morning",
+        "country": "Dominica",
+        "region": "Caribbean",
+        "summary": "The Bakwa, a great serpent of Kalinago legend, brings mist and rain to the island, and its appearance is both a blessing and a warning.",
+        "slug": "the-bakwa-of-the-morning"
+      }
+    },
+    "2026-10-09": {
+      "creature": {
+        "name": "Fox Spirit of Ashanti",
+        "type": "spirit",
+        "country": "Ghana",
+        "summary": "solemn fox spirit from ashanti tradition that serves as a messenger between the living and the ancestors in the sacred groves of ghana",
+        "slug": "fox-spirit-of-ashanti"
+      },
+      "story": {
+        "title": "Mama Glo: Lights of the Lagoon",
+        "country": "Grenada",
+        "region": "Caribbean",
+        "summary": "A fisherman ignores his grandmother's warnings about the lagoon lights and is drawn beneath the water by Mama Glo, learning too late that some waters keep what they claim.",
+        "slug": "mama-glo-lights-of-the-lagoon"
+      }
+    },
+    "2026-10-10": {
+      "creature": {
+        "name": "Fox Spirit of Creek",
+        "type": "spirit",
+        "country": "United States",
+        "summary": "swift fox messenger spirit from creek tradition that carries warnings and announcements between the physical world and the spirit realm",
+        "slug": "fox-spirit-of-creek"
+      },
+      "story": {
+        "title": "Lagahoo: Midnight on the Estuary",
+        "country": "Grenada",
+        "region": "Caribbean",
+        "summary": "A plantation-era overseer who abused his workers is cursed to become the Lagahoo, doomed to shapeshift each night and haunt the very roads he once patrolled.",
+        "slug": "lagahoo-midnight-on-the-estuary"
+      }
+    },
+    "2026-10-11": {
+      "creature": {
+        "name": "Fox Spirit of Maya",
+        "type": "spirit",
+        "country": "Guatemala",
+        "summary": "shape-shifting fox spirit from maya tradition that guards hidden knowledge at cave entrances and crossroads between the living world and xibalba",
+        "slug": "fox-spirit-of-maya"
+      },
+      "story": {
+        "title": "Ligaroo: Silver Teeth of the Mountains",
+        "country": "Grenada",
+        "region": "Caribbean",
+        "summary": "A boy in the high villages above St. George's encounters the Ligaroo, a vampiric shapeshifter who takes the form of someone you trust, and learns that silver and faith are the only weapons.",
+        "slug": "ligaroo-silver-teeth-of-the-mountains"
+      }
+    },
+    "2026-10-12": {
+      "creature": {
+        "name": "Fox Spirit of Muisca",
+        "type": "spirit",
+        "country": "Colombia",
+        "summary": "prophetic fox spirit from muisca tradition that roams the high colombian paramo as a messenger between the sun god sue and the moon goddess chia",
+        "slug": "fox-spirit-of-muisca"
+      },
+      "story": {
+        "title": "Jab Jab: Carnival of Chains",
+        "country": "Grenada",
+        "region": "Caribbean",
+        "summary": "A young masquerader discovers that the Jab Jab who dances through the streets carries the memory of slavery in every clink of its chains, and that freedom is something you must choose to carry.",
+        "slug": "jab-jab-carnival-of-chains"
+      }
+    },
+    "2026-10-13": {
+      "creature": {
+        "name": "Fox Spirit of Zapotec",
+        "type": "spirit",
+        "country": "Mexico",
+        "summary": "The fox spirit from Zapotec tradition, guardian of the underworld and psychopomp between realms",
+        "slug": "fox-spirit-of-zapotec"
+      },
+      "story": {
+        "title": "Papa Bois: Keeper of the Green",
+        "country": "Grenada",
+        "region": "Caribbean",
+        "summary": "When a logging crew begins clearing the old forest above Grand Etang, each man falls mysteriously ill until they meet Papa Bois, the ancient guardian of the bush.",
+        "slug": "papa-bois-keeper-of-the-green"
+      }
+    },
+    "2026-10-14": {
+      "creature": {
+        "name": "Fox Trickster (Mixtec)",
+        "type": "trickster",
+        "country": "Mexico",
+        "summary": "A fox trickster from Mixtec tradition that embodies the lake and teaches through clever deception",
+        "slug": "fox-trickster-mixtec"
+      },
+      "story": {
+        "title": "Dwenn: The Stone That Remembers",
+        "country": "Grenada",
+        "region": "Caribbean",
+        "summary": "A stonemason building a church in the hills above St. David's encounters the Dwenn, a spirit of the land itself, and learns that some stones hold the memory of everything that has ever happened upon them.",
+        "slug": "dwenn-the-stone-that-remembers"
+      }
+    },
+    "2026-10-15": {
+      "creature": {
+        "name": "Fox Trickster of Creek",
+        "type": "trickster",
+        "country": "United States",
+        "summary": "The fox trickster from Creek tradition, guardian of springs and teacher of wisdom through clever tricks",
+        "slug": "fox-trickster-of-creek"
+      },
+      "story": {
+        "title": "The Ghost Who Walked Between Worlds",
+        "country": "East Timor",
+        "region": "Southeast Asian",
+        "summary": "A family discovers their deceased grandfather still lingers at the edge of the village, walking the moonlit path between the living and the dead.",
+        "slug": "the-ghost-who-walked-between-worlds"
+      }
+    },
+    "2026-10-16": {
+      "creature": {
+        "name": "Fox Trickster of Lakota",
+        "type": "trickster",
+        "country": "United States",
+        "summary": "The fox trickster from Lakota tradition, guardian of the hills and subtle teacher of wisdom",
+        "slug": "fox-trickster-of-lakota"
+      },
+      "story": {
+        "title": "The Spirit of the Sacred Cloth",
+        "country": "East Timor",
+        "region": "Southeast Asian",
+        "summary": "A weaver discovers that the spirit Lei inhabits the finest tais cloth, guarding the patterns that carry ancestral memory.",
+        "slug": "the-spirit-of-the-sacred-cloth"
+      }
+    },
+    "2026-10-17": {
+      "creature": {
+        "name": "Fox Trickster of Ojibwe",
+        "type": "trickster",
+        "country": "United States",
+        "summary": "The fox trickster from Ojibwe tradition in Canada, guardian of northern waterways and teacher of winter survival wisdom",
+        "slug": "foxtricksterofojibwe-usa"
+      },
+      "story": {
+        "title": "The Keepers of the Sacred Law",
+        "country": "East Timor",
+        "region": "Southeast Asian",
+        "summary": "The Lulik Spirits, guardians of Timorese sacred law, punish those who break taboos and reward those who uphold the ancient protocols.",
+        "slug": "the-keepers-of-the-sacred-law"
+      }
+    },
+    "2026-10-18": {
+      "creature": {
+        "name": "Fox Trickster of Ojibwe",
+        "type": "trickster",
+        "country": "Canada",
+        "summary": "The fox trickster from Ojibwe tradition in Canada, guardian of northern waterways and teacher of winter survival wisdom",
+        "slug": "foxtricksterofojibwe-canada"
+      },
+      "story": {
+        "title": "The Crocodile Who Formed the Island",
+        "country": "East Timor",
+        "region": "Southeast Asian",
+        "summary": "The great crocodile spirit Lafaek sacrificed himself to create the island of Timor, and his body became the land upon which the people live.",
+        "slug": "the-crocodile-who-formed-the-island"
+      }
+    },
+    "2026-10-19": {
+      "creature": {
+        "name": "Fox Trickster of Zapotec",
+        "type": "trickster",
+        "country": "Mexico",
+        "summary": "The fox trickster from Zapotec tradition, guardian of caves and tester of human cleverness through illusion",
+        "slug": "fox-trickster-of-zapotec"
+      },
+      "story": {
+        "title": "The Whale Who Sang the World Awake",
+        "country": "East Timor",
+        "region": "Southeast Asian",
+        "summary": "Before the island existed, a Great Whale sang a song that called the land up from the deep, and its echo still guides fishermen home.",
+        "slug": "the-whale-who-sang-the-world-awake"
+      }
+    },
+    "2026-10-20": {
+      "creature": {
+        "name": "Frog Guardian (Bhutanese)",
+        "type": "guardian",
+        "country": "Bhutan",
+        "summary": "The frog guardian of Bhutanese tradition, protector of valleys and messenger of nature's wisdom",
+        "slug": "frog-guardian-bhutanese"
+      },
+      "story": {
+        "title": "The Ancestor Who Guarded the Forest",
+        "country": "East Timor",
+        "region": "Southeast Asian",
+        "summary": "Ema, the ancestor-spirit, protects the mountain forests of Timor and punishes those who take more than they need from the land.",
+        "slug": "the-ancestor-who-guarded-the-forest"
+      }
+    },
+    "2026-10-21": {
+      "creature": {
+        "name": "Frost Giant (Tupi)",
+        "type": "giant",
+        "country": "Brazil",
+        "summary": "A frost giant from Tupi folklore representing the cold southern winds that occasionally sweep through Brazilian highlands",
+        "slug": "frost-giant-tupi"
+      },
+      "story": {
+        "title": "The Xan of Mountain Passes",
+        "country": "Azerbaijan",
+        "region": "Caucasus",
+        "summary": "A shepherd encounters a Xan, a restless mountain ghost, and learns why the dead sometimes refuse to leave the high places they loved in life.",
+        "slug": "the-xan-of-mountain-passes"
+      }
+    },
+    "2026-10-22": {
+      "creature": {
+        "name": "Fuath",
+        "type": "spirit",
+        "country": "Scotland",
+        "summary": "Malevolent Scottish water spirit that inhabits lochs and rivers, known for attacking and drowning humans",
+        "slug": "fuath"
+      },
+      "story": {
+        "title": "Shahmaran, Queen of Serpents",
+        "country": "Azerbaijan",
+        "region": "Caucasus",
+        "summary": "A young man discovers Shahmaran, the serpent queen who rules a hidden kingdom beneath the earth, and must choose between the world above and the world below.",
+        "slug": "shahmaran-queen-of-serpents"
+      }
+    },
+    "2026-10-23": {
+      "creature": {
+        "name": "Futakuchi-Onna Variant",
+        "type": "monster",
+        "country": "Cameroon",
+        "summary": "Cameroonian variant of the two-mouthed woman, a witch transformed through black magic with an insatiable second mouth",
+        "slug": "futakuchi-onna-variant"
+      },
+      "story": {
+        "title": "The Simurgh and the Burning Garden",
+        "country": "Azerbaijan",
+        "region": "Caucasus",
+        "summary": "The great Simurgh descends from Mount Qaf to heal a garden scorched by divine fire, teaching a village the difference between destruction and renewal.",
+        "slug": "simurgh-and-the-burning-garden"
+      }
+    },
+    "2026-10-24": {
+      "creature": {
+        "name": "Fänggen",
+        "type": "giant",
+        "country": "Austria",
+        "summary": "Fänggen (singular: Fängge) are gigantic female wood sprites or wild women from Alpine German folklore, particularly found in Bavarian and Tyrolean traditions",
+        "slug": "fnggen-austria"
+      },
+      "story": {
+        "title": "The Peri and the Poet",
+        "country": "Azerbaijan",
+        "region": "Caucasus",
+        "summary": "A grieving poet is visited by a Peri, a celestial spirit of Persian-Azerbaijani myth, who offers him a choice between forgetting his sorrow and learning its deeper meaning.",
+        "slug": "the-peri-and-the-poet"
+      }
+    },
+    "2026-10-25": {
+      "creature": {
+        "name": "Fänggen",
+        "type": "giant",
+        "country": "Germany",
+        "summary": "Fänggen (singular: Fängge) are gigantic female wood sprites or wild women from Alpine German folklore, particularly found in Bavarian and Tyrolean traditions",
+        "slug": "fnggen-germany"
+      },
+      "story": {
+        "title": "The Div and the Fortress of Fire",
+        "country": "Azerbaijan",
+        "region": "Caucasus",
+        "summary": "A Div, a powerful demon of ancient Zoroastrian and Turkic tradition, builds a fortress of black stone to block the sun, and only a fearless blacksmith can challenge it.",
+        "slug": "div-and-the-fortress-of-fire"
+      }
+    },
+    "2026-10-26": {
+      "creature": {
+        "name": "Fée",
+        "type": "fairy",
+        "country": "France",
+        "summary": "The French fairy tradition of supernatural women with magical powers who influence human destiny through blessings and curses",
+        "slug": "f-e"
+      },
+      "story": {
+        "title": "The Bura of the Deep Waters",
+        "country": "Azerbaijan",
+        "region": "Caucasus",
+        "summary": "Fishermen on the Kura River encounter a Bura, a water demon who demands a price for every fish pulled from the deep pools, and learn that some bargains are best left unmade.",
+        "slug": "the-bura-of-the-deep-waters"
+      }
+    },
+    "2026-10-27": {
+      "creature": {
+        "name": "Fjøsnisse",
+        "type": "household-spirit",
+        "country": "Norway",
+        "summary": "Fjøsnisse (barn nisse) is a specialized type of Norwegian nisse that lives specifically in the cowshed (fjøs) and cares for the cattle",
+        "slug": "fj-snisse"
+      },
+      "story": {
+        "title": "The Lungu of the Deep River",
+        "country": "Zambia",
+        "region": "Southern Africa",
+        "summary": "A Bemba fisherman who overfishes a sacred river encounters the Lungu, a colossal serpent guardian who demands he restore what he has taken before the waters turn against the village.",
+        "slug": "the-lungu-of-the-deep-river"
+      }
+    },
+    "2026-10-28": {
+      "creature": {
+        "name": "Fylgje",
+        "type": "guardian",
+        "country": "Norway",
+        "summary": "Fylgje (also fylgja, from Old Norse fylgja meaning to follow) is a guardian or following spirit in Norwegian folklore with roots in Old Norse religion",
+        "slug": "fylgje"
+      },
+      "story": {
+        "title": "Kongamato of the Falls",
+        "country": "Zambia",
+        "region": "Southern Africa",
+        "summary": "A Lozi hunter ventures too close to a hidden cataract above Victoria Falls and encounters the Kongamato, a pterodactyl-like beast that guards the spray zones where the living are not meant to wander.",
+        "slug": "kongamato-of-the-falls"
+      }
+    },
+    "2026-10-29": {
+      "creature": {
+        "name": "Fjellvette",
+        "type": "nature-spirit",
+        "country": "Norway",
+        "summary": "Fjellvette (mountain wight) is a nature spirit specific to the mountains of Vestlandet",
+        "slug": "fjellvette"
+      },
+      "story": {
+        "title": "Funkwe the Devourer of Rivers",
+        "country": "Zambia",
+        "region": "Southern Africa",
+        "summary": "When a Tonga village's river begins to vanish overnight, a young girl discovers that the Funkwe, a giant water serpent, has been drinking the river dry as punishment for the village chief's arrogance.",
+        "slug": "funkwe-the-devourer-of-rivers"
+      }
+    },
+    "2026-10-30": {
+      "creature": {
+        "name": "Fosen-Sjøtrollet",
+        "type": "troll",
+        "country": "Norway",
+        "summary": "Fosen-Sjøtrollet (the Fosen Sea Troll) is a sea troll said to inhabit the waters off the Fosen peninsula in Trøndelag",
+        "slug": "fosen-sj-trollet"
+      },
+      "story": {
+        "title": "Chitapo of the Silent Lake",
+        "country": "Zambia",
+        "region": "Southern Africa",
+        "summary": "A woman grieving the loss of her child wanders to a lake in the Bangweulu wetlands and encounters Chitapo, a lake spirit who offers to return what was taken but demands a price measured in memory.",
+        "slug": "chitapo-of-the-silent-lake"
+      }
+    },
+    "2026-10-31": {
+      "creature": {
+        "name": "Floghamen",
+        "type": "shapeshifter",
+        "country": "Norway",
+        "summary": "Floghamen (the flying shape) is a shape-shifting spirit from Setesdal folklore in Sørlandet",
+        "slug": "floghamen"
+      },
+      "story": {
+        "title": "Nyaminyami and the Breaking of the Dam",
+        "country": "Zambia",
+        "region": "Southern Africa",
+        "summary": "When engineers came to dam the Zambezi, the Tonga people warned that Nyaminyami, the river god, would not tolerate the severing of his body, and the floods that followed proved them right.",
+        "slug": "nyaminyami-and-the-breaking-of-the-dam"
+      }
+    },
+    "2026-11-01": {
+      "creature": {
+        "name": "Turtle Water-Spirit of Tlingit",
+        "type": "water-spirit",
+        "country": "United States",
+        "summary": "The turtle water-spirit from Tlingit tradition, guardian of the forests",
+        "slug": "turtlewaterspiritoftlingit-usa"
+      },
+      "story": {
+        "title": "Glooscap and the Great Beaver: The Five Islands",
+        "country": "United States",
+        "region": "North American",
+        "summary": "Glooscap once transformed himself into a giant beaver to create a safe haven for his people. Swimming in the Bay of Fundy, he slapped his enormous tail against the water with such tremendous force that it churned up the earth from the seabed, creating the Five Islands of Nova Scotia. When Glooscap slept, Nova Scotia was his bed and Prince Edward Island his pillow. In another tradition, when Glooscap finished painting all the splendor of the world, he dipped his brush into a blend of all the colors left over and created Abegweit, meaning Cradled on the Waves, his favorite island — Prince Edward Island. The Annapolis Valley was also shaped by Glooscap's hand. These landscape features are constant reminders to the Mi'kmaq of their culture hero's presence and his love for the land and its people.",
+        "slug": "glooscap-and-the-great-beaver-the-five-islands"
+      }
+    },
+    "2026-11-02": {
+      "creature": {
+        "name": "Turtle Water-Spirit of Tlingit",
+        "type": "water-spirit",
+        "country": "Canada",
+        "summary": "The turtle water-spirit from Tlingit tradition, guardian of the forests",
+        "slug": "turtlewaterspiritoftlingit-canada"
+      },
+      "story": {
+        "title": "Oochigeas and the Invisible Boy (The Mi'kmaq Cinderella)",
+        "country": "United States",
+        "region": "North American",
+        "summary": "A great chief had a son who was invisible. Only a woman who spoke the truth could see him. Many vain young women tried and failed, always lying that they could see the Invisible Boy. In a nearby village lived Oochigeas, the youngest daughter, whose face and hands were scarred from tending fires because her cruel elder sisters forced her to do all the hard work. Her ragged clothes were made of bark. She decided to try her luck and walked to the chief's lodge in tatters. The Invisible Boy's sister asked her the question: Can you see my brother? Oochigeas answered truthfully that she could not. Then the sister gave her fine clothes and combed her hair. Oochigeas approached again, and this time she saw the Invisible Boy — a handsome young man sitting at the edge of the sky. They married, and her kindness and truthfulness were rewarded, while her cruel sisters were punished.",
+        "slug": "oochigeas-and-the-invisible-boy-the-mikmaq-cinderella"
+      }
+    },
+    "2026-11-03": {
+      "creature": {
+        "name": "Tzitzimimeh",
+        "type": "demon",
+        "country": "Mexico",
+        "summary": "AZTEC STAR DEMONS — skeletal female deities who descend during solar eclipses to devour humanity, embodying the cosmic fear of the Fifth Sun's extinction",
+        "slug": "tzitzimimeh"
+      },
+      "story": {
+        "title": "Mooin, the Bear's Child",
+        "country": "United States",
+        "region": "North American",
+        "summary": "A young Mi'kmaq boy wandered into the forest and became lost. A great she-bear found him and, instead of harming him, adopted him as her own cub. The boy grew up among the bear people, learning their ways and understanding the language of animals. He became strong and brave, but he always remembered that he was human. When he was grown, the bear people told him it was time to return to his own kind. Before he left, the bears taught him the songs and ceremonies they used to honor the Great Spirit, and gave him permission to hunt them for food — but only if he always showed respect and gratitude. The boy returned to the Mi'kmaq people as a great hunter and medicine man, teaching them the ceremony for honoring the spirits of the animals they killed. This is the origin of the Mi'kmaq hunting ceremonies and the Bear Clan tradition.",
+        "slug": "mooin-the-bears-child"
+      }
+    },
+    "2026-11-04": {
+      "creature": {
+        "name": "Táltos",
+        "type": "hero",
+        "country": "Hungary",
+        "summary": "Traditional Hungarian sorcerer-healer with shamanistic abilities",
+        "slug": "t-ltos"
+      },
+      "story": {
+        "title": "The Girl Chenoo",
+        "country": "United States",
+        "region": "North American",
+        "summary": "A beautiful Mi'kmaq woman was lost in the frozen north and suffered terrible hunger. To survive, she ate human flesh and was transformed into a Chenoo — a cannibalistic ice monster with a heart of ice and an insatiable hunger for human beings. Her family searched for her but when they found her, she had become a monstrous giant with claws and fangs, her heart visible through her translucent chest. The family's oldest grandmother did not abandon her. She sang the old healing songs and performed the sacred ceremonies to warm her granddaughter's frozen heart. Through love and prayer, the grandmother melted the ice around the Chenoo's heart and restored her to human form. The story teaches the Mi'kmaq understanding that even those who become monsters through tragedy can be healed through family love, community, and the power of traditional ceremonies.",
+        "slug": "the-girl-chenoo"
+      }
+    },
+    "2026-11-05": {
+      "creature": {
+        "name": "Tây",
+        "type": "spirit",
+        "country": "Vietnam",
+        "summary": "Vietnamese spirit of foreign people who died abroad",
+        "slug": "t-y"
+      },
+      "story": {
+        "title": "Gluskabe and the Wind Eagle",
+        "country": "United States",
+        "region": "North American",
+        "summary": "Gluskabe (Glooscap) was annoyed by the constant wind that made life difficult for his people. He traveled to the great mountain where the Wind Eagle — a colossal bird whose wingbeats created all the wind in the world — was perched. Gluskabe climbed the mountain and captured the Wind Eagle, tying its wings together so they could not move. Immediately the wind stopped. At first, everything was calm and pleasant, but soon the air grew hot and still. The water became stagnant, the people could not breathe, and the world began to suffocate. Gluskabe realized that the wind was necessary for life. He returned to the mountaintop and untied the Wind Eagle's wings — just a little — allowing a gentle breeze to flow. He learned that while too much wind is destructive, no wind at all is even worse. The Wind Eagle's wings have been tied ever since, which is why we have breezes but not constant gales.",
+        "slug": "gluskabe-and-the-wind-eagle"
+      }
+    },
+    "2026-11-06": {
+      "creature": {
+        "name": "Tāne Mahuta",
+        "type": "forest-spirit",
+        "country": "New Zealand",
+        "summary": "Tāne Mahuta is a forest spirit from the folklore and mythology of New Zealand.",
+        "slug": "t-ne-mahuta"
+      },
+      "story": {
+        "title": "Tabaldak Creates Glooscap and Malsumis",
+        "country": "United States",
+        "region": "North American",
+        "summary": "In Abenaki tradition, the Great Spirit Tabaldak first created the world and all the people. When he finished making humans, he wiped the dust from his hands, and from this divine dust were born twin brothers — Glooscap and Malsumis. Glooscap was given the power to create a good world, full of kind animals, sweet fruits, and gentle rivers. Malsumis, the wolf, was his opposite, creating only evil — dangerous animals, thorns, and crooked rivers that flooded the land. From birth, Malsumis resented his brother and plotted to destroy him. Glooscap discovered that his brother could only be killed by a blow from a fern root. Malsumis tricked the animals into revealing this secret and attacked Glooscap, but the good twin was saved by Grandmother Woodchuck. Glooscap eventually defeated Malsumis and turned him into stone, where he remains, the embodiment of all that is harmful in nature.",
+        "slug": "tabaldak-creates-glooscap-and-malsumis"
+      }
+    },
+    "2026-11-07": {
+      "creature": {
+        "name": "Tāwhaki",
+        "type": "deity",
+        "country": "New Zealand",
+        "summary": "Māori deity of lightning and thunder, ancestor of humans",
+        "slug": "t-whaki"
+      },
+      "story": {
+        "title": "The Origin of Corn: First Mother's Sacrifice",
+        "country": "United States",
+        "region": "North American",
+        "summary": "In the time of the first people, the Abenaki were hungry. Gluskabe's grandmother Nokomes taught the people to survive on wild plants, but food was scarce. First Mother, the first woman created by Gichi Niwaskw and Gluskabe, saw her children starving. She told her husband to kill her and drag her body across a clearing. Weeping, he obeyed. Where her body passed, corn sprang up — tall green stalks bearing golden ears. Where her heart lay, beans grew to climb the corn. Where her feet lay, squash spread across the ground. First Mother had given her life so her children would never starve. The Abenaki honor her sacrifice in every planting season, and the Three Sisters — corn, beans, and squash — are always planted together, as First Mother intended, supporting each other just as the people must support each other.",
+        "slug": "the-origin-of-corn-first-mothers-sacrifice"
+      }
+    },
+    "2026-11-08": {
+      "creature": {
+        "name": "Tusse",
+        "type": "troll",
+        "country": "Norway",
+        "summary": "Tusse (also Tuss) is a regional variant of the troll/vätte complex found in Halland Småland and Västergötland — a transitional figure between the larger trolls and the smaller vättar",
+        "slug": "tusse-norway"
+      },
+      "story": {
+        "title": "Gluskonba and the Four Wishes",
+        "country": "United States",
+        "region": "North American",
+        "summary": "Gluskonba (Glooscap) offered four Abenaki men a single wish each. The first man wished to be powerful and rich, and was turned into a great pine tree — tall and strong, but rooted in one place forever. The second man wished to be feared by everyone, and was turned into a bear — powerful but alone. The third man wished to live forever, and was turned into a rock — eternal but without feeling or movement. The fourth man listened to the fate of the others and asked only for the wisdom to accept whatever Gluskonba gave him. Gluskonba blessed this man with a long, happy life, many children, and the love of his community. The first three had received what they asked for, but found their wishes brought misery instead of happiness. The story teaches that true wisdom lies not in seeking power or wealth, but in accepting the gifts of the Creator with gratitude.",
+        "slug": "gluskonba-and-the-four-wishes"
+      }
+    },
+    "2026-11-09": {
+      "creature": {
+        "name": "Tusse",
+        "type": "troll",
+        "country": "Sweden",
+        "summary": "Tusse (also Tuss) is a regional variant of the troll/vätte complex found in Halland Småland and Västergötland — a transitional figure between the larger trolls and the smaller vättar",
+        "slug": "tusse-sweden"
+      },
+      "story": {
+        "title": "Pamola, the Snow Bird Spirit of Mount Katahdin",
+        "country": "United States",
+        "region": "North American",
+        "summary": "Pamola (also called Bemola or Pomola) is a powerful snow bird spirit who dwells on the summit of Mount Katahdin, the highest mountain in Maine and the most sacred peak of the Penobscot and Abenaki people. Pamola has the body of a man and the head and wings of a giant eagle and makes the cold weather by beating his enormous wings. He fiercely guards the mountain against trespassers, sending blizzards to drive away those who dare approach his domain. According to legend, a Penobscot woman once married Pamola and lived with him on the mountain, but she eventually grew homesick and returned to her village, bringing with her the knowledge of how to survive the mountain's winter. The Pamola legend serves as a warning to respect the sacred power of Mount Katahdin and the spirits that dwell there.",
+        "slug": "pamola-the-snow-bird-spirit-of-mount-katahdin"
+      }
+    },
+    "2026-11-10": {
+      "creature": {
+        "name": "Trollkatt",
+        "type": "fairy",
+        "country": "Norway",
+        "summary": "Trollkatt (troll cat) is a magical cat-like creature in Norwegian folklore, particularly associated with witches and trolls in Vestlandet",
+        "slug": "trollkatt"
+      },
+      "story": {
+        "title": "Gluskabe and Dzeedzeez (The Baby Who Outmatched the Hero)",
+        "country": "United States",
+        "region": "North American",
+        "summary": "Gluskabe, the great culture hero, was resting in his lodge after his many labors when he heard a baby crying. The baby was Dzeedzeez (Wasis in Passamaquoddy), whose mother had left him alone while she gathered firewood. Gluskabe, confident in his powers, decided to quiet the baby himself. He tried using his magic, but the baby only cried louder. He sang his most powerful healing songs, but Dzeedzeez screamed. He tried every trick he knew — shapeshifting, illusions, promises of gifts — and Dzeedzeez simply stared at him and continued wailing. Finally, the great Gluskabe, who had defeated monsters and giants and even his evil twin brother, was utterly defeated by a baby. He left the lodge humbled, realizing that some challenges cannot be overcome by strength or magic. The story teaches that wisdom sometimes comes from recognizing one's own limitations.",
+        "slug": "gluskabe-and-dzeedzeez-the-baby-who-outmatched-the-hero"
+      }
+    },
+    "2026-11-11": {
+      "creature": {
+        "name": "Tautramunken",
+        "type": "ghost",
+        "country": "Norway",
+        "summary": "Tautramunken (the Monk of Tautra) is a ghostly figure that haunts the ruins of Tautra Cistercian monastery on the island of Tautra in the Trondheimsfjord, near Frosta",
+        "slug": "tautramunken"
+      },
+      "story": {
+        "title": "How Gluskabe Stole Tobacco",
+        "country": "United States",
+        "region": "North American",
+        "summary": "In the early days, tobacco was guarded jealously by Grasshopper (or a giant), who kept it hidden from humanity. The people prayed for tobacco to use in their ceremonies, as it was the sacred plant that carried their prayers to the Creator. Gluskabe heard their pleas and devised a plan. He transformed himself into a small, harmless creature — sometimes a rabbit, sometimes a mouse — and snuck into Grasshopper's lodge while he was away. He found the tobacco bundled in a pouch and escaped with it. Grasshopper pursued but Gluskabe was too swift. He distributed the tobacco among the Wabanaki tribes, teaching them how to plant and harvest it and how to offer it in sacred pipes. The smoke rising from the pipes carries the people's prayers directly to Gichi Niwaskw, the Great Spirit, and Gluskabe is honored for this gift that connects the people with the divine.",
+        "slug": "how-gluskabe-stole-tobacco"
+      }
+    },
+    "2026-11-12": {
+      "creature": {
+        "name": "Trollkjerringene på Letnesberget",
+        "type": "troll",
+        "country": "Norway",
+        "summary": "Trollkjerringene på Letnesberget (the Troll Witches of Letnesberget) is a legend from the Fosen area of Trøndelag, documented in Birger Sivertsen's collection 'Eventyr og sagn fra Trøndelag'",
+        "slug": "trollkjerringene-p-letnesberget"
+      },
+      "story": {
+        "title": "How Glooscap Found the Summer",
+        "country": "United States",
+        "region": "North American",
+        "summary": "In the long-ago time, there was no summer — only endless winter. The earth was covered in snow and ice, the people were freezing, and the animals suffered. Glooscap decided to find the spirit of summer and bring it back. He traveled to the far north where Winter, a powerful giant, held Summer captive in his ice lodge. Glooscap challenged Winter to a contest of power. They told stories for many days, and as Winter talked, frost grew thicker on the walls. But Glooscap's stories were of warmth, green leaves, and flowing water. He so charmed the spirit of Summer that she awakened and began to melt Winter's ice. Winter retreated north, and Summer followed Glooscap back to the people. Ever since, Summer and Winter alternate — Winter rules for half the year, but when his power wanes, Summer returns and the world thaws. The Mi'kmaq celebrate this cycle as the eternal rhythm of life.",
+        "slug": "how-glooscap-found-the-summer"
+      }
+    },
+    "2026-11-13": {
+      "creature": {
+        "name": "Tussegjeita",
+        "type": "monster",
+        "country": "Norway",
+        "summary": "Tussegjeita (the tusse goat) is a supernatural goat owned by the tusser (underjordiske/hidden people) in Setesdal folklore",
+        "slug": "tussegjeita"
+      },
+      "story": {
+        "title": "Ableegumooch: How Rabbit Lost His Tail",
+        "country": "United States",
+        "region": "North American",
+        "summary": "Ableegumooch the Rabbit was once the most vain of all animals, boasting constantly about his beautiful long tail. He teased Otter for having only a small, stubby tail. Annoyed, Otter challenged Rabbit to a fishing contest. Rabbit, who knew nothing about fishing but would never admit it, agreed. Otter caught fish after fish by diving into the river, while Rabbit sat on the bank with a line, catching nothing. In desperation, Rabbit tied his line to his tail and cast it far into the water, but instead of catching a fish, a giant turtle grabbed his tail and pulled. Rabbit escaped but his magnificent tail was snapped off, leaving only the short stub rabbits have to this day. Otter laughed at Rabbit's vanity, and Rabbit learned that pride comes before a fall. Glooscap, watching from his lodge, declared that Rabbit's new tail would remind all creatures of the dangers of vanity.",
+        "slug": "ableegumooch-how-rabbit-lost-his-tail"
+      }
+    },
+    "2026-11-14": {
+      "creature": {
+        "name": "Tussehesten",
+        "type": "kelpie",
+        "country": "Norway",
+        "summary": "Tussehesten (the tusse horse) is a supernatural horse owned by the underjordiske (tusser) in Setesdal folklore",
+        "slug": "tussehesten"
+      },
+      "story": {
+        "title": "Gluskabe and the Monster Frog",
+        "country": "United States",
+        "region": "North American",
+        "summary": "A devastating drought struck the land of the Wabanaki. Rivers dried to dust, the lakes shrank, and the people were dying. A giant frog monster had swallowed all the water and held it captive in its bloated body. The people called to Gluskabe for help. Gluskabe found the giant frog sunning itself on a rock, swollen with all the water of the world. He approached carefully and, using his magic, made the frog laugh. As the frog's great mouth opened, a flood of water poured forth, refilling the rivers and lakes. Some of the animals that had been trapped in the frog's belly leaped out transformed — those who had been four-legged became fish, and those who had been birds became waterfowl. Gluskabe then shrunk the frog down to its present size and declared that from then on, frogs would live near water but never again swallow more than they needed.",
+        "slug": "gluskabe-and-the-monster-frog"
+      }
+    },
+    "2026-11-15": {
+      "creature": {
+        "name": "Tussepresten",
+        "type": "ancestor-spirit",
+        "country": "Norway",
+        "summary": "Tussepresten (the tusse priest) is a unique figure in Setesdal folklore — the priest of the underjordiske (tusser/hidden people)",
+        "slug": "tussepresten"
+      },
+      "story": {
+        "title": "The Flying Canoe (Passamaquoddy)",
+        "country": "United States",
+        "region": "North American",
+        "summary": "Three Passamaquoddy brothers, all skilled canoe-builders, competed to see who could build the finest canoe. The eldest two built large, sturdy vessels decorated with porcupine quills and painted designs. But the youngest brother, instead of building an ordinary canoe, consulted the spirits and built a magical canoe that could fly through the air as easily as it could glide across water. When the day of judgment came, the two older brothers mocked the youngest's strange craft. But when the youngest sang a special song, his canoe rose into the air and circled the village. The chief was so impressed that he gave his daughter to the youngest brother in marriage. The story celebrates innovation and the wisdom of seeking spiritual guidance rather than merely following tradition, a theme common to Wabanaki folktales.",
+        "slug": "the-flying-canoe-passamaquoddy"
+      }
+    },
+    "2026-11-16": {
+      "creature": {
+        "name": "Tilberi",
+        "type": "monster",
+        "country": "Iceland",
+        "summary": "Tilberi (also Snakkur) is a worm-like magical creature created by women in Icelandic witchcraft traditions to steal milk from neighbors' cows",
+        "slug": "tilberi"
+      },
+      "story": {
+        "title": "The Origin of the Thunderbird (Wabanaki)",
+        "country": "United States",
+        "region": "North American",
+        "summary": "In the Wabanaki tradition, the Thunderbird was once a great chief who loved his people so much that after his death, the Great Spirit transformed him into a giant bird whose wings make the thunder and whose eyes flash lightning. He was given dominion over the sky and tasked with hunting the great horned serpent Weewillmekq (Jipijka'm), who lurked in lakes and devoured people. Whenever the horned serpent rose to attack, the Thunderbird descended from the clouds and struck it with lightning. The Thunderbird had a nest on the highest peak of the mountains, and its eggs were made of solid lightning. The Wabanaki honored the Thunderbird with offerings of tobacco, asking it to bring rain for the crops and to protect them from the underworld monsters.",
+        "slug": "the-origin-of-the-thunderbird-wabanaki"
+      }
+    },
+    "2026-11-17": {
+      "creature": {
+        "name": "Troll (Trold)",
+        "type": "giant",
+        "country": "Denmark",
+        "summary": "Large, rugged beings of the wild, known for their strength and fear of sunlight",
+        "slug": "trold-denmark"
+      },
+      "story": {
+        "title": "The Owl Husband (Passamaquoddy)",
+        "country": "United States",
+        "region": "North American",
+        "summary": "A beautiful young Passamaquoddy woman was visited each night by a mysterious man who came to her lodge after dark. He was kind and gentle, and she grew to love him, though she had never seen his face clearly. Her parents warned her to discover his identity. One night, she placed ashes near the doorway. When the man left, his footprints showed the marks of an owl's claws. The next night, she hid and watched, and saw her husband transform into a great horned owl and fly away. Heartbroken but determined, she followed him into the forest. The owl tried to keep her as his wife in his tree-home, but she longed for her human family. Finally, the owl released her, but she was never the same — she had seen the spirit world and could not fully return to human life. The story teaches that love between different kinds of beings cannot overcome the fundamental boundaries of nature.",
+        "slug": "the-owl-husband-passamaquoddy"
       }
     }
   }

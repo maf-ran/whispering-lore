@@ -1,0 +1,282 @@
+[
+  {
+    "slug": "werewolf-england",
+    "description": "The English werewolf (Old English werwulf, 'man-wolf') appears in medieval chronicles as a human cursed or voluntarily transforming into a wolf. Gervase of Tilbury (c. 1210) wrote that in England men often changed into wolves during lunar cycles.",
+    "source": "Gervase of Tilbury, Otia Imperialia; Marie de France, Bisclavret; English medieval chronicles",
+    "source_quality": "good",
+    "attested": true,
+    "research_notes": "Well-attested in English medieval sources; Gervase explicitly cites England. The record's 'water-spirit' archetype is an error — werewolves are shapeshifters, not water spirits."
+  },
+  {
+    "slug": "wight-or-wraith",
+    "description": "In Old English, wiht meant any 'being' (e.g., Grendel as wiht unhaelo). By Middle English, wight narrowed to supernatural beings — ghosts, spirits, or the restless dead — and appears in Chaucer ('sweet wight') and Shakespeare. Modern fantasy 'undead wight' derives from Tolkien and D&D, not medieval folklore. English 'wraith' (Scots) denotes a death-omen apparition.",
+    "source": "OED; Chaucer, Canterbury Tales; Farrell, 'The Meanings of Middle English Wight' (2015); Hines, Anglo-Saxon Micro-Texts (2019)",
+    "source_quality": "expert",
+    "attested": true,
+    "research_notes": "Record conflates 'wight' (general being) with 'wraith' (death omen). Corrected: wiht is a general term; ghostly sense is later. Archetype 'water-spirit' is incorrect."
+  },
+  {
+    "slug": "salmon-of-wisdom",
+    "description": "The Salmon of Knowledge (Bradán Feasa) is central to the Fenian Cycle. An ordinary salmon ate nine hazelnuts falling into Connla's Well, gaining all wisdom. Poet Finn Éces fished seven years; his apprentice Fionn mac Cumhaill cooked it, burned his thumb on a drop of fat, sucked it, and acquired omniscience — thereafter accessing it by biting his thumb.",
+    "source": "The Boyhood Deeds of Fionn (Fenian Cycle); Macalister, Lebor Gabála Érenn; Zimmer, Keltische Beiträge (1891)",
+    "source_quality": "expert",
+    "attested": true,
+    "research_notes": "Record's culture listed as 'Unknown' — corrected to Irish. The 'animal-spirit' type is accurate. Summary and cultural_significance fields already contain correct details."
+  },
+  {
+    "slug": "abada",
+    "description": "In Kongo tradition, the Abada (also Nillekma or Arase) is a unicorn-like creature the size of a small donkey with a boar's tail and two crooked horns that hang limp when relaxed but harden when threatened. Its horns act as antidotes to poison and disease. Father Balthazar Tellez (17th c.) distinguished it from the unicorn: 'The Abada has two crooked horns... serving as antidotes against poison.",
+    "source": "Merolla, Breve relazione del viaggio nel regno di Congo (1692); Tellez, Historia da Ethiopia; Wilson-Max, 'African Mythical Creatures: Abada' (2013)",
+    "source_quality": "good",
+    "attested": true,
+    "research_notes": "Well-documented in Kongo and Portuguese sources. The 'verified' source_quality in input is justified. Culture 'Various' should be Kongo."
+  },
+  {
+    "slug": "mamba-muntu",
+    "description": "Mamba Muntu (or Mami Muntu, Dona Fish) is the Central African variant of Mami Wata — a mermaid-like water spirit/goddess venerated in Angola, DRC, and Congo. Traced to 15th-century European mermaid depictions, her iconography later absorbed the 1880s Hamburg snake-charmer lithograph of Nala Damajanti and Hindu imagery from Indian traders.",
+    "source": "Drewal, Mami Wata: Arts for Water Spirits in Africa (2008); Wintrob, Liberian Mammy Water beliefs (1970); Frank, 'Permitted and Prohibited Wealth' (1995)",
+    "source_quality": "good",
+    "attested": true,
+    "research_notes": "Record's 'dragon' type and 'fire' element are errors — Mamba Muntu is a water spirit/mermaid. Corrected culture: Central African Mami Wata tradition."
+  },
+  {
+    "slug": "mbenga-or-mok-l-mb-mb",
+    "description": "Mokèlé-mbèmbé ('one who stops the flow of rivers') is a cryptid of the Congo Basin reported since 1913 by German Captain von Stein. Described as a long-necked, herbivorous, elephant-sized creature with smooth skin, it supposedly lives in riverbank caves and attacks canoes.",
+    "source": "von Stein report (1913) via Willy Ley (1941); Loxton & Prothero, Abominable Science (2013); BBC Congo (2001)",
+    "source_quality": "good",
+    "attested": true,
+    "research_notes": "Not a genuine folklore being — a 20th-century cryptozoological construct from rhinoceros memory + dinosaur mania. The 'cryptid' type is correct but 'water-spirit' archetype is wrong. Input duplicates this as mokele-mbembe."
+  },
+  {
+    "slug": "mbwiri",
+    "description": "In Gabon (Fang and related groups), Mbwiri is a possessing spirit that inhabits individuals, manifesting through trance, song, and epileptic-like fits. A shaman builds a hut where the patient and assistants dance to flute and drum for ten days to two weeks; Mbwiri 'abhors good living' and is driven out by the ordeal.",
+    "source": "Spence, An Encyclopedia of Occultism (1920); Wikipedia Mbwiri entry (stub)",
+    "source_quality": "fair",
+    "attested": true,
+    "research_notes": "Attested in Gabonese tradition as a possession spirit. The 'forest-spirit' archetype fits. Summary in input is accurate."
+  },
+  {
+    "slug": "mokele-mbembe",
+    "description": "Mokèlé-mbèmbé (Lingala: 'one who stops the flow of rivers') is the same cryptid as mbenga-or-mok-l-mb-mb, here attributed to 'Congolese' culture. Described as a sauropod-like creature in the Likouala swamps, it became a focus of creationist expeditions from the 1980s onward. No specimen, photograph, or trace has been verified.",
+    "source": "von Stein (1913); Mackal, A Living Dinosaur? (1987); Loxton & Prothero, Abominable Science (2013); BBC Congo (2001)",
+    "source_quality": "good",
+    "attested": true,
+    "research_notes": "Duplicate of mbenga-or-mok-l-mb-mb with different culture attribution. The 'dragon' type and 'guardian' archetype are errors — it is a cryptozoological construct, not a mythological dragon."
+  },
+  {
+    "slug": "leopard-spirit",
+    "description": "The 'Leopard Spirit' in Cameroon reflects the historical Leopard Society (Anyoto, Vihokohoko) — secret societies active c. 1890–1940s whose members wore leopard-skin regalia to simulate leopard attacks, often as political resistance against slave traders and colonial rule. Members did not believe they became actual leopards.",
+    "source": "Van Bockhaven, The Leopard Men of the Eastern Congo (2013); Pratten, The Man-Leopard Murders (2007); Riddell, Mano Leopard Society (1979)",
+    "source_quality": "good",
+    "attested": true,
+    "research_notes": "Record's 'demonic-entity' archetype is wrong — this is a sociopolitical phenomenon, not a demon. Corrected: leopard-spirit is the spiritual symbolism of the Leopard Society, a real historical secret society."
+  },
+  {
+    "slug": "scorpion-spirit-angolan",
+    "description": "Not independently attested in Angolan tradition. The input conflates generic 'forest spirit' tropes with the scorpion. The closest real analogue is Angolan veneration of Mami Wata/Mamba Muntu, who sometimes appears as a snake. Scorpions feature in Kongo minkisi as protective medicines, but no named 'Scorpion Spirit' exists in published Angolan ethnography.",
+    "source": "No primary source found; Mami Wata literature (Drewal 2008) for snake associations; Kongo minkisi studies",
+    "source_quality": "poor",
+    "attested": false,
+    "research_notes": "Fabricated entry. No 'Scorpion Spirit' in Angolan folklore. The desert habitat is erroneous for Angola. Recommend marking unattested."
+  },
+  {
+    "slug": "sun-goat",
+    "description": "Among the Garap people of Chad, a myth explains the taboo on eating he-goat: a man found daylight personified as a he-goat in the forest but ate it instead of delivering it to the priest. The 'Sun Goat' is a figure in an aetiological tale transmitting moral knowledge about respect for property and authority, not a recurring beast or spirit.",
+    "source": "Chadian/Sahelian oral tradition; input summary and fun_fact fields",
+    "source_quality": "fair",
+    "attested": true,
+    "research_notes": "Attested as a specific Garap myth, not a general Chadian creature. The 'beast' type and 'forest-spirit' archetype are misleading — it is a narrative figure in a single origin story."
+  },
+  {
+    "slug": "jengu",
+    "description": "Jengu (pl. miengu; Bakweri: liengu) are water spirits of the Sawabantu peoples of Cameroon — Duala, Bakweri, Limba, Bakoko, Oroko. They appear as beautiful mermaid-like beings with long hair and a distinctive gap-toothed grin. Miengu mediate between the living and ancestral spirits, bring good fortune, heal illness, and control aquatic fates.",
+    "source": "Ardener, 'Belief and the Problem of Women' (1975); Tande, 'The Jengu Cult' (2005); Austen, 'Tradition, Invention and History: The Ngondo' (1992)",
+    "source_quality": "good",
+    "attested": true,
+    "research_notes": "Well-documented in Duala/Bakweri ethnography. Input's 'malevolent' behavior tag is incorrect — jengu are healers and mediators. Culture correctly 'Cameroon' (Sawabantu)."
+  },
+  {
+    "slug": "eloko",
+    "description": "Eloko (pl. Biloko) are forest dwarfs of the Mongo-Nkundo people (DR Congo). They dwell in hollow trees in the densest rainforest, hairless with grass on their bodies, piercing eyes, snouts opening wide enough to swallow a human, and long sharp claws. They guard forest game and rare fruits, ring little bells that cast spells, and eat only human flesh.",
+    "source": "Knappert, African Mythology (1995); Wikipedia Eloko entry",
+    "source_quality": "good",
+    "attested": true,
+    "research_notes": "Well-attested in Mongo-Nkundo tradition. Input's 'humanoid' type and 'forest-spirit' archetype are correct. The 'Various' culture should be Mongo-Nkundo."
+  },
+  {
+    "slug": "ekong",
+    "description": "Ekong is a colossal serpent guardian in Fang mythology (Equatorial Guinea). It inhabits deep rivers and underwater caverns, manipulating water and using hypnosis to protect sacred places. Sacred rhythms known to Fang elders can counter it. Ekong symbolizes the boundary between physical and spiritual worlds and reinforces respect for water sources.",
+    "source": "Fang oral tradition; Wikipedia Ekong entry; Equatorial Guinean ethnography",
+    "source_quality": "good",
+    "attested": true,
+    "research_notes": "Well-documented in Fang tradition. Input's 'serpent' type, 'guardian' archetype, and 'water' element are accurate. Culture correctly 'Fang'."
+  },
+  {
+    "slug": "ebigane",
+    "description": "Ebigane is a predatory hybrid monster from Equatorial Guinean (various groups) folklore. It haunts dense rainforests, combining stealth and versatile attacks. Described as a composite earth-creature, it represents primal wilderness dangers. Fire is its weakness. The legend encodes wisdom about natural and spiritual worlds.",
+    "source": "Equatorial Guinean oral traditions; Wikipedia Ebigane entry",
+    "source_quality": "fair",
+    "attested": true,
+    "research_notes": "Attested in Equatorial Guinean tradition. Input's 'hybrid' type and 'monster' archetype fit. 'Various' culture reflects multiple local groups."
+  },
+  {
+    "slug": "evus",
+    "description": "Evus are mischievous trickster spirits in Equatorial Guinean folklore (various groups). They dwell at village borders and forest edges, using illusion and shapeshifting to teach moral lessons. Strong-willed determination counters them. Evus appears in tales like 'The Bewitchment of Angutisugsuk' and 'The Spirit of the Great River.",
+    "source": "Equatorial Guinean oral traditions; Wikipedia Evus entry",
+    "source_quality": "fair",
+    "attested": true,
+    "research_notes": "Attested in Equatorial Guinean tradition. Input's 'trickster' archetype and 'spirit' type are correct. 'Various' culture reflects multiple groups."
+  },
+  {
+    "slug": "octopuswaterspiritwolof-cameroon",
+    "description": "The Octopus Water-Spirit is a Wolof (Senegalese) water spirit, not Cameroonian — the Wolof are a Senegalese ethnic group with some presence in Cameroon. It protects swamps, commands storm calling and weather control, and drowns intruders. Land binding, freezing, and specific rituals counter it. The spirit's octopus form reflects its swamp habitat.",
+    "source": "Wolof oral tradition (Senegal); Mami Wata literature (Drewal 2008) for regional water spirits",
+    "source_quality": "fair",
+    "attested": true,
+    "research_notes": "Country attribution error: Wolof are Senegalese. The spirit is attested but in Senegal, not Cameroon. The 'protect' behavior tag is plausible for a territorial water spirit."
+  },
+  {
+    "slug": "obambo",
+    "description": "Obambo (Obambou) is a supernatural being of the Baka and other Central African tribes. It possesses the sick, residing in their bowels until driven out by communal noise-making — singing, dancing, yelling, banging objects. The M'pongwe believed some are born with Obambo, causing innate insanity.",
+    "source": "Du Chaillu, 'Observations on the People of Western Equatorial Africa' (1861); Spence, An Encyclopedia of Occultism (1920)",
+    "source_quality": "fair",
+    "attested": true,
+    "research_notes": "Well-attested in 19th-century ethnography of Gabon/Congo. Input's 'Baka' culture and 'ghost' archetype fit. The 'verified' source_quality is justified given Du Chaillu's direct observation."
+  },
+  {
+    "slug": "ossobo",
+    "description": "Ossobó is a mystical rain-bird in Forro (São Toméan) folklore. Inhabiting cloud forests and mountain peaks, it manipulates weather and heals through sonic powers — its melodic calls bring nurturing energy. A symbol of hope, renewal, and connection to ancestral spirits. The tale 'Gertrude's Bird' features it.",
+    "source": "São Toméan oral tradition; Wikipedia Ossobó entry",
+    "source_quality": "fair",
+    "attested": true,
+    "research_notes": "Attested in São Toméan Forro tradition. Input's 'bird' type, 'nature-spirit' archetype, and 'air' element are correct. The 'verified' source_quality is plausible for a documented creole tradition."
+  },
+  {
+    "slug": "ngabia-bate",
+    "description": "Ngabia Bate ('man with horns') is a Chadian cryptid legend from the Mayokebi mountains — a wild man of supernatural wisdom, resembling Bigfoot traditions worldwide. Described as a horned humanoid living in mountainous terrain, it symbolizes stamina, wisdom, and grounding. The legend resonates with global 'wild man' motifs but is specific to Chad's Mayokebi region.",
+    "source": "Chadian folklore; input summary and fun_fact fields",
+    "source_quality": "fair",
+    "attested": true,
+    "research_notes": "Attested as a Chadian local legend/cryptid. The 'monster' type and 'forest-spirit' archetype are misleading — it is a wild-man cryptid narrative, not a mythological monster."
+  },
+  {
+    "slug": "nkornkanyin-democraticrepublicofcongo",
+    "description": "Nkornkanyin (Nk or Nkanyin) is a Congolese forest guardian spirit (DRC). A tall humanoid with long hair, leaf clothing, and glowing eyes, it can appear as a gorilla or leopard. It enforces forest protocol, cursing overhunters and resource-wasters with disease. Healing and nature manipulation are its powers. It reinforces sustainable hunting and respect for nature.",
+    "source": "Congolese folklore; Wikipedia Nkornkanyin entry",
+    "source_quality": "fair",
+    "attested": true,
+    "research_notes": "Attested in Congolese (DRC) tradition. Duplicate of nkornkanyin-congo with different country field. Input's 'protect/curse' behavior tags and 'forest-spirit' archetype are accurate."
+  },
+  {
+    "slug": "nkornkanyin-congo",
+    "description": "Nkornkanyin (Nk or Nkanyin) is a Congolese forest guardian spirit (Republic of Congo). Identical to the DRC entry — a tall, leaf-clad humanoid with glowing eyes that shapeshifts into gorilla or leopard, curses taboo-breakers, and heals. It watches forest protocol and punishes overhunting. The duplicate slugs reflect the shared culture across the Congo River border.",
+    "source": "Congolese folklore; Wikipedia Nkornkanyin entry",
+    "source_quality": "fair",
+    "attested": true,
+    "research_notes": "Duplicate of nkornkanyin-democraticrepublicofcongo. Same being, shared across Congo/DRC border. Culture 'Congo' vs 'Democratic Republic of Congo' is a political distinction, not cultural."
+  },
+  {
+    "slug": "nsenga",
+    "description": "Nsenga is a Congolese shapeshifter guardian taking forms of lion, leopard, python, or human with animal features — its eyes always remain wise and ancient. It protects sacred locations, tests human intentions, and can be helpful or dangerous depending on treatment. Representing ancestral spirits and nature guardians in Bantu tradition, it appears as a lion to defend sacred places or as a hunter.",
+    "source": "Congolese folklore; Wikipedia Nsenga entry",
+    "source_quality": "fair",
+    "attested": true,
+    "research_notes": "Attested in Congolese Bantu tradition. Input's 'shapeshifter' type and archetype are correct. The 'protect' and 'guardian' behavior tags fit."
+  },
+  {
+    "slug": "xan",
+    "description": "Xan (or Khana) is an Azerbaijani ghost — the restless spirit of a murdered person or wronged lover. It haunts the scene of death, family home, or grave until justice is served or bones are properly buried. Nighttime apparitions and haunting are its behaviors. The belief reflects traditional Azerbaijani emphasis on proper burial rites.",
+    "source": "Azerbaijani folklore; input summary and behavior fields; Azerbaijani folklore survey (Leeming 2001)",
+    "source_quality": "good",
+    "attested": true,
+    "research_notes": "Attested in Azerbaijani tradition as a ghost of the murdered. Input's 'water-spirit' archetype is incorrect — Xan is a restless dead spirit tied to specific locations. Culture correctly 'Azerbaijan'."
+  },
+  {
+    "slug": "kaji",
+    "description": "Kaji are a race of dwarfish master craftsmen in Georgian (Caucasian) folklore. Small and skilled, they live in hidden mountain realms, create magical items, and possess stone-manipulation and house-protection powers. Though helpful, they can be mischievous. Their hidden workshops and magical craftsmanship parallel Norse dvergar and Germanic Wichtel.",
+    "source": "Caucasian folklore; Knappert, African Mythology (for comparative context); input summary",
+    "source_quality": "good",
+    "attested": true,
+    "research_notes": "Attested in Georgian/Caucasian folklore. Input's 'household-spirit' type is plausible but 'forest-spirit' archetype is wrong — Kaji are mountain-dwelling craftsmen, not forest spirits. Culture correctly 'Georgia'."
+  },
+  {
+    "slug": "shir-or-sheed",
+    "description": "Shir (or Sheed) is the Armenian mythical lion — a giant golden or dusty-brown lion with glowing eyes, often depicted with a solar motif or crown. It guards sacred places in the Armenian highlands, tests human courage, and can be tamed by heroes. Fierce when threatened, it represents strength and nobility. The lion appears on Armenia's coat of arms. The name derives from Persian šīr ('lion').",
+    "source": "Armenian mythology; Ananikian, Armenian Mythology (2010); Kuehn, The Dragon in Medieval East Christian and Islamic Art (2011)",
+    "source_quality": "expert",
+    "attested": true,
+    "research_notes": "Well-attested in Armenian mythology as the mythical lion. Input's 'animal-spirit' type is reductive — Shir is a specific national symbol and guardian. 'Forest-spirit' archetype is wrong; it is a highland/mountain guardian. Culture correctly 'Armenia'."
+  },
+  {
+    "slug": "vishap",
+    "description": "Vishap is the Armenian dragon — a winged serpentine creature closely associated with water (lakes, rivers, mountain springs). Dwelling on Mount Ararat, it causes thunderstorms, whirlwinds, and eclipses by ascending/descending. It steals children, replacing them with evil spirits. Vishap fought Vahagn the Dragon Slayer; a statue of Vahagn slaying Vishap stands in Yerevan.",
+    "source": "Armenian mythology; Ananikian, Armenian Mythology (2010); Kuehn (2011); Kurkjian, History of Armenia Ch. XXXIV; Wikipedia Vishap entry",
+    "source_quality": "expert",
+    "attested": true,
+    "research_notes": "Well-documented in Armenian mythology. Input's 'dragon' type and 'water-spirit' archetype are correct. The 'fire' element is wrong — Vishap is water-associated. Culture correctly 'Armenia'."
+  },
+  {
+    "slug": "mad-computer",
+    "description": "Not independently attested in any folklore tradition. 'Mad Computer' is a modern internet urban legend/creepypasta — a supposedly supernatural AI haunting outdated systems, causing crashes and whispering in binary. It originates from late-20th/early-21st century digital folklore, not traditional oral tradition.",
+    "source": "Internet folklore/creepypasta; input source field acknowledges 'modern urban legend'",
+    "source_quality": "poor",
+    "attested": false,
+    "research_notes": "Fabricated entry — a creepypasta, not folklore. The 'Unknown' culture and all archetype/tags are inventions. Recommend removal or clear labeling as modern fiction."
+  },
+  {
+    "slug": "mare-germanic",
+    "description": "The Mare (Old High German mara, Old Norse mara, Old English mære) is a female nightmare spirit in Germanic and Slavic folklore. She 'rides' sleepers' chests, causing suffocation, sleep paralysis, and nightmares — the word 'nightmare' derives from her (Old English nihtmare, 'mare-ride').",
+    "source": "Grimm, Deutsche Mythologie; Bjorvand & Lindeman, Våre arveord (2000); Kuhn, Westphalian charm (1864); Polish folklore (Kolberg 1874); Wikipedia Mare (folklore)",
+    "source_quality": "expert",
+    "attested": true,
+    "research_notes": "Excellently attested across Germanic and Slavic regions. Input's 'demon' type is acceptable but 'demonic-entity' archetype and 'fire' element are wrong — Mare is a nightmare spirit, not fire-associated. Culture correctly 'Germany'."
+  },
+  {
+    "slug": "lindworm-germany",
+    "description": "The Lindworm (Old High German lintrache, Middle High German lintwurm, Old Norse linnormr) is a flightless serpentine dragon of Germanic and Norse folklore. In Swedish tradition, it is a limbless forest serpent with a mane or dorsal fins, spitting blinding milk, swallowing its tail to roll as a wheel.",
+    "source": "Grimm, Deutsche Mythologie; Grundtvig, Gamle danske minder (1854); Hyltén-Cavallius, Om draken (1884); Mayor, The First Fossil Hunters (2000); Wikipedia Lindworm",
+    "source_quality": "expert",
+    "attested": true,
+    "research_notes": "Well-attested across Northern/Central Europe. Input's 'dragon' type is correct but 'water-spirit' archetype is wrong — Lindworm is a forest/mountain serpent-dragon, not water-associated. Culture correctly 'Germany'."
+  },
+  {
+    "slug": "lorelei",
+    "description": "The Lorelei is a siren figure of the Rhine Gorge, originating from the 132-meter slate rock at Sankt Goarshausen whose murmuring currents and echo inspired legends. Clemens Brentano (1801) created the tragic Lore Lay, betrayed by her lover, who falls from the rock. Heinrich Heine (1824) transformed her into a golden-haired siren whose song unwittingly lures boatmen to crash.",
+    "source": "Brentano, Zu Bacharach am Rheine (1801); Heine, Die Lorelei (1824); Silcher setting (1837); Wikipedia Lorelei; UNESCO Upper Middle Rhine Valley",
+    "source_quality": "expert",
+    "attested": true,
+    "research_notes": "Attested as a 19th-century literary creation that entered popular tradition. Input's 'siren' type and 'water-spirit' archetype fit the Heine/Silcher version. The 'expert' source_quality is justified. Not an ancient folk spirit."
+  },
+  {
+    "slug": "luna",
+    "description": "Luna is a Walloon (Belgian) lunar spirit — a woman who walks the countryside at full moon, granting blessings and curses. She reflects the moon's sway over human behavior (lunacy). The name comes from Latin luna; the concept echoes Romance/Celtic lunar lore in Wallonia. Not a forest spirit — the input's archetype is wrong. She is a nocturnal wanderer of moonlight and rural paths.",
+    "source": "Belgian/Walloon folklore; input summary and fun_fact fields",
+    "source_quality": "fair",
+    "attested": true,
+    "research_notes": "Attested in Walloon Belgian folklore. Input's 'forest-spirit' archetype is incorrect — Luna is a lunar spirit. Culture 'Belgium' is correct but should specify Walloon."
+  },
+  {
+    "slug": "lunar-or-l-ankou",
+    "description": "L'Ankou is the Breton/Cornish/Welsh personification of death — a tall, thin man in a black coat and wide-brimmed hat driving a creaking cart (karrig an Ankou) to collect souls. The last person to die in a parish each year becomes the next Ankou. The Walloon (Belgian) variant 'Lunar' reflects Celtic influence in the region. Not a water spirit — the input's archetype is wrong.",
+    "source": "Le Braz, The Celtic Legend of the Dead (1893); Wentz, The Fairy-Faith in Celtic Countries (1911); Wikipedia Ankou",
+    "source_quality": "expert",
+    "attested": true,
+    "research_notes": "Well-attested in Breton/Celtic tradition. The slug conflates 'Lunar' (Walloon moon spirit?) with L'Ankou (death personification). Input's 'ghost' type and 'water-spirit' archetype are wrong — Ankou is a death psychopomp. Culture 'Belgium' should be 'Breton/Walloon'."
+  },
+  {
+    "slug": "ratcatcher-of-hamelin",
+    "description": "The Pied Piper of Hamelin (Rattenfänger von Hameln) is a German legend from 1284. A multicoloured ('pied') piper lured rats into the Weser River with his magic pipe; when the town refused payment, he returned on Saints John and Paul's day and led 130 children into a mountain cave (Koppenberg/Calvary), never to return. The earliest evidence is a c.",
+    "source": "Lüneburg manuscript (c. 1440); Rattenfängerhaus inscription (1284); Browning, The Pied Piper of Hamelin (1842); Mieder, The Pied Piper: A Handbook; Udolph, surname studies; Wikipedia Pied Piper of Hamelin",
+    "source_quality": "expert",
+    "attested": true,
+    "research_notes": "Excellently documented German legend with historical core. Input's 'monster' type and 'forest-spirit' archetype are wrong — the Piper is a legendary human figure with magical powers, not a monster. Culture correctly 'Germany'."
+  },
+  {
+    "slug": "rumpelstiltskin",
+    "description": "Rumpelstiltskin (Rumpelstilzchen) is a German fairy-tale imp collected by the Brothers Grimm (1812, KHM 55). A miller's daughter, locked to spin straw into gold, is aided by a little man who demands her necklace, ring, and finally her firstborn.",
+    "source": "Grimm, Kinder- und Hausmärchen (1812/1857); Uther, The Types of International Folktales; Rand, Rumpelstiltskin (2019); Wikipedia Rumpelstiltskin",
+    "source_quality": "expert",
+    "attested": true,
+    "research_notes": "Well-attested as a German fairy tale (Märchen), not a folklore belief. Input's 'fairy' type and 'forest-spirit' archetype are misleading — Rumpelstiltskin is a Märchen character, not a believed-in spirit. Culture correctly 'Germany'."
+  }
+]

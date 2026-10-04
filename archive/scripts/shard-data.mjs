@@ -120,6 +120,97 @@ writeSlugBatches(creatures, 'creatures', 'Creature');
 writeSlugBatches(stories, 'stories', 'Story');
 writeSlugBatches(items, 'items', 'Item');
 
+// ── Homepage precomputed caches (replicates js/main.js + js/daily-feature.js) ──
+// latest.json + daily.json avoid a full shard scan on the homepage. Logic must
+// mirror the runtime fallbacks exactly; otherwise precomputed != live.
+const DATASETS = join(ROOT, 'data/datasets');
+
+const dayHash = (y, m, d) => y * 1000000 + (m + 1) * 10000 + d;
+const dailyIndex = (entries, date) => {
+  const i = dayHash(date.getFullYear(), date.getMonth(), date.getDate());
+  return Math.abs(i) % entries.length;
+};
+const pad2 = (n) => String(n).padStart(2, '0');
+const dateKey = (d) =>
+  d.getFullYear() + '-' + pad2(d.getMonth() + 1) + '-' + pad2(d.getDate());
+
+function writeDailyPicks() {
+  const picks = {};
+  const now = new Date();
+  for (let i = 0; i < 45; i++) {
+    const d = new Date(now.getTime() + i * 86400000);
+    const dc = creatures[dailyIndex(creatures, d)];
+    const ds = stories[dailyIndex(stories, d)];
+    picks[dateKey(d)] = {
+      creature: {
+        name: dc.name,
+        type: dc.type,
+        country: dc.country,
+        summary: dc.summary || dc.description,
+        slug: dc.slug,
+      },
+      story: {
+        title: ds.title,
+        country: ds.country,
+        region: ds.region,
+        summary: ds.summary,
+        slug: ds.slug,
+      },
+    };
+  }
+  writeFileSync(join(DATASETS, 'daily.json'), JSON.stringify({
+    _meta: {
+      generated: dateKey(now),
+      days: 45,
+      note: 'precomputed daily picks replicating getDailyIndex(); regenerate when shards change; runtime falls back to full Shimmer scan for dates beyond window',
+    },
+    picks,
+  }, null, 2));
+  console.log('  daily.json     (' + Object.keys(picks).length + ' days)');
+}
+
+function writeLatestPicks() {
+  const all = [
+    ...creatures.map((c, i) => ({
+      name: c.name,
+      desc: c.description,
+      date: c.date_added || 'Recent',
+      type: 'Creature',
+      index: creatures.length - i,
+    })),
+    ...stories.map((s, i) => ({
+      name: s.title,
+      desc: s.summary || (s.content ? s.content.substring(0, 120) + '...' : ''),
+      date: s.date_added || 'Recent',
+      type: 'Story',
+      index: stories.length - i,
+    })),
+  ]
+    .sort((a, b) => {
+      if (a.date !== b.date) {
+        if (a.date === 'Recent') return 1;
+        if (b.date === 'Recent') return -1;
+        return b.date > a.date ? 1 : -1;
+      }
+      return a.index - b.index;
+    })
+    .slice(0, 3);
+  writeFileSync(join(DATASETS, 'latest.json'), JSON.stringify({
+    _meta: {
+      generated: dateKey(new Date()),
+      generator: 'shard-data.mjs (auto on every rebuild)',
+      source: 'data/datasets/{creatures,stories}.json',
+      note: 'precomputed top-3 for homepage Latest Additions; main.js falls back to full Shimmer scan if missing',
+    },
+    items: all,
+  }, null, 2));
+  console.log('  latest.json   (top ' + all.length + ')');
+}
+
+console.log('Homepage caches:');
+writeDailyPicks();
+writeLatestPicks();
+
 // ── Total sizes ──
 const dirSize = (dir) => {
   let size = 0;

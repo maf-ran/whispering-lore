@@ -212,7 +212,7 @@
     ],
     "moral": "Do not judge by appearances; true worth may be hidden beneath an ugly exterior.",
     "source": "Baron G. Djurklou, Fairy Tales from the Swedish (1901), translated by H.L. Brækstad.",
-    "period": "1901",
+    "period": "19th century",
     "keywords": [
       "cock",
       "cockerel",
@@ -383,7 +383,7 @@
     "region": "Nordic",
     "type": "fairy-tale",
     "summary": "The vittra (singular: vitter) are an underground-dwelling people who live in a parallel civilization beneath the hills and meadows of Åland. Invisible to most humans, they have their own farms, livestock, and churches. They are known to do favors for humans who treat them with dignity and respect, but can become vengeful if their homes are disturbed — for example, by building a structure on their invisible property. The vittra are closely related to the Swedish 'de underjordiska' (the underground ones) and the Scandinavian 'huldrefolk' (hidden folk). Offerings of food, particularly porridge, were traditionally left for them. In the Sagenkartan records from Åland, many entries describe encounters with vittra who borrowed tools from farmers or requested that specific areas be left undisturbed. The tradition reflects a deep-seated belief that the land is shared with unseen inhabitants who must be respected.",
-    "source": "https://www.isof.se/arkiv-och-insamling/digitala-arkivtjanster/sagenkartan",
+    "source": "Institut för språk och folkminnen (Sweden): https://www.isof.se/arkiv-och-insamling/digitala-arkivtjanster/sagenkartan",
     "creatures": [
       "vittra",
       "de-underjordiska-swedish"
@@ -391,10 +391,17 @@
     "source_quality": "good",
     "slug": "the-vittra--the-hidden-people-of-land",
     "version": "1.0.0",
-    "lastUpdated": "2026-08-07",
+    "lastUpdated": "2026-10-04",
     "period": "modern",
     "source_type": "oral_tradition",
-    "full_text": "The vittra are an underground-dwelling people who live in a parallel civilization beneath the hills and meadows of Åland, invisible to most humans but present always — their voices carried on the wind, their lights glimpsed in the distance on midsummer nights. They have their own farms, livestock, and churches, a complete society that mirrors the human world above but operates according to different rules.\n\nThey are known to do favors for humans who treat them with dignity and respect — sharpening knives, mending fences, guiding lost travelers home — but can become vengeful if their homes are disturbed, particularly by building a structure on their invisible property. In one well-known Åland tale, a farmer who ignored the vittra's warnings about a particular hill found his barn burned to the ground within a week, though no fire could be found.\n\nThe vittra are closely related to the Swedish 'de underjordiska' (the underground ones) and the Scandinavian 'huldrefolk' (hidden folk). Offerings of food, particularly porridge, were traditionally left for them on threshold stones or in root cellars. In the Sagenkartan records from Åland, many entries describe encounters with vittra who borrowed tools from farmers or requested that specific areas be left undisturbed. The tradition reflects a deep-seated belief that the land is shared with unseen inhabitants who must be respected — a philosophy that shaped the way Ålanders interacted with their landscape for centuries."
+    "full_text": "The vittra are an underground-dwelling people who live in a parallel civilization beneath the hills and meadows of Åland, invisible to most humans but present always — their voices carried on the wind, their lights glimpsed in the distance on midsummer nights. They have their own farms, livestock, and churches, a complete society that mirrors the human world above but operates according to different rules.\n\nThey are known to do favors for humans who treat them with dignity and respect — sharpening knives, mending fences, guiding lost travelers home — but can become vengeful if their homes are disturbed, particularly by building a structure on their invisible property. In one well-known Åland tale, a farmer who ignored the vittra's warnings about a particular hill found his barn burned to the ground within a week, though no fire could be found.\n\nThe vittra are closely related to the Swedish 'de underjordiska' (the underground ones) and the Scandinavian 'huldrefolk' (hidden folk). Offerings of food, particularly porridge, were traditionally left for them on threshold stones or in root cellars. In the Sagenkartan records from Åland, many entries describe encounters with vittra who borrowed tools from farmers or requested that specific areas be left undisturbed. The tradition reflects a deep-seated belief that the land is shared with unseen inhabitants who must be respected — a philosophy that shaped the way Ålanders interacted with their landscape for centuries.",
+    "themes": [
+      "folklore",
+      "mythology",
+      "fairy-tale",
+      "nordic"
+    ],
+    "moral": "Respect for cultural heritage, natural boundaries, and ancestral wisdom."
   },
   {
     "id": "story1572",
@@ -417,7 +424,7 @@
       "justice"
     ],
     "moral": "Wisdom and wit prevail where strength alone cannot",
-    "period": "traditional",
+    "period": "ancient",
     "keywords": [
       "india",
       "indian",
@@ -460,7 +467,7 @@
       "sacrifice"
     ],
     "moral": "The natural and spiritual world are one",
-    "period": "traditional",
+    "period": "ancient",
     "keywords": [
       "sri lanka",
       "veddha",
@@ -498,7 +505,7 @@
     ],
     "moral": "Knowledge always has a price. The mountain gives freely, but it takes what it asks for — and what it takes, it keeps.",
     "source": "Based on Highland Maya cave-veneration traditions and the concept of Witz as recorded by Christenson, Allen J. 'Popol Vuh: Sacred Book of the Quiché Maya People.' Tulane University, 2007.",
-    "period": "Pre-Columbian",
+    "period": "ancient",
     "keywords": [
       "witz",
       "mountain spirit",
@@ -532,7 +539,7 @@
     ],
     "moral": "The river takes what it wants, but it respects the black scarf. The clever escape where the strong cannot.",
     "source": "Based on Russian Slavic oral traditions, particularly stories of the Vodyanoy from the Volga River region.",
-    "period": "Oral tradition, medieval to present",
+    "period": "medieval",
     "keywords": [
       "vodyanoy",
       "water spirit",
@@ -586,7 +593,7 @@
     "source": "Montenegrin oral tradition, documented by Radovan Zogović",
     "source_type": "oral_tradition",
     "source_quality": "high",
-    "period": "Medieval to present",
+    "period": "medieval",
     "lastUpdated": "2026-08-07",
     "version": "1.0.0"
   },
@@ -625,7 +632,7 @@
     "source": "South Slavic oral tradition, documented by Vuk Stefanović Karadžić",
     "source_type": "oral_tradition",
     "source_quality": "high",
-    "period": "Medieval to present",
+    "period": "medieval",
     "lastUpdated": "2026-08-07",
     "version": "1.0.0"
   },
@@ -664,7 +671,7 @@
     "source": "Montenegrin oral tradition, collected in Lovćen region",
     "source_type": "oral_tradition",
     "source_quality": "high",
-    "period": "Medieval to present",
+    "period": "medieval",
     "lastUpdated": "2026-08-07",
     "version": "1.0.0"
   },
@@ -739,7 +746,7 @@
     "source": "Armenian oral tradition, Urartian/Christian folklore",
     "source_type": "oral_tradition",
     "source_quality": "medium",
-    "period": "Pre-Christian to present",
+    "period": "ancient",
     "lastUpdated": "2026-08-07",
     "version": "1.0.0"
   },
@@ -772,7 +779,7 @@
     "source": "Slovak oral tradition, Slavic folklore",
     "source_type": "oral_tradition",
     "source_quality": "medium",
-    "period": "Pre-Christian to present",
+    "period": "ancient",
     "lastUpdated": "2026-08-07",
     "version": "1.0.0"
   },
@@ -809,7 +816,7 @@
     "source": "Bosnian oral tradition, Slavic folklore",
     "source_type": "oral_tradition",
     "source_quality": "medium",
-    "period": "Pre-Christian to present",
+    "period": "ancient",
     "lastUpdated": "2026-08-07",
     "version": "1.0.0"
   },
@@ -846,7 +853,7 @@
     "source": "Nicaraguan oral tradition, Mestizo folklore",
     "source_type": "oral_tradition",
     "source_quality": "medium",
-    "period": "Colonial era to present",
+    "period": "colonial era",
     "lastUpdated": "2026-08-07",
     "version": "1.0.0"
   },
@@ -880,7 +887,7 @@
     "source": "Slovenian oral tradition, Slavic folklore",
     "source_type": "oral_tradition",
     "source_quality": "medium",
-    "period": "Ancient to present",
+    "period": "ancient",
     "lastUpdated": "2026-08-07",
     "version": "1.0.0"
   }

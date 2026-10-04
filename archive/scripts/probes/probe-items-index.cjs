@@ -1,0 +1,51 @@
+/* eslint-env node */
+const { chromium } = require('playwright')
+
+;(async () => {
+  const base = 'http://127.0.0.1:' + (process.env.PORT || 3000)
+  const browser = await chromium.launch()
+  const page = await browser.newPage()
+  const requests = []
+  page.on('request', (r) => requests.push(r.url()))
+  page.on('console', (m) => { if (m.type() === 'error') console.log('CONSOLE ERROR:', m.text()) })
+  await page.goto(base + '/items.html')
+  await page.waitForSelector('.item-card', { timeout: 15000 })
+  await page.waitForTimeout(1000)
+  const cardCount = await page.$$eval('.item-card', (els) => els.length)
+  const regionHits = requests.filter((u) => u.includes('/data/sharded/items/by-region/'))
+  const idxHits = requests.filter((u) => u.includes('/data/sharded/items/index.json'))
+  console.log('item cards:', cardCount)
+  console.log('items by-region requests:', regionHits.length)
+  console.log('items index requests:', idxHits.length)
+  if (!cardCount) throw new Error('no item cards rendered')
+  if (regionHits.length) throw new Error('unexpected items by-region loads: ' + regionHits.length)
+  if (!idxHits.length) throw new Error('items/index.json not fetched')
+  await page.click('.item-card .card-cta')
+  await page.waitForSelector('#item-detail:not(.is-hidden)', { timeout: 15000 })
+  await page.waitForTimeout(1500)
+  const title = await page.$eval('#detail-name', (el) => el.textContent)
+  console.log('detail title:', title)
+  if (!title) throw new Error('detail title empty')
+
+  const detailReqBase = requests.length
+  await page.goto(base + '/items.html?item=mjolnir')
+  await page.waitForSelector('#item-detail:not(.is-hidden) .cd-page:not(.is-hidden)', { timeout: 15000 })
+  await page.waitForSelector('.detail-creature-link, #detail-creatures-section.is-hidden', { timeout: 15000 })
+  await page.waitForTimeout(1500)
+  const cref = await page.$$eval('.detail-creature-link', (els) => els.map((e) => e.textContent))
+  const slugHits = requests
+    .slice(detailReqBase)
+    .filter((u) => u.includes('/data/sharded/creatures/by-slug/') || u.includes('/data/sharded/stories/by-slug/'))
+  const regionHits2 = requests
+    .slice(detailReqBase)
+    .filter((u) => u.includes('/data/sharded/') && u.includes('/by-region/'))
+  console.log('mjolnir ref links:', JSON.stringify(cref))
+  console.log('by-slug fetches after deep-link:', slugHits.length)
+  console.log('by-region fetches after deep-link:', regionHits2.length)
+  if (!cref.length) throw new Error('no cross-ref links rendered for mjolnir')
+  if (!slugHits.length) throw new Error('expected by-slug fetches for cross-refs')
+  if (regionHits2.length) throw new Error('unexpected by-region loads: ' + regionHits2.length)
+
+  await browser.close()
+  console.log('OK')
+})().catch((e) => { console.error('PROBE FAIL', e); process.exit(1) })

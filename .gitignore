@@ -6,7 +6,6 @@ session-*.md
 feroxbuster*
 common.txt
 security_analysis.json
-archive/
 node_modules/
 .DS_Store
 .playwright/
@@ -43,7 +42,7 @@ data/backups/
 data/stories_batch_1_*
 data/missing_stories_gap.json
 data/items.staged.json
-scripts/
+/scripts/
 
 # Environment files
 .env
@@ -53,9 +52,21 @@ scripts/
 .claude/
 vendor/phosphor-icons/
 
+# archive/ is versioned: it holds the data pipeline (shard-data.mjs, the four
+# build-*-index.py, seo-build.py, build-deploy.sh) that CI and the deploy both
+# invoke. These two subtrees are local scratch and stay out.
+archive/scratch/
+archive/brainstorm/
+
 # Stale / superseded data artifacts
 data/datasets/by-region/_all.json
 docs/creature_database_weaklings*
+
+# Generated at deploy time by seo-build.py (committed repo stays free of them)
+creature/
+story/
+item/
+sitemap.xml
 
 # Local Netlify folder
 .netlify
