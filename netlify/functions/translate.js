@@ -11,10 +11,19 @@
 //   { "source": "en", "target": "fr", "strings": ["Hello", "World"] }
 // Response: { "translations": ["Bonjour", "Monde"] }  (aligned 1:1 with input)
 
-var SUPPORTED = /^[a-z]{2}(-[A-Z]{2})?$/ // matches menu language codes (zh-CN etc.)
-var MAX_STRINGS = 30
-var MAX_TOTAL_CHARS = 8000
-var MODEL = 'gemini-3.6-flash'
+const SUPPORTED = /^[a-z]{2}(-[A-Z]{2})?$/ // matches menu language codes (zh-CN etc.)
+const MAX_STRINGS = 30
+const MAX_TOTAL_CHARS = 8000
+const MODEL = 'gemini-3.6-flash'
+const ALLOWED_ORIGIN = /^https:\/\/([a-z0-9-]+\.)*(whisperinglore\.com|netlify\.app)$/
+
+// Cheap abuse barrier: browsers always send Origin on the same-origin POST this
+// function serves, so a missing/foreign Origin means a script, not the site.
+function originAllowed(origin) {
+  if (!origin) return false
+  if (origin === 'http://localhost:3000' || origin === 'http://localhost:8888') return true
+  return ALLOWED_ORIGIN.test(origin)
+}
 
 function json(status, body) {
   return {
@@ -25,15 +34,15 @@ function json(status, body) {
 }
 
 async function callGemini(apiKey, source, target, strings) {
-  var url =
+  const url =
     'https://generativelanguage.googleapis.com/v1beta/models/' +
     MODEL +
     ':generateContent?key=' +
     encodeURIComponent(apiKey)
 
-  var joined = strings.map(function (s) { return s.replace(/\n/g, ' \\n ') })
+  const joined = strings.map(function (s) { return s.replace(/\n/g, ' \\n ') })
 
-  var prompt =
+  const prompt =
     'You are a faithful folklore/localization translator. Translate each string ' +
     'from ' + source + ' to ' + target + '. Keep proper nouns (names of creatures, ' +
     'places, artifacts), numbers, units and any markup/attribute tokens EXACTLY as-is. ' +
@@ -41,9 +50,9 @@ async function callGemini(apiKey, source, target, strings) {
     'JSON array of strings of the SAME length in the SAME order as the input. Input: ' +
     JSON.stringify(joined)
 
-  var controller = new AbortController()
-  var timer = setTimeout(function () { controller.abort() }, 25000)
-  var r
+  const controller = new AbortController()
+  const timer = setTimeout(function () { controller.abort() }, 25000)
+  let r
   try {
     r = await fetch(url, {
       method: 'POST',
@@ -66,15 +75,15 @@ async function callGemini(apiKey, source, target, strings) {
   }
 
   if (!r.ok) {
-    var t = await r.text()
+    const t = await r.text()
     throw new Error('gemini ' + r.status + ': ' + t.slice(0, 300))
   }
-  var data = await r.json()
-  var text = data.candidates && data.candidates[0] && data.candidates[0].content &&
+  const data = await r.json()
+  const text = data.candidates && data.candidates[0] && data.candidates[0].content &&
     data.candidates[0].content.parts && data.candidates[0].content.parts[0] &&
     data.candidates[0].content.parts[0].text
   if (!text) throw new Error('gemini empty response')
-  var arr = JSON.parse(text)
+  const arr = JSON.parse(text)
   if (!Array.isArray(arr) || arr.length !== strings.length) {
     throw new Error('gemini reply length mismatch: got ' + arr.length + ' want ' + strings.length)
   }
@@ -86,33 +95,40 @@ exports.handler = async function (event) {
     return json(405, { error: 'method_not_allowed' })
   }
 
-  var apiKey = process.env.GEMINI_API_KEY
+  const origin = event.headers && (event.headers.origin || event.headers.Origin)
+  if (!originAllowed(origin)) {
+    return json(403, { error: 'forbidden_origin' })
+  }
+
+  const apiKey = process.env.GEMINI_API_KEY
   if (!apiKey) {
     return json(503, { error: 'not_configured' })
   }
 
-  var body
+  let body
   try { body = JSON.parse(event.body || '{}') } catch (e) { return json(400, { error: 'bad_json' }) }
 
-  var target = body.target
+  const target = body.target
   if (!target || !SUPPORTED.test(target)) return json(400, { error: 'bad_target' })
-  var strings = body.strings
+  const source = body.source || 'en'
+  if (!SUPPORTED.test(source)) return json(400, { error: 'bad_source' })
+  const strings = body.strings
   if (!Array.isArray(strings) || strings.length === 0 || strings.length > MAX_STRINGS) {
     return json(400, { error: 'bad_strings', max: MAX_STRINGS })
   }
-  var total = strings.reduce(function (n, s) { return n + String(s).length }, 0)
+  const total = strings.reduce(function (n, s) { return n + String(s).length }, 0)
   if (total > MAX_TOTAL_CHARS) return json(400, { error: 'too_large', max: MAX_TOTAL_CHARS })
 
-  var source = body.source || 'en'
-
   try {
-    var translations = await callGemini(apiKey, source, target, strings)
+    const translations = await callGemini(apiKey, source, target, strings)
     return json(200, { translations: translations })
   } catch (err) {
-    var msg = String(err && err.message || err)
+    const msg = String(err && err.message || err)
+    // Upstream detail stays in the function log; never echoed to the client.
+    console.error('translate function:', msg)
     if (/401|403/.test(msg)) {
-      return json(500, { error: 'gemini_unauthorized', detail: 'GEMINI_API_KEY invalid or without permission' })
+      return json(500, { error: 'gemini_unauthorized' })
     }
-    return json(502, { error: 'gemini_upstream', detail: msg.slice(0, 300) })
+    return json(502, { error: 'gemini_upstream' })
   }
 }

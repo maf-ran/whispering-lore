@@ -44,7 +44,7 @@ test.describe('language toggle', () => {
     // header is a non-wrapping flex row: side-by-side, vertically aligned
     expect(Math.abs(tt.y - lt.y)).toBeLessThanOrEqual(4)
     const prevId = await page.evaluate(() => {
-      var el = document.getElementById('lang-toggle')
+      const el = document.getElementById('lang-toggle')
       return el.previousElementSibling && el.previousElementSibling.id
     })
     expect(prevId).toBe('theme-toggle')

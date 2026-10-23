@@ -3,7 +3,7 @@
 
   // Languages spoken across countries covered by the archive.
   // Labels are native names. Codes must be valid Google Translate codes.
-  var GROUPS = [
+  const GROUPS = [
     { label: 'Nordic', codes: [['sv', 'Svenska'], ['no', 'Norsk'], ['da', 'Dansk'], ['fi', 'Suomi'], ['is', 'Íslenska']] },
     { label: 'Celtic & Isles', codes: [['ga', 'Gaeilge'], ['gd', 'Gàidhlig'], ['cy', 'Cymraeg']] },
     { label: 'Western Europe', codes: [['de', 'Deutsch'], ['fr', 'Français'], ['nl', 'Nederlands'], ['it', 'Italiano'], ['es', 'Español'], ['pt', 'Português']] },
@@ -16,7 +16,7 @@
   ]
 
   function allCodes() {
-    var out = []
+    const out = []
     GROUPS.forEach(function (g) {
       g.codes.forEach(function (pair) { out.push(pair[0]) })
     })
@@ -36,12 +36,19 @@
     document.cookie = 'googtrans=;path=/;max-age=0'
   }
 
+  function isNativeHere() {
+    return !!(window.__sharedUtils &&
+      window.__sharedUtils.isNative &&
+      window.__sharedUtils.isNative())
+  }
+
   function readGoogtrans() {
-    var m = document.cookie.match(/(?:^|;\s*)googtrans=\/en\/([A-Za-z]{2}(?:-[A-Z]{2})?)/)
+    if (isNativeHere()) return null
+    const m = document.cookie.match(/(?:^|;\s*)googtrans=\/en\/([A-Za-z]{2}(?:-[A-Z]{2})?)/)
     return m ? m[1] : null
   }
 
-  var GLOBE_SVG =
+  const GLOBE_SVG =
     '<svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" ' +
     'stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">' +
     '<circle cx="12" cy="12" r="10"/><path d="M2 12h20"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/>' +
@@ -50,14 +57,14 @@
   // Languages shipped with curated overlay content; routed to URL-only
   // native mode (?lang=xx) instead of the on-demand Gemini translation.
   // Keep in sync with shared-utils getNativeLangs().
-  var NATIVE_LANGS = ['sv', 'no', 'es']
+  const NATIVE_LANGS = ['sv', 'no', 'es']
 
-  var comboApplier = null
-  var reloadFn = function () { window.location.reload() }
-  var navigatorFn = function (url) { window.location.assign(url) }
-  var NATIVE_COVERAGE_READY = false // flips true when sv coverage is meaningful
-  var btn = null
-  var menu = null
+  let comboApplier = null
+  let reloadFn = function () { window.location.reload() }
+  let navigatorFn = function (url) { window.location.assign(url) }
+  let NATIVE_COVERAGE_READY = false // flips true when sv coverage is meaningful
+  let btn = null
+  let menu = null
 
   // Native Swedish mode: URL-only state (?lang=sv), no GT cookie involved.
   function currentUrl() {
@@ -65,25 +72,24 @@
   }
 
   function stripLangFallback(u) {
-    var q = u.indexOf('?')
+    const q = u.indexOf('?')
     if (q === -1) return u
-    var base = u.slice(0, q)
-    var pairs = u.slice(q + 1).split('&').filter(function (p) {
+    const base = u.slice(0, q)
+    const pairs = u.slice(q + 1).split('&').filter(function (p) {
       return p && p.indexOf('lang=') !== 0
     })
     return pairs.length ? base + '?' + pairs.join('&') : base
   }
 
-  function isNativeHere() {
-    return !!(window.__sharedUtils &&
-      window.__sharedUtils.isNative &&
-      window.__sharedUtils.isNative())
-  }
-
   function chooseNative(lang) {
     if (lang === undefined) lang = NATIVE_LANGS[0]
     clearGoogtrans()
-    var u
+    if (window.__translate && window.__translate.disable) {
+      window.__translate.disable()
+    }
+    const banner = document.querySelector('.goog-te-banner-frame')
+    if (banner && banner.parentNode) banner.parentNode.removeChild(banner)
+    let u
     if (window.__sharedUtils && window.__sharedUtils.withLang) {
       u = window.__sharedUtils.withLang(currentUrl(), lang)
     } else {
@@ -95,7 +101,7 @@
   }
 
   function leaveNative() {
-    var u
+    let u
     if (window.__sharedUtils && window.__sharedUtils.stripLangUrl) {
       u = window.__sharedUtils.stripLangUrl(currentUrl())
     } else {
@@ -113,7 +119,7 @@
     menu.hidden = true
 
     function item(label, code) {
-      var b = document.createElement('button')
+      const b = document.createElement('button')
       b.type = 'button'
       b.setAttribute('role', 'menuitem')
       b.setAttribute('data-code', code)
@@ -124,20 +130,23 @@
       return b
     }
 
-    var active = readGoogtrans()
-    var gem = window.__translate && window.__translate.getActive ? window.__translate.getActive() : null
+    let active = readGoogtrans()
+    if (!active && isNativeHere() && window.__sharedUtils && window.__sharedUtils.getNativeLang) {
+      active = window.__sharedUtils.getNativeLang()
+    }
+    const gem = window.__translate && window.__translate.getActive ? window.__translate.getActive() : null
     if (gem) active = gem
-    var originalItem = item('Original (English)', '')
+    const originalItem = item('Original (English)', '')
     if (!active) originalItem.classList.add('is-active')
     menu.appendChild(originalItem)
 
     GROUPS.forEach(function (g) {
-      var head = document.createElement('div')
+      const head = document.createElement('div')
       head.className = 'language-menu-heading'
       head.textContent = g.label
       menu.appendChild(head)
       g.codes.forEach(function (pair) {
-        var el = item(pair[1], pair[0])
+        const el = item(pair[1], pair[0])
         if (active && pair[0] === active) el.classList.add('is-active')
         menu.appendChild(el)
       })
@@ -148,9 +157,9 @@
   }
 
   function positionMenu() {
-    var r = btn.getBoundingClientRect()
+    const r = btn.getBoundingClientRect()
     menu.style.top = r.bottom + window.scrollY + 8 + 'px'
-    var right = window.innerWidth - r.right - window.scrollX
+    const right = window.innerWidth - r.right - window.scrollX
     menu.style.right = Math.max(8, right) + 'px'
   }
 
@@ -164,22 +173,22 @@
     if (!menu) buildMenu()
     // Native-coverage dot may flip at runtime; keep the native items in sync.
     NATIVE_LANGS.forEach(function (langCode) {
-      var el = menu.querySelector('[data-code="' + langCode + '"]')
+      const el = menu.querySelector('[data-code="' + langCode + '"]')
       if (el) el.classList.toggle('is-native', !!NATIVE_COVERAGE_READY)
     })
     positionMenu()
     menu.hidden = false
     btn.setAttribute('aria-expanded', 'true')
     // Menu pattern: focus enters the menu, landing on the active language.
-    var target = menu.querySelector('[data-code].is-active') || menu.querySelector('[data-code]')
+    const target = menu.querySelector('[data-code].is-active') || menu.querySelector('[data-code]')
     if (target) target.focus()
   }
 
   function onMenuKeydown(e) {
     if (!menu || menu.hidden) return
-    var items = menuItems()
+    const items = menuItems()
     if (!items.length) return
-    var idx = items.indexOf(document.activeElement)
+    const idx = items.indexOf(document.activeElement)
     if (e.key === 'ArrowDown') {
       e.preventDefault()
       items[(idx + 1) % items.length].focus()
@@ -212,6 +221,18 @@
         window.__translate.setLangParam(code)
         window.__translate.enable(code)
       } else {
+        if (window.__translate && window.__translate.disable) {
+          window.__translate.disable()
+        }
+        if (isNativeHere()) {
+          const cleanUrl = window.__sharedUtils && window.__sharedUtils.stripLangUrl
+            ? window.__sharedUtils.stripLangUrl(currentUrl())
+            : stripLangFallback(currentUrl())
+          setGoogtrans(code)
+          closeMenu(false)
+          navigatorFn(cleanUrl)
+          return
+        }
         applyLanguage(code)
       }
     } else resetToOriginal()
@@ -231,7 +252,7 @@
   }
 
   function initUI() {
-    var themeToggle = document.getElementById('theme-toggle')
+    const themeToggle = document.getElementById('theme-toggle')
     if (!themeToggle || document.getElementById('lang-toggle')) return
 
     btn = document.createElement('button')
@@ -251,17 +272,22 @@
     buildMenu()
     document.addEventListener('keydown', onDocKeydown)
     document.addEventListener('click', onDocClick)
+
+    // Auto-restore: a stored googtrans cookie only translates once element.js
+    // is loaded, so returning visitors get their language back without a click.
+    if (readGoogtrans()) ensureTranslate().catch(function () {})
   }
 
-  var gtPromise = null
+  let gtPromise = null
 
   function ensureTranslate() {
     if (gtPromise) return gtPromise
     gtPromise = new Promise(function (resolve, reject) {
-      var settled = false
-      var timeoutId = null
-      var container = document.createElement('div')
+      let settled = false
+      let timeoutId = null
+      const container = document.createElement('div')
       container.id = 'google_translate_element'
+      container.style.display = 'none'
       container.hidden = true
       document.body.appendChild(container)
 
@@ -270,19 +296,24 @@
         settled = true
         clearTimeout(timeoutId)
         gtPromise = null
-        hideSelf(err)
+        // A blocked/unavailable GT CDN must not remove the language control;
+        // native mode and the Gemini path still work without it.
+        closeMenu(false)
+        if (window.console && console.warn) console.warn('google translate unavailable:', err && err.message)
         reject(err)
       }
 
       window.__languageToggleInit = function () {
         if (settled) return
         try {
-          new window.google.translate.TranslateElement({
+          if (window.google && window.google.translate && window.google.translate.TranslateElement) {
+            new window.google.translate.TranslateElement({
             pageLanguage: 'en',
             includedLanguages: allCodes().join(','),
             autoDisplay: false,
             layout: window.google.translate.TranslateElement.InlineLayout.SIMPLE
-          }, 'google_translate_element')
+            }, 'google_translate_element')
+          }
           settled = true
           clearTimeout(timeoutId)
           resolve(container)
@@ -291,7 +322,9 @@
         }
       }
 
-      var s = document.createElement('script')
+      // No SRI pin: Google rotates this loader without notice and a stale hash
+      // breaks translation for every visitor.
+      const s = document.createElement('script')
       s.src = 'https://translate.google.com/translate_a/element.js?cb=__languageToggleInit'
       s.async = true
       s.onerror = function () { fail(new Error('element.js failed to load')) }
@@ -311,32 +344,32 @@
     return gtPromise
   }
 
-  function hideSelf(err) {
-    if (menu && menu.parentNode) menu.parentNode.removeChild(menu)
-    menu = null
-    if (btn && btn.parentNode) btn.parentNode.removeChild(btn)
-    btn = null
-    if (window.console && console.warn) console.warn('language toggle disabled:', err && err.message)
-  }
-
   function applyLanguage(code) {
-    // Real Google Translate renders no drivable combo in a hidden container,
-    // so the only reliable application path is the classic one: store the
-    // googtrans cookie and reload — GT reads it at init and translates.
     setGoogtrans(code)
     if (comboApplier) { comboApplier(code); return }
-    reloadFn()
+    const combo = document.querySelector('.goog-te-combo')
+    if (combo) {
+      combo.value = code
+      combo.dispatchEvent(new Event('change'))
+    } else {
+      reloadFn()
+    }
   }
 
   function resetToOriginal() {
-    if (isNativeHere()) { leaveNative(); return }
-    if (window.__translate && window.__translate.isActive && window.__translate.isActive()) {
-      window.__translate.disable()
-      return
-    }
     clearGoogtrans()
+    if (window.__translate && window.__translate.disable) {
+      window.__translate.disable()
+    }
+    if (isNativeHere()) { leaveNative(); return }
     if (comboApplier) { comboApplier(''); return }
-    reloadFn()
+    const combo = document.querySelector('.goog-te-combo')
+    if (combo) {
+      combo.value = ''
+      combo.dispatchEvent(new Event('change'))
+    } else {
+      reloadFn()
+    }
   }
 
   function _resetForTests() {
@@ -344,7 +377,7 @@
     document.removeEventListener('click', onDocClick)
     if (btn && btn.parentNode) btn.parentNode.removeChild(btn)
     if (menu && menu.parentNode) menu.parentNode.removeChild(menu)
-    var gtContainer = document.getElementById('google_translate_element')
+    const gtContainer = document.getElementById('google_translate_element')
     if (gtContainer && gtContainer.parentNode) gtContainer.parentNode.removeChild(gtContainer)
     btn = null
     menu = null
