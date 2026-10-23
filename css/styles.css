@@ -1018,6 +1018,133 @@ nav a.active::after {
   margin-bottom: 1.25rem;
 }
 
+/* ── Donate section ── */
+.donate-section {
+  max-width: 680px;
+  margin: 3rem auto;
+  padding: 0 2rem;
+}
+
+.support-panel {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  padding: 2rem 1.75rem;
+}
+
+.donate-text {
+  font-family: var(--font-body);
+  font-size: 0.92rem;
+  line-height: 1.8;
+  color: var(--text-secondary);
+  margin: 0 0 1.5rem;
+  text-align: center;
+}
+
+.support-primary {
+  text-align: center;
+}
+
+.support-note {
+  font-family: var(--font-body);
+  font-size: 0.78rem;
+  color: var(--text-muted);
+  margin: 0.75rem auto 0;
+  max-width: 40ch;
+  text-align: center;
+}
+
+.support-divider {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin: 1.75rem 0;
+  color: var(--text-muted);
+  font-family: var(--font-display);
+  font-size: 0.65rem;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+}
+
+.support-divider::before,
+.support-divider::after {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: var(--border);
+}
+
+.support-monero {
+  display: flex;
+  gap: 1.5rem;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.donate-qr-wrap {
+  border: 1px solid var(--border);
+  padding: 0.5rem;
+  background: #fff;
+  flex-shrink: 0;
+}
+
+.donate-qr {
+  display: block;
+}
+
+.donate-meta {
+  max-width: 300px;
+}
+
+.support-method {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-family: var(--font-display);
+  font-size: 1rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--text-primary);
+}
+
+.donate-logo {
+  width: 26px;
+  height: 26px;
+}
+
+.support-actions {
+  display: flex;
+  gap: 0.75rem;
+  margin-top: 1.25rem;
+  flex-wrap: wrap;
+}
+
+.donate-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.6rem 1.4rem;
+  background: transparent;
+  border: 1px solid var(--accent-strong);
+  color: var(--accent-strong);
+  font-family: var(--font-display);
+  font-size: 0.65rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  text-decoration: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease, color 0.3s ease, transform 0.3s ease;
+}
+
+.donate-btn:hover {
+  background: var(--accent-strong);
+  color: var(--text-primary);
+}
+
+.donate-btn:active {
+  transform: scale(0.96);
+}
+
 /* ── World page ── */
 .world-section {
   position: relative;
@@ -2807,8 +2934,8 @@ footer p {
   background: var(--bg-surface-hover);
 }
 [data-theme="light"] .btn-ghost {
-  border-color: var(--border-surface);
-  color: var(--text-primary);
+  border-color: var(--accent-strong);
+  color: var(--accent-strong);
 }
 [data-theme="light"] .btn-ghost:hover {
   background: rgba(var(--accent-rgb), 0.06);
@@ -3837,15 +3964,34 @@ footer p {
 }
 
 /* Hide every piece of Google's own translate UI */
-.skiptranslate,
-#goog-gt-tt,
-.goog-te-banner-frame,
-.goog-te-gadget-icon,
-iframe.goog-te-menu-frame {
-  display: none !important;
-}
 body {
   top: 0 !important;
+  position: static !important;
+}
+.goog-te-banner-frame,
+.goog-te-banner-frame.skiptranslate,
+iframe.goog-te-banner-frame,
+.goog-te-gadget-icon,
+iframe.goog-te-menu-frame,
+#goog-gt-tt {
+  display: none !important;
+  visibility: hidden !important;
+  height: 0 !important;
+}
+.skiptranslate:not(.language-menu) {
+  display: none !important;
+}
+#google_translate_element {
+  display: none !important;
+}
+/* Prevent tooltip popups on hovered translated text */
+.goog-tooltip,
+.goog-tooltip:hover {
+  display: none !important;
+}
+.goog-text-highlight {
+  background-color: transparent !important;
+  box-shadow: none !important;
 }
 
 
@@ -3890,4 +4036,122 @@ body {
 .translate-toast.is-visible {
   opacity: 1;
   transform: translateX(-50%) translateY(0);
+}
+
+/* ---- Ko‑fi button styling ---- */
+.ko-fi-btn {
+  display: inline-block;
+  margin-top: 0.5rem;
+  padding: 0.6rem 1.2rem;
+  background-color: #ff5e5e; /* brand color */
+  color: #fff;
+  font-weight: bold;
+  font-size: 1rem;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  transition: background-color var(--transition), opacity var(--transition);
+}
+.ko-fi-btn:hover {
+  background-color: #e04e4e;
+  opacity: 0.9;
+}
+.ko-fi-btn:disabled {
+  background-color: #777;
+  cursor: not-allowed;
+  opacity: 0.6;
+}
+
+/* ── Global Command Palette (Cmd+K) ── */
+.wl-cmd-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.75);
+  backdrop-filter: blur(4px);
+  z-index: 10000;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding-top: 15vh;
+}
+.wl-cmd-overlay[hidden] {
+  display: none !important;
+}
+.wl-cmd-dialog {
+  background: var(--bg-card, #1C1917);
+  border: 1px solid var(--border, #292524);
+  border-radius: 12px;
+  width: 90%;
+  max-width: 600px;
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.5);
+  overflow: hidden;
+}
+.wl-cmd-header {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 16px 20px;
+  border-bottom: 1px solid var(--border, #292524);
+  color: var(--text-primary, #D6D3C8);
+}
+.wl-cmd-input {
+  flex: 1;
+  background: transparent;
+  border: none;
+  outline: none;
+  color: var(--text-primary, #D6D3C8);
+  font-family: var(--font-body, 'Lora', serif);
+  font-size: 1.1rem;
+}
+.wl-cmd-kbd {
+  font-family: monospace;
+  font-size: 0.75rem;
+  background: rgba(255, 255, 255, 0.1);
+  padding: 2px 6px;
+  border-radius: 4px;
+  color: var(--text-secondary, #A8A29E);
+}
+.wl-cmd-results {
+  max-height: 360px;
+  overflow-y: auto;
+  padding: 8px;
+}
+.wl-cmd-hint {
+  padding: 24px;
+  text-align: center;
+  color: var(--text-secondary, #A8A29E);
+  font-size: 0.95rem;
+}
+.wl-cmd-result-item {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 10px 14px;
+  border-radius: 6px;
+  cursor: pointer;
+  color: var(--text-primary, #D6D3C8);
+  transition: background 0.15s ease;
+}
+.wl-cmd-result-item:hover,
+.wl-cmd-result-item.is-selected {
+  background: rgba(153, 27, 27, 0.2);
+  color: #fff;
+}
+.wl-cmd-type {
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  background: rgba(153, 27, 27, 0.4);
+  color: #fca5a5;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-family: var(--font-display, 'Cinzel', serif);
+}
+.wl-cmd-name {
+  flex: 1;
+  font-weight: 500;
+}
+.wl-cmd-country {
+  font-size: 0.85rem;
+  color: var(--text-secondary, #A8A29E);
 }

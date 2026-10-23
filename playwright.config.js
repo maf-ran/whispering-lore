@@ -1,5 +1,5 @@
 /* eslint-env node */
-const { defineConfig, devices } = require('@playwright/test');
+const { defineConfig, devices } = require('@playwright/test')
 
 module.exports = defineConfig({
   testDir: './tests/e2e',
@@ -45,4 +45,4 @@ module.exports = defineConfig({
       use: { ...devices['Desktop Chrome'], viewport: { width: 1920, height: 1080 } },
     },
   ],
-});
+})

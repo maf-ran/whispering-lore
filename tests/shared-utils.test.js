@@ -16,7 +16,7 @@ if (typeof global.fetch === 'undefined') {
 
 require('../js/shared-utils.js')
 
-var getSlug = window.__sharedUtils.getSlug
+const getSlug = window.__sharedUtils.getSlug
 
 describe('getSlug', () => {
   it('converts name to URL-safe slug', () => {
@@ -90,7 +90,7 @@ describe('renderSources', () => {
 
   it('renders "None"-prefixed entries that carry real refs (not the sentinel)', () => {
     const box = el()
-    window.__sharedUtils.renderSources(box, { source: "None — no independent source located; cf. Mooney, Myths of the Cherokee (Uktena)" })
+    window.__sharedUtils.renderSources(box, { source: 'None — no independent source located; cf. Mooney, Myths of the Cherokee (Uktena)' })
     expect(box.classList.contains('is-hidden')).toBe(false)
     const lis = box.querySelectorAll('.detail-source-list li')
     expect(lis.length).toBe(2)

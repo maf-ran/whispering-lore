@@ -6,46 +6,46 @@
   // chrome ([data-i18n]) + visible content in place, caches per-language in
   // localStorage, and falls back to the original text on failure (toast shown).
 
-  var ENDPOINT = '/.netlify/functions/translate'
-  var CACHE_PREFIX = 'wl:gemini:'
-  var MAX_STRINGS = 200
-  var MAX_STRING_LEN = 400
-  var SKIP_SELECTOR = 'script,style,noscript,svg,canvas,[class*="language-menu"],[data-i18n],.card-cta a,button,input,label,select,textarea,nav a'
-  var CONTENT_SELECTOR =
+  const ENDPOINT = '/.netlify/functions/translate'
+  const CACHE_PREFIX = 'wl:gemini:'
+  const MAX_STRINGS = 200
+  const MAX_STRING_LEN = 400
+  const SKIP_SELECTOR = 'script,style,noscript,svg,canvas,[class*="language-menu"],[data-i18n],.card-cta a,button,input,label,select,textarea,nav a'
+  const CONTENT_SELECTOR =
     '.content-grid,.card,article,#detail-content,.cd-page,.cd-sidelist,' +
     '.hero-excerpt,.feature-excerpt,.card-title,.card-summary,' +
     'section,main,p,h1,h2,h3,h4,h5,li,span,div'
 
-  var activeLang = null
-  var originalTexts = null
+  let activeLang = null
+  let originalTexts = null
 
   function readCache(key) {
-    try { var v = localStorage.getItem(CACHE_PREFIX + key); return v ? JSON.parse(v) : null } catch (e) { return null }
+    try { const v = localStorage.getItem(CACHE_PREFIX + key); return v ? JSON.parse(v) : null } catch (e) { return null }
   }
   function writeCache(key, val) {
     try { localStorage.setItem(CACHE_PREFIX + key, JSON.stringify(val)) } catch (e) { /* storage unavailable */ }
   }
 
   function callTranslate(target, strings, source) {
-    var clean = []
-    var idx = []
+    const clean = []
+    const idx = []
     strings.forEach(function (s, i) {
-      var t = String(s).trim()
+      const t = String(s).trim()
       if (t && t.length <= MAX_STRING_LEN) { clean.push(t); idx.push(i) }
     })
     if (!clean.length) return Promise.resolve([])
 
-    var CHUNK_SIZE = 25
-    var chunks = []
-    for (var i = 0; i < clean.length; i += CHUNK_SIZE) {
+    const CHUNK_SIZE = 25
+    const chunks = []
+    for (let i = 0; i < clean.length; i += CHUNK_SIZE) {
       chunks.push({
         subClean: clean.slice(i, i + CHUNK_SIZE),
         subIdx: idx.slice(i, i + CHUNK_SIZE)
       })
     }
 
-    var out = new Array(strings.length)
-    var p = Promise.resolve()
+    const out = new Array(strings.length)
+    let p = Promise.resolve()
 
     chunks.forEach(function (chunk) {
       p = p.then(function () {
@@ -79,48 +79,48 @@
   }
 
   function collectChrome() {
-    var out = []
-    var nodes = document.querySelectorAll('[data-i18n]')
-    for (var i = 0; i < nodes.length; i++) {
-      var k = nodes[i].getAttribute('data-i18n')
-      var txt = nodes[i].textContent.trim()
+    const out = []
+    const nodes = document.querySelectorAll('[data-i18n]')
+    for (let i = 0; i < nodes.length; i++) {
+      const k = nodes[i].getAttribute('data-i18n')
+      const txt = nodes[i].textContent.trim()
       if (k && txt) out.push({ node: nodes[i], key: k, text: txt })
     }
-    var ph = document.querySelectorAll('[data-i18n-placeholder]')
-    for (var p = 0; p < ph.length; p++) {
-      var pk = ph[p].getAttribute('data-i18n-placeholder')
-      var pt = ph[p].getAttribute('placeholder')
+    const ph = document.querySelectorAll('[data-i18n-placeholder]')
+    for (let p = 0; p < ph.length; p++) {
+      const pk = ph[p].getAttribute('data-i18n-placeholder')
+      const pt = ph[p].getAttribute('placeholder')
       if (pk && pt) out.push({ node: ph[p], key: pk, text: pt, isPlaceholder: true })
     }
     return out
   }
 
   function collectContent() {
-    var seen = {}
-    var out = []
-    var nodes = document.querySelectorAll(CONTENT_SELECTOR)
+    const seen = {}
+    const out = []
+    const nodes = document.querySelectorAll(CONTENT_SELECTOR)
     function add(el, txt) {
       if (!txt || !txt.trim()) return
       if (seen[el] === undefined) seen[el] = []
       seen[el].push(txt)
     }
-    for (var i = 0; i < nodes.length; i++) {
-      var el = nodes[i]
+    for (let i = 0; i < nodes.length; i++) {
+      const el = nodes[i]
       if (el.matches(SKIP_SELECTOR)) continue
-      var walker = document.createTreeWalker(el, NodeFilter.SHOW_TEXT, {
+      const walker = document.createTreeWalker(el, NodeFilter.SHOW_TEXT, {
         acceptNode: function (n) {
-          var p = n.parentNode
+          const p = n.parentNode
           if (!p) return NodeFilter.FILTER_REJECT
           if (p.matches && p.matches('[data-i18n],.language-menu,' + SKIP_SELECTOR)) return NodeFilter.FILTER_REJECT
-          var hasEl = false
-          for (var c = p.firstChild; c; c = c.nextSibling) {
+          let hasEl = false
+          for (let c = p.firstChild; c; c = c.nextSibling) {
             if (c.nodeType === 1) { hasEl = true; if (c !== n) break }
           }
           if (hasEl && n !== p.firstChild) return NodeFilter.FILTER_REJECT
           return n.textContent.trim() ? NodeFilter.FILTER_ACCEPT : NodeFilter.FILTER_REJECT
         }
       })
-      var n = walker.nextNode()
+      let n = walker.nextNode()
       while (n) { add(n.parentNode, n.textContent.trim()); n = walker.nextNode() }
     }
     return out
@@ -128,12 +128,12 @@
 
   function translateNodes(items) {
     if (!items.length) return Promise.resolve()
-    var unique = {}
+    const unique = {}
     items.forEach(function (it) { if (it.text && unique[it.text] === undefined) unique[it.text] = it.text })
-    var uniqArr = Object.keys(unique)
-    var map = {}
+    const uniqArr = Object.keys(unique)
+    const map = {}
     return findCached(uniqArr).then(function (cached) {
-      var missing = []
+      const missing = []
       uniqArr.forEach(function (u) {
         if (cached[u] !== undefined && cached[u] !== null) map[u] = cached[u]
         else missing.push(u)
@@ -151,27 +151,27 @@
     })
   }
 
-  var _cacheKey = function () { return 'str:' + activeLang }
-  var _cacheStore = null
+  const _cacheKey = function () { return 'str:' + activeLang }
+  let _cacheStore = null
   function loadCacheMap() {
     if (_cacheStore === null) _cacheStore = readCache(_cacheKey()) || {}
     return _cacheStore
   }
   function findCached(arr) {
-    var m = loadCacheMap()
-    var hit = {}
+    const m = loadCacheMap()
+    const hit = {}
     arr.forEach(function (u) { if (m[u]) hit[u] = m[u] })
     return Promise.resolve(hit)
   }
   function storeCached(arr, map) {
-    var m = loadCacheMap()
+    const m = loadCacheMap()
     arr.forEach(function (u) { if (map[u]) m[u] = map[u] })
     writeCache(_cacheKey(), m)
   }
 
   function applyToItems(items, map) {
     items.forEach(function (it) {
-      var v = map[it.text]
+      const v = map[it.text]
       if (v == null || v === it.text) return
       if (it.isPlaceholder) it.node.setAttribute('placeholder', v)
       else it.node.textContent = v
@@ -179,32 +179,32 @@
   }
 
   function translateChrome() {
-    var en = (window.__i18n && window.__i18n.en) ? window.__i18n.en : {}
-    var cached = readCache('dict:' + activeLang) || {}
+    const en = (window.__i18n && window.__i18n.en) ? window.__i18n.en : {}
+    const cached = readCache('dict:' + activeLang) || {}
 
-    var visibleKeys = []
-    var nodes = document.querySelectorAll('[data-i18n]')
-    for (var i = 0; i < nodes.length; i++) {
-      var k = nodes[i].getAttribute('data-i18n')
+    const visibleKeys = []
+    const nodes = document.querySelectorAll('[data-i18n]')
+    for (let i = 0; i < nodes.length; i++) {
+      const k = nodes[i].getAttribute('data-i18n')
       if (k) visibleKeys.push(k)
     }
-    var ph = document.querySelectorAll('[data-i18n-placeholder]')
-    for (var p = 0; p < ph.length; p++) {
-      var pk = ph[p].getAttribute('data-i18n-placeholder')
+    const ph = document.querySelectorAll('[data-i18n-placeholder]')
+    for (let p = 0; p < ph.length; p++) {
+      const pk = ph[p].getAttribute('data-i18n-placeholder')
       if (pk) visibleKeys.push(pk)
     }
-    var page = pageName()
+    const page = pageName()
     visibleKeys.push('title.' + page)
     visibleKeys.push('desc.' + page)
 
-    var missing = visibleKeys.filter(function (k) { return cached[k] === undefined && en[k] !== undefined })
+    const missing = visibleKeys.filter(function (k) { return cached[k] === undefined && en[k] !== undefined })
     if (!missing.length) {
       applyChromeDict(cached)
       return Promise.resolve()
     }
-    var validPairs = []
+    const validPairs = []
     missing.forEach(function (k) {
-      var v = en[k]
+      const v = en[k]
       if (v && v.indexOf('<') === -1) {
         validPairs.push({ key: k, val: v })
       } else if (v) {
@@ -215,7 +215,7 @@
       applyChromeDict(cached)
       return Promise.resolve()
     }
-    var values = validPairs.map(function (p) { return p.val })
+    const values = validPairs.map(function (p) { return p.val })
     return callTranslate(activeLang, values).then(function (tr) {
       if (tr) {
         validPairs.forEach(function (p, i) {
@@ -234,24 +234,24 @@
 
   function applyChromeDict(dict) {
     document.documentElement.setAttribute('lang', activeLang)
-    var nodes = document.querySelectorAll('[data-i18n]')
-    for (var i = 0; i < nodes.length; i++) {
-      var k = nodes[i].getAttribute('data-i18n')
+    const nodes = document.querySelectorAll('[data-i18n]')
+    for (let i = 0; i < nodes.length; i++) {
+      const k = nodes[i].getAttribute('data-i18n')
       if (dict[k]) nodes[i].textContent = dict[k]
     }
-    var ph = document.querySelectorAll('[data-i18n-placeholder]')
-    for (var p = 0; p < ph.length; p++) {
-      var pk = ph[p].getAttribute('data-i18n-placeholder')
+    const ph = document.querySelectorAll('[data-i18n-placeholder]')
+    for (let p = 0; p < ph.length; p++) {
+      const pk = ph[p].getAttribute('data-i18n-placeholder')
       if (dict[pk]) ph[p].setAttribute('placeholder', dict[pk])
     }
-    var tKey = 'title.' + pageName()
+    const tKey = 'title.' + pageName()
     if (dict[tKey]) document.title = dict[tKey]
-    var meta = document.querySelector('meta[name="description"]')
+    const meta = document.querySelector('meta[name="description"]')
     if (meta && dict['desc.' + pageName()]) meta.setAttribute('content', dict['desc.' + pageName()])
   }
 
   function pageName() {
-    var p = (window.location.pathname.split('/').pop() || 'index.html').replace(/\.html$/, '')
+    const p = (window.location.pathname.split('/').pop() || 'index.html').replace(/\.html$/, '')
     return p || 'index'
   }
 
@@ -263,11 +263,13 @@
 
   function showToast(msg) {
     if (typeof document === 'undefined') return
-    var existing = document.getElementById('wl-translate-toast')
+    const existing = document.getElementById('wl-translate-toast')
     if (existing && existing.parentNode) existing.parentNode.removeChild(existing)
-    var toast = document.createElement('div')
+    const toast = document.createElement('div')
     toast.id = 'wl-translate-toast'
     toast.className = 'translate-toast'
+    toast.setAttribute('role', 'status')
+    toast.setAttribute('aria-live', 'polite')
     toast.textContent = msg
     document.body.appendChild(toast)
     setTimeout(function () {
@@ -289,8 +291,8 @@
     activeLang = code
     try { localStorage.setItem('wl:active_gmlang', code) } catch (e) { /* storage unavailable */ }
     _cacheStore = null
-    var chrome = collectChrome()
-    var content = collectContent()
+    const chrome = collectChrome()
+    const content = collectContent()
     captureOriginal(chrome)
     document.body.classList.add('gemini-active')
     document.documentElement.setAttribute('lang', code)
@@ -320,9 +322,9 @@
       })
       originalTexts = null
     }
-    var m = window.location.search.match(/[?&]gmlang=([A-Za-z-]+)/)
+    const m = window.location.search.match(/[?&]gmlang=([A-Za-z-]+)/)
     if (m) {
-      var url = window.location.pathname + window.location.search.replace(/[?&]gmlang=[A-Za-z-]+/, '').replace(/^&/, '?')
+      const url = window.location.pathname + window.location.search.replace(/[?&]gmlang=[A-Za-z-]+/, '').replace(/^&/, '?')
       try { window.history.replaceState(null, '', url) } catch (e) { /* noop */ }
     }
   }
@@ -330,9 +332,9 @@
   function isActive() { return !!activeLang }
   function getActive() { return activeLang }
   function setLangParam(code) {
-    var url = window.location.pathname + window.location.search
-    var clean = url.replace(/([?&])gmlang=[A-Za-z-]+/g, '$1').replace(/[?&]$/, '').replace(/[?]&/, '?')
-    var sep = clean.indexOf('?') === -1 ? '?' : '&'
+    const url = window.location.pathname + window.location.search
+    let clean = url.replace(/([?&])gmlang=[A-Za-z-]+/g, '$1').replace(/[?&]$/, '').replace(/[?]&/, '?')
+    const sep = clean.indexOf('?') === -1 ? '?' : '&'
     clean = clean + sep + 'gmlang=' + code
     try { window.history.replaceState(null, '', clean) } catch (e) { /* noop */ }
   }
@@ -342,8 +344,8 @@
       if (typeof window === 'undefined') return
       // If native mode is explicitly set in URL (?lang=sv, ?lang=no), do not auto-run Gemini
       if (window.location.search.indexOf('lang=') !== -1) return
-      var m = window.location.search.match(/[?&]gmlang=([A-Za-z-]+)/)
-      var saved = m ? m[1] : localStorage.getItem('wl:active_gmlang')
+      const m = window.location.search.match(/[?&]gmlang=([A-Za-z-]+)/)
+      const saved = m ? m[1] : localStorage.getItem('wl:active_gmlang')
       if (saved && saved !== 'en' && saved !== 'sv' && saved !== 'no' && saved !== 'es') {
         enable(saved)
       }

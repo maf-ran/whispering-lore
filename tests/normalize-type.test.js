@@ -16,8 +16,8 @@ if (typeof global.fetch === 'undefined') {
 
 require('../js/shared-utils.js')
 
-var normalizeType = window.__sharedUtils.normalizeType
-var TYPE_ALIAS_MAP = window.__sharedUtils.TYPE_ALIAS_MAP
+const normalizeType = window.__sharedUtils.normalizeType
+const TYPE_ALIAS_MAP = window.__sharedUtils.TYPE_ALIAS_MAP
 
 describe('normalizeType', () => {
   it('returns "unknown" for empty/null/undefined input', () => {

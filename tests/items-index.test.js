@@ -28,7 +28,7 @@ describe('items index', function () {
   test('required fields are non-empty', function () {
     const required = ['slug', 'name', 'type', 'country', 'region']
     index.forEach((entry) => {
-      required.forEach((k) => assert(entry[k] !== undefined && entry[k] !== '', entry.slug + ' missing/empty ' + k));
+      required.forEach((k) => assert(entry[k] !== undefined && entry[k] !== '', entry.slug + ' missing/empty ' + k))
     })
   })
 

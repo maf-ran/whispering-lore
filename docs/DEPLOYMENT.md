@@ -118,7 +118,7 @@ On Netlify:
 
 ## Zip deploy (local pipeline)
 
-`archive/scripts/build-deploy.sh` builds `/tmp/whispering-lore-deploy.zip` for manual Netlify upload. It:
+`archive/scripts/build-deploy.sh` builds `deploy/whispering_lore-netlify_deploy-<yyyy-mm-dd>.zip` for manual Netlify upload. It:
 
 1. Mirrors `git ls-files` into a stage dir, excluding dev-only paths (`tests/`, `docs/`, `archive/`, `skills/`, `marketing/`, `.github/`, `.opencode/`, `.claude/`, jest/eslint/playwright/babel configs, `package.json`).
 2. Runs `archive/scripts/seo-build.py` on the stage: prerenders crawlable `creature/{slug}/`, `story/{slug}/`, `item/{slug}/` pages (JSON-LD, canonical, meta) and writes the **full** `sitemap.xml` (all pages + every entity).
@@ -127,5 +127,5 @@ On Netlify:
 Notes:
 
 - `archive/` is gitignored — the generators are local tooling by design.
-- The committed `sitemap.xml` stays the short site-pages version; the deployed artifact carries the full generated sitemap (~6.5k URLs) so Git history stays clean. If you ever publish the repo directly (git-based deploy), the short sitemap ships instead — rebuild the full one with `seo-build.py` first.
+- `creature/`, `story/`, `item/` and `sitemap.xml` are gitignored — `seo-build.py` regenerates them (prerendered entity pages + full ~6.5k URL sitemap) into the stage at every deploy. The committed repo stays free of generated files.
 - Regenerate the search index after data changes: `python3 archive/scripts/build-search-index.py` (<9MB check and slug parity covered by `tests/search-index.test.js`).

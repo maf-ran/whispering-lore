@@ -294,15 +294,15 @@
     _overlayPromises: {},
 
     _loadOverlayFor: function (type, region, lang) {
-      var key = lang + ':' + type + ':' + region
+      const key = lang + ':' + type + ':' + region
       if (!this._overlayPromises[key]) {
-        var fileKey = region
+        const fileKey = region
           .toLowerCase()
           .replace(/[^a-z0-9]+/g, '-')
           .replace(/^-|-$/g, '')
         // Coverage map: manifest-declared overlays only; everything else
         // short-circuits to null without touching the network.
-        var cov =
+        const cov =
           this.manifest &&
           this.manifest.i18n &&
           this.manifest.i18n[lang]
@@ -322,20 +322,20 @@
     // Delivery-time decoration: caches always hold raw EN shards; native
     // mode merges sparse slug-keyed patches onto COPIES handed to callers.
     _deliverShard: function (type, region, err, data, callback) {
-      var lang = window.__sharedUtils.getNativeLang()
+      const lang = window.__sharedUtils.getNativeLang()
       if (err || !data || !lang) {
         callback(err, data)
         return
       }
-      var self = this
+      const self = this
       this._loadOverlayFor(type, region, lang).then(function (ov) {
         if (!ov || !ov.entries) {
           callback(err, data)
           return
         }
-        var out = data.map(function (it) {
-          var c = Object.assign({}, it)
-          var patch = ov.entries[c.slug]
+        const out = data.map(function (it) {
+          const c = Object.assign({}, it)
+          const patch = ov.entries[c.slug]
           c._i18n = { lang: lang, partial: !(patch && patch.complete) }
           if (patch) {
             Object.keys(patch).forEach(function (k) {
@@ -426,13 +426,13 @@
     // Load a slug batch (e.g. 'a', 'b')
     // Slug batches mix regions; decorate each entry via its region overlay.
     _deliverSlugBatch: function (type, err, data, callback) {
-      var self = this
-      var lang = err || !data || !data.length
+      const self = this
+      const lang = err || !data || !data.length
         ? null
         : window.__sharedUtils.getNativeLang()
       if (!lang) { callback(err, data); return }
-      var regions = []
-      var seen = {}
+      const regions = []
+      const seen = {}
       data.forEach(function (it) {
         if (it.region && !seen[it.region]) { seen[it.region] = true; regions.push(it.region) }
       })
@@ -440,15 +440,15 @@
       Promise.all(regions.map(function (r) {
         return self._loadOverlayFor(type, r, lang)
       })).then(function (ovs) {
-        var byRegion = {}
+        const byRegion = {}
         regions.forEach(function (r, i) {
           if (ovs[i] && ovs[i].entries) byRegion[r] = ovs[i]
         })
-        var out = data.map(function (it) {
-          var ov = byRegion[it.region]
+        const out = data.map(function (it) {
+          const ov = byRegion[it.region]
           if (!ov) return it
-          var c = Object.assign({}, it)
-          var patch = ov.entries[c.slug]
+          const c = Object.assign({}, it)
+          const patch = ov.entries[c.slug]
           c._i18n = { lang: lang, partial: !(patch && patch.complete) }
           if (patch) {
             Object.keys(patch).forEach(function (k) {
@@ -500,7 +500,7 @@
             return
           }
           self.indexes[type] = data.map(function (it) {
-            var c = Object.assign({}, it)
+            const c = Object.assign({}, it)
             c._slim = true
             return c
           })
@@ -537,15 +537,15 @@
 
     // Single-item delivery: same overlay decoration as shards/batches.
     _deliverItem: function (type, err, item, callback) {
-      var lang = err || !item || !item.region
+      const lang = err || !item || !item.region
         ? null
         : window.__sharedUtils.getNativeLang()
       if (!lang) { callback(err, item); return }
-      var self = this
+      const self = this
       this._loadOverlayFor(type, item.region, lang).then(function (ov) {
         if (!ov || !ov.entries) { callback(err, item); return }
-        var c = Object.assign({}, item)
-        var patch = ov.entries[c.slug]
+        const c = Object.assign({}, item)
+        const patch = ov.entries[c.slug]
         c._i18n = { lang: lang, partial: !(patch && patch.complete) }
         if (patch) {
           Object.keys(patch).forEach(function (k) {
@@ -746,9 +746,26 @@
     },
   }
 
+  function monitorPerformance() {
+    const metrics = {
+      loadTime: performance.getEntriesByType('navigation')[0]?.duration || 0,
+      cacheHits: performance.getEntriesByType('resource')
+        .filter(r => r.name.includes('/data/sharded/') && r.decodedBodySize > 0).length,
+      errors: performance.getEntriesByType('resource')
+        .filter(r => r.response?.status >= 400).length
+    };
+
+    if (metrics.errors > 0 || metrics.loadTime > 5000) {
+      console.warn('Performance alert:', metrics);
+    }
+
+    return metrics;
+  }
+
   window.__sharedUtils = {
     fetchJSON: fetchJSON,
     escapeXml: escapeXml,
+    monitorPerformance: monitorPerformance,
 
     hasUsableSource: function (entry) {
       return !!(
@@ -761,9 +778,9 @@
 
     renderSources: function (sectionEl, entry) {
       if (!sectionEl) return
-      var listEl = sectionEl.querySelector('.detail-source-list')
-      var badgesEl = sectionEl.querySelector('.detail-source-badges')
-      var hide = function () {
+      const listEl = sectionEl.querySelector('.detail-source-list')
+      const badgesEl = sectionEl.querySelector('.detail-source-badges')
+      const hide = function () {
         sectionEl.classList.add('is-hidden')
         if (listEl) listEl.innerHTML = ''
         if (badgesEl) badgesEl.innerHTML = ''
@@ -772,7 +789,7 @@
         hide()
         return
       }
-      var refs = entry.source
+      const refs = entry.source
         .split(';')
         .map(function (s) { return s.trim() })
         .filter(Boolean)
@@ -782,16 +799,16 @@
       }
       listEl.innerHTML = ''
       refs.forEach(function (ref) {
-        var li = document.createElement('li')
-        var urlMatch = ref.match(/https?:\/\/[^\s]+/)
+        const li = document.createElement('li')
+        const urlMatch = ref.match(/https?:\/\/[^\s]+/)
         if (urlMatch) {
-          var pre = document.createTextNode(ref.slice(0, urlMatch.index))
-          var a = document.createElement('a')
+          const pre = document.createTextNode(ref.slice(0, urlMatch.index))
+          const a = document.createElement('a')
           a.href = urlMatch[0]
           a.target = '_blank'
           a.rel = 'noopener noreferrer'
           a.textContent = urlMatch[0]
-          var post = document.createTextNode(ref.slice(urlMatch.index + urlMatch[0].length))
+          const post = document.createTextNode(ref.slice(urlMatch.index + urlMatch[0].length))
           li.appendChild(pre)
           li.appendChild(a)
           li.appendChild(post)
@@ -802,10 +819,10 @@
       })
       badgesEl.innerHTML = ''
       if (entry.source_type) {
-        var st = entry.source_type
+        const st = entry.source_type
         badgesEl.appendChild(
           (function () {
-            var b = document.createElement('span')
+            const b = document.createElement('span')
             b.className = 'source-type-badge source-type-badge--' + escapeXml(st)
             b.textContent = st
               .replace(/_/g, ' ')
@@ -817,7 +834,7 @@
       if (entry.source_quality) {
         badgesEl.appendChild(
           (function () {
-            var b = document.createElement('span')
+            const b = document.createElement('span')
             b.className = 'source-badge source-badge--' + escapeXml(entry.source_quality)
             b.textContent =
               entry.source_quality.charAt(0).toUpperCase() + entry.source_quality.slice(1)
@@ -836,9 +853,23 @@
       return ['sv', 'no', 'es']
     },
 
+    getActiveLangInfo: function () {
+      try {
+        const mLang = window.location.search.match(/[?&]lang=([A-Za-z-]+)/)
+        if (mLang) return { param: 'lang', code: mLang[1] }
+        const mGm = window.location.search.match(/[?&]gmlang=([A-Za-z-]+)/)
+        if (mGm) return { param: 'gmlang', code: mGm[1] }
+        const savedGm = localStorage.getItem('wl:active_gmlang')
+        if (savedGm) return { param: 'gmlang', code: savedGm }
+        return null
+      } catch (e) {
+        return null
+      }
+    },
+
     getNativeLang: function () {
       try {
-        var m = window.location.search.match(/[?&]lang=([A-Za-z-]+)/)
+        const m = window.location.search.match(/[?&]lang=([A-Za-z-]+)/)
         if (!m) return null
         return this.getNativeLangs().indexOf(m[1]) !== -1 ? m[1] : null
       } catch (e) {
@@ -850,37 +881,75 @@
       return this.getNativeLang() !== null
     },
 
-    withLang: function (url, lang) {
-      // only default when the argument is omitted; explicit null means "strip"
-      if (lang === undefined) lang = this.getNativeLang()
-      var hash = ''
-      var hashIdx = url.indexOf('#')
+    withLang: function (url, lang, paramName) {
+      if (lang === undefined) {
+        const info = this.getActiveLangInfo()
+        if (info) {
+          lang = info.code
+          paramName = info.param
+        } else {
+          lang = null
+        }
+      }
+      if (!paramName) {
+        paramName = (window.location.search.indexOf('gmlang=') !== -1 || localStorage.getItem('wl:active_gmlang')) ? 'gmlang' : 'lang'
+      }
+      let hash = ''
+      const hashIdx = url.indexOf('#')
       if (hashIdx !== -1) {
         hash = url.slice(hashIdx)
         url = url.slice(0, hashIdx)
       }
       url = url
         .replace(/([?&])lang=[^&]*/g, '$1')
+        .replace(/([?&])gmlang=[^&]*/g, '$1')
         .replace(/\?&+/, '?')
         .replace(/&&+/g, '&')
         .replace(/[?&]$/, '')
       if (!lang) return url + hash
-      var sep = url.indexOf('?') === -1 ? '?' : '&'
-      return url + sep + 'lang=' + lang + hash
+      const sep = url.indexOf('?') === -1 ? '?' : '&'
+      return url + sep + paramName + '=' + lang + hash
     },
 
     stripLangUrl: function (url) {
-      return this.withLang(url, null)
+      let hash = ''
+      const hashIdx = url.indexOf('#')
+      if (hashIdx !== -1) {
+        hash = url.slice(hashIdx)
+        url = url.slice(0, hashIdx)
+      }
+      url = url
+        .replace(/([?&])lang=[^&]*/g, '$1')
+        .replace(/([?&])gmlang=[^&]*/g, '$1')
+        .replace(/\?&+/, '?')
+        .replace(/&&+/g, '&')
+        .replace(/[?&]$/, '')
+      return url + hash
+    },
+
+    applyLangToInternalLinks: function () {
+      try {
+        const info = this.getActiveLangInfo()
+        if (!info) return
+        const links = document.querySelectorAll('a[href]')
+        for (let i = 0; i < links.length; i++) {
+          const a = links[i]
+          const href = a.getAttribute('href')
+          if (!href || href.indexOf('http://') === 0 || href.indexOf('https://') === 0 || href.indexOf('mailto:') === 0 || href.indexOf('javascript:') === 0 || href.indexOf('#') === 0) continue
+          const updated = this.withLang(href)
+          if (updated !== href) a.setAttribute('href', updated)
+        }
+      } catch (e) { /* noop */ }
     },
 
     // Muted "translation missing" marker for entries lacking sv coverage.
     i18nBadgeEl: function (entry) {
       if (!this.isNative()) return null
       if (!entry || !entry._i18n || !entry._i18n.partial) return null
-      var el = document.createElement('span')
+      const el = document.createElement('span')
       el.className = 'i18n-pending'
-      var lang = this.getNativeLang()
-      var dict = lang && window.__i18n ? window.__i18n[lang] : null
+      const lang = this.getNativeLang()
+      const dict = lang && window.__i18n ? window.__i18n[lang] : null
       el.textContent = (dict && dict['badge.pending']) || 'översättning saknas'
       return el
     },
@@ -919,7 +988,7 @@
         chars.push(pool[Math.floor(Math.random() * pool.length)])
       const first = label ? label.charAt(0).toUpperCase() : '·'
       return (
-        '<svg viewBox="0 0 200 160" xmlns="http://www.w3.org/2000/svg">' +
+        '<svg viewBox="0 0 200 160" xmlns="http://www.w3.org/2000/svg" class="notranslate" translate="no">' +
         '<rect width="200" height="160" fill="none"/>' +
         '<text x="100" y="85" text-anchor="middle" dominant-baseline="central" font-size="48" font-family="Cinzel,serif" fill="rgba(153,27,27,0.08)" font-weight="600">' +
         escapeXml(first) +
@@ -1050,11 +1119,144 @@
   if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', function () {
       window.__sharedUtils.Shimmer.loadManifest(function () {}).catch(function () {})
+      window.__sharedUtils.applyLangToInternalLinks()
+      initCommandPalette()
       initPageTransitions()
     })
   } else {
     window.__sharedUtils.Shimmer.loadManifest(function () {}).catch(function () {})
+    window.__sharedUtils.applyLangToInternalLinks()
+    initCommandPalette()
     initPageTransitions()
+  }
+
+  // Global Command Palette (Cmd+K)
+  function initCommandPalette() {
+    if (document.getElementById('wl-cmd-palette')) return
+    const el = document.createElement('div')
+    el.id = 'wl-cmd-palette'
+    el.className = 'wl-cmd-overlay'
+    el.hidden = true
+    el.innerHTML = `
+      <div class="wl-cmd-dialog" role="dialog" aria-modal="true" aria-label="Command Palette">
+        <div class="wl-cmd-header">
+          <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+          <input type="text" id="wl-cmd-input" class="wl-cmd-input" placeholder="Search creatures, stories, artifacts (Cmd+K)..." autocomplete="off" />
+          <kbd class="wl-cmd-kbd">ESC</kbd>
+        </div>
+        <div id="wl-cmd-results" class="wl-cmd-results"></div>
+      </div>
+    `
+    document.body.appendChild(el)
+
+    let searchIndex = null
+    async function loadIndex() {
+      if (searchIndex) return searchIndex
+      try {
+        const res = await fetch('data/sharded/search-index.json')
+        if (res.ok) searchIndex = await res.json()
+      } catch (e) { searchIndex = { creatures: [], stories: [], items: [] } }
+      return searchIndex
+    }
+
+    const input = el.querySelector('#wl-cmd-input')
+    const resultsContainer = el.querySelector('#wl-cmd-results')
+    let selectedIndex = 0
+
+    function open() {
+      el.hidden = false
+      input.value = ''
+      resultsContainer.innerHTML = '<div class="wl-cmd-hint">Type to search 3,700+ mythological entities...</div>'
+      input.focus()
+      loadIndex()
+    }
+
+    function close() {
+      el.hidden = true
+    }
+
+    document.addEventListener('keydown', function (e) {
+      if ((e.metaKey || e.ctrlKey) && e.key.toLowerCase() === 'k') {
+        e.preventDefault()
+        if (el.hidden) open()
+        else close()
+      } else if (e.key === 'Escape' && !el.hidden) {
+        close()
+      }
+    })
+
+    el.addEventListener('click', function (e) {
+      if (e.target === el) close()
+    })
+
+    input.addEventListener('input', async function () {
+      const q = input.value.trim().toLowerCase()
+      if (!q) {
+        resultsContainer.innerHTML = '<div class="wl-cmd-hint">Type to search 3,700+ mythological entities...</div>'
+        return
+      }
+      const idx = await loadIndex()
+      const matches = []
+      const pushMatches = (arr, type) => {
+        if (!arr) return
+        for (let i = 0; i < arr.length && matches.length < 8; i++) {
+          const item = arr[i]
+          const name = (type === 'stories' ? item.title : item.name) || ''
+          if (name.toLowerCase().indexOf(q) !== -1 || (item.country && item.country.toLowerCase().indexOf(q) !== -1)) {
+            matches.push({ item, type, name })
+          }
+        }
+      }
+      pushMatches(idx.creatures, 'creatures')
+      pushMatches(idx.stories, 'stories')
+      pushMatches(idx.items, 'items')
+
+      if (!matches.length) {
+        resultsContainer.innerHTML = '<div class="wl-cmd-hint">No mythology found matching "' + window.__sharedUtils.escapeXml(q) + '"</div>'
+        return
+      }
+
+      selectedIndex = 0
+      resultsContainer.innerHTML = matches.map((m, i) => `
+        <div class="wl-cmd-result-item ${i === 0 ? 'is-selected' : ''}" data-type="${m.type}" data-slug="${window.__sharedUtils.escapeXml(m.item.slug)}">
+          <span class="wl-cmd-type">${m.type.slice(0, -1)}</span>
+          <span class="wl-cmd-name">${window.__sharedUtils.escapeXml(m.name)}</span>
+          ${m.item.country ? `<span class="wl-cmd-country">${window.__sharedUtils.escapeXml(m.item.country)}</span>` : ''}
+        </div>
+      `).join('')
+
+      resultsContainer.querySelectorAll('.wl-cmd-result-item').forEach((node) => {
+        node.addEventListener('click', function () {
+          navigate(node.getAttribute('data-type'), node.getAttribute('data-slug'))
+        })
+      })
+    })
+
+    function navigate(type, slug) {
+      close()
+      let url = 'bestiary.html?creature=' + encodeURIComponent(slug)
+      if (type === 'stories') url = 'stories.html?story=' + encodeURIComponent(slug)
+      else if (type === 'items') url = 'items.html?item=' + encodeURIComponent(slug)
+      window.location.href = window.__sharedUtils.withLang(url)
+    }
+
+    input.addEventListener('keydown', function (e) {
+      const items = resultsContainer.querySelectorAll('.wl-cmd-result-item')
+      if (!items.length) return
+      if (e.key === 'ArrowDown') {
+        e.preventDefault()
+        selectedIndex = (selectedIndex + 1) % items.length
+        items.forEach((it, idx) => it.classList.toggle('is-selected', idx === selectedIndex))
+      } else if (e.key === 'ArrowUp') {
+        e.preventDefault()
+        selectedIndex = (selectedIndex - 1 + items.length) % items.length
+        items.forEach((it, idx) => it.classList.toggle('is-selected', idx === selectedIndex))
+      } else if (e.key === 'Enter') {
+        e.preventDefault()
+        const sel = items[selectedIndex]
+        if (sel) navigate(sel.getAttribute('data-type'), sel.getAttribute('data-slug'))
+      }
+    })
   }
 
   // Smooth cross-browser page transitions
@@ -1070,16 +1272,18 @@
       // Skip links inside story/creature cards — they open overlays
       if (link.closest('.story-card') || link.closest('.bestiary-card')) return
 
-      const href = link.getAttribute('href')
+      const rawHref = link.getAttribute('href')
       if (
-        !href ||
-        href.startsWith('#') ||
-        href.startsWith('mailto:') ||
-        href.startsWith('tel:') ||
-        href.startsWith('http') ||
-        href.startsWith('//')
+        !rawHref ||
+        rawHref.startsWith('#') ||
+        rawHref.startsWith('mailto:') ||
+        rawHref.startsWith('tel:') ||
+        rawHref.startsWith('http') ||
+        rawHref.startsWith('//')
       )
         return
+
+      const href = window.__sharedUtils.withLang(rawHref)
 
       // Same-origin internal link
       e.preventDefault()

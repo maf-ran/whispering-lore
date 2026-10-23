@@ -26,6 +26,9 @@ jobs:
       - name: Run unit tests
         run: npm test
 
+      - name: Validate SEO Prerender & Schema Build
+        run: python3 archive/scripts/seo-build.py /tmp/test-seo-build
+
   e2e:
     runs-on: ubuntu-latest
 
@@ -83,7 +86,7 @@ jobs:
         with:
           node-version: 18
 
-      - name: Run Lighthouse CI (warn-only until baseline is reviewed)
+      - name: Run Lighthouse CI (blocks on a11y/best-practices/seo, warns on perf)
         run: npx @lhci/cli@0.14 autorun --config=.github/lighthouserc.json
 
       - name: Upload Lighthouse results

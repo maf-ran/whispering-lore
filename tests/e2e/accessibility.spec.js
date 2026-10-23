@@ -1,8 +1,8 @@
 /* eslint-env node */
-const { test, expect } = require('@playwright/test');
-const AxeBuilder = require('@axe-core/playwright').default;
+const { test, expect } = require('@playwright/test')
+const AxeBuilder = require('@axe-core/playwright').default
 
-const BASE = 'http://localhost:3000';
+const BASE = 'http://localhost:3000'
 const PAGES = [
   'index.html',
   'about.html',
@@ -14,45 +14,45 @@ const PAGES = [
   'mylore.html',
   'methodology.html',
   '404.html',
-];
+]
 
 // page-key -> array of excluded rule ids (strings). MUST stay empty unless a
 // finding is verified as a false positive; record the reason as a comment on
 // the entry line itself.
-const EXCLUSIONS = {};
+const EXCLUSIONS = {}
 
 const VIEWPORTS = [
   { name: 'desktop', width: 1440, height: 900 },
   { name: 'mobile', width: 320, height: 568 },
-];
+]
 
 // Deterministic readiness signals for pages whose content renders async.
 // Pages absent from this map are fully static and can be scanned directly.
 const SETTLE = {
   'index.html': async (page) => {
     // daily-feature.js fetches datasets then fills both cards
-    await expect(page.locator('#daily-creature .feature-name')).toBeVisible({ timeout: 20000 });
+    await expect(page.locator('#daily-creature .feature-name')).toBeVisible({ timeout: 20000 })
   },
   'world.html': async (page) => {
     // world-viewer.js renders region cards only after dataset load
-    await expect(page.locator('.region-card--loaded').first()).toBeVisible({ timeout: 20000 });
+    await expect(page.locator('.region-card--loaded').first()).toBeVisible({ timeout: 20000 })
   },
   'bestiary.html': async (page) => {
-    await expect(page.locator('#bestiary-grid .card').first()).toBeVisible({ timeout: 20000 });
+    await expect(page.locator('#bestiary-grid .card').first()).toBeVisible({ timeout: 20000 })
   },
   'stories.html': async (page) => {
-    await expect(page.locator('#story-grid .card').first()).toBeVisible({ timeout: 20000 });
+    await expect(page.locator('#story-grid .card').first()).toBeVisible({ timeout: 20000 })
   },
   'items.html': async (page) => {
-    await expect(page.locator('#item-grid .card').first()).toBeVisible({ timeout: 20000 });
+    await expect(page.locator('#item-grid .card').first()).toBeVisible({ timeout: 20000 })
   },
   'quiz.html': async (page) => {
     // quiz.js populates the geography dropdown after geo data loads; the quiz
     // itself only renders after an explicit user click, so this is the only
     // deterministic load-time signal.
-    await expect(page.locator('#quiz-geo option').nth(1)).toBeAttached({ timeout: 20000 });
+    await expect(page.locator('#quiz-geo option').nth(1)).toBeAttached({ timeout: 20000 })
   },
-};
+}
 
 // Wait out entrance animations (css/styles.css) before scanning: axe
 // composites still-fading content over its backdrop estimate and reports
@@ -69,27 +69,27 @@ async function awaitSettled(page) {
       .getAnimations({ subtree: true })
       .filter((anim) => {
         try {
-          return anim.effect.getComputedTiming().iterationCount !== Infinity;
+          return anim.effect.getComputedTiming().iterationCount !== Infinity
         } catch (err) {
-          return false;
+          return false
         }
       })
-      .map((anim) => anim.finished.catch(() => {}));
-    if (finite.length === 0) return undefined;
+      .map((anim) => anim.finished.catch(() => {}))
+    if (finite.length === 0) return undefined
     return Promise.race([
       Promise.all(finite),
       new Promise((resolve) => setTimeout(resolve, 4000)),
-    ]);
-  });
+    ])
+  })
 }
 
 async function scan(page, key) {
-  await awaitSettled(page);
+  await awaitSettled(page)
   const results = await new AxeBuilder({ page })
     .withTags(['wcag2a', 'wcag2aa', 'wcag21a', 'wcag21aa', 'wcag22aa'])
-    .analyze();
-  const excluded = (EXCLUSIONS[key] || []);
-  return results.violations.filter((v) => !excluded.includes(v.id));
+    .analyze()
+  const excluded = (EXCLUSIONS[key] || [])
+  return results.violations.filter((v) => !excluded.includes(v.id))
 }
 
 function assertClean(violations, label) {
@@ -98,20 +98,20 @@ function assertClean(violations, label) {
       const targets = v.nodes
         .slice(0, 3)
         .map((n) => n.target.join(' '))
-        .join(', ');
-      return `${v.id} (${v.impact}): ${v.nodes.length} node(s) [${targets}]`;
+        .join(', ')
+      return `${v.id} (${v.impact}): ${v.nodes.length} node(s) [${targets}]`
     })
-    .join('; ');
-  expect(violations, `${label}: ${summary}`).toHaveLength(0);
+    .join('; ')
+  expect(violations, `${label}: ${summary}`).toHaveLength(0)
 }
 
 test.describe('Accessibility (axe)', () => {
-  test.setTimeout(60_000);
+  test.setTimeout(60_000)
 
   test.beforeEach(async ({ page }) => {
     // Playwright requires hook args to be destructuring patterns and eslint
     // bans empty patterns ({}), so TestInfo is read via test.info() instead.
-    test.skip(test.info().project.name !== 'chromium', 'chromium-only accessibility gate');
+    test.skip(test.info().project.name !== 'chromium', 'chromium-only accessibility gate')
 
     // Hermetic Ko-fi coverage: pages inject the third-party widget script from
     // storage.ko-fi.com on window load, and nothing waits for it, so an
@@ -133,11 +133,11 @@ test.describe('Accessibility (axe)', () => {
             '  }',
             '};',
           ].join('\n'),
-        });
+        })
       } else {
-        route.fulfill({ status: 200, contentType: 'application/javascript', body: '' });
+        route.fulfill({ status: 200, contentType: 'application/javascript', body: '' })
       }
-    });
+    })
 
     // Hermetic Google Translate: the language toggle only loads element.js on
     // click, but if a future change preloads it, an unreachable CDN must not
@@ -155,87 +155,87 @@ test.describe('Accessibility (axe)', () => {
       '    c.appendChild(s);' +
       '  }' +
       '};' +
-      'window.google.translate.TranslateElement.InlineLayout = { SIMPLE: "SIMPLE" };';
+      'window.google.translate.TranslateElement.InlineLayout = { SIMPLE: "SIMPLE" };'
     await page.route('**/translate.google.com/**', (route) =>
       route.fulfill({ status: 200, contentType: 'application/javascript', body: gtStub })
-    );
+    )
     await page.route('**/translate.googleapis.com/**', (route) =>
       route.fulfill({ status: 200, contentType: 'application/javascript', body: '' })
-    );
+    )
     await page.route('**/translate-pa.googleapis.com/**', (route) =>
       route.fulfill({ status: 200, contentType: 'application/javascript', body: '' })
-    );
-  });
+    )
+  })
 
   for (const vp of VIEWPORTS) {
     test.describe(vp.name, () => {
-      test.use({ viewport: { width: vp.width, height: vp.height } });
+      test.use({ viewport: { width: vp.width, height: vp.height } })
 
       for (const p of PAGES) {
         test(`static ${p}`, async ({ page }) => {
-          await page.goto(`${BASE}/${p}`, { waitUntil: 'load', timeout: 20000 });
-          const settle = SETTLE[p];
-          if (settle) await settle(page);
-          assertClean(await scan(page, p), `${p} @${vp.name}`);
-        });
+          await page.goto(`${BASE}/${p}`, { waitUntil: 'load', timeout: 20000 })
+          const settle = SETTLE[p]
+          if (settle) await settle(page)
+          assertClean(await scan(page, p), `${p} @${vp.name}`)
+        })
       }
-    });
+    })
   }
 
   test('ko-fi mock renders scannable fixture', async ({ page }) => {
-    await page.goto(`${BASE}/index.html`, { waitUntil: 'load', timeout: 20000 });
+    await page.goto(`${BASE}/index.html`, { waitUntil: 'load', timeout: 20000 })
     // Injection happens on window load + script onload (async even when
     // mocked), so poll instead of asserting immediately. Visible, not merely
     // attached: axe skips hidden nodes, so visibility is what makes the scoped
     // .kofi-button/.kofitext contrast overrides genuinely exercised by scans.
-    await expect(page.locator('.ko-fi-support .kofitext')).toBeVisible({ timeout: 15000 });
-  });
+    await expect(page.locator('.ko-fi-support .kofitext')).toBeVisible({ timeout: 15000 })
+  })
 
   test('detail overlay: creature (bestiary)', async ({ page }) => {
     await page.goto(`${BASE}/bestiary.html?creature=troll-norway`, {
       waitUntil: 'load',
       timeout: 20000,
-    });
-    await expect(page.locator('#creature-detail')).not.toHaveClass(/is-hidden/, { timeout: 20000 });
-    await expect(page.locator('#detail-content')).not.toHaveClass(/is-hidden/, { timeout: 20000 });
-    await expect(page.locator('#detail-name')).toContainText(/troll/i, { timeout: 20000 });
-    assertClean(await scan(page, 'bestiary-detail'), 'bestiary detail overlay');
-  });
+    })
+    await expect(page.locator('#creature-detail')).not.toHaveClass(/is-hidden/, { timeout: 20000 })
+    await expect(page.locator('#detail-content')).not.toHaveClass(/is-hidden/, { timeout: 20000 })
+    await expect(page.locator('#detail-name')).toContainText(/troll/i, { timeout: 20000 })
+    assertClean(await scan(page, 'bestiary-detail'), 'bestiary detail overlay')
+  })
 
   test('detail overlay: story', async ({ page }) => {
     await page.goto(`${BASE}/stories.html?story=ragnark-the-end-and-rebirth`, {
       waitUntil: 'load',
       timeout: 20000,
-    });
-    await expect(page.locator('#story-detail')).not.toHaveClass(/is-hidden/, { timeout: 20000 });
-    await expect(page.locator('#detail-content')).not.toHaveClass(/is-hidden/, { timeout: 20000 });
-    await expect(page.locator('#detail-title')).toContainText(/ragnark|ragnar/i, { timeout: 20000 });
-    assertClean(await scan(page, 'stories-detail'), 'stories detail overlay');
-  });
+    })
+    await expect(page.locator('#story-detail')).not.toHaveClass(/is-hidden/, { timeout: 20000 })
+    await expect(page.locator('#detail-content')).not.toHaveClass(/is-hidden/, { timeout: 20000 })
+    await expect(page.locator('#detail-title')).toContainText(/ragnark|ragnar/i, { timeout: 20000 })
+    assertClean(await scan(page, 'stories-detail'), 'stories detail overlay')
+  })
 
   test('detail overlay: item', async ({ page }) => {
     await page.goto(`${BASE}/items.html?item=mjolnir`, {
       waitUntil: 'load',
       timeout: 20000,
-    });
-    await expect(page.locator('#item-detail')).not.toHaveClass(/is-hidden/, { timeout: 20000 });
-    await expect(page.locator('#detail-content')).not.toHaveClass(/is-hidden/, { timeout: 20000 });
-    await expect(page.locator('#detail-name')).toContainText(/mjölnir|mjolnir/i, { timeout: 20000 });
+    })
+    await expect(page.locator('#item-detail')).not.toHaveClass(/is-hidden/, { timeout: 20000 })
+    await expect(page.locator('#detail-content')).not.toHaveClass(/is-hidden/, { timeout: 20000 })
+    await expect(page.locator('#detail-name')).toContainText(/mjölnir|mjolnir/i, { timeout: 20000 })
 
-    assertClean(await scan(page, 'items-detail'), 'items detail overlay');
-  });
+    assertClean(await scan(page, 'items-detail'), 'items detail overlay')
+  })
 
   test('search results state', async ({ page }) => {
-    await page.goto(`${BASE}/search.html?q=troll`, { waitUntil: 'load', timeout: 20000 });
-    await expect(page.locator('#search-status')).toContainText(/results? for "troll"/, { timeout: 20000 });
-    assertClean(await scan(page, 'search-results'), 'search results');
-  });
+    await page.goto(`${BASE}/search.html?q=troll`, { waitUntil: 'load', timeout: 20000 })
+    await expect(page.locator('#search-status')).toContainText(/results? for "troll"/, { timeout: 20000 })
+    assertClean(await scan(page, 'search-results'), 'search results')
+  })
 
   test('native swedish mode: bestiary grid + chrome', async ({ page }) => {
-    await page.goto(`${BASE}/bestiary.html?lang=sv`, { waitUntil: 'load', timeout: 20000 });
-    await SETTLE['bestiary.html'](page);
+    await page.goto(`${BASE}/bestiary.html?lang=sv`, { waitUntil: 'load', timeout: 20000 })
+    await SETTLE['bestiary.html'](page)
     // native chrome applied (html lang + localized nav) before scanning
-    await expect(page.locator('nav a[data-i18n="nav.home"]')).toHaveText('HEM', { timeout: 10000 });
-    assertClean(await scan(page, 'bestiary.html'), 'bestiary @native sv');
-  });
-});
+    await expect(page.locator('nav a[data-i18n="nav.home"]')).toHaveText('HEM', { timeout: 10000 })
+    assertClean(await scan(page, 'bestiary.html'), 'bestiary @native sv')
+  })
+})

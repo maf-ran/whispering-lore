@@ -150,7 +150,7 @@
 
   <section class="page-hero">
     <div class="hero-bg"></div>
-    <canvas id="rune-canvas" class="rune-scatter" aria-hidden="true"></canvas>
+    <canvas id="rune-canvas" class="rune-scatter notranslate" translate="no" aria-hidden="true"></canvas>
     <div class="page-hero-content">
       <h1>About</h1>
       <span class="accent-line"></span>
@@ -228,6 +228,72 @@
 
     <span class="crimson-line mt-2"></span>
     <p class="text-small text-center">Made by Mats Olsson &nbsp;·&nbsp; <span class="crimson">mafolsson@tutamail.com</span></p>
+  </section>
+
+  <section class="donate-section" id="donate">
+    <div class="section-heading">
+      <h2>Support This Archive</h2>
+      <span class="accent-line"></span>
+    </div>
+    <div class="support-panel">
+      <p class="donate-text">Whispering Lore is free and ad-free. If it brings you value, your support keeps the archive alive — a coffee, a coin, or a whisper of Monero.</p>
+
+      <div class="support-primary">
+        <div class="ko-fi-support donate-kofi" aria-label="Support Whispering Lore on Ko-fi">
+          <script type='text/javascript'>
+          (function () {
+            function loadKoFi() {
+              if (window.kofiwidget2) {
+                kofiwidget2.init('Buy me a coffee', '#991B1B', 'X7B3253Q7T');
+                var el = document.querySelector('.donate-kofi');
+                if (el && !el.querySelector('.kofi-button')) {
+                  el.insertAdjacentHTML('beforeend', kofiwidget2.getHTML());
+                }
+                return;
+              }
+              var s = document.createElement('script');
+              s.src = 'https://storage.ko-fi.com/cdn/widget/Widget_2.js';
+              s.async = true;
+              s.onload = loadKoFi;
+              document.body.appendChild(s);
+            }
+            if (document.readyState === 'complete') loadKoFi();
+            else window.addEventListener('load', loadKoFi);
+          })();
+          </script>
+        </div>
+        <p class="support-note">Cards · PayPal · one-time or monthly — no account needed.</p>
+      </div>
+
+      <div class="support-divider" role="separator"><span>or donate privately</span></div>
+
+      <div class="support-monero">
+        <div class="donate-qr-wrap">
+          <img src="assets/monero-qr.png" alt="Monero donation QR code" class="donate-qr" width="160" height="160" />
+        </div>
+        <div class="donate-meta">
+          <span class="support-method"><img src="assets/monero-heart.png" alt="" class="donate-logo" aria-hidden="true" />Monero (XMR)</span>
+          <p class="support-note">Private, untraceable crypto. Pay with a wallet that supports OpenAlias.</p>
+          <div class="support-actions">
+            <a class="donate-btn" href="monero:48fFYGMhUbiBvjoGB61bJQ4brmmQqmanKa1Z5rwLFjhxbHSS1yyqZZXMdVqG6pdXWETKi8kWX3T4mfg3xa8MKkFZ62BygAm">Donate XMR</a>
+            <button type="button" class="donate-btn donate-copy" data-address="48fFYGMhUbiBvjoGB61bJQ4brmmQqmanKa1Z5rwLFjhxbHSS1yyqZZXMdVqG6pdXWETKi8kWX3T4mfg3xa8MKkFZ62BygAm">Copy address</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script type='text/javascript'>
+    (function () {
+      var btn = document.querySelector('.donate-copy');
+      if (!btn) return;
+      btn.addEventListener('click', function () {
+        navigator.clipboard.writeText(btn.dataset.address).then(function () {
+          var old = btn.textContent;
+          btn.textContent = 'Copied ✓';
+          setTimeout(function () { btn.textContent = old; }, 1500);
+        });
+      });
+    })();
+    </script>
   </section>
 
   </main>

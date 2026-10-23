@@ -171,7 +171,7 @@ function initGlobe() {
   controls.autoRotateSpeed = 0.8
   controls.enablePan = false
 
-  const nightTex = new THREE.CanvasTexture(generateNightTexture())
+  const nightTex = new THREE.TextureLoader().load('assets/night-texture.webp')
   nightTex.anisotropy = renderer.capabilities.getMaxAnisotropy()
 
   const globeMat = new THREE.MeshPhongMaterial({
@@ -208,6 +208,9 @@ function initGlobe() {
   const backLight = new THREE.DirectionalLight(0x446688, 0.4)
   backLight.position.set(-5, -3, -7)
   scene.add(backLight)
+  // Remove placeholder after globe has initialized
+  const loadingEl = document.getElementById('globe-loading')
+  if (loadingEl) loadingEl.remove()
 
   const starGeo = new THREE.BufferGeometry()
   const starCount = 2000

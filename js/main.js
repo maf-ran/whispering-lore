@@ -410,6 +410,12 @@
     }
 
     await updateLatestAdditions()
+
+    // Performance monitoring
+    if (window.__sharedUtils && window.__sharedUtils.monitorPerformance) {
+      window.__sharedUtils.monitorPerformance()
+    }
+
     const isDetail = window.location.search.indexOf('creature=') !== -1
     if (!isDetail) {
       initScrollReveal()

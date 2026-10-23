@@ -85,7 +85,7 @@
     })
   }
 
-  let loadedPools = {}
+  const loadedPools = {}
 
   // ---------------------------------------------------------------------------
   // Load pool based on current settings

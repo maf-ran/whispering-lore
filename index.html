@@ -107,7 +107,7 @@
   <!-- ── Hero ── -->
   <section class="hero">
     <div class="hero-bg"></div>
-    <canvas id="rune-canvas" class="rune-scatter" aria-hidden="true"></canvas>
+    <canvas id="rune-canvas" class="rune-scatter notranslate" translate="no" aria-hidden="true"></canvas>
 
     <div class="hero-content">
       <h1>Whispering <span class="hero-accent">LORE</span></h1>
@@ -118,9 +118,9 @@
             <a href="stories.html" class="btn-ghost" data-i18n="btn.read_stories">Read Stories</a>
           </div>
           <div class="hero-actions-row">
-            <button class="btn-ghost" id="btn-random-creature" data-i18n="btn.random_creature">Random Creature</button>
-            <button class="btn-ghost" id="btn-random-story" data-i18n="btn.random_story">Random Story</button>
-            <button class="btn-ghost" id="btn-surprise-me" data-i18n="btn.surprise_me">Surprise Me</button>
+            <button class="btn-ghost" id="btn-random-creature" data-i18n="btn.random_creature" aria-label="Generate a random creature">Random Creature</button>
+            <button class="btn-ghost" id="btn-random-story" data-i18n="btn.random_story" aria-label="Generate a random story">Random Story</button>
+            <button class="btn-ghost" id="btn-surprise-me" data-i18n="btn.surprise_me" aria-label="Surprise me with random content">Surprise Me</button>
           </div>
         </div>
       <div class="hero-stats">
@@ -295,7 +295,7 @@
 <script src="js/language-toggle.js" defer></script>
   <script src="js/translate.js" defer></script>
   <script src="js/i18n.js" defer></script>
-<button id="scroll-to-top" class="scroll-to-top" aria-label="Scroll to top">
+<button id="scroll-to-top" class="scroll-to-top" aria-label="Scroll to top" tabindex="0" aria-controls="main-content">
   <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true" focusable="false">
     <path d="M18 15l-6-6-6 6"/>
   </svg>

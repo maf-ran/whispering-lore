@@ -1,5 +1,30 @@
 # Project Todos
 
+## Current Session Updates (Sep 2026)
+- [x] Translation persistence across pages (native & Gemini translation state via `withLang` & `localStorage`).
+- [x] Global Command Palette (Cmd+K / Ctrl+K search modal with instant navigation).
+- [x] Expanded offline shard caching (Service Worker runtime cache increased to 250, search index pre-cached).
+- [x] Light-mode button fix (`.btn-ghost` buttons match crimson red accent in light mode).
+- [x] Stories database metadata review (analyzed 2,185 stories for missing themes/morals & transmission period terms) + Deep Research Plan created (`docs/superpowers/plans/2026-09-19-stories-database-deep-research.md`).
+- [x] Source quality validation test (`tests/source-quality.test.js`) added.
+- [x] Automated CI/CD SEO prerender & schema validation check added to GitHub Actions (`.github/workflows/ci.yml`).
+- [x] Content Expansion: Shipped **Mythology Spotlight Blog (`blog.html`)** with editorial folklore essays, Blog schema markup, Service Worker caching, and sitemap integration.
+- [x] Project report PDF generator (`archive/scripts/generate-report.py`) — regenerates `WHISPERING-LORE-REPORT.pdf` (10 pages, 11 charts) at repo root; pulls live git log + datasets; auto-bootstraps matplotlib+reportlab venv (WL_REPORT_VENV → /tmp/wl-venv → $TMPDIR/wl-report-venv), private MPLCONFIGDIR; re-exec guard compares via "current interpreter can import deps" (naive string == /tmp vs /private/tmp symlink caused infinite cascade). Verified E2E from clean: EXIT=0, 0 stray processes.
+
+## Housekeeping pass Sep 14 (uncommitted)
+- [x] Stale test-results* dirs (23) deleted from working tree
+- [x] probe-*.cjs/py moved to archive/scripts/probes/ (gitignored)
+- [x] README counts fixed (3,700 creatures / 218 countries / 23 suites / 778 jest / ~472 e2e); header + stats table + Zenodo blurb
+- [x] Lighthouse CI blocks on a11y/best-practices/seo (error), perf stays warn (0.85) — single-run perf is noise
+- [x] BUILD.md written — documents shard-data.mjs + 4 index builders + build-deploy.sh + seo-build.py + homepage caches
+- [x] latest.json/daily.json generation now auto-runs inside shard-data.mjs (replicates main.js/daily-feature.js logic exactly; verified daily pick == runtime getDailyIndex). Verified: rebuild changed ONLY the 2 cache files — shards byte-identical
+- [x] VERIFIED green in /tmp/wl-local harness: jest 23 suites / 271 tests, eslint 0 errors
+- [x] NEW DEPLOY CONVENTION: `deploy/whispering_lore-netlify_deploy-<yyyy-mm-dd>.zip` (current: 2026-09-14.zip, 14600 files incl. 3700/2185/641 entity pages + 6536-URL sitemap). build-deploy.sh updated; /tmp path deprecated
+- [x] FIXED LIVE BUG: assets/night-texture.webp (world-globe texture) was untracked → 404 on site. Staged (git add) so deploys include it
+- [x] CLEANED JUNK: .git.corrupt (49M), Lore/, app ideas/ (1.4M), 20x .DS_Store, data/datasets/creatures.json.bak, data/backups/ (12 empty), data/items.staged.json, docs/creature_database_weaklings* (empty), verify-native-dict.js→probes/, gtranslate_implement_plan.md→docs/ (moved, not tracked)
+- [x] UNTRACKED generated deploy files: creature/ (3700) + item/ (641) + sitemap.xml (4342 staged deletions) + gitignored creature/ story/ item/ sitemap.xml (seo-build.py regenerates at deploy). story/ was already untracked
+- [ ] NOTE: uncommitted pre-existing working tree (61 modified + ~14 untracked) predates this session — untouched; staged now: 4342 deletions + assets/night-texture.webp
+
 ## Backlog (Aug 22) — next up
 - [x] Missing-countries content shipped Sep 13 (`1c1879d`): added 32 creatures for 6 country coverage gaps (Isle of Man 6, Micronesia 5, Oman 5, Korea 6, Shetland 4, Polynesia 6) — researched+authored via 6 parallel subagents, authored to `archive/scripts/gap-creatures/<iso3>.json` then merged by `merge-gap-creatures.cjs` (both gitignored). NOTE São Tomé was NOT a gap (Ossobó already exists under ASCII country `Sao Tome and Principe`; accent-strip matching required). All gates: jest 778/778, eslint 0 err, chromium detail-probe 15/15 new creatures render, 0 console errors. Stale-side gotcha: adding creatures requires rebuilding ALL indexers — `shard-data.mjs` (manifest+region+by-slug) AND `build-{creatures,stories,items,search}-index.py` ([search-index, creatures-index, stories-index, items-index].json) — missing the per-type index builders = 9 failed "slug sets match masters" jest tests.
 - [x] ALL PUSHED TO origin/main Sep 13 (29 commits, `20ef8f2..4d6efc9`) + deploy zip REBUILT via `bash archive/scripts/build-deploy.sh` (seo-build.py prerender: sitemap 6536 urls, 14598 files, 102MB → /tmp/whispering-lore-deploy.zip). Remaining is only the stale gitignored stash@{0} (needs manual `git stash drop`).
