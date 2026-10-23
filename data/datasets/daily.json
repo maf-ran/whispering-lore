@@ -1,314 +1,10 @@
 {
   "_meta": {
-    "generated": "2026-10-04",
+    "generated": "2026-10-23",
     "days": 45,
     "note": "precomputed daily picks replicating getDailyIndex(); regenerate when shards change; runtime falls back to full Shimmer scan for dates beyond window"
   },
   "picks": {
-    "2026-10-04": {
-      "creature": {
-        "name": "Fox Nature-Spirit (Tupi)",
-        "type": "spirit",
-        "country": "Madagascar",
-        "summary": "celestial guardian of the atlantic rainforests that shepherds lost souls and protects the sacred seed-banks of the tupi people",
-        "slug": "foxnaturespirittupi-madagascar"
-      },
-      "story": {
-        "title": "La Diablesse at the Crossroads",
-        "country": "Dominica",
-        "region": "Caribbean",
-        "summary": "A beautiful stranger appears at a rural crossroads to lure a young farmer to his doom, but his mother's warnings and an old obeah charm may yet save him.",
-        "slug": "la-diablesse-at-the-crossroads"
-      }
-    },
-    "2026-10-05": {
-      "creature": {
-        "name": "Fox Nature-Spirit of Creek",
-        "type": "nature-spirit",
-        "country": "United States",
-        "summary": "woodland fox spirit from creek tradition that teaches the wisdom of observation and fire through subtle signs in the southeastern forests",
-        "slug": "fox-nature-spirit-of-creek"
-      },
-      "story": {
-        "title": "Mama D'Leau of the River",
-        "country": "Dominica",
-        "region": "Caribbean",
-        "summary": "A water spirit of terrifying beauty guards the rivers of Dominica, punishing those who disrespect the water while rewarding those who approach with reverence.",
-        "slug": "mama-dleau-of-the-river"
-      }
-    },
-    "2026-10-06": {
-      "creature": {
-        "name": "Fox Nature-Spirit of Haida",
-        "type": "nature-spirit",
-        "country": "Canada",
-        "summary": "elusive fox spirit from haida tradition that tests cleverness and mediates between the spirits of the forest and the sea in haida gwaii",
-        "slug": "fox-nature-spirit-of-haida"
-      },
-      "story": {
-        "title": "The Loogaroo and the Obeah Man",
-        "country": "Dominica",
-        "region": "Caribbean",
-        "summary": "When a loogaroo terrorizes a village through a series of unexplained attacks, only the village obeah man has the knowledge and courage to confront it.",
-        "slug": "the-loogaroo-and-the-obeah-man"
-      }
-    },
-    "2026-10-07": {
-      "creature": {
-        "name": "Fox Spirit (Zulu)",
-        "type": "spirit",
-        "country": "South Africa",
-        "summary": "embodiment of nature's duality in zulu tradition, acting as a mediator between the living and the ancestors (amadlozi)",
-        "slug": "foxspiritzulu-southafrica"
-      },
-      "story": {
-        "title": "The Maboyo of the Layou",
-        "country": "Dominica",
-        "region": "Caribbean",
-        "summary": "A colossal serpent spirit guards the deepest pools of the Layou River, and those who offend the waters risk being dragged beneath the surface forever.",
-        "slug": "the-maboyo-of-the-layou"
-      }
-    },
-    "2026-10-08": {
-      "creature": {
-        "name": "Fox Spirit (Zulu)",
-        "type": "spirit",
-        "country": "Mexico",
-        "summary": "embodiment of nature's duality in zulu tradition, acting as a mediator between the living and the ancestors (amadlozi)",
-        "slug": "foxspiritzulu-mexico"
-      },
-      "story": {
-        "title": "The Bakwa of the Morning",
-        "country": "Dominica",
-        "region": "Caribbean",
-        "summary": "The Bakwa, a great serpent of Kalinago legend, brings mist and rain to the island, and its appearance is both a blessing and a warning.",
-        "slug": "the-bakwa-of-the-morning"
-      }
-    },
-    "2026-10-09": {
-      "creature": {
-        "name": "Fox Spirit of Ashanti",
-        "type": "spirit",
-        "country": "Ghana",
-        "summary": "solemn fox spirit from ashanti tradition that serves as a messenger between the living and the ancestors in the sacred groves of ghana",
-        "slug": "fox-spirit-of-ashanti"
-      },
-      "story": {
-        "title": "Mama Glo: Lights of the Lagoon",
-        "country": "Grenada",
-        "region": "Caribbean",
-        "summary": "A fisherman ignores his grandmother's warnings about the lagoon lights and is drawn beneath the water by Mama Glo, learning too late that some waters keep what they claim.",
-        "slug": "mama-glo-lights-of-the-lagoon"
-      }
-    },
-    "2026-10-10": {
-      "creature": {
-        "name": "Fox Spirit of Creek",
-        "type": "spirit",
-        "country": "United States",
-        "summary": "swift fox messenger spirit from creek tradition that carries warnings and announcements between the physical world and the spirit realm",
-        "slug": "fox-spirit-of-creek"
-      },
-      "story": {
-        "title": "Lagahoo: Midnight on the Estuary",
-        "country": "Grenada",
-        "region": "Caribbean",
-        "summary": "A plantation-era overseer who abused his workers is cursed to become the Lagahoo, doomed to shapeshift each night and haunt the very roads he once patrolled.",
-        "slug": "lagahoo-midnight-on-the-estuary"
-      }
-    },
-    "2026-10-11": {
-      "creature": {
-        "name": "Fox Spirit of Maya",
-        "type": "spirit",
-        "country": "Guatemala",
-        "summary": "shape-shifting fox spirit from maya tradition that guards hidden knowledge at cave entrances and crossroads between the living world and xibalba",
-        "slug": "fox-spirit-of-maya"
-      },
-      "story": {
-        "title": "Ligaroo: Silver Teeth of the Mountains",
-        "country": "Grenada",
-        "region": "Caribbean",
-        "summary": "A boy in the high villages above St. George's encounters the Ligaroo, a vampiric shapeshifter who takes the form of someone you trust, and learns that silver and faith are the only weapons.",
-        "slug": "ligaroo-silver-teeth-of-the-mountains"
-      }
-    },
-    "2026-10-12": {
-      "creature": {
-        "name": "Fox Spirit of Muisca",
-        "type": "spirit",
-        "country": "Colombia",
-        "summary": "prophetic fox spirit from muisca tradition that roams the high colombian paramo as a messenger between the sun god sue and the moon goddess chia",
-        "slug": "fox-spirit-of-muisca"
-      },
-      "story": {
-        "title": "Jab Jab: Carnival of Chains",
-        "country": "Grenada",
-        "region": "Caribbean",
-        "summary": "A young masquerader discovers that the Jab Jab who dances through the streets carries the memory of slavery in every clink of its chains, and that freedom is something you must choose to carry.",
-        "slug": "jab-jab-carnival-of-chains"
-      }
-    },
-    "2026-10-13": {
-      "creature": {
-        "name": "Fox Spirit of Zapotec",
-        "type": "spirit",
-        "country": "Mexico",
-        "summary": "The fox spirit from Zapotec tradition, guardian of the underworld and psychopomp between realms",
-        "slug": "fox-spirit-of-zapotec"
-      },
-      "story": {
-        "title": "Papa Bois: Keeper of the Green",
-        "country": "Grenada",
-        "region": "Caribbean",
-        "summary": "When a logging crew begins clearing the old forest above Grand Etang, each man falls mysteriously ill until they meet Papa Bois, the ancient guardian of the bush.",
-        "slug": "papa-bois-keeper-of-the-green"
-      }
-    },
-    "2026-10-14": {
-      "creature": {
-        "name": "Fox Trickster (Mixtec)",
-        "type": "trickster",
-        "country": "Mexico",
-        "summary": "A fox trickster from Mixtec tradition that embodies the lake and teaches through clever deception",
-        "slug": "fox-trickster-mixtec"
-      },
-      "story": {
-        "title": "Dwenn: The Stone That Remembers",
-        "country": "Grenada",
-        "region": "Caribbean",
-        "summary": "A stonemason building a church in the hills above St. David's encounters the Dwenn, a spirit of the land itself, and learns that some stones hold the memory of everything that has ever happened upon them.",
-        "slug": "dwenn-the-stone-that-remembers"
-      }
-    },
-    "2026-10-15": {
-      "creature": {
-        "name": "Fox Trickster of Creek",
-        "type": "trickster",
-        "country": "United States",
-        "summary": "The fox trickster from Creek tradition, guardian of springs and teacher of wisdom through clever tricks",
-        "slug": "fox-trickster-of-creek"
-      },
-      "story": {
-        "title": "The Ghost Who Walked Between Worlds",
-        "country": "East Timor",
-        "region": "Southeast Asian",
-        "summary": "A family discovers their deceased grandfather still lingers at the edge of the village, walking the moonlit path between the living and the dead.",
-        "slug": "the-ghost-who-walked-between-worlds"
-      }
-    },
-    "2026-10-16": {
-      "creature": {
-        "name": "Fox Trickster of Lakota",
-        "type": "trickster",
-        "country": "United States",
-        "summary": "The fox trickster from Lakota tradition, guardian of the hills and subtle teacher of wisdom",
-        "slug": "fox-trickster-of-lakota"
-      },
-      "story": {
-        "title": "The Spirit of the Sacred Cloth",
-        "country": "East Timor",
-        "region": "Southeast Asian",
-        "summary": "A weaver discovers that the spirit Lei inhabits the finest tais cloth, guarding the patterns that carry ancestral memory.",
-        "slug": "the-spirit-of-the-sacred-cloth"
-      }
-    },
-    "2026-10-17": {
-      "creature": {
-        "name": "Fox Trickster of Ojibwe",
-        "type": "trickster",
-        "country": "United States",
-        "summary": "The fox trickster from Ojibwe tradition in Canada, guardian of northern waterways and teacher of winter survival wisdom",
-        "slug": "foxtricksterofojibwe-usa"
-      },
-      "story": {
-        "title": "The Keepers of the Sacred Law",
-        "country": "East Timor",
-        "region": "Southeast Asian",
-        "summary": "The Lulik Spirits, guardians of Timorese sacred law, punish those who break taboos and reward those who uphold the ancient protocols.",
-        "slug": "the-keepers-of-the-sacred-law"
-      }
-    },
-    "2026-10-18": {
-      "creature": {
-        "name": "Fox Trickster of Ojibwe",
-        "type": "trickster",
-        "country": "Canada",
-        "summary": "The fox trickster from Ojibwe tradition in Canada, guardian of northern waterways and teacher of winter survival wisdom",
-        "slug": "foxtricksterofojibwe-canada"
-      },
-      "story": {
-        "title": "The Crocodile Who Formed the Island",
-        "country": "East Timor",
-        "region": "Southeast Asian",
-        "summary": "The great crocodile spirit Lafaek sacrificed himself to create the island of Timor, and his body became the land upon which the people live.",
-        "slug": "the-crocodile-who-formed-the-island"
-      }
-    },
-    "2026-10-19": {
-      "creature": {
-        "name": "Fox Trickster of Zapotec",
-        "type": "trickster",
-        "country": "Mexico",
-        "summary": "The fox trickster from Zapotec tradition, guardian of caves and tester of human cleverness through illusion",
-        "slug": "fox-trickster-of-zapotec"
-      },
-      "story": {
-        "title": "The Whale Who Sang the World Awake",
-        "country": "East Timor",
-        "region": "Southeast Asian",
-        "summary": "Before the island existed, a Great Whale sang a song that called the land up from the deep, and its echo still guides fishermen home.",
-        "slug": "the-whale-who-sang-the-world-awake"
-      }
-    },
-    "2026-10-20": {
-      "creature": {
-        "name": "Frog Guardian (Bhutanese)",
-        "type": "guardian",
-        "country": "Bhutan",
-        "summary": "The frog guardian of Bhutanese tradition, protector of valleys and messenger of nature's wisdom",
-        "slug": "frog-guardian-bhutanese"
-      },
-      "story": {
-        "title": "The Ancestor Who Guarded the Forest",
-        "country": "East Timor",
-        "region": "Southeast Asian",
-        "summary": "Ema, the ancestor-spirit, protects the mountain forests of Timor and punishes those who take more than they need from the land.",
-        "slug": "the-ancestor-who-guarded-the-forest"
-      }
-    },
-    "2026-10-21": {
-      "creature": {
-        "name": "Frost Giant (Tupi)",
-        "type": "giant",
-        "country": "Brazil",
-        "summary": "A frost giant from Tupi folklore representing the cold southern winds that occasionally sweep through Brazilian highlands",
-        "slug": "frost-giant-tupi"
-      },
-      "story": {
-        "title": "The Xan of Mountain Passes",
-        "country": "Azerbaijan",
-        "region": "Caucasus",
-        "summary": "A shepherd encounters a Xan, a restless mountain ghost, and learns why the dead sometimes refuse to leave the high places they loved in life.",
-        "slug": "the-xan-of-mountain-passes"
-      }
-    },
-    "2026-10-22": {
-      "creature": {
-        "name": "Fuath",
-        "type": "spirit",
-        "country": "Scotland",
-        "summary": "Malevolent Scottish water spirit that inhabits lochs and rivers, known for attacking and drowning humans",
-        "slug": "fuath"
-      },
-      "story": {
-        "title": "Shahmaran, Queen of Serpents",
-        "country": "Azerbaijan",
-        "region": "Caucasus",
-        "summary": "A young man discovers Shahmaran, the serpent queen who rules a hidden kingdom beneath the earth, and must choose between the world above and the world below.",
-        "slug": "shahmaran-queen-of-serpents"
-      }
-    },
     "2026-10-23": {
       "creature": {
         "name": "Futakuchi-Onna Variant",
@@ -723,6 +419,310 @@
         "region": "North American",
         "summary": "A beautiful young Passamaquoddy woman was visited each night by a mysterious man who came to her lodge after dark. He was kind and gentle, and she grew to love him, though she had never seen his face clearly. Her parents warned her to discover his identity. One night, she placed ashes near the doorway. When the man left, his footprints showed the marks of an owl's claws. The next night, she hid and watched, and saw her husband transform into a great horned owl and fly away. Heartbroken but determined, she followed him into the forest. The owl tried to keep her as his wife in his tree-home, but she longed for her human family. Finally, the owl released her, but she was never the same — she had seen the spirit world and could not fully return to human life. The story teaches that love between different kinds of beings cannot overcome the fundamental boundaries of nature.",
         "slug": "the-owl-husband-passamaquoddy"
+      }
+    },
+    "2026-11-18": {
+      "creature": {
+        "name": "Trickster Scorpion",
+        "type": "trickster",
+        "country": "Mauritania",
+        "summary": "A clever trickster scorpion from Mauritanian folklore that uses cunning and negotiation to survive encounters with humans and desert spirits",
+        "slug": "trickster-scorpion"
+      },
+      "story": {
+        "title": "Kanati and Selu: The Origin of Game and Corn (Cherokee)",
+        "country": "United States",
+        "region": "North American",
+        "summary": "Kanati (The Lucky Hunter) and Selu (Corn) were the first Cherokee man and woman. Kanati would hunt by moving a rock at the entrance of a cave, releasing an animal and killing it. Their son befriended a Wild Boy born from the blood of slaughtered game. The boys secretly followed Kanati and discovered the cave; they opened it, allowing all animals to escape, which is why humans must hunt for food today. Selu would produce corn by rubbing her stomach, and beans by rubbing her sides. When the boys discovered her secret, Selu knew she would die. She instructed them to drag her body seven times around a cleared circle, then seven times inside it, and corn would grow by morning. The boys did not complete the ritual properly, which is why corn only grows in certain places. The story establishes the Cherokee relationship with hunting, agriculture, and the origin of food scarcity.",
+        "slug": "kanati-and-selu-the-origin-of-game-and-corn-cherokee"
+      }
+    },
+    "2026-11-19": {
+      "creature": {
+        "name": "Tannit (Neith-Atheme)",
+        "type": "deity",
+        "country": "Libya",
+        "summary": "The supreme Libyan Triple Goddess of Berber mythology, precursor to Neith, Tanit, and Athena, goddess of war, wisdom, and fertility",
+        "slug": "tannit-libyan-goddess"
+      },
+      "story": {
+        "title": "The Creation of Earth and the Great Buzzard (Cherokee)",
+        "country": "United States",
+        "region": "North American",
+        "summary": "In the beginning, all was water, and animals lived in the sky world above the stone vault. The water beetle Dâyuni'sï volunteered to explore below and brought up soft mud from the ocean floor, which grew into the earth. The earth was initially soft and flat. The Great Buzzard flew down to survey the land, and his wings striking the ground created the mountains and valleys of Cherokee territory. When the animals saw what the Buzzard had done, they feared he would make the earth too rough, so they called him back, leaving the Cherokee mountains steep and the valleys deep. The sun was set on a track to travel across the sky each day. This foundational myth explains the geography of the Southern Appalachian region and establishes the Cherokee cosmic order.",
+        "slug": "the-creation-of-earth-and-the-great-buzzard-cherokee"
+      }
+    },
+    "2026-11-20": {
+      "creature": {
+        "name": "Tabudo",
+        "type": "water-spirit",
+        "country": "El Salvador",
+        "summary": "Water spirit of Lake Coatepeque who transforms disrespectful men into goldfish and women into mermaids",
+        "slug": "tabudo"
+      },
+      "story": {
+        "title": "Uktena: The Horned Serpent (Cherokee)",
+        "country": "United States",
+        "region": "North American",
+        "summary": "Uktena is a massive horned serpent covered in shining scales, with a single blazing crystal in its forehead that grants supernatural vision. The first Uktena was once a man who attempted to kill the sun. He failed and was transformed into the monstrous serpent as punishment. Uktena dwells in deep rivers, lakes, and under mountains. Its gaze alone can paralyze or kill. Only the bravest medicine men and heroes dare to hunt Uktena, seeking the Ulûñsû'tî, the diamond-like crystal from its forehead, which grants great power to whoever possesses it. The most famous story involves a hunter who stalked an Uktena to its lair and, after a great battle, retrieved the crystal. The stone brought power but also danger, and was eventually hidden away in a sacred place.",
+        "slug": "uktena-the-horned-serpent-cherokee"
+      }
+    },
+    "2026-11-21": {
+      "creature": {
+        "name": "Tokwai (Wood Sprites)",
+        "type": "spirit",
+        "country": "Papua New Guinea",
+        "summary": "Wood sprites of the Trobriand Islands who bless or kidnap humans and traditionally protect giant forest trees",
+        "slug": "tokwai"
+      },
+      "story": {
+        "title": "The Nunnehi: Cherokee Spirit People (Cherokee)",
+        "country": "United States",
+        "region": "North American",
+        "summary": "The Nunnehi, meaning 'The Travelers' or 'Those Who Live Anywhere,' are a race of invisible spirit people who dwell in the mountains and forests of Cherokee country. They are friendly toward humans and often appear as regal Cherokee warriors. The Nunnehi are said to be great dancers and musicians; travelers sometimes hear their singing and drumming coming from inside hollow mountains. They have saved Cherokee war parties from defeat by magically enlarging their numbers or by confusing enemy forces. The Nunnehi are known to invite favored humans into their underground dwellings, where time passes differently — a visitor may spend what seems like a single night only to return home and find that years have passed. They are generally benevolent but withdraw from contact if treated with disrespect.",
+        "slug": "the-nunnehi-cherokee-spirit-people-cherokee"
+      }
+    },
+    "2026-11-22": {
+      "creature": {
+        "name": "Tamate (Dancing Spirits)",
+        "type": "spirit",
+        "country": "Solomon Islands",
+        "summary": "Mysterious half-divine dancing spirits from Vanikoro, Solomon Islands, who taught sacred ritual dances to humans",
+        "slug": "tamate"
+      },
+      "story": {
+        "title": "Yunwi Tsunsdi: The Little People (Cherokee)",
+        "country": "United States",
+        "region": "North American",
+        "summary": "Yunwi Tsunsdi are the Cherokee Little People — small, child-sized nature spirits who live in caves, under rocks, and in the dense forest. They are usually invisible but sometimes reveal themselves to humans they trust. They possess powerful magic and are said to have taught medicine to certain shamans. The Little People can be helpful to those who respect them, leading lost hunters to safety or granting blessings. However, they are easily angered by disrespect and punish those who bother them excessively with confusion or misfortune. They are known to borrow tools from villagers, always returning them with small gifts of thanks. The Yunwi Tsunsdi are not to be spoken of lightly; those who encounter them rarely discuss the experience directly.",
+        "slug": "yunwi-tsunsdi-the-little-people-cherokee"
+      }
+    },
+    "2026-11-23": {
+      "creature": {
+        "name": "Toula (Gorou Gondi)",
+        "type": "spirit",
+        "country": "Niger",
+        "summary": "Water snake spirit (Gorou Gondi) from Songhay-Zarma mythology of Niger, inhabiting ponds and tributaries of the Niger River",
+        "slug": "toula"
+      },
+      "story": {
+        "title": "Spearfinger (U'tlun'ta): The Stone Witch (Cherokee)",
+        "country": "United States",
+        "region": "North American",
+        "summary": "Spearfinger, also known as Nûñ'yunu'ï or 'Stone-dress,' is a fearsome Cherokee monster and witch who lives along the eastern side of Tennessee and western North Carolina. She has a long, sharp forefinger on her right hand like a spear or obsidian knife, which she uses to cut open her victims. She wears a dress made of stone that makes her nearly invulnerable. Spearfinger feeds on human livers, especially those of children. Her mouth is perpetually stained with blood. She can mimic the voices of loved ones to lure victims close. According to legend, she was eventually defeated by a group of Cherokee warriors who discovered that her only vulnerable spot was a small point on her palm. They shot arrows into her palm, and she fell from the mountain where she lived.",
+        "slug": "spearfinger-utlunta-the-stone-witch-cherokee"
+      }
+    },
+    "2026-11-24": {
+      "creature": {
+        "name": "La Tulivieja",
+        "type": "spirit",
+        "country": "Panama",
+        "summary": "Panama's most famous legendary spirit, a once-beautiful woman transformed into a monstrous creature for drowning her baby",
+        "slug": "tulivieja"
+      },
+      "story": {
+        "title": "Raven Mocker (Kâ'lanû Ahkyeli'skï) (Cherokee)",
+        "country": "United States",
+        "region": "North American",
+        "summary": "Kâ'lanû Ahkyeli'skï, the Raven Mocker, is a malevolent Cherokee spirit that preys on the dying. These witches are said to be ordinary-looking people during the day who transform at night into raven-like spirits. They gather around the home of a dying person and torment them, stealing their remaining years of life for themselves. The Raven Mocker flies with a sound like rushing wind and can only be seen by medicine men. After a person dies, the Raven Mockers eat the heart of the victim. The only defense against a Raven Mocker is a medicine man who knows the proper rituals to drive them away. Raven Mockers are visible only to medicine men, who can identify them even in their human form by their sleepless, bloodshot eyes and their habit of appearing exhausted from their nighttime flights.",
+        "slug": "raven-mocker-klan-ahkyelisk-cherokee"
+      }
+    },
+    "2026-11-25": {
+      "creature": {
+        "name": "Tantal",
+        "type": "shapeshifter",
+        "country": "Iraq",
+        "summary": "A shape-shifting creature from the Iraqi marshlands that protects buried treasures, preys on travelers, and possesses the gift of prophecy",
+        "slug": "tantal"
+      },
+      "story": {
+        "title": "The Thunder Beings (Aniyvdaqualosgi) (Cherokee)",
+        "country": "United States",
+        "region": "North American",
+        "summary": "The Cherokee believe in the Thunder Beings, known as Aniyvdaqualosgi or Ani-Yuntikwalaski. The Great Thunder and his two sons, the Thunder Boys, live in the land of the west above the sky vault. They dress in lightning and rainbows. Unlike many tribes where thunder spirits take bird form, Cherokee Thunderers are human in form — powerful and dangerous but generally friendly to humans. The priests pray to the Thunder beings for rain and blessings. Some lesser thunder beings live closer to the Earth's surface in cliffs, mountains, and waterfalls, and these are more mischievous, sometimes causing harm. Thunder is said to be the sound of the Great Thunder's wings or his voice rolling across the sky. Lightning is the fire from his eyes.",
+        "slug": "the-thunder-beings-aniyvdaqualosgi-cherokee"
+      }
+    },
+    "2026-11-26": {
+      "creature": {
+        "name": "Tislit n'Anzar",
+        "type": "goddess",
+        "country": "Tunisia",
+        "summary": "Bride of the rain god from Tunisian Amazigh folklore, central to ancient rain-calling rituals still practiced during droughts in rural Tunisia",
+        "slug": "tislit-n-anzar"
+      },
+      "story": {
+        "title": "Grandmother Spider Steals the Fire (Cherokee)",
+        "country": "United States",
+        "region": "North American",
+        "summary": "In the beginning, the only fire belonged to the Thunders in the sky world. The animals held a council to decide who would bring fire to the people. Many brave animals volunteered but failed: Raven tried to carry an ember but his feathers turned black; Screech Owl's eyes were burned red; Hooting Owl's eyes were singed white. Finally, the tiny Water Spider, Dilsdohdi, volunteered. She spun a bowl-shaped web, placed it on her back, and crossed the water to the sky world. She placed a small ember in her web-basket and carried it safely back across the water to the people. This is why the Water Spider has black downy hair with red stripes — the smoke and fire marked her. Fire became the sacred gift that transformed human life.",
+        "slug": "grandmother-spider-steals-the-fire-cherokee"
+      }
+    },
+    "2026-11-27": {
+      "creature": {
+        "name": "Teryel",
+        "type": "ogre",
+        "country": "Algeria",
+        "summary": "The man-eating ogress of Kabyle (Algerian Amazigh) mythology, a wild female monster who rejects domesticity and represents untamed feminine power",
+        "slug": "teryel"
+      },
+      "story": {
+        "title": "The Origin of Disease and Medicine (Cherokee)",
+        "country": "United States",
+        "region": "North American",
+        "summary": "Long ago, all plants, animals, and humans lived together in harmony, and animals were larger and stronger. As the human population grew, they began killing animals without respect. The animals held councils to decide how to protect themselves. The Deer council decreed that any hunter who killed a deer without asking forgiveness would develop rheumatism. The Birds, Insects, and smaller animals created diseases to afflict humans. But the Plants heard of the animals' plans. Since plants had always been friends with humans, they vowed that for every disease the animals created, they would provide a cure. This is why every plant has medicinal purpose, and why medicine men must learn from the spirits of plants which herbs to use. The story establishes the Cherokee understanding of balance between humans, animals, and plants.",
+        "slug": "the-origin-of-disease-and-medicine-cherokee"
+      }
+    },
+    "2026-11-28": {
+      "creature": {
+        "name": "Tin Hinan",
+        "type": "ancestor-spirit",
+        "country": "Algeria",
+        "summary": "Legendary ancestral queen of the Tuareg people who led her people across the Sahara to settle the Hoggar Mountains of southern Algeria",
+        "slug": "tin-hinan"
+      },
+      "story": {
+        "title": "Stone Coat (Nûñ'yunu'ï): The Rock Giants (Cherokee)",
+        "country": "United States",
+        "region": "North American",
+        "summary": "Stone Coat, also called Nûñ'yunu'ï, is a race of giant beings covered in stone-like skin that makes them nearly invulnerable. They dwell in the remote mountains and caves of Cherokee territory. These rock giants are cannibalistic and prey upon humans who venture too far into their domain. They are incredibly strong, capable of throwing boulders and tearing down trees. Stone Coat is also associated with Spearfinger, who wears a stone dress. The giants' only weakness is their vulnerability to certain spiritual practices. Cherokee medicine men knew rituals to confuse or drive away Stone Coats. The legend may have been inspired by encounters with the fossilized remains of prehistoric megafauna in the Appalachian region, and it serves as a warning against venturing into dangerous, unknown territory.",
+        "slug": "stone-coat-nyunu-the-rock-giants-cherokee"
+      }
+    },
+    "2026-11-29": {
+      "creature": {
+        "name": "Toyol",
+        "type": "spirit",
+        "country": "Singapore",
+        "summary": "Child-sized supernatural thief from Malay-Singapore folklore, created through black magic to steal valuables",
+        "slug": "toyol"
+      },
+      "story": {
+        "title": "Tlanuwa: The Giant Raptor (Cherokee)",
+        "country": "United States",
+        "region": "North American",
+        "summary": "Tlanuwa is a giant mythological bird of prey with feathers made of impenetrable metal. This massive raptor could carry off humans and even small deer in its talons. Its feathers were said to be sharp as knives and could be launched as projectiles. The Tlanuwa lived in the highest mountain peaks and remote cliffs. In Cherokee legend, the Tlanuwa sometimes battled the Uktena serpent, their ancient enemy. The birds were also known to fight against humans who invaded their territory. The Tlanuwa appears in stories from many Southeastern tribes including the Creek and Natchez, suggesting it was a widespread figure in the regional mythology. Some accounts describe it as a benevolent protector spirit of the Cherokee people.",
+        "slug": "tlanuwa-the-giant-raptor-cherokee"
+      }
+    },
+    "2026-11-30": {
+      "creature": {
+        "name": "Tornak",
+        "type": "spirit",
+        "country": "Greenland",
+        "summary": "A shamanic helping spirit that assists the angakut in spiritual and physical tasks",
+        "slug": "tornak-greenland"
+      },
+      "story": {
+        "title": "The First Strawberries (Cherokee)",
+        "country": "United States",
+        "region": "North American",
+        "summary": "The first man and the first woman quarreled, and the woman left their home in anger. The man, sad and remorseful, tried to bring her back. The Sun, taking pity on the man, created huckleberries along the path to tempt the woman to stop, but she paid them no mind. Next the Sun created blackberries, but she ignored them too. Finally, the Sun created strawberries — the first ever. When the woman saw the ripe, red berries, she stopped to taste one. The sweetness reminded her of happier times, and she began to gather them. As she looked back down the path, she saw her husband approaching, and she forgave him. They reconciled and returned home together. This Cherokee story explains the origin of strawberries and teaches the power of sweetness and forgiveness in mending relationships.",
+        "slug": "the-first-strawberries-cherokee"
+      }
+    },
+    "2026-12-01": {
+      "creature": {
+        "name": "Vinmara",
+        "type": "spirit",
+        "country": "Vanuatu",
+        "summary": "Sky maiden from Vanuatu mythology who married Qat and later returned to the sky world",
+        "slug": "vinmara-vanuatu"
+      },
+      "story": {
+        "title": "The Dragon of Lopburi",
+        "country": "Thailand",
+        "region": "Thai",
+        "summary": "In the ancient city of Lopburi, there lived a powerful dragon beneath the great temple.",
+        "slug": "the-dragon-of-lopburi"
+      }
+    },
+    "2026-12-02": {
+      "creature": {
+        "name": "Vasuki (King of Serpents)",
+        "type": "serpent",
+        "country": "India",
+        "summary": "King of the serpent beings (nagas) in Hindu mythology who served as the rope during the churning of the Ocean of Milk",
+        "slug": "vasuki-hindu"
+      },
+      "story": {
+        "title": "Anansi and the Pot of Wisdom",
+        "country": "Ghana",
+        "region": "West Africa",
+        "summary": "Anansi tricks humans into giving him all the world's wisdom—but discovers it cannot be kept.",
+        "slug": "anansi-and-the-pot-of-wisdom"
+      }
+    },
+    "2026-12-03": {
+      "creature": {
+        "name": "Vampire",
+        "type": "vampire",
+        "country": "Unknown",
+        "summary": "Undead beings that subsist by feeding on the life essence of the living, often characterized by immortality and charm",
+        "slug": "vampire"
+      },
+      "story": {
+        "title": "The Tortoise and the Hare",
+        "country": "Egypt",
+        "region": "African",
+        "summary": "In the sun-baked valleys where the dusty trails wound between olive groves and dry riverbeds, the animals of the district had gathered for their usual morning disputes.",
+        "slug": "the-tortoise-and-the-hare"
+      }
+    },
+    "2026-12-04": {
+      "creature": {
+        "name": "Vindrå",
+        "type": "spirit",
+        "country": "Sweden",
+        "summary": "Vindrå is a wind spirit from Swedish folklore, an invisible being that rides the wind and can be heard howling during storms and gales.",
+        "slug": "vindra"
+      },
+      "story": {
+        "title": "Aladdin and the Magic Lamp",
+        "country": "Saudi Arabia",
+        "region": "Middle Eastern",
+        "summary": "In a far city of China, though the tale itself comes from the sands of Arabia, there lived a poor tailor named Mustapha and his wife, who had one son.",
+        "slug": "aladdin-and-the-magic-lamp"
+      }
+    },
+    "2026-12-05": {
+      "creature": {
+        "name": "Obariyon",
+        "type": "monster",
+        "country": "Japan",
+        "summary": "Japanese 'furutsubaki-no-rei' or 'oil-licking monster'",
+        "slug": "obariyon"
+      },
+      "story": {
+        "title": "Ali Baba and the Forty Thieves",
+        "country": "Saudi Arabia",
+        "region": "Middle Eastern",
+        "summary": "In a town in Persia, there once lived two brothers.. The elder, Cassim, married a wealthy woman and became the richest merchant in the marketplace.",
+        "slug": "ali-baba-and-the-forty-thieves"
+      }
+    },
+    "2026-12-06": {
+      "creature": {
+        "name": "Obayifo",
+        "type": "ogre",
+        "country": "Ghana",
+        "summary": "A witch or vampire-like being that can shapeshift, fly, and suck blood from people at night",
+        "slug": "obayifo"
+      },
+      "story": {
+        "title": "Scheherazade",
+        "country": "Saudi Arabia",
+        "region": "Middle Eastern",
+        "summary": "The chronicles of the Sassanian kings tell of a monarch named Shahryar, who ruled an empire stretching from India to China.",
+        "slug": "scheherazade"
       }
     }
   }

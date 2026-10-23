@@ -2576,7 +2576,7 @@
     "region": "North American",
     "type": "supernatural",
     "summary": "One of the most powerful variants of the La Llorona legend connects her directly to La Malinche, the Nahua woman who served as Hernán Cortés's interpreter, advisor, and mother of his son. In this telling, Malinche—cursed by her people for betraying the Aztec Empire—became La Llorona, condemned to wander forever weeping for her mestizo children. This version transforms the ghost story into a foundational myth of Mexican identity, embodying the trauma of conquest, the pain of cultural hybridity, and the complex legacy of the first Mexican mother. Chicana feminists like Gloria Anzaldúa and Sandra Cisneros have reclaimed this figure as a symbol of resistance, survival, and the power of the marginalized feminine voice.",
-    "source": "Anzaldúa, Gloria 'Borderlands/La Frontera' (1987)",
+    "source": "https://en.wikipedia.org/wiki/La_Llorona; Anzaldúa, Gloria 'Borderlands/La Frontera' (1987)",
     "creatures": [
       "la-llorona-the-weeping-woman",
       "la-malinche"
@@ -2584,7 +2584,7 @@
     "source_quality": "fair",
     "slug": "la-llorona-as-la-malinches-curse",
     "version": "1.0.0",
-    "lastUpdated": "2026-10-04",
+    "lastUpdated": "2026-08-07",
     "period": "ancient",
     "source_type": "oral_tradition",
     "full_text": "One of the most powerful variants of the La Llorona legend connects her directly to La Malinche — the Nahua woman who served as Hernán Cortés's interpreter, advisor, and mother of his son. In the colonial period, this connection transformed the ghost story into a foundational myth of Mexican identity, embodying the trauma of conquest, the pain of cultural hybridity, and the complex legacy of the first Mexican mother.\n\nMalinche — born Malintzin, also known as Doña Marina — was sold into slavery as a child and given to Cortés as a translator. She was brilliant, speaking both Nahuatl and Maya, and she learned Spanish with such speed that she became indispensable to the conquistador. She translated his words, interpreted his intentions, warned him of traps, and bore him a son — Martín Cortés, the first notable mestizo.\n\nBut her people did not forgive her. To the Nahua, she was a traitor — the woman who helped the strangers destroy the Aztec Empire. To the Spanish, she was a convenience — useful until she was no longer useful, then discarded. She died young, possibly poisoned, and her son grew up in Spain, never knowing the land of his mother's birth.\n\nIn the legend, Malinche — cursed by her people for betraying the Aztec Empire — became La Llorona, condemned to wander forever weeping for her mestizo children. She walks the rivers of Mexico, calling out in Nahuatl and Spanish, her voice carrying the weight of five hundred years of colonization, hybridity, and loss. She weeps for the children she bore between two worlds, children who belong fully to neither.\n\nThis version of the story transforms La Llorona from a cautionary tale into a mirror of Mexican identity itself. Every Mexican is, in some sense, a child of Malinche — the product of a collision between indigenous and European worlds, carrying the DNA of both the conquered and the conqueror. La Llorona's weeping is not just grief for drowned children; it is grief for a world that was destroyed, a language that was suppressed, a people who were scattered.\n\nChicana feminists like Gloria Anzaldúa and Sandra Cisneros have reclaimed this figure as a symbol of resistance, survival, and the power of the marginalized feminine voice. La Llorona is no longer just a monster to frighten children; she is a mother who speaks for those who were silenced, a ghost who refuses to be forgotten, a woman whose grief has become a country.",
@@ -5130,7 +5130,7 @@
   {
     "id": "story1720",
     "title": "The Legend of the Desert Veil",
-    "country": "Algeria",
+    "country": "Algeria, Mali, Niger",
     "continent": "Africa",
     "region": "African",
     "type": "legend",
@@ -5144,7 +5144,7 @@
     "source_quality": "good",
     "slug": "the-legend-of-the-desert-veil",
     "version": "1.0.0",
-    "lastUpdated": "2026-10-04",
+    "lastUpdated": "2026-08-07",
     "period": "ancient",
     "source_type": "oral_tradition",
     "full_text": "The Tuareg are known as the \"Blue People\" because of the indigo-dyed tagelmust — the veil that the men wear wrapped around their heads and faces.\n\nAccording to Tuareg tradition, the veil has its origin in a sacred covenant. When the Tuareg emerged as a people, they were given a choice: veil your faces and honor the mystery of the divine, or show your faces and live in the light of the sun.\n\nThe Tuareg chose the veil. They wrapped their faces in indigo cloth, leaving only their eyes visible. The indigo dye stained their skin blue — a mark of their covenant with the divine.\n\nThe veil is not a symbol of shame or submission. It is a mark of respect — for the spirits, for the ancestors, for the mystery of existence. A Tuareg man who shows his face in public is considered rude, even offensive.\n\nThe Tuareg say that the veil protects the wearer from the evil eye, from jealous spirits, and from the harsh desert sun. It also serves a practical purpose: in the Sahara, the veil keeps out sand, dust, and insects.\n\nThe \"Blue People\" are a reminder that identity is not merely biological. It is cultural, spiritual, and chosen. The Tuareg chose to be blue, and they have been blue for over a thousand years.",
@@ -5154,12 +5154,7 @@
       "legend",
       "african"
     ],
-    "moral": "Respect for cultural heritage, natural boundaries, and ancestral wisdom.",
-    "countries": [
-      "Algeria",
-      "Mali",
-      "Niger"
-    ]
+    "moral": "Respect for cultural heritage, natural boundaries, and ancestral wisdom."
   },
   {
     "id": "story1722",
