@@ -1,5 +1,10 @@
 # Project Todos
 
+## Pending release (Oct 2026)
+- [ ] **Push `audit-a11y-fixes`** — 4 commits built and verified locally (f61cd61 data, 4557efa i18n fix, ae77333 docs, b11956b feature). `git push -u origin audit-a11y-fixes` failed: no git credentials in the agent shell. Then confirm CI green on a clean runner.
+- [ ] Deploy `deploy/whispering_lore-netlify_deploy-2026-10-23.zip` and verify live: sitemap without `blog.html`, `/about.html` QR renders, language menu survives with `translate.google.com` blocked.
+- [ ] Add Netlify platform rate-limit rule for `/.netlify/functions/translate` (Origin allowlist is deterrence, not a quota guard).
+
 ## Current Session Updates (Sep 2026)
 - [x] Translation persistence across pages (native & Gemini translation state via `withLang` & `localStorage`).
 - [x] Global Command Palette (Cmd+K / Ctrl+K search modal with instant navigation).
