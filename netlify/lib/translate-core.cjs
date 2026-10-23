@@ -11,17 +11,6 @@
 //   { "source": "en", "target": "fr", "strings": ["Hello", "World"] }
 // Response: { "translations": ["Bonjour", "Monde"] }  (aligned 1:1 with input)
 
-// Netlify reads this at deploy time; rate limits for functions are not
-// configurable in netlify.toml.
-exports.config = {
-  path: '/.netlify/functions/translate',
-  rateLimit: {
-    windowLimit: 60,
-    windowSize: 60,
-    aggregateBy: ['ip', 'domain']
-  }
-}
-
 const SUPPORTED = /^[a-z]{2}(-[A-Z]{2})?$/ // matches menu language codes (zh-CN etc.)
 const MAX_STRINGS = 30
 const MAX_TOTAL_CHARS = 8000

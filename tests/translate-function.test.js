@@ -1,5 +1,5 @@
 /* eslint-env node */
-const { handler } = require('../netlify/functions/translate')
+const { handler } = require('../netlify/lib/translate-core.cjs')
 
 function call(overrides) {
   return handler({
