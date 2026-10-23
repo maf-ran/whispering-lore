@@ -1,6 +1,6 @@
 # Whispering Lore
 
-> A folklore archive: 3,668 creatures, 2,185 stories, 641 legendary items from 212 countries.
+> A folklore archive: 3,730 creatures, 2,185 stories, 641 legendary items from 218 countries.
 
 **Design system:** see [DESIGN.md](DESIGN.md) — Bone & Ash palette, typography, components, theming rules.
 
@@ -19,13 +19,13 @@ npm ci
 npm run lint
 npm run format
  
-# Run unit tests (175 tests, 14 suites)
+# Run unit tests (281 tests, 25 suites)
 npm test
 
 # Run cross-device E2E tests (80 tests, 8 viewports)
 npx playwright test tests/e2e/cross-device-audit.spec.js --project=chromium
 
-# Run full E2E suite (462 tests, chromium — includes the axe accessibility gate)
+# Run full E2E suite (~472 tests, chromium — includes the axe accessibility gate)
 npx playwright test --project=chromium
 ```
 
@@ -44,7 +44,7 @@ npx playwright test --project=chromium
 - **Examination**: 1,071 quiz questions across 6 difficulty levels with 10 randomised variants.
 - **World Map**: Three.js globe with country-level creature and story counts.
 - **Cross-Reference Integrity**: 35,457 bidirectional links audited with 0 broken refs.
-- **Research Pipeline**: All 3,668 creatures and 2,185 stories classified by source_type and source_quality. Stage 3+ coverage: 99.0% (of classified shard data).
+- **Research Pipeline**: All 3,730 creatures and 2,185 stories classified by source_type and source_quality. Stage 3+ coverage: 99.0% (of classified shard data).
 
 ## Run the site locally
 
@@ -62,13 +62,12 @@ For Playwright e2e runs, use a threaded server instead (the single-threaded
 |-----------|---------|
 | `*.html` | Static pages (index, bestiary, stories, items, search, world, about, mylore, quiz, methodology, 404) |
 | `css/styles.css` | Dark Nordic theme (Bone & Ash palette) |
-| `js/` | Vanilla JavaScript — 17 modules (see below) |
-| `data/datasets/` | Creature (3,668) and story (2,185) JSON datasets |
-| `data/datasets/by-region/` | Region-split creature JSONs (32 regions, stale — superseded by sharded/) |
+| `js/` | Vanilla JavaScript — 20 modules (see below) |
+| `data/datasets/` | Creature (3,730) and story (2,185) JSON datasets |
 | `data/sharded/` | Shimmer shard system — manifest + region-based shards |
 | `data/geo-countries.json` | 242 country geodata for world map |
 | `docs/` | Project documentation |
-| `tests/` | Jest unit tests (175 tests, 14 suites) + Playwright E2E (10 spec files, incl. axe accessibility gate) |
+| `tests/` | Jest unit tests (285 tests, 26 suites) + Playwright E2E (10 spec files, incl. axe accessibility gate) |
 | `sw.js` | Service worker for offline caching |
 
 ### JavaScript modules (`js/`)
@@ -97,14 +96,14 @@ For Playwright e2e runs, use a threaded server instead (the single-threaded
 
 | Metric | Count | Stage 3+ |
 |--------|-------|----------|
-| Creatures | 3,668 | 100% (3,684 upgrade records across 43 batches) |
+| Creatures | 3,730 | 100% (3,684 upgrade records across 43 batches) |
 | Stories | 2,185 | 97.1% (1,669 at Stage 3+; 50 fair/good — oral tradition limit) |
 | Artifacts | 641 | 100% (items.json + sharded for the artifacts viewer) |
-| Countries | 212 | — |
+| Countries | 218 | — |
 | Cross-refs | 35,457 | 0 broken |
 | Quiz questions | 1,071 | 10 variants each, 6 difficulty levels |
 
-**Zenodo DOI**: [`10.5281/zenodo.21941501`](https://doi.org/10.5281/zenodo.21941501) (v1.3.0 — 3,668 creatures, 2,185 stories, 641 artifacts)
+**Zenodo DOI**: [`10.5281/zenodo.21941501`](https://doi.org/10.5281/zenodo.21941501) (v1.3.0 — 3,700 creatures, 2,185 stories, 641 artifacts)
 
 ## Testing
 
@@ -114,7 +113,7 @@ For Playwright e2e runs, use a threaded server instead (the single-threaded
 npm test
 ```
 
-14 suites: creatures viewer, stories viewer, quiz engine, daily feature, shared utils, globe, citations, region glyphs, viewer base, theme toggle, items data, items viewer, shimmer, viewer narration (TTS). **175/175 pass.**
+26 suites: creatures viewer, stories viewer, quiz engine, daily feature, shared utils, globe, citations, region glyphs, viewer base, theme toggle, items data, items viewer, shimmer, viewer narration (TTS), i18n dict/badge/native-lang/language-toggle/translate, quiz pool/fix, items/stories/search/creatures index, sitemap, secret-scan, geo-validation, normalize-type. **285/285 pass.**
 
 ### Cross-device E2E (Playwright)
 
@@ -130,12 +129,12 @@ npx playwright test tests/e2e/cross-device-audit.spec.js --project=chromium
 npx playwright test --project=chromium
 ```
 
-**462/462 pass** (~7 min). Covers navigation, skip links, filter dropdowns, detail overlays, quiz flows, world globe, hero stats, rune canvas, daily feature, items viewer, inline-SVG iconography, the `/search` page, and a zero-violation axe accessibility gate (10 pages × 2 viewports + detail overlays + search state, Ko-fi widget mocked hermetically).
+**~472/472 pass** (~7 min). Covers navigation, skip links, filter dropdowns, detail overlays, quiz flows, world globe, hero stats, rune canvas, daily feature, items viewer, inline-SVG iconography, the `/search` page, and a zero-violation axe accessibility gate (10 pages × 2 viewports + detail overlays + search state, Ko-fi widget mocked hermetically).
 
 ## Notes
  
 - No build step required — the site is pure static HTML/CSS/JS.
-- The service worker (`sw.js`) pre-caches 30+ core assets for offline use after first visit, skips `/data/` (handled by the Shimmer cache), trims the runtime cache to 80 entries, and falls back to `404.html` for failed navigations.
+- The service worker (`sw.js`) pre-caches 30+ core assets for offline use after first visit, skips `/data/` (handled by the Shimmer cache), trims the runtime cache to 250 entries, and falls back to `404.html` for failed navigations.
 - Data is loaded via the shimmer shard system (`data/sharded/`), with XHR fallback to `data/datasets/*.json` when shimmer is unavailable.
 - All creature and story entries have unique, URL-friendly slugs for direct linking.
 - Sort By (A-Z, Newest) available on both bestiary and stories pages.

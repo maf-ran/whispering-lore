@@ -14,6 +14,7 @@ mkdir -p "$STAGE" "$ROOT/deploy"
 git ls-files \
   | grep -vE '^(\.github/|\.opencode/|tests/|docs/|archive/|skills/|marketing/|\.claude/)' \
   | grep -vE '(^|/)(eslint|jest|playwright|babel)[^/]*\.(js|cjs|json)$|(^|/)package(-lock)?\.json$' \
+  | grep -vE '(^|/)todos\.md$|\.pdf$|(^|/)session-.*\.md$' \
   > "$LIST"
 rsync -a --files-from="$LIST" . "$STAGE/"
 python3 archive/scripts/seo-build.py "$STAGE" | tail -5
