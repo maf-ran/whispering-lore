@@ -3194,7 +3194,13 @@
     "archetype": "forest-spirit",
     "element": "fire",
     "aliases": [
-      "ninki nanka"
+      "ninki nanka",
+      "Ninkinanka",
+      "Landouman",
+      "Niniganné",
+      "Ninger",
+      "Ningiri",
+      "Rianséou"
     ],
     "related": [
       "trickster-ghana",
@@ -12379,6 +12385,211 @@
     "version": "1.0.0",
     "lastUpdated": "2026-10-23",
     "living_tradition": true,
+    "source_type": "literary",
+    "attested": true
+  },
+  {
+    "id": "njayekoi-001",
+    "slug": "njayekoi",
+    "name": "Njayekoi",
+    "country": "Sierra Leone",
+    "region": "West Africa",
+    "culture": "Mende",
+    "type": "spirit",
+    "mythology": "Mende",
+    "archetype": "masked-healing-spirit",
+    "element": "spirit",
+    "aliases": [
+      "Njokoi"
+    ],
+    "related": [
+      "gbeni-gbini",
+      "sowei",
+      "krifi"
+    ],
+    "description": "Njayekoi (also Njokoi) is the masked spirit of the Njayei society among the Mende of southern Sierra Leone. Njayei is a cult association with its own spiritual power (halei) used to diagnose various kinds of ritual pollution and to purify those who have incurred it; its sacred house is daubed with white, red and black spots, and its sculptures are typically a male and female pair. Njayekoi's mask is the society's spirit mask, and its form varies from place to place.",
+    "appearance": "A regionally variable mask worn by the Njayei society; associated with the spotted sacred house.",
+    "behavior": "Diagnoses and purifies ritual pollution (including forms of mental derangement/illness) through Njayei rites; appears as a masked spirit.",
+    "habitat": "Mende country, southern Sierra Leone; Njayei sacred house and ritual grounds.",
+    "habitat_tags": [
+      "village",
+      "forest",
+      "wilderness"
+    ],
+    "behavior_tags": [
+      "ceremonial",
+      "heal",
+      "purify"
+    ],
+    "strengths": [
+      "diagnosis of ritual pollution",
+      "purification"
+    ],
+    "weaknesses": [],
+    "cultural_significance": "Njayekoi is the masked spirit of the Njayei society, central to healing and purification rites.",
+    "summary": "Mende masked spirit of the Njayei society who diagnoses and purifies ritual pollution.",
+    "fun_fact": "The Njayei sacred house is distinguished by walls daubed with white, red and black spots, earning it the name 'society of spots'.",
+    "fun_fact_generated": false,
+    "keywords": [
+      "njayekoi",
+      "njokoi",
+      "mende",
+      "sierra leone",
+      "njayei",
+      "mask"
+    ],
+    "search_terms": [
+      "njayekoi njayei mende mask spirit sierra leone"
+    ],
+    "tags": [
+      "mende",
+      "sierra-leone",
+      "spirit",
+      "west-africa"
+    ],
+    "schema_org_type": "MythicalCreature",
+    "seo_title": "Njayekoi – Mende Masked Spirit of the Njayei Society",
+    "seo_description": "Njayekoi, the masked spirit of the Njayei society of the Mende, who diagnoses and purifies ritual pollution.",
+    "motifs": [],
+    "featured_in_stories": [],
+    "source": "Sierra Leone Heritage, 'Njayekoi', https://sierraleoneheritage.org/glossary/njayekoi; A.J. Gittins, Mende Religion (Nettetal: Steyler, 1987), 145–147; W.A. Hart, 'Sculptures of the Njayei Society among the Mende of Sierra Leone', African Arts 26, no. 3 (1993): 46–53, doi:10.2307/3337151",
+    "source_quality": "academic",
+    "stories": [],
+    "version": "1.0.0",
+    "lastUpdated": "2026-10-23",
+    "living_tradition": true,
+    "source_type": "literary",
+    "attested": true
+  },
+  {
+    "id": "nindu-001",
+    "slug": "nindu",
+    "name": "Nindu",
+    "country": "Guinea-Bissau",
+    "region": "West Africa",
+    "culture": "Bijago (Añaki)",
+    "type": "deity",
+    "mythology": "Bijago",
+    "archetype": "creator-god",
+    "element": "sky",
+    "aliases": [],
+    "related": [
+      "kanogo"
+    ],
+    "description": "Nindu is the creator sky god of the Añaki, the Bijago of Canhabaque in Guinea-Bissau. He is a distant god who is not invoked directly; the cult is addressed to intermediate powers called arebuko (sing. orebuko). Nindu gave the arebuko to humans. These powers take the form of natural or manufactured objects, some with proper names and others known only by a common noun.",
+    "appearance": "No fixed form; a distant sky god.",
+    "behavior": "Creator of the arebuko; receives no direct cult, only through the arebuko.",
+    "habitat": "The sky; Canhabaque Island, Bijago archipelago, Guinea-Bissau.",
+    "habitat_tags": [
+      "sky",
+      "coast"
+    ],
+    "behavior_tags": [
+      "creative"
+    ],
+    "strengths": [
+      "creator of the arebuko"
+    ],
+    "weaknesses": [],
+    "cultural_significance": "Nindu is the distant creator of the Bijago, approached through the arebuko powers.",
+    "summary": "Distant creator sky god of the Bijago who gave the arebuko powers to humans.",
+    "fun_fact": "The Bijago do not invoke Nindu directly; their cult is addressed to the arebuko intermediate powers.",
+    "fun_fact_generated": false,
+    "keywords": [
+      "nindu",
+      "bijago",
+      "guinea-bissau",
+      "creator god",
+      "arebuko"
+    ],
+    "search_terms": [
+      "nindu bijago arebuko creator god guinea-bissau"
+    ],
+    "tags": [
+      "bijago",
+      "guinea-bissau",
+      "deity",
+      "west-africa"
+    ],
+    "schema_org_type": "MythicalCreature",
+    "seo_title": "Nindu – Bijago Creator Sky God",
+    "seo_description": "Nindu, the distant creator sky god of the Bijago of Guinea-Bissau, who gave the arebuko powers to humans.",
+    "motifs": [],
+    "featured_in_stories": [],
+    "source": "Christine Henry, 'Les arebuko des Bijogo (Guinée-Bissau): Culte de possession, objets de puissance', Systèmes de pensée en Afrique noire 12 (1993): 39–64, doi:10.4000/span.1319",
+    "source_quality": "academic",
+    "stories": [],
+    "version": "1.0.0",
+    "lastUpdated": "2026-10-23",
+    "living_tradition": true,
+    "source_type": "literary",
+    "attested": true
+  },
+  {
+    "id": "ngil-001",
+    "slug": "ngil",
+    "name": "Ngil",
+    "country": "Gabon",
+    "region": "Central Africa",
+    "culture": "Fang",
+    "type": "spirit",
+    "mythology": "Fang",
+    "archetype": "judicial-mask-spirit",
+    "element": "spirit",
+    "aliases": [
+      "Ngil mask"
+    ],
+    "related": [
+      "mukudj",
+      "mbulu-ngulu"
+    ],
+    "description": "Ngil is the terrifying spirit embodied in the mask of the Ngil secret society of the Fang in Gabon. The society's name means 'gorilla', and the mask's elongated face, broad forehead, curved eyebrows and jutting mouth may reference a gorilla. The mask was whitened with kaolin, a colour the Fang associate with ancestral spirits, death and male virility. Ngil members were judicial authorities; the mask's intimidating presence helped resolve conflicts and identify sorcery. The French colonial administration banned Ngil societies in 1910, and use of the mask declined.",
+    "appearance": "An elongated whitened face with a broad forehead, curved eyebrows and jutting mouth, worn with a full costume.",
+    "behavior": "Judicial authority; resolves conflict; identifies sorcery; appears at nighttime ceremonies.",
+    "habitat": "Fang country, Gabon; nighttime ceremonies and initiations.",
+    "habitat_tags": [
+      "forest",
+      "village"
+    ],
+    "behavior_tags": [
+      "ceremonial",
+      "authority"
+    ],
+    "strengths": [
+      "judicial authority"
+    ],
+    "weaknesses": [],
+    "cultural_significance": "Ngil was the judicial mask of the Fang Ngil society, banned by French colonial administration in 1910.",
+    "summary": "Fang gorilla-like judicial mask spirit whitened with kaolin.",
+    "fun_fact": "The French colonial administration banned Ngil societies in 1910.",
+    "fun_fact_generated": false,
+    "keywords": [
+      "ngil",
+      "fang",
+      "gabon",
+      "mask",
+      "judicial"
+    ],
+    "search_terms": [
+      "ngil fang mask society gabon judicial"
+    ],
+    "tags": [
+      "fang",
+      "gabon",
+      "spirit",
+      "central-africa"
+    ],
+    "schema_org_type": "MythicalCreature",
+    "seo_title": "Ngil – Fang Judicial Mask Spirit",
+    "seo_description": "Ngil, the terrifying gorilla-like judicial mask spirit of the Fang Ngil society in Gabon, banned by French colonial authorities in 1910.",
+    "motifs": [],
+    "featured_in_stories": [],
+    "source": "Denver Art Museum, 'Ngil Mask', https://www.denverartmuseum.org/en/object/1942.443; Kreeger Museum, 'Face Mask (Ngil)', https://www.kreegermuseum.org/about-us/collection/african-collection/Fang-artist_Face-Mask-Ngil",
+    "source_quality": "documented",
+    "stories": [],
+    "version": "1.0.0",
+    "lastUpdated": "2026-10-23",
+    "living_tradition": false,
     "source_type": "literary",
     "attested": true
   }

@@ -44,11 +44,11 @@
     }
   },
   "creatures": {
-    "total": 3745,
+    "total": 3760,
     "regions": {
       "North America": 942,
       "Nordic": 315,
-      "West Africa": 229,
+      "West Africa": 238,
       "Southeast Asia": 216,
       "South America": 200,
       "Pacific": 185,
@@ -64,8 +64,8 @@
       "East Asia and Pacific": 90,
       "Mediterranean": 90,
       "North Africa": 59,
+      "Central Africa": 56,
       "Germanic": 52,
-      "Central Africa": 50,
       "Africa": 43,
       "Celtic": 36,
       "Sami": 29,
@@ -213,6 +213,7 @@
       "Cape Verde": 6,
       "Azerbaijan": 6,
       "Saint Lucia": 6,
+      "Gabon": 6,
       "Czech Republic": 6,
       "Dominica": 6,
       "Grenada": 6,
@@ -223,6 +224,7 @@
       "Wales": 6,
       "South Sudan": 6,
       "Eritrea": 6,
+      "Equatorial Guinea": 6,
       "Isle of Man": 6,
       "Korea": 6,
       "Polynesia": 6,
@@ -235,6 +237,7 @@
       "Jordan": 5,
       "Angola": 5,
       "United Arab Emirates": 5,
+      "Guinea-Bissau": 5,
       "Saint Kitts and Nevis": 5,
       "Venezuela": 5,
       "Slovakia": 5,
@@ -248,6 +251,7 @@
       "Rwanda": 5,
       "Chad": 5,
       "Bosnia and Herzegovina": 5,
+      "Sierra Leone": 5,
       "Micronesia": 5,
       "Oman": 5,
       "Hungary": 4,
@@ -276,17 +280,15 @@
       "Malta": 3,
       "Yemen": 3,
       "Antigua and Barbuda": 3,
-      "Guinea-Bissau": 3,
-      "Gabon": 3,
+      "Liberia": 3,
       "Costa Rica": 3,
       "Honduras": 3,
       "Israel": 3,
       "Croatia": 3,
       "Djibouti": 3,
-      "Equatorial Guinea": 3,
       "Guyana": 3,
+      "Guinea": 3,
       "Kiribati": 3,
-      "Liberia": 2,
       "Slovenia": 2,
       "North Macedonia": 2,
       "French Polynesia": 2,
@@ -300,9 +302,7 @@
       "Andorra": 1,
       "Sao Tome and Principe": 1,
       "Kosovo": 1,
-      "Guinea": 1,
       "Liechtenstein": 1,
-      "Sierra Leone": 1,
       "Europe": 1
     },
     "tribes": {
@@ -349,18 +349,18 @@
       "Wabanaki": 1
     },
     "types": {
-      "Spirit": 806,
-      "Deity": 363,
-      "Nature-spirit": 201,
+      "Spirit": 810,
+      "Deity": 368,
+      "Nature-spirit": 202,
       "Ghost": 181,
-      "Water-spirit": 180,
+      "Water-spirit": 181,
       "Trickster": 148,
-      "Guardian": 142,
+      "Guardian": 143,
       "Animal-spirit": 127,
       "Giant": 125,
       "Monster": 120,
       "Demon": 109,
-      "Ancestor-spirit": 103,
+      "Ancestor-spirit": 106,
       "Serpent": 93,
       "Shapeshifter": 80,
       "Hero": 75,
@@ -940,7 +940,9 @@
         "baghalate-qbur",
         "besi",
         "badi",
-        "bouchkara"
+        "bouchkara",
+        "banda",
+        "bisila"
       ],
       "c": [
         "the-chureca",
@@ -1757,7 +1759,9 @@
         "gewi",
         "grizzly-bear-woman-nuxalk",
         "glashtyn",
-        "gwisin"
+        "gwisin",
+        "gbeni-gbini",
+        "gle"
       ],
       "h": [
         "haetae-southkorea",
@@ -2223,7 +2227,9 @@
         "khanyapa",
         "korean-tiger",
         "koropokkuru-japan",
-        "kujur"
+        "kujur",
+        "krifi",
+        "kanogo"
       ],
       "l": [
         "la-cegua",
@@ -2675,7 +2681,9 @@
         "mahkontowe",
         "moon-rabbit",
         "mokele-mbembe-central-african-republic",
-        "moo-hawaii"
+        "moo-hawaii",
+        "mukudj",
+        "mbulu-ngulu"
       ],
       "n": [
         "nag-drang",
@@ -2838,7 +2846,10 @@
         "nishi-bengal",
         "nafanua-samoa",
         "nokken-norway",
-        "nuba-sara-creator-god"
+        "nuba-sara-creator-god",
+        "njayekoi",
+        "nindu",
+        "ngil"
       ],
       "o": [
         "obariyon",
@@ -2936,7 +2947,8 @@
         "olorun",
         "one-eyed-cave-jinn",
         "oya-nigeria",
-        "olgoi-khorkhoi-mongolia"
+        "olgoi-khorkhoi-mongolia",
+        "ommua-tao"
       ],
       "p": [
         "p-ban-or-phibaan",
@@ -3237,7 +3249,8 @@
         "rice-spirit",
         "raven-nang-kilslas-haida",
         "raven-kwakwaka-wakw",
-        "rata"
+        "rata",
+        "rupe"
       ],
       "s": [
         "saint-chart-or-saint-chartres",
@@ -3578,7 +3591,9 @@
         "samjoko",
         "sidi-mimoun",
         "sidi-hamou",
-        "sidi-musa"
+        "sidi-musa",
+        "sowei",
+        "somtup"
       ],
       "t": [
         "tagaloa",
@@ -4461,6 +4476,7 @@
       "bakwa",
       "bakwas",
       "bama-dat",
+      "banda",
       "bannick-canada",
       "bannick-usa",
       "bannik-moist",
@@ -4583,6 +4599,7 @@
       "big-water-creature-navajo",
       "bila-aboriginal",
       "billy-lyons",
+      "bisila",
       "biskinik",
       "bison-ancestor-spirit-of-kwakiutl",
       "bison-animal-spirit-of-aztec",
@@ -5454,6 +5471,7 @@
       "gaunab-khoikhoi",
       "gazar-bichig",
       "gbahali",
+      "gbeni-gbini",
       "geb-egyptian",
       "gesar-tibetan",
       "geser-khan-mongol",
@@ -5483,6 +5501,7 @@
       "gizo-hausa",
       "glaistig",
       "glashtyn",
+      "gle",
       "glooscap",
       "gloson",
       "gluskabe",
@@ -5846,6 +5865,7 @@
       "kanati-cherokee",
       "kandu-fureytha-maldivian",
       "kane-hawaiian",
+      "kanogo",
       "kappa",
       "kapre",
       "kapua-tiki",
@@ -5961,6 +5981,7 @@
       "krampus-croatia",
       "krasue",
       "kratt",
+      "krifi",
       "krishna",
       "krsnik",
       "ksapela-lakota",
@@ -6286,6 +6307,7 @@
       "mbidi-kiluwe-luba",
       "mbona-rain-prophet",
       "mborev",
+      "mbulu-ngulu",
       "mbwiri",
       "meandash-sami",
       "mechanical-bird-denmark",
@@ -6435,6 +6457,7 @@
       "mujna",
       "mukasa-ganda",
       "muki",
+      "mukudj",
       "muladi",
       "mulan",
       "muldjewangk-aboriginal",
@@ -6527,6 +6550,7 @@
       "ngai",
       "ngai-kikuyu",
       "ngalyod-aboriginal",
+      "ngil",
       "ngirngemelas",
       "ngua",
       "ngueak-lao",
@@ -6545,6 +6569,7 @@
       "nile-water-spirits-egyptian",
       "nimba",
       "nina",
+      "nindu",
       "ninki-nanka",
       "nis-puk",
       "nishi-bengal",
@@ -6558,6 +6583,7 @@
       "nix-germany",
       "nix-switzerland",
       "nixe",
+      "njayekoi",
       "njuggle",
       "nkadi-kongo",
       "nkk-estonia",
@@ -6646,6 +6672,7 @@
       "olodumare-yoruba",
       "olokun",
       "olorun",
+      "ommua-tao",
       "onatah-corn-spirit",
       "ond",
       "one-eyed-cave-jinn",
@@ -6992,6 +7019,7 @@
       "rounce",
       "rounces",
       "rumpelstiltskin",
+      "rupe",
       "rusalka-czechrepublic",
       "rusalka-russia",
       "rusalka-ukraine",
@@ -7237,6 +7265,7 @@
       "somalia-desert-jinn",
       "somalia-dhegdheer",
       "somalia-qori-ismaris",
+      "somtup",
       "son-tinh",
       "son-tinh-vietnamese",
       "sonangi",
@@ -7257,6 +7286,7 @@
       "southsudan-abuk",
       "southsudan-biton",
       "southsudan-garang",
+      "sowei",
       "spearfinger-cherokee",
       "specter",
       "sphinx",

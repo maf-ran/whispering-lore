@@ -22040,5 +22040,142 @@
     "living_tradition": true,
     "source_type": "oral_tradition",
     "attested": true
+  },
+  {
+    "id": "mukudj-001",
+    "slug": "mukudj",
+    "name": "Mukudj",
+    "country": "Gabon",
+    "region": "Central Africa",
+    "culture": "Punu/Ogooué",
+    "type": "ancestor-spirit",
+    "mythology": "Punu",
+    "archetype": "ancestral-mask-spirit",
+    "element": "earth",
+    "aliases": [
+      "Okuyi",
+      "Mukudj mask"
+    ],
+    "related": [
+      "ngil",
+      "mbulu-ngulu"
+    ],
+    "description": "Mukudj (also okuyi) is the white-faced mask and stilt dance of the Punu and related Ogooué River peoples of southern Gabon. The masks are said to embody the personas of past community elders and were worn by costumed stilt dancers at Mukuji society funerary rites. The creator of a mukudj mask tried to capture the likeness of the most beautiful woman in his community, then transformed her into a transcendent being by applying kaolin from riverbeds, a material associated with healing and the ancestral realm. The mask has a three-part black coiffure, arching brows over slit eyes, and pursed red lips.",
+    "appearance": "White kaolin face with three-part black coiffure, arching brows, slit eyes and pursed red lips.",
+    "behavior": "Performed by male stilt dancers at Mukuji funerary rites; embodies past elders and idealised womanhood.",
+    "habitat": "Ngounié River region and southern Gabon; Punu and related Ogooué River communities.",
+    "habitat_tags": [
+      "river",
+      "forest"
+    ],
+    "behavior_tags": [
+      "ceremonial",
+      "dance"
+    ],
+    "strengths": [
+      "funerary rites"
+    ],
+    "weaknesses": [],
+    "cultural_significance": "Mukudj masks embody past community elders at Punu funerary rites.",
+    "summary": "White kaolin Punu stilt mask embodying past elders at funerary rites.",
+    "fun_fact": "Mukudj masks are said to have been created by transforming the likeness of the most beautiful woman in the community.",
+    "fun_fact_generated": false,
+    "keywords": [
+      "mukudj",
+      "okuyi",
+      "punu",
+      "gabon",
+      "mask",
+      "stilt dance"
+    ],
+    "search_terms": [
+      "mukudj okuyi punu mask stilt dance gabon"
+    ],
+    "tags": [
+      "punu",
+      "gabon",
+      "ancestor-spirit",
+      "central-africa"
+    ],
+    "schema_org_type": "MythicalCreature",
+    "seo_title": "Mukudj – Punu White-Faced Stilt Mask",
+    "seo_description": "Mukudj (okuyi), the white kaolin mask and stilt dance of the Punu people of Gabon, embodying past community elders.",
+    "motifs": [],
+    "featured_in_stories": [],
+    "source": "Museum of Fine Arts, Boston, 'Punu Mask (Okuyi)', https://collections.mfa.org/objects/4748; Metropolitan Museum of Art, 'Mukudj (mask)', https://www.metmuseum.org/art/collection/search/318667",
+    "source_quality": "documented",
+    "stories": [],
+    "version": "1.0.0",
+    "lastUpdated": "2026-10-23",
+    "living_tradition": true,
+    "source_type": "literary",
+    "attested": true
+  },
+  {
+    "id": "mbulu-ngulu-001",
+    "slug": "mbulu-ngulu",
+    "name": "Mbulu Ngulu",
+    "country": "Gabon",
+    "region": "Central Africa",
+    "culture": "Kota",
+    "type": "guardian",
+    "mythology": "Kota",
+    "archetype": "reliquary-guardian",
+    "element": "earth",
+    "aliases": [
+      "Mbulu Ngulu reliquary",
+      "Kota reliquary guardian"
+    ],
+    "related": [
+      "ngil",
+      "mukudj"
+    ],
+    "description": "Mbulu ngulu are Kota reliquary guardian figures that ornamented baskets holding the relics of ancestors. A group of three—male, senior female and junior female—represented ideal ancestors whose relics were held in a basket below. The faces would have glimmered inside a dimly lit room; the lower half of the diamond-shaped support was placed inside the reliquary basket, not exposed as in museum displays. Kota communities moved every few years when the soil no longer guaranteed abundant crops, and the reliquary baskets helped families maintain a memorial to their dead when they moved. After conversion to Christianity from 1900, reliquaries were no longer kept and the figures were abandoned or destroyed, often under missionary pressure.",
+    "appearance": "Wood covered with sheets/strips of brass and copper, convex face, semicircular hair, small spool earrings; diamond-shaped support fits into the reliquary basket.",
+    "behavior": "Guards ancestral relics; represents ideal ancestors; serves as a memorial for mobile families.",
+    "habitat": "Kota country, Gabon; reliquary baskets.",
+    "habitat_tags": [
+      "forest"
+    ],
+    "behavior_tags": [
+      "protect"
+    ],
+    "strengths": [
+      "ancestral guardianship"
+    ],
+    "weaknesses": [],
+    "cultural_significance": "Mbulu ngulu guard Kota ancestral relics in mobile reliquary baskets.",
+    "summary": "Kota copper/brass-covered reliquary guardian figures.",
+    "fun_fact": "Kota reliquaries were often a group of three figures (male, senior female, junior female).",
+    "fun_fact_generated": false,
+    "keywords": [
+      "mbulu ngulu",
+      "kota",
+      "gabon",
+      "reliquary",
+      "guardian"
+    ],
+    "search_terms": [
+      "mbulu ngulu kota reliquary guardian gabon"
+    ],
+    "tags": [
+      "kota",
+      "gabon",
+      "guardian",
+      "central-africa"
+    ],
+    "schema_org_type": "MythicalCreature",
+    "seo_title": "Mbulu Ngulu – Kota Reliquary Guardian Figures",
+    "seo_description": "Mbulu ngulu, the copper and brass-covered Kota reliquary figures that guard ancestral relics.",
+    "motifs": [],
+    "featured_in_stories": [],
+    "source": "Museum of Fine Arts, Boston, 'Reliquary Figure (Mbulu Ngulu)', https://collections.mfa.org/objects/23992",
+    "source_quality": "documented",
+    "stories": [],
+    "version": "1.0.0",
+    "lastUpdated": "2026-10-23",
+    "living_tradition": false,
+    "source_type": "literary",
+    "attested": true
   }
 ]
