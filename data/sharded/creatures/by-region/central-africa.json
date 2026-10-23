@@ -3713,5 +3713,228 @@
     "living_tradition": true,
     "source_type": "oral_tradition",
     "attested": true
+  },
+  {
+    "id": "besi-001",
+    "slug": "besi",
+    "name": "Besi",
+    "country": "Chad",
+    "region": "Central Africa",
+    "culture": "Sara",
+    "type": "nature-spirit",
+    "mythology": "Sara",
+    "archetype": "place-spirit",
+    "element": "earth",
+    "aliases": [
+      "Besi",
+      "Besigi"
+    ],
+    "related": [
+      "badi"
+    ],
+    "description": "A besi is a spirit immanent in, symbolized by, and named after a natural object, especially a tree, or a social activity such as initiation. The plural, besigi, interfere in people lives by bringing misfortune; some are not powerful, while others can influence entire clans or villages. A besi is owned by a religious specialist who sacrifices on its behalf, and illness is diagnosed by divination to identify the attacking spirit.",
+    "appearance": "Immanent in natural objects, especially trees; no separate anthropomorphic form.",
+    "behavior": "Brings misfortune, intervenes in individual and clan life, and receives sacrifices.",
+    "habitat": "Trees, natural objects, initiation grounds and villages",
+    "habitat_tags": [
+      "tree",
+      "village",
+      "wilderness"
+    ],
+    "behavior_tags": [
+      "dangerous",
+      "vengeful",
+      "ceremonial"
+    ],
+    "strengths": [
+      "influence over clans and villages",
+      "causing misfortune"
+    ],
+    "weaknesses": [
+      "bound to a natural object",
+      "owned and placated by a specialist"
+    ],
+    "cultural_significance": "The besigi are the everyday spirits of Sara religion, consulted and sacrificed to whenever misfortune strikes.",
+    "summary": "Sara spirits immanent in trees, natural objects and initiation.",
+    "fun_fact": "A besi is named after the tree or object it inhabits, and sacrificed to by its human owner.",
+    "fun_fact_generated": false,
+    "keywords": [
+      "besi",
+      "besigi",
+      "sara",
+      "chad",
+      "tree spirit",
+      "initiation"
+    ],
+    "search_terms": [
+      "besi sara spirit chad",
+      "besigi tree spirits sara"
+    ],
+    "tags": [
+      "sara",
+      "chad",
+      "nature-spirit",
+      "central-africa"
+    ],
+    "schema_org_type": "MythicalCreature",
+    "seo_title": "Besi – Sara Spirits of Trees and Initiation",
+    "seo_description": "The besi, Sara spirits of Chad immanent in trees and natural objects, owned by specialists who sacrifice to them.",
+    "motifs": [],
+    "featured_in_stories": [],
+    "source": "\"Sara: Religion and Expressive Culture,\" Encyclopedia of World Cultures. https://www.everyculture.com/Africa-Middle-East/Sara-Religion-and-Expressive-Culture.html",
+    "source_quality": "documented",
+    "stories": [],
+    "version": "1.0.0",
+    "lastUpdated": "2026-10-23",
+    "living_tradition": true,
+    "source_type": "literary",
+    "attested": true
+  },
+  {
+    "id": "badi-001",
+    "slug": "badi",
+    "name": "Badi",
+    "country": "Chad",
+    "region": "Central Africa",
+    "culture": "Sara",
+    "type": "ancestor-spirit",
+    "mythology": "Sara",
+    "archetype": "ancestral-dead",
+    "element": "earth",
+    "aliases": [
+      "Badi",
+      "Badigi"
+    ],
+    "related": [
+      "besi"
+    ],
+    "description": "Badigi, singular badi, are the dead conceived of in their afterlife. A badi is usually a deceased father or mother, and can attack people and bring misfortune in the same way as a besi. Proper mortuary ritual transforms the deceased into a badi; without it, the dead do not attain that status. Illness is believed to result from the action of a besi, a badi, or a sorcerer, and divination identifies which.",
+    "appearance": "The dead in their afterlife; no fixed form.",
+    "behavior": "Attacks the living, causes misfortune and illness, and requires propitiation.",
+    "habitat": "The ancestral realm; the bush outside the village",
+    "habitat_tags": [
+      "wilderness",
+      "village",
+      "grave"
+    ],
+    "behavior_tags": [
+      "vengeful",
+      "dangerous",
+      "ceremonial"
+    ],
+    "strengths": [
+      "causing illness and misfortune",
+      "ancestral authority"
+    ],
+    "weaknesses": [
+      "dependent on proper mortuary ritual"
+    ],
+    "cultural_significance": "The badigi make mortuary ritual necessary: only the properly buried dead become ancestors who can be propitiated.",
+    "summary": "Sara ancestral dead who require mortuary ritual and can bring illness.",
+    "fun_fact": "Without the proper mortuary ritual, a deceased parent does not become a badi at all.",
+    "fun_fact_generated": false,
+    "keywords": [
+      "badi",
+      "badigi",
+      "sara",
+      "chad",
+      "ancestor",
+      "mortuary ritual"
+    ],
+    "search_terms": [
+      "badi badigi sara ancestors chad",
+      "sara ancestral dead mortuary ritual"
+    ],
+    "tags": [
+      "sara",
+      "chad",
+      "ancestor-spirit",
+      "central-africa"
+    ],
+    "schema_org_type": "MythicalCreature",
+    "seo_title": "Badi – Sara Ancestral Dead of Chad",
+    "seo_description": "The badigi, Sara ancestral dead of Chad, transformed by mortuary ritual and able to bring illness and misfortune.",
+    "motifs": [],
+    "featured_in_stories": [],
+    "source": "\"Sara: Religion and Expressive Culture,\" Encyclopedia of World Cultures.",
+    "source_quality": "documented",
+    "stories": [],
+    "version": "1.0.0",
+    "lastUpdated": "2026-10-23",
+    "living_tradition": true,
+    "source_type": "literary",
+    "attested": true
+  },
+  {
+    "id": "nuba-sara-creator-god-001",
+    "slug": "nuba-sara-creator-god",
+    "name": "Nuba (Sara Creator God)",
+    "country": "Chad",
+    "region": "Central Africa",
+    "culture": "Sara",
+    "type": "deity",
+    "mythology": "Sara",
+    "archetype": "creator-god",
+    "element": "sky",
+    "aliases": [
+      "Nuba"
+    ],
+    "related": [
+      "besi",
+      "badi"
+    ],
+    "description": "Nuba is the otiose high god of the Sara of Chad: he created the world and then withdrew from active intervention in human affairs. Shrines to him are uncommon, and people appeal instead to the lesser spirits, the besigi and badigi. When missionaries arrived in southern Chad they often used the local name of this high god for the Christian God, which facilitated conversion and encouraged syncretism. This Sara Nuba is unrelated to the Nuba Mountains and Nuba peoples of Sudan.",
+    "appearance": "Not specified; a distant, immaterial creator.",
+    "behavior": "Created the world, withdrew, and does not intervene directly.",
+    "habitat": "Sky and the distant divine",
+    "habitat_tags": [
+      "sky",
+      "celestial"
+    ],
+    "behavior_tags": [
+      "creative",
+      "mythological",
+      "distant"
+    ],
+    "strengths": [
+      "creation of the world"
+    ],
+    "weaknesses": [
+      "withdrawn and inaccessible to direct appeal"
+    ],
+    "cultural_significance": "Nuba is the withdrawn creator at the top of Sara cosmology, approached indirectly through lesser spirits.",
+    "summary": "The withdrawn creator god of the Sara of Chad.",
+    "fun_fact": "Missionaries in southern Chad adopted the Sara name Nuba for the Christian God, encouraging syncretism.",
+    "fun_fact_generated": false,
+    "keywords": [
+      "nuba",
+      "sara",
+      "chad",
+      "creator god",
+      "high god"
+    ],
+    "search_terms": [
+      "nuba sara creator god chad",
+      "sara high god nuba"
+    ],
+    "tags": [
+      "sara",
+      "chad",
+      "deity",
+      "central-africa"
+    ],
+    "schema_org_type": "MythicalCreature",
+    "seo_title": "Nuba – The Withdrawn Creator God of the Sara",
+    "seo_description": "Nuba, the otiose creator god of the Sara of Chad, who made the world and withdrew from human affairs.",
+    "motifs": [],
+    "featured_in_stories": [],
+    "source": "\"Sara: Religion and Expressive Culture,\" Encyclopedia of World Cultures; \"Chad - Classical African Religions,\" Chad: A Country Study (Library of Congress). https://www.countrystudies.us/chad/27.htm",
+    "source_quality": "documented",
+    "stories": [],
+    "version": "1.0.0",
+    "lastUpdated": "2026-10-23",
+    "living_tradition": true,
+    "source_type": "literary",
+    "attested": true
   }
 ]

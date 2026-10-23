@@ -26039,5 +26039,230 @@
     "living_tradition": true,
     "source_type": "oral_tradition",
     "attested": true
+  },
+  {
+    "id": "sidi-mimoun-001",
+    "slug": "sidi-mimoun",
+    "name": "Sidi Mimoun",
+    "country": "Morocco",
+    "region": "North Africa",
+    "culture": "Gnawa",
+    "type": "spirit",
+    "mythology": "Gnawa",
+    "archetype": "mluk-spirit",
+    "element": "earth",
+    "aliases": [
+      "Sidi Mimoun",
+      "Sidi Mimun",
+      "Mimoun"
+    ],
+    "related": [
+      "sidi-hamou",
+      "lalla-mira",
+      "sidi-musa"
+    ],
+    "description": "Sidi Mimoun is one of the mluk, the possessors, the jnun of the Moroccan Gnawa pantheon. He is a black spirit; possession by him often obliges the possessed to cut themselves with knives. Like the other mluk he has his own songs, colour, incense and offerings, invoked during the lila ceremony. The Gnawa are descendants of sub-Saharan Africans brought to Morocco as slaves, and the names of the mluk preserve Hausa, Fulani and Bambara origins.",
+    "appearance": "No fixed form; black is his colour.",
+    "behavior": "Possesses his mediums, demands self-cutting and blood, and afflicts those who neglect him.",
+    "habitat": "Lila ceremonies and shrines",
+    "habitat_tags": [
+      "village",
+      "urban",
+      "temple"
+    ],
+    "behavior_tags": [
+      "ceremonial",
+      "dangerous",
+      "possessive"
+    ],
+    "strengths": [
+      "possession",
+      "demanding blood offerings"
+    ],
+    "weaknesses": [],
+    "cultural_significance": "Sidi Mimoun is one of the named mluk through whom the Gnawa preserve and negotiate their ancestral spirits.",
+    "summary": "A black mluk spirit of the Moroccan Gnawa pantheon.",
+    "fun_fact": "The names of the Gnawa mluk preserve Hausa, Fulani and Bambara origins from across sub-Saharan Africa.",
+    "fun_fact_generated": false,
+    "keywords": [
+      "sidi mimoun",
+      "gnawa",
+      "mluk",
+      "morocco",
+      "jinn",
+      "lila"
+    ],
+    "search_terms": [
+      "sidi mimoun gnawa mluk",
+      "gnawa spirit sidi mimun"
+    ],
+    "tags": [
+      "gnawa",
+      "morocco",
+      "spirit",
+      "north-africa"
+    ],
+    "schema_org_type": "MythicalCreature",
+    "seo_title": "Sidi Mimoun – Black Spirit of the Gnawa Pantheon",
+    "seo_description": "Sidi Mimoun, a black mluk spirit of the Moroccan Gnawa, invoked in lila ceremonies with his own songs and offerings.",
+    "motifs": [],
+    "featured_in_stories": [],
+    "source": "Kapchan, \"Moroccan Gnawa and Transglobal Trance,\" Expedition 46(3) (2004), Penn Museum. https://www.penn.museum/sites/expedition/moroccan-gnawa-and-transglobal-trance/",
+    "source_quality": "researched",
+    "stories": [],
+    "version": "1.0.0",
+    "lastUpdated": "2026-10-23",
+    "living_tradition": true,
+    "source_type": "literary",
+    "attested": true
+  },
+  {
+    "id": "sidi-hamou-001",
+    "slug": "sidi-hamou",
+    "name": "Sidi Hamou",
+    "country": "Morocco",
+    "region": "North Africa",
+    "culture": "Gnawa",
+    "type": "spirit",
+    "mythology": "Gnawa",
+    "archetype": "mluk-spirit",
+    "element": "fire",
+    "aliases": [
+      "Sidi Hamou",
+      "Sidi Hamu"
+    ],
+    "related": [
+      "sidi-mimoun",
+      "lalla-mira",
+      "sidi-musa"
+    ],
+    "description": "Sidi Hamou belongs to the red pantheon of the Moroccan Gnawa mluk. He is the spirit of the slaughterhouse: harsh and angry, a demanding master who exacts blood sacrifice. He is considered difficult to manage, and his colour, songs and offerings are distinct from those of the other spirits.",
+    "appearance": "No fixed form; red is his colour.",
+    "behavior": "Demands blood sacrifice; harsh, angry and difficult to manage.",
+    "habitat": "Slaughterhouse; lila ceremonies",
+    "habitat_tags": [
+      "urban",
+      "temple"
+    ],
+    "behavior_tags": [
+      "ceremonial",
+      "aggressive",
+      "dangerous"
+    ],
+    "strengths": [
+      "demanding sacrifice",
+      "resisting control"
+    ],
+    "weaknesses": [],
+    "cultural_significance": "Sidi Hamou is the red mluk of the Gnawa pantheon and the demanding spirit of the slaughterhouse.",
+    "summary": "The harsh red mluk spirit of the Moroccan Gnawa pantheon.",
+    "fun_fact": "Sidi Hamou is associated with the slaughterhouse and is considered one of the most difficult mluk to manage.",
+    "fun_fact_generated": false,
+    "keywords": [
+      "sidi hamou",
+      "gnawa",
+      "mluk",
+      "morocco",
+      "red spirit",
+      "sacrifice"
+    ],
+    "search_terms": [
+      "sidi hamou gnawa red spirit",
+      "gnawa slaughterhouse spirit"
+    ],
+    "tags": [
+      "gnawa",
+      "morocco",
+      "spirit",
+      "north-africa"
+    ],
+    "schema_org_type": "MythicalCreature",
+    "seo_title": "Sidi Hamou – Red Spirit of the Gnawa Pantheon",
+    "seo_description": "Sidi Hamou, the harsh red mluk of the Moroccan Gnawa, spirit of the slaughterhouse and master of blood sacrifice.",
+    "motifs": [],
+    "featured_in_stories": [],
+    "source": "Kapchan, \"Moroccan Gnawa and Transglobal Trance,\" Expedition 46(3) (2004).",
+    "source_quality": "researched",
+    "stories": [],
+    "version": "1.0.0",
+    "lastUpdated": "2026-10-23",
+    "living_tradition": true,
+    "source_type": "literary",
+    "attested": true
+  },
+  {
+    "id": "sidi-musa-001",
+    "slug": "sidi-musa",
+    "name": "Sidi Musa",
+    "country": "Morocco",
+    "region": "North Africa",
+    "culture": "Gnawa",
+    "type": "spirit",
+    "mythology": "Gnawa",
+    "archetype": "mluk-spirit",
+    "element": "water",
+    "aliases": [
+      "Sidi Musa",
+      "Sidi Moussa"
+    ],
+    "related": [
+      "sidi-mimoun",
+      "sidi-hamou",
+      "lalla-mira"
+    ],
+    "description": "Sidi Musa is the blue spirit of the Moroccan Gnawa pantheon. He is identified with a thirteenth-century figure whose sanctuary is at Salé. Invoked in the lila, he is one of the named jnun whose cult the Gnawa preserve. The jazz pianist Randy Weston described his encounter with the blue spirit, Sidi Musa, as decisive in his musical path.",
+    "appearance": "No fixed form; blue is his colour.",
+    "behavior": "Possesses; protects; associated with music and well-being.",
+    "habitat": "Salé sanctuary; lila ceremonies",
+    "habitat_tags": [
+      "temple",
+      "urban",
+      "coast"
+    ],
+    "behavior_tags": [
+      "ceremonial",
+      "protect",
+      "helpful"
+    ],
+    "strengths": [
+      "protection",
+      "association with music and healing"
+    ],
+    "weaknesses": [],
+    "cultural_significance": "Sidi Musa is the blue mluk of the Gnawa and a named jinn whose sanctuary at Salé anchors his cult.",
+    "summary": "The blue mluk spirit of the Moroccan Gnawa pantheon.",
+    "fun_fact": "Randy Weston credited his encounter with the blue spirit Sidi Musa as decisive for his musical path.",
+    "fun_fact_generated": false,
+    "keywords": [
+      "sidi musa",
+      "sidi moussa",
+      "gnawa",
+      "morocco",
+      "blue spirit",
+      "sale"
+    ],
+    "search_terms": [
+      "sidi musa gnawa blue spirit",
+      "sidi moussa sale sanctuary"
+    ],
+    "tags": [
+      "gnawa",
+      "morocco",
+      "spirit",
+      "north-africa"
+    ],
+    "schema_org_type": "MythicalCreature",
+    "seo_title": "Sidi Musa – Blue Spirit of the Gnawa Pantheon",
+    "seo_description": "Sidi Musa, the blue mluk of the Moroccan Gnawa, linked to a sanctuary at Salé, music and well-being.",
+    "motifs": [],
+    "featured_in_stories": [],
+    "source": "Aubin-Boltanski, review of Kapchan, Traveling Spirit Masters, Gradhiva (2008). doi:10.4000/gradhiva.1149; Kapchan, Expedition (2004).",
+    "source_quality": "researched",
+    "stories": [],
+    "version": "1.0.0",
+    "lastUpdated": "2026-10-23",
+    "living_tradition": true,
+    "source_type": "literary",
+    "attested": true
   }
 ]

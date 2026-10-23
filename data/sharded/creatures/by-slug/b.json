@@ -25783,5 +25783,299 @@
     "living_tradition": true,
     "source_type": "oral_tradition",
     "attested": true
+  },
+  {
+    "id": "baghalate-qbur-001",
+    "slug": "baghalate-qbur",
+    "name": "Baghalate Qbūr (Grave Mule)",
+    "country": "Morocco",
+    "region": "North Africa",
+    "culture": "Moroccan (Arab/Amazigh)",
+    "type": "spirit",
+    "mythology": "Moroccan",
+    "archetype": "taboo-punisher",
+    "element": "earth",
+    "aliases": [
+      "Baghalate Qbūr",
+      "Grave Mule",
+      "Baghalate Qbur",
+      "Baghlat al-Qubur"
+    ],
+    "related": [
+      "aisha-kandisha-algeria"
+    ],
+    "description": "The Grave Mule (Baghalate Qbūr) is a spectral, mule-like being in Moroccan folk belief, tied to death, taboo and moral boundaries. It punishes individuals who transgress ritual obligations associated with death and burial. Its affliction is understood as a spirit-induced illness and is treated through ritual healing. Scholarship pairs it with Aisha Qandisha as two complementary figures through which Moroccan cosmology explains illness and enforces social norms: one seductive, one punitive.",
+    "appearance": "A mule-like spectral entity.",
+    "behavior": "Punishes burial and death taboos, causes illness, and enforces moral boundaries.",
+    "habitat": "Graveyards, burial paths and liminal places",
+    "habitat_tags": [
+      "grave",
+      "wilderness",
+      "rural"
+    ],
+    "behavior_tags": [
+      "vengeful",
+      "dangerous",
+      "nocturnal"
+    ],
+    "strengths": [
+      "inflicting spirit-induced illness",
+      "enforcing ritual obligations"
+    ],
+    "weaknesses": [],
+    "cultural_significance": "The Grave Mule gives Moroccan cosmology a punitive figure through which death taboos and social norms are enforced.",
+    "summary": "A spectral mule of Moroccan belief that punishes burial and death taboos.",
+    "fun_fact": "Moroccan scholarship pairs the Grave Mule with Aisha Qandisha as complementary punisher and seductress.",
+    "fun_fact_generated": false,
+    "keywords": [
+      "baghalate qbur",
+      "grave mule",
+      "morocco",
+      "jinn",
+      "taboo",
+      "burial"
+    ],
+    "search_terms": [
+      "baghalate qbur grave mule morocco",
+      "baghlat al-qubur spirit illness"
+    ],
+    "tags": [
+      "morocco",
+      "spirit",
+      "north-africa",
+      "jinn"
+    ],
+    "schema_org_type": "MythicalCreature",
+    "seo_title": "Baghalate Qbūr – The Grave Mule of Moroccan Folklore",
+    "seo_description": "The Grave Mule, a spectral Moroccan being that punishes transgressions of death and burial taboos.",
+    "motifs": [],
+    "featured_in_stories": [],
+    "source": "El Gaoual & Berkane, \"Spirit-Induced Illness in Moroccan Folk Belief: A Comparative Study of Aisha Qandisha and the Grave Mule,\" International Journal of Environmental Sciences (2025). doi:10.64252/c6mfyd61",
+    "source_quality": "documented",
+    "stories": [],
+    "version": "1.0.0",
+    "lastUpdated": "2026-10-23",
+    "living_tradition": true,
+    "source_type": "literary",
+    "attested": true
+  },
+  {
+    "id": "besi-001",
+    "slug": "besi",
+    "name": "Besi",
+    "country": "Chad",
+    "region": "Central Africa",
+    "culture": "Sara",
+    "type": "nature-spirit",
+    "mythology": "Sara",
+    "archetype": "place-spirit",
+    "element": "earth",
+    "aliases": [
+      "Besi",
+      "Besigi"
+    ],
+    "related": [
+      "badi"
+    ],
+    "description": "A besi is a spirit immanent in, symbolized by, and named after a natural object, especially a tree, or a social activity such as initiation. The plural, besigi, interfere in people lives by bringing misfortune; some are not powerful, while others can influence entire clans or villages. A besi is owned by a religious specialist who sacrifices on its behalf, and illness is diagnosed by divination to identify the attacking spirit.",
+    "appearance": "Immanent in natural objects, especially trees; no separate anthropomorphic form.",
+    "behavior": "Brings misfortune, intervenes in individual and clan life, and receives sacrifices.",
+    "habitat": "Trees, natural objects, initiation grounds and villages",
+    "habitat_tags": [
+      "tree",
+      "village",
+      "wilderness"
+    ],
+    "behavior_tags": [
+      "dangerous",
+      "vengeful",
+      "ceremonial"
+    ],
+    "strengths": [
+      "influence over clans and villages",
+      "causing misfortune"
+    ],
+    "weaknesses": [
+      "bound to a natural object",
+      "owned and placated by a specialist"
+    ],
+    "cultural_significance": "The besigi are the everyday spirits of Sara religion, consulted and sacrificed to whenever misfortune strikes.",
+    "summary": "Sara spirits immanent in trees, natural objects and initiation.",
+    "fun_fact": "A besi is named after the tree or object it inhabits, and sacrificed to by its human owner.",
+    "fun_fact_generated": false,
+    "keywords": [
+      "besi",
+      "besigi",
+      "sara",
+      "chad",
+      "tree spirit",
+      "initiation"
+    ],
+    "search_terms": [
+      "besi sara spirit chad",
+      "besigi tree spirits sara"
+    ],
+    "tags": [
+      "sara",
+      "chad",
+      "nature-spirit",
+      "central-africa"
+    ],
+    "schema_org_type": "MythicalCreature",
+    "seo_title": "Besi – Sara Spirits of Trees and Initiation",
+    "seo_description": "The besi, Sara spirits of Chad immanent in trees and natural objects, owned by specialists who sacrifice to them.",
+    "motifs": [],
+    "featured_in_stories": [],
+    "source": "\"Sara: Religion and Expressive Culture,\" Encyclopedia of World Cultures. https://www.everyculture.com/Africa-Middle-East/Sara-Religion-and-Expressive-Culture.html",
+    "source_quality": "documented",
+    "stories": [],
+    "version": "1.0.0",
+    "lastUpdated": "2026-10-23",
+    "living_tradition": true,
+    "source_type": "literary",
+    "attested": true
+  },
+  {
+    "id": "badi-001",
+    "slug": "badi",
+    "name": "Badi",
+    "country": "Chad",
+    "region": "Central Africa",
+    "culture": "Sara",
+    "type": "ancestor-spirit",
+    "mythology": "Sara",
+    "archetype": "ancestral-dead",
+    "element": "earth",
+    "aliases": [
+      "Badi",
+      "Badigi"
+    ],
+    "related": [
+      "besi"
+    ],
+    "description": "Badigi, singular badi, are the dead conceived of in their afterlife. A badi is usually a deceased father or mother, and can attack people and bring misfortune in the same way as a besi. Proper mortuary ritual transforms the deceased into a badi; without it, the dead do not attain that status. Illness is believed to result from the action of a besi, a badi, or a sorcerer, and divination identifies which.",
+    "appearance": "The dead in their afterlife; no fixed form.",
+    "behavior": "Attacks the living, causes misfortune and illness, and requires propitiation.",
+    "habitat": "The ancestral realm; the bush outside the village",
+    "habitat_tags": [
+      "wilderness",
+      "village",
+      "grave"
+    ],
+    "behavior_tags": [
+      "vengeful",
+      "dangerous",
+      "ceremonial"
+    ],
+    "strengths": [
+      "causing illness and misfortune",
+      "ancestral authority"
+    ],
+    "weaknesses": [
+      "dependent on proper mortuary ritual"
+    ],
+    "cultural_significance": "The badigi make mortuary ritual necessary: only the properly buried dead become ancestors who can be propitiated.",
+    "summary": "Sara ancestral dead who require mortuary ritual and can bring illness.",
+    "fun_fact": "Without the proper mortuary ritual, a deceased parent does not become a badi at all.",
+    "fun_fact_generated": false,
+    "keywords": [
+      "badi",
+      "badigi",
+      "sara",
+      "chad",
+      "ancestor",
+      "mortuary ritual"
+    ],
+    "search_terms": [
+      "badi badigi sara ancestors chad",
+      "sara ancestral dead mortuary ritual"
+    ],
+    "tags": [
+      "sara",
+      "chad",
+      "ancestor-spirit",
+      "central-africa"
+    ],
+    "schema_org_type": "MythicalCreature",
+    "seo_title": "Badi – Sara Ancestral Dead of Chad",
+    "seo_description": "The badigi, Sara ancestral dead of Chad, transformed by mortuary ritual and able to bring illness and misfortune.",
+    "motifs": [],
+    "featured_in_stories": [],
+    "source": "\"Sara: Religion and Expressive Culture,\" Encyclopedia of World Cultures.",
+    "source_quality": "documented",
+    "stories": [],
+    "version": "1.0.0",
+    "lastUpdated": "2026-10-23",
+    "living_tradition": true,
+    "source_type": "literary",
+    "attested": true
+  },
+  {
+    "id": "bouchkara-001",
+    "slug": "bouchkara",
+    "name": "Bouchkara",
+    "country": "Tunisia",
+    "region": "North Africa",
+    "culture": "Tunisian",
+    "type": "monster",
+    "mythology": "Tunisian",
+    "archetype": "child-snatcher",
+    "element": "earth",
+    "aliases": [
+      "Bouchkara"
+    ],
+    "related": [
+      "al-ghoula"
+    ],
+    "description": "Bouchkara is a Tunisian bogey figure invoked to frighten disobedient children. The familiar threat is that Bouchkara will put you in her sack if you do not behave; she belongs to the same nursery-terror repertoire as the Ghoula. Tunisian popular articles and Yassine Ellil bilingual Monstres fantastiques tunisiens (2012) list her among the recurring figures of Tunisian oral and written tales.",
+    "appearance": "Not specified in the sources consulted; a sack is her defining attribute.",
+    "behavior": "Carries off misbehaving children in her sack and is invoked as a threat.",
+    "habitat": "Domestic and night-time settings; the nursery imagination",
+    "habitat_tags": [
+      "home",
+      "urban"
+    ],
+    "behavior_tags": [
+      "dangerous",
+      "nocturnal",
+      "steal"
+    ],
+    "strengths": [
+      "snatching disobedient children"
+    ],
+    "weaknesses": [],
+    "cultural_significance": "Bouchkara is a child-snatching bogey used to enforce good behaviour in Tunisian households.",
+    "summary": "A Tunisian bogey figure who carries off disobedient children in her sack.",
+    "fun_fact": "The threat is usually phrased directly: behave, or Bouchkara will put you in her sack.",
+    "fun_fact_generated": false,
+    "keywords": [
+      "bouchkara",
+      "tunisia",
+      "bogey",
+      "ghoula",
+      "children"
+    ],
+    "search_terms": [
+      "bouchkara tunisian bogey",
+      "bouchkara sac enfants tunisie"
+    ],
+    "tags": [
+      "tunisia",
+      "monster",
+      "north-africa"
+    ],
+    "schema_org_type": "MythicalCreature",
+    "seo_title": "Bouchkara – The Tunisian Bogey With a Sack",
+    "seo_description": "Bouchkara, a Tunisian bogey figure invoked to frighten disobedient children and carry them off in her sack.",
+    "motifs": [],
+    "featured_in_stories": [],
+    "source": "Tekiano, \"Ghoula, Obitha, Bouchkara... A la rencontre des monstres fantastiques tunisiens\" (2014). https://www.tekiano.com/2014/01/25/ghoula-obitha-bouchkara-a-la-rencontre-des-monstres-fantastiques-tunisiens/; Wepost Tunisia, \"Bouchkara: Le Mythe De La Terreur\" (2023). https://wepostmag.com/bouchkara-le-mythe-de-la-terreur/",
+    "source_quality": "fair",
+    "stories": [],
+    "version": "1.0.0",
+    "lastUpdated": "2026-10-23",
+    "living_tradition": true,
+    "source_type": "literary",
+    "attested": true
   }
 ]
