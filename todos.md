@@ -3,7 +3,7 @@
 ## Pending release (Oct 2026)
 - [x] **Push `audit-a11y-fixes`** — all local commits pushed (through `0b4b4a8`); GitHub credentials now saved in macOS Keychain.
 - [x] Deploy `deploy/whispering_lore-netlify_deploy-2026-10-23.zip` — live at `whisperinglore.com`: sitemap 6,611 URLs with no `blog.html`, `/about.html` QR returns 200, batch-3 pages live, SW `v1_0_34`.
-- [ ] Rotate `GEMINI_API_KEY` in Netlify — the current key returns `403 Your API key was reported as leaked`; then verify translation and the language menu with `translate.google.com` blocked.
+- [x] Rotate `GEMINI_API_KEY` in Netlify — new key validated against `gemini-3.6-flash` (`200`), written to the site env for all contexts, redeployed; live `POST /.netlify/functions/translate` returns `200` with French/Spanish output. Same release corrected static `3,745` → `3,775` counts on six pages and bumped SW to `v1_0_35` (deploy `6adb4f929737c27cae1a1137`). Browser check of the language menu with `translate.google.com` blocked remains manual.
 - [x] Add Netlify platform rate-limit rule for `/.netlify/functions/translate` — migrated to modern `translate.mjs`, 60 requests/60s per IP+domain; live burst test returns `429`.
 
 ## Current Session Updates (Sep 2026)
@@ -456,4 +456,4 @@ GATES-CAUGHT-FIX (1b3fc67): sv coverage audit (per-region count vs overlay entri
 
 - [x] **SHIPPED locally** (`e04fb53`): 15 creatures (Yasigi, Andoumboulou, Yéban, Awaghzen, Baghalate Qbūr, Sidi Mimoun, Sidi Hamou, Sidi Musa, Lalla Mira, Besi, Badi, Nuba, Hauka, Bouchkara, Kujur); Tamza/Thamza added as Teryel aliases; shards + indexes rebuilt; counts updated in en/es/sv/no; jest 285/285; targeted Playwright 9/9 (chromium); eslint 0 errors.
 - [ ] **Push** `audit-a11y-fixes` when GitHub credentials are available — HTTPS auth currently fails (`could not read Username`).
-- [ ] **Deploy** `deploy/whispering_lore-netlify_deploy-2026-10-23.zip` when Netlify credentials are available; verify live sitemap, QR on `/about.html`, language menu with `translate.google.com` blocked.
+- [x] **Deploy** `deploy/whispering_lore-netlify_deploy-2026-10-23.zip` — live; verified sitemap 6,611 URLs, QR on `/about.html`, batch-3 pages, and the translation endpoint.
