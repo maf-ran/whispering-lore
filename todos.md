@@ -1,9 +1,10 @@
 # Project Todos
 
 ## Pending release (Oct 2026)
-- [ ] **Push `audit-a11y-fixes`** — 4 commits built and verified locally (f61cd61 data, 4557efa i18n fix, ae77333 docs, b11956b feature). `git push -u origin audit-a11y-fixes` failed: no git credentials in the agent shell. Then confirm CI green on a clean runner.
-- [ ] Deploy `deploy/whispering_lore-netlify_deploy-2026-10-23.zip` and verify live: sitemap without `blog.html`, `/about.html` QR renders, language menu survives with `translate.google.com` blocked.
-- [ ] Add Netlify platform rate-limit rule for `/.netlify/functions/translate` (Origin allowlist is deterrence, not a quota guard).
+- [x] **Push `audit-a11y-fixes`** — all local commits pushed (through `0b4b4a8`); GitHub credentials now saved in macOS Keychain.
+- [x] Deploy `deploy/whispering_lore-netlify_deploy-2026-10-23.zip` — live at `whisperinglore.com`: sitemap 6,611 URLs with no `blog.html`, `/about.html` QR returns 200, batch-3 pages live, SW `v1_0_34`.
+- [ ] Rotate `GEMINI_API_KEY` in Netlify — the current key returns `403 Your API key was reported as leaked`; then verify translation and the language menu with `translate.google.com` blocked.
+- [x] Add Netlify platform rate-limit rule for `/.netlify/functions/translate` — migrated to modern `translate.mjs`, 60 requests/60s per IP+domain; live burst test returns `429`.
 
 ## Current Session Updates (Sep 2026)
 - [x] Translation persistence across pages (native & Gemini translation state via `withLang` & `localStorage`).
