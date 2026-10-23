@@ -450,3 +450,9 @@ GATES-CAUGHT-FIX (1b3fc67): sv coverage audit (per-region count vs overlay entri
 - [x] **W3 hreflang x-default SHIPPED Sep 12** (`833d571`): /tmp/x-default-insert.py added x-default after each `en` alternate → 11 pages (404, about, bestiary, index `/`, items, methodology, mylore, quiz, search, stories, world); homepage href = https://whisperinglore.com/; jest 244/244 green.
 - [x] **W4 gates/docs/todos SHIPPED Sep 12**: jest 244/244 + eslint 0 (harness); docs/DEPLOYMENT.md += "Zip deploy (local pipeline)" section (build-deploy.sh + seo-build.py + committed-short-sitemap vs deployed-full note + search-index regen note); probe-search.cjs smoke PASS; zip rebuilt with W3 html changes below.
 - Deferred (documented in plan docs/superpowers/plans/2026-09-12-project-health-fixes.md): bestiary virtualization, GT 45-lang demotion, analytics, dataset-as-product, repo off iCloud, font subsetting/preload.
+
+## Sahara / Sahel + North Africa — Oct 23
+
+- [x] **SHIPPED locally** (`e04fb53`): 15 creatures (Yasigi, Andoumboulou, Yéban, Awaghzen, Baghalate Qbūr, Sidi Mimoun, Sidi Hamou, Sidi Musa, Lalla Mira, Besi, Badi, Nuba, Hauka, Bouchkara, Kujur); Tamza/Thamza added as Teryel aliases; shards + indexes rebuilt; counts updated in en/es/sv/no; jest 285/285; targeted Playwright 9/9 (chromium); eslint 0 errors.
+- [ ] **Push** `audit-a11y-fixes` when GitHub credentials are available — HTTPS auth currently fails (`could not read Username`).
+- [ ] **Deploy** `deploy/whispering_lore-netlify_deploy-2026-10-23.zip` when Netlify credentials are available; verify live sitemap, QR on `/about.html`, language menu with `translate.google.com` blocked.
